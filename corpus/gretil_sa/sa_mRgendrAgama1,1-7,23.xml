@@ -1,0 +1,3084 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sa_mRgendrAgama1.1-7.23">
+  <teiHeader xml:lang="en">
+  <fileDesc>
+  <titleStmt>
+	<title>Mṛgendrāgama, 1.1-7.23 (= Mrgendratantra) with Nārāyaṇakaṇṭha's Vṛtti</title>
+	<author></author>
+	<respStmt>
+	 <resp>data entry</resp>
+	 <name>Oliver Hellwig</name>
+	</respStmt>
+	<respStmt>
+	 <resp>contribution to GRETIL</resp>
+	 <name>Oliver Hellwig</name>
+	</respStmt>
+	<respStmt>
+	 <resp>initial normalization and conversion to legacy GRETIL formats</resp>
+	 <name>Reinhold Grünendahl</name>
+	</respStmt>
+	<respStmt>
+	 <resp>normalization and conversion to TEI-conformant markup</resp>
+	 <name>Maximilian Mehner</name>
+	</respStmt>
+  </titleStmt>
+
+  <publicationStmt>
+	<publisher>Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen</publisher>
+	<availability>
+	 <p>This e-text was provided to GRETIL in good faith that no copyright rights have been infringed.
+	 If anyone wishes to assert copyright over this file, please contact the GRETIL management at <email>gretil(at)sub(dot)uni-goettingen(dot)de</email>.
+	 The file will be immediately removed pending resolution of the claim.</p>
+
+	 <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</licence>
+	</availability>
+	<date when-iso="2020-07-31"/>
+  </publicationStmt>
+
+  <notesStmt>
+	<note>This file has been created by mass conversion of GRETIL's Sanskrit corpus from <ref target="http://gretil.sub.uni-goettingen.de/gretil/1_sanskr/4_rellit/saiva/mrgt1chu.htm">mrgt1chu.htm</ref>. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the <gi>note</gi> element below:</note>
+	<note type="legacyheader">
+	 Mrgendragama (=Mrgendratantra)
+<lb/>1. Vidyapada 1 - 7.23, with Narayanakantha's Vrtti
+<lb/>(to be continued)
+<lb/>
+<lb/>Based on the edition by Madhusudan Kaul Shastri,
+<lb/>Bombay (Srinagar) : Nirnayasagara Press, 1930
+<lb/>(Kashmir Series of Texts and Studies ; 50)
+<lb/>
+<lb/>Input by Oliver Hellwig
+	</note>
+  </notesStmt>
+
+  <sourceDesc>
+	<bibl>Madhusudan Kaul Shastri, Bombay (Srinagar) : Nirnayasagara Press, 1930 (Kashmir Series of Texts and Studies ; 50)</bibl>
+  </sourceDesc>
+  </fileDesc>
+
+  <encodingDesc>
+  <projectDesc>
+	<p>The Göttingen Register of Electronic Texts in Indian Languages (GRETIL) is a resource platform providing standardized machine-readable texts in Indian languages that have been contributed by various individuals and institutions.</p>
+  </projectDesc>
+
+  <editorialDecl>
+	<correction>
+	 <p>Apparent errors have been silently corrected.</p>
+	</correction>
+
+	<normalization>
+	 <p>GRETIL normalizes all texts contributed consistently for each language.
+	 Sanskrit texts are normalized in accordance with the scheme of the International Alphabet of Sanskrit Transliteration (IAST) in order to facilitate word search across its corpus without additional transformations.</p>
+
+	 <p>All characters that were fully equivalent to an IAST-conformant character in the text file contributed have been made to conform to the character list below.
+	 Non-conformant characters with additional information including accents, capitalization, and whitespace have been preserved as <gi>orig</gi> elements inside <gi>choice</gi> elements with their IAST-conformant equivalent in <gi>reg</gi> elements for the creation of a plain text.
+	 These additional informations will be available only in those transformations of this file that display the original information.</p>
+
+	 <p><table>
+	 <head>Characters Used for the Transliteration of Sanskrit according to IAST</head>
+	 <row role="label">
+	 <cell>Character</cell>
+	 <cell>Character Name</cell>
+	 <cell>Unicode Code Point</cell>
+	 </row>
+	 <row>
+	 <cell>a</cell>
+	 <cell>LATIN SMALL LETTER A</cell>
+	 <cell>U+0061</cell>
+	 </row>
+	 <row>
+	 <cell>ā</cell>
+	 <cell>LATIN SMALL LETTER A WITH MACRON</cell>
+	 <cell>U+0101</cell>
+	 </row>
+	 <row>
+	 <cell>i</cell>
+	 <cell>LATIN SMALL LETTER I</cell>
+	 <cell>U+0069</cell>
+	 </row>
+	 <row>
+	 <cell>ī</cell>
+	 <cell>LATIN SMALL LETTER I WITH MACRON</cell>
+	 <cell>U+012B</cell>
+	 </row>
+	 <row>
+	 <cell>u</cell>
+	 <cell>LATIN SMALL LETTER U</cell>
+	 <cell>U+0075</cell>
+	 </row>
+	 <row>
+	 <cell>ū</cell>
+	 <cell>LATIN SMALL LETTER U WITH MACRON</cell>
+	 <cell>U+016B</cell>
+	 </row>
+	 <row>
+	 <cell>ṛ</cell>
+	 <cell>LATIN SMALL LETTER R WITH DOT BELOW</cell>
+	 <cell>U+1E5B</cell>
+	 </row>
+	 <row>
+	 <cell>ṝ</cell>
+	 <cell>LATIN SMALL LETTER R WITH DOT BELOW AND MACRON</cell>
+	 <cell>U+1E5D</cell>
+	 </row>
+	 <row>
+	 <cell>ḷ</cell>
+	 <cell>LATIN SMALL LETTER L WITH DOT BELOW</cell>
+	 <cell>U+1E37</cell>
+	 </row>
+	 <row>
+	 <cell>ḹ</cell>
+	 <cell>LATIN SMALL LETTER L WITH DOT BELOW AND MACRON</cell>
+	 <cell>U+1E39</cell>
+	 </row>
+	 <row>
+	 <cell>e</cell>
+	 <cell>LATIN SMALL LETTER E</cell>
+	 <cell>U+0065</cell>
+	 </row>
+	 <row>
+	 <cell>o</cell>
+	 <cell>LATIN SMALL LETTER O</cell>
+	 <cell>U+006F</cell>
+	 </row>
+	 <row>
+	 <cell>ṃ</cell>
+	 <cell>LATIN SMALL LETTER M WITH DOT BELOW</cell>
+	 <cell>U+1E43</cell>
+	 </row>
+	 <row>
+	 <cell>ḥ</cell>
+	 <cell>LATIN SMALL LETTER H WITH DOT BELOW</cell>
+	 <cell>U+1E25</cell>
+	 </row>
+	 <row>
+	 <cell>'</cell>
+	 <cell>APOSTROPHE</cell>
+	 <cell>U+0027</cell>
+	 </row>
+	 <row>
+	 <cell>k</cell>
+	 <cell>LATIN SMALL LETTER K</cell>
+	 <cell>U+006B</cell>
+	 </row>
+	 <row>
+	 <cell>g</cell>
+	 <cell>LATIN SMALL LETTER G</cell>
+	 <cell>U+0067</cell>
+	 </row>
+	 <row>
+	 <cell>ṅ</cell>
+	 <cell>LATIN SMALL LETTER N WITH DOT ABOVE</cell>
+	 <cell>U+1E45</cell>
+	 </row>
+	 <row>
+	 <cell>c</cell>
+	 <cell>LATIN SMALL LETTER C</cell>
+	 <cell>U+0063</cell>
+	 </row>
+	 <row>
+	 <cell>j</cell>
+	 <cell>LATIN SMALL LETTER J</cell>
+	 <cell>U+006A</cell>
+	 </row>
+	 <row>
+	 <cell>ñ</cell>
+	 <cell>LATIN SMALL LETTER N WITH TILDE</cell>
+	 <cell>U+00F1</cell>
+	 </row>
+	 <row>
+	 <cell>ṭ</cell>
+	 <cell>LATIN SMALL LETTER T WITH DOT BELOW</cell>
+	 <cell>U+1E6D</cell>
+	 </row>
+	 <row>
+	 <cell>ḍ</cell>
+	 <cell>LATIN SMALL LETTER D WITH DOT BELOW</cell>
+	 <cell>U+1E0D</cell>
+	 </row>
+	 <row>
+	 <cell>ṇ</cell>
+	 <cell>LATIN SMALL LETTER N WITH DOT BELOW</cell>
+	 <cell>U+1E47</cell>
+	 </row>
+	 <row>
+	 <cell>p</cell>
+	 <cell>LATIN SMALL LETTER P</cell>
+	 <cell>U+0070</cell>
+	 </row>
+	 <row>
+	 <cell>b</cell>
+	 <cell>LATIN SMALL LETTER B</cell>
+	 <cell>U+0062</cell>
+	 </row>
+	 <row>
+	 <cell>m</cell>
+	 <cell>LATIN SMALL LETTER M</cell>
+	 <cell>U+006D</cell>
+	 </row>
+	 <row>
+	 <cell>y</cell>
+	 <cell>LATIN SMALL LETTER Y</cell>
+	 <cell>U+0079</cell>
+	 </row>
+	 <row>
+	 <cell>r</cell>
+	 <cell>LATIN SMALL LETTER R</cell>
+	 <cell>U+0072</cell>
+	 </row>
+	 <row>
+	 <cell>l</cell>
+	 <cell>LATIN SMALL LETTER L</cell>
+	 <cell>U+006C</cell>
+	 </row>
+	 <row>
+	 <cell>v</cell>
+	 <cell>LATIN SMALL LETTER V</cell>
+	 <cell>U+0076</cell>
+	 </row>
+	 <row>
+	 <cell>ś</cell>
+	 <cell>LATIN SMALL LETTER S WITH ACUTE</cell>
+	 <cell>U+x015B</cell>
+	 </row>
+	 <row>
+	 <cell>ṣ</cell>
+	 <cell>LATIN SMALL LETTER S WITH DOT BELOW</cell>
+	 <cell>U+1E63</cell>
+	 </row>
+	 <row>
+	 <cell>s</cell>
+	 <cell>LATIN SMALL LETTER S</cell>
+	 <cell>U+0073</cell>
+	 </row>
+	 <row>
+	 <cell>h</cell>
+	 <cell>LATIN SMALL LETTER H</cell>
+	 <cell>U+0068</cell>
+	 </row>
+	 </table>
+	</p>
+  </normalization>
+
+  <quotation marks="some">
+	<p>If indicated unambiguously in the text file contributed quotation marks have been replaced with the <gi>q</gi> element and, in case a reference was provided, have been nested inside a <gi>cit</gi> with the respective reference provided in a <gi>ref</gi> element after the quote.</p>
+  </quotation>
+
+  <segmentation>
+	<p>Unnumbered <gi>div</gi> elements are used to structure the text, using the <att>type</att> and <att>n</att> attributes in accordance with the <gi>refsDecl</gi>.</p>
+  </segmentation>
+
+  <interpretation>
+	<p>Interpretive markup which is visible only in analytic transformations of this file consists of:
+	<list>
+	 <item>Highlighting in <gi>hi</gi> elements,</item>
+	 <item>Corruptions in <gi>sic</gi> elements,</item>
+	 <item>Remarks in <gi>note</gi> elements with the @resp attribute identifying the agency.</item>
+	</list></p>
+  </interpretation>
+  </editorialDecl>
+
+  <refsDecl>
+  <p>A reference is given in the <att>xml:id</att> attributes consisting of
+  <list>
+	<item>a pragmatic abbreviation of the <label>title</label>: Mṛgendrāgama, 1.1-7.23 = <!-- abbreviation -->,</item>
+	<item>the number of the <label></label> in arabic numerals,</item>
+	<item>the number of the <label>verse</label> in arabic numerals.</item>
+  </list>
+  </p>
+  </refsDecl>
+  </encodingDesc>
+
+  <profileDesc>
+  <langUsage>
+  <language ident="en">English</language>
+  <language ident="sa-Latn">Sanskrit</language>
+  </langUsage>
+
+  <textClass>
+  <keywords scheme="http://gretil.sub.uni-goettingen.de/">
+	<term>Sanskrit -- Religious Literature -- Śaiva</term>
+  </keywords>
+  </textClass>
+  </profileDesc>
+
+  <revisionDesc>
+  <listChange>
+  <change when-iso="2020-07-31" who="Maximilian Mehner">TEI encoding by mass conversion of GRETIL's Sanskrit corpus</change>
+  </listChange>
+  </revisionDesc>
+
+</teiHeader>
+
+<text xml:lang="sa-Latn">
+  <body>
+<div>
+<p>Mṛgendratantra, Vidyāpāda, 1</p>
+
+<lg>
+<l>parameśaṃ namaskṛtya bharadvājam ṛṣiṃ tataḥ /</l>
+<l>harād indrakramāyātaṃ jñānaṃ śṛṇuta suvratāḥ || MrgT_1,1.1 ||</l>
+</lg>
+
+<l>* he suvratāḥ parameśvarabhaktiprakarṣaparipoṣitaśobhātiśayatvāt suṣṭhu śobhanaṃ vrataṃ śāstrīyaniyamānuṣṭhānaṃ yeṣāṃ ta eva śrotāraḥ saṃbodhitāḥ // MrgTV_1,1.1:1</l>
+<l>* yad vakṣyaty upasaṃhāre bhavatsu śivaśītāṃśujyotsnāpāṇḍuṣv idaṃ mayā // MrgTV_1,1.1:2</l>
+<l>* tadicchayā mayaivoktam iti // MrgTV_1,1.1:3</l>
+<l>* harād indrakramāyātaṃ jñānaṃ śṛṇuta ākarṇayateti sambandhaḥ // MrgTV_1,1.1:4</l>
+<l>* harati paśubhyaḥ pāśān puṃso 'py ūrdhvaṃ padaṃ tatas tu haraḥ // MrgTV_1,1.1:5</l>
+<l>* iti yady api yaugikīyaṃ saṃjñā ananteśādiṣv api sāmānyā tathāpi indraśabdasaṃnidher ihomāpatāv eva haraśabdo jñeyaḥ // MrgTV_1,1.1:6</l>
+<l>* yathāhuḥ arthaḥ prakaraṇaṃ liṅgaṃ śabdasyānyasya saṃnidhiḥ // MrgTV_1,1.1:7</l>
+<l>* proktāḥ sāmānyaśabdānāṃ viśeṣasthitihetavaḥ // MrgTV_1,1.1:8</l>
+<l>* iti // MrgTV_1,1.1:9</l>
+<l>* kuta etad iti ced yasmād aindre asmin kāmikabhede bhagavata umāpater vaktṛtvena indrasya ca śrotṛtvenaiva sambandhaḥ pratītaḥ // MrgTV_1,1.1:10</l>
+<lg>
+<l>* tathā hi purastād ihaiva munīnām indro vakṣyati /</l>
+<l>* śivodgīrṇam idaṃ jñānaṃ mantramantreśvareśvaraiḥ /</l>
+<l>* kāmadatvāt kāmiketi pragītaṃ bahuvistaram // MrgTV_1,1.1:11</l>
+</lg>
+<lg>
+<l>* tebhyo 'vagatya dṛgjyotirjvālālīḍhasmaradrumaḥ /</l>
+<l>* dadāv umāpatir mahyam iti // MrgTV_1,1.1:12</l>
+</lg>
+<l>* tasmāddharāt śrīkaṇṭhanāthāt indrādikrameṇāyātam iti avatīrṇam // MrgTV_1,1.1:13</l>
+<l>* kiṃ tat // MrgTV_1,1.1:14</l>
+<l>* jñāyante anena vidyācaryākriyāyogā iti jñānaṃ śāstram // MrgTV_1,1.1:15</l>
+<l>* kiṃ kṛtvā śṛṇuta // MrgTV_1,1.1:16</l>
+<l>* parameśvaraṃ namaskṛtya sṛṣṭisthitisaṃkṣobhaṇādibhiś cidacillakṣaṇaṃ viśvam īṣṭe itīśaḥ īdṛktvaṃ cānanteśādīnām apy astīti paramapadena viśeṣaṇam // MrgTV_1,1.1:17</l>
+<l>* paramaś cāsāv anyeṣāṃ tadanugrahataḥ śivatvābhivyakteḥ īśaś ca svātantryeṇa sthityādikaraṇāt parameśaḥ taṃ namaskṛtya kāyavāṅmanobhis tasmin prahvībhūya // MrgTV_1,1.1:18</l>
+<l>* tat ity anantaraṃ tantrāvatārakaṃ bharadvājam ṛṣim iti ṛ gatāv iti dhātvarthataḥ sarveṣāṃ ca gatyarthānāṃ jñānārthatvād avagataparamārthatayā ṛṣiḥ taṃ namaskṛtya śṛṇuteti śrotḥṇāṃ namaskāropadeśaḥ // MrgTV_1,1.1:19</l>
+<l>* anamaskṛtaparameśvarāṇām apraṇatagurūṇāṃ ca nirvighnasaṃhitādhigamanāsaṃbhavāt // MrgTV_1,1.1:20</l>
+<l>* yaś ca śrotṛjanam evaṃ śikṣayati so 'rthāt kṛtatathāvidhavidhiḥ pravṛtta iti gamyate // MrgTV_1,1.1:21</l>
+<l>* tena yathā parameśvaraṃ guruṃ ca nutvāham upadeṣṭuṃ pravṛttas tathā yūyam api pravartadhvam iti vyavasthitam // MrgTV_1,1.1:22</l>
+<l>* yathā caitad indrasyomāpatinā upadiṣṭaṃ tadgranthaparisamāptau yady api granthe evāsti tathāpi vyākhyānopakrame sambandhāder avaśyābhidheyatvāt kiṃcid ucyate // MrgTV_1,1.1:23</l>
+<l>* kadācid atiruciraratnaprakaravinicitakanakamayakamanīyamahītalamanoharasaptamajaladhitaṭaviharaṇahevākinaṃ nīlopalatviṣaṃ caturbhujaṃ dvikaṃdharādharaṃ mukhadvayena vedādhyayanasurāpānasaṃkarakāriṇam asuranivahaparivṛtaṃ durmadaṃ mahāsuraṃ tridaśapatir apaśyat // MrgTV_1,1.1:24</l>
+<l>* atha tathāvidhadurācāradarśanajanitakopākulitamunigaṇasahitaḥ śatakratur akṣamamāṇo labdhavaratvāt prasabham astrair avadhyatām asya buddhvā phenenāntarnihitavastreṇa asurasya śirodvayaṃ cicheda // MrgTV_1,1.1:25</l>
+<l>* tadvyāpādanataś ca brahmahatyājanitam agham āśaṅkamānas tatpraśāntaye bhagavantam acyutaṃ nāmnāṃ sahasreṇa ṛgyajuḥsāmabhiś cāstauṣīt // MrgTV_1,1.1:26</l>
+<l>* prasannena ca hariṇā navoditabhāsvadbhāsvaraṃ sarvabhūtābhibhāvukaṃ nārasiṃhaṃ kavacaṃ prayacchatā proktam // MrgTV_1,1.1:27</l>
+<l>* yathaitat saṃnaddhadehas tvam uttarakuruṣu bhagavantaṃ pinākinam ārādhaya varṣasahasrānte ca taṃ dṛṣṭvābhimatam āsādayiṣyasi ity uktvā antarhite surārau sarvaṃ tad indreṇa kṛtam // MrgTV_1,1.1:28</l>
+<l>* atha pratyakṣībhūte bhagavati pinākini nikhiladuḥkhāntaś cāsya saṃjātaḥ // MrgTV_1,1.1:29</l>
+<l>* śrīmatkāmikākhyaṃ cāsmai parameśvara upadideśa // MrgTV_1,1.1:30</l>
+<l>* yataś cendrasya nṛsiṃharūpiṇaḥ samupadiṣṭam idam umāpatinā tato mṛgendrasya śrotṛtvān mṛgendrasaṃjñayā prathitam // MrgTV_1,1.1:31</l>
+<l>* sambandhas tv atra ṣaṭprakāraḥ parādiḥ // MrgTV_1,1.1:32</l>
+<l>* tathāhi sargādau parameśvaraḥ ūrdhvaprāgdakṣiṇottarapaścimasrotaḥpañcakabhedabhinnaṃ jñānaṃ svecchānugṛhītavidyeśvarāṣṭakaprabodhanānantaraṃ tad abhivyaktaṃ mantreśvarādibhyo vakṣyamāṇavad ādideśa // MrgTV_1,1.1:33</l>
+<lg>
+<l>* tathā coktaṃ śrīmatkiraṇe /</l>
+<l>* sṛṣṭyanantaram eveśaḥ śivān sṛṣṭvā dṛśātmajān /</l>
+<l>* jñānam ekaṃ vibhajyāśu teṣāṃ tatsaṃkhyayāvadata // MrgTV_1,1.1:34</l>
+</lg>
+<lg>
+<l>* kāmikaṃ praṇavākhyasya śivākhyasya tu yogajam /</l>
+<l>* ityādi // MrgTV_1,1.1:35</l>
+</lg>
+<l>* atra cātmajān iti ātmanaiva niradhikaraṇenānugraheṇānugṛhītān ity āśayaḥ // MrgTV_1,1.1:36</l>
+<l>* tebhya umāpatiḥ prāpa tasmāc ca śakraḥ tato 'pi bharadvājaḥ tatsakāśāt tu hārītaḥ // MrgTV_1,1.1:37</l>
+<l>* sa punaḥ svaśiṣyebhyaḥ prāheti purastāt sarvaṃ spaṣṭīkariṣyāmaḥ // MrgTV_1,1.1:38</l>
+<l>* abhidheyāś ceha jñānakriyāyogacaryāḥ // MrgTV_1,1.1:39</l>
+<l>* prayojanaṃ tv atra tattvajñaptiḥ // MrgTV_1,1.1:40</l>
+<lg>
+<l>* tatprayojanam api bhuktimuktī /</l>
+<l>* parameśvarasadbhāvaprasādhakapramāṇopanyāsas tadbādhakanirākaraṇaṃ ca yady api tatpraṇītāgamaprāmāṇy asādhanāya prathamam evopayujyate tathāpi śāstrakāreṇaiva agre tad vivecitam atas tatraiva vakṣyāmaḥ // MrgTV_1,1.1:41</l>
+</lg>
+<l>* kevalam etāvad eveha pratijānīmahe // MrgTV_1,1.1:42</l>
+<lg>
+<l>* yad uktam /</l>
+<l>* āyurvedāc ca gaṇitān mantravādāc ca sasvarāt /</l>
+<l>* rasopaniṣadāṭopād āptaḥ sa parigṛhyate // MrgTV_1,1.1:43</l>
+</lg>
+<l>* iti tac cāptatvaṃ sāñjanatvād asarvārthadṛśāṃ darśanāntarapraṇetḥṇāṃ svasvaviṣayam eva nityanirmalaniratiśayasarvārthajñānakriyāśaktes tu sarvadā sarvānugrahapravṛttasya parameśvaratvād eva sarvādhiṣṭhātuḥ sarvaviṣayam // MrgTV_1,1.1:44</l>
+<l>* evaṃ vividhaviśeṣaṇaviśiṣṭasya vaktur vipralambhakatvāsaṃbhavān nāprāmāṇyam // MrgTV_1,1.1:45</l>
+<l>* etac ca yathāvasaraṃ vakṣyāmaḥ // MrgTV_1,1.1:46</l>
+<l>* tad evam īdṛgrūpo bhagavān āgamasya kartā // MrgTV_1,1.1:47</l>
+<l>* āgamas tu taṃ jñāpayati // MrgTV_1,1.1:48</l>
+<l>* ataś ca dvayor api visadṛśakriyatvān nātretaretarāśrayadoṣaḥ syāt // MrgTV_1,1.1:49</l>
+<l>* yathā kaścid evaṃ vakti devadatto 'ham āyāta iti // MrgTV_1,1.1:50</l>
+<l>* tadvākyaśravaṇāc ca tadanye manyante hanta devadatto 'yam āyāta iti // MrgTV_1,1.1:51</l>
+<l>* na cātra devadattasya tadvākyasya cetaretarāśrayatvaṃ yuktam // MrgTV_1,1.1:52</l>
+<l>* tadukteṣu ca dṛṣṭārtheṣu viṣabhūtarasavādādiṣu tadāgamasya phalavattvam upalabhyādṛṣṭārthasyāpi tacchāsanasyāvitathatvam anumīyate ity alam anena prakṛtam anusarāmaḥ // MrgTV_1,1.1:53</l>
+<l>* tad evaṃ hārītamuniḥ svaśiṣyāṇāṃ jñānopadeśaṃ pratijñāya indrakramāyātatvaṃ darśayitum āha // MrgTV_1,1.1:54</l>
+
+</div>
+<div>
+
+<lg>
+<l>nārāyaṇāśrame puṇye bharadvājādayo dvijāḥ /</l>
+<l>tepuḥ śivaṃ pratiṣṭhāpya tadekāhitamānasāḥ || MrgT_1,1.2 ||</l>
+</lg>
+
+<l>* badaryāśramanāmni viṣṇor āśrame tadāśramatvād eva pāvane bharadvājaprabhṛtayo munayas tepur iti sambandhaḥ // MrgTV_1,1.2:1</l>
+<l>* bharadvājādīnām ṛṣīṇām advijatvaprasiddhyasaṃbhavāt dvijā iti viśeṣaṇaṃ vāgīśvarīgarbhasaṃyojanasaṃjananādinā kṛtadīkṣātvenotkarṣavattvaṃ na punar upanītatvamātraṃ smārtavad dvijaśabdeneṣṭam adīkṣitānāṃ tantrādiśravaṇānadhikārāt pratyuta pratyavāyaśruteḥ // MrgTV_1,1.2:2</l>
+<l>* śivaṃ pratiṣṭhāpyeti lohabāṇaliṅgādāv ādhāre sāmānyamantrādinā parameśvarapratiṣṭhāpanaṃ parikalpyety āśayaḥ anyathā yathāvad viditatattadvidhānānāṃ purastāt pratiṣṭhādiviṣayasya praśnasyānupapatteḥ // MrgTV_1,1.2:3</l>
+<l>* tasminn evaikasminn āhitam ekāgrīkṛtaṃ mānasaṃ yais te tathāvidhāḥ santaḥ tepuḥ śivārādhanalakṣaṇaṃ tapaś cakrur ity arthaḥ // MrgTV_1,1.2:4</l>
+
+</div>
+<div>
+
+<lg>
+<l>atha tān bhāvitān matvā kadācit tridaśādhipaḥ /</l>
+<l>tad āśramapadaṃ bheje svayaṃ tāpasaveṣabhṛt || MrgT_1,1.3 ||</l>
+</lg>
+
+<l>* anantaraṃ ca tān bhāvitān tatraśraddhālūn jñātvā kasmiṃścit kāle munirūpadhārī śakraḥ tadīyam āśramaṃ siṣeve // MrgTV_1,1.3:1</l>
+<l>* tataś ca // MrgTV_1,1.3:2</l>
+
+</div>
+<div>
+
+<lg>
+<l>sa taiḥ sampūjitaḥ pṛṣṭvā tāṃś ca sarvān anāmayam /</l>
+<l>provāca codanādharmaḥ kim arthaṃ nānuvartyate || MrgT_1,1.4 ||</l>
+</lg>
+
+<l>* sa indras tair bharadvājādibhir āśramasamucitenātithisatkāreṇābhyarcitas tān bharadvājādīn pratyekaṃ kuśalaṃ pṛṣṭvābravīt // MrgTV_1,1.4:1</l>
+<l>* kiṃ tad ity ata āha codanādharmaḥ kim arthaṃ nānuvartyata iti // MrgTV_1,1.4:2</l>
+<l>* codaneti kriyāyāḥ pravartakaṃ vacanam āhuḥ tadāmnāto dharmaḥ kim iti nānuṣṭhīyate codanaiva hi dharme pramāṇaṃ pramāṇam eva codanā ity evam anyayogāyogavyavacchedanena tataḥ pravartamānānām aihikasyāmutrikasya ca phalasyāvisaṃvādāt // MrgTV_1,1.4:3</l>
+<lg>
+<l>* tathā coktam /</l>
+<l>* śrutismṛtyuditaṃ dharmam anutiṣṭhan hi mānavaḥ /</l>
+<l>* iha kīrtim avāpnoti pretya cānuttamāṃ gatim iti // MrgTV_1,1.4:4</l>
+</lg>
+<l>* tadviparītaṃ tu trayībāhyaṃ liṅgārādhanādi ca yat tat trayībāhyatvād eva phalguprāyam // MrgTV_1,1.4:5</l>
+<lg>
+<l>* yad āha bhaṭṭaḥ /</l>
+<l>* tathātikrāntavedoktamaryādāvyavahāriṇām /</l>
+<l>* saṃvādiṣv api vākyeṣu neṣyate mānahetutā // MrgTV_1,1.4:6</l>
+</lg>
+<lg>
+<l>* manur api /</l>
+<l>* yā vedabāhyāḥ smṛtayo yāś ca kāścit kudṛṣṭayaḥ /</l>
+<l>* sarvās tā niṣphalāḥ pretya tamobhūtā hi tāḥ smṛtāḥ // MrgTV_1,1.4:7</l>
+</lg>
+<l>* ity evaṃ jaiminimatānusāriṇaḥ // MrgTV_1,1.4:8</l>
+<l>* tasya vacaḥ śrutvā // MrgTV_1,1.4:9</l>
+
+</div>
+<div>
+
+<lg>
+<l>ta ūcur nanv ayaṃ dharmaś codanāvihito mune /</l>
+<l>devatārādhanopāyas tapasābhīṣṭasiddhaye || MrgT_1,1.5 ||</l>
+</lg>
+
+<l>* te bharadvājādayaḥ indraṃ tāpasarūpatvān muniśabdenāmantrya nanv iti prativacanam avocan // MrgTV_1,1.5:1</l>
+<l>* yo 'yam asmābhir abhihito rudrākhyadevatāprasādanopāyalakṣaṇo dharmaḥ tapasā samīhitasiddhyartham āsevyate sa codanayaivābhihito vyavasthāpitaḥ // MrgTV_1,1.5:2</l>
+<l>* tathā hi codanā nāma liḍloṭtavyadādiśabdavyavasthāpitavidhiniṣedharūpayajanādikriyāpravartakavacanam abhidhīyate // MrgTV_1,1.5:3</l>
+<l>* yathā jyotiṣṭomena yajeta svargakāmaḥ na kalañjaṃ bhakṣayet ityādi // MrgTV_1,1.5:4</l>
+<l>* tac ca mukhyatayā śrautaṃ dharmarūpaṃ tanmūlatvāc ca smārtam api // MrgTV_1,1.5:5</l>
+<l>* tathā coktaṃ tasmāc chrutismṛtī eva pramāṇaṃ dharmagocare // MrgTV_1,1.5:6</l>
+<l>* iti tathā // MrgTV_1,1.5:7</l>
+<lg>
+<l>* vedo 'khilo dharmamūlaṃ smṛtiśīle ca tadvidām /</l>
+<l>* iti // MrgTV_1,1.5:8</l>
+</lg>
+<l>* tadāsatāṃ tāvad evaṃvidhāḥ śrutyādisadāgamārthāvirodhinyaḥ paurāṇikyaḥ saṃhitāḥ anyāś ca kāścana śrutayo yāsām idaṃ tātparyam // MrgTV_1,1.5:9</l>
+<lg>
+<l>* yathā mahābhāratādau /</l>
+<l>* ye bhaktā varadaṃ devaṃ śivaṃ rudram umāpatim /</l>
+<l>* ihaloke sukhaṃ prāpya te yānti paramāṃ gatim // MrgTV_1,1.5:10</l>
+</lg>
+<l>* iti // MrgTV_1,1.5:11</l>
+<lg>
+<l>* sarvarūpaṃ bhavaṃ jñātvā liṅge yo 'rcayati prabhum /</l>
+<l>* tasminn abhyadhikāṃ prītiṃ karoti vṛṣabhadhvajaḥ // MrgTV_1,1.5:12</l>
+</lg>
+<l>* iti // MrgTV_1,1.5:13</l>
+<lg>
+<l>* tathā /</l>
+<l>* ādityā vasavo rudrā munayaś ca mahaujasaḥ /</l>
+<l>* vidhival liṅgam ārādhya padam iṣṭatamaṃ gatāḥ // MrgTV_1,1.5:14</l>
+</lg>
+<l>* iti // MrgTV_1,1.5:15</l>
+<lg>
+<l>* tathā /</l>
+<l>* mṛdbhasmagośakṛtpiṣṭaguḍakhaṇḍādiliṅgakam /</l>
+<l>* sampūjayan pratiṣṭhāpya śraddhāvān adhigacchati // MrgTV_1,1.5:16</l>
+</lg>
+<l>* iti // MrgTV_1,1.5:17</l>
+<l>* tatrāprāmāṇyam abhyupagamyāpi brūmaḥ yad abhiprāyeṇedam abhidhīyate bhavadbhiḥ sa tāvat śrutyartha eva smaryatāṃ tatra hi // MrgTV_1,1.5:18</l>
+
+</div>
+<div>
+
+<lg>
+<l>vede 'sti saṃhitā raudrī vācyā rudraś ca devatā /</l>
+<l>sāṃnidhyakaraṇe 'py asmin vihitaḥ kālpiko vidhiḥ || MrgT_1,1.6 ||</l>
+</lg>
+
+<lg>
+<l>* rudro devatāsyā iti raudrī saṃhitā ṛgyajuḥsāmalakṣaṇe cātharvaṇe ca vede 'sti /</l>
+<l>* yajurvede hi rudraikādaśinī saṃhitā śrūyate yasyāṃ bhagavanto rudrāḥ sarvābhipretasādhakāḥ paṭhyante /</l>
+<l>* ṛgvede 'pi /</l>
+<l>* tryambakaṃ yajāmahe // MrgTV_1,1.6:1</l>
+</lg>
+<l>* imā rudrāya tavase kapardine // MrgTV_1,1.6:2</l>
+<l>* imā rudrāya sthiradhanvane giraḥ // MrgTV_1,1.6:3</l>
+<lg>
+<l>* ityādikā ṛgvidhānāmnātās tattadviśiṣṭavidhānaphalā vidyanta eva /</l>
+<l>* sāmavede 'py asti /</l>
+<l>* śrūyate hi sāmnāṃ vidhāne /</l>
+<l>* ā vo rājā tad vo varga ājyadohāni devavratāni caiṣā raudrī nāma saṃhitaitāṃ prayuñjāno rudraṃ prīṇāti // MrgTV_1,1.6:4</l>
+</lg>
+<lg>
+<l>* iti /</l>
+<l>* evam ātharvaṇe 'pi rudrārādhanavidhayaḥ tanmantrasaṃhitāś ca sambhavanti // MrgTV_1,1.6:5</l>
+</lg>
+<l>* na ca kevalaṃ saṃhitāmātram evāsti // MrgTV_1,1.6:6</l>
+<lg>
+<l>* tatra tatra rudra eva devatā vācyarūpatayā śrūyate yam uddiśya /</l>
+<l>* eṣa te rudra bhāgaḥ saha svasrāmbikayā taṃ juṣasva svāhā /</l>
+<l>* iti śrutiḥ // MrgTV_1,1.6:7</l>
+</lg>
+<l>* na caitāvat yāvatkālpika iti kalpo vedāṅgaṃ tadukto vidhiḥ bhagavataḥ sāṃnidhyakalpanāya śrūyate // MrgTV_1,1.6:8</l>
+<lg>
+<l>* tathā hi kāṭhake sūtrapariśiṣṭīye rudrakalpe /</l>
+<l>* triṣavaṇam udakopasparśanam ity uktvoktaṃ darbheṣv āsīno darbhamuṣṭiṃ dhārayamāṇo rakṣobhyopyavijñeyo bhavati śākayāvakapayobhaikṣabhakṣaḥ ṣaḍbhir māsaiḥ pratyakṣībhavantaṃ bhagavantaṃ paśyati /</l>
+<l>* iti // MrgTV_1,1.6:9</l>
+</lg>
+<l>* evaṃ ca śraddadhānamanasāṃ jaiminīyacchāyāśrayiṇām api codanāpradarśito 'yam astīva prasiddhaḥ panthāḥ kiṃ punaḥ parameśvaraprakāśanavihatamahāmohatimiratayā vispaṣṭadṛṣṭīnām anyeṣām // MrgTV_1,1.6:10</l>
+
+</div>
+<div>
+
+<lg>
+<l>ity ukte 'pi paraṃ bhāvaṃ jijñāsuḥ prahasan prabhuḥ /</l>
+<l>tān āha mithyā jñānaṃ vaḥ śabdamātraṃ hi devatā || MrgT_1,1.7 ||</l>
+</lg>
+
+<l>* evam api kathite tadīyaṃ bhaktiprakarṣaṃ jñātum icchur indratvena paramaiśvaryayogāt prabhuḥ prabhavanaśīlaḥ sa tān munīn sasmitam āha // MrgTV_1,1.7:1</l>
+<l>* kiṃ tat // MrgTV_1,1.7:2</l>
+<l>* mithyā jñānaṃ vaḥ yuṣmākaṃ sambandhi yad etalliṅgārcanādiśivārādhanapratipādakaṃ jñānaṃ śāstraṃ tan mithyā na satyaṃ tat praṇetṛtathāvidhadevatānupapatteḥ // MrgTV_1,1.7:3</l>
+<l>* yataḥ karmānuṣṭhānād eva phalaṃ na devatātaḥ // MrgTV_1,1.7:4</l>
+<l>* śabdamātraṃ hi devatā // MrgTV_1,1.7:5</l>
+<l>* na khalu vayaṃ pratyakṣetarapramāṇāpahnavapravṛttadurācāracārvākavadasaṃbhavam eva devatāyāḥ pratipadyāmahe // MrgTV_1,1.7:6</l>
+
+<l>* kiṃ tarhi // MrgTV_1,1.7:7</l>
+<l>* vidyata eva devatā sā tu śabdān nātiricyate api tu ayogolakavahnivad anupalabhyamānavācyārthapṛthagbhāvaḥ śabda eva teṣu teṣu kriyāviśeṣeṣu aṅgabhāvaṃ gacchan yāgasampradānadevatā viśeṣākhyāṃ labhate // MrgTV_1,1.7:8</l>
+<lg>
+<l>* tad uktam /</l>
+<l>* avinirbhinnaśabdārthaṃ dhyāyed oṃkāram īśvaram /</l>
+<l>* iti // MrgTV_1,1.7:9</l>
+</lg>
+<l>* na cātra kaścid eka eva viśveśitāstīti niyamaḥ pratijñātuṃ śakyaḥ anekākārasuprasiddhabahutaradevatāviśeṣaśravaṇāt // MrgTV_1,1.7:10</l>
+<l>* tac cedam anupamamahimnaḥ śabdarūpasyaivaṃ vijṛmbhitaṃ yad ekam api sat tat tad devatāviśeṣapratītihetutām ātmapratītihetutāṃ cābhyeti // MrgTV_1,1.7:11</l>
+<lg>
+<l>* tathaiva śrutiḥ /</l>
+<l>* indraṃ mitraṃ varuṇam agnim āhur atho divyaḥ sa suparṇo garutmān /</l>
+<l>* ekaṃ sadviprā bahudhā vadanty agniṃ yamaṃ mātariśvānam āhuḥ // MrgTV_1,1.7:12</l>
+</lg>
+<l>* iti // MrgTV_1,1.7:13</l>
+<l>* tat saṃsthitam etac chabdātmikā devateti // MrgTV_1,1.7:14</l>
+<l>* evam anvayenābhidhāya vyatirekeṇāmum evārthaṃ draḍhayitum āha // MrgTV_1,1.7:15</l>
+
+</div>
+<div>
+<lg>
+<l>śabdetaratve yugapadbhinnadeśeṣu yaṣṭṛṣu /</l>
+<l>na sā prayāti sāṃnidhyaṃ mūrtatvād asmadādivat || MrgT_1,1.8 ||</l>
+</lg>
+
+<l>* śabdavyatiriktā hi yadi devatā vidyate kiṃ vigrahavatī avigrahā ubhayarūpānubhayarūpā vā // MrgTV_1,1.8:1</l>
+<l>* anubhayarūpatve viruddhadharmādhyāsaḥ svasiddhāntaviruddhānekāntavādābhyupagamaḥ vyastapakṣadvayodbhāvitadoṣaprasaṅgaś ca // MrgTV_1,1.8:2</l>
+<l>* avigrahatve śabdenaiva kim aparāddham // MrgTV_1,1.8:3</l>
+<l>* vigrahavattve tu bhinnadeśāvasthiteṣu yugapat prārabdhayāgeṣu yajvasu mūrtatvāt tasyāḥ sāṃnidhyānupapattiḥ // MrgTV_1,1.8:4</l>
+<l>* nanu mūrtatve saty api sāṃnidhyaṃ parasparavidūradeśasthopasthātṛjanopahṛtasaparyayor arkendubimbayor dṛṣṭam ity anaikāntikaṃ mūrtatvam // MrgTV_1,1.8:5</l>
+<l>* nānaikāntikam arkendubimbayoḥ svaprabhābhāsvarayor uccataratvena sakaladeśopalakṣyasthānamātrasthayor bahujanopalambhayogyadeśāvasthānam eva sāṃnidhyaṃ bhavatāṃ pratibhāti na vāstavam // MrgTV_1,1.8:6</l>
+<l>* tathā cātyuttuṅgaraṅgotsaṅgavartinī nartakī vidūradeśavartibhir bhūyobhiḥ prekṣakaiḥ prekṣyamāṇā naikaikaṃ prati prākāmyaśaktyā sāṃnidhyaṃ bhajate // MrgTV_1,1.8:7</l>
+<l>* tasmāt samakālam anekagṛhabhojanopanimantritānāṃ yathāsmākam anekagṛhabhojanaṃ na dṛṣṭam evaṃ devatāyās tulyakālaṃ bhinnadeśasthayāgasāṃnidhyaṃ mūrtatvān na saṃbhāvyam iti śabdamātratvam evāsyāḥ sādhīyaḥ // MrgTV_1,1.8:8</l>
+<l>* kiṃca // MrgTV_1,1.8:9</l>
+
+</div>
+<div>
+
+<p>na ca tatsādhakaṃ kiṃcit pramāṇaṃ bhāty abādhitam /</p>
+
+<l>* na kila tathāvidhavyatyayadaśāvirahitaparamaparokṣavapuṣaḥ prakṛṣṭātiśayaiśvaryopapannajñānānantamahimno devatāviśeṣasya sādhakaṃ kim api pramāṇaṃ pratibhāti // MrgTV_1,1.9ab1:1</l>
+<l>* tathā hi aparokṣatvena sakalapramāṇajyeṣṭhasya pratyakṣasya tāvan nāsau gocaraḥ // MrgTV_1,1.9ab1:2</l>
+<l>* na hy atīndriyaviṣayagrahaṇakṣamatvaṃ pratyakṣasya sambhavati // MrgTV_1,1.9ab1:3</l>
+<l>* atha vyavahitaviprakṛṣṭārthaviṣayaṃ yogipratyakṣaṃ tat sattāniścāyakam iti cet tan na yasmād asmadādyatīndriyārthadarśino yoginaḥ sūkṣmādiviṣayas tatpratyakṣaṃ tena ceśaḥ sākṣātkriyate ity etat sarvam anupapannaṃ pramāṇābhāvāt // MrgTV_1,1.9ab1:4</l>
+<l>* atīndriyo 'tīndriyārthadarśī ca kaścit sādhayitum iṣṭas tasya tathāvidhapuruṣapratyakṣeṇāsiddhena sādhanaṃ prāmāṇikasyāpi bhavataḥ kim iti na trapāvaham // MrgTV_1,1.9ab1:5</l>
+<l>* nanv asty atrānupahatasāmarthyam anumānaṃ tathā hi jagad idam urvīparvatasaritsamudrādi dharmi kāryam iti sādhyo dharmaḥ sāvayavatvāt yad yat sāvayavaṃ tat tat kāryaṃ yathā valabhiprākārapuṣkariṇyādi // MrgTV_1,1.9ab1:6</l>
+<l>* vipakṣavyāvṛttaś cāyaṃ hetur yatra kilātmādau kāryatvaṃ nāsti tatra sāvayavatvam api nāstīti // MrgTV_1,1.9ab1:7</l>
+<lg>
+<l>* na cāsya hetor īśvaraśarīreṇānaikāntikatvaṃ yathāhur jaiminīyāḥ /</l>
+<l>* anekāntaś ca hetus te taccharīrādinā bhavet /</l>
+<l>* iti // MrgTV_1,1.9ab1:8</l>
+</lg>
+<l>* tasyāpi tadicchākāryatvena asmābhir iṣyamāṇatvād iti // MrgTV_1,1.9ab1:9</l>
+<l>* siddhe ca jagataḥ kāryatve 'pi yad yat kāryaṃ tat tad viśiṣṭajñānakriyopapannakartṛkāvinābhāvi ghaṭapaṭādivat // MrgTV_1,1.9ab1:10</l>
+<l>* kāryaṃ cedaṃ jagat // MrgTV_1,1.9ab1:11</l>
+<l>* tasmād idam api niratiśayajñatvakartṛtvasampannaṃ nirmātāraṃ gamayati // MrgTV_1,1.9ab1:12</l>
+<l>* yaś cātra nirmātā sa kaḥ // MrgTV_1,1.9ab1:13</l>
+<l>* īśvara iti // MrgTV_1,1.9ab1:14</l>
+<l>* kim etan na pramāṇaṃ bhavet // MrgTV_1,1.9ab1:15</l>
+<l>* etad yady abādhitaṃ syāt yāvatā paramāṇvindriyāder jagadbhāgasyāsiddhaṃ sāvayavatvam iti bhāgāsiddho 'yaṃ hetuḥ // MrgTV_1,1.9ab1:16</l>
+<l>* paramāṇūnām ācaitanye sati anekatvād ghaṭādivat kāryatvam avyabhicāri iti kila bhavatām abhyupagamaḥ // MrgTV_1,1.9ab1:17</l>
+<l>* yad apy etat dṛṣṭāntīkṛtaṃ valabhiprākārapuṣkariṇyādi tad gatam upādānasahakārikāraṇādyānuguṇyavaiguṇyāt nirvṛttasadasatsaṃniveśaṃ sāvayavatvam // MrgTV_1,1.9ab1:18</l>
+<l>* tadanyad eva tattatsaṃniveśasadṛśam // MrgTV_1,1.9ab1:19</l>
+<l>* itarad eva hi mahīmahīdharādigataṃ sāvayavatvaṃ vastusādṛśyāvalambanapūrvavyāptidarśanāhitasaṃskārā ca tadanuguṇasādhyasādhanārthaṃ prāmāṇikam iti pravartata iti yuktaṃ na punaḥ sāvayavatvaśabdamātrasāmānyāśrayeṇa // MrgTV_1,1.9ab1:20</l>
+<lg>
+<l>* yad āha dharmakīrtiḥ /</l>
+<l>* siddhaṃ yādṛg adhiṣṭhātṛbhāvābhāvānuvṛttimat /</l>
+<l>* saṃniveśādi tad yuktaṃ tasmād yad anumīyate // MrgTV_1,1.9ab1:21</l>
+</lg>
+<lg>
+<l>* vastubhede prasiddhe 'pi śabdasāmyād abhedinaḥ /</l>
+<l>* na yuktānumitiḥ pāṇḍudravyād iva hutāśane // MrgTV_1,1.9ab1:22</l>
+</lg>
+<l>* iti // MrgTV_1,1.9ab1:23</l>
+<l>* api ca valabhyādīnāṃ pakṣāntarbhāve dṛṣṭāntābhāvaḥ // MrgTV_1,1.9ab1:24</l>
+<l>* na cetaratrāntarbhāvaḥ tadā īśvarasya sarvakartṛtvahāniḥ // MrgTV_1,1.9ab1:25</l>
+<l>* sthapatyādyanvayavyatirekānuvidhāyinau bhāvābhāvau valabhyādīnāṃ dṛṣṭau // MrgTV_1,1.9ab1:26</l>
+<l>* na ca dṛṣṭaṃ kāraṇam apahāya kāraṇāntaraṃ tadīśvarākhyaṃ kalpayitum upapannam // MrgTV_1,1.9ab1:27</l>
+<l>* evaṃ hi sati sarvatra kāryakāraṇabhāvo viplaveta // MrgTV_1,1.9ab1:28</l>
+<p>* tad uktam /
+* yasmin sati bhavaty eva yat tato 'nyasya kalpane /</p>
+
+<l>* iti // MrgTV_1,1.9ab1:30</l>
+<l>* kiṃ ca na tāvad aśarīrajagannirmātṛdevatāviśeṣābhyupagamo yuktaḥ tasya jagallakṣaṇakāryasampādanāsaṃbhavāt // MrgTV_1,1.9ab1:31</l>
+<lg>
+<l>* yad āha /</l>
+<l>* kāryaṃ śarīrayuktena kartrā vyāptaṃ sadaiva yat /</l>
+<l>* kāryatvāt tena jagataḥ kartā dehī prasajyate // MrgTV_1,1.9ab1:32</l>
+</lg>
+<l>* iti // MrgTV_1,1.9ab1:33</l>
+<l>* tataś ca dharmisvarūpaviparītasādhakaḥ kāryahetuḥ // MrgTV_1,1.9ab1:34</l>
+<l>* śarīravattve tv asmadādivad utpattipralayayogitvam // MrgTV_1,1.9ab1:35</l>
+<l>* tac cāsya śarīraṃ svanirmitaṃ kartrantaranirmitaṃ vā // MrgTV_1,1.9ab1:36</l>
+<l>* svanirmitatve kim asau tatsargakāle saśarīraḥ śarīrarahito vā // MrgTV_1,1.9ab1:37</l>
+<l>* dehendriyarahitasya na kvacit kiṃcit kāryaṃ dṛṣṭam ity uktam // MrgTV_1,1.9ab1:38</l>
+<l>* śarīravāṃś cet śarīraṃ sṛjati tarhi tad apy asya śarīraṃ kiṃ kṛtam // MrgTV_1,1.9ab1:39</l>
+<l>* svakṛtatve 'nyakṛtatve vānavasthety evamādibādhakasadbhāvāt sādhakaṃ pramāṇaṃ na kiṃcid upapadyate // MrgTV_1,1.9ab1:40</l>
+<l>* athocyate vākyam āgamalakṣaṇaṃ pramāṇam asti yad atyantātīndriyārthaniścāyakaṃ tataḥ pravartamānasyābhipretasampatter dṛṣṭatvāt // MrgTV_1,1.9ab1:41</l>
+<lg>
+<l>* tad āhuḥ akṣaliṅgātigo hy arthaḥ puṃsaḥ śāstreṇa darśyate /</l>
+<l>* iti // MrgTV_1,1.9ab1:42</l>
+</lg>
+<l>* etad eva nirākartum āha // MrgTV_1,1.9ab1:43</l>
+
+<l>* vākyam āgamalakṣaṇaṃ purāṇetihāsādigītam // MrgTV_1,1.9ab2:1</l>
+<lg>
+<l>* yathāha mahābhāratādau bhagavān vyāsamuniḥ /</l>
+<l>* sa śivas tāta tejasvī prasādād yāti te 'grataḥ /</l>
+<l>* sendrādiṣu ca deveṣu tasyaivaiśvaryam ucyate // MrgTV_1,1.9ab2:2</l>
+</lg>
+<lg>
+<l>* taṃ gaccha śaraṇaṃ devadevādiṃ bhuvaneśvaram /</l>
+<l>* ityādi // MrgTV_1,1.9ab2:3</l>
+</lg>
+<lg>
+<l>* śrutāv api /</l>
+<l>* yo rudro 'gnau yo 'psu ya oṣadhīṣu yo vanaspatiṣu /</l>
+<l>* yo rudro viśvā bhuvanā viveśa tasmai rudrāya namo 'stu // MrgTV_1,1.9ab2:4</l>
+</lg>
+<lg>
+<l>* tathā /</l>
+<l>* tryambakaṃ yajāmahe /</l>
+<l>* ityādi // MrgTV_1,1.9ab2:5</l>
+</lg>
+<l>* tad etad anyathāsiddham atra hi paurvāparyaparyālocanānirākṛto yathāśrutaśrutisamutpādito vākyārthaḥ // MrgTV_1,1.9ab2:6</l>
+<l>* ato naiva pratītimātrāvipralabdhabuddhayas tatheti pratipattiṃ bhāvayanti // MrgTV_1,1.9ab2:7</l>
+<l>* tathā kila viṣaṃ bhakṣaya mā cāsya gṛhe bhuṅkthāḥ ity atra viṣabhakṣaṇe 'bhyanujñānaṃ śrūyamāṇam api na vākyārthaḥ // MrgTV_1,1.9ab2:8</l>
+<l>* kiṃ tarhi // MrgTV_1,1.9ab2:9</l>
+<l>* pratikūlagṛhabhojananiṣedha eva tātparyam // MrgTV_1,1.9ab2:10</l>
+<l>* evaṃ bhāratādāv upākhyānadvāreṇa sodyogasya vijigīṣor dviṣadupaśamo nirvighnaḥ kṣatriyāṇāṃ ca svadharmānuṣṭhānam abhyudayāyety evam arthaḥ stutivādaḥ // MrgTV_1,1.9ab2:11</l>
+<l>* śrutau tu mantrārthavādapadānāṃ kāryātiśayāvedanaṃ vinā puruṣāpravṛtteḥ śraddhāvahavividhābhyudayajñānopajananapratītyaṅgatvaṃ na svarūpayāthārthyam ity aṅgatvam iti na taduktimātrād viśiṣṭadevatāsadbhāvāvedakatvam // MrgTV_1,1.9ab2:12</l>
+<lg>
+<l>* tathā cāhuḥ /</l>
+<l>* stutivādakṛtaś caiṣa janānāṃ mativibhramaḥ /</l>
+<l>* paurvāparyāparāmṛṣṭaḥ śabdo 'nyāṃ kurute mitim // MrgTV_1,1.9ab2:13</l>
+</lg>
+<l>* iti // MrgTV_1,1.9ab2:14</l>
+<l>* atha sakalalokasiddhā prasiddhir anapahnavanīyā vidyate yat sarvo hy ayam āvidvadaṅganābālo janaḥ parameśvarasyecchāvidhipreritaḥ pravartate daivam evātra kāraṇam iti bruvāṇo dṛśyate ca upākhyānāni ca dakṣamakhamathanakāladamanakāmadāhāndhakavadhatrailokyākramaṇādyuparacitāni bahuśaḥ paṭhantaḥ kathayantaḥ śṛṇvantaś copalabhyante taduddeśena cārthaviniyoganiyamajapatapaḥprabhṛtikleśakāriṇīm api karmapaddhatim anutiṣṭhanto 'smān avagamayanti yad uta santi devatāviśeṣā ity āha // MrgTV_1,1.9ab2:15</l>
+
+</div>
+<div>
+
+<l>vākyaṃ tad anyathāsiddhaṃ lokavādāḥ kva sādhavaḥ || MrgT_1,1.9 ||</l>
+
+<l>* aparyālocitapaurvāparyagatānugatamūrkhajanapravartitāt pravādamātrād asakṛddṛṣṭavyabhicārād vastusiddhim icchan aho bata vṛthaiva dainyāspadatām upayāto 'si // MrgTV_1,1.9cd:1</l>
+<l>* atha pratyayitapuruṣapravartitaḥ pravādaḥ tarhi āgama evāsau // MrgTV_1,1.9cd:2</l>
+<l>* pratyayitatvaṃ ca tasya katamena pramāṇena siddhaṃ tatpravartitād āgamaprāmāṇyāc ca tatsiddhiḥ tatsiddhyā ca āgamaprāmāṇyam itītaretarāśrayadoṣaḥ nityatve tv āgamasya kārya evārthe prāmāṇyaṃ na siddhe iti na yuṣmadabhimatadevatāviśeṣaḥ katham api sidhyatīti // MrgTV_1,1.9cd:3</l>
+<l>* evaṃ śakroktim abhidhāya hārītamuniḥ svoktyā svaśiṣyān āha // MrgTV_1,1.9cd:4</l>
+
+</div>
+<div>
+
+<lg>
+<l>ity anīśavacovārivelānunno 'bdhineva saḥ /</l>
+<l>śakreṇa na cacālaiṣāṃ dhīśailaḥ sāragauravāt || MrgT_1,1.10 ||</l>
+</lg>
+
+<lg>
+<l>* ity anenoktena krameṇa īśvaranirākaraṇavacanāny eva nimnamārgānusaraṇād vārīṇi teṣāṃ velā samullāso jalavṛddhir iti yāvat tayā nunnaḥ prerito 'py eṣāṃ bharadvājādīnāṃ sambandhī matiparvataḥ sāravattvāt gurutvāc ca hetoḥ na cacāla na cakampe /</l>
+<l>* kena nunna ity āha abdhineva śakreṇa /</l>
+<l>* yathā kila velācalaḥ samudrajalataraṃgadṛḍhāhataḥ svāvaṣṭambhān na calati evaṃ munimatis tīkṣṇāgratvādisādharmyāt parvatena rūpakīkṛtā ca svasthairyān na vyacalat // MrgTV_1,1.10:1</l>
+</lg>
+<l>* tataś cendraṃ prati te punar idam abhyadadhuḥ // MrgTV_1,1.10:2</l>
+
+</div>
+<div>
+
+<lg>
+<l>na jātu devatāmūrtir asmadādiśarīravat /</l>
+<l>viśiṣṭaiśvaryasampannā sāto naitan nidarśanam || MrgT_1,1.11 ||</l>
+</lg>
+
+<l>* vibhūtiyogatāratamyam asmadādilocanagocaracāri sāmānyapuruṣamātrāśrayaṃ dṛṣṭam adṛṣṭavigrahasya devatāviśeṣasya aṇimādyaiśvaryasampattim anumāpayati tat kathaṃ prākāmyaśaktijanitaṃ yugapad anekadeśamātrasaṃnidhimātram asaṃbhāvyaṃ manyase // MrgTV_1,1.11:1</l>
+<l>* na hi kadācid asmadādiśarīravat devatāmūrtiḥ kleśakarmavipākāśayayoginy avyāpikā vā icchāmātreṇāsmadādisṛṣṭisthitidhvaṃsakaraṇakṣamaviśiṣṭaiśvaryasampannatvāt // MrgTV_1,1.11:2</l>
+<l>* mūrchitāṇutrāṇāddhi mūrtitvam asmadādimūrtitvavilakṣaṇaṃ cāsyāḥ // MrgTV_1,1.11:3</l>
+<l>* tataś ca yugapad anekadeśasaṃnidhinirākaraṇāyopāttasya mūrtitvākhyasya hetor aprayojakatvam // MrgTV_1,1.11:4</l>
+<l>* dṛṣṭāntaś cānupapannaḥ sādhyadharmāsiddhatvāt // MrgTV_1,1.11:5</l>
+<l>* sādhyo hi dharmas tulyakālam anekadeśāsaṃnidhilakṣaṇo 'tra sarvātmanā nāsti yasmād asmadādimadhyavartināṃ mūrtimatāṃ satām apy aṇimādisiddhiprakarṣayogināṃ yogināṃ yugapad anekadeśasaṃnidhir adyatve 'pi nāsaṃbhāvyaḥ // MrgTV_1,1.11:6</l>
+<l>* na ca niratiśayasakalotkarṣayoginaḥ parameśvarasya svadarśanābhiniveśibhiḥ kumbhakārādinidarśanakaluṣīkriyamāṇajagannirmāṇasya kiṃkāyaḥ kimāśrayaḥ kimupakaraṇa ity ādyasadvikalpaviplavo 'nupraviśati // MrgTV_1,1.11:7</l>
+<lg>
+<l>* tathā coktaṃ siddhacūḍāmaṇinā /</l>
+<l>* kim īhaḥ kiṃkāyaḥ sa khalu kim upāyas tribhuvanaṃ kim ādhāro dhātā sṛjati kimupādāna iti ca /</l>
+<l>* atarkyaiśvarye tvayy anavasaraduḥstho hatadhiyaḥ kutarko 'yaṃ kāṃścin mukharayati mohāya jagatām // MrgTV_1,1.11:8</l>
+</lg>
+<l>* iti // MrgTV_1,1.11:9</l>
+<l>* yathā cāśarīradevatāviśeṣasambhavo 'saṃbhavadbādhas tatheśvarasiddhiprakaraṇe vakṣyāmaḥ // MrgTV_1,1.11:10</l>
+<l>* sa tu tathā tathā pratipādyamāno 'pi na tannirākaraṇapravaṇānāṃ prayojanahetur bhaviṣyatīti // MrgTV_1,1.11:11</l>
+<l>* atra daivopahatatvam evāparādhyati // MrgTV_1,1.11:12</l>
+<lg>
+<l>* yathāha rājānaka utpaladevaḥ /</l>
+<l>* samujjvalannyāyasahasrasādhito 'py upaiti siddhiṃ na vimūḍhacetasām // MrgTV_1,1.11:13</l>
+</lg>
+<l>* maheśvaraḥ pāṇitale sthito 'pi san palāyate daivahatasya sanmaṇiḥ // MrgTV_1,1.11:14</l>
+<l>* iti // MrgTV_1,1.11:15</l>
+<l>* īdṛśābhyāṃ ca hetudṛṣṭāntābhyāṃ sādhyasiddhyupagame 'nyatrāpy ayam eva nyāyaḥ prasajyata ity āha // MrgTV_1,1.11:16</l>
+
+</div>
+<div>
+
+<p>athāstv evaṃ ghaṭe nyāyaḥ śabdatvād indraśabdavat /</p>
+
+<lg>
+<l>* bhavatā kila śabdamātraṃ hi devatā iti pratijñātam ataḥ śabdavyatiriktadevatānabhyupagame saty etad āpatitaṃ yad uta vācakavyatiriktavācyārthāsambhavaḥ /</l>
+<l>* indrādiśabdānāṃ nānyo vācyo 'rtho vidyate /</l>
+<l>* evaṃ śabdatvāviśeṣāt ghaṭādāv api ayam eva nyāyo 'stu na caitad yuktam anubhavavirodhāt // MrgTV_1,1.12ab:1</l>
+</lg>
+<l>* tathā hi // MrgTV_1,1.12ab:2</l>
+</div>
+<div>
+
+<l>nādatte ghaṭaśabdo 'mbhaś candraśabdo na rājate || MrgT_1,1.12 ||</l>
+
+<l>* ghaṭate ceṣṭate arthakriyām iti ghaṭaḥ candati hlādayati dīpyate ceti candra ity evaṃvidhayā śabdavyutpattyā śabdavyatiriktavācyārthāsaṃbhavato ghaṭaśabdasyaivodakāharaṇaṃ candraśabdasyaiva cāhlādanādi prāptaṃ na cānayos tad asti api tu tadvācyayoḥ pṛthubudhnodarādyākārabhāsvarabimbasvarūpayos tattadarthakriyākaraṇakṣamatvaṃ dṛṣṭam // MrgTV_1,1.12cd:1</l>
+<l>* tato na vācyavācakayor aikyam // MrgTV_1,1.12cd:2</l>
+<l>* tataś ca na śabdamātraṃ devatā kiṃ tarhi tadvācyaiveti siddham // MrgTV_1,1.12cd:3</l>
+<l>* idānīṃ vākyaṃ tadanyathāsiddham iti paramatam anusaṃdhāya dūṣayati // MrgTV_1,1.12cd:4</l>
+
+</div>
+<div>
+
+<lg>
+<l>athānyaviṣayaṃ vākyam astu śakrādivācakam /</l>
+<l>karmarūpādiśabdānāṃ sārthakatvaṃ kathaṃ bhavet || MrgT_1,1.13 ||</l>
+</lg>
+
+<l>* indro vajrī hiraṇmayaḥ ityādīni vākyāni śakrādidevatāliṅgāni mantrārthavādaparāṇi tv eṣāṃ svarūpayāthārthyam iti yad bhavadbhir abhihitaṃ tat tathāstu svārthapratipādanaparāṇāṃ tu śrūyamāṇānāṃ karmarūpādiśabdānāṃ katham arthavattvaṃ syāt // MrgTV_1,1.13:1</l>
+<l>* tatra karmaśabdāḥ kriyābhidhāyinaḥ vrīhīn avahanti ityādayaḥ // MrgTV_1,1.13:2</l>
+<l>* evaṃ rūpaśabdāḥ jātyādiśabdāś ca // MrgTV_1,1.13:3</l>
+<l>* yathā śvetaṃ chāgam ālabheta ity atra śvetaśabdasya rūpābhidhāyinaḥ chāgaśabdasya ca jātivācinaḥ śakrādiśabdavat śabdatvāviśeṣāt svarūpayāthārthyāsaṃbhave saty ānarthakyaṃ tataś ca codanāvākyānām akiṃcitkaratvam // MrgTV_1,1.13:4</l>
+<l>* yad vā śakrādivācakasya vākyasyānyaviṣayatve kalpyamāne tadviṣayāṇām indro vṛtram avadhīt ityādīnāṃ karmaśabdānāṃ sahasradṛgvajrapāṇyādīnāṃ ca rūpādyabhidhāyināṃ śabdānāṃ katham arthavattvaṃ syāt // MrgTV_1,1.13:5</l>
+<l>* na cārghajaratīyanyāya upapādayituṃ śakyo yena vidhiśabdānām eva svarūpayāthārthyaṃ nendrādiśabdānām iti syāt // MrgTV_1,1.13:6</l>
+<l>* yad apy uktaṃ lokavādāḥ kva sādhavaḥ iti tad ayuktam // MrgTV_1,1.13:7</l>
+<l>* yataḥ // MrgTV_1,1.13:8</l>
+
+</div>
+<div>
+
+<lg>
+<l>pravādo 'py akhilo mithyā samūlatvān na yuktimat /</l>
+<l>sa ced amūlo bhūtānāṃ hatāḥ sarvāḥ pravṛttayaḥ || MrgT_1,1.14 ||</l>
+</lg>
+
+<l>* nadyās tīre guḍaśakaṭaṃ paryastam ityāder nirmūlasyāpi pravādasya ekāntena na mithyātvaṃ kadācit saṃvāditatvāt // MrgTV_1,1.14:1</l>
+<l>* tataś ca sarvapravādo na satya ity etan na yuktimat na pramāṇopapannam iti yāvat samūlatve sati mithyātvāsiddheḥ // MrgTV_1,1.14:2</l>
+<l>* mūlaṃ cāsyāgamaḥ // MrgTV_1,1.14:3</l>
+<lg>
+<l>* tathā cāhuḥ /</l>
+<l>* prasiddhim āgamaḥ prāpto loka ity abhidhīyate /</l>
+<l>* iti // MrgTV_1,1.14:4</l>
+</lg>
+<l>* atha nirmūlo yaḥ pravādaḥ sa cen mithyārūpaḥ tad apy ayuktaṃ yasmād evaṃ kalpyamāne bhūtānāṃ sarvāḥ pravṛttayo vyāhanyeran // MrgTV_1,1.14:5</l>
+<l>* sarvo hi hitaprepsur ahitajihāsur vā na pramāṇaghaṭanāṃ kṛtvā tāṃ puraskṛtya lokavyavahāre dṛṣṭaphale sevākṛṣyādāv adṛṣṭaphale veṣṭāpūrtādau pravartate kiṃ tu prāyaśo gatānugatikapravādamātrādhivāsitamatiḥ // MrgTV_1,1.14:6</l>
+<l>* kīdṛśaṃ ca bhavatā pravādasya mūlam anveṣṭavyam // MrgTV_1,1.14:7</l>
+<l>* yadi cirakālapravṛttatvena bahujanoddhoṣsthayamāṇatvaṃ tad yuktam eva // MrgTV_1,1.14:8</l>
+<l>* anyathā pravāda eva nāsau tathā ca sati nāsya mithyātvam // MrgTV_1,1.14:9</l>
+<l>* cirataram anekajanaprathitatve 'pi kuto 'syodbhava ity evaṃ vidhimūlaṃ parīkṣyate tarhy āgamaparīkṣaiveyaṃ na lokavādavicāraḥ // MrgTV_1,1.14:10</l>
+<l>* na caitad evaṃ yato bhavadbhir api śrutirūpād āgamād anya eva sajjanasevito vyavahāraḥ śiṣṭācārākhyo dharmamūlatvenābhyupagata ity alaṃ pradveṣeṇa // MrgTV_1,1.14:11</l>
+<l>* tad evaṃ samūlena lokapravādeneśvarākhyaviśiṣṭadevatāsaṃbhavaḥ // MrgTV_1,1.14:12</l>
+<l>* tathā hi // MrgTV_1,1.14:13</l>
+
+</div>
+<div>
+
+<p>upamanyur haraṃ dṛṣṭvā vimanyur abhavan muniḥ /</p>
+
+<l>* kiṃ na nāmākhilajanapratītam etad yan munir upamanyuḥ parameśvareṇa varapradāne nānugṛhītaḥ // MrgTV_1,1.15ab:1</l>
+<lg>
+<l>* tathā ca mahābhārate ānuśāsanike parvaṇi bhagavadvyāsamuninopamanyuvākyaṃ pradarśitam /</l>
+<l>* āha māṃ bhagavān īśaḥ prahasann iva śaṃkaraḥ /</l>
+<l>* vatsopamanyo prīto 'smi paśya māṃ munipuṃgava // MrgTV_1,1.15ab:2</l>
+</lg>
+<lg>
+<l>* dṛḍhabhakto 'si viprarṣe mayā jijñāsitas tv asi /</l>
+<l>* anayā vatsa sadbhaktyā te 'tyarthaṃ prītavān aham // MrgTV_1,1.15ab:3</l>
+</lg>
+<lg>
+<l>* tasmāt sarvān pradāsyāmi varān ye manasi sthitāḥ /</l>
+<l>* iti // MrgTV_1,1.15ab:4</l>
+</lg>
+<lg>
+<l>* athocyate mithyaitad upamanyunātmaprabhāvakathanāyoktam atra hi kiṃ pramāṇaṃ yad evam asau bhagavatānugṛhīta iti /</l>
+<l>* tad asad yasmāt // MrgTV_1,1.15ab:5</l>
+</lg>
+</div>
+<div>
+
+<l>kathaṃ tasya vaco mithyā yasya vaśyaḥ payonidhiḥ || MrgT_1,1.15 ||</l>
+
+<lg>
+<l>* yasya kila sakalamunijanapratyakṣaparidṛśyamānaḥ kṣīrābdhiḥ svādhīnaḥ tasya vacasaḥ kiṃ nāma mithyātvam /</l>
+<l>* ayam āśayaḥ parameśvarāt prāptavaro 'ham ity anṛtavāditvaṃ tadānīṃ tasya bhavet yadi dugdhodadhivaśīkāraḥ pracuramunijanapratyakṣo na syāt /</l>
+<l>* yadi ca saṃvādīny api vacāṃsi mithyā tarhi na kiṃcit satyavacanam /</l>
+<l>* praśāntarāgadveṣāṇāṃ sākṣātkṛtabhūtabhaviṣyadarthānāṃ munīnām api mithyāvāditvābhyupagame manvādayo 'pi dattadakṣiṇās tvayety aho svadarśanakauśalam // MrgTV_1,1.15cd:1</l>
+</lg>
+<l>* kiṃ ca // MrgTV_1,1.15cd:2</l>
+
+</div>
+<div>
+
+<lg>
+<l>kroḍīkṛto hi pāśena viṣajvālāvalīmucā /</l>
+<l>huṃkṛtya mocitaḥ patyā dṛṣṭaḥ śveto ghanair janaiḥ || MrgT_1,1.16 ||</l>
+</lg>
+
+<l>* viṣānalārciḥparamparākṣepabhīṣaṇenāśīviṣapāśena vivaśīkṛtaḥ śvetaḥ pātīti patis tena patyā trāṇaśīlena parameśvareṇa huṃkāramātraṃ kṛtvā krodhāgninā bhasmīkṛtya mocitaḥ iti ghanair aviralair bhūyobhir janair asmatsajātīyair muniprabhṛtibhiś ca dṛṣṭaḥ // MrgTV_1,1.16:1</l>
+<l>* atrāpi trikāladarśibhir devaiś ca pravartite pravāde yady asamāśvāsas tarhi āgamam eva na sahata iti vaktavyaṃ tathā ca sati śrutir api asahanasya bhavataḥ prāmāṇyalābhe dainyena bhītabhītā mukham anvīkṣata iti tadanukampayā saṃrakṣyatām atisāhasam // MrgTV_1,1.16:2</l>
+<l>* nanu mithyātvahetūnāṃ doṣāṇāṃ kartrāśrayatvād akṛtakatvena nityatvāt śrutes tasyāḥ prāmāṇyāya ko 'yam upahāsaḥ // MrgTV_1,1.16:3</l>
+<l>* na kaścit kiṃ tu kartrabhāvaniścaye pramāṇaṃ notpaśyāmaḥ pratyuta svayaṃbhuve namaskṛtya ityādivākyavat racanāvattvāt kartṛvyāpārāvivanābhāvitvam utprekṣāmaha ity alam anena // MrgTV_1,1.16:4</l>
+<l>* prakṛtam anusarāmaḥ // MrgTV_1,1.16:5</l>
+
+</div>
+<div>
+
+<lg>
+<l>iti vādānuṣaṅgeṇa haraśaṃsāpraharṣitān /</l>
+<l>sāśrugadgadavācas tān vīkṣya prīto 'bhavad dhīraḥ || MrgT_1,1.17 ||</l>
+</lg>
+
+<l>* uktavaddevatāstitvaprastāvāyāyātaparameśvarapraśaṃsāharṣapravṛttānandāśruvaśād avispaṣṭagirastān bharadvājādīn dṛṣṭvā indras tān prati paraṃ tutoṣa ity evaṃ hārītamuniḥ svaśiṣyān āha // MrgTV_1,1.17:1</l>
+
+</div>
+<div>
+
+<lg>
+<l>svaṃ rūpaṃ darśayāmāsa vajrī devaḥ śatakratuḥ /</l>
+<l>taruṇādityasaṃkāśaṃ stūyamānaṃ marudgaṇaiḥ || MrgT_1,1.18 ||</l>
+</lg>
+
+<lg>
+<l>* pratyagrārkabhāsvaraṃ devair gaṇaiś ca stūyamānam ātmīyaṃ rūpaṃ vajrapāṇir devaḥ śatakratuḥ prakaṭīcakāra /</l>
+<l>* tejo'tiśayayogasya hetutayā śatakratur vajrīti ca viśeṣaṇadvayam /</l>
+<l>* kuliśasya svabhāva evāyaṃ yad adbhutaprabhābhāsvaratvaṃ śatakratutvāc ca tajjanitapuṇyaprabhāvād adbhutabhūrimahaḥsamūhatvam iti // MrgTV_1,1.18:1</l>
+</lg>
+
+</div>
+<div>
+
+<lg>
+<l>te tam ṛgbhir yajurbhiś ca sāmabhiś cāstuvan natāḥ /</l>
+<l>so 'bravīd ucyatāṃ kāmo jagatsu pravaro 'pi yaḥ || MrgT_1,1.19 ||</l>
+</lg>
+
+<lg>
+<l>te vavrire śivajñānaṃ śrūyatām iti so 'bravīt /</l>
+<l>kiṃ tv eko 'stu mama praṣṭā nikhilaśrotṛsaṃmataḥ || MrgT_1,1.20 ||</l>
+</lg>
+
+<lg>
+<l>* te bharadvājādayas taṃ pratyakṣīkṛtasvasvarūpam indraṃ ṛgyajuḥsāmabhiḥ prahvāḥ santas tuṣṭuvuḥ /</l>
+<l>* sa ca sarvajagatpravaro varo bhavadbhir abhyarthyatām iti tān āha /</l>
+<l>* te tadaivam uktāḥ pārameśvaraṃ jñānaṃ śāstraṃ vṛtavantaḥ /</l>
+<l>* sa tu tadabhyarthitaṃ jñānopadeśaṃ dātuṃ tān prativacanaṃ śrūyatām ity āha kiṃ tu mamaika eva bhavatāṃ madhyāt sakalaśrotṛjanābhimato yathāvasaram anuktavastunaḥ praṣṭā bhavatu sarvaiś caiva bhavadbhiḥ śrūyatām iti // MrgTV_1,1.20:1</l>
+</lg>
+<l>* evaṃ bhagavatā śakreṇokte sati // MrgTV_1,1.20:2</l>
+
+</div>
+<div>
+
+<lg>
+<l>atha teṣāṃ bharadvājo bhagavān agraṇīr abhūt /</l>
+<l>vāgmī pragalbhaḥ papraccha nyāyataḥ surapūjitam || MrgT_1,1.21 ||</l>
+</lg>
+
+<l>* athānantaraṃ teṣāṃ madhyād aiśvaryādiguṇayogāt bhagavān vividhaśāstrābhyāsādhivāsapraśasyavāgyuktatvāc ca vāgmī praṣṭavyāvasareṣu akauśalāpratipattyādyayogāt pragalbhaś ca bharadvājo munir nyāyata iti nyāyena śiṣyocitayā nītyā yuktyupapannapūrvapakṣakaraṇena vā indram apṛcchad iti // MrgTV_1,1.21:1</l>
+<l>* āha // MrgTV_1,1.21:2</l>
+
+</div>
+<div>
+
+<lg>
+<l>kathaṃ maheśvarād etad āgataṃ jñānam uttamam /</l>
+<l>kiṃ ca cetasi saṃsthāpya nirmame bhagavān idam || MrgT_1,1.22 ||</l>
+</lg>
+
+<l>* yad etad bhagavatā asmabhyam upadeṣṭum ārabdham itarebhyo jñānebhyaḥ sātiśayaphalatvāc chreṣṭhatamaṃ jñānaṃ tat kathaṃ maheśvarāt praśāntasvarūpān niṣkalāc chivāt prasṛtam // MrgTV_1,1.22:1</l>
+<l>* jñānaṃ hi dvirūpam avabodharūpaṃ śabdarūpaṃ ca // MrgTV_1,1.22:2</l>
+<l>* tad avabodharūpaṃ śabdarūpārūḍhaṃ sarveṣu pravartate // MrgTV_1,1.22:3</l>
+<l>* tatrāditaḥ parameśvarād avabodharūpam eva tāvat kathaṃ prāptaṃ kathaṃ ca śabdarūpatām etya bahubhedabhinnaṃ sampannam // MrgTV_1,1.22:4</l>
+<l>* kiṃ cākalayya bhagavān idam akarot // MrgTV_1,1.22:5</l>
+<l>* na hy anabhisaṃhitaprayojanaḥ kaścit kartā kiṃcit kāryaṃ kurvan dṛṣṭaḥ // MrgTV_1,1.22:6</l>
+<l>* tasya ca bhagavata etat karaṇe kiṃ kāraṇam ity arthaḥ // MrgTV_1,1.22:7</l>
+<l>* athātra prativacanam // MrgTV_1,1.22:8</l>
+</div>
+<div>
+
+<lg>
+<l>sṛṣṭikāle maheśānaḥ puruṣārthaprasiddhaye /</l>
+<l>vidhatte vimalaṃ jñānaṃ pañcasroto 'bhilakṣitam || MrgT_1,1.23 ||</l>
+</lg>
+
+<l>* sargaprārambhe parameśvareṇa puruṣārthasya bhuktimuktyātmanaḥ sampattyarthaṃ vimalam ity avabodhātmano nādarūpatvena prathamaṃ prasṛtatvād agṛhītopādhibhedaṃ paratas tūrdhvaprāgdakṣiṇapaścimottarasrotaḥpañcakenābhitaḥ samantāt prasṛtatvena lakṣitam iti sadāśivarūpeṇa darśanātmatāṃ prāpitaṃ jñānaṃ nirmitam iti kramaḥ // MrgTV_1,1.23:1</l>
+<l>* prayojanaṃ ca pūrvapraśnitam upavarṇitam // MrgTV_1,1.23:2</l>
+<l>* kiṃ ca // MrgTV_1,1.23:3</l>
+
+</div>
+<div>
+
+<lg>
+<l>tadvartivācakavrātavācyān aṣṭau maheśvarān /</l>
+<l>saptakoṭiprasaṃkhyātān mantrāṃś ca parame 'dhvani || MrgT_1,1.24 ||</l>
+</lg>
+
+<l>* mantroddhāraprakaraṇābhidhāsyamānajñānamadhyavartino vācakavrātasya mantragaṇasya ye vācyā anantādayo 'ṣṭau vidyeśās tāṃs tathā māyīyasyāśuddhasyādhvanas tatkālam anāvirbhāvāc chuddhavidyābhuvane kṛtasthitīn saptakoṭisaṃkhyātān mantrān parameśvaro vidhatta iti pūrveṇa sambandhaḥ // MrgTV_1,1.24:1</l>
+<l>* kālasāmānye 'pi prathamalakārasya spaṣṭatvāt sṛṣṭikāle vyadhād ity arthaḥ pratisargakālaṃ vā tathā karotīti vartamānataiva // MrgTV_1,1.24:2</l>
+<l>* tatra vidyeśvarāṇāṃ vāmādiśaktiyogitvena svasamaprabhāvāvirbhāvanaṃ nāma karaṇaṃ mantrāṇāṃ tv āgamāpagamāt prakaṭīkṛtadṛkkriyatvam // MrgTV_1,1.24:3</l>
+<l>* ubhayeṣām apy eṣāṃ parameśvarāj jñānakriyāśaktyor uddīpanaṃ jñeyam na punar muktāṇuvan nirmalīkaraṇam adhikāramalenāparatvān mukter asyā iti vakṣyāmaḥ // MrgTV_1,1.24:4</l>
+<l>* tad evaṃ mantramaheśvarān mantrāṃś coktvā mantreśvarān vaktum āha // MrgTV_1,1.24:5</l>
+
+</div>
+<div>
+
+<lg>
+<l>aṣṭādaśādhikaṃ cānyac chrutaṃ māyādhikāriṇām /</l>
+<l>mantreśvarāṇām ūrdhvādhvasthiteśopamatejasām || MrgT_1,1.25 ||</l>
+</lg>
+
+<l>* māyāyām adhikāriṇo māyādhikāriṇas teṣām uparitanaśuddhādhvavartividyeśvarasamānadhāmnām aṣṭādaśādhikaṃ śataṃ vidhatta iti pūrveṇaiva sambandhaḥ // MrgTV_1,1.25:1</l>
+<l>* tatra maṇḍalino 'ṣṭau vakṣyamāṇāḥ krodhādyāś cāṣṭāv eva rudrāṇāṃ ca brahmāṇḍadhārakāṇāṃ śataṃ śrīkaṇṭhavīrabhadrau cety evam aṣṭādaśottaraṃ śataṃ prāgvan mantreśvaratve śivena niyuktam ity arthaḥ // MrgTV_1,1.25:2</l>
+
+</div>
+<div>
+
+<lg>
+<l>teṣu vyaktaḥ sa bhagavān idaṃ yogyeṣu siddhaye /</l>
+<l>prakāśayaty ato 'nyeṣu yo 'rthaḥ samupapadyate || MrgT_1,1.26 ||</l>
+</lg>
+
+<lg>
+<l>* teṣv anantādiṣu mantramaheśvareṣu maṇḍalyādiṣu ca mantreśvareṣv abhivyakto deva idam ity anantaropakrāntaṃ jñānaṃ prakāśayati /</l>
+<l>* kasmin viṣaye kim arthaṃ prakāśayatīty āha yogyeṣu siddhaye paripakvāñjanatvān niratiśayaśreyaḥprepsuṣu bhuktyarthaṃ muktyarthaṃ ca vaktīty arthaḥ /</l>
+<l>* ato 'nyeṣv iti etacchāstrārhebhyo ye 'nye aparipakvāñjanatayā paśuśāstrānuvartinas teṣu viṣayeṣu yaḥ kāpilapāñcarātrādi prāpyo 'rthaḥ samyag iti taduktayogyatānusāreṇopapadyate anuguṇo bhavati taṃ prakāśayati /</l>
+<l>* paśuśāstrapraṇetḥn adhiṣṭhāya tattacchāstraprakāśanam api pāramparyeṇa kuruta iti yāvat // MrgTV_1,1.26:1</l>
+</lg>
+<l>* athāsya jñānasyāsmabhyam abhidhīyamānasya kim abhidhānam ity āha // MrgTV_1,1.26:2</l>
+
+</div>
+<div>
+
+<lg>
+<l>śivodgīrṇam idaṃ jñānaṃ mantramantreśvareśvaraiḥ /</l>
+<l>kāmadatvāt kāmiketi pragītaṃ bahuvistaram || MrgT_1,1.27 ||</l>
+</lg>
+
+<l>* parameśvarāt proktena krameṇa prasṛtam etaj jñānaṃ śāstraṃ skandasya devyās tad anyeṣāṃ ca pṛthak pṛthak śrotḥṇāṃ bahutvād bahubhedatvena vistaram abhimatakāmadatvāt kāmikatvenopadeṣṭṛbhir mantrāṇāṃ mantreśvarāṇāṃ ceśvarair mantramaheśvarair anantādibhir upadiṣṭam // MrgTV_1,1.27:1</l>
+<l>* tebhya āgamayya kasmai kiyatā granthena ko dattavān ity āha // MrgTV_1,1.27:2</l>
+
+</div>
+<div>
+
+<lg>
+<l>tebhyo 'vagatya dṛgjyotirjvālālīḍhasmaradrumaḥ /</l>
+<l>dadāv umāpatir mahyaṃ sahasrair bhavasaṃmitaiḥ || MrgT_1,1.28 ||</l>
+</lg>
+
+<l>* tebhyo 'nanteśādibhyas tṛtīyanetrāgniśikhānirdagdhasmaratarur bhagavān umāpatir adhigamya bhavasaṃkhyair ekādaśabhiḥ sahasraiḥ saṃkṣipya mahyam adāt // MrgTV_1,1.28:1</l>
+<l>* so 'ham idānīm // MrgTV_1,1.28:2</l>
+
+</div>
+<div>
+
+<lg>
+<l>tatrāpi vistaraṃ hitvā sūtraiḥ sārārthavācakaiḥ /</l>
+<l>vakṣye nirākulaṃ jñānaṃ taduktair eva bhūyasā || MrgT_1,1.29 ||</l>
+</lg>
+
+<l>* tatrāpi arthavādānuvādarūpaṃ vistaraṃ tyaktvā sārārthābhidhāyibhir bāhulyena kvacit taduktaiḥ kvacic cātmīyair nirākulaṃ kramaṃ jñānaṃ śāstram abhidhāsye itīndro munīn āheti hārītaḥ svaśiṣyān brūte // MrgTV_1,1.29:1</l>
+
+</div>
+<div>
+
+<p>Mṛgendratantra, Vidyāpāda, 2</p>
+
+<lg>
+<l>athānādimalāpetaḥ sarvakṛt sarvavicchivaḥ /</l>
+<l>pūrvavyatyāsitasyāṇoḥ pāśajālam apohati || MrgT_1,2.1 ||</l>
+</lg>
+
+<l>* sambandhābhidheyaprayojanāni prathamam eva vivecitāni // MrgTV_1,2.1:1</l>
+<l>* athety ānuṣaṅgikasambandhādikathanād anantaraṃ vidyākhyaḥ pādaḥ prakramyate // MrgTV_1,2.1:2</l>
+<l>* atra ca śāstre patipaśupāśākhyās trayaḥ padārthāḥ // MrgTV_1,2.1:3</l>
+<l>* paśūnām asvātantryāt pāśānām ācaitanyāt tadvilakṣaṇasya patyuḥ pañcavidhakṛtyakāritvam tatkārakāṇi svaśaktirūpāṇi māyādīni ca kriyā ca dīkṣādyā tatphalaṃ ca paśūnām anugrahākhyena karmaṇā parakaivalyāsādanam ityādi abhidhāsyamānam // MrgTV_1,2.1:4</l>
+<l>* tadgarbhīkāreṇedaṃ mūlasūtram // MrgTV_1,2.1:5</l>
+<l>* anādimalāpeta iti // MrgTV_1,2.1:6</l>
+<l>* anādiśabdaḥ kriyāviśeṣaṇam // MrgTV_1,2.1:7</l>
+<l>* anādi kṛtvā malāpetaḥ svabhāvanirmalaḥ parameśvaraḥ tathā anādiś cāsau malāpetaś ca tatprasādāt pradhvastasamastamalo muktāṇuvargaḥ kiṃ ca anāder malād apetaḥ svābhāvikamalavidāraṇāt parameśvareṇa prakaṭīkṛtadṛkkriyaḥ kiṃcid avaśeṣitatvād ādimatā adhikāramalena yukto mantramantreśvaramantramaheśvaravarga ity evaṃ samāsatrayakaraṇāt muktāṇubhir vidyeśvarādibhiś ca sahitaḥ patipadārthaḥ atra sūcitaḥ // MrgTV_1,2.1:8</l>
+<l>* tasya ca trividhasyāpi sarvajñatā sarvakartṛtvaṃ ca vidyate muktātmanāṃ tu saty api sarvārthadṛkkriyatve pāśajālāpohanasāmarthyam asti na tv apohanakartṛtvam // MrgTV_1,2.1:9</l>
+<l>* yatas te karaṇīyasyābhāvāt na pravartante ataḥ svātmany eva śreyoyogāc chivatvam eteṣāṃ vidyeśvarāṇāṃ śivapadaprāptihetutvāt bhagavatas tu sarvānugrahapravṛttatvāt // MrgTV_1,2.1:10</l>
+<l>* tathā ca muktātmanām apravṛttatvāt vidyeśvarāṇāṃ ca parameśvarapāratantryāt svatantraḥ sa bhagavān // MrgTV_1,2.1:11</l>
+<l>* kiṃ karotīty āha pūrvavyatyāsitasyāṇoḥ // MrgTV_1,2.1:12</l>
+<l>* pāśajālaṃ vyapohatīti aṇor iti vijñānākalapralayākalasakalatvena trirūpasya tathā vijñānākalapralayākalātmanor viparyavasitamaleśvaraśaktyadhikāratadanyathābhāvabhedāt pratyekaṃ dvividhayoḥ sakalasyāpi tribandhanabaddhasya kutaścid upāyāt prakṣīṇakarmatayā kevalakalādiyuktasya ca evaṃ dviprakārasyāsyaiva ca pratyekaṃ videhasadehabhedāt pratibhedaṃ ca malādyadhikāravirahiṇas tadyuktasya cety aṣṭaprakārasya ittham anekabhedabhinnasyātmanaḥ parameśvaraḥ pāśajālaṃ yathāsaṃbhavam apohatīti saṃbandhaḥ // MrgTV_1,2.1:13</l>
+<l>* yasya ca yathā cāpohati tat sarvaṃ yathāvasaram agre vakṣyāmaḥ // MrgTV_1,2.1:14</l>
+<l>* kīdṛśasyāṇor ity āha pūrvavyatyāsitasyeti pūrvair anādikālīnair malakarmamāyāparameśvaranirodhaśaktyākhyair yathāsaṃbhavaṃ hetutayā sthitair vyatyāsitasya parameśvarād vaisādṛśyaṃ prāpitasya tatpreryasya bandhāntarayoginaś ca // MrgTV_1,2.1:15</l>
+<l>* ayam arthaḥ maleneśvaranirodhaśaktyā karmabhiś ca sadbhir aṇor aśivatvaṃ tataś ca bandhāntarayogaḥ tadapohane tu śivatvam // MrgTV_1,2.1:16</l>
+<l>* evaṃ ca śivavaisādṛśye ta evānādayo hetavaḥ // MrgTV_1,2.1:17</l>
+<l>* śivas tv apratibaddhaniratiśayasarvārthadṛkkriyāśaktiḥ teṣāṃ yogyatām apekṣya anugrahe pravṛttaḥ pāśavrātam apohati nirasyati // MrgTV_1,2.1:18</l>
+<l>* upasargād asyatyūhyor vā vacanam ity apohatipadam // MrgTV_1,2.1:19</l>
+<l>* tad evam akhilatantrārthasūcanād etan mūlasūtram // MrgTV_1,2.1:20</l>
+<l>* tathā cehaiva vyākhyānāvasare vakṣyati yatra bīja ivārūḍho mahātantrārthapādapaḥ ābhāti mūlasūtraṃ tad athaśabdādyalaṃkṛtam iti // MrgTV_1,2.1:21</l>
+
+</div>
+<div>
+
+<lg>
+<l>tripadārthaṃ catuṣpādaṃ mahātantraṃ jagatpatiḥ /</l>
+<l>sūtreṇaikena saṃhṛtya prāha vistaraśaḥ punaḥ || MrgT_1,2.2 ||</l>
+</lg>
+
+<l>* pāśasadbhāve hy ātmanāṃ janmasthitidhvaṃsatirobhāvānugrahakṛt bhagavān bhavatīti patipaśupāśātmavyatiriktaṃ na kiṃcit padārthāntaraṃ prayojanavad eṣv evānyeṣām antarbhāvād iti tripadārthatvam uktam // MrgTV_1,2.2:1</l>
+<l>* kiṃ ca pāśajālam apohatīty apohatikriyākṣiptāḥ kriyācaryāyogapādāḥ patipaśupāśoktyākṣiptaś ca vidyāpāda iti pādacatuṣṭayopakṣepaḥ kṛtaḥ // MrgTV_1,2.2:2</l>
+<l>* mahātantram iti darśanāntarebhyo 'dhikaphalatvāc chivabhedakatvena paratvād vā mahat tantritatattatprameyatvāc ca tantram // MrgTV_1,2.2:3</l>
+<l>* ekenaivāmunā sūtreṇa saṃhṛtya saṃgṛhya punar vistareṇaitad eva prameyaṃ jagatpatiḥ śrīkaṇṭhanāthaḥ prāha // MrgTV_1,2.2:4</l>
+<l>* mūlasūtrāt sarvakṛt sarvavid iti viśeṣaṇadvayaṃ vyācaṣṭe // MrgTV_1,2.2:5</l>
+
+</div>
+<div>
+
+<lg>
+<l>jagajjanmasthitidhvaṃsatirobhāvavimuktayaḥ /</l>
+<l>kṛtyaṃ sakārakaphalaṃ jñeyam asyaitad eva hi || MrgT_1,2.3 ||</l>
+</lg>
+
+<lg>
+<l>tena svabhāvasiddhena bhavitavyaṃ jagatkṛtā /</l>
+<l>arvāksiddhe 'navasthā syān mokṣo nirhetuko 'pi vā || MrgT_1,2.4 ||</l>
+</lg>
+
+<l>* jagato janmavaj jantucakrasya bhogopayogiparikarasahitasya paunaḥpunyena tattadvividhayoniṣu udbhāvanaṃ janma sthitis tadicchāniruddhasya sarvalokasya svagocare niyogaḥ sthāpanaṃ dhvaṃsa ādānaṃ jagadyonāv upasaṃhāraḥ tirobhāvo yathānurūpād bhogād apracyāvaḥ saṃrakṣaṇākhyayāny atroktaḥ // MrgTV_1,2.4:1</l>
+<l>* yad āha vārttikakāraḥ // MrgTV_1,2.4:2</l>
+<l>* svasaṃskārocitād bhogād apracyāvaḥ śarīriṇām // MrgTV_1,2.4:3</l>
+<l>* proktaṃ saṃrakṣaṇaṃ nāma nyāyena parikalpanam iti // MrgTV_1,2.4:4</l>
+<l>* vimuktiśabdenātrānudhyānarūpo 'nugraha ity etat parameśvarasya saṃbandhi pañcavidhaṃ kṛtyaṃ kārakaiḥ śaktyādibhiḥ phalena ca bhuktimuktyātmanā sahitaṃ jñeyam avaboddhavyam // MrgTV_1,2.4:5</l>
+<l>* etac ca na māyādibhiḥ karmabhir vā nirvartayituṃ śakyam ācaitanyāt nāpi puruṣeṇāsya malaniruddhaśaktitvāt // MrgTV_1,2.4:6</l>
+<l>* na cānīśvaro 'tra kartā yuktaḥ // MrgTV_1,2.4:7</l>
+<l>* yaś caitat sṛṣṭyādi kartuṃ śaknoti so 'vaśyaṃ tadviṣayajñaḥ cikīrṣitakāryaviṣayāṇāṃ jñānaviśeṣāṇām aṃśenāpi vaikalye tattatkāryāniṣpatteḥ // MrgTV_1,2.4:8</l>
+<l>* ataś ca sarvakartrā sarvajñena tena ca svabhāvasiddhena jagataḥ kartrā bhavitavyam // MrgTV_1,2.4:9</l>
+<l>* arvāg iti ādimattvena siddhe tasminn abhyupagamyamāne yadi kāraṇāt kutaścit tasyāsāv anugrahas tasyāpi kāraṇaṃ tatkāraṇasyāpi kāraṇāntaraṃ mṛgyam ity anavasthā // MrgTV_1,2.4:10</l>
+<l>* athāsya vinaiva kāraṇaṃ svata eva tathāvidham aiśvaryaṃ tad akasmāj jātaṃ tarhy eṣa nirhetuko mokṣo 'nyān apekṣaṇāt sarvasyaiva syāt tasyāpi vā na syāt // MrgTV_1,2.4:11</l>
+<lg>
+<l>* yad āhuḥ /</l>
+<l>* nityaṃ sattvam asattvaṃ vā hetor anyān apekṣaṇāt /</l>
+<l>* apekṣāto hi bhāvānāṃ kādācitkatvasaṃbhavaḥ iti // MrgTV_1,2.4:12</l>
+</lg>
+<l>* tasmāt svabhāvasiddhanityaniratiśayanirmalasarvārthadṛkkriyaḥ patipadārthaḥ pūrvam uddiṣṭo 'nena lakṣitaḥ parīkṣyate purastāt // MrgTV_1,2.4:13</l>
+<l>* idānīṃ paśupadārthaṃ lakṣayitum āha // MrgTV_1,2.4:14</l>
+
+</div>
+<div>
+
+<lg>
+<l>caitanyaṃ dṛkkriyārūpaṃ tad asty ātmani sarvadā /</l>
+<l>sarvataś ca yato muktau śrūyate sarvatomukham || MrgT_1,2.5 ||</l>
+</lg>
+
+<lg>
+<l>sad apy abhāsamānatvāt tan niruddhaṃ pratīyate /</l>
+<l>vaśyo 'nāvṛtavīryasya so 'ta evāvimokṣaṇāt || MrgT_1,2.6 ||</l>
+</lg>
+
+<l>* jñānakriyātmakaṃ yac caitanyaṃ tad ātmany asti na tu śarīrasamavetam iti cārvākanirākaraṇe vakṣyāmaḥ // MrgTV_1,2.6:1</l>
+<l>* tac ca sarvadaivāsti na tu muktāv eva // MrgTV_1,2.6:2</l>
+<l>* muktau tu saṃvittyabhāvo yathā vaiśeṣikair iṣṭaḥ tathāvidhāyā moharūpāyā mukter nirākariṣyamāṇatvāt // MrgTV_1,2.6:3</l>
+<l>* tac cātmanaś caitanyaṃ jñānakriyātmakaṃ sarvatomukham asti na tu kṣapaṇakānām iva dehapramāṇakatvaniyamād avyāpi paśupadārthaprakaraṇe vyāpakatvasya vakṣyamāṇatvāt // MrgTV_1,2.6:4</l>
+<l>* atra hetum āha yato muktau śrūyate sarvatomukhaṃ muktātmanāṃ sarvatomukhasya caitanyasya śravaṇād ity arthaḥ // MrgTV_1,2.6:5</l>
+<l>* na ca teṣāṃ tadānīm eva tad utpadyate iti vācyaṃ sadutpatteḥ satkāryavādaprakaraṇe 'bhidhāsyamānatvāt // MrgTV_1,2.6:6</l>
+<l>* atha muktāv eva tathāvidhacaitanyaśruteḥ pūrvaṃ ca tadanupalambhād anvayavyatirekābhyāṃ saṃsārāvasthāyāṃ sarvatomukhatvaṃ caitanyasya kuta ity āśaṅkānirāsāyāha sad apy abhāsamānatvād ityādi // MrgTV_1,2.6:7</l>
+<l>* satyam anupalambhaḥ saṃsārāvasthāyāṃ tathāvidhasya caitanyasya // MrgTV_1,2.6:8</l>
+<l>* sa tv anyathāsiddhaḥ // MrgTV_1,2.6:9</l>
+<l>* vyañcakābhāvakṛto hi yo 'nupalambhaḥ sa nābhāvasādhakaḥ api tu asati vyañjake yaś cāyam anupalambhaḥ sa vyañjakābhāvakṛtaḥ ataś ca nāsattvaṃ sādhayati // MrgTV_1,2.6:10</l>
+<l>* tac ca sarvatomukhatvaṃ sad api yasmān na prathate tataḥ kenāpi pratibaddham ity avasīyate // MrgTV_1,2.6:11</l>
+<l>* asmāc ca hetor anāvṛtanijasāmarthyasya mukteḥ purā sa ātmā vaśya iti // MrgTV_1,2.6:12</l>
+
+</div>
+<div>
+
+<lg>
+<l>prāvṛtīśabale karma māyākāryaṃ caturvidham /</l>
+<l>pāśajālaṃ samāsena dharmā nāmnaiva kīrtitāḥ || MrgT_1,2.7 ||</l>
+</lg>
+
+<l>* prāvṛṇoti prakarṣeṇācchādayati ātmanāṃ dṛkkriye iti prāvṛtiḥ svābhāviky aśuddhir mala ity arthaḥ // MrgTV_1,2.7:1</l>
+<l>* īṣṭe svātantryeṇetīśaḥ tadīyaṃ balaṃ rodhaśaktir dvitīyaḥ pāśaḥ // MrgTV_1,2.7:2</l>
+<l>* tathā hy agre vakṣyati tāsāṃ māheśvarī śaktiḥ sarvānugrāhikā śivā dharmānuvartanād eva pāśa ity upacaryate iti // MrgTV_1,2.7:3</l>
+<l>* kriyate tattatphalārthibhir iti karma tasya cānāditvam ādyakoṭer anupalabhyamānatvāt yataḥ // MrgTV_1,2.7:4</l>
+<l>* śarīravataḥ karma karaṇaṃ tac ca śarīraṃ karmārabdhaṃ tānyapi śarīrāntareṇa kṛtāni tac ca karmajam iti so 'yaṃ tṛtīyaḥ pāśaḥ // MrgTV_1,2.7:5</l>
+<l>* mātyasyāṃ śaktyātmanā pralaye sarvaṃ jagat sṛṣṭau vyaktiṃ yātīti māyā // MrgTV_1,2.7:6</l>
+<lg>
+<l>* yathoktaṃ śrīmatsaurabheye /</l>
+<l>* śaktirūpeṇa kāryāṇi tallīnāni mahākṣaye vikṛtau vyaktim āyānti iti // MrgTV_1,2.7:7</l>
+</lg>
+<l>* svakāryeṇa kalādinā sahiteyam apy anādikālīnā caturthaḥ pāśa iti // MrgTV_1,2.7:8</l>
+<l>* etad ātmanāṃ sahajasāmarthyapratibandhakatvāt pāśānāṃ jālam iva jālaṃ samāsataḥ saṃkṣepād uktam // MrgTV_1,2.7:9</l>
+<l>* yeṣāṃ ca ye dharmā vyāpārās te nāmnaiva pradarśitāḥ anvarthena svābhidhānena sūcitās tathāpi yathāvasaraṃ vakṣyante // MrgTV_1,2.7:10</l>
+<l>* atha padārthatrayopasaṃhāraḥ // MrgTV_1,2.7:11</l>
+
+</div>
+<div>
+
+<lg>
+<l>iti vastutrayasyāsya prākpādakṛtasaṃsthiteḥ /</l>
+<l>caryāyogakriyāpādair viniyogo 'bhidhāsyate || MrgT_1,2.8 ||</l>
+</lg>
+
+<l>* ittham asyaiva padārthatrayasya vidyāpāde sthitasya caryādipādatrayeṇa viniyogo vibhajanam abhidhāsyate vakṣyate // MrgTV_1,2.8:1</l>
+<l>* evaṃvidhena vidhinā patiḥ pāśopaśamanaṃ kṛtvā paśūnāṃ kaivalyado bhavati ātmanām iti pratipadam eṣām eva praviveko 'bhidhāsyata ity arthaḥ // MrgTV_1,2.8:2</l>
+<l>* tatphalakathanāyāha // MrgTV_1,2.8:3</l>
+
+</div>
+<div>
+
+<lg>
+<l>viniyogaphalaṃ muktir bhuktir apy anuṣaṅgataḥ /</l>
+<l>parāparavibhāgena bhidyete te tv anekadhā || MrgT_1,2.9 ||</l>
+</lg>
+
+<l>* tasya ca viniyogasya vibhajanasya muktiḥ phalam anuṣaṅgataḥ anuniṣpannatayā muktir api vakṣyamāṇā bhautikadīkṣādibhiḥ samabhilaṣitabhogopabhogāt parataḥ parakaivalyāvirbhāvaḥ // MrgTV_1,2.9:1</l>
+<l>* tathā coktaṃ rurusaṃhitāyām // MrgTV_1,2.9:2</l>
+<l>* dīkṣāpūtā gaṇapatiguror maṇḍale janmavantaḥ siddhā mantrais taruṇadinakṛnmaṇḍalodbhāsidehāḥ // MrgTV_1,2.9:3</l>
+<l>* bhuktvā bhogān suciram amarastrīnikāyair upetāḥ srastotkaṇṭhāḥ śivapadaparaiśvaryabhājo bhavantīti // MrgTV_1,2.9:4</l>
+<l>* tena bhuktimuktī parāparavibhāgena bahudhā bhidyete // MrgTV_1,2.9:5</l>
+<l>* tatra parā muktiḥ pātālādikalāntādhvavartivicitraiśvaryasampannatattadbhuvanādhipatyaṃ tattadbhuvanavāsitvamātraṃ cāparā // MrgTV_1,2.9:6</l>
+<l>* evaṃ parā muktiḥ parameśvarasāmyam aparā tu mantramantreśvaratvam // MrgTV_1,2.9:7</l>
+<l>* āsāṃ ca yathā bahubhedatvaṃ tathāgre vakṣyāmaḥ // MrgTV_1,2.9:8</l>
+<l>* athānyebhyo darśanebhyaḥ ko 'sya pārameśvarasya jñānasya viśeṣa iti muniḥ praṣṭum āha // MrgTV_1,2.9:9</l>
+
+</div>
+<div>
+
+<lg>
+<l>vedāntasāṃkhyasadasatpādārthikamatādiṣu /</l>
+<l>sasādhanā muktir asti ko viśeṣaḥ śivāgame || MrgT_1,2.10 ||</l>
+</lg>
+
+<l>* vedāntavidāṃ mateṣūpaniṣadādiśāstreṣu ṣaṣṭitantrādiṣu sadasadvādinām arhatāṃ ca mateṣv akalaṅkatritayaprasūtiṣu dravyādipadārthavādikāṇādādiśāstreṣu ādigrahaṇāt saugatādimateṣv api yato muktis tatsādhanāni ca śrūyante tataḥ ko 'sau śivāgame viśeṣaḥ iti viśeṣajijñāsayā tadvyavasitasya muneḥ praśnaḥ na saṃdigdhatvenādāv eva viśeṣasambhāvanāniścayataḥ śrotuṃ pravṛttatvāt nāpi viparyastatvena te vavrire śivajñānam ity abhyarthanāpravṛttatvena darśanāntarānabhiniviṣṭatvapratīteḥ // MrgTV_1,2.10:1</l>
+<l>* tattadāgamaśrutā muktis tatsādhanāni ca purastāt teṣu teṣv avasareṣu granthakṛtaivānubhāṣya dūṣayiṣyanta iti nāsmābhiḥ pṛthak prayatnena darśyante // MrgTV_1,2.10:2</l>
+<l>* atra siddhāntaḥ // MrgTV_1,2.10:3</l>
+
+</div>
+<div>
+
+<lg>
+<l>praṇetrasarvadarśitvān na sphuṭo vastusaṃgrahaḥ /</l>
+<l>upāyāḥ saphalās tadvac chaive sarvam idaṃ param || MrgT_1,2.11 ||</l>
+</lg>
+
+<l>* praṇetāro hiraṇyagarbhādyāḥ kaṇādapatañjalikapilaprabhṛtayaś ca te cāsarvajñāḥ aparatvenābhimatāḥ svaprameyād ūrdhvavartino yuktyāgamopapannasya prameyajātasya tair anavagamāt // MrgTV_1,2.11:1</l>
+<l>* tad svabhāvapuruṣāvyaktakarmakālātmavādibhiḥ // MrgTV_1,2.11:2</l>
+<lg>
+<l>* uktaṃ /</l>
+<l>* parameśam adṛṣṭvaiva muktir mithyaiva kalpitā iti // MrgTV_1,2.11:3</l>
+</lg>
+<lg>
+<l>* tathā /</l>
+<l>* sugato yadi sarvaśaḥ kapilo neti kā pramā // MrgTV_1,2.11:4</l>
+</lg>
+<l>* athobhāv api sarvajñau mitibhedas tayoḥ katham iti // MrgTV_1,2.11:5</l>
+<l>* tair yataḥ praṇītāni śāstrāṇi ata evaiteṣu vastusaṃgraho 'py asphuṭaḥ puṃspratibaddhāpavargajñānam aspaṣṭam ity arthaḥ // MrgTV_1,2.11:6</l>
+<l>* ye cātropāyāḥ puṃsprakṛtivivekajñānabrahmādvaitābhyāsaṣoḍaśapadārthajñānādayaḥ phalāni ca svargāpavargalakṣaṇāni tat sarvaṃ tadvad aspaṣṭam eva tathātathāvakṣyamāṇanirvāhāsahatvāt // MrgTV_1,2.11:7</l>
+<l>* tasmāt tebhyo 'syāyaṃ viśeṣaḥ yad iha sarvaṃ prakṛṣṭaṃ yataḥ paśupāśātītaniratiśayasarvārthajñānakriyātmanā parameśvareṇedam ādiṣṭam iti praṇetṛgataṃ paratvam upāyānām api dīkṣādīnāṃ paridṛṣṭasaṃvāditatvāt paratvam // MrgTV_1,2.11:8</l>
+<l>* tathāhi saddīkṣādinā brahmahatyādimahāpātakayogino 'py apetapātakatvaṃ dṛṣṭam ity ato viṣasya māraṇātmakaśaktyapaharaṇavat pāśānāṃ bandhakatvavyapagamaḥ siddhaḥ // MrgTV_1,2.11:9</l>
+<lg>
+<l>* tad śuddhiṃ vrajati uktaṃ /</l>
+<l>* tulāyāṃ dīkṣāto brahmahetyato mukhyāt // MrgTV_1,2.11:10</l>
+</lg>
+<l>* pratyayato jānīyād bandhanavigamaṃ viṣakṣayavat iti // MrgTV_1,2.11:11</l>
+<l>* phalaṃ cehānyasarvadarśanadṛṣṭād bhogāpavargalakṣaṇāt phalāt prakṛṣṭam // MrgTV_1,2.11:12</l>
+<l>* uktaṃ hi śrīmanmataṃgake agnihotrādibhiḥ pūtās tathā cāndrāyaṇādibhiḥ // MrgTV_1,2.11:13</l>
+<l>* lokatraye 'pi modante vimānasthā yaśasvinaḥ // MrgTV_1,2.11:14</l>
+<l>* athāpnuyuḥ padaṃ śākram iṣṭvā kratuśataṃ vidheḥ // MrgTV_1,2.11:15</l>
+<l>* yā gatiḥ śivabhaktānāṃ śāṭhyenāpi mahātmanām // MrgTV_1,2.11:16</l>
+<l>* na sā yajñasahasreṇa prāpyate munipuṃgaveti // MrgTV_1,2.11:17</l>
+<l>* apavargo 'py asmin darśane sarvāṇy āgamāgocaratvāt paraḥ tattadāgamapraṇetḥṇāṃ sāñjanatvenāsarvajñatvāt tadupadiṣṭāyā mukter muktyābhāsatvāt // MrgTV_1,2.11:18</l>
+<lg>
+<l>* uktaṃ ca śrīmadbhārgavottare /</l>
+<l>* anyatantreṣu ye muktā dharmādharmakṣayān narāḥ // MrgTV_1,2.11:19</l>
+</lg>
+<l>* te 'tra rudrāṇavaḥ proktā guṇatrayavivarjitāḥ iti // MrgTV_1,2.11:20</l>
+<l>* atha kiṃ tadanyadarśanānām asphuṭatvam ity āha // MrgTV_1,2.11:21</l>
+
+</div>
+<div>
+
+<p>vedānteṣv eka evātmā cidacidvyaktilakṣitaḥ /</p>
+
+<l>* ātmaivedaṃ jagat sarvaṃ neha nānāsti kiṃcana // MrgTV_1,2.12ab:1</l>
+<l>* tathaiko vaśī sarvabhūtāntarātmā ekaṃ viśvaṃ bahudhā yaḥ karoti // MrgTV_1,2.12ab:2</l>
+<l>* ityādi śrutibhiḥ paramātmaiva sakalacidacidbhāvāvirbhāvatirobhāvaprakṛtisūtaḥ paripūrṇaṣāḍguṇyavaibhavasvatantraḥ eko 'pi san saṃsṛṣṭyarthaṃ tattadvividhamanolakṣaṇopādhibhedena svabhāvāntarānuvidhāyī yathāvad avagato 'bhyudayāya bhavatīti vedāntavidaḥ pratipannāḥ // MrgTV_1,2.12ab:3</l>
+<l>* sa eva hi sattvātmani śānta upādhau śānta iva rajobahule tu bhagavān ivājñānātmake ca tamasi mugdha ivāste na tu tato 'nyat pṛthak kiṃcid avatiṣṭhate tasyaiva tathā tathā vaicitryeṇāvasthiteḥ satyatvāt dvaitapratibhāsasya dvicandrādijñānavat bhrāntatvāt // MrgTV_1,2.12ab:4</l>
+<l>* tathā cāha tatrabhavān bhartṛhariḥ // MrgTV_1,2.12ab:5</l>
+<lg>
+<l>* yathā viśuddham ākāśaṃ timiropapluto janaḥ /</l>
+<l>* saṃkīrṇam iva mātrābhiś citrābhir abhimanyate // MrgTV_1,2.12ab:6</l>
+</lg>
+<lg>
+<l>* tathedam amṛtaṃ brahma nirvikāram avidyayā /</l>
+<l>* kaluṣatvam ivāpannaṃ bhedarūpe pravartate iti // MrgTV_1,2.12ab:7</l>
+</lg>
+<l>* evaṃ cābhinnam evedaṃ paraṃ brahma paramātmalakṣaṇam // MrgTV_1,2.12ab:8</l>
+<l>* manasāṃ hi saṃsāradharmaiḥ sukhaduḥkhādibhir yogaḥ paramātmā tu sūrya ivāmbhaḥpratibimbabhedair upādhibhir abhinno 'pi bhinna iva pratibhāti // MrgTV_1,2.12ab:9</l>
+<lg>
+<l>* tathā ca śrutiḥ /</l>
+<l>* yathā hy ayaṃ jyotirātmā vivasvān apo bhinnā bahudhaiko 'nugacchan /</l>
+<l>* upādhinā kriyate bhedarūpo devaḥ kṣetreṣv evam ajñas tathātmeti // MrgTV_1,2.12ab:10</l>
+</lg>
+
+</div>
+<div>
+
+<l>pratijñāmātram evedaṃ niścayaḥ kiṃnibandhanaḥ || MrgT_1,2.12 ||</l>
+
+<l>* om ity upapattyanupapattiparyālocanaparihāreṇa yady etad aṅgīkriyate kāmam avatiṣṭhatāṃ na tu prāmāṇikarītyā // MrgTV_1,2.12cd:1</l>
+<l>* yasmāt pratijñāmātram evaitat na tv atra hetudṛṣṭāntādisaṃbhavaḥ // MrgTV_1,2.12cd:2</l>
+<l>* tadabhāvān niścayaḥ kiṃnibandhanaḥ kimāśrayaḥ // MrgTV_1,2.12cd:3</l>
+<l>* pramāṇanibandhano hi niścayas tattatprameyavyavasthāpanasamartho bhavati nānyathā // MrgTV_1,2.12cd:4</l>
+<l>* nanv atra pramāṇam āgamas tāvac chrutirūpaḥ pradarśita evety āha // MrgTV_1,2.12cd:5</l>
+
+</div>
+<div>
+
+<lg>
+<l>atha pramāṇaṃ tatrātmā prameyatvaṃ prapadyate /</l>
+<l>yatraitad ubhayaṃ tatra catuṣṭayam api sthitam || MrgT_1,2.13 ||</l>
+</lg>
+
+<l>* yadi pramāṇam asatyarūpaṃ paramārthataḥ paramātmana eva satyatvāt tathāvidhena pramāṇenaitat pramīyamāṇaṃ manor nimitena pradīpena san tamasāvasthitapadārthapravivecanaprāyam // MrgTV_1,2.13:1</l>
+<l>* atha satyam eva pramāṇam evaṃ tarhi sa paramātmā prameyatvena sthitaḥ // MrgTV_1,2.13:2</l>
+<l>* pramāṇaṃ hi prameyaṃ paricchindat pramāṇatām āsādayati itarathā pramāṇataivāsya na syāt // MrgTV_1,2.13:3</l>
+<l>* kiṃca ataḥ // MrgTV_1,2.13:4</l>
+<l>* kim anyad yatraitad dvitayaṃ pramāṇaprameyalakṣaṇaṃ tatra pramātṛpramityātmakam anyad api dvayam anyonyasattvavyapekṣatvāt sthitam eva // MrgTV_1,2.13:5</l>
+<l>* na hi pramātāraṃ kartāram antareṇa pramāṇaprameyayoḥ kvacit kiṃcitkaratvaṃ karaṇakarmaṇoḥ kriyāsiddhau kartrāśrayatvāt // MrgTV_1,2.13:6</l>
+<l>* pramitir api kriyārūpo vyāpāras tebhyaḥ pṛthag evānvayavyatirekābhyām upalabhyata iti catuṣṭayam avaśyaṃbhāvi // MrgTV_1,2.13:7</l>
+<lg>
+<l>* yad āha ākṣapādaḥ /</l>
+<l>* catasṛṣu caivaṃvidhāsu sarvo 'pi vyavahāraḥ parisamāpyata iti // MrgTV_1,2.13:8</l>
+</lg>
+<l>* kiṃ cāta ity ata āha // MrgTV_1,2.13:9</l>
+
+<lg>
+<l>advaitahānir evaṃ syān niṣpramāṇakatānyathā /</l>
+<l>bhogasāmyāvimokṣau ca yau neṣṭāv ātmavādibhiḥ || MrgT_1,2.14 ||</l>
+</lg>
+
+<l>* pramāṇaprameyavyavahārāṅgīkaraṇe sati advaitahānir ataḥ svābhyupagamavirodhaḥ tadapahnave tu niṣpramāṇakatvam kiṃca bhogasāmyam avimokṣaś cātmavādibhir anabhyupagatau doṣau prasajyete // MrgTV_1,2.13:1</l>
+<l>* sarvair evātmavādibhiḥ pratyakṣavirodhabhīrubhir dṛśyamānaṃ bhogavaicitryam avaśyābhyupeyam ātmanāṃ ca muktir eṣṭavyā niḥśreyasahetutayaiva śāstrāṇāṃ pravṛtteḥ // MrgTV_1,2.13:2</l>
+<lg>
+<l>* tad iha /</l>
+<l>* nādatte kasyacit pāpaṃ na caiva sukṛtaṃ vibhuḥ // MrgTV_1,2.13:3</l>
+</lg>
+<l>* tathā na kartṛtvaṃ na karmāṇīty abhyupagamāt vicitraphaladāyināṃ pratiniyatajantukṛtatvena bhogapratiniyamakāriṇāṃ karmaṇām evābhāvād bhogasāmyaprasaṅgo durnivāraḥ // MrgTV_1,2.13:4</l>
+<l>* ātmanānātve hi kaścit duḥkhitaḥ kaścit sukhita iti bhogavaicitryam upapannaṃ nānyathā // MrgTV_1,2.13:5</l>
+<l>* yata eva saṃsāritāyāḥ prabhavas tatraiva niraṃśe paramātmani yadi layo mokṣas tat punar api tata eva prādurbhāvaḥ punaś ca mokṣa iti seyaṃ gatānugatikā na tu mokṣaḥ // MrgTV_1,2.13:6</l>
+<lg>
+<l>* tathāha tatrabhavān avadhūtācāryaḥ /</l>
+<l>* tvanmateśvaravijñānaniṣpannā api muktayaḥ // MrgTV_1,2.13:7</l>
+</lg>
+<l>* bhajante nāvisaṃvādam āmbhasā iva kṛṣṭayaḥ iti // MrgTV_1,2.13:8</l>
+<l>* tataś ca mokṣābhāvāt tadupāyānām ātmā vā are jñātavyaḥ śrotavyo mantavyaḥ // MrgTV_1,2.13:9</l>
+<l>* ityādīnām ānarthakyam // MrgTV_1,2.13:10</l>
+<l>* api cāsya paramātmanaś cetanācetanaviśvotpattihetutve cetanācetanatvaṃ prāptaṃ kāryāṇāṃ kāraṇasvabhāvānvayāt // MrgTV_1,2.13:11</l>
+<lg>
+<l>* yad āhuḥ /</l>
+<l>* tadatadrūpiṇo bhāvās tadatadrūpahetujāḥ iti // MrgTV_1,2.13:12</l>
+</lg>
+<l>* tataś ca viruddhayor anyonyābhibhavenaivātmalābhād bhāvābhāvayor ivaikasmin kāle cetanācetanasvabhāvayoḥ paramātmani avasthānaṃ nopapadyate // MrgTV_1,2.13:13</l>
+<lg>
+<l>* yathāha tatrabhavān kheṭakanandanaḥ /</l>
+<l>* viruddhāv ekakālasthau dharmāv ekāśrayaṃ gatau // MrgTV_1,2.13:14</l>
+</lg>
+<l>* itaretaranāśāt tau kuruto lopam ātmanaḥ iti // MrgTV_1,2.13:15</l>
+<l>* na cāsyānaṅgatvāt kenacid aṅgena cetanatvaṃ kenacic cācetanatvaṃ yuktaṃ sāṅgatvābhyupagame tu kusūlādivat kāryatvāt paramakāraṇatāhāniḥ // MrgTV_1,2.13:16</l>
+<l>* yathā kiṃca yad yad upādānakāraṇaṃ tat tad acetanaṃ yathā mṛdādi acetanaś cāyaṃ tattad acetanaṃ paramātmopādānakāraṇatvāt cetanatve nāsyopādānakāraṇatvam // MrgTV_1,2.13:17</l>
+<l>* astv acetanaḥ ko doṣa iti cet cetanānāṃ kāraṇaṃ svayam acetana iti vicitreyam uktiḥ // MrgTV_1,2.13:18</l>
+<l>* ācaitanyābhyupagame cāsya buddhimatkartranadhiṣṭhitasya mṛtpiṇḍāder iva na svakāryajanane sāmarthyam // MrgTV_1,2.13:19</l>
+<l>* ye 'pi ca grāhakatvena svasaṃvedanasiddhā ātmāno bhoktāras tata utpannā ity ucyante te 'py utpādyatvāt ghaṭādivad acetanāḥ prasajyanta ity anekadoṣāśrayasya paramātmādvaitasyānupapattiḥ // MrgTV_1,2.13:20</l>
+<l>* athaivaṃ vedāntavādināṃ mate nirākṛte kāpiloktāt prakṛtipuruṣavivekajñānān niḥśreyasāvāptir bhaviṣyati // MrgTV_1,2.13:21</l>
+<l>* yathā cāhuḥ // MrgTV_1,2.13:22</l>
+<l>* evaṃ tattvābhyāsān nāsmi na me nāham ity apariśeṣāt // MrgTV_1,2.13:23</l>
+<l>* ekāntikam ātyantikam ubhayaṃ kaivalyam āpnotīti // MrgTV_1,2.13:24</l>
+<lg>
+<l>* śrutir apy āha ajām ekāṃ lohitaśuklakṛṣṇāṃ bahvīḥ prajā janayantīṃ sarūpāḥ /</l>
+<l>* ajo hy eko juṣamāṇo 'nuśete jahāty enāṃ bhuktabhogām ajo 'nya iti // MrgTV_1,2.13:25</l>
+</lg>
+<l>* etad api nirākartum āha // MrgTV_1,2.13:26</l>
+
+</div>
+<div>
+
+<p>sāṃkhyajñāne 'pi mithyātvaṃ kārye kāraṇabuddhitaḥ /</p>
+
+<l>* sāṃkhyajñāne 'py etad asamyaktvaṃ yat kārye māyodbhūtakalājanite pradhāne kāraṇabuddhiḥ paramakāraṇatābhramaḥ mūlaprakṛtir avikṛtir iti hi teṣām abhyupagamaḥ kalādīnāṃ tattvānāṃ pṛthakpṛthagupalabhyamānaprayojanānāṃ kāraṇabhūtasya jagannidhibhūtasya māyātmano 'navagamāt // MrgTV_1,2.15ab1:1</l>
+<l>* uktaṃ ca kvacid guṇatattvordhvabhogyasya karmaṇo 'nupalabdhitaḥ // MrgTV_1,2.15ab1:2</l>
+<l>* kaivalyam api sāṃkhyānāṃ naiva yuktam asaṃkṣayād iti // MrgTV_1,2.15ab1:3</l>
+<l>* tad ayam arthaḥ yeyaṃ kāpilaiḥ paramakāraṇatayā parikalpitā sattvarajastamolakṣaṇaguṇatrayasāmyātmikā prakṛtiḥ tasyās tāvan na guṇebhyo 'nyatvam // MrgTV_1,2.15ab1:4</l>
+<l>* guṇā eva prakṛtir iti hi te pratijānate guṇebhyo 'nanyatve cāvaśyam anekatvam asyāḥ // MrgTV_1,2.15ab1:5</l>
+<l>* yac cācaitanye saty anekaṃ tatkāraṇāntarapūrvakaṃ yathā tantavo mṛtpiṇḍā vā sati ca kāraṇāntarapūrvakatve na paramakāraṇatā // MrgTV_1,2.15ab1:6</l>
+<l>* idaṃ ca te praṣṭavyāḥ draṣṭṛdṛśyayoḥ saṃyogaḥ saṃsārahetus tatpūrvakaś ca viyogo 'pavargakāraṇam iti yad ucyate tatra saṃyogas tāvat puṃspradhānayor draṣṭṛdṛśyalakṣaṇa eva na parasparāśleṣarūpaḥ ubhayor apy amūrtatvena tādṛśasyānupapatteḥ // MrgTV_1,2.15ab1:7</l>
+<l>* pradhānaṃ ca na svato dṛśyam apratyakṣatvena tasyeṣṭatvāt // MrgTV_1,2.15ab1:8</l>
+<l>* na ca mahadahaṃkārādirūpeṇa pariṇateḥ draṣṭā tad draṣṭuṃ śaknoti // MrgTV_1,2.15ab1:9</l>
+<l>* tataś ca katham anayor ādyaḥ saṃyogaḥ tadabhāvāc ca kathaṃ tatpūrvako viyogaḥ // MrgTV_1,2.15ab1:10</l>
+<l>* evaṃ ca saṃyogaviyogānupapatter akāraṇatvam eva puruṣārthaṃ prati pradhānasya // MrgTV_1,2.15ab1:11</l>
+<l>* itaś ca mithyātvam etadīyasya jñānasya // MrgTV_1,2.15ab1:12</l>
+<l>* kuta ity āha // MrgTV_1,2.15ab1:13</l>
+
+<l>* abhoktuḥ puruṣasya bhogāyatanena dehena bhogasādhanair indriyair bhoktavyair indriyārthair bhogena ca sukhaduḥkhavedanātmanā phalena kiṃ prayojanam // MrgTV_1,2.15ab2:1</l>
+<l>* yataś cāsya bhogas tadadhikaraṇatatsādhanasahito 'sti ato bhoktṛtvam apahnotum aśakyam // MrgTV_1,2.15ab2:2</l>
+<l>* yaś ca bhoktā sa katham akartā akartari kāraṇādisambandhasya nirarthakatvāt // MrgTV_1,2.15ab2:3</l>
+<l>* dṛkkriyātmakatvam eva svarūpaṃ caitanyasya tataś ca kartṛtvanirāsāt jñatvam api nirastaṃ saṃvedanasyāpi kriyātmanaḥ kartṛtvānapagamāt // MrgTV_1,2.15ab2:4</l>
+<l>* na hi akartuḥ saṃvedanaṃ cāpy upapannam // MrgTV_1,2.15ab2:5</l>
+<l>* itaś ca sāṃkhyajñānasya mithyātvam āha // MrgTV_1,2.15ab2:6</l>
+
+</div>
+<div>
+
+<l>akartṛbhāvād bhoktuś ca svātantryād apy acittvataḥ || MrgT_1,2.15 ||</l>
+
+<l>* acetanam api pradhānaṃ buddhimat kartṛpreraṇaṃ vinā svātantryeṇa kathaṃ kāryakaraṇe pravartate // MrgTV_1,2.15cd:1</l>
+<l>* na hy anusaṃdhānaśūnyasya buddhimato 'pi ghuṇakīṭasyevākṣaralekhane pravṛttir yuktā kiṃ punaḥ pariṇāmino jaḍasya // MrgTV_1,2.15cd:2</l>
+<l>* yaś cātra cetanaḥ puruṣaḥ sa tadadhīno na karteti prakṛtisthānāṃ neyam uktir ucitā // MrgTV_1,2.15cd:3</l>
+<l>* idānīm anekāntavādinirākaraṇāya saṃkhyātas tanmataṃ pūrvapakṣayitum ucyate // MrgTV_1,2.15cd:4</l>
+
+</div>
+<div>
+
+<lg>
+<l>iha sapta padārthāḥ syur jīvājīvāsravās trayaḥ /</l>
+<l>saṃvaro nirjaraś caiva bandhamokṣāv ubhāv api || MrgT_1,2.16 ||</l>
+</lg>
+
+<p>syādvādalāñchitāś caite sarve 'naikāntikatvataḥ /</p>
+
+<l>* tatra tāvat jīvapadārthas tattantrarītyā jīvāstikāyasaṃjñayā paribhāṣitaḥ // MrgTV_1,2.17ab:1</l>
+<l>* trividhaś cāsau anādisiddhamuktabaddhabhedāt // MrgTV_1,2.17ab:2</l>
+<l>* atrānādisiddho 'rhan jīvāstikāyākhyaḥ vyapetamohādibandho muktaḥ tadāvṛtas tu baddhaḥ // MrgTV_1,2.17ab:3</l>
+<l>* ajīvapadārtho 'pi pudgalākāśadharmādharmāstikāyaiś caturbhedair bhinnaḥ // MrgTV_1,2.17ab:4</l>
+<l>* atrāpi pṛthivyādimahābhūtāni catvāri tṛṇagulmādilatādirūpaṃ sthāvaraṃ jarāyujāṇḍajasvedajodbhijjabhedabhinnaṃ jaṅgamaṃ ceti ṣaṭprakāro 'yaṃ pudgalāstikāyaḥ // MrgTV_1,2.17ab:5</l>
+<l>* ākāśāstikāyo dvirūpaḥ lokākāśāstikāyo 'lokākāśāstikāyaś ceti // MrgTV_1,2.17ab:6</l>
+<l>* lokānām antarākāśaṃ lokākāśam iti smṛtam // MrgTV_1,2.17ab:7</l>
+<l>* alokākāśāstikāyo bahis teṣāṃ sa kīrtitaḥ // MrgTV_1,2.17ab:8</l>
+<l>* dharmāstikāyaḥ pudgalāstikāyād anyo 'bhyudayahetuḥ // MrgTV_1,2.17ab:9</l>
+<l>* adharmāstikāyo 'pi tatpratibandhakṛḍ ity ayam asāv ajīvapadārthaś catuṣprakāraḥ // MrgTV_1,2.17ab:10</l>
+<l>* āsravaś cakṣurādīndriyapañcakasya yathāsvaṃ pravṛttiḥ // MrgTV_1,2.17ab:11</l>
+<l>* tathā cāhuḥ vṛttiḥ pañcavikalpā dhruvādhruvā cakṣurādivargasya // MrgTV_1,2.17ab:12</l>
+<l>* yaiṣā sravaty ajasraṃ yatas tato 'sāv ihāsravaḥ proktaḥ iti // MrgTV_1,2.17ab:13</l>
+<l>* indriyasaṃyamalabdhapratiṣṭhaṃ dhyānam āsravanirodhātmakatvāt saṃvṛṇoty āsravam iti saṃvaraḥ // MrgTV_1,2.17ab:14</l>
+<l>* taptaśilāśayanakeśolluñcanāditapaḥsaṃcayanirjīrṇavīryaṃ karma nirjaraśabdenocyate // MrgTV_1,2.17ab:15</l>
+<l>* nānānirayasaṃsaraṇakāraṇaṃ mohādir aṣṭavidho gaṇaḥ svātantryavighātahetutvāt bandhaḥ // MrgTV_1,2.17ab:16</l>
+<l>* uktaṃ ca mohādiko gaṇaś caiṣa bandho jīvasya kalpitaḥ // MrgTV_1,2.17ab:17</l>
+<l>* lohapañjarasambaddhaṃ yathā kṣiptaṃ jalāśaye // MrgTV_1,2.17ab:18</l>
+<l>* alābukam adho yāti tadvaj jīvaḥ sabandhana iti // MrgTV_1,2.17ab:19</l>
+<l>* prakṣīṇasarvāvaraṇatvāt svātantryasamprāptau ūrdhvapadāsādanaṃ mokṣaḥ // MrgTV_1,2.17ab:20</l>
+<l>* yad āhuḥ lohapañjaravicchedāt plavate 'lābukaṃ yathā // MrgTV_1,2.17ab:21</l>
+<l>* ārohati tathā mokṣaṃ jīvo mohādisaṃkṣayāt // MrgTV_1,2.17ab:22</l>
+<l>* nityabodhasukhādyaiś ca dharmair yuktaḥ sa tiṣṭhati iti // MrgTV_1,2.17ab:23</l>
+<l>* ete ca sapta padārthāḥ syādvādānugatāḥ // MrgTV_1,2.17ab:24</l>
+<l>* tathā hi dehagrahaṇāt pūrvaṃ jīvaḥ kim asti uta neti yaḥ paryanuyuṅkte taṃ pratyanekāntavādo 'bhyupagantavyam // MrgTV_1,2.17ab:25</l>
+<l>* syād asti syān nāsti syād asti ca nāsti ca syād avaktavyaṃ syād asti cāvaktavyaṃ syān nāsti cāvaktavyaṃ ca syād asti ca nāsti cāvaktavyaṃ ceti // MrgTV_1,2.17ab:26</l>
+<l>* atra hi yadyat paryanuyojyaṃ tattat sadasat tathā samādheyam // MrgTV_1,2.17ab:27</l>
+<l>* tatra vācyatayāvācyatayāpi ca virodhahānis tu ghaṭanīyeti // MrgTV_1,2.17ab:28</l>
+<l>* saptabhaṅgyamoghabrahmāstravatām ajeyam iha kiṃ tat // MrgTV_1,2.17ab:29</l>
+<l>* yat syād asti syān nāsti syād iti pudgalibhir bhrāmyate jagat sarvam iti // MrgTV_1,2.17ab:30</l>
+<l>* nanu cānekāntavādinā tāvad ekāntānabhyupagamān niyamenānekāntavādo 'bhyupagantavyaḥ tathā ca svasiddhānta evaikānta iti kutaḥ sarvatra saptabhaṅgī naiṣa doṣaḥ anekāntavāde 'py ekāntānabhyupagamāt yataḥ syād anekāntaḥ syād ekāntaḥ syād anekāntaś caikāntaś ca syād avaktavyaḥ syād anekāntaś cāvaktavyaś ca syād ekāntaś cāvaktavyaś ca syād ekāntaś cānekāntaś cāvaktavyaś ceti // MrgTV_1,2.17ab:31</l>
+<l>* tad etal leśato dūṣayitum āha // MrgTV_1,2.17ab:32</l>
+
+</div>
+<div>
+
+<l>tad eva sat tadevāsad iti kena pramīyate || MrgT_1,2.17 ||</l>
+
+<l>* syād asti syān nāsti ceti yad uktaṃ tad asaṃgatam // MrgTV_1,2.17cd:1</l>
+<l>* na hi yadyad eva vastu arthakriyākāritayā sattvenāvagamyate tat tadānīm evāsattvenaikāntataḥ kaścid apy avaiti // MrgTV_1,2.17cd:2</l>
+<l>* kaḥ kilānudbhrāntamatiḥ puraḥprasphuradrūpe sad iti pratyayakāriṇi ghaṭādau nāyam astīti buddhiṃ kuryād asati ca tasmin prakhyopākhyāvirahiṇi sattāṃ niścinuyāt vidhiniṣedharūpayor bhāvābhāvayoḥ parasparaparihāreṇaivātmalābhāt // MrgTV_1,2.17cd:3</l>
+<l>* abhāvo hi tadasaṃbhavalabdhajanmāpi yadi tenaiva bhāvena sahitaḥ syāt tadānīm abhāva eva na syāt tadupamardanenaiva tasya svarūpasiddheḥ // MrgTV_1,2.17cd:4</l>
+<l>* evaṃ bhāvo 'pi yadi svapratipakṣeṇābhāvenāvyatirikto bhavet tarhi bhāva eva na bhavet // MrgTV_1,2.17cd:5</l>
+<l>* nanu ghaṭarūpeṇa svātmanāsti ghaṭaḥ parātmanā paṭarūpeṇa nāstīti sadasattvam uktam // MrgTV_1,2.17cd:6</l>
+<l>* na tu tad yuktam // MrgTV_1,2.17cd:7</l>
+<l>* kiṃ kilaitāvatā pratipāditaṃ syāt ghaṭaḥ paṭātmanā na bhavati ghaṭe vā paṭo nāsti // MrgTV_1,2.17cd:8</l>
+<l>* tad etad abhimatam evātadātmakatvena tatrāvidyamānatvāt // MrgTV_1,2.17cd:9</l>
+<l>* paṭād bhidyamāno 'yaṃ ghaṭo 'nya eveti siddhaṃ sādhyate // MrgTV_1,2.17cd:10</l>
+<l>* tad āha // MrgTV_1,2.17cd:11</l>
+
+</div>
+<div>
+
+<p>sad anyad asad anyac ca tad evaṃ siddhasādhyatā /</p>
+
+<l>* nanu svātmanā yathā ghaṭaḥ svasāmarthyakriyāṃ karoti evaṃ paṭātmanāpi tatkāryaṃ kuryāt na ca karoty ataḥ paṭātmanā nāsti yadi svātmanāpi parātmavan na syāt tadā svakāryam api na kuryāt tasmād asti ca nāsti cety uktam // MrgTV_1,2.18ab:1</l>
+<l>* tathaitad ghaṭatvam aghaṭatvaṃ ca parasparam abhinnam // MrgTV_1,2.18ab:2</l>
+<l>* bhede hi tadbuddhyabhidhānānuvṛttir na syāt ghaṭaś cāghaṭaś ceti sāmānādhikaraṇyaṃ ca na bhavet // MrgTV_1,2.18ab:3</l>
+<l>* asti caitat tasmād ubhayātmako 'sau krameṇa tacchabdābhidheyatām udvahan syāt ghaṭaś cāghaṭaś cety avirodhaḥ // MrgTV_1,2.18ab:4</l>
+<l>* etad apy ayuktaṃ yato nāsti kaścid abhedaḥ // MrgTV_1,2.18ab:5</l>
+<l>* tathā hi aghaṭaśabde ghaṭo na bhavatīti prasajyapratiṣedho vā syāt ghaṭād anyaḥ paṭādir iti vā paryudāsaḥ // MrgTV_1,2.18ab:6</l>
+<l>* ādye pakṣe ghaṭaś cāghaṭaś ca syād ity ukte ghaṭāghaṭayor avyatirekād ghaṭasyābhāva eva ghaṭa ity abhipretam // MrgTV_1,2.18ab:7</l>
+<l>* evaṃ ceṣyamāṇe sarpābhāve 'pi sarpa eva syāt // MrgTV_1,2.18ab:8</l>
+<l>* tathā ca sati sarpādivat tadabhāvād api bhayaṃ syāt // MrgTV_1,2.18ab:9</l>
+<l>* sasarpaniḥsarpadeśayoḥ sama evopalambho bhavet // MrgTV_1,2.18ab:10</l>
+<l>* paryudāsapakṣe 'pi ghaṭatvād anyad aghaṭatvaṃ bhinnam eva paṭatvādikaṃ kathyate // MrgTV_1,2.18ab:11</l>
+<l>* tac ca ghaṭatvād bhinnam // MrgTV_1,2.18ab:12</l>
+<l>* abhede hi ghaṭādiṣv api paṭabuddhyabhidhānānuvṛttir na syāt // MrgTV_1,2.18ab:13</l>
+<l>* ghaṭādāv api spaṣṭe ghaṭapratyayaś ca na syāt // MrgTV_1,2.18ab:14</l>
+<l>* tasmān na ghaṭāghaṭayor abheda iti na sadasator ekāśrayatvam // MrgTV_1,2.18ab:15</l>
+<l>* kiṃ ca // MrgTV_1,2.18ab:16</l>
+
+</div>
+<div>
+
+<l>asaj jaghanyaṃ sac chreṣṭham ity api bruvate budhāḥ || MrgT_1,2.18 ||</l>
+
+<p>naikatra tadapekṣātaḥ sthitam evobhayaṃ tataḥ /</p>
+
+<l>* yad api sadasacchabdābhidheyaṃ śreṣṭhāśreṣṭharūpaṃ vastu tad api tadvido naikatrābhidadhati tasyāpi bhinnaviṣayatvāt // MrgTV_1,2.19ab:1</l>
+<l>* na hi yad evāśreṣṭhaṃ tad eva śreṣṭham iti vaktuṃ śakyam // MrgTV_1,2.19ab:2</l>
+<l>* ayam eva hi bhāvānāṃ bhedaḥ yad viruddhadharmādhyāsaḥ // MrgTV_1,2.19ab:3</l>
+<l>* atha mataṃ yat tac chreṣṭhāśreṣṭhatvaṃ tad ekatra sambhavaty eva apekṣāvaśāt // MrgTV_1,2.19ab:4</l>
+<l>* yathāyaṃ devadatto yajñadattasakāśād abhirūpaḥ caitrāpekṣayā tu nīrūpa iti // MrgTV_1,2.19ab:5</l>
+<l>* evaṃ tarhi yajñadattasyāśreṣṭhatvaṃ caitrasya ca śreṣṭhatvam ity ubhayaṃ tata ity apekṣātaḥ // MrgTV_1,2.19ab:6</l>
+<l>* evaṃ bhinnaṃ labdhaṃ yad api dvayaṃ tadāpekṣikatvād asatyam // MrgTV_1,2.19ab:7</l>
+<l>* apekṣā hi nāma na vāstavī // MrgTV_1,2.19ab:8</l>
+<l>* tasyāḥ kila vastunaḥ sati sadbhāve kiṃ prayojanaṃ siddhasattākatvenānapekṣatvāt // MrgTV_1,2.19ab:9</l>
+<l>* tathā cāhuḥ saṃś ca sarvo nirāśaṃso bhāvaḥ katham apekṣate // MrgTV_1,2.19ab:10</l>
+<l>* na cālabdhasattāke vastuny apekṣāyāḥ kim api karaṇīyam asti tasyāsattvād eva tadapekṣānupapatteḥ // MrgTV_1,2.19ab:11</l>
+<l>* tad idam uktam apekṣā na satāṃ siddher asiddher api nāsatām iti // MrgTV_1,2.19ab:12</l>
+<l>* tad evaṃ na kathaṃcid api sadasator abhedopapattiḥ // MrgTV_1,2.19ab:13</l>
+
+</div>
+<div>
+
+<l>atha cet tadasadbhāve sadayuktataro yataḥ || MrgT_1,2.19 ||</l>
+
+<lg>
+<l>tattkarmasaṃkarabhayād avyāpitvaṃ ca te jaguḥ /</l>
+<l>sāmānyetarasaṃbandhajñānābhāvād acetasaḥ || MrgT_1,2.20 ||</l>
+</lg>
+
+<l>* tasya dehāt pūrvaṃ sadasattvenābhimatasya vyāpakatvāt pudgalāntaraiḥ saha karmasaṃkaraḥ śaṅkyate // MrgTV_1,2.20:1</l>
+<l>* vyāpakatve hi viprakīrṇānāṃ karmaṇāṃ bhoktṛn prati niyamaḥ kiṃkṛtaḥ avyāpakānāṃ tu teṣāṃ pratyekaṃ vyavasthito mohādibandhapadārtha eva tanniyāmaka iti karmasaṃkarabhayād avyāpakatvam acetasaḥ durbuddhayaḥ jagur ūcuḥ // MrgTV_1,2.20:2</l>
+<l>* kuta eṣāṃ mandabuddhitvam ity āha sāmānyetarasaṃbandhajñānābhāvāt samānyenānādikālīnenātmano vyāpakatvena yaḥ saṃbandhaḥ sarvakālabhāvitvena sādhāraṇyam asya itareṇa ca muktāv eva saṃjātatvāt tathārūpeṇa tayor jñānaṃ samyagavabodhas teṣāṃ pudgalavādināṃ nāsti // MrgTV_1,2.20:3</l>
+<l>* yadi hi tadavabodha eṣāṃ syāt tadā naivam ayuktam eva kalpayeyur mohādipāśāvaruddhasahajavyāpakasvabhāvasyātmanaḥ svabhāvata evāvyāpakatvābhyupagamo yas tasya viruddhatvāt // MrgTV_1,2.20:4</l>
+
+</div>
+<div>
+
+<lg>
+<l>yaḥ prāg avyāpakaḥ so 'nte kathamanyādṛśo bhavet /</l>
+<l>sa vikāsādidharmā cet tato doṣaparamparā || MrgT_1,2.21 ||</l>
+</lg>
+
+<l>* prāk pūrvaṃ saṃsārāvasthāyām avyāpako yaḥ sa kathaṃ mokṣe vyāpakaḥ vyāpakatvaṃ ca tadānīm apy abhyupagantum ayuktam // MrgTV_1,2.21:1</l>
+<l>* evaṃ hi saṃsāramuktyor aviśeṣaḥ syāt // MrgTV_1,2.21:2</l>
+<l>* atha tathāvidhadharmasya vikāsasaṃkocadharmitvam abhyupagamyate yad uta saṃsṛtau saṃkocam eti muktau tu vikasati iti tato vipariṇāmitvajaḍatvādyanekadoṣasantatiḥ prasajyata iti na kathaṃcid api sadasadvādimatam upasthāpayituṃ śakyam // MrgTV_1,2.21:3</l>
+<l>* idānīṃ pādārthikadarśanapradarśitamuktinirākaraṇāyāha // MrgTV_1,2.21:4</l>
+
+</div>
+<div>
+
+<lg>
+<l>ṣaṭpadārthaparijñānān mithyājñānaṃ nivartate /</l>
+<l>rāgadveṣau mamatvaṃ ca tadviśeṣaguṇās tataḥ || MrgT_1,2.22 ||</l>
+</lg>
+
+<lg>
+<l>kramaśo vinivartante dehasaṃyogajā yataḥ /</l>
+<l>sā muktir jaḍatārūpā tato muktaḥ śavo na kim || MrgT_1,2.23 ||</l>
+</lg>
+
+<l>* dravyaguṇakarmasāmānyaviśeṣasamavāyānāṃ ṣaṇṇāṃ padārthānāṃ sādharmyavaidharmyatattvajñānaṃ niḥśreyasahetur ity abhyupagamāt dravyādipadārthaṣaṭkasya yathāvaj jñānād ajñānanivṛttau ragādidoṣopaśame buddhisukhaduḥkhecchādveṣaprayatnadharmādharmasaṃskārāṇāṃ navānām ātmaguṇānāṃ dehasaṃyogajatvāt krameṇa nivṛttau yā muktiḥ sā buddhyādyuparame sati ātmanas tadvinākṛtasya kiṃcijjñatvoparamāj jaḍatārūpāṅgīkriyate tataḥ śavo 'pi kiṃ na muktaḥ kalpyate tasyāpi buddhyādiguṇāviraheṇecchājñānādivinākṛtatvād iti bhāvaḥ // MrgTV_1,2.23:1</l>
+<l>* atha saugatamuktinirācikīrṣayā tanmatam anubhāṣya dūṣayati // MrgTV_1,2.23:2</l>
+
+</div>
+<div>
+
+<lg>
+<l>cidvyañjakasya karmādeḥ kṣaṇikatvān muhurmuhuḥ /</l>
+<l>vyajyate jāyamānaiva kṣaṇiketi matā paraiḥ || MrgT_1,2.24 ||</l>
+</lg>
+
+<l>* cijjñānaṃ grahītṛrūpaṃ saṃvedanam // MrgTV_1,2.24:1</l>
+<l>* sā cit vyañjakasya vyaktihetoḥ karmaṇo vyāpārasya yogasaṃgrahaṇāder yadi vā karmaṇo grāhyasya ghaṭapaṭāder ādigrahaṇāt karaṇasya cakṣurādeḥ sahakāriṇa ālokādeś cānatisthairyāt pratikṣaṇam utpadyamānaiva vyajyate prakaṭībhavati // MrgTV_1,2.24:2</l>
+<l>* ayam arthaḥ vakṣcamāṇasatkāryavādadṛśā abhivyaktitirobhāvabhājāṃ bhāvānāṃ vyāpārabhedena avasthādeśakālādibhedena cānatisthairyāt tajjñānam api tattadupādhibhedān muhurmuhur vyajyamānaṃ kṣaṇikaṃ tad eva ca pramaṇam iti pare manyante // MrgTV_1,2.24:3</l>
+<l>* tad āhuḥ nityaṃ pramāṇaṃ naivāsti prāmāṇyād vastusaṃgateḥ // MrgTV_1,2.24:4</l>
+<l>* jñeyānityatayā tasyā adhrauvyāt kramajanmanaḥ iti // MrgTV_1,2.24:5</l>
+<l>* cid eva hi kṣaṇikā tattadarthaprakāśarūpānubhavasiddhā na tv etātirikta ātmā vidyate saṃvedanavyatiriktasya bhedenāpratibhāsanāt // MrgTV_1,2.24:6</l>
+<l>* yathāhuḥ ekam evedaṃ saṃvidrūpaṃ harṣaviṣādādyanekākāravivartaṃ paśyāmaḥ tatra yatheṣṭhaṃ saṃjñāḥ kriyantām iti // MrgTV_1,2.24:7</l>
+<l>* saṃvedana eva kṣaṇike jaladhārāpravāhavat sadṛśaparāparotpattibhramād vikalpena sthairyam adhyāropyata ity avidyājanitā seyam ātmadṛṣṭiḥ // MrgTV_1,2.24:8</l>
+<l>* tad uktaṃ mithyādhyāropahānārthaṃ yatno 'saty api bhoktari iti // MrgTV_1,2.24:9</l>
+<l>* ātmagrahe hi sati tad anyatra paratvābhimānāt svaparabhedaḥ tataś ca rāgadveṣādyanarthodbhavādātmagraho bandha iti bhagavatā sugatena nairātmyabhāvanopadiṣṭā // MrgTV_1,2.24:10</l>
+<l>* yad uktam ātmani sati parasaṃjñā svaparavibhāgāt parigrahadveṣau // MrgTV_1,2.24:11</l>
+<l>* anayoḥ saṃpratibaddhāḥ sarve doṣāḥ prajāyanta iti // MrgTV_1,2.24:12</l>
+<l>* na cābhyupagatasyāpy ātmano nityatvaṃ ghaṭate yat sat tat sarvaṃ kṣaṇikam akṣaṇikasya kramayaugapadyābhyām arthakriyānupapatteḥ sattāyā evāsiddhatvāt // MrgTV_1,2.24:13</l>
+<l>* tad āhuḥ arthakriyāsamarthaṃ yat tad atra paramārthasat // MrgTV_1,2.24:14</l>
+<l>* asanto 'kṣaṇikās tasmāt kramākramavirodhataḥ iti // MrgTV_1,2.24:15</l>
+<l>* tathā hi nityo bhāvaḥ krameṇa vārthakriyāṃ kuryād yugapad vā // MrgTV_1,2.24:16</l>
+<l>* na tasya tāvat krameṇa karaṇam upapadyate yasmād ayam apracyuto 'nutpannasthiraikasvabhāvaḥ // MrgTV_1,2.24:17</l>
+<l>* sa ca kālāntaranirvartyām arthakriyāṃ tadānīm eva kiṃ na karoti na hy asāv avasarāntarakaraṇīyaṃ svabhāvāntareṇa kuryāt svabhāvasyaikarūpatvāt svabhāvānyathābhāve hi tadvato 'pi tadavyatirekād vināśas tataś cānityatvam // MrgTV_1,2.24:18</l>
+<l>* athocyate sa padārtho 'rthakriyāṃ karoty eva yadi sahakāriṇo 'sya saṃnihitāḥ syuḥ tadasaṃnidhānād akurvāṇasya nāsyopālambhayogyatvam iti // MrgTV_1,2.24:19</l>
+<l>* naivaṃ sahakāriṇo 'syākiṃcitkarāś cet kim arthaṃ tān apekṣate // MrgTV_1,2.24:20</l>
+<l>* kiṃcitkaratve tu yat tat kiṃcit kurvanti tat tato 'vyatiriktaṃ vyatiriktaṃ vā vyatiriktakaraṇe kiṃ tasya tadapekṣayā tadavyatiriktakaraṇe sa eva sahakāribhiḥ kriyata ity āyātam // MrgTV_1,2.24:21</l>
+<l>* na cāsthirasya karaṇam upapannaṃ tatsvabhāvasya sataḥ svahetubhya evotpatteḥ kṛtasya ca kartum aśakyatvāt // MrgTV_1,2.24:22</l>
+<l>* atha sthirasvabhāvasyāsya sahakāriṇo 'tiśayādhānaṃ kurvanti yena kālāntare 'rthakriyāṃ karotīti // MrgTV_1,2.24:23</l>
+<l>* etad apy asad yasmād anāhitātiśayāt svabhāvād āhitātiśayo 'nya eveti sthiraikasvabhāvataiva truṭyati // MrgTV_1,2.24:24</l>
+<l>* tathā hi sahakāribhyo 'tiśayotpattau sa pūrvotpannānāhitātiśayasva bhāvaḥ svata eva vinaṣṭo 'bhyupagantavyaḥ // MrgTV_1,2.24:25</l>
+<l>* tasyānaśvarasvabhāvatvena nāśahetor api tatrākiṃcitkaratvāt vinaśvarodbhavasvabhāvatve vā vaiyarthyāt tasya ca svabhāvasyāviśeṣāt pratikṣaṇam iti kṣaṇikatā // MrgTV_1,2.24:26</l>
+<l>* tad evaṃ na nityasya krameṇārthakriyā // MrgTV_1,2.24:27</l>
+<l>* nāpi yugapat karaṇam upapadyate yasmād yaugapadyena nirvartitārthakriyo 'pi tasmāt svabhāvān na viramet sthiraikasvabhāvatvāt svabhāvaviratau svabhāvahāniḥ kṣaṇikatvam eva // MrgTV_1,2.24:28</l>
+<l>* atha nāsya svabhāvāntarayogaḥ kiṃtu na karoty evāyaṃ kāryasya tv ayaṃ vipākaḥ kṛtasya yat kartum aśakyatvam eva // MrgTV_1,2.24:29</l>
+<l>* tad apy ayuktaṃ tasya tāvad arthakriyām akurvato 'syaiva sattāyā eva durlabhatvāt arthakriyāsamarthaṃ yat tad atra paramārthasat ity uktatvāt // MrgTV_1,2.24:30</l>
+<l>* arthakriyākaraṇalakṣaṇāt svabhāvāt tadakaraṇātmakasvabhāvo 'nya eveti katham asya na svabhāvāntarayogaḥ // MrgTV_1,2.24:31</l>
+<l>* yadi ca yaugapad yenāpi kurvann anavarataṃ karoti tadā svabhāvāviśeṣāt sarvadā sarvārthakriyākaraṇaprasaṅga iti kṣaṇikam evedaṃ saṃvedanaṃ yuktaṃ na tu tadvyatiriktanityātmasiddhir iti pūrvaḥ pakṣaḥ // MrgTV_1,2.24:32</l>
+
+</div>
+<div>
+
+<p>tadasatkarmaṇo bhogād atītānubhavasmṛteḥ /</p>
+
+<l>* tad etat kṣaṇikatvaṃ saṃvedanasya nairātmyabhāvanābhyupagamanaṃ ca na yuktaṃ svasaṃvedanasiddhasya sthirarūpasyāparokṣasyātmanaḥ prakāśanāt // MrgTV_1,2.25ab:1</l>
+<l>* nanu sadṛśaparāparakṣaṇotpattivipralabdhatvāt sthairyam asyāropitam ity uktam // MrgTV_1,2.25ab:2</l>
+<l>* tad ayuktaṃ svātmani kriyāvirodhād adhyāropānupapatteḥ // MrgTV_1,2.25ab:3</l>
+<l>* yad api kṣaṇabhaṅgasādhanārtham akṣaṇikasya kramayaugapadyābhyām arthakriyāvirodhāt sattāyā evāsiddhatvād yat sat tatkṣaṇikam ity anumāpanaghaṭanaṃ kṛtaṃ tatsvasaṃvedanalakṣaṇapramāṇabādhitatvād ayuktam akṣaṇikasya sataḥ sarvasya svasaṃvedanasyānubhavasiddhatvāt anaikāntikaṃ ca sarvasya sataḥ kṣaṇikatvena vyāptipradarśane sati akṣaṇikasya paramārthasato vaidharmyadṛṣṭāntasyāsaṃbhavād vipakṣavyāvṛttyadarśanena hetoḥ kevalānvayino gamakatvābhāvāt // MrgTV_1,2.25ab:4</l>
+<l>* viruddhaś cāyam asattvākhyo hetuḥ sādhyaviparyayeṇākṣaṇikatvena sarvārthakriyākāriṇi ghaṭādau siddhavyāptikatvāt // MrgTV_1,2.25ab:5</l>
+<l>* yad apy etad vyāptisādhanārthaṃ nityasya kramayaugapadyābhyām arthakriyāvirodhād iti hetvantaraṃ tad apy āśrayāsiddhatvād ayuktam // MrgTV_1,2.25ab:6</l>
+<l>* na hi nityaḥ kaścid artho bhavadbhir abhyupagato yatrāyaṃ hetuḥ siddhaḥ syāt // MrgTV_1,2.25ab:7</l>
+<l>* na cānityasyāpi maṇyāder arthasya krameṇānekadeśasthāṃs tāṃs tān bhāvān prakāśayato yugapac caikagṛhagatān ghaṭapaṭādīn avabhāsayataḥ kaścid virodhaḥ // MrgTV_1,2.25ab:8</l>
+<l>* api ca na tāvat kṣaṇikaṃ saṃvedanam anekakṣaṇanirvartyārthakriyānuṣṭhānasamartham utpattyanantaraṃ dhvaṃsinas tadupapattyayogāt // MrgTV_1,2.25ab:9</l>
+<l>* na cāropitaṃ sthairyaṃ tattadvyāpāranirvartanakṣamaṃ tasya ca svātmany adhyāropānupapatter ity uktatvāt // MrgTV_1,2.25ab:10</l>
+<l>* āropyasya cāvastutvenārthakriyānuṣṭhānam asaṃbaddham // MrgTV_1,2.25ab:11</l>
+<l>* vastutve ca sthirasyāvabodhasyātmarūpatvenāsmābhir abhyupagamān nāsti bhedaḥ // MrgTV_1,2.25ab:12</l>
+<l>* kṣaṇavyatiriktaś ca sattāsantāno na kathaṃcid upalabhyate tasmāt karmānuṣṭhānadarśanānyathānupapattyā vastusiddham evāsya cidātmanaḥ sthairyam // MrgTV_1,2.25ab:13</l>
+<l>* itaś caitat kṣaṇikatvam ayuktaṃ karmaṇo bhogāt // MrgTV_1,2.25ab:14</l>
+<l>* kṣaṇāntarānanvayini vijñāne karmabhogo 'nupapannaḥ yenaiva hi dṛṣṭaṃ sevākṛṣyādi karma kṛtaṃ tam eva tasya bhoktāram upalabhāmahe // MrgTV_1,2.25ab:15</l>
+<l>* dṛṣṭavac cādṛṣṭakalpanā yuktimatī // MrgTV_1,2.25ab:16</l>
+<l>* yady ubhayajanmani śarīrādibhede 'py abhinna eka eva bhoktābhyupagamyate tadā hi karmaphalabhogo nirbādho bhavati // MrgTV_1,2.25ab:17</l>
+<l>* atha caityavandanākhyaṃ karmānyena kṛtam anyasyaiva tatphalena svargādinā yoga ity akṛtābhyāgamakṛtavipraṇāśaprasaṅgo durnivāraḥ // MrgTV_1,2.25ab:18</l>
+<l>* uktaṃ ca śrīmataṅge kṛtam ekena yat karma tadvipākaṃ paraḥ katham // MrgTV_1,2.25ab:19</l>
+<l>* prāpnoti yuktidaurbalyād iti // MrgTV_1,2.25ab:20</l>
+<l>* nanu nāyaṃ doṣaḥ aihikasya karmaṇo labdhaśarīreṇa jñānasantānena paratra bhogopapatteḥ // MrgTV_1,2.25ab:21</l>
+<l>* tad ayuktam aśarīrasya jñānasantānasya sadbhāve pramāṇābhāvāt // MrgTV_1,2.25ab:22</l>
+<l>* karmaphalabhogānyathānupapattyā vijñānasantānasiddhis tatsiddhyā ca karmaphalabhoga ity anupapannam asthairyaṃ saṃvedanasya // MrgTV_1,2.25ab:23</l>
+<l>* itaś ca kṣaṇikaṃ saṃvedanam ity asat // MrgTV_1,2.25ab:24</l>
+<l>* kuta ity āha atītānubhavasmṛteḥ atītaḥ samatikrānto yasyānubhavas tasya smaraṇāt // MrgTV_1,2.25ab:25</l>
+<l>* yadā hi sthirasva bhāva ubhayakālānusaṃdhātā ātmābhyupagamyate tanubhūtaviṣayāsaṃpramoṣarūpaṃ smaraṇam upapadyate na tu kṣaṇikatve // MrgTV_1,2.25ab:26</l>
+<l>* na hi prāktanakṣaṇānubhūtasukhaduḥkhādisaṃvedanaṃ vartamānena kālāntarabhāvinā vā kṣaṇena smartuṃ śakyaṃ tasyānyatvāt yathā na devadattānubhūtaṃ tatputraḥ smarati // MrgTV_1,2.25ab:27</l>
+<l>* dṛśyate ca śaiśavādyanubhūtaṃ yauvanasthāvirādyavasthāsu smaryamāṇam // MrgTV_1,2.25ab:28</l>
+<l>* sāceyam atītānubhavasmṛtiḥ kṣaṇikatāṃ vijñānasya nirasyati na tu sthirasvabhāvam ātmānam anumāpayati tasya svasaṃvedanasiddhasya svānubhūtyekapramāṇatvāt // MrgTV_1,2.25ab:29</l>
+<l>* tad evaṃ karmopabhogād atītānubhavasmṛteś ca na kṣaṇikatvam upapadyate citaḥ // MrgTV_1,2.25ab:30</l>
+<l>* tad āha // MrgTV_1,2.25ab:31</l>
+
+</div>
+<div>
+
+<l>sthitir niranvaye nāśe na smṛter nāpi karmaṇaḥ || MrgT_1,2.25 ||</l>
+
+<l>* sūcyagranipatatsarṣapavadanavasthāyitvādaviśramyaiva vinaśyatsu vijñānakṣaṇeṣu proktavan na smṛter avasthiter upapattiḥ kalpyate nāpi karmaṇa ity alam alīkakalpanākulīkṛtasthitinā kṣaṇabhaṅgābhiniveśena // MrgTV_1,2.25cd:1</l>
+
+</div>
+<div>
+
+<lg>
+<l>vināśalakṣaṇo 'paiti na muktāv apy upaplavaḥ /</l>
+<l>na cāsty anubhavaḥ kaścid bhavāvasthā varaṃ tataḥ || MrgT_1,2.26 ||</l>
+</lg>
+
+<l>* śuddhacitsaṃtatisamutpādo bhavatāṃ mokṣaḥ syāt yadi vā pradīpanirvāṇarūpaḥ // MrgTV_1,2.26:1</l>
+<l>* ādye pakṣe svaparikalpitasya pratikṣaṇavināśitvalakṣaṇasyopaplavasya muktāv apy anupaśamaḥ // MrgTV_1,2.26:2</l>
+<l>* dvitīye tu pradīpanirvāṇarūpatvāt saṃvedanāsaṃbhavataḥ kaścid apy anubhavo nāstīti tathāvidhāt saṃvedanavināśātmakāt kāṣṭhakuḍyādīnām api sulabhān mokṣāt saṃsārāvasthā varaṃ saugatānām iti kṛtam evaṃvidhamokṣalipsayā // MrgTV_1,2.26:3</l>
+<l>* tadiyatā vedāntasāṃkhyasadasatpādārthikādimateṣu asarvadarśipraṇetṛtvād vastusaṃgrahasyāsphuṭatvam asaṃbaddhatāṃ codbhāvya darśanāntarāṇām apy eṣaiva vārteti tattadabhiniveśināṃ na niratiśayaniḥśreyasayoga iti vaktum āha // MrgTV_1,2.26:4</l>
+
+</div>
+<div>
+
+<lg>
+<l>ityādy ajñānamūḍhānāṃ matam āśritya durdhiyaḥ /</l>
+<l>apavargam abhīpsanti khadyotāt pāvakārthinaḥ || MrgT_1,2.27 ||</l>
+</lg>
+
+<l>* śivaśaktividyeśvarādāv upādeyasatattve malakarmamāyādau ca heyaparamārthe yeṣāṃ nāsty avabodhaḥ teṣām ajñānamūḍhānāṃ darśanāntarapraṇetḥṇāṃ saṃbandhi mataṃ śāstram āśrityākuśalamatayo ye muktim icchanti te khadyotād agnyabhyarthinaḥ kīṭamaṇer vahniṃ lipsavaḥ // MrgTV_1,2.27:1</l>
+<l>* te yathā vyarthaśramās tathā te viphalakleśā bhavantīty arthaḥ // MrgTV_1,2.27:2</l>
+<l>* tathā hi // MrgTV_1,2.27:3</l>
+
+</div>
+<div>
+
+<lg>
+<l>yat kaivalyaṃ puṃsprakṛtyor vivekād yo vā sarvaṃ brahma matvā virāmaḥ /</l>
+<l>yā vā kāścin muktayaḥ pāśajanyās tās tāḥ sarvā bhedam āyānti sṛṣṭau || MrgT_1,2.28 ||</l>
+</lg>
+
+<l>* yad etat kapilakalpitaṃ puṃsprakṛtyor vivekāt kaivalyaṃ yā ca sarvaṃ khalv idaṃ brahmeti matvā dvaitavikalpaprahāṇe sati brahmaprāptiḥ yāś ca pāśajanyāḥ kāścit pāñcarātrādibhir muktayo 'bhyupagatāḥ // MrgTV_1,2.28:1</l>
+<l>* yathāhuḥ īśās tu te samabhavan prakṛteḥ parasyāḥ kṛṣṇāniruddhamakaradhvajarauhiṇeyāḥ iti // MrgTV_1,2.28:2</l>
+<l>* yathā vā kālaikavādināṃ kālaḥ sṛjati bhūtāni kālaḥ saṃharati prajāḥ // MrgTV_1,2.28:3</l>
+<l>* kālaḥ supteṣu jagarti kālo hi duratikrama iti // MrgTV_1,2.28:4</l>
+<l>* yathā vā keṣāṃcit cittam eva hi saṃsāro rāgādikleśadūṣitam // MrgTV_1,2.28:5</l>
+<l>* tad eva tadvinirmuktaṃ mokṣa ity abhidhīyata iti // MrgTV_1,2.28:6</l>
+<l>* etāḥ kila prakṛtikālabuddhyādīnāṃ bandhakatvena pāśarūpatvāt pāśajanyā muktayaḥ sargārambhe bhedam āyānti vinaśyantīty arthaḥ // MrgTV_1,2.28:7</l>
+<l>* yad uktaṃ śrīmanmataṅge tasmāt pradhānaśabdena tattvam uktam acetanam // MrgTV_1,2.28:8</l>
+<l>* tasmāt paraṃ nāsty aparaṃ yeṣāṃ bhāvaḥ pratiṣṭhitaḥ // MrgTV_1,2.28:9</l>
+<l>* na te muktā munivyāghra punar āyānty adhogatim iti // MrgTV_1,2.28:10</l>
+<l>* tathā upādāneṣu līnānāṃ punar āvartanaṃ dhruvam iti // MrgTV_1,2.28:11</l>
+<l>* teṣāṃ tu tathāvidhamithyādhyāsabhājāṃ na nirantaram ajñānadhvāntasantatir antaḥkaraṇam āvṛṇoti api tu te krameṇa vivekaprathanāt parameśvarānugrahāspadatāṃ kasmiṃścid api kāle yāsyanti // MrgTV_1,2.28:12</l>
+<l>* tathā coktaṃ śrīmatpauṣkarapārameśvare na mokṣaṃ yāti puruṣaḥ svasāmarthyāt kadācana // MrgTV_1,2.28:13</l>
+<l>* muktvā prasādaṃ devasya śivasyāśivahāriṇa iti // MrgTV_1,2.28:14</l>
+<l>* athaivaṃ matāntaroktāyā mukteḥ prāguktavad asatyatve tataḥ kiṃ tadvailakṣaṇyamihatyayoḥ siddhimuktyor ity āha // MrgTV_1,2.28:15</l>
+
+</div>
+<div>
+
+<lg>
+<l>śaive siddho bhāti mūrdhnītareṣāṃ muktaḥ sṛṣṭau punar abhyeti nādhaḥ /</l>
+<l>viśvān arthān svena viṣṭabhya dhāmnā sarveśānānīśitaḥ sarvadāste || MrgT_1,2.29 ||</l>
+</lg>
+
+<l>* iha śāstre yaḥ siddhaḥ sa vividhabhuvanopapannavicitraiśvaryasaṃpāditatattadbhogabhāk sarvottkarṣaśālī bhavati // MrgTV_1,2.29:1</l>
+<l>* tathā coktaṃ bṛhaspatipādaiḥ yan māhātmyaṃ bhagavati paramaśive 'nupamam avyayam acintyam // MrgTV_1,2.29:2</l>
+<l>* tan māhātmyaṃ siddhe hatabandhanamaṇḍale bhavatīti // MrgTV_1,2.29:3</l>
+<l>* na ca darśanāntarapratipannabrahmalayasaṃvidvināśaprakṛtipuruṣavivekādyātmano mokṣasyaivaṃguṇatvam ity uktam // MrgTV_1,2.29:4</l>
+<l>* yas tv asmin darśane muktaḥ sa bandhakāraṇānāṃ malakarmamāyāparameśvaranirodhaśaktīnām uparatādhikāratvāt punaḥ sargaprārambhe nādho 'bhyeti na saṃsārī bhavatīty arthaḥ // MrgTV_1,2.29:5</l>
+<l>* kiṃ tarhi sa karotīty āha viśvān arthān iti āvirbhūtaniratiśayasarvārthajñatvakartṛtvataḥ śivasamānamahimatvāt svatejasā samadhiṣṭhitasarvārtho 'pi san muktātmā na kiṃcit karoti karaṇīyābhāvāt // MrgTV_1,2.29:6</l>
+<l>* evaṃ cen mukteḥ pūrvam akiṃcitkaro 'bhūt muktaś ca tadrūpa eveti ko 'sya muktau viśeṣaḥ // MrgTV_1,2.29:7</l>
+<l>* ayaṃ viśeṣaḥ yat sarveśānena parameśvareṇānīśitaḥ apreritas tadānīm asau bhavati // MrgTV_1,2.29:8</l>
+<l>* kiṃ kiṃcid eva kālam apreryaḥ // MrgTV_1,2.29:9</l>
+<l>* nety āha sarvadeti sarvakālaṃ taṃ pratyaprerakaḥ śivabhaṭṭārako bhavatīty arthaḥ // MrgTV_1,2.29:10</l>
+
+</div>
+<div>
+
+<p>Mṛgendratantra, Vidyāpāda, 3</p>
+
+<lg>
+<l>athopalabhya dehādi vastu kāryatvadharmakam /</l>
+<l>kartāram asya jānīmo viśiṣṭam anumānataḥ || MrgT_1,3.1 ||</l>
+</lg>
+
+<l>* athaśabdo'dhikārārthaḥ // MrgTV_1,3.1:1</l>
+<l>* atra hi patipadārthaparīkṣādhikriyata ityarthaḥ // MrgTV_1,3.1:2</l>
+<l>* atra ca tanukaraṇabhuvanādīnāṃ bhāvānāṃ saṃniveśaviśiṣṭatvena kāryatvaṃ buddhvā anumānenaiṣāṃ buddhimatkartṛpūrvakatvaṃ pratīyata iti tātparyam // MrgTV_1,3.1:3</l>
+<l>* nanu dehasyaiva tāvatkāryatvam asiddhaṃ nahi kvacit kadācid dehaḥ kenacit kriyamāṇo dṛṣṭaḥ // MrgTV_1,3.1:4</l>
+<l>* satyaṃ kenacit kriyamāṇatvaṃ dehasya na dṛṣṭam iti kartṛdarśanāpahnavo na yuktaḥ tasyānumeyatvena darśanāviṣayatvāt // MrgTV_1,3.1:5</l>
+<l>* dehasya tu kriyamāṇatvaṃ kathaṃ na dṛṣṭam abhūtvā bhāvitvam eva hi kāryatvaṃ tac ca dehasyopalabhyata eva // MrgTV_1,3.1:6</l>
+<l>* tathā hi śukraśoṇitakalalādyupādānāt diha upacaye iti dhātvarthagatyā pratimāsopacīyamāno garbhastho dehaḥ pratīyate iti katham eṣa kāryatvam atikrāmet // MrgTV_1,3.1:7</l>
+<l>* kiṃ ca saṃniveśaviśeṣavattvād vinaśvaratvāc ca dehādeḥ kāryatvam apahnotum aśakyam // MrgTV_1,3.1:8</l>
+<l>* yad yat saṃniveśaviśeṣavad vinaśvaraṃ tat tat kāryaṃ yathā ghaṭādi // MrgTV_1,3.1:9</l>
+<l>* tathā caite dehādayaḥ padārthāḥ tasmād ete'pi kāryāḥ // MrgTV_1,3.1:10</l>
+<l>* evaṃ ca sati dehādi vastujātaṃ dharmi buddhimatkartṛpūrvakam iti sādhyo dharmaḥ kāryatvāt // MrgTV_1,3.1:11</l>
+<l>* yad yat kāryaṃ tat tad buddhimatkartṛpūrvakaṃ dṛṣṭaṃ yathā rathādi // MrgTV_1,3.1:12</l>
+<l>* yat tu naivaṃvidhaṃ na tat kāryaṃ yathātmādi // MrgTV_1,3.1:13</l>
+<l>* nanu ghuṇākṣare kārye 'pi na buddhimatkartṛpūrvakatvam astīty anaikāntikaḥ kāryatvahetuḥ // MrgTV_1,3.1:14</l>
+<l>* naivaṃ tatra kāryatāyā evānanvayāt // MrgTV_1,3.1:15</l>
+<l>* yatheṣṭasaṃcāramātra eva kila ghuṇasya kartṛtā nanu viśiṣṭasaṃniveśākṣaranirmitau // MrgTV_1,3.1:16</l>
+<l>* sa tu saṃniveśas tathā anyathāsya parisarpataḥ svabhāvata evopapadyate // MrgTV_1,3.1:17</l>
+<l>* nanu tadbhāve bhāvāt tadabhāve cābhāvāt ghuṇakartṛkam evākṣaram // MrgTV_1,3.1:18</l>
+<l>* yadyevaṃ tat tathācāritve bhāvāt atathācāritve cākṣarasyānabhivyakter avyavadhānena ghuṇākṣarasya buddhimatkartṛpūrvakatvam astīti kutaḥ kāryatvahetoranaikāntikatvam // MrgTV_1,3.1:19</l>
+<l>* na cāyam akṛṣṭajātaiḥ śālyādibhir vanadrumādibhir vānaikāntikaḥ teṣu kartrabhāvasyāniścayāt teṣāṃ ca pakṣībhūtatvāt // MrgTV_1,3.1:20</l>
+<l>* nanvasiddhavyāptikasya pakṣīkaraṇamātreṇa yadi hetvābhāsānāṃ nirāsastarhi na kecana hetavo hetvābhāsāḥ // MrgTV_1,3.1:21</l>
+<l>* bhaved etad yadyayaṃ kāryatvahetur asiddhavyāptikaḥ syāt // MrgTV_1,3.1:22</l>
+<l>* yāvatā dṛṣṭāntīkṛtadṛṣṭakartṛkaghaṭādivyatiriktās trailokyodaravartinas tanukaraṇabhuvanādayo bhāvā dharmiṇaḥ kartṛpūrvakāḥ kāryatvād upalabhyamānakartṛkaghaṭādivad ityanumāne kriyamāṇe kim anyad avaśiṣyate yatra kāryatvasya vyāptirna siddhā syāt // MrgTV_1,3.1:23</l>
+<l>* nanu cātrānumāne ya eva ghaṭādir dṛṣṭānte dharmī sa dṛṣṭakartṛkatvān na tāvat siṣādhīyaṣiteśvaranirvartyaḥ tasya tu kumbhakārakāryatveneśasyāsarvakartṛtvam atheśvarakartṛtvaṃ dṛṣṭāntadharmiṇo ghaṭāderiṣṭaṃ tatsādhyabhraṣṭo dṛṣṭāntaḥ pratītibādhaśca // MrgTV_1,3.1:24</l>
+<l>* na hi ghaṭādikam arthaṃ kulālādyanvayavyatirekānuvidhāyinam īśvarakartṛkatvena kaścid apyavaiti // MrgTV_1,3.1:25</l>
+<l>* viruddhaścāyaṃ hetuḥ yādṛśo hi ghaṭādeḥ kartā kulālādiḥ kleśādibhāg anīśo vinaśvaraśca tādṛk jagato'pi kartā prāpnoti // MrgTV_1,3.1:26</l>
+<lg>
+<l>* tad uktaṃ jaiminīyaiḥ /</l>
+<l>* kumbhakārādyadhiṣṭhānaṃ ghaṭādau yadi ceṣyate /</l>
+<l>* neśvarādhiṣṭhitatvaṃ syād asti cet sādhyahīnatā // MrgTV_1,3.1:27</l>
+</lg>
+<lg>
+<l>* tathā siddhe ca dṛṣṭānte bhaveddhetor viruddhatā /</l>
+<l>* anīśvaravināśyādikartṛkatvaṃ prasajyate // MrgTV_1,3.1:28</l>
+</lg>
+<l>* iti // MrgTV_1,3.1:29</l>
+<l>* syād eṣa sarvadoṣāvakāśo yady asmābhir asarvaviṣayam īśvarādhiṣṭhānam upagamyate yāvatā ye 'pi tu kumbhādīnāṃ kartāraḥ kulālādayas te 'pi tatpratyavekṣaṇānugṛhītaśaktayas tattatkāryanirvartanasamarthā bhavantīti brūmaḥ // MrgTV_1,3.1:30</l>
+<l>* nanu kutraitat dṛṣṭaṃ yat kulālatantuvāyādisadbhāve bhāvāt tadabhāve cābhāvād api ghaṭādi kāryajātam īśvarādhiṣṭhitamiti // MrgTV_1,3.1:31</l>
+<l>* kutra vā na dṛṣṭaṃ kiṃ na śrutaṃ bhagavatā svayam ādiṣṭaṃ sarvajanaprasiddheṣvapi śāstreṣūddhuṣyamāṇaṃ bhavadbhiḥ // MrgTV_1,3.1:32</l>
+<lg>
+<l>* gāmāviśya ca bhūtāni dhārayāmy aham ojasā /</l>
+<l>* puṣṇāmi cauṣadhīḥ sarvāḥ somo bhūtvā rasātmakaḥ // MrgTV_1,3.1:33</l>
+</lg>
+<l>* iti // MrgTV_1,3.1:34</l>
+<l>* na tadasti vinā yatsyānmayā bhūtaṃ carācaram // MrgTV_1,3.1:35</l>
+<l>* iti śrutāv api // MrgTV_1,3.1:36</l>
+<lg>
+<l>* yo rudro 'gnau yo 'psu ya oṣadhīṣu yo rudro viśvā bhuvanāviveśa /</l>
+<l>* iti // MrgTV_1,3.1:37</l>
+</lg>
+<l>* ata eva bhavadudbhāvitaḥ pratītivirodho'pi nirastaḥ ajño janturanīśo'yamātmanaḥ sukhaduḥkhayoḥ // MrgTV_1,3.1:38</l>
+<l>* īśvaraprerito gacchetsvargaṃ vā śvabhrameva vā // MrgTV_1,3.1:39</l>
+<l>* ityevaṃvidhāyāḥ pratyuta pratīteḥ siddhatvāt // MrgTV_1,3.1:40</l>
+<l>* na cāyaṃ viruddho hetur viparyayavyāptyabhāvāt dṛṣṭāntadharmiṇi ghaṭādau svasādhyena buddhimatkartṛpūrvakatvena vyāpteḥ siddhatvāt buddhimatkartṛpūrvakatvavirahiṇo vipakṣād ātmāder vyāvṛttatvāt // MrgTV_1,3.1:41</l>
+<l>* sa viruddha ucyate yaḥ sapakṣanivṛtto'pi vipakṣameva vyāpnoti yathā nityaḥ śabdaḥ kṛtakatvāditi // MrgTV_1,3.1:42</l>
+<l>* buddhimatkartṛpūrvakatvaṃ ca ghaṭasya kumbhakārakāryatvāt siddhamiti kā sādhyabhraṣṭatā // MrgTV_1,3.1:43</l>
+<l>* na ca sarva eva dṛṣṭāntadharmāḥ sādhyadharmiṇi kvāpyanumāne bhavanti yenānīśvaravināśyādikartṛkatvaprasaṅgaḥ syāt // MrgTV_1,3.1:44</l>
+<l>* tathā hi nityaḥ śabdaḥ kṛtakatvāt ghaṭādivad ityatrāpi śabdasya kumbhakārakāryatvarauhityapārivartulyādayo ghaṭadharmāḥ kimiti na bhavantīti bhavadbhirvaktavyamiti na kiṃcidetat // MrgTV_1,3.1:45</l>
+<l>* nanvete kāryatvasaṃniveśādimattvādayo hetavaḥ kāryasyānekakartṛtāmapi sādhayantīti dharmisvarūpaviparītasādhanatvād viruddhāḥ // MrgTV_1,3.1:46</l>
+<lg>
+<l>* tathā ca maṇḍanaḥ /</l>
+<l>* saṃniveśādimat sarvaṃ buddhimaddhetumadyadi /</l>
+<l>* prasiddhasaṃniveśāder ekakāraṇatā kutaḥ // MrgTV_1,3.1:47</l>
+</lg>
+<lg>
+<l>* rathādyavayavā nānātakṣanirmāpitā api /</l>
+<l>* dṛśyante jagati prāya upakāryopakārakāḥ // MrgTV_1,3.1:48</l>
+</lg>
+<l>* iti // MrgTV_1,3.1:49</l>
+<l>* tad apyayuktaṃ rathādīnāṃ kāryāṇām anekatakṣaviracitānāmapi ekasthapatīcchānuvartanaṃ vinā niṣpattyadarśanāt // MrgTV_1,3.1:50</l>
+<l>* tadevaṃ kāryatvahetunā jagato buddhimatkartṛpūrvakatvasiddhau yo 'sau tattadvaicitryasaṃpādikecchājñānakriyāśaktiyuktaḥ kartā sa ity asmadādikāryavilakṣaṇakṣityādikāryaviśeṣajanakakāraṇaviśeṣāvagamo yuktaḥ // MrgTV_1,3.1:51</l>
+<l>* na caitad aprasiddhaṃ yasmādvaiśiṣṭyaṃ kāryavaiśiṣṭyād dṛṣṭaṃ lokasthitāv api lokavyavahāre'pi viśiṣṭaṃ kāryaṃ dṛṣṭvā viśiṣṭameva kāraṇam anumīyate yayā vicitrabhāvanādivastucitralepādikalākalāpasyāmukhyatāṃ madhyatvam anupamasaundaryasampadaṃ ca dṛṣṭvā tattatkarturapi tadgatavailakṣaṇyād vaiśiṣṭyamavasīyate // MrgTV_1,3.1:52</l>
+<l>* ataśca // MrgTV_1,3.1:53</l>
+
+</div>
+<div>
+
+<p>yadyathā yādṛśaṃ yāvatkāryaṃ tatkāraṇaṃ tathā /</p>
+
+<l>* yat kāryaṃ dhūmādi yatheti yena prakāreṇa giriguhāgatatvena tadutsaṅgavartitayā tadaparapārśvavartitvena copalabdhaṃ yādṛśaṃ ca tārṇapārṇādinā svarūpeṇa viśiṣṭaṃ yāvatparimāṇaṃ tanutararekhākāram ambudanivahabahalaṃ vā tatkāraṇaṃ vahnilakṣaṇaṃ tatheti parvatotsaṅgasthaṃ vā tacchikharaniviṣṭaṃ vā tatpaścādbhāgagataṃ vā tādṛśaṃ ca tāvat pramāṇakaṃ vālpatvabahutvena yathānumīyate // MrgTV_1,3.2ab:1</l>
+<l>* evaṃ jagallakṣaṇakāryasya tattatprakārākāravaicitryam upalabhya tattadviśeṣaviṣayaniratiśayajñānakriyāśaktiyuktaṃ kāraṇamanumīyate // MrgTV_1,3.2ab:2</l>
+<l>* tac ca // MrgTV_1,3.2ab:3</l>
+
+</div>
+<div>
+
+<l>nityaṃ kālānavacchedād vaitatyān na pradeśagam || MrgT_1,3.2 ||</l>
+
+<p>kramākramasamutpatteḥ kramādyutpattiśaktimat /</p>
+
+<l>* yasyābhūtvā bhavanaṃ bhūtvā cābhavanaṃ tasya kālenāvacchedād anityatvam // MrgTV_1,3.3ab:1</l>
+<l>* yattu pūrvāparakoṭidvayavirahāt kālānavacchinnaṃ tan nityam // MrgTV_1,3.3ab:2</l>
+<l>* kiṃ ca na tat kvacid avasthitam api tu vaitatyān mahattvād digdeśānavacchinnatvāt sarvagaṃ sarvatra tatkāryopalabdheśca vibhu tathā kramayaugapadyābhyāṃ tanukaraṇādikāryasyotpādanāt krameṇa yugapac cotpādikayā śaktyā yuktam // MrgTV_1,3.3ab:3</l>
+<l>* nanu jagatsṛṣṭisthityādikā tatkriyā nākaraṇikā kriyātvāt chidikriyāvat atastasyāpi karaṇena bhavitavyamityāha // MrgTV_1,3.3ab:4</l>
+
+</div>
+<div>
+
+<l>tasyāsti karaṇaṃ yena dṛṣṭā nākaraṇā kṛtiḥ || MrgT_1,3.3 ||</l>
+
+<p>anāgāmi ca taj jñeyaṃ kāryasyānādisaṃsthiteḥ /</p>
+
+<l>* yasmādakaraṇikā kriyā na sambhavati atastasya bhagavataḥ kimapyavaśyaṃ karaṇamasti // MrgTV_1,3.4ab:1</l>
+<l>* tac ca kṛtyasya sargāder anāditvenāvasthānād anāgāmi anāgantukam // MrgTV_1,3.4ab:2</l>
+<l>* atha kiṃ tatkaraṇamityucyate // MrgTV_1,3.4ab:3</l>
+</div>
+<div>
+
+<l>karaṇaṃ ca na śaktyanyac chaktirnācetanā citaḥ || MrgT_1,3.4 ||</l>
+
+<l>* śaktirevāsya viśveśituḥ karaṇaṃ tayaitatkriyāniṣpādanāt sā cec chādirūpeti vakṣyāmaḥ // MrgTV_1,3.4cd:1</l>
+<l>* uktaṃ ca śrīmatkiraṇe // MrgTV_1,3.4cd:2</l>
+<lg>
+<l>* icchaiva karaṇaṃ tasya yathā sadyogino matā /</l>
+<l>* iti // MrgTV_1,3.4cd:3</l>
+</lg>
+<l>* śaktiśca cetanarūpā nahi citsvabhāvasyācidrūpā śaktirbhavati // MrgTV_1,3.4cd:4</l>
+<l>* yac caitac chaktyātmakaṃ karaṇam // MrgTV_1,3.4cd:5</l>
+
+</div>
+<div>
+
+<p>viṣayāniyamādekaṃ bodhe kṛtye ca tattathā /</p>
+
+<l>* yasya jñeyānāṃ karaṇīyānāṃ cānantyaṃ tasya karaṇair apyanantair bhavitavyam // MrgTV_1,3.5ab:1</l>
+<l>* aparimitaviṣayaṃ ca parameśvarasya jñānaṃ kṛtyaṃ ca // MrgTV_1,3.5ab:2</l>
+<lg>
+<l>* yad vakṣyati /</l>
+<l>* śāṃkaram jñānam // MrgTV_1,3.5ab:3</l>
+</lg>
+<lg>
+<l>* iti prakramya /</l>
+<l>* tad ekaṃ viṣayānantyād bhedānantyaṃ prapadyate /</l>
+<l>* kartṛtvaṃ tadabhinnatvāt tadvad evopacārataḥ // MrgTV_1,3.5ab:4</l>
+</lg>
+<l>* iti // MrgTV_1,3.5ab:5</l>
+<l>* tasmādviṣayasya jñeyasya karaṇīyasya cāniyatatvād anavacchinnatvād ekamapi tacchaktirūpaṃ karaṇaṃ bodhaviṣaye kṛtyaviṣaye ca tathetyanavacchinnam anantam evetyarthaḥ // MrgTV_1,3.5ab:6</l>
+<l>* atha matāntaraniranubhāṣaṇeneśvarāstitvam eva draḍhayati // MrgTV_1,3.5ab:7</l>
+
+</div>
+<div>
+
+<l>kāryaṃ na sthitijanmādi bījasya prakṛteraṇoḥ || MrgT_1,3.5 ||</l>
+
+<p>pāriśeṣyān maheśasya muktasya śiva eva saḥ /</p>
+
+<l>* nanu kimatra karaṇāpekṣeṇeśvareṇa kalpitena tasmin karmanairapekṣyeṇa kartṛtvānabhyupagamāt taccaritāni karmāṇyeva sṛṣṭisthityādikāraṇatayā bhavantviti jaiminīyāḥ // MrgTV_1,3.6ab:1</l>
+<lg>
+<l>* yadāhuḥ /</l>
+<l>* kasyaciddhetumātrasya yadyadhiṣṭhātṛteṣyate /</l>
+<l>* karmabhiḥ sarvajīvānāṃ tatsiddheḥ siddhasādhanam // MrgTV_1,3.6ab:2</l>
+</lg>
+<l>* iti // MrgTV_1,3.6ab:3</l>
+<l>* yadvā bījam ivāṅkurādīnāṃ kalādikāryāṇām upādānaṃ māyaivānyānapekṣiṇī sṛṣṭyādikṛd bhavatu prakṛtireva vāvyaktā etatkartṛtve nāstu yāṃ vinā tasyeśvarasyāpi tatkāryāniṣpattir upalabhyate kṣityādyātmanā pārārthyapravṛttā anyānapekṣiṇī prakṛtireva ataḥ kim īśvareṇeti kāpilāḥ // MrgTV_1,3.6ab:4</l>
+<lg>
+<l>* tathā hi /</l>
+<l>* yad yathā pariṇāmaikasvabhāvaṃ tatra tat tataḥ /</l>
+<l>* anyānapekṣi bījādisāmagrī yadvad aṅkure // MrgTV_1,3.6ab:5</l>
+</lg>
+<lg>
+<l>* mahadādivikāraughapariṇāmasvabhāvakam /</l>
+<l>* triguṇātma pradhānaṃ ca tena sāṃkhyam anīśvaram // MrgTV_1,3.6ab:6</l>
+</lg>
+<l>* iti // MrgTV_1,3.6ab:7</l>
+<l>* yadi vā puruṣa evedaṃ sarvaṃ yadbhūtaṃ yac ca bhavyam // MrgTV_1,3.6ab:8</l>
+<l>* iti aṇoḥ puruṣād eva vivartatayā cidacillakṣaṇaviśvaprādurbhāvādi bhaviṣyati kimīśvareṇeti // MrgTV_1,3.6ab:9</l>
+<l>* tadasad bahirbījabhūtānāṃ karmaṇāṃ māyādīnāṃ cācetanānāṃ buddhimadadhiṣṭhitānāṃ sṛṣṭyādi kṛtyam upapannam ityuktatvāt // MrgTV_1,3.6ab:10</l>
+<l>* prakṛterapyautsukyanivṛttyarthaṃ kāryeṣu pravṛttir nitarāmayuktā tasyā ācaitanyād autsukyasya ca cetanadharmatvāt // MrgTV_1,3.6ab:11</l>
+<l>* puruṣasyāpi pariṇāmitvādyanekadoṣopanipātāt svatantrasya cābhirucitahāner aniṣṭopanipātasya cānupapatter asvavaśatvāt sthitijanmapralayakartṛtvanirāse sati pāriśeṣyān maheśvarasyaivaitat sthitijanmādi kāryamiti pāriśeṣyānumānam anavadyamiti gamakametat // MrgTV_1,3.6ab:12</l>
+<l>* idamidānīṃ vivicyate yadi tāvat parameśvaraḥ kāruṇyāt saṃsārijanojjihīrṣayā jagatāṃ sthitijanmādau pravartate tatkimarthaṃ pratyuta sāṃsārikeṣu duḥkheṣu varākānimān prāṇino niyojayati atha tasyaivaṃvidha eva svabhāvaḥ tanmuktamapi jantuṃ kiṃ na saṃsārayatītyāha muktasya śiva eva saḥ satyaṃ kāruṇyādeva bhagavān prāṇino'nugrahītuṃ pravartate // MrgTV_1,3.6ab:13</l>
+<l>* yattu duḥkhamohādinā nirayādyupabhogena vā tān saṃyojayati tannijakarmānurūpyavaśāt // MrgTV_1,3.6ab:14</l>
+<l>* na ca karmāpekṣitayeśvarasya svātantryahānir ityāśaṅkanīyaṃ karaṇāpekṣayā kartuḥ svātantryavyāghātādarśanāt bhāṇḍāgārikāpekṣasya rājñaḥ prasādādidānavat // MrgTV_1,3.6ab:15</l>
+<l>* yaduktaṃ siddhagurubhiḥ // MrgTV_1,3.6ab:16</l>
+<lg>
+<l>* svatantrānyāprayojyatvaṃ karaṇādiprayoktṛtā /</l>
+<l>* kartuḥ svātantryametaddhi na karmādyanapekṣitā // MrgTV_1,3.6ab:17</l>
+</lg>
+<l>* iti // MrgTV_1,3.6ab:18</l>
+<l>* na cābhuktasya karmaṇaḥ kṣayo bhavati // MrgTV_1,3.6ab:19</l>
+<l>* tattadyoniśarīropabhogabhuktavicitrakarmakṣayatas tatsāmyād vā atyutkaṭamalaparipākavaśapravṛttaśaktipātāpasāritamalasyāvāptānugrahasya jantor nirastasamastapāśatvādāvirbhūtasarvārthatattvakartṛkasya muktātmanaḥ saṃsāryatāhetoḥ paśutvasyābhāvāc chivasvarūpa eva bhagavān bhavati na tu paśorivāsya kutsitabhavabhogopabhogahetur bhavatīti bhāvaḥ // MrgTV_1,3.6ab:20</l>
+<l>* punar apīśvarakartṛkatvam eva jagato ghaṭayitum anumānaṃ pratisamādhātum ākṣipati // MrgTV_1,3.6ab:21</l>
+
+</div>
+<div>
+
+<l>sambandhāgrahaṇe bādhā mānasyābhyeti kasyacit || MrgT_1,3.6 ||</l>
+
+<l>* nanv asya sthitijanmādeḥ kāryasyāvinābhāvalakṣaṇasambandho yadi kadācij jagatkartrā saha kenacidapi gṛhītaḥ syāt tadaitad anumānaṃ sidhyet sambandhasyaiva tu agrahaṇāt kathaṃ nāsya bādheti yadi kasyacin mataṃ syāt tadidam apyasau pratyanuyojya ityāha // MrgTV_1,3.6cd:1</l>
+
+</div>
+<div>
+
+<p>sā parasyāpi dhūmo'nyo girau māhānasādyataḥ /</p>
+
+<l>* saiṣā bādhā sarvasyāpy anumānavādinaḥ prasaktā // MrgTV_1,3.7ab:1</l>
+<l>* tathā hi mahānasādigatānāṃ viśiṣṭadeśakālākārāṇām eva dhūmāgnivyaktīnāṃ sambandhagrahaṇe dhūmamātrāc ca parvatādau vahnimātrānumānam ityagṛhītasambandhaiva dhūmavyaktiḥ kathaṃ tathāvidhavahnivyaktiṃ gamayediti sambandhagrahaparyanuyogaḥ samānaḥ // MrgTV_1,3.7ab:2</l>
+<lg>
+<l>* tataśca /</l>
+<l>* yatra syād ubhayordoṣaḥ parihāraśca vā samaḥ /</l>
+<l>* naikaḥ paryanuyoktavyas tādṛgarthaviniścaye // MrgTV_1,3.7ab:3</l>
+</lg>
+<l>* iti naitad asmākameva codyam // MrgTV_1,3.7ab:4</l>
+<l>* atha dhūmamātrasyaiva vahnimātrāvinābhāvalakṣaṇaḥ sambandho gṛhītaḥ tad ihāpi kāryamātrāt kartṛmātrānumānamaduṣṭam // MrgTV_1,3.7ab:5</l>
+<l>* anyathā sarvānumānoccheda eva syāt // MrgTV_1,3.7ab:6</l>
+<lg>
+<l>* taduktam /</l>
+<l>* sādhyasādhanasāmānyenāvinābhāvaniścayāt /</l>
+<l>* pravṛttiranumānasya tadabhāvas tadanyathā // MrgTV_1,3.7ab:7</l>
+</lg>
+<l>* iti // MrgTV_1,3.7ab:8</l>
+<l>* itthaṃ ca vicitratattatkarmāśayādhivāsitabhoktṛbhogatatsādhanatadupādānādiviśeṣajñaḥ kartā anumānāntareṇānumīyata iti na kaściddoṣaḥ // MrgTV_1,3.7ab:9</l>
+<lg>
+<l>* tadidam uktaṃ tatrabhavadbṛhaspatipādaiḥ /</l>
+<l>* bhavabhoktṛbhogasādhanatadupādānādi yo vijānāti /</l>
+<l>* tamṛte bhaven nahīdaṃ puṃskarmāśayavipākajñam // MrgTV_1,3.7ab:10</l>
+</lg>
+<l>* iti astu tarhi īśvaraḥ kartā sa tu na tāvadaśarīraḥ pratyetavyaḥ // MrgTV_1,3.7ab:11</l>
+<l>* kāryaṃ śarīrayuktena kartrā vyāptaṃ sadaiva yat // MrgTV_1,3.7ab:12</l>
+<l>* ityādinā dehavirahiṇaḥ kartṛtvāyogasyoktatvāt // MrgTV_1,3.7ab:13</l>
+<l>* tathāhi // MrgTV_1,3.7ab:14</l>
+<l>* ghaṭapaṭādi kāryaṃ śarīravataiva kriyamāṇaṃ dṛṣṭaṃ nāśarīreṇeti // MrgTV_1,3.7ab:1</l>
+<l>* kiṃcātaḥ // MrgTV_1,3.7ab:2</l>
+
+</div>
+<div>
+
+<l>loke vapuṣmato dṛṣṭaṃ kṛtyaṃ so 'py asmadādivat || MrgT_1,3.7 ||</l>
+
+<l>* evaṃ ca sati asmadādivatkleśādiyukto'sarvajñaḥ parimitaśaktir deśādyavacchinnaḥ so 'pīśvaraḥ śarīritvāt prāpnotīti pūrvaḥ pakṣaḥ // MrgTV_1,3.7cd:1</l>
+<l>* siddhāntastu // MrgTV_1,3.7cd:2</l>
+
+</div>
+<div>
+
+<p>mūlādyasaṃbhavāc chāktaṃ vapur nas tādṛśaṃ prabhoḥ /</p>
+
+<l>* aśarīrasyāpi tāvat svadehaspandādau kartṛtvaṃ dṛṣṭamiti // MrgTV_1,3.8ab:1</l>
+<l>* kāryaṃ śarīrayuktena kartrā vyāptam ity uktam abhyupagamyāpi brūmaḥ śarīravattve'pi bhagavato na prāguktadoṣaprasaṅgaḥ // MrgTV_1,3.8ab:2</l>
+<l>* kuta ityāha mūlādyasaṃbhavād iti mūlaṃ malaḥ sarvānarthamūlatvāt avidyāvṛtirugglānipāpamūlakṣayādibhiḥ paryāyair vakṣyamāṇatvāc ca ādigrahaṇāt karmāṇi rodhaśaktiśca tadasaṃbhavāt // MrgTV_1,3.8ab:3</l>
+<l>* na hi parameśvarasya malakarmādi pāśajālaṃ sambhavati yannimittaṃ prākṛtaṃ vapuḥ kalpyate api tu śāktamiti śaktisvarūpaiḥ sadyojātādibhiḥ pañcabhirmantraiḥ svecchāvinirmitamaparimitasāmarthyam adigdeśakālākāravyavacchinnam anupamamahima taccharīraṃ na tv asmadādiśarīrasadṛśam // MrgTV_1,3.8ab:4</l>
+<l>* ata eva hi // MrgTV_1,3.8ab:5</l>
+
+</div>
+<div>
+
+<l>tadvapuḥ pañcabhirmantraiḥ pañcakṛtyopayogibhiḥ || MrgT_1,3.8 ||</l>
+
+<p>īśatatpuruṣāghoravāmājair mastakādikam /</p>
+
+<l>* yathākramam anugrahatirobhāvādānarakṣaṇotpattilakṣaṇakṛtyapañcake 'vaśyam upayogo yeṣāṃ tair īśānādibhiḥ pañcabhir mantraistat mūrdhādi vapuḥ devasyocyate ityadhyāhāraḥ // MrgTV_1,3.9ab:1</l>
+<l>* varaiḥpuṣṇāti dhyāyinaḥ iti vapuḥśabdasyānvarthatā bhaktānugrahaṇāya tattadākāragrahaṇasyāgameṣūpadiṣṭatvāt // MrgTV_1,3.9ab:2</l>
+<lg>
+<l>* tathā coktaṃ śrīmatpauṣkare /</l>
+<l>* sādhakasya tu lakṣyārthaṃ tasya rūpamidaṃ smṛtam iti // MrgTV_1,3.9ab:3</l>
+</lg>
+<l>* atha kathaṃ bhagavata īśānamūrdhatvam ityāha // MrgTV_1,3.9ab:4</l>
+
+</div>
+<div>
+
+<l>īṣṭe yena jagatsarvaṃ guṇenoparivartinā || MrgT_1,3.9 ||</l>
+
+<p>sa mūrdhasamadeśatvānmūrdhā nāvayavastanoḥ /</p>
+
+<l>* yena guṇena mantreṇa sarvasroto'nusrotasā mūrdhvasthitatvāt sarvānugrahahetutvādvā uparivartinā jagaccidacidātmakaṃ viśvamīṣṭe sa uttamāṅgavat sarvordhvasthitatvān mūrdheva mūrdhā na paramārthato dehāvayavaḥ // MrgTV_1,3.10ab:1</l>
+<l>* tatpuruṣavaktraṃ vyācaṣṭe // MrgTV_1,3.10ab:2</l>
+
+</div>
+<div>
+
+<l>tasya tasya tanuryā pūs tasyām uṣati yena saḥ || MrgT_1,3.10 ||</l>
+
+<p>tattrāṇād vyañjanāc cāpi sa tatpuruṣavaktrakaḥ /</p>
+
+<l>* tasya tasya amaranarāderyā pūḥ purī tanustasyāṃ puri yajamānasvarūpeṇādhiṣṭhānabhāvenoṣitas tatpuruṣaḥ // MrgTV_1,3.11ab:1</l>
+<l>* taduktam // MrgTV_1,3.11ab:2</l>
+<l>* svātmaivāyaṃ vasati sakalaprāṇinām īśvaro'ntaḥ // MrgTV_1,3.11ab:3</l>
+<l>* iti // MrgTV_1,3.11ab:4</l>
+<l>* tatpuruṣa iti yasmād vyanakti jñānakriye trāyate janmādibhayāt tatastatpuruṣavaktraḥ vyañjanatrāṇarūpatvād vaktram ityabhidhīyate // MrgTV_1,3.11ab:5</l>
+<l>* iti śruteḥ // MrgTV_1,3.11ab:6</l>
+<l>* aghorahṛdayatvaṃ vaktum āha // MrgTV_1,3.11ab:7</l>
+
+</div>
+<div>
+
+<l>hṛdayaṃ bodhaparyāyaḥ so 'sya ghoraḥ śivo yataḥ || MrgT_1,3.11 ||</l>
+
+<p>parigrahasya ghoratvādghoroktir upacārataḥ /</p>
+
+<l>* hṛdayamāśayo bodha iti paryāyaḥ // MrgTV_1,3.12ab:1</l>
+<l>* śivo bodho yasmād bhagavatas tasmādaghorahṛdayaḥ // MrgTV_1,3.12ab:2</l>
+<l>* nanu ghoram aśreyorūpaṃ yaducyate tadghorarūpatā kathaṃ devasyetyāha parigrahasya ghoratvāditi // MrgTV_1,3.12ab:3</l>
+<l>* yeyaṃ parameśvarasya ghorarūpoktiḥ sā na vāstavī kiṃtu parigrahasya svaśaktyuttejitasāmarthyasyāśuddhādhvādhikārinikurambasya ghoratvād ghoraśaktirdeva upacārāducyate // MrgTV_1,3.12ab:4</l>
+<lg>
+<l>* tathā coktam /</l>
+<l>* viṣayeṣveva saṃlīnān adho'dhaḥ pātayanty aṇūn /</l>
+<l>* rudrāṇūn yāḥ samāliṅgya ghorataryo 'parāstu tāḥ // MrgTV_1,3.12ab:5</l>
+</lg>
+<l>* vāmadevaguhyatvam abhidhatte // MrgTV_1,3.12ab:6</l>
+
+</div>
+<div>
+
+<l>vāmas trivargavāmatvād rahasyaśca svabhāvataḥ || MrgT_1,3.12 ||</l>
+
+<p>vāmaṃ dhāma paraṃ guhyaṃ yasyāsau vāmaguhyakaḥ /</p>
+
+<l>* dharmārthakāmalakṣaṇena trivargeṇa pralobhya vamati adho nikṣipatīti vāmaḥ // MrgTV_1,3.13ab:1</l>
+<l>* svabhāvena rahasyo guhyo bhāvaḥ kathyate // MrgTV_1,3.13ab:2</l>
+<l>* itthaṃ pṛthag anayoḥ padayorarthaṃ pradarśya vigrahaṃ karoti vāmaṃ dhāmeti // MrgTV_1,3.13ab:3</l>
+<l>* diverdhātor dyutyarthatvād devaśabdena tejo'bhimatam // MrgTV_1,3.13ab:4</l>
+<l>* tena vāmam adhastane'dhvani vamanaśīlaṃ yattejas tadguhyam aprakaṭamasyeti vāmadevaguhyaḥ parameśvaraḥ // MrgTV_1,3.13ab:5</l>
+
+</div>
+<div>
+
+<lg>
+<l>sadyo'ṇūnāṃ mūrtayaḥ sambhavanti yasyecchātas tena sadyo'bhidhānaḥ /</l>
+<l>sadyo mūrtīryogināṃ vā vidhatte sadyomūrtiḥ kṛtyaśaighryān na mūrteḥ || MrgT_1,3.13 ||</l>
+</lg>
+
+<l>* patyuricchayā hi karmaprakṣayāya kṣipramevātmanāṃ tāstā mūrtayo jātā iti sadyojātamūrtir devaḥ // MrgTV_1,3.13ef:1</l>
+<lg>
+<l>* yadvakṣyati dīkṣāprakaraṇe /</l>
+<l>* sadyena janayetsadyo nānāniṣpannavigraham /</l>
+<l>* iti // MrgTV_1,3.13ef:2</l>
+</lg>
+<l>* yadvā yogināṃ tattatsamādhibhājāṃ sadyastatkṣaṇaṃ mūrtīrvidhatte proktavanmantramayasvamūrtisadṛśīṃ tanuṃ sampādayatīti acirāt svaramatābhivyañjakatvāt sadyomūrtitvaṃ na tu śīghrasaṃjātasvadehatvād ityarthaḥ // MrgTV_1,3.13ef:3</l>
+<l>* etadeva draḍhayati // MrgTV_1,3.13ef:4</l>
+
+</div>
+<div>
+
+<lg>
+<l>itthaṃ śaktiḥ kurvatī dehakṛtyaṃ dehābhāvāducyate dehaśabdaiḥ /</l>
+<l>tasyā bhedā ye 'pi vāmādayaḥ syuste 'pi proktāḥ kṛtyabhedena sadbhiḥ || MrgT_1,3.14 ||</l>
+</lg>
+
+<l>* paramārthataḥ parameśvarasyāśarīratvāc chaktireva dehakāryaṃ kurvatī dehākhyayoktā // MrgTV_1,3.14:1</l>
+<l>* tasyāścaikasyā api kṛtyabhedād vāmādibhedabhinnatvam // MrgTV_1,3.14:2</l>
+<l>* yathā vahniśakter dāhyaprakāśyārthaviṣaye dāhaprakāśaprakaraṇād gauṇam anekatvaṃ vastuta ekatvāt tasyāḥ // MrgTV_1,3.14:3</l>
+
+</div>
+<div>
+
+<lg>
+<l>Mṛgendratantra, Vidyāpāda, 4</l>
+<l>sa itthaṃ vigraho'nena karaṇenāhataujasā /</l>
+<l>karoti sarvadā kṛtyaṃ yadā yadupapadyate || MrgT_1,4.1 ||</l>
+</lg>
+
+<l>* ittham ityanenoktaprakāreṇa mantrātmako vigraho yasya sa bhagavān itthaṃvigrahaḥ // MrgTV_1,4.1:1</l>
+<lg>
+<l>* aneneti /</l>
+<l>* karaṇaṃ ca na śaktyanyat // MrgTV_1,4.1:2</l>
+</lg>
+<l>* iti prāguktenātmanā apratihatasāmarthyena karaṇena sthityādikāryajātaṃ sarvakālaṃ sarvaṃ nirvartayati // MrgTV_1,4.1:3</l>
+<l>* na paraṃ yugapatkaroti yāvadyadā yadupapadyate tattadā karoti krameṇāpi sarvaṃ kāryaṃ karotītyarthaḥ // MrgTV_1,4.1:4</l>
+<lg>
+<l>* taduktaṃ prāk /</l>
+<l>* kramākramasamutpatteḥ kramādyutpattiśaktimat // MrgTV_1,4.1:5</l>
+</lg>
+<l>* iti // MrgTV_1,4.1:6</l>
+<l>* atha prathamataḥ parameśvaraḥ kiṃ karotītyāha // MrgTV_1,4.1:7</l>
+
+</div>
+<div>
+
+<lg>
+<l>tatrādau kevalāṇūnāṃ yogyānāṃ kurute'ṣṭakam /</l>
+<l>vāmādiśaktibhir yuktaṃ saptakoṭiparicchadam || MrgT_1,4.2 ||</l>
+</lg>
+
+<l>* tatrety evaṃ sthite sati ityarthaḥ // MrgTV_1,4.2:1</l>
+<l>* ekasyā eva śakter vāmādikṛtyavaśād vāmādibhedabhinnatvam ityuktam // MrgTV_1,4.2:2</l>
+<l>* sā ca śaktiḥ sarvajñānakriyārūpā śivavat sarvāṇūnāṃ vidyata eva teṣāṃ cānādyavidyāruddhatvāc chivānugrahaṃ vinā na tatsamānā bhavatīti prakṣīṇakārmamāyīyabandhānāṃ vijñānakevalānām añjanaparipākādyanusāreṇa tatpadayogyānām aṣṭakaṃ mantrakoṭisaptakaparivāraṃ vāmādiśaktinavakayuktaṃ ca karoti // MrgTV_1,4.2:3</l>
+<l>* anyeṣāmapi saptakoṭisaṃkhyātānāṃ mantrāṇām ananteśādaya evāṣṭāv īśitāra iti vaktumārabhate // MrgTV_1,4.2:4</l>
+
+</div>
+<div>
+
+<lg>
+<l>teṣāmanantaḥ sūkṣmaśca tathā caiva śivottamaḥ /</l>
+<l>ekanetraikarudrau ca trimūrtiścāmitadyutiḥ || MrgT_1,4.3 ||</l>
+</lg>
+
+<p>śrīkaṇṭhaśca śikhaṇḍī ca rājarājeśvareśvarāḥ /</p>
+
+<l>* rājāno lokeśā indrādayaḥ teṣāṃ rājānaḥ śatarudrāḥ tadīśvarāṇāṃ maṇḍaliprabhṛtīnāmapyeta īśvarāḥ prabhavaḥ vidyāmaheśvarā iti yāvat // MrgTV_1,4.4ab:1</l>
+<l>* ete ca // MrgTV_1,4.4ab:2</l>
+
+</div>
+<div>
+
+<l>īṣad aprāptayogatvānniyojyāḥ parameṣṭhinaḥ || MrgT_1,4.4 ||</l>
+
+<l>* adhikāramalāṃśāvaśeṣāt kiṃcidanavāptaparameśvarasāmyā ityasyaite preryāḥ // MrgTV_1,4.4cd:1</l>
+<l>* athaiṣāmaṣṭānāmapi sarvajñatvasarvakartṛtvasambhavāt kiṃsvid abhinnarūpatvamuta kaścidviśeṣa ityāha // MrgTV_1,4.4cd:2</l>
+
+</div>
+<div>
+
+<lg>
+<l>sarvajñatvādiyoge'pi niyojyatvaṃ malāṃśataḥ /</l>
+<l>parasparaṃ viśiṣyante mantrāś caivam adhaḥ sthitāḥ || MrgT_1,4.5 ||</l>
+</lg>
+
+<l>* yadyapi sarve sarvārthadṛkkriyāḥ tathāpyekaikasya svasvādhovartino niyojyā iti preryatālakṣaṇamalāṃśāvaśeṣād adho'vasthitānām eṣām ūrdhvasthamavekṣya kalayā kartṛtvasya nyūnatvamiti parasparaviśeṣaḥ // MrgTV_1,4.5:1</l>
+<lg>
+<l>* taduktam /</l>
+<l>* yo hi yasmādguṇotkṛṣṭaḥ sa tasmād ūrdhvamiṣyate /</l>
+<l>* iti // MrgTV_1,4.5:2</l>
+</lg>
+<l>* na kevalameta eva viśiṣyante yāvat tadadhovartino mantrā apyevameva parasparaviśeṣabhājaḥ // MrgTV_1,4.5:3</l>
+<l>* tāneva mantrān viśinaṣṭi // MrgTV_1,4.5:4</l>
+
+</div>
+<div>
+
+<lg>
+<l>te ca mantreśvaravyaktaśivaśaktipracoditāḥ /</l>
+<l>kurvantyanugrahaṃ puṃsāṃ yadā yeṣāṃ sa yujyate || MrgT_1,4.6 ||</l>
+</lg>
+
+<l>* te ca mantrāḥ parāparamantreśvaravyaktayā śivaśaktyā vyāpāritā yogyatānurūpyeṇa kadācitkeṣāṃcidanugrahaṃ kurvanti na tu yogyatānapekṣam atiprasaṅgāt // MrgTV_1,4.6:1</l>
+
+</div>
+<div>
+
+<lg>
+<l>prayoktṛdehasāpekṣaṃ tadardhamakhile'dhvani /</l>
+<l>kṛtvādhikāraṃ sthityante śivaṃ viśati seśvaram || MrgT_1,4.7 ||</l>
+</lg>
+
+<l>* teṣāṃ saptakoṭisaṃkhyātānāṃ mantrāṇāmardhaṃ prayoktḥṇām anugrahītḥṇāṃ dehaṃ śarīram āśrayatvenāpekṣamāṇam īśvaramapekṣata iti tatsāpekṣam ācāryādhikaraṇeśvarāpekṣam akhile māyīye'dhvani svamadhikāram anugrāhyānugrahalakṣaṇaṃ nirvartya sthitikālasyānte māyīyasyādhvano'pyuparamasamaye seśvaramiti mantreśvaraiḥ sahitaṃ śivasāyujyaṃ gacchati // MrgTV_1,4.7:1</l>
+<l>* aparasyārdhasya kā vārttetyāha // MrgTV_1,4.7:2</l>
+
+</div>
+<div>
+
+<lg>
+<l>vinādhikaraṇenānyatpradhānavikṛter adhaḥ /</l>
+<l>kṛtvādhikāramīśeṣṭam apaiti svādhvasaṃhṛtau || MrgT_1,4.8 ||</l>
+</lg>
+
+<l>* anyad aparam ardhamīśeṣṭamiti yatra yatra parameśvarasyānugrahecchā tatra tatra tadicchayaiva vinādhikaraṇenety ācāryalakṣaṇam adhikaraṇam anapekṣyaiva pradhānā cāsau vikṛtiśceti pradhānavikṛtiḥ śuddhavidyā asyā adhaḥ sarvatra māyīye cādhvani svamadhikāraṃ kṛtvā svasyādhvano'nugrahamārgasya saṃhṛtau samāptau apaiti apavṛjyate // MrgTV_1,4.8:1</l>
+<lg>
+<l>* taduktaṃ tatrabhavadbhiḥ sadyojyotiḥpādaiḥ /</l>
+<l>* jagati kṛte tatrārdhaṃ mantrāṇāṃ śivasamāhṛtān puṃsaḥ /</l>
+<l>* anugṛhya yāti hi vinā daiśikamūrtiṃ prayuktamīśena // MrgTV_1,4.8:2</l>
+</lg>
+<l>* iti // MrgTV_1,4.8:3</l>
+<l>* itthaṃ mantrānuktvā mantreśvarānvaktum āha // MrgTV_1,4.8:4</l>
+
+</div>
+<div>
+
+<lg>
+<l>tato'nantādyabhivyaktaḥ patīnāṃ granthitattvataḥ /</l>
+<l>kalādyārabdhadehānāṃ karotyaṣṭādaśaṃ śatam || MrgT_1,4.9 ||</l>
+</lg>
+
+<l>* tac ca sātmakamākramya viśramāyāvatiṣṭhate // MrgTV_1,4.9:1</l>
+<l>* iti antarviśrāntāṇusaṃghātaṃ māyātattvaṃ vakṣyamāṇaṃ tasmād granthitattvatas tadgarbhādhikāriṇāṃ kalādyārabdhaśarīrāṇāṃ maṇḍalyādīnāṃ patīnāmaṣṭādaśādhikaṃ śatam ananteśādyabhivyaktaḥ parameśvaraḥ karoti kalādyārabdhadehatvam eṣāṃ karotītyarthaḥ // MrgTV_1,4.9:2</l>
+<lg>
+<l>* nanu ca /</l>
+<l>* aṣṭādaśādhikaṃ cānyacchataṃ māyādhikāriṇām /</l>
+<l>* vidyeśvarāṇām // MrgTV_1,4.9:3</l>
+</lg>
+<l>* ityādinā sākṣāt parameśvarānugṛhītatvam eṣāmuktam iha tv anantādyabhivyaktasya bhagavatas tatkaraṇamucyata iti virodhaḥ // MrgTV_1,4.9:4</l>
+<lg>
+<l>* naivaṃ yato'nantādīnāmeva kalādiyogakaraṇe kartṛtvaṃ natu parameśvarasya /</l>
+<l>* śuddhe'dhvani śivaḥ kartā prokto'nanto'site prabhuḥ /</l>
+<l>* iti śruteḥ // MrgTV_1,4.9:5</l>
+</lg>
+<l>* sa tu kalādiyogino bhogabhujastān sākṣādanugṛhṇātīti na kaściddoṣaḥ // MrgTV_1,4.9:6</l>
+<l>* te 'pyanyeṣāṃ viniyoktāra ityāha // MrgTV_1,4.9:7</l>
+
+</div>
+<div>
+
+<lg>
+<l>tān apyāviśya bhagavān sāñjanān bhuvanādhipān /</l>
+<l>yebhyaḥ sarvamidaṃ yeṣāṃ śaktiḥ karmanibandhanā || MrgT_1,4.10 ||</l>
+</lg>
+
+<l>* tānapi maṇḍaliprabhṛtīn aṣṭāv adhiṣṭhāya sa parameśvaro'nyānapi brahmaprabhṛtīn samalān bhuvaneśān uttejitadṛkkriyāśaktīn karotīti pūrveṇaiva sambandhaḥ // MrgTV_1,4.10:1</l>
+<l>* kiṃvidhān ityāha yebhyaḥ sarvamidaṃ jagat sthāvarajaṅgamalakṣaṇam āvirbhavatīti śeṣaḥ // MrgTV_1,4.10:2</l>
+<l>* yeṣāṃ śaktiḥ karmanibandhanā karmapāśo yeṣām uparodhakatvān na nivṛttaḥ sakalānāmevaiṣāṃ parameśvarād anugraho yataḥ // MrgTV_1,4.10:3</l>
+<l>* na parametāneva karoti yāvat // MrgTV_1,4.10:4</l>
+
+</div>
+<div>
+
+<lg>
+<l>praṇetḥn paśuśāstrāṇāṃ paśūṃs tadanuvartakān /</l>
+<l>svasādhyakārakopetān kāladhāmāvadhisthitān || MrgT_1,4.11 ||</l>
+</lg>
+
+<l>* paśuśāstrāṇām ārhatasāṃkhyapāñcarātrādīnāṃ praṇetḥn arhatkapilaprabhṛtīṃs tadanuṣṭhātḥṃśca paśūn svasādhyena tattacchāstropadiṣṭena phalena tatsādhanahetubhiḥ kārakaiśca yuktān kālāgnibhuvanāntaṃ yāvatkarotīti pūrveṇaiva sambandhaḥ // MrgTV_1,4.11:1</l>
+<l>* athaitānsṛṣṭvā devaḥ kiṃ karotītyāha // MrgTV_1,4.11:2</l>
+
+</div>
+<div>
+
+<lg>
+<l>sthitau sakārakānetān samākramya svatejasā /</l>
+<l>yunakti svārthasiddhyarthaṃ bhūtair anabhilakṣitaḥ || MrgT_1,4.12 ||</l>
+</lg>
+
+<l>* etān kārakair bhogasādhanais tattvabhāvabhuvanādibhir yuktān svatejasā nijecchāśaktyā samyagadhiṣṭhāya svārthasiddhyartham ityātmīyasya vyāpārasya sampattaye yadvā svairātmabhir arthyata ityartho bhogāpavargalakṣaṇaḥ puruṣārthaḥ tasya niṣpattyarthaṃ niyojayati na tūnmattavat nāpy aprayojanaṃ prayojanānuddeśena mandasyāpyapravṛtteḥ naca krīḍārthaṃ rāgādivirahiṇas tadasaṃbhavāt nāpyātmanimittaṃ paripūrṇatvāt // MrgTV_1,4.12:1</l>
+<l>* bhūtaiḥ prāṇibhiravidyāvaśādaviditataddṛkkriyaḥ // MrgTV_1,4.12:2</l>
+<l>* tadiyatā sṛṣṭisthitī uktvā saṃhāraṃ vaktum āha // MrgTV_1,4.12:3</l>
+
+</div>
+<div>
+
+<lg>
+<l>bhogasādhanamākṣipya kṛtvā kāraṇasaṃśrayam /</l>
+<l>tac ca sātmakamākramya viśramāyāvatiṣṭhate || MrgT_1,4.13 ||</l>
+</lg>
+
+<p>bhavināṃ bhavakhinnānāṃ sarvabhūtahito yataḥ /</p>
+
+<l>* ityante bhogasādhanaṃ tanukaraṇabhuvanādi upasaṃhṛtya kāraṇe māyākhye līnaṃ kṛtvā tac ca māyākhyaṃ kāraṇam antarnihitātmavrātamadhiṣṭhāya saṃsāriṇāṃ bhavādhvabhramaṇaśrāntānāṃ viśramārtham avatiṣṭhate niruddhavyāpārāṃs tāṃs tān karotītyarthaḥ // MrgTV_1,4.14ab:1</l>
+<l>* kuta ityāha sarvabhūtahito yataḥ yasmāt sarveṣāṃ bhūtānāṃ hitāya pravṛttaḥ parameśvaraḥ khedāpanodāya viśrāntiṃ svāpalakṣaṇāmeṣāṃ karoti // MrgTV_1,4.14ab:2</l>
+<l>* tatastu // MrgTV_1,4.14ab:3</l>
+
+</div>
+<div>
+
+<l>svāpāvasānam āsādya punaḥ prāgvatpravartate || MrgT_1,4.14 ||</l>
+
+<l>* vakṣyamāṇakālaparimāṇasya svāpasyānte bhūyaḥ pūrvavad aharmukhe parameśvaraśceṣṭate // MrgTV_1,4.14cd:1</l>
+<l>* tatsvāpe'pi kriyādiśaktayas tattatkāryaniṣpādanodyuktā bhavantītyāha // MrgTV_1,4.14cd:2</l>
+
+</div>
+<div>
+
+<lg>
+<l>svāpe'pyāste bodhayan bodhayogyān rodhyān rundhan pācayankarmikarma /</l>
+<l>māyāśaktīr vyaktiyogyāḥ prakurvan paśyansarvaṃ yadyathā vastujātam || MrgT_1,4.15 ||</l>
+</lg>
+
+<l>* jāgradavasthāyāmiva svāpāvasthāyāmapi malaparipākatāratamyāpekṣayā bodhanārhān bodhayan rodhanārhān rodhanaśaktyārundhan karmiṇāṃ karmāṇi pariṇāmayan māyāśaktīśca prasavābhimukhīḥ kurvan sarvaṃ cidacittattvabhāvabhūtabhuvanātmakaṃ yathāvadavalokayannāste // MrgTV_1,4.15:1</l>
+<l>* yadyatheti na tv asmadādivat ayathāvastvavabhāso 'pyasya bhavatīti vakṣyāmaḥ // MrgTV_1,4.15:2</l>
+<l>* tadiyatā jagatsṛṣṭisthitidhvaṃsalakṣaṇaṃ kṛtyatrayamihoktamiti prakaraṇopasaṃhāraḥ // MrgTV_1,4.15:3</l>
+
+</div>
+<div>
+
+<p>Mṛgendratantra, Vidyāpāda, 5</p>
+
+<lg>
+<l>tamaḥśaktyadhikārasya nivṛttes tatparicyutau /</l>
+<l>vyanakti dṛkkriyānantyaṃ jagadbandhuraṇoḥ śivaḥ || MrgT_1,5.1 ||</l>
+</lg>
+
+<lg>
+<l>* tamaso malasya śakteśca bhagavatsambandhinyā vāmākhyāyā yo 'sāv adhikāro nyagbhāvanavyāpṛtatvaṃ tasya nivṛttervirāmāt yāsau paricyutiḥ kaivalyābhimukhībhāvaḥ tathā coktaṃ śrīmatsvāyambhuve /</l>
+<l>* kṣīṇe tasminyathā sā syātparaṃ niḥśreyasaṃ prati // MrgTV_1,5.1:1</l>
+</lg>
+<l>* iti tasyāṃ tatparicyutau satyāṃ jagaduddharaṇapravaṇaḥ parameśvaro dṛkkriyānantyamaṇorātmanaḥ prakaṭīkaroti // MrgTV_1,5.1:2</l>
+<l>* satyorevānantayor dṛkkriyayor malāvacchannatvād āvṛtānantyayos tatpariṇaterāvaraṇāpagamādabhivyaktiḥ kriyate na tv apūrvotpāda ityuktaṃ vakṣyāmaśca satkāryavāde // MrgTV_1,5.1:3</l>
+
+</div>
+<div>
+
+<lg>
+<l>yānvimocayati svāpe śivāḥ sadyo bhavanti te /</l>
+<l>saṃhṛtau vā samudbhūtāv aṇavaḥ patayo'thavā || MrgT_1,5.2 ||</l>
+</lg>
+
+<l>* svāpāvasthitān yānparameśvaro'nugṛhṇāti te tu tatkāla eva śivāḥ sampadyante na tv adhikāriṇo bhavanti teṣāṃ malāṃśān avaśeṣato'preryatvena śivatvayogāt tadānīṃ cādhikāriṇāmanupayogāt // MrgTV_1,5.2:1</l>
+<l>* kiṃca saṃhāre sṛṣṭau vā yānvimocayati te 'pi sadya eva śivāḥ sampadyante na vyatirekeṇa // MrgTV_1,5.2:2</l>
+<l>* athaveti anayoḥ sṛṣṭisaṃhārakālayor añjanaparipākavailakṣaṇyatas tatkṣaṇaṃ śivatvavyaktyā niradhikāramūrtibhājaḥ sādhikārāḥ patitvayogino vā ātmāno bhavantītyarthaḥ // MrgTV_1,5.2:3</l>
+<l>* tatra saṃhāre yeṣām adhikāravān anugrahaste tadānīṃ rudrāṇavaḥ sṛṣṭau tv adhikāriṇo bhavitāraḥ sargārambhe tu sādhikārānugrahānugṛhītāḥ pataya iti parāparavidyeśvarādyadhikārabhājo bhavantīti // MrgTV_1,5.2:4</l>
+<l>* atha sṛṣṭisaṃhārakālayor aśrutamapi kathamanugrāhyāṇāṃ śivatvaṃ labhyata iti cet labhyata eva malaparipākasya parameśvarānugrahasya cāniyatakālatvāt // MrgTV_1,5.2:5</l>
+<l>* athaivaṃ sargasaṃhārasvāpakāleṣu anugṛhītānāṃ muktiviśeṣamuktvā sthitikālānugṛhītānāṃ tadviśeṣamāha // MrgTV_1,5.2:6</l>
+
+</div>
+<div>
+
+<lg>
+<l>rudramantrapatīśānapadabhājo bhavanti te /</l>
+<l>sthitau yānanugṛhṇāti gurumāsthāya cidvataḥ || MrgT_1,5.3 ||</l>
+</lg>
+
+<l>* gurvadhikaraṇaḥ parameśvaraḥ sthitikāle cidvata iti tadanudhyānavaśāt parāparaniḥśreyasaviṣayayā praśasyayā citā yuktānyānaṇūnanugṛhṇāti te mandatīvrādiśaktisampātavailakṣaṇyāt pañcāṣṭakādirudrāṇāṃ saptakoṭisaṃkhyātānāṃ mantrāṇāṃ tatpatīnāṃ ca vidyeśvarāṇām īśānasya ceśvarasadāśivāntalakṣaṇasya sambandhi padaṃ bhajanta iti tatpadabhājas tatsālokyādipadayogino bhavatītyarthaḥ // MrgTV_1,5.3:1</l>
+<l>* nanu śaktipātaviśeṣāt tattatpadabhāktvaṃ cet tarhi tadviśeṣaḥ kathaṃ jñeyaḥ ityāha // MrgTV_1,5.3:2</l>
+
+</div>
+<div>
+
+<lg>
+<l>yeṣāṃ śarīriṇāṃ śaktiḥ patatyapi nivṛttaye /</l>
+<l>teṣāṃ talliṅgam autsukyaṃ muktau dveṣo bhavasthitau || MrgT_1,5.4 ||</l>
+</lg>
+
+<lg>
+<l>bhaktiśca śivabhakteṣu śraddhā tacchāsake vidhau /</l>
+<l>anenānumitiḥ śiṣṭahetoḥ sthūladhiyāmapi || MrgT_1,5.5 ||</l>
+</lg>
+
+<l>* aśarīriṇāṃ tāvadgurubhiḥ śaktipātasya durlakṣatvāc charīravatāṃ yeṣāṃ pārameśvarī śaktirapunarāvirbhāvāya patati teṣāṃ tatpāte muktyutkaṇṭhā saṃsāradveṣaḥ parameśvarabhaktipareṣu bhaktiḥ tacchāsake śāstre śraddhā ceti liṅgaṃ cihnam // MrgTV_1,5.5:1</l>
+<lg>
+<l>* anenaiva cihnenāprakarṣavatā avaśiṣṭasya saṃsārasthitihetoḥ pāśajālasyāsūkṣmabuddhīnām apyanumānam /</l>
+<l>* pūrvoktānāṃ cihnānāmeva mandatve sati paśoḥ pāśaśaithilyamāndyaṃ mandamatayo 'pyanuminvanti iti bhāvaḥ // MrgTV_1,5.5:2</l>
+</lg>
+<l>* nanu kimanenātyantāpūrveṇa śaktipātaniścayena sakaladarśanaprasiddhaṃ tāvadidaṃ kaivalyaprāptikāraṇaṃ liṅgatvena kiṃ na niścīyate // MrgTV_1,5.5:3</l>
+<lg>
+<l>* yaduktam /</l>
+<l>* na hṛṣyatyupakāreṇa nāpakāreṇa kupyati /</l>
+<l>* yaḥ samaḥ sarvabhūteṣu jīvanmuktaḥ sa iṣyate // MrgTV_1,5.5:4</l>
+</lg>
+<l>* iti // MrgTV_1,5.5:5</l>
+<l>* tatrāha // MrgTV_1,5.5:6</l>
+
+</div>
+<div>
+
+<lg>
+<l>paśudṛgyogasiddhānāṃ karmavyaktidvayaṃ samam /</l>
+<l>jyeṣṭhādiphalayogyānāṃ sādhikārāsu muktiṣu || MrgT_1,5.6 ||</l>
+</lg>
+
+<p>upāyādaravaiśiṣṭyān mṛgyate tattrayaṃ punaḥ /</p>
+
+<l>* paśudṛgbhiḥ pāśavair jñānaistaduktena ca patañjaliprabhṛtipraṇītena yogena ye siddhāḥ sattvaguṇaprasādān mādhyasthyaṃ prāptāsteṣāṃ yatkarmabhyām upakārāpakārarūpābhyāṃ ceṣṭābhyāṃ prasādakrodhalakṣaṇaṃ vyaktidvayaṃ samamiti nāpakāriṇi krodhavyaktir nāpyupakāriṇi prītivyaktir mādhyasthyād evaitadbhavatu nāsmābhir niṣidhyate // MrgTV_1,5.7ab:1</l>
+<l>* iha punarayaṃ viśeṣaḥ yadadhikāravatīṣu muktiṣu viṣayeṣūpāyasya dīkṣādeḥ // MrgTV_1,5.7ab:2</l>
+<l>* lokadharmamayī dīkṣā śivadharmamayī tathā // MrgTV_1,5.7ab:3</l>
+<lg>
+<l>* ityādinā vakṣyamāṇād vaiśiṣṭyād ādarasya ca tattatpadaprāptiprītiśraddhātmanovailakṣaṇyāt yathoktaṃ śrīmatsūkṣmasvāyambhuve /</l>
+<l>* yo yatrābhilaṣed bhogānsa tatraiva niyojitaḥ /</l>
+<l>* siddhibhāṅmantrasāmarthyāt // MrgTV_1,5.7ab:4</l>
+</lg>
+<l>* iti tasmād upāyādaravailakṣaṇyān mantramaheśvarādipadaprāptilakṣaṇajyeṣṭhaphalayogyatāṃ mantreśvarapadaśaktyātmakaphalārhatvaṃ pañcāṣṭakādyaparādhikāri padayojanāyogyatāṃ ca niścetuṃ karmavyaktitrayaṃ mṛgyate anviṣyate // MrgTV_1,5.7ab:5</l>
+<l>* bhaktiśraddhābhivyaktitāratamyād utkṛṣṭamadhyamāpakṛṣṭarūpasādhikārāpavargapadabhāja ityanugrāhyā bhavantītyāśayaḥ // MrgTV_1,5.7ab:6</l>
+<l>* yac caitat sādhikāramuktitrayaṃ darśitam tataḥ // MrgTV_1,5.7ab:7</l>
+
+</div>
+<div>
+
+<l>dvayorvyaktikaraḥ kaścic cyutisiddhivilakṣitaḥ || MrgT_1,5.7 ||</l>
+
+<l>* madhyamāpakṛṣṭayor muktyor uparyadhovartinaḥ padasya prāpyatayā svasmāt padāt cyutisambhavena ca kaścidvyaktikaro'ntarāyaḥ natv anantaram evāpavargasya prāptiḥ // MrgTV_1,5.7cd:1</l>
+<l>* tṛtīyasyāṃ tu tatpadādhikārasamāptisamanantareṇaiva tallābhaḥ // MrgTV_1,5.7cd:2</l>
+<l>* atha kiṃnimittam etac cihnavaicitryaṃ yadvaśāttritvaṃ sādhikārāyā mukterityāha // MrgTV_1,5.7cd:3</l>
+
+</div>
+<div>
+
+<lg>
+<l>īṣadarthanivṛtte tu rodhakatve tamaḥpateḥ /</l>
+<l>bhavantyetāni liṅgāni kiṃcicchiṣṭe ca dehinām || MrgT_1,5.8 ||</l>
+</lg>
+
+<l>* tamaḥpateḥ kriyādṛṅniroddhur vāmadevanāthasya yadrodhakatvaṃ tasmin kiṃcin nivṛtte manāg avaśiṣṭe ca sati etac cihnatāratamyaṃ śarīriṇāṃ bhavati // MrgTV_1,5.8:1</l>
+<l>* ata eva // MrgTV_1,5.8:2</l>
+
+</div>
+<div>
+
+<lg>
+<l>yogyatātrayam apyetat samatītya maheśvaraḥ /</l>
+<l>svāpe'ṇumanugṛhṇāti sādhikāramidaṃ yataḥ || MrgT_1,5.9 ||</l>
+</lg>
+
+<l>* etadyogyatātrayam anapekṣyaiva svāpe'ṇumanugṛhṇāti aṇumiti jātāvekavacanam yogyatāvaicitryeṇānugrahavaicitryamaṇūnāṃ tadānīṃ na karotīti bhāvaḥ // MrgTV_1,5.9:1</l>
+<l>* atraiva hetumāha sādhikāramidaṃ yataḥ yasmādyogyatātrayamadhikārāpekṣam // MrgTV_1,5.9:2</l>
+<l>* na ca tadānīmadhikāropayogaḥ tasmān nāpekṣate // MrgTV_1,5.9:3</l>
+
+</div>
+<div>
+
+<p>sargamūle tṛtīyāyāṃ svāpavadbhūtasaṃhṛtau /</p>
+
+<l>* bhaviṣyati sargārambhe saṃhāropānte vakṣyamāṇalakṣaṇāyāṃ tṛtīyasyāṃ ca bhūtasaṃhṛtau yānanugṛhṇāti te śivāḥ sampadyante svāpāvasthānugṛhītāṇuvat // MrgTV_1,5.10ab:1</l>
+<l>* svāpe'ṇumanugṛhṇātīti yatprāguktaṃ tato'ṇuśabdaṃ lakṣayitum āha // MrgTV_1,5.10ab:2</l>
+
+</div>
+<div>
+
+<l>sa yad vyapāsya kriyate tadvidho yo 'ṇur ucyate || MrgT_1,5.10 ||</l>
+
+<l>* sa ityanantaroktaḥ sargādau tṛtīye ca bhūtasaṃhāre svāpe ca yo 'nugrāhyaḥ // MrgTV_1,5.10cd:1</l>
+<l>* yo yad vyapāsyāpanīya tādṛgvidhaḥ kriyate abhivyaktaśivabhāvaḥ sampadyate so 'ṇuśabdavācyo jñeyaḥ aṇuḥ sann apavṛjyata iti yāvat // MrgTV_1,5.10cd:2</l>
+<l>* tadevaṃ bodhayanbodhayogyān iti yatprāguktaṃ taddṛkkriyānantyavyaktyā pradarśitam // MrgTV_1,5.10cd:3</l>
+<l>* yadapi rodhyānrundhan ityādi sūcitaṃ tat yānvimocayati svāpe ityanena keṣāṃcideva tathāvidhānugrahabhāktve sati anyeṣām arthākṣipto rodha itikṛtvā na vipañcitam // MrgTV_1,5.10cd:4</l>
+<l>* idānīṃ tu pācayankarmikarma ityuktaṃ nirvarṇayitum āha // MrgTV_1,5.10cd:5</l>
+
+</div>
+<div>
+
+<p>tathā bījaṃ śarīrādeḥ pācayaty āniveśanāt /</p>
+
+<l>* bhagavataḥ śaktayaḥ sarvakāryeṣu prasṛtāḥ // MrgTV_1,5.11ab:1</l>
+<l>* tābhiḥ śarīrendriyajātyāyurbhogakāraṇaṃ karma dehabhājāṃ tatsvāpe pācayati phaladānonmukhamāpādayati // MrgTV_1,5.11ab:2</l>
+<l>* yasmāt // MrgTV_1,5.11ab:3</l>
+
+</div>
+<div>
+
+<l>na yogyatāṅgamabhajat sadyaḥ syādauṣadhādivat || MrgT_1,5.11 ||</l>
+
+<l>* yogyatāyā arhatvasyāṅgaṃ sampādakaṃ pākākhyaṃ saṃskāram abhajad anāsevyamānaṃ tat karma sadyastatkṣaṇaṃ harītakyādyauṣadhamiva na syān na bhavetphaladamiti śeṣaḥ // MrgTV_1,5.11cd:1</l>
+<l>* yadāhuḥ aprāptapākaṃ harītakyādidravyaṃ sadapi svakāryasampādanāśaktaṃ yogyatāṅgasya pākasyānāsādanāditi // MrgTV_1,5.11cd:2</l>
+<l>* evaṃ sadapi karmāpakvaṃ tatphaladānāśaktam ataḥ pākāpekṣaṃ pākaścāsya na svataḥ sambhavatītyāha // MrgTV_1,5.11cd:3</l>
+
+</div>
+<div>
+
+<lg>
+<l>pākārhamapi tat paktuṃ neśātmānamātmanā /</l>
+<l>dharmasāmānya evāyaṃ sarvasya pariṇāminaḥ || MrgT_1,5.12 ||</l>
+</lg>
+
+<l>* pākayogyamapi tat svayamātmānamātmanā na pācayitum īśam // MrgTV_1,5.12:1</l>
+<l>* sarvasyaiva hi pariṇāmino vastunaḥ kṣīrāderivāyaṃ sādhāraṇo dharmaḥ yatkimapyapekṣya pariṇāmitvaṃ nānyathā pariṇāmitvāc ca karmaṇo'pyanyāpekṣo vipākaḥ // MrgTV_1,5.12:2</l>
+<l>* anena māyāśaktīrvyaktiyogyāḥ prakurvan ityetadapi prakāśitaṃ tasyāpi pariṇāmitvāt // MrgTV_1,5.12:3</l>
+<l>* na caiṣāṃ malamāyākarmaṇāṃ pariṇāmakatvamanīśena suśakamityuktam // MrgTV_1,5.12:4</l>
+<l>* īśatīty aduṣṭam īśa ivācarati iti sarvaprātipadikebhya ityeke iti kvipaḥ smaraṇāt // MrgTV_1,5.12:5</l>
+<l>* tadiyatā tāvatsarvakartṛtvaṃ parameśvarasya pratipāditam // MrgTV_1,5.12:6</l>
+<l>* ata eva cāsya sarvajñatvaṃ sidhyatītyāha // MrgTV_1,5.12:7</l>
+
+</div>
+<div>
+
+<lg>
+<l>sarvajñaḥ sarvakartṛtvāt sādhanāṅgaphalaiḥ saha /</l>
+<l>yo yaj jānāti kurute sa tadeveti susthitam || MrgT_1,5.13 ||</l>
+</lg>
+
+<l>* sarvakartṛtvād eveśvarasya sarvajñatvaṃ sarvaviṣayajñānaṃ vinā sarvakartṛtānupapatteḥ // MrgTV_1,5.13:1</l>
+<l>* yo hi yadyatkriyāsiddhiṃ tadaṅgāni tatphalāni ca jānāti tasyaiva vicitratattatkārakopayogābhisaṃdhānavatas tattatkartṛtvaṃ ghaṭate kuvindāderiva paṭādikṛtau // MrgTV_1,5.13:2</l>
+<l>* ato yastu tatrājñaḥ sa tatkāryakaraṇāya nālaṃ bāliśa iva nyāyavidyādyupanyāsa ityetatsusthitamityavyabhicārīti // MrgTV_1,5.13:3</l>
+
+</div>
+<div>
+
+<lg>
+<l>tac cāsyāvṛtiśūnyatvān na vyañjakamapekṣate /</l>
+<l>tan na sāṃśayikaṃ tasmādviparītaṃ na jātucit || MrgT_1,5.14 ||</l>
+</lg>
+
+<l>* śivasya tat sarvajñatvam anādyāvaraṇaśūnyatvān na vyañjakāpekṣam nāpi saṃsāriṇa iva saṃśayaviparyayānadhyavasāyayuktam ata eva hetoḥ // MrgTV_1,5.14:1</l>
+<l>* tathāhi // MrgTV_1,5.14:2</l>
+
+</div>
+<div>
+
+<lg>
+<l>yāni vyañjakamīkṣante vṛtatvān malaśaktibhiḥ /</l>
+<l>vyañjakasyānurodhena tāni syur vyāhatānyapi || MrgT_1,5.15 ||</l>
+</lg>
+
+<l>* yāni kila jñānāni malaśaktyāvṛtatvādbhoganiṣpādanāya vyañjakaṃ kalādyapekṣante tāni vyañjakasya kalādeḥ svalpaprakāśakaraṇāt tathāvidhavyañjanabhāji jñeyaviṣaye vyāghātavantyapi bhavanti // MrgTV_1,5.15:1</l>
+<l>* na caiśvaraṃ jñānamevaṃvidhaṃ pūrvoktādevāvṛtiśūnyatvāt kāraṇāt // MrgTV_1,5.15:2</l>
+<lg>
+<l>* tathā coktaṃ śrīkiraṇe /</l>
+<l>* anādimalamuktatvātsarvajño'sau tataḥ śivaḥ /</l>
+<l>* iti // MrgTV_1,5.15:3</l>
+</lg>
+<l>* yataścaivamataḥ // MrgTV_1,5.15:4</l>
+
+</div>
+<div>
+
+<lg>
+<l>nādhyakṣaṃ nāpi tallaiṅgaṃ na śābdamapi śāṃkaram /</l>
+<l>jñānamābhāti vimalaṃ sarvadā sarvavastuṣu || MrgT_1,5.16 ||</l>
+</lg>
+
+<l>* akṣasavyapekṣaṃ hi jñānaṃ pratyakṣamakṣavyāpāraṇāt tadabhāve'bhāvāt tadbhāve bhāvānuvidhāyitvāc ca vyāhatamapi syāt // MrgTV_1,5.16:1</l>
+<l>* na caivaṃ śāmbhavaṃ jñānamato na pratyakṣam nāpyānumānikaṃ tasya pratyakṣādhīnavṛttitvāt śābdatvaṃ tu dūrāpāstam atyantaparokṣārthaviṣayatvāt tasya // MrgTV_1,5.16:2</l>
+<l>* na ca kiṃcidbhagavataḥ parokṣamataḥ sarvaviṣayaṃ tasya jñānaṃ prakāśate // MrgTV_1,5.16:3</l>
+<lg>
+<l>* nanu /</l>
+<l>* pañcavaktrastripañcadṛk /</l>
+<l>* ityādinā śrūyata evāgameṣvīśvarasya śarīrendriyayogaḥ tatsadbhāve'pi kasmān na tatsavyapekṣe īśvarasya jñānakriye // MrgTV_1,5.16:4</l>
+</lg>
+<l>* nāsya jñānakriyopayogī śarīrendriyayogaḥ svabhāvata eva sarvārthakriyā śaktimattvādicchāmātreṇaiva sargasthityādikaraṇakṣamatvāt // MrgTV_1,5.16:5</l>
+<l>* bhaktānugrahaṇārthaṃ cākāragrahaṇamanyathā nirākāre dhyānapūjādyayogāt // MrgTV_1,5.16:6</l>
+<lg>
+<l>* yaduktaṃ śrīmatpauṣkare /</l>
+<l>* sādhakasya tu lakṣyārthaṃ tasya rūpamidaṃ smṛtam /</l>
+<l>* sarvataḥ pāṇipādaṃ tatsarvato 'kṣiśiromukham // MrgTV_1,5.16:7</l>
+</lg>
+<l>* iti // MrgTV_1,5.16:8</l>
+
+</div>
+<div>
+
+<lg>
+<l>tadekaṃ viṣayānantyādbhedānantyaṃ prapadyate /</l>
+<l>kartṛtvaṃ tadabhinnatvāttadvadevopacārataḥ || MrgT_1,5.17 ||</l>
+</lg>
+
+<l>* yathāvasthitavastvavabhāsātmanas tāvattadīyasyaikasya jñānasya jñeyānantyād upādhibhedāt kṛtamaupacārikamānantyam śāstrātmano'pi srotobhedādadhyetṛbhedāt pravartayitṛbhedāt // MrgTV_1,5.17:1</l>
+<l>* teṣāṃ ca parāparatvād gauṇamevānantyam // MrgTV_1,5.17:2</l>
+<l>* sarvajñānakriyārūpā śaktirekaivaśūlinaḥ // MrgTV_1,5.17:3</l>
+<l>* ityanayā dṛśā tasmāj jñānādabhinnatvātkartṛtvamapi tathaivopacārādānantyaṃ pratipadyate // MrgTV_1,5.17:4</l>
+<l>* atha nirvarṇitopasaṃhārāya vyākhyeyopakṣepāya cāyaṃ ślokaḥ // MrgTV_1,5.17:5</l>
+
+</div>
+<div>
+
+<lg>
+<l>sattāsvarūpakaraṇārthavidheyadṛgbhir leśoditābhiriti ye vidurīśatattvam /</l>
+<l>te mocayanti bhavino bhavapaṅkamagnān no vistareṇa puruṣāḥ paśupāśarūpam || MrgT_1,5.18 ||</l>
+</lg>
+
+<lg>
+<l>* athopalabhya dehādi vastu kāryatvadharmakam /</l>
+<l>* kartāramasya jānīmaḥ // MrgTV_1,5.18:1</l>
+</lg>
+<l>* ityādinā tāvadīśvarasya sattā sādhitā // MrgTV_1,5.18:2</l>
+<lg>
+<l>* nityaṃ kālānavacchedādvaitatyān na pradeśagam /</l>
+<l>* kramākramasamutpatteḥ kramādyutpattiśaktimat // MrgTV_1,5.18:3</l>
+</lg>
+<l>* iti tatsvarūpamuktam // MrgTV_1,5.18:4</l>
+<l>* karaṇaṃ ca na śaktyanyacchaktir nācetanā citaḥ // MrgTV_1,5.18:5</l>
+<l>* ityanena karaṇaṃ kathitam // MrgTV_1,5.18:6</l>
+<l>* viniyogaphalaṃ muktirbhuktir apyanuṣaṅgataḥ // MrgTV_1,5.18:7</l>
+<l>* ityamunārthaḥ prayojanamupavarṇitam // MrgTV_1,5.18:8</l>
+<lg>
+<l>* jagajjanmasthitidhvaṃsatirobhāvavimuktayaḥ /</l>
+<l>* kṛtyam // MrgTV_1,5.18:9</l>
+</lg>
+<l>* ityanena pañcavidhaṃ vidheyamuktam // MrgTV_1,5.18:10</l>
+<lg>
+<l>* dṛkca asya jñānam /</l>
+<l>* nādhyakṣaṃ nāpi tallaiṅgam /</l>
+<l>* ityādinā nirṇītamiti // MrgTV_1,5.18:11</l>
+</lg>
+<l>* etābhiḥ sattāsvarūpakaraṇārthavidheyadṛgbhiḥ saṃkṣepoktābhir īśatattvaṃ ye viduḥ jānanti te puruṣāḥ saṃsārakardamanimagnān saṃsāriṇo mocayanti na tu vistareṇa paśurūpaṃ pāśarūpaṃ vā īśvaraṃ ye viduḥ yathā // MrgTV_1,5.18:12</l>
+<lg>
+<l>* ātmaivedaṃ sarvam /</l>
+<l>* puruṣa evedaṃ sarvam // MrgTV_1,5.18:13</l>
+</lg>
+<l>* ityevaṃvidhapuruṣarūpeśvaravādinaḥ karmakālāvyaktādipāśarūpeśvaravādino vā paśūnāṃ svayam evānādyajñānanimagnatvenākiṃcitkaratvāt pāśānāṃ ca tatpāśana eva caritārthatvāt tattatsaṃyoge viyogādau vā nigalādivat parāpekṣatve satyanīśvaratvāt // MrgTV_1,5.18:14</l>
+<l>* tathāvidheśvarāvabodhāt paramocanaṃ sakalalokopahāsāvahaṃ yataḥ // MrgTV_1,5.18:15</l>
+<l>* paśuśabdaścātra samanantaraprakaraṇopakramyamāṇātmatattvopakṣepāyopahṛtaḥ // MrgTV_1,5.18:16</l>
+
+</div>
+<div>
+
+<p>Mṛgendratantra, Vidyāpāda, 6</p>
+
+<lg>
+<l>atha viśvanimittasya prāptaṃ lakṣaṇamātmanaḥ /</l>
+<l>tadīśoktau gataprāyaṃ tathāpyuddeśa ucyate || MrgT_1,6.1 ||</l>
+</lg>
+
+<l>* athedānīṃ pāścātyapaṭalāntasūcitābhidhānasyātmano lakṣaṇamucyata iti pāṭalikaprākaraṇikau sambandhau jñeyau // MrgTV_1,6.1:1</l>
+<l>* sautrādayastu prāgvadunneyāḥ pratipaṭalamucyamānā atipaunaruktyamāvahanti // MrgTV_1,6.1:2</l>
+<l>* viśvasya jagato nimittaṃ pravartanaheturātmā tadbhogasādhanāya tanukaraṇabhuvanādīnāmutpatteḥ // MrgTV_1,6.1:3</l>
+<l>* tasyātmano lakṣaṇamīśvaroktyanantaram avasaraprāptaṃ kathyate // MrgTV_1,6.1:4</l>
+<lg>
+<l>* tac ca yadyapi /</l>
+<l>* tena svabhāvasiddhena bhavitavyaṃ jagatkṛtā // MrgTV_1,6.1:5</l>
+</lg>
+<l>* ityatra īśvarasiddhyanuṣaṅgeṇa // MrgTV_1,6.1:6</l>
+<lg>
+<l>* caitanyaṃ dṛkkriyārūpaṃ tadastyātmani sarvadā /</l>
+<l>* sarvataśca yato muktau śrūyate sarvatomukham // MrgTV_1,6.1:7</l>
+</lg>
+<l>* ityādinoktaprāyaṃ kathitakalpaṃ tathāpyuddeśaḥ sopapattikatatsvarūpasaṃkṣepa ucyate // MrgTV_1,6.1:8</l>
+
+</div>
+<div>
+
+<lg>
+<l>kāryaṃ kṣityādi karteśastatkartur nopayujyate /</l>
+<l>na svārthamapyacidbhāvān nānarthyaṃ kartṛgauravāt || MrgT_1,6.2 ||</l>
+</lg>
+
+<l>* kāryatvaṃ tāvatkṣityādereva saṃniveśādimattvena prāk kathitam // MrgTV_1,6.2:1</l>
+<l>* tasya ca kartā prāguktābhiryuktibhirīśaḥ siddhaḥ // MrgTV_1,6.2:2</l>
+<l>* tattu kāryaṃ tadupayogi vā syāt svopayogi anupayogi anyopayogi veti catvāraḥ pakṣāḥ // MrgTV_1,6.2:3</l>
+<l>* tatra na tāvadīśvaropayogi nahi pṛthivyādibhistasya svātmanyarthakriyā kācitkriyate nityaparipūrṇasvarūpatvāt // MrgTV_1,6.2:4</l>
+<l>* na ca tat kṣityādi kāryaṃ kṣityādyarthameva kriyate teṣāmācaitanyāt karaṇīyasyābhāvāt // MrgTV_1,6.2:5</l>
+<l>* cetanasya hi dharmādicaturvargaprepsoḥ karaṇīyaṃ sambhavati na paṭādeḥ // MrgTV_1,6.2:6</l>
+<l>* na caitat kāryamanarthakaṃ kartṛgauravāt // MrgTV_1,6.2:7</l>
+<l>* sāmānyenāpi kartrā yatkāryaṃ kriyate tan nānarthakaṃ bhavati kiṃ punaḥ parameśvaravyāpāritair jagatkartṛbhirbrahmādibhiḥ // MrgTV_1,6.2:8</l>
+<l>* tatkāryakaraṇe ca na prayojanaṃ prāk pradarśitam // MrgTV_1,6.2:9</l>
+
+</div>
+<div>
+
+<l>* tat kṣityādi kāryam // MrgTV_1,6.3:1</l>
+<l>* kaścātra para ityāha // MrgTV_1,6.3:2</l>
+
+</div>
+<div>
+
+<p>pāriśeṣyātparārthaṃ tat kṣetrajñaḥ sa parastayoḥ /</p>
+
+<l>* kartṛkāryayoḥ paro'nyaḥ prastutābhidhānaḥ kṣetrajño yaś cātmetyarthaḥ // MrgTV_1,6.3ab:1</l>
+<l>* atra cārvākacchāyayā ātmanirāsāyedam āśaṅkyate // MrgTV_1,6.3ab:2</l>
+
+</div>
+<div>
+
+<l>paro dehastadarthatvātparārthāḥ kṣmādayo nanu || MrgT_1,6.3 ||</l>
+
+<l>* nanūpalabhyamānaprayojanānāṃ kṣityādīnāṃ parārthatvamastu sa tv atra paraḥ kāya eva yasyārambhakāś copayoginaśca pṛthivyaptejovāyavaḥ // MrgTV_1,6.3cd:1</l>
+<l>* tasmān na kṣityādīnāṃ parārthatvenātmanāmanumānam // MrgTV_1,6.3cd:2</l>
+<l>* atrottaraṃ // MrgTV_1,6.3cd:3</l>
+
+</div>
+<div>
+
+<p>kāyo 'py acittvādānyārthyaṃ sutarāṃ pratipadyate /</p>
+
+<l>* deho'pi parārtha eva ācaitanyāt pṛthivyādivaditi tasyāpy ānyārthyaṃ pārārthyaṃ sutarāmupapadyate // MrgTV_1,6.4ab1:1</l>
+<l>* tataśca dehasya kṣityādīnāṃ ca parārthatvātpara ātmaivātra yuktyupapannaḥ // MrgTV_1,6.4ab1:2</l>
+<l>* nanu dehādanyatra yadi caitanyaṃ syāt syādetadevam // MrgTV_1,6.4ab1:3</l>
+<l>* pṛthvyādicaturbhūtavikārake prāṇādikāraṇībhūte garbhādau saṃvidudbhavaḥ kiṇvādidravyavikāre bhavaśaktyutpattivat // MrgTV_1,6.4ab1:4</l>
+<l>* tathāhi kṛśo'haṃ sthūlo'hamiti śarīra evāhaṃpratyayo dṛṣṭaḥ na ca tadvyatirikta ātmā upalabhyate dehe'styātmā ityasya aśve viṣāṇamityādivat pratyakṣanirākṛtatvāt // MrgTV_1,6.4ab1:5</l>
+<l>* atha parārthāścakṣurādayaḥ saṃghātatvāt śayanādyaṅgavadityādinā karaṇādīnāṃ kartṛprayojyatvādinā vā anumānenātmā prasādhyate na tadyuktaṃ tasyātmāpalāpinaścārvākān pratyasiddheḥ // MrgTV_1,6.4ab1:6</l>
+<l>* nahy eṣāṃ pratyakṣād anyatkiṃcit pramāṇaṃ siddhāv api vā anumīyamānasyātmano devadattādivatparatvaṃ prasajyate // MrgTV_1,6.4ab1:7</l>
+<l>* yatkila svayaṃ prakāśate sa evātmā tatprakāśyastu para iti viviktatayā ātmaparabhāvasya prakāśamānasyaiva saṃkaro'navasthānaṃ ca syāt // MrgTV_1,6.4ab1:8</l>
+<lg>
+<l>* taduktam /</l>
+<l>* ātmā yadi bhavenmeyastasya mātā bhavetparaḥ /</l>
+<l>* para ātmā tadānīṃ syātsa paro yastu mīyate // MrgTV_1,6.4ab1:9</l>
+</lg>
+<l>* iti // MrgTV_1,6.4ab1:10</l>
+<lg>
+<l>* tathā /</l>
+<l>* prakāśate saṃvidekā tadanyattu prakāśyate /</l>
+<l>* prakāśyaṃ ca bhavetkarma tac ca kartrā vinā katham // MrgTV_1,6.4ab1:11</l>
+</lg>
+<l>* iti // MrgTV_1,6.4ab1:12</l>
+<l>* tasmān nānumānena dehavyatirikta ātmā upalabhyate apitu caitanyaviśiṣṭaḥ kāya eva vastusann ityāśaṅkayāha // MrgTV_1,6.4ab1:13</l>
+
+<l>* atha manyase kāya eva cetanātmakaḥ // MrgTV_1,6.4ab2:1</l>
+<l>* tathāhi yasminnupacite yasyopacayaḥ yadapacaye ca apacayaḥ tattadātmakaṃ yathā vahnyupacayāpacayayor upacayāpacayāv anugacchedauṣṇyam // MrgTV_1,6.4ab2:2</l>
+<l>* yauvanasthāvirabhojanalaṅghanādihetukau ca dehasambandhināv upacayāpacayāv anukurvadvijñānaṃ dehātmakameva ato deha eva cetana iti pūrvaḥ pakṣaḥ // MrgTV_1,6.4ab2:3</l>
+<l>* athaitatpratikṣepaḥ // MrgTV_1,6.4ab2:4</l>
+
+</div>
+<div>
+
+<l>cetanaścet na bhogyatvādvikāritvāc ca jātucit || MrgT_1,6.4 ||</l>
+
+<p>bhogyā vikāriṇo dṛṣṭāścidvihīnāḥ paṭādayaḥ /</p>
+
+<l>* so 'pyevaṃ dehaścetanaḥ kadācin na bhavati bhogyatvādvikāritvāc ca // MrgTV_1,6.5ab1:1</l>
+<l>* ye ye kecana vikāriṇaḥ pariṇāmino bhogyāśca te te hy acetanā dṛṣṭāḥ yathā paṭādayaḥ // MrgTV_1,6.5ab1:2</l>
+<l>* sa deho'pyevaṃvidhaḥ tasmān na cetanaḥ // MrgTV_1,6.5ab1:3</l>
+<l>* nanv aṅganādibhir bhogyatvamanaikāntikaṃ bhogyatve'pi tatrācaitanyābhāvāt // MrgTV_1,6.5ab1:4</l>
+<l>* nānaikāntikaṃ tadīyasya dehasyaiva bhogyatvāt // MrgTV_1,6.5ab1:5</l>
+<l>* yadyevaṃ nirjīvasya dehasya kathaṃ nopabhogaḥ // MrgTV_1,6.5ab1:6</l>
+<l>* bhavatyeva tadavasthocita upabhogaḥ kravyādādeḥ na punaḥ kāntādeḥ kāminyādyavasthāyā yenāvasthāntarāpatter vikāritvena bībhatsarasahetutvāt // MrgTV_1,6.5ab1:7</l>
+<lg>
+<l>* taduktir atraiva /</l>
+<l>* kva tadvaktraṃ kva tadadharamadhu kvāyatākṣyāḥ kaṭākṣaḥ /</l>
+<l>* ityādi // MrgTV_1,6.5ab1:8</l>
+</lg>
+<l>* evaṃ gajāśvādāv api jñeyam // MrgTV_1,6.5ab1:9</l>
+<l>* tasmāt sthitametat vikāritvādbhogyatvāc ca dehasyācaitanyam ācaitanyāc ca pārārthyamiti // MrgTV_1,6.5ab1:10</l>
+<l>* punarapi paramatam āśaṅkate // MrgTV_1,6.5ab1:11</l>
+
+<l>* yasminsati yasya bhāvo yadabhāve cābhāvastat tatkāryaṃ śītamiva himasya // MrgTV_1,6.5ab2:1</l>
+<l>* sati ca śukraśauṇitātmakadehārambhakabhūtaviśeṣapariṇāme sattvādasati ca pradhvaste tasminnasattvāc caitanyaṃ bhūtaviśeṣapariṇāmakṛtamiti vā yady aveṣi // MrgTV_1,6.5ab2:2</l>
+<l>* tadetadanupapannaṃ yasmāt // MrgTV_1,6.5ab2:3</l>
+
+</div>
+<div>
+
+<l>yasminsati ca sattvādvā na satyapi śave citiḥ || MrgT_1,6.5 ||</l>
+
+<l>* yatsadbhāva eva yasya bhāvastattasya kāryamiti niyamo'trāvaśyaṃ pratijñātavyo'nyathā tadabhāve'pi bhavatas tatkāryatvāyogāt yathāgnisadbhāva eva sambhavan dhūmo'gnikāryaḥ // MrgTV_1,6.5cd1:1</l>
+<l>* evaṃ ca śarīrārambhakabhūtasadbhāva eva bhāvaḥ tadabhāve cābhāva eva caitanyasya yadi syāt taddehasambandhitayā pratīyeta // MrgTV_1,6.5cd1:2</l>
+<l>* yāvatā śarīrasadbhāve'pi garbhādāv uttarakālaṃ ca cetanāpagamo dṛṣṭaḥ // MrgTV_1,6.5cd1:3</l>
+<l>* tan na sati sattvaṃ dehārambhakacaitanyasādhakam // MrgTV_1,6.5cd1:4</l>
+<l>* nanu mṛtaśarīre'pi prāṇādyātmakasya vāyorūṣmarūpasya ca tejaso'pagamān na jīvāvasthāyāmiva śarīrārambhakabhūtasadbhāvas tasmād atrācetanatvam yac ca tat sati sattvam anaikāntikīkartum aśaktam // MrgTV_1,6.5cd1:5</l>
+<l>* maivam // MrgTV_1,6.5cd1:6</l>
+<l>* gatāsavo'pi hi kecana calatsaṃdhayaḥ soṣmāṇaśca kiyantaṃ kālamupalabhyante // MrgTV_1,6.5cd1:7</l>
+<l>* teṣāṃ ca jīvadavasthāvad dehārambhakabhūtasadbhāve'pi na caitanyasambhavaḥ garbhāvasthāyāṃ ca sakalasāmagrīsadbhāve'pi kadācic caitanyāsaṃbhavaḥ // MrgTV_1,6.5cd1:8</l>
+<l>* tasmātsati sattvamanaikāntikameva // MrgTV_1,6.5cd1:9</l>
+<l>* nanu jīvadavasthāyāṃ pariṇāmavaiśiṣṭyāc caitanyasambhavas tathāvidhapariṇāmābhāvāt gatāsudehe tadabhāva iti punarapi cārvākabhūmikayaivāśaṅkyate // MrgTV_1,6.5cd:10</l>
+
+<l>* kaumārayauvanādyavasthābhedād avāntaratattadavasthāviśeṣabhedena ca dehārambhakabhūtapariṇāmakṛtatattadvaiśiṣṭyāj jīvadavasthāyāṃ yac caitanyamasti tat tathāvidhabhūtapariṇāmakṛtatattadghaṭapaṭaśakaṭādyanekārthaprakāśakāni sakramāṇi hi vijñānāni pūrvapūrvanirodhe saty uttarottarāṇi pariṇāmavaiśiṣṭyādeva bhavanti nānyata iti na dehād anyac caitanyamiti codyam // MrgTV_1,6.5cd2: 1</l>
+<l>* atra parihāraḥ // MrgTV_1,6.5cd2: 2</l>
+
+</div>
+<div>
+
+<p>pariṇāmasya vaiśiṣṭyādasti cet na smṛtistadā /</p>
+
+<l>* tadeti pratyarthaṃ sakramasaṃvedanaviśeṣasya pariṇāmitvābhyupagame sati smṛtir nāvakalpate // MrgTV_1,6.6ab:1</l>
+<l>* pariṇāmaviśeṣāṇāṃ kramabhāvināṃ bhinnatvāt // MrgTV_1,6.6ab:2</l>
+<l>* asaṃviditasyānyaviditasya cānyenāsmaraṇāt // MrgTV_1,6.6ab:3</l>
+<l>* nahy ananubhūtaṃ devadattānubhūtaṃ vā caitrādinā smartuṃ śakyam // MrgTV_1,6.6ab:4</l>
+<l>* evaṃ mā bhūt smṛtiḥ kiṃ naśchinnamiti cet tadapyayuktamityāha // MrgTV_1,6.6ab:5</l>
+
+</div>
+<div>
+
+<l>nāpyevaṃ supratītatvāt smartā kāyetaro'styataḥ || MrgT_1,6.6 ||</l>
+
+<l>* sakalalokaprasiddhasmṛtyapahnavas tāvan na śakyaḥ smṛtiś caivam upapadyate dehasyāsakṛtpariṇāmitve'pi ekasvabhāvas tadanyas tadarthasaṃnidhau tattajjñānasyānya evānubhavitā sa evānusaṃdhātā syāditi // MrgTV_1,6.6cd:1</l>
+<l>* ata ityasmāt smṛtyanyathānupapattilakṣaṇādapi hetordehādanyaḥ smartāstīti // MrgTV_1,6.6cd:2</l>
+<l>* na ca vācyaṃ kimebhiḥ parānumānāsahiṣṇor vyarthair hetvādibhiriti yataś cārvākasyānicchorapi durgatasya daurgatyamiva balād evānumānaṃ khyātimanubadhnāti // MrgTV_1,6.6cd:3</l>
+<l>* tathā hi tena pratyakṣaikapramāṇavādināpi caturmahābhūtavyatiriktatattvāntarānabhyupagame mṛtpāṣāṇādisthāvaralakṣaṇā pṛthivī jalādiś ca saraḥsaritsamudrādir nādṛṣṭasya guṇabhedena sarvaṃ pratyakṣeṇāvagāhituṃ śakyaṃ tasya pratiniyatavyaktihetutvenāśeṣajagadantargatapadārthaviṣayānvayagrahaṇākṣamatvāt // MrgTV_1,6.6cd:4</l>
+<l>* api ca yatra kāṭhinyaṃ sā pṛthivī sthalopalaparvatādivat pṛthivītvābhāve kāṭhinyasyābhāvaś cābādāv iva yac ca dravasvarūpaṃ taj jalaṃ tailaghṛtakṣīrāder apy udakatvād ityādyanvayagrahaṇam anumānāṅgaṃ kalpanīyam // MrgTV_1,6.6cd:5</l>
+<l>* dharmiṇi ca dehe pakṣīkṛte tadgatasya kāṭhinyādeḥ pṛthivyādidharmatvaniścayāt pṛthivyādibhūtacatuṣṭayārabdhatvamapi nānumānaṃ vināvagantuṃ śakyam // MrgTV_1,6.6cd:6</l>
+<l>* kiṃ ca pratyakṣameva pramāṇaṃ nānumānamiti pramāṇāpramāṇacintā nāsya pratyakṣaniśceyā // MrgTV_1,6.6cd:7</l>
+<lg>
+<l>* yathāha dharmakīrtiḥ /</l>
+<l>* pramāṇetarasāmānyasthiter anyaviyogataḥ /</l>
+<l>* pramāṇāntarasadbhāvaḥ // MrgTV_1,6.6cd:8</l>
+</lg>
+<l>* iti na paraṃ pratyasiddhatvam anumānasya // MrgTV_1,6.6cd:9</l>
+<l>* tatpratyāyanārthaṃ ceha pariśeṣānumānaṃ prakaraṇārambhe darśitaṃ na tu svasaṃvedanasiddhatvenāparokṣasyātmanaḥ sādhanāya tatra pramāṇāntarasyānupayogāt // MrgTV_1,6.6cd:10</l>
+<lg>
+<l>* yad āhuḥ /</l>
+<l>* anubhūtau pramāṇānāṃ pariniṣṭhā samāpyate /</l>
+<l>* svatas tayaiva yā jñaptiḥ kiṃ tatrānyaiḥ pramāntaraiḥ // MrgTV_1,6.6cd:11</l>
+</lg>
+<l>* iti // MrgTV_1,6.6cd:12</l>
+<l>* gatametat // MrgTV_1,6.6cd:13</l>
+<lg>
+<l>* yattu /</l>
+<l>* pariṇāmasya vaiśiṣṭyādasti cen na smṛtistadā // MrgTV_1,6.6cd:14</l>
+</lg>
+<l>* ity akhaṇḍanameva ślokārdhaṃ tad etac chivāvasthāyāṃ sūkṣmatarasaṃvedanasambhave'pi pariṇāmasya vaiśiṣṭyāditi smṛtyabhāvapratipādakatvena paramatāśaṅkayā vyākhyāya samādhīyate yaduta nāpyevaṃ supratītatvāt na hy evaṃ kvacitprasiddhaṃ yadgatāsoḥ sūkṣmatarasaṃvedanamasti smṛtistu nāstītyapitu supratītametat yan nirjīve vapuṣi kāṣṭhādāv iva saṃvin nāstyeveti tasmād dehād anyaḥ smartāstītyevamapi vyākhyāyamāne na kaściddoṣaḥ // MrgTV_1,6.6cd:15</l>
+<l>* evaṃ paśupadārthaṃ prasādhya tadviśeṣān vaktum āha // MrgTV_1,6.6cd:16</l>
+
+</div>
+<div>
+
+<lg>
+<l>nāvyāpako na kṣaṇiko naiko nāpi jaḍātmakaḥ /</l>
+<l>nākartā bhinnacidyogī pāśānte śivatāśruteḥ || MrgT_1,6.7 ||</l>
+</lg>
+
+<l>* sa cātmā nāvyāpakaḥ nāpi kṣaṇikaḥ deśakālābhyām anavacchinnatvāt // MrgTV_1,6.7:1</l>
+<lg>
+<l>* tadāhuḥ /</l>
+<l>* anavacchinnasadbhāvaṃ vastu yad deśakālataḥ /</l>
+<l>* tan nityaṃ vibhu cecchantītyātmano vibhunityate // MrgTV_1,6.7:2</l>
+</lg>
+<l>* iti // MrgTV_1,6.7:3</l>
+<lg>
+<l>* na cāsāv ekaḥ /</l>
+<l>* eko vaśī sarvabhūtāntarātmā /</l>
+<l>* iti pratipannānāṃ brahmavidāmiva janmamaraṇakaraṇādipratiniyamadarśanasya puruṣabahutvajñāpakasyāpahnotum aśakyatvāt // MrgTV_1,6.7:4</l>
+</lg>
+<l>* na ca naiyāyikavaiśeṣikāṇāmiva jaḍaḥ // MrgTV_1,6.7:5</l>
+<l>* nāpi sāṃkhyānāmivākartā // MrgTV_1,6.7:6</l>
+<l>* na ca keṣāṃcidivāgantunā citā yuktaḥ // MrgTV_1,6.7:7</l>
+<l>* kutaḥ ityāha pāśānte śivatāśruteḥ pāśānāmavidyādīnām ante tatpratibandhakatvavyapagame yato 'syātmanaḥ śivatvavyaktiḥ śrūyate // MrgTV_1,6.7:8</l>
+<lg>
+<l>* tathā coktam /</l>
+<l>* athātmamalamāyākhyakarmabandhavimuktaye /</l>
+<l>* vyaktaye ca śivatvasya śivāj jñānaṃ pravartate // MrgTV_1,6.7:9</l>
+</lg>
+<l>* iti // MrgTV_1,6.7:10</l>
+<l>* na ca tacchivatvam avyāpakatvādidharmayuktaṃ jñatvakartṛtvarahitaṃ vā // MrgTV_1,6.7:11</l>
+<l>* nityaṃ kālānavacchedād vaitatyān na pradeśagam // MrgTV_1,6.7:12</l>
+<l>* ityādinā pratyuta tadvilakṣaṇatvasyopapāditatvāt // MrgTV_1,6.7:13</l>
+<l>* na ca vyāpakatvanityatvāder muktāv evodayāt saṃsāryavasthāyām abhāva iti mantavyam asadutpattyasambhavasyopapādayiṣyamāṇatvād iti // MrgTV_1,6.7:14</l>
+
+</div>
+<div>
+
+<p>Mṛgendratantra, Vidyāpāda, 7</p>
+
+<lg>
+<l>athāvidyādayaḥ pāśāḥ kathyante leśato'dhunā /</l>
+<l>yeṣāmapāye patayo bhavanti jagato 'ṇavaḥ || MrgT_1,7.1 ||</l>
+</lg>
+
+<lg>
+<l>* atheti paśupadārthād anantaramavidyā ajñānamañjanamāṇavaḥ pāśa ādau yeṣāṃ te karmamāyārodhaśaktyākhyāḥ pāśāḥ adhunā idānīṃ leśataḥ saṃkṣepataḥ kathyante yeṣām apagame paśutvān muktvā aṇava ātmāno jagataḥ patayo bhavanti /</l>
+<l>* tatra śivavad anyānadhīnasvātantryābhivyaktir muktātmanāṃ patitvaṃ vidyeśvarādyadhikārabhājāṃ tu pañcavidhakṛtyakāritvam // MrgTV_1,7.1:1</l>
+</lg>
+<lg>
+<l>* atha mukteḥ prāk kuto'vasīyate pāśitatvamaṇoriti cet jñānakriyayoḥ sarvārthatāvyāhateḥ /</l>
+<l>* anyathā hi // MrgTV_1,7.1:2</l>
+</lg>
+
+</div>
+<div>
+
+<lg>
+<l>pāśābhāve pāratantryaṃ vaktavyaṃ kiṃnibandhanam /</l>
+<l>svābhāvikaṃ cenmukteṣu muktaśabdo nivartate || MrgT_1,7.2 ||</l>
+</lg>
+
+<lg>
+<l>* pāśarahitasya hipuṃso na baddhatvam abaddhasya ca kiṃkṛtaṃ pāratantryaṃ yad anicchato 'py asyāniṣṭaprāptir iṣṭavyāghātaśca bhavati /</l>
+<l>* atha manyase nāsya tatpāratantryaṃ pāśakṛtam api tu svābhāvikam iti tarhi muktāṇuṣu muktaśabdasya nivṛttiḥ // MrgTV_1,7.2:1</l>
+</lg>
+<l>* vyapagatapāśe hi muktaśabdo loke prasiddhaḥ // MrgTV_1,7.2:2</l>
+<l>* etadeva ghaṭayann āha // MrgTV_1,7.2:3</l>
+
+</div>
+<div>
+
+<lg>
+<l>bandhaśūnyasya vaśitā dṛṣṭā baddhasya vaśyatā /</l>
+<l>etāvatī te baddhatvamuktatve baddhamuktayoḥ || MrgT_1,7.3 ||</l>
+</lg>
+
+<l>* iyadeva tadbaddhasya baddhatvaṃ yatpāśitatve satyapāśitavaśyatā svatantraparameśvarāyattatvam ityarthaḥ // MrgTV_1,7.3,1:1</l>
+<l>* muktasya caitāvadeva tanmuktatvaṃ yad baddhatvāpagamāt tadvaśitvaṃ svātantryābhivyaktiḥ // MrgTV_1,7.3,1:2</l>
+<l>* tathā hi loke'pi bandharahito vaśī baddhaśca vaśya ityucyate // MrgTV_1,7.3,1:3</l>
+<l>* kimata ityāha // MrgTV_1,7.3,1:4</l>
+
+<l>* tattasmāddhetor yad etadātmana iṣṭaprāptyādau pāratantryaṃ tadbaddhatvaṃ gamayati iti śeṣaḥ // MrgTV_1,7.3,2:1</l>
+<l>* nahy abaddhasya svātantryavyāghāto bhavatīti // MrgTV_1,7.3,2:2</l>
+<l>* na ca tad ātmano 'nādikālīnatayājñānakriyāśaktivan nityam eṣṭavyam aniṣṭaprasaṅgāt // MrgTV_1,7.3,2:3</l>
+<l>* tathāhi // MrgTV_1,7.3,2:4</l>
+
+<lg>
+<l>tatpāratantryaṃ baddhatvaṃ tasminnitye cidādivat /</l>
+<l>muktisādhanasaṃdoho vyartho'lam anayā dhiyā || MrgT_1,7.4 ||</l>
+</lg>
+
+<l>* tasminn ātmanaḥ pāratantrye nitye'bhyupagamyamāne kadācidapi tadanucchedān muktisādhanakalāpaḥ parair apīṣṭo jñānayogādir anarthakaḥ svātantryābhivyaktyabhāvāt sadaivātmano baddhatayāvasthiter ity alam anayā dhiyā nivāryatām īdṛśī saṃsārānucchittiheturmatiriti bhāvaḥ // MrgTV_1,7.4:1</l>
+<l>* tasmāt sthitam etatpāśakṛtaṃ pāratantryaṃ pāśāś cāñjanādayaḥ // MrgTV_1,7.4:2</l>
+<l>* sa kilātmā // MrgTV_1,7.4:3</l>
+
+</div>
+<div>
+
+<lg>
+<l>nityavyāpakacicchaktinidhir apyarthasiddhaye /</l>
+<l>pāśavaṃ śāmbhavaṃ vāpi nānviṣyaty anyathā balam || MrgT_1,7.5 ||</l>
+</lg>
+
+<l>* yadi hy aṇur anādyavidyoparuddhacicchaktir na bhavet tadānīṃ nityavyāpakacicchaktyāspadatve satyapi kathaṃ bhavāvasthāyāṃ bhogalakṣaṇasyārthasya niṣpattaye paśoridaṃ pāśavaṃ paśūcitaṃ kalādyuttejanaṃ svasāmarthyasyānviṣyaty apekṣate muktinimittaṃ ca kathaṃ śāmbhavaṃ balam anveṣate nānyathā balaṃ pratīkṣate pāśānabhyupagame sati svabhāvata evāmalacitsvarūpatvāt tadanveṣaṇasyānarthakyāt // MrgTV_1,7.5:1</l>
+<l>* yataś cāvasthādvaye 'pyayaṃ pāśavaṃ vā pārameśvaraṃ vā balottejanamapekṣate tasmāt kimapyasyāsti jñānakriyāsaṃnirodhakaṃ yatkṛtaḥ svātantryavyāghātaḥ // MrgTV_1,7.5:2</l>
+
+</div>
+<div>
+
+<lg>
+<l>tadāvaraṇam asyāṇoḥ pañcasrotasi śāṃkare /</l>
+<l>paryāyair bahubhirgītam adṛṣṭaṃ paśubhiḥ sadā || MrgT_1,7.6 ||</l>
+</lg>
+
+<l>* asyātmanas tadāvaraṇam añjanaṃ pañcasrotasi śaive śāstre vakṣyamāṇair nāmabhir abhihitam // MrgTV_1,7.6:1</l>
+<l>* tattu paśubhiḥ paśuśāstrapraṇetṛbhiḥ kadācidapi na buddham // MrgTV_1,7.6:2</l>
+<l>* atha kair nāmabhis tacchāstreṣūktam ityāha // MrgTV_1,7.6:3</l>
+
+</div>
+<div>
+
+<lg>
+<l>paśutvapaśunīhāramṛtyumūrchāmalāñjanaiḥ /</l>
+<l>avidyāvṛtirugglānipāpamūlakṣapādibhiḥ || MrgT_1,7.7 ||</l>
+</lg>
+
+<l>* na ca tadekaikasminnātmani bhinnam api tv ekam anekacidāvārakaśaktiyuktam ityāha // MrgTV_1,7.7:1</l>
+
+</div>
+<div>
+
+<lg>
+<l>tadekaṃ sarvabhūtānām anādi nibiḍaṃ mahat /</l>
+<l>pratyātmasthasvakālāntāpāyiśaktisamūhavat || MrgT_1,7.8 ||</l>
+</lg>
+
+<l>* tadāvaraṇaṃ caturdaśavidhasyāpi bhūtasargasyaikam eva // MrgTV_1,7.8:1</l>
+<l>* kasmād ityatraiva viśeṣaṇadvāreṇa hetumāha anādīti yasmād vakṣyamāṇayopapattyā tat sarvabhūtānām anādi na māyīyabandhanavad āgantukam ata evaikam // MrgTV_1,7.8:2</l>
+<l>* anekatve hi tasyācetanatvāt kāraṇāntarapūrvakatvenānāditvānupapattiḥ // MrgTV_1,7.8:3</l>
+<lg>
+<l>* na ca kāraṇāntarapūrvakatve'pi kalādivat pāramparyeṇa bandhakatvādanāditvaṃ bhaviṣyatīti vācyaṃ yathoktaṃ śrīmatkiraṇe /</l>
+<l>* yathānādir malas tasya karmāpyevam anādikam /</l>
+<l>* yadyanādi na saṃsiddhaṃ vaicitryaṃ kena hetunā // MrgTV_1,7.8:4</l>
+</lg>
+<l>* tasmādanādikaṃ karma māyāpyevaṃ bhavettathā // MrgTV_1,7.8:5</l>
+<l>* iti tadvirahiṇaḥ śivasyeva punarbandhāsaṃbhavāt // MrgTV_1,7.8:6</l>
+<l>* tatsadbhāve vā na malarahitatvamiti vakṣyāmaḥ // MrgTV_1,7.8:7</l>
+<l>* nibiḍaṃ ghanamabhedyamityarthaḥ // MrgTV_1,7.8:8</l>
+<l>* vyāpakānām ātmanām āvārakatvāt mahat // MrgTV_1,7.8:9</l>
+<l>* pratyātmasthena svasvapariṇāmakālāpasāriṇā śaktivrātena yuktam // MrgTV_1,7.8:10</l>
+<lg>
+<l>* tathā coktaṃ tattvatrayanirṇaye /</l>
+<l>* malaśaktayo vibhinnāḥ pratyātmaṃ caiva tadguṇāvarikāḥ /</l>
+<l>* iti // MrgTV_1,7.8:11</l>
+</lg>
+<l>* tac cāñjanam // MrgTV_1,7.8:12</l>
+
+</div>
+<div>
+
+<lg>
+<l>tadanādistham arvāgvā taddhetus tadato'nyathā /</l>
+<l>ruṇaddhi muktānevaṃ cenmokṣe yatnastato mṛṣā || MrgT_1,7.9 ||</l>
+</lg>
+
+<l>* tatteṣām ātmanām anādau kāle sthitamanādisthaṃ na tv ādimattvena sthitam // MrgTV_1,7.9:1</l>
+<l>* atraiva yuktimāha arvāgveti yadi hy ādimattvenātmasusthitaṃ tadabhyupagamyate tadā tadyoge hetuḥ vācyaḥ ityadhyāhāraḥ // MrgTV_1,7.9:2</l>
+<l>* tad ato'nyatheti yadi tu tadañjanamato 'nyatheti hetum anapekṣyaivātmānam āśliṣyati tadānīṃ muktān apyātmano ruṇaddhi uparuddhadṛkkriyān karotīti prasaktam // MrgTV_1,7.9:3</l>
+<l>* ko doṣa iti cet mokṣe yatnastato mṛṣeti // MrgTV_1,7.9:4</l>
+<l>* muktātmāno'pi yadi punaḥpunar malena yujyante tato gajasnānaprāye 'smin mokṣe mithyaiva yatnaḥ bhūyo'pi malayogataḥ saṃsāritāyāḥ sambhavāt // MrgTV_1,7.9:5</l>
+<l>* tasmān nāgantukamātmanāṃ malaṃ kiṃ tarhi anādi // MrgTV_1,7.9:6</l>
+<lg>
+<l>* tathā coktaṃ śrīmatsvāyambhuvādau /</l>
+<l>* athānādir malaḥ puṃsāṃ paśutvaṃ parikīrtitam /</l>
+<l>* iti // MrgTV_1,7.9:7</l>
+</lg>
+<l>* athāsyaiva yuktyantaramāha // MrgTV_1,7.9:8</l>
+
+</div>
+<div>
+
+<p>tadekaṃ bahusaṃkhyaṃ tu tādṛg utpattimad yataḥ /</p>
+
+<l>* tadañjanam ekam anekatve pramāṇābhāvāt // MrgTV_1,7.10ab:1</l>
+<l>* yato yasmāt tādṛgiti tathāvidham anekatvapariṇāmitvādiguṇayuktaṃ yad anekaṃ ghaṭādivad utpadyamānaṃ dṛṣṭam // MrgTV_1,7.10ab:2</l>
+<l>* na caitad utpattimad anādyātmāvārakatvāt ata ekam anekatve hi kāraṇapūrvakatvād asyādimattvaṃ syāt // MrgTV_1,7.10ab:3</l>
+<lg>
+<l>* pratyātmasthasvakālāntāpāyiśaktisamūhavat /</l>
+<l>* iti yaduktaṃ tad upapādayitum āha // MrgTV_1,7.10ab:4</l>
+</lg>
+
+</div>
+<div>
+
+<l>kiṃtu tacchaktayo'nekā yugapanmuktyadarśanāt || MrgT_1,7.10 ||</l>
+
+<l>* ekasyāpyasyānekāḥ pratyātmasthāś citkriyāsaṃnirodhikā nityāḥ śaktaya eṣṭavyāḥ // MrgTV_1,7.10cd:1</l>
+<l>* anyathaikatve sati ekasmāt puruṣādapasṛte tasmin sarveṣāṃ tulyakālaṃ muktiḥ syāt // MrgTV_1,7.10cd:2</l>
+<l>* yatastu na muktir yaugapadyenopalabhyate tasmāt kāraṇāt tacchaktibahutvābhyupagamo yuktaḥ // MrgTV_1,7.10cd:3</l>
+<l>* na ca tās tacchaktayaḥ svātantryeṇa rundhanti apasaranti vā kiṃ tarhi // MrgTV_1,7.10cd:4</l>
+
+</div>
+<div>
+
+<lg>
+<l>tāsāṃ māheśvarī śaktiḥ sarvānugrāhikā śivā /</l>
+<l>dharmānuvartanādeva pāśa ityupacaryate || MrgT_1,7.11 ||</l>
+</lg>
+
+<l>* prāvṛtīśabale karma // MrgTV_1,7.11:1</l>
+<l>* ityādinā prāk malena nāntarīyakatayoddiṣṭāṃ parameśvararodhaśaktiṃ vyāpāreṇa lakṣayati tāsāṃ malaśaktīnāṃ citkriyāsaṃnirodhakatvalakṣaṇasya dharmasyānuvartanāddhetoḥ śaivī śaktiḥ pāśatayopacaryate // MrgTV_1,7.11:2</l>
+<l>* na ca tatra mukhyaṃ pāśatvam // MrgTV_1,7.11:3</l>
+<l>* kuta iti viśeṣaṇadvāreṇātraiva hetuḥ sarvānugrāhikā śiveti // MrgTV_1,7.11:4</l>
+<l>* sā hi sakalajagadanugrahasvabhāvatvena tacchreyaḥprasādhikā // MrgTV_1,7.11:5</l>
+<l>* evaṃ ca // MrgTV_1,7.11:6</l>
+
+</div>
+<div>
+
+<lg>
+<l>pariṇāmayaty etāśca rodhāntaṃ kārkacittviṣā /</l>
+<l>yadonmīlanamādhatte tadānugrāhikocyate || MrgT_1,7.12 ||</l>
+</lg>
+
+<l>* pariṇāmaśabdāt prātipadikāddhātvarthe iti ṇici kṛte pariṇāmayatīti rūpam // MrgTV_1,7.12:1</l>
+<l>* etāśca sarvabhūtagatās tasya sambandhinī śaktiḥ rodhāntaṃ tadadhikārakālaṃ yāvat pariṇāmena yojayatī patiśaktiḥ kārkacittviṣā hetubhūtayonmīlanaṃ yadā karoti tadānugrāhiketyucyate // MrgTV_1,7.12:2</l>
+<l>* kaśabdena mūrdhā sadānugrahaikavyāpāra īśānaḥ // MrgTV_1,7.12:3</l>
+<l>* īśānamūrdheti mantraliṅgam // MrgTV_1,7.12:4</l>
+<l>* sa eva sakalajagadanugrahe nityodyuktatvād arkeṇopamitaḥ // MrgTV_1,7.12:5</l>
+<l>* tataḥ pravṛttayā paraśreyaḥprakāśikayā jñānabhāsā tayonmīlitasvarūpāṇām aṇuvargāṇāṃ yadonmīlanam āśayavikāsanaṃ karoti tadānugrāhikā bhaṇyate // MrgTV_1,7.12:6</l>
+<l>* atra muniḥ praśnayati // MrgTV_1,7.12:7</l>
+
+</div>
+<div>
+
+<lg>
+<l>śambhoś cidādyanugrāhyaṃ tadvirodhitayā mithaḥ /</l>
+<l>yugapan na kṣamaṃ śaktiḥ sarvānugrāhikā katham || MrgT_1,7.13 ||</l>
+</lg>
+
+<lg>
+<l>kathaṃ bhūtopakārārthaṃ pravṛttasya jagatprabhoḥ /</l>
+<l>apakārakamāviśya yujyate tunnatodanam || MrgT_1,7.14 ||</l>
+</lg>
+
+<l>* citaḥ sakalātmānaḥ ādigrahaṇād acito malakarmamāyātatkāryāṇi // MrgTV_1,7.14:1</l>
+<l>* tadetatsarvaṃ sarveśitvādeva kila parameśvarasyānugrāhyam // MrgTV_1,7.14:2</l>
+<l>* tac cānugrāhyatvam eṣāṃ cidacitāṃ pāśyapāśānāṃ tulyakālaṃ na ghaṭate // MrgTV_1,7.14:3</l>
+<l>* tathā hy acitāṃ pāśānāmanugrahe pāśyasya pratyuta tiraskāraḥ syāt nānugrahaḥ citām anugrahe ca tadbandhānāṃ nyagbhāvanamiti parasparavirodhitvād yugapad eṣām anugrahānupapattiḥ // MrgTV_1,7.14:4</l>
+<l>* tatkathaṃ sarvānugrāhikā śaktiruktā // MrgTV_1,7.14:5</l>
+<l>* kiṃ ca kṛpayā sarvabhūtānām anugrahapravṛttasya patyur upakārasyāpakārakaṃ duḥkhadam āṇavādipāśajālam anugṛhya āvṛtadṛkkriyāśaktitvād asvātantryādivyathitānāṃ paramātmanāṃ bandhakānugraheṇa vyathitavyathanaṃ na yuktamiti pūrvaḥ pakṣaḥ // MrgTV_1,7.14:6</l>
+<l>* siddhāntastu // MrgTV_1,7.14:7</l>
+
+</div>
+<div>
+
+<lg>
+<l>na todanāya kurute malasyāṇor anugraham /</l>
+<l>kiṃtu yatkriyate kiṃcit tadupāyena nānyathā || MrgT_1,7.15 ||</l>
+</lg>
+
+<l>* satyaṃ cidacitām anugrāhikā śaktiḥ // MrgTV_1,7.15:1</l>
+<l>* na cāsyās tulyakālamapi tadanugraho 'nupapannaḥ parasparavirodhābhāvāt // MrgTV_1,7.15:2</l>
+<l>* na tv aṇor vyathanārthaṃ malasya pariṇāmarūpamanugrahaṃ karoti api tv anugrahāyaiva // MrgTV_1,7.15:3</l>
+<l>* tathā hi yat kiṃcidupāyena kartumucitaṃ tan nānupāyena // MrgTV_1,7.15:4</l>
+<l>* ayaṃ ca sādhūpāyaḥ yaduta // MrgTV_1,7.15:5</l>
+
+</div>
+<div>
+
+<lg>
+<l>na sādhikāre tamasi muktirbhavati kasyacit /</l>
+<l>adhikāro'pi tacchakteḥ pariṇāmān nivartate || MrgT_1,7.16 ||</l>
+</lg>
+
+<lg>
+<l>so 'pi na svata eva syādapi yogyasya vastunaḥ /</l>
+<l>sarvathā sarvadā yasmāc citprayojyamacetanam || MrgT_1,7.17 ||</l>
+</lg>
+
+<l>* yāvatkila malasyādhikāras tāvan na muktiḥ kasyacidbhavati // MrgTV_1,7.17:1</l>
+<l>* tannivṛttir eva muktiśabdābhidheyā // MrgTV_1,7.17:2</l>
+<l>* yataḥ adhikāraśca tacchakteḥ pariṇāmāt samāpyate sa ca pariṇāmas tadarhasyāpi vastuno na svato bhavituṃ śaktaḥ sarvaprakāreṇa sarvakālaṃ cācetanasya cetanaprayuktasya tattatkāryadarśanāt // MrgTV_1,7.17:3</l>
+<l>* tasmāc cidanugrahasya tadarthāñjanādipariṇāmasya ca parasparam avirodha iti prathamacodyanirāsaḥ // MrgTV_1,7.17:4</l>
+<l>* atha dvitīyasya parihāraḥ // MrgTV_1,7.17:5</l>
+
+</div>
+<div>
+
+<lg>
+<l>yathā kṣārādinā vaidyastudann api na rogiṇam /</l>
+<l>koṭāv iṣṭārthadāyitvād duḥkhahetuḥ pratīyate || MrgT_1,7.18 ||</l>
+</lg>
+
+<l>* pāśāvṛtadṛkkriyāvṛttiṣv aṇuṣu tattatpāśaśaktyanuvartanadvāreṇa janmadrāvaṇādiduḥkhadāyitvād vāmo 'pi parameśvaras tadabhyudayāyaiva pravṛttatvān na duḥkhahetur avagamyate yathā vaidyaḥ kṣāraśastrādinā rogiṇaṃ vyathayann api koṭau prānte abhimatasyārogyalakṣaṇasyārthasya sādhakatvāt vyathāheturapi na duḥkhadāyitvenaiva jñāyate // MrgTV_1,7.18:1</l>
+<l>* nanv atyantaśuddhasvarūpasya bhagavataḥ kiṃ pāśadharmānuvartanenety āha // MrgTV_1,7.18:2</l>
+
+</div>
+<div>
+
+<lg>
+<l>sarvagatvān maheśasya nādhiṣṭhānaṃ vihanyate /</l>
+<l>na ca yatrāsti kartavyaṃ tasminn audāsyam eti saḥ || MrgT_1,7.19 ||</l>
+</lg>
+
+<l>* acidadhiṣṭhānaṃ bhagavato na vihanyate sarvagatvān maheśatayā sarvakartṛtvāc ca // MrgTV_1,7.19:1</l>
+<l>* yatra yatra kartavyaṃ kimapyasti tatra tatra ca tādarthyam etyāpi tattatkartur adhiṣṭhānena sarvadaiva sarvaṃ karotītyuktam īśvarasiddhau // MrgTV_1,7.19:2</l>
+<l>* udāsta ityudāsas tasya bhāva audāsyam akartṛtvam ityarthaḥ // MrgTV_1,7.19:3</l>
+<l>* tadevaṃ yugapat sarvānugrāhitvaṃ śakteḥ prasādhya tadeva ghaṭayann anugrahaśabdārtham āha // MrgTV_1,7.19:4</l>
+
+</div>
+<div>
+
+<lg>
+<l>dharmiṇo 'nugraho nāma yattad dharmānuvartanam /</l>
+<l>na so 'sti kasyacij jātu yaḥ patyā nānuvartyate || MrgT_1,7.20 ||</l>
+</lg>
+
+<l>* dharmiṇo 'nugrāhyasya dharmāṇāṃ yad anuvartanaṃ so 'nugrāhakasyānugrahaḥ kramavikasvarasvarūpāṇāṃ padmānāmiva vivasvataḥ // MrgTV_1,7.20:1</l>
+<l>* sa iti tathāvidho dharmaḥ kasyacidapi dharmiṇo nāsti yaḥ parameśvareṇa nānuvartyate nādhiṣṭhīyate tasya sarvavyāpakatvāt // MrgTV_1,7.20:2</l>
+<l>* evaṃ ca // MrgTV_1,7.20:3</l>
+
+</div>
+<div>
+
+<lg>
+<l>gatādhikāranīhāravīryasya sata edhate /</l>
+<l>paśor anugraho 'nyasya tādarthyād asti karmaṇaḥ || MrgT_1,7.21 ||</l>
+</lg>
+
+<l>* gataḥ samāptaḥ kriyādṛkpratirodhakatvarūpo 'dhikāro yasya tadgatādhikāraṃ nīhārasya tamaso malasya sambandhi vīryaṃ sāmarthyaṃ yasya tasya tathāvidhasya sataḥ paśor baddhātmano 'nugraha edhate vardhate bahulībhavati nivṛttādhikārāyāṃ malaśaktāv iti yāvat // MrgTV_1,7.21:1</l>
+<l>* anyasya tu malādeḥ pāśajālasya yat karmaṇaḥ pariṇāmitādes tādarthyaṃ tatprayojakatvaṃ tasmād anugraho bhavati // MrgTV_1,7.21:2</l>
+<l>* baddhātmavimuktyai yat pariṇāmitāprayojakatvaṃ sa eva pāśānām anugraha ityarthaḥ // MrgTV_1,7.21:3</l>
+<l>* evaṃ ca prakṛte kiṃ vyavasthitam ityāha // MrgTV_1,7.21:4</l>
+
+</div>
+<div>
+
+<lg>
+<l>boddhṛtvapariṇāmitvadharmayor anuvartanam /</l>
+<l>malasya sādhikārasya nivṛttestatparicyutau || MrgT_1,7.22 ||</l>
+</lg>
+
+<l>* malasya sādhikārasyety āṇavasyāñjanasyādhikāranivṛttes tadbhāvabhāvinyā anādikālīnāyāḥ parameśvararodhaśakter apagamonmukhyāḥ paricyutau kiṃcic chithilībhāve sati boddhṛtvadharmānuvartanam ātmano'nugrahaḥ pariṇāmitvadharmānuvartanaṃ pāśānāmiti // MrgTV_1,7.22:1</l>
+<l>* upasaṃharann āha // MrgTV_1,7.22:2</l>
+
+</div>
+<div>
+
+<lg>
+<l>ityevaṃ yaugapadyena kramātsughaṭa eva hi /</l>
+<l>māyāyāḥ sādhikārāyāḥ karmaṇaścokta eva te || MrgT_1,7.23 ||</l>
+</lg>
+
+<l>* ityevam uktayā yuktyā yaugapadyena cidacitor anugraho na viruddhaḥ kramāt sughaṭa eva na durupapādaḥ // MrgTV_1,7.23:1</l>
+<lg>
+<l>* malavac ca māyāyāśca kalādikṣityantasvādhikārasahitāyāḥ kalādyāvirbhāvalakṣaṇas tadupasaṃhārātmakaśca karmaṇastu phaladānaunmukhyāpādanātmakaḥ so 'yamanugraho māyākarmaṇor anukto 'pyukta eva jñeyaḥ /</l>
+<l>* sarvathā sarvadā yasmāc citprayojyam acetanam /</l>
+<l>* iti sāmānyena sarvasyaivoktatvād iti // MrgTV_1,7.23:2</l>
+</lg>
+
+<p>...
+(to be continued)</p>
+
+  </div>
+</body>
+</text>
+</TEI>

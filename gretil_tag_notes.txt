@@ -1,0 +1,35 @@
+Treatment of tags in within the body of Gretil etexts:
+
+To remove (tag plus contents):
+- <note> (exception! type="commentary")
+- <link>
+- <ref>
+- <gi>
+- <del>
+
+Keep (i.e., keep content, remove tag):
+- <trailer>
+- <seg>
+- <mentioned>
+- <name>
+- <note> IF type="commentary"
+- <orig>
+- <q>
+- <s>
+- <cit>
+- <seg>
+- <sic>
+- <supplied>
+- <unclear>
+- <div>
+- <corr>
+
+Replace:
+- <lb/> with a real line break
+- <gap> with ...
+- <app> with contents of <lem>: e.g., <app><lem>prāptā</lem><rdg>N11: °pt*ā*</rdg></app> -> prāptā
+- If <app> contains two or more <rdg> tags, use the first: e.g., <app><rdg>prati vartate</rdg><rdg wit="#M">upavartate</rdg></app> -> prati vartate
+- For example <choice><orig>m</orig><reg>ṃ</reg></choice>: use <reg>
+
+Notes (no action currently required)
+- {...} used in some texts for quoted verses

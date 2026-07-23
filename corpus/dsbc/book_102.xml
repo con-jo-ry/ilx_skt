@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Jñānaprasthānam śāstram</title>
+        <respStmt>
+          <resp>Input Personnel</resp>
+          <name/>
+        </respStmt>
+        <respStmt>
+          <resp>Proof Reader</resp>
+          <name/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+        <date/>
+        <sponsor/>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Text Version: </p>
+        <p>https://www.dsbcproject.org/canon-text/book/102</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head>prathamaḥ saṃkīrṇaskandhaḥ</head>
+        <p/>
+      </div>
+      <div>
+        <head>dvitīyaḥ saṃyojanaskaṃdhaḥ</head>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

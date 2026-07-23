@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sa_rAmAnuja-zrIbhASya-1.1.3">
+  <teiHeader xml:lang="en">
+  <fileDesc>
+  <titleStmt>
+	<title>Śrībhāṣya 1,1.3</title>
+	<author>Rāmānuja</author>
+	<respStmt>
+	 <resp>data entry</resp>
+	 <name>Sadanori Ishitobi</name>
+	</respStmt>
+	<respStmt>
+	 <resp>contribution to GRETIL</resp>
+	 <name>Sadanori Ishitobi</name>
+	</respStmt>
+	<respStmt>
+	 <resp>initial normalization and conversion to legacy GRETIL formats</resp>
+	 <name>Reinhold Grünendahl</name>
+	</respStmt>
+	<respStmt>
+	 <resp>normalization and conversion to TEI-conformant markup</resp>
+	 <name>Maximilian Mehner</name>
+	</respStmt>
+  </titleStmt>
+
+  <publicationStmt>
+	<publisher>Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen</publisher>
+	<availability>
+	 <p>This e-text was provided to GRETIL in good faith that no copyright rights have been infringed.
+	 If anyone wishes to assert copyright over this file, please contact the GRETIL management at <email>gretil(at)sub(dot)uni-goettingen(dot)de</email>.
+	 The file will be immediately removed pending resolution of the claim.</p>
+
+	 <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</licence>
+	</availability>
+	<date when-iso="2020-07-31"/>
+  </publicationStmt>
+
+  <notesStmt>
+	<note>This file has been created by mass conversion of GRETIL's Sanskrit corpus from <ref target="http://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/vedanta/rams11au.htm">rams11au.htm</ref>. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the <gi>note</gi> element below:</note>
+	<note type="legacyheader">
+	 Ramanuja: Sribhsya 1,1.3
+<lb/>
+<lb/>Input by Sadanori ISHITOBI
+<lb/>
+<lb/>ANALYTIC TEXT VERSION (BHELA conventions)
+	</note>
+  </notesStmt>
+
+  <sourceDesc>
+	<bibl></bibl>
+  </sourceDesc>
+  </fileDesc>
+
+  <encodingDesc>
+  <projectDesc>
+	<p>The Göttingen Register of Electronic Texts in Indian Languages (GRETIL) is a resource platform providing standardized machine-readable texts in Indian languages that have been contributed by various individuals and institutions.</p>
+  </projectDesc>
+
+  <editorialDecl>
+	<correction>
+	 <p>Apparent errors have been silently corrected.</p>
+	</correction>
+
+	<normalization>
+	 <p>GRETIL normalizes all texts contributed consistently for each language.
+	 Sanskrit texts are normalized in accordance with the scheme of the International Alphabet of Sanskrit Transliteration (IAST) in order to facilitate word search across its corpus without additional transformations.</p>
+
+	 <p>All characters that were fully equivalent to an IAST-conformant character in the text file contributed have been made to conform to the character list below.
+	 Non-conformant characters with additional information including accents, capitalization, and whitespace have been preserved as <gi>orig</gi> elements inside <gi>choice</gi> elements with their IAST-conformant equivalent in <gi>reg</gi> elements for the creation of a plain text.
+	 These additional informations will be available only in those transformations of this file that display the original information.</p>
+
+	 <p><table>
+	 <head>Characters Used for the Transliteration of Sanskrit according to IAST</head>
+	 <row role="label">
+	 <cell>Character</cell>
+	 <cell>Character Name</cell>
+	 <cell>Unicode Code Point</cell>
+	 </row>
+	 <row>
+	 <cell>a</cell>
+	 <cell>LATIN SMALL LETTER A</cell>
+	 <cell>U+0061</cell>
+	 </row>
+	 <row>
+	 <cell>ā</cell>
+	 <cell>LATIN SMALL LETTER A WITH MACRON</cell>
+	 <cell>U+0101</cell>
+	 </row>
+	 <row>
+	 <cell>i</cell>
+	 <cell>LATIN SMALL LETTER I</cell>
+	 <cell>U+0069</cell>
+	 </row>
+	 <row>
+	 <cell>ī</cell>
+	 <cell>LATIN SMALL LETTER I WITH MACRON</cell>
+	 <cell>U+012B</cell>
+	 </row>
+	 <row>
+	 <cell>u</cell>
+	 <cell>LATIN SMALL LETTER U</cell>
+	 <cell>U+0075</cell>
+	 </row>
+	 <row>
+	 <cell>ū</cell>
+	 <cell>LATIN SMALL LETTER U WITH MACRON</cell>
+	 <cell>U+016B</cell>
+	 </row>
+	 <row>
+	 <cell>ṛ</cell>
+	 <cell>LATIN SMALL LETTER R WITH DOT BELOW</cell>
+	 <cell>U+1E5B</cell>
+	 </row>
+	 <row>
+	 <cell>ṝ</cell>
+	 <cell>LATIN SMALL LETTER R WITH DOT BELOW AND MACRON</cell>
+	 <cell>U+1E5D</cell>
+	 </row>
+	 <row>
+	 <cell>ḷ</cell>
+	 <cell>LATIN SMALL LETTER L WITH DOT BELOW</cell>
+	 <cell>U+1E37</cell>
+	 </row>
+	 <row>
+	 <cell>ḹ</cell>
+	 <cell>LATIN SMALL LETTER L WITH DOT BELOW AND MACRON</cell>
+	 <cell>U+1E39</cell>
+	 </row>
+	 <row>
+	 <cell>e</cell>
+	 <cell>LATIN SMALL LETTER E</cell>
+	 <cell>U+0065</cell>
+	 </row>
+	 <row>
+	 <cell>o</cell>
+	 <cell>LATIN SMALL LETTER O</cell>
+	 <cell>U+006F</cell>
+	 </row>
+	 <row>
+	 <cell>ṃ</cell>
+	 <cell>LATIN SMALL LETTER M WITH DOT BELOW</cell>
+	 <cell>U+1E43</cell>
+	 </row>
+	 <row>
+	 <cell>ḥ</cell>
+	 <cell>LATIN SMALL LETTER H WITH DOT BELOW</cell>
+	 <cell>U+1E25</cell>
+	 </row>
+	 <row>
+	 <cell>'</cell>
+	 <cell>APOSTROPHE</cell>
+	 <cell>U+0027</cell>
+	 </row>
+	 <row>
+	 <cell>k</cell>
+	 <cell>LATIN SMALL LETTER K</cell>
+	 <cell>U+006B</cell>
+	 </row>
+	 <row>
+	 <cell>g</cell>
+	 <cell>LATIN SMALL LETTER G</cell>
+	 <cell>U+0067</cell>
+	 </row>
+	 <row>
+	 <cell>ṅ</cell>
+	 <cell>LATIN SMALL LETTER N WITH DOT ABOVE</cell>
+	 <cell>U+1E45</cell>
+	 </row>
+	 <row>
+	 <cell>c</cell>
+	 <cell>LATIN SMALL LETTER C</cell>
+	 <cell>U+0063</cell>
+	 </row>
+	 <row>
+	 <cell>j</cell>
+	 <cell>LATIN SMALL LETTER J</cell>
+	 <cell>U+006A</cell>
+	 </row>
+	 <row>
+	 <cell>ñ</cell>
+	 <cell>LATIN SMALL LETTER N WITH TILDE</cell>
+	 <cell>U+00F1</cell>
+	 </row>
+	 <row>
+	 <cell>ṭ</cell>
+	 <cell>LATIN SMALL LETTER T WITH DOT BELOW</cell>
+	 <cell>U+1E6D</cell>
+	 </row>
+	 <row>
+	 <cell>ḍ</cell>
+	 <cell>LATIN SMALL LETTER D WITH DOT BELOW</cell>
+	 <cell>U+1E0D</cell>
+	 </row>
+	 <row>
+	 <cell>ṇ</cell>
+	 <cell>LATIN SMALL LETTER N WITH DOT BELOW</cell>
+	 <cell>U+1E47</cell>
+	 </row>
+	 <row>
+	 <cell>p</cell>
+	 <cell>LATIN SMALL LETTER P</cell>
+	 <cell>U+0070</cell>
+	 </row>
+	 <row>
+	 <cell>b</cell>
+	 <cell>LATIN SMALL LETTER B</cell>
+	 <cell>U+0062</cell>
+	 </row>
+	 <row>
+	 <cell>m</cell>
+	 <cell>LATIN SMALL LETTER M</cell>
+	 <cell>U+006D</cell>
+	 </row>
+	 <row>
+	 <cell>y</cell>
+	 <cell>LATIN SMALL LETTER Y</cell>
+	 <cell>U+0079</cell>
+	 </row>
+	 <row>
+	 <cell>r</cell>
+	 <cell>LATIN SMALL LETTER R</cell>
+	 <cell>U+0072</cell>
+	 </row>
+	 <row>
+	 <cell>l</cell>
+	 <cell>LATIN SMALL LETTER L</cell>
+	 <cell>U+006C</cell>
+	 </row>
+	 <row>
+	 <cell>v</cell>
+	 <cell>LATIN SMALL LETTER V</cell>
+	 <cell>U+0076</cell>
+	 </row>
+	 <row>
+	 <cell>ś</cell>
+	 <cell>LATIN SMALL LETTER S WITH ACUTE</cell>
+	 <cell>U+x015B</cell>
+	 </row>
+	 <row>
+	 <cell>ṣ</cell>
+	 <cell>LATIN SMALL LETTER S WITH DOT BELOW</cell>
+	 <cell>U+1E63</cell>
+	 </row>
+	 <row>
+	 <cell>s</cell>
+	 <cell>LATIN SMALL LETTER S</cell>
+	 <cell>U+0073</cell>
+	 </row>
+	 <row>
+	 <cell>h</cell>
+	 <cell>LATIN SMALL LETTER H</cell>
+	 <cell>U+0068</cell>
+	 </row>
+	 </table>
+	</p>
+  </normalization>
+
+  <quotation marks="some">
+	<p>If indicated unambiguously in the text file contributed quotation marks have been replaced with the <gi>q</gi> element and, in case a reference was provided, have been nested inside a <gi>cit</gi> with the respective reference provided in a <gi>ref</gi> element after the quote.</p>
+  </quotation>
+
+  <segmentation>
+	<p>Unnumbered <gi>div</gi> elements are used to structure the text, using the <att>type</att> and <att>n</att> attributes in accordance with the <gi>refsDecl</gi>.</p>
+  </segmentation>
+
+  <interpretation>
+	<p>Interpretive markup which is visible only in analytic transformations of this file consists of:
+	<list>
+	 <item>Highlighting in <gi>hi</gi> elements,</item>
+	 <item>Corruptions in <gi>sic</gi> elements,</item>
+	 <item>Remarks in <gi>note</gi> elements with the @resp attribute identifying the agency.</item>
+	</list></p>
+  </interpretation>
+  </editorialDecl>
+
+  <refsDecl>
+  <p>A reference is given in the <att>xml:id</att> attributes consisting of
+  <list>
+	<item>a pragmatic abbreviation of the <label>title</label>: Śrībhāṣya 1,1.3 = RSBh,</item>
+	<item>the number of the <label></label> in arabic numerals,</item>
+	<item>the number of the <label>verse</label> in arabic numerals.</item>
+  </list>
+  </p>
+  </refsDecl>
+  </encodingDesc>
+
+  <profileDesc>
+  <langUsage>
+  <language ident="en">English</language>
+  <language ident="sa-Latn">Sanskrit</language>
+  </langUsage>
+
+  <textClass>
+  <keywords scheme="http://gretil.sub.uni-goettingen.de/">
+	<term>Sanskrit -- Śāstra -- Philosophy -- Vedānta</term>
+  </keywords>
+  </textClass>
+  </profileDesc>
+
+  <revisionDesc>
+  <listChange>
+  <change when-iso="2020-07-31" who="Maximilian Mehner">TEI encoding by mass conversion of GRETIL's Sanskrit corpus</change>
+  </listChange>
+  </revisionDesc>
+
+</teiHeader>
+
+<text xml:lang="sa-Latn" xml:id="RSBh">
+  <body>
+
+<p xml:id="RSBh_p9269">jagajjanmādikāraṇaṃ brahma vedāntavedyam ity uktam / tad ayuktam; tad dhi na vākyapratipādyam / anumānena siddheḥ ity āśaṅkyāha --</p>
+<note type="analysis" corresp="#RSBh_p9269">
+<p>jagaj-janma-ādi-kāraṇaṃ brahma vedānta-vedyam ity uktam / tad ayuktam; tad dhi na vākya-pratipādyam / anumānena siddheḥ ity āśaṅkyā aha ---</p>
+</note>
+
+<p xml:id="BS_1.1.3">śāstrayonitvāt //</p>
+<note type="analysis" corresp="#BS_1.1.3">
+<p>śāstra-yonitvāt //</p>
+</note>
+
+<p xml:id="RSBh_p9480">śastraṃ yasya yoniḥ -- kāraṇaṃ, pramāṇam, tac chāstrayoniḥ; tasya bhāvaś śāstrayonitvam; tasmāt /</p>
+<note type="analysis" corresp="#RSBh_p9480">
+<p>śastraṃ yasya yoniḥ --- kāraṇaṃ, pramāṇam, tac chāstra-yoniḥ; tasya bhāvaś śāstra-yonitvam; tasmāt /</p>
+</note>
+
+<p xml:id="RSBh_p9609">brahmajñānakāraṇatvāc chāstrasya tadyonitvaṃ brahmaṇaḥ / atyantātīndriyatvena pratyakṣādipramāṇāviṣayatayā brahmaṇaś śāstraikapramāṇakatvād uktasvarūpaṃ brahma yato vā imāni bhūtānītyādivākyaṃ bodhayaty evetyarthaḥ //</p>
+<note type="analysis" corresp="#RSBh_p9609">
+<p>brahma-jñāna-kāraṇatvāc chāstrasya tad-yonitvaṃ brahmaṇaḥ / atyanta-atīndriyatvena pratyakṣa-ādi-pramāṇa-aviṣayatayā brahmaṇaś śāstra-eka-pramāṇakatvād ukta-svarūpaṃ brahma yato vā imāni bhūtāni ity-ādi-vākyaṃ bodhayaty eva ity-arthaḥ //</p>
+</note>
+
+<p xml:id="RSBh_p9870">nanu śāstrayonitvaṃ brahmaṇo na saṃbhavati, pramāṇāntaravedyatvād brahaṇaḥ, aprāpte tu śāstram arthavat / kiṃ tarhi tatra pramāṇam? na tāvatpratyakṣam / tad dhi dvividham -- indriyasaṃbhavaṃ yogasaṃbhavaṃ ceti / indriyasaṃbhavaṃ ca bāhyasaṃbhavam āntarasaṃbhavaṃ ceti dvividhā / bāhyendriyāṇi vidyamānasannikarṣayogyasvaviṣayabodhajananānīti na sarvārthasākṣātkāratannirmāṇasamarthapuruṣaviśeṣaviṣayabodhajananāni / nāpy āntaram; āntarasukhaduḥkhādivyatiriktabahirviṣayeṣu tasya bāhyendriyānapekṣapravṛttyanupapatteḥ / nāpi yogajanyam; bhāvanāprakarṣaparyantajanmanas tasya viśadāvabhāsatve 'pi pūrvānubhūtaviṣayasmṛtimātratvān na prāmāṇyam iti kutaḥ pratyakṣatā ? tadatiriktaviṣayatve kāraṇābhāvāt; tathā sati tasya bhramarūpavatā / nāpy anumānaṃ viśeṣatodṛṣṭaṃ sāmānyatodṛṣṭaṃ vā / atīndriye vastuni saṃbandhāvadhāraṇavirahān na viśeṣatodṛṣṭam / samastavastusākṣātkāratannirmāṇasamarthapuruṣaviśeṣaniyataṃ sāmānyatodṛṣṭam api na liṅgam upalabhayte /</p>
+<note type="analysis" corresp="#RSBh_p9870">
+<p>nanu śāstra-yonitvaṃ brahmaṇo na saṃbhavati, pramāṇa-antara-vedyatvād brahaṇaḥ, aprāpte tu śāstram arthavat / kiṃ tarhi tatra pramāṇam? na tāvat-pratyakṣam / tad dhi dvi-vidham --- indriya-saṃbhavaṃ yoga-saṃbhavaṃ ca iti / indriya-saṃbhavaṃ ca bāhya-saṃbhavam āntara-saṃbhavaṃ ca iti dvi-vidhā / bāhya-indriyāṇi vidyamāna-sannikarṣa-yogya-sva-viṣaya-bodha-jananāni iti na sarva-artha-sākṣātkāra-tan-nirmāṇa-samartha-puruṣa-viśeṣa-viṣaya-bodha-jananāni / na apy āntaram; āntara-sukha-duḥkha-ādi-vyatirikta-bahir-viṣayeṣu tasya bāhya-indriya-anapekṣa-pravṛtty-anupapatteḥ / na api yoga-janyam; bhāvanā-prakarṣa-paryanta-janmanas tasya viśada-avabhāsatve 'pi pūrva-anubhūta-viṣaya-smṛti-mātratvān na prāmāṇyam iti kutaḥ pratyakṣatā ? tad-atirikta-viṣayatve kāraṇa-abhāvāt; tathā sati tasya bhrama-rūpavatā / na apy anumānaṃ viśeṣato-dṛṣṭaṃ sāmānyato-dṛṣṭaṃ vā / atīndriye vastuni saṃbandha-avadhāraṇa-virahān na viśeṣato-dṛṣṭam / samasta-vastu-sākṣātkāra-tan-nirmāṇa-samartha-puruṣa-viśeṣa-niyataṃ sāmānyato-dṛṣṭam api na liṅgam upalabhayte /</p>
+</note>
+
+<p xml:id="RSBh_p10922">nanu ca jagataḥ kāryatvaṃ tadupādānopakaraṇasaṃpradānaprayojanābhijñakartṛkatvavyāptam / acetanārabdhaṃm jagataś caikacetanādhīnatvena vyāptam / sarvaṃ hi ghaṭādikāryaṃ tadupādānopakaraṇasaṃpradānaprayojanābhijñakartṛkaṃ dṛṣṭam / acetanārabdham arogaṃ svaśarīram ekacetanādhīnaṃ ca / sāvayavatvena jagataḥ kāryatvam /</p>
+<note type="analysis" corresp="#RSBh_p10922">
+<p>nanu ca jagataḥ kāryatvaṃ tad-upādāna-upakaraṇa-saṃpradāna-prayojana-abhijña-kartṛkatva-vyāptam / acetana-ārabdhaṃm jagataś ca eka-cetana-adhīnatvena vyāptam / sarvaṃ hi ghaṭa-ādi-kāryaṃ tad-upādāna-upakaraṇa-saṃpradāna-prayojana-abhijña-kartṛkaṃ dṛṣṭam / acetana-ārabdham arogaṃ sva-śarīram eka-cetana-adhīnaṃ ca / sa-avayavatvena jagataḥ kāryatvam /</p>
+</note>
+
+<p xml:id="RSBh_p11293">ucyate / kim idam ekacetanādhīnatvam ? na tāvat tadāyattotpattisthititvam; dṛṣṭānto hi sādhyavikalaḥ syāt / na hy arogaṃ svaśarīram ekacetanāyattotpattisthiti; taccharīrasya bhoktṝṇāṃ bhāryādisarvacenatānām adṛṣṭajanyatvāt tadutpattisthityoḥ / kiṃ ca, śarīrāvayavinaḥ svāvayavasamavetatārūpā sthitir avayavasaṃśleṣavyatirekeṇa na cetanam apekṣate / prāṇanalakṣaṇā tu sthitiḥ pakṣatvābhimate kṣitijaladhimahīdharādau na saṃbhavatīti pakṣasapakṣānugatām ekarūpāṃ sthitiṃ nopalabhāmahe / tad āyattapravṛttitvaṃ tadadhīnatvam iti cet, anekacetanasādhyeṣu gurutararathaśilāmahīruhādiṣu vyabhicāraḥ / cetanamātrādhīnatve siddhasādhyatā /</p>
+<note type="analysis" corresp="#RSBh_p11293">
+<p>ucyate / kim idam eka-cetana-adhīnatvam ? na tāvat tad-āyatta-utpatti-sthititvam; dṛṣṭānto hi sādhya-vikalaḥ syāt / na hy arogaṃ sva-śarīram eka-cetana-āyatta-utpatti-sthiti; tac-charīrasya bhoktṝṇāṃ bhārya-ādi-sarva-cenatānām adṛṣṭa-janyatvāt tad-utpatti-sthityoḥ / kiṃ ca, śarīra-avayavinaḥ sva-avayava-samavetatā-rūpā sthitir avayava-saṃśleṣa-vyatirekeṇa na cetanam apekṣate / prāṇana-lakṣaṇā tu sthitiḥ pakṣatva-abhimate kṣiti-jaladhi-mahīdhara-ādau na saṃbhavati iti pakṣa-sapakṣa-anugatām eka-rūpāṃ sthitiṃ na upalabhāmahe / tad -āyatta-pravṛttitvaṃ tad-adhīnatvam iti cet, aneka-cetana-sādhyeṣu guru-tara-ratha-śilā-mahīruha-ādiṣu vyabhicāraḥ / cetana-mātra-adhīnatve siddha-sādhyatā /</p>
+</note>
+
+<p xml:id="RSBh_p12001">kiṃ ca, ubhayavādisiddhānāṃ jīvānām eva lāghavena kartṛtvābhyupagamo yuktaḥ / na ca jīvānām upādānādyanabhijñatayā kartṛtvāsaṃbhavaḥ; sarveṣām eva cetanānāṃ pṛthivyādyupādānayāgādyupakaraṇasākṣātkārasāmarthyāt; yathedānīṃ pṛthivyādayo yāgādayaś ca pratyakṣam īkṣyante / upakaraṇabhūtayāgādiśaktirūpāpūrvādiśabdavācyādṛṣṭasākṣātkārābhāve 'pi cetanānāṃ na kartṛtvānupapattiḥ; tatsākṣātkārānapekṣaṇāt kāryārambhasya / bhaktimatsākṣātkāra eva hi kāryārambhopayogī; śaktes tu jñānamātram evopayujyate, na sākṣātkāraḥ / na hi kulālādayaḥ kāryopakaraṇabhūtadaṇḍacakrādivat tacchaktim api sākṣātkṛtya ghaṭamaṇikādikāryam ārabhante / iha tu cetanānām āgamāvagatayāgādiśaktiviśeṣāṇāṃ kāryārambho nānupapannaḥ /</p>
+<note type="analysis" corresp="#RSBh_p12001">
+<p>kiṃ ca, ubhaya-vādi-siddhānāṃ jīvānām eva lāghavena kartṛtva-abhyupagamo yuktaḥ / na ca jīvānām upādāna-ādy-anabhijñatayā kartṛtva-asaṃbhavaḥ; sarveṣām eva cetanānāṃ pṛthivy-ādy-upādāna-yāga-ādy-upakaraṇa-sākṣātkāra-sāmarthyāt; yatha īdānīṃ pṛthivy-ādayo yāga-ādayaś ca pratyakṣam īkṣyante / upakaraṇa-bhūta-yāga-ādi-śakti-rūpa-apūrva-ādi-śabda-vācya-adṛṣṭa-sākṣātkāra-abhāve 'pi cetanānāṃ na kartṛtva-anupapattiḥ; tat-sākṣātkāra-anapekṣaṇāt kārya-ārambhasya / bhaktimat-sākṣātkāra eva hi kārya-ārambha-upayogī; śaktes tu jñāna-mātram eva upayujyate, na sākṣātkāraḥ / na hi kulāla-ādayaḥ kārya-upakaraṇa-bhūta-daṇḍa-cakra-ādivat tac-chaktim api sākṣātkṛtya ghaṭa-maṇika-ādi-kāryam ārabhante / iha tu cetanānām āgama-avagata-yāga-ādi-śakti-viśeṣāṇāṃ kārya-ārambho na anupapannaḥ /</p>
+</note>
+
+<p xml:id="RSBh_p12785">kiṃ ca, yacchakyakriyaṃ śakyopādānādivijñānaṃ ca tad eva tadabhijñakartṛkaṃ dṛṣṭam / mahīmahīdharamahārṇavādi tv aśakyakriyam aśakyopādānādivijñānaṃ ceti na cetanakartṛkam / ato ghaṭamaṇikādi sajātīyaśakyakriyaśakyopādānādivijñānavastugatam eva kāryatvaṃ buddhimankartṛpūrvakatvasādhane prabhavati /</p>
+<note type="analysis" corresp="#RSBh_p12785">
+<p>kiṃ ca, yac-chakya-kriyaṃ śakya-upādāna-ādi-vijñānaṃ ca tad eva tad-abhijña-kartṛkaṃ dṛṣṭam / mahī-mahīdhara-mahārṇava-ādi tv aśakya-kriyam aśakya-upādāna-ādi-vijñānaṃ ca iti na cetana-kartṛkam / ato ghaṭa-maṇika-ādi sajātīya-śakya-kriya-śakya-upādāna-ādi-vijñāna-vastu-gatam eva kāryatvaṃ buddhiman-kartṛ-pūrvakatva-sādhane prabhavati /</p>
+</note>
+
+<p xml:id="RSBh_p13143">kiṃ ca, ghaṭādikāryam anīśvareṇālpajñānaśaktinā saśarīreṇa parigrahavatānāptakāmena nirmitaṃ dṛṣṭam iti tathāvidham eva cetanaṃ kartāraṃ sādhayann ayaṃ kāryatvahetus siṣādhayiṣitapuruṣasārvajñyasarvāiśvaryādiviparītasādhanād viruddhas syāt / na caitāvatā sarvānumānocchedaprasaṅgaḥ / liṅgini pramāṇāntaragocare liṅgabalopasthāpitā viparītaviśeṣās tatpramāṇapratihatagatayo nivartante / iha tu sakaletarapramāṇāviṣaye liṅgini nikhilanirmāṇacature anvayavyatirekāvagatāvinābhāvaniyamā dharmās sarva evāviśeṣeṇa prasajyante; nivartakapramāṇābhāvāt tathaivāvatiṣṭhante / ata āgamād ṛte katham īśvaras setsyati ?</p>
+<note type="analysis" corresp="#RSBh_p13143">
+<p>kiṃ ca, ghaṭa-ādi-kāryam anīśvareṇa alpa-jñāna-śaktinā sa-śarīreṇa parigrahavata ānāpta-kāmena nirmitaṃ dṛṣṭam iti tathā-vidham eva cetanaṃ kartāraṃ sādhayann ayaṃ kāryatva-hetus siṣādhayiṣita-puruṣa-sārvajñya-sarva-aiśvarya-ādi-viparīta-sādhanād viruddhas syāt / na ca etāvatā sarva-anumāna-uccheda-prasaṅgaḥ / liṅgini pramāṇa-antara-gocare liṅga-bala-upasthāpitā viparīta-viśeṣās tat-pramāṇa-pratihata-gatayo nivartante / iha tu sakala-itara-pramāṇa-aviṣaye liṅgini nikhila-nirmāṇa-cature anvaya-vyatireka-avagata-avinābhāva-niyamā dharmās sarva eva aviśeṣeṇa prasajyante; nivartaka-pramāṇa-abhāvāt tatha aiva avatiṣṭhante / ata āgamād ṛte katham īśvaras setsyati ?</p>
+</note>
+
+<p xml:id="RSBh_p13823">atrāhuḥ / sāvayavatvād eva jagataḥ kāryatvaṃ na pratyākhyātuṃ śakyate / bhavanti ca prayogāḥ -- vivādādhyāsitaṃ bhūbhūdharādi kāryam, sāvayavatvāt, ghaṭādivat / tathā vivādādhyāsitam avanijaladhimahīdharādi kāryam, mahattve sati kriyāvattvāt, ghaṭavat / tanubhuvanādi kāryam, mahattve sati mūrtatvāt, ghaṭavat -- iti / sāvayaveṣu dravyeṣu idam eva kriyate netarad iti kāryatvasya niyāmakaṃ sāvayavatvātireki rūpāntaraṃ nopalabhāmahe / kāryatvapratiniyataṃ śakyakriyatvaṃ śakyopādānādivijñānatvaṃ copalabhyata iti cen na; kāryatvenānumate 'pi viṣaye jñānaśaktī kāryānumeye ity anyatrāpi sāvayavatvādinā kāryatvaṃ jñātam iti te ca pratipanne eveti na kaścid viśeṣaḥ / tathā hi ghaṭamaṇikādiṣu kṛteṣu kāryadarśanānumitakartṛgatatannirmāṇaśaktijñānaḥ puruṣo 'dṛṣṭapūrvaṃ vicitrasanniveśaṃ narendrabhavanam ālokya avayavasanniveṣaviśeṣeṇa tasya kāryatvaṃ niścitya tadānīm eva kartus tajjñānaśaktivaicitryam anuminoti / atas tanubhuvanādeḥ kāryatve siddhe sarvasākṣātkāratannirmāṇādinipuṇaḥ kvacit puruṣaviśeṣas sidhyaty eva /</p>
+<note type="analysis" corresp="#RSBh_p13823">
+<p>atrā ahuḥ / sa-avayavatvād eva jagataḥ kāryatvaṃ na pratyākhyātuṃ śakyate / bhavanti ca prayogāḥ --- vivāda-adhyāsitaṃ bhū-bhūdhara-ādi kāryam, sa-avayavatvāt, ghaṭa-ādivat / tathā vivāda-adhyāsitam avani-jaladhi-mahīdhara-ādi kāryam, mahattve sati kriyāvattvāt, ghaṭavat / tanu-bhuvana-ādi kāryam, mahattve sati mūrtatvāt, ghaṭavat --- iti / sa-avayaveṣu dravyeṣu idam eva kriyate na itarad iti kāryatvasya niyāmakaṃ sa-avayavatva-atireki rūpa-antaraṃ na upalabhāmahe / kāryatva-pratiniyataṃ śakya-kriyatvaṃ śakya-upādāna-ādi-vijñānatvaṃ ca upalabhyata iti cen na; kāryatvena anumate 'pi viṣaye jñāna-śaktī kārya-anumeye ity anyatra api sa-avayavatva-ādinā kāryatvaṃ jñātam iti te ca pratipanne eva iti na kaścid viśeṣaḥ / tathā hi ghaṭa-maṇika-ādiṣu kṛteṣu kārya-darśana-anumita-kartṛ-gata-tan-nirmāṇa-śakti-jñānaḥ puruṣo 'dṛṣṭa-pūrvaṃ vicitra-sanniveśaṃ nara-indra-bhavanam ālokya avayava-sanniveṣa-viśeṣeṇa tasya kāryatvaṃ niścitya tadānīm eva kartus taj-jñāna-śakti-vaicitryam anuminoti / atas tanu-bhuvana-ādeḥ kāryatve siddhe sarva-sākṣātkāra-tan-nirmāṇa-ādi-nipuṇaḥ kvacit puruṣa-viśeṣas sidhyaty eva /</p>
+</note>
+
+<p xml:id="RSBh_p14934">kiṃ ca sarvacetanānāṃ dharmādharmanimitte 'pi sukhaduḥkhopabhoge cetanānadhiṣṭhitayos tayor acetanayoḥ phalahetutvānupapattes sarvakarmānuguṇasarvaphalapradānacaturaḥ kaścid āstheyaḥ; vardhakinānadhiṣṭhitasya vāsyāder acetanasya deśakālādyanekaparikarasannidhāne 'pi yūpādinirmāṇasādhanatvādarśanāt / bījāṅkuarādeḥ pakṣāntarbhāvena tair vyabhicārāpādanaṃ śrotriyavetālānām anabhijñatāvijṛmbhitam / tata eva sukhādibhir vyabhicāravacanam api tathaiva / na ca lāghavenobhayavādisaṃpratipannakṣetrajñānām eva īdṛśādhiṣṭhātṛtvakalpanaṃ yuktam; teṣāṃ sūkṣmavyavahitaviprakṛṣṭadarśanaśaktiniścayāt / darśanānuguṇaiva hi sarvatra kalpanā / na ca kṣetrajñavad īśvarasyāśaktiniścayo 'sti / ataḥ prāmāṇāntaro na tatsiddhyanupapattiḥ / samarthakartṛpūrvakatvaniyatakāryatvahetunā sidhyan svābhāvikasarvasākṣātkāratanniyamanaśaktisaṃpanna eva sidhyati /</p>
+<note type="analysis" corresp="#RSBh_p14934">
+<p>kiṃ ca sarva-cetanānāṃ dharma-adharma-nimitte 'pi sukha-duḥkha-upabhoge cetana-anadhiṣṭhitayos tayor acetanayoḥ phala-hetutva-anupapattes sarva-karma-anuguṇa-sarva-phala-pradāna-caturaḥ kaścid āstheyaḥ; vardhakina ānadhiṣṭhitasya vāsya-āder acetanasya deśa-kāla-ādy-aneka-parikara-sannidhāne 'pi yūpa-ādi-nirmāṇa-sādhanatva-adarśanāt / bīja-aṅkuar-ādeḥ pakṣa-antarbhāvena tair vyabhicāra-āpādanaṃ śrotriya-vetālānām anabhijñatā-vijṛmbhitam / tata eva sukha-ādibhir vyabhicāra-vacanam api tatha aiva / na ca lāghavena ubhaya-vādi-saṃpratipanna-kṣetra-jñānām eva īdṛśa-adhiṣṭhātṛtva-kalpanaṃ yuktam; teṣāṃ sūkṣma-vyavahita-viprakṛṣṭa-darśana-śakti-niścayāt / darśana-anuguṇa aiva hi sarvatra kalpanā / na ca kṣetra-jñavad īśvarasya aśakti-niścayo 'sti / ataḥ prāmāṇa-antaro na tat-siddhy-anupapattiḥ / samartha-kartṛ-pūrvakatva-niyata-kāryatva-hetunā sidhyan svābhāvika-sarva-sākṣātkāra-tan-niyamana-śakti-saṃpanna eva sidhyati /</p>
+</note>
+
+<p xml:id="RSBh_p15870">yat tv anaiśvaryādyāpādanena dharmaviśeṣaviparītasādhanatvam unnītam, tadanumānavṛttānabhijñatvanibandhanam; sapakṣe sahadṛṣṭānāṃ sarveṣāṃ kāryasyāhetubhūtānāṃ ca dharmāṇāṃ liṅginy aprāpteḥ / etad uktaṃ bhavati / kenacit kiṃcit kriyamāṇaṃ svotpattaye kartus svanirmāṇasāmarthyaṃ svopādānopakaraṇajñānaṃ cāpekṣate; na tv anyāsāmarthyam anyajñānaṃ ca, hetutvābhāvāt / svanirmāṇasāmarthyasvopādānopakaraṇajñānābhyām eva svotpattāv upapannāyāṃ saṃbandhitayā darśanamātreṇākiṃcitkarasyārthāntarājñānādeḥ hetutvakalpanāyogād iti / na tāvat sarvaviṣayam; na hi kulālādiḥ kriyamāṇavyatiriktaṃ kim api na jānāti / nāpi katipayaviṣayam; sarveṣu kartṛṣu tattadajñānāśaktyaniyamena sarveṣām ajñānādīnāṃ vyabhicārāt / ataḥ kāryatvasyāsādhakānām anīśvaratvādīnāṃ liṅginy apratītir iti na viparītasādhanatvam /</p>
+<note type="analysis" corresp="#RSBh_p15870">
+<p>yat tv anaiśvarya-ādy-āpādanena dharma-viśeṣa-viparīta-sādhanatvam unnītam, tad-anumāna-vṛtta-anabhijñatva-nibandhanam; sapakṣe saha-dṛṣṭānāṃ sarveṣāṃ kāryasya ahetu-bhūtānāṃ ca dharmāṇāṃ liṅginy aprāpteḥ / etad uktaṃ bhavati / kenacit kiṃcit kriyamāṇaṃ sva-utpattaye kartus sva-nirmāṇa-sāmarthyaṃ sva-upādāna-upakaraṇa-jñānaṃ ca apekṣate; na tv anya-asāmarthyam anya-jñānaṃ ca, hetutva-abhāvāt / sva-nirmāṇa-sāmarthya-sva-upādāna-upakaraṇa-jñānābhyām eva sva-utpattāv upapannāyāṃ saṃbandhitayā darśana-mātreṇa akiṃcitkarasya artha-antara-ajñāna-ādeḥ hetutva-kalpanā-yogād iti / na tāvat sarva-viṣayam; na hi kulāla-ādiḥ kriyamāṇa-vyatiriktaṃ kim api na jānāti / na api katipaya-viṣayam; sarveṣu kartṛṣu tat-tad-ajñāna-aśakty-aniyamena sarveṣām ajñāna-ādīnāṃ vyabhicārāt / ataḥ kāryatvasya asādhakānām anīśvaratva-ādīnāṃ liṅginy apratītir iti na viparīta-sādhanatvam /</p>
+</note>
+
+<p xml:id="RSBh_p16745">kulālādīnāṃ daṇḍacakrādyadhiṣṭhānaṃ śarīradvāreṇaiva dṛṣṭam iti jagadupādānopakaraṇādhiṣṭhānam īśvarasyā-śarīrasyānupapannam iti cen na; saṃkalpamātreṇaiva paraśarīragatabhūtavetālagaralādyapagamavināśadarśanāt / katham aśarīrasya parapravartanarūpas saṃkalpa iti cet; na śarīrāpekṣas saṃkalpaḥ, śarīrasya saṃkalpahetutvābhāvāt / mana eva hi saṃkalpahetuḥ / tadabhyupagatam īśvare 'pi; kāryatvenaiva jñānaśaktivan manaso 'pi prāptatvāt / mānasas saṃkalpas saśarīrasyaiva, saśarīrasyaiva samanaskatvād iti cen na; manaso nityatvena dehāpagame 'pi manasas sadbhāvenānaikāntyāt /</p>
+<note type="analysis" corresp="#RSBh_p16745">
+<p>kulāla-ādīnāṃ daṇḍa-cakra-ādy-adhiṣṭhānaṃ śarīra-dvāreṇa eva dṛṣṭam iti jagad-upādāna-upakaraṇa-adhiṣṭhānam īśvarasya a-śarīrasya anupapannam iti cen na; saṃkalpa-mātreṇa eva para-śarīra-gata-bhūta-vetāla-garala-ādy-apagama-vināśa-darśanāt / katham a-śarīrasya para-pravartana-rūpas saṃkalpa iti cet; na śarīra-apekṣas saṃkalpaḥ, śarīrasya saṃkalpa-hetu-tva-abhāvāt / mana eva hi saṃkalpa-hetuḥ / tad-abhyupagatam īśvare 'pi; kāryatvena eva jñāna-śaktivan manaso 'pi prāptatvāt / mānasas saṃkalpas sa-śarīrasya eva, sa-śarīrasya eva sa-manaskatvād iti cen na; manaso nityatvena deha-apagame 'pi manasas sad-bhāvena anaikāntyāt /</p>
+</note>
+
+<p xml:id="RSBh_p17392">ato vicitrāvayavasanniveśaviśeṣatanubhuvanādikāryanirmāṇe puṇyapāpaparavaśaḥ parimitaśaktijñānaḥ kṣetrajño na prabhavatīti nikhilabhuvananirmāṇacaturo 'cintyāparimitajñānaśaktyaiśvaryo 'śarīraḥ saṃkalpamātrasādhanapariniṣpannānantavistāravicitraracanaprapañcaḥ puruṣaviśeṣa īśvaro 'numānenaiva siddhyati / ataḥ pramāṇāntarāvaseyatvād brahmaṇo naitadvākyaṃ brahma pratipādayati /</p>
+<note type="analysis" corresp="#RSBh_p17392">
+<p>ato vicitra-avayava-sanniveśa-viśeṣa-tanu-bhuvana-ādi-kārya-nirmāṇe puṇya-pāpa-para-vaśaḥ parimita-śakti-jñānaḥ kṣetra-jño na prabhavati iti nikhila-bhuvana-nirmāṇa-caturo 'cintya-aparimita-jñāna-śakty-aiśvaryo '-śarīraḥ saṃkalpa-mātra-sādhana-pariniṣpanna-ananta-vistāra-vicitra-racana-prapañcaḥ puruṣa-viśeṣa īśvaro 'numānena eva siddhyati / ataḥ pramāṇa-antara-avaseyatvād brahmaṇo na etad-vākyaṃ brahma pratipādayati /</p>
+</note>
+
+<p xml:id="RSBh_p17837">kiṃ ca, atyantabhinnayor eva mṛddravyakulālayor nimittopādānatvadarśanena ākāśāder niravayavadravyasya kāryatvānupapattyā ca naikam eva brahma kṛtsnasya jagato nimittam upādānaṃ ca pratipādayituṃ śaknotīti //</p>
+<note type="analysis" corresp="#RSBh_p17837">
+<p>kiṃ ca, atyanta-bhinnayor eva mṛd-dravya-kulālayor nimitta-upādānatva-darśanena ākāśa-āder niravayava-dravyasya kāryatva-anupapattyā ca na ekam eva brahma kṛtsnasya jagato nimittam upādānaṃ ca pratipādayituṃ śaknoti iti //</p>
+</note>
+
+<p xml:id="RSBh_p18085">evaṃ prāpte brūmaḥ -- yathoktalakṣaṇaṃ brahma janmādivākyaṃ bodhayaty eva / kutaḥ? śāstraikapramāṇakatvād brahmaṇaḥ / yad uktaṃ sāvayavatvādinā kāryaṃ sarvaṃ jagat, kāryaṃ ca taducitakartṛviśeṣapūrvakaṃ dṛṣṭam iti nikhilajagannirmāṇatadupādānopakaraṇavedanacaturaḥ kaścid anumeya iti; tad ayuktam; mahīmahārṇavādīnāṃ kāryatve 'pi ekadaivaikenaiva nirmitā ity atra pramāṇābhāvāt / na caikasya ghaṭasyeva sarveṣām ekaṃ kāryatvam, yenaikadaikaḥ kartā syāt / pṛthagbhūteṣu kāryeṣu kālabhedakartṛbhedadarśanena kartṛkālāikyaniyamādarśanāt / na ca kṣetrajñānāṃ vicitrajagannirmāṇaśaktyā kāryatvabalena tadatiriktakalpanāyām anekakalpanānupapatteś ca ekaḥ kartā bhavitum arhatīti; kṣetrajñānām evopacitapuṇyaviśeṣāṇāṃ śaktivaicitryadarśanena teṣām evātiśayitādṛṣṭasaṃbhāvanayā ca tattadvilakṣaṇakāryahetutvasaṃbhavāt, tadatiriktātyantādṛṣṭapuruṣakalpanānupapatteḥ / na ca yugapat sarvotpattis sarvocchittiś ca pramāṇapadavīm adhirohataḥ; adarśanāt, krameṇaivotpattivināśadarśanāc ca / kāryatvena sarvotpattivināśayoḥ kalpyamānayoḥ darśanānuguṇyena kalpanāyāṃ virodhābhāvāc ca / ato buddhimadekakartṛkatve sādhye kāryatvasyānaikāntyam, pakṣasyāprasiddhaviśeṣaṇatvam, sādhyavikalatā ca dṛṣṭāntasya; sarvanirmāṇacaturasyaikasyāprasiddheḥ / buddhimatkartṛkatvamātre sādhye siddhasādhanatā / sārvajñyasarvaśaktiyuktasya kasyacid ekasya sādhakam idaṃ kāryatvaṃ kiṃ yugamadutpadyamānasarvavastugatam ? uta krameṇotpadyamānasarvavāstugatam ? yugapadutpadyamānasarvavastugatatve kāryatvasyāsiddhatā / krameṇotpadyamānasarvavastugatatve anekakarṭrkatvasādhanād viruddhatā / atrāpy ekakarṭrkatvasādhane pratyakṣānumānavirodhaś śāstravirodhaś ca; kumbhakāro
+jāyate, rathakāro jāyata ityādiśravaṇāt / api ca sarveṣāṃ kāryāṇāṃ śarīrādīnāṃ ca sattvādiguṇakāryarūpasukhādyanvayadarśanena sattvādimūlatvam avaśyāśrayaṇīyam / kāryavaicitryahetubhūtāḥ kāraṇagatā viśeṣās sattvādayaḥ; teṣāṃ kāryāṇāṃ tanmūlatvāpādanaṃ tadyuktapuruṣāntaḥkaraṇavikāradvāreṇa, puruṣasya ca tadyogaḥ karmamūlaḥ -- iti kāryaviśeṣārambhāyaiva jñānaśaktivat kartuḥ karmasaṃbandhaḥ kāryahetutvenaivāvaśyāśrayanīyaḥ; jñānaśaktivaicitryasya ca karmamūlatvāt / icchāyāḥ kāryārambhahetutve 'pi viṣayaviśeṣaviśeṣitāyās tasyās sattvāimūlakatvena karmasaṃbandho 'varjanīyaḥ / ataḥ kṣetrajñā eva kartāraḥ, na tadvilakṣaṇaḥ kaścid anumānāt sidhyati / bhavanti ca prayogāḥ -- tanubhuvanādi kṣetrajñakartṛkam, kāryatvāt, ghaṭavat / īśvaraḥ kartā na bhavati, prayojanaśūnyatvāt, muktātmavat / īśvaraḥ kartā na bhavati, aśarīratvāt, tadvad eva / na ca kṣetrajñānāṃ svaśarīrādhiṣṭhāne vyabhicāraḥ, tatrāpy anādes sūkṣmaśarīrasta sadbhāvāt/ vimativiṣayaḥ kālo na lokaśūnyaḥ, kālatvāt, vartamānakālavad iti /</p>
+<note type="analysis" corresp="#RSBh_p18085">
+<p>evaṃ prāpte brūmaḥ --- yatha ūkta-lakṣaṇaṃ brahma janma-ādi-vākyaṃ bodhayaty eva / kutaḥ? śāstra-eka-pramāṇakatvād brahmaṇaḥ / yad uktaṃ sa-avayavatva-ādinā kāryaṃ sarvaṃ jagat, kāryaṃ ca tad-ucita-kartṛ-viśeṣa-pūrvakaṃ dṛṣṭam iti nikhila-jagan-nirmāṇa-tad-upādāna-upakaraṇa-vedana-caturaḥ kaścid anumeya iti; tad ayuktam; mahī-mahārṇava-ādīnāṃ kāryatve 'pi ekada aiva ekena eva nirmitā ity atra pramāṇa-abhāvāt / na ca ekasya ghaṭasya iva sarveṣām ekaṃ kāryatvam, yena ekada aikaḥ kartā syāt / pṛthag-bhūteṣu kāryeṣu kāla-bheda-kartṛ-bheda-darśanena kartṛ-kāla-aikya-niyama-adarśanāt / na ca kṣetra-jñānāṃ vicitra-jagan-nirmāṇa-śaktyā kāryatva-balena tad-atirikta-kalpanāyām aneka-kalpanā-anupapatteś ca ekaḥ kartā bhavitum arhati iti; kṣetra-jñānām eva upacita-puṇya-viśeṣāṇāṃ śakti-vaicitrya-darśanena teṣām eva atiśayita-adṛṣṭa-saṃbhāvanayā ca tat-tad-vilakṣaṇa-kārya-hetutva-saṃbhavāt, tad-atirikta-atyanta-adṛṣṭa-puruṣa-kalpanā-anupapatteḥ / na ca yugapat sarva-utpattis sarva-ucchittiś ca pramāṇa-padavīm adhirohataḥ; adarśanāt, krameṇa eva utpatti-vināśa-darśanāc ca / kāryatvena sarva-utpatti-vināśayoḥ kalpyamānayoḥ darśana-ānuguṇyena kalpanāyāṃ virodha-abhāvāc ca / ato buddhimad-eka-kartṛkatve sādhye kāryatvasya anaikāntyam, pakṣasya aprasiddha-viśeṣaṇatvam, sādhya-vikalatā ca dṛṣṭāntasya; sarva-nirmāṇa-caturasya ekasya aprasiddheḥ / buddhimat-kartṛkatva-mātre sādhye siddha-sādhanatā / sārvajñya-sarva-śakti-yuktasya kasyacid ekasya sādhakam idaṃ kāryatvaṃ kiṃ yugamad-utpadyamāna-sarva-vastu-gatam ? uta krameṇa utpadyamāna-sarva-vāstu-gatam ? yugapad-utpadyamāna-sarva-vastu-gatatve kāryatvasya asiddhatā / krameṇa utpadyamāna-sarva-vastu-gatatve aneka-karṭrkatva-sādhanād viruddhatā / atra apy eka-karṭrkatva-sādhane pratyakṣa-anumāna-virodhaś śāstra-virodhaś ca; kumbha-kāro
+jāyate, ratha-kāro jāyata ity-ādi-śravaṇāt / api ca sarveṣāṃ kāryāṇāṃ śarīra-ādīnāṃ ca sattva-ādi-guṇa-kārya-rūpa-sukha-ādy-anvaya-darśanena sattva-ādi-mūlatvam avaśya-āśrayaṇīyam / kārya-vaicitrya-hetu-bhūtāḥ kāraṇa-gatā viśeṣās sattva-ādayaḥ; teṣāṃ kāryāṇāṃ tan-mūlatva-āpādanaṃ tad-yukta-puruṣa-antaḥkaraṇa-vikāra-dvāreṇa, puruṣasya ca tad-yogaḥ karma-mūlaḥ --- iti kārya-viśeṣa-ārambhāya eva jñāna-śaktivat kartuḥ karma-saṃbandhaḥ kārya-hetutvena eva avaśya-āśrayanīyaḥ; jñāna-śakti-vaicitryasya ca karma-mūlatvāt / icchāyāḥ kārya-ārambha-hetutve 'pi viṣaya-viśeṣa-viśeṣitāyās tasyās sattva-āi-mūlakatvena karma-saṃbandho 'varjanīyaḥ / ataḥ kṣetra-jñā eva kartāraḥ, na tad-vilakṣaṇaḥ kaścid anumānāt sidhyati / bhavanti ca prayogāḥ --- tanu-bhuvana-ādi kṣetra-jña-kartṛkam, kāryatvāt, ghaṭavat / īśvaraḥ kartā na bhavati, prayojana-śūnyatvāt, mukta-ātmavat / īśvaraḥ kartā na bhavati, a-śarīratvāt, tadvad eva / na ca kṣetra-jñānāṃ sva-śarīra-adhiṣṭhāne vyabhicāraḥ, tatra apy anādes sūkṣma-śarīrasta sad-bhāvāt/ vimati-viṣayaḥ kālo na loka-śūnyaḥ, kālatvāt, vartamāna-kālavad iti /</p>
+</note>
+
+<p xml:id="RSBh_p20945">api ca, kim īśvaras saśarīro 'śarīro vā kāryaṃ karoti ? na tāvad aśarīraḥ; aśarīrasya kartṛtvānupalabdheḥ / mānasāny api kāryāṇi saśarīrasyaiva bhavanti; manaso nityatve 'pi aśarīreṣu mukteṣu tatkāryādarśanāt / nāpi saśarīraḥ; vikalpāsahatvāt -- taccharīraṃ kiṃ nityam utānityam ? na tāvan nityam; sāvayavasya tasya nityatve jagato 'pi nityatvāvirodhād īśvarāsiddheḥ / nāpy anityam; tadvyatiriktasya taccharīrahetos tadānīm abhāvāt / svayam eva hetur iti cen na; aśarīrasya tadayogāt; anyena śarīreṇa saśarīra iti cen na; anavasthānāt /</p>
+<note type="analysis" corresp="#RSBh_p20945">
+<p>api ca, kim īśvaras sa-śarīro 'śarīro vā kāryaṃ karoti ? na tāvad a-śarīraḥ; a-śarīrasya kartṛtva-anupalabdheḥ / mānasāny api kāryāṇi sa-śarīrasya eva bhavanti; manaso nityatve 'pi a-śarīreṣu mukteṣu tat-kārya-adarśanāt / na api sa-śarīraḥ; vikalpa-asahatvāt --- tac-charīraṃ kiṃ nityam uta anityam ? na tāvan nityam; sa-avayavasya tasya nityatve jagato 'pi nityatva-avirodhād īśvara-asiddheḥ / na apy anityam; tad-vyatiriktasya tac-charīra-hetos tadānīm abhāvāt / svayam eva hetur iti cen na; a-śarīrasya tad-ayogāt; anyena śarīreṇa sa-śarīra iti cen na; anavasthānāt /</p>
+</note>
+
+<p xml:id="RSBh_p21536">sa kiṃ savyāpāro nirvyāpāro vā ? aśarīratvād eva na savyāpāraḥ / nāpi nirvyāpāraḥ kāryaṃ karoti muktātmavat / kāryaṃ jagad icchāmātravyāpārakartṛkam ity ucyamāne pakṣasyāprasiddhaviśeṣaṇatvam, dṛṣṭāntasya ca sādhyahīnatā /</p>
+<note type="analysis" corresp="#RSBh_p21536">
+<p>sa kiṃ sa-vyāpāro nirvyāpāro vā ? a-śarīratvād eva na sa-vyāpāraḥ / na api nirvyāpāraḥ kāryaṃ karoti mukta-ātmavat / kāryaṃ jagad icchā-mātra-vyāpāra-kartṛkam ity ucyamāne pakṣasya aprasiddha-viśeṣaṇatvam, dṛṣṭāntasya ca sādhya-hīnatā /</p>
+</note>
+
+<p xml:id="RSBh_p21799">ato darśanānuguṇyeneśvarānumānaṃ darśanānuguṇyaparāhatam iti śāstraikapramāṇakaḥ parabrahmabhūtas sarveśvaraḥ puruṣottamaḥ / śāstraṃ tu sakaletarapramāṇaparidṛṣṭasamastavastuvisajātīyaṃ sārvajñyasatyasaṃkalpatvādimiśrānavadhikātiśayāparimitodāraguṇasāgaraṃ nikhilaheyapratyanīkasvarūpaṃ pratipādayatīti na pramāṇāntarāvasitavastusādharmyaprayuktadoṣagandhaprasaṅgaḥ /</p>
+<note type="analysis" corresp="#RSBh_p21799">
+<p>ato darśana-ānuguṇyenā iśvara-anumānaṃ darśana-ānuguṇya-parāhatam iti śāstra eka-pramāṇakaḥ para-brahma-bhūtas sarva-īśvaraḥ puruṣa-uttamaḥ / śāstraṃ tu sakala-itara-pramāṇa-paridṛṣṭa-samasta-vastu-visajātīyaṃ sārvajñya-satya-saṃkalpatva-ādi-miśra-anavadhika-atiśaya-aparimita-udāra-guṇa-sāgaraṃ nikhila-heya-pratyanīka-sva-rūpaṃ pratipādayati iti na pramāṇa-antara-avasita-vastu-sādharmya-prayukta-doṣa-gandha-prasaṅgaḥ /</p>
+</note>
+
+<p xml:id="RSBh_p22236">yat tu nimittopādānayor aikyam ākāśāder niravayavadravyasya kāryatvaṃ cānupalabdham aśakyapratipādanam ity uktam, tad apy aviruddham iti prakṛtiś ca pratijñādṛṣṭāntānuparodhāt, na viyadaśruter ity atra pratipādayiṣyate / ataḥ pramāṇāntarāgocaratvena śāstraikaviṣayatvād yato vā imāni bhūtānīti vākyam uktalakṣaṇaṃ brahma pratipādayatīti siddham //1,1.3//</p>
+<note type="analysis" corresp="#RSBh_p22236">
+<p>yat tu nimitta-upādānayor aikyam ākāśa-āder niravayava-dravyasya kāryatvaṃ ca anupalabdham aśakya-pratipādanam ity uktam, tad apy aviruddham iti prakṛtiś ca pratijñā-dṛṣṭānta-anuparodhāt, na viyad-aśruter ity atra pratipādayiṣyate / ataḥ pramāṇa-antara-agocaratvena śāstra-eka-viṣayatvād yato vā imāni bhūtāni iti vākyam ukta-lakṣaṇaṃ brahma pratipādayati iti siddham //1,1.3//</p>
+</note>
+
+  </body>
+</text>
+</TEI>
