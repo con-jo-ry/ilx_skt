@@ -1,0 +1,1153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sa_kumArila-tantravArttika-2.1.1-4">
+  <teiHeader xml:lang="en">
+  <fileDesc>
+  <titleStmt>
+	<title>Tantravārttika 2.1.1-4</title>
+	<author>Kumārila</author>
+	<respStmt>
+	 <resp>data entry</resp>
+	 <name>Kei Kataoka</name>
+	</respStmt>
+	<respStmt>
+	 <resp>contribution to GRETIL</resp>
+	 <name>Kei Kataoka</name>
+	</respStmt>
+	<respStmt>
+	 <resp>initial normalization and conversion to legacy GRETIL formats</resp>
+	 <name>Reinhold Grünendahl</name>
+	</respStmt>
+	<respStmt>
+	 <resp>normalization and conversion to TEI-conformant markup</resp>
+	 <name>Maximilian Mehner</name>
+	</respStmt>
+  </titleStmt>
+
+  <publicationStmt>
+	<publisher>Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen</publisher>
+	<availability>
+	 <p>This e-text was provided to GRETIL in good faith that no copyright rights have been infringed.
+	 If anyone wishes to assert copyright over this file, please contact the GRETIL management at <email>gretil(at)sub(dot)uni-goettingen(dot)de</email>.
+	 The file will be immediately removed pending resolution of the claim.</p>
+
+	 <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</licence>
+	</availability>
+	<date when-iso="2020-07-31"/>
+  </publicationStmt>
+
+  <notesStmt>
+	<note>This file has been created by mass conversion of GRETIL's Sanskrit corpus from <ref target="http://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/mimamsa/ktv_2-1u.htm">ktv_2-1u.htm</ref>. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the <gi>note</gi> element below:</note>
+	<note type="legacyheader">
+	 Kumarila: Tantravarttika ad 2.1.1-4 (bhavarthadhikarana)
+<lb/>Based on: Koten Indo no Saishiki Koiron: Sabarabhasya &amp; Tantravarttika ad 2.1.1-4. Genten Kotei Yakuchu Kenkyu.
+<lb/>[The Theory of Ritual Action in Mimamsa: Critical Edition and Annotated
+<lb/>Japanese Translation of Sabarabhasya &amp; Tantravarttika ad 2.1.1-4.]
+<lb/>Tokyo : Sankibo Press, 2004. ISBN 4-7963-0151-8
+<lb/>
+<lb/>Input by Kei Kataoka
+	</note>
+  </notesStmt>
+
+  <sourceDesc>
+	<bibl>: Koten Indo no Saishiki Koiron: Sabarabhasya &amp; Tantravarttika ad 2.1.1-4. Genten Kotei Yakuchu Kenkyu. [The Theory of Ritual Action in Mimamsa: Critical Edition and Annotated Japanese Translation of Sabarabhasya &amp; Tantravarttika ad 2.1.1-4.] Tokyo : Sankibo Press, 2004. ISBN 4-7963-0151-8</bibl>
+  </sourceDesc>
+  </fileDesc>
+
+  <encodingDesc>
+  <projectDesc>
+	<p>The Göttingen Register of Electronic Texts in Indian Languages (GRETIL) is a resource platform providing standardized machine-readable texts in Indian languages that have been contributed by various individuals and institutions.</p>
+  </projectDesc>
+
+  <editorialDecl>
+	<correction>
+	 <p>Apparent errors have been silently corrected.</p>
+	</correction>
+
+	<normalization>
+	 <p>GRETIL normalizes all texts contributed consistently for each language.
+	 Sanskrit texts are normalized in accordance with the scheme of the International Alphabet of Sanskrit Transliteration (IAST) in order to facilitate word search across its corpus without additional transformations.</p>
+
+	 <p>All characters that were fully equivalent to an IAST-conformant character in the text file contributed have been made to conform to the character list below.
+	 Non-conformant characters with additional information including accents, capitalization, and whitespace have been preserved as <gi>orig</gi> elements inside <gi>choice</gi> elements with their IAST-conformant equivalent in <gi>reg</gi> elements for the creation of a plain text.
+	 These additional informations will be available only in those transformations of this file that display the original information.</p>
+
+	 <p><table>
+	 <head>Characters Used for the Transliteration of Sanskrit according to IAST</head>
+	 <row role="label">
+	 <cell>Character</cell>
+	 <cell>Character Name</cell>
+	 <cell>Unicode Code Point</cell>
+	 </row>
+	 <row>
+	 <cell>a</cell>
+	 <cell>LATIN SMALL LETTER A</cell>
+	 <cell>U+0061</cell>
+	 </row>
+	 <row>
+	 <cell>ā</cell>
+	 <cell>LATIN SMALL LETTER A WITH MACRON</cell>
+	 <cell>U+0101</cell>
+	 </row>
+	 <row>
+	 <cell>i</cell>
+	 <cell>LATIN SMALL LETTER I</cell>
+	 <cell>U+0069</cell>
+	 </row>
+	 <row>
+	 <cell>ī</cell>
+	 <cell>LATIN SMALL LETTER I WITH MACRON</cell>
+	 <cell>U+012B</cell>
+	 </row>
+	 <row>
+	 <cell>u</cell>
+	 <cell>LATIN SMALL LETTER U</cell>
+	 <cell>U+0075</cell>
+	 </row>
+	 <row>
+	 <cell>ū</cell>
+	 <cell>LATIN SMALL LETTER U WITH MACRON</cell>
+	 <cell>U+016B</cell>
+	 </row>
+	 <row>
+	 <cell>ṛ</cell>
+	 <cell>LATIN SMALL LETTER R WITH DOT BELOW</cell>
+	 <cell>U+1E5B</cell>
+	 </row>
+	 <row>
+	 <cell>ṝ</cell>
+	 <cell>LATIN SMALL LETTER R WITH DOT BELOW AND MACRON</cell>
+	 <cell>U+1E5D</cell>
+	 </row>
+	 <row>
+	 <cell>ḷ</cell>
+	 <cell>LATIN SMALL LETTER L WITH DOT BELOW</cell>
+	 <cell>U+1E37</cell>
+	 </row>
+	 <row>
+	 <cell>ḹ</cell>
+	 <cell>LATIN SMALL LETTER L WITH DOT BELOW AND MACRON</cell>
+	 <cell>U+1E39</cell>
+	 </row>
+	 <row>
+	 <cell>e</cell>
+	 <cell>LATIN SMALL LETTER E</cell>
+	 <cell>U+0065</cell>
+	 </row>
+	 <row>
+	 <cell>o</cell>
+	 <cell>LATIN SMALL LETTER O</cell>
+	 <cell>U+006F</cell>
+	 </row>
+	 <row>
+	 <cell>ṃ</cell>
+	 <cell>LATIN SMALL LETTER M WITH DOT BELOW</cell>
+	 <cell>U+1E43</cell>
+	 </row>
+	 <row>
+	 <cell>ḥ</cell>
+	 <cell>LATIN SMALL LETTER H WITH DOT BELOW</cell>
+	 <cell>U+1E25</cell>
+	 </row>
+	 <row>
+	 <cell>'</cell>
+	 <cell>APOSTROPHE</cell>
+	 <cell>U+0027</cell>
+	 </row>
+	 <row>
+	 <cell>k</cell>
+	 <cell>LATIN SMALL LETTER K</cell>
+	 <cell>U+006B</cell>
+	 </row>
+	 <row>
+	 <cell>g</cell>
+	 <cell>LATIN SMALL LETTER G</cell>
+	 <cell>U+0067</cell>
+	 </row>
+	 <row>
+	 <cell>ṅ</cell>
+	 <cell>LATIN SMALL LETTER N WITH DOT ABOVE</cell>
+	 <cell>U+1E45</cell>
+	 </row>
+	 <row>
+	 <cell>c</cell>
+	 <cell>LATIN SMALL LETTER C</cell>
+	 <cell>U+0063</cell>
+	 </row>
+	 <row>
+	 <cell>j</cell>
+	 <cell>LATIN SMALL LETTER J</cell>
+	 <cell>U+006A</cell>
+	 </row>
+	 <row>
+	 <cell>ñ</cell>
+	 <cell>LATIN SMALL LETTER N WITH TILDE</cell>
+	 <cell>U+00F1</cell>
+	 </row>
+	 <row>
+	 <cell>ṭ</cell>
+	 <cell>LATIN SMALL LETTER T WITH DOT BELOW</cell>
+	 <cell>U+1E6D</cell>
+	 </row>
+	 <row>
+	 <cell>ḍ</cell>
+	 <cell>LATIN SMALL LETTER D WITH DOT BELOW</cell>
+	 <cell>U+1E0D</cell>
+	 </row>
+	 <row>
+	 <cell>ṇ</cell>
+	 <cell>LATIN SMALL LETTER N WITH DOT BELOW</cell>
+	 <cell>U+1E47</cell>
+	 </row>
+	 <row>
+	 <cell>p</cell>
+	 <cell>LATIN SMALL LETTER P</cell>
+	 <cell>U+0070</cell>
+	 </row>
+	 <row>
+	 <cell>b</cell>
+	 <cell>LATIN SMALL LETTER B</cell>
+	 <cell>U+0062</cell>
+	 </row>
+	 <row>
+	 <cell>m</cell>
+	 <cell>LATIN SMALL LETTER M</cell>
+	 <cell>U+006D</cell>
+	 </row>
+	 <row>
+	 <cell>y</cell>
+	 <cell>LATIN SMALL LETTER Y</cell>
+	 <cell>U+0079</cell>
+	 </row>
+	 <row>
+	 <cell>r</cell>
+	 <cell>LATIN SMALL LETTER R</cell>
+	 <cell>U+0072</cell>
+	 </row>
+	 <row>
+	 <cell>l</cell>
+	 <cell>LATIN SMALL LETTER L</cell>
+	 <cell>U+006C</cell>
+	 </row>
+	 <row>
+	 <cell>v</cell>
+	 <cell>LATIN SMALL LETTER V</cell>
+	 <cell>U+0076</cell>
+	 </row>
+	 <row>
+	 <cell>ś</cell>
+	 <cell>LATIN SMALL LETTER S WITH ACUTE</cell>
+	 <cell>U+x015B</cell>
+	 </row>
+	 <row>
+	 <cell>ṣ</cell>
+	 <cell>LATIN SMALL LETTER S WITH DOT BELOW</cell>
+	 <cell>U+1E63</cell>
+	 </row>
+	 <row>
+	 <cell>s</cell>
+	 <cell>LATIN SMALL LETTER S</cell>
+	 <cell>U+0073</cell>
+	 </row>
+	 <row>
+	 <cell>h</cell>
+	 <cell>LATIN SMALL LETTER H</cell>
+	 <cell>U+0068</cell>
+	 </row>
+	 </table>
+	</p>
+  </normalization>
+
+  <quotation marks="some">
+	<p>If indicated unambiguously in the text file contributed quotation marks have been replaced with the <gi>q</gi> element and, in case a reference was provided, have been nested inside a <gi>cit</gi> with the respective reference provided in a <gi>ref</gi> element after the quote.</p>
+  </quotation>
+
+  <segmentation>
+	<p>Unnumbered <gi>div</gi> elements are used to structure the text, using the <att>type</att> and <att>n</att> attributes in accordance with the <gi>refsDecl</gi>.</p>
+  </segmentation>
+
+  <interpretation>
+	<p>Interpretive markup which is visible only in analytic transformations of this file consists of:
+	<list>
+	 <item>Highlighting in <gi>hi</gi> elements,</item>
+	 <item>Corruptions in <gi>sic</gi> elements,</item>
+	 <item>Remarks in <gi>note</gi> elements with the @resp attribute identifying the agency.</item>
+	</list></p>
+  </interpretation>
+  </editorialDecl>
+
+  <refsDecl>
+  <p>A reference is given in the <att>xml:id</att> attributes consisting of
+  <list>
+	<item>a pragmatic abbreviation of the <label>title</label>: Tantravārttika 2.1.1-4 = <!-- abbreviation -->,</item>
+	<item>the number of the <label></label> in arabic numerals,</item>
+	<item>the number of the <label>verse</label> in arabic numerals.</item>
+  </list>
+  </p>
+  </refsDecl>
+  </encodingDesc>
+
+  <profileDesc>
+  <langUsage>
+  <language ident="en">English</language>
+  <language ident="sa-Latn">Sanskrit</language>
+  </langUsage>
+
+  <textClass>
+  <keywords scheme="http://gretil.sub.uni-goettingen.de/">
+	<term>Sanskrit -- Śāstra -- Philosophy -- Mīmāṃsā</term>
+  </keywords>
+  </textClass>
+  </profileDesc>
+
+  <revisionDesc>
+  <listChange>
+  <change when-iso="2020-07-31" who="Maximilian Mehner">TEI encoding by mass conversion of GRETIL's Sanskrit corpus</change>
+  </listChange>
+  </revisionDesc>
+
+</teiHeader>
+
+<text xml:lang="sa-Latn">
+  <body>
+<div>
+<p>%p. 58
+</p>
+</div>
+<div>
+
+<l>bhāvārthāḥ karmaśabdās tebhyaḥ kriyā pratīyetaiṣa hy artho vidhīyate || Jaim_2,1.1 ||</l>
+
+<p>saṃbandhaṃ tāval lakṣaṇadvayasya karoti |
+tatra prathame 'dhyāye pramāṇalakṣaṇaṃ vṛttam ity uktam |
+tad ayuktam |
+kutaḥ |</p>
+
+<lg>
+<l>naiva hi prathame 'dhyāye sūtrakāreṇa kiṃcana /</l>
+<l>lakṣaṇena pramāṇādeḥ svarūpam upavarṇitam // 1 //</l>
+</lg>
+
+<p>tan nāma lakṣaṇam ucyate yena tadvyatiriktebhyas tasya svarūpaṃ vyāvṛttākāraṃ nirūpyate |
+na caivaṃ pramāṇādilakṣaṇam uktam |
+anumānādīni tāvan naiva sūtritāni |
+pratyakṣam api dharmaṃ praty animittatvenopanyastaṃ na lakṣyatveneti vyākhyātam |
+na ca śabdo 'pi dharmapramāṇabhūtaḥ kaścil lakṣitaḥ, asminn evādhikaraṇe tasya lakṣyamāṇatvāt |
+yad api vṛttikāreṇa sarveṣāṃ lakṣaṇaṃ pradarśitaṃ na tad adhyāyārthatvenopasaṃhartuṃ yuktam |
+sūtrādhyāyārthānupasaṃhārāt |
+kathaṃ ca samastalakṣaṇārthavyatirikta evārthe sūtrāṇi kṣīyeran |
+api ca</p>
+
+<lg>
+<l>vṛttikāreṇa yo 'py uktaḥ ṣaṭkaḥ pratyakṣapūrvakaḥ /</l>
+<l>aparīkṣyatayā so 'pi naiva lakṣaṇagocaraḥ // 2 //</l>
+</lg>
+
+<p>%p. 59
+lokaprasiddhārthāni hi tāny aparīkṣyatvenoktāni na prathamādhyāyaviṣayatvenopasaṃhāram arhanti |
+tasmād yat prathame 'dhyāye vṛttaṃ tad ālocyaitad bhāṣyaṃ neyam |
+tatra</p>
+
+<lg>
+<l>pramāṇalakṣaṇaṃ tāvac codanālakṣaṇāśrayam /</l>
+<l>vidhyāditattvanirṇītiḥ pramāṇenaiva ca sthitā // 3 //</l>
+</lg>
+
+<p>samasto hi prathamaḥ pādaś codanālakṣaṇasūtraparikaraḥ |
+tatra ca dharmasya codanālakṣaṇatvam uktam |
+ato 'vadhāritārthalakṣaṇaśabdasāhacaryāt pramāṇaśabdaḥ pramīyate ity evaṃ vyutpādya dharmaviṣaya eva vyākhyeyaḥ |
+saty api prameyamātravācitve 'smin śāstre jijñāsyatvena dharmaḥ prakrānta iti sa eva gṛhyate |</p>
+
+<p>atha vā karaṇam eva pramāṇam, tasyaiva lakṣaṇam uktam |
+yady api ca sarvapramāṇānāṃ tan noktaṃ tathāpi dharmapramāṇasya codanātvaṃ nāma lakṣaṇam ity etāvataivoktaṃ manyate |
+na cāvaśyaṃ sarvātmanaiva lakṣite lakṣaṇatvam |
+viśeṣarūpāṇām ānantyena sarvalakṣaṇābhā-
+%p. 60
+vaprasaṅgāt |
+api cautpattikasūtreṇa viśeṣo 'py ukta eva yenāgamaviśeṣo gamyate |</p>
+
+<p>atha vopanyastasya codanātmakasya pramāṇasya lakṣaṇaṃ prāmāṇyakāraṇam uktam ity upasaṃhāraḥ |
+tathā yady api vidher idaṃ rūpam idam arthavādasyedaṃ mantrasyety evaṃ noktaṃ tathāpi dharmaṃ praty upayogābhidhānāt tattvaṃ nirṇītam |
+avasarābhāvāt tu tatsvarūpaṃ na nirdiṣṭam |
+śrutimūlatvaṃ vijñānasya smṛtiprāmāṇye tattvam |
+nāmadheyasya codanāntargatatvāt pramāṇatvam |
+saṃdigdhārthanirṇaye vākyaśeṣasāmarthyayoḥ prāmāṇyam ity evaṃ samastam adhyāyaṃ pramāṇalakṣaṇam ācakṣate |</p>
+
+<p>tan na prasmartavyam iti |
+avismṛtaprāmāṇyo hi bhedādipratipādanam aviśeṣād anarthakaṃ hi syāt iti kriyamāṇaṃ sahate |
+anyathā hy anarthakaṃ nāmety api pratyavatiṣṭheta |</p>
+
+<p>nanu pradhānāpradhānacintā tṛtīyacaturthayor viṣayaḥ katham atropanyasyate |
+kecid āhuḥ |
+iha dravyakarmaṇor uttaratra tu karmaṇām eva guṇapradhānatvavicārād apaunaruktyam iti |
+tad ayuktam |
+dravyaguṇasaṃskāreṣu ity atra sarvābhidhānāt |
+tenaivaṃ vācyam</p>
+
+<lg>
+<l>lakṣaṇārtho 'tra tattvena bhedaḥ śabdāntarādibhiḥ /</l>
+<l>%p. 61</l>
+<l>tam anv apūrvabhedo 'pi prādhānyaṃ tatprasiddhaye // 4 //</l>
+</lg>
+
+<p>karmabhedas tāvad autsargiko lakṣaṇārthaḥ, tadapavādatvenābhedaḥ |
+tadanuniṣpādinau tv apūrvabhedābhedau |
+tatra pratikarmabhedam apūrvabhedaprasaktau tṛtīyasiddhaḥ pradhānāpradhānavicāraḥ punar apavādatvenārapsyate |
+saty apy avahantyādīnāṃ śabdāntarādibhir bhede karmākāṅkṣitadṛṣṭaprayojanaparyavasānān na kriyājanyāpūrvāntarotpattiḥ |
+yat tu niyamāpūrvaṃ tat kriyākṛtaṃ na bhavatīti na tayā vyapadiśyate |
+tena yatraiva dravyādīni prati kriyāṇāṃ pradhānatvaṃ tatraiva tadbhedanimittāpūrvabhedasiddhiḥ |
+asya ca vivekārthaṃ yad guṇapradhānalakṣaṇaṃ vakṣyate tadapavādāpavādārthaṃ dharmamātre tu stutaśastrayoḥ iti cādhikaraṇadvayaṃ prastoṣyate |
+tataś cākhyātadvaividhye 'vadhārite prasaṅgāt tṛtīyaṃ prakāram abhidhāyakatvaṃ pratipādayituṃ mantraprastāvaḥ |
+tallakṣaṇādīni tu prasaktānuprasaktena yāvat pādasamāpti |
+tataḥ śabdāntarābhyāsābhyāṃ bhedam uktvā paurṇamāsyadhikaraṇenābhyāsāpavādaḥ kariṣyate samudāyānuvādatvāt |
+tatas tadapavādārtham upāṃśuyājāghārāgnihotrapaśusomādhikaraṇāni |
+tataḥ saṃkhyāsaṃjñāguṇair bhedaḥ |
+tāvac ca guṇagato vicāro yāvat prakaraṇāntarādhikaraṇam |
+tatas tannyāyānuvṛttir ā śākhāntarādhikaraṇāt |
+tatra ca ṣaṭkātiriktabhedakāraṇavyudāsaḥ saṃjñābhyāsaguṇaprakriyāṇāṃ cāśaṅkānivṛttir ity etāvān bhedalakṣaṇārthaḥ |
+eṣa evārtho 'vaśyaṃ vaktavyo 'ṅgāṅgitvādyavadhāraṇārtham |
+na
+%p. 62
+cānyasyedānīm avasaro 'stīty ayam evādhyāyasaṃbandhaḥ |
+kutaḥ |</p>
+
+<lg>
+<l>śeṣaśeṣyādayaḥ sarve karmabhedanibandhanāḥ /</l>
+<l>kārye jñāte 'dhikāraḥ syād upadeśe 'tideśadhīḥ // 5 //</l>
+</lg>
+
+<p>prāk tāvat pramāṇalakṣaṇād vedārthavicārātmakatvān na kasyacid bhedalakṣaṇādeḥ prastāva ity uttarakālam ārambhaḥ |
+tatrāpi śeṣaśeṣitvaṃ prayojakāprayojakatvaṃ kramaś ca bhinnānāṃ bhavatīti na bhedalakṣaṇāt prāg ārabhyate |
+tathādhikāraḥ karmasvarūpe 'vadhārite tadyogyatayā śakyo nirūpayitum iti pañcāpi lakṣaṇāni pratīkṣate |
+tathottaraḥ ṣaṭko 'tideśaviṣayatvād upadeśajñānādhīnasiddhiḥ samastaḥ samastaṃ pūrvaṣaṭkam apekṣate |
+tataś ca pariśeṣasiddho 'yaṃ bhedalakṣaṇasya saṃbandha ity atrārabhyate |</p>
+
+<p>ṣaḍvidhaḥ karmabhedaḥ iti sādhanabhedopacārāt |
+vakṣyamāṇasūtrakramānurodhena nāmadheyaṃ saṃkhyānantaraṃ paṭhitavyaṃ sad anādarād ante paṭhitam |
+itikaraṇo hetvarthaḥ |
+ṣaḍvidhaḥ karmabheda etaiḥ kāraṇair iti yāvat |
+atha vā karaṇe bhedaśabdaṃ vyutpādya sāmānādhikaraṇyenaiva śabdāntarādīni vyākhyeyāni |
+saṃjñāśabdāntarayoḥ saṃkhyāguṇayoś cāpaunaruktyaṃ svasthāne vakṣyāmaḥ |
+sarvadā caiṣāṃ bhinnaviṣayatvān na śrutyādivad
+%p. 63
+balābalacintā bhaviṣyatīti tadbhedapratipādanamātraṃ tātparyeṇa |
+anyad upodghātādinā |
+tatra</p>
+
+<lg>
+<l>cintāṃ prakṛtasiddhyarthām upodghātaṃ pracakṣate /</l>
+<l>prasaktānuprasaktādi prastutād upajāyate // 6 //</l>
+</lg>
+
+<p>yathedam evādhikaraṇaṃ prakṛtānuniṣpādyapūrvabhedānusārasiddhyartham upodghātatvena bhaviṣyati |</p>
+
+<p>%p. 64
+katarasmāt padāt phalena saṃbadhyamānād apūrvabhedābhedāv anugantavyāv iti |
+yadā niravayavau vākyavākyārthau syātāṃ tataḥ kiṃ pratipadaṃ dharma ityādir asaṃbaddha eva vicāraḥ syāt, ata āha vākye ca padānām arthāḥ iti |
+atrāpi codyate |</p>
+
+<lg>
+<l>codanālakṣaṇatvena vākyārtho 'vasthito yadā /</l>
+<l>dharmaḥ pratipadaṃ vācyaḥ katham āśaṅkyate tadā // 7 //</l>
+</lg>
+
+<p>yadi hi dharmasvarūpam abhidhīyeta tataḥ kiṃ padena padenocyate iti vicāro yujyate, lākṣaṇike tv ayuktaḥ |
+tad ucyate |</p>
+
+<lg>
+<l>dharmatvaṃ phalasaṃbandhāt padārthasyaiva yujyate /</l>
+<l>tat kim ekasya sarveṣām iti yuktā vicāraṇā // 8 //</l>
+</lg>
+
+<p>na cātra yo dharmaḥ sa kiṃ padena padenocyata ity evaṃ vicāryate, kiṃ tarhi, yaḥ padena padenocyate sa kiṃ phalasaṃbandhottarakālaṃ vākyārthātmanā gamyamāno dharmo bhavati, athetarapadārthānugṛhīta ekaḥ padārtha iti |
+tathā ca sarvair ekasya dharmatvaṃ pratipāditaṃ bhavati |
+sākṣāt phalasādhanamātrasya dharmatvābhyupagamāt |
+na tu sarveṣām ekaḥ kaścid artho 'sti yaḥ sarvair ekaḥ ity evam āśrīyeta |
+yac ca phalapadena saha padaṃ saṃbadhyate tasyārthaṃ dharmam apūrvasādhanaṃ ca manyante |
+tena kiṃ sarvāṇi padāni phalena saṃbadhyante kiṃ vaikam iti vicāraḥ |
+kiṃ prāptaṃ |
+pratipadam iti |
+kutaḥ |</p>
+
+<lg>
+<l>aikarūpyeṇa saṃbandhaḥ pradhānena ca sidhyati /</l>
+<l>tasmāt phalapadenaiva sarvaṃ saṃbadhyate padam // 9 //</l>
+</lg>
+
+<p>%p. 65
+yadi hi viśeṣo gamyete---idaṃ phalasaṃbandhayogyam, idaṃ na---iti, tataḥ kiṃcid eva saṃbadhyeta |
+anavagamyamāne tu sarvāṇi padāni phalenaiva saṃbadhyante |
+yadi caikaṃ phalasaṃbandhi, itarāṇi tatsaṃbandhīnīti kalpyate, tato vājapeyādhikaraṇanyāyenaikasya phalaṃ praty upādānavidhānaguṇabhāvāt, itarat tu praty uddeśānuvādaprādhānyād vairūpyanimittavākyabhedaprasaṅgaḥ |
+sarveṣāṃ phalaṃ praty upādīyamānānām aikarūpyāt tantrasaṃbandhopapattiḥ |</p>
+
+<p>sarvaś ca sati saṃbhave guṇam atilaṅghya pradhānenaiva nityaṃ saṃbadhyate |
+tasmāt sarveṣāṃ phalasaṃbandhād dharmatvaṃ |
+tatra tu kiṃ satrivat pratyekaṃ kṛtsnaṃ phalaṃ sādhayanti, atha darśapūrṇamāsavat saṃhatya, tathā kiṃ vikalpena samuccayena vetyādi yatheṣṭaṃ kalpanīyam |</p>
+
+<p>tatra phalabhūmagarīyastvāt, ekaśabdopādānābhāvāt, satrivat pratyekaṃ sādhanaśaktyavagamāt sarvebhyaḥ pṛthak phalam iti pakṣaḥ |
+atha vāruṇādinyāyenaikavākyopā-
+%p. 66
+dānāt saṃhatānāṃ phalam |
+atha vaikena nirākāṅkṣatvān na tadānīm evetarasaṃbandhopapattiḥ, tasmād vikalpa iti |
+atrābhidhīyate |</p>
+
+<lg>
+<l>phalena yasya saṃbandhas tato 'pūrvaṃ prakalpyate /</l>
+<l>tadalpatvopapattau ca na yuktā bahukalpanā // 10 //</l>
+</lg>
+
+<p>yadi hi phalasaṃbandhamātraparyavasāyy eva vākyaṃ bhavet, tataḥ kadācid sarvāṇy api phalena saṃbadhyeran |
+iha tu tāvanmātreṇāsiddher apūrvam anyat kalpayitavyam, tac cānupapattipramāṇakam |
+tatraikāpūrvakalpanayopapanne vākye nādṛṣṭāntarakalpanāpramāṇam asti |
+yo hy anekāny apūrvāṇi kalpayati, kalpayaty asāv ekam |
+tac cet kalpitam, arthavattvād vākyasya kṣīṇānyathānupapattir nāpūrvāntarasya pramāṇaṃ bhavati |
+tasmād ekam eva phalasaṃbandhi, tasmāc cāpūrvam, itarat phalavadupakārīty adhyavasīyate |</p>
+
+<p>na cātra virodho bhaviṣyati |
+nāmadheyatvena parihārāt |
+agatyā vā daśāpavitreṇa grahaṃ saṃmārṣṭi itivan matvarthalakṣaṇāśrayaṇāt |
+arthākṣiptasādhyāṃśadvāreṇa vā dhātvarthair ātmīyakaraṇagrahaṇasiddheḥ |</p>
+
+<p>evaṃ sthite katarad ekaṃ saṃbadhyatām iti sarvathānekādṛṣṭakalpanāparihārād aniyamaprāptāu, ucyate |
+%p. 67</p>
+
+<lg>
+<l>pradhānaṃ phalasaṃbandhi tatsaṃbandhy aṅgam iṣyate /</l>
+<l>pradhānāṅgatvam ekasya na caikatrāvakalpate // 11 //</l>
+</lg>
+
+<p>na hy ekasmin vākye tad eva kadācit phalasaṃbandhāt pradhānam, kadācit phalavadupakārād aṅgaṃ yujyate |
+niyatarūpatvād aṅgāṅgibhāvasya |
+tasmān niyogenaivākhyātapadān nāmapadād vāpūrvapratītiḥ |</p>
+
+<p>%p. 68
+kaḥ punar bhāvaḥ, ke vā bhāvaśabdāḥ iti---yāvantaḥ phalasaṃbaddheṣu vākyeṣv ākhyātaśabdāḥ yajati dadāti juhoti ity evamādayaḥ, teṣu pratyayārthaprādhānyāt, kartari ca lakārotpatteḥ, yāgādiviśiṣṭakartrabhidhānam, kathaṃcid vā viparyayāt kartṛviśiṣṭayāgādyabhidhānaṃ manvānasya praśnaḥ |</p>
+
+<p>satyām api caikaparyanuyogenobhayaparyanuyogasiddhau---yo 'yaṃ yajanam ijyā yāgaḥ ity anudāhṛtyaiva bhāvārthatāṃ bravīti, tan nūnaṃ ke'py alaukikā bhāvaśabdā api---ity ubhayapraśnaḥ |</p>
+
+<p>siddhāntavādī tu---bhavater ṇijantāt er ac ity acpratyaye kṛte bhāvanāvicinaṃ bhāvaśabdaṃ vyutpādya, ākhyātasya cānvayavyatirekābhyāṃ tatparatvaṃ kartrabhidhānapratiṣedhaṃ cābhipretyodāharati yajati dadāti iti |</p>
+
+<p>paraḥ punaḥ---bhavater ṇijantād anyena naiṣo 'rtho 'bhidhīyate, na cākhyātapratyayasyātra vyāpāraḥ, dhātvantarārthatvāt |
+kāmaṃ tulyajātīyatvena dhātava eva brūyuḥ, te 'pi tu yāgādivacanatvād asamarthāḥ---iti matvāha nanu yāgadānahomaśabdāḥ iti |
+atrocyate |</p>
+
+<lg>
+<l>%p. 69</l>
+<l>yāgadānādanusyūto bhāvanātmāvagamyate /</l>
+<l>nityam ākhyātaśabdebhyas tasmād bhāvārthateṣyate // 12 //</l>
+</lg>
+
+<p>yāvān eva hy ananyalabhyo 'rthaḥ śabdād gamyate, sa sarvaḥ śabdārthaḥ |
+sarvatra cākhyāte dhātvarthaś ca tadanuraktā ca bhāvanā vijñāyate |
+tasmād bhāvārthatvavyapadeśaḥ |
+tadvyatiriktās tu dravyaguṇaśabdā vijñāyanta eveti na pṛṣṭāḥ |</p>
+
+<lg>
+<l>tatra dravyādiśabdānāṃ niṣpannārthābhidhāyinām /</l>
+<l>karaṇārthatvayogyatvāt prāpnoti phalasaṃgatiḥ // 13 //</l>
+</lg>
+
+<p>sarvatra hi phalaṃ sādhyatvāt siddharūpaṃ sādhanam apekṣate, na sādhyāntaram |
+nāmārthaś ca siddhatvāt tadapekṣāpūraṇasamarthaḥ, nākhyātārthaḥ |
+<lg>
+<l>svayam eva sādhyatvāt |</l>
+<l>tasmāt dravyādibhiḥ phalam---iti prāpte, sūtreṇottaraṃ dīyate |</l>
+<l>bhāvārthāḥ karmaśabdā ye tebhyo 'pūrvakriyāgatiḥ /</l>
+<l>taiḥ kuryād yajinā svargam eṣa hy artho vidhīyate // 14 //</l>
+</lg></p>
+
+<p>phalasaṃbandho hetur apūrvapratipatteḥ |
+saṃbandhaś cākāṅkṣāpūrvakaḥ |
+sā ca bhāvaśabdebhyaḥ prasarpantī dṛśyate, na dravyaguṇaśabdebhyaḥ |
+tasmād ākhyātebhyaḥ apūrvabhāvanā gamyate |
+tatra ca dhātvarthasya karaṇatvapratipattiḥ, pratyāsatteḥ |
+atas tenaiva phalakaraṇabhūtenānyathānupapattyāpūrvaṃ bhāvyata ity avadhāryate |</p>
+
+<p>%p. 70
+kathaṃ punar yajyādīn pṛthak kṛtya kevalapratyayavācya eva bhāvanārtho labhyate bhāvayet iti. kutaḥ |</p>
+
+<lg>
+<l>abhidadhyuḥ svaśaktyā hi vidhimātraṃ liṅādayaḥ /</l>
+<l>ṇyantasya bhavater arthaḥ kenāṃśenābhidhīyate // 15 //</l>
+</lg>
+
+<p>na ca dhātvantarārthaṃ yajyādayaḥ pratipādayanti, svārthamātravyāpṛtatvāt |
+ataḥ śabdarahitam evedam āropyate bhāvayet iti |
+kiñ ca</p>
+
+<lg>
+<l>śabdāntarasya yo 'py arthaḥ paryāyair abhidhīyate /</l>
+<l>na sa tenaiva sahitas tasminn arthe prayujyate // 16 //</l>
+</lg>
+
+<p>tad yathā pikam ānaya ity ukte yo nāmārthaṃ na pratipadyate, tasmai kokilaśabdam eva kevalaṃ prayuñjate, na kokilaḥ pikaḥ iti, tathātra yady ākhyātasya karotir ṇyanto vā bhavatiḥ paryāyaḥ, tatas tadarthakathane tanmātram eva prayoktavyam, nākhyātapratyayo 'pi |
+na hi tadānīṃ vivicya jñāyate---kenāṃśena kriyā pratyāyyate---iti |
+atra tu bhāvayet kuryāt iti vā punar api liṅ prayujyate eva |
+ataś ca yo 'nena yajateḥ pareṇārthaḥ pratipāditaḥ, asau bhāvayater api pareṇa tenaivety adhikāvāpa eva bhāvayatiḥ |
+tasmād avaidika iti |
+atrābhidhīyate |
+sarvatraiva tāvat</p>
+
+<lg>
+<l>siddhakartṛkriyāvāciny ākhyātapratyaye sati /</l>
+<l>sāmānādhikaraṇyena karotyartho 'vagamyate // 17 //</l>
+</lg>
+
+<p>iha kebhyaścid dhātubhyaḥ parā tiṅvibhaktir uccāryamāṇā kartrātmalābhamātram eva vyāpāraṃ pratipādayati |
+yathāstibhavatividyatibhyaḥ |
+aparebhyas tu siddhe kartari anyātmalā-
+%p. 71
+bhaviṣayavyāpārapratītiḥ |
+yathā yajati dadāti paṭhati gacchati iti |
+dravyam eva ca viśīṣṭaśaktyupetaṃ pracalitātmatattvaṃ viprakīrṇasvabhāvaṃ pūrvāparībhūtaṃ prathamāvasthātaḥ pracyutaṃ parām avasthām aprāptaṃ vyāpāraśabdavācyaṃ bhavati |</p>
+
+<p>tatra kadācit kartaivaivamavasthaḥ pratīyate |
+kadācit siddhe kartary anyaḥ |
+tad yadā kartur evaiṣāvasthā bhavati, tadāsau svayam evānyasmād ātmalābham apekṣamāṇaḥ paraniṣpattāv avyāpriyamāṇatvān na karotiśabdavācyatāṃ bhajate |</p>
+
+<p>yadā tu labdhātmako 'nyatra vyāpriyate, tadā karoti ity evam apadiśyate |
+tathā ca kiṃ karoti paṭhati gacchati iti sāmānyaviśeṣarūpeṇa sāmānādhikaraṇyaprayogo dṛśyate |
+na tu kiṃ karoti bhavati asti veti prayujyate |
+tasmāl labdhātmakakartṛvyāpāravacanāni karotyarthavanty ākhyātāni |
+tatra ca kriyamāṇena kenacid avaśyaṃ bhavitavyam |
+kutaḥ |</p>
+
+<lg>
+<l>karotiḥ kriyamāṇena na kaścit karmaṇā vinā /</l>
+<l>bhavatyarthasya kartā ca karoteḥ karma jāyate // 18 //</l>
+</lg>
+
+<p>karoter nityaṃ sakarmakatvād yāvat kriyamāṇaṃ na labhyate, na tāvad arthaḥ paryavasyati |
+sarvakārakāṇāṃ cāvāntarakriyāsu kartṛtvaṃ pratipādyamānānāṃ pradhānakriyāsu karmādi-
+%p. 72
+vibhāgo jāyate |
+pratikriyaṃ ca yogyatābhedād avāntarakriyāvaicitryaṃ bhavati |
+tatrānvayavyatirekābhyām idam avagataṃ bhavatikriyāyāḥ kartā karoteḥ karma saṃpadyate iti |
+tathā hi</p>
+
+<lg>
+<l>nityaṃ na bhavanaṃ yasya yasya vā nityabhūtatā /</l>
+<l>na tasya kriyamāṇatvaṃ khapuṣpākāśayor iva // 19 //</l>
+</lg>
+
+<p>ya eva hi pravṛttabhavanaḥ saṃbhāvitabhavano vānyena prayujyate, sa eva kriyamāṇatvenāvadhāryate, nānyaḥ |
+tathā ca na kaścit khapuṣpam ākāśaṃ vā kurvann upalabhyate |
+yatrāpi pādau kuru ityādiṣu niṣpannānāṃ karmaprayogo dṛśyate, tatrāpy aniṣpannasaṃskārādivivakṣayā pādādiśabdaprayogād avyabhicāraḥ |
+saty api ca karoter anekārthatve sarvatra gandhanāvakṣepaṇādau kiñcid anutpannotpādanasāmānyam avagamyate |</p>
+
+<p>atha vā yadāsyotpādanābhidhāyitvam, tadaiva viśiṣṭākhyātasāmānādhikaraṇyaṃ dṛṣṭam iti tadgatasyotpādyamānam eva karma bhavatīty upapannam |
+tena bhavatikriyā tāval labdhā |
+tataś ca</p>
+
+<lg>
+<l>karotyarthasya yaḥ kartā bhavituḥ sa prayojakaḥ /</l>
+<l>bhavitā tam apekṣyātha prayojyatvaṃ prapadyate // 20 //</l>
+</lg>
+
+<p>%p. 73
+bhavatikarotyoḥ śaktibhedād viklidipacatyor iva niyataṃ prayojyaprayojakavyāpāravacanatvam |
+tatra ca (1) kadācid abhidhīyamānakarmaśaktyākṣiptaprayojyavyāpāro vā svayam evākṣiptaprayojyavyāpāro vā kevalaṃ prayojakavyāpāra eva vivakṣyate kaṭaṃ karoti odanaṃ pacati iti |
+(2) kadācid ākṣiptaprayojakavyāpāraṃ prayojyavyāpāramātram ghaṭo bhavati viklidyanti taṇḍulāḥ iti |
+(3) kadācid ubhau bhinnau samuccitya prayogaḥ karoti kaṭaṃ devadattaḥ, sa ca bhavati iti |
+(4) kadācid upasarjanībhūtaprayojakavyāpāraḥ prayojyavyāpāraḥ kriyate devadattena iti, svayam eveti vā prayoge |
+(5) kadācit punaḥ samānapadaikadeśopāttopasarjanībhūtaprayojyakriyaḥ prayojakavyāpāro vivakṣyate, tadā ca karotipacatyos tādātmyenāśakter arprayogāt, bhūviklidyoś ca kevalaprayojyakriyāniṣṭhatvān na sākṣāt pravartituṃ śaktir astīti vācakatvena dyotakatvena vā ṇicparaḥ prayujyate bhāvayati vikledayati iti ca |
+tathā cāha---</p>
+
+<lg>
+<l>prayojyakartṛkaikāntavyāpārapratipādakāḥ /</l>
+<l>ṇyantā eva prayujyante tatprayojakakarmasu // 21 //</l>
+</lg>
+
+<p>na ca teṣām aṇyantānām aśaktir ity anyeṣām aśaktyā bhavitavyam, anyeṣāṃ vā śaktir ity eṣām api tathā bhavitavyam |
+kutaḥ |</p>
+
+<lg>
+<l>śaktayaḥ sarvabhāvānāṃ nānuyojyāḥ svabhāvataḥ /</l>
+<l>tena nānā vadanty arthān prakṛtipratyayādayaḥ // 22 //</l>
+</lg>
+
+<p>%p. 74
+evaṃ karotyarthadvāreṇa sarvākhyāteṣu bhāvayatyarthaḥ siddhaḥ |</p>
+
+<lg>
+<l>tena bhūtiṣu kartṛtvaṃ pratipannasya vastunaḥ /</l>
+<l>prayojakakriyām āhur bhāvanāṃ bhāvanāvidaḥ // 23 //</l>
+</lg>
+
+<p>yat tūktaṃ na vidhivyatiriktaṃ liṅādayo 'rthaṃ vadantīti, tad ayuktam |
+kutaḥ |</p>
+
+<lg>
+<l>abhidhābhāvanām āhur anyām eva liṅādayaḥ /</l>
+<l>arthātmabhāvanā tv anyā sarvākhyāteṣu gamyate // 24 //</l>
+</lg>
+
+<p>yadā hi sarvākhyātānuvartinī karotidhātuvācyā puruṣavyāpārarūpā bhāvanāvagatā bhavati, tadā tadviśeṣāḥ sāmānyākhyātavyatiriktaśabdaviśeṣavācyā vidhipratiṣedhabhūtabhaviṣyadvartamānādayaḥ pratīyante |
+tathā ca sarvatra sāmānyataḥ karotyartho 'vagamyate, kiṃ karoti? pacati, kim akārṣīt? apākṣīt, kiṃ kariṣyati? pakṣyati, kiṃ kuryāt? pacet, kiṃ na kuryāt? na pacet iti |
+tatrārthātmikāyāṃ bhāvanāyāṃ liṅādiśabdānāṃ yaḥ puruṣaṃ prati prayojakavyāpāraḥ, sā dvitīyā śabdadharmo 'bhidhātmikā bhāvanā vi-
+%p. 75
+dhir ity ucyate |
+viśeṣataś ceyam arthavādādhikaraṇe varṇitā |
+yat tu paryāyasthityatilaṅghanaṃ pratyayāparityāgād abhihitam, tatrocyate---</p>
+
+<lg>
+<l>kevalasyāprayogitvāt kartṛsaṃkhyādisaṃgrahāt /</l>
+<l>rūpāvināśasiddheś ca pratyayo 'pi prayujyate // 25 //</l>
+</lg>
+
+<p>yadi hi kevalaḥ karotir bhāvayatir vā prayogārhau syātām, tataḥ kokilaśabdaprayoge pikaśabdavat pratyayo na prayujyeta |
+na tu kevalāyāḥ prakṛteḥ prayogaḥ |
+apabhraṃśatvaprasaṅgāt |
+tena yasmin kasmiṃścit pratyaye prayoktavye yasyaivārthaḥ kathyate, sa evānuvādabhūtaḥ prakṛtyanugrahārthaṃ prayujyate, nānyaḥ |
+abhyadhikārthāntarāpattiprasaṅgāt |</p>
+
+<p>nanu ca ikśtipau dhātunirdeśe vihitāu, atas tadyuktau karotibhāvayatī prayjyeyātām |
+naitad asti |
+tathā sati śabdapadārthakatvān naiva tābhyām ākhyātārthaḥ kathyeta |</p>
+
+<p>yat tu kvacid arthe 'pi dhātum ikśtibantaṃ prayuñjate yajiḥ yajatiḥ iti, tac chabde 'bhihite lakṣaṇayārthapratītir ity avagantavyaṃ |
+na ceha kiṃcil lakṣa-
+%p. 76
+ṇāśrayaṇe prayojanam asti yenāvācakaḥ prayujyeta |
+tatrānyad evāniṣṭam āpadyeta kṛñbhuvau dhātū tiṅābhidhīyete iti |
+tasmād arthaparatvasiddhyartham ākhyātapratyayasahitāv eva prayujyete |</p>
+
+<p>yadi ca bhāvanaivaikā pratyayārthaḥ syāt karotibhāvayatī vā samastapratyayārthopādānasamarthau bhavetām, tataḥ kevalaprayogo 'py āśaṅkyeta, na tu tad ubhayam apy astīti karotibhāvayatibhyāṃ kathite 'pi bhāvanārthe kartṛsaṃkhyādipratyāyanārthaṃ punaḥ pratyaya uccāryate |
+yas tu tatra bhāvanābhidhānāṃśaḥ sa prāptatvād anūdyate. anyathā hi bhāvanaivaikā pratyayārthaḥ karotibhāvayatī vā kartṛsaṃkhyādīnām apy abhidhāyakāv iti bhrāntiḥ syāt |</p>
+
+<p>nityaṃ ca pūrvāparībhūtā bhāvanākhyātenocyate |
+tatra yadi pratyayāntaraṃ prayujyeta, tataḥ karotibhāvayatibhyāṃ dravyavad upasaṃhṛtarūpocyamānā naivākhyātasadṛśī kathyeta |
+tasmād avaśyaṃ tiṅ api prayoktavya iti |</p>
+
+<p>%p. 77
+kiñ ca---</p>
+
+<lg>
+<l>bhāvanā gamyamānā ca dhātupratyayasaṃnidhau /</l>
+<l>kasya vācyeti vispaṣṭaṃ na kadācit pratīyate // 26 //</l>
+</lg>
+
+<p>yadi hy ekāntenāsyāḥ pratyayārthatvam avadhāryeta, tataḥ karotibhāvayatibhyāṃ pratyayapaunaruktyāśaṅkā syān, na tu tad asti |
+ubhayasannidhau gamyamānatvāt |
+kevalaprakṛtipratyayaprayogābhāvād dhi na viveko vijñāyate |
+śakyate hi vaktuṃ dhātusahitena pratyayenocyata iti,
+atha vā pratyayānugṛhītena dhātunā, atha vobhābhyām |
+na ca śaktikalpanāyāṃ viśeṣaḥ |
+sarvathārthāpattisāmyāt |
+na ca vivekajñānaprayojanam asti |</p>
+
+<p>syād etat |
+kṛdantād dhātor apratītes tiṅvyabhicāriṇy eva bhāvaneti |
+tad ayuktam |
+astibhavatividyatipareṣu pratyayeṣv apy adarśanāt |
+na ca kṛdanteṣv apy atyantaṃ bhāvanā nāsti |
+kiṃcid apakṛṣyamāṇarūparpatīteḥ |
+(1) kṛtyeṣu tāvad bhoktavyam yaṣṭavyam iti kiṃcin nyūnākhyātād gamyate |
+tatrāpi karmotpanneṣu dravyaprādhānyād brāhmaṇo na hantavyaḥ iti bhāvotpannebhyo nyūnatarā |
+na hi tatra prayojakavyāpāraprādhānyam |
+ekatra dhātvarthaprādhānyāt, aparatra svavyāpāraviśiṣṭaprayojyaparatvāt |
+etena bhāvakarmotpannalakārās tiṅo 'pi vyākhyātāḥ |
+teṣv api hi prayojakavyāpāraguṇatvapratītir aviśiṣṭā |
+ato na tiṅantānāṃ tulyakalpatvam |
+%p. 78
+(2) tathā avyayakṛto bhāve bhavanti iti smaraṇāviśeṣe 'pi svasaṃvedyam īṣannyūnabhāvanāvijñānam |
+abhikrāmaṃ juhoti, darbhataruṇakenopaghātaṃ juhoti, abhiṣutya hutvā bhakṣayanti, purā vācaḥ pravaditoḥ iti sarvatra śrutyaiva bhāvanāntarasāpekṣā bhāvanāvagamyate |
+(3) pakvaḥ pakvavān ity api nirvṛttarūpabhāvanopasarjanadravyapratītiḥ pratyakṣā |
+(4) evaṃ pācakādiṣv api draṣṭavyam |
+tathā ca sarvatra kārakāpekṣā dṛśyate |
+anyathā hi rūḍhitaddhitasamāseṣv iveyaṃ na syāt |
+na ca nirvyāpārāṇām ete vyapadeśā bhavanti |
+na cāsti sa vyāpāro yatra kiṃcid asan na janyate |
+tataś ca siddhaḥ karotibhāvayatyor arthaḥ |</p>
+
+<p>śakyate ca sarvatra sāmānādhikaraṇyam api darśayituṃ vināpi pūrvāparībhūtatvena |
+tad yathā kiṃ kartavyaṃ? paktavyam, kathaṃkāraṃ juhoti? abhikrāmam, kiṃ kṛtvā juhoti? abhiṣutya, kiṃ kṛtavān? pakvavān, kiṃ
+%p. 79
+kṛtam? pakvaṃ, kiṃkriyo devadattaḥ? paktā, keyaṃ kriyā? pākaḥ iti |
+na ca karotisāmānādhikaraṇyātiriktam ākhyāteṣv api bhāvanāpramāṇaṃ vidyate |
+tasmād dhātavo 'pi bhāvanāṃ na muñcanti |
+tathā cāhuḥ karotir artheṣv iva sarvadhātūn iti |
+yat tv asyāḥ prādhānyaṃ tat kāmaṃ tiṅābhidheyaṃ dyotyaṃ vānvayavyatirekābhyām astu, na svarūpam |</p>
+
+<p>nanv evam api yāgena iti dhātvarthe niṣkṛṣṭe tenaiva bhāvanāpy upātteti bhāvayet iti punaḥ prayogo na prāpnoti |
+naiṣa doṣaḥ |
+tathā hi dvyarthasya dhātor bhedenārthe kathyamāne yāgena iti viśeṣarūpaṃ karaṇātmanā niṣkṛṣṭam |
+itarat tu bhāvanātmakaṃ sāmānyarūpaṃ śabdāntareṇa bhāvayet ity anena kathyate |</p>
+
+<p>atha vā kecit karaṇāṃśakartṛsaṃkhyādayaḥ prakṛtipratyayayor bhedena vācyāḥ |
+bhāvanā tu samudāyāvyabhicārāt samucitayor evārtha ity api śakyaṃ vaktum |
+tathā ca sūtrakārabhāṣyakārābhyāṃ bhāvārthāḥ karmaśabdāḥ iti sāmānādhikaraṇyam evāśritam, na bhāvārthatvena pratyayāḥ kathitāḥ |
+śāstre tu sarvatra pratyayārtho bhāvaneti vyavahāraḥ |
+tatrāyam abhiprāyaḥ |</p>
+
+<lg>
+<l>%p. 80</l>
+<l>pratyayārthaṃ saha brūtaḥ prakṛtipratyayau sadā /</l>
+<l>prādhānyād bhāvanā tena pratyayārtho 'vadhāryate // 27 //</l>
+</lg>
+
+<p>yady apy anyad vivekakāraṇaṃ nāsti, tathāpi prādhānyaṃ pratyayārthadharmaṃ dṛṣṭvā nūnam iyaṃ pratyayārthaḥ ity avagamyate |</p>
+
+<lg>
+<l>tathā kramavator nityaṃ prakṛtipratyayāśayoḥ /</l>
+<l>pratyayaśrutivelāyāṃ bhāvanātmāvagamyate // 28 //</l>
+</lg>
+
+<p>na kevalam etāv evānvayavyatirekau yau parasparaparityāgena lakṣyete |
+tasminn eva hi pade tadāgame hi tad dṛśyate ity anena nyāyena viveko 'vadhāryate |</p>
+
+<p>yat tv astyādiparaḥ pratyayo 'pi bhāvanāṃ jahātīti tulyaṃ dhātusamudāyapakṣayor apy etat |
+sarvathā yatra pratīyate, tatra tāvat pratyayārthatvaṃ niścīyate |
+anyatra tv ayaṃ vicāra eva nāsti |
+kvacid vyabhicārasya cottaram uktaṃ tadbhūtādhikaraṇe |
+atha vā naivātrāpi vyabhicāraḥ |
+kutaḥ |</p>
+
+<lg>
+<l>astyādāv api kartraṃśe bhāvye 'sty eva hi bhāvanā /</l>
+<l>%p. 81</l>
+<l>anyatrāśeṣabhāvāt tu na tathā sā prakāśate // 29 //</l>
+</lg>
+
+<p>yady api kartur aniṣpannatvād vyatiriktabhāvayitavyābhāvād astyādiṣu prayojakavyāpāro nātīva lakṣyate, tathāpi pratyayasāmarthyāt tāvat bhāvayati ity avagamyate |
+kim? ity apekṣite cāniṣpanne kartari anyat kiṃcit ity akalpanād ātmānam ity eva saṃbadhayte |
+kena? bhāvanena, katham? avayavajananādirpakāreṇa iti |
+trayo 'pi tatra bhāvanāṃśā bhavanenaiva pūryante. vyāpārāntarāsaṃbhavāt |
+tatra kecid avayavā bhavanavyāprtāḥ prayujyante, kecit siddhabhavanāḥ prayojakāḥ |
+siddhabhavanāsiddhabhavanavarti ca sāmānyam ubhayasaṃparkād bhāvanety ucyate |
+etena jāyate niṣpadyate sidhyati ityādīni vyākhyātāni |</p>
+
+<p>astiḥ punar janisamānārthād bhavater uparitanīm avasthām abhilapan sattayātmabhavanaṃ bhavad bhāvayatīty evam ākhyātapratyayaṃ labhate |
+tatrāpi tu kālakṛtabhedapūrvottarasāmānyasattārūpeṇa pūrvavad eva prayojyaprayojakavyāpārakalpanānusartavyā |</p>
+
+<p>satyām api tv evamādiṣu bhāvanāyāṃ niṣpannacetanakartṛviṣayatvād vidhipratiṣedhayor asaṃbhavaḥ |
+syād etat |
+dṛṣṭo vidhir api tasmāt prāyaṇīyasyāhna ṛtvijā bhavi-
+%p. 82
+tavyam, rathaṃtaraṃ bhavati, atrādhvaryuḥ syāt, ihokthyāni syuḥ iti |
+satyaṃ dṛśyate, na tv iha pūrveṇa tulyo bhavatyarthaḥ |
+siddho hi puruṣaḥ karmasaṃbandhanimittam ṛtviktvaṃ bhavad anyair eva parikrayaṇādibhir vyāpārair bhāvayed ity ucyate |
+tathā rathaṃtarādiṣu saty api śrutyā bhavanavidhisaṃbandhe tatrāsaṃbhavād anumīyamānā bhāvanaiva vidhīyate |
+yatra tu ihāmuko bhavet iti prayogas tatra bhavates tiṣṭhatyarthavācitvāt saṃbhavaty eva vyatiriktaṃ bhāvayitavyam ity evaṃ vijñāyate sthānenānyat kiṃcid bhāvayet iti |</p>
+
+<p>tena bhūtabhaviṣyadvartamānāpadeśamātreṣv evāpāramārthikaṃ bhavitṛvyāpārasya bhāvanātvam, na vidhyādiṣu |
+bhūtādikathane 'pi yadā samastaṃ vyāpāraṃ dhātur evopādatte nāvayavakālādikṛtabhedāśrayaṇam, tadā vispaṣṭād virodhād dhātvarthamātram |
+kartṛsaṃkhyādayaś cākhyātapadārthatvenāvadhāryante, na bhāvanā |
+na ca bhāvanāvyabhicāreṇa doṣa ity uktam |</p>
+
+<p>yat tu kṛdanteṣv api dhātavo bhāvanāṃ na vyabhicarantīti |
+satyaṃ dhātvarthā na vyabhicaranti |
+tair eva tu gamyamānatvād anabhidheyatvam api śakyaṃ vaktum |
+tathā hi</p>
+
+<lg>
+<l>dhātvarthakārakair eva guṇabhūto 'vagamyate /</l>
+<l>%p. 83</l>
+<l>bhāvanātmā kṛdanteṣu tasmān naivābhidhīyate // 30 //</l>
+</lg>
+
+<p>yathaiva bhāvapradhānatvād ākhyāte tatsambandhād eva guṇabhūtakārakarpratītishiddher na kartṛkarmaṇor abhidhānaṃ bhaviṣyati, evaṃ kartrādyabhidhānād eva tadanyathānupapattyā bhāvanāsiddher anabhidhānam |
+gamyamānāpekṣayaiva ca karotisāmānādhikaraṇyam, yathā pacatiśabdasya devadattaśabdena |
+tathābhūtayaiva ca kārakasambandho 'py upapatsyate |</p>
+
+<p>atha vā bhāvanopasarjanadhātvarthaniṣpattyarthatvāt kārakāṇāṃ dhātvarthenaiva saṃbandhasiddhiḥ |
+sa eva hi tāni svasiddhyartham apekṣate |
+bhāvanāpi ca tathābhūtāny eva tāni gṛhṇātīty aviruddhaḥ sambandhaḥ |
+kṛtyānāṃ tu praiṣavācitvāt saty api bhāvanānabhidhāne tāvat svārthaparyavasānaṃ nāsti yāvad aṃśatrayaparipūrṇā bhāvanā na labdhā |
+kutaḥ |</p>
+
+<lg>
+<l>svavyāpāre hi puruṣaḥ kartṛtvena niyujyate /</l>
+<l>praiṣais tasya ca kiṃ karma bhāvanāṃśatrayātmikā // 31 //</l>
+</lg>
+
+<p>na hi puruṣaḥ svavyāpāraṃ muktvānyad anuṣṭhātuṃ śaktaḥ |
+praiṣāś cainam anuṣṭhāpayanti |
+te yadi tadvyāpāraṃ kathaṃcin nopādadyuḥ, na niyokutṃ śaknuyur ity evam api bhāvanākṣepasiddhiḥ |
+yāvāṃś ca brāhmaṇagataḥ praiṣaḥ sa sarvaḥ prāptyabhāvād vidhir eva bhavatīti vināpi smaraṇena
+% p. 84
+kṛtyānāṃ vidhāyaktvam |
+ayam eva ca vidhipraiṣayor viśeṣaḥ |</p>
+
+<lg>
+<l>pravartanasmṛtiḥ prāpte praiṣa ity abhidhīyate /</l>
+<l>aprāptapraiṣaṇaṃ sarvaṃ vidhitvaṃ pratipadyate // 32 //</l>
+</lg>
+
+<p>tasmāt pratyayārtho bhāvanety upapannam |</p>
+
+<p>%p. 85
+nanu ca yadi prayojakavyāpāro bhāvaneṣyate, tataḥ pacāv adhiśrayaṇādīni, yajau ca mānasaḥ saṃkalpa ityādīnāṃ bhāvanātvam, ta eva ca dhātvarthā iti dhātuvācyaiva bhāvanā syāt |
+naiṣa doṣaḥ |</p>
+
+<lg>
+<l>dhātvarthavyatirekeṇa yady apy eṣā na lakṣyate /</l>
+<l>tathāpi sarvasāmānyarūpeṇānyāvagamyate // 33 //</l>
+</lg>
+
+<p>sarvatra hy adhiśrayaṇādau karotīty api sāmānyavyāpārāṃśaḥ pratīyate |
+pacatyādivācyā viklittyadhiśrayaṇādayaḥ karmasthāḥ kartṛsthāś ca |
+tatra yadaudāsīnyapracyutimātreṇa parispandarūpaṃ nirūpyate sā bhāvanā |
+ye tu tadanurañjanasamarthāḥ kartṛkarmagatā viśeṣās te tasyā eva karaṇetikartavyatāṃśayor niviśante |
+evaṃ tarhi dhātvarthasāmānyaṃ bhāvanety etad āpannam |
+satyaṃ sādhyatayā sāmānyam, na tu gotvādirūpeṇa |
+katham |</p>
+
+<lg>
+<l>anyad eva hi yāgādau sāmānyaṃ karaṇātmakam /</l>
+<l>anyac ca bhāvanā nāma sādhyatvena vyavasthitam // 34 //</l>
+</lg>
+
+<p>bhāvanāyāṃ hi svayam eva pratipuruṣaṃ sāmānyaviśeṣau bhavataḥ |
+tathā tatkaraṇabhūte yāgādau samavetaṃ bhāvanākaraṇāṃśāpekṣitaṃ dhātvarthasāmānyaṃ nāma yat karmaśabdenābhi-
+%p. 86
+dhīyate |
+viśeṣaṇabhāvāc ca yāgādayo bhāvanāviśeṣā ity ucyante, na tadvyaktitvena |
+śāstrapradeśe tu kriyākarmaśabdau kadācid dhātvarthe prayjyete, kadācid bhāvanāyām, kadācit tu pratyāsattyobhayatrāpi prayogaḥ, na svarūpābhidhānena |
+kutaḥ |</p>
+
+<lg>
+<l>yādṛśī bhāvanākhyāte dhātvarthaś cāpi yādṛśaḥ /</l>
+<l>nāsau tenaiva rūpeṇa kathyate 'nyaiḥ padaiḥ kvacit // 35 //</l>
+</lg>
+
+<p>bhāvanāśabdo hi niṣpannātmikāṃ sattvarūpāpannāṃ liṅgasaṃkhyāyoginīm abhidhatte |
+na cāsāv ākhyāte tādṛśy abhidhīyate |
+liṅgasaṃkhyārahitarūpeṇa gamyamānatvāt |
+evaṃ dhātvartho 'pi veditavyaḥ |
+tathā karoti bhāvayati ity etābhyām api śrutyā tāvad anyādṛg evārthaḥ pratīyate kṛñbhāvayatyarthakaraṇikā bhāvanā |
+na caivaṃrūpāsau yajeta ityādiṣv astīty aparyāyatvam |
+tatrānantarapratyayotthāpitabhāvanāntarabuddhim avivakṣitvārthasaṃvādaḥ kartavyaḥ |
+tenādūraviprakaraṣamātreṇaiṣa prayogaḥ, nārthasāmyena---ity avasthitam ananyaśabdavācyatvaṃ bhāvanāyāḥ |</p>
+
+<p>%p. 87
+sā tu pratītamātraiva prādhānyād apekṣāntarānadhīnatvāc ca prathamaṃ tāvat sādhyāṃśam apekṣate bhāvayet kim? iti |
+tatra yāvatī vidhyupetā bhāvanā tasyāṃ pūrvapratītam api vidhitvaṃ tāvan nāśrīyate, yāvad aṃśatrayapūrṇā bhāvanānuṣṭhānayogyā na bhavati |
+vidhitvaprakramāc ca prathamam evaitaj jñāyate---yādṛśair aṃśaiḥ pūrṇeyaṃ vidhānam arhati tādṛśaiḥ pūrayitavyā---iti |
+na ca buddhipūrvakārī puruṣaḥ puruṣārtharahitaṃ vyāpāraṃ vacanaśatenāpy ukto 'nutiṣṭhati |
+na ca puruṣārthaḥ sādhyavyatiriktāṃśapātitvena kaiścit prārthyate |
+tato 'bhyarhitatarasyānyasya sādhyasyāvidhyamānatvāt |
+tatra yady asyāṃ bhāvanāyām apuruṣārthaḥ sādhyaḥ syāt, tataḥ puruṣeṣv apravartamāneṣu pratyayasya prayojakaśaktir bādhyeta |
+tena yady api samānapadopādānapratyāsatter dhātvarthaḥ sādhyāṃśapūraṇāyopaplavate, tathāpy ayogyatvān nirākriyate |
+na hi pratyāsattir evaikā saṃbandhakāraṇam, yogyatvādy api. tathā ca vakṣyati yasya yenārthasambandhaḥ iti |
+kiñ ca---</p>
+
+<lg>
+<l>saṃbandhamātram uktaṃ ca śrutyā dhātvarthabhāvayoḥ /</l>
+<l>tad ekāṃśaniveśe tu vyāpāro 'syā na vidyate // 36 //</l>
+</lg>
+
+<p>saṃbandhamātraṃ kṛtvā nivṛttavyāpārāyāṃ śrutāv anyatarāṃśaniveśo yogyatvād āśrayitavyaḥ |
+tad yadi sādhyāṃśād ekapratyayopāttena pratyāsannatareṇa vidhitvena pracyāvyate,
+%p. 88
+tato 'ṃśāntareṇa nūnaṃ saṃbhaṃtsyata ity evaṃ patīkṣyate |
+kiñ ca</p>
+
+<lg>
+<l>sādhyāṃśe purrṣāṇāṃ ca pratyayo na niyojakaḥ /</l>
+<l>svayam eva hi jānanti kartavyaṃ puruṣāḥ sadā // 37 //</l>
+</lg>
+
+<p>yatra hi śāstrādhīnā puruṣapravṛttiḥ, tatra tatsannikarṣaviprakarṣāv apekṣyete |
+sādhyaṃ punaḥ svargapaśuputragrāmādi prāg eva śāstrāt sarve puruṣāḥ pratipadyante |
+tataś ca bhāvayet kim? ity apekṣitamātre vinaiva tāvac chāstreṇaitāvad avagatam puruṣārthaḥ kaścit iti |
+tatra viśeṣamātream anavagatatvād apekṣyate |
+tad api ca na sādhyātmanā, kiṃ tarhi, etadbhāvanāviṣayatvena |
+tataś ca dūrasthasyāpi svargāder eva kṛtāspadasya saṃgatiḥ |
+dhātvarthasambandhas tv anapekṣitaḥ kriyeta |
+vidhyānarthakyāc ca bādhyetatarāṃ śrutiḥ |
+kiñ ca</p>
+
+<lg>
+<l>bhavane yasya kartṛtvaṃ kathaṃcid avadhāritam /</l>
+<l>svavākye vānyavākye vā sa sādhyatvaṃ prapadyate // 38 //</l>
+</lg>
+
+<p>na cātra dhātvarthāder bhavanakriyāsaṃbandho 'vagataḥ |
+svargādīnāṃ tu kāmaśabdopabandhād bhavanasaṃbandho vijñāyate. kutaḥ |</p>
+
+<lg>
+<l>svargo me syād itītthaṃ hi svargādiḥ prārthyate bhavan /</l>
+<l>tenāsau bhāvanāpekṣaḥ prayojyatvena gamyate // 39 //</l>
+</lg>
+
+<p>tato 'vadhṛtasvargādisādhyāṃśā bhāvanā kena bhāvayet? ity evaṃ karaṇam apekṣa-
+%p. 89
+te |
+tatra śāstrādhīnarpavṛttitvāt tatsannikarṣādāv āśrīyamāṇe (1) pramāṇāntarāc ca yogyāyogyatvayor ajñānāt, (2) vidhyavirodhāc cātyantapratyāsattyupasthitadhātvarthātikramakāraṇābhāvāt, (3) sarvaphalabhāvanānāṃ ca kenacid dhātvarthaviśeṣeṇa vinānupapatteḥ yāgena ity evaṃ vijñāyate |
+yady api ca yāgaḥ svayam eva tāvad aniṣpannaḥ, tathāpi svasādhananiṣpāditaḥ san sādhayiṣyati |
+sarvam eva ca kadācin niṣpannaṃ kadācid aniṣpannam |
+na ca prāk śāstrapravṛtter niṣpattiḥ kvacid upayujyate |
+phalasiddhikālamātropayogitvāt karaṇaniṣpatteḥ |
+pramāṇavaśāc ca trikālavartinām api sādhanatvāvirodhaḥ |
+tasmād yāgādīnāṃ karaṇatvam |
+tac cāpūrvadvāreṇeti tacchabdebhyo 'pūrvapratītiḥ |
+tataś caivam api sūtrārthaḥ saṃbhavati---ye bhāvārthā bhāvanāprayojanāḥ karmaśabdā yajyādayaḥ, tebhyaḥ kriyā pratīyeta---iti |
+nanu coktena karmakaraṇasambandhanyāyena sakarmakadhātuyuktād evākhyātād bhāvanāvagatiḥ prāpnoti |
+tathā hi</p>
+
+<lg>
+<l>yenepsitatamair bhāvaiḥ kim ity aṃśo 'varudhyate /</l>
+<l>tadyogī tena dhātvartho na kaścit syād akarmakaḥ // 40 //</l>
+</lg>
+
+<p>yadi vā sarvadhātūnāṃ sakarmakatvāpattiḥ, atha vākarmakebhyo bhāvanayā na bhavitavyam |
+naiṣa doṣaḥ |
+kutaḥ |</p>
+
+<lg>
+<l>anyad eva hi dhātvarthprāpyaṃ karma sakarmake /</l>
+<l>%p. 90</l>
+<l>anyad eva ca sarvatra pratyayārthanibandhanam // 41 //</l>
+</lg>
+
+<p>odanaṃ pacati, grāmaṃ gacchati iti dhātvarthāpavargalabhyam ekaṃ karma, aparaṃ punar bhāvanākarma |
+(1) tatra kadācid dhātvarthakarmaiva bhāvanākarmatvam api pratipadyate pākenaudanaṃ bhāvayati iti |
+(2) kadācit punaḥ svakarmaviśiṣṭadhātvarthayuktā bhāvanā karmāntareṇa yujyate grāmagamanena svārthaṃ bhāvayati, odanapākena ceti |
+tac caitad dhātvarthāt paratas tadavāpyamātratvena gamyamānaṃ dhātvarthāntatirohitam api bhāvanākarmatayā sarvatrāvadhāryate |
+tac ca prāyeṇaivaṃkāmaśabdenaiva saṃbandham āpadyate sukhakāma āsīta, svāsthyakāmaḥ śayīta iti |
+saty api āsiśetyor akarmakatve yaḥ pratyayena karotyartho 'bhihitaḥ, tatkarmatvena svādīny avadhāryante |
+tena (1) karoteḥ sarvadā sakarmakatvāt,
+(2) akarmakākhyātānām api ca tatsāmānādhikaraṇyadarśanāt kiṃ karoti āste, kiṃ karoti śete iti---siddhaivamādiṣv api sakarmikā bhāvanā |</p>
+
+<lg>
+<l>yajer api tu yat karma pūjyatvād devateṣyate /</l>
+<l>tadujjhitvaiva putrādeḥ karmatvaṃ bhāvanāśritam // 42 //</l>
+</lg>
+
+<p>tasmāt sakarmakākarmakayor aviśeṣāt āsanena bhāvayet ity api prayogasiddhiḥ |
+kas tarhi sakarmakākarmakayor bhedaḥ |
+ucyate |</p>
+
+<lg>
+<l>sākṣād avyabhicāreṇa dhātvartho yatra karmabhāk /</l>
+<l>sakarmakaḥ sa dhātuḥ syāt pāraṃparye tv akarmakaḥ // 43 //</l>
+</lg>
+
+<p>%p. 91
+āsanaśayanādīnāṃ hi na niyamenānantaryeṇa vā idam tat iti vā karma nirūpyate, tenākarmakā abhidhīyante |
+pacigamyādīnāṃ tu viklidyattatsaṃyujyamānasākṣātsaṃbandhikarmāvyabhicārāt sakarmakatvam |
+na tu bhāvanāviśeṣaṇatve kaścid viśeṣaḥ |</p>
+
+<p>seyaṃ bhāvanāṃśadvayaparipūrṇā satī sarvakaraṇānām upāyānanugṛhītānāṃ karaṇatvānupapatteḥ kathaṃ bhāvayet itītikartavyatām apekṣate |
+sā ca pratyakṣādīnām anugrāhakadarśanaśaktyabhāvād atyantaśāstragamyeti yathāsannikarṣaṃ tadasaṃbhavāc ca yathā kathaṃcid upasthāpyamānā śāstrānusāreṇa śrutyādyupadeśena codanāsāmānyādyatideśena vātyantādṛṣṭopakāradvāreṇānyathānupapattyā kalpyate |
+tataḥ paripūrṇatvād anuṣṭhātuṃ yogyeti vidhīyate |
+tadvidhānāc cārthāpattyā yāgādividhānam---ity upapannaṃ bhāvārthasūtram |</p>
+
+<p>%p. 92
+bhavanti kecit karmaśabdāḥ---yāgaḥ yajanam ijyā ity udāhartavye tatsāmānādhikaraṇyasiddhaśyenaikatrikādyudāharaṇaṃ yāgādikaraṇatvacodanottarakālabhāvikarmaśabdatvena pāratantryāt sujñānam |
+svatantrāṇāṃ kathaṃcid api bhāvārthatvāśaṅkāsaṃbhavāt |
+yāgādayo hi svātantryeṇāpi kadācid anumānād bhāvārthāśaṅkāviṣayāḥ syur iti |</p>
+
+<p>kecid bhāvārthā na karmaśabdāḥ---yathā bhāvayet kuryāt iti codāharaṇam |
+bhūtyādayas tu prayojyavyāpāravacanatvān naiva yathāvarṇitabhāvārthā ity anudāharaṇam |
+tatra yathā kathaṃciṇ ṇijantavyutpattyā bhāvaśabda eko nīyeta, netarau |
+tāv api tu prayojyavyāpārāṃśena kathaṃcid bhāvārthāv ity udāhṛtau |
+atha vā dvitīyasūtrārthavyākhyānena bhāvanāprayojanatvam aṃśavācitvenāstīti vināpi sakalārthābhidhānād bhavanti bhāvārthāḥ |</p>
+
+<p>kathaṃ punar amī na karmaśabdāḥ, yadā dhātumātraṃ karmaśabdatvenoktam |
+nirviśeṣasya sāmānyasyānuṣṭhātum aśakyatvād akarmaśabdatvam |
+ato viśeṣavācinām eva dhātūnāṃ karmaśabdatvāśrayaṇād acodyam etat |</p>
+
+<p>%p. 93
+yadi hi śyenacitrādarśapaurṇamāsaśabdāḥ phalaiḥ saṃbadhyeran, tato yāgasya karaṇatvābhāvāt tatsāmānādhikaraṇyanimittanāmadheyatvānupapatteḥ prasiddhyādibhir guṇavidhitvam eva syāt |
+ataḥ sthita etasminn adhikaraṇe ity āha |
+kasmāt punar idaṃ tatraiva na nītam |
+pramāṇalakṣaṇenāsaṃbandhāt |
+atha nāmadheyatvaṃ kasmād atra nānīyate |
+bhedalakṣaṇenāsaṃbandhāt |
+tasmād yathānyāsam eva sthitayor arthāt paurvāparyasiddhiḥ |</p>
+
+<p>na caiṣām arthinā iti phalapadābhiprāyam |
+vivibhaktitvāt iti saṃbandhanimittākhyātavibhaktivigamāt |
+atha vā niṣpannārthābhidhāyisubvibhaktiviśeṣayogo vivibhaktitvam |
+tasmān na dravyādiśabdānāṃ phalasaṃbandha iti |
+āha ca</p>
+
+<lg>
+<l>sādhyasādhanasaṃbandhaḥ sarvadā bhāvanāśrayaḥ /</l>
+<l>tena tasya na siddhiḥ syād bhāvanāpratyayād ṛte // 44 //</l>
+</lg>
+
+</div>
+<div>
+
+<l>sarveṣāṃ bhāvo 'rtha iti cet || Jaim_2,1.2 ||</l>
+
+<lg>
+<l>na tāvat pratyayasyeṣṭam apūrvapratipādanam /</l>
+<l>na ca dhātoḥ svatas tat syān nāmno vā parataḥ samam // 45 //</l>
+</lg>
+
+<p>yadi bhāvanāvacanasyaivāpūrvapratipādakatvam iṣyate dhātor vā pratyayanirapekṣasya, tato nāmapakṣo durbalaḥ syāt, iha tu yathaiva dhātoḥ pratyayasaṃbandhānugṛhītasya bhāvanā-
+%p. 94
+nurañjananimittaṃ karaṇavācitvaṃ bhavati, evaṃ nāmapadasyāpīty aviśeṣaḥ |</p>
+
+</div>
+<div>
+
+<l>yeṣām utpattau sve prayoge rūpopalabdhis tāni nāmāni tasmāt tebhyaḥ parākāṃkṣā bhūtatvāt sve prayoge || Jaim_2,1.3 ||</l>
+
+<p>yad uktam yadaikasmād apūrvaṃ tadetarat tadarthaṃ bhaviṣyati iti tadgataṃ tāvad vastudharmeṇa viśeṣaṃ darśayati |
+katham |</p>
+
+<lg>
+<l>bahvadṛṣṭaprasaṅgād dhi dharmo neṣṭaḥ pade pade /</l>
+<l>nāmnaḥ phalena saṃbandhe parihāro na tasya ca // 46 //</l>
+</lg>
+
+<p>ekasmād adṛṣṭe kalpite yadītarad dṛṣṭārthatvena tādarthyaṃ bhajate tato lāghavaṃ labhyate |
+atha tu tādarthyasiddhaye tato 'pi punar adṛṣṭaṃ kalpyata eva tato varaṃ phalenaiva sarvāṇi saṃbaddhāni |
+na ca saṃbandhavairūpyakleśāśrayaṇam |
+nāmnaś ca phalasaṃbandhe 'vaśyaṃ dhātvarthas tadanugrahārtho 'bhyupagantavyaḥ |
+sa ca svayaṃ niṣpādyaḥ siddharūpasya nāmārthasya na śaknoti dṛṣṭenopakartum |
+na hi nāmārthas tam apekṣate |
+śabdaprayogavelāyām eva niṣpannatayā gamyamānatvāt, apekṣaṇīyasya vā siddhatvenāyogyatvāt |</p>
+
+<p>prayujyate 'smin iti cābhidheya eva prayogaḥ |
+tadādhāraiva hi niṣpannarūpopalabdhiḥ |
+anutpannatve kriyārūpasya vaktavye vināśitvapradarśanaṃ niṣpannasyāpi
+%p. 95
+kṣaṇikatvena punaḥ punar niṣpattyapekṣopapatteḥ |
+tebhyaḥ parākāṅkṣā anyākāṅkṣā niṣpādyatvena vā pradhānākāṅkṣā na vidyata ity adhyāhāraḥ |
+atha vā tebhyaḥ parā dūre ākāṅkṣety arthaḥ |
+kutaḥ |
+bhūtatvāt iti svarūpakathanārtham upanyastaṃ niṣpannatvād eveti punar ante tad eva hetutvenopadiṣṭaṃ sūtrakāreṇa |</p>
+
+</div>
+<div>
+
+<l>yeṣāṃ tūtpattāv arthe sve prayogo na vidyate tāny ākhyātāni tasmāt tebhyaḥ pratīyetāśritatvāt prayogasya || Jaim_2,1.4 ||</l>
+
+<lg>
+<l>ākhyātavartī dhātvarthaḥ sādhyarūpaḥ pratīyate /</l>
+<l>tasmin phalavatīṣṭe tu nāmno dṛṣṭārthateṣyate // 47 //</l>
+</lg>
+
+<p>dhātvarthas tāvat prakṛtyaiva sādhyātmakaḥ |
+viśeṣatas tv ākhyātagatena dhātunocyamānaḥ sa yadi phalasādhanatvena codyate tato 'siddharūpatvāt tasya sādhanākāṅkṣāyāṃ satyāṃ nāmapadaṃ guṇavidhitvena nāmadheyatvena vobhayathāpi dṛṣṭenaiva tādarthyaṃ labhate |
+nanu nāmadheyapakṣe nāmapadam api sādhyārthaṃ bhaviṣyatīti dhātutulyaṃ syāt |
+na |
+tasya phalasaṃbandhe guṇavidhitvena siddhārthatvāt |
+api ca</p>
+
+<lg>
+<l>%p. 96</l>
+<l>sādhyātmako 'pi dhātvartho yadā nāmnābhidhīyate /</l>
+<l>tadā dravyavad evāsau niṣpannātmā pratīyate // 48 //</l>
+</lg>
+
+<p>yady api vastusvarūpeṇa dhātvarthaḥ sādhyaḥ, tathāpi nāmapadenocyamāno liṅgasaṃkhyāyogitvāt siddharūpo 'bhidhīyate |
+abhidhānakṛtā cākāṅkṣotpattir na vastukṛtā |
+tasmād yuktā dhātor evākāṅkṣā na nāmna iti |</p>
+
+<p>kiñ cāśritatvāt prayogasya iti |
+adhunā śabdapratyāsattikṛto viśeṣo 'bhidhīyate |
+puruṣavyāpārātmikāyāṃ hi bhāvanāyāṃ dhātvarthopaśleṣo 'pi puruṣeṇāśritas tadatikramahetvabhāvāc ca na nāmapadagrahaṇam |
+tasmād asti viśeṣaḥ |</p>
+
+  </div>
+</body>
+</text>
+</TEI>

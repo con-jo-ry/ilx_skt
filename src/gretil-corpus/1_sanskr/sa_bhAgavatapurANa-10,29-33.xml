@@ -1,0 +1,1741 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sa_bhAgavatapurANa-10.29-33">
+  <teiHeader xml:lang="en">
+  <fileDesc>
+  <titleStmt>
+	<title>Bhāgavatapurāṇa 10.29-33 (the five "rasa"-chapters) with Śrīdhara's commentary (Bhāvārthadīpikā)</title>
+	<author></author>
+	<respStmt>
+	 <resp>data entry</resp>
+	 <name>Ekkehard Lorenz</name>
+	</respStmt>
+	<respStmt>
+	 <resp>contribution to GRETIL</resp>
+	 <name>Ekkehard Lorenz</name>
+	</respStmt>
+	<respStmt>
+	 <resp>initial normalization and conversion to legacy GRETIL formats</resp>
+	 <name>Reinhold Grünendahl</name>
+	</respStmt>
+	<respStmt>
+	 <resp>normalization and conversion to TEI-conformant markup</resp>
+	 <name>Maximilian Mehner</name>
+	</respStmt>
+  </titleStmt>
+
+  <publicationStmt>
+	<publisher>Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen</publisher>
+	<availability>
+	 <p>This e-text was provided to GRETIL in good faith that no copyright rights have been infringed.
+	 If anyone wishes to assert copyright over this file, please contact the GRETIL management at <email>gretil(at)sub(dot)uni-goettingen(dot)de</email>.
+	 The file will be immediately removed pending resolution of the claim.</p>
+
+	 <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</licence>
+	</availability>
+	<date when-iso="2020-07-31"/>
+  </publicationStmt>
+
+  <notesStmt>
+	<note>This file has been created by mass conversion of GRETIL's Sanskrit corpus from <ref target="http://gretil.sub.uni-goettingen.de/gretil/1_sanskr/3_purana/bhagp/bhpc101u.htm">bhpc101u.htm</ref>. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the <gi>note</gi> element below:</note>
+	<note type="legacyheader">
+	 Bhagavata-Purana 10,29 - 33 (the five "rasa"-chapters)
+<lb/>With Sridhara's commentary (Bhavarthadipika).
+<lb/>
+<lb/>Based on the ed. Bombay : Nirnaya Sagar 1920
+<lb/>(repr. Caukhamba Surabharati Prakasan, Varanasi 1988).
+<lb/>
+<lb/>Input by Ekkehard Lorenz
+<lb/>
+<lb/>Reference system:
+<lb/>BhP = Bhagavata-Purana
+<lb/>BhPC = commentary
+<lb/>
+<lb/>* [Note:
+<lb/>* I have included the editor's footnotes to both the text of the Purāṇa
+<lb/>* and the ṭīkā, where they do not refer to other commentaries.
+<lb/>* While working with the transcription, I occasionally compared the
+<lb/>* Nirnaya Sagar version of Śrīdhara's ṭīkā with Caukhamba's reprint (Delhi 1993)
+<lb/>* of Vrajajīvana Prācyabhāratī Granthamālā 70 (śrīmadbhāgavatamahāpurāṇam,
+<lb/>* śrīdharī-vaṃśīdharīṭīkādvayopetam. Ed. by B. Tripathi. 2 vols.).
+<lb/>* The text of Śrīdhara's ṭīkā in the Vrajajīvana edition often differs from the
+<lb/>* text in the Nirnaya Sagar edition. It should be understood, therefore, that the
+<lb/>* text below is only one possible reading of Śrīdhara Svāmin's ṭīkā.
+<lb/>*
+<lb/>* Ekkehard Lorenz, Stockholm, October 2002.]
+	</note>
+  </notesStmt>
+
+  <sourceDesc>
+	<bibl>Bombay : Nirnaya Sagar 1920 (repr. Caukhamba Surabharati Prakasan, Varanasi 1988).</bibl>
+  </sourceDesc>
+  </fileDesc>
+
+  <encodingDesc>
+  <projectDesc>
+	<p>The Göttingen Register of Electronic Texts in Indian Languages (GRETIL) is a resource platform providing standardized machine-readable texts in Indian languages that have been contributed by various individuals and institutions.</p>
+  </projectDesc>
+
+  <editorialDecl>
+	<correction>
+	 <p>Apparent errors have been silently corrected.</p>
+	</correction>
+
+	<normalization>
+	 <p>GRETIL normalizes all texts contributed consistently for each language.
+	 Sanskrit texts are normalized in accordance with the scheme of the International Alphabet of Sanskrit Transliteration (IAST) in order to facilitate word search across its corpus without additional transformations.</p>
+
+	 <p>All characters that were fully equivalent to an IAST-conformant character in the text file contributed have been made to conform to the character list below.
+	 Non-conformant characters with additional information including accents, capitalization, and whitespace have been preserved as <gi>orig</gi> elements inside <gi>choice</gi> elements with their IAST-conformant equivalent in <gi>reg</gi> elements for the creation of a plain text.
+	 These additional informations will be available only in those transformations of this file that display the original information.</p>
+
+	 <p><table>
+	 <head>Characters Used for the Transliteration of Sanskrit according to IAST</head>
+	 <row role="label">
+	 <cell>Character</cell>
+	 <cell>Character Name</cell>
+	 <cell>Unicode Code Point</cell>
+	 </row>
+	 <row>
+	 <cell>a</cell>
+	 <cell>LATIN SMALL LETTER A</cell>
+	 <cell>U+0061</cell>
+	 </row>
+	 <row>
+	 <cell>ā</cell>
+	 <cell>LATIN SMALL LETTER A WITH MACRON</cell>
+	 <cell>U+0101</cell>
+	 </row>
+	 <row>
+	 <cell>i</cell>
+	 <cell>LATIN SMALL LETTER I</cell>
+	 <cell>U+0069</cell>
+	 </row>
+	 <row>
+	 <cell>ī</cell>
+	 <cell>LATIN SMALL LETTER I WITH MACRON</cell>
+	 <cell>U+012B</cell>
+	 </row>
+	 <row>
+	 <cell>u</cell>
+	 <cell>LATIN SMALL LETTER U</cell>
+	 <cell>U+0075</cell>
+	 </row>
+	 <row>
+	 <cell>ū</cell>
+	 <cell>LATIN SMALL LETTER U WITH MACRON</cell>
+	 <cell>U+016B</cell>
+	 </row>
+	 <row>
+	 <cell>ṛ</cell>
+	 <cell>LATIN SMALL LETTER R WITH DOT BELOW</cell>
+	 <cell>U+1E5B</cell>
+	 </row>
+	 <row>
+	 <cell>ṝ</cell>
+	 <cell>LATIN SMALL LETTER R WITH DOT BELOW AND MACRON</cell>
+	 <cell>U+1E5D</cell>
+	 </row>
+	 <row>
+	 <cell>ḷ</cell>
+	 <cell>LATIN SMALL LETTER L WITH DOT BELOW</cell>
+	 <cell>U+1E37</cell>
+	 </row>
+	 <row>
+	 <cell>ḹ</cell>
+	 <cell>LATIN SMALL LETTER L WITH DOT BELOW AND MACRON</cell>
+	 <cell>U+1E39</cell>
+	 </row>
+	 <row>
+	 <cell>e</cell>
+	 <cell>LATIN SMALL LETTER E</cell>
+	 <cell>U+0065</cell>
+	 </row>
+	 <row>
+	 <cell>o</cell>
+	 <cell>LATIN SMALL LETTER O</cell>
+	 <cell>U+006F</cell>
+	 </row>
+	 <row>
+	 <cell>ṃ</cell>
+	 <cell>LATIN SMALL LETTER M WITH DOT BELOW</cell>
+	 <cell>U+1E43</cell>
+	 </row>
+	 <row>
+	 <cell>ḥ</cell>
+	 <cell>LATIN SMALL LETTER H WITH DOT BELOW</cell>
+	 <cell>U+1E25</cell>
+	 </row>
+	 <row>
+	 <cell>'</cell>
+	 <cell>APOSTROPHE</cell>
+	 <cell>U+0027</cell>
+	 </row>
+	 <row>
+	 <cell>k</cell>
+	 <cell>LATIN SMALL LETTER K</cell>
+	 <cell>U+006B</cell>
+	 </row>
+	 <row>
+	 <cell>g</cell>
+	 <cell>LATIN SMALL LETTER G</cell>
+	 <cell>U+0067</cell>
+	 </row>
+	 <row>
+	 <cell>ṅ</cell>
+	 <cell>LATIN SMALL LETTER N WITH DOT ABOVE</cell>
+	 <cell>U+1E45</cell>
+	 </row>
+	 <row>
+	 <cell>c</cell>
+	 <cell>LATIN SMALL LETTER C</cell>
+	 <cell>U+0063</cell>
+	 </row>
+	 <row>
+	 <cell>j</cell>
+	 <cell>LATIN SMALL LETTER J</cell>
+	 <cell>U+006A</cell>
+	 </row>
+	 <row>
+	 <cell>ñ</cell>
+	 <cell>LATIN SMALL LETTER N WITH TILDE</cell>
+	 <cell>U+00F1</cell>
+	 </row>
+	 <row>
+	 <cell>ṭ</cell>
+	 <cell>LATIN SMALL LETTER T WITH DOT BELOW</cell>
+	 <cell>U+1E6D</cell>
+	 </row>
+	 <row>
+	 <cell>ḍ</cell>
+	 <cell>LATIN SMALL LETTER D WITH DOT BELOW</cell>
+	 <cell>U+1E0D</cell>
+	 </row>
+	 <row>
+	 <cell>ṇ</cell>
+	 <cell>LATIN SMALL LETTER N WITH DOT BELOW</cell>
+	 <cell>U+1E47</cell>
+	 </row>
+	 <row>
+	 <cell>p</cell>
+	 <cell>LATIN SMALL LETTER P</cell>
+	 <cell>U+0070</cell>
+	 </row>
+	 <row>
+	 <cell>b</cell>
+	 <cell>LATIN SMALL LETTER B</cell>
+	 <cell>U+0062</cell>
+	 </row>
+	 <row>
+	 <cell>m</cell>
+	 <cell>LATIN SMALL LETTER M</cell>
+	 <cell>U+006D</cell>
+	 </row>
+	 <row>
+	 <cell>y</cell>
+	 <cell>LATIN SMALL LETTER Y</cell>
+	 <cell>U+0079</cell>
+	 </row>
+	 <row>
+	 <cell>r</cell>
+	 <cell>LATIN SMALL LETTER R</cell>
+	 <cell>U+0072</cell>
+	 </row>
+	 <row>
+	 <cell>l</cell>
+	 <cell>LATIN SMALL LETTER L</cell>
+	 <cell>U+006C</cell>
+	 </row>
+	 <row>
+	 <cell>v</cell>
+	 <cell>LATIN SMALL LETTER V</cell>
+	 <cell>U+0076</cell>
+	 </row>
+	 <row>
+	 <cell>ś</cell>
+	 <cell>LATIN SMALL LETTER S WITH ACUTE</cell>
+	 <cell>U+x015B</cell>
+	 </row>
+	 <row>
+	 <cell>ṣ</cell>
+	 <cell>LATIN SMALL LETTER S WITH DOT BELOW</cell>
+	 <cell>U+1E63</cell>
+	 </row>
+	 <row>
+	 <cell>s</cell>
+	 <cell>LATIN SMALL LETTER S</cell>
+	 <cell>U+0073</cell>
+	 </row>
+	 <row>
+	 <cell>h</cell>
+	 <cell>LATIN SMALL LETTER H</cell>
+	 <cell>U+0068</cell>
+	 </row>
+	 </table>
+	</p>
+  </normalization>
+
+  <quotation marks="some">
+	<p>If indicated unambiguously in the text file contributed quotation marks have been replaced with the <gi>q</gi> element and, in case a reference was provided, have been nested inside a <gi>cit</gi> with the respective reference provided in a <gi>ref</gi> element after the quote.</p>
+  </quotation>
+
+  <segmentation>
+	<p>Unnumbered <gi>div</gi> elements are used to structure the text, using the <att>type</att> and <att>n</att> attributes in accordance with the <gi>refsDecl</gi>.</p>
+  </segmentation>
+
+  <interpretation>
+	<p>Interpretive markup which is visible only in analytic transformations of this file consists of:
+	<list>
+	 <item>Highlighting in <gi>hi</gi> elements,</item>
+	 <item>Corruptions in <gi>sic</gi> elements,</item>
+	 <item>Remarks in <gi>note</gi> elements with the @resp attribute identifying the agency.</item>
+	</list></p>
+  </interpretation>
+  </editorialDecl>
+
+  <refsDecl>
+  <p>A reference is given in the <att>xml:id</att> attributes consisting of
+  <list>
+	<item>a pragmatic abbreviation of the <label>title</label>: Bhāgavatapurāṇa 10.29-33 = <!-- abbreviation -->,</item>
+	<item>the number of the <label></label> in arabic numerals,</item>
+	<item>the number of the <label>verse</label> in arabic numerals.</item>
+  </list>
+  </p>
+  </refsDecl>
+  </encodingDesc>
+
+  <profileDesc>
+  <langUsage>
+  <language ident="en">English</language>
+  <language ident="sa-Latn">Sanskrit</language>
+  </langUsage>
+
+  <textClass>
+  <keywords scheme="http://gretil.sub.uni-goettingen.de/">
+	<term>Sanskrit -- Purāṇa</term>
+  </keywords>
+  </textClass>
+  </profileDesc>
+
+  <revisionDesc>
+  <listChange>
+  <change when-iso="2020-07-31" who="Maximilian Mehner">TEI encoding by mass conversion of GRETIL's Sanskrit corpus</change>
+  </listChange>
+  </revisionDesc>
+
+</teiHeader>
+
+<text xml:lang="sa-Latn">
+  <body>
+
+<lg>
+<l>unatriṃśe tu rāsārtham uktiprātyuktayo hareḥ /</l>
+<l>gopībhī rāsasaṃrambhe tasya cāntardhikautukam // 1 //</l>
+</lg>
+
+<lg>
+<l>brahmādijayasaṃrūḍhadarpakandarpadarpahā /</l>
+<l>jayati śrīpatir gopīrāsamaṇḍalamaṇḍanaḥ // 2 //</l>
+</lg>
+
+<p>BhP_10,29.01
+śrīśuka uvāca
+bhagavān api tā rātṛīḥ śāradotphullamallikāḥ[*1] / vīkṣya rantuṃ manaś cakre yogamāyām upāśritaḥ //</p>
+
+<p>[*1] śarado mallikāvikasahetutvābhāve 'pi hetutvoktyā 'bhinavatvaṃ tena ca sarvapuṣpavikāso vyajyate |</p>
+
+<p>nanu viparītam idam, paradāravinodena kandarpavijetṛtvapratīteḥ | maivam, "yogamāyām upāśritaḥ," "ātmārāmo 'py arīramat," "sākṣān manmathamanmathaḥ," "ātmany avaruddha-saurataḥ," ity ādiṣu svātantryābhidhānāt | tasmād rāsakrīḍāviḍambanaṃ kāmavijayakhyāpanāyety eva tattvam | kiṃ ca śṛṅgārakathāpadeśena viśeṣato nivṛttipareyaṃ pañcādhyāyīti vyaktīkariṣyāmaḥ | tā rātrīḥ "yātābalā vrajaṃ siddhā mayemā raṃsyatha kṣapāḥ" iti pratiśrutā ity arthaḥ ||BhPC_10,29.1||</p>
+
+<lg>
+<l>BhP_10,29.02</l>
+<l>tadoḍurājaḥ kakubhaḥ karair mukhaṃ prācyā vilimpann aruṇena śantamaiḥ /</l>
+<l>sa carṣaṇīnām udagāc chuco mṛjan priyaḥ priyāyā iva dīrghadarśanaḥ //</l>
+</lg>
+
+<p>tadā tasminn eva kṣaṇe tatpratītaye uḍurājaś candra udagād uditaḥ | kiṃ kurvan | dīrghakālena darśanaṃ yasya sa priyaḥ svapriyāyā mukham aruṇena kuṅkumena yathā vilimpati tathā prācyāḥ kakubho diśo mukhaṃ śantamaiḥ sukhatamaiḥ karai raśmibhir aruṇenodayarāgeṇa vilimpann aruṇīkurvann ity arthaḥ | sa prasiddha uḍurājaḥ | tathā carṣaṇināṃ janānāṃ śucas tāpaglānīr mṛjann apanayan ||BhPC_10,29.2||</p>
+
+<lg>
+<l>BhP_10,29.03</l>
+<l>dṛṣṭvā kumudvantam akhaṇḍamaṇḍalaṃ ramānanābhaṃ navakuṅkumāruṇam /</l>
+<l>vanaṃ ca tatkomalagobhī rañjitaṃ jagau kalaṃ vāmadṛśāṃ manoharam //</l>
+</lg>
+
+<p>kumut kumudaṃ vikasanīyaṃ vidyate yasya taṃ kumudvantam | na khaṇḍaṃ maṇḍalaṃ yasya tam | ramāyā ānanasyābheva ābhā yasya tam | navakuṅkumam ivāruṇam evaṃvidhaṃ candraṃ dṛṣṭvā | tathā vanaṃ ca tasya komalair gobhī raśmibhī rañjitaṃ dṛṣṭvā kalaṃ madhuraṃ jagau agāyata | katham | vāmadṛśāṃ vāmā manoharā dṛśo yāsāṃ tāsāṃ manoharaṃ yathā ||BhPC_10,29.3||</p>
+
+<lg>
+<l>BhP_10,29.04</l>
+<l>niśamya gītāṃ tad anaṅgavardhanaṃ vrajastriyaḥ kṛṣṇagṛhītamānasāḥ /</l>
+<l>ājagmur anyonyam alakṣitodyamāḥ sa yatra kānto javalolakuṇḍalāḥ //</l>
+</lg>
+
+<p>asāpatnyāyānyonyam alakṣito na jñāpita udyamo yābhis tāḥ | sa kānto yatra tatra gītadhvani-mārgeṇa ājagmuḥ[*2] | javena vegena lolāni cañcalāni kuṇḍalāni yāsāṃ tāḥ ||BhPC_10,29.4||</p>
+
+<p>[*2] jagmur iti vaktavye ājagmur ity uktiḥ śukasya kṛṣṇāntike svāvasthānasphūrteḥ ||</p>
+
+<lg>
+<l>BhP_10,29.05</l>
+<l>duhantyo 'bhiyayuḥ kāścid dohaṃ hitvā samutsukāḥ /</l>
+<l>payo 'dhiśritya saṃyāvam anudvāsyāparā[*3] yayuḥ //</l>
+</lg>
+
+<p>[*3] aparā iti pūrveṇa pareṇāpy anveti |</p>
+
+<p>śrīkṛṣṇasūcakaśabdaśarvaṇena tatpravaṇacittānāṃ tatkṣaṇam eva traivargikakarmanivṛttiṃ dyotayantya ivārdhāvasitaṃ karma vihāya yayuḥ | tad āha-duhantya iti | payaḥ sthālīsthaṃ cullyām adhiśrityaitat kvāthamapratīkṣamānāḥ kāścid yayuḥ | saṃyāvaṃ godhūmakaṇānnaṃ pakvam anudvāsyānuttārya ||BhPC_10,29.5|| ||BhPC_10,29.6||</p>
+
+<lg>
+<l>BhP_10,29.07</l>
+<l>limpantyaḥ[*4] pramṛjantyo 'nyā añjantyaḥ kāśca locane /</l>
+<l>vyatyastavastrābharaṇāḥ kāścit kṛṣṇāntikaṃ yayuḥ //</l>
+</lg>
+
+<p>[*4] limpantyaḥ aṅgarāgaṃ kurvatyaḥ |</p>
+
+<p>anyāḥ pramṛjantyaḥ aṅgodvartanādi kurvantyaḥ | kāśca kāścit kṛṣṇatuṣṭyarthaṃ karma tadāsaktam anasāmanyathā kṛtam api phalaty eveti dyotayann āha-vyatyasteti | sthānataḥ svarūpataś cordhvādhodhāraṇena viparyayaṃ prāptāni vastrābharaṇāni yāsāṃ tāḥ ||BhPC_10,29.7||</p>
+
+<p>BhP_10,29.08
+tā vāryamāṇāḥ patibhiḥ pitṛbhir bhrātṛbandhubhiḥ / govindāpahṛtātmāno na nyavartanta mohitāḥ //</p>
+
+<l>na ca kṛṣṇākṛṣṭamanasāṃ vighnāḥ prabhavantīty āha-tā vāryamāṇā iti ||BhPC_10,29.8||</l>
+
+<lg>
+<l>BhP_10,29.09</l>
+<l>antargṛhagatāḥ kāścid gopyo 'labdhavinirgamāḥ /</l>
+<l>kṛṣṇaṃ tadbhāvanāyuktā dadhyur mīlitalocanāḥ[*5] //</l>
+</lg>
+
+<p>[*5] mudritanetrāḥ, yadvā mīlitaṃ locanam anyāśeṣajñānaṃ yāsāṃ tāḥ |</p>
+
+<p>na labdho nirgamo yābhis tāḥ | prāg api tadbhāvanāyuktās tadā nitarāṃ dadhyur ity arthaḥ ||BhPC_10,29.9||</p>
+
+<lg>
+<l>BhP_10,29.10-11</l>
+<l>duḥsahapreṣṭhavirahatīvratāpadhutāśubhāḥ /</l>
+<l>dhyānaprāptācyutāśleṣanirvṛtyā kṣīṇamaṅgalāḥ //</l>
+</lg>
+
+<lg>
+<l>tam eva paramātmānaṃ jārabuddhyāpi[*6] saṅgatāḥ /</l>
+<l>jahur[*7] guṇamayaṃ dehaṃ sadyaḥ prakṣīṇabandhanāḥ //</l>
+</lg>
+
+<p>kiṃ ca tadānīm evaṃ taṃ paramātmānaṃ kṛṣṇaṃ dhyānataḥ prāptāḥ satyo guṇamayaṃ dehaṃ jahur ity āha ślokadvayena-duḥsaheti | nanu kathaṃ jahuḥ paramātmeti jñānābhāvād ity āśaṅkyāha-jārabuddhyāpīti | na hi vastuśaktir buddhim apekṣate | anyathā matvāpi pītāmṛtavad iti bhāvaḥ | nanu tad api prārabdhakarmabandhane sati kathaṃ jahus tatrāha-sadyaḥ prakṣīṇa-bandhanā iti | nanu kathaṃ bhogam antareṇa prārabdhaṃ karma kṣīṇaṃ bhogenaiva sadyaḥ kṣīṇam ity āha-duḥsaheti | duḥsaho yaḥ preṣṭhavirahas tena tīvras tāpas tena dhutāni gatāny aśubhāni yāsām | tadaprāptiparamaduḥkhabhogena pāpaṃ kṣīṇam ity arthaḥ | tathā dhyānena prāptā acyutasya āśleṣeṇa yā nirvṛtiḥ paramasukhabhogas tayā kṣīṇaṃ maṅgalaṃ puṇyabandhanaṃ yāsāṃ tāḥ | ato dhyānena paramātmaprāptes tatkālasukhaduḥkhābhyāṃ niḥśeṣakarmakṣayād guṇamayaṃ dehaṃ jahur iti ||BhPC_10,29.10|| ||BhPC_10,29.11||</p>
+
+<p>[*6] atra "jighāṃsayāpi haraye" ity atreva jārabuddhyāpīty apinā tādṛśabuddher nindyatvaṃ vyajya vastumahimnātiprāśastyaṃ vyañjitam |
+[*7] guṇamayaṃ dehaṃ jahur ity uktyā cinmayadehena golokādau tatprāptir dhvanyate |</p>
+
+<p>BhP_10,29.12
+<lg>
+<l>rājovāca</l>
+<l>kṛṣṇaṃ viduḥ paraṃ kāntaṃ na tu brahmatayā mune /</l>
+<l>guṇapravāhoparamas tāsāṃ guṇadhiyāṃ[*8] katham //</l>
+</lg></p>
+
+<p>[*8] ato guṇadhiyāṃ śrīkṛṣṇaguṇaikānubaddhapremamayīnāṃ tāsāṃ guṇapravāhoparamaḥ cinmayaguṇaparam-parāśrayasya cidvigrahasyoparamaḥ sāyujyamuktiḥ brahmopāsakānām iva katham iti |</p>
+
+<p>nanu yathā patiputrādīnāṃ vastuto brahmatve' pi na tadbhajanān mokṣas tathā buddhyabhāvād evaṃ kṛṣṇe 'pi brahmabuddhyabhāvena tatsaṅgatiḥ kathaṃ mokṣahetur iti śaṅkate-kṛṣṇaṃ vidur iti | paraṃ kevalaṃ kāntaṃ kamanīyam ||BhPC_10,29.12||</p>
+
+<p>BhP_10,29.13
+<lg>
+<l>śrīśuka uvāca</l>
+<l>uktaṃ purastād etat te caidyaḥ siddhiṃ yathā gataḥ /</l>
+<l>dviṣann api hṛṣīkeśaṃ kim utādhokṣajapriyāḥ //</l>
+</lg></p>
+
+<p>pariharati-uktam iti | ayaṃ bhāvaḥ-jīveṣv āvṛtaṃ brahmatvaṃ kṛṣṇasya tu hṛṣīkeśatvād anāvṛtam ato na tatra buddhyapekṣeti ||BhPC_10,29.13||</p>
+
+<p>BhP_10,29.14
+<l>nṛṇāṃ niḥśreyasārthāya vyaktir bhagavato nṛpa / avyayasyāprameyasya[*9] nirguṇasya guṇātmanaḥ //</l></p>
+
+<p>[*9] aprameyasyāparicchinnasya |</p>
+
+<p>nanu dehī katham anāvṛtaḥ syād ata āha-nṛṇām iti | guṇātmano guṇaniyantuḥ | bhagavata evaṃrūpā abhivyaktir ato na dehasādṛśyam atra vaktuṃ yujyata iti bhāvaḥ ||BhPC_10,29.14||</p>
+
+<lg>
+<l>BhP_10,29.15</l>
+<l>kāmaṃ krodhaṃ bhayaṃ sneham aikyaṃ sauhṛdam eva ca /</l>
+<l>nityaṃ harau vidadhato[*10] yānti tanmayatāṃ[*11] hi te //</l>
+</lg>
+
+<p>[*10] "vidadhate" iti pāṭhaḥ |
+[*11] tanmayatāṃ tatsāyujyasārūpyādimuktiṃ tadekasphūrtiṃ ca |</p>
+
+<p>ato yathā kathañcit tadāsaktir muktikāraṇam ity āha-kāmam iti | aikyaṃ saṃbandham | sauhṛdaṃ bhaktim ||BhPC_10,29.15||</p>
+
+<p>BhP_10,29.16
+na caivaṃ vismayaḥ kāryo bhavatā bhagavaty aje / yogeśvareśvare kṛṣṇe yata etad vimucyate //</p>
+
+<p>na ca bhagavato 'yam atibhāra ity āha-na caivam iti | yataḥ śrīkṛṣṇād etat sthāvarādikam api vimucyate ||BhPC_10,29.16||</p>
+
+<p>BhP_10,29.17
+tā dṛṣṭvāntikam āyātā bhagavān vrajayoṣitaḥ / avadad vadatāṃ śreṣṭho vācaḥpeśair vimohayan //</p>
+
+<p>prastutam[*12] āha-tā dṛṣṭveti | vācaḥpeśair vāgvilāsaiḥ ||BhPC_10,29.17||</p>
+
+<p>[*12] rasamayarāsalīlāprasaṅge īdṛśas te praśnaḥ samādhānaprapañcaś ca rasavighātakatvād anucita iti vyañjayan svayam evotkaṇṭhayā prastauti ||</p>
+
+<p>BhP_10,29.18
+<lg>
+<l>śrībhagavān uvāca</l>
+<l>svāgataṃ vo mahābhāgāḥ priyaṃ kiṃ karavāṇi vaḥ /</l>
+<l>vrajasyānāmayaṃ kaccid brūtāgamanakāraṇam //</l>
+</lg></p>
+
+<l>sarvāḥ sasaṃbhramam āgatā vilokya sabhayam ivāha-vrajasyeti ||BhPC_10,29.18||</l>
+
+<p>BhP_10,29.19
+rajany eṣā ghorarūpā[*13] ghorasattvaniṣevitā / pratiyāta vrajaṃ neha stheyaṃ strībhiḥ sumadhyamāḥ //</p>
+
+<p>[*13] yadvā aghorarūpā candrodayena tamohānāt, ato jyotsnayā dinaprāyatvād aghoraiḥ sattvair bhṛṅgakokilādyair niṣevitā, athavā ghoraṃ duṣṭānāṃ bhayajanakaṃ sattvaṃ balaṃ yasya tena mayā niṣevitā | ataḥ sarvathā vrajaṃ na yāta | prārthanāyāṃ loṭ | ittham evāgre mā vicinvanti, mā yāta ity ādi yojyam |</p>
+
+<l>lajjayā mandahasitam ālakṣyāha-rajany eṣeti ||BhPC_10,29.19||</l>
+
+<lg>
+<l>BhP_10,29.20</l>
+<l>mātaraḥ pitaraḥ putrā bhrātaraḥ patayaś ca vaḥ /</l>
+<l>vicinvanti hy apaśyanto mā kṛḍhvaṃ bandhusādhvasam //</l>
+</lg>
+
+<p>kiṃ ca mātara iti | vicinvanti mṛgayante | bandhūnāṃ sādhvasaṃ kṛcchraṃ mā kṛdhvaṃ mā kurutety arthaḥ ||BhPC_10,29.20||</p>
+
+<p>BhP_10,29.21
+dṛṣṭaṃ vanaṃ kusumitaṃ rākeśakararañjitam / yamunānilalīlaijat tarupallavaśobhitam //</p>
+
+<p>īṣatpraṇayakopenānyato vilokayantī pratyāha-dṛṣṭam iti | rākeśasya pūrṇacandrasya karai rañjitam | yamunāsparśino 'nilasya līlā mandagatis tayā ejantaḥ kampamānās tarūṇāṃ pallavās taiḥ śobhitam ||BhPC_10,29.21||</p>
+
+<lg>
+<l>BhP_10,29.22</l>
+<l>tad yāta mā ciraṃ goṣṭhaṃ śuśrūṣadhvaṃ patīn satīḥ /</l>
+<l>krandanti vatsā bālāś ca tān pāyayata duhyata //</l>
+</lg>
+
+<l>satīḥ he satyaḥ ||BhPC_10,29.22||</l>
+
+<p>BhP_10,29.23
+atha vā madabhisnehād bhavatyo yantritāśayāḥ / āgatā hy upapannaṃ vaḥ prīyante mayi jantavaḥ //</p>
+
+<p>saṃrambhakṣubhitadṛṣṭīḥ pratyāha-athaveti | yantritāśayā vaśīkṛtacittāḥ | upapannaṃ yuktam | prīyante prītā bhavanti ||BhPC_10,29.23||</p>
+
+<lg>
+<l>BhP_10,29.24</l>
+<l>bhartuḥ śuśrūṣaṇaṃ strīṇāṃ paro dharmo hy amāyayā /</l>
+<l>tadbandhūnāṃ ca kalyāṇyaḥ prajānāṃ cānupoṣaṇam //</l>
+</lg>
+
+<p>dṛṣṭādṛṣṭabhayapradarśanena nivartayati-bhartur ity ādi ślokatrayeṇa ||BhPC_10,29.24|| ||BhPC_10,29.25||</p>
+
+<lg>
+<l>BhP_10,29.26</l>
+<l>asvargyam ayaśasyaṃ ca phalgu kṛcchraṃ bhayāvaham /</l>
+<l>jugupsitaṃ ca sarvatra aupapatyaṃ kulastriyaḥ //</l>
+</lg>
+
+<p>phalgu tuccham | kṛcchraṃ duḥsaṃpādyam | aupapattyaṃ jārasaukhyam ||BhPC_10,29.26||</p>
+
+<p>BhP_10,29.27
+śravaṇād darśanād dhyānān mayi bhāvo 'nukīrtanāt / na tathā sannikarṣeṇa pratiyāta tato gṛhān //</p>
+
+<p>kiṃ ca śravaṇād iti ||BhPC_10,29.27|| ||BhPC_10,29.28||</p>
+
+<lg>
+<l>BhP_10,29.29</l>
+<l>kṛtvā mukhāny ava śucaḥ śvasanena śuṣyad bimbādharāṇi caraṇena bhuvaḥ likhantyaḥ /</l>
+<l>asrair upāttamaṣibhiḥ kucakuṅkumāni tasthur mṛjantya uruduḥkhabharāḥ sma tūṣṇīm //</l>
+</lg>
+
+<p>cintāṃ prāptānāṃ sthitim āha-kṛtveti | śucaḥ śokād udgatena śvasanena śuṣyanto bimbaphalasadṛśā adharā yeṣu mukheṣu tāni ava avāñci kṛtvā tathā 'ṅguṣṭhena mahīṃ likhantyaḥ | tathā gṛhītakajjalair aśrubhiḥ kucakuṅkumāni kṣalayantyas tūṣṇīṃ sthitāḥ | yata uruduḥkhasya bharo bhāro yāsāṃ tāḥ ||BhPC_10,29.29||</p>
+
+<lg>
+<l>BhP_10,29.30</l>
+<l>preṣṭhaṃ priyetaram iva pratibhāṣamāṇaṃ kṛṣṇaṃ tadarthavinivartitasarvakāmāḥ /</l>
+<l>netre vimṛjya ruditopahate sma kiñcit saṃrambhagadgadagiro 'bruvatānuraktāḥ //</l>
+</lg>
+
+<p>kiṃ ca preṣṭham iti | kiñcit saṃrambhena kopāveśena gadgadā giro yāsāṃ tā abruvat sma | saṃrambhe kāraṇaṃ-preṣṭham ity ādi | priyetaram iva pratibhāṣamāṇaṃ pratyācakṣāṇam ||BhPC_10,29.30||</p>
+
+<p>BhP_10,29.31
+<lg>
+<l>gopya ūcuḥ</l>
+<l>maivaṃ vibho 'rhati bhavān gadituṃ nṛśaṃsaṃ santyajya sarvaviṣayāṃs tava pādamūlam /</l>
+<l>bhaktā bhajasva duravagraha mā tyajāsmān devo yathādipuruṣo bhajate mumukṣūn //</l>
+</lg></p>
+
+<p>nṛśaṃsaṃ krūram | he duravagraha svacchanda, tava pādamūlaṃ bhaktāḥ sevitavatīr asmān bhajasva mā tyajeti ||BhPC_10,29.31||</p>
+
+<lg>
+<l>BhP_10,29.32</l>
+<l>yat patyapatyasuhṛdām anuvṛttir aṅga strīṇāṃ svadharma iti dharmavidā tvayoktam /</l>
+<l>astv evam etad upadeśapade tvayīśe preṣṭho bhavāṃs tanubhṛtāṃ kila bandhur[*14] ātmā //</l>
+</lg>
+
+<p>[*14] bandhuro manohara ātmā yasyeti vā |</p>
+
+<p>api ca yad uktam "patyapatya-" ity ādi tvayā dharmavideti sopahāsam evam, etad upadeśānāṃ pade viṣaye tvayy evāstu | upadeśapadatve hetuḥ-īśa iti | vividiṣāvākyena sarvopadeśānām īśaparatvāvagamād iti bhāvaḥ | īśatve hetuḥ-ātmā kila bhavān iti | bhogyasya hi sarvasya bhoktā ātmaiveśa ity ataḥ preṣṭho bandhuś ca bhavān eveti sarvabandhuṣu karaṇīyaṃ tvayy evāstv ity arthaḥ | atha vā dharmopadeśānāṃ pade sthāne dharmopadeṣṭari tvayi saty asmāsu ca dharmaṃ jijñāsamānāsu satīṣu tvayā dharmavidā yad uktam evam etad astu | na tu tvaṃ dharmopadeṣṭā kintu bhavān ātmeti | atha vā yad uktam etad upadeśapade tadgocare puruṣe 'stu nāma, tvayi tu īśe svāmini saty evam | kā kvā naivam ity arthaḥ | yatas tanubhṛtāṃ tvam ātmā phalarūpa iti | yadvā yad uktaṃ "patyādiśuśrūṣaṇaṃ dharma" iti evam etat tvayy evāstu | kutaḥ | upadeśapade śuśrūṣaṇīyatvenopadiśyamānānāṃ patyādīnāṃ pade 'dhiṣṭhāne | kutaḥ īśe | na hīśvaram adhiṣṭhānaṃ vinā ko 'pi patiputrādir nāmeti | anyat samānam | alam ativistareṇa ||BhPC_10,29.32||</p>
+
+<lg>
+<l>BhP_10,29.33</l>
+<l>kurvanti hi tvayi ratiṃ kuśalāḥ sva ātman[*15] nityapriye patisutādibhir ārtidaiḥ kim /</l>
+<l>tan naḥ prasīda parameśvara[*16] mā sma chindyā[*17] āśāṃ bhṛtāṃ tvayi cirād aravindanetra //</l>
+</lg>
+
+<p>[*15] ātman ātmani |
+[*16] "varadeśvara" iti pāṭhaḥ |
+[*17] "chindyādāśām" iti pāṭhaḥ | tatra bhavān ity adhyāhāraḥ, chāndasaḥ puruṣavyatyayo vā |</p>
+
+<p>etat sadācāreṇa draḍhayantyaḥ prārthayante-kurvantīti | kuśalāḥ śāstranipuṇāḥ | tathā ca śāstram-"kiṃ prajayā kariṣyāmo yeṣāṃ no 'yam ātmā 'yaṃ ca lokaḥ" iti ||BhPC_10,29.33||</p>
+
+<lg>
+<l>BhP_10,29.34</l>
+<l>cittaṃ sukhena bhavatāpahṛtaṃ gṛheṣu yan nirviśaty uta karāv api gṛhyakṛtye /</l>
+<l>pādau padaṃ na calatas tava pādamūlād yāmaḥ kathaṃ vrajam atho karavāma kiṃ vā //</l>
+</lg>
+
+<p>kiṃ ca "pratiyāta" iti yad uktaṃ tad aśakyaṃ, tvayaiva cittādīnām apahṛtatvād ity āhuḥ-cittam iti | yad asmākaṃ cittam etāvantaṃ kālaṃ sukhena gṛheṣu nirviśati tat tvayāpahṛtam | karāv api yau gṛhakṛtye nirviśatas tāv api | sukhātmanā tvayeti vā ||BhPC_10,29.34||</p>
+
+<lg>
+<l>BhP_10,29.35</l>
+<l>siñcāṅga nas tvadadharāmṛtapūrakeṇa hāsāvalokakalagītajahṛcchayāgnim /</l>
+<l>no ced vayaṃ virahajāgnyupayuktadehā dhyānena yāma padayoḥ padavīṃ sakhe te //</l>
+</lg>
+
+<p>ato 'ṅga he kṛṣṇa, no 'smākaṃ tavādharāmṛtapūrvakeṇa tavaiva hāsasahitenāvalokena kalagītena ca jāto yo hṛcchayāgniḥ kāmāgnis taṃ siñca | no ced vayaṃ tāvad eko 'gnis tathā virahāj janiṣyate yo 'gnis tena copayuktadehā dagdhaśarīrā yogina iva te padavīm antikaṃ dhyānena yāma prāpnuyāmaḥ ||BhPC_10,29.35||</p>
+
+<lg>
+<l>BhP_10,29.36</l>
+<l>yarhy ambujākṣa tava pādatalaṃ ramāyā dattakṣaṇaṃ kvacid araṇyajanapriyasya /</l>
+<l>asprākṣma tatprabhṛti nānyasamakṣam aṅga sthātuṃs tvayābhiramitā bata pārayāmaḥ //</l>
+</lg>
+
+<p>nanu svapatīn evopagacchata ta enam agniṃ siñceyur iti cet tatrāhuḥ-yarhīti | ramāyā lakṣmyā dattakṣaṇaṃ dattotsavaṃ dattāvasaraṃ vā | tad api kvacid eva na sarvadā | araṇyajanāḥ priyā yasya tasya tava | araṇyajanapriyatvād araṇye kvacid yarhy asprākṣma spṛṣṭavatyo vayaṃ tatra ca tvayābhiramitā ānanditāḥ satyas tadārabhyānyasamakṣaṃ sthātum api na pārayāmaḥ | tucchās te na rocanta ity arthaḥ ||BhPC_10,29.36||</p>
+
+<lg>
+<l>BhP_10,29.37</l>
+<l>śrīr yat padāmbujarajaś cakame tulasyā labdhvāpi vakṣasi padaṃ kila bhṛtyajuṣṭam /</l>
+<l>yasyāḥ svavīkṣaṇakṛte 'nyasuraprayāsas tadvad vayaṃ ca tava pādarajaḥ prapannāḥ //</l>
+</lg>
+
+<p>tvatpādasaubhāgyaṃ tv aticitram ity āhuḥ-śrīr iti | vakṣasy asāpatnyaṃ sthānaṃ labdhvāpi tulasyā sapatnyā saha tava pādāmbujarajaḥ kāmayate sma | bhṛtyaiḥ sarvair juṣṭam iti saubhāgyātirekoktiḥ | yasyāḥ svavīkṣaṇakṛte śrīr ātmānaṃ vilokaya tv ity etad artham anyeṣāṃ brahmādīnāṃ tapobhiḥ prayāsaḥ sā tad rajas tadvad vayam api prapannā iti ||BhPC_10,29.37||</p>
+
+<lg>
+<l>BhP_10,29.38</l>
+<l>tan naḥ prasīda vṛjinārdana te 'nghrimūlaṃ prāptā visṛjya vasatīs tvadupāsanāśāḥ /</l>
+<l>tvatsundarasmitanirīkṣaṇatīvrakāma taptātmanāṃ puruṣabhūṣaṇa dehi dāsyam //</l>
+</lg>
+
+<p>he vṛjinārdana[*18] duḥkhahantaḥ, tvadupāsane tvadbhajana evāśā yāsāṃ tā vayaṃ vāsatīr gṛhān visṛjya hitvā yogina iva prāptāḥ | tava sundarasmitavilasitanirīkṣaṇena yas tīvraḥ kāmas tena taptacittānām | he puruṣaratna, dāsyaṃ dehi ||BhPC_10,29.38||</p>
+
+<lg>
+<l>BhP_10,29.39</l>
+<l>vīkṣyālakāvṛtamukhaṃ tava kuṇḍalaśrīgaṇḍasthalādharasudhaṃ hasitāvalokam /</l>
+<l>dattābhayaṃ ca bhujadaṇḍayugaṃ vilokya vakṣaḥ śriyaikaramaṇaṃ[*19] ca bhavāma[*20] dāsyaḥ //</l>
+</lg>
+
+<p>[*18] niṣedhapakṣe vṛjinārda na iti cchedaḥ, gṛhādi tyaktvā na prāptā vayam iti yojanā |
+[*19] śriyāḥ ekaramaṇam iti cchedaḥ | sandhir ārṣaḥ |
+[*20] niṣedhapakṣe kiṃ dāsyo bhavāmeti kākvā naivety arthaḥ |</p>
+
+<p>nanu gṛhasvāmyaṃ vihāya dāsyaṃ kim iti prārthyate 'ta āhuḥ-vīkṣyati | alakāvṛtamukhaṃ keśāntarair āvṛtamukham | tathā kuṇḍalayoḥ śrīr yayos te gaṇḍasthale yasmin, adhare sudhā yasmiṃs tac ca tac ca tava mukhaṃ vīkṣya dattābhayaṃ bhujadaṇḍayugmaṃ vakṣaś ca śriyā ekam eva ramaṇaṃ ratijanakaṃ vīkṣya dāsya eva bhavāmeti ||BhPC_10,29.39||</p>
+
+<lg>
+<l>BhP_10,29.40</l>
+<l>kā stry aṅga te kalapadāyatamūrcchitena[*21] sammohitāryacaritān na[*22] calet trilokyām /</l>
+<l>trailokyasaubhagam idaṃ ca nirīkṣya rūpaṃ yad godvijadrumamṛgāḥ pulakāny abibhran //</l>
+</lg>
+
+<p>[*21] "padāyataveṇugītasaṃmohitā" iti pāṭhaḥ |
+[*22] niṣedhapakṣe āryacaritabhaṅgabhiyā kā strī nāpayāyād iti yojanā |</p>
+
+<p>nanu jugupsitam aupapatyam ity uktam, tatrāhuḥ-kā strīti | aṅga he kṛṣṇa, kalāni padāni yasmiṃs tad āyataṃ dhīrgaṃ mūrcchitaṃ svarālāpabhedas tena | pāṭhāntare[*23] kalapadāmṛtamayaṃ veṇugītaṃ tena saṃmohitā kā vā strī āryacaritān nijadharmān na calet | yanmohitāḥ puruṣā api calitāḥ, kiṃ ca trailokyasaubhagam iti yad yataḥ abibhrann abibharuḥ | tvaddyotakaśabdaśravaṇa-mātreṇāpi tāvan nijadharmatyāgo yuktaḥ, kiṃ punas tvadanubhaveneti bhāvaḥ ||BhPC_10,29.40||</p>
+
+<p>[*23] kalapadāmṛtaveṇugītasaṃmohitety evaṃrūpe |</p>
+
+<lg>
+<l>BhP_10,29.41</l>
+<l>vyaktaṃ bhavān vrajabhayārtiharo[*24] 'bhijāto devo yathādipuruṣaḥ suralokagoptā /</l>
+<l>tan no[*25] nidhehi karapaṅkajam ārtabandho taptastaneṣu ca śirassu ca kiṅkarīṇām //</l>
+</lg>
+
+<p>[*24] "vrajajanārtiharaḥ" iti pāṭhaḥ |
+[*25] niṣedhapakṣe kiṅkarīṇām api śirassu karaṃ no vidhehi mā sthāpayeti |</p>
+
+<l>vyaktaṃ niścitam ||BhPC_10,29.41||</l>
+
+<p>BhP_10,29.42
+śrīśuka uvāca
+iti viklavitaṃ tāsāṃ śrutvā yogeśvareśvaraḥ / prahasya sadayaṃ gopīr ātmārāmo 'py arīramat //</p>
+
+<p>viklavitaṃ pāravaśyapralapitam | gopīḥ arīramad ramayāmāsa ||BhPC_10,29.42||</p>
+
+<lg>
+<l>BhP_10,29.43</l>
+<l>tābhiḥ sametābhir udāraceṣṭitaḥ priyekṣaṇotphullamukhībhir acyutaḥ /</l>
+<l>udārahāsadvijakundadīdhitir vyarocataiṇāṅka ivoḍubhir vṛtaḥ //</l>
+</lg>
+
+<p>priyasyekṣaṇenotphullāni mukhāni yāsāṃ tābhiḥ udārahāsaś ca dvijāś ca teṣu kundakusumavad-dīdhitir yasya saḥ | eṇāṅkaś candraḥ ||BhPC_10,29.43|| ||BhPC_10,29.44|| ||BhPC_10,29.45||</p>
+
+<lg>
+<l>BhP_10,29.46</l>
+<l>bāhuprasāraparirambhakarālakorunīvīstanālabhananarmanakhāgrapātaiḥ /</l>
+<l>kṣvelyāvalokahasitair vrajasundarīṇām uttambhayan ratipatiṃ ramayāṃ cakāra //</l>
+</lg>
+
+<p>bāhuprasāraś ca parirambhaś ca karādīnām ālabhanaṃ sparśaś ca narma parihāsaś ca nakhāgrapātaś ca taiḥ | kṣvelyā krīḍayā | avalokaiś ca hastitaiś ca kāmaṃ tāsām uddīpayaṃs tā ramayāmāsa ||BhPC_10,29.46||</p>
+
+<lg>
+<l>BhP_10,29.47</l>
+<l>evaṃ bhagavataḥ kṛṣṇāl labdhamānā mahātmanaḥ /</l>
+<l>ātmānaṃ menire strīṇāṃ māninyo 'bhyadhikaṃ bhuvi //</l>
+</lg>
+
+<l>mahātmano vimuktacittāt ||BhPC_10,29.47||</l>
+
+<p>BhP_10,29.48
+tāsāṃ tatsaubhagamadaṃ vīkṣya mānaṃ ca keśavaḥ / praśamāya prasādāya tatraivāntaradhīyata //</p>
+
+<p>tatsaubhagena madam asvādhīnatām | mānaṃ garvaṃ | keśavaḥ kaś ca īśaś ca tau vaśayatīti tathā saḥ ||BhPC_10,29.48||</p>
+
+<p>iti śrīmadbhāgavate mahāpurāṇe daśamaskandhe pūrvārdhe bhāvārthadīpikāyāṃ ṭīkāyāṃ ekonatriṃśo 'dhyāyaḥ **29**</p>
+
+<lg>
+<l>triṃśe virahasaṃtaptagopībhiḥ kṛṣṇamārgaṇam /</l>
+<l>unamattavan na niyataṃ bhramantībhir vane vane // 1 //</l>
+</lg>
+
+<p>BhP_10,30.01
+śrīśuka uvāca
+antarhite bhagavati sahasaiva vrajāṅganāḥ / atapyaṃs tam acakṣāṇāḥ kariṇya iva yūthapam //</p>
+
+<l>acakṣāṇā apaśyantyaḥ ||BhPC_10,30.1||</l>
+
+<lg>
+<l>BhP_10,30.02</l>
+<l>gatyānurāgasmitavibhramekṣitair manoramālāpavihāravibhramaiḥ /</l>
+<l>ākṣiptacittāḥ pramadā ramāpates tās tā viceṣṭā jagṛhus tadātmikāḥ //</l>
+</lg>
+
+<l>gatyā cānurāgasmitābhyāṃ vibhramekṣitāni savilāsanirīkṣaṇāni taiś ca manoramā ālāpāś ca vihārāḥ krīḍāś ca vibhramā anye ca vilāsās taiś ca ramāpater gatyādibhir etair ākṣiptāny ākṛṣṭāni cittāni yāsāṃ tāḥ, atas tasminn evātmā yāsāṃ tās tasya vividhāś ceṣṭhā jagṛhus tadanukaraṇenākrīḍan ||BhPC_10,30.2||</l>
+
+<lg>
+<l>BhP_10,30.03</l>
+<l>gatismitaprekṣaṇabhāṣaṇādiṣu priyāḥ priyasya pratirūḍhamūrtayaḥ /</l>
+<l>asāv ahaṃ tv ity abalās tadātmikā nyavediṣuḥ kṛṣṇavihāravibhramāḥ //</l>
+</lg>
+
+<p>api ca gatismiteti | priyasya gatyādiṣu pratirūḍhā āviṣṭā mūrtayo yāsāṃ tāḥ | ataḥ kṛṣṇavihāra-vibhramāḥ kṛṣṇasya eva vihāravibhramāḥ krīḍāvilāsā yāsāṃ tāḥ | aham eva kṛṣṇa iti parasparaṃ niveditavatyaḥ ||BhPC_10,30.3||</p>
+
+<lg>
+<l>BhP_10,30.04</l>
+<l>gāyantya uccair amum eva saṃhatā vicikyur unmattakavad vanād vanam /</l>
+<l>papracchur ākāśavad antaraṃ bahir bhūteṣu santaṃ puruṣaṃ vanaspatīn //</l>
+</lg>
+
+<p>kiṃ ca gāyantya iti | vanād vanāntaraṃ gacchantyo vicikyur amṛgayan | unmattatulyatvam āha- vanaspatīn papracchuḥ | bhūteṣv antaraṃ madhye santaṃ puruṣaṃ bahiś ca santam iti ||BhPC_10,30.4||</p>
+
+<lg>
+<l>BhP_10,30.05</l>
+<l>dṛṣṭo vaḥ kaccid aśvattha plakṣa nyagrodha no manaḥ /</l>
+<l>nandasūnur gato hṛtvā premahāsāvalokanaiḥ //</l>
+</lg>
+
+<p>tat prapañcayati navabhiḥ-tatra mahattvād ete paśyeyur ity āśayāśvatthādīn pṛcchanti-dṛṣṭa iti | premahāsavilasitair avalokanair asmākaṃ mano hṛtvā cora iva gato vo yuṣmābhiḥ kiṃ dṛṣṭa iti ||BhPC_10,30.5||</p>
+
+<p>BhP_10,30.06
+<l>kaccit kurabakāśokanāgapunnāgacampakāḥ / rāmānujo māninīnām ito[*26] darpaharasmitaḥ //</l></p>
+
+<p>[*26] "gataḥ" iti pāṭhaḥ |</p>
+
+<p>mahāntaḥ svapuṣpair bahūpakāriṇaś ceti kurabakādīn pṛcchanti-kaccid iti | he kurabakādayaḥ, darpaharaṃ smitaṃ yasya saḥ ito gataḥ kaccid dṛṣṭa iti ||BhPC_10,30.6||</p>
+
+<p>BhP_10,30.07
+kaccit tulasi kalyāṇi govindacaraṇapriye / saha tvālikulair bibhrad dṛṣṭas te 'tipriyo 'cyutaḥ //</p>
+
+<l>alikulaiḥ saha tvā tvāṃ bibhrat tavātipriyas tvayā kiṃ dṛṣṭa iti ||BhPC_10,30.7||</l>
+
+<p>BhP_10,30.08
+mālaty adarśi vaḥ kaccin mallike jātiyūthike / prītiṃ vo janayan yātaḥ karasparśena mādhavaḥ //</p>
+
+<p>guṇātireke 'pi namratvād imāḥ paśyeyur iti pṛcchanti-mālatīti | he mālati mallike, jāti, yūthike, vo yuṣmābhiḥ kim adarśi dṛṣṭaḥ | karasparśena vaḥ prītiṃ janayan kiṃ yāta iti | atra mālatījātyor avāntaraviśeṣo draṣṭavyaḥ ||BhPC_10,30.8||</p>
+
+<lg>
+<l>BhP_10,30.09</l>
+<l>cūtapriyālapanasāsanakovidārajambvarkabilvabakulāmrakadambanīpāḥ /</l>
+<l>ye 'nye parārthabhavakā yamunopakūlāḥ śaṃsantu kṛṣṇapadavīṃ rahitātmanāṃ naḥ //</l>
+</lg>
+
+<p>phalādibhiḥ sarvaprāṇināṃ saṃtarpakā ete paśyeyur iti pṛcchanti-cūteti | cūtāmrayor avāntarajātibhedaḥ kadambanīpayoś ca | he cūtādayaḥ, ye 'nye ca parārthabhavakāḥ parārtham eva bhavo janma yeṣāṃ te | yamunopakūlās tasyāḥ kūlasamīpe vartamānāḥ | tīrthavāsina ity arthaḥ | te bhavanto rahitātmanāṃ śūnyacetasāṃ naḥ kṛṣṇapadavīṃ kṛṣṇasya mārgaṃ śaṃsantu kathayantu ||BhPC_10,30.9||</p>
+
+<lg>
+<l>BhP_10,30.10</l>
+<l>kiṃ te kṛtaṃ kṣiti tapo bata keśavāṅghrisparśotsavotpulakitāṅgaruhair vibhāsi /</l>
+<l>apy aṅghrisambhava urukramavikramād vā āho varāhavapuṣaḥ parirambhaṇena //</l>
+</lg>
+
+<p>he kṣiti kṣite, tvayā kiṃ tapaḥ kṛtaṃ yā tvaṃ keśavāṅghrisparśotsavā keśavasyāṅghrisparśenotsavo yasyāḥ sā | kutaḥ | aṅgaruhair utpulakitā romāñcitā vibhāsi śobhase | tatra viśeṣaṃ pṛcchati-api kim ayam utsavo 'ṅghrisaṃbhavo 'dhunā tavaikadeśāṅghrisparśasaṃbhūtaḥ | yadvā naitāvat kintu urukramavikramāt pūrvam eva trivikramasya padā sarvākramaṇāt | aho athavā | naitāvad eva, api tu tato 'pi pūrvaṃ varāhasya vapuṣaḥ parirambhaṇeneti | atas tvayā nūnaṃ dṛṣṭas taṃ darśayeti ||BhPC_10,30.10||</p>
+
+<lg>
+<l>BhP_10,30.11</l>
+<l>apy eṇapatny[*27] upagataḥ priyayeha gātrais tanvan dṛśāṃ sakhi sunirvṛtim acyuto vaḥ /</l>
+<l>kāntāṅgasaṅgakucakuṅkumarañjitāyāḥ kundasrajaḥ kulapater iha vāti gandhaḥ //</l>
+</lg>
+
+<p>[*27] eṇapatnīti "patyur no yajñasaṃyoge" iti sūtrād eṇānāṃ bhavāntarayajñair yājñikatvaṃ | eṇyā yajñapatnītvam iti dṛṣṭa-praśaṃsā |</p>
+
+<p>hariṇyā dṛṣṭipratyāsattyā kṛṣṇadarśanaṃ saṃbhāvyāhuḥ-apīti | he sakhi eṇapatni, api kim upagataḥ samīpaṃ gataḥ | gātraiḥ sundarair mukhabāhvādibhiḥ | priyayā saheti yad uktaṃ tatra dyotakam | kāṇtāyā aṅgasaṅgas tena tatkucakuṅkumena rañjitāyāḥ kundakusumasrajo gandhaḥ | kulapateḥ śrīkṛṣṇasya | vātyāgacchati ||BhPC_10,30.11||</p>
+
+<lg>
+<l>BhP_10,30.12</l>
+<l>bāhuṃ priyāṃsa[*28] upadhāya gṛhītapadmo rāmānujas tulasikālikulair madāndhaiḥ /</l>
+<l>anvīyamāna iha vas taravaḥ praṇāmaṃ kiṃ vābhinandati caran praṇayāvalokaiḥ //</l>
+</lg>
+
+<p>[*28] priyāyāḥ snigdhāyā aṃse skandhe |</p>
+
+<p>phalabhāreṇa natāṃs tarūn kṛṣṇaṃ dṛṣṭvā praṇatā iti matvā priyayā saha tasya gativilāsaṃ saṃbhāvayantyaḥ pṛcchanti-bāhum iti | tulasikāyā alikulair atas tadāmodamadāndhair anvīyamāno 'nugamyamāna iha carann iti ||BhPC_10,30.12||</p>
+
+<p>BhP_10,30.13
+pṛcchatemā latā bāhūn apy āśliṣṭā vanaspateḥ / nūnaṃ tatkarajaspṛṣṭā bibhraty utpulakāny aho //</p>
+
+<p>kāścid āhuḥ-he sakhyaḥ, imā latāḥ kṛṣṇena saṅgatā nūnam, ata imāḥ pṛcchata | nanu svapati-saṅgatau tatsaṅgatir durghaṭā, na | vanaspateḥ patyur bāhunāśliṣṭā api aho bhāgyaṃ nūnaṃ tan nakhaiḥ spṛṣṭā yata utpulakāni bibhrati | na hi svapatisaṅgatāv īdṛkpulakasaṃbhava iti bhāvaḥ ||BhPC_10,30.13||</p>
+
+<p>BhP_10,30.14
+ity unmattavaco gopyaḥ kṛṣṇānveṣaṇakātarāḥ / līlā bhagavatas tās tā hy anucakrus tadātmikāḥ //</p>
+
+<p>unmattavat prapacchur ity etat prapañcitam idānīṃ-"ramāpates tās tā viceṣṭā jagṛhus tadātmikāḥ" iti yad uktaṃ tat prapañcayati-itīti | unmattavaco gopyaḥ unmattavacasaś ca tā gopyaś ca | kṛṣṇasyānveṣaṇena kātarā ativiḥvalāḥ | anucakrur anukṛtavatyaḥ ||BhPC_10,30.14||</p>
+
+<p>BhP_10,30.15
+kasyāścit pūtanāyantyāḥ kṛṣṇāyanty apibat stanam / tokayitvā rudaty anyā padāhan śakaṭāyatīm //</p>
+
+<p>kasyāścid ity ādibhiś caturbhir anukaraṇaṃ prapañcyate, tataś caturbhis tanmayatvaṃ punar ekenānukaraṇam iti vivekaḥ | pūtanāyantyāḥ pūtanāvad ācarantyāḥ kṛṣṇavad ācarantī stanam apibat | tokāyitvā tokavad ātmānaṃ kṛtvā ||BhPC_10,30.15||</p>
+
+<lg>
+<l>BhP_10,30.16</l>
+<l>daityāyitvā jahārānyām eko kṛṣṇārbhabhāvanām /</l>
+<l>riṅgayāmāsa kāpy aṅghrī karṣantī ghoṣaniḥsvanaiḥ[*29] //</l>
+</lg>
+
+<p>[*29] ghoṣāḥ kiṅkiṇyas tāsāṃ niḥsvanaiḥ sahitāvaṅghrī karṣantī satī riṅgayāmāsa | ṇijartho 'vivakṣitaḥ |</p>
+
+<p>daityāyitvā daityavat tṛṇāvartavad ātmānaṃ kṛtvā ekā kṛṣṇārbhabhāvanāṃ kṛṣṇasyārbhaṃ bālyaṃ bhāvayati yā tām anyāṃ jahāra ||BhPC_10,30.16|| ||BhPC_10,30.17||</p>
+
+<lg>
+<l>BhP_10,30.18</l>
+<l>āhūya dūragā yadvat kṛṣṇas tam anuvartatīm /</l>
+<l>veṇuṃ kvaṇantīṃ krīḍantīm anyāḥ śaṃsanti sādhv iti //</l>
+</lg>
+
+<p>dūragāḥ dūre vartamānā gāḥ | yadvad yathā kṛṣṇas tathāhūya taṃ kṛṣṇam anuvartamānām | anukurvatīm iti vā pāṭhaḥ ||BhPC_10,30.18|| ||BhPC_10,30.19||</p>
+
+<lg>
+<l>BhP_10,30.20</l>
+<l>mā bhaiṣṭa vātavarṣābhyāṃ tattrāṇaṃ vihitaṃ maya /</l>
+<l>ity uktvaikena hastena yatanty unnidadhe 'mbaram //</l>
+</lg>
+
+<p>yatantī prayatnaṃ kurvatī ambaram uttarīyaṃ vastram unnidadhe ūrdhvaṃ dhṛtavatī ||BhPC_10,30.20|| ||BhPC_10,30.21||</p>
+
+<lg>
+<l>BhP_10,30.22</l>
+<l>tatraikovāca he gopā dāvāgniṃ paśyatolbaṇam /</l>
+<l>cakṣūṃṣy āśv apidadhvaṃ vo vidhāsye kṣemam añjasā //</l>
+</lg>
+
+<l>apidadhvaṃ nimīlayata ||BhPC_10,30.22||</l>
+
+<p>BhP_10,30.23
+baddhānyayā srajā kācit tanvī tatra ulūkhale / bhītā sudṛk pidhāyāsyaṃ bheje bhītiviḍambanam //</p>
+
+<p>sudṛk sunayanam āsyaṃ pidhāya | sudṛk varākṣīti vā | bhīti viḍambanaṃ bhayānukaraṇam ||BhPC_10,30.23||</p>
+
+<p>BhP_10,30.24
+evaṃ kṛṣṇaṃ pṛcchamānā vṛndāvanalatās tarūn / vyacakṣata vanoddeśe padāni paramātmanaḥ //</p>
+
+<p>evaṃ punar api vṛndāvane latās tarūṃś ca kṛṣṇaṃ pṛcchantyo vanoddeśe vanapradeśe | vyacakṣatāpaśyan ||BhPC_10,30.24|| ||BhPC_10,30.25||</p>
+
+<lg>
+<l>BhP_10,30.26</l>
+<l>tais taiḥ padais tatpadavīm anvicchantyo 'grato' balāḥ /</l>
+<l>vadhvāḥ padaiḥ supṛktāni vilokyārtāḥ samabruvan //</l>
+</lg>
+
+<l>supṛktāni saṃmiśrāṇi ||BhPC_10,30.26||</l>
+
+<p>BhP_10,30.27
+kasyāḥ padāni caitāni yātāyā nandasūnunā / aṃsanyastaprakoṣṭhāyāḥ kareṇoḥ kariṇā yathā //</p>
+
+<p>tenāṃse nyastaḥ prakoṣṭho yasyāḥ | kareṇor hastinyāḥ ||BhPC_10,30.27||</p>
+
+<p>BhP_10,30.28
+anayārādhito nūnaṃ bhagavān harir īśvaraḥ / yan no vihāya govindaḥ prīto yām anayad rahaḥ //</p>
+
+<l>raha ekāntasthānam ||BhPC_10,30.28||</l>
+
+<lg>
+<l>BhP_10,30.29</l>
+<l>dhanyā aho amī ālyo govindāṅghryabjareṇavaḥ /</l>
+<l>yān brahmeśo ramā devī dadhur mūrdhny aghanuttaye[*30] //</l>
+</lg>
+
+<p>[*30] agham aparādho virahaduḥkhaṃ vā |</p>
+
+<p>he ālyaḥ sakhyaḥ, aho dhanyā atipuṇyā govindāṅghryabjareṇavaḥ | tatra hetuḥ-yān iti | asmābhir apy etad reṇvabhiṣekeṇa tathaiva kṛṣṇaḥ prāptuṃ śakya iti bhāvaḥ ||BhPC_10,30.29||</p>
+
+<lg>
+<l>BhP_10,30.30</l>
+<l>tasyā amūni naḥ kṣobhaṃ kurvanty uccaiḥ[*31] padāni yat /</l>
+<l>yaikāpahṛtya gopīnām raho[*32] bhunkte 'cyutādharam //</l>
+</lg>
+
+<p>[*31] uccaiḥ adhikaṃ kṣobhaṃ duḥkham |
+[*32] "dhanaṃ bhuṅkte" iti pāṭhaḥ |</p>
+
+<p>anyā āhuḥ-tasyā iti | gopīnāṃ sarvasvam | ayaṃ bhāvaḥ-bhaved[*33] evaṃ yadi tasyāḥ padāni saṃpṛktāni na bhaveyus tāni tu no duḥkhaṃ kurvantīti ||BhPC_10,30.30||</p>
+
+<p>[*33] yadi tasyāḥ padāni saṃpṛktāni na bhaveyus tarhi evaṃ kṛṣṇaprāptisādhanaṃ tatpadarajaḥsevanaṃ bhavet | tāni nu saṃpṛktāni tatpadāni no duḥkhaṃ kurvanti | tasyāḥ pādarajasā miśritatvāt kṛṣṇapādarajasa iti bhāvaḥ |</p>
+
+<lg>
+<l>BhP_10,30.31</l>
+<l>na lakṣyante padāny atra tasyā nūnaṃ tṛṇāṅkuraiḥ /</l>
+<l>khidyatsujātāṅghritalām unninye preyasīṃ priyaḥ //</l>
+</lg>
+
+<p>tad asaṃpṛktān kevalaṃ kṛṣṇapādareṇūn eva vicinvatyas tān dṛṣṭvā punar atyantaṃ samatapan | tad āha ślokatrayeṇa-na lakṣyanta iti | khidyatī sujāte sukumāre aṅghritale yasyās tām unninye skandham āropitavān ||BhPC_10,30.31||</p>
+
+<p>BhP_10,30.32
+atra prasūnāvacayaḥ priyārthe preyasā kṛtaḥ / prapadākramaṇa ete paśyatāsakale pade //</p>
+
+<p>prapadābhyām ākramaṇaṃ kṣoṇīmardanaṃ yayoḥ | ata evāsakale pade paśyateti ||BhPC_10,30.32||</p>
+
+<p>BhP_10,30.33
+keśaprasādhanaṃ tv atra kāminyāḥ kāminā kṛtam / tāni cūḍayatā kāntām upaviṣṭam iha dhruvam //</p>
+
+<p>tasyāḥ kṛṣṇajānvantarupaviṣṭāyāś cihnaṃ dṛṣṭvāhuḥ-keśaprasādhanam iti | kāntām adhikṛtya tāni prasūnāni cūḍayatā cūḍānukāreṇa badhnatā dhruvam upaviṣṭam ||BhPC_10,30.33||</p>
+
+<lg>
+<l>BhP_10,30.34</l>
+<l>reme tayā cātmarata[*34] ātmārāmo 'py akhaṇḍitaḥ /</l>
+<l>kāmināṃ darśayan dainyaṃ strīṇāṃ caiva durātmatām //</l>
+</lg>
+
+<p>[*34] "svātmarataḥ" iti pāṭhaḥ |</p>
+
+<p>reme ity ādiśukoktiḥ | ātmarataḥ svatas tuṣṭaḥ | ātmārāmaḥ svakrīḍaḥ | akhaṇḍitaḥ strīvibhramair anākṛṣṭo 'pi tathā cet kim iti reme 'ta āha-kāminām iti ||BhPC_10,30.34|| ||BhPC_10,30.35||</p>
+
+<p>BhP_10,30.36
+sā ca mene tadātmānaṃ variṣṭhaṃ sarvayoṣitām / hitvā gopīḥ kāmayānā mām asau bhajate priyaḥ //</p>
+
+<p>strīṇāṃ durātmatām āha-sā ceti dvābhyām | kāmo yānam āgamanasādhanaṃ yāsāṃ tā gopīr hitvā māṃ bhajata iti hetor ātmānaṃ variṣṭhaṃ mene iti ||BhPC_10,30.36|| ||BhPC_10,30.37||</p>
+
+<p>BhP_10,30.38
+evam uktaḥ priyām āha skandha āruhyatām iti / tataś cāntardadhe kṛṣṇaḥ sā vadhūr anvatapyata //</p>
+
+<p>kāmināṃ dainyaṃ darśayati-evam ukta iti | akhaṇḍitatvam āha-tataś ceti | tasyāṃ skandhārohodyatāyām antarhita ity arthaḥ ||BhPC_10,30.38||</p>
+
+<p>BhP_10,30.39
+hā nātha ramaṇa preṣṭha kvāsi kvāsi mahābhuja / dāsyās te kṛpaṇāyā me sakhe darśaya sannidhim //</p>
+
+<l>anutāpam āha-hā nātheti ||BhPC_10,30.39||</l>
+
+<lg>
+<l>BhP_10,30.40</l>
+<l>anvicchantyo bhagavato mārgaṃ gopyo 'vidūrataḥ /</l>
+<l>dadṛśuḥ priyaviśleṣamohitāṃ duḥkhitāṃ sakhīm //</l>
+</lg>
+
+<p>anvicchantyo mṛgayamāṇāḥ | avidūrataḥ samīpe ||BhPC_10,30.40|| ||BhPC_10,30.41||</p>
+
+<lg>
+<l>BhP_10,30.42</l>
+<l>tato 'viśan vanaṃ candra jyotsnā yāvad vibhāvyate /</l>
+<l>tamaḥ praviṣṭam ālakṣya tato nivavṛtuḥ striyaḥ //</l>
+</lg>
+
+<p>tatas tayāpi sahitāḥ kṛṣṇānveṣaṇāya vanam aviśan | tato harer anveṣaṇān nivṛttāḥ ||BhPC_10,30.42||</p>
+
+<p>BhP_10,30.43
+tanmanaskās tadalāpās tadviceṣṭās tadātmikāḥ / tadguṇān eva gāyantyo nātmagārāṇi sasmaruḥ //</p>
+
+<p>evaṃ tam aprāptā api svagṛhān naiva smṛtavatyaḥ | tadātmikāḥ sa evātmā yāsāṃ tāḥ | tanmayya ity arthaḥ ||BhPC_10,30.43||</p>
+
+<p>BhP_10,30.44
+punaḥ pulinam āgatya kālindyāḥ kṛṣṇabhāvanāḥ / samavetā jaguḥ kṛṣṇaṃ tadāgamanakāṅkṣitāḥ //</p>
+
+<l>kintu pūrvaṃ yatra śrīkṛṣṇena saṅgatir āsīt tad eva kālindyāḥ puliam āgatya kṛṣṇaṃ bhāvayanti dhyāyantīti tathā tāḥ kṛṣṇasyāgamanaṃ kāṅkṣitaṃ yāsāṃ tāḥ militāḥ satyaḥ kṛṣṇam eva jagur iti ||BhPC_10,30.44||</l>
+
+<p>iti śrīmadbhāgavate mahāpurāṇe daśamaskandhe pūrvārdhe bhāvārthadīpikāyāṃ ṭīkāyāṃ triṃśattamo 'dhyāyaḥ **30**</p>
+
+<lg>
+<l>ekatriṃśe nirāśāstāḥ punaḥ pulinam āgatāḥ /</l>
+<l>kṛṣṇam evānugāyantyaḥ prārthayante tadāgamam // 1 //</l>
+</lg>
+
+<p>BhP_10,31.01
+<lg>
+<l>gopya ūcuḥ</l>
+<l>jayati[*35] te 'dhikaṃ janmanā vrajaḥ śrayata indirā śaśvad atra hi /</l>
+<l>dayita dṛśyatāṃ[*36] dikṣu tāvakās tvayi dhṛtāsavas tvāṃ vicinvate //</l>
+</lg></p>
+
+<p>[*35] jayatītyādiślokeṣu prāyaścaturṇāṃ pādānāṃ dvitīyākṣarahalaikyaṃ keṣucit pādeṣu prathamasaptamākṣarahalaikyaṃ tatra kvacit śasabavādīnām ālaṅkārikādisamayasiddhasāvarṇyād aikyam iti jñeyam |
+[*36] tvayā dṛśyatāṃ pratyakṣībhūyatām iti preraṇātyāgenākarmakatvād bhāve loṭ | yadvā asmābhir bhavān dṛśyatām iti karmaṇi loṭ |</p>
+
+<p>jayatīti | he dayita, te janmanā vrajo 'dhikaṃ yathā bhavati tathā jayaty utkarṣeṇa vartate | yasmāt tvam atra jātas tasmad indirā lakṣmīr atra hi śrayate vrajam alaṅkṛtya vartate | evaṃ vraje sarvasmin modamāne 'tra tu tāvakās tvadīyā gopījanās tvayi tvadartham eva kathañcid dhṛtā asavo yais te tvāṃ vicinvate | atas tvayā dṛṣyatāṃ pratyakṣībhūyatām iti | yadvā asmābhir bhavān dṛṣyatām | yadvā evaṃ tvayā dṛṣyatām ete vicinvata iti ||BhPC_31.1||</p>
+
+<lg>
+<l>BhP_10,31.02</l>
+<l>śaradudāśaye sādhujātasatsarasijodaraśrīmuṣā dṛśā[*37] /</l>
+<l>suratanātha te 'śulkadāsikā varada nighnato neha kiṃ vadhaḥ //</l>
+</lg>
+
+<p>[*37] athavā dṛśaiva śulkadāsikāḥ dṛgrūpaśulkenaiva dāsīr api tyāgena mārayataḥ iti yojanā |</p>
+
+<p>atra svatantrāṇāṃ bāhūnāṃ vaktṛtvād aparā āhur iti sarvaślokeṣv avatāraṇā, athāpi saṅgatir ucyate | tatra vicinvantu mama kim iti cet tatrāhuḥ-śaradeti | śarad udāśaye śaratkālīne sarasi sādhu jātaṃ samyak jātaṃ yat sarasijaṃ vikasitaṃ padmaṃ tasyodare garbhe yā śrīs tāṃ muṣṇāti haratīti tathā tayā dṛśā netreṇa he suratanātha saṃbhogapate varadābhīṣṭaprada, aśulkadāsikā amūlyadāsīr no nighnato mārayatas te tava tvayā kriyamāṇa iha loke 'yaṃ vadho na bhavati kim | śastreṇaiva vadho vadhaḥ kiṃ dṛśā vadho na bhavati, kintu bhavaty eva | atas tava dṛśā 'pahṛtaprāṇapratyarpaṇāya tvayā dṛśyatām iti bhāvaḥ | tvayā dṛśyatām iti yathāsaṃbhavaṃ sarvatra vākyaśeṣaḥ ||BhPC_31.2||</p>
+
+<lg>
+<l>BhP_10,31.03</l>
+<l>viṣajalāpyayād vyālarākṣasād varṣamārutād vaidyutānalāt /</l>
+<l>vṛṣamayātmajād[*38] viśvato bhayād ṛṣabha te vayaṃ rakṣitā muhuḥ //</l>
+</lg>
+
+<p>[*38] vṛṣātmajo vatsāsuraḥ "varāhatokoniragād" itivat | mayātmajo vyomāsuraḥ | taccaritram agre vakṣyamāṇam api rāsāt pūrvabhāvīti jñeyam |</p>
+
+<p>kiṃ ca bahubhyo mṛtyubhyaḥ kṛpayā rakṣitvā kimitīdānīṃ dṛśā manmathaṃ preṣya ghātayasīty āhuḥ-viṣeti | he ṛṣabha śreṣṭha, viṣamayāj jalādyo 'pyayo nāśas tasmāt tathā vyālarākṣasād aghāsurād varṣān mārutād vaidyutānalād aśanipātāt vṛṣo 'ṛṣṭas[*39] tasmān mayātmajād vyomād viśvato 'nyasmād api sarvato bhayāc ca kāliyadamanādinā rakṣitāḥ kim idānīm upekṣasa iti bhāvaḥ ||BhPC_31.3||</p>
+
+<lg>
+<l>BhP_10,31.04</l>
+<l>na khalu gopīkānandano bhavān akhiladehinām antarātmadṛk /</l>
+<l>vikhanasārthito viśvaguptaye sakha udeyivān sātvatāṃ kule //</l>
+</lg>
+
+<p>[*39] ariṣṭavyomāsurayor vadhasya bhāvitve 'pi gargādimukhāc chrutatvena vipralambapoṣakatvena vā bhūtavan nirdeśaḥ |</p>
+
+<p>api ca viśvapālanāyāvatīrṇasya tava bhaktopekṣā 'tyantam anucitety āśayenāhuḥ-na khalv iti | he sakhe, bhavān khalu niścitaṃ yaśodāsuto na bhavati, kintu sarvaprāṇināṃ buddhisākṣī | nanu sa kiṃ dṛśyo bhavati tatrāhuḥ-vikhanasā brahmaṇā viśvapālanāya prārthitaḥ sansātvatāṃ kule udeyivān udita iti ||BhPC_31.4||</p>
+
+<lg>
+<l>BhP_10,31.05</l>
+<l>viracitābhayaṃ vṛṣṇidhūrya te caraṇam[*40] īyuṣāṃ saṃsṛter bhayāt /</l>
+<l>karasaroruhaṃ kānta[*41] kāmadaṃ śirasi dhehi naḥ śrīkaragraham //</l>
+</lg>
+
+<p>[*40] "śaraṇam īyuṣām" iti pāṭhaḥ |
+[*41] yadvā kāntaṃ ca tatkāmadaṃ ceti svataḥ sukharūpam abhīṣṭadaṃ ceti kecit |</p>
+
+<p>tasmāt tvadbhaktānām asmākam etat prārthanācatuṣṭayaṃ saṃpādayety āhuḥ-viracitābhayam ity ādi caturbhiḥ | he vṛṣṇidhurya, saṃsṛter bhayāt te caraṇam īyuṣāṃ śaraṇaṃ prāptānāṃ prāṇināṃ viracitaṃ dattam abhayaṃ yena tat tathā he kānta, kāmadaṃ varadaṃ tathā śriyaḥ karaṃ gṛhṇātīti tathā tad bhavatkarasaroruhaṃ na śirasi dehi ||BhPC_31.5||</p>
+
+<lg>
+<l>BhP_10,31.06</l>
+<l>vrajajanārtihan vīra yoṣitāṃ nijajanasmayadhvaṃsanasmita /</l>
+<l>bhaja sakhe bhavatkiṅkarīḥ[*42] sma no jalaruhānanaṃ cāru darśaya //</l>
+</lg>
+
+<p>[*42] athavā abhavatkiṅkarīḥ anyā eva bhaja | mukhapadmaṃ ca no pradarśaya | maraṇasyaiva niścitatvād iti praṇayakope yojanā |</p>
+
+<p>he vrajajanārtihan he vīra, nija janānāṃ yaḥ smayo garvas tasya dhvaṃsanaṃ nāśakaṃ smitaṃ yasya tathābhūta he sakhe, bhavatkiṅkarīr no 'smān bhaja āśraya | smeti niścitam | prathamaṃ tāvaj jalaruhānanaṃ cāru yoṣitāṃ no darśaya ||BhPC_31.6||</p>
+
+<lg>
+<l>BhP_10,31.07</l>
+<l>praṇatadehināṃ pāpakarṣaṇaṃ tṛṇacarānugaṃ śrīniketanam /</l>
+<l>phaṇiphaṇārpitaṃ[*43] te padāmbujaṃ kṛṇu kuceṣu naḥ kṛndhi hṛcchayam //</l>
+</lg>
+
+<p>[*43] phaṇinaḥ phaṇāsv arpaṇamātreṇa tadviṣadarpasyeva hṛdi sparśamātreṇa kandarpasya nāśo na duṣkara iti bhāvaḥ |</p>
+
+<p>aviśeṣeṇa praṇatāṇāṃ dehināṃ pāpakarśanaṃ pāpahantṛ tṛṇacarān paśūn apy anu gacchati kṛpayeti tathā saubhāgyena śriyo niketanaṃ vīryātirekeṇa phaṇinaḥ phanāsv arpitaṃ te padāmbujaṃ naḥ kuceṣu kṛṇu kuru | kim artham | hṛcchayaṃ kāmaṃ kṛndhi chindhi ||BhPC_31.7||</p>
+
+<lg>
+<l>BhP_10,31.08</l>
+<l>madhurayā girā valguvākyayā budhamanojñayā puṣkarekṣaṇa /</l>
+<l>vidhikarīr[*44] imā vīra muhyatīr adharasīdhunāpyāyayasva naḥ //</l>
+</lg>
+
+<p>[*44] yadvā giraiva vidhikarīr adhunā virahāt saṃmuhyatīḥ imāḥ pratyakṣāḥ |</p>
+
+<p>he puṣkarekṣaṇa, tavaiva madhurayā girā valgūni vākyāni yasyāṃ tayā budhānāṃ manojñayā hṛdyayā gambhīrayety arthaḥ | muhyatīr imā no vidhikarīḥ kiṅkarīr adharasīdhunā āpyāyayasva saṃjīvayeti ||BhPC_31.8||</p>
+
+<lg>
+<l>BhP_10,31.09</l>
+<l>tava kathāmṛtaṃ[*45] taptajīvanaṃ kavibhir īḍitaṃ kalmaṣāpaham /</l>
+<l>śravaṇamaṅgalaṃ śrīmad ātataṃ bhuvi gṛṇanti te bhūridā janāḥ //</l>
+</lg>
+
+<p>[*45] yadvā santaptā āhuḥ-tava kathā eva ṃrtaṃ mṛtiḥ saivoddīpanavidhayāsmān mārayati | tathā taptajīvanaṃ tapte taile jīvanam ivety arthaḥ | tathā ca ye 'smat purato gṛṇanti te bhūridā mahāghātakāḥ | "do avakhaṇḍane" iti dhātuḥ | ataḥ kathāmṛtenālam iti yojanā |</p>
+
+<p>kiṃ ca asmākaṃ tvadvirahe prāptam eva mataṇaṃ kintu tvatkathāmṛtaṃ pāyayadbhiḥ sukṛtibhir vañcitam ity āhuḥ-taveti | kathaivāmṛtam | atra hetuḥ-taptajīvanam | prasiddhāmṛtād utkarṣam āhuḥ-kavibhir brahmavidbhir apīḍitaṃ stutam | devabhogyaṃ tv amṛtaṃ tair tucchīkṛtam | kiṃ ca kalmaṣāpahaṃ kāmakarmanirasanam | tattvamṛtaṃ naivaṃbhūtam | kiṃ ca śravaṇamaṅgalaṃ śravaṇamātreṇa maṅgalapradam | tat tv anuṣṭhānāpekṣam | kiṃ ca śrīmat suśāntam | tat tu mādakam | evaṃbhūtaṃ tvatkathāmṛtam ātataṃ yathā bhavati tathā ye bhuvi gṛṇanti nirūpayanti te janā bhūridā bahudātāraḥ | jīvitaṃ dadatīty arthaḥ | yadvā evaṃbhūtaṃ tvatkathāmṛtaṃ ye bhuvi gṛṇanti te bhūridāḥ pūrvajanmasu bahu dattavantaḥ sukṛtina ity arthaḥ | etad uktaṃ bhavati-ye kevalaṃ kathāmṛtaṃ gṛṇanti te 'pi tāvad atidhanyāḥ kiṃ punar ye tvāṃ paśyanti, ataḥ prārthayāmahe tvayā dṛśyatām iti ||BhPC_31.9||</p>
+
+<lg>
+<l>BhP_10,31.10</l>
+<l>prahasitaṃ priya premavīkṣaṇaṃ viharaṇaṃ ca te dhyānamaṅgalam[*46] /</l>
+<l>rahasi saṃvido yā hṛdi spṛśaḥ kuhaka no manaḥ kṣobhayanti hi //</l>
+</lg>
+
+<p>[*46] dhyānamātreṇa maṅgalapradam | idaṃ prahasitādīnāṃ viśeṣaṇam |</p>
+
+<p>nanu matkathāśravaṇenaiva nirvṛtā bhavata kiṃ maddarśanena, na, tvadvilāsakṣubhitacittā vayaṃ tatrāpi śāntiṃ na vindāma ity āhuḥ-prahasitam iti | he priya, kuhaka kapaṭa, saṃvidaḥ saṅketanarmāṇi ||BhPC_31.10||</p>
+
+<lg>
+<l>BhP_10,31.11</l>
+<l>calasi yad vrajāc cārayan paśūn nalinasundaraṃ nātha te padam /</l>
+<l>śilatṛṇāṅkuraiḥ sīdatīti naḥ kalilatāṃ manaḥ kānta gacchati //</l>
+</lg>
+
+<p>kiṃ ca tvayi vayam atipremārdracittās tvaṃ punar asmāsu kena hetunā kapaṭam ācarasīty āhuḥ ślokadvayena-calasīti | he nātha he kānta, yat yadā vrajāc calasi paśūṃś cārayaṃs tadā tan nalinasundaraṃ komalaṃ te padaṃ śilaiḥ kaṇiśais tṛṇair aṅkuraiś ca sīdati kliśyed iti no manaḥ kalilatām asvāsthyaṃ gacchati prāpnoti | evaṃbhūtās tvadduḥkhaśaṅkitacittā vayam ||BhPC_31.11||</p>
+
+<lg>
+<l>BhP_10,31.12</l>
+<l>dinaparikṣaye nīlakuntalair vanaruhānanaṃ bibhrad āvṛtam /</l>
+<l>ghanarajasvalaṃ darśayan muhur manasi naḥ smaraṃ vīra yacchasi //</l>
+</lg>
+
+<p>tvaṃ tu dinaparikṣaye sāyaṃ kāle nīlakuntalair āvṛtaṃ ghanarajasvalaṃ gorajaś churitaṃ vanaruhānanam alimālākulaparāgacchuritapadmatulyam ānanaṃ bibhrat tac ca muhur muhur darśayan no manasi kevalaṃ smaraṃ[*47] yacchasy arpayasi | na tu saṅgaṃ dadāsīti kapaṭas tvam iti bhāvaḥ ||BhPC_31.12||</p>
+
+<p>[*47] smaraṃ smaraṇamātreṇāpi kṣobhakam |</p>
+
+<lg>
+<l>BhP_10,31.13</l>
+<l>praṇatakāmadaṃ padmajārcitaṃ dharaṇimaṇḍanaṃ[*48] dhyeyam āpadi /</l>
+<l>caraṇapaṅkajaṃ śantamaṃ ca te ramaṇa naḥ staneṣv arpayādhihan //</l>
+</lg>
+
+<p>[*48] dharaṇiṃ dhvajādicihnair maṇḍayatīti |</p>
+
+<p>ato 'dhunā kapaṭaṃ vihāyaivaṃ kurv iti prārthayanti ślokadvayena-praṇatakāmadam iti | he adhihan he ramaṇa, padmajena brahmaṇārcitam āpadi dhyeyaṃ dhyānamātreṇāpannivartakaṃ śantamaṃ ca sevāsamaye 'pi sukhatamaṃ te caraṇapaṅkajaṃ kāmatāpaśāntaye naḥ staneṣv arpayeti ||BhPC_31.13||</p>
+
+<lg>
+<l>BhP_10,31.14</l>
+<l>suratavardhanaṃ śokanāśanaṃ svaritaveṇunā suṣṭhu cumbitam /</l>
+<l>itararāgavismāraṇaṃ nṛṇāṃ[*49] vitara vīra nas te 'dharāmṛtam //</l>
+</lg>
+
+<p>[*49] nṛṇām iti puṃsām api, kim uta nārīṇām |</p>
+
+<p>api ca he vīra, te 'dharāmṛtaṃ no vitara dehi | svaritena nāditena veṇunā suṣṭhu cumbitam iti nādāmṛtavāsitam iti bhāvaḥ | itararāgavismāraṇaṃ nṛṇām itareṣu sārvabhaumādisukheṣu rāgam icchāṃ vismārayati vilāpayatīti tathā tat ||BhPC_31.14||</p>
+
+<lg>
+<l>BhP_10,31.15</l>
+<l>aṭati yad bhavān ahni kānanaṃ truṭir yugāyate tvām apaśyatām /</l>
+<l>kuṭilakuntalaṃ śrīmukhaṃ ca te jaḍa[*50] udīkṣatāṃ pakṣmakṛd dṛśām //</l>
+</lg>
+
+<p>[*50] yadvā ajaḍa iti chedaḥ | yaḥ pakṣmāṇi kṛntati sa nimīlanābhāvasaṃpādaka eva ajaḍo rasajñaḥ | kiṃ vā svadṛśāṃ pakṣmacchideva ajaḍaḥ udīkṣatāṃ uccaiḥ paśyatu | vayaṃ tu pakṣmapihitadṛśo jaḍāḥ kiṃ paśyāmeti darśane 'pi vidhāna duḥkham iti bhāvaḥ |</p>
+
+<p>kiṃ ca kṣaṇam api tvadadarśane duḥkhaṃ darśane ca sukhaṃ dṛṣṭvā sarvasaṅgaparityāgena yataya iva vayaṃ truṭiḥ kṣaṇārdham api yugavad bhavati | evam adarśane duḥkham uktam | punaś ca kathañcid dinānte te tava śrīman mukham uduccair īkṣamānānāṃ teṣāṃ dṛṣāṃ pakṣmakṛd brahmā jaḍo manda eva | nimeṣamātram apy antaram asahyam iti darśane sukham uktam ||BhPC_31.15||</p>
+
+<lg>
+<l>BhP_10,31.16</l>
+<l>patisutānvayabhrātṛbāndhavān ativilaṅghya te 'nty acyutāgatāḥ /</l>
+<l>gatividas tavodgītamohitāḥ kitava yoṣitaḥ kas tyajen niśi //</l>
+</lg>
+
+<p>tasmāt he acyuta, patīn sutān anvayāṃs tatsaṃbandhino bhrātṝn bāndhavāṃś cātivilaṅghya tava samīpam āgatā vayam | kathaṃbhūtasya | gativido 'smad āgamanaṃ jānataḥ, gītagatīr vā jānataḥ, gativido vayaṃ vā | tavodgītenoccair gītena mohitāḥ he kitava śaṭha, evaṃbhūtā yoṣito niśi svayam āgatās tvām ṛte kas tyajet | na ko 'pīty arthaḥ ||BhPC_31.16||</p>
+
+<lg>
+<l>BhP_10,31.17</l>
+<l>rahasi[*51] saṃvidaṃ hṛcchayodayaṃ prahasitānanaṃ premavīkṣaṇam /</l>
+<l>bṛhaduraḥ śriyo vīkṣya dhāma te muhur atispṛhā[*52] muhyate manaḥ //</l>
+</lg>
+
+<p>[*51] rahasi saṃvido yatra tam | alugārṣaḥ | prahasitam ānanaṃ yatra | premṇā vīkṣṇaṃ yatra |
+[*52] atispṛhā bhavati | yadvā spṛheti saṃpadāditvād bhāve kvipi tṛtīyā | mano vīkṣya atispṛhayā muhyatīty arthaḥ | 'atispṛhaṃ' iti citsukhapāṭhaḥ |</p>
+
+<p>atas tvayā tyaktānām asmākaṃ prāktanatvaddarśananidānahṛdrogasya tvatsaṅgatyaiva cikitsāṃ kurvityāśayenāhur dvayena-rahasīti | śriyo dhāma te bṛhad viśālam uraś ca vīkṣyātispṛhā bhavati | tathā ca muhur muhur mano muhyati ||BhPC_31.17||</p>
+
+<lg>
+<l>BhP_10,31.18</l>
+<l>vrajavanaukasāṃ[*53] vyaktir aṅga te vṛjinahantry alaṃ viśvamaṅgalam /</l>
+<l>tyaja manāk ca nas tvatspṛhātmanāṃ svajanahṛdrujāṃ yan niṣūdanam //</l>
+</lg>
+
+<p>[*53] vrajaukasāṃ vanaukasāṃ ca |</p>
+
+<p>tava ca vyaktir abhivyaktir vrajavanaukasāṃ sarveṣām aviśeṣeṇa vṛjinahantrī duḥkhanirasanīti viśvamaṅgalaṃ sarvamaṅgalarūpā ca | atas tvatspṛhātmanāṃ tvatspṛhārūḍhamanasāṃ no manāg īṣat kim api tyaja muñca | kārpaṇyam akurvan dehīty arthāḥ | kiṃ tat | svajanahṛdrogāṇāṃ yad atigopyaṃ niṣūdanaṃ nivartakam auṣadhaṃ tat tvam eva vetasīti gūḍhābhiprāyam ||BhPC_31.18||</p>
+
+<lg>
+<l>BhP_10,31.19</l>
+<l>yat te sujātacaraṇāmburuhaṃ staneṣu bhītāḥ śanaiḥ priya dadhīmahi karkaśeṣu /</l>
+<l>tenāṭavīm aṭasi tad vyathate na kiṃ svit kūrpādibhir bhramati dhīr bhavadāyuṣāṃ naḥ //</l>
+</lg>
+
+<p>atipremadharṣitā rudatya āhuḥ-yad iti | he priya, yat te tava sukumāraṃ padābjaṃ kaṭhineṣu kuceṣu saṃmardanaśaṅkitāḥ śanair dadhīmahi[*54] dhārayema vayam | tvaṃ tu tenāṭavīm aṭasi | "nayasi" iti pāṭhe paśūn vā kāñcid anyāṃ vā ātmānam eva vā nayasi prāpayasi | tat tataḥ tat padāmbujaṃ vā kūrpādibhiḥ sūkṣmapāṣāṇādibhiḥ kiṃ svin na vyathate kathaṃ nu nāma na vyatheteti bhavān[*55] evāyur jīvanaṃ yāsāṃ tāsāṃ no dhīr bhramati muhyatīti ||BhPC_31.19||</p>
+
+<p>[*54] dadhīmahi dhartuṃ yogyam | "arhe kṛtyatṛcaś ca" iti liṅ |
+[*55] bhavadāyuṣām iti | ittham eva ca "tvayi dhṛtāsavaḥ" ity upakramo 'pi |</p>
+
+<p>iti śrīmadbhāgavate mahāpurāṇe daśamaskandhe pūrvārdhe bhāvārthadīpikāyāṃ ṭīkāyāṃ ekatriṃśo 'dhyāyaḥ **31**</p>
+
+<lg>
+<l>dvātriṃśe virahālāpaviklinnahṛdayo hariḥ /</l>
+<l>tatrāvirbhūya gopīs tāḥ sāntvayāmāsa mānayan // 1 //</l>
+</lg>
+
+<lg>
+<l>svapremāmṛtakallolavihvalīkṛtacetasaḥ /</l>
+<l>sad ayaṃ nandayan gopīr udgato nandanandanaḥ // 2 //</l>
+</lg>
+
+<lg>
+<l>BhP_10,32.01</l>
+<l>iti gopyaḥ pragāyantyaḥ pralapantyaś ca citradhā /</l>
+<l>ruruduḥ susvaraṃ rājan kṛṣṇadarśanalālasāḥ //</l>
+</lg>
+
+<p>iti gopya iti | ity evaṃ prabhṛti | citradhā anekadhā susvaram uccaiḥ kṛṣṇadarśane lālasātispṛhā yāsāṃ tāḥ ||BhPC_10,32.1||</p>
+
+<lg>
+<l>BhP_10,32.02</l>
+<l>tāsām āvirabhūc chauriḥ smayamānamukhāmbujaḥ /</l>
+<l>pītāmbaradharaḥ sragvī sākṣān manmathamanmathaḥ //</l>
+</lg>
+
+<l>sākṣān manmathamanmatho jaganmohanasya kāmasyāpi manasy udbhūtaḥ kāmaḥ sākṣāt tasyāpi mohaka ity arthaḥ ||BhPC_10,32.2||</l>
+
+<lg>
+<l>BhP_10,32.03</l>
+<l>taṃ vilokyāgataṃ preṣṭhaṃ prītyutphulladṛśo 'balāḥ /</l>
+<l>uttasthur yugapat sarvās tanvaḥ prāṇam ivāgatam //</l>
+</lg>
+
+<p>tanvaḥ karacaraṇādayaḥ ||BhPC_10,32.3|| ||BhPC_10,32.4||</p>
+
+<lg>
+<l>BhP_10,32.05</l>
+<l>kācid añjalināgṛhṇāt tanvī tāmbūlacarvitam /</l>
+<l>ekā tadaṅghrikamalaṃ santaptā stanayor adhāt //</l>
+</lg>
+
+<l>añjalinā saṃhatahastadvayena ||BhPC_10,32.5||</l>
+
+<lg>
+<l>BhP_10,32.06</l>
+<l>ekā bhrukuṭim ābadhya premasaṃrambhavihvalā /</l>
+<l>ghnantīvaikṣat kaṭākṣepaiḥ sandaṣṭadaśanacchadā //</l>
+</lg>
+
+<l>bhrukuṭiṃ bhruvam ābadhya kuṭilīkṛtya premasaṃrambheṇa praṇayakopāveśena vihvalā vivaśā daṣṭādharoṣṭhā kaṭāḥ kaṭākṣās tair ye ākṣepāḥ paribhavās tais tāḍayantīvaikṣat ||BhPC_10,32.6||</l>
+
+<lg>
+<l>BhP_10,32.07</l>
+<l>aparānimiṣaddṛgbhyāṃ juṣāṇā tanmukhāmbujam /</l>
+<l>āpītam api nātṛpyat santas[*56] taccaraṇaṃ yathā //</l>
+</lg>
+
+<p>[*56] santo dāsyabhaktiniṣṭhā iti tṛptyabhāve dṛṣṭāntaḥ |</p>
+
+<l>animiṣantībhyām animīlantībhyāṃ dṛgbhyām āpītam api samyag dṛṣṭam api punaḥ punar juṣāṇā nātṛpyat ||BhPC_10,32.7||</l>
+
+<lg>
+<l>BhP_10,32.08</l>
+<l>taṃ kācin netrarandhreṇa hṛdi kṛtya nimīlya ca /</l>
+<l>pulakāṅgy upaguhyāste yogīvānandasamplutā[*57] //</l>
+</lg>
+
+<p>[*57] yogīvety antaḥsphūrtau dṛṣṭāntaḥ |</p>
+
+<l>hṛdi kṛtya hṛdayaṃ nītvety arthaḥ ||BhPC_10,32.8||</l>
+
+<lg>
+<l>BhP_10,32.09</l>
+<l>sarvās tāḥ keśavālokaparamotsavanirvṛtāḥ /</l>
+<l>jahur virahajaṃ tāpaṃ prājñaṃ prāpya yathā janāḥ //</l>
+</lg>
+
+<p>prājñaṃ īśvaraṃ prāpya yathā mumukṣavo janāḥ | yadvā prājñaṃ brahmajñaṃ prāpya yathā saṃsāriṇaḥ | yadvā prājñaṃ sauṣuptaṃ[*58] prāpya yathā viśvataijasāvasthā jīvāḥ ||BhPC_10,32.9||</p>
+
+<p>[*58] sauṣuptaṃ suṣuptisākṣiṇam ity arthaḥ |</p>
+
+<lg>
+<l>BhP_10,32.10</l>
+<l>tābhir vidhūtaśokābhir bhagavān acyuto vṛtaḥ /</l>
+<l>vyarocatādhikaṃ tāta puruṣaḥ śaktibhir yathā //</l>
+</lg>
+
+<p>puruṣaḥ paramātmā śaktibhiḥ sattvādibhir yathā | yadvā upāsakaḥ puruṣo jñānabalavīryādibhiḥ | yadvā puruṣo 'nuśāyī prakṛtyādyupādhibhir vṛto yathā 'dhikaṃ virocate tadvat ||BhPC_10,32.10||</p>
+
+<lg>
+<l>BhP_10,32.11</l>
+<l>tāḥ samādāya kālindyā nirviśya[*59] pulinaṃ vibhuḥ /</l>
+<l>vikasatkundamandāra surabhyanilaṣaṭpadam //</l>
+</lg>
+
+<p>[*59] nirviśya adhiṣṭhāya |</p>
+
+<l>vikasatkundamandāraiḥ surabhir yo 'nilas tasmāt ṣaṭpadā yasmiṃs tat ||BhPC_10,32.11||</l>
+
+<lg>
+<l>BhP_10,32.12</l>
+<l>śaraccandrāṃśusandohadhvastadoṣātamaḥ śivam /</l>
+<l>kṛṣṇāyā hastataralācitakomalavālukam //</l>
+</lg>
+
+<p>śaraccandrāṃśūnāṃ sandohaiḥ samūhair dhvastaṃ doṣātamo rātrigataṃ tamo yasmiṃs tat | ataḥ śivaṃ sukhakaram | hastarūpais taralais taraṅgair ācitā āstṛtā komalā vālukā yasmin | evaṃbhūtaṃ pulinaṃ tāḥ samādāya nirviśya tābhir vṛto 'dhikaṃ vyarocateti pūrveṇānvayaḥ ||BhPC_10,32.12||</p>
+
+<lg>
+<l>BhP_10,32.13</l>
+<l>taddarśanāhlādavidhūtahṛdrujo manorathāntaṃ śrutayo yathā yayuḥ /</l>
+<l>svair uttarīyaiḥ kucakuṅkumāṅkitair acīk pann āsanam ātmabandhave //</l>
+</lg>
+
+<p>tāś ca manorathānām antaṃ yayuḥ pūrṇakāmā babhūvuḥ | śrutayo yatheti | ayam arthaḥ-yathā karmakāṇḍe śrutayaḥ parameśvaram apaśyantyas tat tatkāmānubandhair apūrṇā iva bhavanti, jñānakāṇḍe tu parameśvaraṃ dṛṣṭvā tadāhlādapūrṇāḥ kāmānubandhaṃ jahati tadvad iti | āptakāmā api premṇā tam abhajann ity āha-svair iti | acīk pan racayāmāsuḥ | ātmabandhave 'ntaryāmiṇe ||BhPC_10,32.13||</p>
+
+<lg>
+<l>BhP_10,32.14</l>
+<l>tatropaviṣṭo bhagavān sa īśvaro yogeśvarāntarhṛdikalpitāsanaḥ[*60] /</l>
+<l>cakāsa gopīpariṣadgato 'rcitas[*61] trailokyalakṣmyekapadaṃ vapur dadhat //</l>
+</lg>
+
+<p>[*60] hṛdikalpitāsanaḥ ity aluksamāsaḥ |
+[*61] arcitas tāmbūlanarmasmitādinā satkṛtaḥ |</p>
+
+<p>gopīsabhāgatas tābhiḥ saṃmānitaḥ san cakāsa śuśubhe | trailokye yā lakṣmīḥ śobhā tasyā ekam eva padaṃ sthānaṃ tadvapur dadhad darśayan ||BhPC_10,32.14||</p>
+
+<lg>
+<l>BhP_10,32.15</l>
+<l>sabhājayitvā tam anaṅgadīpanaṃ sahāsalīlekṣaṇavibhramabhruvā /</l>
+<l>saṃsparśanenāṅkakṛtāṅghrihastayoḥ saṃstutya īṣat kupitā babhāṣire[*62] //</l>
+</lg>
+
+<p>[*62] babhāṣire vakṣyamāṇaṃ papracchur iti śeṣaḥ |</p>
+
+<p>sahāsalīlekṣaṇena vibhramo vilāso yasyāṃ tayā bhruvopalakṣitāḥ | saṃsparśanena saṃmardanena ||BhPC_10,32.15||</p>
+
+<p>BhP_10,32.16
+<lg>
+<l>gopya ūcuḥ</l>
+<l>bhajato 'nubhajanty eka eka etadviparyayam /</l>
+<l>nobhayāṃś[*63] ca bhajanty eka etan no brūhi sādhu bhoḥ //</l>
+</lg></p>
+
+<p>[*63] "nobhayāś ca bhajanty anye" iti pāṭhaḥ |</p>
+
+<p>tatra bhagavato 'kṛtajñatāṃ tadvacanenaivāpādayitukāmā gūḍhābhiprāyā lokavṛttāntam iva pṛcchanti-bhajata iti | bhajataḥ prāṇinaḥ | anu anantaraṃ | kecit tadbhajanānusāreṇa bhajanti | kecid etad viparyayaṃ yathā bhavati tathā | tadbhajanān apekṣam abhajato 'pi bhajanti | anye tu nobhayān[*64] iti ||BhPC_10,32.16||</p>
+
+<p>[*64] ubhayān bhajataḥ abhajataś ca |</p>
+
+<p>BhP_10,32.17
+<lg>
+<l>śrībhagavān uvāca</l>
+<l>mitho bhajanti ye sakhyaḥ svārthaikāntodyamā hi te /</l>
+<l>na tatra sauhṛdaṃ dharmaḥ svārthārthaṃ tad dhi nānyathā[*65] //</l>
+</lg></p>
+
+<p>[*65] nānyathā parārtham ity arthaḥ |</p>
+
+<p>viditābhiprāya uttaram āha-mitha iti | he sakhyaḥ, upakārapratyupakāratayā ye mitho bhajanti te 'nyaṃ na bhajanti kiṃ tv ātmānam eva | kutaḥ | hi yasmāt svārtha[*66] evaikānta udyamo yeṣāṃ te | tatra ca na[*67] sauhṛdam ato na sukhaṃ, na ca dharmo dṛṣṭoddeśād gomahiṣyādibhajanavad ity arthaḥ ||BhPC_10,32.17||</p>
+
+<p>[*66] svārthe svīye dṛṣṭaphale |
+[*67] na sauhṛdaṃ kaitavamayatvāt |</p>
+
+<lg>
+<l>BhP_10,32.18</l>
+<l>bhajanty abhajato ye vai karuṇāḥ pitaro yathā /</l>
+<l>dharmo nirapavādo[*68] 'tra sauhṛdaṃ ca sumadhyamāḥ //</l>
+</lg>
+
+<p>[*68] nirapavādo nirbādhaḥ | idaṃ sauhṛdasyāpi viśeṣaṇam |</p>
+
+<p>ye tv abhajato bhajanti te dvividhāḥ | karuṇāḥ snigdhāś ca | tatra tu yathākramaṃ dharmakāmau bhavata ity āha-bhajanty abhajata iti ||BhPC_10,32.18||</p>
+
+<lg>
+<l>BhP_10,32.19</l>
+<l>bhajato 'pi na vai kecid bhajanty abhajataḥ kutaḥ /</l>
+<l>ātmārāmā hy āptakāmā akṛtajñā gurudruhaḥ //</l>
+</lg>
+
+<p>tṛtīyapraśnottaraṃ bhajato 'pīti | ayam arthaḥ-te tu caturvidhāḥ | eke ātmārāmā aparāgdṛśaḥ, kecid āptakāmā viṣayadarśino 'pi pūrṇakāmatvena bhogecchārahitāḥ, anye 'kṛtajñā mūḍhāḥ, anye tu gurudruho 'tikaṭhināḥ "sa pitā yas tu poṣakaḥ" iti nyāyād upakartā gurutulyas tasmai druhyantīti tathā te ||BhPC_10,32.19||</p>
+
+<lg>
+<l>BhP_10,32.20</l>
+<l>nāhaṃ tu sakhyo bhajato 'pi jantūn bhajāmy amīṣām anuvṛttivṛttaye /</l>
+<l>yathādhano labdhadhane vinaṣṭe taccintayānyan nibhṛto na veda //</l>
+</lg>
+
+<p>atra caramakoṭigatam ātmānaṃ matvā, akṣisaṃkocaiḥ parasparaṃ gūḍhasmitamukhīs tā dṛṣṭvā āha-nāhaṃ tv iti | he sakhyaḥ, ahaṃ teṣāṃ madhye na ko 'pi, kiṃ tu paramakāruṇikaḥ paramasuhṛc ca | katham | amīṣāṃ bhajatām anuvṛttivṛtaye nirantaradhyānapravṛttyarthaṃ tān na bhajāmi | etat sadṛṣṭāntam āha-yatheti | tasya dhanasyaiva cintayā nibhṛtaḥ pūrṇaḥ | vyāpta iti yāvat | anyat kṣutpipāsādy api na veda ||BhPC_10,32.20||</p>
+
+<lg>
+<l>BhP_10,32.21</l>
+<l>evaṃ madarthojjhitalokavedasvānāṃ hi vo mayy anuvṛttaye 'balāḥ /</l>
+<l>mayā parokṣaṃ bhajatā tirohitaṃ māsūyituṃ mārhatha tat priyaṃ priyāḥ //</l>
+</lg>
+
+<p>evaṃ madarthojjhitalokavedasvānāṃ madarthe ujjhito loko yuktāyuktāpratīkṣaṇāt, vedaś ca dharmādharmāpratīkṣaṇāt, svā jñātayaś ca snehatyāgāt yābhis tāsāṃ vo yuṣmākaṃ parokṣam adarśanaṃ yathā bhavati tathā bhajatā yuṣmat premālāpān śṛṇvataiva tirohitam antardhānena sthitam | tat tasmāt he abalā he priyāḥ, mā mām[*69] asūyituṃ doṣāropeṇa draṣṭuṃ yūyaṃ mārhatha na yogyāḥ stha ||BhPC_10,32.21||</p>
+
+<p>[*69] yadvā mādvayaṃ niṣedhe | tathāpi priyaṃ mallakṣaṇam asūyituṃ mārhatheti mā | api tu mayā dattaduḥkhatvād athaiveti |</p>
+
+<lg>
+<l>BhP_10,32.22</l>
+<l>na pāraye 'haṃ niravadyasaṃyujāṃ svasādhukṛtyaṃ vibudhāyuṣāpi vaḥ /</l>
+<l>yā mābhajan durjaragehaśṛṅkhalāḥ[*70] saṃvṛścya tad vaḥ pratiyātu sādhunā //</l>
+</lg>
+
+<p>[*70] "śṛṅkhalām" iti vā pāṭhaḥ |</p>
+
+<p>āstām idaṃ, paramarthaṃ tu śṛṇutety āha-neti | niravadyā saṃyuk saṃyogo yāsāṃ tāsāṃ vo vibudhānām[*71] āyuṣāpi cirakāle 'pi svīyaṃ sādhu kṛtyaṃ pratyupakāraṃ kartuṃ na pāraye na śaknomi | kathaṃ bhūtānām | yā bhavatyo durjarā ajarā yā gehaśṛṅkhalās tāḥ saṃvṛścya niḥśeṣaṃ chittvā mā mām abhajaṃs tāsām | maccittaṃ tu bahuṣu premayuktatayā naikaniṣṭham | tasmād vo yuṣmākam eva sādhunā sādhukṛtyena tat yuṣmat sādhu kṛtyaṃ pratiyātu pratikṛtaṃ bhavatu | yuṣmat sauśīlyenaiva mamānṛṇyaṃ, na tu matkṛtapratyupakāreṇety arthaḥ ||BhPC_10,32.22||</p>
+
+<p>[*71] yadvā vigato budho gaṇanābhijño yasmāt tenānantenāyuṣāpi |</p>
+
+<p>iti śrīmadbhāgavate mahāpurāṇe daśamaskandhe pūrvārdhe bhāvārthadīpikāyāṃ ṭīkāyāṃ dvātriṃśo 'dhyāyaḥ **32**</p>
+
+<lg>
+<l>trayastriṃśe tato gopīmaṇḍalīmadhyago hariḥ /</l>
+<l>priyās tā ramayāmāsa hradinīvanakelibhiḥ // 1 //</l>
+</lg>
+
+<p>BhP_10,33.01
+<lg>
+<l>śrīśuka uvāca</l>
+<l>itthaṃ bhagavato gopyaḥ śrutvā vācaḥ supeśalāḥ[*72] /</l>
+<l>jahur virahajaṃ tāpaṃ tadaṅgopacitāśiṣaḥ //</l>
+</lg></p>
+
+<p>[*72] supeśalā manoharāḥ |</p>
+
+<p>tat tadā aṅga he rājan, yadvā tasya bhagavato 'ṅgena vapuṣā karacaraṇādyavayavair vopacitāḥ samṛddhā āśiṣo yāsāṃ[*73] tāḥ ||BhPC_10,33.1||</p>
+
+<p>[*73] yadvā tāsāṃ gopīnām aṅgair upacitā āśiṣo yasya |</p>
+
+<lg>
+<l>BhP_10,33.02</l>
+<l>tatrārabhata govindo rāsakrīḍām anuvrataiḥ /</l>
+<l>strīratnair anvitaḥ prītair anyonyābaddhabāhubhiḥ //</l>
+</lg>
+
+<p>rāsakrīḍāṃ rāso[*74] nāma bahunartakīyukto nṛtyaviśeṣas tāṃ krīḍām | anyonyam ābaddhāḥ saṃgrathitā bāhavo yais taiḥ saha ||BhPC_10,33.2||</p>
+
+<p>[*74] "natair gṛhītakaṇṭhānām anyonyāttakaraśriyam / nartakīnāṃ bhaved rāso maṇḍalībhūya nartanam //" iti rāsalakṣaṇam |</p>
+
+<lg>
+<l>BhP_10,33.03</l>
+<l>rāsotsavaḥ sampravṛtto gopīmaṇḍalamaṇḍitaḥ /</l>
+<l>yogeśvareṇa kṛṣṇena[*75] tāsāṃ madhye dvayor dvayoḥ /</l>
+<l>praviṣṭena gṛhītānāṃ kaṇṭhe svanikaṭaṃ striyaḥ //</l>
+</lg>
+
+<p>[*75] kṛṣṇena nimittena saṃpravṛttaḥ | yadvāntarbhāvitaṇyarthaḥ | kṛṣṇena samyak pravṛtta ity arthaḥ |</p>
+
+<p>tatsāhityam abhinayena darśayati-rāsotsava ity akṣaracatuṣṭayādhikena sārdhena | tāsāṃ maṇḍalarūpeṇāvasthitānāṃ dvayor dvayor madhye praviṣṭena tenaiva kaṇṭhe gṛhītānām ubhayata āliṅgitānām | kathaṃbhūtena | yaṃ sarvāḥ striyaḥ svanikaṭaṃ mām evāśliṣṭavān iti manyeraṃs tena etad arthaṃ dvayor dvayor madhye praviṣṭenety arthaḥ | nanv ekasya kathaṃ tathā praveśaḥ, sarvasannihitatve vā kutaḥ svaikanikaṭatvābhimānas tāsām ity ata uktaṃ-yogeśvareṇeti | acintyaśaktinety arthaḥ ||BhPC_10,33.3||</p>
+
+<lg>
+<l>BhP_10,33.04</l>
+<l>yaṃ manyeran nabhas tāvad vimānaśatasaṅkulam /</l>
+<l>divaukasāṃ sadārāṇām autsukyāpahṛtātmanām //</l>
+</lg>
+
+<l>tāvat tatkṣaṇam evautsukyavyāptamanasāṃ sastrīkāṇāṃ devānāṃ vimānaśataiḥ saṅkulaṃ saṅkīrṇaṃ nabho babhūva ||BhPC_10,33.4||</l>
+
+<lg>
+<l>BhP_10,33.05</l>
+<l>tato dundubhayo nedur nipetuḥ puṣpavṛṣṭayaḥ /</l>
+<l>jagur gandharvapatayaḥ sastrīkās tadyaśo 'malam //</l>
+</lg>
+
+<l>tat tasya bhagavataḥ śrīkṛṣṇasyāmalaṃ nirmalaṃ yaśo jagur iti ||BhPC_10,33.5||</l>
+
+<lg>
+<l>BhP_10,33.06</l>
+<l>valayānāṃ nūpurāṇāṃ kiṅkiṇīnāṃ ca yoṣitām /</l>
+<l>sapriyāṇām abhūc chabdas tumulo rāsamaṇḍale //</l>
+</lg>
+
+<p>sapriyāṇāṃ kṛṣṇasahitānām | tumulaḥ saṅkīrṇaḥ ||BhPC_10,33.6||</p>
+
+<lg>
+<l>BhP_10,33.07</l>
+<l>tatrātiśuśubhe tābhir bhagavān devakīsutaḥ /</l>
+<l>madhye maṇīnāṃ haimānāṃ mahāmarakato yathā //</l>
+</lg>
+
+<p>mahāmarakato nīlamaṇir iva haimānāṃ maṇīnāṃ madhye madhye tābhiḥ svarṇavarṇābhir āśliṣṭābhiḥ śuśubhe | gopīdṛṣṭyabhiprāyeṇa vā vinaiva madhyapadāvṛttim ekavacanam ||BhPC_10,33.7||</p>
+
+<p>BhP_10,33.08
+<lg>
+<l>pādanyāsair bhujavidhutibhiḥ sasmitair bhrūvilāsair</l>
+<l>bhajyan madhyaiś calakucapaṭaiḥ kuṇḍalair gaṇḍalolaiḥ /</l>
+<l>svidyanmukhyaḥ kabararaśanāgranthayaḥ kṛṣṇavadhvo</l>
+<l>gāyantyas taṃ taḍita iva tā meghacakre virejuḥ //</l>
+</lg></p>
+
+<p>sa yathā tābhiḥ śuśubhe, tathā tā api tena virejur ity āha-pādanyāsair iti | bhujavidhutibhiḥ karacālanair bhajyamānair madhyaiś caladbhiḥ kucaiś ca paṭaiś ca | gaṇḍalolair gaṇḍeṣu cañcalaiḥ | svidyan mukhyaḥ svidyanti svedam udgiranti mukhāni yāsāṃ tāḥ | kabareṣu raśanāsu ca granthayo dṛḍhā yāsām | yadvā teṣu tāsu cāgranthayaḥ, śithilagranthaya ity arthaḥ | tatra nānāmūrtiḥ kṛṣṇo meghacakram iva, tās tu bahuvidhās taḍita iva svedas tuṣāra iva, gītaṃ garjitam eveti yathāsaṃbhavamūhyam ||BhPC_10,33.8||</p>
+
+<lg>
+<l>BhP_10,33.09</l>
+<l>uccair jagur nṛtyamānā[*76] raktakaṇṭhyo ratipriyāḥ /</l>
+<l>kṛṣṇābhimarśamuditā yadgītenedam āvṛtam //</l>
+</lg>
+
+<p>[*76] nṛtyamānā iti nṛtyakāle 'pi gānaṃ śānajārṣaḥ | yadvā tācchīlyād auśānac | yadvā nṛtyena mānaḥ kṛṣṇakṛto yāsām |</p>
+
+<p>nṛtyamānā nṛtyantyaḥ | raktakaṇṭhyo nānārāgair anurañjitakaṇṭhyaḥ | kṛṣṇasyābhimarśena saṃsparśena muditāḥ | idaṃ viśvam ||BhPC_10,33.9||</p>
+
+<lg>
+<l>BhP_10,33.10</l>
+<l>kācit samaṃ mukundena svarajātīr amiśritāḥ /</l>
+<l>unninye pūjitā tena prīyatā sādhu sādhv iti /</l>
+<l>tad eva dhruvam unninye tasyai mānaṃ ca bahv adāt //</l>
+</lg>
+
+<p>mukundena saha svarajātīḥ ṣaḍjādisvarālāpagatīḥ | amiśritāḥ kṛṣṇonnītābhir asaṅkīrṇāḥ | prīyamāṇena saṃmānitā tajjāty unnayanam eva dhruvaṃ dhruvākhyaṃ tālaviśeṣaṃ kṛtvā unninye unnītavatī ||BhPC_10,33.10||</p>
+
+<lg>
+<l>BhP_10,33.11</l>
+<l>kācid rāsapariśrāntā pārśvasthasya gadābhṛtaḥ /</l>
+<l>jagrāha bāhunā skandhaṃ ślathadvalayamallikā //</l>
+</lg>
+
+<p>evaṃ nṛtyagītādinā śrīkṛṣṇasaṃmānitānāṃ tāsām atiprītivilasitaṃ vṛttam āha-kācid iti | ślathanti valayāni mallikāś ca yasyāḥ sā ||BhPC_10,33.11||</p>
+
+<lg>
+<l>BhP_10,33.12</l>
+<l>tatraikāṃsagataṃ bāhuṃ kṛṣṇasyotpalasaurabham /</l>
+<l>candanāliptam āghrāya hṛṣṭaromā cucumba ha //</l>
+</lg>
+
+<l>utpalasya saurabhaṃ yasya taṃ bāhum ||BhPC_10,33.12||</l>
+
+<lg>
+<l>BhP_10,33.13</l>
+<l>kasyāścin nāṭyavikṣiptakuṇḍalatviṣamaṇḍitam /</l>
+<l>gaṇḍaṃ gaṇḍe sandadhatyā adāt tāmbūlacarvitam //</l>
+</lg>
+
+<p>nāṭyena nṛtyena vikṣiptayoś cañcalayoḥ kuṇḍalayos[*77] tviṣeṇa tviṣā maṇḍitaṃ gaṇḍaṃ kapolaṃ tathābhūte svagaṇḍe saṃdadhatyāḥ saṃyojayantyāḥ ||BhPC_10,33.13||</p>
+
+<p>[*77] nṛtyena vikṣipte cañcale kuṇḍale ca svābhāvikī gaṇḍatviṭ ca tatsamāhāras tviṣaṃ tena maṇḍitam iti | "dvandvāc cudaṣahāntāt" iti ṭac |</p>
+
+<lg>
+<l>BhP_10,33.14</l>
+<l>nṛtyantī gāyatī kācit kūjan nūpuramekhalā /</l>
+<l>pārśvasthācyutahastābjaṃ śrāntādhāt stanayoḥ śivam //</l>
+</lg>
+
+<l>kūjatī nūpure mekhalā ca yasyāḥ sā ||BhPC_10,33.14||</l>
+
+<lg>
+<l>BhP_10,33.15</l>
+<l>gopyo labdhvācyutaṃ kāntaṃ śriya ekāntavallabham /</l>
+<l>gṛhītakaṇṭhyas taddorbhyāṃ gāyantyas taṃ vijahrire //</l>
+</lg>
+
+<l>evam anyā api gopyo yathā yathaṃ nānāvibhramair vijahrur ity āha-gopya iti ||BhPC_10,33.15||</l>
+
+<lg>
+<l>BhP_10,33.16</l>
+<l>karṇotpalālakaviṭaṅkakapolagharmavaktraśriyo valayanūpuraghoṣavādyaiḥ /</l>
+<l>gopyaḥ samaṃ bhagavatā nanṛtuḥ svakeśasrastasrajo bhramaragāyakarāsagoṣṭhyām //</l>
+</lg>
+
+<p>tatra vādakeṣu gāyakeṣu gandharvakinnarādiṣu rasāveśena muhyatsu cānyām eva vādyādi-sampattiṃ darśayan rāsasaṃbhramam āha-karṇotpalair iti | karṇotpalaiś cālakaviṭaṅkair alakālaṅkṛtaiḥ kapolaiś ca gharmaiś ca vaktreṣu śrīḥ śobhā yāsāṃ tāḥ | ghoṣāḥ kiṅkiṇyaḥ | valayanūpuraghoṣair vādyair vāditraiḥ svakeśebhyaḥ srastāḥ srajo yāsāṃ tāḥ | etena tālagatisaṃtuṣṭāḥ keśāḥ saśiraḥkampaṃ pādeṣu puṣpavṛṣṭim ivākurvann ity utprekṣitam | bhagavatā saha nanṛtuḥ | kva | bhramarā eva gāyakā yasyāṃ rāsasabhāyām ||BhPC_10,33.16||</p>
+
+<lg>
+<l>BhP_10,33.17</l>
+<l>evaṃ pariṣvaṅgakarābhimarśasnigdhekṣaṇoddāmavilāsahāsaiḥ /</l>
+<l>reme rameśo vrajasundarībhir yathārbhakaḥ svapratibimbavibhramaḥ //</l>
+</lg>
+
+<p>yathā gopyo nānāvibhramair bhagavatā saha vijahrur evaṃ bhagavān api svavilāsais tābhiḥ saha rema ity āha-evam iti | tadvilāsānabhibhūtasyaiva ratau dṛṣṭāntaḥ-yathārbhaka iti | svapratibimbair vibhramaḥ krīḍā yasya sa iva | anenaitad darśitam-svīyam eva sarvakalākauśalaṃ saugandhyalāvaṇyamādhuryādi ca tāsu sañcārya tābhiḥ saha reme yathārbhakaḥ svapratibimbair iti ||BhPC_10,33.17||</p>
+
+<lg>
+<l>BhP_10,33.18</l>
+<l>tadaṅgasaṅgapramudākulendriyāḥ keśān dukūlaṃ kucapaṭṭikāṃ vā /</l>
+<l>nāñjaḥ prativyoḍhum alaṃ vrajastriyo visrastamālābharaṇāḥ kurūdvaha //</l>
+</lg>
+
+<p>tās tu bhagavadvilāsair ākulā babhūvur ity āha-tadaṅgeti | tasyāṅgasaṅgena prakṛṣṭām utprītis tayā ākulāny avaśānīndriyāṇi yāsāṃ tāḥ viślathabandhān keśādīn añjasā[*78] prativyoḍhuṃ yathāpūrvaṃ dhartuṃ nālaṃ na samarthā babhūvuḥ | visrastā mālā ābharaṇāni ca yāsāṃ tāḥ ||BhPC_10,33.18||</p>
+
+<p>[*78] añjasā anusaṃdhānapūrvakam |</p>
+
+<lg>
+<l>BhP_10,33.19</l>
+<l>kṛṣṇavikrīḍitaṃ vīkṣya mumuhuḥ khecarastriyaḥ /</l>
+<l>kāmārditāḥ śaśāṅkaś ca sagaṇo vismito 'bhavat //</l>
+</lg>
+
+<p>na kevalaṃ tā evākulendriyāḥ kintu devyo 'pīty āha-kṛṣṇavikrīḍitam iti | kiṃ ca śaśāṅkaś ceti | anenaitat sūcitam-śaśāṅkena vismitena gatau vismṛtāyā tataḥ prāktanāḥ sarve 'pi grahās tatra tatraiva tasthus tataś cātidīrghāsu rātriṣu yathāsukhaṃ vijahrur iti ||BhPC_10,33.19||</p>
+
+<lg>
+<l>BhP_10,33.20</l>
+<l>kṛtvā tāvantam ātmānaṃ yāvatīr gopayoṣitaḥ /</l>
+<l>reme sa bhagavāṃs tābhir ātmārāmo 'pi līlayā //</l>
+</lg>
+
+<p>kiṃ ca kṛtveti | ayaṃ bhāvaḥ-"kātyāyani mahāmāye mahāyoginy adhīśvari / nandagopasutaṃ devi patiṃ me kuru te namaḥ // "[*79] iti pratyekaṃ tābhiḥ prārthanād bhagavatāpi-"yātābalā vrajaṃ siddhā mayemā raṃsyatha kṣapāḥ / "[*80] iti tathaiva pratiśrutatvāt tāvantam ātmānaṃ kṛtvā reme iti | yāvatīr yāvatyaḥ ||BhPC_10,33.20||</p>
+
+<p>[*79] BhP 10.22.04
+[*80] BhP 10.22.27</p>
+
+<lg>
+<l>BhP_10,33.21</l>
+<l>tāsāṃ ativihāreṇa[*81] śrāntānāṃ vadanāni saḥ /</l>
+<l>prāmṛjat karuṇaḥ premṇā śantamenāṅga pāṇinā //</l>
+</lg>
+
+<p>[*81] "tāsāṃ rativihāreṇa" iti pāṭhaḥ |</p>
+
+<l>kṛpātiśayam āha-tāsām iti ||BhPC_10,33.21||</l>
+
+<lg>
+<l>BhP_10,33.22</l>
+<l>gopyaḥ sphuratpuraṭakuṇḍalakuntalatviḍgaṇḍaśriyā sudhitahāsanirīkṣaṇena /</l>
+<l>mānaṃ dadhatya ṛṣabhasya jaguḥ kṛtāni puṇyāni tatkararuhasparśapramodāḥ //</l>
+</lg>
+
+<p>tato 'tihṛṣṭānāṃ gopīnāṃ caritam āha-gopya iti | sphuratāṃ svarṇakuṇḍalānāṃ kuntalānāṃ ca tviṣā gaṇḍeṣu yā śrīs tayā sudhitenāmṛtāyitena hāsasahitena nirīkṣaṇena ca ṛṣabhasya patyuḥ kṛṣṇasya mānaṃ dadhatyaḥ pūjāṃ kurvatyas tatkarmāṇi jaguḥ | tasya kararuhair nakhaiḥ sparśena pramodo yāsāṃ tāḥ ||BhPC_10,33.22||</p>
+
+<lg>
+<l>BhP_10,33.23</l>
+<l>tābhir yutaḥ śramam apohitum aṅgasaṅgaghṛṣṭasrajaḥ sa[*82] kucakuṅkumarañjitāyāḥ /</l>
+<l>gandharvapālibhir anudruta āviśad vāḥ śrānto gajībhir ibharāḍ iva bhinnasetuḥ //</l>
+</lg>
+
+<p>[*82] "svakucakuṅkuma" iti pāṭhaḥ |</p>
+
+<p>atha jalakelim āha-tābhir iti | tāsām aṅgasaṅgena ghṛṣṭā saṃmarditā yā srak tasyāḥ ata eva tāsāṃ kucakuṅkumena rañjitāyāḥ saṃbandhibhir gandharvapālibhir gandharvapā gandharvapataya iva gāyanto yo 'layas tair anudruto 'nugataḥ sa kṛṣṇo vāḥ udakam āviśat | bhinnasetur vidārita vapraḥ svayaṃ cātikrāntalokavedamaryādaḥ ||BhPC_10,33.23||</p>
+
+<lg>
+<l>BhP_10,33.24</l>
+<l>so 'mbhasy alaṃ yuvatibhiḥ pariṣicyamānaḥ premṇekṣitaḥ[*83] prahasatībhir itas tato 'ṅga /</l>
+<l>vaimānikaiḥ kusumavarṣibhir īdyamāno reme svayaṃ svaratir[*84] atra gajendralīlaḥ //</l>
+</lg>
+
+<p>[*83] "premṇokṣitaḥ" ity api pāṭhaḥ |
+[*84] svaratiḥ ātmārāmo 'pi, yadvā svāsu tāsu ratir yasya, kiṃ vā svā asādhāraṇī ratir jalakrīḍā yasya |</p>
+
+<l>svaratir ātmārāmo 'pi atra gopīmaṇḍale 'mbhasi vā ||BhPC_10,33.24||</l>
+
+<lg>
+<l>BhP_10,33.25</l>
+<l>tataś ca kṛṣṇopavane jalasthalaprasūnagandhānilajuṣṭadiktaṭe /</l>
+<l>cacāra bhṛṅgapramadāgaṇāvṛto yathā madacyud dviradaḥ kareṇubhiḥ //</l>
+</lg>
+
+<p>sthalajalakrīḍe darśite vanakrīḍāṃ darśayati-tataś ceti | yamunāyā upavane jalasthalaprasūnānāṃ gandho yasmiṃs tenānilena juṣṭāni diśāṃ taṭāny antā yasmin | yadvā diśaś ca taṭaṃ sthalaṃ ca yasminn upavane | bhṛṅgāṇāṃ pramadānāṃ ca gaṇair āvṛtaḥ ||BhPC_10,33.25||</p>
+
+<lg>
+<l>BhP_10,33.26</l>
+<l>evaṃ śaśāṅkāṃśuvirājitā niśāḥ sa satyakāmo 'nuratābalāgaṇaḥ /</l>
+<l>siṣeva ātmany avaruddhasaurataḥ sarvāḥ śaratkāvyakathārasāśrayāḥ //</l>
+</lg>
+
+<p>rāsakrīḍāṃ nigamayati-evam iti | sa kṛṣṇaḥ satyasaṅkalpo 'nurāgistrīkadambastha evaṃ sarvā niśāḥ sevitavān | śaratkāvyakathārasāśrayāḥ śaradi bhavāḥ kāvyeṣu kathyamānā ye rasās teṣām āśrayabhūtā niśāḥ | yadvā niśā iti dvitīyā 'tyantasaṃyoge | śṛṅgārarasāśrayāḥ śaradi[*85] prasiddhāḥ kāvyeṣu yāḥ kathās tāḥ siṣeve iti | evam apy ātmany evāvaruddhaḥ saurataś caramadhātur na tu skhalito yasyeti kāmajayoktiḥ ||BhPC_10,33.26|| ||BhPC_10,33.27||</p>
+
+<p>[*85] śaratkāvyakathāḥ śaradi sarvadeśakālakavibhir yāvatyo varṇayituṃ śakyante tāvatīḥ kathāḥ siṣeve ācacāra |</p>
+
+<lg>
+<l>BhP_10,33.28</l>
+<l>sa kathaṃ dharmasetūnāṃ vaktā kartābhirakṣitā /</l>
+<l>pratīpam ācarad brahman paradārābhimarśanam //</l>
+</lg>
+
+<p>pratīpaṃ pratikūlādharmam ity arthaḥ | ācarat kṛtavān | na cedam adharmamātraṃ kalañja-bhakṣaṇādivat kintu mahāsāhasam ity āha-paradārābhimarśanam iti ||BhPC_10,33.28||</p>
+
+<lg>
+<l>BhP_10,33.29</l>
+<l>āptakāmo yadupatiḥ kṛtavān vai jugupsitam /</l>
+<l>kim abhiprāya etan naḥ saṃśayaṃ chindhi suvrata //</l>
+</lg>
+
+<l>āptakāmasya nāyam adharma iti ced yady evaṃ kāmābhāvān ninditaṃ kenābhiprāyeṇa kṛtavān iti pṛcchati-āptakāma iti ||BhPC_10,33.29||</l>
+
+<p>BhP_10,33.30
+<lg>
+<l>śrīśuka uvāca</l>
+<l>dharmavyatikramo dṛṣṭa īśvarāṇāṃ[*86] ca sāhasam /</l>
+<l>tejīyasāṃ na doṣāya vahneḥ[*87] sarvabhujo yathā //</l>
+</lg></p>
+
+<p>[*86] īśvarāṇāṃ karmādipāratantryahīnānām |
+[*87] vahneḥ sarvabhuktvaṃ yathā nāpāvitryāyeti |</p>
+
+<p>parameśvare kaimutikanyāyena parihartuṃ sāmānyato mahatāṃ vṛttam āha-dharmavyatikrama iti | sāhasaṃ ca dṛṣṭaṃ prajāpatīndrasomaviśvāmitrādīnām | tac ca teṣāṃ tejasvināṃ doṣāya na bhavatīti ||BhPC_10,33.30||</p>
+
+<lg>
+<l>BhP_10,33.31</l>
+<l>naitat samācarej jātu manasāpi hy anīśvaraḥ /</l>
+<l>vinaśyaty ācaran mauḍhyād yathā rudro 'bdhijaṃ viṣam //</l>
+</lg>
+
+<p>tarhi "yad yad ācarati śreṣṭhaḥ" iti nyāyenānyo 'pi kuryād ity āśaṅkyāha-naitad iti | anīśvaro dehādiparatantraḥ yathā rudravyatirikto viṣam ācaran bhakṣayan ||BhPC_10,33.31||</p>
+
+<lg>
+<l>BhP_10,33.32</l>
+<l>īśvarāṇāṃ vacaḥ satyaṃ tathaivācaritaṃ kvacit /</l>
+<l>teṣāṃ yat svavacoyuktaṃ buddhimāṃs tat samācaret //</l>
+</lg>
+
+<p>kathaṃ tarhi sadācārasya prāmāṇyam ata āha-īśvarāṇām iti | teṣāṃ vacaḥ satyam, atas tad uktam ācared eva | ācaritaṃ tu kvacit satyam | ataḥ svavacoyuktaṃ teṣāṃ vacasā yadyad yuktam aviruddhaṃ tattad evācaret ||BhPC_10,33.32||</p>
+
+<p>BhP_10,33.33
+kuśalācaritenaiṣām iha svārtho na vidyate / viparyayeṇa vānartho nirahaṅkāriṇāṃ prabho //</p>
+
+<p>nanu tarhi te 'pi kim evaṃ sāhasam ācaranti tatrāha-kuśaleti | prārabdhakarmakṣapaṇamātram eva teṣāṃ kṛtyaṃ nānyad ity arthaḥ ||BhPC_10,33.33||</p>
+
+<p>BhP_10,33.34
+kim[*88] utākhilasattvānāṃ tiryaṅmartyadivaukasām / īśituś ceśitavyānāṃ kuśalākuśalānvayaḥ //</p>
+
+<p>[*88] yadā īśitavyānāṃ niyamyānāṃ nirahaṅkāriṇāṃ jīvānāṃ kuśalākuśalānvayo na vidyate tadā tiryagādirūpāṇām akhilasattvānām īśitur niyantuḥ kuśalākuśalānvayo na vidyata iti kim u vaktavyam iti pūrvaślokasthena "na vidyate" iti padasaṃbandhenānvayaḥ |</p>
+
+<p>prastutam āha-kim uteti | kuśalākuśalānvayo na vidyata iti kiṃ punar vaktavyam ity arthaḥ ||BhPC_10,33.34||</p>
+
+<lg>
+<l>BhP_10,33.35</l>
+<l>yatpādapaṅkajaparāganiṣevatṛptā yogaprabhāvavidhutākhilakarmabandhāḥ /</l>
+<l>svairaṃ caranti munayo 'pi na nahyamānās tasyecchayāttavapuṣaḥ kuta eva bandhaḥ //</l>
+</lg>
+
+<p>etad eva sphuṭīkaroti-yasya pādapaṅkajaparāgasya niṣevaṇena tṛptāḥ, yadvā yasya pādapaṅkajaparāge niṣevā yeṣāṃ te ca te tṛptāś ceti bhaktā ity arthaḥ | tathā jñāninaś ca na nahyamānā bandhanam aprāptavantaḥ ||BhPC_10,33.35||</p>
+
+<lg>
+<l>BhP_10,33.36</l>
+<l>gopīnāṃ tatpatīnāṃ ca sarveṣām eva dehinām /</l>
+<l>yo 'ntaś carati so 'dhyakṣaḥ krīḍaneneha dehabhāk //</l>
+</lg>
+
+<p>paradāratvaṃ gopīnām aṅgīkṛtya parihṛtam, idānīṃ bhagavataḥ sarvāntaryāmiṇaḥ paradārasevā nāma na kācid ity āha-gopīnām iti | yo 'ntaś caraty adhyakṣo buddhyādisākṣī sa eva krīḍanena dehabhāk, na tv asmadāditulyo yena doṣaḥ syād iti ||BhPC_10,33.36||</p>
+
+<lg>
+<l>BhP_10,33.37</l>
+<l>anugrahāya bhūtānāṃ[*89] mānuṣaṃ deham āsthitaḥ /</l>
+<l>bhajate tādṛśīḥ krīḍā yāḥ śrutvā[*90] tatparo bhavet //</l>
+</lg>
+
+<p>[*89] "bhaktānām" iti pāṭhaḥ |
+[*90] "smṛtvā" iti pāṭhaḥ |</p>
+
+<p>nanv evaṃ ced āptakāmasya nindite kutaḥ pravṛttir ity ata āha-anugrahāyeti | śṛṅgāra-rasākṛṣṭacetaso 'tibahirmukhān api svaparān kartum iti bhāvaḥ ||BhPC_10,33.37||</p>
+
+<lg>
+<l>BhP_10,33.38</l>
+<l>nāsūyan khalu kṛṣṇāya mohitās tasya māyayā /</l>
+<l>manyamānāḥ svapārśvasthān svān svān dārān vrajaukasaḥ //</l>
+</lg>
+
+<p>nanv anye 'pi bhinnācārāḥ svaceṣṭitam evam eveti vadanti tatrāha-nāsūyann iti | evaṃbhūtaiśvaryābhāve tathā kurvantaḥ pāpā jñeyā iti bhāvaḥ ||BhPC_10,33.38||</p>
+
+<lg>
+<l>BhP_10,33.39</l>
+<l>brahmarātra upāvṛtte vāsudevānumoditāḥ /</l>
+<l>anicchantyo yayur gopyaḥ svagṛhān bhagavatpriyāḥ[*91] //</l>
+</lg>
+
+<p>[*91] bhagavān priyo yāsāṃ, bhagavato vā priyāḥ |</p>
+
+<l>brahmarātre brāhme muhūrte upāvṛtte prāpte ||BhPC_10,33.39||</l>
+
+<lg>
+<l>BhP_10,33.40</l>
+<l>vikrīḍitaṃ vrajavadhūbhir idaṃ ca viṣṇoḥ śraddhānvito 'nuśṛṇuyād atha varṇayed yaḥ /</l>
+<l>bhaktiṃ parāṃ bhagavati pratilabhya kāmaṃ hṛdrogam āśv apahinoty acireṇa dhīraḥ //</l>
+</lg>
+
+<p>bhagavataḥ kāmavijayarūparāsakrīḍāśravaṇādeḥ kāmavijayam eva phalam āha-vikrīḍitam iti | acireṇa dhīraḥ san hṛdrogaṃ kāmam[*92] āśu apahinoti parityajatīti ||BhPC_10,33.40||</p>
+
+<p>[*92] yadvā kāmaṃ yatheṣṭaṃ āśu bhaktiṃ labdhvā kāmādisarvahṛdrogam acireṇa hinotīty arthaḥ |</p>
+
+<lg>
+<l>seyaṃ śrīparamānandaseviśrīdharanirmitā /</l>
+<l>śrībhāgavatabhāvārthadīpikā daśamāśrayā // 1 //</l>
+</lg>
+
+<p>iti śrīmadbhāgavate mahāpurāṇe daśamaskandhe pūrvārdhe bhāvārthadīpikāyāṃ ṭīkāyāṃ trayastriṃśo 'dhyāyaḥ **33**</p>
+
+  </body>
+</text>
+</TEI>
