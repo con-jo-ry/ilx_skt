@@ -19,3 +19,10 @@ For DSBC:
 - dsbc_download_texts.py: downloads all linked html pages, saves them in "book" folders
 - dsbc_html_to_xml.py: saves corpus to corpus, extracts typist names and puts them in a TEI header, removes all html tags. Also puts the url and title as given in index.html in the TEI header.
 - dsbc_produce_plain_txt.py: 
+
+Fo Wikisource:
+- Texts were collected manually by a student helper and listed in an Excel file
+- I used some scripts to match the Excel file created by the student and the files.
+- The script wikisource_download_html_from_wikisource_csv.py downloades all links from the csv file
+- The script wikisource_get_authors_from_html.py grabs whatever author info is available on those html pages (it's very minimal)
+- I roughly standardised author names and text names and deleted various duplicate files.
