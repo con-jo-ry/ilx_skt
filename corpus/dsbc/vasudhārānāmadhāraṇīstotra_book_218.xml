@@ -1,9 +1,9 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Vasudhārānāmadhāraṇīstotram</title>
+        <title>Vasudhārānāmadhāraṇīstotra</title>
         <respStmt>
           <resp>Input Personnel</resp>
           <name>DSBC Staff</name>
@@ -15,14 +15,32 @@
       </titleStmt>
       <publicationStmt>
         <publisher>Nagarjuna Institute of Exact Methods</publisher>
-        <date>2004</date>
+        <distributor>ERC-funded Intellexus project</distributor>
+        <date>2008</date>
         <sponsor>University of the West</sponsor>
+        <availability status="restricted">
+          <licence target="https://www.dsbcproject.org/pages/usage-policy">
+            DSBC Usage Policy
+          </licence>
+          <p>
+            These e-texts are compiled and provided by the University of the West strictly for 
+            noncommercial educational and research purposes. Rights in the compilation, indexing, 
+            and transliteration are held by the University of the West. Reproduction of DSBC 
+            contents without permission is prohibited.
+          </p>
+        </availability>
       </publicationStmt>
       <sourceDesc>
+        <bibl>
+          <idno type="dsbc_catalog">book_218</idno>
+          <ptr type="dsbc_url" target="https://www.dsbcproject.org/canon-text/book/218"/>
+        </bibl>
         <p>Text Version: Romanized</p>
-        <p>https://www.dsbcproject.org/canon-text/book/218</p>
       </sourceDesc>
     </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">TEI header updated and augmented with catalog metadata by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
   </teiHeader>
   <text>
     <body>
