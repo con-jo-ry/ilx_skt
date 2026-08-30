@@ -1,9 +1,42 @@
----
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Bhelasaṃhitā</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>ERC-funded Intellexus project / Hamburg Sanskrit Etext Repository</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">
+            Creative Commons Attribution 4.0 International (CC BY 4.0)
+          </licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license. 
+            The underlying etexts were produced by various contributors. Any original copyleft or rights 
+            declarations are preserved in the legacy notes.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
 Bhelasaṃhitā
 editors: V.S.Venkatasubramania Sastri, C.Raja Rajeswara Sarma, 
-New Delhi:Central Council for Research in Indian Medicine & Homoeopathy, 1977.
----
-
+New Delhi:Central Council for Research in Indian Medicine &amp; Homoeopathy, 1977.
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition: V.S.Venkatasubramania Sastri, C.Raja Rajeswara Sarma, New Delhi:Central Council for Research in Indian Medicine &amp; Homoeopathy, 1977</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Mass converted to basic TEI encoding standards by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
 ||Bhelasaṃhitā||
 sūtrasthānanam
 ||caturtho 'dhyāyaḥ||
@@ -6430,3 +6463,6 @@ pippalyaśśāribā1 drākṣā kharjūro madanānyapi||
 
 
 
+    </body>
+  </text>
+</TEI>

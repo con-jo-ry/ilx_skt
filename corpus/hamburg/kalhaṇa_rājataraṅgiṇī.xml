@@ -1,9 +1,48 @@
----
-Kalhaṇa's Rājataraṅgiṇī
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Rājataraṅgiṇī</title>
+        <author>Kalhaṇa</author>
+        <respStmt>
+          <resp>Input by</resp>
+          <name>Jun Takashima</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>ERC-funded Intellexus project / Hamburg Sanskrit Etext Repository</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">
+            Creative Commons Attribution 4.0 International (CC BY 4.0)
+          </licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license. 
+            The underlying etexts were produced by various contributors. Any original copyleft or rights 
+            declarations are preserved in the legacy notes.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Kalhaṇa&#x27;s Rājataraṅgiṇī
 Input from the critical edition of Marc Aurel Stein
 by Jun Takashima
-ILX version ("cleaned") produced by Harunaga Isaacson
----
+ILX version (&quot;cleaned&quot;) produced by Harunaga Isaacson
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition: Stein, M. A. 1960 (reprint). Kalhaṇa&#x27;s Rājataraṅgiṇī or Chronicles of the Kings of Kashmir. Delhi: Munshi Ram and Manohar Lal.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Mass converted to basic TEI encoding standards by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
 rājataraṅgiṇī |
 
 ||prathamastaraṅgaḥ ||
@@ -16017,3 +16056,6 @@ nandayanmedinīmāste jayasiṃho mahīpatiḥ || KRT_8_3448cb
 godāvarī saridivottumulaistaraṅgairvaktraiḥ sphuṭaṃ sapadi saptabhirāpatantī | KRT_8_3449ab
 śrīkāntirājavipulābhijanābdhimadhyaṃ viśrāntaye viśati rājataraṅgiṇīyam || KRT_8_3449cb
 [p. 294]
+    </body>
+  </text>
+</TEI>

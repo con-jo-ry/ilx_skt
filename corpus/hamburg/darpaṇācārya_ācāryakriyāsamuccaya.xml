@@ -1,10 +1,43 @@
----
-
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Ācāryakriyāsamuccaya (Abhiṣeka section)</title>
+        <author>Darpaṇācārya</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>ERC-funded Intellexus project / Hamburg Sanskrit Etext Repository</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">
+            Creative Commons Attribution 4.0 International (CC BY 4.0)
+          </licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license. 
+            The underlying etexts were produced by various contributors. Any original copyleft or rights 
+            declarations are preserved in the legacy notes.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
 Ācāryakriyāsamuccaya by Darpaṇācārya or Jagaddarpaṇa
 Abhiṣeka section edited by Moriguchi 1990, 1991, 1992
-
----
-
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition: Editions by Moriguchi 1990, 1991, 1992</note>
+          <idno type="tōhoku">D3305</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Mass converted to basic TEI encoding standards by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
 [Moriguchi 1990: p. 110]
 
 yad uktaṃ bhagavatā
@@ -848,3 +881,6 @@ tad anu hṛdbījamayūkhair anantadigvartinas tathāgatān vidyādevīś cāk�
 	yathā dattas tathā dadadhvam asya hi // 23 //
 
 iti gāthayā prārthya tais tathāgataiḥ prajñāsamāpannair mahārāgeṇa dravībhūya vairocanadvāreṇāntarniviśya vajramārgeṇa (p.859-->)
+    </body>
+  </text>
+</TEI>

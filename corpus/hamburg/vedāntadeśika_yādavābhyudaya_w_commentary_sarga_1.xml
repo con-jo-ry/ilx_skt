@@ -1,4 +1,30 @@
----
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Yādavābhyudaya (sarga 1 with commentary)</title>
+        <author>Vedāntadeśika and Appaya Dīkṣita</author>
+        <respStmt>
+          <resp>Input by</resp>
+          <name>Jonathan Duquette and Harunaga Isaacson</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>ERC-funded Intellexus project / Hamburg Sanskrit Etext Repository</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">
+            Creative Commons Attribution 4.0 International (CC BY 4.0)
+          </licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license. 
+            The underlying etexts were produced by various contributors. Any original copyleft or rights 
+            declarations are preserved in the legacy notes.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
 NB This file was input by Jonathan Duquette for Harunaga Isaacson
 
 Yādavābhyudayam by Vedāntadeśika with the commentary of Appaya Dīkṣita (prathama sargaḥ)
@@ -29,10 +55,10 @@ MU = Muṇḍaka Upaniṣad: [MUṉ,nṇ]
 PaU = Pañcabrahma Upaniṣad: [PaUṉ]
 Pa = Pāṇini’s Aṣṭādhyāyī: [Paṉ,nṇ]
 RV = ṝgveda: [RVṉ,nṇ]
-SP = "Siva Purāṇa: [SPṉ,nṇ]
-SPr = "Sṛṅgāraprakāśa: [SPrṉṇ]
-ST = Rudrabhaṭṭa’s "Sṛṅgāratilakaḥ: [STṉṇ]
-SU = "Svetāśvatara Upaniṣad: [SUṉṇ]
+SP = &quot;Siva Purāṇa: [SPṉ,nṇ]
+SPr = &quot;Sṛṅgāraprakāśa: [SPrṉṇ]
+ST = Rudrabhaṭṭa’s &quot;Sṛṅgāratilakaḥ: [STṉṇ]
+SU = &quot;Svetāśvatara Upaniṣad: [SUṉṇ]
 TA = Taittirīya AAraṇyaka: [TAṉ,nṇ]
 TB = Taittirīya Brāhmaṇa: [TBṉ,n,nṇ]
 TS = Taittirīya Saṃhitā: [TSṉ,n,nṇ]
@@ -46,8 +72,20 @@ VRK = Kedārabhaṭṭa’s Vṛttaratnākara: [VRKṉṇ]
 *[n.i.]*: the exact source of a quotation is not identified
 
 ** I provide all sources for quotations (none is found in the edition)
----
-
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          Source details unavailable.
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Mass converted to basic TEI encoding standards by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
 prathamaḥ sargaḥ
 
 avyādāpūrayad vaṃśam avyājamadhurasmitam |
@@ -667,66 +705,7 @@ itīti | itiśabdaḥ samāptivācī prathamaḥ sarga ity etadanvayī | kavaya�
 iti śrīmadbhāradvājakulajaladhikaustubhaśrīviśvajidyājiśrīraṅgarājādhvarivarasūnunā appayyadīkṣitena viracite yādavābhyudayavyākhyāne 
 prathama sargaḥ ||
 
-śrīmate vedāntagurave namaḥ | 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+śrīmate vedāntagurave namaḥ |
+    </body>
+  </text>
+</TEI>

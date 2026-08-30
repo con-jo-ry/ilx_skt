@@ -1,4 +1,29 @@
----
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Bhāgavatapurāṇa skanda 10 w/ commentaries</title>
+        <respStmt>
+          <resp>Input by</resp>
+          <name>Jagat, Durmada Das, and Rasavarshi Das</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>ERC-funded Intellexus project / Hamburg Sanskrit Etext Repository</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">
+            Creative Commons Attribution 4.0 International (CC BY 4.0)
+          </licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license. 
+            The underlying etexts were produced by various contributors. Any original copyleft or rights 
+            declarations are preserved in the legacy notes.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
 śrīmad-bhāgavata-mahā-purāṇe
 
   rāsa-pañcādhyāyī
@@ -48,16 +73,16 @@ Calcutta : Chaitanya Gaudiya Math, 1995. (100%)
   2. śrī-śrīdhara-svāminaḥ bhāgavata-bhāvārtha-dīpikā
 
 (ed. Ramateja Pandeya, Benares: Chowkhamba, 1996). The text for Sridhar
-Swami's commentary was entered by Robert Gafrik. Sridhar's commentary is
+Swami&#x27;s commentary was entered by Robert Gafrik. Sridhar&#x27;s commentary is
 probably not the earliest, but it is the one that most influenced the
 Gaudiya sampradaya, at least in the beginning. (100%)
 
   3. śrī-vaṃśīdharasya bhāvārtha-dīpikā-prakāśaḥ
 
-This 19th century author's commentary is of limited value. I have included
+This 19th century author&#x27;s commentary is of limited value. I have included
 it immediately after Sridhar because it follows that commentary rather
 than the Bhāgavata verses directly. It appears that in most cases,
-Vamsidhar also repeated Vishwanath's commentaries (see below) and
+Vamsidhar also repeated Vishwanath&#x27;s commentaries (see below) and
 occasionally the Vaishnava Toshani as well. I considered this unnecessary
 repetition and a waste of space, so I have not included this reduplicated
 material. (40%)
@@ -67,9 +92,9 @@ material. (40%)
 As far as I know, the only published edition of this commentary comes from
 Haridas Das. I do not have a copy of this. Srinath Chakravarti was the
 spiritual master of Kavi Karnapur. It is thus a fairly early text, though
-it probably does not precede Sanatan Goswami's work.
+it probably does not precede Sanatan Goswami&#x27;s work.
 
-There is a discernable influence of this commentary on Jiva's
+There is a discernable influence of this commentary on Jiva&#x27;s
 Bṛhat-krama-sandarbha, which apparently was written after Jiva had the
 occasion to read it. So, in the future, I will likely displace this
 commentary to immediately before Bṛhat-krama-sandarbha.
@@ -84,11 +109,11 @@ no small confusion. However, I am not really out of the woods on this one.
 The Bṛhad-vaiṣṇava-toṣaṇī also sounds more like Sanatan than Jiva. They
 both use the same mangalacharan, which would be unlikely if the author was
 Jiva. The author of the Bṛhad-vaiṣṇava-toṣaṇī refers comfortably to
-Bṛhad-bhāgavatāmṛta, as one would to a work of one's own. Where Sanatan
+Bṛhad-bhāgavatāmṛta, as one would to a work of one&#x27;s own. Where Sanatan
 writes anyat tair vyākhyātam, I believe he is refering to Sridhara, though
 I confess this is not always obvious.
 
-Besides this Vaiṣṇava-toṣaṇī, I have also included Sanatan's Dig-darśanī
+Besides this Vaiṣṇava-toṣaṇī, I have also included Sanatan&#x27;s Dig-darśanī
 comments from Hari-bhakti-vilāsa, wherever verses from this text appear
 there.
 
@@ -102,18 +127,18 @@ this matter is still required.
   7. śrī-jīva-gosvāminaḥ krama-sandarbhaḥ
 
 Through the kindness of Srivatsa Goswami of Jai Singh Ghera in Vrindavan,
-I have a copy of Puridasa Mahasaya's 1952 edition, which is the principal
+I have a copy of Puridasa Mahasaya&#x27;s 1952 edition, which is the principal
 source here. It is noteworthy that with the exception of the Tenth Canto,
 Krama-sandarbha is basically a sequential (krama) displacement of the
-comments found in Jiva's .Saṭ-sandarbha. This exception is to me
+comments found in Jiva&#x27;s .Saṭ-sandarbha. This exception is to me
 inexplicable, as the Sandarbha comments to the Tenth Canto verses are not
-duplicated in any of Jiva's other Bhagavata commentaries (unless they are
+duplicated in any of Jiva&#x27;s other Bhagavata commentaries (unless they are
 in the Laghu-vaiṣṇava-toṣaṇī). I felt therefore that it was worthwhile to
 insert those texts here.
 
   8. śrī-jīva-gosvāminaḥ bṛhat-krama-sandarbhaḥ
 
-ĕkkehard Lorenz made TIF files of Puridas's edition of this text available
+ĕkkehard Lorenz made TIF files of Puridas&#x27;s edition of this text available
 to me. See Caitanya-mata-mañjuṣā above.
 
  9. nārāyaṇa-bhaṭṭasya rasikāhlādinī
@@ -124,11 +149,11 @@ came to live in Braj in 1546. He was initiated by Krishna Das Brahmachari,
 a disciple of Gadadhar Pandit who was serving at the Madan Mohan temple in
 Radha Kund. He is famous for a number of works like Vraja-bhakti-vilāsa
 and Vraja-pradīpikā, etc., which are the most exhaustive early
-descriptions of the Braja Dham parikrama (See ĕntwistle's Braja: A Place
+descriptions of the Braja Dham parikrama (See ĕntwistle&#x27;s Braja: A Place
 of Pilgrimage). He also had great influence in establishing the Rasa Lila
-performance tradition in Braja (see Vasant Yamadagni's Rāsa-līlā tathā
+performance tradition in Braja (see Vasant Yamadagni&#x27;s Rāsa-līlā tathā
 rāsānukaraṇa vikāsa, New Delhi: Sangita Nataka Academy, 1980). This
-edition was published by Kusumasarovarawala Krishna Das in the 1950's. The
+edition was published by Kusumasarovarawala Krishna Das in the 1950&#x27;s. The
 editor is Prabhu Dayal Mittal, a very highly reputed scholar of the Radha
 Vallabha Sampradaya. This edition was the source of the Bhagavata Vidya
 Pith edition, to the extent that even obvious errors have been repeated.
@@ -140,19 +165,31 @@ Ujjvala-nīlamaṇi.
 10. śrī-viśvanātha-cakravartinaḥ sārārtha-darśinī
 
 (ed. Bhakti Ballabh Tirtha, Calcutta : Chaitanya Gaudiya Math, 1995).
-Nothing really needs to be said here except that Vishwanath's popularity
+Nothing really needs to be said here except that Vishwanath&#x27;s popularity
 has led to neglect of the Vaiṣṇava-toṣaṇī, which is, in my opinion,
 unjustified.
 
 11. baladeva-vidyābhūṣaṇasya vaiṣṇavānandinī
 
-Though the Bhagavata Vidya Pitha has published Baladeva's commentary to
+Though the Bhagavata Vidya Pitha has published Baladeva&#x27;s commentary to
 the Tenth Canto, there does not seem to be anything at the Rasa Lila.
 Whether Baladeva actually did comment on these verses is unknown to me.
 
 (10.29)
----
-
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          Source details unavailable.
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Mass converted to basic TEI encoding standards by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
 athonatriṃśo'dhyāyaḥ
 
 rāsakrīḍāvarṇanaṃ nāma
@@ -23288,4 +23325,6 @@ hinotīty arthaḥ |
 vanitā-vaśaḥ |
 
 References
-
+    </body>
+  </text>
+</TEI>

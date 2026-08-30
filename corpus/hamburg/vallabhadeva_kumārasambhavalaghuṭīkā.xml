@@ -1,10 +1,48 @@
----
-Kālidāsa's Kumārasambhava, with
-Vallabhadeva's commentary.
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kumārasambhava (w/ Laghuṭīkā)</title>
+        <author>Kālidāsa and Vallabhadeva</author>
+        <respStmt>
+          <resp>Input by</resp>
+          <name>Harunaga Isaacson</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>ERC-funded Intellexus project / Hamburg Sanskrit Etext Repository</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">
+            Creative Commons Attribution 4.0 International (CC BY 4.0)
+          </licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license. 
+            The underlying etexts were produced by various contributors. Any original copyleft or rights 
+            declarations are preserved in the legacy notes.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Kālidāsa&#x27;s Kumārasambhava, with
+Vallabhadeva&#x27;s commentary.
 Text based on the edition by M.S. Narayana Murti
 Wiesbaden 1980. VŏHD Supplementband 20,1.
----
-
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition: M.S. Narayana Murti 1980.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Mass converted to basic TEI encoding standards by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
 yasya bhṛṅgāvaliḥ kaṇṭhe srutadānāmbubhūṣitā|
 bhāti rudrākṣamāleva sa vaḥ pāyādgaṇādhipaḥ|| 1||
 
@@ -5924,4 +5962,6 @@ na ca suratasukhebhyaśchinnatṛṣṇo babhūva
 jvalana iva samudrāntargatastajjaleṣu|| 8.91cd
 
 iti kumārasambhave 'ṣṭamaḥ sargaḥ| kṛtiḥ śrīmatkālidāsayeti śubham||
-
+    </body>
+  </text>
+</TEI>

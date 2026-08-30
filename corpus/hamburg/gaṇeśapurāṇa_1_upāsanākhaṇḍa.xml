@@ -1,4 +1,29 @@
----
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Gaṇeśapurāṇa (first part)</title>
+        <respStmt>
+          <resp>Input by</resp>
+          <name>Manish Gavkar</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>ERC-funded Intellexus project / Hamburg Sanskrit Etext Repository</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">
+            Creative Commons Attribution 4.0 International (CC BY 4.0)
+          </licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license. 
+            The underlying etexts were produced by various contributors. Any original copyleft or rights 
+            declarations are preserved in the legacy notes.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
 Proofread by Manish Gavkar
 
 % Text title            : Ganesha Puranam 1 purvakhaNDam or Upasanakhandam
@@ -19,10 +44,21 @@ This text is prepared by volunteers and is to be used for personal study and res
 
 sanskritdocuments.org
 Last updated on Thu 20 Mar 2025 05:57:30 PM MST
-
----
-
- śrīgaṇeśapurāṇam 1 pūrvakhaṇḍaṃ athavā upāsanākhaṇḍam 
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sanskritdocuments.org/doc_purana/gaNeshapurANam1.html"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Mass converted to basic TEI encoding standards by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+śrīgaṇeśapurāṇam 1 pūrvakhaṇḍaṃ athavā upāsanākhaṇḍam 
 
 
 atha śrīgaṇeśapurāṇam|
@@ -14046,4 +14082,6 @@ iti śrīgaṇeśapurāṇe upāsanākhaṇḍe brahmavyāsabhṛgusomakāntasa�
 iti śrīmadgaṇeśamahāpurāṇe pūrvakhaṇḍaṃ (upāsanākhaṇḍaṃ) samāptam|
 
 ādita ślokānāṃ samaṣṭyaṅkāḥ = 4038 + 58 =4096
-
+    </body>
+  </text>
+</TEI>

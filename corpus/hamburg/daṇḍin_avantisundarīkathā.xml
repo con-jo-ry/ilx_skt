@@ -1,12 +1,51 @@
----
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Avantisundarīkathā</title>
+        <author>Daṇḍin</author>
+        <respStmt>
+          <resp>Input by</resp>
+          <name>Yiming Shen and Harunaga Isaacson</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>ERC-funded Intellexus project / Hamburg Sanskrit Etext Repository</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">
+            Creative Commons Attribution 4.0 International (CC BY 4.0)
+          </licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license. 
+            The underlying etexts were produced by various contributors. Any original copyleft or rights 
+            declarations are preserved in the legacy notes.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
 Avantisundarīkathā of Daṇḍin. Text after edition by Pillai,
 Trivandrum 1954, Trivandrum Sanskrit Series 172.
 The edition is based on one lacunose and corrupt MS.
 E-text originally supplied by Yiming Shen;
 missing portions (two pages had by mistake not been typed)
 supplied, and numerous corrections made (including the incorporation
-of the edition's three pages of corrigenda) by Harunaga Isaacson.
----
+of the edition&#x27;s three pages of corrigenda) by Harunaga Isaacson.
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition: Pillai, Trivandrum. 1954. Trivandrum Sanskrit Series 172.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Mass converted to basic TEI encoding standards by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
 || śrīḥ ||
 
 ācāryadaṇḍiviracitā
@@ -697,3 +736,6 @@ atha yaḥ sa devena jitvā suvarṇapurānnirastaḥ kirātānāṃ hemajaṭā
 ityācāryadaṇḍinā kṛtā avantisundarī samāptā |
 
 || śrīrāma śrīrāma rāma jaya śrīrāma rāma jaya śrīrāma rāma jaya ||
+    </body>
+  </text>
+</TEI>

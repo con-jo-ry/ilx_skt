@@ -1,12 +1,50 @@
----
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Śābdanirṇaya</title>
+        <author>Prakāśātmayati/Prakāśātma</author>
+        <respStmt>
+          <resp>Input by</resp>
+          <name>Harunaga Isaacson</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>ERC-funded Intellexus project / Hamburg Sanskrit Etext Repository</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">
+            Creative Commons Attribution 4.0 International (CC BY 4.0)
+          </licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license. 
+            The underlying etexts were produced by various contributors. Any original copyleft or rights 
+            declarations are preserved in the legacy notes.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
 Śābdanirṇaya of Prakāśātmayati (NB probably 10th century)
 
 From TSS edition of 1917
 
 Critical edition Hugo David 2020
 Typed by Harunaga Isaacson
----
-
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          Source details unavailable.
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Mass converted to basic TEI encoding standards by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
 yasyāḥ prasādamavalambya jagadgurūṇāmapyaskhaladbahuguṇāḥ prasaranti vācaḥ|
 sā vedaśāstraparinirmitavandyadehā bhūyātsamagravaradaiva sarasvatī vaḥ|| 1
 
@@ -1441,4 +1479,6 @@ arthato 'pi na nāmnaiva yo 'nanyānubhavo guruḥ|| 74
 
 prakāśātmayatīndreṇa praṇipatya janārdanam|
 pratibodhāya bālānāṃ praṇītaḥ śābdanirṇayaḥ|| 75
-
+    </body>
+  </text>
+</TEI>

@@ -1,9 +1,48 @@
----
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Madhyamakāvatārabhāṣya (ch. 1-5)</title>
+        <author>Candrakīrti</author>
+        <respStmt>
+          <resp>Input by</resp>
+          <name>Ryan Conlon</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>ERC-funded Intellexus project / Hamburg Sanskrit Etext Repository</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">
+            Creative Commons Attribution 4.0 International (CC BY 4.0)
+          </licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license. 
+            The underlying etexts were produced by various contributors. Any original copyleft or rights 
+            declarations are preserved in the legacy notes.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
 Title: Madhyamakāvatārabhāṣya ch. 1–5
-Edition: Lasic, Horst, Xuezhu Li, and Anne MacDonald, eds. Candrakīrti's Madhyamakāvatārabhāṣya Chapters 1 to 5. Beijing and Vienna: China Tibetology Publishing House and Austrian Academy of Sciences Press, 2022.
+Edition: Lasic, Horst, Xuezhu Li, and Anne MacDonald, eds. Candrakīrti&#x27;s Madhyamakāvatārabhāṣya Chapters 1 to 5. Beijing and Vienna: China Tibetology Publishing House and Austrian Academy of Sciences Press, 2022.
 Source: OCR with minimal proof reading
----
-
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition: Lasic, Horst, Xuezhu Li, and Anne MacDonald, eds. Candrakīrti&#x27;s Madhyamakāvatārabhāṣya Chapters 1 to 5. Beijing and Vienna: China Tibetology Publishing House and Austrian Academy of Sciences Press, 2022.</note>
+          <idno type="tōhoku">D3862</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Mass converted to basic TEI encoding standards by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
 [ed. p. 1] || namo bhagavate buddhāya ||
 
 madhyamakaśāstrasyāvatārāya madhyamakāvatāramārabdhukāmo buddhatvasyādyahetusampado 'śeṣasaṃsāracārakāvaruddhātrāṇasattvaparitrāṇalakṣaṇāyā bhagavatyā mahākaruṇāyāḥ samyaksambuddhairbodhisattvaiścāpi prathamataḥ stutyarhatāṃ pratipādayañślokadvayamāha—
@@ -567,3 +606,6 @@ iti | tatkutaḥ satyadvayavyatirekeṇāparāṇi catvāryāryasatyānītyāha 
 kiṃ punaḥ satyacatuṣṭayavyatirekeṇānyadapi satyamasti | astītyāha yathoktaṃ pañcamyāṃ bodhisattvabhūmau—idaṃ duḥkhamāryasatyamiti yathābhūtaṃ prajānāti | ayaṃ duḥkhasamudayaḥ, ayaṃ duḥkhanirodhaḥ, iyaṃ duḥkhanirodhagāminī pratipad āryasatyamiti yathābhūtaṃ prajānāti | evaṃ saṃvṛtisatyakuśalaśca bhavati | paramārthasatyakuśalaśca bhavati | lakṣaṇasatyakuśalaśca bhavati | vibhāgasatyakuśalaśca bhavati, nistīraṇāsatyakuśalaśca vastusatyakuśalaśca prabhavasatyakuśalaśca kṣayānutpādajñānasatyakuśalaśca mārgajñānāvatārasatyakuśalaśca | sarvabodhisattvakriyānusandhiniṣpādanatayāṃ yāvattathāgatajñānasamudayasatyakuśalaśca bhavati | sa parasattvānāṃ yathāśayasantoṣaṇena saṃvṛtisatyaṃ prajānāti | [ed. p. 68, begins °raṇāt] ekanayasamavasaraṇātparamārthasatyaṃ prajānāti | svasāmānyalakṣaṇānubodhāllakṣaṇasatyaṃ prajānāti | dharmavibhāgavyavasthāpanānubodhādvibhāgasatyaṃ prajānāti | skandhadhātvāyatanavyavasthāpanānubodhān nistīraṇāsatyaṃ prajānāti | cittaśarīraprapīḍanopanipātitvād vastusatyaṃ prajānāti | gatisandhisambandhāt prabhavasatyaṃ prajānāti | sarvajvaraparidāhānāmatyantopaśamātkṣayānutpādajñānasatyaṃ prajānāti | advayābhinirhārānmārgajñānāvatārasatyaṃ prajānāti | sarvākārābhisambodhātsarvabodhisattvabhūmikriyānusandhiniṣpādanatayā yāvattathāgatajñānasamudayasatyaṃ prajānātīti ||
 
 madhyamakāvatāre sudurjayākhyaḥ pañcamaścittotpādaḥ ||
+    </body>
+  </text>
+</TEI>

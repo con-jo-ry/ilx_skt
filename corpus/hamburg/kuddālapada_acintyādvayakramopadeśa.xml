@@ -1,13 +1,47 @@
----
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Acintyādvayakramopadeśa</title>
+        <author>Kuddālapāda</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>ERC-funded Intellexus project / Hamburg Sanskrit Etext Repository</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">
+            Creative Commons Attribution 4.0 International (CC BY 4.0)
+          </licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license. 
+            The underlying etexts were produced by various contributors. Any original copyleft or rights 
+            declarations are preserved in the legacy notes.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
 acintyādvayakramopadeśaḥ
 kuddālapādaviracitaḥ
 
 @rinpochedwivedi1987 : 193–208
 
-*bSam gyis mi khyab pa'i rim pa'i man ngag ces bya ba* by phyag rgya chen po thob pa'i slob dpon tog rtse zhabs. Trans. by bde ba'i myu gu. Tōh. 2228, sDe dge bsTan 'gyur, vol. 51 (rgyud 'grel, Wi), fols. 99v5–104v6.
----
-
-
+*bSam gyis mi khyab pa&#x27;i rim pa&#x27;i man ngag ces bya ba* by phyag rgya chen po thob pa&#x27;i slob dpon tog rtse zhabs. Trans. by bde ba&#x27;i myu gu. Tōh. 2228, sDe dge bsTan &#x27;gyur, vol. 51 (rgyud &#x27;grel, Wi), fols. 99v5–104v6.
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition: Rinpoche and Dwivedi 1987</note>
+          <idno type="tōhoku">D2228</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Mass converted to basic TEI encoding standards by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
 [D f. 99v]#/ /rgya gar skad du/ aa rtsinta kra ma au pa de sha n'a ma/ bod skad du/ 
 bsam gyis mi khyab pa'i rim pa'i man ngan ces bya ba/ dpal rdo rje sems dpa' la phyag 'tshal lo/ /bcom ldan 'das 'jig rten dbang phyug la phyag 'tshal lo/ /
 
@@ -392,5 +426,6 @@ anenāśaya dvāreṇa yadi buddho bhavāmyaham |
 athavā narakaṃ yāmi naraka eva sukhāvatī || 124 ||
 
 iti likhitaṃ vimalagurukrama (me) ṇa [[]ntayogaṃ bṛhadguṇāśeṣamantra- sadbhāvamataṃ ca sambhūtamacintyādvayabhāgastu utpannakramo yogamāmnāyo nītigarbhadevatārūpātmanaḥ smaraṇārthamasmajjanajaḍa 'santa ( svalpa) buddhīnām ||
-
-
+    </body>
+  </text>
+</TEI>

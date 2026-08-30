@@ -1,10 +1,47 @@
----
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>K 528: East Mebon inscription of Cambodia</title>
+        <respStmt>
+          <resp>Input by</resp>
+          <name>Harunaga Isācson</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>ERC-funded Intellexus project / Hamburg Sanskrit Etext Repository</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">
+            Creative Commons Attribution 4.0 International (CC BY 4.0)
+          </licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license. 
+            The underlying etexts were produced by various contributors. Any original copyleft or rights 
+            declarations are preserved in the legacy notes.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
 East Mebon Stele Inscription from Angkor, K. 528
 Text from Goodall 2022, but with normalizations and
-several corrections proposed in Goodall's notes
+several corrections proposed in Goodall&#x27;s notes
 introduced in the text.
----
-
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition: Goodall, Dominic. 2022. The East Mebon Stele Inscription from Angkor (K. 528): A Sanskrit Eulogy of the Tenth-Century Khmer Sovereign Rājendravarman. Vol. 154. Collection Indologie. Pondicherry: Institut Français de Pondichéry / École française d’Extrême-Orient.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Mass converted to basic TEI encoding standards by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
 traiguṇyāḍhyaśikhīndubhāskarakarapradyotanodgīthajaiḥ 
 agryaiḥ padmajakañjadṛktrinayanairadhyāsitaiḥ śaktibhiḥ| 1ab
 saṃrodhasthitisambhavātmarataye bhinnastridhaiko 'pi yaḥ 
@@ -683,3 +720,6 @@ ataśca visrambhabalapragalbhā vākprārthanābhaṅgabhayojjhitaiṣā|| 217cd
 śuklasyaikādaśāhe 'nimiṣamapi bhave yāti varṣārdhamindau| 218ab
 arcābhiḥ śaurigaurīgiriśakajabhuvāṃ sārdhamardhendumauleḥ 
 śrīrājendreśvarākhyaṃ sthitimakṛta parāṃ liṅgamatredamābhiḥ|| 218cd
+    </body>
+  </text>
+</TEI>

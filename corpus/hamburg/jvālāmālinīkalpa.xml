@@ -1,14 +1,50 @@
----
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Jvālāmālinīkalpa</title>
+        <respStmt>
+          <resp>Input by</resp>
+          <name>A. Michael Ullrey</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>ERC-funded Intellexus project / Hamburg Sanskrit Etext Repository</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">
+            Creative Commons Attribution 4.0 International (CC BY 4.0)
+          </licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license. 
+            The underlying etexts were produced by various contributors. Any original copyleft or rights 
+            declarations are preserved in the legacy notes.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
 Indranandi, and Chandra Shekhar Shastri. Srijvalamalini kalpa : bhasha tika aura mantra, tantra, yantra sahita. Surata: Digambara Jaina Pustakalaya, 1964. Print.
 
 Input by A. Michael Ullrey (2012)
 
-Transcription of Jvālāmālinīkalpa.  Hindi titles and colophons.  Mantras rendered into Sanskrit are transcribed (possibly found in root text or as marginalia to mss). Hindi commentary not included. 
-
----
-
-
- Śrī paṃcagurubhyo namaḥ / śrī caṃdraprabhāya namaḥ /
+Transcription of Jvālāmālinīkalpa.  Hindi titles and colophons.  Mantras rendered into Sanskrit are transcribed (possibly found in root text or as marginalia to mss). Hindi commentary not included.
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition: Indranandi, and Chandra Shekhar Shastri. Srijvalamalini kalpa : bhasha tika aura mantra, tantra, yantra sahita. Surata: Digambara Jaina Pustakalaya, 1964. Print.</note>
+          <ptr target="https://www.garudam.info/JvalMalKal.txt"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Mass converted to basic TEI encoding standards by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+Śrī paṃcagurubhyo namaḥ / śrī caṃdraprabhāya namaḥ /
 
 Munirāja śrī indranandi viracit –
 
@@ -1645,5 +1681,6 @@ granthameṃ jvālāmālinī kalpakī, kāvya sāhitya tīrthācārya
 prācya vidyāvaridhi śrī candraśekhar śāstrī kṛt 
 bhāṣāṭīkāmeṃ "sādhana vidhi" nāmak
 daśama pariccheda sampat huā // 10 //
-
-
+    </body>
+  </text>
+</TEI>

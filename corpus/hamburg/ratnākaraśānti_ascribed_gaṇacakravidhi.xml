@@ -1,3 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Gaṇacakravidhi</title>
+        <author>Ratnākaraśānti (attributed)</author>
+        <respStmt>
+          <resp>Input by</resp>
+          <name>Ryan Conlon</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>ERC-funded Intellexus project / Hamburg Sanskrit Etext Repository</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">
+            Creative Commons Attribution 4.0 International (CC BY 4.0)
+          </licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license. 
+            The underlying etexts were produced by various contributors. Any original copyleft or rights 
+            declarations are preserved in the legacy notes.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition: Péter-Dániel Szántó, 2019, &#x27;Minor Vajrayāna texts V: The Gaṇacakravidhi attributed to Ratnākaraśānti&#x27;. In: Nina Mirnig, Marion Rastelli, Vincent Eltschinger (eds.), Tantric Communities in Context, Vienna: Austrian Academy of Sciences, pp. 275-314.</note>
+          <idno type="tōhoku">D1995</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Mass converted to basic TEI encoding standards by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
 --
  Gaṇacakravidhi (ascribed to Ratnākaraśānti) including 'Saṃkṣiptā Pañjikā'
 
@@ -197,4 +235,7 @@ taṃtreṣv abhiṣiktānāṃ caryāyatayennānāṃ gaṇacakravidhānam aṃ
  
 [ad 10] sarvāḥ sādhāraṇāḥ pūjyā sakalajagatsukhāvāptakāraṇāḥ sarvaguhyogurottarā niravaśeṣaparamārtharahasyānāṃ rahasyatarā || mahāsukhapade sthitvā prajñopāyasamarase sthitvā vartanta gaṇanāyakaḥ || taccakravartī   
 
-[ad 11] vineyanibhṛtanārī savinayā yoṣit namravaktrāraviṃdā īṣannamramukhapadmā vipulaguṇaviśālā, ativistaraguṇayuktā tatvā tatvayogyā 
+[ad 11] vineyanibhṛtanārī savinayā yoṣit namravaktrāraviṃdā īṣannamramukhapadmā vipulaguṇaviśālā, ativistaraguṇayuktā tatvā tatvayogyā
+    </body>
+  </text>
+</TEI>

@@ -1,5 +1,31 @@
----
-Kāśikāvṛtti 1.1.1–75: A Romanized Text for Study Prepared by Adam Alvah Catt, Kyoto University Last updated <December 13, 2021>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kāśikāvṛtti (1.1.1–1.3.93, book 2 and book 3)</title>
+        <author>Jayāditya &amp; Vāmana</author>
+        <respStmt>
+          <resp>Input by</resp>
+          <name>Adam Catt</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>ERC-funded Intellexus project / Hamburg Sanskrit Etext Repository</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">
+            Creative Commons Attribution 4.0 International (CC BY 4.0)
+          </licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license. 
+            The underlying etexts were produced by various contributors. Any original copyleft or rights 
+            declarations are preserved in the legacy notes.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Kāśikāvṛtti 1.1.1–75: A Romanized Text for Study Prepared by Adam Alvah Catt, Kyoto University Last updated &lt;December 13, 2021&gt;
 • This is a corrected and lightly annotated text based on Sharma, Aryendra, Khanderao Deshpande, and D. G. Padhye (1969) Kāśikā: A Commentary on Pāṇini’s Grammar. Part I: Adhyāyas 1–4. Hyderabad: Sanskrit Academy, Osmania University
 • Bold numbers in brackets ([p. 1]) refer to page numbers in Sharma et al. 1969
 • Example words or phrases illustrating the application of sūtras etc. are given in italics
@@ -8,8 +34,20 @@ example, I place a line break before the first set of examples given under each 
 • To indicate optionality among forms, I have introduced the symbol ~
 • Note that the sandhi (and punctuation) generally follows that of Sharma et al. 1969, although their edition is
 inconsistent in its application of sandhi
----
-
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://kyoto-u.academia.edu/AdamCatt"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Mass converted to basic TEI encoding standards by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
 [p. 5]
 vṛddhir ādaic || 1.1.1 ||
 vṛddhiśabdaḥ sañjñātvena vidhīyate, pratyekam ādaicāṃ varṇānāṃ sāmānyena tadbhāvitānām, atadbhāvitānāṃ ca | taparakaraṇam aijartham tād api paraḥ taparaḥ iti, khaṭvaiḍakādiṣu trimātracaturmātraprasaṅganivṛttaye | āśvalāyanaḥ | aitikāyanaḥ | aupagavaḥ | aupamanyavaḥ | śālīyaḥ | mālīyaḥ |
@@ -4886,5 +4924,6 @@ chandasi viṣaye ubhayathā bhavati, sārvadhātukam ārdhadhātukaṃ ca | ki�
 várdhantu tvā suṣṭutáyaḥ (Ṛgveda 7.99.7c) | ārdhadhātukatvāṇ ṇilopaḥ | vardhayantu iti prāpte | śeṣaṃ ca sārvadhātukam — svastáye n,vam iv, ruhema (Ṛgveda 10.178.2b) | ktinaḥ sārvadhātukatvād aster bhūbhāvo na bhavati | liṭ sārvadhātukam — +sasav,ṃso (Sharma etc.: sasṛv,ṃso) ví śṛṇvire (Ṛgveda 4.8.6b) | imá índrāya sunvire (Ṛgveda 7.32.4a) | liṅ ubhayathā bhavati | úpa stheyāma śaraṇ, bṛhántā (Ṛgveda 6.47.8d) | sārvadhātukatvāt liṅaḥ salopaḥ (7.2.79), ārdhadhātukatvāt etvam | “vyatyayo bahulam” (3.1.85) ity asyaivāyaṃ prapañcaḥ ||
 iti śrījayādityaviracitāyāṃ kāśikāyāṃ vṛttau tṛtīyādhyāyasya caturthaḥ pādaḥ ||
 19
-
-
+    </body>
+  </text>
+</TEI>

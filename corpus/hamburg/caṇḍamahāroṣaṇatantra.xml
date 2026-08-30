@@ -1,3 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caṇḍamahāroṣaṇatantra</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>ERC-funded Intellexus project / Hamburg Sanskrit Etext Repository</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">
+            Creative Commons Attribution 4.0 International (CC BY 4.0)
+          </licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license. 
+            The underlying etexts were produced by various contributors. Any original copyleft or rights 
+            declarations are preserved in the legacy notes.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition: Edition by Wiesiek Mical in: 84000: Translating the Words of the Buddha. “The Glorious Caṇḍa­mahā­roṣaṇa Tantra ‘The Sole Hero’ (Ekalla­vīrākhya­śrī­caṇḍa­mahā­roṣaṇa­tantram, dpal gtum po khro bo chen po’i rgyud kyi rgyal po dpa’ bo gcig pa zhes bya ba).” Translated by Dharmachakra Translation Committee. https://84000.co/translation/toh431, 2016.</note>
+          <ptr target="https://84000.co/translation/toh431#UT22084-080-015-appendix"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Mass converted to basic TEI encoding standards by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
 oṁ namaś caṇḍamahāroṣaṇāya ||
 evaṃ mayā śrutam ekasmin samaye bhagavān vajrasattvaḥ sarvatathāgatakāyavākcittahṛdayavajradhātvīśvarībhage vijahāra | anekaiś ca vajrayogiyoginīgaṇaiḥ | tadyathā | śvetācalena vajrayoginā | pītācalena ca vajrayoginā | raktācalena ca vajrayoginā | śyāmācalena ca vajrayoginā | mohavajryā ca vajrayoginyā | piśunavajryā ca vajrayoginyā | rāgavajryā ca vajrayoginyā | īrṣyāvajryā ca vajrayoginyā | evaṃpramukhair yogiyoginīkoṭiniyutaśatasahasraiḥ ||
 
@@ -2326,3 +2359,6 @@ ity ekallavīrākhye śrīcaṇḍamahāroṣaṇatantre devatā sādhanapaṭal
 idam avocad bhagavān śrīvajrasattvas te ca yogiyoginīgaṇā bhagavato bhāṣitam abhyanandann iti ||
 ity ekallavīranāmacaṇḍamahāroṣaṇatantraṃ samāptam ||
 ye dharmā hetuprabhavā hetuṃ teṣāṃ tathāgato hy avadat | teṣāṃ ca yo nirodha evaṃvādī mahāśramaṇaḥ ||
+    </body>
+  </text>
+</TEI>

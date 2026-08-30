@@ -1,9 +1,47 @@
----
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sarvabuddhasamāyoga</title>
+        <respStmt>
+          <resp>Input by</resp>
+          <name>Ryan Conlon</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>ERC-funded Intellexus project / Hamburg Sanskrit Etext Repository</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">
+            Creative Commons Attribution 4.0 International (CC BY 4.0)
+          </licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license. 
+            The underlying etexts were produced by various contributors. Any original copyleft or rights 
+            declarations are preserved in the legacy notes.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
 Title: śrīsarvabuddhasamāyogaḍākinījālasamvaranāmatantram
 Edition: Dhīḥ 58
 Editor: Thakursen Negi
----
-
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition: Dhīḥ vol. 58: 140–201</note>
+          <idno type="tōhoku">D366</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Mass converted to basic TEI encoding standards by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
 śrīsarvabuddhasamāyogaḍākinījālasamvaranāmatantram
 
 oṁ namaḥ śrīvajrasattvāya |
@@ -1367,3 +1405,6 @@ mahāsamayamudrājñānam ||  ||
 sarvātmānaṃ sukhenaiva sarvātmani niveśayet || 160 ||
 anayā mudrayā yogī pātyetyutpatatīcchataḥ |
 sarvabuddhamayo rājā vajrasattvaḥ prasiddhyati || 161 ||
+    </body>
+  </text>
+</TEI>

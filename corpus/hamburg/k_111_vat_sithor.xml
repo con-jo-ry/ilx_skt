@@ -1,12 +1,48 @@
----
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>K 111: Vat Sithor inscription of Cambodia</title>
+        <respStmt>
+          <resp>Input by</resp>
+          <name>Harunaga Isaacson</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>ERC-funded Intellexus project / Hamburg Sanskrit Etext Repository</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">
+            Creative Commons Attribution 4.0 International (CC BY 4.0)
+          </licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license. 
+            The underlying etexts were produced by various contributors. Any original copyleft or rights 
+            declarations are preserved in the legacy notes.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
 K. 111 Vat Sithor Inscription
 Normalized and occasionally emended text input by Harunaga Isācson
 from Coedes IC VI p. 195ff
 and a PhD thesis by Phillip Scott ĕllis Green called The Vat Sithor Inscription: Translation, Commentary, and Reflections on Buddhist Traditions in tenth-century Cambodia, University of Florida, 2014.
 https://ufdcimages.uflib.ufl.edu/UF/ĕ0/04/74/90/00001/GRĕĕN_P.pdf
-
----
-
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition: Cœdes IC VI p. 195ff and Phillip Scott Ellis Green, &quot;The Vat Sithor Inscription: Translation, Commentary, and Reflections on Buddhist Traditions in tenth-century Cambodia&quot; PhD Dissertation, University of Florida, 2014.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Mass converted to basic TEI encoding standards by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
 vande 'pi vyāpinaṃ vyaktaṃ svacchāśayajalāśaye| 1ab
 bhrājiṣṇudharmakāyenduṃ vimuktaṃ skandharāhuṇā|| 1cd
 
@@ -306,10 +342,6 @@ prāgeva sarvajñamataṃ vimukteḥ svargasya mārgo nṛpavākyametat|| 99cd
 
 ājñāmimāṃ yo 'nugato 'pi pāpī kalpeta tatpāpaviṣaṃ sudhāyai| 100ab
 yastāmatītastvapi puṇyakarmā jāyeta tatpuṇyasudhāṃ viṣāya|| 100cd
-
-
-
-
-
-
-
+    </body>
+  </text>
+</TEI>

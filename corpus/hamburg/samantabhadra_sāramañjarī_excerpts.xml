@@ -1,4 +1,30 @@
----
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sāramañjarī (ad Samantabhadrasādhana 109–120)</title>
+        <author>Samantabhadra</author>
+        <respStmt>
+          <resp>Input by</resp>
+          <name>Ryan Conlon</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>ERC-funded Intellexus project / Hamburg Sanskrit Etext Repository</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">
+            Creative Commons Attribution 4.0 International (CC BY 4.0)
+          </licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license. 
+            The underlying etexts were produced by various contributors. Any original copyleft or rights 
+            declarations are preserved in the legacy notes.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
 Sāramañjarī by Samantabhadra ad Samantabhadrasādhana 109–129
 From Tantra and Pramāṇa: A Study of the Sāramañjarī
 Edited by Margherita Serena Saccone and Péter-Dániel Szántó
@@ -7,10 +33,21 @@ UniorPress, Napoli: 2023
 
 Tibetan: D 1869, f. 17r–34v (full text 27v5–45v7)
 Translated by Jñānaśrī and bLo ldan shes rab in Nepal
----
-
-
-
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition: Saccone, Margherita Serena, and Péter-Dániel Szántó. 2023. Tantra and Pramāṇa: A Study of the Sāramañjarī. Series Minor XCVIII. Napels: UniorPress.</note>
+          <idno type="tōhoku">D1869 partial</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Mass converted to basic TEI encoding standards by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
 [ed. p. 94]
 % 3.0 The Meditative Context
 
@@ -434,3 +471,6 @@ iti.
 iti. ata eva ca paramādye 'pi sarvasattvās tathāgatagarbhāḥ samantabhadramahābodhisattvasarvātmatayety uktam. [Adhyardhaśatikā Prajñāpāramitā, ed. p. 97, 13–14]
 
 120.3 tasmāt tattvato buddhābuddhatvasamatvād buddhān na bhedaḥ sattvānām, saṃvṛtyaiva bhedāt. evaṃ ca yat saṃbuddhīkṛtam akhilaṃ jagad (see 109cd) ity uktaṃ tad yuktam iti boddhavyam, svabhāvaśuddhatvāj jagataḥ. paramārthābhyāsāt tu vikalpo viśodhyaḥ kalpanāvaśād buddhādi[30v]bhedādhyāropadoṣāt. evam eva saṃbuddhīkṛtanikhilajagadantarbhāvanaṃ nijamantre (see 109d), tadbindau ca viśvasvabhāvamaṇḍalacakravibhāvanam upapannam eveti vijñeyam, jñeyādyabhāve svapratibhāsasyaiva tathotpādāt. iti sarvaṃ sustham.
+    </body>
+  </text>
+</TEI>

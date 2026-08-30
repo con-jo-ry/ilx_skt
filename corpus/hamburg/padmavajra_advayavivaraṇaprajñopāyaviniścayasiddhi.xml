@@ -1,9 +1,43 @@
----
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Advayavivaraṇaprajñopāyaviniścayasiddhi</title>
+        <author>Padmavajra</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>ERC-funded Intellexus project / Hamburg Sanskrit Etext Repository</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">
+            Creative Commons Attribution 4.0 International (CC BY 4.0)
+          </licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license. 
+            The underlying etexts were produced by various contributors. Any original copyleft or rights 
+            declarations are preserved in the legacy notes.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
 Advayavivaraṇaprajñopāyaviniścayasiddhi of Padmavajra
 	% Ga = NAK l.s. 3-366 , page 18
 	% Gha = CIHTS lib. no. 21548, ff. 6-17
----
-
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          Source details unavailable.
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Mass converted to basic TEI encoding standards by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
 [p. 211] idānīṃ prajñeti , upāya iti bhāgadvayaṃ vicāryate | prajñā kimucyate ? dharmato pravicala(ya)lakṣaṇā śrutacintā bhāvanāmayī | dvividhā prajñāpratyavekṣaṇā , nairvedhikī ceti | prati prati pratyavekṣate anviṣyate jñāyate cakṣurvajreṇa gṛhyate sā pratyavekṣaṇā prajñā | nairvedhikī nirviddhyate 'nayā pratyavekṣaṇā sā nairvedhikī prajñā | sā nairvedhikī uttaratra spaṣṭamasya sannairātmā sarvasattvajīvādikameva buddhyā niḥsukhaṃ jñānaṃ karoti , sākṣāt pratipattiṃ karoti , sudurjayaśca bhavati , ajayo bhavatīti yāvat |
 upāyo 'pi caturvidho bodhivajreṇa varṇitaḥ | buddhavajreṇa varṇita iti yāvat |
 
@@ -156,3 +190,6 @@ tatra buddhāḥ samutpannāstatra vai parinirvṛtāḥ ||
 
 ityadvayavivaraṇaprajñopāyaviniścayasiddhiḥ ||
 kṛtiriyamācāryapadmavajrapādānām ||
+    </body>
+  </text>
+</TEI>

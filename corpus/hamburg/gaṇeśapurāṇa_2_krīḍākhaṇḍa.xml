@@ -1,4 +1,29 @@
----
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Gaṇeśapurāṇa (second part)</title>
+        <respStmt>
+          <resp>Input by</resp>
+          <name>Manish Gavkar</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>ERC-funded Intellexus project / Hamburg Sanskrit Etext Repository</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">
+            Creative Commons Attribution 4.0 International (CC BY 4.0)
+          </licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license. 
+            The underlying etexts were produced by various contributors. Any original copyleft or rights 
+            declarations are preserved in the legacy notes.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
 Proofread by Manish Gavkar
 
 % Text title            : Ganesha Puranam 2 Uttarakhandam or Kridakhandam
@@ -18,8 +43,20 @@ Proofread by Manish Gavkar
 This text is prepared by volunteers and is to be used for personal study and research. The file is not to be copied or reposted for promotion of any website or individuals or for commercial purpose without permission. Please help to maintain respect for volunteer spirit.
 
 sanskritdocuments.org
----
-
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sanskritdocuments.org/doc_purana/gaNeshapurANam2.html"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Mass converted to basic TEI encoding standards by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
 śrīgaṇeśapurāṇam 2 uttarakhaṇḍaṃ athavā krīḍākhaṇḍam 
 
 
@@ -23592,4 +23629,6 @@ iti śrīmadgaṇeśamahāpurāṇe uttarakhaṇḍaṃ (krīḍākhaṇḍaṃ)
 || śubhaṃ bhavatu||
 
 iti śrīgaṇeśapurāṇaṃ samāptam|
-
+    </body>
+  </text>
+</TEI>

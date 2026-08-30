@@ -1,8 +1,43 @@
----
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kurukullākalpa</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>ERC-funded Intellexus project / Hamburg Sanskrit Etext Repository</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">
+            Creative Commons Attribution 4.0 International (CC BY 4.0)
+          </licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license. 
+            The underlying etexts were produced by various contributors. Any original copyleft or rights 
+            declarations are preserved in the legacy notes.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
 Title: Kurukullākalpa
 Edition: 84000 (Wiesiek Mical)
----
-
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition: Edition by Wiesiek Mical in: 84000: Translating the Words of the Buddha. “The Practice Manual of Noble Tārā Kurukullā (Āryatārākurukullākalpa, ’Phags Ma Sgrol Ma Ku Ru Kulle’i Rtog Pa, Tōh. 437).” Translated by Dharmachakra Translation Committee. https://84000.co/translation/toh437, 2024.</note>
+          <idno type="tōhoku">D437</idno>
+          <ptr target="https://84000.co/translation/toh437#UT22084-081-006-appendix"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Mass converted to basic TEI encoding standards by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
 % Chapter A1
 oṁ namo bhagavatyai āryakurukullāyai
 naṣṭe gate cāntarhite ca tantre tārodbhave yogamahāsamudre |
@@ -813,3 +848,6 @@ idam avocad bhagavān avalokiteśvara āttamanās te ca bodhisattvāḥ mahāsat
 
 iti śrībhagavatyāryatārāyāḥ kurukullākalpo ˈṣṭamaḥ samāptaḥ
 āryakurukullākalpaḥ samāptaḥ ||  tārārṇava­mahāyoga­tantrāntaḥ­pāti­tārodbhavād uddhṛta iti
+    </body>
+  </text>
+</TEI>

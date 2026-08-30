@@ -1,16 +1,47 @@
----
-
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Laghusaṃvaratantra (Herukābhidhāna)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>ERC-funded Intellexus project / Hamburg Sanskrit Etext Repository</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">
+            Creative Commons Attribution 4.0 International (CC BY 4.0)
+          </licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license. 
+            The underlying etexts were produced by various contributors. Any original copyleft or rights 
+            declarations are preserved in the legacy notes.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
 Laghusaṃvaratantra (Herukābhidhāna)
 
 
-Based on Janardan Shastri Pandey (ed.) Śrīherukābhidhānam Cakrasaṃvaratantram with the commentary of Bhavabhaṭṭa,' Sarnath: CIHTS, 2002 (Rare Buddhist Texts Series 26). (Henceforth Sarnath edition)
+Based on Janardan Shastri Pandey (ed.) Śrīherukābhidhānam Cakrasaṃvaratantram with the commentary of Bhavabhaṭṭa,&#x27; Sarnath: CIHTS, 2002 (Rare Buddhist Texts Series 26). (Henceforth Sarnath edition)
 
 And edition of Alexis Sanderson in The Śaiva sources of the Buddhist Tantras of Śaṃvara, Handout 2 and 3, Trinity Term, 1998.
 Edition based on Baroda MS no.13290
 YoSa: Jayadrathayāmala, Ṣaṭaka3, Yoginīsaṃcāraprakaraṇa, Paṭala 9
-
----
-
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition: Janardan Shastri Pandey (ed.) Śrīherukābhidhānam Cakrasaṃvaratantram with the commentary of Bhavabhaṭṭa, Sarnath: CIHTS, 2002 (Rare Buddhist Texts Series 26). (Henceforth Sarnath edition); and edition of Alexis Sanderson in The Śaiva sources of the Buddhist Tantras of Śaṃvara, Handout 2 and 3, Trinity Term, 1998.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Mass converted to basic TEI encoding standards by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
 athāto rahasyaṃ vakṣye samāsān na tu vistarāt
 śrīherukasaṃyogaṃ sarvakāmārthasādhakam //1.1//
 
@@ -1982,3 +2013,6 @@ garbhaḥ saṃkrāmayati mukte mokṣaḥ.
 yaṃ tarjayati taṃ mārayati punar vīvāpayati. //46.7//
 
 iti śrīherukābhidhāne pañcahakārakarmavidhipaṭalaḥ ṣaṭcālīśatimaḥ
+    </body>
+  </text>
+</TEI>

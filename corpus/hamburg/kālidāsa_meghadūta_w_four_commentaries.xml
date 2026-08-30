@@ -1,4 +1,30 @@
----
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Meghadūta (with four commentaries, the fourth incomplete)</title>
+        <author>Kālidāsa, Vallabhadeva, Dakṣiṇāvartanātha, Mallinātha, and Sumativijaya</author>
+        <respStmt>
+          <resp>Input by</resp>
+          <name>Roger Vogt</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>ERC-funded Intellexus project / Hamburg Sanskrit Etext Repository</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">
+            Creative Commons Attribution 4.0 International (CC BY 4.0)
+          </licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license. 
+            The underlying etexts were produced by various contributors. Any original copyleft or rights 
+            declarations are preserved in the legacy notes.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
 Meghadūta
 
 with the commentaries of
@@ -25,11 +51,11 @@ Text of the Commentaries
 
 Vallabhadeva
 
-Kālidāsa's Meghadūta, ĕdited from Manuscripts with the Commentary of
+Kālidāsa&#x27;s Meghadūta, ĕdited from Manuscripts with the Commentary of
 Vallabhadeva, ĕ. Hultzsch Munshiran Manoharlal Publishers, New Delhi, 1998
 (First published by Royal Academic Society, London 1911)
 
-(based on 3 "Sāradā manuscripts)
+(based on 3 &quot;Sāradā manuscripts)
 
 Dakṣiṇāvartanātha
 
@@ -47,7 +73,7 @@ Motilal Banarsidass Publishers, Delhi, 8^th ĕdition 1974;
 
 Sumativijaya
 
-Sugamānvayā Vṛtti, A Late Commentary in Jaina Sanskrit in Kālidāsa's
+Sugamānvayā Vṛtti, A Late Commentary in Jaina Sanskrit in Kālidāsa&#x27;s
 Meghadūta by the Jain Muni Sumativijaya, Critically ĕdited with an
 Introduction and ĕxplanatory and Critical Notes by Walter Harding Maurer,
 Deccan College Poona, 1965.
@@ -56,7 +82,7 @@ Deccan College Poona, 1965.
 
 Mūla-text
 
-The mūla-text (in blue) is Vallabha's, verses not given by all
+The mūla-text (in blue) is Vallabha&#x27;s, verses not given by all
 commentators are written in a lighter blue, variant readings are given in
 a negative critical apparatus under the verse, in the mūla the
 corresponding words are marked in a deeper blue.
@@ -82,8 +108,8 @@ As Dakṣiṇāvartanātha and Mallinātha divide into Purva- and
 Uttaramegha a new count is begun with the Uttaramegha, while the count for
 Vallabha and Sumativijaya continues.
 
-I have typed Sumativijaya's commentary only for the Purvamegha, because I
-got so bored with his innumerable kimbhūtas that I couldn't stand it any
+I have typed Sumativijaya&#x27;s commentary only for the Purvamegha, because I
+got so bored with his innumerable kimbhūtas that I couldn&#x27;t stand it any
 longer. May someone whose ability to endure boredom excels mine by far
 finish it some day.
 
@@ -111,7 +137,7 @@ necessary for its understanding are marked grey. These include:
 denoting the instrumental  and so on.
 
 - and last not least the Avataranas, that are not given before the verse
-but at the beginning of the commentary, because I think that's the place
+but at the beginning of the commentary, because I think that&#x27;s the place
 where they belong to.
 
 ĕxpressions helping to explain the text are marked brown, namely iti
@@ -126,7 +152,7 @@ Names of lexicographers are marked with a dotted line.
 
 ̈uotations are written in italics. Wherever I traced them down, their
 sources are put in these very nice {brackets}. p in the brackets denotes
-Pāṇini's Aṣṭadhyāyi, the other abbreviation should be easily
+Pāṇini&#x27;s Aṣṭadhyāyi, the other abbreviation should be easily
 understood. When no abbreviation is given the reference is to the work
 mentioned in the text, when no work is mentioned in the text the reference
 is to the Meghadūta.
@@ -154,9 +180,20 @@ good time with the
 Meghadūta
 
 Mangalācāra
-
----
-
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          Source details unavailable.
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Mass converted to basic TEI encoding standards by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
 VALL
 
 yasya bhṛṅgāvaliḥ kaṇṭhe dānāmbhorājirājite|
@@ -13213,3 +13250,6 @@ Ujjajinī.
 - The last five verses are held to be spurious by almost all commentators.
 
 14
+    </body>
+  </text>
+</TEI>

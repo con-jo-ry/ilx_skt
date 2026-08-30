@@ -1,11 +1,46 @@
----
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Vyaktabhāvānugatatattvasiddhi</title>
+        <author>*Yoginī Cintā</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>ERC-funded Intellexus project / Hamburg Sanskrit Etext Repository</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">
+            Creative Commons Attribution 4.0 International (CC BY 4.0)
+          </licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license. 
+            The underlying etexts were produced by various contributors. Any original copyleft or rights 
+            declarations are preserved in the legacy notes.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
 Vyaktabhāvānugatatattvasiddhiḥ of yoginī Cintā 
 	% Ka = IASWR MBB-I-108, 55-63
 	% Kha = ibid. 19-25
 	% Ga = NAK v.s. 44, ff. 2-6
 	% Gha = CIHTS lib. no. 21537, ff. 35-37
----
-
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition: Rinpoche and Dwivedi 1987</note>
+          <idno type="tōhoku">D2222</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Mass converted to basic TEI encoding standards by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
 [p. 169] namaḥ śrīvajrasattvāya | 
 
 jayati sukharāja ekaḥ kāraṇarahitaḥ sadodito jagatām | 
@@ -138,3 +173,6 @@ yasya na bhūtagaṇair gaṇanāsti kevalam ātmaviśuddhadhiyaiva | etad ahās
 || samāptā tattvasiddhiḥ || 
 
 pustakamantranītiśāstramahārahasyaṃ samāptam iti |
+    </body>
+  </text>
+</TEI>

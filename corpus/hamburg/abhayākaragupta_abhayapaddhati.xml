@@ -1,23 +1,62 @@
----
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Abhayapaddhati</title>
+        <author>Abhayākaragupta</author>
+        <respStmt>
+          <resp>Input by</resp>
+          <name>Ryan Conlon</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>ERC-funded Intellexus project / Hamburg Sanskrit Etext Repository</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">
+            Creative Commons Attribution 4.0 International (CC BY 4.0)
+          </licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license. 
+            The underlying etexts were produced by various contributors. Any original copyleft or rights 
+            declarations are preserved in the legacy notes.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
 Title: Abhayākaragupta
 Author: Abhayapaddhati
 Editions:
-ed-m = Mei Yang. 2014. "Abhayākaragupta's Abhayapaddhati on 
+ed-m = Mei Yang. 2014. &quot;Abhayākaragupta&#x27;s Abhayapaddhati on 
 the Buddhakapālatantra: Chapters 1–5 Critically Edited with 
-English Translation". Dissertation: Georg-August-Universität 
+English Translation&quot;. Dissertation: Georg-August-Universität 
 Göttingen.
 
-ed-c = Chog Dorje. 2009. "Abhayapaddhati of Abhayākaragupta: 
-Commentary on the Buddhakapālamahātantra". Central Institute 
+ed-c = Chog Dorje. 2009. &quot;Abhayapaddhati of Abhayākaragupta: 
+Commentary on the Buddhakapālamahātantra&quot;. Central Institute 
 of Higher Tibetan Studies: Saranath.
 
-ed-l = Luo Hong. 2010. "Abhayākaragupta's Abhayapaddhati 
-Chapters 9 to 13". China Tibetology Publishing House/Centre 
+ed-l = Luo Hong. 2010. &quot;Abhayākaragupta&#x27;s Abhayapaddhati 
+Chapters 9 to 13&quot;. China Tibetology Publishing House/Centre 
 for Tantric Studies: Beijing/Hamburg.
 
 Ch. 7 is based on a draft edition by Isaacson.
----
-
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition: ed-m = Mei Yang. 2014. &quot;Abhayākaragupta&#x27;s Abhayapaddhati on the Buddhakapālatantra: Chapters 1–5 Critically Edited with English Translation&quot;. Dissertation: Georg-August-Universität Göttingen; ed-c = Chog Dorje. 2009. &quot;Abhayapaddhati of Abhayākaragupta: Commentary on the Buddhakapālamahātantra&quot;. Central Institute of Higher Tibetan Studies: Saranath; ed-l = Luo Hong. 2010. &quot;Abhayākaragupta&#x27;s Abhayapaddhati Chapters 9 to 13&quot;. China Tibetology Publishing House/Centre for Tantric Studies: Beijing/Hamburg; ch. 7 based on a draft edition by Isaacson.</note>
+          <idno type="tōhoku">D1654</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Mass converted to basic TEI encoding standards by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
 %%%%%%%%%
 % ch. 1 %
 %%%%%%%%%
@@ -1750,4 +1789,7 @@ magadhapatisutaśrīyakṣapālasya dhāmnāṃ dhṛtipariṇataye tatprārthan
 jīyād ānandakandādvayaparamarasollāsaviśrāmabhūmīvikrīḍadvajrakanyākalilamunighanavyūhasopānapaṅktyām |
 prajñāśrīr yadvihāryām iyam akṛtakṛtārthārthisatkalpavallyām asyāś cāsmākavṛttyāstv asamaśubhasudhāpūrapātheyatṛptiḥ || 4 ||
 
-sapādaṣoḍaśaślokaśatī saṃpiṇḍitā pramā paṇḍitair maṇḍanāyāsyāḥ prameva hṛdi vāstavī || || 
+sapādaṣoḍaśaślokaśatī saṃpiṇḍitā pramā paṇḍitair maṇḍanāyāsyāḥ prameva hṛdi vāstavī || ||
+    </body>
+  </text>
+</TEI>

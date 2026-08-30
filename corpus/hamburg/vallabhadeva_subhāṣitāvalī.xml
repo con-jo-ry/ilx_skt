@@ -1,13 +1,50 @@
----
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Subhāṣitāvalī</title>
+        <author>Vallabhadeva</author>
+        <respStmt>
+          <resp>Input by</resp>
+          <name>Anon. &amp; Harunaga Isaacson</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>ERC-funded Intellexus project / Hamburg Sanskrit Etext Repository</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">
+            Creative Commons Attribution 4.0 International (CC BY 4.0)
+          </licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license. 
+            The underlying etexts were produced by various contributors. Any original copyleft or rights 
+            declarations are preserved in the legacy notes.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
 Vallabhadeva: Subhaa.sitaavali
 P. Peterson, Bombay 1886 (Bombay Sanskrit Series ; 31)
 First 1040 verses from GRETIL (with some corrections of random typos)
 rest input by Harunaga Isaacson
-NB the GRETIL e-text was originally from Prague's Pandanus site
+NB the GRETIL e-text was originally from Prague&#x27;s Pandanus site
 NB the GRETIL e-text omits the author indications. I (HI) have added some of them but have not gone through and added all...
----
-
-
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          Source details unavailable.
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Mass converted to basic TEI encoding standards by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
 Subhv_0001-1 taa.m bhavaanii.m bhavaaniitakle"sanaa"savi"saaradaam|
 Subhv_0001-2 "saaradaa.m "saaradaambhodasitasi.mhaasanaa.m numa.h||
 
@@ -13817,9 +13854,6 @@ kasyaapi
 
 Subhv_3527-1 aapanno .asmi "sara.nyo .asmi sarvaavastho .asmi sarvadaa|
 Subhv_3527-2 bhagava.mstvaa.m prapanno .asmi rak.sa maa.m "sara.naagatam||
-
-
-
-
-
-
+    </body>
+  </text>
+</TEI>

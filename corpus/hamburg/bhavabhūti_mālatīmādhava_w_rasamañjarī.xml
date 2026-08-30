@@ -1,5 +1,31 @@
----
-A "Pondicherry" file
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mālatīmādhava Rasamañjaryākhyavyākhyopeta</title>
+        <author>Bhavabhūti and Pūrṇasarasvatī</author>
+        <respStmt>
+          <resp>Input by</resp>
+          <name>Vi. Śāradā</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>ERC-funded Intellexus project / Hamburg Sanskrit Etext Repository</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">
+            Creative Commons Attribution 4.0 International (CC BY 4.0)
+          </licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license. 
+            The underlying etexts were produced by various contributors. Any original copyleft or rights 
+            declarations are preserved in the legacy notes.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+A &quot;Pondicherry&quot; file
 
 %anantaśayanaviśvavidyālayaḥ
 %anantaśayanasaṃskṛtagranthāvaliḥ
@@ -16,10 +42,20 @@ A "Pondicherry" file
 %upakrāntam 02-02-1995
 %samāpitam 14-03-1995
 %typed by vi. śāradā
-
-
----
-
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          Source details unavailable.
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Mass converted to basic TEI encoding standards by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
 //śrīḥ//
 
 mahākaviśrībhavabhūtipraṇītaṃṣṭamālatīmādhavam/
@@ -5240,3 +5276,6 @@ mālatīmādhavasyetthaṃ daśamāṅkārthacarcanam/
 pūrṇajyotiḥprasādena cakre pūrṇasarasvatī//
 //iti daśamo'ṅkaḥ//
 //śubhamastu//
+    </body>
+  </text>
+</TEI>
