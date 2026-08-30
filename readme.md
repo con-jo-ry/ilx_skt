@@ -26,3 +26,6 @@ Fo Wikisource:
 - The script wikisource_download_html_from_wikisource_csv.py downloades all links from the csv file
 - The script wikisource_get_authors_from_html.py grabs whatever author info is available on those html pages (it's very minimal)
 - I roughly standardised author names and text names and deleted various duplicate files.
+
+## Some general notes
+- File names should not be changed without checking the CSVs: If a filename is changed, references to it throughout the CSVs should be changed also.
