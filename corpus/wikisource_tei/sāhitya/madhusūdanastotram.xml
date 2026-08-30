@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Madhusūdanastotra</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%AE%E0%A4%A7%E0%A5%81%E0%A4%B8%E0%A5%82%E0%A4%A6%E0%A4%A8%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8B%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+śrī gaṇeśāya namaḥ ॥
+omiti jñānamātreṇa rogājīrṇena nirjitā ।
+kālanidrāṃ prapanno'smi trāhi māṃ madhusūdana ॥ 1॥
+
+na gatirvidyate cānyā tvameva śaraṇaṃ mama ।
+pāpapaṅke nimagnosmi trāhi māṃ madhusūdana ॥ 2॥
+
+mohito mohajālena putradāragṛhādiṣu ।
+tṛṣṇayā pīḍyamāno'smi trāhi māṃ madhusūdana ॥ 3॥
+
+bhaktihīnaṃ ca dīnaṃ ca duḥkhaśokāturaṃ prabho ।
+anāśrayamanāthaṃ ca trāhi māṃ madhusūdana ॥ 4॥
+
+gatāgatenaśrāntosmi dīrghasaṃsāravatmarstu ।
+yena bhūyo na gacchāmi trāhi māṃ madhusūdana ॥ 5॥
+
+vahavo hi mayā dṛṣṭāḥ kleśāścaiva pṛthak pṛthak ।
+garbhavāse mahadduḥkhaṃ trāhi māṃ madhusūdana ॥ 6॥
+
+tena deva prapannosmi trāṇārthaṃ tvatparāyaṇaḥ ।
+duḥkhārṇavaparitrāṇāt trāhi māṃ madhusūdana ॥ 7॥
+
+vācā yacca pratijñātaṃ karmaṇā topapāditam ।
+tatpāpārjitamagnosmi trāhi māṃ madhusūdana ॥ 8॥
+
+sukṛtaṃ na kṛtaṃ kiñcidduṣkṛtaṃ ca kṛtaṃ mayā ।
+saṃsāraghore magnosmi trāhi māṃ madhusūdana ॥ 9॥
+
+dehāntarasahastreṣu cānyonyabhrāmito mayā ।
+tiryaktvaṃ mānuṣtvaṃ ca trāhi māṃ madhusūdana ॥ 10॥
+
+vācayāmi yathonmattaḥ pralapāmi tavāgrataḥ ।
+jarāmaraṇabhītosmi trāhi māṃ madhusūdana ॥ 11॥
+
+yatra yatra ca yātosmi strīṣu vā puruṣeṣu ca ।
+tatra tatrācalā bhaktistrāhi māṃ madhusūdana ॥ 12॥
+
+gatvā gatvā nivartante candrasūryādayo grahāḥ ।
+adyāpi na nibarttante dvādaśākṣaracintakāḥ ॥ 13॥
+
+ūrdhvapātālamartyeṣu vyāptaṃ lokaṃ jagattrayam ।
+dvādaśākṣarātparaṃ nāsti vāsudevena bhāṣitam ॥ 14॥
+
+dvādaśākṣaraṃ mahāmantraṃ sarvakāmaphalapradam ।
+garbhavāsanivāsena śukena paribhāṣitam ॥ 15॥
+
+dvādaśākṣaraṃ nirāhāro yaḥ yaḥ paṭhedharivāsare ।
+sa gacchedvaiṣṇavasthānaṃ yatra yogeśvaro hariḥ ॥ 16॥
+
+iti śrīśukadevaviracitaṃ madhusūdanastotraṃ saṃpūrṇam ॥
+    </body>
+  </text>
+</TEI>

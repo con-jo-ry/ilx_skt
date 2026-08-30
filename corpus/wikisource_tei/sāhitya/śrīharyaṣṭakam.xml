@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Śrīharyaṣṭaka</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%B9%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%95%E0%A4%AE%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+harirharati pāpāni duṣṭacittairapi smṛtaḥ |
+anicchayā'pi saṃspṛṣṭo dahatyeva hi pāvakaḥ ||
+sa gaṅgā sa gayā setuḥ sa kāśī sa ca puṣkaram |
+jihvāgre vartate yasya harirityakṣaradvayam ||
+vārāṇasyāṃ kurukṣetre naimiśāraṇya eva ca |
+yatkṛtaṃ tena yenoktaṃ harirityakṣaradvayam ||
+pṛthivyāṃ yāni tīrthāni puṇyānyāyatanāni ca |
+tāni sarvāṇyaśeṣāṇi harirityakṣaradvayam ||
+gavāṃ koṭisahasrāṇi hemakanyāsahasrakam |
+dattaṃ syāttena yenoktaṃ harirityakṣaradvayam ||
+ṝgvedo'tha yajurvedaḥ sāmavedo'pyatharvaṇaḥ |
+adhītastena yenoktaṃ harirityakṣaradvayam ||
+aśvamedhairmahāyajñaiḥ naramedhaistathaiva ca |
+iṣṭaṃ syāttena yenoktaṃ harirityakṣaradvayam ||
+prāṇaprayāṇapātheyaṃ saṃsāravyādhināśanam |
+duḥkhātyanta paritrāṇaṃ harirityakṣaradvayam ||
+baddhaparikarastena mokṣāya gamanaṃ prati |
+sakṛduccāritaṃ yena harirityakṣaradvayam ||
+haryaṣṭakamidaṃ puṇyaṃ prātarutthāya yaḥ paṭhet |
+āyuṣyaṃ balamārogyaṃ yaśo vṛddhiśśriyāvaham ||
+prahlādena kṛtaṃ stotraṃ duḥkhasāgaraśoṣaṇam |
+yaḥ paṭhetsa naro yāti tadviṣṇoḥ paramaṃ padam ||
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Prayogamañjarī</title>
+        <author>Raviḥ</author>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%AF%E0%A5%8B%E0%A4%97%E0%A4%AE%E0%A4%9E%E0%A5%8D%E0%A4%9C%E0%A4%B0%E0%A5%80"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+prayogamañjarī
+
+prathamaḥ paṭalaḥ
+buddherātmabhuvopyabhūmimamalaṃ yattatvamāhurbudhāḥ
+bhedo yasya jaganmayasya bahudhāpyaupādhiko lakṣyate |
+dehe svāpacitikramānabhidadhe mantrātmabhiḥ śreyase
+yo vā dehabhṛtāṃ himācalasutānāthāya tubhyaṃ namaḥ || 1 ||
+janayatu hṛdi saukhyaṃ vastuhinakarakalāvibhūṣaṇo devaḥ |
+yasya jagattrayamakhilaṃ dhāmnā kalayā kayāpi niyūḍham || 2 ||
+yebhyaḥ praṇāmavidhibhissakṛdapyupāttaissaṃsārasāgarataraṅganimajjamānāḥ |
+dhvastāndhakāramanaso manujāstarantitebhyo namostu niyataṃ gurupādukebhyaḥ || 3 ||
+jñānāgnidagdhaduritaviṣayapramuktai mūrdhnā dhṛtā sakalayogibhirādareṇa |
+ye sarvalokamahitā manasaḥ prasādaṃ puṣṇantu te gurupadāmbujapāṃsavo vaḥ || 4 ||
+uddāmatā na vacaso na ca kauśalaṃ me buddheḥ śivasya ca na boddhumalaṃ hi tattvam |
+…
+    </body>
+  </text>
+</TEI>

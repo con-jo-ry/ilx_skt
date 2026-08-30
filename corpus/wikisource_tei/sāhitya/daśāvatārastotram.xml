@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Daśāvatārastotra</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%A6%E0%A4%B6%E0%A4%BE%E0%A4%B5%E0%A4%A4%E0%A4%BE%E0%A4%B0%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8B%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+namo'stu nārāyaṇamandirāya namo'stu hārāyaṇakandharāya |
+namo'stu pārāyaṇacarcitāya namo'stu nārāyaṇ te'rcitāya || 1||
+namo'stu matsyāya layābdhigāya namo'stu kūrmāya payobdhigāya |
+namo varāhāya dharādharāya namo nṛsiṃhāya parātparāya || 2||
+namo'stu śakrāśrayavāmanāya namo'stu viprotsavabhārgavāya |
+namo'stu sītāhitarāghavāya namo'stu pārthastutayādavāya || 3||
+namo'stu buddhāya vimohakāya namo'stu te kalkipayoditāya |
+namo'stu pūrṇāmitasadguṇāya samastanāthāya hayānanāya || 4||
+karasthaśaṅkhollasadakṣamālāprabodhamudrābhayapustakāya |
+namo'stu vaktrodgiradāgamāya nirasta heyāya hayānanāya || 5||
+ramāsamākāracatuṣṭayena kramāccaturdikṣu niṣevitāya |
+namo'stu pārśvadvayagadvirūpaśriyābhiṣiktāya hayānanāya || 6||
+kirīṭapaṭṭāṅgadahārakāñcīsuratnapītāṃbaranūpurādyaiḥ |
+virājitāṅgāya namo'stu tubhyaṃ suraiḥ parītāya hayānanāya || 7||
+vimuktavandyāya namo'stu viśvagvidhūtavighnāya hayānanāya |
+namo'stu śiṣṭeṣṭada vādirājakṛtāṣṭakābhiṣṭutaceṣṭitāya || 8||
+namo'stu śiṣṭeṣṭada vādirājakṛtāṣṭakābhiṣṭutaceṣṭitāya |
+dasāvatāraistridasārthadāya niśeśabiṃbastha hayānanāya || 9||
+|| iti vādirājapūjyacaraṇaviracitaṃ daśāvatārastotraṃ saṃpūrṇam ||
+    </body>
+  </text>
+</TEI>

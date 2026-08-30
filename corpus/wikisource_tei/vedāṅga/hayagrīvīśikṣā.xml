@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Hayagrīvīśikṣā</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%B9%E0%A4%AF%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%B5%E0%A5%80%E0%A4%B6%E0%A4%BF%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BE"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+hayagrīvī śikṣā
+krame yathokte padajātameva dvirabhyaseduttarameva pūrvam
+abhyasya pūrvaṃ ca tathottare pade'vasānamevaṃ hi jaṭā vidhīyate 1
+tribhiḥ padaiḥ syātkramako yatra tatra
+madhyaṃ tvanabhyasya ca pūrvamabhyaset
+arthācca madhyasya bhaved dviruktitā
+saṃdehadaṃ tviṅganataḥ pradarśayet 2
+abhikrame kramaśāstraṃ pramāṇaṃ
+syād vyutkrame vyākaraṇaṃ pradhānam
+uktakrame vyutkramaṇe viśeṣaḥ
+svarāḥ prakāradvitayepyabhinnāḥ 3
+catuḥkrame trikramavat parītya
+saṃdarśayenmadhyapadasya rūpam
+tatheṅgayetpadajātaṃ vikāri
+vyāvartane saṃhitāvatpragṛhya 4
+ṛte kramaṃ dvaipadasaṃhitāsvarajñānaṃ na ceti kramakaprayojanam
+tathānyataḥ padasaṃdherviśeṣitaḥ
+svarābhidhāne hi jaṭā prayojikā 5
+kramasvareṇaiva jaṭāsu bhūyate
+samajyate'totra na tiṅṅatiṅvidhiḥ
+svarābhidheyā hi yathāśrutaiḥ svaraiḥ
+padeṣvathāmantritajātikeṣvapi 6
+iti jaṭāpaṭale prathamo vargaḥ
+
+atha dvitīyo vargaḥ
+madhyasvarastrikrame yatra lupyate
+vyāvartane tadgrahaṇaṃ ca sarvataḥ
+syādanyathā vigrahaṇe prayojanaṃ
+kiṃ vābhijāte padaniścaye tadā 7
+saṃdhirnipātasya kadāpi noktas
+tathāpi pūrveṇa jaṭāsu dṛṣṭaḥ
+svarā hi sarve kramavadvidheyāḥ
+kampā api syuḥ svarasaṃdhijāśca 8
+ardharcāntyaṃ padamekaṃ pradṛśyate
+tadā tadabhyasya viramya ceṅgayet
+ṛcyekameva prakaṭaṃ padaṃ bhavet
+pareṇa sākaṃ parivartanaṃ tadā 9
+okāra āmantritajopi dṛṣṭaḥ
+saṃdhīyamāno na tu saṃhitāyām
+svare pare'kāravarjaṃ jaṭāyām
+upaiti saṃdhiṃ na paro viśeṣaḥ 10
+anānupūrvyeṇa ca yatra saṃhitā
+padakramād vyutkramaṇaṃ punaḥ kramaḥ
+bhavetprakāro'yamanādiruttamaḥ
+sadā jaṭāyā iti sarvasaṃmatat 11
+iti dvitīyo vargaḥ
+mūlaśikṣā samāptā
+    </body>
+  </text>
+</TEI>

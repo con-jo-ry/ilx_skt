@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kālabhairavāṣṭaka (Bṛhatstotraratnākarāntargata)</title>
+        <author>Śaṅkarācārya</author>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%BE%E0%A4%B2%E0%A4%AD%E0%A5%88%E0%A4%B0%E0%A4%B5%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%95%E0%A4%AE%E0%A5%8D_(%E0%A4%AC%E0%A5%83%E0%A4%B9%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8B%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%BE%E0%A4%95%E0%A4%B0%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A4%B0%E0%A5%8D%E0%A4%97%E0%A4%A4%E0%A4%AE%E0%A5%8D)"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+devarājyasevyamānapāvanāghripaṃkajam
+vyālayajñasūtramiṃdūśekharaṃ kṛpākaram|
+nāradādiyogivṛṃda vaṃditaṃ digaṃbaram
+kāśikāpurādhinātha kālabhairavam bhaje|
+bhānukoṭibhāskaraṃ bhavābditārakaṃ paraṃ
+nīlakaṇṭhamīpsithārthadāyakaṃ trilocanama|
+kālakālamambujākṣamakṣaśūlamakṣaraṃ
+kāśikāpurādhinātha kālabhairavam bhaje|
+śūlaṭaṃkapāśadaṇḍapāṇimādikāraṇaṃ
+śyāmakāyamādidevamakṣaraṃ nirāmayama|
+bhīmavikrama prabhuṃ vicitra tāṃḍavapriyaṃ
+kāśikāpurādhinātha kālabhairavam bhaje|
+bhuktimuktidāyakaṃ praśastalokavigrahaṃ
+bhaktavastalaṃ sthitaṃ samastalokavigrahaṃ|
+vinikaṇvanmanojñhemkiṃkiṇīlastakaṭiṃ
+kāśikāpurādhinātha kālabhairavam bhaje|
+dharmasetūpālakaṃ tvadharmamārgnāśakam
+karmapāśamocakam suśarmadārakam vibhum|
+svarṇavarṇaśeṣpāśaśobhitāṃgamaṇḍalaṃ
+kāśikāpurādhinātha kālabhairavam bhaje|
+ratnapādukāprabhābhirāmapādayugmakam
+nityamadvitīyamiṣṭa daivataṃ niraṃjanam|
+mṛtyu darpa nāśanaṃ karāladaṃṣṭra mokṣaṇam
+kāśikāpurādhinātha kālabhairavam bhaje|
+aṭṭahāsabhinnapadmajāṇḍkośasaṃtatiṃ
+dṛṣṭipātanaṣṭapāpajālamugraśāsanaṃ
+aṣṭasiddhidāyakaṃ kapālamālikādharaṃ
+kāśikāpurādhinātha kālabhairavam bhaje|
+bhūtasaṃghanāyakaṃ viśālakirtīdāyakaṃ
+kāśivāsalokapuṇyapāpaśodhakaṃ vibhum|
+nitimārgakovidam purātanam jagatpatiṃ
+kāśikāpurādhinātha kālabhairavam bhaje|
+kālabhairavāṣṭakam paṭhanti ye manoharaṃ
+jñānamukti sādhanam vicitrapuṇyavardhanam|
+śokamohdainyalobhakopatāpnāśanam
+prayānti kālabhairavāṃghrisannidhim narā dhṛvam
+kāśikāpurādhinātha kālabhairavam bhaje|
+    </body>
+  </text>
+</TEI>

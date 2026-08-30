@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Dattātreyastotra (Nāradapurāṇa)</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%A6%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%BE%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AF%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8B%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D_(%E0%A4%A8%E0%A4%BE%E0%A4%B0%E0%A4%A6%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D)"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+jaṭādharaṃ pāṃḍurāṃgaṃ śūlahastaṃ kṛpānidhim |
+sarvarogaharaṃ devaṃ dattātreyamahaṃ bhaje || 1||
+asya śrīdattātreyastotramaṃtrasya bhagavān nāradaṛṣiḥ |
+anuṣṭup chandaḥ | śrīdattaparamātmā devatā |
+śrīdattaprītyarthe jape viniyogaḥ ||
+jagadutpattikartre ca sthitisaṃhāra hetave |
+bhavapāśavimuktāya dattātreya namo'stute || 1||
+jarājanmavināśāya dehaśuddhikarāya ca |
+digambaradayāmūrte dattātreya namo'stute || 2||
+karpūrakāntidehāya brahmamūrtidharāya ca |
+vedaśāstraparijñāya dattātreya namo'stute || 3||
+rhasvadīrghakṛśasthūlanāmagotravivarjita |
+paṃcabhūtaikadīptāya dattātreya namo'stute || 4||
+yajñabhokte ca yajñāya yajñarūpadharāya ca |
+yajñapriyāya siddhāya dattātreya namo'stute || 5||
+ādau brahmā madhya viṣṇuraṃte devaḥ sadāśivaḥ |
+mūrtitrayasvarūpāya dattātreya namo'stute || 6||
+bhogālayāya bhogāya yogayogyāya dhāriṇe |
+jitendriyajitajñāya dattātreya namo'stute || 7||
+digambarāya divyāya divyarūpadhrāya ca |
+sadoditaparabrahma dattātreya namo'stute || 8||
+jambudvīpamahākṣetramātāpuranivāsine |
+jayamānasatāṃ deva dattātreya namo'stute || 9||
+bhikṣāṭanaṃ gṛhe grāme pātraṃ hemamayaṃ kare |
+nānāsvādamayī bhikṣā dattātreya namo'stute || 10||
+brahmajñānamayī mudrā vastre cākāśabhūtale |
+prajñānaghanabodhāya dattātreya namo'stute || 11||
+avadhūtasadānandaparabrahmasvarūpiṇe |
+videhadeharūpāya dattātreya namo'stute || 12||
+satyaṃrūpasadācārasatyadharmaparāyaṇa |
+satyāśrayaparokṣāya dattātreya namo'stute || 13||
+śūlahastagadāpāṇe vanamālāsukandhara |
+yajñasūtradharabrahman dattātreya namo'stute || 14||
+kṣarākṣarasvarūpāya parātparatarāya ca |
+dattamuktiparastotra dattātreya namo'stute || 15||
+datta vidyāḍhyalakṣmīśa datta svātmasvarūpiṇe |
+guṇanirguṇarūpāya dattātreya namo'stute || 16||
+śatrunāśakaraṃ stotraṃ jñānavijñānadāyakam |
+sarvapāpaṃ śamaṃ yāti dattātreya namo'stute || 17||
+idaṃ stotraṃ mahaddivyaṃ dattapratyakṣakārakam |
+dattātreyaprasādācca nāradena prakīrtitam || 18||
+|| iti śrīnāradapurāṇe nāradaviracitaṃ dattātreyastotraṃ susaṃpūrṇam ||
+    </body>
+  </text>
+</TEI>

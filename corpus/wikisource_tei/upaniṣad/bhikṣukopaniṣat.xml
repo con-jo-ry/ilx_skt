@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Bhikṣukopaniṣad</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%AD%E0%A4%BF%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%81%E0%A4%95%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+bhikṣukopaniṣat
+bhikṣūṇāṃ paṭalaṃ yatra viśrāntimagamatsadā |
+tantraipadaṃ brahmatattvaṃ brahmamātraṃ karotu mām ||
+oṃ pūrṇamadaḥ pūrṇamidaṃ
+pūrṇāt pūrṇamudacyate |
+pūrṇasya pūrṇamādāya
+pūrṇamevāvaśiṣyate ||
+oṃ śāntiḥ śāntiḥ śāntiḥ ||
+oṃ atha bhikṣūṇāṃ mokṣārthināṃ
+kuṭīcakabahūdakahaṃsaparamahaṃsāśveti catvāraḥ |
+kuṭīcakā nāma gautamabharadwājayājñavalkyavasiṣṭa
+prabhṛtayo'ṣṭau grāsāṃśvaranto
+yogamārge mokṣameva prārthayante |
+atha bahūdakā nāma tridaṇḍakamaṇḍaluśikhā
+yajñopavītakāṣāyavastradhāriṇo
+brahmarṣigṛhe madhumāṃsaṃ varjayitvāṣṭau
+grāsānbhaikṣācaraṇaṃ kṛtvā
+yogamārge mokṣameva prārthayante |
+atha haṃsā nāma grāma ekarātraṃ nagare pañcarātraṃ
+kṣetre saptarātraṃ tadupari na vaseyuḥ |
+gomūtragomayāhāriṇo nityaṃ cāndrāyaṇaparāyaṇā
+yogamārge mokṣameva prārthayante |
+atha paramahaṃsā nāma saṃvartakāruṇiśvetaketujaḍabharata
+dattātreyaśukavāmadevahārītakaprabhṛtayo'ṣṭau
+grāsāṃśvaranto
+yogamārge mokṣameva prārthayante |
+vṛkṣamūle śūnyagṛhe śmaśānavāsino vā
+sāmbarā vā digambarā vā |
+na teṣāṃ dharmādharmau lābhālābhau
+śuddhāśuddhau dvaitavarjitā samaloṣṭāśmakāñcanāḥ
+sarvavarṇeṣu bhaikṣācaraṇaṃ kṛtvā sarvatrātmaiveti paśyanti |
+atha jātarūpadharā nirdvandvā niṣparigrahāḥ
+śukladhyānaparāyaṇā ātmaniṣṭāḥ prāṇasaṃdhāraṇārthe
+yathoktakāle bhaikṣamācarantaḥ śūnyāgāradevagṛha
+tṛṇakūṭavalmīkavṛkṣamūlakulālaśālāgnihotraśālānadīpulina
+girikandarakuharakoṭaranirjharasthaṇḍile tatra brahmamārge
+samyaksaṃpannāḥ śuddhamānasāḥ paramahaṃsācaraṇena
+saṃnyāsena dehatyāgaṃ kurvanti te paramahaṃsā nāmetyupaniṣat ||
+oṃ pūrṇamadaḥ pūrṇamidaṃ
+pūrṇāt pūrṇamudacyate |
+pūrṇasya pūrṇamādāya
+pūrṇamevāvaśiṣyate ||
+oṃ śāntiḥ śāntiḥ śāntiḥ ||
+iti bhikṣukopaniṣatsamāptā ||
+    </body>
+  </text>
+</TEI>

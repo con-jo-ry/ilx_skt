@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Aparādhakṣamāpanastotra</title>
+        <author>Vāsudevānandasarasvatī</author>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%85%E0%A4%AA%E0%A4%B0%E0%A4%BE%E0%A4%A7%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%AE%E0%A4%BE%E0%A4%AA%E0%A4%A8%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8B%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+rasajñāvaśātārakaṃ svādulabhyam
+gṛhītaṃ kadācinna te nāma datta |
+kṣamasvāparādhaṃ kṣamasvāparādhaṃ
+kṣamasvāparādhaṃ prabho klinnacitta || 1||
+viyonyantare daivadārḍhyā vibhoprāg
+gṛhītaṃ kadācinna te nāma datta |
+kṣamasvāparādhaṃ kṣamasvāparādhaṃ
+kṣamasvāparādhaṃ prabho klinnacitta || 2||
+mayā mātṛgarbhasthitiprāptakaṣṭāt
+gṛhītaṃ kadācinna te nāma datta |
+kṣamasvāparādhaṃ kṣamasvāparādhaṃ
+kṣamasvāparādhaṃ prabho klinnacitta || 3||
+mayā jātamātreṇa saṃmohitena
+gṛhītaṃ kadācinna te nāma datta |
+kṣamasvāparādhaṃ kṣamasvāparādhaṃ
+kṣamasvāparādhaṃ prabho klinnacitta || 4||
+mayā krīḍanāsaktacittena bālye
+gṛhītaṃ kadācinna te nāma datta |
+kṣamasvāparādhaṃ kṣamasvāparādhaṃ
+kṣamasvāparādhaṃ prabho klinnacitta || 5||
+mayā yauvane'jñānato bhogatoṣād
+gṛhītaṃ kadācinna te nāma datta |
+kṣamasvāparādhaṃ kṣamasvāparādhaṃ
+kṣamasvāparādhaṃ prabho klinnacitta || 6||
+mayā sthāvirenighnasarvendriyeṇa
+gṛhītaṃ kadācinna te nāma datta |
+kṣamasvāparādhaṃ kṣamasvāparādhaṃ
+kṣamasvāparādhaṃ prabho klinnacitta || 7||
+hṛṣīkeśa me vāṅmanaḥkāyajātam
+harejñānato'jñānato viśvasākṣin |
+kṣamasvāparādhaṃ kṣamasvāparādhaṃ
+kṣamasvāparādhaṃ prabho klinnacitta || 8||
+smṛto dhyāta āvāhito'syarcito vā
+na gītaḥ stuto vandito vā na japtaḥ |
+kṣamasvāparādhaṃ kṣamasvāparādhaṃ
+kṣamasvāparādhaṃ prabho klinnacitta || 9||
+dayābdhirbhavāddaṅna sāgāśca mādṛg
+bhavatyātpamantorbhavānme śaraṇyaḥ |
+yathālambanaṃ bhūrhi bhūniḥsṛtāṃghre
+riti prārthitaṃ dattaśiṣyeṇa sāram || 10||
+|| iti paramapūjya śrīmad vāsudevānandasarasvatī
+svāmīmahārājakṛta aparādhakṣamāpana stotraṃ saṃpūrṇam ||
+    </body>
+  </text>
+</TEI>

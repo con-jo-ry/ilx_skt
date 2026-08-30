@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Śrīviṣṇuṣoḍaśanāmastotra</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%B5%E0%A4%BF%E0%A4%B7%E0%A5%8D%E0%A4%A3%E0%A5%8B:_%E0%A4%B7%E0%A5%8B%E0%A4%A1%E0%A4%B6%E0%A4%A8%E0%A4%BE%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8B%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+śrīviṣṇoḥ ṣoḍaśanāmastotram |
+śrīgaṇeśāya namaḥ||
+auṣadhe cintayedviṣṇuṃ bhojane ca janārdanam |
+śayane padmanābhaṃ ca vivāhe ca prajāpatim ||1||
+yuddhe cakradharaṃ devaṃ pravāse ca trivikramam |
+nārāyaṇaṃ tanutyāge śrīdharaṃ priyasaṃgame ||2||
+duḥsvapne smara govindaṃ saṃkaṭe madhusudanam |
+kānane nārasiṃhaṃ ca pāvake jalaśāyinam ||3||
+jalamadhye varāhaṃ ca parvate raghunandanam |
+gamane vāmanaṃ caiva sarvakāryeṣu mādhavam ||4||
+ṣoḍaśaitāni nāmāni prātarutthāya yaḥ paṭhet |
+sarvapāpavinirmukto viṣṇuloke mahīyate ||5||
+iti śrīviṣṇoḥ ṣoḍaśanāmastotraṃ saṃpūrṇam||
+    </body>
+  </text>
+</TEI>

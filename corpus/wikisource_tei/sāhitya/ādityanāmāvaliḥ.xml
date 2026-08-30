@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Ādityanāmāvali</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%86%E0%A4%A6%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%AF%E0%A4%A8%E0%A4%BE%E0%A4%AE%E0%A4%BE%E0%A4%B5%E0%A4%B2%E0%A4%BF%E0%A4%83"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+|| ādityahṛdayam nāmāvaliḥ ||
+oṃ raśmimate namaḥ |
+oṃ samudyate namaḥ |
+oṃ devāsuranamaskṛtāya namaḥ |
+oṃ vivasvate namaḥ |
+oṃ bhāskarāya namaḥ | 5|
+oṃ bhuvaneśvarāya namaḥ |
+oṃ sarvadevātmakāya namaḥ |
+oṃ tejasvine namaḥ |
+oṃ raśmibhavanāya namaḥ |
+oṃ devāsuragaṇalokapālāya namaḥ | 10|
+oṃ brahmaṇe namaḥ |
+oṃ viṣṇave namaḥ |
+oṃ śivāya namaḥ |
+oṃ skandāya namaḥ |
+oṃ prajāpataye namaḥ | 15|
+oṃ mahendrāya namaḥ |
+oṃ dhanadāya namaḥ |
+oṃ kālāya namaḥ |
+oṃ yamāya namaḥ |
+oṃ somāya namaḥ | 20|
+oṃ apāṃpataye namaḥ |
+oṃ pitṛmūrtaye namaḥ |
+oṃ vasumūrtaye namaḥ |
+oṃ sādhyamūrtaye namaḥ |
+oṃ aśvimūrtaye namaḥ | 25|
+oṃ marunmūrtaye namaḥ |
+oṃ manave namaḥ |
+oṃ vāyumūrtaye namaḥ |
+oṃ vahnaye namaḥ |
+oṃ prajamūrtaye namaḥ | 30|
+oṃ prāṇāya namaḥ |
+oṃ ṛtave namaḥ |
+oṃ kartre namaḥ |
+oṃ prabhākarāya namaḥ |
+oṃ ādityāya namaḥ | 35|
+oṃ savitre namaḥ |
+oṃ sūryāya namaḥ |
+oṃ khagāya namaḥ |
+oṃ pūṣṇe namaḥ |
+oṃ gabhastimate namaḥ | 40|
+oṃ suvarṇasadṛśāya namaḥ |
+oṃ bhānave namaḥ |
+oṃ hiraṇyaretase namaḥ |
+oṃ divākarāya namaḥ |
+oṃ haridaśvāya namaḥ | 45|
+oṃ sahasrārciṣe namaḥ |
+oṃ saptasaptaye namaḥ |
+oṃ marīcimate namaḥ |
+oṃ timironmathanāya namaḥ |
+oṃ śaṃbhave namaḥ | 50|
+oṃ tvaṣṭre namaḥ |
+oṃ mārtāṇḍāya namaḥ |
+oṃ aṃśumate namaḥ |
+oṃ hiraṇyagarbhāya namaḥ |
+oṃ śiśirāya namaḥ | 55|
+oṃ tapanāya namaḥ |
+oṃ bhāskarāya namaḥ |
+oṃ ravaye namaḥ |
+oṃ agnigarbhāya namaḥ |
+oṃ aditeḥputrāya namaḥ | 60|
+oṃ śaṃkhāya namaḥ |
+oṃ śiśiranāśanāya namaḥ |
+oṃ vyomanāthāya namaḥ |
+oṃ tamobhedine namaḥ |
+oṃ ṛgyajuḥsāmapāragāya namaḥ | 65|
+oṃ ghanavṛṣṭaye namaḥ |
+oṃ apāṃmitrāya namaḥ |
+oṃ vindhyavīthīplavaṅgamāya namaḥ |
+oṃ ātapine namaḥ |
+oṃ maṇḍaline namaḥ | 70|
+oṃ mṛtyave namaḥ |
+oṃ piṅgalāya namaḥ |
+oṃ sarvatāpanāya namaḥ |
+oṃ kavaye namaḥ |
+oṃ viśvasmai namaḥ | 75|
+oṃ mahātejase namaḥ |
+oṃ raktāya namaḥ |
+oṃ sarvabhavodbhavāya namaḥ |
+oṃ nakṣatragrahatārāṇāṃ adhipāya namaḥ |
+oṃ viśvabhāvanāya namaḥ | 80|
+oṃ tejasāmapi tejasvine namaḥ |
+oṃ dvādaśātmane namaḥ |
+oṃ indrāya namaḥ |
+oṃ dhātre namaḥ |
+oṃ bhagāya namaḥ | 85|
+oṃ pūṣṇe namaḥ |
+oṃ mitrāya namaḥ |
+oṃ varuṇāya namaḥ |
+oṃ aryamaṇe namaḥ |
+oṃ arciṣmate namaḥ | 90|
+oṃ vivasvate namaḥ |
+oṃ tvaṣṭre namaḥ |
+oṃ savitre namaḥ |
+oṃ viṣṇave namaḥ |
+oṃ pūrvāyagiraye namaḥ | 95|
+oṃ paścimāyādraye namaḥ |
+oṃ jyotirgaṇānāṃpataye namaḥ |
+oṃ dinādhipataye namaḥ |
+oṃ jayāya namaḥ |
+oṃ jayabhadrāya namaḥ | 100|
+oṃ haryaśvāya namaḥ |
+oṃ sahasrāṃśave namaḥ |
+oṃ ādityāya namaḥ |
+oṃ ugrāya namaḥ |
+oṃ vīrāya namaḥ | 105|
+oṃ sāraṃgāya namaḥ |
+oṃ padmaprabodāya namaḥ |
+oṃ pracaṇḍāya namaḥ |
+oṃ brahmeśānācyuteśāya namaḥ |
+oṃ sūryāya namaḥ | 110|
+oṃ ādityavarcase namaḥ |
+oṃ bhāsvate namaḥ |
+oṃ sarvabhakṣāya namaḥ |
+oṃ raudraya vapuṣe namaḥ |
+oṃ tamoghnāya namaḥ | 115|
+oṃ himaghnāya namaḥ |
+oṃ śatrughnāya namaḥ |
+oṃ amitātmane namaḥ |
+oṃ kṛtaghnaghnāya namaḥ |
+oṃ devāya namaḥ | 120|
+oṃ jyotiṣāṃpataye namaḥ |
+oṃ taptacāmīkarābhāya namaḥ |
+oṃ vahnaye namaḥ |
+oṃ viśvakarmaṇe namaḥ |
+oṃ tamobhinighnāya namaḥ | 125|
+oṃ ghṛṇaye namaḥ |
+oṃ lokasākṣiṇe namaḥ |
+oṃ bhūtasrṣṭre namaḥ |
+oṃ bhūtapālāya namaḥ |
+oṃ bhūtanāśāya namaḥ | 130|
+oṃ pāyate namaḥ |
+oṃ tapate namaḥ |
+oṃ varṣate namaḥ |
+oṃ supteṣu jāgrate namaḥ |
+oṃ bhūteṣu pariniṣṭhitāya namaḥ | 135|
+oṃ agnihotrāya namaḥ |
+oṃ agnihotriṇāṃ phalāya namaḥ |
+oṃ paramasamarthāya parabrahmaṇe namaḥ | 138|
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Plutaśikṣā</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%AA%E0%A5%8D%E0%A4%B2%E0%A5%81%E0%A4%A4%E0%A4%B6%E0%A4%BF%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BE"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+plutaśikṣā
+bṛhaspatisutasyāgnihotraṃ juhoti saṃśravā dve dve
+mitro'si sapta prathamatvaṣṭā brahmavādino'dbhirmanurekamekam yedekena yajuṣā vāgvai
+brahmavādino vicityaḥ paryagnirdve dve paśumālabhya
+brahmavādinassatvāadhvaryussyādyassomaṃ prāṇe vā upām̐śupātreṇaikamekam
+indro vṛtramahan tasya namadhyamā samiṣṭayajūm̐ṣi dve dve
+somo vai sahasramekam
+sahasratamyā na madhyamā dve
+bhūrbhuvastrīṇyutsṛjyāṃ dve
+evaṃ catvāriṃśatsaṃkhyāḥ plutāḥ
+eteṣāṃ madhye raṅga plutā apyuktāḥ
+tatpadāni vakṣyāmaḥ ||
+mamām̐ tathopahūtām̐ ca ślokamathasumaṅgalām ||
+vākye yaddhrām̐mamāmādipañcaraṅgaplutāḥ smṛtāḥ ||
+saṃhitāyāṃ plutāḥ ṣaṭtriṃśat raṅgaplutāścatvāraḥ
+parāyāte ekaṃ evaṃ militvā ekacatvāriṃśat athaplutodāharaṇa vākyāni ślokarūpeṇa spaṣṭīkaroti--
+agnā ityatha patnīvāḥ stheyo'gnīstvagṛhā ina
+upastheyābhinattī ca bhinattyetī tathā stuhī
+brahmān brahmāntathābrahmān brahmān rājānagānapi
+prājāpatyāstataḥ kāryā hotavyāṃ ca havīstataḥ
+somā vicityāattānā anvārabhyā averapāḥ
+paśūnā juhavānī ca māhauṣāgnā iti smṛtāḥ
+atiṣṭhipā yajñapatāvutsṛjyāndvayameva ca
+lājīñchācīntsahasrāñca saptatriṃśatplutāḥ smṛtāḥ
+mamāmityādipañcaraṅgaplutāḥ ślokarupeṇa pūrvaṇaivoktāḥ
+hauṣāṃ pūrvaṃ makārastu sahasrāṃ pūrvatastanīm
+yadvikarṇī yadvikarṇī catvāro na plutāḥ smṛtāḥ
+iti plutavicāraḥ
+karotu tāmabhīmāṃ ca indrasya tanuvaṃ prayam
+mayidakṣakratūsvinnasnātvī na plutasaṃjñikāḥ ||
+plutaprakaraṇaṃ samāptam
+iti pluta śikṣā samāptā
+    </body>
+  </text>
+</TEI>

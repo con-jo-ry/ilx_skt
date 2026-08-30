@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Vyālaśikṣā</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B3%E0%A4%B6%E0%A4%BF%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BE"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+vyālaśikṣā
+atha śikṣāṃ pravakṣyāmi vyālamaunimatānugām
+padasandhisamāyuktāṃ svarasandhiyutāṃ tathā 1
+yā padasya ṣaḍāvṛttiḥ sā jaṭetyabhidhīyate
+kramoktapadajātaṃ yaduttaraṃ taddvirabhyaset 2
+tataḥ pūrvaṃ dvirabhyasya dvitīye tatsamāpayet
+dvitīyamuttareṇaivamarddharcānte samāpayet 3
+iti jaṭā
+tribhiḥ padaiḥ kramo yastu sakṛduktvāya maddhyamam
+antyameva dvirabhyasya maddhyamantu sakṛdvadet 4
+tataḥ pūrvaṃ dvirabhyasya madhyamantu sakṛdvadet
+yathāvasānamardharcāṃ kramavadveṣṭanaṃ bhavet 5
+iti trikramajaṭā
+jaṭāvadabhyasenmālāmādyupāntyapadaṃ smṛtam
+kramaścānukramaḥ proktaḥ pūrvaṃ vyālamaharṣiṇā 6
+iti mālā
+kramamuktvā viparyasya punaśca kramamuttaram
+ekavāraṃ śikhetīsā jaṭe vāntaṃ samāpayet 7
+iti śikhā
+jaṭāvadabhyasedrekhāmardharcātpūrvamuttaram
+yuktvā dvābhyāṃ jaṭaivontaṃ pūrvaṃ vyāAZlamaharṣiṇā 8
+iti rekhā
+kramā dvitricaturthokto vargo vā ṛci vā kramāt
+evaṃ daṇḍaścocyate sā varddharcānte samāpayet 9
+iti daṇḍaḥ
+kramamuktvā viparyasya punaśca kramamuttaram
+tadutkramya punaḥ brūyāt ṛcāntaṃ kramavadrathaḥ 10
+iti rathaḥ
+jaṭottaraṃ dvirabhyasya caikaikaṃ madhyamādikam
+sandhivatkramavacceti ghana ityucyate budhaiḥ 11 iti ghanaḥ
+śikhevānukramanteṣāṃ trayāṇāṃ kramamabhyaset
+jaṭe vāntaṃ veṣṭanīyyaṃ vyālena ghana ucyate 12
+iti pāṭhāntaram
+iti vyālaśikṣā samāptā
+    </body>
+  </text>
+</TEI>

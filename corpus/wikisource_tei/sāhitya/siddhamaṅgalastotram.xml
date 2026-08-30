@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Siddhamaṅgalastotra</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%BF%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%AE%E0%A4%99%E0%A5%8D%E0%A4%97%E0%A4%B2%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8B%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+śrīmadananta śrīvibhūṣita appala lakṣmī narasimharājā
+jaya vijayībhava digvijayībhava śrīmadakhaṇḍa śrīvijayībhava ||1||
+śrīvidyādhari rādhā surekhā śrīrākhidharā śrīpādā
+jaya vijayībhava digvijayībhava śrīmadakhaṇḍa śrīvijayībhava ||2||
+mātā sumatī vātsalyāmṛta paripoṣita jaya śrīpādā
+jaya vijayībhava digvijayībhava śrīmadakhaṇḍa śrīvijayībhava ||3||
+satya ṛṣīśvara duhitānandana bāpanāryanuta śrīcaraṇā
+jaya vijayībhava digvijayībhava śrīmadakhaṇḍa śrīvijayībhava ||4||
+savitrṛkāṭhakacayana puṇyaphala bhāradvājaṛṣi gotra saṃbhavā
+jaya vijayībhava digvijayībhava śrīmadakhaṇḍa śrīvijayībhava ||5||
+do caupātī deva lakṣmī ghanasakhyā bodhita śrīcaraṇā
+jaya vijayībhava digvijayībhava śrīmadakhaṇḍa śrīvijayībhava ||6||
+puṇyarūpiṇī rājamāṃbasuta garbhapuṇyaphala saṃjātā
+jaya vijayībhava digvijayībhava śrīmadakhaṇḍa śrīvijayībhava ||7||
+sumatīnandana naraharinandana dattadevaprabhu śrīpādā
+jaya vijayībhava digvijayībhava śrīmadakhaṇḍa śrīvijayībhava ||8||
+pīṭhikāpura nityavihārā madhumatī dattā mangalarūpā
+jaya vijayībhava digvijayībhava śrīmadakhaṇḍa śrīvijayībhava ||9||
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Āśvalāyanagṛhyakārikā</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%86%E0%A4%B6%E0%A5%8D%E0%A4%B5%E0%A4%B2%E0%A4%BE%E0%A4%AF%E0%A4%A8%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%BF%E0%A4%95%E0%A4%BE%E0%A4%83"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+bhaṭṭakumārilasvāmipraṇītāḥ atha dvitīyo'dhyāyaḥ |
+
+<1 śravaṇākarma |>
+
+bruve'tha śravaṇākarma sarpabalyākhyakarma ca | kurvanti śrāvaṇe māsi paurṇamāsyāmidaṃ dvayam 
+pūrayedahni kalaśaṃ navaṃ yāvakasaktubhiḥ | nidhāya taṃ nave śikye darvī vaikaṅkatīmapi ||
+prācyāṃ diśi śuciṃ deśaṃ balyarthaṃ parigṛhya ca | yavadhānā vimajyaikaṃ bhāgamabhyajya sarpiṣā āditye'stamite kuryādanvādhānādi pūrvavat | havirdvayasya tūṣṇīṃ sto nirvāpaprokṣaṇe iha purovadavaghātādi syādvibhajya ca taṇḍulān | tatraikena puroḍāśamanyena śrapayeccarum ||
+ekasmiṃstu puroḍāśaṃ kapāle śrapayediha | ājyena saha dhānānāṃ paryagnikaraṇaṃ bhavet ||
+ājyasya kevalotpūtau tāsāṃ triḥ prokṣaṇaṃ bhavet | (carumāsādayetpūrvaṃ puroḍāśamataḥ param) barhiṣyājyāntare kṛtsnaṃ puroḍāśaṃ nimajjayet | prakāśapṛṣṭhamathavā puroḍāśaṃ nimajjayet
+atha kṛtvā''jyabhāgāntaṃ carvāhuticatuṣṭayam | hutvā catuṣṭayenāgne nayeti pratyṛcaṃ tataḥ| upastīryātha savyena dakṣiṇe prokṣite kare | savyenaikakapāla tamopya kṛtsnamakhaṇḍitam || upariṣṭāttu savyena kuryāddvirabhighāraṇam | acyutāyeti mantreṇa dakṣiṇena juhotyatha || yasminnājye nimagno'yaṃ sruveṇaiva juhoti tat | uparyekakapālasya māno agne iti tyṛcā athopastaraṇādyanyaḥ karoti gṛhiṇo'ñjalau | sa tena juhuyādaktā dhānāḥ śaṃ no bhavantviti
+yāstu dhānā anabhyaktā putrādibhyo dadāti tāḥ | atha sviṣṭakṛtaṃ hutvā carudhānaikadaśetaḥ pariṣecanaparyantaṃ homaśeṣaṃ samāpayet | ityuktaṃ śravaṇākarma sarpabalyāmukhyacyate || 15 || iti śravaṇākarma | 
+
+<2 sarpabaliḥ >
+
+atha prapūrayeddarvīṃ saktubhiḥ kalaśasthitaiḥ| gṛhātprāgupaniṣkramya śucau deśe'hni kalpite
+apa āsicya tānopya sarpadeveti mantrataḥ | nāntarā balimātmānaṃ vyaveyādiha kaścana || vyavāyasya niṣedho'yamukta āparidānataḥ | ye sarpā iti maṃtreṇa namaskuryātkṛtāñjaliḥ ||
+baliṃ pradakṣiṇa kṛtvā paścādasyopaviśya ca | sarpo'sītyādika mantraṃ dadāmyantaṃ sakṛdvadet
+dhruvāmuṃ te paridadāmyetamuktvā nivedayet | jyeṣṭhānukramataḥ putrānaprattaduhitṝstathā || 5 ||
+tataḥ patnī dhruvāmuṃ ta ityādyāvartate'tra tu | vācyaṃ putrādināmātra dvitīyāntamamuṃpade ||
+dhruvamātmeti cā''tmānaṃ tataḥ paridadāti saḥ | anyaḥ kurvaṃti caidāha gṛhiṇo nāma māṃpade
+sānnaṃ prātaśca mantreṇa tenāpratyavarohaṇāt | balimeva harenneha namaskārādiriṣyate ||8||
+sāyaṃ prātaśca yāvantaḥ kālāḥ syustaddinādadhaḥ | tāvato vā balīṃstasminnevāhani haredatha || 9 || iti sarpabaliḥ |
+    </body>
+  </text>
+</TEI>

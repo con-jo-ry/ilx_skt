@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kaulopaniṣad</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%95%E0%A5%8C%E0%A4%B2%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+|| kaulopaniṣat ||
+|| śrīḥ ||
+kaulopaniṣat |
+śannaḥ kaulikaḥ śanno vāruṇī śannaḥ śuddhiḥ śanno|āgniśśannaḥ
+sarvaṃ samabhavat | namo brahmaṇe namaḥ pṛthivyai namo'dbhyo
+namo'gnaye namo vāyave namo gurubhyaḥ |
+tvameva pratyakṣaṃ saivāsi |
+tvāmeva pratyakṣaṃ tāṃ vadiṣyāmi |
+ṛtaṃ vadiṣyāmi |
+satyaṃ vadiṣyāmi |
+tanmāmavatu |
+tadvaktāramavatu |
+avatu mām |
+avatu vaktāram |
+oṃ śāntiḥ śāntiḥ śāntiḥ |
+athāto dharmajijñāsā |
+jñānaṃ buddhiśca |
+jñānaṃ mokṣaikakāraṇam |
+mokṣassarvātmatāsiddhiḥ |
+pañca viṣayāḥ prapañcaḥ |
+teṣāṃ jñānasvarūpāḥ |
+yogo mokṣaḥ |
+adharmakāraṇājñānameva jñānam |
+prapañca īśvaraḥ |
+anityaṃ nityam |
+ajñānaṃ jñānam |
+adharma eva dharmaḥ |
+eṣa mokṣaḥ |
+pañca bandhā jñānasvarūpāḥ |
+piṇḍājjananam |
+tatraiva mokṣaḥ |
+etajjñānam |
+sarvendriyāṇāṃ nayanaṃ pradhānam |
+dharmaviruddhāḥ kāryyāḥ |
+dharmavihitā na kāryyāḥ |
+sarvaṃ śāmbhavīrūpam |
+āmnāyā na vidyante |
+gururekaḥ |
+sarvaikyatābuddhimante |
+āmantrasiddheḥ |
+madādistyājyaḥ |
+prākaṭyaṃ na kuryyāt |
+na kuryyātpaśusambhāṣaṇam |
+anyāyo nyāyaḥ |
+na gaṇayetkamapi |
+ātmarahasyaṃ na vadet |
+śiṣyāya vadet |
+antaḥ śāktaḥ |
+bahiḥ śaivaḥ |
+loke vaiṣṇavaḥ |
+ayamevācāraḥ |
+ātmajñānānmokṣaḥ |
+lokānna nindyāt |
+ityadhyātmam |
+vrataṃ na caret |
+na tiṣṭhenniyamena |
+niyamānna mokṣaḥ |
+kaulapratiṣṭhāṃ na kuryyāt |
+sarvasamo bhavet |
+sa mukto bhavati |
+paṭhedetāni sūtrāṇi prātarutthāya deśikaḥ |
+ājñāsiddhirbhavettasya ityājñā pārameśvarī |
+yaścācāravihīno'pi yo vā pūjāṃ na kurvate |
+yadi jyeṣṭhaṃ na manyeta nandate nandane vane |
+śannaḥ kaulikaḥ |
+oṃ śāntiḥ śāntiḥ śāntiḥ |
+|| kaulopaniṣatsamāptā ||
+|| iti kaulopaniṣat ||
+    </body>
+  </text>
+</TEI>

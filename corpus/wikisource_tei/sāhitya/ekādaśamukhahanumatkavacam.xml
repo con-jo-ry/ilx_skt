@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Ekādaśamukhahanumatkavaca</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%8F%E0%A4%95%E0%A4%BE%E0%A4%A4%E0%A5%8D%E0%A4%AE%E0%A4%A4%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8B%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+oṃ saccidāndarūpāya namo'stu paramātmane
+jyotirmayasvarūpāya viśvamāṅgalyamūrtaye ||1 ||
+prakṛtiḥ pañcabhūtāni grahā lokāḥ svarāstathā
+diśaḥ kālaśca sarveṣāṃ sadā kurvantu maṅgalam|| 2||
+ratnākarādhautapadāṃ himālayakirīṭinīm
+brahmarājarṣiratnāḍhyāṃ vande bhāratamātaram ||3||
+mahendro malayaḥ sahyo devatātmā himālayaḥ
+dhyeyo raivatako vindhyo giriścārāvalistathā ||4 ||
+gaṅgā sarasvatī sindhurbrahmaputraśca gaṇḍakī
+kāverī yamunā revā kṛṣṇā godā mahānadī ||5 ||
+ayodhyā mathurā māyā kāśī kāṃcī avantikā
+vaiśālī dvārikā dhyeyā purī takṣaśilā gayā ||6 ||
+prayāgaḥ pāṭaliputraṃ vijayānagaraṃ mahat
+indraprasthaṃ somanāthastathāmṛtasaraḥ priyam ||7 ||
+caturvedāḥ purāṇāni sarvopaniṣadastathā
+rāmāyaṇaṃ bhārataṃ ca gītā ṣaḍdarśanāni ca ||8||
+jaināgamāstripiṭakaḥ gurugranthaḥ satāṃ giraḥ
+eṣa jñānanidhiḥ śreṣṭhaḥ śraddheyo hṛdi sarvadā ||9||
+arundhatyanasūya ca sāvitrī jānakī satī
+draupadī kannage gārgī mīrā durgāvatī tathā ||10||
+lakṣmī ahalyā cannammā rudramāmbā suvikramā
+niveditā sāradā ca praṇamya mātṛ devatāḥ ||11||
+śrī rāmo bharataḥ kṛṣṇo bhīṣmo dharmastathārjunaḥ
+mārkaṃḍeyo hariścandra prahlādo nārado dhruvaḥ ||12||
+hanumān‌ janako vyāso vasiṣṭhaśca śuko baliḥ
+dadhīci viśvakarmāṇau pṛthu vālmīki bhārgavaḥ ||13||
+bhagīrathaścaikalavyo manurdhanvantaristathā
+śibiśca rantidevaśca purāṇodgītakīrtayaḥ ||14||
+buddha jinendra gorakśaḥ pāṇiniśca pataṃjaliḥ
+śaṃkaro madhva niṃbārkau śrī rāmānuja vallabhau ||15||
+jhūlelālotha caitanyaḥ tiruvalluvarastathā
+nāyanmārālavārāśca kaṃbaśca basaveśvaraḥ ||16||
+devalo ravidāsaśca kabīro guru nānakaḥ
+narasī tulasīdāso daśameṣo dṛḍhavrataḥ ||17||
+śrīmacchaṅkaradevaśca baṃdhū sāyana mādhavau
+jñāneśvarastukārāma rāmadāsaḥ purandaraḥ ||18||
+birasā sahajānando ramānandastathā mahān‌
+vitarantu sadaivaite daivīṃ ṣaḍguṇasaṃpadam‌ ||19||
+ravivarmā bhātakhaṃḍe bhāgyacandraḥ sa bhopatiḥ
+kalāvaṃtaśca vikhyātāḥ smaraṇīyā niraṃtaram‌ ||20||
+bharatarṣiḥ kālidāsaḥ śrībhojo janakastathā
+sūradāsastyāgarājo rasakhānaśca satkaviḥ ||21||
+agastyaḥ kaṃbu kaunḍiṇyau rājendraścola vaṃśajaḥ
+aśokaḥ puśya mitraśca khāravelaḥ sunītimān‌ ||22||
+cāṇakya candraguptau ca vikramaḥ śālivāhanaḥ
+samudraguptaḥ śrīharṣaḥ śaileṃdro bapparāvalaḥ ||23||
+lācidbhāskara varmā ca yaśodharmā ca hūṇajit‌
+śrīkṛṣṇadevarāyaśca lalitāditya udbalaḥ ||24||
+musunūrināyakau tau pratāpaḥ śiva bhūpatiḥ
+raṇajitasiṃha ityete vīrā vikhyāta vikramāḥ ||25||
+vaijñānikāśca kapilaḥ kaṇādaḥ śuśrutastathā
+carako bhāskarācāryo varāhamihira sudhīḥ ||26||
+nāgārjuna bharadvāja āryabhaṭṭo vasurbudhaḥ
+dhyeyo veṃkaṭa rāmaśca vijñā rāmānujāyaḥ ||27||
+rāmakṛṣṇo dayānando ravīndro rāmamohanaḥ
+rāmatīrtho'ravindāśca vivekānanda udyaśaḥ ||28||
+dādābhāī gopabaṃdhustilako gāṃdhirādṛtāḥ
+ramaṇo mālavīyaśca śrīsubrahmaṇyabhāratī ||29||
+subhāṣaḥ praṇavānandaḥ krāntivīro vināyakaḥ
+ṭhakkaro bhīmarāvaśca phule nārāyaṇo guruḥ ||30||
+saṅghaśaktipraṇetārau keśavo mādhavastathā
+smaraṇīyāḥ sadaivaite navacaitanyadāyakāḥ ||31||
+anuktā ye bhaktāḥ prabhucaraṇasaṃsaktahṛdayāḥ
+anirdiṣṭāḥ vīrā adhisamaramuddhvastaripavaḥ
+samājoddhartāraḥ suhitakaravijñānanipuṇāḥ
+namastebhyo bhūyātsakalasujanebhyaḥ pratidinam‌ || 32||
+idamekātmatāstotraṃ śraddhayā yaḥ sadā paṭhet‌
+sa rāṣṭradharmaniṣṭhāvān akhaṇḍaṃ bhārataṃ smaret‌ ||33||
+|| vande bhāratamātaram ||
+    </body>
+  </text>
+</TEI>

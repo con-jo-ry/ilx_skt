@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Jayantīkalpa</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%9C%E0%A4%AF%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A5%80%E0%A4%95%E0%A4%B2%E0%A5%8D%E0%A4%AA%E0%A4%83"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+|| śrīḥ ||
+śrīmadānandatīrthabhagavatpabādapraṇītasarvamūlagranthāḥ
+jayantīkalpaḥ|| śrīmaddhanumadbhimamādhvāntargatarāmakṛṣṇavedavyāsātmakaśrīlakṣmīhayagrīvāya namaḥ ||
+rohiṇyāmardharātre tu yadā kālāṣṭamī bhavet |
+jayantī nāma sā proktā sarvāpāpapraṇāśanī || 1 ||
+yasyāṃ jāto hariḥ sākṣānniśīte bhagavānajaḥ |
+tasmāttaddinamatyantaṃ puṇyaṃ pāpaharaṃ smṛtam || 2 ||
+tasmāt sarvairupoṣyā sā jayantī nāma vai sadā |
+dvijātibhirviśeṣeṇa tadbhaktaiśca viśeṣataḥ || 3 ||
+yo bhuṅkte taddine mohātpūyaśoṇitamatti saḥ |
+tasmādupavaset puṇyaṃ taddinaṃ śraddhyā'nvitaḥ || 4 ||
+kṛtvā śaucaṃ yathānyāyaṃ snānaṃ kuryādatandritaḥ |
+prabhātakāle medhāvī yogāyeti yathāvidhi || 5 ||
+nityāhnikaṃ prakurvīta gavantamanusmaran |
+yogāya yogapataye yogeśvarāya yogasambhavāya śrīgovindāya namo namaḥ || 6 ||
+madhyāhnakāle ca punaḥ sāyaṃkāle tvatandritaḥ |
+snāyīta pūrvamantreṇa vāsudevamanusmaran || 7 ||
+tataḥ pūjāṃ prakurvīta vidhivatsusamāhitaḥ |
+yajñāyeti ca mantreṇa śraddhābhaktiyutaḥ pumān || 8 ||
+kṛṣṇaṃ ca balabhadraṃ ca vasudevaṃ ca devakīm |
+nandagopaṃ yaśodāṃ ca subhadrāṃ tatra pūjayet |
+ardhyaṃ datvā sapabhyarcyābhyudite śaśimaṇḍale || 9 ||
+jātaḥ kaṃsavadhārthāya bhūbharottāraṇāya ca |
+kauravāṇāṃ vināśāya daityānāṃ nidhanāya ca || 10 ||
+pāṇḍavānāṃ hitārthāya dharmasaṃsthāpanāya ca |
+gṛhaṇārdhyaṃ mayā dattaṃ devakyā sahito hare || 11 ||
+śrīrodārṇavasambhūta atrinetrasamudbhava |
+gṛhāṇārghyaṃ mayā dattaṃ rohiṇamayā sahitaḥ śaśin || 12 ||
+datvā'rghyaṃ maninā'neni hyupasthāya vidhuṃ budhaḥ |
+śaśine candradevāya somadevāya cendave || 13 ||
+mṛgiṇe śaśibimbāya lokadīpāya dīpine |
+rohiṇīsaktacittāya tārakāpataye namaḥ || 14 ||
+upasaṃhṛtya tatsarvaṃ brahmacārī jitendriyaḥ |
+viśvāyeti ca mantreṇa tataḥ svāpaṃ samācaret || 15 ||
+tato nityāhnikaṃ kṛtvā śaktito dīyatāṃ dhanam |
+sarvāyeti ca mantreṇa tataḥ pāraṇamācaret |
+dharmāyeti tataḥ svastho mucyate sarvakilbiṣaiḥ || 16 ||
+|| iti śrīmadānandatīrthabhagavatpādācāryaviracito jayantīkalpaḥ samāptaḥ ||
+|| iti jayantīkalpaḥ ||
+|| śrīkṛṣṇārpaṇamastu ||
+    </body>
+  </text>
+</TEI>

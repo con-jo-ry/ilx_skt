@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kīlakastotra</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%95%E0%A5%80%E0%A4%B2%E0%A4%95%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8B%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+atha kīlakam
+oṃ asya śrīkīlakamantrasya śiva ṛṣiḥ anuṣṭupa chandaḥ mahāsarasvatī devatā śrījagadambāprītyarthaṃ saptaśatīpāṭhāṅgatvena viniyogaḥ |
+oṃ namaścaṇḍikāyai ||
+mārkaṇḍeya uvāca
+oṃ viśuddhajñānadehāya trivedīdivyacakṣuṣe |
+śreyaḥprāptinimittāya namaḥ somārddhadhāriṇe ||1||
+sarvametadvijānīyānmantrāṇāmabhikīlakam |
+so'pi kṣemamavāpnoti satataṃ jāpyatatparaḥ ||2||
+siddhyantyuccāṭanādīni vastūni sakalānyapi |
+etena stuvatāṃ devi stotramātreṇa siddhyati ||3||
+na mantro nauṣadhaṃ tatra na kicñidapi vidyate |
+vinā jāpyena siddhyeta sarvamuccāṭanādikam ||4||
+samagrāṇyapi siddhyanti lokaśaṅkāmimāṃ haraḥ |
+kṛtvā nimantrayāmāsa sarvamevamidaṃ śubham ||5||
+stotraṃ vai caṇḍikāyāstu tacca guptaṃ cakāra saḥ |
+samāptirna ca puṇyasya tāṃ yathāvanniyantraṇām ||6||
+so'pi kṣemamavāpnoti sarvamevaṃ na saṃśayaḥ |
+kṛṣṇāyāṃ vā caturdaśyāmaṣṭamyāṃ vā samāhitaḥ ||7||
+dadāti pratigṛhṇāti nānyathaiṣā prasīdati |
+itthaṃrupeṇa kīlena mahādevena kīlitam ||8||
+yo niṣkīlāṃ vidhāyaināṃ nityaṃ japati saṃsphuṭam |
+sa siddhaḥ sa gaṇaḥ so'pi gandharvo jāyate naraḥ ||9||
+na caivāpyaṭatastasya bhayaṃ kkāpīha jāyate |
+nāpamṛtyuvaśaṃ yāti mṛto mokṣamavāpnuyāt ||10||
+jñātvā prārabhya kurvīta na kurvāṇo vinaśyati |
+tato jñātvaiva sampannamidaṃ prārabhyate budhaiḥ ||11||
+saubhāgyādi ca yatkiccid dṛśyate lalanājane |
+tatsarvaṃ tattaprasādena tena jāpyamidaṃ śubham ||12||
+śanaistu japyamāne'smin stotre sampattiruccakaiḥ |
+bhavatyeva samagrāpi tataḥ prārabhyameva tat ||13||
+aiśvaryaṃ yatprasādena saubhāgyārogyasampadaḥ |
+śatruhāniḥparo mokṣaḥ stūyate sā na kiṃ janaiḥ ||14||
+iti devyāḥ kīlakastotraṃ sampūrṇam |
+    </body>
+  </text>
+</TEI>

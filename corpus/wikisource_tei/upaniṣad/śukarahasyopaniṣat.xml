@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Śukarahasyopaniṣad</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%B6%E0%A5%81%E0%A4%95%E0%A4%B0%E0%A4%B9%E0%A4%B8%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+|| śukarahasyopaniṣat ||
+oṃ saha nāvavatu || saha nau bhunaktu || saha vīryaṃ karavāvahai || tejasvināvadhītamastu mā vidviṣāvahai ||
+oṃ śāntiḥ śāntiḥ śāntiḥ ||
+athāto rahasyopaniṣadaṃ vyākhyāsyāmaḥ || 1 ||
+devarṣayo brahmāṇaṃ sampūjya praṇipatya papracachurbhagavannasmākaṃ rahasyopaniṣadaṃ brūhīti || 2 ||
+so'bravīt purā vyāso mahātejāḥ sarvavedataponidhiḥ | praṇipatya śivaṃ sāmbaṃ kṛtāñjaliruvāca || 3 ||
+śrīvedavyāsa uvāca devadeva mahāprājña pāśacchedadṛḍhavrata | śukasya mama putrasya vedasaṃskārakarmaṇi || 4 ||
+brahmopadeśakālo'yamidānīṃ samupasthitaḥ | brahmopadeśaḥ kartavyo bhavatādya jagadguro || 5 ||
+īśvara uvāca mayopadiṣṭe kaivalye sākṣādbrahmaṇi śāśvate | vihāya putro nirvedātprakāśaṃ yāsyati svayam || 6 ||
+śrīvedavyāsa uvāca yathā tathā vā bhavatu hyupanāyanakarmaṇi | upadiṣṭe mama sute brahmaṇi tvatprasādataḥ || 7 ||
+sarvajño bhavatu kṣipraṃ mama putro maheśvara | tava prasādasampanno labhenmuktiṃ caturvidhām || 8 ||
+tacchrutvā vyāsavacanaṃ sarvadevarṣisaṃsadi | upadeṣṭuṃ sthitaḥ śambhuḥ sāmbo divyāsane mudā || 9 ||
+kṛtakṛtyaḥ śukastatra samāgatya subhaktimān | tasmātsa praṇavaṃ labdhvā punarityabravīcchivam || 10 ||
+śrīśuka uvāca devādideva sarvajña saccidānandalakṣaṇa | umāramaṇa bhūteśa prasīda karuṇānidhe || 11 ||
+upadiṣṭaṃ parabrahma praṇavāntargataṃ param | tattvamasyādivākyānāṃ prajñādīnāṃ viśeṣataḥ || 12 ||
+śrotumicchāmi tattvena ṣaḍaṅgāni yathākramam | vaktavyāni rahasyāni kṛpayādya sadāśiva || 13 ||
+śrīsadāśiva uvāca sādhu sādhu mahāprājña śuka jñānanidhe mune | praṣṭavyaṃ tu tvayā pṛṣṭaṃ rahasyaṃ vedagarbhitam || 14 ||
+rahasyopaniṣannāmnā saṣaḍaṅgamihocyate | yasya vijñānamātreṇa mokṣaḥ sākṣānna saṃśayaḥ || 15 ||
+aṅgahīnāni vākyāni gururnopadiśetpunaḥ | saṣaḍaṅgānyupadiśenmahāvākyāni kṛtsnaśaḥ || 16 ||
+caturṇāmapi vedānāṃ yathopaniṣadaḥ śiraḥ | iyaṃ rahasyopaniṣadattathopaniṣadāṃ śiraḥ || 17 ||
+rahasyopaniṣadbrahma dhyātaṃ yena vipaścitā | tīrthairmantraiḥ śrutairjapyaistasya kiṃ puṇyahetubhiḥ || 18 ||
+vākyārthasya vicāreṇa yadāpnoti śaracchatam | ekavārajapenaiva ṛṣyādidhyānataśca yat || 19 ||
+oṃ asya śrīmahāvākyamahāmantrasya haṃsa ṛṣiḥ | avyaktagāyatrī chandaḥ | paramahaṃso devatā | haṃ bījam | saḥ śaktiḥ | so'haṃ kīlakam | mama paramahaṃsaprītyarthe mahāvākyajape viniyogaḥ | satyaṃ jñānamanantaṃ brahma aṅguṣṭhābhyāṃ namaḥ | nityānando brahma tarjanībhyāṃ svāhā | nityānandamayaṃ brahma madhyamābhyāṃ vaṣaṭ | yo vai bhūmā anāmikābhyāṃ hum | yo vai bhūmādhipatiḥ kaniṣṭhikābhyāṃ vauṣaṭ | ekamevādvitīyaṃ brahma karatalakarapṛṣṭhābhyāṃ phaṭ | satyaṃ jñānamanantaṃ brahma hṛdayāya namaḥ | nityānando brahma śirase svāhā | nityānandamayaṃ brahma śikhāyai vaṣaṭ | yo vai bhūmā kavacāya hum | yo vai bhūmādhipatiḥ netratrayāya vauṣaṭ | ekamevādvitīyaṃ brahma astrāya phaṭ | bhūrbhuvaḥsuvaromiti digbandhaḥ || 20 ||
+dhyānam | nityānandaṃ paramasukhadaṃ kevalaṃ jñānamūrtiṃ viśvātītaṃ gaganasadṛśaṃ tattvamasyādilakṣyam | ekaṃ nityaṃ vimalamacalaṃ sarvadhīsākṣibhūtaṃ bhāvātītaṃ triguṇarahitaṃ sadguruṃ taṃ namāmi || 21 ||
+atha mahāvākyāni catvāri | yathā |
+oṃ prajñānaṃ brahma || 1 ||
+oṃ ahaṃ brahmāsmi || 2 ||
+oṃ tattvamasi || 3 ||
+oṃ ayamātmā brahma || 4 ||
+tattvamasītyabhedavācakamidaṃ ye japanti te śivassāyujyamuktibhājo bhavanti || 22 ||
+tatpadamahāmantrasya paramahaṃsaḥ ṛṣiḥ | avyaktagāyatrī chandaḥ | paramahaṃso devatā | haṃ bījam | saḥ śaktiḥ | so'haṃ kīlakam | mama sāyujyamuktyarthe jape viniyogaḥ | tatpuruṣāya aṅguṣṭhābhyāṃ namaḥ | īśānāya tarjanībhyāṃ svāhā | aghorāya madhyamābhyāṃ vaṣaṭ | sadyojātāya anāmikābhyāṃ hum | vāmadevāya kaniṣṭhikābhyāṃ vauṣaṭ | tatpuruṣeśānāghorasadyojātavāmadevebhyo namaḥ karatalakarapṛṣṭhābhyāṃ phaṭ | evaṃ hṛdayādinyāsaḥ | bhūrbhuvaḥsuvaromiti digbandhaḥ || 23 ||
+dhyānam | jñānaṃ jñeyaṃ jñānagamyāditītaṃ śuddhaṃ buddhaṃ muktamapyavyayaṃ ca | satyaṃ jñānaṃ saccidānandarūpaṃ dhyāyedevaṃ tanmaho bhrājamānam || 24 ||
+tvaṃpada mahāmantrasya viṣṇurṛṣiḥ | gāyatrī chandaḥ | paramātmā devatā | aiṃ bījam | klīṃ śaktiḥ | sauḥ kīlakam | mama muktyarthe jape viniyogaḥ | vāsudevāya aṅguṣṭhābhyāṃ namaḥ | saṅkarṣaṇāya tarjanībhyāṃ svāhā | pradyumnāya madhyamābhyāṃ vaṣaṭ | aniruddhāya anāmikābhyāṃ hum | vāsudevāya kaniṣṭhikābhyāṃ vauṣaṭ | vāsudevasaṅkarṣaṇapradyumnāniruddhebhyaḥ karatalakarapṛṣṭhābhyāṃ phaṭ | evaṃ hṛdayādinyāsaḥ | bhūrbhuvaḥsuvaromiti digbandhaḥ || 25 ||
+dhyānam | jīvatvaṃ sarvabhūtānāṃ sarvatrākhaṇḍavigraham | cittāhaṅkārayantāraṃ jīvākhyaṃ tvaṃ padaṃ bhaje || 26 ||
+asipadamahāmantrasya mana ṛṣiḥ | gāyatrī chandaḥ | ardhanārīśvaro devatā | avyaktādirbījam | nṛsiṃhaḥ śaktiḥ | paramātmā kīlakam | jīvabrahmaikyārthe jape viniyogaḥ | pṛthvīdvyaṇukāya aṅguṣṭhābhyāṃ namaḥ | abdvyaṇukāya tarjanībhyāṃ svāhā | tejodvyaṇukāya madhyamābhyāṃ vaṣaṭ | vāyudvyaṇukāya anāmikābhyaṃ hum | ākāśadvyaṇukāya kaniṣṭhikābhyāṃ vauṣaṭ | pṛthivyaptejovāyvākāśadvyaṇukebhyaḥ karatalakarapṛṣṭhābhyāṃ phaṭ | bhūrbhuvaḥsuvaromiti digbandhaḥ || 27 ||
+dhyānam | jīvo brahmeti vākyārthaṃ yāvadasti manaḥsthitiḥ | aikyaṃ tattvaṃ laye kurvandhyāyedasipadaṃ sadā || 28 ||
+evaṃ mahāvākyaṣaḍaṅgānyuktāni || 29 ||
+atha rahasyopaniṣadvibhāgaśo vākyārthaślokāḥ procyante || 30 ||
+yenekṣate śṛṇotīdaṃ jighrati vyākaroti ca | svādvasvādu vijānāti tatprajñānamudīritam || 31 ||
+caturmukhendradeveṣu manuṣyāśvagavādiṣu | caitanyamekaṃ brahmātaḥ prajñānaṃ brahma mayyapi || 32 ||
+paripūrṇaḥ parātmāsmindehe vidyādhikāriṇi | buddheḥ sākṣitayā sthitvā sphurannahamitīryate || 33 ||
+svataḥ pūrṇaḥ parātmātra brahmaśabdena varṇitaḥ | asmītyaikyaparāmarśastena brahma bhavāmyaham || 34 ||
+ekamevādvitīyaṃ sannāmarūpavivarjitam | sṛṣṭeḥ purādhunāpyasya tādṛktvaṃ taditīryate || 35 ||
+śroturdehendriyātītaṃ vastvatra tvaṃpaderitam | ekatā grāhyate'sīti tadaikyamanubhūyatām || 36 ||
+svaprakāśāparokṣatvamayamityuktito matam | ahaṅkārādidehāntaṃ pratyagātmeti gīyate || 37 ||
+dṛśyamānasya sarvasya jagatastattvamīryate | brahmaśabdena tadbrahma svaprakāśātmarūpakam || 38 ||
+anātmadṛṣṭeravivekanidrāmahaṃ mama svapnagatiṃ gato'ham | svarūpasūrye'bhyudite sphuṭoktergurormahāvākyapadaiḥ prabuddhaḥ || 39 ||
+vācyaṃ lakṣyamiti dvidhārthasaraṇīvācyasya hi tvaṃpade vācyaṃ bhautikamindriyādirapi yallakṣyaṃ tvamarthaśca saḥ | vācyaṃ tatpadamīśatākṛtamatirlakṣyaṃ tu saccitsukhānandabrahma tadartha eṣa ca tayoraikyaṃ tvasīdaṃ padam || 40 ||
+tvamiti taditi kārye kāraṇe satyupādhau dvitayamitarathaikaṃ saccidānandarūpam | ubhayavacanahetū deśakālau ca hitvā jagati bhavati soyaṃ devadatto yathaikaḥ || 41 ||
+kāryopādhirayaṃ jīvaḥ kāraṇopādhirīśvaraḥ | kāryakāraṇatāṃ hitvā pūrṇabodho'vaśiṣyate || 42 ||
+śravaṇaṃ tu guroḥ pūrvaṃ mananaṃ tadanantaram | nididhyāsanamityetatpūrṇabodhasya kāraṇam || 43 ||
+anyavidyāparijñānamavaśyaṃ naśvaraṃ bhavet | brahmavidyāparijñānaṃ brahmaprāptikaraṃ sthitam || 44 ||
+mahāvākyānyupadiśetsaṣaḍaṅgāni deśikaḥ | kevalaṃ na hi vākyāni brahmaṇo vacanaṃ yathā || 45 ||
+īśvara uvāca | evamuktvā muniśreṣṭha rahasyopaniṣacchuka | mayā pitrānunītena vyāsena brahmavādinā || 46 ||
+tato brahmopadiṣṭaṃ vai saccidānandalakṣaṇam | jīvanmuktaḥ sadā dhyāyannityastvaṃ vihariṣyasi || 47 ||
+yo vedādau svaraḥ prokto vedānte ca pratiṣṭhitaḥ | tasya prakṛtilīnasya yaḥ paraḥ sa maheśvaraḥ || 48 ||
+upadiṣṭaḥ śiveneti jagattanmayatāṃ gataḥ | utthāya praṇipatyeśaṃ tyaktāśeṣaparigrahaḥ || 49 ||
+parabrahmapayorāśau plavanniva yayau tadā | pravrajantaṃ tamālokya kṛṣṇadvaipāyano muniḥ || 50 ||
+anuvrajannājuhāva putraviśleṣakātaraḥ | pratinedustadā sarve jagatsthāvarajaṅgamāḥ || 51 ||
+tacchrutvā sakalākāraṃ vyāsaḥ satyavatīsutaḥ | putreṇa sahitaḥ prītyā parānandamupeyivān || 52 ||
+yo rahasyopaniṣadamadhīte gurvanugrahāt | sarvapāpavinirmuktaḥ sākṣātkaivalyamaśnute sākṣātkaivalyamaśnuta ityupaniṣat || 53 ||
+oṃ saha nāvavatu || saha nau bhunaktu || saha vīryaṃ karavāvahai || tejasvinādhītamastu mā vidviṣāvahai ||
+oṃ śāntiḥ śāntiḥ śāntiḥ ||
+|| iti śukarahasyopaniṣatsamāptā ||
+    </body>
+  </text>
+</TEI>

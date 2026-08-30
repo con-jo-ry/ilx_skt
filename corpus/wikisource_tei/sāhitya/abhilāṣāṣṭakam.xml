@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Abhilāṣāṣṭaka</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%85%E0%A4%AD%E0%A4%BF%E0%A4%B2%E0%A4%BE%E0%A4%B7%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%95%E0%A4%AE%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+kadā pakṣīndrāṃsopari gatamajaṃ kañcanayanam
+ramāsaṃśliṣṭāṅgaṃ gaganarucamāpītavasanam |
+gadāśaṅkhāmbhojārivaramālokya suciraṃ
+gamiṣyatyetanme nanu saphalatāṃ netrayugalam || 1||
+kadā kṣīrābdhyantaḥ surataruvanāntarmaṇimaye
+samāsīnaṃ pīṭhe jaladhitanayāliṅgitatanum |
+stutaṃ devairnityaṃ munivarakadambairabhinutam
+stavaiḥ santoṣyāmi śrutivacanagarbhaiḥ suragurum || 2||
+kadā māmābhītaṃ bhayajaladhitastāpasatanuṃ
+gatā rāgaṃ gaṅgātaṭagiriguhāvāsasahanam |
+lapantaṃ he viṣṇo suravara rameśeti satataṃ
+samabhyetyodāraṃ kamalanayano vakṣyati vacaḥ || 3||
+kadā me hṛdpadme bhramara iva padme prativasan
+sadā dhyānābhyāsādaniśamupahūto vibhurasau |
+sphurajjyotīrūpo raviriva rasāsevyacaraṇo
+hariṣyatyajñānājjanitatimiraṃ tūrṇamakhilam || 4||
+kadā me bhogāśā nibiḍabhavapāśāduparataṃ
+tapaḥśuddhaṃ buddhaṃ guruvacanatodairacapalam |
+mano maunaṃ kṛtvā haricaraṇayoścāru suciraṃ
+sthitiṃ sthāṇuprāyāṃ bhavabhayaharāṃ yāsyati parām || 5||
+kadā me saṃruddhākhilakaraṇajālasya parito
+jitāśeṣaprāṇānilaparikarasya prajapataḥ |
+sadoṅkāraṃ cittaṃ haripadasaroje dhṛtavataḥ
+sameṣyatyullāsaṃ muhurakhilaromāvaliriyam || 6||
+kadā prārabdhānte pariśithilatāṃ gacchati śanaiḥ
+śarīre cākṣaughe'pyuparatavati prāṇapavane |
+vadatyūrdhvaṃ śaśvanmama vadanakañje muhuraho
+kariṣyatyāvāsaṃ haririti padaṃ pāvanatamam || 7||
+kadā hitvā jīrṇāṃ tvacamiva bhujaṅgastanumimāṃ caturbāhuścakrāmbujadarakaraḥ pītavasanaḥ |
+ghanaśyāmo dūtairgaganagatinīto natiparairgamiṣyāmīśasyāntikamakhiladuḥkhāntakamiti || 8||
+|| iti śrīmatparamahaṃsasvāmibrahmānandaviracitaṃ
+abhilāṣāṣṭakaṃ sampūrṇam ||
+    </body>
+  </text>
+</TEI>

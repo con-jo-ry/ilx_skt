@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Nirālambopaniṣat</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A4%BE%E0%A4%B2%E0%A4%AE%E0%A5%8D%E0%A4%AC%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+nirālambopaniṣat
+yatrālambālambibhāvo vidyate na kadācana |
+jñavijñasamyagjñālambaṃ nirālambaṃ hariṃ bhaje ||
+oṃ pūrṇamadaḥ pūrṇamidaṃ pūrṇātpūrṇamudacyate |
+pūrṇasya pūrṇamādāya pūrṇamevāvaśiṣyate ||
+oṃ śāntiḥ śāntiḥ śāntiḥ ||
+oṃ namaḥ śivāya gurave saccidānandamūrtaye |
+niṣprapañcāya śāntāya nirālambāya tejase ||
+nirālambaṃ samāśritya sālambaṃ vijahāti yaḥ |
+sa saṃnyāsī ca yogī ca kaivalyaṃ padamaśnute ||1||
+eṣamajñānajantūnāṃ samastāriṣṭaśāntaye |
+yadyadboddhavyamakhilaṃ tadāśaṅkya bravīmyam ||2||
+kiṃ brahma | ka īśvaraḥ | ko jīvaḥ | kā prakṛtiḥ | kaḥ paramātmā | ko brahmā | ko viṣṇuḥ | ko rudraḥ | ka indraḥ | kaḥ śamanaḥ | saḥ śamanaḥ | kaḥ sūrya | kaścandra | ke surāḥ | ke asurāḥ | ke piśācāḥ | ke manuṣyāḥ | kāḥ striyaḥ | ke paśvādayaḥ | kiṃ sthāvaram | ke brāhmaṇādayaḥ | kā jātiḥ | kiṃ karma | kimakarma | kiṃ jñānam | kimajñānam | kiṃ sukham | kiṃ dukham | kaḥ svargaḥ | ko narakaḥ | ko bandhaḥ | ko mokṣaḥ | ka upāsyaḥ | kaḥ śiṣyaḥ | ko vidvān | ko mūḍhaḥ | kimāsuram | kiṃ tapaḥ | kiṃ padamaṃ padam | kiṃ grāhyam | kimagrāhyam | kaḥ saṃnyāsītyāśaṅkyāha brahmeti | ||3||
+sa hovāca mahadahaṅkārapṛthivyaptjovāyvākāśatvena bṛhadrūpeṇāṇḍakośena karmajñānārtharūpatayā bhāsamānamadvitīyamakhilopādvinirmuktaṃ tatsakalaśaktyupabṛṃhitamanādyanantaṃ śuddhaṃ śivaṃ śāntaṃ nirguṇamityādivācyamanirvācyaṃ caitanyaṃ brahma īśvara iti ca | brahmaiva svaśaktiṃ prakṛtyabhidheyāmāśritya lokānsṛṣṭvā praviśyāntaryāmitvena brahmādīnāṃ buddhīndriyaniyantṛtvādīśvaraḥ || 4 ||
+jīva iti ca brahmaviṣṇavīśānendrādīnāṃ nāmarūpadvārā sthūlo'hamiti mithyādhyāsavaśājjīvaḥ | so'hameko'pi dehārambhakabhedavaśādbahujīvaḥ || 5 ||
+prakṛtiriti ca brahmaṇaḥ sakāśānnānāvicitrajagannirmāṇasāmārthyabuddhirūpā brahmaśaktireva prakṛtiḥ || 6 ||
+paramātmeti ca dehādeḥ parataratvādbrahmaiva paramātmā || 7 ||
+sa brahmā sa viṣṇuḥ sa indraḥ sa śamanaḥ sa sūryaḥ sa candraste asurāste piśācāste manuṣyāstāḥ striyate paśvādayastatsthāvaraṃ te brāhmaṇādayaḥ || 8 ||
+sarvaṃ khalvidaṃ brahma neha nānāsti kiñcana || 9 ||
+jātiriti ca | na carmaṇo na raktasya na māṃsasya na cāsthinaḥ |
+na jātirātmano jātirvyavahāraprakalpitā || 10 ||
+karmeti ca kriyamāṇendriyaiḥ karmāṇyahaṃ karomītyadhyātmaniṣṭhatayā kṛtaṃ karmaiva karma | akarmeti ca kartuvyabhoktṛtvādyahaṅkāratayā bandharūpaṃ janmādikāraṇaṃ nityanaimittikayāgavratatapodānādiṣu phalābhisandhānaṃ yattadakarma|| 11-12||
+jñānamiti ca dehendriyanigrahasadgurūpāsanaśravaṇamanananididhyāsanairyadyadṛgdṛśyasvarūpaṃ sarvāntarasthaṃ sarvasamaṃ ghaṭapacādipadārthamivāvikāraṃ vikāreṣu caitanyaṃ vinā kiñcinnāstīti sākṣātkārānubhavo jñānam || 13 ||
+ajñānamiti ca rajjau sarpabhrāntirivādvitīye sarvānusyūte sarvamaye brahmaṇi devatiryaṅnarasthāvarastrīpuruṣavarṇāśramabandhamokṣopādhinānātmabhedakalpitaṃ jñānamajñānam || 14 ||
+sukhamiti ca saccidānandasvarūpaṃ jñātvānandarūpā yā sthitiḥ saiva sukham || 15 ||
+duḥkhamiti anātmarūpo viṣayasaṅkalpa eva duḥkham || 16 ||
+svarga iti ca satsaṃsargaḥ svargaḥ |
+naraka iti ca asatsaṃsāraviṣayajanasaṃsarga eva narakaḥ || 17 ||
+bandha iti ca anādyavidyāvāsanayā jāto'hamityādisaṅkalpo bandhaḥ || 18 ||
+pitṛmātṛsahodaradārāpatyagṛhārāmakṣetramamatāsaṃsārāvaraṇasaṅkalpo bandhaḥ || 19 ||
+kartṛtvādyahaṅkārasaṅkalpo bandhaḥ || 20 ||
+aṇimādyaṣṭaiśvaryāśāsiddhasaṅkalpo bandhaḥ || 21 ||
+devamanuṣyādyupāsanākāmasaṅkalpo bandhaḥ || 22 ||
+yamādyaṣṭāṅgayogasaṅkalpo bandhaḥ || 23 ||
+varṇāśramadharmakarmasaṅkalpo bandhaḥ || 24 ||
+ājñābhayasaṃśayātmaguṇasaṅkalpo bandhaḥ || 25 ||
+yāgavratatapodānavidhividhānajñānasaṅkalpo bandha || 26 ||
+kevalamokṣāpekṣā saṅkalpo bandhaḥ || 27 ||
+saṅkalpamātrasaṃbhavo bandhaḥ || 28 ||
+mokṣa iti ca nityānityavastuvicārādanityasaṃsārasukhaduḥkhaviṣayasamastakṣetra mamatābandhakṣayo mokṣaḥ || 29 ||
+upāsya iti ca sarvaśarīrasthacaitanyabrahmaprāpako gururupāsyaḥ || 30 ||
+śiṣya iti ca vidyādhvastaprapañcāvagāhitajñānāvaśiṣṭaṃ brahmaiva śiṣyaḥ || 31 ||
+vidvāniti ca sarvāntarasthasvasaṃvidrūpavidvidvān || 32 ||
+mūḍha iti ca kartṛtvādyahaṅkārabhāvārūḍho mūḍhaḥ || 33 ||
+āsuramiti ca brahmaviṣṇvīśānendrādīnāmaiśvaryakāmanayā niraśanajapāgnihotrādiṣvantarātmānaṃ saṃtāpayati cātyugrarāgadveṣavihiṃsādambhādyapekṣitaṃ tapa āsuram || 34 ||
+tapa iti ca brahma satyaṃ jaganmithyetyaparokṣajñānāgninā | brahmādyaiśvaryāśāsiddhasaṅkalpabījasantāpaṃ tapaḥ || 35 ||
+paramaṃ padamiti ca prāṇendriyādyantaḥ karaṇaguṇādeḥ| parataraṃ saccidānandamayaṃ nityamuktabrahmasthānaṃ paramaṃ padam || 36 ||
+grāhyamiti ca deśakālavastuparicchedarāhityacinmātrasvarūpaṃ grāhyam || 37 ||
+agrāhyamiti ca svasvarūpavyatiriktamāyāmayabuddhīndriyagocarajagatsatyatvacintanamagrāhyam || 38 ||
+saṃnyāsīti ca sarvadharmānparityajya nirmamo nirahaṅkāro bhūtvā brahmeṣṭaṃ śaraṇamupagamya tattvamasi ahaṃ brahmāsmi sarvaṃ khalvidaṃ brahma neha nānāsti kiñcanetyādimahāvākyārthānubhavajñānād brahmaivāhamasmīti niścitya nirvikalpasamādhinā svatantro yatiścarati sa saṃnyāsī sa muktaḥ sa pūjyaḥ sa yogī sa paramahaṃsaḥ so'vadhūtaḥ sa brāhmaṇa iti || 39 ||
+idaṃ nirālambopaniṣadaṃ yo'dhīte gurvanugrahataḥ so'gnipūto bhavati sa vāyupūto bhavati na sa punarāvartate na sa punarāvartate punarnābhijāyate punarnābhijāyata ityupaniṣat || 40 ||
+oṃ pūrṇamadaḥ pūrṇamidaṃ pūrṇātpūrṇamudacyate |
+pūrṇasya pūrṇamādāya pūrṇamevāvaśiṣyate ||
+oṃ śāntiḥ śāntiḥ śāntiḥ ||
+|| iti nirālambopaniṣatsamāptā ||
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Annapūrṇāstotra</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%85%E0%A4%A8%E0%A5%8D%E0%A4%A8%E0%A4%AA%E0%A5%82%E0%A4%B0%E0%A5%8D%E0%A4%A3%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8B%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+|| annapūrṇāstotram ||
+nityānandakarī varābhayakarī saundaryaratnākarī nirdhūtākhilaghorapāvanakarī pratyakṣamāheśvarī | prāleyācalavaṃśapāvanakarī kāśīpurādhīśvarī bhikṣāṃ dehi kṛpāvalambanakarī mātānnapūrṇeśvarī ||1||
+nānāratnavicitrabhūṣaṇakarī hemāmbarāḍambarī muktāhāravilambamānavilasadvakṣojakumbhāntarī | kāśmīrāgurūvāsitā rucikarī kāśīpurādhīśvarī bhikṣāṃ dehi kṛpāvalambanakarī mātānnapūrṇeśvarī ||2||
+yogānandakarī ripukṣayakarī dharmāthaniṣṭhākarī candrārkānalabhāsamānalaharī trailokyarakṣākarī | sarvaiśvaryasamastavāṃchanakarī kāśīpurādhīśvarī bhikṣāṃ dehi kṛpāvalambanakarī mātānnapūrṇeśvarī ||3||
+kailāsācalakandarālayakarī gaurī umāśaṅkarī kaumārī nigamārthagocarakarī oṃkārabījākṣarī | mokṣavdārakapāṭapāṭanakarī kāśīpurādhīśvarī bhikṣāṃ dehi kṛpāvalambanakarī mātānnapūrṇeśvarī ||4||
+dṛśyādṛśyavibhūtavāhanakarī bramhāṇḍabhāṇḍodarī līlānāṭakasūtrabhedanakarī vijñānadīpāṅkurī | śrīviśveśamanaḥprasādanakarī kāśīpurādhīśvarī bhikṣāṃ dehi kṛpāvalambanakarī mātānnapūrṇeśvarī ||5||
+urvī sarvajaneśvarī bhagavatī mātānnapūrṇeśvarī veṇīnīlasamānakuntalaharī nityānnadāneśvarī | sarvānandakarī sadāśubhakarī kāśīpurādhīśvarī bhikṣāṃ dehi kṛpāvalambanakarī mātānnapūrṇeśvarī ||6||
+ādikṣāntisamastavarṇanakarī śambhostribhāvākarī kāśmīrātripureśvarī trinayanī nityāṅkurā śarvarī | kāmākāṅkṣakarī janodayakarī kāśīpurādhīśvarī bhikṣāṃ dehi kṛpāvalambanakarī mātānnapūrṇeśvarī ||7||
+devī sarvavicitraratnaracitā dākṣāyaṇī sundarī vāmā svādupayogadharapriyakarī saubhāgyamāheśvarī | bhaktābhīṣṭakarī daśāśubhaharī kāśīpurādhīśvarī bhikṣāṃ dehi kṛpāvalambanakarī mātānnapūrṇeśvarī ||8||
+candrārkālayakoṭikoṭisadṛśā candrāṃśubimbādharī candrārkāgnisamānakuṃḍaladharī candrārkavarṇeśvarī | mālāpustakapāśasāṃkuśadharī kāśīpurādhīśvarī bhikṣāṃ dehi kṛpāvalambanakarī mātānnapūrṇeśvarī ||9||
+kṣatratrāṇakarī mahā'bhayakarī mātā kṛpāsāgarī sākṣānmokṣakarī sadā śivakarī viśveśvarī śrīdharī | dakṣākrandakarī nirāmayakarī kāśīpurādhīśvarī bhikṣāṃ dehi kṛpāvalambanakarī mātānnapūrṇeśvarī ||10||
+bhagavati bhavarogātpīḍitaṃ duṣkṛtotthāt sutaduhitṛkalatropadraveṇānuyātam | vilasadamṛtadṛṣṭyā vīkṣya vibhrāntacittaṃ sakalabhuvanamātastrāhi māmoṃ namaste ||11||
+māheśvarīmāśritakalpavallīmahambhavocchedakarīṃ bhavānīṃm | kṣudhārtajāyātanayādyupetastvāmannapūrṇe śaraṇaṃ prapadye ||12||
+dāridryadāvānaladahyamānaṃ pāhyannapūrṇe girirājakanye | kṛpāmbudhau majjaya māṃ tvadīye tvatpādapadmārpitacittavṛttim ||13||
+annapūrṇe sadā pūrṇe śaṅkaraprāṇavallabhe | jñānavairāgyasiddhyarthaṃ bhikṣāṃ dehi ca pārvati ||14||
+mātā ca pārvatī devī pitā devo maheśvaraḥ | bāndhavāḥ śivabhaktāśca svedeśo bhuvanatrayam ||15||
+iti śrīmacchaṃkarācāryaviracitamannapūrṇāstotraṃ saṃpūrṇam |
+    </body>
+  </text>
+</TEI>

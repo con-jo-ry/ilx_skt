@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Aṭṭālasundarāṣṭaka</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%85%E0%A4%9F%E0%A5%8D%E0%A4%9F%E0%A4%BE%E0%A4%B2%E0%A4%B8%E0%A5%81%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%95%E0%A4%AE%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+vikramapāṇḍya uvāca
+kalyāṇācalakodaṇḍakāntadordaṇḍamaṇḍitam |
+kabalīkṛtasaṃsāraṃ kalaye'ṭṭālasundaram || 1||
+kālakūṭaprabhājālakalaṅkīkṛtakandharam |
+kalādharaṃ kalāmauliṃ kalaye'ṭṭālasundaram || 2||
+kālakālaṃ kalātītaṃ kalāvantaṃ ca niṣkalam |
+kamalāpatisaṃstutyaṃ kalaye'ṭṭālasundaram || 3||
+kāntārdhaṃ kamanīyāṅgaṃ karuṇāmṛtasāgaram |
+kalikalmaṣadoṣaghnaṃ kalaye'ṭṭālasundaram || 4||
+kadambakānanādhīśaṃ kāṃkṣitārthasuradrumam |
+kāmaśāsanamīśānaṃ kalaye'ṭṭālasundaram || 5||
+sṛṣṭāni māyayā yena brahmāṇḍāni bahūni ca |
+rakṣitāni hatānyante kalaye'ṭṭālasundaram || 6||
+svabhaktajanasantāpa pāpāpadmaṅgatatparam |
+kāraṇaṃ sarvajagatāṃ kalaye'ṭṭālasundaram || 7||
+kulaśekharavaṃśotthabhūpānāṃ kuladaivatam |
+paripūrṇaṃ cidānandaṃ kalaye'ṭṭālasundaram || 8||
+aṭṭālavīraśrīśambhoraṣṭakaṃ varamiṣṭadam |
+paṭhatāṃ śṛṇvatāṃ sadyastanotu paramāṃ śriyam || 9||
+|| iti śrīhālāsyamāhātmye vikramapāṇḍyakṛtaṃ aṭṭālasundarāṣṭakam ||
+    </body>
+  </text>
+</TEI>

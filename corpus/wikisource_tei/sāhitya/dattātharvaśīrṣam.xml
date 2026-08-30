@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Dattātharvaśīrṣa</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%A6%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%BE%E0%A4%A5%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%B6%E0%A5%80%E0%A4%B0%E0%A5%8D%E0%A4%B7%E0%A4%AE%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+|| hariḥ oṃ ||
+oṃ namo bhagavate dattātreyāya avadhūtāya
+digaṃbarāyavidhihariharāya āditattvāya ādiśaktaye || 1||
+tvaṃ carācarātmakaḥ sarvavyāpī sarvasākṣī
+tvaṃ dikkālātītaḥ tvaṃ dvandvātītaḥ || 2||
+tvaṃ viśvātmakaḥ tvaṃ viśvādhāraḥ viśveśaḥ
+viśvanāthaḥ tvaṃ viśvanāṭakasūtradhāraḥ
+tvameva kevalaṃ kartāsi tvaṃ akartāsi ca nityam || 3||
+tvaṃ ānandamayaḥ dhyānagamyaḥ tvaṃ ātmānandaḥ
+tvaṃ paramānandaḥ tvaṃ saccidānandaḥ
+tvameva caitanyaḥ caitanyadattātreyaḥ
+oṃ caitanyadattātreyāya namaḥ || 4||
+tvaṃ bhaktavatsalaḥ bhaktatārakaḥ bhaktarakṣakaḥ
+dayāghanaḥ bhajanapriyaḥ tvaṃ patitapāvanaḥ
+karuṇākaraḥ bhavabhayaharaḥ || 5||
+tvaṃ bhaktakāraṇasaṃbhūtaḥ atrisutaḥ anasūyātmajaḥ
+tvaṃ śrīpādaśrīvallabhaḥ tvaṃ gāṇagagrāmanivāsī
+śrīmannṛsiṃhasarasvatī tvaṃ śrīnṛsiṃhabhānaḥ
+akkalakoṭanivāsī śrīsvāmīsamarthaḥ
+tvaṃ karavīranivāsī paramasadguru śrīkṛṣṇasarasvatī
+tvaṃ śrīsadguru mādhavasarasvatī || 6||
+tvaṃ smartṛgāmī śrīgurūdattaḥ śaraṇāgato'smi tvām |
+dīne ārte mayi dayāṃ kuru
+tava ekamātradṛṣṭikṣepaḥ duritakṣayakārakaḥ |
+he bhagavana|, varadadattātreya|,
+māmuddhara|, māmuddhara|, māmuddhara iti prārthayāmi |
+oṃ drāṃ dattātreyāya namaḥ || 7||
+|| oṃ digaṃbarāya vidmahe avadhūtāya dhīmahi tanno dattaḥ pracodayāt ||
+    </body>
+  </text>
+</TEI>

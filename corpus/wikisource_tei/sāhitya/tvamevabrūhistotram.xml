@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Tvamevabrūhistotra</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%A4%E0%A5%8D%E0%A4%B5%E0%A4%AE%E0%A5%87%E0%A4%B5%E0%A4%AC%E0%A5%8D%E0%A4%B0%E0%A5%82%E0%A4%B9%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8B%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+śrī gaṇeśāya namaḥ |
+āsīddharādhāmalalāmarūpo nāsīdaho kasya gururgarīyān |
+deśaḥ sa evādya tvadīyapreyān heyānadhastiṣṭhati sarvadeśāt || 1||
+abhūdayodhyā bhavadīyamedhyā purī purā devapurādapīha |
+mlecchairupetāmavalokyate tāṃ no dūyate kiṃ vada cāru cetaḥ || 2||
+purā surākrāntavasundharāyā vyathā tvayā kiṃ na nirākṛtā sā |
+tatte balaṃ kvāsti kharaḥ śaro vā goghātino hanta kathaṃ na hansi || 3||
+manye mahāpāpakalāpakārī cedrāvaṇo hanta hatastvayaiva |
+kiṃ tadvidhānadya na paśyasīha yadvā tvamasmākamivāsi bhītaḥ || 4||
+sītātimītā daśakandhareṇa vītā tvayā śāntimito na bhedaḥ |
+nānābalā hādya khalā haranti nāyāṃsi kāruṇyamito'sti khedaḥ || 5||
+noced dayāghana dayāmadhunā karoṣi san dīnabandhurapi niṣṭhuratāṃ tanosi |
+kasyāntikaṃ vrajatu bhāratametadadya lokābhirāma ghanaśyāma tvameva brūhi || 6||
+|| śrīrājamaṇiśarmakṛtaṃ tvamevabrūhistotraṃ sampūrṇam ||
+    </body>
+  </text>
+</TEI>

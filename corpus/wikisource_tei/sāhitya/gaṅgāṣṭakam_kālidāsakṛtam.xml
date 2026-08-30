@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Gaṅgāṣṭaka</title>
+        <author>Kālidāsa</author>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%97%E0%A4%99%E0%A5%8D%E0%A4%97%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%95%E0%A4%AE%E0%A5%8D_(%E0%A4%95%E0%A4%BE%E0%A4%B2%E0%A4%BF%E0%A4%A6%E0%A4%BE%E0%A4%B8%E0%A4%95%E0%A5%83%E0%A4%A4%E0%A4%AE%E0%A5%8D)"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+śrīgaṇeśāya namaḥ ||
+katyakṣīṇi karoṭayaḥ kati kati dvīpidvipānāṃ tvacaḥ
+kākolāḥ kati pannagāḥ kati sudhādhāmnaśca khaṇḍā kati |
+kiṃ ca tvaṃ ca kati trilokajananitvadvāripūrodare
+majjajjantukadambakaṃ samudayatyekaikamādāya yat || 1||
+devi tvatpulināṅgaṇe sthitijuṣāṃ nirmānināṃ jñānināṃ
+svalpāhāranibaddhaśuddhavapuṣāṃ tārṇaṃ gṛhaṃ śreyase |
+nānyatra kṣitimaṇḍaleśvaraśataiḥ saṃrakṣito bhūpateḥ
+prāsādo lalanāgaṇairadhigato bhogīndrabhogonnataḥ || 2||
+tattattīrthagataiḥ kadarthanaśataiḥ kiṃ tairanarthāśritairjyotiṣṭomamukhaiḥ kimīśavimukhairyajñairavajñāddatai |
+sūte keśavavāsavādivibudhāgārābhirāmāṃ śriyaṃ gaṅge devi bhavattaṭe yadi kuṭīvāsaḥ prayāsaṃ vinā || 3||
+gaṅgātīramupetya śītalaśilāmālambya hemācalīṃ
+yairākarṇi kutūhalākulatayā kallolakolāhalaḥ |
+te śṛṇvanti suparvaparvataśilāsiṃhāsanādhyāsanāḥ
+saṅgītāgamaśuddhasiddharamaṇīmañjīradhīradhvanim || 4||
+dūraṃ gaccha sakacchagaṃ ca bhavato nālokayāmo
+mukhaṃ re pārāka varāka sākamitarairnākapradairgamyatām |
+sadyaḥ prodyatamandamārutarajaḥprāptā kapolasthale
+gaṅgāmbhaḥkaṇikā vimuktagaṇikāsaṅgāya sambhāvyate || 5||
+viṣṇoḥ saṅgatikāriṇī harajaṭājūṭāṭavīcāriṇī
+prāyaścittanivāriṇī jalakaṇaiḥ puṇyaudhavistāriṇī |
+bhūbhṛtkandaradāriṇī nijajale majjajjanottāriṇī
+śreyaḥ svargavihāriṇī vijayate gaṅgā manohāriṇī || 6||
+vācālaṃ vikalaṃ khalaṃ śritamalaṃ kāmākulaṃ vyākulaṃ cāṇḍālaṃ taralaṃ nipītagaralaṃ doṣāvilaṃ cākhilam |
+kumbhīpākagataṃ tamantakakarādākṛṣya kastārayen mātarjahnunarendranandini tava svalpodabinduṃ vinā || 7||
+śleṣamaśleṣaṇayānale'mṛtabile śākākule vyākule
+kaṇṭhe ghargharaghoṣanādamaline kāye ca sammīlati |
+yāṃ dhyāyannpi bhārabhaṅguratarāṃ prāpnoti muktiṃ naraḥ
+snātuśvetasi jāhnvī nivasatāṃ saṃsārasantāpahṛt || 8||
+iti śrīmatkālidāsaviracitaṃ gaṅgāṣṭakastotraṃ sampūrṇam ||
+namaste'stu gaṅge tvadaṅgaprasaṅgādbhujaṃ gāsturaṅgāḥ kuraṅgāḥ plavaṅgāḥ |
+anaṅgāriraṅgāḥ sasaṅgāḥ śivāṅgā bhujaṅgādhipāṅgīkṛtāṅgā bhavanti || 1||
+namo jahnukanye na manye tvadanyairnisargenducihnādibhirlokabhartuḥ |
+ato'haṃ nato'haṃ sato gauratoye vasiṣṭhādibhirgīyamānābhidheye || 2||
+tvadāmajjanātsajjano durjano vā vimānaiḥ samānaḥ samānairhi mānaiḥ |
+samāyāti tasminpurārātiloke puradvārasaṃruddhadikpālaloke || 3||
+svarāvāsadambholidambhopi rambhāparīrambhasambhāvanādhīracetāḥ |
+samākāṅkṣate tvattaṭe vṛkṣavāṭīkuṭīre vasannetumāyurdināni || 4||
+trilokasya bharturjaṭājūṭabandhātsvasīmāntabhāge manākpraskhalantaḥ |
+bhavānyā ruṣā proḍhasāpantabhāvātkareṇāhatāstavattaraṅgā jayanti || 5||
+jalonmajjadairāvatoddānakumbhasphuratpraskhalatsāndrasindūrarāge |
+kkacitpadminīreṇubhaṅge prasaṅge manaḥ khelatāṃ jahnukanyātaraṅge || 6||
+bhavattīravānīravātotthadhūlīlavasparśatastatkṣaṇaṃ kṣīṇapāpaḥ |
+jano'yaṃ jagatpāvane tvatprasādātpade pauruhūte'pi dhatte'vahelām || 7||
+trisandhyānamallekhakoṭīranānāvidhānekaratnāṃśubimbaprabhābhiḥ |
+sphuratpādapīṭhe haṭhenāṣṭamūrterjaṭāajūṭavāse natāḥ smaḥ padaṃ te || 8||
+idaṃ yaḥ paṭhedaṣṭakaṃ jahnuputryāsrikālaṃ kṛtaṃ kālidāsena ramyam |
+samāyāsyatīndrādibhirgīyamānaṃ padaṃ kaiśavaṃ śaiśavaṃ no labhetsaḥ || 9||
+iti śrīkālidāsakṛtaṃ gaṅgāṣṭakastotraṃ sampūrṇam ||
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Keśavīyaśikṣā</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%95%E0%A5%87%E0%A4%B6%E0%A4%B5%E0%A5%80%E0%A4%AF%E0%A4%B6%E0%A4%BF%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BE"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+keśavīya śikṣā
+athātaḥ keśavīśikṣāṃ vyākhyāsyāmaḥ padādau pūrvvāhalvordvirvyoccārau sampūrvvayośchandasi 1
+padāntamadhyaṛharephayugyasya yaśca 2
+ṣaḥ khaṣṭumṛte ca 3
+ahalśalyūrddhvarephasya saikāraḥ prāk ca 4
+anusvārasya rṭha0 śali rephe ca pare
+hrasvāddīrgho dīrgghāddhrasvaḥ sam̐yoge guruśca 5
+śarpūrvvāṇāmṛddhīnakādipañcavargāṇāṃ dvitvaṃ visargād rephayuktānām 6
+na sovyośca 7
+halyutāyutasyoḥ saikāraśca 8
+hrasvaṃ kiñciddīrgghaṃ halyutākāre hahalvisargayugvarṇe ca na saṃhitāyām 9
+sūtrārthe kārikā'pi |
+hrasvaṃ dīrghaṃ bhavetkiñcitsaṃhitāyāṃ paro na cet
+halsaṃyutāyutākāraścāvarṇo halvisargayuk 10
+navānāmapi sūtrāṇāṃ ṣaṇmitāḥ kārikāstvimāḥ
+keśavena kṛtāstāḥ syurvedādhyayanabodhikāḥ 11
+paribhāṣāṅkasūtraṃ ca yājurvedaṃ sakārikam
+daivajñakeśavenedaṃ kṛtaṃ hastasvarānvitam 12
+hrasvodāttādibhirbhedaiḥ sahastasvaralakṣaṇam
+śikṣādibhiḥ ṣaḍaṅgaiśca vijñeyaṃ vedapāṭhakaiḥ 13
+iti śrīdaivajñakeśavakṛtā pratijñāsūtrānusāriṇī keśavīśikṣā samāptā
+    </body>
+  </text>
+</TEI>

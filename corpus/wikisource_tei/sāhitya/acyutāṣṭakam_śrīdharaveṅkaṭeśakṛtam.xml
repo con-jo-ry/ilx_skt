@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Acyutāṣṭaka</title>
+        <author>Śaṅkarācārya</author>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%85%E0%A4%9A%E0%A5%8D%E0%A4%AF%E0%A5%81%E0%A4%A4%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%95%E0%A4%AE%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+abhilapananisargādacyutākhye bhaje tvāṃ
+harasi madaghabṛndaṃ tvadbhubukṣāvaśāt tvam |
+aghahṛditi tavāmba pratyuta khyātido'haṃ
+tvayi mama vada kā vā saṅgatirdainyavācām || 1||
+
+cirātītā sāndīpanitanubhuvaḥ kālabhavanaprapattistaṃ pitroḥ punaragamayat sannidhimiti |
+yaśaḥ kṛṣṇasyedaṃ kathamahaha na tvāṃ rasanayā yadi śrīkṛṣṇākhye bhajati sa tādanīṃ munisutaḥ || 2||
+
+hareryaccoratvaṃ yadapi ca tathā jāracaritaṃ
+tadetat sarvāṃhastatikṛte saṅkathanataḥ |
+itīdaṃ māhātmyaṃ madhumathana te dīpitamidaṃ
+vadantyāḥ kṛṣṇākhye tavahi vicarantyā vilasitam || 3||
+
+sabhāyāṃ draupatyā'ṃśukasṛtibhiyā tadrasanayā dhṛtā tasyāścelaṃ pratanu tadavasthaṃ vidadhatī |
+vyatānīśśailābhaṃ vasanavisaraṃ cāmba haratāmiyān govindākhye vada vasanarāśistava kutaḥ || 4||
+
+adhirasanamayi tvāmacyutākhye dadhānaṃ
+vanajabhavamukhānāṃ vandyamāhurmahāntaḥ |
+satu vinamati mātaścāśvagośvādanādīn
+bhavati nanu vicitrā paddhatistāvakānām || 5||
+
+janani murabhidākhye jāhnavīnimnagaikā
+samajani padapadmāccakriṇastvāśritānām |
+pariṇamati samastāḥ pādavārghindureko
+jagati nanu taṭinyo jāhnavīsahyajādyāḥ || 6||
+
+samavahitamapaśyan sannidhau vainateyaṃ
+prasabhavidhutapadmāpāṇirīśo'cyutākhye |
+samavitumupanītaḥ sāgajendraṃ tvayā drāk
+vada janani vinā tvāṃ kena vā kiṃ tadābhūt || 7||
+
+yadeṣa staumi tvāṃ triyugacaraṇatrāyiṇi tato
+mahimnaḥ kā hānistavatu mama sampanniravadhiḥ |
+śunā līlākāmaṃ bhavati surasindhurbhagavatī
+tadeṣā kimbhūtā satu sapadi santāpabharitaḥ || 8||
+
+iti śrīśrīdharaveṅkaṭeśāryakṛtau acyutāṣṭakaṃ sampūrṇam ||
+    </body>
+  </text>
+</TEI>

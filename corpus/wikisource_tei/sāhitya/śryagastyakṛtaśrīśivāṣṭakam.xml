@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Śryagastyakṛtaśrīśivāṣṭaka</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%85%E0%A4%97%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8D%E0%A4%AF%E0%A4%95%E0%A5%83%E0%A4%A4_%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%B6%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%95%E0%A4%AE%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+adya me saphalaṃ janmaḥ cādya me saphalaṃ tapaḥ ।
+
+adya me saphalaṃ jñānam śaṃbho tvatpādadarśanāt ॥1॥
+
+kṛtārtho'haṃ kṛtārtho'haṃ kṛtārtho'haṃ maheśvara ।
+
+adya te pādapadmasya darśanātbhaktavatsala ॥2॥
+
+śivaśśaṃbhuḥ śivaśśaṃbhuḥ śivaśśaṃbhuḥ śivaśśivaḥ ।
+
+iti vyāharato nityam dinānyāyāntu yāntu me ॥3॥
+
+śive bhaktiśśive bhaktiśśive bhaktirbhavebhave ।
+
+sadā bhūyāt sadā bhūyātsadā bhūyātsuniścalā ॥4॥
+
+ājanma maraṇaṃ yasya mahādevānyadaivatam ।
+
+mā janiṣyata madvaṃśe jāto vā drāgvipadyatām ॥5॥
+
+jātasya jāyamānasya garbhasthasyā'pi dehinaḥ ।
+
+mā bhūnmama kule janmaḥ yasya śaṃbhurnadaivatam ॥6॥
+
+vayaṃ dhanyā vayaṃ dhanyā vayaṃ dhanyā jagattraye ।
+
+ādidevo mahādevo yadasmatkuladaivatam ॥7॥
+
+haraśśaṃbho mahādeva viśveśāmaravallabha ।
+
+śivaśśaṅkara sarvātmannīlakaṇṭhaḥ namo'stu te ॥8॥
+
+agastyāṣṭakametattu yaḥ paṭhecchivasannidhau ।
+
+śivalokamavāpnoti śivenassaha modate ॥9॥
+
+॥ iti śrīagastyaracitam śrīśivāṣṭakam sampūrṇam ॥
+    </body>
+  </text>
+</TEI>

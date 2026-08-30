@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lalitāpañcaratna</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%B2%E0%A4%B2%E0%A4%BF%E0%A4%A4%E0%A4%BE%E0%A4%AA%E0%A4%9E%E0%A5%8D%E0%A4%9A%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+prātaḥ smarāmi lalitāvadanāravindaṃ
+bimbādharaṃ pṛthulamauktikaśobhināsam |
+ākarṇadīrghanayanaṃ maṇikuṇḍalāḍhyaṃ
+mandasmitaṃ mṛgamadojjvalaphāladeśam ||1||
+prātarbhajāmi lalitābhujakalpavallīṃ
+raktāṅgulīyalasadaṅgulipallavāḍhyām |
+māṇikyahemavalayāṅgadaśobhamānāṃ
+puṇḍrekṣucāpakusumeṣusṛṇīrdadhānām ||2||
+prātarnamāmi lalitācaraṇāravindaṃ
+bhakteṣṭadānanirataṃ bhavasindhupotam |
+padmāsanādisuranāyakapūjanīyaṃ
+padmāṅkuśadhvajasudarśanalāñchanāḍhyam ||3||
+prātaḥ stuve paraśivāṃ lalitāṃ bhavānīṃ
+trayyantavedyavibhavāṃ karuṇānavadyām |
+viśvasya sṛṣṭivilayasthitihetubhūtāṃ
+vidyeśvarīṃ nigamavāṅmanasātidūrām ||4||
+prātarvadāmi lalite tava puṇyanāma
+kāmeśvarīti kamaleti maheśvarīti |
+śrīśāmbhavīti jagatāṃ jananī pareti
+vāgdevateti vacasā tripureśvarīti ||5||
+yaḥ ślokapañcakamidaṃ lalitāmbikāyāḥ
+saubhāgyadaṃ sulalitaṃ paṭhati prabhāte |
+tasmai dadāti lalitā jhaṭiti prasannā
+vidyāṃ śriyaṃ vimalasaukhyamanantakīrtim ||6||
+||iti śrīlalitāpañcaratnam||
+    </body>
+  </text>
+</TEI>

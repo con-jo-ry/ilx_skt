@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Piṅgalachandaḥsūtra</title>
+        <author>Piṅgalācārya</author>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%AA%E0%A4%BF%E0%A4%99%E0%A5%8D%E0%A4%97%E0%A4%B2%E0%A4%9B%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A4%83%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<1>
+mayarasata jabhanalagasaṃmitaṃ bhramati vāṅmayaṃ jagati yasya|
+sa jayati piṅgalanāgaḥ śivaprasādādviśuddhamatiḥ||
+triguruṃ viddhi makāraṃ laghvādisamanvitaṃ yakārākhyam|
+laghumadhyamaṃ tu rephaṃ sakāramante gurunibaddham||
+laghvantyaṃ hi takāraṃ jakāramubhayorlaghuṃ vijānīyāt|
+ādiguruṃ ca bhakāraṃ nakāramiha paiṅgale trilaghum||
+dīrghasaṃyoga paraṃ tathā svara vyañjanāntamūṣmāntam|
+sānusvāraṃ ca guruṃ kvacidavasāne'pi laghvantyam||
+ādimadhyāvasāneṣu yaratā yānti lāghavam|
+bhajasā gauravaṃ yānti manau tu gurulāghavam||
+trivirāmaṃ daśavarṣaṃ ṣaṇmātramuvāca piṅgalaḥ sūtram|
+chandovarga padārtha pratyayahetośca śāstrādau|| | 1.1 |
+dhīśrīstrīm | 1.1 |
+varāsāy | 1.2 |
+kāguhār | 1.3 |
+vasudhās | 1.4 |
+sātekvat | 1.5 |
+kadāsaj | 1.6 |
+kiṃvadabh | 1.7 |
+nahasan | 1.8 |
+gṛl | 1.9 |
+gante | 1.10 |
+dhrādiparaḥ | 1.11 |
+he | 1.12 |
+lausaḥ | 1.13 |
+glau | 1.14 |
+aṣṭau vasava iti|| | 1.15 |
+<2>
+chandaḥ | 2.1 |
+gāyatrī | 2.2 |
+daivyekam | 2.3 |
+āsurī pañcadaśa | 2.4 |
+prājāpatyāṣṭau | 2.5 |
+yajuṣāṃ ṣaṭ | 2.6 |
+sāmnāṃ dviḥ | 2.7 |
+ṛcāṃ triḥ | 2.8 |
+dvau dvau sāmnāṃ vardheta | 2.9 |
+trīṃstrīnṛcām | 2.10 |
+caturaścaturaḥ prājāpatyāyāḥ | 2.11 |
+ekaikaṃ śeṣe | 2.12 |
+jahyādāsurī | 2.13 |
+tānyuṣṇiganuṣṭubbṛhatī paṃkti triṣṭubjagatyaḥ | 2.14 |
+tisrastisrassanāmnya ekaikā brāhmyaḥ| 2.15 |
+prāgyajuṣāmārṣya iti|| | 2.16 |
+<3>
+pādaḥ | 3.1 |
+iyādipūraṇaḥ | 3.2 |
+gāyatryā vasavaḥ | 3.3 |
+jagatyā ādityāḥ | 3.4 |
+virājo diśaḥ | 3.5 |
+triṣṭubho rudrāḥ | 3.6 |
+ekadvitricatuṣpāduktapādam | 3.7 |
+ādyaṃ catuṣpādṛtubhiḥ | 3.8 |
+kvacit tripādṛṣibhiḥ | 3.9 |
+sā pādanicṛt | 3.10 |
+ṣaṭkasaptakayormadhye'ṣṭāvatipādanicṛt | 3.11 |
+dvau navakau ṣaṭkaśca nāgī|3.12
+viparītā vārāhī | 3.13 |
+ṣaṭkasaptakāṣṭakairvardhamānā | 3.13 |
+viparītā pratiṣṭhā | 3.15 |
+tṛtīyaṃ dvipājjāgatagāyatrābhyām | 3.16 |
+tripāttraiṣṭubhaiḥ | 3.17 |
+uṣṇiggāyatrau jāgataśca | 3.18 |
+kakummadhye cedantyaḥ | 3.19 |
+purauṣṇik puraḥ || | 3.20 |
+paroṣṇik paraḥ | 3.21 |
+catuṣpādṛṣibhiḥ | 3.22 |
+anuṣṭup gāyatraiḥ | 3.23 |
+tripātkvacijjāgatābhyāṃ ca | 3.24 |
+madhye'nte ca | 3.25 |
+bṛhatī jāgatastrayaśca gāyatrāḥ | 3.26 |
+pathyā pūrvaścettṛtīyaḥ | 3.27 |
+nyaṅkusāriṇī dvitīyaḥ | 3.28 |
+skandhogrīvī krauṣṭukeḥ | 3.29 |
+robṛhatī yāskasya | 3.30 |
+upariṣṭādbṛhatyante | 3.31 |
+purastādbṛhatī puraḥ | 3.32 |
+kvacinnavakāścatvāraḥ | 3.33 |
+vairājau gāyatrau ca | 3.34 |
+tribhirjāgatairmahābṛhatī | 3.35 |
+satobṛhatī tāṇḍinaḥ | 3.36 |
+paṃktirjāgatau gāyatrau ca | 3.37 |
+pūrvau cedayujau sataḥ paṃktiḥ | 3.38 |
+viparītau ca|| | 3.39 |
+āstārapaṃktiḥ parataḥ | 3.40 |
+prastārapaṃktiḥ purataḥ | 3.41 |
+viṣṭārapaṃktirantaḥ | 3.42 |
+saṃstārapaṃktirbahiḥ | 3.43 |
+akṣarapaṃktiḥ pañcakāścatvāraḥ | 3.44 |
+dvāvapyalpaśaḥ | 3.45 |
+padapaṃktiḥ pañca | 3.46 |
+catuṣka ṣaṭkau trayaśca | 3.47 |
+pathyā pañcabhirgāyatraiḥ | 3.48 |
+jagatī ṣaḍbhiḥ | 3.49 |
+ekena triṣṭup jyotiṣmatī | 3.50 |
+tathā jagatī | 3.51 |
+purastājjyotiḥ prathamena | 3.52 |
+madhyejyotirmadhyamena | 3.53 |
+upariṣṭājjyotirantyena | 3.54 |
+ekasminpañcake chandaḥ śaṅkumatī | 3.55 |
+ṣaṭke kakudmatī | 3.56 |
+tripādaniṣṭha madhyā pipīlika madhyā | 3.57 |
+viparītā yavamadhyā | 3.58 |
+ūnādhikenaikena nicṛdbhurijau | 3.59 |
+dvābhyāṃ virāṭ svarājau | 3.60 |
+āditaḥ sandigdhe|| | 3.61 |
+devatāditaśca | 3.62 |
+agniḥ savitā somo bṛhaspatirmitrāvaruṇāvindro viśvedevā devatāḥ | 3.63 |
+svarāḥ ṣaḍja ṛṣabha gāndhāra madhyama pañcama dhaivata niṣādāḥ | 3.64 |
+sita sāraṅga piśaṅga kṛṣṇa nīla lohita gaurā varṇāḥ | 3.65 |
+āgniveśya kāśyapa gautamāṃgirasa bhārgava kauśika vāsiṣṭhāni gotrāṇi | 3.66 |
+śyāmānyaticchandāṃsi | 3.67 |
+rocanābhāḥ kṛtayaḥ | 3.68 |
+anuktānāṃ kāmato varṇā iti|| | 3.69 |
+<4>
+catuḥ śatamutkṛtiḥ | 4.1 |
+caturaścaturastyajedutkṛteḥ | 4.2 |
+tānyabhisaṃvyāprebhyaḥ kṛtiḥ | 4.3 |
+prakṛtyācopasargavarjitaḥ | 4.4 |
+dhṛtyaṣṭiśakvarī jagatyaḥ | 4.5 |
+pṛthakpṛthakpūrvata etānyevaiṣām | 4.6 |
+dvitīyaṃ dvitīyamatitaḥ | 4.7 |
+atha laukikam | 4.8 |
+ātraiṣṭubhācca yadārṣam | 4.9 |
+pādaścaturbhāgaḥ | 4.10 |
+yathāvṛttasamāptirvā | 4.11 |
+laḥ samudrāgaṇaḥ | 4.12 |
+gaugantamadhyādirnlaśca | 4.13 |
+svarā ardhaṃ cāryārdham | 4.14 |
+atrāyuṅnaj | 4.15 |
+ṣaṣṭhoj | 4.16 |
+nlau vā | 4.17 |
+nlaucetpadaṃ dvitīyādi | 4.18 |
+saptamaḥ prathamādi | 4.19 |
+antye pañcamaḥ | 4.20 |
+ṣaṣṭhaścal | 4.21 |
+triṣu gaṇeṣu pādaḥ pathyādye ca | 4.22 |
+vipulānyā | 4.23 |
+capalā dvitīya caturthau gmadhyejau | 4.24 |
+pūrve mukhapūrvā | 4.25 |
+jaghanapūrvetaratra | 4.26 |
+ubhayormahācapalā | 4.27 |
+ādyardhasamā gītiḥ | 4.28 |
+antyenopagītiḥ | 4.29 |
+utkrameṇodgītiḥ | 4.30 |
+ardhe vasugaṇa āryāgītiḥ | 4.31 |
+vaitālīyaṃ dviḥsvarā ayukpāde yugvasavonterlgaḥ | 4.32 |
+gaupacchandasikam | 4.33 |
+āpātalikā bhgaug | 4.34 |
+śeṣe pareṇa yuṅna sākam | 4.35 |
+ṣaṭcāmiśrāyuji | 4.36 |
+pañcamena pūrvaḥ sākaṃ prācyavṛttiḥ | 4.37 |
+ayuktṛtīyenodīcyavṛttiḥ | 4.38 |
+ābhyāṃ yugapatpravṛttakam | 4.39 |
+ayuk cāruhāsinī || | 4.40 |
+yugaparāntikā | 4.41 |
+gantā dvirvasavo mātrā samakal navamaḥ | 4.42 |
+dvādaśaśca vānavāsikā | 4.43 |
+viślokaḥ pañcamāṣṭamau | 4.44 |
+citrā navamaśca | 4.45 |
+parayuktenopacitrā | 4.46 |
+ebhiḥ pādākulakam | 4.47 |
+gītyāryālaḥ | 4.48 |
+śikhā viparyastārdhā | 4.49 |
+laḥ pūrvaścejjyotiḥ | 4.50 |
+gaścetsaumyā | 4.51 |
+cūlikaikānnatriṃśadekatriṃśadanteg | 4.52 |
+sāgyenanasamā lāṃgla iti|| | 4.53 |
+<5>
+vṛttam | 5.1 |
+samamardhasamaṃ viṣamaṃ ca | 5.2 |
+samaṃ tāvatkṛtvaḥ kṛtamardhasamaṃ viṣamaṃ ca | 5.3 |
+rāśyūnam | 5.4 |
+gliti samānī | 5.5 |
+lgiti pramāṇī | 5.6 |
+vitānamanyat | 5.7 |
+pādasyānuṣṭup vakām | 5.8 |
+na prathamātsnau | 5.9 |
+dvitīya caturthayoraśca | 5.10 |
+vānyat | 5.11 |
+yaccaturthāt | 5.12 |
+pathyā yujoj | 5.13 |
+viparītaikīyam | 5.14 |
+capalā yujon | 5.15 |
+vipulāyuglaḥ saptamaḥ | 5.16 |
+sarvataḥ saitavasya | 5.17 |
+bhrauntau ca | 5.18 |
+pratipādaṃ caturvṛdhyāpadacaturūrdhvam | 5.19 |
+gāvanta āpīḍaḥ|| | 5.20 |
+gāvādau cetpratyāpīḍaḥ | 5.21 |
+pratyāpīḍo gāvādau ca | 5.22 |
+prathamasya viparyāse mañjarīlavalyamṛtadhārāḥ | 5.23 |
+udgatāmekatasajau slau nsau jgau bhnau jlau gsjau sjaug | 5.24 |
+tṛtīyasya saurabhakaṃ naubhgau | 5.25 |
+lalitaṃ nausau | 5.26 |
+upasthitapracupitaṃ pṛthagādyaṃ saujbhaugau snaujraugnausnaunjauy | 5.27 |
+vardhamānaṃ tṛtīye nausnaunsau | 5.28 |
+śuddhavirālṛṣabhaṃ tajrāḥ | 5.29 |
+ardhe | 5.30 |
+upacitrakaṃ soslogbhaubhgaug | 5.31 |
+drutamadhyā bhaubhgaugnjaujyau | 5.32 |
+vegavatī sausgaubhaubhgaug | 5.33 |
+bhadravirāṭ tjaurgaumsaujgaug | 5.34 |
+ketumatī sjausgaubhraungaug | 5.35 |
+ākhyānakī tau jgaug jtau jgaug | 5.36 |
+viparītākhyānakī jtaujgaugtaujgaug | 5.37 |
+hariṇaplutā sauslau gnbhau bhrau | 5.38 |
+aparavaktraṃ naurlaugnjau jrau | 5.39 |
+puṣpitāgrā nauryaunjaujraug|| | 5.40 |
+yavamatī rjaurjaujraujraug | 5.41 |
+śikhaikānnatriṃśadekatriṃśadanteg | 5.42 |
+khañjā mahatyayujīti|| | 5.43 |
+<6>
+yatirvicchedaḥ | 6.1 |
+tanumadhyā tyau | 6.2 |
+kumāralalitā jsaug | 6.3 |
+māṇavakākrīḍitakaṃ bhtaulgau | 6.4 |
+citrapadā bhaugau | 6.5 |
+vidyunmālā maugau | 6.6 |
+bhujagaśiśubhṛtā naum | 6.7 |
+halamukhī rnaus | 6.8 |
+śuddha virāṇmsaujgau | 6.9 |
+paṇavo mnauygau | 6.10 |
+rukmavatī bhmausgau | 6.11 |
+mayūrasāriṇī rjaurgau | 6.12 |
+mattā mbhausgau | 6.13 |
+upasthitā tjaujgau | 6.14 |
+ekarūpaṃ saujgaug | 6.15 |
+indravajrā tau jgaug | 6.16 |
+upendravajrā jtaujgaug | 6.17 |
+vādyantā upajātayaḥ | 6.18 |
+dodhakaṃ bhaubhgaug | 6.19 |
+śālinī mtautgaugsamudra ṛṣayaḥ|| | 6.20 |
+vātormī mbhautgaugca | 6.21 |
+bhramaravilasitaṃ mbhaunlaug | 6.22 |
+rathoddhatā rnaurlaug | 6.23 |
+svāgatā rnaubhgaug | 6.24 |
+vṛttā nausnaug | 6.25 |
+śyenī rjaurlaug | 6.26 |
+jagatī | 6.27 |
+vaṃśasthā jtaujrau | 6.28 |
+indravaṃśā taujrau | 6.29 |
+drutavilambitaṃ nbhaubhrau | 6.30 |
+toṭakaṃ saḥ | 6.31 |
+puṭo naumyau vasusamudrāḥ | 6.32 |
+jaloddhatagatirjsau jsau rasartavaḥ | 6.33 |
+bhujaṅga prayātaṃ yaḥ | 6.34 |
+sragviṇī raḥ | 6.35 |
+pramitākṣarā sjausau | 6.36 |
+vaiśvadevī mauyāvindriya ṛṣayaḥ | 6.37 |
+navamālinī njaubhyāviti || | 6.38 |
+<7>
+praharṣiṇī mnau jraug trika daśakau | 7.1 |
+rucirā jbhausjaug samudranavakau | 7.2 |
+mattamayūrā mtau ysaug | 7.3 |
+asambādhā mtau nsau gāvindriya navakau | 7.4 |
+aparājitā naursau lgau svara ṛṣayaḥ | 7.5 |
+praharaṇakalitā nau bhnau lgau ca | 7.6 |
+vasantatilakā dbhau jau gau | 7.7 |
+siṃhonnatā kāśyapasya | 7.8 |
+uddharṣiṇī saitavasya | 7.9 |
+candrāvartā naunaus | 7.10 |
+mālartunavakau cet | 7.11 |
+maṇiguṇanikaro vasvṛṣayaḥ | 7.12 |
+mālinī naumyauy ca | 7.13 |
+ṛṣabhagajavilasitaṃ bhraunaungau svara navakau | 7.14 |
+hariṇī nsaumrauslaug rasa samudra ṛṣayaḥ | 7.15 |
+pṛthvī jsau jsau ylaug vasu navakau | 7.16 |
+vaṃśapatrapatitaṃ bhrau nbhau nlaug digṛṣayaḥ | 7.17 |
+mandākrāntā mbhau ntau dgaug samudrartu svarāḥ | 7.18 |
+śikhariṇī ymaubhlaugṛtu rudrāḥ | 7.19 |
+kusumitalatāvellitā mtau nyau yāvindriyartu svarāḥ|| | 7.20 |
+śārdūlavikrīḍitaṃ msau jsau taugāditya ṛṣayaḥ | 7.21 |
+suvadanā mnau bhnau ybhau lgau svara ṛṣi rasāḥ | 7.22 |
+gliti vṛttam | 7.23 |
+sragdharā mrau bhnau yauy trissaptakāḥ | 7.24 |
+madrakaṃ bhraunrau nraungau digādityāḥ | 7.25 |
+aśvalalitaṃ njau bhjau bhjau bhlaugrudrādityāḥ | 7.26 |
+mattākrīḍā mautnau naunlaugvasu pañcadaśakau | 7.27 |
+tanvī bhtaunsau bhaunyau dvirādityāḥ | 7.28 |
+krauñcapadā bhmausbhau naunaugbhūtendriya vasvṛṣayaḥ | 7.29 |
+bhujaṅgavijṛmbhitaṃ mautnaunau rsau lgau vasu rudra ṛṣayaḥ | 7.30 |
+apavāhako mnaunaunau nsaugau navakartu rasendriyāṇi | 7.31 |
+daṇḍako nauraḥ | 7.32 |
+prathamaścaṇḍavṛṣṭiprayātaḥ | 7.33 |
+anyatrārātamāṇḍavyābhyām | 7.34 |
+śeṣaḥ pracita iti|| | 7.35 |
+<8>
+atrānuktaṃ gāthā | 8.1 |
+dvikau glau | 8.2 |
+miśrau ca | 8.3 |
+pṛthaglāmiśrāḥ | 8.4 |
+vasavastrikāḥ | 8.5 |
+lardhe | 8.6 |
+saikeg | 8.7 |
+pratilomaguṇaṃ dvirlādyam | 8.8 |
+tatogyekaṃ jahyāt | 8.9 |
+dvirardhe | 8.10 |
+rūpaṃ śunyam | 8.11 |
+dviḥ śūnye | 8.12 |
+tāvadardhe tadguṇitam | 8.13 |
+dvirdvyūnam | 8.14 |
+tadantānām | 8.15 |
+ekoneddhā | 8.16 |
+parepūrṇaṃ pare pūrṇamiti|| | 8.17 |
+    </body>
+  </text>
+</TEI>

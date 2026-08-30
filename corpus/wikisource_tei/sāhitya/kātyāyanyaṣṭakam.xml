@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kātyāyanyaṣṭaka</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%BE%E0%A4%A4%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%95%E0%A4%AE%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+śrīgaṇeśāya namaḥ |
+avarṣisañjñaṃ puramasti loke kātyāyanī tatra virājate yā |
+prasādadā yā pratibhā tadīyā sā chatrapuryāṃ jayatīha geyā || 1||
+tvamasya bhinnaiva vibhāsi tasyāstejasvinī dīpajadīpakalpā |
+kātyāyanī svāśritaduḥkhahartrī pavitragātrī matimānadātrī || 2||
+brahmoruvetālakasiṃhadāḍhosubhairavairagnigaṇābhidhena |
+saṃsevyamānā gaṇapatyabhikhyā yujā ca devi svagaṇairihāsi || 3||
+gotreṣu jātairjamadagnibhāradvājā'trisatkāśyapakauśikānām |
+kauṇḍinyavatsānvayajaiśca viprairnijairniṣevye varade namaste || 4||
+bhajāmi gokṣīrakṛtābhiṣeke rak‍tāmbare rak‍tasucandanāk‍te |
+tvāṃ bilvapatrīśubhadāmaśobhe bhakṣyapriye hṛtpriyadīpamāle || 5||
+khaḍgaṃ ca śaṅkhaṃ mahiṣāsurīyaṃ pucchaṃ triśūlaṃ mahiṣāsurāsye |
+praveśitaṃ devi karairdadhāne rakṣāniśaṃ māṃ mahiṣāsuraghne || 6||
+svāgrasthabāṇeśvaranāmaliṅgaṃ surat‍nakaṃ rukmamayaṃ kirīṭma |
+śīrṣe dadhāne jaya he śaraṇye vidyutprabhe māṃ jayinaṃ kurūṣva || 7||
+netrāvatīdakṣiṇapārśvasaṃsthe vidyādharairnāgagaṇaiśca sevye |
+dayāghane prāpaya śaṃ sadāsmānmātaryaśode śubhade śubhākṣi || 8||
+idaṃ kātyāyanīdevyāḥ prasādāṣṭakamiṣṭadam |
+kumaṭhācāryajaṃ bhak‍tyā paṭhedyaḥ sa sukhī bhavet || 9||
+|| iti śrīkātyāyanyaṣṭakaṃ sampūrṇam ||
+    </body>
+  </text>
+</TEI>

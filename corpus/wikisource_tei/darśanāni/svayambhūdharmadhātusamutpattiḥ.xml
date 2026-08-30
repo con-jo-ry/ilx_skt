@@ -1,0 +1,3572 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Svayambhūdharmadhātusamutpatti</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%AF%E0%A4%AE%E0%A5%8D%E0%A4%AD%E0%A5%82%E0%A4%A7%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%A7%E0%A4%BE%E0%A4%A4%E0%A5%81%E0%A4%B8%E0%A4%AE%E0%A5%81%E0%A4%A4%E0%A5%8D%E0%A4%AA%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%BF%E0%A4%83"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+svayambhūdharmadhātusamutpatti nidānakathā
+oṃ namaḥ śrī dharmadhātuvāgīśvarāya sarva buddhadharmabodhisattvebhyaḥ |
+śrīmatā yena saddharmastrailoke saṃprakāśitaḥ |
+śrīghanaṃ taṃ mahābuddhaṃ vandeka'haṃ śaraṇāśritaḥ || 1.1 ||
+natvā trijagadīśānaṃ dharmadhātujinālayam |
+tatsvayambhūsamuddeśaṃ vakṣāmi śṛṇutādarāt || 1.2 ||
+śraddhayā yaḥ śṛṇotīmāṃ svayambhūtpattisatkathām |
+pariśuddhatrikāyāḥ sa bodhisattvo bhaveddhruvam || 1.3 ||
+tadyathā bhūtpurābhijñaḥ jayaśrī sugatātmajaḥ |
+bodhimaṇḍavihāre sa bijahāra sasāṃdhikaḥ || 1.4 ||
+tatra jineśvaro nāma bodhisattva mahāmatiḥ |
+śraddhayā śaraṇaṃ gatvā jayaśrīyamupāśrayet || 1.5 ||
+tadā dhīmānjayaśrīḥ sa sarvasattva hitārthavit |
+saddharmasamupādeṣṭuṃ sabhāsane samāśrayet || 1.6 ||
+tatra sarve mahāsattvā bodhisattvā jinātmajāḥ |
+arhanto bhikṣavaścāpi brahmacāriṇaḥ śrāvakāḥ || 1.7 ||
+bhikṣuṇyo brahmacāriṇyo bratinaścāpyupāsakāḥ |
+upāsikāstathānye'pi gṛhasthaśca mahājanāḥ || 1.8 ||
+brāhmaṇāstirthīkāścāpi yatayaśca tapasvinaḥ |
+rājāno mantriṇomātyāḥ sainyādhipatiśca paurikāḥ || 1.9 ||
+grāmyā janapadāścāpi tathānyavāsino janāḥ |
+tatsaddharmāmṛtaṃ pātuṃ śraddhayā samupāgatāḥ || 1.10 ||
+tatra sabhāsanāsīnaṃ tamarhataṃ jayaśrīyam |
+abhyarcya sādaraṃ natvā tatsabhāyāṃ yathākramam || 1.11 ||
+kṛtāṃjalipuṭāḥ sarve parivṛtya samantataḥ |
+puraskṛtya samudvikṣya samāśrayan samāhitāḥ || 1.12 ||
+tān sarvān samupāsīnān saddharma śravaṇotsukān |
+dṛṣṭvā jinaśrī bodhisattvaḥ samutthitaḥ || 1.13 ||
+udvahannuttarāsaṃgaṃ sāṃjali samupāśritaḥ |
+jānubhyāṃ bhūtale dhṛtvā sampaśyannevamavravīt || 1.14 ||
+bhadantoharṣamicchāmi carituṃ bodhisaṃvaram |
+tadādau kiṃ vrataṃ dhṛtvā saṃcareya samāhitaḥ || 1.15 ||
+tadbhavān samupādisya sarvānasmān prabodhayan |
+bodhimārge samāyujya cārayituṃ śubherhati || 1.16 ||
+iti saṃprārthitaṃ tena śrutvā ca sugatātmajaḥ |
+jayaśrīstaṃ mahāsattvaṃ sabhāmantraivamādiśat || 1.17 ||
+śṛṇu vatsāsti te vāṃchā sambodhisaṃvare yadi |
+yathākramaṃ pravakṣāmi saṃbodhivratasādhanam || 1.18 ||
+yo vāṃchā tatra saṃsāre carituṃ bodhisaṃvaram |
+sa ādau śaraṇaṃ gatvā sadguruṃ samupāśrayeta || 1.19 ||
+tadupadeśamāsādya yathāvidyi samāhitaḥ || 1.20 ||
+tīrthe snātvā viśuddhātmā triratnaśaraṇaṃ gatāḥ |
+yathāvidhi samabhyarcya saṃbodhi nihitāśayaḥ || 1.21 ||
+upoṣadhaṃvratamādhāya samācarejjagaddhite |
+evaṃ yaścarate nityaṃ saṃbodhimānasaḥ sudhīḥ || 1.22 ||
+pariśuddha trikāyaḥ sa bodhisattve bhaved |
+bodhisattvo mahāsattvaḥ sarvvasattva hitārthabhṛt || 1.23 ||
+kramātsaṃbodhi saṃbhāraṃ saṃpūrayetsamāhitaḥ |
+etatpuṇyābhiyuktātmācaturbrahma vihāradhṛk || 1.24 ||
+niḥkleśo nirjjayanmārona saṃbodhiḥ samavāpnuyāt || 1.25 ||
+evaṃ sarvatra lokeṣu saddharma saṃprakāśayan |
+samāpya saugataṃkārya sunirvṛtimavāpnuyāt || 1.26 ||
+tato'rhaṃ sugato bhūtvā sarvvānsattvānpravodhayan |
+bodhimārge pratiṣṭhāpya saṃvṛttau saṃpracārayet || 1.27 ||
+evaṃ sarve'pi saṃbuddhāḥ yetītā apyanāgatāḥ |
+varttamānāśca te hayetadvratapuṇya vipākataḥ || 1.28 ||
+bodhiprāpya jinā āsanbhaviṣyanti bhavantyapi |
+evaṃ sarve mahāsattvā bodhisattvā jinātmajāḥ || 1.29 ||
+arhanto'pi thā sarve pariśuddhatrimaṇḍalāḥ |
+bodhiṃ prāpya sunirvāṇaṃ yātā yāsyanti yāntyataḥ || 1.30 ||
+evaṃ yūyaṃ parijñāya yadecchatha sunivṛtim |
+triratnaśaraṇaṃ gatvā saṃcaradhvamidaṃ vratam || 1.31 ||
+iti tena samādiṣṭaṃ śrutvā sa sugatātmajaḥ |
+jineśvaraṃ tamarhantaṃ sampaśyannevamavravīt || 1.32 ||
+bhadanta śrotumichāmi tadvratasthānamuttamam |
+etadvrataṃ caretkutra taddeśaṃ samupādiśat || 1.33 ||
+iti saṃprārthite tena jayaśrīḥ sa mahāmatiḥ |
+jineśvaraṃ mahāsattvaṃ taṃ paśyannevamādiśat || 1.34 ||
+śṛṇu vatsa samādhāyaṃ vratasthānasamuttamam |
+munīśvarairyathākhyātaṃ tathā vakṣāmi te'dhunā || 1.35 ||
+puṇyakṣetreṣu tīrtheṣu vihāre sugatāśrame ||
+buddhānāṃ nivṛtānāṃca caityeṣu pratimāsu ca || 1.36 ||
+buddhakṣetreṣu sarvatra vratasthānaṃ samuttamam |
+eteṣvami samākhyātaṃ svayambhūcaityamuttamam || 1.37 ||
+evaṃ vijñāya yo dhīmānvrataṃ caritumicchati |
+sa svayambhū jinakṣetramāśritya caratāṃ vratam || 1.38 ||
+svayambhūkṣetramāśritya yaścarati vrataṃ mudā |
+sa labhettanmahatpuṇyamakṣayaṃ bodhisādhanam || 1.39 ||
+etatpuṇyaṃ viśuddhātmā bhadraśrī sadguṇāśrayaḥ |
+bodhisattvo mahābhijñā bhavajjinātmajo dhruvam || 1.40 ||
+durgatiṃ na brajetkvāpi saṃsāre sa kadācana |
+sadā sadgatisaṃjāto bodhicaryāvrataṃ caret || 1.41 ||
+evaṃ sa saṃsaralloke kṛtvā sarvatra bhadratā |
+saṃbodhi praṇidhiṃ dhṛtvā saṃcare tadjagaddhite || 1.42 ||
+evaṃ ca bodhi saṃbhāraṃ pūrayitvā yathākramam |
+trividhāṃ bodhimāsādyaḥ nirvṛtipadamāpnuyāt || 1.43 ||
+evaṃ yūyaṃ parijñātvāḥ svayambhūsthāna āśritā |
+triratnaśaraṇaṃ gatvā saṃcaratha vratottamam || 1.44 ||
+etattenārhatādiṣṭaṃ śrutvā sa sugatātmajaḥ |
+jayaśriyaṃ tamarhantaṃ sampaśyannevamabravīt || 1.45 ||
+bhadanta bhavatā diṣṭaṃ śrutvā me rocate manaḥ |
+svayambhūcaityamārādhya carituṃ vratamābhavam || 1.46 ||
+svayambhū caityarājaḥ śrīdharmadhātu jinālayaḥ |
+kutrāstyatra mahīloke tatsamādeṣṭumarhati || 1.47 ||
+iti saprārthitaṃ tena śrutvāṃ so'rhan yatiḥ sudhīḥ |
+jayaśrī staṃ mahāsattva samālokyaivamādiśata || 1.48 ||
+vidyate'tra mahīloke uttarasyāṃ himālaye |
+nepāla iti vikhyāteḥ gopucchākhyernagottamaḥ || 1.49 ||
+tadgirernāma cāturdhya caturyugeṣu vartate |
+tadyathābhūdyuge satye padmagiririti smṛtaḥ || 1.50 ||
+tretāyāṃ vajrakūṭākhyo gośṛṃgo dvāpare smṛtaḥ |
+idānīṃ tu kalau'sau gopuccha iti viśrutaḥ || 1.51 ||
+so'piśailo idānītu lokai nepāla deśakaiḥ |
+sāmheguriti vikhyāta stathāsaṃprasthito bhuvi || 1.52 ||
+sa sarvadhāturalādi sarvadravyamayoktamaḥ |
+aśvattha pramukhairsavairpādapaiḥ saṃpraśobhitaḥ || 1.53 ||
+sarvatra kusumairkāntaḥ saṃrvoṣadhiphaladrumaiḥ |
+sarvapakṣivirāvaiścaḥ bhramadbhramaranisvanaiḥ || 1.54 ||
+jantubhiḥ sakalaḥ sneha nivaddhamaitramānasaiḥ |
+tapasvivaddhayā bhadracāribhiḥ saniṣevitaḥ || 1.55 ||
+aṣṭāṃga guṇasaṃpanna saṃśuddhāmṛtanirjharaiḥ |
+śobhitaḥ puṣpagaṃdhādhi saṃvāsitaiḥ samīraṇaiḥ || 1.56 ||
+saṃsevitaḥ sadā divya mahotsāhairvivājitaḥ |
+sarvalokādhipairnityaṃ saṃsevitaḥ samādaraiḥ || 1.57 ||
+tatra ratnamaya padmaḥ karṇṇikāyāṃ samāśritaḥ |
+divya sphaṭikaratnābhajyotirūpo nirañjanaḥ || 1.58 ||
+ekahastaḥ pramānoccaścaityarūpo jināśrayaḥ |
+svayambhūḥ sarvalokānāṃ bhadrārtha samavasthitaḥ || 1.59 ||
+brahma śakrādibhirdevaiḥ sarvaillokādhipairapi |
+sarvairdaityādhipaiścāpi nāgendraiḥ garuḍairapi || 1.60 ||
+siddhai vidyādharaiḥ sādhyairūryakṣagandharvakinnaraiḥ |
+rākṣasendraiśca rudraiśca grahaistārāgaṇairapi || 1.61 ||
+vasubhiścāpsarobhiścaḥ sarvaiśva tridaśādhipaiḥ |
+ṛṣibhiryatibhiḥ sarvai yogibhi brahmacāribhiḥ || 1.62 ||
+sarvaiśca tīrthikai vijñaistāpasaiścāpisajjanaiḥ |
+divāniśaṃ catuḥ saṃdhyaṃ dṛṣṭvā smṛtvā pravanditaḥ || 1.63 ||
+nityakālaṃ samāgate samabhyarcya samādarāt |
+saṃstutibhiḥ mahotsāhaiḥ saṃmānitābhivanditaḥ || 1.64 ||
+evaṃ sa trijagannāthaḥ svayambhū dharmadhātukaḥ |
+sarvaloka hitārthena saṃbhāṣayansamāsthitaḥ || 1.65 ||
+idānīntu kalau lokā duṣṭāḥ krūrāśayā śaṭhāḥ |
+dṛṣṭavedaṃ dharmadhātuṃ hi hariṣyanti na saṃśayaḥ || 1.66 ||
+ityasau śilayāchādya gupti kṛtvā prakāśitaḥ |
+tadupariṣṭīkābhiśca vidhāya caityamuttama || 1.67 ||
+chātradhvajapatākābhiralaṃkṛtyādhyatiṣṭhatam |
+tatrāpi sarvalokaiśca sarvalokādhipairapi || 1.68 ||
+samāgatya samārādhya samabhyarcyābhivanditaḥ |
+satkāraiśca mahotsāhaiḥ stutipradakṣiṇādibhiḥ || 1.69 ||
+praṇāmaiśca samārādhya sevito mānito'rcitaḥ |
+evaṃ sa trijagannātho dharmadhātu jinālayaḥ || 1.70 ||
+sarvasattva śubhārthena saṃśobhitā vyavasthitaḥ |
+tatra ye śaraṇaṃ gatvā yānti śuddhayā mudā || 1.71 ||
+durggatiṃ te na gachanti saṃsāre'tra kadācana |
+sadgatāveva saṃjātā dharmmaśrī saṃghaśobhitā || 1.72 ||
+bodhisattvā mahāsattvāḥ pariśuddhatrimaṇḍalāḥ |
+bhadraśrī sadguṇadhārā sarvasattva hitaṃkarāḥ || 1.73 ||
+bodhicaryāvrataṃ dhṛtvā saṃcare jagaddhite |
+evaṃ yūyamapi jñātvā śraddhayā śaraṇa gatāḥ || 1.74 ||
+svayambhūcaityamārādhya saṃcaradhvaṃ vrataṃ sadā |
+evaṃ kṛtvātra saṃsāre bhadraśrī sadguṇāśrayā || 1.75 ||
+bodhisattvā mahāsattvā jinātmajā bhaviṣyathaḥ |
+tataḥ saṃbodhisaṃbhāraṃ pūrayitvā yathākramam || 1.76 ||
+trividhāṃ bodhimāsādya saṃbuddhapadamāpsyathaḥ |
+iti tena samādiṣṭaṃ niśaṃmya sa mahāmatiḥ || 1.77 ||
+śāstāraṃ taṃ samālokya punarevamavocata |
+bhadanta śrotumicchāmi yatsvayambhū jinālayaḥ || 1.78 ||
+kadā svayaṃ samutpannaḥ kathaṃ ca tadupādiśa |
+iti saṃprārthita tena śrutvā so'rhan yatiḥ sudhīḥ || 1.79 ||
+jayaśrīstaṃ mahāsattvaṃ saṃpaśyannevamādiśat |
+sādhu śṛṇu mahābhāga yathā mayā śrutaṃ guroḥ || 1.80 ||
+tathāhaṃ te pravakṣāmi svayambhūtpattisatkathām |
+tadyathā pāṭalīputre pure'śoko narādhipaḥ || 1.81 ||
+saddharma sādhanotsāhī triratnasevako'bhavat |
+sa tatra kukkuṭārāme vihāre sugatāśrame || 1.82 ||
+upaguptaṃ mahābhijñaṃ vandituṃ samupācaret |
+tadā so'rhanmahābhijñaḥ sarvasaṃghapuraskṛtaḥ || 1.83 ||
+sabhāmadhyāsanāsīnastasthau dhyātvā samāhitaḥ |
+tamarhataṃ sabhāsīnaṃ sarvasaṃghapuraskṛtaḥ || 1.84 ||
+dṛṣṭvāśokaḥ sa bhūmīndro muditaḥ samupācarat |
+tatra sa sahasopetya sāñjalirarhato yatīn || 1.85 ||
+sarvānnatvopaguptaṃ tamaṣṭāṃgaiḥ prāṇamanmudā |
+tatastaṃ gurumarhantaṃ mahotsāhaiḥ yathāvidhim || 1.86 ||
+samabhyarcya praṇatvā ca dharmaṃ śrotumupāśrayat |
+tathā tatmantriṇaḥ sarve sāmātyasacivo janāḥ || 1.87 ||
+tamarhantaṃ yatinnatvā tatraikāntamupāśrayat |
+tataḥ so'rhanmahābhijño dṛṣṭvā sarvā samāśritān || 1.88 ||
+ādimadhyāntakalyāṇaṃ saddharmasamupādiśat |
+tatsaddharmāmṛtaṃ pītvā sarve lokāḥ pravodhitāḥ || 1.89 ||
+dharmaviśeṣamājñāya saṃbodhivratamīcchire |
+tataḥ so'pi mahārājaḥ śrutvā taddharmamuttamam || 1.90 ||
+saṃbodhisādhanocaryā saṃcarituṃ samaicchata |
+tataḥ sa nṛpatī rājā sāñjaliḥ samupāśritaḥ || 1.91 ||
+tamarhantaṃ mahāsattvaṃ natvā paśyaṃ mudāvadat |
+bhadanta śrotumicchāmi saṃbodhisādhanaṃ vratam || 1.92 ||
+kutra puṇyatamaṃ kṣatraṃ yatrāśu sidhyate vratam |
+tadbhavān samupādiśya sarvāṃllokān prabodhayan || 1.93 ||
+bodhimārge samāyujya saṃcārayitumarhati ||
+iti saṃprārthite rājñā śrutvā so'rhanmahāmatiḥ || 1.94 ||
+tamaśokaṃ mahīpālaṃ sampaśyannevamabravīt |
+sādhu śṛṇu mahārāja yathā me guruṇoditam || 1.95 ||
+tathāhaṃ te pravakṣāmi bodhivrataṃ yadīcchasi |
+sarvakṣatrottamo rājannuttarasyāṃ himālaye || 1.96 ||
+nepāle iti vikhyāto yatrāśu sidhyate vratam |
+tatrāpyati mahatpuṇyakṣatraṃ buddhaiḥ praśaṃsitam || 1.97 ||
+svayambhūcaityarājasya dharmadhātoḥ samāśrayam |
+tatra yadyatkṛtaṃ karma tattatsaṃsidhyate dutam || 1.98 ||
+iti sarvai mahāsattvaiḥ saṃsevitaṃ jinairapi |
+iti vijñāya rājendra sambodhiṃ yadi vāñchasi || 1.99 ||
+taccaityaśaraṇaṃ gatvā saṃcarasva susaṃvaram |
+etatpuṇyaviśuddhātmā bhadraśrī sadguṇarddhimān || 1.100 ||
+bodhisattvo mahābhijño bhaveḥ sarvahitārthabhṛt |
+tataḥ kramena sambodhiṃ saṃbhāraṃ paripūrayan || 1.101 ||
+niḥkleśo'rhañjagannāthāḥ sambuddhapadamāpsyasi |
+iti tenārhatādiṣṭaṃ niśamya sa nṛpo mudā || 1.102 ||
+upaguptaṃ guruṃ natvā papracchaivaṃ samādarāt |
+bhadanta śrotumichāmi svayambhūtpatti satkathām || 1.103 ||
+kadā svayaṃ samutpannaṃ statsamādeṣṭumarhati |
+iti saṃprārthitaṃ rājñā śrutvā so'rhan yatiḥ surdhīḥ || 1.104 ||
+aśokaṃ taṃ mahīpālaṃ sampaśyannevamādiśat |
+sādhu rājan yathādiṣṭaṃ guruṇā me śrutaṃ mayā || 1.105 ||
+tathāhaṃ saṃpravakṣāmi śṛṇuṣva tatsamāhitaḥ |
+tadā cāsau jagacchāstā śākyamunistathāgataḥ || 1.106 ||
+sarvajño dharmarājo'rhanmunīśvaro vināyakaḥ |
+sa sarvaḥ sāṃdhikaiḥ sārddhaṃ janapadeṣu saṃcaran || 1.107 ||
+ekasmin samaye tatra nepāle samupācarat |
+gopucchaparvvatapārśve paścime śrīsvayambhūvaḥ || 1.108 ||
+pucchāgro'bhidha caityasyasaṃnnidhau sugatāśrame |
+sarvasattvahitārthena pūrṇanduriva bhāsayan || 1.109 ||
+saddharmma samupārdeṣṭuṃ vijahāra sasāṃdhikaḥ |
+yadā sa bhagavāñchāstān sattvānāṃ dharmma vṛddhaye || 1.110 ||
+saddharmma samupādeṣṭuṃ sabhāsane samāśrayat |
+taṃ dṛṣṭvā tadā tatra mañjuśriyaḥ mamāśrame || 1.111 ||
+vihāre vāsinī cūḍābhidhānī brahmacāriṇī |
+arhantī bhikṣuṇī bhadrā saddharmmaguṇavāñchinī || 1.112 ||
+suprasannāśrayā śuddhā kāṣāya cīvarāvṛtā |
+divyapūjopacārāṇi samādāya pramoditā || 1.113 ||
+tatsaddharmāmṛtaṃ pātuṃ tatrāśu samupācarat |
+tadā tatra mahāsattvā bodhisattvā jinātmajāḥ || 1.114 ||
+maitreyapramukhāḥ sarve taddharma śrotumāgatāḥ |
+arhanto bhikṣavaścāpi śrāvakā brahmacāriṇaḥ || 1.115 ||
+bhikṣuṇyo brahmacāriṇyaḥ cailakā vratino'pi ca |
+triratnaśaraṇāsīnāścopāsakā upāsikāḥ || 1.116 ||
+bauddhabhaktiratāḥ sarve taddharmaśrotumāgatāḥ |
+sarve te samupāyātāstatra sabhāsanāśritam || 1.117 ||
+saṃbuddhaṃ taṃ samālokya muditāḥ samupācaran |
+te sarve'bhyarcya taṃ nāthaṃ natvā sāñjalayormudā || 1.118 ||
+tatsaddharmāmṛta pātuṃ tatsabhāyāṃ samāśrayan |
+brahmaśakrādayā devāḥ sarve lokādhipā api || 1.119 ||
+grahāstārāgaṇāścāpi siddhā vidyādharā api |
+sādhyā rudrāśca gandharvā yakṣaguhyakakinnarāḥ || 1.120 ||
+daityendrā rākṣasendrāca nāgendrā garuḍā api |
+evamanyepi lokendrāḥ sarve tatra mudāgatāḥ || 1.121 ||
+taṃ munīndraṃ samabhyarcya natvā tatra samāśrayan |
+hāritī yakṣiṇī cāpi bodhisattvānupālinī || 1.122 ||
+sā bhavantaṃ tamānasya tatsabhāyāṃ samāśrita |
+atha sa bhagavānañchāstā dṛṣṭvā sarvān samāśritān || 1.123 ||
+maitreyaṃ samupāmantrya sampaśyannevamādiśat |
+maitreyemaṃ jagannāthaṃ svayambhūvaṃ jinālayam || 1.124 ||
+dharmadhātuṃ triratnāyaṃ paśyadhvaṃ yūyamādarāt |
+bhajadhvaṃ śraddhayā nityaṃ gatvātra śaraṇaṃ mudā || 1.125 ||
+bodhicaryāvrataṃ dhṛtvā saṃcarante jagaddhite |
+śraddhayā ye bhajantyatra śaraṇaṃ samupāśritāḥ || 1.126 ||
+bodhicaryāvrataṃ dhṛtvā saṃcarante jagaddhite |
+sarve vimuktapāpāste pariśuddha trimaṇḍalāḥ || 1.127 ||
+bodhisattvā mahābhijñāḥ bhaveyuḥ sadguṇāśrayāḥ |
+bhadraśrīsukhasampannaścaturbrahmavihārikāḥ || 1.128 ||
+sarvasattva hitodyuktāḥ saṃbodhivratacāriṇaḥ |
+na kvāpi durgatiṃyāyuḥ sadā sadgatisaṃbhavāḥ || 1.129 ||
+triratnabhajanotsāhāḥ saddharmmasādhanodyamāḥ |
+tataḥ pravrajyā saṃbuddhaśāsane śaraṇaṃ gatāḥ || 1.130 ||
+brahmacaryāṃ vrataṃ dhṛtvā saṃcareran samāhitāḥ |
+tataste nirmalātmāno niḥkleśāḥ vijitendriyāḥ || 1.131 ||
+trividhāṃ bodhimāsādha sambuddhapadmāpnuyuḥ |
+evaṃ vijñāya ye martyā vāñchanti saugataṃ padam || 1.132 ||
+te bhajantu sadātraiva śraddhayā śaraṇāśritāḥ |
+ityādiṣṭaṃ munīndreṇa niśamya te sabhāśritāḥ || 1.133 ||
+sarve lokāḥ pramodantastathā bhajitumīcchīre |
+maitreyaḥ sa tato dhīmān bodhisattva hi moditaḥ || 1.134 ||
+samutthāya munīndrasya purataḥ samupācaran |
+udvahannuktarāsaṃgaṃ praṇatvā taṃ munīśvaram || 1.135 ||
+jānubhyāṃ bhuvi saṃghāya sāñjaliretamavravīta |
+bhagavānnāthaḥ sarvajña dharmadhātujinālayaḥ || 1.136 ||
+kadāyaṃ svayaṃmutpanna stansamādeṣṭumarhati |
+iti saṃprārthite tena maitreyeṇa mahātmanā || 1.137 ||
+bhagavantaṃ mahāvijñaṃ saṃpaśyannevamādiśata |
+sādhu śṛṇu samādhāya maitreyo'sya svayambhūvaḥ || 1.138 ||
+samutpattikathāṃ vakṣe sarvalokābhibodhane |
+purāsmin bhadrakalpe'bhūdvipaśvī nāma sarvavit || 1.139 ||
+jagachāstā munīndro'rhan dharmmarājastathāgataḥ |
+aśīti varṣa sāhasra paramāyūṃṣi yadā nṛṇām || 1.140 ||
+tadāhaṃ satya dharmmākhyā bodhisattvābhavaṃtkila |
+yadā sa bhagavāñchāstā vandhumatyāḥ puro'ntike || 1.141 ||
+vihāre dharmmamādiśca vijahāra sasāṃdhikaḥ |
+tadāhaṃ taṃ jagannāthamārādhya samupasthitaḥ || 1.142 ||
+tadātrā bhūtsaptakośa vyāyāmavistaro hradaḥ |
+tadanuśāsanāṃ dhṛtvā prācaraṃ bodhi samvaram || 1.143 ||
+aṣṭāṃga guṇa sampannaḥ jalāśrayo nagāvṛtaḥ |
+padmotpalādi saugandhi nānā puṣpa praśobhitaḥ || 1.144 ||
+haṃsa sārasa kāḍamba pramukha pakṣimaṇḍitaḥ |
+tīropāntanagāruha sarvarttu puṣpitairdrumaiḥ || 1.145 ||
+phalauṣadhādi bṛkṣaiśca samantātparimaṇḍitaḥ |
+mīnakacchapamaṇḍūkapramukha jalavāsinām || 1.146 ||
+jantūnāṃ nilayo'gādhaḥ sarvanāgādhipālayaḥ |
+tatra sarvāhirājendraḥ karkkoṭakābhidho mahān || 1.147 ||
+evaṃ tadā mahā tīrthaḥ puṇyāmṛtāśrayo vabhau |
+sadā tratridaśāḥ saddharmapsarobhiḥ pramoditāḥ || 1.148 ||
+snātvā saṃkrīḍamānāḥ satsaukhyaṃ bhuktvā divaṃ yayuḥ |
+tathā brahmādayaḥ sarve maharṣayastapaśvinaḥ || 1.149 ||
+snāna saṃdhyādikaṃ karmma kṛtvā saṃsevire sadā |
+evaṃ lokādhipāścāpi snātvātra sarvadā mudā || 1.150 ||
+svasva kule samabhyarcya mahotsāhairnisevire |
+evaṃmanyepi lokāśca vratino brahmacāriṇaḥ || 1.151 ||
+snātvātra saṃvaraṃ dhṛtvāḥ pūtātmāno divaṃ yayuḥ |
+bodhisattvā tathānaike snānadānavrataṃ mudā || 1.152 ||
+kṛtvātra vimalātmānaḥ samācārañjagaddhite |
+evaṃ sarve munīndraiśca snāna vratādi bījaṃphalam || 1.153 ||
+mahatpuṇyataraṃ śreṣṭhamākhyātaṃ bodhisādhanam |
+yatra snātvā triratnānāṃ śaraṇe samupāśritāḥ || 1.154 ||
+bodhicaryā vrataṃ dhṛtvā prācaranta jagaddhite |
+te āśu vimalātmāno bhadraśrīsatguṇānvitāḥ || 1.155 ||
+bodhisattvāḥ mahāsattvā vabhūvuḥ sugatātmajāḥ |
+kecinniḥ kleśitātmāno bhavasaṃcāre nispṛhāḥ || 1.156 ||
+śrāvakabodhisattvamāsādya babhūvu brahmacāriṇaḥ |
+kecicca nirmalātmāno saṃsāre viratāśrayāḥ || 1.157 ||
+pratyekabodhimāsādya sunirvṛtiṃ samāyayuḥ |
+kecitsaṃbodhicittaṃ ca prāpya saddharmalālasāḥ || 1.158 ||
+bodhicaryāvrataṃ dhṛtvā samācarañjagaddhite |
+kecitsarve bhuktvā divyakāmasukhānyapi || 1.159 ||
+saddharmaguṇasaṃraktāḥ prācaran sarvadā śubhe |
+kecitsarve mahīpālāḥ sunīti dharmacāriṇaḥ || 1.160 ||
+kṛtvā sattvahitārthāni yayurante jinālayam |
+ahamapi tadā tatra snātvācaraṃ vrataṃ sadā || 1.171 ||
+etatpuṇyaviśuddhātmā drutaṃ sambodhimāptavān |
+yaiścāpyasya jalaṃ pītaṃ te'pi nirmuktapātakāḥ || 1.162 ||
+pariśuddhāśayā bhadrā babhūvu bodhibhāginaḥ |
+evamasau mahātīrthaḥ sarvairapi munīśvaraiḥ || 1.163 ||
+samadhiṣṭhāpito'dyāpi praśaṃsito mahītale |
+tatra paścātsvayaṃ dharmadhāturutpatsyate dhruvam || 1.164 ||
+ityādiśya munīndrau'sau bhūyā erevaṃ samādiśat |
+tadā tatra samupanne dharmadhātau jinālaye || 1.165 ||
+nirutpātaṃ śubhotsāhaṃ pravartiṣyati sarvadā |
+sarve lokāśca taṃ dṛṣṭvā dharmadhātuṃ svayambhūvam || 1.166 ||
+śraddhayā śaraṇaṃ gatvā prabhajiṣyanti sarvadā |
+tadetatpuṇyaliptāste sarve lokāḥ śubhendriyāḥ || 1.167 ||
+bhadraśrī satsukhaṃ bhuktvā yāsyantyante jinālayam |
+ityādiṣṭaṃ munīndreṇa vipaśvinā niśamyate || 1.168 ||
+sarve sabhāśritā lokāḥ prābhyanandan pravodhitāḥ |
+iti vipaśvinā śāstā samādiṣṭaṃ śrutaṃ mayā || 1.169 ||
+tathā yuṣmatprodhārtha samākhyātaṃ pravuddhyatām |
+ityādiṣṭaṃ munīndreṇa śrīghanena niśamyate || 1.170 ||
+maitreyādi samālokāḥ sarve'pi saṃprasedire |
+iti svayambhūdharmadhātu samutpatti nidānakathā prathamo'dhyāyaḥ samāptaḥ |
+dvitīya adhyāya pūjāphalavarṇano nāma
+atha dhīmānmahāsattvo maitreyaḥ sa jinātmajaḥ |
+bhagavantaṃ punarnatvā sāñjalirevamabravīt || 2.1 ||
+bhagavacchrotumicchāmi svayambhūtpatti satkathām |
+tadbhavānsamupākhyātuṃ lokānāṃ saṃpravodhane || 2.2 ||
+iti saṃprārthitaṃ tena maitreyeṇa sudhīmatā |
+bhagavānstān sabhālokān sampaśyannevamādiśat || 2.3 ||
+sādhu maitreya sarve'pi sabhālokāḥ samādarāt |
+śṛṇudhvaṃ saṃpravakṣāmi svayambhūtpattisatkathām || 2.4 ||
+tadyathā nirvṛtiṃ yāte vipaśvini munīśvare |
+cirakālāntareṇātra jagacchāstābhavatpunaḥ || 2.5 ||
+śikhi nāma munīndro'rhan dharmarājastathāgataḥ |
+sarvajñaḥ sugataḥ sarvavidyādhipo vināyakaḥ || 2.6 ||
+tadā saptativarṣāṇāṃ sahasrāryunṛṇāmabhūt |
+ahaṃ kṣemaṃkaro nāma bodhisattvo bhavaṃ kila || 2.7 ||
+yadā sa bhagavāñchāstā śikhidharmādhipo jinaḥ |
+aruṇākhyapuropānte vyaharatsaugatāśrame || 2.8 ||
+tadā sarve mahāsattvā bodhisattvā jinātmajāḥ |
+śikhinastasya śāstuḥ saṃprābhajan samupasthitāḥ |
+ahamapi tathā tasya śikhinastrijagadguroḥ || 2.9 ||
+śaraṇe samupasthāya prābhajaṃ sarvadā mudā |
+tatraika samaye so'rhan bhagavān sarvavicchikhī || 2.10 ||
+saddharma samupādeṣṭuṃ sabhāsane samāśrayet |
+tadvīkṣya bhikṣavaḥ sarve śrāvakā brahmacāriṇaḥ || 2.11 ||
+bhikṣuṇyo vratinaḥ sarve upāsakā upāsikāḥ |
+tatsaddharmāmṛtaṃ pātuṃ samupāgatya taṃ munim || 2.12 ||
+natvā sāñjalayastatra parivṛtya samāśrayet |
+tadā brahmāmarendrādi tridaśāḥ sarve āgatāḥ || 2.13 ||
+sarve lokādhipāścāpi dharma śrotuṃ samāgatāḥ |
+siddhā vidyādharā sādhyā yakṣagandharvakinnarāḥ || 2.14 ||
+garuḍā rākṣasendrāśca daityā nāgādhipā api |
+ṛṣayo brāhmaṇāścāpi tīrthikāścāpi tapasvinaḥ || 2.15 ||
+yatayo yoginaścāpi nirgranthāśca digambarāḥ |
+rājāno kṣatriyā vaiśyā amātyā mantriṇo janāḥ || 2.16 ||
+śilpino vaṇijaḥ sārthavāhādayo mahājanāḥ |
+paurā jānapadā grāmyāstathānyadeśavāsinaḥ || 2.17 ||
+tatsaddharmāmṛtaṃ pātuṃ saṃharṣitāḥ samāgatāḥ |
+tatra te samupāgatya samīkṣya taṃ munīśvaram || 2.18 ||
+yathākramaṃ samabhyarcya kṛtvā cāpi pradakṣiṇām |
+kṛtvāñjali puṭo natvā parivṛtya samantataḥ || 2.19 ||
+puraskṛtya samudvīkṣya samādarādupāśrayan |
+tān sarvān samupāsīnāṃ dṛṣṭvā sa bhagavāñchikhī || 2.20 ||
+ādimadhyāntakalyāṇaṃ saddharma samupādiśat |
+tatsaddharmāmṛtaṃ pītvā sarve lokāḥ pravodhitāḥ || 2.21 ||
+saddharmasādhanodyuktā vabhūvu bodhibhāginaḥ |
+tasminneva samaye tatra puṇyajalāśraye hrade || 2.22 ||
+maṇinālaṃ mahaddīptihīrakeśaramuttama |
+pañcaratnamayaṃ divyasarojarājakarṇṇikam || 2.23 ||
+prādurbhūtaṃ mahāpadmaṃ sahasradalakāśitam |
+tasya ratnasarojasya karṇṇikāmadhyamaṇḍale || 2.24 ||
+svayambhūtsamutpanno dharmmadhāturjinālayaḥ |
+ekahastapramāṇāṃśuḥ śubhraratnamayojjvalaḥ || 2.25 ||
+sambodhiśrīguṇādhāraḥ sarvalakṣaṇamaṇḍitaḥ |
+jyotirūpo jagajjeṣṭha pañcatathāgatāśrayaḥ || 2.26 ||
+jagadīśo jagatvandyo jagatpūjyo jagatprabhuḥ |
+anādinidhano'jīrṇṇo mānyaḥ sarvaśubhārthabhṛt || 2.27 ||
+samantabhadrarūpo'graḥ śreṣṭhaḥ saddharmaratnabhṛt |
+trailokyasadguṇādhīśaścaturvarggaphalapradaḥ || 2.28 ||
+tasmiṃścaitye samutpanne sāvdhinagā rasācalat || 2.29 ||
+divyasugandhipuṣpāṇi saṃnipetuḥ surālayāt |
+suradundubhayo neduḥ diśaḥ sarvāḥ prasedire || 2.30 ||
+vahnayo dakṣiṇāvarttā bhadrābhāḥ saṃprajahvalaḥ |
+suśītalāḥ sugandhyādyā dhīraṃ vavuḥ samīraṇāḥ || 2.31 ||
+vavarṣuḥ surasāmbūni meghā gambhīranisvanāḥ |
+graha tārenducandrābhāḥ sabhāsitā virejire || 2.32 ||
+stutimaṅgalasaṃgītiśabdā vyomni pracerire |
+sarvatrāpi sumāṅgalyamahotsāhaṃ nirantaram || 2.33 ||
+subhikṣaṃ śrīguṇorbhāvaṃ saddharma bhadrasādhanam |
+nirutpātaṃ śubhācāraṃ prāvarttata samantataḥ || 2.34 ||
+tamevaṃ svayambhūtpannaṃ dharmmadhātuṃ jinālayam |
+samīkṣyeśādayaḥ sarve ārupya bhuvanāśritāḥ || 2.35 ||
+yogadhyāna mahānanda saukhye'pi viratotsavāḥ |
+svayambhuvaṃ tamīśānaṃ vandituṃ samupācaran || 2.36 ||
+tathā brahmādayaḥ sarve munayo brahmacāriṇaḥ |
+evaṃ svayambhuvaṃ draṣṭuṃ muditā samupācaran || 2.37 ||
+evaṃ śakrādayaḥ sarve tridaśāḥ sāpsaro gaṇāḥ |
+pūjāṅgāni samādāya draṣṭumenaṃ mudā yayuḥ || 2.38 ||
+tathāgnidharmarājo'pi naiṛto varuṇo marut |
+śrīdo bhūtādhipaścaivaṃ sarve lokādhipā api || 2.39 ||
+svasvaparijanaiḥ sārddha mahotsāhaiḥ pramoditāḥ |
+evaṃ svayambhuvaṃ caityaṃ saṃdraṣṭuṃ samupāyayuḥ || 2.40 ||
+dhṛtarāṣṭro mahārājo gandharvaiḥ saha moditaḥ |
+saṃgītivādanotsāhaiḥ sahainaṃ draṣṭumāyayuḥ || 2.41 ||
+viruḍhako mahārājaḥ kumbhāṇḍasahitā mudā |
+svayambhuvaṃ tamālokya mudā vanditumāyayuḥ || 2.42 ||
+virupākṣo'pi nāgendraiḥ sarvai nāgādhipaiḥ saha |
+ratnapūjopahārāṇi dhṛtvainaṃ draṣṭumāyayuḥ || 2.43 ||
+kuvero yakṣarājo'pi yakṣaṇībhiḥ samanvitaḥ |
+nānādravyopahārāṇi dhṛtvainaṃ draṣṭumāyayuḥ || 2.44 ||
+vajrapāṇiśca guhyendrasarvaguhyakasaṃyutaḥ |
+divyabhogyāpahārāṇi dhṛtvainaṃ draṣṭumāyayuḥ || 2.45 ||
+drumaḥ kinnararājo'pi sarvaiḥ saha hyānanaiḥ |
+tūryasaṃghoṣaṇotsāhaiḥ sahinaṃ draṣṭumāyayuḥ || 2.46 ||
+tathā sarvārthasiddhākhyaḥ sarvavidyādharādhipaḥ |
+divyapūjopahārāṇi dhṛtvainaṃ draṣṭumāyayuḥ || 2.47 ||
+garuḍaḥ pakṣirājo'pi sarvaiḥ pakṣigaṇaiḥ saha |
+svasvarddhiśrīmahotsāhairenaṃ saṃdraṣṭumāyayuḥ || 2.48 ||
+evaṃ siddhāśca sādhyāśca vasavaśca grahā api |
+sarvāstārāganāścāpi sarvāścāpyapsarogaṇāḥ || 2.49 ||
+evaṃ daityādhipāḥ sarve svasvaparijanaiḥ saha |
+mahāsamṛddhiprātsāhaiḥ sahasā samupācaran || 2.50 ||
+evaṃ lokādhipāḥ sarve daśadikṣu vyavasthitāḥ |
+dṛṣṭvā taṃ svayambhūtpannaṃ vandituṃ sahasācaran || 2.51 ||
+sarve'pi te samāgatya dṛṣṭvā taṃ jagadīśvaram |
+saṃharṣitāśayā dūrātpraṇatvā samupācaran || 2.52 ||
+tataste jagannātha sarve'bhyarcya yathākramam |
+aṣṭāṃgaiḥ praṇatiṃ kṛtvā prābhajanta samādarāt || 2.53 ||
+keciddavyasugandhaistaṃ prābhilipyābhajanmudā |
+kecinnānāvidhaiḥ puṣpaiḥ keciddhūpairmanoharaiḥ || 2.54 ||
+kecicca puṣpamālābhiḥ kecicca divyacīvaraiḥ |
+kecicca dīpamālābhiḥ kecidāratidīpanaiḥ || 2.55 ||
+keciddivyāmṛtaiḥ bhogyaiḥ keciddivyauṣadhairapi |
+kecinnānāvidhairdivyaratnālaṃkārābhūṣaṇaiḥ || 2.56 ||
+kecicchatradhvajaivalivyajanaiśca vitānakaiḥ |
+kecitsaṃgītisaṃvādyairmṛdaṅgamurajādibhiḥ || 2.57 ||
+kecittauryatrikai vaṃśaiḥ śaṃkhaiḥ śṛgaiśca kecana |
+kāhāraiśca tathā kecitvīṇādītatavādanaiḥ || 2.58 ||
+tālādighanavādyaiśca bheryānakamardalaiḥ |
+tathā nānāvidhairmaḍḍurḍiṇḍimajharjharādibhiḥ || 2.59 ||
+kecitnṛtyaiśca gītaiśca hāhākāraiśca kecana |
+evaṃ nānāvidhotsāhaiḥ prābhajanstaṃ jinālayam || 2.60 ||
+kecitpradakṣiṇānyeva kṛtvā bhajan sahasraśaḥ |
+kecicca dhāraṇīvidyājapastotrādibhirmudā || 2.61 ||
+evaṃ nānāprakāraiste sarve lokā dvijādayaḥ |
+śraddhayā samupāśritya prābhajanstaṃ svayambhuvam || 2.62 ||
+etaddivyamahotsāhaiḥ saṃpravṛttiṃ prasāritām |
+śrutvā sarve sabhālokā vismayaṃ samupāyayuḥ || 2.63 ||
+tatsamīkṣya mahāsattvā ratnapāṇiḥ purogataḥ |
+śikhinaṃ taṃ muniṃ natvā sāñjalirevamabravīt || 2.64 ||
+bhagavan yatmahī sarvā kampitā divyamutsavam |
+prasāritaṃ ca kasyedaṃ hetu tatsamupādiśa || 2.65 ||
+iti saṃprārthitaṃ tena sudhiyā ratnapāṇinā |
+sa śikhi bhagavān paśyan ratnapāṇiṃ tamabravīt || 2.66 ||
+sādhu śṛṇu mahāsattva yatsarvā calitā mahī |
+divyotsāhaiḥ pravṛttaṃ ca taddhetuṃ saṃnigadyate || 2.67 ||
+tadyathātrāsti bhūloka uttarasyāṃ himālaye |
+aṣṭāṅgaguṇasampannapuṇyajalāśrayo hradaḥ || 2.68 ||
+tatra ratnamaye padme sarojarājakarṇṇike |
+svayameva samutpanno dharmadhātujinālayaḥ || 2.69 ||
+tadutpanne mahī sarvā racitā saṃpramoditāḥ |
+sarvatrāpi śubhotsāhaṃ prāvrarttate bhavālaya || 2.70 ||
+taṃ samīkṣya maheśānabrahmāśakrādayo'marāḥ |
+grahāstārāśca siddhāśca sādhyā vidyādharā api || 2.71 ||
+maharṣaśca sarve'pi savismayapramoditāḥ |
+sarve lokādhipāścāpi daityā nāgāḥ khageśvarāḥ || 2.72 ||
+yakṣakinnaragandharvvaguhyakarākṣasā apiḥ |
+etatprabhṛtayaḥ sarve samīkṣya taṃ svayaṃbhuvam || 2.73 ||
+saṃharṣitāḥ samāgatya prabhajante mahotsavaiḥ |
+etatpūjāmahotsāhasaṃpravṛttiḥ prasārita || 2.74 ||
+etasyedaṃ mahadbhanimittaṃ saṃprajāyate |
+ityādiṣṭaṃ munīndreṇa śikhinā saṃnisaṃmya saḥ || 2.75 ||
+ratnapāṇimahāsattvāḥ savismayapramoditaḥ |
+suprabuddhamukhāmbhojā mahāsaṃharṣitāśayaḥ || 2.76 ||
+bhūyastaṃ śikhinaṃ natvā sāñjalirevabravīt |
+bhagavan taddhijānīyādyanmano me samīcchate || 2.77 ||
+tadanujñāṃ pradatvātra saṃprasādayatumarhati ||
+ahamapi jagacchāstaḥ svayambhuvaṃ tamīśvaram || 2.78 ||
+śraddhayā samupāśritya prabhajāmi mahotsavaiḥ ||
+iti saṃprārthite tena śrutvā sa bhagavāñchikhi || 2.79 ||
+ratnapāṇiṃ mahāsattvaṃ saṃpaśyannevamādiśat ||
+kulaputra prayāhi tvaṃ yadyāśu bodhimicchasi || 2.80 ||
+śraddhayā samupāśritya prabhaja taṃ jinālayam |
+ye tatra samupāśritya bhajeyuḥ śraddhayā mudā || 2.81 ||
+teāśu prāpya saṃbodhiṃ sambuddhapadamāpnuyuḥ |
+ityādiṣṭaṃ munīndreṇa ratnapāṇi niśamya saḥ || 2.82 ||
+sāñjalistaṃ muniṃ natvā muditaḥ prācarattataḥ |
+tatastena sahāneke bodhisattvā jinātmajāḥ || 2.83 ||
+śrāvakā bhikṣavaścāpi bhikṣuṇyaścāpyupāsikāḥ |
+upāsakā bhaktimanto vratinaḥ puṇyalālasāḥ || 2.84 ||
+ṛṣayo brāhmaṇāścāpi yatayo yogino'pi ca |
+tīrthikāstāpasāścāpi nirgranthā brahmacāriṇaḥ || 2.85 ||
+rājānaḥ kṣatriyā vaiśyā amātyā mantriṇo janāḥ |
+śilpino vaṇijaḥ sārthavāhāścāpi mahājanāḥ || 2.86 ||
+paurā jānapadā grāmyastathānyadeśavāsinaḥ |
+evamanyepi lokāśca saddharmaguṇavāñchinaḥ || 2.87 ||
+sarve tatra mahotsāhaistena sārddha mudā carat |
+evaṃ sa ratnapāṇistaiḥ sarvaiḥ lokai samanvitaḥ || 2.88 ||
+pūjāṅgāni samādāya mahotsāhai mudācarat |
+evaṃ sa pravarañchrīmān sarvāṃllokān vinodayan || 2.89 ||
+sahasā tatra prāgatya dadarśemaṃ jinālayam |
+dṛṣṭvainaṃ sa mahāsattvaḥ muditaḥ samupāsaran || 2.90 ||
+yathāvidhi samabhyarcya praṇatvā prābhajanmudā |
+evaṃ sarve'pi te lokāḥ sahāyāstasyamaharṣayaḥ || 2.91 ||
+yathāvidhi samabhyarcya mahotsāhai mudābhajan |
+evaṃ te sakalā lokā stutvā japtvā ca dhāraṇī || 2.92 ||
+pradakṣiṇāni kṛtvoṣṭa praṇatvā prābhajanmudāḥ |
+evamanye mahāsattvā bodhisattvā jinātmajāḥ || 2.93 ||
+daśadigbhyaḥ samāgatya prābhajannimamīśvaram |
+ahamapi tadā tena sahetya ratnapāṇinā || 2.94 ||
+śraddhayā samupāśritya prābhajanimamīśvaram |
+etatpuṇyānubhāvena bodhiṃ prāpya kalāvapi || 2.95 ||
+jitvā māragaṇān sarvān dharmādhipo bhavāmyaham ||
+ye yesya samupāśritya bhajeyuḥ śraddhayā mudā || 2.96 ||
+te te sarve'pi saṃbodhiṃ prāpya syuḥ sugatā drutam ||
+evaṃ mahattaraṃ puṇyasya sevāsamudbhavam || 2.97 ||
+bhadraśrīsadguṇāpannaṃ sambodhijñānasādhanam |
+iti sarvai munīndraiśca samākhyātaṃ samantataḥ || 2.98 ||
+yūyamapi parijñāya bhajatāsya samādarāt |
+munīndrā api sarve'sya catuḥsandhyaṃ divāniśam || 2.99 ||
+dṛṣṭvā dhyātvā smṛtiṃ dhṛtvā prābhajantaṃ samādarāt |
+bhajanti sāmprataṃ sarve buddhāḥ sarve digāśritāḥ || 2.100 ||
+anāgatāśca sarve'pi bhajiṣyanti tathā sadā |
+asya darśanamātreṇa praduṣṭā api pāpinaḥ || 2.101 ||
+nirmukta pātakā hyāśu bhaveyu nirmalendriyāḥ |
+tataste nirmalātmāno niḥkleśo brahmacāriṇaḥ || 2.102 ||
+durgati naiva gaccheyuḥ kutrāpi hi kadācana ||
+saṅgatāveva saṃjātā bhadraśrīsadguṇāśrayāḥ || 2.103 ||
+bodhisattvā mahāsattvā bhaveyuḥ sugatātmajāḥ |
+tataste bodhisambhāraṃ pūrayitvā yathākramam || 2.104 ||
+trividhāṃ bodhimāsādya nirvṛtiṃ padamāpnuyuḥ |
+iti natvā sadāpyasya kṛtvā darśanamādarāt || 2.105 ||
+anumodyābhyanusmṛtvā dhyātvānubhāvya sarvadā |
+nāmāpi ca samuccārya śraddhayā bodhivāchibhiḥ || 2.106 ||
+yathāśakti prakarttavyā bhaktisevā sadādarāt |
+ityādiṣṭaṃ munīndreṇa śrīghanena niśamyate || 2.107 ||
+maitreyapramukhāḥ sarve sabhālokāḥ prabodhitāḥ |
+tathetyabhyanumodanto dharmmadhāto svayambhuvaḥ || 2.108 ||
+śraddhayā samupāśritya saṃbhajituṃ samīcchire |
+atha sarvve sabhālokā dharmmadhātoḥ svayambhuvaḥ || 2.109 ||
+pūjāphalaviśeṣāṇi saṃśrotuṃ punarīcchireḥ |
+tanmatvā sa mahāsattvo maitreyaḥ sugatātmaja || 2.110 ||
+bhagavantaṃ munīndrantaṃ prārthayadevamānataḥ |
+bhagavannasya pūjāyā viśeṣaphalavistaram || 2.111 ||
+sarvve ime sabhālokāḥ śrotumicchanti sāmpratam |
+tadbhagavān samupādiśya pūjāphalaviśeṣatām || 2.112 ||
+imāṃ sarvān sabhāsīnāṃ saṃbodhayitumarhati |
+iti saṃprārthitaṃ tena maitreyeṇa niśamya saḥ || 2.113 ||
+bhagavānstān sabhālokān sampaśyanaivamādiśat |
+śṛṇudhvaṃ sakalā lokā asya pūjāphalaṃ mahat || 2.114 ||
+viśeṣeṇa pravakṣyāmi sarve lokābhibodhane |
+pañcāmṛtaiḥ sahāmbhobhiḥ saṃśobhitasunirmmalaiḥ || 2.115 ||
+ye mudā snāpayantimaṃ dharmmadhātuṃ jinālayam |
+mandākinyāṃ sadā snātvā te viśuddhatrimaṇḍalāḥ || 2.116 ||
+divyasukhāni bhuṃjāno prānte yāni jinālayam |
+saurabhya dravyasaṃyukti yatra caityai svayambhuvi || 2.117 ||
+modayanto jagaccittaṃ dhūpayanti mudā sadāḥ |
+te sugaṃdhitasaumyāṅgā mānyā devā surairapi || 2.118 ||
+śrīmantaḥ susvasaṃpannā bhavanti ratnasannibhāḥ |
+pañcagandhairmudā yatra dharmmadhāto jinālaye || 2.119 ||
+liptārādhya samāśritya prabhajanti sadādarāt |
+saptaratnasametāste bhadraśrīsadguṇāśrayāḥ || 2.120 ||
+sarvve lokā hitodyuktā bhavanti kṣitipādhipāḥ |
+ye cātra munirājendrā vicitra cīvarāmbaraiḥ || 2.121 ||
+pravārya śraddhayā bhaktyā saṃbhajante samādarāt ||
+te divyadṛṣya kauśeya ratnābharaṇabhūṣitāḥ || 2.122 ||
+sujñā dharmādhipāḥ santo bhavanti bhadracāriṇaḥ |
+ye caimaṃ kusumaiḥ sarvvai jalajai sthalajairapi || 2.123 ||
+arccayitvā samāśritya saṃbhajante pramoditāḥ |
+mahīndraśrīsamṛddhāste śakrādhikaprabhānvitāḥ || 2.124 ||
+bhadraśrīsukhasaṃpannā bhavanti bodhibhāginaḥ |
+yacainaṃ puṣpamālābhi racitābhirmanoharaiḥ || 2.125 ||
+sarvvapuṣpaiḥ pralambābhiḥ śobhayitvā bhajanti ca |
+bhavanti śrīsamṛddhāste dharmmakāmāḥ suradhipāḥ || 2.126 ||
+satkīrttirguṇasaṃraktāḥ śubhagā bodhicāriṇaḥ |
+ye ca puṣpāṇi sarvāṇi mudātra sugatālaye || 2.127 ||
+avakīrya samārādhya bhajanti śaraṇāśritāḥ |
+te'pi devādhipā svarge gatā mahyāṃ nṛpādhipāḥ || 2.128 ||
+mahacchrīguṇasampannā bhavanti bodhibhāginaḥ |
+dhṛtasugandhitailādisaṃpradīptāṃ tamopahām || 2.129 ||
+jvālayanti mudā ye'smiṃ dharmmadhātau jinālaye |
+suduṣṭayaḥ surupāste jñānadīpatamopahāḥ || 2.130 ||
+bhūpārcitapadāmbhojā bhavanti bodhibhāginaḥ |
+praṇītaṃ surasaṃbhojyaṃ valbhagandhasamanvitam || 2.131 ||
+ye cāsminnupaḍhaukitvā prabhajanti samādarāt |
+ṛddhimanto nṛpeṃdrāste saptaratnasamanvitā || 2.132 ||
+svargge devādhipāścāpi bhavanti bodhibhāginaḥ |
+ye cāsmiṃ surasaṃpānaṃ suvarṇṇagandhasaṃyutam || 2.133 ||
+upaḍhaukya samārādhya prabhajante samāhitāḥ |
+te valiṣṭhā mahīpendrāḥ śrīsamṛddhā nirogiṇaḥ || 2.134 ||
+svarge gatāśca devendrā bhavanti bodhibhāginaḥ |
+ye cāsmiṃ skandamūlāni bījapatraphalāni ca || 2.135 ||
+śraddhayā samupasthāpya saṃbhajante samāśritāḥ |
+te prabhuktvā yathākāmaṃ bhogyāni vividhānyapi || 2.136 ||
+saddharmmasādhanā raktāḥ saṃyāntyante jinālayam |
+ye cāsmiṃ sugatādhāre pathyauṣadhagaṇānyapi || 2.137 ||
+samarpya śraddhayā nityaṃ prasevyante samādarāt |
+te valiṣṭhā supuṣṭāṅgāḥ saumyendriyā nirāmayāḥ || 2.138 ||
+rājyaśrīsukhamābhujya saṃyātyante sukhāvatī |
+ye cāpyatra jinādhāre dharmmadhātau svayambhuvi || 2.139 ||
+vitatyoccai vitānaṃ ca sasevyante samādarāt ||
+dhanyāste guṇino vaṃdyāḥ śuddhavaṃśā vicakṣaṇāḥ || 2.140 ||
+sarvvārthasiddhisampannāḥ prayāntyante jinālayam |
+ye cāsmin sugatāvāse vicitrānucchritāndhvajān || 2.141 ||
+avaropya mahotsāhaiḥ saṃbhajante'bhinanditā |
+śrīsadguṇasukhadhārā bhūtvā bhūpādhipā bhuvi || 2.142 ||
+svarge devādhipāścānte saṃprayānti jinālayam |
+sauvarṇṇaratnapuṣpādi chatrāṇi vividhāni ye || 2.143 ||
+āropyatra mahotsāhaiḥ saṃbhajante pramoditāḥ |
+te narendrāḥ surendrāśca chatropamāḥ sadā bhave || 2.144 ||
+mahatsukhāni bhuktvānte saṃprayānti jinālayam |
+ye cāsmiṃ sugatāvāse patākāḥ pañcaraṅgikāḥ || 2.145 ||
+samāvalaṃvayitvāpi saṃbhadrante mahotsavaiḥ |
+te bhūtvātra mahīpālāḥ sadā devādhipā api || 2.146 ||
+bhadraśrīsatsukhaṃ bhuktvā saṃyātyante jinālayam |
+ye cāsmin vividhairvādyaiḥ saṃgītimurujādibhiḥ || 2.147 ||
+tauryai vaṃśādibhiścāpi saṃsevyante mahotsavaiḥ |
+te manojñasvanādivyaśrīśrīśrīsadguṇāśrayāḥ || 2.148 ||
+saddharmmasādhanaṃ kṛtvā vrajanti sugatālayam |
+salājākṣatapuṣpāṇi ye cāsmiṃ sugatālaye || 2.149 ||
+prakṣipya śraddhayā bhaktyā saṃbhajante samādarāt |
+durgatinte na gacchanti saṃjātāḥ saṅgatau sadā || 2.150 ||
+sarvasattvahitaṃ kṛtvā saṃprayānti jinālayam |
+sadhātudravyaratnādi dakṣiṇānyatra ye mudā || 2.151 ||
+śraddhayā pariḍhaukitvā saṃbhajante sadādaram |
+divyaśrīsukhabhuṃjānā bhadraśrī sadguṇāśrayāḥ || 2.152 ||
+sarvasattvahitaṃ kṛtvā saṃprayānti jinālaye |
+ye cāpi stutibhistathyairenaṃ buddhālayaṃ mudā || 2.153 ||
+padyairgadyamayaiścāpi stutvā bhajanti sādaram |
+bahuratnasamṛddhāste sarvvavidyāvicakṣaṇāḥ || 2.154 ||
+bhūpāḥ svargādhipāścāpi bhūtvānte yānti saugatam |
+śraddhayainaṃ jagannāthaṃ samāśrayaṃ svayambhūvam || 2.155 ||
+natvāṣṭāṃgaiḥ prasannā ye saṃbhajante samādaram |
+saptaratnasametāste nṛpādhipā mahardhikāḥ || 2.156 ||
+saddharmmasādhanāraktā bhavanti bodhicāriṇaḥ |
+ye cainaṃ caityarājendramanekaśaḥ pradakṣiṇām || 2.157 ||
+kṛtvā dhyātvāpyanusmṛtvā nāmoccārya bhajantyapi |
+jātismarāścirāyuṣkā matimantaḥ suvarṇṇinaḥ || 2.158 ||
+vandyāḥ pūjyāśca mānyāste bhaveyurbodhicāriṇaḥ |
+śuddhāśca bhasmasaṃkṣālaiḥ samālipya samantataḥ || 2.159 ||
+samabhyarcyamahotsāhai ye bhajantyenamīśvaram |
+śokakleśāgnisaṃtāpavivarjitāścirāyuṣaḥ || 2.160 ||
+nīrogāḥ sukhino devā bhaveyu bhūmipāśca te |
+ye ca nirmālyamākṛṣya śodhayitvātra sarvataḥ || 2.161 ||
+śramupāśritya sevyante sambuddhabhaktimānasāḥ |
+nirmuktikleśaśokāste darśanīyāḥ śubhendriyāḥ || 2.162 ||
+śrīmantaḥ puṇḍarīkāsyā bhaveyurbodhicāriṇaḥ |
+jīrṇe śīrṇe vibhagne'smin pratisaṃskṛtya ye mudā || 2.163 ||
+pratiṣṭhāpya mahotsāhaiḥ saṃbhajante samādarāt |
+sarvasampatsamṛddhāste puṣṭendriyā nirāmayāḥ || 2.164 ||
+dharmakāmāḥ śubhācārā bhaveyurbodhicāriṇaḥ |
+jalpitvā yasya mantrāṇi dhāraṇīśca samāhitāḥ || 2.165 ||
+dhyātvā smṛtvā samuccārya nāmāpi prabhajanti ca |
+te'pi sarve mahāsattvāḥ pariśuddhatrimaṇḍalāḥ || 2.166 ||
+bhadraśrīsadguṇādhārā bhaveyurbodhicāriṇaḥ |
+evaṃ mahattaraṃ puṇyamasmiṃ dharmmādhipālaye || 2.167 ||
+śraddhābhajanasaṃbhūtamityādiṣṭaṃ munīśvaraiḥ |
+mayaitatpuṇyasaṃkṣiptamātraṃ tu kathyate'dhunā || 2.168 ||
+samagraṃ vistarenātra samākhyātuṃ na śakyate |
+evaṃ matvāsya satkārapūjāphalaṃ mahattaram || 2.169 ||
+śraddhayā śaraṇaṃ gatvā kartavyaṃ bhajanaṃ sadā |
+yepyasmiṃñcharaṇaṃ gatvā śraddhayā samupāśritāḥ || 2.170 ||
+suprasannāśayā bhaktyā bhajanti bodhimānasāḥ |
+na te gacchanti kutrāpi durgatiṃ ca kadācana || 2.171 ||
+saṃjātāḥ sadgatiṣveva bhaveyurbodhicāriṇaḥ |
+sadā te sukule jātā bodhisattvā vicakṣaṇāḥ || 2.172 ||
+sarvasattva hitā dhānaṃ careyurvratamābhavam |
+tataste bodhisaṃbhāraṃ pūrayitvā yathākramam || 2.173 ||
+trividhāṃ bodhimāsādya nirvṛtipadamāpnuyuḥ |
+na hicitta prasādaspa svalpābhavati dakṣiṇā || 2.174 ||
+tathāgateṣu saddharmma saṃbuddha śrāvakeṣvapi ||
+evaṃ hyacintyāḥ saṃbuddhāḥ buddha dharmāśca nirmalāḥ || 2.175 ||
+acintyohi prasannānāṃ vipākaśca mahāphala |
+evaṃ matvā triratneṣu bhaktipūjā phalaṃ mahat || 2.176 ||
+kāryābhaktiṣu sadātraiva dharmmadhātau jinālaye |
+ityādiṣṭaṃ munīndrena śrutvā sarve samāśritāḥ || 2.177 ||
+lokāstatheti vijñapya prātyananda pravodhitāḥ |
+iti me guruṇādiṣṭaṃ śrutamayā tathocyate || 2.178 ||
+tvamapyevaṃ sadā rājan bhaja tatra jinālaye |
+tatpuṇyena te bhadraṃ nirutpātaṃ sadābhavet || 2.179 ||
+bodhicitta rasaṃ ca saṃprāpya bodhisattvo bhaverapi |
+tataḥ sambodhi saṃbhāraṃ pūrayitvā tathākramam || 2.180 ||
+mārānnirjjitya saṃbodhi prāpya buddhapadaṃ labheḥ |
+iti śāstārhatā diṣṭaṃ samyakanarādhipaḥ || 2.181 ||
+aśokaḥ sasabhālokaḥ prābhyanandaṃ prabodhitaḥ |
+iti śrī svayambhūtpatti kathāyā śrī svayambhū bhaṭṭārakoddeśa pūjāvarṇanā nāma dvītīyo'dhyāya samāpta |
+tṛtīya adhyāya mahāhradaśoṣaṇadharmadhātupadmagiri sampratiṣṭhāpanno nāma
+athāśoko mahīpālaḥ sāñjaliḥpura āśritaḥ |
+tamarhantaṃ yatiṃ natvā prārthayedevamādarāt || 3.1 ||
+bhadanta śrotumicchāmi tadbhūmi satkathām |
+tatsamyaksamupādiśya saṃbodhayituṃ no bhavān || 3.2 ||
+iti saṃprārthite rājñā so'rhanyatirmahāmatiḥ |
+upagupto narendraṃ taṃ sampaśyannevamādiśat || 3.3 ||
+sādhu śṛṇu mahārāja yathā me guruṇoditam |
+tathāhaṃ te pravakṣyāmi sarvalokābhivodhane || 3.4 ||
+tadyathātha mahāsattvo maitreyaḥ sa jinātmajaḥ |
+bhagavantaṃ punarnatvā sāṃjalirevamabravīt || 3.5 ||
+bhagavannāvāsosaumahā jalāśrayo hradaḥ |
+kadā bhūmi pradeśo'tra kathaṃ jalāśrayo bhavet || 3.6 ||
+kasya ca samaye deśāgrāmādayaḥ pravarttitāḥ |
+tatsarvaṃ samupādiśyansarvānasmānpravodhayan || 3.7 ||
+iti saṃprārthite tena maitreyena saḥ sarvavit |
+bhagavānstaṃ mahāsattvaṃ sampaśyannaivamādiśat || 3.8 ||
+sādhu śṛṇu mahāsattvaṃ yadatrābhūtmahītale |
+tatpravṛttiṃ samākhyāmi sarvalokābhibodhane || 3.9 ||
+tadyathā bhūvilokānāṃ varṣa ṣaṣṭī sahasrakā |
+purābhūtbhagavāñchāstā viśvabhūrnnāmasarvavit || 3.10 ||
+dharmarājo munīndro'rhastathāgato vināyakaḥ |
+sarva vidyādhipastāpī saṃbuddha sugato jinaḥ || 3.11 ||
+so'nupamānāma pūryāmupakaṇṭhe jināśrame |
+sarvasattva hitārthena vijahāra sasāṃdhikaḥ || 3.12 ||
+maitreyo'haṃ tadā bhūvaṃ viśvabhū upāsakaḥ |
+parvatākhyo mahāsattvo bodhisattvo hitārthabhṛt || 3.13 ||
+tatra sa bhagavāñchāstā saṃbhāsayaṃ sudhāśuvata |
+saddharmma samupādeṣṭuṃ sabhāsane sabhāśrayat || 3.14 ||
+taṃ dṛṣṭā bhikṣavo sarve śrāvakāḥ brahmacāriṇaḥ |
+pratyeka sugatāścāpi bodhisattvāścacailakāḥ || 3.15 ||
+bhikṣuṇyā brahmacāriṇyoyatayo'yogino pica |
+triratna bhajanāraktā upāsaka upāsikāḥ || 3.16 ||
+evaṃ manyepi lokāśca saddharmma guṇalālasāḥ |
+bhadraśrī sabhāṇāraktā saṃbuddha darśaṇotsukā || 3.17 ||
+tatsudharmmāmṛtaṃ pātuṃ samatyena munīśvaram |
+yathākramaṃ samabhyarcya natvā sāñjalāya mudā || 3.18 ||
+parivṛtya puraskṛtya samudvikṣya samādarāt |
+tatsabhāyāṃ samāśritya saṃniṣedu samāhitāḥ || 3.19 ||
+evaṃ brahmādayaḥ sarve ṛṣayo brahmacāriṇaḥ |
+tīrthikā api sarve tatsaddharmaṃ śrotumāgatāḥ || 3.20 ||
+śakrādayoyidāvāśca sarvalokādhipā api |
+grahāstārāgaṇāḥ siddhāḥ sādhyā vidyādharā api || 3.21 ||
+sarve'pi te sasāgatya bhagavantaṃ yathākramam |
+samabhyarcya praṇatvā tata sabhāyāṃ samupāśrayat || 3.22 ||
+evaṃ ca brāhmaṇā vijñā rājāna kṣatriyā api |
+vaiśyāśca mantriṇo'mātyā gṛhasthāśca mahājanāḥ || 3.23 ||
+śilpino vaṇijaścāpi sārthavāhāśca paurikāḥ |
+grāmyā jānapadāścāpi tathā nye deśavāsinaḥ || 3.24 ||
+sarve te samupāgatya bhagavanta yathākramam |
+samabhyarcya praṇatvā ca kṛtvā pradakṣiṇānyapi || 3.25 ||
+guru kṛtya puraskṛtya parivṛtya samantataḥ |
+tatsadharmmāmṛtaṃ pātumupatasthuḥ samāhitāḥ || 3.26 ||
+tāndṛṣṭvā samupāsīnān viśvabhūrbhagavāṃjinaḥ |
+ādi madhyānta kalyāṇaṃ saddharma samupādiśat || 3.27 ||
+tatsaddharmmāmṛtaṃ pītvā sarve lokāḥ sabhāśritāḥ |
+dharmmaviśeṣamājñāya prāpyananda pravodhitāḥ || 3.28 ||
+tasminkṣaṇe mahī sarvā ca cāraddhi saparvatāḥ |
+suprasannā diśaḥ sarvā rejuravīndra vahnyaḥ || 3.29 ||
+suradundubhayo nendurnipetuḥ puṣpavṛṣṭayaḥ |
+nirutpātaṃ mahotsāhaṃ prāvarttata samantataḥ || 3.30 ||
+tadvilokya sabhālokāḥ sarve te vismayānvitāḥ |
+śrotuṃ taddhetu sarvajñamudvīkṣya tasthurāditāḥ || 3.31 ||
+tadā gaganagañjākhyo bodhisattvaḥ samutthitaḥ |
+uddhahannuttarāsaṃga purataḥ samupāśrita || 3.32 ||
+sarvajñaṃ taṃ mahābhijñaṃ dharmmarājaṃ vināyakam |
+viśvabhuvaṃ muninnatvā sāṃjalirevamabravīt || 3.33 ||
+bhagavantadranaimityaṃ kasyedaṃ jāyate'dhunā |
+tadbhavānsamupādiśya saṃbodhayatu no guroḥ || 3.34 ||
+iti saṃprārthite tena bhagavānsa munīśvaraḥ |
+gaganagaṃjamālokya taṃ sabhācaivamabravīt || 3.35 ||
+kulaputra mahadbhadra nimittamidamācarat |
+tadahaṃ sapravakṣāmi śṛṇudhvaṃ yūyamādarāt || 3.36 ||
+tadyathā triguṇābhijñā mañjuśrīḥ sugatātmajaḥ |
+uttarasyāṃ mahācīne viharati nagāśrame || 3.37 ||
+tasya bhāryā ubhejyeṣṭākeśinī śrīvarapradā |
+vidyā sadguṇa saṃbhartrī dvitīyāḥ copakeśinī || 3.38 ||
+ekasmin samaye tatra maṃjuśrīḥ sadguṇodadhiḥ |
+lokaṃ saṃdarśana nāma samādhiṃ vidadhe mudā || 3.39 ||
+dhyāna dṛṣṭā dadarśātra mahāhradasaroruhe |
+ratnamayaṃ samutpannaṃ dharmmadhātuṃ jinālayam || 3.40 ||
+svayaṃbhuvaṃ tamālokya maṃjudevaṃ susanmatiḥ |
+saṃharṣitaḥ purnadhyātvā manasaivaṃ vyacintayet || 3.41 ||
+aho svayaṃ samudbhūto dharmmadhātu jinālayaḥ |
+nirjane jalamaye jyotirūpaḥ saṃbhāṣayan sthitaḥ || 3.42 ||
+tattathāhaṃ kariṣyāmi gatvā tatra mahāhrade |
+śoṣayitvā tadambhānsi yathā pṛthvītalo'bhavat || 3.43 ||
+tadā tatra mahībhūtre nirjale supratiṣṭhite |
+śiloccaye pratiṣṭhāpya bhajiṣyāmi tamīśvaram || 3.44 ||
+tathā tatra mahībhūte grāmādi vasatirbhaveta |
+tadā sarve'pi lokāśyaḥ bhajeyustaṃ jinālayam || 3.45 ||
+tathā tatpuṇya bhāvena sarvadā tatra maṃgalam |
+nirutpātaṃ bhavennūnaṃ lokāśca syūḥ subhāvinaḥ || 3.46 ||
+tataste mānavāḥ sarve tasyaiva śaraṇāśritāḥ |
+yathāśakti mahotsāhaiḥ prabhajeyuḥ sadā mudā || 3.47 ||
+tatastatpuṇyaśuddhāste saddharma guṇalālasāḥ |
+bodhisattvā mahāsattvāścareyurbodhisaṃvaram || 3.48 ||
+tataste bodhisaṃbhāraṃ purayitvā yathākramam |
+trividhāṃ vidhimāsādya nivṛtipadamāpnuyuḥ || 3.49 ||
+evaṃ kṛtvā mahatpuṇyaṃ prāpyāhaṃ trijagatsvapi |
+kṛtvā dharmmamayaṃ bodhiprāpya nivṛttipadamāpnuyām || 3.50 ||
+iti dhyātvā viniścitya mañjuśrīḥ sajinātmajaḥ |
+mañjudevābhidhācāryarūpaṃ dhṛtvā maharddhimān || 3.51 ||
+keśinī varadā nāma mokṣadākhyo'pakeśinī |
+bhūtvānekaiḥ mahāsattvaiḥ sahasarve'pinecarat || 3.52 ||
+tataścaran sabhāryāsau mañjudevaḥ sasāṃdhikaḥ |
+sarvatra bhadratāṃ kṛtvā mahotsārhaiḥ samācarat || 3.53 ||
+tatra te samupāgatya dūrataḥ saṃprabhāsvaram |
+mahāhradāvjamadhyasthaṃ dadṛśustaṃ jinālayam || 3.54 ||
+tatra te taṃ samālokya jyotirūpaṃ samujvalam |
+praṇatvā sahasopetyaḥ kṛtvā pradakṣiṇāni ca || 3.55 ||
+tattīre parvate ramye sarve'pi te samāśritāḥ |
+taṃ caityameva saṃvīkṣya nyavasanta pramoditāḥ || 3.56 ||
+tataḥ prātaḥ samutthāya mañjudevaḥ sa ṛddhimān |
+bhaktayā paramayāstauṣijjinālayaṃ svayaṃbhuvam || 3.57 ||
+jyotirūpāya caitanyarūpāya bhavate namaḥ |
+anādi nidhanāya śrīdātre praṇavarūpiṇe || 3.58 ||
+viśvatomukha rūpāya svāhāsvadhārūpiṇe |
+pṛthvyādibhūtanirmātre mahāmahasvarūpiṇe || 3.59 ||
+jagatsraṣṭe jagatpātre jagaddhartre namo namaḥ |
+jagatvaṃdyāya jagatamārādhāya ca te namaḥ || 3.60 ||
+atisthūlāya sūkṣmāya vikārāya vikāriṇe |
+nirākṛtikṛte tubhyaṃ saccidānaṃdamūrttayai || 3.61 ||
+vaṣaṭkāra svarūpāya hutabhuje svayaṃ namaḥ |
+hotre havana rūpāya homadravyāya te namaḥ || 3.62 ||
+bhaktilabhyāya somyāya bhaktavatsalāya te namaḥ |
+dhyānagamyāya dhyeyāya catuvargapradāyine || 3.63 ||
+agraratnāya niḥsīmamahimne sarvadā namaḥ |
+guṇātītāya yogāya yogine ca sadā namaḥ || 3.64 ||
+evaṃ stutvā mañjudevaḥ punaḥ kṣamārthatāṃ vyadhāt |
+prasīda bhagavan yadahaṃ hadaṃ saṃśoṣituṃ yate || 3.65 ||
+ityuktvā candrahāsaṃ sa sajjīkṛtya samaṃ tataḥ |
+tridhā pradakṣiṇīkṛtya samantato vyalokayat || 3.66 ||
+vilokya sa mahāsattvo yāmya diśāvṛtaṃ nagam |
+candrahāsena khaḍgena chitvā jalāśrayaṃ vyadhāt || 3.67 ||
+tacchinnaśailamārgeṇa tajjalāni samantataḥ |
+pranirgatyāśu sarvāṇi gaṃgāsaṃgamamāyayuḥ || 3.68 ||
+tadārabhya nadā nadyo babhūvurbhūtale hradāḥ |
+digvidikṣu malāṃbhobhistaddvīpaiḥ paripūritāḥ || 3.69 ||
+tatra nirudhya ye'mvuni yatra ye śilāḥ sthitāḥ |
+tatra tatra satānsarvāśchitvā svūnica cārayet || 3.70 ||
+evaṃ sa sarvataḥ chitvā kṛtvā tajjalanirgamam |
+trirātreṇāpi na jalāni sarvāṇi niracārayet || 3.71 ||
+tajjalā dhānamekantu hradaṃ dhanādahābhidham |
+karkkoṭakanāgasya samasthāpa yadāśramam || 3.72 ||
+siṃhenopadrutā yadvada gajendrobhaya vihvalāḥ |
+mahārāvai rudanto vai vidravanto diśo daśaḥ || 3.73 ||
+evaṃ tajjalasaṃghātaścandrahāsāsichedanāt |
+mārgāntarānniragamata paṃkaśeṣaṃ yathābhavat || 3.74 ||
+tajjalādhānamekentu hradaṃ dharādrahābhidham |
+karkkotakasya nāgasya samasthāpayadāśrayam || 3.75 ||
+tatastasmin jale śuṣkeyadādhārasaroruham |
+tadeva parvatābhūya dharmadhātorvyavasthitaḥ || 3.76 ||
+mañjudevānubhāvena sa sarvaparvatoktamaḥ |
+abhedyā vajravaktena vajrakūṭa iti smṛtaḥ || 3.77 ||
+tadāsau bhūtaloramyaḥ samantato nagāvṛtaḥ |
+upachandoha ityākhyā himāla yo'picocyate || 3.78 ||
+sudurjayā svarūpābhūḥ prajñā jñānānubhāvinī |
+herukamaṇḍalākārā bhūtvā samavatiṣṭhate || 3.79 ||
+tatrāpi ca pradhānā śrī mahādevī khagānanā |
+dharmmodayā samuhutā saṃtiṣṭhate jagaddhite || 3.80 ||
+taṃ dṛṣṭvā sa mahācaryā mañjudevo maharddhimāna |
+bodhisattvo mahāsattvaḥ pratyatyānandito'bhavat || 3.81 ||
+tataḥ sa tāṃ mahādevī samālokya pramoditaḥ |
+urasā śirasā dṛṣṭayā vacasā manasā tathā || 3.82 ||
+padbhyāṃ karābhyāṃ jānubhyāmaṣṭāṃgo'pi iti smṛtaḥ |
+aṣṭāṃgai praṇītā kṛtvā sāṃjaliḥ samupāśrayan || 3.83 ||
+suprasanna mukhāmbhojaḥ suprabuddho śayāmbujaḥ |
+saṃpaśyastāṃ mahādevīṃ stotrairevaṃ mudābhajam || 3.84 ||
+bhagavati mahādevī bhavatyāḥ śaraṇaṃ vraje |
+vande pādāmvuje nityaṃ bhajāmi tanprasīdatu || 3.85 ||
+jananī sarvabuddhānāṃ tvameva bodhidāyinī |
+sarveṣāṃ bodhisattvānāṃ mātāhitānupālinī || 3.86 ||
+sarvahitārtha saṃbhakti sarvapāpaviśodhanī |
+duṣṭa māragaṇākṣobha mahānanda sukhapradā || 3.87 ||
+saddharmmasādhanotsāhavalavīrya guṇapradā |
+niḥkleśastimitedhyāna samādhi sukhadāyinī || 3.88 ||
+prajñāguṇa mahāratna śrī samṛddhi pradāyinī |
+tadbhaktyāḥ padāmbhoja śaraṇastho bhajāmyaham || 3.89 ||
+iti saṃprārthya sa prājño mañjudeva sa samvarī |
+tasyā bhaktī prasannātmā samārādhitumaicchat || 3.90 ||
+atha tatra sa ācāryaḥ sagaṇaḥ saṃpramoditaḥ |
+mārga śīrṣaiśitaiḥ pakṣai navamyāṃ ravivāsare || 3.91 ||
+prātaḥ snātvā viśuddhātmā śucivastrāvṛtaḥ sudhīḥ |
+poṣadhasamvaraṃ dhṛtvā devīmārādhayaṃ sthitaḥ || 3.92 ||
+rātrau jāgaraṇaṃ kṛtvā dhāraṇī mantrajalpanaiḥ |
+stutibhiśca samārādhyaṃ prābhajatāṃ jineśvarīm || 3.93 ||
+tataḥ prātaḥ daśamyāṃ sa snātvā gandhodakairmudā |
+datvā dānaṃ yathākāmaṃ pariśuddhatrimaṇḍalaḥ || 3.94 ||
+yathāvidhisamabhyarcya tāṃ devīṃ parameśvarīm |
+mahotsāhaiḥ stutiṃ kṛtvā tridhā pradakṣiṇāni ca || 3.95 ||
+suprasanna mukhāmbhojaḥ saddharmaguṇamānasaḥ |
+bhūyo'ṣṭāṃgaiḥ praṇatvaivaṃ prārthayātsāṃjalimudrā || 3.96 ||
+prasīdatu jaganmātarbhavatyāḥ samupāśritaḥ |
+saṃbodhi sādhanotsau bhajāmi sarvadā mudām || 3.97 ||
+iti saṃprārthya saṃprājñau natvāṣṭāṃgairmudā ca tām |
+tatpadmāmṛtamādāya tridhyamañjulinā pivet || 3.98 ||
+tadamṛtaṃ nipīyāsau saṃviśuddhatrimaṇḍalam |
+aṣṭākṣaṇavinirmuktaḥ saṃbuddhakṣaṇamāpnuvān || 3.99 ||
+evaṃ kṛtvā sa ācārya devyā bhaktiparāyaṇaḥ |
+saṃbuddhakṣaṇamāsādya sarva dharmmādhipo'bhavat || 3.100 ||
+tataḥ śrīmān sa ācāryo bodhisattva jagaddhite |
+sa saṃghānyavasattatra dharmadhātaurūpāśramaiḥ || 3.101 ||
+tatsamabhyaṣitatvātsaṃpradeśaḥ śrī manoharaḥ |
+syātsarvatrāpi mañjuśrīparvata iti viśrutaḥ || 3.102 ||
+tatra śritaḥ sadāpyaspa dharmmadhātorūpāsakaḥ |
+sarvasattva hitārthena prābhajansa jinātmajaḥ || 3.103 ||
+tatsamīkṣāmalā sarvebrahmendrapramukhāapi |
+sarvelokādhipāścāpi mudā tatra samāgatāḥ || 3.104 ||
+tatraivo poṣaḍhaṃ dhṛtvā kṛtvā jāgaraṇaṃ niśi |
+uṣitvā dhāraṇī mantraḥ dhyātvā tāṃ śrī jineśvarīm || 3.105 ||
+yathāvidhi samabhyarcya kṛtvā pradakṣiṇāni ca |
+kṛtvāṣṭāṃga praṇāmāni stutibhiścā bhajaṃ mudā || 3.106 ||
+evaṃ tasyāmahādevyāḥ sarve tai śaraṇāśritāḥ |
+dharmaśrīguṇasaṃpatti maharddhisiddhimāpnuvan || 3.107 ||
+tataste cāmarāḥ sarve sendra brahmādayādhipāḥ |
+vajrakūṭaṃ nagāvjaṃ taṃ samīkṣyante jinālayam || 3.108 ||
+anumodyābhinandante stasyāpi śaraṇe gatāḥ |
+mahotsāhaiḥ samabhyarcya prabhajanta samādaram || 3.109 ||
+tataḥ sarve'marāstaica sarvailokādhipāśca te |
+asyāpi mañjuedevasya vajrācāryasya sadguroḥ || 3.110 ||
+śaraṇe samupāsṛtya divya pūjopahārakaiḥ |
+samabhyarcya mahotsāhaiḥ prābhajanta pramoditāḥ || 3.111 ||
+evaṃ manvādayaḥ sarve manuyopiyaḥmaharṣayaḥ |
+yatayoginaścāpi bhikṣavo brahmacāriṇaḥ || 3.112 ||
+cailakā bodhisattvāśca mahāsattvā jinātmajāḥ |
+te sarve samupāgatya tasyā devyā upāsakāḥ || 3.113 ||
+yathāvidhi samabhyarcya prābhajanta pramoditāḥ |
+tataste dharmmadhātauśca sarve'pi śaraṇāśritāḥ || 3.114 ||
+samabhyarcya mahotsāhaiḥ natvā kṛtvā pradakṣiṇām |
+suprasanna mukhāmbhojānta pramoditanaḥ || 3.115 ||
+tataste ca mahāsattva mañjudevaṃ mahaddhiṃkim |
+ācārya samutsāhaiḥ samarcayaṃ pramoditāḥ || 3.116 ||
+pratyeka sugatāścāpi sarve tatra samāgatāḥ |
+tāṃ devī dharmmadhātuṃ tamācāryaṃ ca samārcayam || 3.117 ||
+sarve tathāgatāścāpi pūjāmeghasarjanaiḥ |
+tāṃ devīṃ dharmadhātuṃ tamācāryaṃ ca samācaryam || 3.118 ||
+evaṃmanyepi lokāśca praduṣṭvā samupāgatāḥ |
+tāṃ devīṃ dharmadhātuṃ ca tamācāryaṃ ca prābhajan || 3.119 ||
+etatpuṇyānubhāvena calitā sāvdhinagā mahī |
+puṣpavṛṣṭiḥ śubhotsāhaṃ pravarttate samantataḥ || 3.120 ||
+ityādiṣṭa munīndreṇa viśvabhūvā niśamyate |
+sarve samāśritā lokā vismayaṃ samupāyayuḥ || 3.121 ||
+tataḥ sarve'pi te lokāstāṃ devīṃ śrīmaheśvarī |
+dharmmadhātutamācāryaṃ draṣṭumabhiva vāñchire || 3.122 ||
+tadāśayaṃ parijñāyaḥ gagaṇagañja utthitaḥ |
+bhagavantantamānaspaśyannevamavravīt || 3.123 ||
+bhagavan sarvamicchanti draṣṭuṃ tāṃ sugeśvarīm |
+dharmmadhātuṃ tamācāryaṃ tadanujñāṃ dadātu naḥ || 3.124 ||
+iti saṃprārthitaṃ tena bhagavānsa munīśvaraḥ |
+gagaṇagañjamātmajña taṃ paśyannevamādiśat || 3.125 ||
+sādhu sādhyāmahādevīṃ khagānanājineśvarīm |
+dharmadhātuṃ tamācāryamapirdaṣṭuṃ yadīcchatha || 3.126 ||
+tatra himālaye gatvā tāṃ śrī devīṃ khagānanām |
+dharmadhātuṃ tamācāryaṃ saṃbhajadhvaṃ yathā vidhi || 3.127 ||
+ityādiṣṭaṃ munīndreṇa viśvabhuvā niśamyate |
+sarve lokā mahotsāhai ratrāyayuḥ pramoditāḥ || 3.128 ||
+ahamapi munīndrasya prāpyānujñāṃ pramoditaḥ |
+taiḥsārddhaṃ prasthitau dūrātpaśyannimaṃmāyayau || 3.129 ||
+atra prāpno'haṃ samālokya dharmmadhātunnimaṃ mudā |
+samabhyarcya mahotsāhaistai lokaiḥ prābhajaṃ saha || 3.130 ||
+śraddhayā śaraṇaṃ gatvā kṛtvā cainaṃ pradakṣiṇām |
+stutvāṣṭāṃgaiḥ praṇatvā ca prārthayaṃ bodhisamvaram || 3.131 ||
+tato'haṃ mañjudevākhyaṃ tamācārya samīkṣya ca |
+samabhyarcya mahotsāhaiḥ prābhajadhvaṃ sahānujaiḥ || 3.132 ||
+tatastasyopadeśa tāṃ śrīdevīṃ khagānanām |
+yathāvidhi samārādhya mahotsāhaiḥ samarcayam || 3.133 ||
+kṛtvā pradakṣiṇāṃ cāpi natvāṣṭāṅgaiḥ pramoditaḥ |
+stutvā dhyātvā ca saṃbodhiṃ saṃprārthaya jagaddhite || 3.134 ||
+etatpuṇyānubhāvena pariśuddha trimaṇḍalāḥ |
+aṣṭākṣaṇa vinirmukto bodhisattvo bhavaṃ kṛtī || 3.135 ||
+tataḥ sambodhisaṃbhāraṃ pūrayitvā yathākramam |
+jitvā māragaṇānarhan kalāvapi jinobhave || 3.136 ||
+evamasyā mahādevyāḥ ye ye śaraṇa āśritāḥ |
+yathāvidhi samārādhya bhajeyu bodhimānasāḥ || 3.137 ||
+te te sarve mahāsattvāḥ pariśuddha trimaṇḍalāḥ |
+bodhisattvā mahābhijñā bhaveyu striguṇādhipāḥ || 3.138 ||
+kutrāpi te nagacchetdurggatiñca kadācana |
+sadāsaṅgatisaṃjāta bhaveyuḥ śrī guṇāśrayāḥ || 3.139 ||
+yathābhivācchitaṃ dravyaṃ datvārthibhyo samādarāt |
+yathākāmaṃ sukhaṃ bhuktvā sañcarerañjagaddhite || 3.140 ||
+tato viśuddhaśīlāste caturbrahma vihāriṇaḥ |
+bodhisattvasamvaramādhāya saṃcareran sadā śubhe || 3.141 ||
+tataste syu rmahāsattvāḥ saddharmma sukhalālasāḥ |
+svaparātmahitādhārakṣāntivratasamāratāḥ || 3.142 ||
+tataste sadguṇādhārā vīryavanto vicakṣaṇāḥ |
+saddharmma sādhanodyuktā bhaveyu striguṇādhipāḥ || 3.143 ||
+tataste sudhiyo dhīrā niḥkleśā vijitendriyāḥ |
+samādhi guṇasampannā bhaveyubodhiyoginaḥ || 3.144 ||
+tataste vimalātmānaḥ sarvavidyā guṇādhipāḥ |
+prajñāśrī ratna saṃprāpto bhaveyuḥ sugatātmajāḥ || 3.145 ||
+tataśca te sahāsattvāḥ sarve sattvā hitotsukāḥ |
+sarvāpāya vidhi prājñā bhaveyuśtriguṇādhipāḥ || 3.146 ||
+tataste bodhisaṃbhāra praṇidhiratnasāgarāḥ |
+sarvasattvahitaṃ kṛtvā saṃcareraṃ sadāśubhe || 3.147 ||
+tataśca te mahābhijñāḥ bhadraśrī satguṇānvitāḥ |
+valiṣṭhā duṣṭa jetāro bhaveyu stribhaveśvarāḥ || 3.148 ||
+tataste trividhāṃ bodhimāsādya bhadracāriṇaḥ |
+sambodhijñānasadrantasamṛddhāḥ syu rmunīśvarāḥ || 3.149 ||
+tataste sugatāḥ buddhāḥ daśabhūmīśvarājināḥ |
+bodhimārge pratiṣṭhāpya kūryuḥ sarvānsudharmmiṇaḥ || 3.150 ||
+evaṃ dharmamayaṃ kṛtvā sarvatra bhuvaneṣvapi |
+sunivṛrtipadaṃ prāpya saṃprayāyurjinālayam || 3.151 ||
+evamasyā mahādevyā bhajano hūtamuktamam |
+puṇyaṃ mahattaraṃ siddhaṃ sambuddhapadasādhanam || 3.152 ||
+iti satyaṃ samākhyātaṃ sarvai rapi munīśvaraiḥ |
+vijñāyāsyā mahādevyā bhajadhvaṃ śaraṇe sthitā || 3.153 ||
+asyāpi dharma dhātauśca bhajanodbhūtamuktamam |
+puṇyaṃ mahattaraṃ siddhaṃ sambuddhapadasādhanam || 3.154 ||
+asyāpi mañjudevasyaḥ bhajanodbhūtamuktamam |
+puṇyaṃ mahattaraṃ siddhaṃ sambuddhapadasādhanam || 3.155 ||
+matveti yadi vo vāṃcchā vidyate saugate pade |
+sarve yūyaṃ samādhāya bhajatāntra jinālaye || 3.156 ||
+khagānanāsyāyā mahādevyāḥ śaraṇe ca samāśritāḥ |
+dhyātvā smṛtvā samuccārya nāmāpi bhajatābhavam || 3.157 ||
+ya eṣāṃ śaraṇe sthitvā dhyātvā smṛtvā samāhitāḥ |
+nāmāpi samudāhṛtya bhajanti sarvadābhave || 3.158 ||
+te sabhadrā nagacchanti durggatiṃ ca kadācana |
+sadā sadgati saṃjātā bhaveyuḥ śrī guṇāśrayāḥ || 3.159 ||
+bodhisattvā mahāsattvā saddharma bodhi cāriṇaḥ |
+sarvasattva hitodyuktā bhaveyuḥ sugatātmajāḥ || 3.160 ||
+evanteṣāṃ mahatsaukhyaṃ bhadraśrī sadguṇānvitam |
+sarvadāpi nirutpātaṃ pravarktate samāhitaḥ || 3.161 ||
+daivotpātabhayanteṣāṃta vidyate samantataḥ |
+yaktāndṛṣṭvā surāḥ sarve rakṣantīndrādayomudā || 3.162 ||
+agnyutpātaṃbhayaṃ teṣāṃ vidyate na kadācana |
+yattāndṛṣṭvā prasīdanto rakṣeyurvahnayaḥ sadā || 3.163 ||
+akāla maraṇādbhītisteṣānnavidyate kvacit |
+yadyamopi samalokya rakṣati tāṃ prasāditaḥ || 3.164 ||
+rākṣasasyābhayaṃ teṣāṃ vidyate na samantataḥ |
+yadvāyavo'pi tā vījya rakṣeyuḥ sarvadānugāḥ || 3.165 ||
+yakṣasyāpi bhayaṃ teṣāṃ vidyate na sadā kvacit |
+yakṣā samīkṣya rakṣeyuḥ sarve yakṣādhipā api || 3.166 ||
+bhūtebhyo'pi bhayanteṣāṃ vidyate na samantataḥ |
+yadīśānopi tānpaśya saṃrakṣetsaṃpramoditāḥ || 3.167 ||
+gandharvotpati to bhītisteṣānnavidyate kvacit |
+dhṛtarāṣṭo'pi tānpaśyatsaṃrakṣetsaṃ prasāditaḥ || 3.168 ||
+kumbhāṇḍebhyo'pi nāstyevaṃ bhayanteṣāṃ kadācana |
+viruḍhakohitān paśyanabhirakṣan prasādataḥ || 3.169 ||
+nāgebhyo'pi bhayanteṣāṃ vidyate na sadā kvacita |
+virupākṣo hi samyaśyantānrakṣansamprasāditaḥ || 3.170 ||
+yakṣebhyo'pi sadā teṣāṃ vidyate na bhayaṃ kvacita |
+kuvero hi samālokya saṃrakṣastān prasāditaḥ || 3.171 ||
+bhayaṃ na kinnarebhyopi teṣāmasti kadācana |
+drumo hitānmahāsattvā saṃvīkṣavatprasāditaḥ || 3.172 ||
+guhyakebhyopi nāstyeva bhayanteṣāṃ sudharmmaṇām |
+vajrapāṇirhitānvīkṣya prasāditā bhavetsadā || 3.173 ||
+tathā vidyādharebhyo'pi bhayanteṣānna vidyate |
+yataḥ sarvārthasiddho'pi samyaśyanstān vetsadā || 3.174 ||
+grahotpāta bhayanteṣāṃ vidyate na kadācana |
+grahādhipāhi sarve'pi samīkṣya tānavetsadā || 3.175 ||
+tathā tārāgaṇotpātabhayaṃ teṣānnavidyate |
+sarvāstā rāhi tānvīkṣya sarvatrā veyurābhavam || 3.176 ||
+siddhāḥ sādhyāścarudrāśca vīkṣyāveyuḥ sadāpi tān |
+tattebhyopi bhayaṃ kvāpi teṣāṃ nāsti kadācana || 3.177 ||
+tathā ca mātṛkotpātaṃ bhayaṃ nāsti kadācana |
+sarvāhi mātṛkān dṛṣṭvā rakṣeyu stāṃ prasāditāḥ || 3.178 ||
+mahākālo gaṇeśa skandaśca bhairavā api |
+sarvadā tānsamālokya rakṣeyuḥ saṃprasāditāḥ || 3.179 ||
+pretā bhūtāḥ piśāścāśca vetāḍā ḍākinīgaṇāḥ |
+api tānsarvadālokya saṃrakṣeyuḥ prasāditāḥ || 3.180 ||
+tebhyo'pi bhayanteṣāṃ vidyate na kadācana |
+sarve'pi rtesahāyāḥ syu saṃvodhi dharmmasādhane || 3.181 ||
+siṃhādi sarvajantubhyoḥ pakṣibhyo'pi samantataḥ |
+sarpādi kṛmikīṭebhyo bhayanteṣāṃ sadāpi na || 3.182 ||
+duṣṭa pratyarthikebhyo'pi taskarebhyopi sarvataḥ |
+śatrubhyo'pi bhayanteṣāṃ vidyate na samantataḥ || 3.183 ||
+yadetatpuṇyaliptāstāṃ samīkṣya te prasāditāḥ |
+sarve maitrī kṛpā sneha nivaddhāḥ syuhitārthinaḥ || 3.184 ||
+evaṃ sarve'pi satvāstāndṛṣṭvā saṃprasāditāḥ |
+snigdhaciktāprasannāsyāḥ paśyeyu maitrībhāvataḥ || 3.185 ||
+rājāno'pi ca tāndṛṣṭvā maitrī snehasabhāvitāḥ |
+suprasannāśayāḥ prītā mānayeyuḥ sadā mudā || 3.186 ||
+mantrīṇo'pi sadā teṣāṃ maitrīsneha sabhāṣitāḥ |
+mānayeyuḥyathākāmaṃ saddharmma vratasādhanam || 3.187 ||
+brāmhaṇā api sarve ca teṣāṃ saddharmma sādhanam |
+dṛṣṭvānumoditātmāno dadhu bhadrāśivaṃ sadā || 3.188 ||
+ṛṣayo'pi tathā sarve tāṃ dṛṣṭvā saṃprasāditāḥ |
+paśyantaḥ kṛpayā dṛṣṭvā modayeyuḥ subhāśiṣā || 3.189 ||
+evaṃ ca yoginaḥ siddhā yatayo bramhacāriṇaḥ |
+tīrthikāstāpasāścāpi vratinaścāpyupāsakāḥ || 3.190 ||
+cairakā bhikṣavoścāpi bhikṣuṇyaścāpyupāsikāḥ |
+api tāṃ sudṛśālokya nandayeyuḥ śubhāśiṣāḥ || 3.191 ||
+evaṃ ca śrāvakāḥ sarve pratyeka sugatā api |
+bodhisatvāśca sarve'pi tān dṛṣṭvā saṃprasāditāḥ || 3.192 ||
+kṛpayā dṛṣṭavānupaśyanto maitrī snehasubhāvinaḥ |
+rakṣitvā bodhimārgeṣu niyājeyuḥ sadā bhavam || 3.193 ||
+evaṃ sarve'pi saṃbuddhā dṛṣṭvā tāṃ saṃprasāditāḥ |
+sarvadā kṛpayā rakṣyucārayeyurjjagaddhite || 3.194 ||
+evaṃ teṣāṃ mahatpuṇyaṃ sambuddha padasādhanam |
+bhadraśrīguṇasaṃpatti samṛddhi siddhisaṃpradam || 3.195 ||
+evaṃ yūyamapi jñātvā sarvadā śaraṇāśritāḥ |
+yathāśakti samabhyarcya bhajataitāṃstriratnikān || 3.196 ||
+smṛtvā dhyātvāpi nāmāpi samuccārya sadā mudā |
+eṣāmeva triratnānāṃ bhajadhvaṃ śaraṇe sthitā || 3.197 ||
+etatpuṇyaviliptā ye pariśuddhatrimaṇḍalāḥ |
+bhadraśrīguṇasaṃpannā bhaveste śubhāśayā || 3.198 ||
+durgatiṃ te na gaccheyuḥ sadā sadgatisaṃbhavāḥ |
+bodhisatvā mahāsatvā bhaveryubhadracāriṇaḥ || 3.199 ||
+tataste sarvasatvānāṃ hitārtha sādhanodyatāḥ |
+sudhīrā bodhisambhāraṃ pūrayitvā yathākramam || 3.200 ||
+tato māragaṇāñjitvā niḥkleśā vijitendriyāḥ |
+arhanta trividhāṃ bodhiṃprāpya yāyu jinālayam || 3.201 ||
+etsarva mayā khyātaṃ sarvairapi munīśvaraiḥ |
+śrutvānumodanāṃ kṛtvā pracaradhvaṃ sadāśubhe || 3.202 ||
+ityādiṣṭaṃ munīndreṇa niśamyate sabhāśritāḥ |
+sarve tathānumodantaḥ prāpyānandatpravodhitāḥ || 3.203 ||
+iti śrī svayambhūtpattisamuddeśa mahāhrada śoṣaṇa dharmmadhātu padmagirisaṃprasthāpano nāma tṛtīyo'dhyāyaḥ |
+caturtha adhyāyaḥ śrīsvayambhūcaityasamutpattikathā vītarāgatīrtharāṣṭrapravartano nāma
+athāsautha mahāsattva maitreya sugatātmajaḥ |
+bhagavantantamānaṃmya prāhaivaṃ sāñjalimudrā || 4.1 ||
+kadātra bhagavān grāma nagarapaṅaktādayaḥ |
+pravarttitā mahārāṣṭrāḥ tatsamādeṣṭumarhati || 4.2 ||
+iti saṃprārthite tena maitreyena niśasya sa |
+bhagavāntaṃ mahābhijñaṃ samālokyaivamādiśat || 4.3 ||
+sādhu śṛṇu mahāsattva maitreya tvaṃ samāhitaḥ |
+tatkālaṃ saṃpravakṣyāmi yadātra vasatirabhūt || 4.4 ||
+yadāyuṣnṛṇāṃ varṣacatvāriśatsahasrake |
+dharmmarājo jagannāthaḥ krakuchando munīśvaraḥ || 4.5 ||
+sarva vidyādhipaḥ śāstā traidhātuka vināyakaḥ |
+sarvajño'ha mābhijñestathāgato jino'bhavat || 4.6 ||
+ma saṃbuddhā jagallokahitārthena sasāṃdhikaḥ |
+kṣemāvatyā mahāpuryyādupārāme manorame || 4.7 ||
+vihāre saugatāvāse saddharmmasamupādiśat |
+ādimadhyāntakalyāṇaṃ vijahāra prabhāsayan || 4.8 ||
+tadā saṃbodhisattvo'haṃ jyotipālābhidhaḥ sudhīḥ |
+śāstārantaṃ krakucchandaṃ samārādhya sadābhajam || 4.9 ||
+tadā sa bhagavāñchāstā krakucchando jagaddhite |
+janapadeṣu saddharmmaṃ samupādeṣṭumaicchataḥ || 4.10 ||
+tataḥ sa bhagavān śāstā sarvasaṃghaiḥ samanvitaḥ |
+sarvatra bhadratāṃ kṛtvā saṃbhāṣayansamācarat || 4.11 ||
+evaṃ sa sañcarañchāstā sarvatra dharmmamādiśat |
+krameṇehasamātaḥ sandadarśa samantataḥ || 4.12 ||
+dṛṣṭvemaṃ dharmmadhātuṃ saṃprajvalita jinālayam |
+sasaṃgha samupāśritya prābhajadvidhinā mudā || 4.13 ||
+tataḥ sa prasthitotraiva śaṃkhabhidhe śilāccayam |
+mahachuddhaśilāyāṃ ca vijahāra sa sāṃdhikaḥ || 4.14 ||
+tatra taṃtri jagannāthaṃ krakuchando munīśvaram |
+sabhāmadhyāsanāsīnaṃ bhikṣusaṃghaiḥ puraskṛtam || 4.15 ||
+samālokya mahāsattvā jinātmajāḥ |
+tatsaddharmmāmṛtaṃ pātuṃ saṃharṣitāḥ samāgatāḥ || 4.16 ||
+bhikṣuṇyāpi śuśīlādyā ścailakāścāpyupāsakāḥ |
+cailakā vratinaścāpi sarve upāsikā api || 4.17 ||
+bodhisattvā mahāsattvā saddharmma guṇalālasāḥ |
+tatsaddharmmāmṛtaṃ pātuṃ sarve te samupāgatāḥ || 4.18 ||
+bhagavantantaṃ samabhyarcya kṛtvā pradakṣiṇānyapi |
+natvā sāṃjalayastatra paśyantaḥ samupāśrayan || 4.19 ||
+tathā brahmādayaścāpi maharṣayastapasvinaḥ |
+yatayo yoginaścāpi munayo brahmacāriṇaḥ || 4.20 ||
+evaṃ śakrādayo davāḥ sarve lokādhipā api |
+grahāstārāgaṇāḥ siddhāsādhyā vidyādharā api || 4.21 ||
+gandharvā kinnarā yakṣā guhyakā rākṣasā api |
+dānavā garuḍā nāgāstathānyeha samāgatāḥ || 4.22 ||
+bhagavantaṃ sasaṃghantaṃ samabhyarcya pramoditāḥ |
+natvā dharmmāmṛtaṃ pātumupatasthuḥ samāhitāḥ || 4.23 ||
+evaṃ ca brāhmaṇā vijñā rājānaḥ kṣatriyā api |
+vaiśyāśca mantriṇo'mātyāḥ sainyā bhṛtyā janānyapi || 4.24 ||
+gṛhasthe dhaninaḥ śreṣṭhāḥ sādhavaśca mahājanāḥ |
+śilpino vanijaścāpi sārthavāhaśca paurikāḥ || 4.25 ||
+prajā jānapadāśrāmyāḥ kārpaṭikāśca śailikāḥ |
+evaṃmanye'pi lokāścasarvadigbhyaḥ samāgatāḥ || 4.26 ||
+bhagavantantamālokya praṇatvā samupāgatāḥ |
+yathākramaṃ samabhyarcya kṛtvā pradakṣiṇānyapi || 4.27 ||
+kṛtvāṣṭāṃga praṇāmañca kṛtāṃjali puṭo mudā |
+tatsaddharmmāmṛtaṃ pātuṃ tatsabhāyāṃ samantataḥ || 4.28 ||
+parivṛtya puraskṛtya samāśritya samāhitāḥ |
+gurukṛtya munīndrantaṃ samudvīkṣya niṣedire || 4.29 ||
+tataḥ sa bhagavāndṛṣṭvā sarvāstānsamupasthitān |
+āryasatyaṃ samālakṣya saddharmmaṃ samupādiśat || 4.30 ||
+tatsaddharmmāmṛtaṃ pītvā sarve'pi te pravodhitāḥ |
+bodhicaryā vrataṃ dhartuṃ samecchanta prasāditāḥ || 4.31 ||
+tadāśayaṃ parijñāya bhagavān sa munīśvaraḥ |
+bodhisattvātma mārmetyaḥ sampaśyannevamādiśat || 4.32 ||
+kulaputra mudāyepi śraddhayā saugatevṛṣe |
+pravrajituṃ samīcchanti tatra pravrajitādritāḥ || 4.32 ||
+atra ye hyupachando'ha sarva dharmmārthasiddhide |
+pravrajyā śāsane bauddhe caranti bodhisaṃvaram || 4.34 ||
+te sarve pātakā muktāḥ pariśuddha trimaṇḍalāḥ |
+niḥkleśā vimalātmāno bodhisattvā jitendriyāḥ || 4.35 ||
+jitvā māragaṇānduṣṭān hantā brahmacāriṇaḥ |
+trividhāmbodhimāsādya sambuddhapadamāpnuyuḥ || 4.36 ||
+iti matvātra saṃsāre ye vāṃchanti sunirvṛtim |
+tatra pravrajyā sānbauddhaṃ carantu śraddhayā vratam || 4.37 ||
+ityādiṣṭaṃ munīndreṇa niśamya te pravodhitāḥ |
+sabhāsīnā mahāsattvāḥ pravrajintu samīchire || 4.38 ||
+tato guṇadhvajādīnāṃ brāhmaṇānāṃ catuḥśatam |
+tathā bhayaṃ dadānāma kṣatriyāṇāṃśatatrayam || 4.39 ||
+tathāneka mahāsattvā vaiśyāśūdrāśca sajjanāḥ |
+sarve'pi suprasannāste pravrajituṃ samīcchire || 4.40 ||
+tataste sarva utthāya sāñjalayaḥ purāgatāḥ |
+bhagavantaṃ tamānamya prārthayannevamādarāt || 4.41 ||
+bhagavannātha sarvajña dhṛtvājñā bhavatāṃ vayam |
+pravrajyaśāsana bauddhecartumichāmahe vratam || 4.42 ||
+bhagavansta bhavānasmān sarvān paśyan kṛpā dṛśā |
+samanvāgatya saddharmma niyojayitumarhati || 4.43 ||
+iti taiḥ prārthite sarvairbhagavānsa munīśvaraḥ |
+sarvānstān sanmatin paśyan samāmanbhyaivamādiśat || 4.44 ||
+yadyatra saugate dharmma pravrajituṃ samīcchatha |
+etatpravrajya sarvatra caradhvaṃ saugataṃ vratam || 4.45 ||
+ityādiśya sa saṃbuddhaḥ pāṇinā tacchiraḥspṛśan |
+tānsarvānsaugate dharme samanvāharadādarāt || 4.46 ||
+tato'vatārya te keśān rakta cīvara prāvṛtāḥ |
+khikhirī pātramādhāya sarve'pi bhikṣuvo bhavan || 4.47 ||
+tataḥ sa bhagavāntebhyoḥ yatibhyo saṃmyaksaṃbodhipākṣikān |
+saddharmmānsamupādiśya pradadau bodhisamvaram || 4.48 ||
+tataste vimalātmāno niḥkleśā vimalendriyāḥ |
+satkāraṃ lābha niḥkāṃkṣā vītasaṃgā niraṃjanāḥ || 4.49 ||
+svaparātma samācārāḥ saṃsāragatiniḥspṛhāḥ |
+māracaryā nirāsaktāḥ samaloṣṭa suvarṇṇikāḥ || 4.50 ||
+kleśā nirmalātmāno pariśuddha trimaṇḍalāḥ |
+arhanta bhadrakā cārā babhubu brahmacāriṇaḥ || 4.51 ||
+tatassarve'pi te bauddhā yatayo bodhicāriṇaḥ |
+sarvasattva hitaṃ kṛtvā saṃpracāransadāśubhe || 4.52 ||
+tataste ti viśuddhātmāḥ pañcābhijñā maharddhikāḥ |
+vandyāḥ pūjyāḥ sadevānāṃ lokānāṃ guravo bhavan || 4.53 ||
+tasmiṃśca samaye tatra gireḥ śaṃkhasya mūrddhani |
+vajrasattva karāṅguṣṭhānniścacārāmbu nirmmalam || 4.54 ||
+tademānvadbhuti spandaṃ puṇyatīrthamahatsarit |
+yadabhūtsarvalokānāṃ catuvargaphalapradā || 4.55 ||
+bhūyo'pi sādadī tasyaḥ krakuchanda spatāyinaḥ |
+saddharmma deśanā vākyāvabhūvā ti pavitratā || 4.56 ||
+tenāsau sarvatīrthāgrā vāgmatītiprasiddhitā |
+bhadraśrī guṇa saṃbhartrī sarvapāpa viśodhanī || 4.57 ||
+ye tatra vidhinā snātvā pitṛ devāditarpaṇam |
+kṛtvā dānādikaṃ datvā vrataṃ cāpi prakurvate || 4.58 ||
+te saṃghavimalātmāno bhadraśrīsadguṇānvitāḥ |
+yathākāmaṃ sukhaṃ bhutvā saṃprayānti jinālayam || 4.59 ||
+iti matvā sadā tatra snātvā pitrāditarppaṇam |
+dānādi saṃvaraṃ kṛtvā sacarantāṃ jagaddhite || 4.60 ||
+tasyā darśanamātreṇa pītāmvu vimātrake |
+sparśanādapi naśyante sarvāṇi pātakānyapi || 4.61 ||
+prakṣālyāpi ca tatrāsyaṃ gaṃgā snāna phalaṃ labheta |
+śilasiṃ ca mātreṇa śuddhānte indriyāni ṣaṭ || 4.62 ||
+evaṃ mahattaraṃ puṇyaṃ vāgmatī bhajanodbhavam |
+sarve tīrthottamākhyātaṃ te nāsau vāgmatī jinaiḥ || 4.63 ||
+iti matvātra saṃsāre icchanti ye sadāśubham |
+vāgmatī śrī sukhādhārāṃ bhajantu sarvadāpi te || 4.64 ||
+bhūyopyanyā sarijjātā tasyaiva karasaṃbhavā |
+sāpi pavitritā bhūtā krakuchandasya vākyataḥ || 4.65 ||
+tatra pravrajitānāṃ yatśmaśrukeśanakhāni ca |
+kṛtvā bhāgadvayaṃ tatra bhāgamekaṃ pracikṣipuḥ || 4.66 ||
+tadā keśāvatītyāsītprasiddhā sā mahānadī |
+eka bhāgantu tatraiva saṃsthāpitaṃ śilātale || 4.67 ||
+yāvanti śmaśru keśāni tāvantyapi śilātale |
+prādurbhūtāni caityāni tāṃnyadyāpi vasaṃti hi || 4.68 ||
+sāpi nadī mahātīrtha vāgmatī va prasīddhatā |
+teṣāṃ pravrajitānāṃ hi mahatpuṇyānubhāvataḥ || 4.69 ||
+teṣāṃ pravrajitānāṃca bhikṣuṇāṃ brahmacāriṇām |
+tadāpuṇya mahākīrti śabda sarvatra prāsarat || 4.70 ||
+tadanantaramaṣṭau ca vītarāgā nirāśrayāḥ |
+jyotirūpā nirākārāḥ prādurbhūtā jagaddhite || 4.71 ||
+ekaḥ śaṃkhagireḥ pārśve maṇicūḍāśramāntike |
+maṇiliṃga iti khyātaḥ so'dyāpi saṃpratiṣṭhitaḥ || 4.72 ||
+dvitīyo bhucca gokarṇa sthale jyotirṣayākṛtiḥ |
+cārugirau tṛtīyaśca kumbhatīrthe caturthakaḥ || 4.73 ||
+paṃcamaḥ phaṇiśailaśca ṣaṣṭhaśca gartakasthale |
+saptamo gandhavatyāṃ ca aṣṭamo vikramasthale || 4.74 ||
+ete'ṣṭau mahādevāḥ vītarāgā niraṃjanāḥ |
+jyotirūpā nirāṃkārāḥ prādurbhūtā jagaddhite || 4.75 ||
+atraiṣāṃ vītarāgānyanubhāvātsamantataḥ |
+manoramāmahī jātā sarva pīṭhoktamāvanau || 4.76 ||
+tadāyobhū mahāsvo mahāsaṃmata vaṃśajaḥ |
+kṛpākāruṇya bhadrātmā bodhisattvo nṛpo'bhavat || 4.77 ||
+tatra sa nṛpa rājendraḥ krakuchandena tāyinā |
+sahātra draṣṭumāyātaḥ svayaṃbhuvaṃ khagānanām || 4.78 ||
+dūrātsa yenamālokya svayaṃbhuvaṃ jinālayam |
+praṇatvā samupāgatya cakre pradakṣiṇātrayam || 4.79 ||
+tato'bhyarcye mahotsāhaireṇaṃ pañcajinātmakam || 4.80 ||
+aṣṭāṃgaiśca praṇatvā ca prābhajaccharaṇāśritaḥ |
+tatastathā ca rājendro mañjudevaṃ ca saṅgurum || 4.81 ||
+yathāvidhi samabhyarcya prābhajatsaṃpramoditaḥ |
+tatastathā sa rājendraḥ khagānanāṃ jineśvarīm || 4.82 ||
+yathāvidhi samabhyarcya mahotsāhairmudābhajat |
+tato'ṣṭau vītarāgāśca sarvānatā tsvayaṃbhuvaḥ || 4.83 ||
+dṛṣṭvā samudito rājā mahotsāhaistathā bhajat |
+etatpuṇyānubhāvaiḥ sa mahatpuṇyāśayaḥ kṛtī || 4.84 ||
+sarvadharmmādhi rājendraḥ sarvalokādhipo vabhau |
+sarva vidyādhipo rājā bhadraśrī sadguṇāśrayaḥ || 4.85 ||
+tena dharmākaro nāmno prasiddhau'bhūdvirājiteḥ |
+tataḥ so'tra mahārājaḥ saṃsthāstuṃ kāma ātmanā || 4.86 ||
+krakuchandaṃ munīndrantaṃ praṇatvaivaṃ nyavedayat |
+bhagavanyaha vāṃchāstā vijānīyātmamecchitam || 4.87 ||
+tadanujñāṃ padatvāmenugrahaṃ kartumarhati |
+iti saṃprārthite tena bhagavānsa munīśvaraḥ || 4.88 ||
+dharmmākaraṃ narendraṃntaṃ sampaśyannevamādiśat |
+sādhu rājanmahāsattva yadevaṃ tvaṃ samīcchasi || 4.89 ||
+tathātvamiha san sthitvā pālayaṃ bodhayan prajāḥ |
+tathātrasakaralāllokān saṃsthāpya saṃprabodhayan || 4.90 ||
+bodhimārge pratiṣṭhāpya cārayasva sadā śubhe |
+dharmmeṇa pālayan sarvāllokān svayaṃ samācaran || 4.91 ||
+yathākāma sukhaṃ tu prāsacarasva jagaddhite |
+dharmmanītyā samādhāya kṛtvā lokahitaṃ sadā || 4.92 ||
+sādhayanvodhi sambhāraṃ sadeha nivasāśritāḥ |
+sadāsya śaraṇe sthitvā dharmmadhātoḥ svayambhuvaḥ || 4.93 ||
+śraddhayā bhajanaṃ kṛtvā saṃcarasva jagaddhite |
+asyāḥ khagānanāyāśca devyāḥ śaraṇa āśritaḥ || 4.94 ||
+sarvadā bhajanaṃ kṛtvā carasva bodhisaṃvaram |
+asyāpi mañjudevasya sadguroḥ samupāśritaḥ || 4.95 ||
+buddhānuśāsanaṃ dhṛtvā saddharmme saṃcaraṃsva sa |
+eṣāṃ ca vītarāgānāmaṣṭānāmapi sarvadā || 4.96 ||
+śraddhayā bhajanaṃ kṛtvāḥ sādhaya dharmmamuktamam |
+vāgmatī pramukhānāñca tīrthānāṃ samupāśrayena || 4.97 ||
+snāna dānādikaṃ kṛtvā pittṛndevāñca toṣayan |
+labdhā trikāya saṃśuddhiṃ dhṛtvā saṃbodhimānasam || 4.98 ||
+sarvasattvā hitaṃ kṛtvā nivasasva yathāsukham |
+evaṃ rājendra lokāṃśca sarvānapi pravodhayam || 4.99 ||
+eteṣāmapi sarveṣāṃ saṃsthāpya śaraṇe sadā |
+pūjā bhakti mahotsāhaiḥ cārayitvā samādarāt || 4.100 ||
+bodhimārge pratiṣṭhāpya cārayasva sadā śubhe |
+evaṃ kṛtvā mahārāja saṃbodhi nihitāśrayaḥ || 4.101 ||
+bodhicaryāvrataṃ dhṛtvā saṃcarasva jagaddhite |
+etatpuṇyābhiliptātmā bhaviṣyasi jinātmajaḥ || 4.102 ||
+bodhisattva mahābhijñā bhadraśrī sadguṇāśrayaḥ |
+kadācidapi naivatvaṃ durgatau ca kvacitsareḥ || 4.103 ||
+sadāsadgati saṃjātoḥ samṛddhi siddhimānsudhīḥ |
+śrīmānsarvaguṇādhīśaḥ sarvalokādhipaḥ kṛti || 4.104 ||
+krameṇa bodhisaṃbhāraṃ pūrayitvā samāhitam |
+triratna bhajanotsāha mahānandasukhaṃ sadā || 4.105 ||
+bhuṃjānā nirmmalācāraścaturbrahma vihāriṇaḥ |
+niḥkleśo nirjayanmārān sarvānarhantvamāptavān || 4.106 ||
+trividhāṃ bodhimāsādya saṃbuddhapadamāpnuyāḥ |
+lokāḥ sarve'pi caivaṃhi pariśuddhatrimaṇḍalāḥ || 4.107 ||
+bodhisattvā mahāsattvāḥ sadā sadgati saṃbhavāḥ |
+bodhicaryā vrataṃ dhṛtvā saṃcaranto jagaddhite || 4.108 ||
+jitvā māragaṇānsarvāśvaturbrahma vihāriṇaḥ |
+niḥkleśā nirmmalātmānaḥ saṃsāragati niḥspṛhā || 4.109 ||
+arhanta trividhāsambodhiṃ prāpya buddhatvamāpnuyuḥ |
+eṣāṃ ca vītarāgānāmaṣṭānāmapi sāmpratam || 4.110 ||
+pūjāphala viśeṣatvaṃ va kṣyāmi śṛṇu tannṛpaḥ |
+vāgmatisalile yastu snātvā nityaṃ samāhitaḥ || 4.111 ||
+aṣṭāvetānmaheśān vītarāgān sadā bhajet |
+yatatpuṇya viśuddhātmā śrī samṛddhi sukhānvitaḥ || 4.112 ||
+saṃsāre sarvadā saukhyaṃ bhuktvā yāyācchivālayam |
+ghṛtena snāpayetyastu vītarāgān svayaṃbhūvaḥ || 4.113 ||
+śivālayaṃ vrajetso'pi madhurā brahmamandiram |
+dadhnā yaḥ snāpayeddevān vītarāgān svayaṃbhuvaḥ || 4.114 ||
+sa yāyādvaiṣṇavaṃ lokaṃ śrī samṛddhi sukhāśrayam |
+snānādikṣurasenāpi vidyādharaṃ padaṃ vrajet || 4.115 ||
+gandhodakena gāndharva kṣīreṇa śaśinaḥ padam |
+śītodakena śuddhātmā niṣpāpā nirmalendriyam || 4.116 ||
+eṣāṃ pūjāṃ ca yaḥ kuryānnānāpuṣpaiḥ sugandhitaiḥ |
+sarva kāma sukhaṃ bhuktvā modate manujādhipaḥ || 4.117 ||
+vilvapatrāṇi śreṣṭhāni rohaṇarccamatandritaḥ |
+śivaṃ sarvatra prāpnoti yajñānāṃ ca sahasrakam || 4.118 ||
+naivedyaṃ ḍhokayedyaḥ sa dīrdhāyuḥ syādvali nṛpaḥ |
+dīpamālāṃ ca yo dadyāttejasvī syātsudṛṣṭimān || 4.119 ||
+gugguruṃ yo dahettasya naśyate sarvapātakam |
+tilapātraṃ ca yodadyādurggati sa vrajennahi || 4.120 ||
+suvarṇaṃ ye pradadyācca sa yāyātsaṅgatau sadā |
+tiladhenuṃ pradadyādyoḥ sa saṃ yāyācchivālayam || 4.121 ||
+raupyakhurāṃ hema śṛṃgī raṇadghaṇṭhāvalaṃ vinā |
+savatsāṃ kapilāṃ dadyādyaḥ sa yajñaphalaṃ labhet || 4.122 ||
+yo ratnakaṃcukaṃ dadyātsa bhavedbahuratnavān |
+vastravān vastradānena bhūmidānena bhūmivān || 4.123 ||
+tūryasaṃgīti nṛtyādi mahotsāhaṃ pracārayet |
+yaḥ sadivya śrutiprāptaḥ śivapārśvacaro bhavet || 4.124 ||
+nīlotpalārkapadmāni yo dadyātsa śriyaṃ labhet |
+yo'rcayedvilvapatreṇa sa baliṣṭho bhavetkṛtī || 4.125 ||
+dhatturakena nirvārya kena vīreṇa sadvano |
+sugandhikusumaiḥ sarvai yoṣṭāvapi samarcayat || 4.126 ||
+sa śrīmān subhago dhīmān bhavetsaugandhitāśraye |
+divyātisundaraḥ kāntā bhadraśrī sadguṇāddhimān || 4.127 ||
+puṣpaiḥ patraiḥ phalamūlaistotrai rvā yo'rcayecchivān |
+sa devālayamāsādya bhuktvā divyasukhaṃ caret || 4.128 ||
+yaśca pradakṣiṇāṃ kṛtvā bhajennityaṃ samādarāt |
+rūpavānsa bhavedante saṃprayāyācchivālayam || 4.129 ||
+yaśca stotraiḥ prasannātmā bhajetetānmaheśvarān |
+sa tu pitrālayaṃ gatvā mahānanda sukhaṃ labhet || 4.130 ||
+yaścanāma samuccārya japitvā ca samāhitaḥ |
+so'pi śrīmānmahābhijñaḥ prānte yāyācchivālayam || 4.131 ||
+aṣṭāṃgaiḥ praṇatiṃ kṛtvā yo bhajettānmaheśvarān |
+sa yāyātsaṅgatāveva durgatiṃ na kadācan || 4.132 ||
+smṛtvā dhyātvā samuccārya nāmapi yo bhajatsadā |
+sa divyāmṛtabhuṃjāno rameddivi yathāsukham || 4.133 ||
+yaśca dṛṣṭā prasannātmā praṇametsāṃjalirmudā |
+so'pi divyāmṛtaṃ bhuktvā rametsvarge suraiḥ saha || 4.134 ||
+ityeṣāṃ vītarāgāṇāmaṣṭānāṃ bhajanāddhruvam |
+viśeṣaphalamājñāya bhajasvaināṃ yathecchayā || 4.135 ||
+tadatra bhūtale śuddha vidhāya puramāśrayan |
+sarvāllokān pratiṣṭhāpya pālayansarvadā vasa || 4.136 ||
+tadātra sarvadigbhyo'pi sarvalokāḥ pramoditāḥ |
+āgatya saṃsthiti kṛtvāni vaseyuḥ sadā mudā || 4.137 ||
+tadā jānapadāścātra grāmāścanagarāṇyapi |
+nirgama paktanaṃ cāpi pravarkteyuḥ samantataḥ || 4.138 ||
+tathā devā surendrāścaṃ sarve lokādhipā api |
+āgatyātra samālokya dharmadhātoḥ svayaṃbhuvaḥ || 4.139 ||
+gandharvā guhyakā yakṣāḥ kinnarā rākṣasā api |
+kumbhāṇḍā garuḍā nāgāḥ siddhā vidyādharā api || 4.140 ||
+sādhyāśca mātṛkā ścāpi sa bhairavagaṇā api |
+ṛṣayo yoginaścāpi yataya stīrthikā api || 4.141 ||
+śrāvakā bhikṣavo'rhanta ścailakāścāpyupāsakāḥ |
+bodhisattvā mahāsattvāḥ śaiva kaulāśca vaiṣṇavāḥ || 4.142 ||
+āgatyātra samālokya dharmmadhātoḥ svayaṃbhuvaḥ |
+devyāḥ khagānanāyāśca mañjudevasya saṅguroḥ || 4.143 ||
+eṣāṃ ca vītarāgānāṃ tīrthānāṃ cānubhāvatām |
+prasāditāḥ samāśritya bhajeyuḥ sarvadā mudā || 4.144 ||
+tadātra sarvadaiteṣāṃ sarvā puṇyānubhāvataḥ |
+subhikṣaṃ maṃgalotsāhaṃ nirutpātaṃ bhaveddhruvram || 4.145 ||
+ityādiṣṭaṃ munīndreṇa krakuchandena sapratuḥ |
+dharmmākara samākarṇya tatheti pratibudhyata || 4.146 ||
+tataḥ saḥnṛpa utthāya sāñjalistaṃ munīśvaram |
+krakucchanda sa saṃghaṃ ya praṇatvevaṃ nyavedayata || 4.147 ||
+bhagavan bhavatāmājñāṃ dhṛtvāhamatra sarvadā |
+puraṃ vidhāya lokānāṃ hitārthe nivase khalu || 4.148 ||
+tadbhavān kṛpayālokya sarvadātra himālaye |
+sasaṃgho dharmmamādiśya viharaṃtu jagaddhite || 4.149 ||
+iti saṃprārthite tena bhagavān sa munīśvaraḥ |
+dharmmākaraṃ mahāsattvaṃ taṃ paśyannevamavravīt || 4.150 ||
+nāhaṃ sadātra tiṣṭheyaṃ careyaṃ sarva bhūtale |
+sarvasattva hitārtha hi bhavāmi dharmmadikṣiṇaḥ || 4.151 ||
+ityādiśya munīndreṇa krakuchandaḥ sa sāṃdhikaḥ |
+tataḥ saṃprasthito'nyatra deśeṃ saṃbhāṣayan yayau || 4.152 ||
+tato dharmākaraḥ so'tra vidhāya nagaraṃ tathā |
+rājyāṃgāni pratisthāpya rājyaṃ kṛtvādhyatiṣṭhata || 4.153 ||
+tadātra sarve āgatya mandireṣu samantataḥ |
+āśritya saṃsthitiṃ kṛtvā nivasanto mudā caran || 4.154 ||
+tato'nyepi samāyātāḥ sarvadigbhyo'tra sarvataḥ ||
+jānapade purenekaṃ grāmeṣu nyavasanmudā || 4.155 ||
+tathā devā surādyāśca sarve lokādhipā api |
+svasvaparijanaiḥ sārddhamāgatyātra mudā vasan || 4.156 ||
+tathā maharṣayaścāpi yatayo brahmacāriṇaḥ |
+yogino bhikṣavo'rhanto vratinaścāpyupāsakāḥ || 4.157 ||
+bodhisattvā mahāsattvā ścailakāḥ śrāvakā api |
+yathābhilaṣite deśe kṛtvā śramaṃ samāśrayan || 4.158 ||
+tathānya tīrthikāḥ śaivā vaiṣṇavāḥ kaulikā api |
+yathābhilaṣite sthāne kṛtvāśramaṃ samāśrayan || 4.159 ||
+pratyeka sugatāścāpi samāgatya samantataḥ |
+vivikte āśrame ramye samāśritya mudā vasan || 4.160 ||
+munīndrā api cāgatya vihṛtyātra sasāṃdhikāḥ |
+prārya sambodhi saddharmmaṃ samādeśyan tvarāgatāḥ || 4.161 ||
+evaṃ puṇyatamā bhūmīriyaṃ himālayāhavayā |
+sukhāvatinibhāramyā bodhisattva samāśraya || 4.162 ||
+vahūni cātra tīrthāni sarvapāpaharāṇyapi |
+jātāni santi sarvārtha samṛddhi siddhidāṇyapi || 4.163 ||
+tadeteṣu ca tīrtheṣu snātvā carata sadvratam |
+pāpaṃ hantuṃ śubhaṃ prāptuṃ samīchantyatra ye narāḥ || 4.164 ||
+ye'tra tīrtheṣu sarveṣu snātvā nityaṃ samāhita |
+japa yajñādi karmmāṇi kṛtvā caranti samvaram || 4.165 ||
+pitṛñcāpi samabhyarcya devāñca śraddhayādarāt |
+datvā dānaṃ samādhāya dhyātvāpīśaṃ bhajanti ca || 4.166 ||
+te'pi sarve vikalmāṣāḥ pariśuddha trimaṇḍalāḥ |
+śrīmantaḥ siddhi mantaśca bhaveyuḥ sadguṇāśrayāḥ || 4.167 ||
+tataste sarva sattvānāṃ hitārthe dharma sādhakāḥ |
+bodhisattvā mahāsattvāḥ bhaveyuḥ sugatātmajāḥ || 4.168 ||
+tataste bodhisambhāraṃ pūrayitvā yathākramam |
+triratna bhajanaṃ kṛtvā saṃcarerañjagaddhite || 4.169 ||
+tataste vimalātmāno niḥkleśā vijitendriyāḥ |
+arhanta strividhāṃ bodhiṃ prāpyeyuḥ saugataṃ padam || 4.170 ||
+evaṃ matvātra tīrtheṣu sarveṣu bodhivāṃchibhiḥ |
+nātvā dānādi karma karttavya sarvadā bhave || 4.171 ||
+ityādiṣṭaṃ munīndreṇa samādiṣṭaṃ nisamya te |
+sarva sabhāśritā lokāḥ prābhyanandan pravodhitāḥ || 4.172 ||
+iti śrī svayaṃbhū caitya samutpatti kathā vītarāgatīrtha rāṣṭra pravarttano nāma caturtho'dhyāyaḥ samāptaḥ |
+pañcama adhyāyaḥ svayambhūtpatyaneka tīrthasaṃjātapuṇyamahātmyavarṇano nāma
+athāsau ca mahāsattva maitreya sāñjalirmudā |
+bhagavantaṃ tamānasya prārthayedevamādarāt || 5.1 ||
+bhagavan tatra tīrthānāṃ snātvā dānādi karmmajam |
+puṇyaphala viśeṣatvaṃ samādiśatu sāmpratam || 5.2 ||
+iti saṃprārthite tena bhagavānsa munīśvaraḥ |
+maitreyaṃ taṃ mahāsattvaṃ sampaśyannevamādiśat || 5.3 ||
+sādhu śṛṇu mahāsattva tīrtha sevā phalodbhavam |
+puṇyaṃ tadviśeṣatvaṃ vakṣāmi sarva bodhane || 5.4 ||
+tadyathā mūlatīrthāni kathyante dvādaśātra hi |
+mahāpuṇyāni sarveṣāṃ tīrthānāṃ yāni bhūtale || 5.5 ||
+amogha phaladāyinyāṃ vāgmatyāṃ yatra saṃgame |
+tattīrtha śodhanaṃ khyātaṃ daśapāpaviśodhanāt || 5.6 ||
+tatra nāgādhipā raktastakṣakākhyaḥ sukāntimān |
+samujvalanmahāratnaṃśrīmatphaṇā vibhūṣitaḥ || 5.7 ||
+yenarā śraddhayā tatra puṇyatīrthe yathāvidhiḥ |
+snānaṃ kuryumudā yāvadeka viṃśati vāsaram || 5.8 ||
+japa yajñādi karmmāṇi kuryuḥ saptadinānyapi |
+pitṛn devāñca saṃpūjya kuryuḥ saṃtṛptamoditān || 5.9 ||
+dadyurdānānicārthibhyo yathepsitaṃ samādarāt |
+śuddhaśīlāḥ samādhāyaiścareyuśca vrataṃ tathā || 5.10 ||
+etatpuṇyaviśuddhāste niḥkleśā nirmmalendriyāḥ |
+bodhisattvā mahāsattvā bhaveyuḥ śrī guṇāśrayāḥ || 5.11 ||
+tataste bodhisambhāraṃ pūrayitvāyathākramam |
+trividhāṃ bodhimāsādya saṃvuddha padamāpnuyuḥ || 5.12 ||
+tataśca māradāyiṇyo vāgmatyā yatra saṃgamaḥ |
+tacchāntatīrthamākhyātaṃ kleśa doṣa viśodhanam || 5.13 ||
+tatranāgādhipaḥ śuklaḥ soma śikhītiviśrutaḥ |
+vilasanmaṇiratnaśrīphaṇāmaṇḍala bhūṣitaḥ || 5.14 ||
+tatrāpi śānta tīrtha ca ye kleśa duḥṣitā narāḥ |
+kuryu snānaṃ sadā yāvadekaviṃśati vāsaram || 5.15 ||
+japa yajñādika kuryuścareyuścādhi poṣadham |
+pitṛn devāñca saṃpūjya kuryuḥ saṃtuṣṭananditān || 5.16 ||
+dadyurdānāṃni cārthi bhyo yathābhilaṣitaṃ mudā |
+śuddhaśīlā samācārāḥ dhyātvā bhajeyurīśvaram || 5.17 ||
+etatpuṇyābhiliptāste pariśuddha trimaṇḍalāḥ |
+bodhisattvā mahāsattvā bhaveyuḥ śrīguṇālayāḥ || 5.18 ||
+tataste bodhi sambhāraṃ pūrayitvā yathākramam |
+arhanta strividhāmbodhi prāpyeyuḥ saugataṃ padam || 5.19 ||
+tataśca maṇirohiṇyā vāgmatyā yatrasaṃgame |
+tatrorddhaniḥsṛtā śuddha sphaṭikādārasaṃnnibhām || 5.20 ||
+rudradhārā mṛtākhyātā tayā ca tatra saṃgame |
+triveṇī saṃgame tena śaṃkara tīrtha mucyate || 5.21 ||
+tatra nāgādhipa śaṃkhapālo gaurāti sundaraḥ |
+maṇirasmi samuddipta śrīmatphaṇā vibhūṣitaḥ || 5.22 ||
+tatra śaṃkara tīrthe ye mānavāśca yathāvidhiḥ |
+snānaṃ kuryurmudā yāvadekaviṃśativāsaram || 5.23 ||
+japa yajñādikarmmāṇiḥ kuryuśca saptavāsaram |
+pitṛndevāñca saṃpūjya tarppayeyuryathāvidhi || 5.24 ||
+dadyurdānāni cārthibhya śraddhayā bodhimānasāḥ |
+dhyātvā bhajeyurīśaṃ casaṃcareñcapoṣaḍham || 5.25 ||
+etatpuṇya viśuddhātmā niḥkleśāḥ nirmmalendriyāḥ |
+labheyuḥ śrī mahāpuṣṭiśānti guṇā ca śāntyapi || 5.26 ||
+durggati tena yāyuśca saṃjātāḥ saṅgatau sadā |
+bodhisattvā mahāsattvā bhaveyu bhadracāriṇaḥ || 5.27 ||
+tataste bodhisaṃbhāraṃ pūrayitvā yathākramam |
+arhanta strividhāṃ bodhi prāpyeyuḥ saugataṃ padam || 5.28 ||
+tataśca rājamañcaryā vāgmatyā yatra saṃgamam |
+tadrājatīrthamākhyātaṃ rājyārogyasukhapadam || 5.29 ||
+tatra nāgādhipaḥ śuklaḥ surupākhyātisundaraḥ |
+maṇiratna mahādīpti śrīprabhā maṇḍitāśrayaḥ || 5.30 ||
+tatra ye mānavāyā vadeka viṃśativāsaram |
+snāna dāna japa dhyānaṃ kuryu dadyuśca saṃvaram || 5.31 ||
+etatpuṇya viśuddhāste nirdoṣā vimalendriyāḥ |
+rājyaśvarya sadārogya bhadra saukhyama vāpnuyuḥ || 5.32 ||
+te'pi na durggati yāyuḥ sadāsadgati saṃbhavāḥ |
+bodhisattvā mahāsattvā bhaveyuḥ śrīguṇāśrayāḥ || 5.33 ||
+tataste bodhisambhāraṃ pūrayitvā yathākramam |
+arhanta strividhāṃ bodhi prāpyayāyu jinālayam || 5.34 ||
+tathātra vimalāvatyā keśāvatyā ca saṃgameḥ |
+manorathaṃ tadākhyātaṃ svecchālaṃkāra saṃpradam || 5.35 ||
+tatra nāgādhipo bhīmaḥ kulikākhyo'tikarvuraḥ |
+phaṇāmaṇi samuddīpta śrīprabhāmaṇḍitāśrayaḥ || 5.36 ||
+tatra manorathe tīrthe manujā ye yathāvidhiḥ |
+snāna dānādikaṃ kuryurekaviśati vāsaram || 5.37 ||
+te'pi na durgatiṃ yāyuḥ sadā sadgatisaṃbhavāḥ |
+bodhisattvā mahāsattvā bhadraśrī sadguṇāśrayāḥ || 5.38 ||
+paṭṭasuvastraratnādi svecchālaṃkārabhūṣitāḥ |
+sarvasattva hitādhāna careryurbodhisavaram || 5.39 ||
+tataste bodhisaṃbhāraṃ pūrayitvā yathākramam |
+trividhāṃ bodhimāsādya saṃbuddha padamāpnuyuḥ || 5.40 ||
+tataśca kusumāvatyā keśāvatyāpi saṃgame |
+nirmmalatīrthamākhyātaṃ kalpanāvighnanāśanam || 5.41 ||
+tatra nāgo palālākhyaḥ pītavarṇṇo mahākṛtiḥ |
+divyaratna prabhojjvāla śrīmatphaṇā vibhūṣitaḥ || 5.42 ||
+tatra ye mānavā yāvadekaviṃśativāsaram |
+snānadānādikaṃ kuryustathāsarve ca pūrvavat || 5.43 ||
+te'pi na durgatiṃ yāyuḥ sadā saṅgatisaṃbhavāḥ |
+bodhisattvā mahāsattvā bhadraśrīsadguṇāyāḥ || 5.44 ||
+kali vighna mala kleśa nirmukta bhadracāriṇaḥ |
+sarvasattva hitāraktā bhaveyu brahmacāriṇaḥ || 5.45 ||
+tataste bodhisaṃbhāra purayitvā yathākramam |
+arhanto bodhimāsādya sambuddhapadamāpnuyuḥ || 5.46 ||
+tataḥ suvarṇṇavatyā ca bāgamatyā yatra saṃgame |
+nidhānatīrthamākhyātaṃ sarva sampatidāyakam || 5.47 ||
+tatra nāgau haritavarṇau nandaupanandanāvubhau |
+nānā ratna prabhāddīptiḥ śrī matphaṇāvibhūṣitau || 5.48 ||
+tatra ye manujā yāvadeka viṃśativāsaram |
+snānādi pūrvavatsarva karmmaṃ kuryuryathāvidhiḥ || 5.49 ||
+te'pi na durggatiṃ yāyuḥ sadā saṅgatisaṃbhavāḥ |
+bodhisattvā mahāsattvā bhadraśrī sadguṇāśrayāḥ || 5.50 ||
+sarvasattvārtha sampannā bhaveyuḥ dharmmacāriṇaḥ |
+tepyaivaṃ bodhisaṃbhāraṃ pūrayitvā yathākramam || 5.51 ||
+arhanto bodhimāsādya saugataṃ padamāpnuyuḥ |
+tataśca pāpa nāśinyā keśavatyābhisaṃgame || 5.52 ||
+jñānatīrthaṃ tadākhyātaṃ divyabhoga sukhapradam |
+tatra nāgādhipaḥ śukla vāśukirnāma bhīṣaṇaḥ || 5.53 ||
+divya ratna prabhāśrī matphaṇālaṃkāramaṇḍitaḥ |
+tatra yemānavā yā vadekaviṃśativāsaram || 5.54 ||
+snāna dānādi karmmāṇi kuryuḥ sarvāṇi purvavat |
+te'pi na durggati yāyurjātāḥ sadāpi saṅgatau || 5.55 ||
+sarva bhoga mahāsampatsukhavanto nirāmayāḥ |
+bodhisattvā mahasattvāścaturbrahma vihāriṇaḥ || 5.56 ||
+bhadraśrīsadguṇādhārā bhaveyu bodhicāriṇaḥ |
+tathā te bodhisaṃbhāraṃ pūrayitvā yathākramam || 5.57 ||
+arhanto bodhimāsādya sarvajña padmāpnuyuḥ |
+bhadśrī sadguṇādhārāḥ sambuddhaguṇasādhinaḥ || 5.58 ||
+tataśca yatra vāgmatyāḥ keśāvatyā ca saṃgameḥ |
+taccintāmaṇimākhyātaṃ sarvakāmārtha saṃpadam || 5.59 ||
+gaṃgā ca yamunācāpi tathā devī sarasvatī |
+parva pratyāgatā tatra tena pañca samāgamā || 5.60 ||
+tatra nāgādhipaḥ śuklo varuṇā sarva nāgarāt |
+divyaratna prabhāśrīmatphaṇāmaṇḍala bhūṣitaḥ || 5.61 ||
+tatra ye mānavā yāvadekaviṃśati vāsaram |
+snānadānādikaṃ sarve kuryuḥ pūrvavadādarāt || 5.62 ||
+te'pi na durggatiṃ yāyuḥ sadā sadgatisaṃbhavāḥ |
+saṃpūrṇṇa paramāyuṣkāḥ vidyādhipā vicakṣaṇāḥ || 5.63 ||
+susantānā mahābhogā dhammārtha kāmabhoginaḥ |
+bodhisattvā mahāsattvā ścaturbrahmavihāriṇaḥ || 5.64 ||
+bhadraśrī sadguṇādhārā bhaveyuḥ bodhicāriṇaḥ |
+tataste bodhisaṃbhāraṃ pūrayitvā yathākramam || 5.65 ||
+arhanto bodhimāsādya saṃbuddha padamāpnuyuḥ |
+tataśca yatra vāgmatyā ratnāvatyāḥ samāgame || 5.66 ||
+pramodatīrthamākhyātaṃ ratiprītivaśārthadaḥ |
+tatra nāgādhipaḥ padmo dhavaladivya sundaraḥ || 5.67 ||
+divyaratna mahākānti phaṇāmaṇḍala bhūṣitaḥ |
+tatra ye mānavā yāvadekaviṃśativāsaram || 5.68 ||
+snāna dānāni sarvāṇi kuryuḥ karmmāṇi pūrvavat |
+te'pi nadurgatīṃ yāyuḥ sadā sadgati saṃbhavāḥ || 5.69 ||
+rati prīti vaśānanda mahāsaukhya samanvitā |
+bodhisattvo mahāsattvoḥ pariśuddha trimaṇḍalāḥ || 5.70 ||
+bhadraśrī sadguṇādhārā bhaveyuḥ bodhisādhinaḥ |
+tataste bodhisaṃbhāraṃ pūrayitvā yathākramam || 5.71 ||
+arhanta śtrividhāṃ bodhiṃprāpya yāyu rjinālayam |
+tatraścayatra vāgmatyā cārumatyā samāgame || 5.72 ||
+tatsulakṣaṇamākhyātaṃ śrī tejo bhāgyasampadam |
+tatra nāgo mahāpadmo'ti dhavalo'ti sundaraḥ || 5.73 ||
+divyaratna prabhāśrī matphaṇāmaṇḍalamaṇḍitaḥ |
+tatra ye mānavā yāvadekaviṃsativāsaram || 5.74 ||
+snāna dānaṃ japa dhyānaṃ kuryuryajñaṃ ca pūrvavat |
+te'pina durgatiṃ yāyuḥ sadā sadgati saṃbhavāḥ || 5.75 ||
+śrītejo bhogyasaṃpannā surupālakṣaṇānvitā |
+bodhisattvā mahāsattvāḥ bhadraśrīsadguṇāśrayāḥ || 5.76 ||
+sarvasattva hitodyuktāḥ bhaveyuḥ bodhicāriṇaḥ |
+tataste bodhisaṃbhāraṃ pūrayitvā yathākramam || 5.77 ||
+arhanta trividhāṃ bodhi prāpyeyuḥ saugataṃ padam |
+tataśca yatra vāgmatyā prabhāmatyā samāgameḥ || 5.78 ||
+jayatīrtha samākhyātaṃ sarvaśatrubhayāntakṛt |
+tatra nāgādhipaḥ śukraḥ śrīkānti divya sundaraḥ || 5.79 ||
+divyaratna prabhāśrī matphaṇāmaṇḍalamaṇḍitaḥ |
+tatra ye mānavā yāvadeka viṃśativāsaram || 5.80 ||
+snātvā yajñādi karmmāṇi kuryuḥ sarvāṇi pūrvavat |
+te'pi na durggatīṃ yāyuḥ sadā sadgati saṃbhavāḥ || 5.81 ||
+nirbhayā striguṇotsāhājayino nirjitārayaḥ |
+bodhisattvā mahāsattvāścaturbrahma vihāriṇaḥ || 5.82 ||
+bhadraśrī sadguṇācārā bhaveyu bodhicāriṇaḥ |
+tataste bodhisaṃbhāraṃ pūrayitvā yathākramam || 5.83 ||
+arhantastrividhāṃ bodhiprāpyeyuḥ saugatapadam |
+dvādaśaitāni nāmāni tīrthāni mahāntyatra himālaye || 5.84 ||
+anyānyapi ca saṃtyatra tāni vakṣyāmyahaṃ śṛṇu |
+tadyatho pari vāgmatyāḥ śrotasiddhārasaṃnidhau || 5.85 ||
+saundarya tīrthamākhyātaṃ saundarya guṇasaṃpadam |
+tatra yemānavā yāvadekaviṃśativāsaram || 5.86 ||
+snāna dānāni karmmāṇi kuryuḥ sarvāṇi pūrvavat |
+te'pina durggatiṃ yāyuḥ sadā sadgatisaṃbhavāḥ || 5.87 ||
+surūpā lakṣaṇopetāḥ śrīmanta sadguṇānvitāḥ |
+bodhisattvā mahāsattvā caturbrahma vihāriṇaḥ || 5.88 ||
+sarvasattva hitādhānaṃ careyu rbodhisaṃmvaram |
+tataste bodhisaṃbhāraṃ pūrayitvā yathākramam || 5.89 ||
+arhanta strividhāṃ bodhisaṃprāpyeyuḥ jinālayam |
+taduparicayattīrtha agastyo na maharṣiṇā || 5.90 ||
+nityasnānaṃ japa dhyānaṃ kṛtvā yajñaṃ ca sevitam |
+tenāgastyaṃ mahattīrtha tadā khyāntaṃ munīśvaraiḥ || 5.91 ||
+tatra ye manujā snāyūste yāyuḥ paramāṃ gatim |
+dāna yajña japādiśca kuryu dhyātvāyi ceśvaram || 5.92 ||
+toṣayayustathāpittṛndadyurdānaṃ yathepsitam |
+te sarve vimalātmānaśca caturbrahmavihāriṇaḥ || 5.93 ||
+bodhisattvā mahāsattvā bhaveyuḥ śrīguṇāśrayāḥ |
+tathā te bodhisaṃbhāraṃ pūrayitvā yathākramam || 5.94 ||
+arhanta strividhāmbodhiṃ prāpya buddhatvamāpnuyuḥ |
+tatraivānantanāgena yadāśritaṃ mahāhradam || 5.95 ||
+tena tadahradamākhyātamanantatīrthamarthadam |
+tatra ye manujāyāvadekaṃviṃśati vāsaram || 5.96 ||
+snāna dāna japa dhyānaṃ kuryuryajñaṃca pūrvavat |
+te'pi na durgatiṃ yāyuḥsadā sadgatisambhavāḥ || 5.97 ||
+bodhisattvā mahāsattvā rbhaveyuḥ śrīguṇāśrayāḥ |
+tathā te bodhisambhāraṃ pūrayitvā yathākramam || 5.98 ||
+arhanto bodhimāsādya sarvajñapadamāpnuyuḥ |
+tatraiva ca mahattīrtha āryatārāniṣevitam || 5.99 ||
+tenedaṃ prāthitaṃ prāryatārā tīrtha subhāgyadam |
+tatrāpi ye narā ryāvadekaviṃśativāsaram || 5.100 ||
+snānadānajapa dhyānaṃ yajñaṃ kuryu ryathāvidhi |
+te'pi na durgatiṃ yāyuḥ saṃjātāḥ sadgatau sadā || 5.101 ||
+bodhisattvā mahāsattvāḥ pariśuddhatrimaṇḍalāḥ |
+saubhāgyaśālino dhīrā bhadraśrīsadguṇāśrayāḥ || 5.102 ||
+sarvasattvahitotsāhā bhaveyu rbodhicāriṇaḥ |
+tathā te bodhisaṃbhāraṃ pūrayitvā yathākramam || 5.103 ||
+arhanta strividhāṃ bodhiṃ prāpyeyuḥ saugataṃpadam |
+arddhaurddhañca vāgmantyāḥ prabhavatīrthamuktamam || 5.104 ||
+sarveṣāmapi tīrthānāṃ pradhānamagramucyate |
+tatraikasnāna mātreṇa gaṃgā snāna śatādhikam || 5.105 ||
+puṇyaṃ mahattaraṃ siddhaṃ vāñchitārtha sukhapradam |
+tatra ye mānavā yāvadekaviṃsativāsaram || 5.106 ||
+snāna dāna japa dhyānaṃ yajñaṃ kuryuryuyathāvidhiḥ |
+śuviśuddha trikāyāste yathākāma sukhāśina ca || 5.107 ||
+dhamārthaṃ śrīsamṛddhāḥ syuścaturbrahmavihāriṇaḥ |
+kvacinna durggatiṃ yāyuḥ saṃjātā sadgato sadā || 5.108 ||
+svaparātmahitaṃ kṛtvā saṃcarensadā śubhe |
+tataste vimalātmāno suviśuddhendriyāśayāḥ || 5.109 ||
+bodhisattvā mahāsattvāḥ bhaveyuḥ sadguṇākarāḥ |
+tathā te bodhisaṃbhāraṃ pūrayitvā yathāvidhiḥ || 5.110 ||
+arhantastrividhāṃ bodhi prāpyeyuḥ saugataṃpadam |
+taṃ śaṃkhaparvata nāma sarva śiloccayottamam || 5.111 ||
+samārohaṇa mātreṇa niṣṇā yeḥ siddhimān bhavet |
+tatrāpi ye samāśritya snātvā dhyātvā samāhitaḥ || 5.112 ||
+japa yajñādi dānaṃ ca kuryuḥ saṃbodhimānasāḥ |
+te'pi na durgatiṃ yāyuḥ sadāsadgati saṃbhavāḥ || 5.113 ||
+bodhisattvā mahāsattvāḥ pariśuddha trimaṇḍalāḥ |
+niḥkleśā vimalātmānaḥ sarva sattva hitāśayāḥ || 5.114 ||
+bhadraśrī sadguṇādhārā bhaveyu rbrahmacāriṇaḥ |
+tataste bodhisaṃbhāraṃ pūrayitvā yathākramam || 5.115 ||
+arhanto bodhimāsādya saṃbuddhapadamāpnuyuḥ |
+vahūni copa tīrthāni vidyante'tra himālaye || 5.116 ||
+tāni tīrthāni sarvāṇi bhukti mukti pradānyapi |
+yatra yatra śravantīnāma nyeṣāṃ ca samāgame || 5.117 ||
+tatra tatrāpi tīrthāni puṇya phala pradāni hi |
+teṣāṃ cāpyupa tīrthānāṃ pṛthakpṛthatphalaṃ mahat || 5.118 ||
+pāpa saṃśodhanaṃ puṇyaṃ saddharmmasukhasādhanam ||
+teṣvapi ye narāḥ snātvā careyu poṣaḍhaṃ vratam || 5.119 ||
+dadyurdānāni cārthibhyaṃ kuryuryajñāni ca ye mudā |
+pitṛsaṃtarpya yeyuśca pūjayeyuḥ surānapi || 5.120 ||
+smṛtvā dhyātvā triratnānāṃ bhajeyunemijalyanaiḥ |
+evaṃ lokādhipānāṃ ca smṛtvā dhyātvā samāhitāḥ || 5.121 ||
+japitvā nāma mantrāṇi sādhayeyu ryathāvidhiḥ |
+tāni sarvāni sidhyeyuḥ sādhitāni jagaddhite || 5.122 ||
+dadyuśceha śubhotsāhaṃ paratra nirvṛtaṃ padam |
+te'pi na durgatiṃ yāyuḥ sadā sadgatisaṃbhavāḥ || 5.123 ||
+niḥkleśā vimalātmānaḥ pariśuddhā trimaṇḍalāḥ |
+bodhisattvā mahāsattvāścaturbrahma vihāriṇaḥ || 5.124 ||
+bhadraśrī sadguṇādhārā bhaveyuḥ bodhicāriṇaḥ |
+tataste bodhisambhāraṃ pūrayitvā yathākramam || 5.125 ||
+arhanta bodhiṃ prāpyayāyu rjinālayam |
+ekaṃ vijñāya sarveṣāṃ tīrthānāmapisatphalam || 5.126 ||
+bhadraśrī sadguṇātsāhaṃ saukhyasaṃbodhi sādhanam |
+sarveṣveteṣu tīrtheṣubhadraśrī guṇa vāṃchābhiḥ || 5.127 ||
+snāna dānādikaṃ karma karttavyaṃ bodhi prāptaye |
+ye ye eteṣu tīrtheṣu snātvā nityaṃ yathāvidhiḥ || 5.128 ||
+datvā dāna vrataṃ dhṛtvā dhyātvā bhajeyurīśvaram |
+te te sarve vikalmāṣāḥ pariśuddha trimaṇḍalāḥ || 5.129 ||
+niḥkleśā vimalātmāno bhaveyurbodhibhāginaḥ |
+iti lokādhipaiḥ sarve rbrahmendra pramukhairapi || 5.130 ||
+sarvānyetāni tīrthāni saṃsevitāni sarvadā |
+tathā ca munibhiḥ sarvestāpa sairbrahmacāribhiḥ || 5.131 ||
+yatibhiryogibhiścāpi tīrthikaiḥ śrāvakai rapi |
+brāhmaṇai vaiṣṇavaiḥ śaivaiḥ kaulikairapi śaktikairapi || 5.132 ||
+devaiśca dānavaiścāpi yakṣagandharvakinnaraiḥ |
+guhyaka siddhasādhyai śca grahaiḥ vidyādharairapi || 5.133 ||
+apsarobhiśca sarvābhiḥ sadā saṃsevitāni hi |
+nāgendrai rgaruḍaiścāpi kumbhāṇḍai rākṣasairapi || 5.134 ||
+evamanyairapripretya sevitāni śubhārthibhiḥ |
+grahaiścaḥ sāṃdhikaiścāpi vratiścāpyupāsakaiḥ || 5.135 ||
+bodhisattvai rmunīndraiśca sevitāni jagaddhite |
+ahamapitathaiteṣu tīrtheṣu samupāśrayan || 5.136 ||
+snātvā dānāni datvā ca kṛtvā yajñaṃ yathāvidhi |
+pitṛnsatarpayitvāpi samabhyarcya surānapi || 5.137 ||
+triratnabhajanaṃ kṛtvā prācaraṃ poṣadha vraṃtam |
+dharmmadhātuṃ samārādhya smṛtvā dhyātvā samāhitaḥ || 5.138 ||
+japitvā dhāraṇī mantraṃ pracaranbodhisamvaram |
+etatpuṇyānubhāvena pariśuddha trimaṇḍalāḥ || 5.139 ||
+niḥkleśo nirmmalātmohaṃ caturbrahmavihāriṇaḥ |
+bodhisattvā mahāsattvāḥ bhadraśrī sadguṇāddhirmān || 5.140 ||
+āśu saṃbodhiṃ saṃbhāra pūrayitvā yathākramam |
+jitvā māragaṇānsarvān kalāvapi jagaddhite || 5.141 ||
+travidhabodhimāsādya saṃbuddho dharmmarātbhuve |
+thuyamapijñātvāni vighna bodhi prāptaye || 5.142 ||
+sarveṣu teṣu tīrtheṣu pravadhvaṃ yathāvidhiḥ |
+dharmmadhātuṃ sadābhyarcya smṛtvā dhyātvā samāhitāḥ || 5.143 ||
+japitvā dhāraṇīmantraṃ saṃbhajadhvaṃ jagaddhite |
+etpuṇyu prabhovaṇa pariśuddhatrimaṇḍalāḥ || 5.144 ||
+durggatinnaivagacheta jāyadhvaṃ saṃdgatau sadām |
+tatra sadā triratnāno śaraṇe samupasthitāḥ || 5.145 ||
+satkārai rbhajana kṛtvā saṃcaradhvaṃ jagaddhite |
+teṣāṃ hi vimalātmānaścaturbrahma vihāriṇaḥ || 5.146 ||
+bodhisattvā mahāsattvā bhaveyu bhadracāriṇaḥ |
+tataḥ śrī sadguṇādhārāḥ sarvavidyāvicakṣaṇāḥ || 5.147 ||
+sarva sattvāhitādhānaṃ saṃcaradhva jagaddhite |
+tataḥ saṃbodhiṃ saṃbhāraṃ pūrayitvā yathākramam || 5.148 ||
+āśu tribodhimāsādya prāpsyatha saugataṃ padam |
+ityādiṣṭaṃ munīndreṇa śrutvā sarve pravodhitāḥ || 5.149 ||
+maitreyādi sabhālokāḥ prāpyananda pravodhitāḥ |
+iti śrī svayaṃbhū samutpatti kathāyāmaneka tīrtha saṃjāta puṇya mahātmya varṇano nāma pañcamo'dhyāya |
+ṣaṣṭhama adhyāyaḥ svayambhūdharmadhātuvāgīśvarābhidhānaprasiddhapravartano nāma
+athāsau ca mahāsattvo maitreyaḥ sugatātmajaḥ |
+munīndraṃ śrīghanaṃ natvā sāñjalirevamabravīt || 6.1 ||
+yadasya bhagavan dharmmadhātu vāgīśvarābhidham |
+prasiddha hetunā kena tatsamādeṣṭumarhati || 6.2 ||
+iti saṃprārthite tenaḥ maitreyeṇa sa sarvavit |
+bhagavānstaṃ mahāsattvaṃ saṃpaśyannidamādiśat || 6.3 ||
+yenāsya hetunā dharmmadhātu vāgīśvarābhidham |
+prasiddhiṃ tatpravakṣāmi śṛṇu maitreya sādaram || 6.4 ||
+tadyathāyuryadā nṛṇāṃ triṃśadvarṣa sahasrike |
+śobhāvatyāṃ mahāpūryāmudapādi tadā jinaḥ || 6.5 ||
+saṃbuddho'rhañjagacchāstā dharmmarājo munīśvaraḥ |
+kanaka munīrityākhyāstathāgato vināyakaḥ || 6.6 ||
+tadāhaṃ kulaputro sa sudharmmākhya ātmavit |
+bodhisattvo mahāsattvo dharmmaśrī sadguṇārthabhṛt || 6.7 ||
+sa kanakamuneḥ śāstuḥ śāsane samupāśritaḥ |
+triratnabhajanaṃ kṛtvāḥ prācaraṃ bodhisaṃvaram || 6.8 ||
+yadā ca bhagavāñchāstā śobhāvatyā upāśrame |
+vihāre śobhitārāme vijahāra sa sāṃghikaḥ || 6.9 ||
+tadā tatra sabhāloke brahmendra pramukhāḥ surāḥ |
+sarvalokādhipāścāpi dharmmaṃ śrotumudāgatāḥ || 6.10 ||
+sarve grahāśca tārāśca sarvā vidyādharā api |
+siddhāḥ sādhyāśca rudrāśca munayo'pi maharṣayaḥ || 6.11 ||
+gandharvāḥ kinnarā yakṣā guhyakā rākṣasā api |
+kumbhāṇḍā garuḍā nāgā daityāścāpi samāgatāḥ || 6.12 ||
+yatayo yoginaścāpi tīrthikāśca tapasvinaḥ |
+pākhaṇḍāśca parivrājako nirgranthā brahmacāriṇaḥ || 6.13 ||
+śramaṇāḥ śrāvakāścāpi vratinaścāpyupāsakāḥ |
+tatsaddharmmāmṛtaṃ pātuṃ sādaraṃ samupāgatāḥ || 6.14 ||
+brāhmaṇā kṣatriyā ścāpi vaiśyāśca mantriṇojanāḥ |
+gṛhādhipāśca śreṣṭāścaḥ bhṛtyāḥ sainyādhipā api || 6.15 ||
+śilpino vaṇijaścāpi sārthavāhā mahājanāḥ |
+paurā jānapadā grāmyāḥ kārpaṭikāśca śairikāḥ || 6.16 ||
+tathānya vāsinaścāpi sarvalokāḥ prasāditāḥ |
+tatsaddharmmāmṛtaṃ pātuṃ sādaraṃ samupāgatāḥ || 6.17 ||
+tānsarvānsamupāyātān dṛṣṭvā sa bhagavānmudā |
+sabhā madhyāsanāsīnastasthau dhyātvā prabhāsayan || 6.18 ||
+taṃ munīndraṃ prabhākāntaṃ dṛṣṭvā sarve'pi sāṃdhikāḥ |
+śravaṇāḥ śrāvakāḥ sarve bhikṣavo brahmacāriṇaḥ || 6.19 ||
+bhikṣuṇyo brahmacāriṇyo upāsikāśca cailikāḥ |
+cailakā vratinaścāpi dharmakāmā upāsakāḥ || 6.20 ||
+sarve'pi te samāgatya praṇatvā taṃ munīśvaram |
+parivṛtya pariskṛtya dharmma śrotumupāśrayan || 6.21 ||
+tato brahmadayo devāḥ sarve lokādhipā api |
+taṃ munīndraṃ samabhyarcya praṇatvā ca yathākramam || 6.22 ||
+parivṛtya puraskṛtya tatsabhāyāṃ samantataḥ |
+saṃpaśyantaṃ munīndraṃ tamupatasthuḥ samāhitāḥ || 6.23 ||
+tataste mānavāḥ sarve ṛṣi vipranṛpādayaḥ |
+taṃ munīndraṃ samabhyarcya saṃpraṇatvā yathākramam || 6.24 ||
+tatsabhāṃ samupāśritya parivṛtya samantataḥ |
+puraskṛtya samudvīkṣya saṃtasthire samāhitāḥ || 6.25 ||
+tatastān samupāsīnān dṛṣṭvā sa bhagavānmudā |
+āryasatyaṃ samārabhya saddharmma samupāsadit || 6.26 ||
+kramena bodhicaryāgamāryāṣṭāṃṅga ca satpatham |
+ādiśya bodhimārge tān sarvāllokān yojayet || 6.27 ||
+tatsaddharmmāmṛtaṃ pītvā sarve lokāḥ pravodhitāḥ |
+saddharmma sādhanā yuktā babhūvu rbodhimānasāḥ || 6.28 ||
+tadā vikramaśīlākhye vihāre bhikṣurātmavit |
+sasaṃghā vyaharaddharmmaśrīmitrākhyaḥ sudhīryatiḥ || 6.29 ||
+sa tatra sarvalokānāṃ hitārthena samāśritaḥ |
+sa saṃghā nāmasaṃgītiṃ vyākhyātumabhyavāñchata || 6.30 ||
+tataḥ sa satmatiḥ sarvān saṃghā nāma prasādaram |
+sabhāmadhyāsanāsīnastasthau dhyānasamāhitaḥ || 6.31 ||
+taṃ sabhāsana āsīnaṃ dṛṣṭvā sarve'pi sāṃghikāḥ |
+tatsaddharmmāmṛtaṃ pātumicchataḥ samupāgatāḥ || 6.32 ||
+tatra ye yatiṃ natvā parivṛtya samantataḥ |
+puraskṛtya samīkṣanta upatasthuḥ samāhitāḥ || 6.33 ||
+tatrānye'pi samāyātā lokadvijanṛpādayaḥ |
+vaiśyāśca mantrino'mātyāḥ bhṛtyā sainyādhipā api || 6.34 ||
+śilpino vanijaścāpi sārthavāhā mahājanāḥ |
+paurā jānapadāgrāmyāstathānyadeśavāsinaḥ || 6.35 ||
+sarve te samupāgatya praṇatvā taṃ yatiṃ mudā |
+parivṛtya puraskṛtya sapaśyantamupāśrayan || 6.36 ||
+tataḥ sa yatirālokya sarvānstānsamupāśritān |
+mañjuśrīnāma saṃgītiṃ samākhyātaṃ yathātkramāt || 6.37 ||
+tatsamādiṣṭamākarṇyaṃ sarve lokāḥ sabhāśritāḥ |
+saṃbuddha guṇamahātmyaṃ matvānandapravodhitāḥ || 6.38 ||
+tataḥ sarve'pi lokāste brāhmaṇa bhūmipādayaḥ |
+natvā taṃ yatimāmantrya svasvālayaṃ mudāyayuḥ || 6.39 ||
+tataste śrāvakā vijñā yatayo brahmacāriṇaḥ |
+dvādaśākṣara guhyārthaṃ samyakśrotuṃmamīcchire || 6.40 ||
+tataste yoginaḥ sarve kṛtāñjali puṭā mudā |
+śāstāraṃ taṃ yatiṃ natvā samāmatryaivamavruvan || 6.41 ||
+bhadanta dvādaśānāṃ yadakṣarāṇāṃ viśeṣataḥ |
+viśuddhiṃ śrotumicchāmastatsamādeṣṭumarhati || 6.42 ||
+iti tai rprārthitaṃ dharmmaśrī mitraḥ sasudhīrapi |
+dvādaśākṣara guhyārthaṃ viśuddhiṃ na samādiśat || 6.43 ||
+taṃ viśuddhā nabhijñātā viṣaṇṇātmā sa utthitaḥ |
+dhyānāgāraṃ samāsīno dhyātvaivaṃ samacintayan || 6.44 ||
+naitadakṣaraṃ guhyārthaṃ viśuddhirjñāyate mayā |
+tatkathamupadekṣyāmi hāhā kutra bhrameyahi || 6.45 ||
+iti cintā viṣarṇṇo'tmā lajjā saṃmohitāśayaḥ |
+smṛtvā ratnatrayaṃ dhyātvā tasthau dhairyasamāhitaḥ || 6.46 ||
+tatkṣaṇe sa triratnānāṃ smṛti puṇyānubhāvataḥ |
+evaṃ matiṃ mahāvīrya mahotsāhinimāptavān || 6.47 ||
+tatastatmati śauṇḍau'sauḥ puna dhyātvā samāhitaḥ |
+manasā sarva lokeṣu vicārayan vyalokayan || 6.48 ||
+tadāpaśyanmahācīne uttarasyāṃ nagottame |
+mañjuśrīyaṃ mahābhijñaṃ sarva vidyādhipeśvaram || 6.49 ||
+bodhisattvaṃ mahāsattvaṃ sarva dharmmādhipaprabhum |
+sarva guhya viśuddhārtha vijñānajñānadāyakam || 6.50 ||
+taṃ paśyanmanasā dharmmaśrī mitraḥ samutsukaḥ |
+sahasotthāya tānsaṃghān sabhāmantryaivamavravīt || 6.51 ||
+bho bhadanto gamiṣyāmi mahācīne nagottame |
+mañjuśrīyaṃ mahāsattvaṃ draṣṭumicchāmi sāṃpratam || 6.52 ||
+etasyā nāmasaṃgītyā guhya viśuddhi vistaram |
+pṛṣṭā samyakvijñāya āgamiṣyāmyahaṃ drutam || 6.53 ||
+yāvannāhamihāyāta stāvatsarve samāhitāḥ |
+triratna bhajanaṃ kṛtvā tiṣṭhata mā viṣīdata || 6.54 ||
+ityuktvā sa mahābhijñastataḥ saṃprasthito drutam |
+sañcarannatra nepālaviṣaye samupāyayau || 6.55 ||
+tamāyātaṃ yatiṃ natvā mañjudevaḥ sa sarvavit |
+svāntike samupādraṣṭumecchatṛddhiṃ pradarśayan || 6.56 ||
+tataḥ maṃjudevo'pi bhūtvā kṛṣikaraḥ svayam |
+śārdūla mṛgarājābhyāṃ halenākarṣayanmahīm || 6.57 ||
+taṃ dṛṣṭvā dūrato dharmmaśrīmitro ativismitaḥ |
+kimetatmahadāścaryamitidraṣṭumuyācarat || 6.58 ||
+tataḥ samupāśritya dṛṣṭvā tanmahadadbhutam |
+kṛṣikaraṃ tamāmantryapapracchaiva vyavalokayan || 6.59 ||
+bho sādho ito deśānmahācīna nagoktamaḥ |
+pañcaśīrṣaḥ kiyaddūre tadupadeṣṭumarhati || 6.60 ||
+iti saṃprārthitaṃ tena śrutvā sa halavāhakaḥ |
+suciraṃ taṃ yatiṃ paśyansādaramevamavravīt || 6.61 ||
+yattvaṃ kuta ihāyāsi kimarthamuktarāpathe |
+mahācīnasya dūrato gantuṃ tvaṃ paripṛccha se || 6.62 ||
+adya pravartate sāyaṃ tadvihāre mamāśrame |
+uṣitvā prāta rutthāya gaccha maddeśitātpathaḥ || 6.63 ||
+iti tenoditaṃ dharmaśrī mitro niśaṃmya saḥ |
+tathetyanumataṃ dhṛtvā tūṣṇīṃ bhūtvā vyatiṣṭhataḥ || 6.64 ||
+tataḥ saṃbodhitaṃ bhikṣu matvā sa halavāhakaḥ |
+tau śārdula mṛgendro dvautatraivāntavyardhāpayet || 6.65 ||
+halaṃ tu sarvalokānāṃ saṃpravodhana hetunā |
+tatraivocca sthala kṣetre yūpa vadavaropayat || 6.66 ||
+adyāpi tatmahīsthānaṃ mañjuśrībhūḥ prasidhyate |
+sāvāceti prasiddhā ca yatrāvaropitaṃ halam || 6.67 ||
+tatastaṃ yatimāhuya sāyaṃ sa halavāhakaḥ |
+tatra praviśya dharmaśrīmitra saṃprati vismitaḥ || 6.68 ||
+tato mūlaphala skandha patrādi bhogamādarāt |
+datvā tasmai svayaṃ bhuktvā tasthau sa halavāhakaḥ || 6.69 ||
+tataḥ sa vividhāṃ dharmmaśrīmitrorajanī kathām |
+bhāṣitvā taṃ mahābhijñaṃ kṛṣikaraṃ vyanodayan || 6.70 ||
+tataḥ sa mañjudevastaṃ yati chātrālaye niśi |
+preṣayitvā svayaṃ gahvāgāre śayyāṃ samāśrayat || 6.71 ||
+tatra praviśya dharmmaśrī mitra saṃprati vismitaḥ |
+suptvākṣaṇaṃ samutthāya manasaivaṃ vyacintayat || 6.72 ||
+nādyātra śayanīyaṃ yadayaṃpumānmaharddhikaḥ |
+bhāryāyā sahasākathyaṃ kiṃkiṃ kuryādvinodayam || 6.73 ||
+iti dhyātvā sadharmmaśrīmitra yatirutthitaḥ |
+saṃvara nibhṛtaṃ tasya dvāramūlamupāśrayet || 6.74 ||
+tatkṣaṇe mañjudevaṃ taṃ keśinī supriyā satī |
+śayāsanasamāsīnā bharktāramevamavravīt || 6.75 ||
+svāminko'yaṃ yati rdhīmānkimarthamasmadāśrame |
+iha kutaḥ samāyāta statsamādeṣdumarhati || 6.76 ||
+iti saṃprārthitaṃ devyā mañjudevo niśamya saḥ |
+keśinīṃ tāṃ priyāṃ bhāryāṃ sampaśyannevamavravīt || 6.77 ||
+sādhu śṛṇu priye devī yadartha yamimihāgataḥ |
+tadartha hi mahaddhetuṃ vakṣyāmi te vicārayat || 6.78 ||
+ayaṃ bhikṣu mahābhijño bodhisattvo mahāmatiḥ |
+vikhyāto yo mahādharmmaśrīmitrobhidho yati || 6.79 ||
+vikramaśīla ākhyāte vihāre sa nivāsakaḥ |
+nāmasaṃgīti vyākhyānaṃ śikṣebhyo vistaraṃ vyadhāt || 6.80 ||
+dvādaśākṣara guhyārtha viśuddhi jñāna vistaram |
+nāma samyagupākhyātuṃ śaknoti na sudhīrapi || 6.81 ||
+tadāyaṃ ca viṣaṇṇātmāḥ dhyānāgāre samāśritaḥ |
+dhyātvā lokeṣu sarvatra vilokyaivaṃ vyacintayan || 6.82 ||
+mañjuśrī reva jānīyātsarva guhya viśuddhivit |
+dvādaśākṣara guhyārtha viśuddhiṃ samupādiśat || 6.83 ||
+iti dhyātvā samutthāya sarvān śiṣyānsa sāṃghikān |
+bodhayitvā mahotsāhaḥ vīryeṇa pracāraktataḥ || 6.84 ||
+uktarasyāṃ mahācīne pañcaśīrṣesmadāśrame |
+gantumanena mārggeṇa carannīha samāgataḥ || 6.85 ||
+tamiha samayāyātaṃ dṛṣṭvā samṛddhibhāvataḥ |
+bodhayitvaivamāhuyoḥ nayāmi svāśrame'dhunā || 6.86 ||
+iti bhaktā samādiṣṭaṃ śrutvā sā keśinī priyā |
+svāminaṃ taṃ samālokya papracchaivaṃ samādarāt || 6.87 ||
+svāminahaṃ na jānāmi śṛṇomi na kadācana |
+kathametadviśuddhyarthaṃ samupādiśa me'dhunā || 6.88 ||
+iti saṃprāthitaṃ devyā mañjudevo niśamya saḥ |
+keśinīṃ tāṃ priyāṃ bhāryā sampaśyannevamavravīt || 6.89 ||
+sādhu devī tava prītyā sāmpratamupadiśyate |
+etadartha mahāguhyaṃ gopanīyaṃ prayatnataḥ || 6.90 ||
+ityuktvā mañjudevo'sau tasyai devyai yathāvidhiḥ |
+dvādaśākṣara guhyārthaṃ viśuddhi samupādiśat || 6.91 ||
+etatsarva samākhyātaṃ vistaraṃ sa mahāmatiḥ |
+dharmaśrīmitra ākarṇya prātyananda pravodhitaḥ || 6.92 ||
+tata samudito dharmmaśrī mitra utthite mudā |
+mañjuśrīrayameveti niścayaṃ samupāyayau || 6.93 ||
+tataḥ sasuprasannātmā dvāramūle kṛtāñjaliḥ |
+aṣṭāṃga praṇatiṃ kṛtvā tasthau tadgata mānasaḥ || 6.94 ||
+tataḥ prātaḥ samutthāya keśinī mokṣadāyanī |
+dvārakapāramudadhāṭayaḥ vahirgantumupākramat || 6.95 ||
+tatra taṃ yatimālokya dvāramūle vyavasthitam |
+bhītā sā keśinī devī drutamupācaratprabhoḥ || 6.96 ||
+tāṃ pratyāgatāṃ dṛṣṭvā mañjudevaḥ sa sarvavit |
+vibhinnāsyāṃ samālokya papracchaivamadhīravat || 6.97 ||
+devī kiṃdvāramudhyāṭya sattvaraṃ tvamupāgatāḥ |
+dṛṣṭvā kiṃ tatra bhītāsi tatsatyaṃ vada me puraḥ || 6.98 ||
+iti pṛṣṭe jagacchāstā bharktā sā keśinī virāt |
+svāminaṃ taṃ samālokya śanairevaṃnyavedayet || 6.99 ||
+svāminyati namaskṛtvā dvāramūle nipātitaḥ |
+jīvito vā mṛtau vāsau mayā na jñāyate khalu || 6.100 ||
+ityuktaṃ bhāryayā śrutvā mañjudevaḥ sa utthitaḥ |
+upetya dvāramūle taṃ saṃdadarśa nipātitam || 6.101 ||
+dṛṣṭvā sa mañjudevastaṃ yatiṃ dhyātvā jitendriyam |
+hastaṃ dhṛtvā samutthāya saṃpaśyannevavravīt || 6.102 ||
+yate kimarthamatraivaṃ dvāraṃ dhyātvāvatiṣṭhasi |
+tatmamapurataḥ sabhyaṃ vadaya te samāhitam || 6.103 ||
+ityuktvā mañjudeveṃna dharmaśrīmitra unmanāḥ |
+mañjuśriyantamaṣṭāṃgainatvaivaṃ prārthayanmudā || 6.104 ||
+bhagavannātha sarvajña sarvavidyādhipa prabho |
+bhavatpādāmbuje bhaktyā śaraṇe samupāśraye || 6.105 ||
+bhavāneva jagacchāstā mañjuśrīrbhagavānapi |
+jñāyate dṛśyate hyatra jñānaratnanidhi rmayā || 6.106 ||
+tadbhavāhni vijānīte yadarthehamihā vraja |
+tatmebhivāṃcchitaṃ śāstāḥ saṃpūrayitumarhati || 6.107 ||
+iti saṃprārthitaṃ tena mañjudeva niśamya sa |
+vijñāya taṃ mahābhijñaṃ saṃpaśyannevamavravīt || 6.108 ||
+kathaṃ vinā abhiṣekaṃ te mantrārthamupadeśyate || 6.109 ||
+tāvadatrabhiṣeka tvaṃ gṛhvāṇhedaṃ yadīcchasi |
+ityuktaṃ mañjudevena niśamya sa yatiḥ sudhīḥ || 6.110 ||
+mañjudevaṃ namostasya sāñjalirevamavravīt |
+sarvajña bhagavāñchāstā nirdhano'hamakiṃcanaḥ || 6.111 ||
+kiṃ dāsye bhavataṃ śāstre dakṣiṇāṃ guru bhaktimān |
+iti tenoditaṃ śrutvāḥ mañjudevaḥ sasanmatiḥ || 6.112 ||
+saṃpaśyansteyatī dharmaśrīmitramevamavravīt |
+yataḥ kiṃ dhanasaṃpatyā śraddhā te yadi vidyate || 6.113 ||
+tuṣyante guruvo bhaktimātreṇātra dhanenatu |
+ityuktvā mañjudevena dharmaśrīmitra unmatāḥ || 6.114 ||
+aṣṭāṃgestaṃ guruṃ natvā prārthayadevamādarāt |
+bhagavanyadi bhaktyaiva tuṣyate'tra bhavānmama || 6.115 ||
+bhavatāṃ suśrūṣāmeṣa karomi bhaktimānaham |
+iti me kṛpayā śāsta abhiṣeka yathāvidhiḥ || 6.116 ||
+datvā dvādaśa mantrārthaṃ viśuddhi dātumarhasi |
+iti saṃprārthitaṃ tena mañjudevaṃ sa sarvavit || 6.117 ||
+bhaktimanta tamālokya paṇyamevamabhāṣata |
+dāsyāmi te mahābhāga bhakti śraddhāsti te yadi || 6.118 ||
+abhiṣeka prasannātmā samādatsva samāhitaḥ |
+tataḥsa mañjudevaḥ śrī vajrācārya yathāvidhi || 6.119 ||
+saṃsthāpya maṇḍalaṃ dharmadhātuvāgīśvarābhidham |
+tanmaṇḍalaṃ samārādhya samabhyarcya yathāvidhim || 6.120 ||
+abhiṣekaṃ prasannāya tasmai dadau sa vajradhṛk |
+tatastānmaṇḍale devān saṃdarśayaṃ yathākramāt || 6.121 ||
+pūjayitvā yathāśakti śaraṇe samayojayet |
+tatastasmai prasannāya mañjudevo yathāvidhi || 6.122 ||
+dvādaśākṣara guhyārtha viśuddhisamupādiśat |
+tato labdhābhiṣeko'sau dharmaśrīmitra utmanā || 6.123 ||
+dvādaśabhūmi guhyārtha viśuddhijñānamāptavān |
+tasmai śāstre sabhāryāya svamātmānaṃ sa dakṣiṇām || 6.124 ||
+saṃkalpya śraddhayā bhaktyā natvaivaṃ prārthayanmudā |
+bhagavannātha sarvajña bhavatkṛpā prasādataḥ || 6.125 ||
+saṃprāptapūrṇa saṃkalpo bhavāmi śrīguṇārthabhṛt |
+tatsadāhaṃ bhavatpādaśaraṇe samupāśritaḥ || 6.126 ||
+yathātra bhavādiṣṭaṃ tathaiva saṃcare bhave |
+tatme'nujñādi datvātra saṃbodhijñānasādhanam || 6.127 ||
+sarvasattva hitārthena careyaṃ bodhisaṃvaram |
+iti saṃprārthya dharmaśrī mitra sa samupāśritaḥ || 6.128 ||
+śraddhābhakti prasannātmā gurusevā paro'bhavat |
+tataḥ sa mañjudevastaṃ mahāsattvaṃ vicakṣaṇam || 6.129 ||
+matvā saṃbodhi caryāyāṃ niyoktuṃ saṃvyanodayan |
+sādhu sādhu mahābhāgaḥ saṃcaratvaṃ jagaddhite || 6.130 ||
+saṃbodhi sādhanaṃ bodhicaryā vrata sadā bhava |
+etatpuṇyābhi liptātmā pariśuddha trimaṇḍalāḥ || 6.131 ||
+bodhisattvā mahābhijñā bhaveḥ śrī sadguṇāśrayāḥ |
+tatastvaṃ bodhisaṃbhāraṃ pūrayitvā yathākramam || 6.132 ||
+niḥkleśo bodhiprāpto'haṃ sambuddhapadamāpnuyāḥ |
+iti me śāsanaṃ dhṛtvā smṛtvā dhyātvā samāhitaḥ || 6.133 ||
+triratnaṃ samupāśritya saṃcarasva jagaddhite |
+yadi jagaddhitaṃ kartuṃ saṃbodhiṃ prāpnumicchasi || 6.134 ||
+saddharmaṃ samupādiśya sarvān lokān pravodhaya ||
+tatastān bodhitān sarvān kamena bodhisādhanam || 6.135 ||
+bodhimārge pratiṣṭhāpya cārayasva jagaddhite |
+tatasteṣāṃ samālokya cittaṃ saṃbodhi niścitam || 6.136 ||
+triyānaṃ samupādiśya paramārthe niyojaye |
+evaṃ kṛtvā mahaddharmamāśu sambodhisādhanam || 6.137 ||
+bhadraśrī sadguṇāpannāṃ samāpnuyā jagacchubhe |
+tenāśuḥ pariśuddhātmā sambuddhapadamāptavān || 6.138 ||
+jagaddharmmamayaṃ kṛtvā jinālayaṃ samāpnuyāḥ |
+iti bhadravrataṃ dhṛtvā gatvā tvaṃ svāśrame punaḥ || 6.139 ||
+vyākhyāya nāma saṃgītiṃ saddharmmaṃ saṃpracāraye |
+ahamapi mahāsattva śrotuṃ tvaddharmmadeśanām || 6.140 ||
+sāṃghikāṃścāpi tāndruṣṭumāyāsyāmi tavāśrame |
+iti śāstā samādiṣṭaṃ niśaṃmya sa mahāmatiḥ || 6.141 ||
+dharmaśrī mitra ālokyaḥ taṃ gurumevamavravīt |
+maharddhiko bhagavāñchāsta vijñāsya te kathaṃ mayā || 6.142 ||
+iti cihnaṃ samādhāya tatrāgantuṃ samarhati |
+iti tenoditaṃ śrutvā mañjudevaḥ sa sanmati || 6.143 ||
+dharmaśrī mitramālokyaḥ punarevamabhāṣata |
+vatsāhamutpalaṃ dhṛtvā samāyāsyāmi te sabhām || 6.144 ||
+tena cihnena māṃ yāta saṃjānīṣva samāgatam |
+iti satyaṃ samādhāya dhṛtvānuśāsanaṃ mama || 6.145 ||
+saddharmma samupādeṣṭuṃ pravāhi testu maṃgalam |
+iti śāstā samādiṣṭaṃ śrutvā sa yatirutsukaḥ || 6.146 ||
+śāstāraṃ taṃ samālokya praṇatvaivamabhāṣataḥ |
+prasīdatu bhagavāñchāstāḥ kṣantumarhati cāgasam || 6.147 ||
+bhavatprasādataḥ sarve sidhyate me samīhitam |
+tadanuśāsanaṃ dhṛtvā bhavatāṃ tatra jagaddhite || 6.148 ||
+vyākhyātuṃ nāmasaṃgīti saṃcare sāmprataṃ guroḥ |
+iti saṃprārthya dharmmaśrī mitra saḥ saṃprāsāditaḥ || 6.149 ||
+śāstustasya padāmbhojaṃ natvā saṃprasthito tataḥ |
+mātrorācārya yāścāpi mokṣadā varadākhyayoḥ || 6.150 ||
+pādāmvujeṣu saṃnatvā saṃprasthitaḥ pramoditaḥ |
+tataḥ sa sanmati dharmmaśrīmitraḥ sahasāvrajan || 6.151 ||
+āśu svāśramamāsādya vihāraṃ samupāviśat |
+tatra taṃ yatimāyātaṃ dṛṣṭvā sarve'pi sāṃghikāḥ || 6.152 ||
+praṇatvā kuśalaṃ pṛṣṭavā praveśayannijālaye |
+tataḥ paredyurāmantraya sarvānsaṃghānsa sanmatiḥ || 6.153 ||
+vyākhyātuṃ nāmasaṃgīti sabhāsanaṃ samāśrayat |
+taṃ sabhāsanamāsīnaṃ dṛṣṭvā sarve'pi sāṃdhikāḥ || 6.154 ||
+divja bhūpādayaścāpi sarve lokāḥ samāgatāḥ |
+tatra sarve'pi te lokāḥ praṇatvā taṃ yati kramāt || 6.155 ||
+parivṛtya puraskṛtya samantata upāśrayat |
+tān sarvānsamupāsīnān dṛṣṭvā sa yatirātmavit || 6.156 ||
+vyākhyāya nāmasaṃgītiṃ sa viśuddhi samādiśat |
+tadā tatra manastasya jijñāsituṃ sa mañjuvāk || 6.157 ||
+dhṛtvotpalaṃ vinidyāṃgaḥ kucīvaramupācarat |
+tatra sa makṣikān kāye utpalena nivārayan || 6.158 ||
+samāgatya sabhaikānte paśyallokānupāśrayet |
+samāśritaṃ sa dharmmaśrīmitro dṛṣṭvātmanā gurum || 6.159 ||
+utpalena parijñāya manasaivaṃ vyacintayat |
+aho nūnamayaṃ śāstā mano jijñāsituṃ mama || 6.160 ||
+kucarā durbhagākāro dhṛtvotpalamihāgataḥ |
+tatkathamahamutthāya pratyuṅgamya na meya hi || 6.161 ||
+atha paśyannamaskāraṃ nakuryāḥ gurave katham |
+yadyatrāhaṃ samutthāya na meyamenamādarāt || 6.162 ||
+dṛṣṭvā lokā ime māṃ dhikkuryuḥ sarve vicārataḥ |
+ete na jñāyate yaṃ hi mañjuśrī ṛddhimānapi || 6.163 ||
+īdṛgevāsya śāstā yaṃ miti me syādvihāsyatām |
+iti dhyātvā sa dharmmaśrīmitro lajjābhimohitaḥ || 6.164 ||
+manasaivaṃ namaskṛtvā śāstārantamamānayet |
+tataḥ sa vimukhī bhūya paśyannapya vibhāvitaḥ || 6.165 ||
+ajñāta vānnivāpaśyan padamātramupādiśat |
+tataḥ sarve'pi te lokāḥ śrutvā tatsaddharmmadeśanām || 6.166 ||
+utthāya taṃ yatiṃ natvā svasvālayamupācaran |
+tata loke gate dharmmaśrī mitraḥ sa samutthitaḥ || 6.167 ||
+śāstāraṃ taṃ samālokya vandituṃ samupācarat |
+taṃ dṛṣṭvā mañjudevo'sau vandituṃ samupāgatam || 6.168 ||
+apaśyan vimukhī bhūya tataḥ saṃprasthito'carat |
+taṃ dṛṣṭvā vimukhī bhūta dharmmaśrī mitra ātmanaḥ || 6.169 ||
+aparādha mahatpāpamanusmṛtvāpatadbhuvi |
+nipatantaṃ tamālokya mañjuśrīḥ sa kṛpānidhiḥ || 6.170 ||
+sahasā pāṇinā dhṛtvā samutthāya tathācarat |
+tatra sa utthito dharmmaśrī mitrastaṃ mahāmatim || 6.171 ||
+pracarantaṃ samālokya natvāhaivaṃ mṛṣā punaḥ |
+bhagavanna mayā dṛṣṭo bhavānatra samāgataḥ || 6.172 ||
+paścādutpalacihnena jñāyate'tra samāśritaḥ |
+ityuktvā sa mṛṣāvādaṃ sāñjalistasya saṅguroḥ || 6.173 ||
+mañjudevasya pādābje praṇanāma rudan punaḥ |
+tatra tasya mṛṣā vaktuṃ rubhe'pi nayane mukhāt || 6.174 ||
+śāstuḥ pādābjayo ragre nipetaṃtu mahītale |
+tatpatita sa dharmmaśrīmitro vihatamānasaḥ || 6.175 ||
+cirādrudaṃ samutthāyaḥ śāstāramevamavravīt |
+bhagavan yatmayājñānādaparādhaṃ kṛtaṃ gurau || 6.176 ||
+bhavati tadbhavāñchāstā kṣantuṃmarhati durmateḥ |
+iti saṃprārthitaṃ tena mañjuśrīḥ sa kṛpānidhiḥ || 6.177 ||
+vicakṣuṣkaṃ tamālokyaḥ kṛpādṛśaivamavravīt |
+yadabhilajjayā karmma jñātvāpi duṣkṛtaṃ tvayā || 6.178 ||
+tasyedaṃ phalamāsādya bhokta anyaṃmeva bhujyate |
+tathāpi jñāna dṛṣṭvā tvaṃ sampaśya ddṛṣṭimān yathā || 6.179 ||
+jñānaṃ hi te'sti yattena jñānaśrī mitra ucyase |
+ityuktyaiva sa mañjuśrīḥ kṣaṇādantarhita stataḥ || 6.180 ||
+ākāśātpakṣivadgatvā svāśrame samupāyayau |
+atraitatsarvavṛttāntaṃ bhāryayoḥ puratormudā || 6.181 ||
+samākhyāya sa mañjuśrī stasthau lokahitārthabhṛt |
+tataḥ prabhṛtisa jñānaśrīmitro jñānacakṣuṣā || 6.182 ||
+paśyan saddharmmamākhyāya prācaracca jagaddhite |
+tadā maitreya tenāsya dharmadhātoḥ svayaṃbhuvaḥ || 6.183 ||
+abhutprasiddhitaṃ dharmadhātuṃ vāgīśvarābhidham |
+iti matvātra ye dharmadhātu vāgīśvara narāḥ || 6.184 ||
+śraddhayā vidhinābhyarcya bhajanti śaraṇāśritāḥ |
+abhiṣekaṃ ca saṃprāpya bodhicittā samāhitāḥ || 6.185 ||
+saddharmma dhāraṇī vidyāmantrāṇi dhārayanti ye |
+te sarve vimalātmānaḥ pariśuddha trimaṇḍalāḥ || 6.186 ||
+bodhisattvā mahāsattvāścaturbrahma vihāriṇaḥ |
+bhadraśrī sadguṇādhārāḥ sarva vidyā vicakṣaṇāḥ || 6.187 ||
+ṛddhi siddhi mahābhijñā bhaveyurbhadracāriṇaḥ |
+āśuḥ sambodhi saṃbhāraṃ pūrayitvā yathākramam || 6.188 ||
+arhantastrividhāṃ bodhiṃ prāpya yāyu jiṃnālayam || 6.189 ||
+iti matvābhivāchanti prāptuṃ ye saugataṃ padam |
+te'tra bauddhālaye dharmmadhātu vāgīśvare sadā || 6.190 ||
+śraddhayā bhajanaṃ kṛtvā prāpyābhiṣekamādarāt |
+sadharmmadhāraṇī vidyāmantra sādhāratatparāḥ || 6.191 ||
+yathāvidhi samabhyarcya saṃbodhi nihitāśrayāḥ |
+bodhicaryā vrataṃ dhṛtvā saṃcarate jagaddhite || 6.192 ||
+āśu te vimalātmānaḥ pariśuddha trimaṇḍalāḥ |
+bodhisattva mahāsattvaścaturbrahma vihāriṇaḥ || 6.193 ||
+bhadraśrī sadguṇādhārāḥ sarvavidyā vicakṣaṇāḥ |
+ṛddhisiddhi mahābhijñā bhaveyu bhardracāriṇaḥ || 6.194 ||
+tataḥ saṃbodhisaṃbhāraṃ pūrayitvā drutaṃ kramāt |
+arhantamtrividhāṃ bodhiṃ prāpya yāsyatha nivṛtim || 6.195 ||
+ityādiṣṭaṃ munīndreṇa niśamya te sabhāśritāḥ |
+sarve tatheti vijñāya prābhyanandan pravodhitāḥ || 6.196 ||
+itiśrī svayaṃbhū dharmmadhātu vāgīśvarābhidhāna prasiddha pravartano nāma ṣaṣṭho'dhyāyaḥ |
+saptama adhyāyaḥ svayambhūdharmadhātuvāgīśvaragutikṛtapravartano nāma
+atha bhūyaḥ sa maitreyo bodhisattvo mahāmatiḥ |
+bhagavanta ta mānasya sāñjalirevamavravīt || 7.1 ||
+bhagavacchilayāchādya dharmmadhātumimaṃ kadā |
+kenaiva hetunā stūpaṃ ko vyadhādīṣṭikāmayam || 7.2 ||
+bhagavantatsamālokya sarvvāllokānsakautukān |
+etaddhetu samādiśya vinodayitumarhati || 7.3 ||
+iti saṃprārthitaṃ tena maitreyena munīśvaraḥ |
+bhagavānsa mahāsattvaṃ sampaśyannevamādiśat || 7.4 ||
+śṛṇu maitreya yenāyaṃ guptikṛto prakāśane |
+etaddhetuṃ samākhyāsi sarve lokābhibodhane || 7.5 ||
+tadyathā nivṛtiṃ yāte saṃbuddhe kanakamunau |
+viṃśati varṣa sāhasra nṛrṇāmāyu yadā bhavet || 7.6 ||
+tadābhū bhagavāṃñchāstā dharmmarājo munīśvaraḥ |
+sarvajño'rhamahābhijñaḥ kāśyapākhyastathāgataḥ || 7.7 ||
+sa saṃbuddho mahāpuryā vārāṇasyāmupāśrame |
+mṛgadāve jināvāse vijahāra sasāṃdhikaḥ || 7.8 ||
+tadā saṃbodhisattvo'haṃ jyotirājā bhidhaḥkila |
+kāśyapasya jagacchāmtuḥ śaraṇastha upāsakaḥ || 7.9 ||
+yadā sa kāśyapaḥ śāstā sarvatraidhātukādhipaḥ |
+saddharmmaṃ samupādeṣṭuṃ sabhāsane samāśrayet || 7.10 ||
+tatsaddharmmāmṛtaṃ pātuṃ sarve lokāḥ samāgatāḥ |
+brahmaśakrādayo devāḥ sarve lokādhipā api || 7.11 ||
+grahāstārāgaṇaścāpi vidyādharāścasāpsarāḥ |
+siddhāsādhyāśca rudrāśca yakṣa guhyaka kinnarāḥ || 7.12 ||
+kumbhāṇḍā rākṣasāścāpi nāgāśca garuḍā api |
+ṛṣayastāpasāścāpi tīrthikā brahmacāriṇaḥ || 7.13 ||
+yatayo yoginaścāpi tathānyecāpyupāsakāḥ |
+brāhmaṇā kṣatriyāścāpi rājānopi mahībhṛtaḥ || 7.14 ||
+vaiśyāśca mantriṇo'mātyā bhṛtyā sainyādhipāgaṇā apiḥ |
+śilpino vaṇijaścāpi sārthavāho mahājanāḥ || 7.15 ||
+paurā jānapadā grāmyānaigamāḥ pārvatā api |
+tathonya deśikā lokā api sarvve samāgatāḥ || 7.16 ||
+tatra sabhāsanāsīnaṃ saṃbuddha staṃ munīśvaram |
+bhagavantaṃ samālokya sarve saṃghāḥ samāyayuḥ || 7.17 ||
+bhikṣavaḥ śrāvakāḥ sarve yatayo yogino'piḥ |
+cailakāvratinaścāpi sarve upāsakā api || 7.18 ||
+bhikṣuṇyopi tathā sarvāścailikāḥ vratiṇyaḥ |
+śrāvikāścāpiḥ tathānyāḥ samupāgatāḥ || 7.19 ||
+bodhisattvā mahāsattvā ṛṣayo brahmacāriṇaḥ |
+tīrthikā vaiṣṇavāḥ śaivārnirganthāśca tapasvinaḥ || 7.20 ||
+tathānye'pi samāyātāḥ saddharmaguṇalālasāḥ |
+sarve'pi te munīndra staṃ dṛṣṭvā yayau pramoditāḥ || 7.21 ||
+tatra sarve'pi te lokāstaṃ munīndraṃ yathākramam |
+abhyarcya vidhinā natvā tatsabhāyāmupāśrayan || 7.22 ||
+tatra sarve'pi te lokāḥ parivṛtya samantataḥ |
+puraskṛtya munīndrantaṃ saṃpaśyantaḥ samāhitāḥ || 7.23 ||
+tatsaddharmmāmṛtaṃ pātuṃ tṛṣārttā iva sāgaram |
+sāñjalayaḥ prasannāsyāḥ samātasthu yathākramam || 7.24 ||
+tāṃlokānsamupāsīnānsarvānsaghānsurānapi |
+sarvāllokādhipāṃścāpi dṛṣṭvā sa bhagavāñjinaḥ || 7.25 ||
+āryasatyaṃ samārabhya saṃbodhi jñānasādhanam |
+ādi madhyānta kalyāṇaṃ saddharmma samupādiśat || 7.26 ||
+tatsaddharmmāmṛtaṃ pītvā sarve'lokāḥ pravodhitāḥ |
+sadā bhadrasukhaṃ prāpnu samīcchire susaṃvaram || 7.27 ||
+tataḥ sarve'pi te lokāḥ saṃbuddha guṇavāñchinaḥ |
+bodhicaryā vrataṃ dhṛtvā saṃcarire sadā śubhe || 7.28 ||
+tadā sarvāṇi kāryāṇi kṛtvā vajrī sa yogavit |
+mañjudevaḥ sa bhāryānte svayaṃ nirvṛtimāyayau || 7.29 ||
+tato gatvā mahācīne sa mañjuśrī jināśramem |
+svadivyavapurādhāya taṃsthau bhāryā samanvitaḥ || 7.30 ||
+atra teṣāṃ śarīrāṇi śiṣyāḥ sarve'pi pāvake |
+saṃskṛtya vidhināsthīni gṛhitvā samaśodhayan || 7.31 ||
+tataste'tra tadasthīnigarvyasthāpya yathāvidhi |
+caityaṃ kṛtvā pratisthāpya samabhyarcya sadābhajana || 7.32 ||
+yeyīdaṃ caityamabhyarcya bhajanti śraddhayā sadā |
+te tasya mañjudevasya saddharmmaguṇamāpnuyuḥ || 7.33 ||
+matvaivaṃ yebhivāñchanti mañjuśrī dharmmasadguṇam |
+atra mañjuśrī yaścaitya sarvadā prabhajantu te || 7.34 ||
+ityādiṣṭaṃ munīndreṇa niśamya te sabhājanāḥ |
+sarve tatheti śrutva prātyanandatpravodhitāḥ || 7.35 ||
+athāsau bhagavān bhūyaḥ śākyasiṃho munīśvaraḥ |
+maitreya staṃ sabhāṃcāpi samālokyaivamādiśat || 7.36 ||
+tata ścirāṅgate kāle gauḍarāṣṭre narādhipaḥ |
+abhūtpracaṇḍa devākhyaḥ śrīmān vajradharāṃśajaḥ || 7.37 ||
+sa rājā suciraṃ rājyaṃ nītidharmmeṇa pālayan |
+sarvāllokāñchubhe dharme niyujya samacārayat || 7.38 ||
+etaddharmmānubhāvena sadā tatra samantataḥ |
+subhikṣaṃ maṃgalotsāhaṃ nirutpātanavarktata || 7.39 ||
+tadā sarve'pi te lokāḥ saddharmaguṇalālasāḥ |
+kuladharma samācārā dānaśīlavratāratāḥ || 7.40 ||
+satyasaṃghā nikādhīrāścaturbrahmavihāriṇaḥ |
+kuleśabhajanaṃ kṛtvā prācaranta mitho hite || 7.41 ||
+dṛṣṭvā sa nṛpatī rājā sarvāllokāñchubhārthinaḥ |
+muditastānsamāmantraya sampaśyannevamādiśat || 7.42 ||
+bho lokāḥ paurikāḥ sarve saddharma yadi vāñchatha |
+triratna bhajanaṃ kṛtvā carata bodhisamvaram || 7.43 ||
+tena yūyaṃ śubhātmānaḥ pariśuddhatrimaṇḍalāḥ |
+bodhisattvā mahāsattvā bhavata bodhicāriṇaḥ || 7.44 ||
+tataste nirmalātmāno niḥkleśo vimalendriyāḥ |
+arhantā bodhimāsādya sambuddhapadamāpsyathaḥ || 7.45 ||
+ityādiṣṭaṃ narendreṇa sarve lokā niśaṃmyate |
+tatheti prativijñapya prābhyanandatpravodhitāḥ || 7.46 ||
+tataḥ sarve'pi te lokā dhṛtvā rājñānuśāsanam |
+triratnabhajanaṃ kṛtvā prācaranta śubhācarim || 7.47 ||
+dṛṣṭvā tānsakalāllokān bodhicaryā vratāratān |
+mahānanda prasannātmā punareva vyacintayan || 7.48 ||
+saphalaṃ jīvitaṃ janma mamayecchāsanāratāḥ |
+sarve'lokāḥ samādhāya pracaranti sadā śubhe || 7.49 ||
+atha pracaṇḍadevau'sau dṛṣṭvā rājyaṃ mahotsavam |
+saṃsāre'nartha saṃdṛṣṭvā cintayāmāsa sātmavat || 7.50 ||
+atrāhaṃ jalasāṃkrānto'nu nasyāṃ jirṇṇitendriyaḥ |
+tadārogābhibhūto'pi vrajeyaṃmaṇaṃ dhruvam || 7.51 ||
+tadatraiva kiyatkālaṃ tiṣṭheyaṃ sansukhānvitaḥ |
+avaśyaṃ bhāvino bhāvā bhavanti bhavacāriṇām || 7.52 ||
+sadā bhave bhavedbhadrameva saddharmmacāriṇām |
+duḥkhameva sadā kāmacāriṇāṃ bhavacāraṇe || 7.53 ||
+tasmādahaṃ parityajya kāmāśraya gṛhāśramam |
+nirjane vana ekākī vihareyaṃ samāhitaḥ || 7.54 ||
+smṛtvā ratnatrayaṃ dhyātvā saṃbodhinihitāśayaḥ |
+bodhicaryāvrataṃ dhṛtvā saṃcareyaṃ jagaddhite || 7.55 ||
+iti niścitya sa prājñaḥ pracaṇḍadeva ātmavit |
+nṛpatimantriṇaḥ sarvānsamāmantryaivamādiśat || 7.56 ||
+bho sarva mantriṇo yūyaṃ śṛṇudhvaṃ me vaco hitam |
+atha mayākhyātaṃ tathā caritumarhatha || 7.57 ||
+tadyathā jarāsākrānto vṛddhosyāṃ jīrṇitendriyaḥ |
+tathā rogābhibhūto'pi grasiṣye mṛtyunā dhruvam || 7.58 ||
+iti me trasyate cittaṃ durgati bhayaśaṃkitam |
+avaśyaṃ bhāvino bhāvā bhavacāriṇām || 7.59 ||
+bhave bhavetsadā bhadrameva saddharmacāriṇām |
+duḥkhameva sadākāmacāriṇāṃ bhavacāriṇe || 7.60 ||
+anartharājyaṃ viṣayopabhogyaṃ bhayaṃkaraṃ sarpabhayākulaṃ yat |
+anityamasāreti vicintya tatra āgāramadhyāvasituṃ na rocate || 7.61 ||
+iti matvāhamutsṛjya kāmāśrayaṃ gṛhāśramam |
+vanāśrame śubhārāme vihartumutsahe'dhunā || 7.62 ||
+tadahaṃ svātmajaṃ putraṃ śaktidevaṃ nṛpāsane |
+pratiṣṭhāpya nṛpaṃ kartumicchāmi sāṃprataṃ khalu || 7.63 ||
+tadbhavanto niśamyātra sarve'pi mama śāsanam |
+abhiṣiṃcya nṛpaṃ kṛtvā bhajatainaṃ mamātmajam || 7.64 ||
+ityādiṣṭaṃ narendreṇa śrutvā te mantriṇo janāḥ |
+pramāṇaṃ śāsanaṃ bharturityevaṃ pratiśuśruvaḥ || 7.65 ||
+tadā sa rājā putraṃ śaktidevamāmantrayaivamāha |
+bhedo daṇḍaḥ sāmadānamityatyupāyacatuṣṭayam || 7.66 ||
+atrāhaṃ jarasābhikrāntaṃ nūnaṃ syādnirjitendriyam |
+tadā rogābhibhūte'pi vajreyaṃ maraṇaṃ dhuvam || 7.67 ||
+tadvanāśrayamicchāmi śreyaḥ ślāghena yatmanā |
+puro mṛtyu ripuṃ hanti gṛhasaṃraktameva vā || 7.68 ||
+tasmātsaṃsārabhīto me vahudhā bhayaśaṃkayā |
+nātra sthātuṃ manoreme gacchāmi nirjanaṃ vanam || 7.69 ||
+tasmātmayā yathā proktaṃ tathā caritumarhasi |
+prajānāṃ pālanaṃ kṛtvā dharmanītyā samācara || 7.70 ||
+lokānmā khekha yattāpaiḥ kuladharmma samācara |
+pareṣvapi dayāyuktairdānaṃ hi śraddhayā kuru || 7.71 ||
+prāṇātipātādattādāna kāmamithyādiṃ mā kuru |
+mā mṛṣāvāda paiśūnyaṃ pāruṣyaṃ saṃbhinnameva ca || 7.72 ||
+mābhidhyā vyāpādadoṣairmithyādṛṣṭyādi saṃtyaja |
+etāni tāni sarvāṇi dhāraya dṛḍhacetasā || 7.73 ||
+pāpānāṃ mūla eṣo hi sugateneti deśitaḥ |
+itthaṃ kṛte'pi nṛpateritayo na bhaviṣyati || 7.74 ||
+tatkasmātdharmmeṇa prāpyate rājyaṃ dharmmeṇa dhanavarddhanam |
+dharmmeṇa dhanasādhyante dharmmeṇa kāma sidhyate || 7.75 ||
+kāmasidhyena mokṣaṃ ca prāpyate nātra saṃśayaḥ |
+anena jñānamārgeṇa saśāsa nṛpatiḥ sutam || 7.76 ||
+tataḥsa janako rājā śaktidevaṃ mamātmajam |
+abhiṣiṃcya pratisthāpya nṛpāsane nṛpaṃ vyadhāt || 7.77 ||
+jñānāṃkuśabhayenaiva kuṃcitaḥ sagajo yathāniva |
+tatra sa janakaḥ sarva putrāya sarvamarppayet || 7.78 ||
+tyaktvā parigrahān sarvān punarevamabhāṣata |
+adyārabhyāsi sarveṣāṃ lokānāmadhipaḥ prabhum || 7.79 ||
+sarvadharmānuśāstā ca sarvasattvahitārthabhṛt |
+namāma pitaraṃ tena śrutvā vākyaṃ rasāniva || 7.80 ||
+dhṛtvājñāṃ te yathā tāta prajānāṃ pratipālane |
+iti praśāśya tato bhūpaḥ pracaṇḍadeva sanmatiḥ || 7.81 ||
+prabodhya putrapatnyādimeko yayau vanāśrame |
+tṛṇāsanasa tatra sa nirjaneraṇye vivikte utajāśraye || 7.82 ||
+tṛṇāsanasamāsīna tasthau dhyāna samāhitaḥ |
+tatraikaṃ viharan kaṃcitkālaṃ sa ṛṣidharmmabhṛt || 7.83 ||
+sarvasattvahitotsāhī manasaivaṃ vyacintayat |
+kimevaṃ nirjjane'raṇye dhyātvaiko viharanniha || 7.84 ||
+kasmai samupadekṣyāmi saddharmma bodhisādhanam |
+dānaśīlakṣamāvīryadhyānaprajñāsamudbhavam || 7.85 ||
+puṇyaṃ sattvahitārthāya samākhyātaṃ munīśvaraiḥ |
+tadevaṃ nirjjane sthitvā kiṃ me dharmārthasādhanam || 7.86 ||
+vinā sattvahitārthena nirartha tapasāpi hi |
+kimatra duṣkareṇāpi tapasā siddhisādhanam || 7.87 ||
+kevalaṃ sadgatau śrīmatsaukhyalābhārthameva yat |
+vinā sattvahitārthena niṣphalaṃ siddhisādhanam || 7.88 ||
+tadatra nirjjane sthitvā tapasā niṣphalaṃ mama |
+yatsattvānāṃ hitārthāya dharmmaśrīguṇasādhanam || 7.89 ||
+vidyāsiddhiḥ samṛddhiśca kṣaṇaṃ vīryabalaṃ śubham |
+tatmamaitāni sarvāṇi saṃsiddhi saṃmitānyapi || 7.90 ||
+vinā sattvahitārthena nirarthāni paśoriva |
+tadidaṃ vratamṛsṛjya duṣkaraṃ bodhimānasaḥ || 7.91 ||
+bodhicaryāvrataṃ dhṛtvā care'haṃ jagaddhite |
+tasmāttīrtheṣu tīrtheṣu pīṭheṣu puṇyabhūmiṣu || 7.92 ||
+saddharmmadeśanāṃ kurvan sattvebhyaḥ pracarāṇyaham |
+etatpuṇyaviśuddhātmā pariśuddhatrimaṇḍalaḥ || 7.93 ||
+āśu bodhiṃ samāsādya saṃbuddhapada māpnuyām |
+iti niścitya sa prājñaḥ pracaṇḍadeva utthitaḥ || 7.94 ||
+tataḥ sattvahitārthena pracacāra samāhitaḥ |
+evaṃ saḥ pracaran dharmmamupadeśya samantataḥ || 7.95 ||
+puṇyakṣetreṣu tīrtheṣu pīṭheṣu prāgramanmudā |
+evaṃ bhraman sa sarvatra bhūtaleṣu yathākramam || 7.96 ||
+krameṇa saṃcarannatra himālaye samāyayau |
+atrāyātaḥ sa saṃvikṣya sarvatra saṃpramoditaḥ || 7.97 ||
+aho hīdaṃ mahāpīṭhamitiproktābhyanandata |
+tataḥ sa idamālokya dharmmadhātuṃ jinālayam || 7.98 ||
+jyotirūpyaṃ prasannātmā praṇatvaiha samāyayau |
+atra sa samupāgatya saṃmikṣyenaṃ jinālayam || 7.99 ||
+yathāvidhi samabhyarcya śraddhābhakti prasannadhīḥ |
+naikapradakṣiṇīkṛtya stutvā gītairmanoharaiḥ || 7.100 ||
+aṣṭāṃgai praṇatiṃ kṛtvā dhyātvā japtvā bhajanmudā |
+tataścedaṃ sa saṃvīkṣya mañjudevasya nirmmitam || 7.101 ||
+caityamabhyarcya saṃstutvā gītairnatvā bhajanmudā |
+tato'sau ca mahādevī yonirūpāṃ khagānanām || 7.102 ||
+samālokya prasannātmā yathāvidhi samarccayet |
+tatrāpi sa mahāsattva stutvā gītairmanoharaiḥ || 7.103 ||
+aṣṭāṅgaiḥ praṇatiṃ kṛtvā pradakṣiṇātyanekaśaḥ |
+śraddhayā śaraṇaṃ gatvā smṛtvā dhyātvā samāhitaḥ || 7.104 ||
+tadvidyā dhāraṇīmantraṃ japitvā prābhyanandata |
+tato'sau ca mahāsattvo vāgmatīpramukhānyapi || 7.105 ||
+tīrthānyetāni sarvāṇi sa samīkṣya prābhyanandata |
+tata sa teṣu tīrtheṣu sarveṣvapi yathākramam || 7.106 ||
+snātvā dānavratādīni kṛtvā bhajan pramoditaḥ |
+tato'ṣṭau vītarāgāṃśca dṛṣṭvā sa saṃpraharṣitaḥ || 7.107 ||
+yathāvidhi samabhyarcya stutvā natvā bhajan kramāt |
+tataḥ pracaṇḍadevaḥ sa bodhisattvaḥ prasāditaḥ || 7.108 ||
+atraiva sarvadāśritya vrataṃ caritumaicchata |
+tataḥ sa vimalālokya himālaye samantataḥ || 7.109 ||
+saddharma paramānandaṃ bhuktvotsahe sunivṛttau |
+tataḥ sa mañjudevasya śiṣyaṃ śāsana sambhṛtam || 7.110 ||
+sadguruṃ samupāśritya prārthayadevamānataḥ |
+bhadantātra puṇyakṣetre mahāpīṭhe himālaye || 7.111 ||
+prabrajyāsambaraṃ dhṛtvā saṃsthātumutsahe sadāḥ |
+tadbhavān kṛpayā mahayaṃ saṃbodhijñānasādhanam || 7.112 ||
+prabrajyāsamvaraṃ dātuṃ samarhati jagaddhite |
+iti saṃprārthitaṃ tena niśamya sa guṇākaraḥ || 7.113 ||
+bodhisattvaṃ suvijñaṃ taṃ sampaśyannevamabravīt |
+ehi bhadra samīcchā te yadyasti bauddhasambare || 7.114 ||
+pravajyā vratamādhāya saṃcarasva samāhitaḥ |
+ityuktvā sa mahābhijñaḥ pravrajitaṃ vidhāya tam || 7.115 ||
+bodhicaryāvrataṃ datvā pracārayejjagaddhite |
+tatra sa muṇḍitapātrī surakta cīvarāvṛtaḥ || 7.116 ||
+brahmacārī yatirbhikṣuniḥ kleśorhan sudhīrabhūt ||
+śāntaśrībhikṣuriti nāmo'bhūt |
+tataḥ sa sarvavicchāstā bodhisattvā hitārthadik || 7.117 ||
+sa devāsuralokānāmapi vandyārcito'bhavat |
+tadārabhya sa śāntaśrīdharmadhāto jinālaye || 7.118 ||
+triratnabhajanaṃ kṛtvā tasthau bodhivrataṃ caran |
+sa ekasmin dine cemaṃ jyotīrūpaṃ prabhāsvaram || 7.119 ||
+ratnapadmāsanāsīnaṃ paśyannevaṃ vyacintayet |
+aho hyayaṃ svayaṃ jāto jyotirūpo prabhāsvaraḥ || 7.120 ||
+ratnapadmāsanāsīnaḥ saṃtiṣṭhate jagaddhite |
+kiyatkālamayaṃ śrīmān dharmmadhāturjinālayaḥ || 7.121 ||
+evaṃ saṃbhāṣayan lokān saṃsthāsyate jagaddhite |
+yataḥ kalau samayā te loka pañcakaṣāyite || 7.122 ||
+sarve lokā durācārā bhaviṣyanti durāśayāḥ |
+madābhimānino duṣṭā lobhinaḥ kāmacāriṇaḥ || 7.123 ||
+īrṣyālavaḥ pramattāśca mātsaryavyākulāśayāḥ |
+kleśāhaṃkāragarvāndhā nirvivekāḥ pramādinaḥ || 7.124 ||
+kāmabhogātisaṃraktā daśākuśalacāriṇaḥ |
+tadā kathamayaṃ śrīmān jyotīrūpaḥ prabhāsvaraḥ || 7.125 ||
+ratnapadmāsanāsīna evaṃ tiṣṭhejjagaddhite |
+nūnaṃ ye lobhino duṣṭāḥ kleśavyākulamānasāḥ || 7.126 ||
+imaṃ caityaṃ pratikṣipya ratnāni saṃharettadā |
+duṣṭā ca tathānye'pi duṣṭāḥ kleśābhimāninaḥ || 7.127 ||
+jyotīrūpamimaṃ caityaṃ dhvaṃsayiṣyanti sarvathā |
+evaṃ tadā kalau kāle dhvaṃsite'smin jinālaye || 7.128 ||
+mahāpātakasaṃbhūtaṃ mahotpātaṃ bhaveddhruvam |
+iti hetorahaṃ dharmadhātorasya surakṣaṇe || 7.129 ||
+guptikarttu śilāchādya caityaṃ kuryā mahochrayam |
+tadā sarve'pi lokāste imaṃ stūpaṃ mahochritam || 7.130 ||
+samīkṣya śraddhayā bhaktyā bhajiṣyanti prasāditāḥ |
+tadaitatpuṇyabhāvena sarvadātra samantataḥ || 7.131 ||
+subhikṣaṃ maṅgalotsāhaṃ nirutpātaṃ bhaveddhruvam |
+iti dhyātvā sa śāntaśrīḥ śāstāraṃ taṃ punarmudā || 7.132 ||
+upetya sāñjalirnatvā prārthayadevamādarāt |
+bhadanta sadgurośāstaryadicchāmiha sāmpratam || 7.133 ||
+dharmmādhātumimaṃ caityaṃ gupti karttuṃ surakṣaṇe |
+tadūrddha śilayāchādya svīṣṭikābhiḥ samuchritam || 7.134 ||
+stūpaṃ kṛtvā pratiṣṭhāpya sthirīkarttuṃ samutsahe |
+ityatra me bhavāñchāstā gupti kṛtvābhirakṣaṇe || 7.135 ||
+dharmmadhātoḥ jagadbhartturanujñāṃ dātumarhati |
+iti saṃprārthite tena śāntaśriyā niśamya saḥ || 7.136 ||
+mahāmatirmahāsattvaṃ taṃ paśyannevamabravīt |
+bhadrasvaṃyambhūvāṃstasya guptikarttuṃ yadīcchasi || 7.137 ||
+pratyekaṃ śrāvakaṃ yānaṃ muktvā mahati saṃśritaḥ |
+vajrābhiṣekamādāya cara vajravrataṃ punaḥ || 7.138 ||
+tato mārān vinirjjitya samārādhya jineśvaram |
+saṃprārthya śilayācchādya kuru stūpaṃ samuchritam || 7.139 ||
+iti śāstā samādiṣṭaṃ niśamya sa pramoditaḥ |
+śāstāraṃ taṃ praṇatvā ca prārthayadevamādarāt || 7.140 ||
+sadgururme bhavāñchāstā dharmmadhātusurakṣaṇe |
+vajracaryāvrataṃ datvā cāraya māṃ jagaddhite || 7.141 ||
+iti saṃprārthite tena śāntaśriyā niśamya saḥ |
+mahāmatirmahāsattvaṃ taṃ samīkṣyaivamabravīt || 7.142 ||
+yadi śraddhāsti te bhadra vajracaryā mahāvratam |
+yathāvidhi pradāsyāmi tadgṛhāṇa jagaddhite || 7.143 ||
+ityuktvā sa mahācāryastasmai śāntaśriye kramāt |
+sābhiṣekaṃ mahāyāne vajracaryāvrataṃ dadau || 7.144 ||
+śāntaśrīvajrācārya iti sthāpitaḥ tatkṣaṇe'rye cādhijñaprāpto'bhūt |
+tataḥ prāptābhiṣekaḥ sa śāntaśrī vajrayogavit || 7.145 ||
+sa svātmā dakṣiṇāṃ tasmai gurave pradadau mudā |
+tataḥ sa vajradhṛgyogī mahābhijñaḥ susiddhimān || 7.146 ||
+svakuleśaṃ samārādhya sagaṇaṃ prābhajanmudā |
+tataḥ sa vajradhṛgyogī mahābhijñaḥ susiddhimān || 7.147 ||
+saddharmmasādhanotsāhī sarvavidyādhipopyabhūt |
+tataḥ sāsturanujñāṃ sa samāsādya prasāditaḥ || 7.148 ||
+dharmadhātuṃ samārādhya prārthayadevamānataḥ |
+bhagavannātha sarvajña bhavatāṃ rakṣaṇāya yat || 7.149 ||
+jyotīrūpaṃ samācchādya caityaṃ karttumihotsahe |
+tadbhavān trijagannātha kṛpayā me prasīdatu || 7.150 ||
+yada trāpyaparārdha me tatsarva kṣantumarhati |
+iti saṃprārthya sa prājña jyotīrūpaṃ jinālayam || 7.151 ||
+sa ratnapadmāchādya śilayā samagopayat |
+taduparīṣṭikābhiśca vidhāya caityamucchritam || 7.152 ||
+yathāvidhi pratiṣṭhāpya mahotsāhaiḥ sadābhajat |
+tata idañca pucchāgraṃ mañjudevasya nirmmitam || 7.153 ||
+caityaṃ sa śilayāchādya stūpaṃ vyadhāttathottamam |
+idaṃ stūpaṃ ca sa śāntaśrīḥ pratiṣṭhāpya yathāvidhi || 7.154 ||
+sarvadā śraddhayā bhaktyā mahotsāhairmudābhajat |
+tataścāsau mahācāryamārādhya pañcadevatāḥ || 7.155 ||
+pañca sutāḥ pureṣvevaṃ pratiṣṭhāpya sadābhajat |
+tadyathā devatā pañca prathamaṃ vāyudevatā || 7.156 ||
+vāyupure pratiṣṭhāpya vahnipuro'gnidevatā |
+nāgapure ca nāgendro vasupure vasundharām || 7.157 ||
+śāntipure mahāśrīmatsambaraṃ sugaṇaṃ tathā |
+etān sarvān samārādhya sa ācārya yathāvidhi || 7.158 ||
+mahotsāhaiḥ samabhyarcya prābhajan sarvadā mudā |
+evaṃ kṛtvā sa ācārya śāntaśrīḥ kṛtakṛtyau maharddhikaḥ || 7.159 ||
+bhadraśrīmantrasaṃsiddhaḥ sarvavidyādhipo'bhavat |
+tato bhūyaḥ sa ācāryo bodhisattvā mahāmatiḥ || 7.160 ||
+sarvasattvahitotsāhī dhyātvaivaṃ samacintayat |
+atraivamahamārādhya sarvān devān yathāvidhi || 7.161 ||
+pratiṣṭhāpya samabhyarcya mahotsāhairbhaje mudā |
+tathātra sarvadā dharmmadhātuvāgīśvaraṃ sadā || 7.162 ||
+smṛtvā dhyātvā samārādhya saṃtiṣṭheyaṃ jagaddhite |
+iti dhyātvā sa śāntaśrīrācāryastriguṇārthabhṛt || 7.163 ||
+sarvasattvahitārthena tathāvatraiva nanditaḥ |
+evaṃ tā devatā bhaktyā bhajanti ye yathāvidhi || 7.164 ||
+te bhadraśrīguṇāpannā bhaveyurbodhicāriṇaḥ |
+tadviśeṣaphalaṃ cāpi śṛṇu maitreya sāṃpratam || 7.165 ||
+sarva sattvānubodhārtha vakṣyāmyatra samāsataḥ |
+tadyathā ye samārādhya sagaṇāṃ vāyudevatām || 7.166 ||
+yathāvidhi samabhyarcya saṃbhajante samādarāt |
+teṣāṃ vātamahotpātabhayaṃ kvāpi na vidyate || 7.167 ||
+nīrogyaṃ śrīsamāpannaṃ kāmabhojyaṃ sadā bhave |
+ye cāpyevaṃ samārādhya sagaṇāṃ vahnidevatām || 7.168 ||
+yathāvidhi samabhyarcya sambhajante samādarāt |
+teṣāṃ vahnimahotpātaṃ bhayaṃ kvāpi na vidyate || 7.169 ||
+paripuṣṭendriyārogya mahāsaukhyaṃ sadā bhave |
+ye cāpyevaṃ samārādhya sagaṇāṃ nāgadevatām || 7.170 ||
+yathāvidhi samabhyarcya prabhajante sadā mudā |
+teṣāṃ na vidyate kvāpi durbhikṣotpātajaṃ bhayam || 7.171 ||
+bhadraśrīratnasaṃpattikāmabhojyaṃ sadā bhave |
+ye cāpyevaṃ samārādhya sagaṇāṃ śrībasundharām || 7.172 ||
+yathāvidhi samabhyarcya saṃbhajante samādarāt |
+teṣāṃ dāridrayaduḥkhādi bhayaṃ nāsti kadācana || 7.173 ||
+bhadraśrīsadguṇāpannamahāsaṃpatsukhaṃ sadā |
+ye cāpyevaṃ samārādhya sagaṇaṃ sambaraṃ jinam || 7.174 ||
+yathāvidhi samabhyarcya saṃbhajante sadādarāt |
+teṣāṃ mārāpasargga ca bhayaṃ kvāpi na vidyate || 7.175 ||
+saddharmmaratnasaṃpattimahaiśvaryasukhaṃ sadā |
+ye cedaṃ caityamārādhya mañjudevasya nirmmitam || 7.176 ||
+yathāvidhi samabhyarcya saṃbhajante samādarāt |
+taddurbhbhagā durācārā duṣṭā syurna kadācana || 7.177 ||
+sarve dharmādhipā nāthā bhaveyuḥ śrīguṇākarāḥ |
+ye cāpīdaṃ samārādhya dharmmadhātuṃ jinālayam || 7.178 ||
+yathāvidhi samabhyarcya sambhajante samādarāt |
+te sarvve vimalatmāno bhadraśrīsadguṇāśrayāḥ || 7.179 ||
+bodhisattvā mahābhijñā bhaveyu bodhicāriṇaḥ |
+ya etā devatāḥ sarvāḥ smṛtvā dhyātvāpi sarvadā || 7.180 ||
+nāmāpi ca samuccārya saṃbhajante samādritāḥ |
+te'pi sarve na yāsyanti durggatiṃ ca kadācana || 7.181 ||
+sadā sadgatisaṃjātā bhaveyuḥ śrīguṇāśrayāḥ |
+tataste sukṛtāraktāḥ sadharmmaguṇalālasāḥ || 7.182 ||
+triratnaśaraṇaṃ kṛtvā saṃcareran sadā śubhe |
+tataste vimalātmānaḥ pariśuddhendriyāśayāḥ || 7.183 ||
+bodhisattvā mahāsattvāścaturbrahmavihāriṇaḥ |
+sarvasattvahitādhānaṃ careyurbodhisambaram || 7.184 ||
+tataste bodhisaṃbhāraṃ purayitvā yathākramam |
+daśabhūmīśvarā nāthā bhaveyuḥ sugatātmajāḥ || 7.185 ||
+tataste nirmmalātmānaḥ saṃsāragati niḥspṛhāḥ |
+arhantaḥ savala māraṃ nirjitya syurniraṃjanāḥ || 7.186 ||
+trividhāṃ bodhimāsādya saddharmmaguṇabhāskarāḥ |
+sarvasattvahitārthena saṃbuddhapadamāpnuyu || 7.187 ||
+yepyetadguṇamāhātmyaṃ śrutvāpyatyanumoditāḥ |
+tathā tatpuṇyamāhātmyaṃ praśasanti samādarāt || 7.188 ||
+te'pi sarve vikalmāṣāḥ pariśuddhitrimaṇḍalāḥ |
+śrīmantaḥ sadguṇādhārā bhaveyu bodhimānasāḥ || 7.189 ||
+na yāyurdugatiṃ kvāpi sadā sadgatisambhavāḥ |
+sarvasattvahitaṃ kṛtvā saṃcarerañjagaddhite || 7.190 ||
+tataḥ sarvādhipāste syu rdhammārthi saṃprapūrakāḥ |
+bodhisaṃbhāraṃ saṃpūrya saṃbuddhapadamāpnuyuḥ || 7.191 ||
+iti satyaṃ parijñāya bauddhaṃ padaṃ yadīcchatha |
+etān devān samārādhya bhajadhvaṃ sarvadā bhave || 7.192 ||
+etatpuṇyānubhāvena yūyamapyevamābhavam |
+durggatiṃ naiva yāyāta kadācin kutraciddhruvam || 7.193 ||
+sadā sadgatisaṃjātā bhadraśrīsadguṇāśrayāḥ |
+bodhisattvā mahāsattvā bhavata bodhicāriṇaḥ || 7.194 ||
+tataḥ saṃbodhisaṃbhāraṃ pūrayitvā yathākramam |
+trividhāṃ bodhimāsādya saṃbuddhapadamāpsyatha || 7.195 ||
+iti matvātra ye lokā rvāñchanti saugataṃ padam |
+sa devān sagaṇāṃ sarvān samārādhya bhajantu te || 7.196 ||
+ityādiṣṭaṃ munīndreṇa niśamya te sabhāśritāḥ |
+sarve tatheti vijñapya prābhyanandan prabodhitāḥ || 7.197 ||
+tadā śāntaśriyā yaṃssaṃ guptikṛto jinālayaḥ |
+ityādiśya munīndro'pi samādhiṃ viddhekṣaṇam || 7.198 ||
+iti śrīsvayaṃbhūdharmmadhātuvāgīśvara guptikṛta pravarttano nāma saptamo'dhyāyaḥ samāptaḥ |
+aṣṭama adhyāyaḥ svayambhūcaityāśramanāma sādhanāsuvṛṣṭicaraṇo nāma
+atha sa bhagavāñchāstā sa samādherutthitaḥ punaḥ |
+maitreyaṃ taṃ sabhāṃ cāpi samālokyaivamādiśat || 8.1 ||
+śṛṇu maitreya bhūyo syā etaddevānubhāvataḥ |
+siddhabhūmeḥ pravakṣāpi mahatsiddhi prabhāvatām || 8.2 ||
+tadyathātropachandohe siddhaloka himālaya |
+nepāla iti vikhyāte etaddevānubhāvataḥ || 8.3 ||
+sadā bhadramahotsāhaṃ subhikṣaṃ nirupadravam |
+sarvadravyasamāpanna samṛddhādhamavarttata || 8.4 ||
+tadā sarvatra lokāśca daśakuśalacāriṇaḥ |
+triratnabhajanāraktāḥ prācarantaḥ sahāśubha || 8.5 ||
+etatpuṇyānuliptāste caturbrahmavihāriṇaḥ |
+bhadraśrīsadguṇādhīrā babhūvurbodhicāriṇaḥ || 8.6 ||
+evameṣāṃ prasiddhābhūdṛddhisiddhiguṇārthadā |
+ṛddhāsphītā subhikṣā śrīsamāśrayābhiśobhitāḥ || 8.7 ||
+tenātra yogino vijñā yatayo brahmacāriṇaḥ |
+smṛtvā dhyātvā kuleśānaṃ samārādhya samāśrayan || 8.8 ||
+tathānye'pi sulokāśca samāgatya prasāditāḥ |
+dharmadhātumimaṃ bhaktyā bhajamānāḥ samāśrayan || 8.9 ||
+sarvaṣvapi ca tīrtheṣu snānadānādi saṃbaram |
+kṛtvāṣṭau vītarāgāṃśca bhajanta samupāśrayan || 8.10 ||
+etāśca devatāḥ pañca samārādhya yathāvidhi |
+bhajamānā sadotsāhaiḥ prācaranta samāhitāḥ || 8.11 ||
+tadā khagānanādevīṃ samārādhya yathāvidhi |
+bhajamānā mahotsāhaiḥ prācaranta sadā śubham || 8.12 ||
+evamimaṃ ca pucchāgraṃ caityaṃ mañjuśriyāpi te |
+sarve lokāḥ samārādhya prābhajanta prasāditāḥ || 8.13 ||
+evaṃ sarve'pi lokāśca saddharmmābhiratā mudā |
+sadā bhadrāṇi karmmāṇi kṛtvātra sarvvadāśrayan || 8.14 ||
+evameṣāṃ mahāsiddhi bhūmiḥ śrīsaṃpraśobhitāḥ |
+mahājana samākīrṇṇā sarvabhūmyuttamā vabhau || 8.15 ||
+tataḥ kālāntareṇātra rājā bhūmi yatirnṛpaḥ |
+śrīguṇakāmadevākhya śāstā lokādhipābhavat || 8.16 ||
+tadā sa nṛpatiḥ prauḍhā yuvā kāmātilālasaḥ |
+yathā kāmarasaṃ bhuktvā prācaran svecchayāraman || 8.17 ||
+tataḥ sa kṣatriyāpyevaṃ kāmabhāgābhimohitāḥ |
+pramadā guṇasaṃraktā nītidharme nirādaraḥ || 8.18 ||
+dṛṣṭvā sa sundarīṃ kāntāmagamyāmapi mohitaḥ |
+balenāpi samākṛṣya vubhuje svecchayā mudā || 8.19 ||
+evaṃ sa nṛparājāpi kāmadharmmātilālasaḥ |
+mantriṣu sarva rājyāṅga niveśya svecchayā ramet || 8.20 ||
+tataḥ ste mantriṇaḥ sarve nṛpaṃ taṃ pramadā vaśe |
+pratiṣṭhāpya yathākāmaṃ bhuktvā caran yathecchayā || 8.21 ||
+tathā bhṛtyā janāścāpi sarve'pi kleśitāśayāḥ |
+saddharmmāṇi pratikṣipya prācaran kāmabhāginaḥ || 8.22 ||
+brāhmaṇāśca tathā sarve daśākuśala cāriṇaḥ |
+svakuladharmmamaryādaṃ tyaktvā caran yathecchayā || 8.23 ||
+vaiśyāścāpi tathā dharmmadravyasaṃgrahalālasāḥ |
+svakulavṛttimutsṛjya bhuktvā caran yathepsitam || 8.24 ||
+mahājanāstathā sarvepyanyāyadravyasādhinaḥ |
+svakuladharmamutsṛjya bhuktvaiva prācaran sukham || 8.25 ||
+vaṇijo'pi tathā sarve mithyārthasādhanodyatāḥ |
+satyadharma pratikṣipya ceruḥ kleśābhimānitāḥ || 8.26 ||
+śilpino'pi tathā sarve kavalabhṛtilālasāḥ |
+avidhijñāḥ pramādāndhāścakruḥ karmma yaṃthecchayā || 8.27 ||
+tathā nārījanāścāpi kāmakleśāḥ kulāśayāḥ |
+svakuladharmamṛtsṛjya prācaranta yathepsitam || 8.28 ||
+evaṃ sarve'pi lokāśca daśākuśalasaṃratāḥ |
+svakulācāramutsṛjya prācaranta yathecchayā || 8.29 ||
+tīrthikāścāpi ye duṣṭāste dṛṣṭvaivaṃ jinālayam |
+ninditvā paribhāṣantaḥ prācaranta yathecchayā || 8.30 ||
+tadātra vahavo duṣṭā caurā dhūrttāḥ pragalbhikāḥ |
+sādhujanāḥ pratikṣipya ceru mattadvīpā iva || 8.31 ||
+sādhavaḥ sajjanāścāpi nīcakarmānucāriṇaḥ |
+saddharmmaviratotsāhāśceru bhuktvaiva nīcavat || 8.32 ||
+tadaivaṃ pāpasaṃcārātsarvatrāpyacaratkaliḥ |
+saddharmmo durvalī bhūto nīcavadvilayaṃ yayau || 8.33 ||
+tadātra pravarībhūte kalisaṃcāra varttate |
+dṛṣṭvā lokādhipāḥ sarve bhavanruṣṭaparānmukhāḥ || 8.34 ||
+tato'tra vimukhībhūya sarvalokādhipā api |
+dhignṛpamiti bā danto draṣṭumapi na cecchire || 8.35 ||
+tadātra lokapālānāṃ sudṛṣṭiviratotsave |
+ītayaḥ samupākramya prāvarttitumupācarat || 8.36 ||
+tato devā api krūrā ye duṣṭā mārapākṣikāḥ |
+sarve tatra rūpālokya mahotpātaṃ pracakrire || 8.37 ||
+vahnirapi tathālokya duṣṭavatkopitāśayaḥ |
+dhūmākulārciṣā dagdhā mahotpātaṃ vyadhādiha || 8.38 ||
+dharmarājāpi ruṣṭābhūnnirdayāṃ nirujānapi |
+nihantuṃ prāṇinaḥ sarvānmahāmārīmacārayat || 8.39 ||
+naiṛtyā rākṣasendro'pi prakopitātinirdayaḥ |
+sarvatrāpi praviṣṭo'tra mahotpātaṃ vyadhātsadā || 8.40 ||
+varuṇo nāgarājāpi praduṣṭaḥ krūracakṣuṣā ||
+dṛṣṭvā vārivahānmeghān sarvān vṛṣṭiṃ nyavārayet || 8.41 ||
+maruto'pi tathālokya praruṣṭā nirdayā sthitāḥ |
+asādhyaṃ pracarantātra mahotpātaṃ pracakrire || 8.42 ||
+tathā yakṣāśca ye duṣṭāḥ kinnarā guhyakā api |
+gṛhe gṛhe praviśyāpi rogotpātaṃ pracakrire || 8.43 ||
+tathā bhūtāḥ piśācāśca vetālāḥ kaṭapūṭināḥ |
+ḍākiṇyaḥ pramathāścāpi śākinyaḥ sagaṇā api || 8.44 ||
+rudrā api sagandharvā kumbhāṇḍā garuḍā api |
+sarvatra pracaranto'tra mahotpātaṃ pracakrire || 8.45 ||
+mātṛkā api sarvāśca sagaṇā aprasāditāḥ |
+suduṣṭavālokya sarvān stān drakṣituṃ na samāhire || 8.46 ||
+grahāstārāgaṇāḥ sarve viruddhā aprasāditāḥ |
+anusaṃdarśanaṃ vāpi kartu naivāvavāṃñchire || 8.47 ||
+kuleśā api sarvāśca devatā aprasāditāḥ |
+saṃtrāta samarthāstān paśyaṃtya eva tasthire || 8.48 ||
+evamanyepi devāśca sarvatrāṇaparāṅmukhāḥ |
+teṣāṃ saṃdarśanaṃ kartumapi naiva vāṃchire || 8.49 ||
+teṣāṃ trātuṃ tadekāpi na śaśāka kathaṃcana |
+evamatra mahotpātaṃ prāvarttata samantataḥ || 8.50 ||
+evamatra mahotpātaṃ prarvarttate'pi sarvataḥ |
+sarvakleśā hatātmānaḥ pracakru vigrahaṃ mithaḥ || 8.51 ||
+tadevaṃ kalisaṃraktān sarvān lokān vilokya saḥ |
+nṛpatiḥ suciraṃ dhyātvā manasaivaṃ vyacintayat || 8.52 ||
+hā kaṣṭaṃ pāpajaṃ dhoraṃ jāyate'trādhunā mama |
+tatpāpaśamanāyāyaṃ ko dadhānmahitāśayaḥ || 8.53 ||
+kathamiha mahadduḥkhaṃ śamīkarttuṃ vidhāsyate |
+paśyannevamupekṣyaiva rameyaṃ sāmprataṃ ca kim || 8.54 ||
+yo hi rājā prajāduḥkhamupekṣya ramate sukham |
+sa kiṃ rājā prabhurbhattāṃ duṣṭāhivadvigarhyate || 8.55 ||
+yatra rājā prajāduḥkhamupekṣya na vicārayet |
+svayameva sukhaṃ bhuktvāramaṃścareyathecchayā || 8.56 ||
+tatra sarvaprajā lokāḥ kleśavyākulamānasāḥ |
+satyadharmakulācāraṃ hitvā careyurauddhaṭāḥ || 8.57 ||
+tataste duritāraktā daśakuśalacāriṇaḥ |
+mahāpāpe'pi nirlajjāḥ saṃcareran yathecchayā || 8.58 ||
+etatsarva mahatpātaṃ rbhujīyānnṛpatirdhruvam |
+iti satyaṃ samākhyātaṃ nītivijñairmaharṣibhiḥ || 8.59 ||
+ityetatpāpavaipākyaṃ bhoktavyaṃ hi mayā bhava |
+tadatra kiṃ kariṣyāmi yadupāyaṃ na manyate || 8.60 ||
+dhigjanma me'tra saṃsāre yasya rājye sadā kaliḥ |
+durbhikṣādi mahātpātaṃ pravarttate divāniśam || 8.61 ||
+dhanyāste puruṣā ye hi niḥkleśā vimalāśayā |
+vimukta bhava saṃcārā bhikṣavo brahmacāriṇaḥ || 8.62 ||
+kiṃ me'tra janma saṃsāre sukulamapi prabhornṛṇām |
+yadahaṃ paśuvadbhuktvā kāmameva rame gṛhe || 8.63 ||
+tadetatapāpalipto'haṃ kleśavyākulamānasaḥ |
+narakeṣu bhraman duḥkhaṃ bhuṃjīyāṃ vividhaṃ sadā || 8.64 ||
+tadā ko me suhṛtmitraṃ saṃrakṣitumupācarat |
+dharmameva tadā trāṇaṃ sarvaduḥkhāpahaṃ bhave || 8.65 ||
+dharmāṇāṃ pravaraṃ bauddhaṃ dharmaṃ sarvabhayāpaham |
+sarvārthasādhanaṃ siddhamityākhyātaṃ jagaddhitam || 8.66 ||
+ityahaṃ sāmprataṃ gatvā gośṛṅge parvate sthitam |
+śāntaśriyaṃ mahācāryaṃ prārthayeyaṃ samādarāt || 8.67 ||
+sa eva hi mahācārya etadutpātaśāntaye |
+vidhānaṃ samupādiśya kuryānme'tra hitaṃ sadā || 8.68 ||
+iti niścitya bhūpālaḥ purohitaṃ samantriṇaḥ |
+mahājanāna sapaurāṃśca samāmantrayaivamādiśat || 8.69 ||
+bho bhavanto yadatraivaṃ mahotpātaṃ pravarttate |
+tacchāntikaraṇaṃ dharmaṃ karttumicchāmi sāṃpratam || 8.70 ||
+tadācārya mahābhijñaṃ śāntiśriyaṃ samādarāt |
+prārthayitvā tadā deśāddharttumicchāmi sadṛśam || 8.71 ||
+iti sarve vayaṃ tatra gośṛṅge'gre samādarāt |
+śāntaśriyaṃ mahācārya saṃprārthituṃ vajrāvahai || 8.72 ||
+ityādiṣṭaṃ narendraṇa śrutvā purohitādayaḥ |
+sarve tatheti vijñapya prābhyanandan prabodhitāḥ || 8.73 ||
+tataḥ sa nṛpatī rājā samantrijanapaurikāḥ |
+purohitaṃ purodhāya gośṛṅge'gre mudācarat || 8.74 ||
+tatra dṛṣṭvā tamācārya nṛpatiḥ saṃpramoditaḥ |
+sametya sāñjalirnatvā pādābje samupāśrayat || 8.75 ||
+tathā sarve'pi lokāśca samīkṣyenaṃ prasāditāḥ |
+sametya pādayornatvā samupatasthire mudā || 8.76 ||
+tān sarvān samupāsīnān samīkṣya sa mahāmatiḥ |
+śāntaśrīstaṃ mahīpālaṃ sampaśyannevamādiśat || 8.77 ||
+rājan sadāstu vo bhadraṃ sarvatrāpi nirantaram |
+kimarthamiha prāyāsi tatme'gre vaktuṃmarhasi || 8.78 ||
+iti śāntaśriyā prokte nṛpatiḥ sa kṛtāñjaliḥ |
+praṇatvā taṃ mahācārya paśyannevaṃ nyavedayet || 8.79 ||
+bho śrīśāstayadarthe'haṃ bhavaccharaṇamāvraje |
+tadartha prārthayāmyatra me samupādeṣṭumarhati || 8.80 ||
+yatme'tra pāpato rājye mahotpātaṃ pravarttate |
+tacchāntikaraṇopāyaṃ samupādeṣṭumarhati || 8.81 ||
+iti saṃprārthite rājñā śāntaśrī mantravitsudhīḥ |
+nṛpate taṃ mahāsattvaṃ samālokyaivamādiśat || 8.82 ||
+nṛpate pāpato'traivaṃ mahotpātaṃ pravarttate |
+tatpāpaśamanopāyaṃ vakṣāmi te śṛṇuṣva tat || 8.83 ||
+yatvamatra nṛpā rājā sarvadharmānupālakaḥ |
+nītidharmmānusāreṇa saṃpālayasi na prajāḥ || 8.84 ||
+mantriṇo'pi tathā sarvanītidharmaparāṅmukhāḥ |
+bhuktvā kāmasukhānyeva pracaranti yathecchayā || 8.85 ||
+tathā bhṛtyā janāścāpi paurāścāpi mahājanāḥ |
+svakuladharmamutsṛjya pracaranti yathecchayā || 8.86 ||
+evaṃ sarve'pi lokāśca daśākuśalacāriṇaḥ |
+saddharmāṇi pratikṣipya pracaranti pramādataḥ || 8.87 ||
+tadaitatpāpavaipākyaṃ bhoktavyaṃmeva hi bhava |
+yenaiva yatkṛtaṃ karmma bhoktavyaṃ tena tatphalam || 8.88 ||
+evaṃ matvā nṛpaḥ svāmī svayaṃ nītyā vicārayan |
+bodhayitvā prayatnena lokān saṃpālayatsadā || 8.89 ||
+yadyatra nṛpatiḥ samyaga vicārya pramādataḥ ||
+svayaṃ kāmasukhānyeva bhuktvā caradyathecchayā || 8.90 ||
+tathā sarve'pi lokāśca nṛpacaryānucāriṇaḥ |
+bhuktvā kāmasukhānyeva pracareyuryathecchayā || 8.91 ||
+tadā tatra mahotpātaṃ pravarttatpāpato dhruvam |
+pravarttite mahotpāta lokā syuḥ pāpaduḥkhitāḥ || 8.92 ||
+tatra tānnṛpatiḥ paśyannupekṣyaṃ nirdayaścarat |
+lokasaṃrakṣaṇe asaktaḥ sa sarvapāpabhāgbhavet || 8.93 ||
+sarvāṇyapi hi pāpāni sarvalokaiḥ kṛtānyapi |
+patitvā nṛpateragre pradadyustatphalāni hi || 8.94 ||
+iti satyaṃ samākhyātaṃ sarvairapi munīśvaraiḥ |
+natvā rājā svayaṃ nītyā vicārayan samācaret || 8.95 ||
+iti tena samādiṣṭaṃ śāntaśriyā sumantriṇā |
+śrutvā sa nṛpatīrbhītyā saṃtāpatāpitāśayaḥ || 8.96 ||
+śāntaśriyaṃ tamācārya samīkṣya śaraṇaṃ gataḥ |
+natvā pādāmbuje bhūyaḥ prārthayadevamādarāt || 8.97 ||
+śāstaḥ sadā cariṣyāmi bhavadājñāṃ śirāvahan |
+tatme yaducitaṃ dharmma tatsamādeṣṭumarhati || 8.98 ||
+iti saṃprārthitaṃ rājñā śrutvācāryaḥ sa satmatiḥ |
+nṛpatiṃ taṃ mahāsattvaṃ sampaśyannevamādiśat || 8.99 ||
+rājañchṛṇu samādhāya vakṣyāmi śubhakāraṇam |
+yadyasti te kṛpā loka tatkuru yanmayoditam || 8.100 ||
+tadyathaiteṣu tīrtheṣu snātvā nityaṃ yathāvidhi |
+śuciśīlasamācāraḥ samāhitaḥ trimaṇḍalaḥ || 8.101 ||
+sambodhiṃ praṇidhānena sarvasattvahitārthabhṛt |
+triratnabhajanaṃ kṛtvā carasva poṣadhaṃ vratam || 8.102 ||
+tata imaṃ jagannāthaṃ dharmadhātuṃ jinālayam |
+yathāvidhi samārādhya saṃbhajasva sadādarāt || 8.103 ||
+tathā sarvā imā pañca devatāśca yathāvidhi |
+samārādhya samabhyarcya saṃbhajasva sadādarāt || 8.104 ||
+imaṃ mañjuśrīyaṃścāpi caityamārādhya sarvadā |
+yathāvidhi samabhyarcya saṃbhajasva mahotsavaiḥ || 8.105 ||
+tathāṣṭau vītarāgāṃśca samārādhya yathāvidhi |
+samabhyarcya mahotsāhaiḥ saṃbhajasva sadādarāt || 8.106 ||
+tathā māheśvarīṃ devī khagānanāṃ samādarām |
+samārādhya samabhyarcya saṃbhajasva yathāvidhim || 8.107 ||
+ete sarve'pi devā hi sarvalokādhipeśvarāḥ |
+sarvasattvahitārthena prādurbhūtāḥ svayaṃ khalu || 8.108 ||
+tadatraiteṣu deveṣu sarveṣu śraddhayā sadā |
+vidhinā bhajanaṃ kṛtvā saṃcarasva jagaddhite || 8.109 ||
+lokāṃścāpi tathā sarvān bodhayitvā prayatnataḥ |
+sarveṣveteṣu tīrtheṣu snānadānādikaṃ sadā || 8.110 ||
+kārayitvā mahatpuṇyaṃ jagadbhadrasukhārthadam |
+saṃbuddhaguṇasatsaukhyaṃ cāraya poṣadhaṃ vratam || 8.111 ||
+eteṣāṃ ca triratnādidevānāṃ bhajanaṃ sadā |
+kārayitvā mahotsāhairbodhimārge pracāraya || 8.112 ||
+tadaitatpuṇyabhāvena sarvatrāpi caracchubham |
+tadā sarvamahotpātaṃ sarvatra vilayaṃ vrajet || 8.113 ||
+tadā brahmamarendrādyāḥ sarve lokādhipā api |
+sudṛśātra samālokya pālayeyuḥ sadā mudā || 8.114 ||
+tadā saṃpālite'smiṃna taiḥ savairlokādhipaiḥ punaḥ |
+subhikṣaṃ śrīśubhotsāhaṃ pravarttayeddhi sarvadā || 8.115 ||
+tadā sarbe'pi lokāśca nīrogāḥ śrīguṇāśrayāḥ |
+viramya pāpamārgebhyaḥ saṃcareran sadā śubhe || 8.116 ||
+evaṃ dhṛtvā sadā rājanmahāpuṇya prabhāvataḥ |
+ante bodhiṃ samāsādya saṃbuddhapadamāpnuyuḥ || 8.117 ||
+evaṃ mahattaraṃ puṇyaṃ triratnabhajanādbhavam |
+vijñāyādau triratnānāṃ bhajasva śraddhayā smaran || 8.118 ||
+tataḥ sarveṣu tīrtheṣu snātvā śuddhendriyāśayaḥ |
+triratnaṃ śaraṇaṃ gatvā bhajasva poṣadhaṃ vratam || 8.119 ||
+tataḥ sarvānimān devān dharmmadhātumukhān sadā |
+yathāvidhi samārādhya saṃbhajasva samarcayan || 8.120 ||
+lokānapi tathā sarvān bodhayitvā prayatnataḥ |
+sarveṣveteṣu tīrtheṣu snāpayitvā yathāvidhim || 8.121 ||
+triratnaśaraṇe sthāpya saṃbodhijñānasādhanam |
+bhadśrīsatguṇādhāraṃ cāraya poṣadhaṃ vratam || 8.122 ||
+eteṣāmapi devānāṃ kārayitvā sadārcanam |
+bodhimārge pratiṣṭhāpya cāraya pālayañchubhe || 8.123 ||
+evaṃ kṛtvā mahatpuṇyaṃ prāpya śrīsadguṇāśrayaḥ |
+bodhisattva mahāsattva mahābhijñā bhaveddhruvam || 8.124 ||
+tataḥ saṃbodhisaṃbhāraṃ pūrayitvā yathākramam |
+arhan bodhiṃ samāsādya saṃbuddhapadamāpnuyāḥ || 8.125 ||
+iti śāntaśriyā śāstā samādiṣṭaṃ niśamya saḥ |
+nṛpastatheti vijñapya kartumevaṃ samaicchata || 8.126 ||
+tataḥ sa nṛpatiḥ sarvānmantriṇassacivāñjanān |
+paurānmahājanāścāpi samāmantrayaivamādiśat || 8.127 ||
+bho mantriṇo janāḥ sarve'mātyāḥ paurā mahājanāḥ |
+ācāryena yathādiṣṭaṃ tathā caritumarhatha || 8.128 ||
+ahamapi tathā dhṛtvā sarvadā bhadrakāraṇam |
+triratnaśaraṇaṃ kṛtvā vrataṃ caritumutsahe || 8.129 ||
+ityādiṣṭaṃ narendreṇa śrutvā te mantriṇo janāḥ |
+paurā mahājanāḥ sarva tatheti pratiśuśruvuḥ || 8.130 ||
+tataḥ sa nṛpatiḥ sarveḥ sapurohitamantribhiḥ |
+amātyaiḥsacivaiḥ paurairmahājanaiḥ samanvitaḥ || 8.131 ||
+sarveṣveteṣu tīrtheṣu snātvā yathāvidhi kramāt |
+śuddhaśīlaḥ samādhāya prācaratpoṣadhaṃ vratam || 8.132 ||
+tatassa vimalātmāna triratnaśaraṇaṃ gatāḥ |
+dharmadhātuṃ samārādhya samabhyarcyabhijanmudā || 8.133 ||
+tathā vāyupure vāyudevatāṃśca yathāvidhi |
+agnipure'gnidevaṃ ca nāgapure phaṇeśvarān || 8.134 ||
+vasupure vasundhārāṃ saddharmmaśrīguṇapradām |
+śāntapure maheśānaṃ sambaraṃ sagaṇaṃ kramāt || 8.135 ||
+yathāvidhi samabhyarcya śraddhayā samupāśritaḥ |
+tathā mañjuśrī yaścaityaṃ samabhyarcyābhajan sadā || 8.136 ||
+tathāṣṭau vītarāgāṃśca śrīdevīṃśca khagānanām |
+yathāvidhi samārādhya samabhyarcyābhajatsadā || 8.137 ||
+tathā sarve'pi lokāste nṛpavṛttānucāriṇaḥ |
+snātvā sarveṣu tīrtheṣu śuddhaśīlā samādarāt || 8.138 ||
+triratnaśaraṇaṃ kṛtvā carantaḥ poṣadhaṃ vratam |
+dharmmadhātumukhān sarvān devāṃścābhyarcya prābhajan || 8.139 ||
+tadaitatpuṇyabhāvena sarvatra śubhamācarat |
+tataḥ sarva mahotpātaṃ krameṇa praśamaṃ yayau || 8.140 ||
+tadā sarve'pi te lokā nīrogāḥ puṣṭitendriyāḥ |
+mahānandaṃ sukhaṃ prāpya babhūvu dharmmalālasāḥ || 8.141 ||
+taddṛṣṭvā na nṛpo rājā pratyakṣaṃ dharmasatphalam |
+aho saddharmamāhātmyamityuktvā nanditācarat || 8.142 ||
+tadā suvṛṣṭirevātra na babhūva kathaṃcana |
+taddṛṣṭvā na nṛpaścāsīddurbhikṣaśaṃkitāśayaḥ || 8.143 ||
+tataḥ sa karuṇāviṣṭahṛdayaḥ sa nṛpaḥ punaḥ |
+śāntaśriyaṃ tamācārya natvaiva prāha sāñjaliḥ || 8.144 ||
+ācārya kṛpayā te'tra carate śubhatādhunā |
+sarvadāpi mahotpātaṃ saṃśāmyata samantataḥ || 8.145 ||
+suvṛṣṭireva nādyāpi pravarttate kathaṃcana |
+suvṛṣṭikaraṇopāyaṃ tatsamādeṣṭumarhati || 8.146 ||
+iti saṃprārthitaṃ rājñā śrutvācāryaḥ sa satmatiḥ |
+nṛpatiṃ taṃ mahāsattvaṃ saṃpaśyannevamabravīt || 8.147 ||
+sādhu rājañchṛṇuṣvātra sadā subhikṣakāraṇam |
+suvṛṣṭikaraṇopāyamupadekṣyāmi sāṃpratam || 8.148 ||
+likhitvā maṇḍalaṃ nāgarājānāṃ yadyathāvidhi |
+tatra nāgādhipān sarvānāvāhyārādhayevahi || 8.149 ||
+tadatra tvaṃ mahāvīrā bhavasvāttaraḥ sādhakaḥ |
+yathā māyopadiṣṭāni tathā sarvāṇi sādhaya || 8.150 ||
+ityācārya samādiṣṭaṃ śrutvā sa nṛpatirmudā |
+tatheti prativijñapya tathā bhavitumaicchata || 8.151 ||
+tataḥ sa vajradhṛgvārā nāgapuraṃ yathāvidhi |
+likhitvā maṇḍalaṃ ramyaṃ pratiṣṭhāpya samārccayat || 8.152 ||
+tatra nāgādhipān sarvānācāryaḥ sa yathākramam |
+samārādhya samāvāhya pūjayituṃ samālabhat || 8.153 ||
+tatra nāgādhipāḥ sarve samāgatya yathākramam |
+svasvāsanaṃ samāśritya saṃtasthire prasāditāḥ || 8.154 ||
+karkoṭako'hirāḍeka eva na lajjayāgataḥ |
+tatsamīkṣya sa śāntaśrīrmahācāryā maharddhimān || 8.155 ||
+nṛpatiṃ taṃ mahāvīraṃ mahāsattvaṃ maharddhikam |
+mahābhijñaṃ samālokya samāmantrayaivamādiśat || 8.156 ||
+rājannāgādhipāḥ sarve samāgatā ihādhunā |
+eka karkkoṭako nāgarāja eveha nāgataḥ || 8.157 ||
+virūpo'haṃ kathaṃ nāgarāja mahāsabhāsane |
+gatvā tiṣṭheyamityevaṃ dhyātvā nāyāti lajjayā || 8.158 ||
+atastaṃ sahasā rājan gatvā tatra mahāhrade |
+karkkoṭakaṃ tamāmantraya saṃprārthyeha samānaya || 8.159 ||
+yadi saṃprārthyamānāpi nāgachediha so'hirāṭ |
+tadā balena dhṛtvāpi sarvathā taṃ samānaya || 8.160 ||
+ityācārya samādiṣṭaṃ śṛtvā sa nṛpatiḥ sudhīḥ |
+śāntaśriyaṃ tamācārya paśyannevaṃ nyavedayat || 8.161 ||
+ācārya kathamako'haṃ tatrāgāḍhamahāhrade |
+gatvā balena nāgendraṃ dhṛtvā netuṃ praśaknuyām || 8.162 ||
+iti nivedya taṃ rājñā śrutvācāryaḥ sa mantravit |
+nṛpatiṃ taṃ mahāvīraṃ sampaśyannevamabravīt || 8.163 ||
+haridaśvaṃ samāruhya puṣpamatmantraśodhitam |
+dhṛtvā braja praśaknoṣi mama mantrānubhāvataḥ || 8.164 ||
+durvākuṇḍamidaṃ puṣpaṃ tatrādau kṣipa māṃ smaran |
+bhraman yatra caren puṣpaṃ tatyathānusaran baja || 8.165 ||
+ityupadeśya duvīkaṃ kuṇḍaṃ mantrābhiśodhitam |
+puṣpaṃ datvā narendrāya punarevamupādiśat || 8.166 ||
+gatvaivaṃ nṛpate tatra nāgapure sametya tam |
+karkoṭakaṃ samāmantraya madgiraivaṃ nivedaya || 8.167 ||
+bho karkkoṭaka nāgendra yadarthedamihāvraja |
+tadbhavānapi jānīyāttathāpi vakṣyate mayā || 8.168 ||
+gośṛṅge mahācāryaḥ śāntaśrī rvajrabhṛtkṛtī |
+durbhikṣaśamanaṃ karttuṃ suvṛṣṭicāraṇe sadā || 8.169 ||
+tatra nāgapure sarvānnāgādhipān yathāvidhi |
+samārādhya samāvāhya pūjayituṃ samārabhat || 8.170 ||
+sarve nāgādhipāstatra varuṇādyāḥ samāgatāḥ |
+tvameva nāgataḥ kasmātsahasā gantumarhati || 8.171 ||
+evaṃ saṃprārthyamāno'pi nāgachetso'hirāḍyadi |
+valenāpi samākṛṣya sahasā nīyatāṃ tvayā || 8.172 ||
+iti śāntaśriyā śāstā samādiśya samādarāt |
+preṣito'haṃ tadarthetra tatsamagantumarhati || 8.173 ||
+ityādiśya sa ācāryaḥ puṣpaṃ mantrābhiśodhitam |
+datvā taṃ nṛpatiṃ vīraṃ preṣayattatra satvaram || 8.174 ||
+ityācārya samādiṣṭaṃ niśamya sa mahāmatiḥ |
+durvāmuṇḍaṃ samādāya tathetyuktvā tato'carat || 8.175 ||
+tataḥ sa nṛpatirvīraḥ śāstu rājñāṃ śirāvahan |
+haridaśvaṃ samāruhya saṃcaranstadhadaṃ yayau || 8.176 ||
+tatra tīraṃ samāsādya paśyaṃ nṛpaḥ sa taṃ hadam |
+natvācāryamanusmṛtvā durvvākuṇḍaṃ jale'kṣipat || 8.177 ||
+tanprakṣiptaṃ jale'gāḍhe bhramannāgapure'carat |
+rājāpyaśvaṃ samāruhya tatpuṣpānusaran yayau || 8.178 ||
+evaṃ nāgapure gatvā nṛpatiḥ sa vilokayan |
+karkoṭaka mahīndraṃ taṃ sahasā samupācarat || 8.179 ||
+tatra sametya sa vīrastaṃ karkoṭakamahīśvaram |
+yathācāryāya saṃdipṭaṃ tathā sarvaṃ nyavedayat || 8.180 ||
+tatsanniveditaṃ sarva śrutvā nāgādhipāpi saḥ |
+kiñcidapyuttaraṃ naiva dadau tasmai mahībhuje || 8.181 ||
+tataḥ sa nṛpatiścaivaṃ nivedya taṃ mahīśvaram |
+saṃpaśyan samupāmantraya prārthayadamādarāt || 8.182 ||
+nāgendro'tra prasīda tvaṃ śāsturājñāṃ śirovaham |
+tvadāmantra na evāhaṃ prāgatastatsamāvraja || 8.183 ||
+iti saṃprārthyamāno'pi rājā sa bhujagādhipaḥ |
+kiñcitprāpyuttaraṃ naiva dadau tasmai mahībhuje || 8.184 ||
+tato'sau nṛpativīraḥ śāstrādiṣṭaṃ yathā tathā |
+sarva nivedya tasyāgre punarevamabhāṣata || 8.185 ||
+nāgendra nāparādhaṃ me yattvayā na śrutaṃ vacaḥ |
+tanme śāstrā yathādiṣṭaṃ tathā nūnaṃ careya hi || 8.186 ||
+ityuktepi narendreṇa karkoṭako hi yo'pi saḥ |
+kiñcidapyuttaraṃ naiva dadau rājñe mahībhṛte || 8.187 ||
+tataḥ sa nṛpativīraḥ śāsturājñāṃ śirovahan |
+dhṛtvā tamahimākṛṣya gurutmāniva prācarat || 8.188 ||
+tato hayātsamānītāḥ guṇakāmadevena saḥ |
+ānīte tena mārgeṇa vaśikācala ucyate || 8.189 ||
+evaṃ dhṛtvā samākṛṣya sa vīrastaṃ mahīśvaram |
+sahasā nāgapure nītvā śāsturagre samācarat || 8.190 ||
+ācārya bhavadādeśāttathā karkkoṭako'hirāṭ |
+dhṛtvākṛṣya mayānītastaṃ samīkṣya prasīdatu || 8.191 ||
+iti niveditaṃ rājñā śrutvācāryaḥ samāditaḥ |
+nṛpatiṃ taṃ mahāvīraṃ sampaśyannevamādiśat || 8.192 ||
+sādhu rājanmahāvīra yadānītastvayāhirāt |
+tadenamāsane nītvā saṃsthāpaya yathākramam || 8.193 ||
+ityācārya samādiṣṭaṃ śrutvā sa nṛpatistathā |
+nāgarājaṃ tamāmantraya svāsane saṃnyaveśayat || 8.194 ||
+taṃ dṛṣṭvā svāsanāsīnāṃmācāryaḥ sa yathāvidhim |
+nāgendrān stān samāvāhya samārādhya samārcayat || 8.195 ||
+tataḥ sa vrajadhṛkājña ācāryaḥ sa mahīpatiḥ |
+sarvānnāgādhipān stutvā prārthayuccaivamādarāt || 8.196 ||
+bho bhavanto mahānāgarājāḥ sarve mayāgrataḥ |
+samārādhya samāvāhya yathāvidhi samarcitāḥ || 8.197 ||
+tanme sadā prasīdantu dātumarhanti vāñchitam |
+sarvaloka hitārtheva ārādhyayāmi nānyathā || 8.198 ||
+yadatra pāpasaṃcārāddurbhikṣaṃ varttate'dhunā |
+tena sarve'pi duḥkhārttā lokaścaranti pātakam || 8.199 ||
+taddurbhikṣābhiśāntyartha subhikṣakāraṇaṃ sadā |
+suvṛṣṭicaraṇopāyaṃ karomīdaṃ jagaddhite || 8.200 ||
+te bhavanto'tra sarve'pi sarvasattvābhirakṣaṇe |
+cārayituṃ samarhanti suvṛṣṭimatra sarvadā || 8.201 ||
+iti saṃprārthitaṃ tena śāntaśriyā niśamyata |
+sarve nāgādhipāstasya tatheti pratiśuśruvuḥ || 8.202 ||
+taistatheti pratijñātaṃ nāgarājairniśamya saḥ |
+śāntaśrī nāgarājān stān prārthayadevamādarāt || 8.203 ||
+bhavanto me prasīdantu yadahaṃ prārthaye punaḥ |
+sarvasattvahite dātuṃ tadapyarhanti vāñchitam || 8.204 ||
+iti saṃprārthite tena śāntaśriyā niśamyate |
+sarvvanāgādhipā tasmai tatheti pratiśuśruvuḥ || 8.205 ||
+sarve nāgādhipaistaiḥ sampratijñātaṃ niśmya saḥ |
+ācāryastānahīndrāṃśca prārthayedevamādarāt || 8.206 ||
+bhavantaḥ śrūyatāṃ vākyaṃ yatmayā prārthyate punaḥ |
+tadbhavadbhiḥ pratijñātaṃ saṃdhātavyaṃ tathā sadā || 8.207 ||
+yadātra pāpasaṃcārāddurvaṣṭiśca bhaveddhruvam |
+tadā suvṛṣṭisaṃsiddhirsādhanaṃ tatpranīyatām || 8.208 ||
+tadyathā bhavatāṃ paṭṭe likhitvā maṇḍalaṃ śubham |
+yathāvidhi pratiṣṭhāpya saṃsthāpituṃ samutsahe || 8.209 ||
+durvṛṣṭiḥ syādyadāpyatra tadevaṃ paṭṭamaṇḍalam |
+prasārya vidhinārādhya samāvāhya samarcayat || 8.210 ||
+evaṃ prasārya paṭṭesmin saṃpūjite yathāvidhi |
+suvṛṣṭiratra yuṣmābhiḥ saṃbharttavyā jagaddhite || 8.211 ||
+iti saṃprārthite tena śāntaśriyā niśamyate |
+sarvanāgādhipāstasmai tatheti pratiśuśruvuḥ || 8.212 ||
+tataḥ sa mantravitprājñaḥ sarvanāgādhipājñayā |
+likhitvā maṇḍalaṃ paṭṭe pratiṣṭhāpya yathāvidhi || 8.213 ||
+paścātkāle'tra durvṛṣṭivṛtte suvṛṣṭisādhane |
+nāgapure'tra saṃsthāpya nirdagdha saṃpragopitam || 8.214 ||
+tato vajrī sa ācāryaḥ sarvān stān bhujagādhipān |
+saṃprārthya vinayaṃ kṛtvā visasarjja vinodayan || 8.215 ||
+tataḥ sarve'pi te nāgarājāḥ svasvālayaṃ gatāḥ |
+meghamālāṃ samutthāpya sarvatra samavarṣayan || 8.216 ||
+tadā suvṛṣṭisaṃcārāddurbhikṣaṃ vilayaṃ yayau |
+subhikṣamaṃgalotsāhaṃ prāvarttata samantataḥ || 8.217 ||
+tadā sarve'pi lokāste mahānandapramoditaḥ |
+triratnabhajanaṃ kṛtvā prācaranta sadā śubhe || 8.218 ||
+tataḥ sa nṛpati rājā dṛṣṭasatyaḥ prasāditaḥ |
+śāntiśriyaṃ tamācāryaṃ samabhyarcya yathāvidhi || 8.219 ||
+natvāṣṭāṅgaiḥ prasannātmā kṛtvā pradakṣiṇāni ca |
+kṛtāñjalipuṭaḥ paśyan prārthayaccaivamādarāt || 8.220 ||
+bho bhagavanmahācārya bhavaddharmmānubhāvataḥ |
+sarvotpātaṃ śamībhūta suvṛṣṭiḥ saṃpravarttate || 8.221 ||
+tadatra sarvadā nūnaṃ nirutpātaṃ samantataḥ |
+dharmaśrīmaṃgalotsāhaṃ bhavadeva nirantaram || 8.222 ||
+evaṃ sadā kṛpā dṛṣṭayā saṃpaśyan viṣaye mama |
+nirutpātaṃ śubhotsāhaṃ kartumarhati sarvathā || 8.223 ||
+sāmprataṃ saphalaṃ janma saṃsārajīvitaṃ ca me |
+yallokāśca sukhībhūtāḥ saṃcaranta sadā śubhe || 8.224 ||
+tadahaṃ sāmprataṃ śāstarbhavadājñāṃ śirāvahan |
+svarājyāśramamāśritya careyaṃ pālayañjagat || 8.225 ||
+tanmenugrahamādhāya kṛpayā saṃprasāditaḥ |
+saṃbodhisādhane cittaṃ sa sthitiṃ karttumarhati || 8.226 ||
+iti vijñapya bhūpālasta sya śāstuḥ padāmbuje |
+natvānujñāṃ samāsādya mahotsāhaiḥ puraṃ yayau || 8.227 ||
+tatra sa nṛpa āśritya samantri sacivo mudā |
+bodhicaryāvrataṃ dhṛtvā tasthau kurvan sadā śubham || 8.228 ||
+iti svayambhū caityāśramanāmasādhanasuvṛṣṭicāraṇo nāmāṣṭamo'dhyāyaḥ |
+navama adhyāyaḥ śrīmahācārya śāntikaraguṇasaṃsiddhimahātmyānubhāva prakathanapravartano nāma
+atha maitreya ālokya samutthāya kṛtāñjaliḥ |
+bhagavantaṃ tamānamya prārthayaccaivamādarāt || 9.1 ||
+kadā śāntikaraṃ nāma tasyābhavatkathaṃ punaḥ |
+taddhetuṃ śrotumicchāmi samupādeṣṭumarhati || 9.2 ||
+iti saṃprārthite tena maitreyeṇa sa sarvavit |
+bhagavāstaṃ mahāsattvaṃ sampaśyannevamādiśat || 9.3 ||
+śṛṇu maitreya vakṣyāmi śāntaśriyāṃ mahadguṇam |
+saddharmmasādhanotsāhaṃ bhadraśrīsadgurṇārthadam || 9.4 ||
+yo'sau rājā mahāsattvaḥ sadharmmaguṇalālasaḥ |
+tyaktvā kāmasukhaṃ rājyaṃ tīrthayātrāmupācarat || 9.5 ||
+sa sarveṣvapi tīrtheṣu snātvā dānaṃ vidhāya ca |
+trisamādhisamācāraḥ saṃcara poṣadhaṃ vratam || 9.6 ||
+evaṃ sarveṣu pīṭheṣu bhraman saddharmmamānasaḥ |
+yogacaryāvrataṃ dhṛtvā pracacāra samāhitaḥ || 9.7 ||
+puṇyakṣetreṣu sarveṣu bhramannaivamihāgatāḥ |
+dṛṣṭvaimaṃ maṇḍalaṃ ramye vismitaṃ samupāyayau || 9.8 ||
+atraimaṃ dūrato dṛṣṭvā dharmmadhātuṃ jinālayam |
+mudāṣṭāṅgaiḥ praṇatvāśuḥ saṃdraṣṭuṃ samupāyayau || 9.9 ||
+sametya saṃmahāsattvā jyotīrūpaṃ jinālayam |
+dharmmadhātumimaṃ dṛṣṭvā praṇatvā samupāśrayat || 9.10 ||
+tataḥ samudito rājā nepāle'tra manorame |
+sarvatrāpi ca saṃdraṣṭuṃ pracacāra vilokayan || 9.11 ||
+teṣu sarveṣu tīrtheṣu snātvā datvā yathepsitam |
+yathāvidhi samādhāya vrataṃ cara samāhitaḥ || 9.12 ||
+tatoṣṭau vītarāgāṃśca dṛṣṭvā sa saṃpramoditaḥ |
+yathāvidhi samārādhya samabhyarcya sadābhajan || 9.13 ||
+tataścāsau mahādevī khagānanāṃ maheśvarīm |
+yathāvidhi samārādhya samabhyarcyābhajanmudā || 9.14 ||
+tato mañjuśriyaścaityaṃ samīkṣya sa pramoditaḥ |
+yathāvidhi samabhyarcya prābhajatsamupasthitaḥ || 9.15 ||
+tataḥ ścaitatmahatpuṇyaiḥ śāntiśrīśubhitendriyaḥ |
+pravajyā saṃvaraṃ dhṛtvā brahmacārī babhūva saḥ || 9.16 ||
+yattasya supraśāntaśrīśobhitānīndriyāni ṣaṭ |
+taṃ nanāma prasiddhaṃ ca śāntaśrīrityabhūdyataḥ || 9.17 ||
+tato'sau satmatirvijño bodhisattvo jagaddhite |
+vajracaryāvrataṃ gṛhaya pracacāra samāhitaḥ || 9.18 ||
+tataśca śilayāchādya dharmmadhātuṃmimaṃ jinam |
+iṣṭikābhirmahatstūpaṃ vidhāya samagopayat || 9.19 ||
+tataḥ pañcapureṣvatra sthāpitā pañca devatāḥ |
+mañjuśrīyāmidaṃ caityamanena ca mahatkṛtam || 9.20 ||
+evaṃ kṛtvātra kāryāṇi sarvāṇi sa mahāmatiḥ |
+bodhisattvā mahābhijñaḥ pracacāra jagaddhite || 9.21 ||
+tataścātra mahatpātaṃ śamīkṛtya samaṃtataḥ |
+bhadraśrīmaṅgalotsāhaṃ na śāntaśrīḥssadā vyadhāt || 9.22 ||
+tataścāsau mahābhijño durvṛṣṭi parivarttate |
+nāgarājān samārādhya suvṛṣṭi samacārayat || 9.23 ||
+evaṃ sa triguṇābhijñāṃ mahotpāta praśāntikṛt |
+śubhaṃkara sadā tena śāntikare iti smṛtaḥ || 9.24 ||
+īdṛgmantrī mahābhijño vajrācāryā mahāmatiḥ |
+samṛddhisiddhisaṃpannā na bhūtā na bhaviṣyati || 9.25 ||
+evaṃ vidhāya sarvatra nirutpātaṃ śubhotsavam |
+bodhisattva sa śāntaśrīstrailokyamahitobhavat || 9.26 ||
+evamasya mahatpuṇyaṃ bhadraśrīguṇasādhanam |
+vijñāya śaraṇaṃ gatvā savitavyaṃ śubhārthibhiḥ || 9.27 ||
+yadyasya śaraṇaṃ gatvā śraddhayā samupāśritāḥ |
+yathāvidhi samārādhya bhajeyuḥ sarvadā mudā || 9.28 ||
+te sarve vimalatmāno niḥkleśā vijitendriyāḥ |
+bhadraśrīguṇasaṃpattiṃ sarddhisiddhiṃ samāyayuḥ || 9.29 ||
+ye ca tasya sadā smṛtvā dhyātvāpi ca samāhitāḥ |
+nāmāpi ca samuccārya bhajeyuḥ śraddhayā sadā || 9.30 ||
+te'pi sarve vikalmāṣāḥ pariśuddhatrimaṇḍalāḥ |
+tadguṇaśrīsamāpannā bhaveyu bodhicāriṇaḥ || 9.31 ||
+ityevaṃ tatmahatpuṇyaṃ vijñāya tadguṇārthinaḥ |
+tasyaiva śaraṇaṃ gatvā bhajantu te sadā mudā || 9.32 ||
+ityādiṣṭaṃ munīndreṇa sarve'pi te sabhāśritāḥ |
+lokāstatheti vijñapya prābhyanandan prabodhitāḥ || 9.33 ||
+evamasau mahāsattvo bhadraśrīsadguṇārthabhṛt ||
+sarvasattvahitaṃ kṛtvā saṃtasthe suciraṃ tathā || 9.34 ||
+tataḥ kāle gate rājā vṛddhobhijīrṇṇitendriyaḥ |
+niḥkleśo viratābhāgo dhyātvaiva samacintayat || 9.35 ||
+ahaṃ vṛddhotijīrṇṇāṅgaḥ sthāsyāmyevaṃ kiyāccaram |
+avaśyaṃ daivayogeṇa yāsyāmi maraṇaṃ dhruvam || 9.36 ||
+tadatrāhaṃ svaputrāya yūne lokānupālane |
+sābhiṣekamidaṃ rājyaṃ dātumarhāmi sāmpratam || 9.37 ||
+iti dhyātvā sa bhūpālo narendradevamātmajam |
+abhiṣiṃcya nṛpaṃ kṛtvā bodhayannevamaṃnvaśāt || 9.38 ||
+rājan putra samādhāya dharmanītyā samācaran |
+triratnabhajanaṃ kṛtvā saṃcarasva sadā śubhe || 9.39 ||
+adyārabhyāsi sarveṣāṃ lokānāmadhipaḥ prabhuḥ |
+sarvadharmānuśāstā ca sarvasattvahitārthabhṛt || 9.40 ||
+tadatra sakalān lokān dharmanītyānupālayan |
+triratnabhajanaṃ kṛtvā saṃcaraṃsva sadā śubhe || 9.41 ||
+ityanuśāsya tanputraṃ pitā sa bhavanispṛhaḥ |
+sarvaparigrahānstyaktvā vanaprasthasamāśrayan || 9.42 ||
+tatrasthāsau mahābhijñaḥ pariśuddhitrimaṇḍalaḥ |
+samādhinihitaḥ svāntaḥ sasaṃcare bahmasaṃbaram || 9.43 ||
+tataḥ kāle gate mṛtyusamaye sa samāhitaḥ |
+triratnaṃ sa smaraṃstyaktvā dehaṃ yayau sukhāvatīm || 9.44 ||
+tataḥ sa nṛpatī rājā narendradeva indravat |
+saṃbodhayan prayatnena sarvān lokānapālayat || 9.45 ||
+so'pi rājā viśuddhātmā saddharmmaguṇalālasaḥ |
+śāntikaraṃ tamācārya sametya śaraṇaṃ yayau || 9.46 ||
+tatra sa samupāśritya śāsturājñāṃ śirovahan |
+triratnabhajanaṃ kṛtvā prācaratsarvadā śubhe || 9.47 ||
+sadā sarveṣu tīrtheṣu snānaṃ kṛtvā yathāvidhi |
+pitrebhyaḥ pradadau piṇḍaṃmarthibhyo'pi yathepsitam || 9.48 ||
+tathāṣṭau vītarāgāṃśca kṣatralokādhipāmapi |
+yathāvidhi samārādhya samārcayatsa parvasuḥ || 9.49 ||
+tathā ca śrīmahādevīṃ khagānanāṃ yathāvidhi |
+samārādhya samabhyarcya mahotsāhairmudābhajat || 9.50 ||
+tathā mañjuśrīyaścaitye pṛcchāgresminnupāśrayat |
+yathāvidhi samārādhya samabhyarcyābhajatsadā || 9.51 ||
+tathā vāyupure vāyudevatāḥ sagaṇā api |
+yathāvidhi samārādhya samabhyarcyābhajatsadā || 9.52 ||
+tathā vahnipure vahnidevatāḥ sagaṇā api |
+yathāvidhi samārādhya samabhyarcyābhajatsadā || 9.53 ||
+tathā nāgapure nāgadevatāḥ sagaṇā api |
+yathāvidhi samārādhya samabhyarcyābhajatsadā || 9.54 ||
+tathā vasupure devīṃ vasudhārāṃ samaṇḍalām |
+yathāvidhi samārādhya samabhyarcyā sadābhajat || 9.55 ||
+tathā śāntipure śrīmatsambaraṃ sagaṇaṃ jinam |
+yathāvidhi samārādhya samabhyarcyā sadābhajat || 9.56 ||
+tathā tasya dharmadhātoḥ sa narendraḥ samupāśritaḥ |
+yathāvidhi samārādhya prābhajan sarvadārcayan || 9.57 ||
+evaṃ sa nṛpatī rājā saddharmaguṇalālasaḥ |
+triratnabhajanaṃ kṛtvā saṃprācaratsadā śubhe || 9.58 ||
+evaṃ sa nṛpa eteṣu tīrthayātrādikarmasu |
+bodhayitvā prayatnena sarvān lokān yayā jayat || 9.59 ||
+tathā sarve'pi te lokā dhṛtvā nṛpānuśāsanam |
+eteṣu tīrthayātrādikarmasu saṃpracerire || 9.60 ||
+tathāṣṭau vītarāgāṃśca devīṃ khagānanāmapi |
+pañcaitā devatāścāpi caityaṃ mañjuśriyo'pi ca || 9.61 ||
+jagadīśaṃ jagannāthaṃ dharmadhātuṃ jinālayam |
+yathāvidhi samabhyarcya prābhajanta sadā mudā || 9.62 ||
+etaddharmānubhāvena sarvadātra sumaṅgalam |
+nirutpātaṃ mahotsāhaṃ prāvarttata samantataḥ || 9.63 ||
+evaṃ sa nṛpatī rājā narendra deva ātmanaḥ |
+bodhicaryāḥ vrataṃ dhṛtvā saṃpracara jagaddhite || 9.64 ||
+parānapi tathā sarvān lokān yatnena bodhayan |
+bodhimārge samāyujya prācārayajjagaddhite || 9.65 ||
+evaṃ sa indravadrāja bodhisattvā jagatprabhuḥ |
+sarvasattvahitaṃ kṛtvā tasthau ciraṃ śubhe raman || 9.66 ||
+tataḥ śrīmān sa ācāryaḥ śāntikaro maharddhikaḥ |
+kṛtakṛtyaḥ pravṛddho'pi nirvātuṃ nābhivāṃchati || 9.67 ||
+sarvasattvahitākāṃkṣī śāntipurāgratādhasi |
+dhyānāgāre mahoddāre yājanaika pramāṇike || 9.68 ||
+āropya śrīmahojvāle cintāmaṇi mahādhvajam |
+sa prājñaḥ sa mahāsattvo bodhisattvā jinātmajaḥ || 9.69 ||
+samādhidhāraṇīvidyāyogadhyānasamāhitaḥ |
+sambodhipraṇidhiṃ dhṛtvā tasthau niścaramānasaḥ || 9.70 ||
+yadā saddharmmahīṇe'tra lokapaṃca kaṣāyite |
+tadotthāya samādheḥ sa saddharmma deśayiṣyati || 9.71 ||
+yadā yadātra satmitraḥ śāstrā vidyādhipā na hi |
+tadā tadā na sanmitraḥ śāstrāvidyādhipobhavan || 9.72 ||
+sarvānlokān prayatnena nivārya pāpamārgataḥ |
+bodhimārge pratiṣṭhāpya cārayiṣyati saddharme || 9.73 ||
+evaṃ dhyātvā sa ācāryaḥ śāntikaraḥ samādhibhṛt |
+sarvasattvahitārthena tasthau yogasamāhitaḥ || 9.74 ||
+evaṃ sa triguṇācāryaḥ sarvasattvahitārthabhṛt |
+bodhisattvamahābhijña tiṣṭha tatra jagaddhita || 9.75 ||
+ye tasya śaraṇaṃ gatvā smṛtvā dhyātvā samādarāt |
+nāmāpi ca samuccāryaṃ bhajanti śraddhayā sadā || 9.76 ||
+te'pi sarve mahābhijñā bodhisattvā vicakṣaṇāḥ |
+bhadraśrīguṇasaṃpannā bhaviṣyanti sadā bhave || 9.77 ||
+tataste vimalātmānaścaturbrahmavihāriṇaḥ |
+bodhicaryāvrataṃ dhṛtvā cariṣyanti jagaddhite || 9.78 ||
+tataste bodhisaṃbhāraṃ pūrayitvā yathākramam |
+arhanto bodhimāsādya prāpsyanti saugataṃ padam || 9.79 ||
+ye ca tadguṇamāhātmyaṃ śṛṇvanti śraddhayā mudā |
+te'pi tadguṇa saṃpatti saṃsiddhiṃ samavāpnuyuḥ || 9.80 ||
+iti vijñāya vāñchanti yastasya guṇasaṃpada |
+te sadguṇamāhātmyaṃ śrotumarhati sādaram || 9.81 ||
+ityādiṣṭaṃ muṇīndrena śrutvā sarvasabhāśritāḥ |
+lokāstatheti saṃśrutya prābhyanandan prabodhitāḥ || 9.82 ||
+iti śrīmahācāryaśāntikaraguṇasaṃsiddhimāhātmyānubhāvaprakathanapravṛtto nāmādhyāya navamaḥ |
+daśama adhyāyaḥ śrī dharmmadhātusvayambhūtpattidharmmamāhātmyasubhāṣitasūtraṃ nāma
+athāsau bhagavān bhūyo maitreyaṃ taṃ mahāmatim |
+samālokya sabhāṃ cāpi samāmantryaivamādiśat || 10.1 ||
+śṛṇu maitreya vakṣyāmi mañjuśriyo jagadguroḥ |
+saddharmaguṇamāhātmyaṃ saṃbodhijñānadāyakam || 10.2 ||
+yadiyaṃ bhikṣuṇī cūḍā suśīlā brahmacāriṇī |
+idaṃ mañjuśriyaṃ ścaityaṃ śraddhayā samupāśritā || 10.3 ||
+śuddhotpalasrajo nityaṃ samabhyarcya yathāvidhi |
+smṛtvā dhyātvā samārādhya sabhaktyā śraddhayā sadā || 10.4 ||
+ādyāṃ cale cule vande svāheti navamākṣaram |
+dhāraṇī paramāvidyāṃ paṭhantī bhajane sadā || 10.5 ||
+etanpuṇyānubhāvena cūṇḍeyaṃ bhikṣuṇī satī |
+pañcābhijñāvatī varṣairdvādaśabhirbhaveddhruvam || 10.6 ||
+tataśceyaṃ mahābhijñā śrīsamṛddhiguṇāśrayā |
+sarvasattvahitaṃ kṛtvā pracaredbodhisaṃvaram || 10.7 ||
+tato'rhantī mahāprājñā pariśuddhatrimaṇḍalā |
+trividhāṃ bodhimāsādya saṃbuddhapadamāpsyati || 10.8 ||
+evamanyepi lokāśca caityamañjuśriyo traye |
+paṭhantī dhāraṇīmenāṃ bhajanti śraddhayā sadā || 10.9 ||
+te'pi sarve vikalmāṣāḥ pariśuddhatrimaṇḍalāḥ |
+bhadraśrīsadguṇādhārā bodhisattvā jitendriyāḥ || 10.10 ||
+pañcābhijñapadaprāptāścaturbrahmavihāriṇaḥ |
+sarvasattvahitādhārā careyurbodhisambaram || 10.11 ||
+tataste bodhisaṃbhāraṃ pūrayitvā yathākramam |
+jitvā māragaṇān sarvānniḥkleśā vimalendriyāḥ || 10.12 ||
+arhanto'pi mahābhijñāḥ saṃbodhisādhanāratāḥ |
+trividhāṃ bodhimāsādya saṃbuddhapadamāpnuyuḥ || 10.13 ||
+yūyamapiti matvātra caityamañjuśriyastathā |
+paṭhanto dhāraṇīmenāṃ bhajadhvaṃ bodhimānasāḥ || 10.14 ||
+etatpuṇyābhiliptā hi pariśuddhatrimaṇḍalāḥ |
+yūyamapi tathā sarve bhaveta sugatātmajāḥ || 10.15 ||
+bodhisattvā bhadraśrīsadguṇāśrayāḥ |
+mahābhijñā jagannāthā bhaveta bhadracāriṇaḥ || 10.16 ||
+tataḥ saṃbodhisaṃbhāraṃ pūrayitvā yathākramam |
+jitvā māragaṇān sarvāścaturbrahmavihāriṇaḥ || 10.17 ||
+arhantastrividhāṃ bodhiṃ prāpya buddhā bhaviṣyatha |
+iti satyaṃ parijñāya yadi saṃbodhimicchatha || 10.18 ||
+asminmañjuśriyaścaityaṃ bhajadhvaṃ sarvadā mudā |
+ityādiṣṭaṃ munīndreṇa niśamya te sasāṃdhikāḥ || 10.19 ||
+sarvalokāstathetyuktvā prābhyanandatprabodhitāḥ |
+tataḥ sarve'pi te lokā brahmāśakrādayo'marāḥ || 10.20 ||
+sarve lokādhipāścāpi sārddhaṃ parijanairmudā |
+bhagavantaṃ munīndraṃ taṃ sasaṃgha saṃprasāditāḥ || 10.21 ||
+natvā pradakṣiṇī kṛtvā svasvālayaṃ mudā yayuḥ |
+sarve martyā nṛpādyāśca samantrijanapaurikāḥ || 10.22 ||
+sasāṃdhikaṃ munīndraṃ taṃ natvā svasvālayaṃ yayuḥ |
+hārīti yakṣiṇīśāpi sātmajā bauddharakṣaṇī || 10.23 ||
+triratnabhajanaṃ kṛtvā dharmadhātorūpāśrayat |
+tataḥ sa bhagavāṃścāpi samutthāya sasāṃdhikaḥ || 10.24 ||
+prabhāsayañjagadbhāsā jaṭodyānāśrame yayau |
+tatra sa trijagannātho vihāre sahasāṃdhikaiḥ || 10.25 ||
+saddharmmasamupādiśya vijahāra jagaddhite |
+iti te guruṇādiṣṭaṃ śrutaṃ mayā tathocyate || 10.26 ||
+śrutvāpyetanmahārājā śraddhayābhyanumodaya |
+iti śāstrārhatādiṣṭaṃ niśamya sa narādhipaḥ || 10.27 ||
+prasāditastamarhanta natvā prāhaivamādarāt |
+bhadantohaṃ samicchāmi saṃdraṣṭuṃ taṃ svayaṃbhuvam || 10.28 ||
+tannaipāle pragacchāmi tadanujñāṃ pradehi me |
+iti saṃprārthitaṃ rājñā śrutvā sorhanyatirmudā || 10.29 ||
+nṛpatiṃ taṃ mahāsattvaṃ saṃpaśyannevamādiśyat |
+sādhu rājan samicchā te yadyasti taṃ svayambhuvam || 10.30 ||
+draṣṭuṃ gaccha samārādhya bhaja śraddhāsamanvitaḥ |
+sarvatīrtheṣu ca snātvā datvā dānaṃ yathepsitam || 10.31 ||
+vītarāgāṃ samārādhya samabhyarcyabhijādarāt |
+dharmodayāṃ mahādevīṃ khagānanāṃ jineśvarīm || 10.32 ||
+śraddhayā samupāśritya samabhyarcya bhajādarāt |
+pañcapurāsthitāḥ pañca devatāśca yathāvidhi || 10.33 ||
+samārādhya samabhyarcya bhaja bhaktyā samādarāt |
+mañjudevasya caityaṃ ca samālokya yathāvidhi || 10.34 ||
+samārādhya samabhyarcya bhajenāṃ dhāraṇīṃ paṭhan |
+ācārya ca guhāsīnaṃ samādhidhyānasaṃsthitam || 10.35 ||
+dhyātvārādhya samabhyarcya natvā bhaja samādarāt |
+evamanyānmahāsattvān dharmmadhātorūpāsakān || 10.36 ||
+sarvānapi samārādhya samabhyarcya praṇāmaya |
+etatpuṇyaviśuddhātmā bhadraśrī sadguṇāśrayaḥ || 10.37 ||
+bodhisattvā mahāsattvā jagadbharttā bhavedapi |
+tataḥ saṃbodhisaṃbhāraṃ pūrayitvā yathākramam || 10.38 ||
+arhansaṃbodhimāsādya saṃbuddhapadamāpsyasi |
+iti satyaṃ parijñāya saṃbodhi yadi vāñchasi || 10.39 ||
+gatvā tatra mahotsāhairdharmmadhātuṃ vilokya tam |
+yathāvidhi samārādhya bhajasva samupāśritaḥ || 10.40 ||
+gaccha te maṅgalaṃ bhuyātsidhyatu te samīhitam |
+yathecchayā samālokya samāyāhi pramoditaḥ || 10.41 ||
+iti śāstrā samādiṣṭaṃ śrutvā sa nṛpatirmudā |
+taṃ guruṃ sāñjalirnatvā prāpyānujñāmanandataḥ || 10.42 ||
+tataḥ sa nṛpatī rājā samantrijanapaurikāḥ |
+rājarddhi maṃgalotsāhaiḥ saṃprasthito mudācarat || 10.43 ||
+tatra mārge sa rājendraḥ sarvān lokān prasādayan |
+mahotsāhaiścarannāśu naipālaṃ samupāyayau || 10.44 ||
+tatra prāptaḥ samālokya dūrāttaṃ śrīsvayaṃmbhuvam |
+sāñjali praṇatiṃ kṛtvā pramanāḥ sahasā caret || 10.45 ||
+tatra sarvatra saṃvīkṣya śubhotsāhapravarttitam |
+vismayānanditānsā sa nṛpatiḥ samupāsaret || 10.46 ||
+tatra sarveṣu tīrtheṣu krameṇa sa narādhipaḥ |
+snātvārthibhyo yathākāmaṃ dadau dānaṃ caran vratam || 10.47 ||
+tato'ṣṭau vītarāgān sa nṛpatirvīkṣya harṣitaḥ |
+yathāvidhi samārādhya bhajatyarcya yathāvidhi || 10.48 ||
+tato mudācaran vīkṣya dharmmadhātuṃ jinālayam |
+yathāvidhi samārādhya samabhyarcyābhajan kramāt || 10.49 ||
+tato vāyupure vāyudevatāṃ sagaṇāṃ mudā |
+yathāvidhi samārādhya samabhyacyanitobhajata || 10.50 ||
+tataścāgnipure vahnidevatāḥ sagaṇāmapi |
+yathāvidhi samārādhya saṃpūjyābhajadādarāt || 10.51 ||
+tato nāgapure nāgadevatāḥsagaṇā api |
+yathāvidhi samārādhya samabhyarcyā mudābhajat || 10.52 ||
+tato vasupure devīṃ sagaṇāṃ śrīvasundharām |
+yathāvidhi samārādhya bhajatyarcya samādarāt || 10.53 ||
+tataḥ śāntipure śrīmatsambaraṃ sagaṇaṃ tathā |
+yathāvidhi samārādhya samabhyarcya mudābhajat || 10.54 ||
+tataḥ śāntikarācārya samādhidhyānasaṃsthitam |
+dhyātvārādhya samabhyarcya prābhajan saṃpramoditaḥ || 10.55 ||
+tato dharmmodayā devī khagānanāṃ maheśvarīm |
+yathāvidhi samārādhya samabhyarcya mudābhajat || 10.56 ||
+sambuddhaṃ puṇḍarīkākṣaṃ sarvajña karuṇāspadam |
+samantabhadraśāstāraṃ śākyasiṃhaṃ namāmyaham || 10.57 ||
+śrīghanaṃ śrīmatiṃ śreṣṭhaṃ śīlarāśiṃ śivakaram |
+śrīmantaṃ śrīkaraṃ śāntaṃ śāntimūrti namāmyaham || 10.58 ||
+nairātmavādinaṃ siṃhaṃ niravadyaṃ nirāśravam |
+nītijñaṃ nirmalātmānaṃ niṣkalaṃkaṃ namāmyaham || 10.59 ||
+nirdvandvaṃ nirahaṃkāraṃ nirvikalpaṃ tathāgatam |
+nirddhūtanikhilakleśaṃ niṣprapaṃcaṃ namāmyaham || 10.60 ||
+viśveśvaraṃ viśeṣo'haṃ viśvarūpaṃ vināyakam |
+viśvalakṣaṇasaṃpūrṇṇa vītarāgaṃ namāmyaham || 10.61 ||
+vidhāvareṇa saṃpannaṃ viśveśamvimalaprabham |
+vinītavegaṃ vimalaṃ vītamohaṃ namāmyaham || 10.62 ||
+dudantidamakaṃ śāntaṃ śuddhaṃ pañcajinālayam |
+sugatiṃ suśrutaṃ saumyaṃ śubhrakīrtti namāmyaham || 10.63 ||
+yogīśvaraṃ daśabalaṃ lokajñaṃ lokapūjitam |
+lokācārya lokamūrtiṃ lokānāthaṃ namāmyaham || 10.64 ||
+kalaṃkamuktiṃ kāmāriṃ sakalaikaṃ kalādharam |
+kāntamūrti dayāpātraṃ kanakābhaṃ namāmyaham || 10.65 ||
+tato mañjuśriyaścaityaṃ dharmadhātumupāśrayan |
+yathāvidhi samārādhya samabhyarcyānatobhajat || 10.66 ||
+tato mudā caran vīkṣya dharmadhātuṃ jinālayam |
+yathāvidhi samārādhya samabhyarcyābhajanmudā || 10.67 ||
+bhaktyā paramayāstauṣījinālayaṃ svayaṃbhuvam |
+jyotīrūpāya caitanyaṃ rūpāya bhavate namaḥ || 10.68 ||
+murādinidhanāya śrīdātre praṇavarupiṇe |
+viśvatomukharupāya bhaktavatsala te namaḥ || 10.69 ||
+pṛthvyādibhūtanirmātre jagadvaṃdyāyate namaḥ |
+jagatsraṣṭe jagatpātre jagaddhartre namo namaḥ || 10.70 ||
+dhyānagamyāya dhyeyāya cartuvargapradāyine |
+evaṃ stutvā aśokaḥ sa punaḥ kṣamāpanaṃ vyadhāt || 10.71 ||
+evaṃ sa nṛpatiḥ sarvān dharmadhātorupāsakān |
+mahāsattvān samabhyarcya satkṛtya samatoṣayat || 10.72 ||
+evaṃ sa nṛparājaḥ śrī dharmadhatorūpāśritaḥ |
+triratnabhajanaṃ kṛtvā prācaradbodhisambaram || 10.73 ||
+tataḥ sa nandito rājā samantrijanapaurikaḥ |
+natvā pradakṣiṇīkṛtya dharmmadhātuṃ mudācarat || 10.74 ||
+tataścaran sa bhūmīndro mahotsāhaiḥ pramoditaḥ |
+sahasā puramāsādya vihāra samupācarat || 10.75 ||
+tatropetya tamarhantamupaguptasasāṃdhikam |
+samīkṣya sañjalirnatvā sabhaikāntaṃ samāśrayat || 10.76 ||
+taṃ samāyātamālokya so'rhe śāstā prasannadṛk |
+svāgataṃ kuśalaṃ kaccinnṛpatiṃ paryapṛcchata || 10.77 ||
+tacchutvā sa mahīpālaḥ śāstāraṃ taṃ kṛtāñjaliḥ |
+praṇatvā suprasannāsyaḥ saṃpaśyannevamabravīt || 10.78 ||
+samāgatosmyahaṃ śāstarbhavatkṛpānubhāvataḥ |
+kuśalaṃ me kathaṃ na syātsarvatrāpi sadāpi hi || 10.79 ||
+bhavatkṛpānubhāvena nepāle'haṃ mudācaran |
+dṛṣṭvā sarveṣu tīrtheṣu snātvā dānaṃ yathepsitam || 10.80 ||
+tathāṣṭau vītarāgāśca samālokya pramāditaḥ |
+yathāvidhi samārādhya samabhyarcyabhijaṃ kramāt || 10.81 ||
+tataḥ samīkṣya taṃ śrīmaddharmmadhātuṃ svayaṃbhuvam |
+yathāvidhi samārādhya samabhyarcyābhajanmudā || 10.82 ||
+tato vāyupure vāyudevatābhyarccitā mayā |
+tataścāgnipure vahnirdevatāpi mayārccitā || 10.83 ||
+tathā nāgapure nāgarājāṃścāpi mayārccitā |
+tathā tathā vasupure devī vasundharāṃ samarccitā || 10.84 ||
+tataḥ śāntipure śrīmatsambaraśca samarccitaḥ |
+tataḥ śāntikarācāryaḥ samālokya mayārcitaḥ || 10.85 ||
+devīṃ khagānanāṃ cāpi samārādhya samarcitā |
+mañjudevasya caityaṃ ca yathāvidhi samarcitam || 10.86 ||
+evaṃ bhadanta tatropacchandohe puṇyabhūtale |
+yathāvidhi samārādhya sarvadevā mayārcitāḥ || 10.87 ||
+etatpuṇyaṃ mayā labdhaṃ bhavatkṛpānubhāvataḥ |
+tadatra janmasāphalyaṃ jīvitaṃ cāpi me'dhunā || 10.88 ||
+tathātra sarvadā śāsta dharmadhātuṃ jinālayam |
+smṛtvā nāma samuccārya dhyātvā bhajeya mā bhavam || 10.89 ||
+iti rājñā samākhyātaṃ śrutvā so'rha prasāditaḥ |
+nṛpati taṃ samālokya punarevaṃ samādiśat || 10.90 ||
+dhanyo'si yatmahārājadharmadhātuṃ jinālayam |
+smṛtvā dhyātvāpi saṃbhaktuṃmicchase'tra sadā bhaja || 10.91 ||
+etatpuṇyaviśuddhātmā bhadraśrīsadguṇāśrayaḥ |
+bodhisattvo mahāsattvaḥ sarvadharmādhipo bhaveḥ || 10.92 ||
+tataḥ saṃbodhisaṃbhāraṃ pūrayitvā yathākramam |
+arhanstribodhimāsādya dhruvaṃ buddhapadaṃ labheḥ || 10.93 ||
+samutpattikathāṃ tasya dharmadhātoḥ svayaṃbhuvaḥ |
+śrutvāpi yatmahatpuṇyaṃ saṃbodhisādhanaṃ labhet || 10.94 ||
+iti matvā samutpattikathāṃ tasya svayaṃbhuvaḥ |
+satkṛtya śraddhayā martyāḥ śrotumarhanti sarvathā || 10.95 ||
+samutpattikathāṃ tasya dharmadhātoḥ svayaṃbhuvaḥ |
+śṛṇvanti ye narā bhaktyā satkṛtya śraddhayā mudā || 10.96 ||
+durgatiṃ te na gacchanti kutrāpi hi kadācan |
+sadā sadgatisaṃjātā bhadraśrīsadguṇāśrayāḥ || 10.97 ||
+sarvasattvahitādhānabodhicaryāvratāratāḥ |
+mahābhijñā jagannāthā bhaveyuḥ sugatātmajāḥ || 10.98 ||
+krameṇa bodhisambhāraṃ pūrayitvā jagaddhite |
+arhantatrividhāṃ bodhiṃ prāpyeyuḥ saugataṃ padam || 10.99 ||
+iti matvā mahārāja śrotavyaṃ śraddhayādarāt |
+svayambhūguṇamāhātmyaṃ durllabhaṃ bodhivāñchibhiḥ || 10.100 ||
+śṛṇvanti ye narā bhaktyā satkṛtya śraddhayā mudā |
+svayaṃbhūguṇamāhātmyasaddharmaśrīguṇārthadam || 10.101 ||
+te'pi na durgatiṃ yāyuḥ sadāsadgatisaṃgatāḥ |
+bhadraśrīsadguṇādhārā bhaveyurbodhilābhinaḥ || 10.102 ||
+tasmādetatmahatpuṇyaṃ śrutvā dhyātvā sadādarāt |
+smṛtvā nāma samuccārya saṃbhaktavyaṃ svayaṃbhuvam || 10.103 ||
+ahamapi purā rājan dharmmadhātoḥ svayaṃbhuvaḥ |
+śrutvā sadguṇasāṃkathyaṃ babhūva saṃpramoditaḥ || 10.104 ||
+tato'haṃ sahasā tatra nepāle samupācaraṃt |
+snātvā sarveṣu tīrtheṣu dadau dānaṃ yathepsitam || 10.105 ||
+aṣṭau tān vītarāgāṃśca samārādhya mayārcitāḥ |
+devīṃ khagānanāṃ cāpi samārādhya samarcitā || 10.106 ||
+mañjudevasya caityaṃ ca samārādhya samarcitam |
+pañca purā sthitā pañca devatāśca samarcitāḥ || 10.107 ||
+tathā śāntikarācāryaḥ samālokya samarcitaḥ |
+tataḥśaraṇamāśritya dharmadhāto svayaṃbhuvaḥ || 10.108 ||
+satkṛtya śraddhayā nityaṃ samārādhya mudā bhajam |
+evaṃ tatra sadāśritya dharmadhātorūpāsakaḥ || 10.109 ||
+triratnabhajanaṃ kṛtvā prācaran bodhisaṃbaram |
+etatpuṇyaviśuddhātmā pariśuddhatrimaṇḍalaḥ || 10.110 ||
+ahaṃ bodhiṃ samāsādya jinātmajā bhave'dhunā |
+iti vijñāya mānuṣyā vāñchanti ye sunirvṛtim || 10.111 ||
+dharmadhātuṃ samārādhya bhajantu te sadā mudā |
+smṛtvā dhyātvā ca nāmāpi samuccārya samādarāt || 10.112 ||
+samālokya praṇatvāpi bhajantu taṃ jinālayam |
+ye bhajanti sadā smṛtvā dhyātvā natvā jinālayam || 10.113 ||
+drutaṃ saṃbodhimāsādya saṃbuddhapadamāpnuyuḥ |
+iti satyaṃ samākhyātaṃ sarvairapi munīśvaraiḥ || 10.114 ||
+śrutvānumodya taṃ dharmadhātuṃ smṛtvā bhajantvalam |
+subhāṣitamidaṃ yepi śrutvānumoditāśayāḥ || 10.115 ||
+dharmadhātumanusmṛtvā dhyātvā bhajanti sarvadā |
+te'pi caitatmahatpuṇyapariśuddhatrimaṇḍalāḥ || 10.116 ||
+bhadraśrīsadguṇādhārāścaturbrahmavihāriṇaḥ |
+bodhisattvā mahāsattvā mahābhijñāḥ śubhendriyāḥ || 10.117 ||
+drutaṃ saṃbodhimāsādya saṃbuddhapadamāpnuyuḥ |
+iti me guruṇādiṣṭaṃ śrutaṃ mayā tathocyate || 10.118 ||
+tvamapīdaṃ sadā lokā śrāvayitvānumodaya |
+etatpuṇyānubhāvena sarvatra sarvadāpi te || 10.119 ||
+nirutpātaṃ śubhotsāhaṃ bhavennūnaṃ narādhipaḥ |
+iti tenārhatādiṣṭaṃ śrutvāśoko nṛpo mudā || 10.120 ||
+tatheti prativijñapya prābhyanandatsapārṣadaḥ |
+tataḥ sarve'pi te lokā niśamyaitatsubhāṣitam || 10.121 ||
+anumodya mahotsāhaiḥ saṃcerire śubhe sadā |
+tadaitatpuṇyabhāvena sarvatra tatra sarvadā || 10.122 ||
+nirutpātaṃ śubhotsāhaṃ prāvarttata nirantaram |
+ityādiśya mahābhijño jayaśrīḥ sa mahāmatiḥ || 10.123 ||
+sarvānstān sāṃdhikān paśyan punarevaṃ samādiśat |
+yatredaṃ dharmmasāṃkathyaṃ prāvarttayetkalāvapi || 10.124 ||
+bhāṣetya śṛṇuyādyaśca śrāvayedyaḥ pracārayet |
+eteṣāṃ tatra sarveṣāṃ saṃbuddhāḥ sakalāḥ sadā || 10.125 ||
+kṛpā dṛṣṭyā samālokya prakuryurbhadramābhavam |
+sarvā pāramitā devyasteṣāṃ tatra sadā śivam || 10.126 ||
+kṛtvā saṃbodhisaṃbhāraṃ pūrayeyuryathākramam |
+sarve'pi bodhisattvāśca pratyekasugatā api || 10.127 ||
+arhanto yoginasteṣāṃ prakuryurmaṅgalaṃ sadā |
+sarve lokādhipāścāpi sarve cāpi maharṣayaḥ || 10.128 ||
+tatra teṣāṃ hi sarveṣāṃ kuryuḥ samīkṣya maṅgalam |
+sarve devādhipāścāpi sarvadaityādhipā api || 10.129 ||
+tathā sarve'pi gandharvāḥ sarvayakṣādhipā api |
+garuḍā nāgarājāśca kumbhāṇḍādhīśvarā api || 10.130 ||
+samīkṣya sarvadā teṣāṃ rakṣāṃ kuryuḥ samantataḥ |
+sarvāśca mātṛkā devyaḥ sabhairavagaṇā api || 10.131 ||
+kṛtvā rakṣāṃ sadā teṣāṃ kuryurbhadraṃ samantataḥ |
+sarve grahāśca tārāśca siddhā vidyādharā api || 10.132 ||
+sādhyāścāpi sadālokya teṣāṃ kuryuḥ sumaṅgalam |
+bhūtapretapiśācāśca duṣṭā māragaṇā api || 10.133 ||
+vīkṣya teṣāṃ prasannāste rakṣāṃ kuryuḥ sadā mudā |
+svayambhūguṇamāhātmya sāṃkathyaṃ yo'likhetmudā || 10.134 ||
+tenāpi likhitaṃ sarva mahāyānasubhāṣitam |
+lekhāpitaṃ ca yenedaṃ dharmadhātusubhāṣitam || 10.135 ||
+tenāpi sakalaṃ sūtraṃ lekhāpitaṃ bhaveddhruvam |
+likhitaṃ cāpi yecedaṃ pratiṣṭhāpya yathāvidhi || 10.136 ||
+śuddhasthāne gṛhe sthāpya pūjāṅgaiḥ sarvadārcitam |
+tenārhanto jināḥ sarve pratyekasugatā api || 10.137 ||
+sasaṃghā bodhisattvāśca bhavanti pūjitāḥ khalu |
+yaścāpīdaṃ svayaṃ dhṛtvā parebhyo'pi samādiśat || 10.138 ||
+bhāvayetsatataṃ smṛtvā dhyātvāpi praṇamenmudā |
+tasya sarvamunīndro hi pratyekasugatā api || 10.139 ||
+arhanto bodhisattvāśca tuṣṭā dadyuḥ samīhitam |
+yaścaitadupadeṣṭāraṃ sarvāśca śrāvakānapi || 10.140 ||
+yathāvidhi sa samabhyarcya bhājanaiḥ samatoṣayet |
+tena sarve'pi saṃbuddhāḥ pratyekasugatā api || 10.141 ||
+arhanto bhikṣavaḥ sarve yogino brahmacāriṇaḥ |
+bodhisattvāśca sarve'pi vratino yatayo'pi ca || 10.142 ||
+arcitā bhojitāstuṣṭā bhaveyuranumoditāḥ |
+kimevaṃ vahunoktena sarve buddhā munīśvarāḥ || 10.143 ||
+sarvāstārāśca devyo'pi sarvasaṃghā jinātmajāḥ |
+nityaṃ teṣāṃ kṛpā dṛṣṭayā samālokyānumoditāḥ || 10.144 ||
+rakṣāṃ vidhāya sarvatra varaṃ dadyuḥ samīhitam || 10.145 ||
+sarve lokādhipāścāpi sarve devā surādhipāḥ |
+rakṣāṃ kṛtvā varaṃ dadyusteṣāṃ saddharmasādhane || 10.146 ||
+rājāno'pi sadā teṣāṃ rakṣā kṛtvānumoditāḥ |
+yathābhivāñchitaṃ datvā pālayeyuḥ sadādarāt || 10.147 ||
+mantriṇo'pi sadā teṣāṃ sāmātyasacivānugāḥ |
+sabhṛtyasainyabhaṭṭāśca bhaveyurhitakāriṇaḥ || 10.148 ||
+sarve vaiśyāśca sarvārthabharttāraḥsyu suhṛnpriyāḥ |
+śreṣṭimahājanāḥ sarve bhaveyurhitakāriṇaḥ || 10.149 ||
+dviṣopi dāsatāṃ yāyurdṛṣṭāśca syurhitāśayāḥ |
+evamanyepi lokāśca servva syurmaitramānasāḥ || 10.150 ||
+paśavaḥ pakṣiṇaścāpi sarvakīṭāśca jantavaḥ |
+naiva teṣāṃ viruddhā syuḥ bhaveyurhitaśaṃsina || 10.151 ||
+evaṃ sarvatra lokeṣu teṣāṃ saddharmasādhinām |
+nirutpātaṃ śubhotsāhaṃ saumāṅgalyaṃ sadā bhavet || 10.152 ||
+evaṃ bhadrataraṃ puṇyaṃ svayabhūṃbhavanodbhavam |
+natvā taṃ trijagannāthaṃ bhajadhvaṃ sarvadā mudā || 10.153 ||
+ye tasya śaraṇe sthitvā smṛtvā dhyātvā samāhitāḥ |
+nāmāpi ca samuccārya bhajanti śraddhayā sadā || 10.154 ||
+teṣāṃ trinyapi ratnāni suprasannāni sarvadā |
+kṛpā dṛṣṭayā samālokya kṛtvā deyuḥ sadā śubham || 10.155 ||
+iti śāstrāsamādiṣṭaṃ jayaśriyā niśamyate |
+jineśvarī pramukhāḥ saṃghā sarve nandanprabodhitāḥ || 10.156 ||
+sarvāvatī sabhā sāpi śrutvaitatsaṃprasāditāḥ |
+tatheti prativijñapya prābhyanandan prabodhitāḥ || 10.157 ||
+tataste sakalā lokāḥ samutthāya prasāditāḥ |
+jayaśriya sasaṃghaṃ taṃ natvā svasvāśramaṃ yayuḥ || 10.158 ||
+tatra nityamupetyatyarddhyā sasaṃghaḥ sajinātmajā |
+snātvā sarveṣu tīrtheṣu dhṛtvā vrataṃ yathāvidhi || 10.159 ||
+tato'ṣṭau vītarāgāṃśca devīṃ cāpi khagānanām |
+pañcamā devatāścāpi yathāvidhi samarccayan || 10.160 ||
+tathā śāntikarācārya caitya mañjuśriyo'pi ca |
+dharmādhātuṃ samārādhya dhyātvābhyarcya sadābhajat || 10.161 ||
+tadaitatpuṇyabhāvena viṣaye tatra sarvadā |
+nirutpātaṃ śubhotsāhaṃ prāvarttata samaṃtataḥ || 10.162 ||
+tataścāsau mahābhijñā jayaśrīḥ sugatātmajaḥ |
+sarvānstān sāṃdhikān paśyan punarevaṃ samādiśat || 10.163 ||
+yatredaṃ dharmasāṃkathyaṃ pracāritaṃ svayaṃbhuvaḥ |
+tatraittpuṇyabhāvena bhavatu sarvadā śubham || 10.164 ||
+saṃbuddhāstatra sarve'pi pratyekasugatā api |
+arhanto bodhisattvāśca kurvantu maṃṅgalaṃ sadā || 10.165 ||
+sarve lokādhipāścāpi sarve cāpi maharṣayaḥ |
+samālokya sadā tatra prakurvantu sumaṅgalam || 10.166 ||
+kāle varṣantu meghāśca bhūyācchaśyavatī mahī |
+nirutpātaṃ subhikṣyaṃ ca bhavantu tatra sarvadā || 10.167 ||
+rājā bhavatu dhārmmiṣṭho mantriṇo nīticāriṇaḥ |
+sarve lokāḥsuvṛttiṣṭhā bhavantu dharmasādhinaḥ || 10.168 ||
+sarve sattvāḥ samācārāḥ saṃbodhivihitāśayāḥ |
+triratnabhajanaṃ kṛtvā saṃcarantāṃ sadā śubhe || 10.169 ||
+iti jayaśriyādiṣṭaṃ śrutvā sarve'pi sāṃdhikāḥ |
+evamastviti prābhāṣya prābhyanandanprasāditāḥ || 10.170 ||
+iti śrī dharmmadhātusvayambhūtpattidharmmamāhātmyasubhāṣitasūtraṃ daśama adhyāyaḥ samāptaḥ ||
+ye dharmmā hetuprabhāvā hetu steṣāṃ tathāgataḥ hyavadat |
+teṣāṃ ca yo nirodha evaṃ vādī mahāśramaṇaḥ ||
+śubhamastu ||
+deyadharmo'yaṃ pravaramahāyāyinaḥ śrīmatrudravarṇṇamahāvihārāvasthitaḥ paramopāsakaśrīśākyavaṃśodbhavaḥ śrīrāmānandena likhito'gamatsaṃpūrṇṇa ||
+śubhamastu sarvadāḥ ||
+nepāle hāyane yātaḥ nāgamunīrasānviteḥ |
+cāṣāḍhe kṣīnacandre tu pañcamyāñca tithau śubhe || 1 ||
+saṃpūrṇṇamagamattasmiṃ śrīrāmānandena lekhitaḥ |
+yadi śuddhamaśuddhaṃ vā śodhanīyaṃ dahadvudhaiḥ || 2 ||
+yatpuṇyalikhite proktaṃ yatpuṇyapātane tathā |
+tatpuṇyena jagatsarva prāpnuyādbodhimuttamām || 3 ||
+śrīrāmānandayā pustaka juro | śubham | upasargga | maharādaharāścaiva śītarāpūṭaloka vā | upasarggī mahāmārī saptaite lokahārakaḥ || saṃvat934 śrāvaṇa śukla || samāptam ||
+    </body>
+  </text>
+</TEI>

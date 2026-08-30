@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Gaṅgāṣṭakam</title>
+        <author>Vālmīki</author>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%97%E0%A4%99%E0%A5%8D%E0%A4%97%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%95%E0%A4%AE%E0%A5%8D_(%E0%A4%95%E0%A4%BE%E0%A4%B2%E0%A4%BF%E0%A4%A6%E0%A4%BE%E0%A4%B8%E0%A4%95%E0%A5%83%E0%A4%A4%E0%A4%AE%E0%A5%8D)"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+atha śrīmadvāmīkiviracitaṃ gaṅgāṣṭakam ||
+mātaḥ śailasutāsapatni vasudhāśṛṅgārahārāvali
+svargārohaṇavaijayanti bhavatīṃ bhāgīrathīṃ prārthaye |
+tvattīre vasataḥ tvadambu pibatastvadvīciṣu preṅkhataḥ
+tvannāma smaratastvadarpitadṛśaḥ syānme śarīravyayaḥ || 1||
+tvattīre tarukoṭarāntaragato gaṅge vihaṅgo paraṃ tvannīre narakāntakāriṇi varaṃ matsyo'thavā kacchapaḥ |
+naivānyatra madāndhasindhuraghaṭāsaṅghaṭṭaghaṇṭāraṇatkārastatra samastavairivanitālabdhastutirbhūpatiḥ || 2||
+ukṣā pakṣī turaga uragaḥ ko'pi vā vāraṇo vā'vārīṇaḥ syāṃ jananamaraṇakleśaduḥkhāsahiṣṇuḥ |
+na tvanyatra praviralaraṇatkiṅkiṇīkvāṇamitraṃ vārastrībhiścamaramarutā vījito bhūmipālaḥ || 3||
+kākairniṣkuṣitaṃ śvabhiḥ kavalitaṃ gomāyubhirluṇṭitaṃ
+srotobhiścalitaṃ taṭāmbululitaṃ vīcībhirāndolitam |
+divyastrīkaracārucāmaramarutsaṃvījyamānaḥ kadā
+drakṣye'haṃ parameśvari tripathage bhāgīrathī svaṃ vapuḥ || 4||
+abhinavabisavallīpādapadmasya viṣṇoḥ
+madanamathanamaulermālatīpuṣpamālā |
+jayati jayapatākā kāpyasau mokṣalakṣmyāḥ
+kṣapitakalikalaṅkā jāhnavī naḥ punātu || 5||
+etattālatamālasālasaralavyālolavallīlatācchatraṃ sūryakarapratāparahitaṃ śaṅkhendukundojjvalam |
+gandharvāmarasiddhakinnaravadhūtuṅgastanāspālitaṃ snānāya prativāsaraṃ bhavatu me gāṅgaṃ jalaṃ nirmalam || 6||
+gāṅgaṃ vāri manohāri murāricaraṇacyutam |
+tripurāriśiraścāri pāpahāri punātu mām || 7||
+pāpāpahāri duritāri taraṅgadhāri śailapracāri girirājaguhāvidāri |
+jhaṅkārakāri haripādarajopahāri gāṅgaṃ punātu satataṃ śubhakāri vāri || 8||
+gaṅgāṣṭakaṃ paṭhati yaḥ prayataḥ prabhāte vālmīkinā viracitaṃ śubhadaṃ manuṣyaḥ |
+prakṣālya gātrakalikalmaṣapaṅkamāśu mokṣaṃ labhet patati naiva naro bhavābdhau || 9||
+|| iti vālmīkiviracitaṃ gaṅgāṣṭakaṃ sampūrṇam ||
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Nirvāṇaṣaṭka</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%A3%E0%A4%B7%E0%A4%9F%E0%A5%8D%E0%A4%95%E0%A4%AE%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+॥ nirvāṇaṣaṭkam ॥
+manobuddhyahaṅkāracittāni nāhaṃ na ca śrotrajihve na ca ghrāṇanetre ।
+na ca vyoma bhūmirna tejo na vāyuścidānandarūpaḥ śivo'haṃ śivo'ham ॥ 1
+na ca prāṇasaṃjño na vai pacavāyune vā saptadhāturna vā pañcakośaḥ।
+na vākpāṇipādaṃ na copasthapāyū cidānanda ...॥ 2
+na me dveṣarāgau na me lobhamohau mado naiva me naiva mātsaryabhāvaḥ ।
+na dharmo na cārtho na kāmo na mokṣaścidā ...॥ 3
+na puṇyaṃ na pāpaṃ na saukhyaṃ na duḥkhaṃ na maṃtro na tīrthaṃ na vedā na yajñāḥ ।
+ahaṃ bhojanaṃ naiva bhojyaṃ na bhoktā cidā...॥4
+bṛhatstotraratnākare prathamabhāgaḥ
+na mṛtyurna śaṅkā na me jātibhedaḥ pitā naiva me naiva mātā ca janma ।
+na bandhurna mitraṃ gururnaiva śiṣyaścidā...॥ 5
+ahaṃ nirvikalpo nirākārarūpo vibhutvācca sarvatra sarvendriyāṇām ।
+na cāsāṅgataṃ naiva muktirna meyaścidā...॥ 6
+॥ iti śrīmacchaṅkarācāryaviracitaṃ nirvāṇaṣaṭkaṃ sampūrṇam ॥
+    </body>
+  </text>
+</TEI>

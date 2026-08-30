@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Niruktopaniṣad</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A5%81%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+niruktopaniṣat
+sa yadyanurudhyate tadbhavati | yadi dharmo'nurudhyate tadevodbhavati | yadi jñānamanurudhyate tadamṛto bhavati | yadi kāmamanurudhyate saṃcaratāṃ imāṃ yoniṃ saṃdadhyāttadidamatra manaḥ śleṣmaretasaḥ saṃbhavati | śleṣmaṇo rasaḥ | rasācchoṇitam | śoṇitānmāṃsam | māṃsānmedaḥ | medasaḥ snāvā | snāvo'sthīni | asthibhyo majjā | majjāto retaḥ | tadidaṃ yonau retaḥ siktaṃ puruṣaḥ saṃbhavati | śukrātireke pumān bhavati | śoṇitātireke strī bhavati | dvābhyāṃ samena napuṃsako bhavati | śukrabhinnena yamo bhavati | śukraśoṇitasaṃyogānmātṛpitṛsaṃyogācca kathamidaṃ śarīraṃ paraṃ saṃyamyate | saumyo bhavatyekarātroṣitaṃ kalalaṃ bhavati | pañcarātrādbudbudaḥ | saptarātrāt peśī | dvisaptarātrādarbudaḥ | paṃcaviṃśatirātrasthito yonau ghano bhavati | māsamātrāt kaṭhino bhavati | dvimāsābhyantare śiraḥ saṃpadyate | māsatrayeṇa grīvāvyādeśaḥ | māsacatuṣkeṇa tvagvyādeśaḥ | pañcame māse nakharomavyādeśaḥ | ṣaṣṭhe mukhanāsikākṣiśrotraṃ ca saṃbhavati | saptame calanasamartho bhavati | aṣṭame buddhyādhyavasyate | navame sarvāṅgasaṃpūrṇo bhavati || mṛtaścāhaṃ punarjāto jātaścāhaṃ punarmṛtaḥ | nānāyonisahasrāṇi mayā yānyuṣitāni vai || āhārā vividhā bhuktāḥ pītā nānāvidhāḥ stanāḥ | mātaro vividhā dṛṣṭāḥ pitaraḥ suhṛdastathā || avāṅmukhaḥ pīḍyamāno jantuścaiva samanvitaḥ | sāṃkhyaṃ yogaṃ samabhyasye puruṣaṃ pañcaviṃśakam || iti || tataśca daśame māse prajāyate | jātaśca vāyunā spṛṣṭo na smarati janma maraṇam | ante ca śubhāśubhaṃ karmaitaccharīrasya prāmāṇyam | |
+iti niruktopaniṣadi viṃśatitamodhyāyaḥ|
+aṣṭottaraṃ sandhiśatamaṣṭākapālaṃ śiraḥ saṃpadyate | ṣoḍaśa vapāpalāni | nava snāyuśatāni | saptaśataṃ puruṣasya marmāṇi | ardhacatasro romāṇi koṭayaḥ | hṛdayaṃ hyaṣṭakapalāni | dvādaśakapalāni jihvā | vṛṣaṇo hṛṣṭasupaṇau | tata upasthagudayonyetanmūtrapurīṣaṃ kasmādāhārāpānasiktatvādanupacati | karmaṇā anyonyaṃ jāyata iti | taṃ vidyākarmaṇī samanvārabhete pūrvaprajñāṃ ca | mahatyajñānatamasi magno jarāmaraṇakṣutpipāsāśokakrodhadrohalobhamohamadabhayamatsaraharṣaviṣāderṣyāsūyātmakairdvandrairabhibhūyamānaḥ so'smādārjavaṃ javībhāvanāntaṃ nirmucyate | so'smādāntaṃ mahābhūbhikāvat śarīrānnimeṣamātraiḥ prakramya prakṛtibhirabhiparītya taijasaṃ śarīraṃ kṛtvā karmaṇānurūpaṃ phalamanubhūya tasya saṃkṣaye punarimaṃ lokaṃ pratipadyate ||
+iti niruktopaniṣadi ekaviṃśo'dhyāyaḥ|
+iti niruktopaniṣatsamāptā
+    </body>
+  </text>
+</TEI>

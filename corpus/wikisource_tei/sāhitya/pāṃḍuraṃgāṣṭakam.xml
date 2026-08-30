@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Pāṃḍuraṃgāṣṭaka</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%AA%E0%A4%BE%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A5%81%E0%A4%B0%E0%A4%99%E0%A5%8D%E0%A4%97%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%95%E0%A4%AE%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+mahāyogapīṭhe taṭe bhīmarathyā
+varaṃ puṇḍarīkāya dātuṃ munīndraiḥ ।
+samāgatya niṣṭhantamānaṃdakaṃdaṃ
+parabrahmaliṅgaṃ bhaje pāṇḍuraṅgam ॥ 1 ॥
+
+taṭidvāsasaṃ nīlameghāvabhāsaṃ
+ramāmaṃdiraṃ suṃdaraṃ citprakāśam ।
+varaṃ tviṣṭakāyāṃ samanyastapādaṃ
+parabrahmaliṅgaṃ bhaje pāṇḍuraṅgam ॥ 2 ॥
+
+pramāṇaṃ bhavābdheridaṃ māmakānāṃ
+nitambaḥ karābhyāṃ dhṛto yena tasmāt ।
+vidhāturvasatyai dhṛto nābhikośaḥ
+parabrahmaliṅgaṃ bhaje pāṇḍuraṅgam ॥ 3 ॥
+
+sphuratkaustubhālaṅkṛtaṃ kaṇṭhadeśe
+śriyā juṣṭakeyūrakaṃ śrīnivāsam ।
+śivaṃ śāṃtamīḍyaṃ varaṃ lokapālaṃ
+parabrahmaliṅgaṃ bhaje pāṇḍuraṅgam ॥ 4 ॥
+
+śaraccaṃdrabiṃbānanaṃ cāruhāsaṃ
+lasatkuṇḍalākrāṃtagaṇḍasthalāṃtam ।
+japārāgabiṃbādharaṃ kajanetraṃ
+parabrahmaliṅgaṃ bhaje pāṇḍuraṅgama॥ 5 ॥
+
+kirīṭojvalatsarvadikprāṃtabhāgaṃ
+surairarcitaṃ divyaratnairanarghaiḥ ।
+tribhaṅgākṛtiṃ barhamālyāvataṃsaṃ
+parabrahmaliṅgaṃ bhaje pāṇḍuraṅgama॥ 6 ॥
+
+vibhuṃ veṇunādaṃ caraṃtaṃ duraṃtaṃ
+swayaṃ līlayā gopaveṣaṃ dadhānam ।
+gavāṃ bṛndakānandadaṃ cāruhāsaṃ
+parabrahmaliṅgaṃ bhaje pāṇḍuraṅgam ॥ 7 ॥
+
+ajaṃ rukmiṇīprāṇasañjīvanaṃ taṃ
+paraṃ dhāma kaivalyamekaṃ turīyam ।
+prasannaṃ prapannārtihaṃ devadevaṃ
+parabrahmaliṅgaṃ bhaje pāṇḍuraṅgam ॥ 8 ॥
+
+stavaṃ pāṇḍuraṃgasya vai puṇyadaṃ ye
+paṭhantyekacittena bhaktyā ca nityam ।
+bhavāṃbhonidhiṃ te vitīrtvāntakāle
+harerālayaṃ śāśvataṃ prāpnuvanti ॥ 9 ॥
+
+॥ iti śrīmatparamahaṃsaparivrājakācāryasya śrīgovindabhagavatpūjyapādaśiṣyasya śrīmacchaṅkarabhagavataḥ kṛtaupāṇḍuraṅgāṣṭakaṃ saṃpūrṇam ॥
+    </body>
+  </text>
+</TEI>

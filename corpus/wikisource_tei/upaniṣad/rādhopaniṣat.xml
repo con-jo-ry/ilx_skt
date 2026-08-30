@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Rādhopaniṣad</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%B0%E0%A4%BE%E0%A4%A7%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+rādhopaniṣat
+prathamaḥ prapāṭhakaḥ
+oṃ atha suṣuptau rāmaḥ svabodhamādhāyeva kiṃ me devaḥ kvāsau kṛṣṇo yo'yaṃ mama bhrāteti tasya kā niṣṭhā brūhīti | sā vai hyuvāca | rāma śṛṇu bhūrbhuvassvarmaharjanastapassatyaṃ talaṃ vitalaṃ sutalaṃ rasātalaṃ talātalaṃ mahātalaṃ pātālaṃ evaṃ pañcāśatkoṭiyojanaṃ bahulaṃ svarṇāṇḍaṃ brahmāṇḍamiti anantakoṭibrahmāṇḍānāmupari kāraṇajalopari mahāviṣṇornityaṃ sthānaṃ vaikuṇṭhaḥ | sa ha pṛcchati | kathaṃ śūnyamaṇḍale nirālambane vaikuṇṭha iti sā'nuyuktā | padmāsanāsīnaḥ kṛṣṇadhyānaparāyaṇaḥ śeṣadevo'sti | tasyānantaromakūpeṣvanantakoṭibrahmāṇḍāni anantakoṭikāraṇajalāni tasya saptakoṭiparisahasraparimitāḥ phaṇāḥ tadupari vaikuṇṭho viṣṇuloka iti | rudralokaḥ śivavaikuṇṭha iti | daśakoṭiyojanavistīrṇo rudralokaḥ | tadupari viṣṇulokaḥ | saptakoṭiyojanavistīrṇo viṣṇulokaḥ | tadupari sudarśanacakraṃ trikoṭiyojanavistīrṇam | tadupari kṛṣṇasya sthānaṃ gokulāḍhyaṃ māthuramaṇḍalaṃ mahatpadaṃ sudhāmayasamudreṇāveṣṭitamiti | tatrāṣṭadalakesaramadhye maṇipīṭhe saptāvaraṇakamiti | sa pṛcchati | kiṃ rūpaṃ kiṃsthānaṃ kiṃ padmaṃ kimantaḥkesara kimāvaraṇam | ityukte sā'nuyuktā | gokulāḍhye māthuramaṇḍale vṛndāvanamadhye sahasradalapadme ṣoḍaśadalamadhye aṣṭadalakesare govindo'pi śyāmapītāmbaro dvibhujo mayūrapicchaśirāḥ veṇuvetrahasto nirguṇaḥ saguṇo nirākāraḥ sākāro nirīhaḥ sa ceṣṭate virājata iti | pārśve rādhikā ceti | tasyā aṃśo lakṣmīdurgāvijayādiśaktiriti | paścime sammukhe lalitā | vāyavye śyāmalā | uttarasmin śrīmatī | aiśānyāṃ haripriyā | pūrvasmin viśālā | agneyyāṃ śraddhā | yāmyāṃ padmā | naiṛtyāṃ bhadrā | ṣoḍaśadale agre candrāvatī | tadvāme citrarekhā | tatpārśve citrakarā | tatpārśve madanasundarī | tatpārśve śrīmadā | tatpārśve śaśirekhā | tatpārśve kṛṣṇapriyā | tatpārśve vṛndā | tatpārśve manoharā | tatpārśve yoganandā | tatpārśve parānandā | tatpārśve premānandā | tatpārśve satyānandā | tatpārśve candrā | tatpārśve kiśorīvallabhā | tatpārśve karuṇākuśalā iti | evaṃ vividhā gopyaḥ kṛṣṇasevāṃ kurvantīti | iti vedavacanaṃ bhavati | iti vedavacanaṃ bhavati | iti vedavacanaṃ bhavati | mānasapūjayā japena dhyānena kīrtanena stutyā mānasena sarveṇa nityasthalaṃ prāpnoti | nānyeneti | nānyeneti | nānyeneti ||
+ityātharvaṇyāṃ puruṣabodhanyāṃ pāramahaṃsyāṃ prathamaḥ prapāṭhakaḥ
+dvitīyaḥ prapāṭhakaḥ
+oṃ sā'nuyuktā | tasya bāhyeṣu śatadalapadmapatreṣu yogapīṭheṣu rāsakrīḍānuraktā gopyastiṣṭhanti | etaccaturdvāraṃ lakṣasūryasamujjvalam | tatra drumākīrṇam | tatprathamāvaraṇe paścime sammukhe svarṇamaṇḍape devakanyā | dvitīye sudāmādi | tṛtīye kiṅkiṇyādi | caturthe lavaṅgādi | pañcame kalpatarormūle uṣā tatsahito'niruddho'pi | ṣaṣṭhe devāḥ | saptame raktavarṇo viṣṇuriti dvārapālāḥ | etadbāhyaṃ rādhākuṇḍam | tatra snātvā rādhāṅgaṃ bhavati | īśvarasya darśanayogyaṃ bhavati | yatra snātvā nārada īśvarasya nityasthalasāmīpyayogyo bhavati | rādhākṛṣṇayorekamāsanam | ekā buddhiḥ | ekaṃ manaḥ | ekaṃ jñānam | eka ātmā | ekaṃ padam | ekā ākṛtiḥ | ekaṃ brahma | tayā samaṃ hemamuralīṃ vādayan hemasvarūpāmanurāgasaṃvalitāṃ kalpatarormūle āste | surabhividyā akṣamālā śrutiriva paramā siddhā sāttvikī | śuddhā sāttvikī guṇātītā snehabhāvarahitā | ata eva dvayorna bhedaḥ | kālamāyāguṇātītatvāt | tadeva spaṣṭayati atheti | athānantaraṃ maṅgale vā | atha vā śrīvṛndāvanamadhye ṛgyajussāmasvarūpam | ṛgātmako makāraḥ | yajurātmaka ukāraḥ | śrīrāmaḥ sāmātmako'pi akāraḥ | śrīkṛṣṇaḥ ardhamātrātmako'pi | yaśodā iva binduḥ | parabrahma saccidānandānaṃdarādhākṛṣṇayoḥ parasparasukhābhilāṣarasāsvādana iva tatsaccidānandāmṛtaṃ kathyate | tallakṣaṇaṃ yat praṇavaṃ brahmaviṣṇuśivātmakaṃ icchājñānaśaktiniṣṭhaṃ kāyikavācikamānasikabhāvaṃ sattvarajastamassvarūpaṃ satyatretādvāparānugītam | dvāparasya paścādvartate kaliḥ | etaccaturyugeṣu gīyate | tadbhūrbhuvassvarlakṣaṇamoṅkāra eva | yaccānyadatiriktaṃ kālātītaṃ tadapyoṅkāra eva | sarvaṃ hyetadbrahma ātmā so'hamasmi iti dhīmahi cintayemahi | ādityo vā eṣa etanmaṇḍalaṃ tapati iti yat śvetākhyaṃ śvetadvīpanāma sthānaṃ turīyātītaṃ gokulamathurādvārakāṇāṃ turīyametaddivyaṃ vṛndāvanamiti puraivoktaṃ sarvaṃ saṃpatsaṃpradāyānugataṃ yatra ||
+ityātharvaṇyāṃ puruṣabodhanyā pāramahaṃsyāṃ dvitīyaḥ prapāṭhakaḥ
+tṛtīyaḥ prapāṭhakaḥ
+athānantaraṃ bhadraśrīlohabhāṇḍīramahātālakhadiravakulakumudakāmyamadhuvṛndāvanāni dvādaśavanāni kālindyāḥ paścime saptavanāni pūrvasmin pañcavanāni uttarasmin guhyāni santi | mathurāvanamadhuvanamahāvanakhādiravanabhāṇḍī ravananandīśvaravananandavanānandavanakhāṇḍavavanapalāśavanāśokavanaketakavanadrumavanagandhamādanavanaśeṣaśāyivanaśyāmāyuvanabhujyuvanadadhivanavṛṣabhānuvanasaṃketavanadīpavanarāsavanakrīḍāvanotsukavanānyetāni caturviṃśativanāni nityasthalāni nānālīlayādhiṣṭhāya kṛṣṇaḥ krīḍati | tāni vanāni vasantaṛtusevitāni mandādipavanayuktāni santi yatra duḥkhaṃ nāsti sukhaṃ nāsti jarā nāsti maraṇa nāsti krodho nāsti tatra pūrṇānandamayaḥ śrīkaiśorakṛṣṇaḥ śikhaṇḍidalalambitatriyumaguñjāvataṃsamaṇimayakirīṭaśirāḥ gorocanātilakaḥ karṇayormakarakuṇḍalo vanyasragvī mālatīdāmabhūṣitaśarīraḥ kare kaṅkaṇaṃ bāhau keyūraṃ pādayoḥ kiṅkiṇī kaṭyāṃ pītāmba[raṃ ca dhārayan] gambhīranābhikamalaḥ suvṛttanāsāyugalo dhvajavajrādicihnitapādapadmo mahāviṣṇu(rāste)| |
+evaṃrūpaṃ kṛṣṇacandraṃ cintayennityaśaḥ sudhīḥ | | iti | |
+tasyādyā prakṛtī rādhikā nityā nirguṇā sarvālaṅkāraśobhitā prasannāśeṣalāvaṇyasundarī | asmadādīnāṃ janma tadadhīnaṃ asyāṃśādbahavo viṣṇurudrādayo bhavanti | evaṃbhūtasyāgādhamahimnaḥ sukhasindhorutpannamiti mānasapūjayā dhyānena kīrtanena stutyā mānasena sarveṇa nityasthalaṃ prāpnoti | nānyeneti | nānyeneti |
+nānyeneti | iti vedavacanaṃ bhavati | iti vedavacanaṃ bhavati | iti vedavacanaṃ bhavati | |
+ityātharvaṇyāṃ puruṣabodhanyāṃ pāramahaṃsyāṃ tṛtīyaḥ prapāṭhakaḥ
+caturthaḥ prapāṭhakaḥ
+atha puruṣottamo yasyāṃ niśāyāṃ turīyaṃ sākṣādbrahma | yatra paramasaṃnyā sasvarūpaḥ kṛṣṇa kalpapādapaḥ | yatra lakṣmīrjāmbavatī rādhikā vimalā candrāvalī sarasvatī lalitādiriti | sākṣādbrahmasvarūpo jagannāthaḥ ahaṃśeṣāṃśajyotīrūpaḥ sudarśano bhaktaśca | evaṃ pañcadhā vibhūtamiti | yatra ca mathurā gokulaṃ dvārakā vaikuṇṭhapurī śvetapurī rāmapurī yamapurī narasiṃhapurī naranārāyaṇapurī kuberapurī gaṇeśapurī śakrapurī etā devatāstiṣṭhanti | yatra rasātalapātālagaṅgārohiṇīkuṇḍamamṛtakuṇḍamityādinānāpurī | yatrānnaṃ siddhānnam | śūdrādisparśadoṣarahitaṃ brahmādisaṃskārāpekṣārahitaṃ yatra śrījagannāthasya yogamityarthaḥ | nābhyā āsīt iti mantreṇa, annapate'nnasya iti mantreṇa, annādyāya vyūhadhvaṃ somo rājāya bhāgamatsame sukhaṃ pramāryate yaśasā ca balena ca iti mantreṇa, viśvakarmaṇi svāhā iti mantreṇa, āpo jyotī raso'mṛtaṃ brahma bhūrbhuvaḥ suvarom iti mantreṇa, pṛthivī te pātraṃ dyaurapidhānaṃ brahmaṇastvā mukhe juhomi svāhā iti mantreṇa; annaṃ brahma iti śrutyā ca kaivalyamuktirucyate | yatrānnaṃ brahma paramaṃ pavitraṃ śānto rasaḥ kaivalyamuktiḥ siddhā bhūrbhuvassvarmahattattvamityādi yatra bhārgavī yamunā samudramamṛtamayaṃ vṛndāvanāni nīlaparvatagovardhanasiṃhāsanaṃ prāsādo maṇimaṇṭapo vimalādiṣoḍaśacaṇḍikāgopyo yatra samudratīre ca nirantaraṃ kāmadhenuvṛndaṃ yatra nṛsiṃhādayo devatā āvaraṇāni yatra na jarā na mṛtyurna kālo na bhaṅgo na jayo na vivādo na hiṃsā na śāntirna svapna evaṃ līlākāmaśarīrī svavinodārthaṃ bhaktaiḥ sahotkaṇṭhitaistatra krīḍati kṛṣṇaḥ |
+eko devo nityalīlānurakto
+bhaktavyāpī bhaktahṛdyantarātmā |
+karmādhyakṣaḥ sarvabhūtādhivāsaḥ
+sākṣī cetā kevalo nirguṇaśca ||
+mānasapūjayā japena dhyānena kīrtanena stutyā mānasena sarveṇa nityasthalaṃ prāpnoti | nānyeneti | nānyeneti | nānyeneti | iti vedavacanaṃ bhavati | iti vedavacanaṃ bhavati | iti vedavacanaṃ bhavati | |
+ityātharvaṇyāṃ puruṣabodhanyāṃ pāramahaṃsyāṃ caturthaḥ prapāṭhakaḥ
+iti rādhopaniṣata samāptā
+    </body>
+  </text>
+</TEI>

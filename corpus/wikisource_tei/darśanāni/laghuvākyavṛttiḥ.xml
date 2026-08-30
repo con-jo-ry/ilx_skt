@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Laghuvākyavṛtti</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%B2%E0%A4%98%E0%A5%81%E0%A4%B5%E0%A4%BE%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A4%B5%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%BF%E0%A4%83"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+sthūlo māṃsamayo deho sūkṣmaḥ syādvāsanāmayaḥ |
+jñānakarmendriyaiḥ sārdhaṃ dhīprāṇau taccharīragau || 1||
+ajñānaṃ kāraṇaṃ sākṣī bodhasteṣāṃ vibhāsakaḥ |
+bodhābhāso buddhigataḥ kartā syātpuṇyapāpayoḥ || 2||
+sa eva saṃsaretkarmavaśāllokadvaye sadā |
+bodhābhāsācchuddhabodhaṃ vivicyādatiyatnataḥ || 3||
+jāgarasvapnayoreva bodhābhāsaviḍambanā |
+suptau tu tallaye bodhaḥ śuddho jāḍyaṃ prakāśayet || 4||
+jāgare'pi dhiyastūṣṇīṃbhāvaḥ śuddhena bhāsyate |
+dhīvyāpārāśca cidbhāsyāścidābhāsena saṃyutāḥ || 5||
+vahnitaptajalaṃ tāpayuktaṃ dehasya tāpakam |
+cidbhāsyā dhīstadābhāsayuktānyaṃ bhāsayettathā || 6||
+rūpādau guṇadoṣādivikalpā buddhigāḥ kriyāḥ |
+tāḥ kriyā viṣayaiḥ sārdhaṃ bhāsayantī citirmatā || 7||
+rūpācca guṇadoṣābhyāṃ viviktā kevalā citiḥ |
+saivānuvartate rūparasādīnāṃ vikalpane || 8||
+kṣaṇe kṣaṇe'nyathābhūtā dhīvikalpāścitirna tu |
+muktāsu sūtravadbuddhivikalpeṣu citistathā || 9||
+muktābhirāvṛtaṃ sūtraṃ muktayormadhya īkṣyate |
+tathā vṛttivikalpaiścitspaṣṭā madhye vikalpayoḥ || 10||
+naṣṭe pūrvavikalpe tu yāvadanyasya nodayaḥ |
+nirvikalpakacaitanyaṃ spaṣṭaṃ tāvadvibhāsate || 11||
+ekadvitrikṣaṇeṣvevaṃ vikalpasya nirodhanam |
+krameṇābhyasyatāṃ yatnādbrahmānubhavakāṅkṣibhiḥ || 12||
+savikalpajīvo'yaṃ brahma tannirvikalpakam |
+ahaṃ brahmeti vākyena so'yamartho'bhidhīyate || 13||
+savikalpakacidyo'haṃ brahmaikaṃ nirvikalpakam |
+svataḥsiddhā vikalpāste niroddhavyāḥ prayatnataḥ || 14||
+śakyaḥ sarvanirodhena samādhiryoginaṃ priyaḥ |
+tadaśaktau kṣaṇaṃ ruddhvā śraddhālurbrahmatātmanaḥ || 15||
+śraddhālurbrahmatāṃ svasya cintayedbuddhivṛttibhiḥ |
+vākyavṛttyā yathāśakti jñātvāddhābhyasyatāṃ sadā || 16||
+taccintanaṃ tatkathanamanyonyaṃ tatprabodhanam |
+etadekaparatvaṃ ca brahmābhyāsaṃ vidurbudhāḥ || 17||
+dehātmadhīvadbrahmātmadhīdārḍhye kṛtakṛtyatā |
+yadā tadāyaṃ mriyatāṃ mukto'sau nātra saṃśayaḥ || 18||
+iti śrīmatparamahaṃsaparivrājakācāryasya
+śrīgovindabhagavatpūjyapādaśiṣyasya
+śrīmacchaṅkarabhagavataḥ kṛtau laghuvākyavṛttiḥ saṃpūrṇā ||
+    </body>
+  </text>
+</TEI>

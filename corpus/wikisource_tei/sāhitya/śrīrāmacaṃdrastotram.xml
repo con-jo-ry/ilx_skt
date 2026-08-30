@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Śrīrāmacaṃdrastotra</title>
+        <author>Śrīvāsudevānandasarasvatī</author>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%9A%E0%A4%82%E0%A4%A6%E0%A5%8D%E0%A4%B0%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8B%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+||śrīrāmacaṃdrastotram ||
+(maṃtragarbha)
+śrī rāmacaṃdraḥ sahitāstataṃdraḥ oṃkāravācyosvatu māṃ subhadraḥ||
+rājādhirājoskhilalokabhartā natāvanāttavrata ādhihartā||1||
+mahāmahimne paramārthadhāmne mohāntakāyādya namosstu bhūmne||
+jagaddhitāyāttasuvigrahāya bhakteṣṭadāyāhitanigrahāya||2||
+yajñeśvarāyākhiladharmagoptre gatipradāyāsuraduṣṭahaṃtra||
+rāma prasīdākhilatāpahārin vareṇya kāruṇyanidhespahārin||3||
+mamāparādhānakhilānkṣamasva tejomaya śrīśa vibho dayasva||
+janmādihetoḥ kṛtabhūrimaṃtor dattābhaya tvaṃ paramā gatirme||4||
+yamādiyogaṃ na ca yāgamāpa ttā paghna jāne vihitārthabhogam||
+jagannivāseśvara māmavādya tre dhādyatāpān hara me bhavādya||5||
+yaśaḥprapūrṇaṃ śravaṇaṃ kuruṣva yā yādgatiṃ yena khalospi sadyaḥ||
+rāgādividdhospi tamarpayādya yatīśa satsaṃgamajānavadya||6||
+ma hāghakarta hi tavekṣaṇena yāyādvimuktiṃ paramakṣaṇena||
+sītāpate tesstu namaḥ prasīda prasīdarāmākhilada prasīda||7||
+kausalyālasadālavālajanitaḥ sītālatāliṅgitaḥ
+siktaḥ paṃktirathena sodaramahāśākhābhirabhyunnataḥ||
+rakṣastīkṣṇanidāghapāṭanapaṭucchāyāśritānaṃdakṛtyuṣmadvāṃchitasatphalāni phalatu śrīrāmakalpadrumaḥ||8||
+iti śrī pa. pa. śrīvāsudevānandasarasvatīviracitaṃ śrīrāmacaṃdrastotraṃ saṃpūrṇam||
+    </body>
+  </text>
+</TEI>

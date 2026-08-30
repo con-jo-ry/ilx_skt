@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Gurorguṇamaṇimālā</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%97%E0%A5%81%E0%A4%B0%E0%A5%8B%E0%A4%B0%E0%A5%8D%E0%A4%97%E0%A5%81%E0%A4%A3%E0%A4%AE%E0%A4%A3%E0%A4%BF%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+|| śrīḥ ||
+|| śrīśrīnivāso vijayatetarām ||
+mahāmahopādhyāyavidvatkesarivaiyākaraṇacakravartiśrīmuṣṇaṃ
+śrīsubbarāyācāryamahāśayānāṃ caritam|
+śrīveṅkaṭagirinilayaṃ śrīvidhibhavamukhyadevanutacaraṇam|
+śrīpatimamalamanantajñānāndādikaṃ bhaje śaraṇam|| 1
+śrīmuṣṇasubbarāyācāryāṇāṃ budhavarābhinandyānām|
+vidvatkesaribirudaprakaṭitamahimaikadeśavidyānām|| 2
+guṇagaṇaratnākarataḥ katipayaratnāni tāvadādāya|
+sujanagrīvābharaṇaṃ hāraṃ racayāmi kaṃ ca modāya|| 3
+kṣetraṃ śrīmanmadhvācāryā''dṛtamasti bhārate khaṇḍe|
+śrīmuṣṇasaṃjñamindhe makarīpatraṃ yaduñcabhūgaṇḍe|| 4
+nityasarovaratīre muktasurādhīśamṛṣṭasopāne|
+bhaktahitāya virājati yatra harissūkaro hṛtājñāne|| 5
+āryagaṇanutaguṇāryā cāryagurūttaṃsavaṃśamuktābhaḥ|
+nārāyaṇāryanāmā tatrābhūtpaṇḍiteḍyaśubhacaryaḥ|| 6
+tattanayāḥ pañcāsan prāptanayāśśabdatantraniṣṇātāḥ|
+āloḍitavedāntā haricaraṇasarojamadhukarasvāntāḥ|| 7
+pārtha iva madhyamo'bhūt teṣu śrīsubbarāyabudhavaryaḥ|
+sukṛtabharitāmbujāmbāgarmādiva candramāḥ payorāśeḥ|| 8
+pitropanīta eva dvitrairabdairavāpa sadvidyām|
+tiruvālūrugrāme mātulasadane sthito'dhyagīṣṭa ṛcaḥ|| 9
+janakājjyeṣṭhabhrātuḥ kāvyagranthānadhītya medhāvī|
+yatra śrīvārṣṇeyaḥ saha rukmiṇyā virājate devaḥ|| 10
+mannāruguḍikṣetre niksaṃstatrādṛto budhaissarvaiḥ|
+paṇḍitavaryāttatra ca gopālācāryanāmakāddhīraḥ|| 11
+śābde tantre kaustubhakaumudyāvadhyagīṣṭa guruṇā'tha|
+'śāstreṣu bhavānnipuṇo bhavite'ti kṛtāśiṣaṃ gṛhītvā'yam|| 12
+kanyāmanavadyāṅgīmanukūlāmudavahacchubhācārām|
+ṣaścāduttaradeśe surapuranagaraṃ caran samāsādya|| 13
+eṣa hayagrīvāryādbudhavaryācchekharādikānnipuṇam|
+katicidadhītya granthān tadanujñātastaduttare deśe|| 14
+yatra ca bhīmākūle viṭhṭhalanāmā hariḥ paro jayati|
+paṇḍhrāpuranāmavarakṣetraṃ bhaktyā tatassamāpede|| 15
+tatra hi kṛṣṇācāryaṃ viduṣāṃ varyaṃ samāśrayaddhīmān|
+bhāṣyaṃ pradīpasahitaṃ bhūṣaṇasārau tathaiva maññūṣām|| 16
+udyotaṃ samadhītya ca śābde tantre'bhavanmahāprājñaḥ|
+sa tu paśyanguruvaryoṃ vaiduṣyaṃ vāvadūkatāmasya|| 17
+"mānyo bhavāṃstu bhavitā sabhāsu sarvāsu bhūpatipramukhaiḥ"|
+āśiṣamevamavādīt jagrāhāsau praṇāmapūrvaṃ tām|| 18
+kolhāpurasaṃsthānaṃ prāyacchiṣyairayaṃ ca padacārī|
+yatra hi lakṣmīrvilasati kāmitasakalārthadā svabhaktebhyaḥ|| 19
+nagare tasminnivasannabhyāsthannyāyaśāstramapi sakalam|
+śrībhikkuśāstrivaryātpaṇḍitagaṇamaulimaṇḍanoñcamaṇeḥ|| 20
+tasminneva pure raghunāthābhidhatārkikaṃ jigāyā'sau|
+yo nyāyaratnanāmnīṃ vyākhyāmakaroddhi pañcavādānām|| 21
+tatratyānāṃ viduṣāṃ pramodamudapādayatparaṃ vāgmī|
+āgacchan svaṃ deśaṃ maisūrupuraṃ kramādayaṃ prāpya|| 22
+tatrā''sthāne viduṣo lebhe jitvoñcamānanāṃ nṛpateḥ|
+dakṣiṇadeśe rājannūtanadurgākhyapuranarendrasya|| 23
+āsthānavibudha kuppusvāmivarādāpa pūrvamīmāṃsām|
+ātmakulakṣīrāmbudhirākācandro budhendranutamedhāḥ|| 24
+yo'dhyāpayatsuśiṣyañchrīpūrṇaprajñaśāstratattvārthān|
+bahukṛtvaḥ suguṇanidhī rāmaṇṇācāryanāmaguruvaryaḥ|| 25
+tasmādguruvaryādayamāmnāyāntaṃ samadhyagīṣṭa ciram|
+paścimajaladhestīre puryāṃ śrīrajatapīṭhasaṃjñāyām|| 26
+śrīpūrṇaprajñamunipramukhārcitakṛṣṇapūjakā'graṇyāt|
+śrīkṛṣṇāpuramaṭhapatiyatikulatilakādavāpa parivadyām|| 27
+vidyādhīśadyumaṇeravaśiṣṭāṃ śiṣyadīptihṛtatamasaḥ|
+evaṃ śāstreṣvasadṛśamedhāpratibhābalena deśeṣu|| 28
+vidvadvaradikkariṇaḥ sadā'vajānan cacāra budhasiṃhaḥ|
+grāmavare kvacideṣa hi bheje samamāsanaṃ mahāsadasi|| 29
+budharājaśāstriṇātha tu vāde taṃ cāparāñjigāya budhān|
+tañjāpure mahīpatisadasi vipaścitparīkṣakaḥra kaścit|| 30
+enaṃ śāstravicāre nipuṇaṃ jñātvā'pi nā''dyakakṣyāyām|
+samajīgaṇattadā'yaṃ kupitaḥ purato vibhossabhāmadhye|| 31
+asmin vidvatsadasi prabhavati ko vā parīkṣituṃ māṃ tu|
+dātuṃ vā prativacanaṃ matpraśnānāmitīrayāñcakre|| 32
+atha vidvān prabhuṇoktaḥ kimetaditi taṃ parīkṣako bhītaḥ|
+prāmādiko'parādho mamāyamarhaḥ sumānane prathamam|| 33
+vicikitsā nāstīti prāha prathamāmayaṃ tadā pūjām|
+lebhe sakalā lokā vismayamānandamāpuramitamaho|| 34
+tatraivātha kadācit dakṣiṇadeśyā vipaścito bahavaḥ|
+sammantrya kuppusvāmyayyaṅgāraṃ mahoddhataṃ sadasi|| 35
+tārkikarājaṃ jetuṃ pracodayāmāsurenamatidhīram|
+vyutpattivādanāmni granthe tamayaṃ jigāya vādeṣu|| 36
+jayinamatha subbarāyācāryaṃ sarve mahāśayāstatra|
+suragurumaparaṃ matvā vyājahruścakravartinaṃ viduṣām|| 37
+amunaivā'tiviśuddhā bhuvamiva gaṅgā bhagīrathenādau|
+dakṣiṇakakubhamapūrvā śābdī vidyā sthiraṃ samāninye|| 38
+deśeṣu yeṣu yeṣu prakhyātatarā lasanti cedānīm|
+vyākaraṇaśāstrapāraṅgatāḥ sabhā''sthānapaṇḍitā jayinaḥ|| 39
+vādeṣu samyagadhyāpaneṣu ca prathitaśemuṣīmahitāḥ|
+dadhati ca mahāmahopādhyāyopapadaṃ ca jārjinṛpadattam|| 40
+śālāsu rājakīyāsvagryāsu ca paṇḍitā virājante|
+te sarve'pi budhendrāḥ śāstre śiṣyapraśiṣyatacchiṣyāḥ|| 41
+evaṃ jaiminigautamatantre'pyanye vasanti vidvāṃsaḥ|
+bahavaścetyasya mahābhāgyaṃ śaknoti ko'nu varṇayitum|| 42
+rājamahendre nagare śrīsatyadhyānatīrthagurusadasi|
+vaiyākaraṇamahebho mattastatrā''jagāma budhakariṇaḥ|| 43
+durbhedacodyadantaprahārato'drāvayada drutaṃ sakalān|
+budhasiṃhaṃ guruvaryeṇā''hūtamimaṃ vilokya sa tu vādī|| 44
+bhītatamo budhavaryaṃ praṇamya madhyesabhaṃ ca sa prāha|
+"etaistatrabhavadbhirvādaṃ kartuṃ kṣameta ko vādī||" 45
+ete jagati mahāntaḥ pāṇinirathavā patañjalirbrāhmī|
+atra sabhāyāmetairadyāhaṃ vijita eva budhavaryaiḥ"|| 46
+eko jigāya nikhilān pārthathaḥ saṃśaptakānivāśu sudhīḥ|
+bhīmaḥ krodhavaśāniva vādīndrāneka eva dhībalataḥ|| 47
+svayamanviṣyāhūya prathitoddhatacaṇḍapaṇḍitapravarān|
+niśśaṅkaṃ dhīramatiḥ sa śapathamakarodvibhinnamadadaṃṣṭrān|| 48
+durvādīndramahārathayūthe prakṣipati bhīṣaṇaśataghnīm|
+durbhedacodyarūpāṃ mumoca tūrṇaṃ vibhīḥ sahasraghnīm|| 49
+punarapi maisūrupure rājā'mātyairasau samāhūtaḥ|
+viduṣastatra vijitya prāpa ca dattaṃ parīkṣakasthānam|| 50
+vahudeśāgataviduṣaḥ parīkṣya nṛpatiṃ tu toṣayāmāsa|
+nṛpasacivairbudharājo vidhuṣāmagre supūjitaścaiṣaḥ|| 51
+sadasi baroḍānṛpateḥ paṇḍitasiṃhāṃsatdātanāntsarvān|
+jitvā'khilaśāstreṣu prāthamikīṃ prāpa mānanāṃ śreṣṭhām|| 52
+śrīpadbhanābhapādāṅguṣṭhanakhadyotadhūtasantamase|
+dakṣiṇavāridhitīragakeraladeśeṣu rājamāne'sau|| 53
+nagare'pyanantaśayane rājasabhāyāṃ vijitya budhamallān|
+sauvarṇakaṭakūparvāṃ lebhe sambhāvanāṃ parāṃ prathamām|| 54
+śrīveṅkaṭagirinikaṭe rājati padbhavatīvarakṣetre|
+śrīpūrṇaprajñamatā'valambisujanaiḥ prakalpitāyāṃ tu|| 55
+siddhāntonnāhinyāṃ susabhāyāṃ prājñavaryakalitāyām|
+prathamaṃ parīkṣakapadaṃ pariṣkaroti sma budhavaravyūhe|| 56
+cittūru kalekaṭaragryaḥ prasamīkṣya kṛtīḥ pramodato hyasya|
+sūtrārthamañjarīmukhaśāstragranthāṃścirādabhinananda|| 57
+svābhiprāyanivedanapūrvaṃ rājñe svayaṃ nivedyāsmai|
+śrījārjicakravartiprabhuto varṣāśanena mahitatamam|| 58
+birudaṃ mahāmahopādhyāyākhyātaṃ pradāpayāmāsa|
+nāmedaṃ dattamiti ḍillīnagarānnivedayāmāsa|| 59
+nayaśabdaśāstrapārāvārā'ntastalavihārimatitimirāṭ|
+lakṣmīsarasvatībhyāṃ premṇā yaścāśrito'dhikaspardham|| 60
+yatpura 'to'haṃ budha'iti bibhyati nāmāpi vaktumakhilāśca|
+koñcīdeśanṛpālaḥ kavikathakaiḥ kītyamānasatkīrtiḥ|| 61
+asya samīkṣya pratibhāmasamādheyeṣu codyagahaneṣu|
+vismitamanāḥ prahṛṣṭaḥ prādādasmai suvarṇakaṭakādīn|| 62
+vārāṇasyāṃ paṇ‍ḍitavādasabhāyāṃ mahāśayāssarve|
+nirupamapūrvantvanaghaṃ vaiduṣyaṃ śabdaśāstravārāśeḥ|| 63
+jānanto'dbhutamodāmbudhau nimagnā viteruranvartham|
+vaiyākaraṇanṛkesaribirudaṃ saṃpūjyaṃ vibudhavarasadasi|| 64
+yatra haraḥ praṇatānāmārtiharo'smīti tādṛgabhidhānaḥ|
+vilasati śivayā dharmā''saṃvardhinyākhyayā saha prītaḥ|| 65
+śrīpañcanadakṣetre kāverītoyavātahṛtadurite|
+adhyāpayannavātsīcchiṣyagaṇaṃ sarvaśāstramaniśamasau|| 66
+asya tu vidvān tanayaḥ śubhavṛttaḥ setumādhavābhikhyaḥ|
+tirupatināmni prathite kṣetravare śrīpateḥra sukhāvāse|| 67
+śrīveṅkaṭeśasaṃskṛtavidyānilaye paraṃ cirāllasati|
+pāṇinitantre mukhyādhyāpakapadavīmavāpa medhāvān|| 68
+śrīveṅkaṭanāmagirerupatyakāyāṃ vibhāsitaṃ pūtam|
+sākaṃ tirupatinagaraṃ priyaputreṇā'dhyuvāsa caiṣa budhaḥ|| 69
+tatrāyaṃ cirakālaṃ svayamapi śiṣyān bahūni śāstrāṇi|
+adhyāpayannatoṣayadacyutamatirthīśca pūjyayantsatatam|| 70
+sūtrārthamaṇimayī yā mañjaryamunā kṛtā budhendreṇa|
+sā mudritā sutenā''driyate sarvaiśśirobhirapi hṛdayaiḥ|| 71
+gītābhāṣyavyākhyā śekharayugalasya cottame vyākhye|
+amunā vyaraciṣatemāstāśca sutenā'dya mudraṇe nihitāḥ|| 72
+deśe deśe bahavo vasanti śiṣyāḥ praśiṣyavargyāśca|
+tannāmāni viśiṣya jñātuṃ vaktuṃ na śaknumo'dya vayam|| 73
+atha vakṣyāmasteṣu ca katipayaviduṣāṃ tu nāmadheyāni|
+pañcanade nṛpasaṃskṛtaśālādhyakṣaśca śabdaniṣṇātaḥ|| 74
+mahitanadītīrakule sañjātaḥ śiṣyarkyanutasuguṇaḥ|
+śrīsetumādhavāryastacchiṣyeṣu pradhānaśiṣyo'sau|| 75
+vidvanmaṇighanapāṭhī śatāvadhānī vicitrakavivaryaḥ|
+kadalīkandānvayajo gītopanyāsilakṣmaṇācāryaḥ|| 76
+asyaiva mukhyaśiṣyaḥ śābde tantre tathaiva vedānte|
+asmādadhītya sarvaṃ śāstraṃ śābdaṃ babhūva medhāvī|| 77
+gopālaśāstrināmā pāṇinitantrajñapaṇḍitapravaraḥ|
+yatra ca vṛṣākapāyyornāthau devau varapradau jayataḥ|| 78
+tatra tu bahavo vidyāśālāḥ kṣetre cidambare santi|
+vidyālaye pradhāne prathamādhyāpakapade niyukto'bhūt|| 79
+tasmātpāṇinitantre santyābhāṣyantvadhītino bahavaḥ|
+tatraikaśchātravaro vidvāna śrīdaṇḍapāṇiyajvā yaḥ|| 80
+aṇṇāmalaisarvakalāśālāsaṃskṛtabudhāgraṇīrvasati|
+birudaṃ mahāmahopādhyāyākhyātaṃ cidambare bibhrat|| 81
+so'pi budhaḥ sacchātraḥ praśiṣyavargyo hi kulapaterasya|
+yo'nantaśayanasaṃskṛtaśālāpadaśāstrapaṇḍitapravaraḥ|| 82
+śrīrāmakṛṣṇaśāstrī so'pi hi śiṣyo'sya bodhakalpataroḥ|
+adhivasati kumbhaghoṇaṃ yo'bhinavo bhaṭṭabāṇa iti viditaḥ|| 83
+nagaravarakumbhaghoṇe rājantyāṃ rājakīyaśālāyām|
+vidvān mahāmahopādhyāyopapadaḥ kavīndrakulatilakaḥ|| 84
+so'pi ca vaiyākaraṇaḥ śiṣyo hyasyaiva kṛṣṇamācāryaḥ|
+yaḥ śrīmahāmahopādhyāyo vīśrīnivāsabudhavaryaḥ|| 85
+triśiraḥ pure'tiramye śrīraṅgakṣetraparisare deśe|
+josaphrakālejivare'marabhāṣā'dhyāpakaḥ praśiṣyo'sya|| 86
+yo rājakīyaśālāsaṃskṛtabhāṣābudhaḥ punānagare|
+kāvyaprakāśaṭīkākāro'laṅkāraśābdatattvajñaḥ|| 87
+jhalakīkaropanāmā vāmanabhaṭṭaḥ sa śiṣya evāsya|
+solāpure'sya vidvān śiṣyo govindaśāstryapi prajñaḥ|| 88
+uktamidamudāharaṇaṃ na tu saṅkhyānaṃ gurośca śiṣyāṇām|
+vyutpattivādamasmādadhijagire tārkikā budhā bahavaḥ|| 89
+ahamapi kaścana śiṣyastrayyante tviti vadāmi jihremi|
+gaṇanantu veditavyaṃ guruvarakaruṇā'bhilāṣayā hi param|| 90
+nigamāntāgamacarcāvyāpāreṇaiva yāpayantsamayam|
+grahavahnivasuniśākarasaṅkhyāte śālivāhanasya śake|| 91
+śrīkālayuktivatsarakārtikāsitatrayodaśīṃ yāvat|
+alamayamakarottirupatinagaraṃ puṇyoñcayotthayā mūrttyā|| 92
+duritapraśamanamasya smaraṇaṃ sarvasya sarvabhadrāṇām|
+karaṇamiti bhaktinunnaḥ kiñcidavocaṃ gurośca mahimānam|| 93
+śrīveṅkaṭeśavidyāśālāyāṃ śrīpade pure bhāntyām|
+trayyantopādhyāyaḥ śiṣṭatamaśrīnivāsabudhasūnuḥ|| 94
+kadalīkandānvayajo giridharanāmā tu sāhitīvidvān|
+racayitvemāṃ sukṛtiṃ samarpya gurave praṇaumi guruvaryam|| 95
+padmāvatīsametaḥ karuṇāvārāṃnidhī rameśo me|
+śrīveṅkaṭagirinilayaḥ prīto bhavatu priyaṃ ca dadātu śivam|| 96
+gaganarttuvasuniśākarasaṅkhyāte śālīvāhanasya śake|
+bahudhānyacaitrapaurṇamyāmeṣā svāryagā kṛtirvyaraci|| 97
+śrīmatāṃ ācāryāṇāṃ stutiḥ
+śrīmān śrīpūrṇabodhaḥ punarapi jananaṃ prāpa kiṃ veti mānyaḥ
+śiṣyairagryairasaṅkhyaiḥ gṛhibhirapi tathā jñānibhiḥ sevitāṅghriḥ|
+āryācāryaḥ sucaryaḥ prathitagururabhūdyo'śrutagranthavaktā
+vaṃśe tasyaiva jātaḥ sa iti bahumataṃ subbarāyāryamīḍe||1||
+vyākhyāprakhyātanāmno varapavanakalāśāstrasaṅghasya nityaṃ
+rāmaṇṇācāryavaryādadhigatanigamāntastathā śikṣitārthaḥ|
+yogīndrānamyakṛṣṇāpuramaṭhayatibhirbhātavidyāmarīcī
+rundhan yo'bhāttamo'ntargurumakhilasatāṃ subbarāyāryamīḍe||2||
+yenaivākāri yatnādiha bhuvi mahataḥ svardhunīvāmalāgryā
+vīdyā śābdī samagrā viharaṇamuditā sarvataścāpyapūrvā|
+pāyaṃpāyaṃ budhendrāḥ katipayapṛṣataḥ sarva ete hi tṛptāḥ
+yadvidyādevanadyāḥ guruvaramaniśaṃ subbarāyāryamīḍe||3||
+śābdīvidyābhidhānāssuravarataravassanti ye yatra yatra
+yāvantaḥ patrapuṣpottamaphalarucirāssarva ete'pi sākṣāt|
+yenaivoptaissubījaissphuṭalasadupadeśābhidhaissaṃprarūḍhāḥ
+tajjāḥ kecittu tajjāḥ para iti mahitaṃ subbarāyāryamīḍe||4||
+rājñastañjāpure yassadasi viracitaṃ prāśnikaikārhamādyaṃ
+prāptaḥ pīṭhaṃ parīkṣāsamaya iha bhavān sthātumarho'dya neti|
+proktaḥ prājñaistadā tānapi budhakariṇassarvaśāstreṣu jitvā
+tasthau tatraiva pīṭhe sthiramatulamatiṃ subbarāyāryamīḍe||5||
+medhāṃ vāde yadīyāṃ budhamadaśamanīṃ sarvaśāstrapravīṇaḥ
+śrutvā vādāya nāgāt kvacidatha haṭhato nirjito māyirājaḥ|
+yenānyo'pītthamevādhikabhayavivaśaḥ nyāyaraṅgapravīṇaḥ
+nā'dādvyutpattivāde prativacanamaho subbarāyāryamīḍe||6||
+jārjiśrīcakravartī nikhilabudhanutāṃ sarvadeśaprasiddhāṃ
+prajñāṃ kīrtiṃ niśamyādhikamuditamanāḥ mānayāmāsa samyak|
+datvā bhūṣāṃ suvarmādikamapi birudaṃ sārthakaṃ rūpyakāṇāṃ
+varṣe varṣe śataṃ śrīpatipadanirataṃ subbarāyāryamīḍe||7||
+śrīsatyajñānatīrthavrativarasadasi prauḍhavādīndrabhīme
+prāptaṃ dṛptaṃ vipaścidgajamadhikabalākṣepadantaprahāraiḥ|
+prājñān dūre kṣipantaṃ prativacanamahākuntabhagnaṃ vyadhādyaḥ
+sadyovidyotabodhaḥ pratibhaṭabhadaḥ subbarāyāryamīḍe||8||
+baddhā yenātiśuddhā'bhinavabahutarākṣepavikṣepadakṣā śikṣāyāṃ copayuktā paṭumatividuṣāṃ bālakānāṃ ca samyak|
+arthānāṃ sūtrabhāṣyapratipadalasatāṃ dhīmatāṃ karṇabhūṣā'ñabhikhyāṃ sūtrārtharatnojjvalatanuratulāṃ vindate mañjarīyam||9||
+yasmin vidvanmṛgendre viharati nṛpatiprauḍhasaṃsadvanāntaḥ
+procurnaikaṃ ca śabdaṃ kila cakitatarāśśābdikākhyā madebhāḥ|
+dustarkakrūradaṃṣṭrā api bhayavivaśāstārkikadvīpisaṅghāḥ
+līnāḥ kutrāpi noñcairdhvanimapi sasṛjustāntrikavyālayūthāḥ||10||
+satsvapyanyeṣu kānteṣvanupamamaniśaṃ prema yatraiva cakre
+vādīndrairdhārtarāṣṭraiḥ kṛtavividhamahābhaṅgato mocitā''sīt|
+vīrāgryeṇaiva yenānavaratamuditā madhvasiddhāntavidyā
+pāñcālīva svaśāstre sa diśatu sumatiṃ subbarāyāryabhīmaḥ||11||
+āsīdāryārthanīyā śucitamaparibhāṣopanāmendumauleḥ
+mūrtiryā viśvavadyābhilaṣitasakalārthapradā durgamā ca|
+jñaptyai tasyāssukhenārthiṣu parakṛpayā'nalpamodāya teṣāṃ
+vyākhyā divyāñjanābhā vyaraci kila subodhinyāhvayā yena ramyā||12||
+vādeṣvāsetuhaimācalamiha na jito yena nāsīdvipaścit
+ko'pi kvāpi prabhūtāgrahavivaśabudhaiḥ dūṣaṇaudhe prayukte|
+udvego naiva cintā na matikaluṣatā na pramādo na yasya
+protthā saurāpageva prativacanatatiḥ kevalaṃ yanmukhādreḥ||13||
+śrīmaccheṣācaleśāṅghrijalayugalā''lokanotkaṇṭhitān yaḥ
+prāptān śrāntān dvijāgryān satanayavanitānādareṇānnadānaithaḥ|
+bhogairabhyaṅgapūrvairasukhayadadhikaṃ śrīpadāhve pure sve
+putre vidvadvare'dhyāpayati padakalāṃ subbarāyāryamīḍe||14||
+yasmānmerorivādrervarabahukṛtayo nirgatā devanadyaḥ
+cetastāpān samastān sakṛdapi paṭhanasnānataḥ sajjanānām|
+nighnantyunmūlayanti pratikathakamanorūḍhagarvoñcavṛkṣān
+dadyācchrīsubbarāyaprathitaguruvarassa smṛto maṅgalaṃ naḥ||15||
+tthaṃ śrīsubbarāyottamagurucaraṇāmbhojasaṃsaktacittaḥ
+mocākandānvayotthaḥ giridharasukaviḥ śrīnivāsāryaputraḥ|
+tasyāpārād guṇābdheḥ katipayaguṇasanmauktikāni pragṛhya
+tene mālāṃ svakaṇṭhe diśatu gururimāṃ saṃvahan sanmatiṃ me||16||
+
+śrīḥ
+śrīnivāso vijayate
+mahāmahopādhyāya, vidyāmārtaṇḍa, madhvasiddhāntabhūṣaṇa śrīmuṣṇaṃ vyākaraṇaṃ
+śrīsetumādhavācāryāṇāṃ stutiḥ
+lakṣmīlalākaṭākṣotpalasumanikarābaddhamugdhāśvavaktrapratyakṣodbhūtamodā'tiśayajaladhisaṃmagnaśuddhātmanāṃ yaḥ|
+vaṃśe haṃsottamaiḥ sadgṛhibhirapi budhaissevitānāṃ gurūṇāṃ āryācāryābhidhānāṃ jayati varajaniḥ śrīgururmauktikābhaḥ||1||
+śābdī vidyā'navadyā pratidinamuditā yanmukhoñcodayādreḥ
+śiṣyaughasvāntadaryāśritamapi timiraṃ līlayaivāśu bhittvā|
+nityaṃ viṣṇoḥ padaṃ cāmalamativitataṃ bhāsayantī jayantī
+rājatyadyāpyavāryā taraṇighṛṇiriva śrīguruṃ taṃ samīḍe||2||
+mahyāṃ santi budhāḥ paraśśatamaho naivābhijātāstu te
+santyanyepyabudhā mahākulabhavā hītthaṃ satāṃ mānase|
+yadduḥkhaṃ mahadadya yaṃ varakulotpannaṃ budhāgresaraṃ
+dṛṣṭvaivāpagataṃ sa me vijayate sarvābhinandyo guruḥ||3||
+sadvaṃśaprabhavatvaśāstravimalaprajñāpravaktṛtvasaddharmācāradayākṣamāśamadamaśrīkāntabhaktyādayaḥ|
+śobhante suguṇāḥ parasparamaho prāptā mahāsauhṛdaṃ yasminneva gurussa me guṇanidhiḥ bhūtiṃ tanotvanvaham||4||
+pāṇḍityaṃ kila yatnato'pi bahulaṃ prāyo bhavedvai nṛṇāṃ jātānāṃ na kadāpi satkulabhavatvaṃ syāddhi yatnoñcayaiḥ|
+sauvarṇasya sumasya saurabhamiva ślāghyaṃ kulīnasya sadvidyetyuktiriyaṃ samullasati yaṃ prāpyaiva taṃ sannumaḥ||5||
+śrīmatpāvanapāvanāgamatativyākhyānadhārāmṛtaṃ
+pāyaṃpāyamapi pramodabharitāḥ śiṣyāścakorā iva|
+citraṃ no viramanti yasya vadanādindoścyutaṃ nirmalāt
+so'yaṃ me gururāṭ sadāgamaparijñānāya bhūyātsadā||6||
+āryācāryamahānvāyākalaśāmbhorāśirākāpateḥ
+bheryārāvanighuṣṭasarvabudhasaṃmānyākhilekṣānidheḥ|
+vidvatkesarisubbarāyasuguroḥ sūnussudhīstatsamaḥ
+śiṣṭāgryo bhuvi setumādhavabudho jejīyatāṃ santatam||7||
+śrītañjānagarāntike śucitame sahyādrijāyāstaṭe
+kṣetre pañcanadābhidhe vasumatīhāre'grahāre śubhe|
+jātaḥ śrīvijayodarādiva mude pūrvācalāñcandramāḥ
+nityaṃ candrikayā sutarpitajano jīyāñciraṃ me guruḥ||8||
+śāstraṃ sarvamadhītya tātacaraṇāt saṃmānitaḥ paṇḍitaiḥ āste śiṣyakṛpārṇavaḥ padakalopādhyāyavaryaścirāt|
+śrīmacchrīpadapattane tviha lasacchraveṅkaṭādhīśvaradravyasthāpitasaṃskṛtottamakalāśālāṃ samudbhāsayan||9||
+śābdaṃ ṣṭtriṃśadabdānakhilamapi mahābhāṣyamukhyaṃ suśāstraṃ
+nissandehaṃ rahasyāmitasarasalasatsaṃpradāyārthayogaiḥ|
+adhyāpyānekaśiṣyān prati samamakarodviśvavidyālaye'sau
+uttīrṇān yaḥ parīkṣāsvayamiha gururāḍrājatāṃ sūrivaryaḥ||10||
+yasya śrītātapādairabhinavamatulaṃ durlabhaṃ śabdaśāstraṃ
+kauśeyaṃ dakṣiṇasyā vyaraci śubhatamācchādanaṃ sarvagātre|
+tatputreṇāmunā'dyākhilaharidabalāsundarāṅgāṇi citraṃ
+tattulyairuñcamūlyairvitatabahupadairaṃśukairmaṇḍitāni||11||
+yenaiveyaṃ hi śālā supadakṛtamahaunnatyamāptā viśālā
+yasyākṛṣṭā guṇaughairjaraṭhamapi patiṃ yaṃ priyaṃ manyate sma|
+yatsaṃbandhāturaivā'diśadapi bhaginīṃ yasya śiṣyāya yūne
+so'yaṃ śreyo vidadhyāt suguṇamaṇikhaniḥ santataṃ śrīgururme||12||
+śābdī bhūṣaṇasārasundaratarā sacchekharālaṅkṛtā
+sadbhāṣyā ca manoramādṛtavapuḥ śrīśabdaratnojvalā|
+mañjūṣārthayutā ca yasya vadane raṅge sphurantī rasāt
+nṛtyantī tanute naṭīva muditān vidyārthisāmājikān||13||
+pṛthvīmaṇḍalavartipaṇḍitavaraprajñāsuvarṇoñcatā
+sannirṇāyakabuddhiśāṇālasitaiḥ yaḥ ślāghitaḥ santatam|
+satyadhyānagurūttamaiḥ pratisabhaṃ saṃmānito modataḥ
+taṃ vidvadvarasetumādhavaguruṃ vandāmahe śreyase||14||
+saujanyaṃ śucitāṃ dayāṃ niyamane vidyārthināṃ dakṣatāṃ
+kāryāṇāṃ ca vivecane nipuṇatāṃ jñātvā yadīyāṃ muhuḥ|
+śālādhyakṣavaraścakāra kurute yaṃ svīyabhārodvahaṃ
+naipuṇyaṃ kavitāpathe diśatu me so'yaṃ kavīndro guruḥ||15||
+yassaṃprīṇayate suśābdavacanairvidyārthinassādaraṃ
+miṣṭānairatithīn sadocitadhanairdīnān budhān vidyaya|
+bhaktyā pūjanayā ca veṅkaṭapatiṃ śrīmadhvaśāstroktibhiḥ
+śrīvyāsaṃ mama setumādhavaguruḥ puṣṇātu vidyāṃ parām||16||
+śrīmuṣṇābhidhasaṃpradāyavarasaddharmavyavasthāpakaḥ
+śrīmuṣṇopapadaḥ sudhīnutamatiḥ śrīsubbarāyāryataḥ|
+ātreyāhvayagotradugdhajaladheḥ jātaḥ kaleśaḥ parāt
+asmai śrīgurave paraśśatamasāvāyurdiśatvacyutaḥ||17||
+itthaṃ sarvajanānubhūtiviṣayaissañcoditassadguṇaiḥ
+nityaṃ tadgurubhāvano giridharasstauti priyaḥ kautukāt|
+asmaddeśikahṛnnivāsyamitadhīcittābjagaḥ śrīpatiḥ
+suprīto bhavatu śriyaṃ ca paṭhatāmāyurdhiyaṃ yacchatu||18||
+śrīsetumādhavagurorguṇamaṇimālā kutūhalādracitā|
+giridharanāmnā kavinā kadalīkandānvavāyajanitena||19||
+śrīveṅkaṭeśavidyāśālāsāhityapaṇḍitenaiṣā|
+śrī śrīnivāsabudhavaratanayena satāṃ cirāya bhavatu śivam||20||
+iti śrīpadapurī(tirupati)virājamāna śrīveṅkaṭeśvarasaṃskṛtamahākalāśālāyāṃ
+sāhityapradhānādhyāpakena dvaitavedāntaniṣṇātena kadalīkandānvayajena
+śrīnivāsācāryaputreṇa giridharācāryeṇa raciteyaṃ
+gurorguṇamaṇimālā||
+śrīkṛṣṇārpaṇamastu
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Madhurāṣṭaka</title>
+        <author>Vallabhācārya</author>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%AE%E0%A4%A7%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%95%E0%A4%AE%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+adharaṃ madhuraṃ vadanaṃ madhuraṃ, nayanaṃ madhuraṃ hasitaṃ madhuram ।
+hṛdayaṃ madhuraṃ, gamanaṃ madhuraṃ, madhurādhipaterakhailaṃ madhuram ।।1।।
+
+vasanaṃ madhuraṃ, caritaṃ madhuraṃ, vacanaṃ madhuraṃ valitaṃ madhuram ।
+calitaṃ madhuraṃ, bhramitaṃ madhuraṃ, madhurādhipaterakhilaṃ madhuram।।2।।
+
+veṇarmadhuro reṇurmadhuraḥ pāṇirmadhuraḥ pādau madhurau ।
+nṛtyaṃ madhuraṃ sakhyaṃ madhuraṃ madhurādhipaterakhilaṃ madhuram ।।3।।
+
+gītaṃ madhuraṃ pītaṃ madhuraṃ, bhuktaṃ madhuraṃ suptaṃ madhuram ।
+rūpaṃ madhuraṃ tilakaṃ madhuraṃ madhurādhipaterakhilaṃ madhuram ।।4।।
+
+karaṇaṃ madhuraṃ, taraṇaṃ madhuraṃ, haraṇaṃ madhuraṃ, ramaṇaṃ madhuram ।
+vamitaṃ madhuraṃ, śamitaṃ madhuraṃ, madhurādhipaterakhilaṃ madhuram ।।5।।
+
+guñjā madhurā mālā madhurā yamunā madhurā vīcī madhurā ।
+salilaṃ madhuraṃ, kamalaṃ madhuraṃ madhurādhipaterakhilaṃ madhuram ।।6।।
+
+gopī madhurā līlā madhurā, rādhā madhurā milanaṃ madhuram ।
+dṛṣṭaṃ madhuraṃ śiṣṭaṃ madhuraṃ madhurādhipaterakhilaṃ madhuram ।।7।।
+
+gopā madhurā gāvo madhurā, yaṣṭirmadhurā sṛṣṭirmadhurā ।
+dalitaṃ madhuraṃ, phalitaṃ madhuraṃ, madhurādhipaterakhilaṃ madhuram ।।8।।
+
+|| iti śrīmadvallābhācārya viracita madhurāṣṭakaṃ saṃpūrṇaṃ || || śrīkṛṣṇārpaṇamastu ||
+    </body>
+  </text>
+</TEI>

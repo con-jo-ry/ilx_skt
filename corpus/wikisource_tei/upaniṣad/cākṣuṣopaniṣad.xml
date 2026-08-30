@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Cākṣuṣopaniṣad</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%9A%E0%A4%BE%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%81%E0%A4%B7_%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A6"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+|| cākṣuṣopaniṣat ||
+athātaścākṣuṣīṃ paṭhitasiddhavidyāṃ cakṣūrogaharāṃ vyākhyāsyāmaḥ| yaccakṣūrogāḥ sarvato naśyaṃti| cākṣuṣī dīptirbhaviṣyatīti| asyāścākṣuṣī vidyāyāḥ ahirbudhnya ṛṣiḥ | gāyatrī chandaḥ | sūryodevatā | cakṣūroganivṛttaye viniyogaḥ | oṃ cakṣuḥ cakṣuḥ cakṣuḥ tejaḥ sthiro bhava | māṃ pāhi pāhi | tvaritam cakṣūrogān śamaya śamaya | mama jātarūpaṃ tejo darśaya darśaya | yathāhamandho na syāṃ tathā kalpaya kalpaya | kalyāṇaṃ kuru kuru | yāni mama pūrvajanmopārjitāni cakṣuḥ pratirodhaka duṣkṛtāni sarvāṇi nirmūlaya nirmūlaya | oṃ namaścakṣustejodātre divyāya bhāskarāya | oṃ namaḥ kalyāṇakarāya amṛtāya | oṃ namaḥ sūryāya | oṃ namo bhagavate sūryāya akṣitejase namaḥ | khecarāya namaḥ | mahate namaḥ | rajase namaḥ | tamase namaḥ | asato mā sadgamaya | tamaso mā jyotirgamaya | mṛtyormā amṛtaṃ gamaya | uṣṇo bhagavānchucirūpaḥ | haṃso bhagavān śucipratirūpaḥ | ya imāṃ cākṣuṣmatīṃ vidyāṃ brāhmaṇo nityamadhīyate na tasya akṣirogo bhavati | na tasya kule andho bhavati | na tasya kule andho bhavati | aṣṭau brāhmaṇān grāhayitvā vidyāsiddhirbhavati | viśvarūpaṃ ghṛṇinaṃ jātavedasaṃ hiraṇmayaṃ puruṣaṃ jyotīrūpaṃ tapantaṃ sahasraraśmiḥ śatadhāvartamānaḥ puraḥprajānāmudayatyeṣa sūryaḥ | oṃ namo bhagavate ādityāya | ahovāhinyahovāhinī svāhā| oṃ vayaḥ suparṇā upasedurindraṃ priyamedhā ṛṣayo nādhamānāḥ| apadhvāntamūrṇuhi pūrddhi cakṣurmumugdhyasmānnidhayeva baddhān| puṇḍarīkākṣāya namaḥ| puṣkarekṣaṇāya namaḥ| amalekṣaṇāya namaḥ| kamalekṣaṇāya namaḥ| viśvarūpāya namaḥ|mahāviṣṇave namaḥ|
+iti cākṣuṣopaniṣat saṃpūrṇā|
+    </body>
+  </text>
+</TEI>

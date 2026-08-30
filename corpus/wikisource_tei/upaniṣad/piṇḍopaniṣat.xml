@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Piṇḍopaniṣad</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%AA%E0%A4%BF%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+piṇḍopaniṣat
+oṃ devatā ṛṣayaḥ sarve brahmāṇamidamabruvan |
+mṛtasya dīyate piṇḍaṃ kathaṃ gṛhṇantyacetasaḥ ||
+bhinne pañcātmake dehe gate pañcasu pañcadhā |
+haṃsastvastvā gato dehaṃ kasmin sthāne vyavasthitaḥ ||
+tryahaṃ vasati toyeṣu tryahaṃ vasati cāgniṣu |
+tryahamākāśago bhūtvā dinamekantu vāyugaḥ ||
+prathamena tu piṇḍena kalānāṃ tasya sambhavaḥ |
+dvitīyena tu piṇḍena māsatvakcchoṇitodbhavaḥ ||
+tṛtīyena tu piṇḍena matistasyābhijāyate |
+caturthena tu piṇḍena asthi majjā prajāyate ||
+pañcamena tu piṇḍena hastāṅgulyaḥ śiro mukham |
+ṣaṣṭhena kṛtapiṇḍena hṛtkaṇṭhaṃ tālu jāyate ||
+saptamena tu piṇḍena dīrghamāyuḥ prajāyate |
+aṣṭamena tu piṇḍena vācaṃ puṣyati vīryavān ||
+navamena tu piṇḍena sarvendriyasamāhṛtiḥ |
+daśamena tu piṇḍena bhāvanaṃ plāvanaṃ tathā |
+piṇḍe piṇḍe śarīrasya piṇḍadānena sambhavaḥ ||
+iti piṇḍopaniṣat samāptā
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kirātāṣṭaka</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%BF%E0%A4%B0%E0%A4%BE%E0%A4%A4%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%95%E0%A4%AE%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+pratyarthi vrātavakṣaḥsthalarudhirasurāpānamattampṛṣatkaṃ
+cāpe sandhāya tiṣṭhan hṛdayasarasije
+māmake tāpahantā |
+piñchottaṃsaḥ śaraṇyaḥ paśupatitanayo
+sāvadhānaḥ sadā naḥ || 1 ||
+ākheṭāya vanecarasya girijāsaktasya śambhoḥsutaḥ trātuṃ yo bhuvanaṃ purā samajani khyātaḥ kirātākṛtiḥ |
+kodaṇḍaḥ churikādharo ghanaruciḥ piñchāvataṃsojvalaḥ sa tvaṃ māmava sarvadā ripugaṇa trastaṃ dayāvāridhe || 2 ||
+yo māṃ pīḍayati prasahya satataṃ
+dehī tvadekāśrayaṃ
+bhitvā tasya riporuraḥ churikayā
+śātāgrayā durmateḥ |
+deva tvatkarapaṅkajolasitayā
+śrīman kirātākṛte
+tatprāṇān vitarāntakāya bhagavan
+kālāriputrāñjasā || 3 ||
+viddho marmamasu durvacobhirasatāṃ
+santaptaśalyopamaiḥ
+dṛptānāṃ dviṣatāmaśāntamanasāṃ
+khinno'smi yāvad bhṛśaṃ
+tāvat tvaṃ churikāśarāsanadharaḥ
+citte mamāvirbhavan
+svāmin deva kirātarūpa śamaya
+pratyarthivargaṃ kṣaṇāt || 4 ||
+hartuṃ vittadharmato mama ratāḥchorāśca ye durjanāḥ
+teṣāṃ marmasu tāḍayāśu viśikhaistvatkārmukānniḥsṛtaiḥ |
+śāstāraṃ dviṣatāṃ kirātavapuṣaṃ sarvārthadaṃ tvāmṛte
+paśyāmyatra purāriputra śaraṇaṃ nānyaṃ prapanno'smyaham || 5 ||
+yakṣapretapiśācabhūtanivahāḥ duḥkhapradā bhīṣaṇāḥ bādhānte naraśoṇitotsukadhiyo ye tāṃ ripupreritāḥ |
+cāpajyāninadaistvamīśa sakalān saṃhṛtya duṣṭagrahān gaurīśātmaja daivateśvara kirātākāra saṃrakṣa mām || 6 ||
+drogdhuṃ ye niratāstvadīyapadapadmaikāntabhaktāya me māyāḥchannakalebarāśca viṣadā nādyaiḥsudā karmabhiḥ |
+vaśyastambhanamāraṇādi kuśalaprārambha dakṣānarīn duṣṭānsaṃhara devadeva śabarākāra trilokeśvara || 7 ||
+tanvā vā manasā girā'pi satataṃ doṣāṃ cikīrṣantyalaṃ tvatpādapraṇatasya me niraparādhasyāpi ye mānavāḥ |
+sarvān sahera tān girīśasuta me tāpatrayaughānapi tvāmekaṃ śabarākṛte bhayaharaṃ nāthaṃ prapanno'smyaham || 8 ||
+kṛṣṭo rājabhaṭaiḥ sadā'pi paribhūtoaṃ khalairvairibhiścānyarghoratarairvi pajjalanidhau magno'smi duḥkhāturaḥ hā hā kiṃ karavai vibho śabaraveṣaṃ tvāmabhīṣṭārthadaṃ vande'haṃ paradaivataṃ kuru kṛpāṃ nāthārtha bandho mayi || 9 ||
+stotraṃ yaḥ prajapet praśāntakaraṇairnityaṃ kirātāṣṭakaṃ sa kṣipraṃ vaśagān karoti nṛpatīnābaddhavairānapi |
+saṃhṛtyātma virodhinaḥ khalajanān duṣṭagrahānapyasau yātyante yamadūtabhītirahitodivyāṃ gatiṃ śāśvatīm || 10 ||
+iti kirātāṣṭakaṃ sampūrṇam ||
+    </body>
+  </text>
+</TEI>

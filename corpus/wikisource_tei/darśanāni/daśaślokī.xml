@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Daśaślokī</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%A6%E0%A4%B6%E0%A4%B6%E0%A5%8D%E0%A4%B2%E0%A5%8B%E0%A4%95%E0%A5%80"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+|| atha daśaślokī ||
+na bhūmirna toyaṃ na tejo na vāyuḥ
+na khaṃ nendriyaṃ vā na teṣāṃ samūhaḥ |
+anekāntikatvāt suṣuptyekasiddaḥ
+tadeko'vaśiṣṭaḥ śivaḥ kevalo'ham || 1||
+na varṇā na varṇāśramācāradharmā
+na me dhāraṇādhyānayogādayopi |
+anātmāśrayāhaṃmamādhyāsahānāt
+tadeko'vaśiṣṭaḥ śivaḥ kevalo'ham || 2||
+na mātā pitā vā na devā na lokā
+na vedā na yajñā na tīrtha bruvanti |
+suṣaptau nirastātiśūnyātmakatvāt
+tadeko'vaśiṣṭaḥ śivaḥ kevalo'ham || 3||
+na sākhyaṃ na śaivaṃ na tatpāñcarātraṃ
+na jainaṃ na mīmāṃsakādermataṃ vā |
+viśiṣṭānubhūtyā viśuddhātmakatvāt
+tadeko'vaśiṣṭaḥ śivaḥ kevalo'ham || 4||
+na cordhva na cādho na cāntarna bāhyaṃ
+na madhyaṃ na tiryaṃ na pūrvā'parā dik |
+viyadvyāpakatvādakhaṇḍaikarūpaḥ
+tadeko'vaśiṣṭaḥ śivaḥ kevalo'ham || 5||
+na śuklaṃ na kṛṣṇaṃ na raktaṃ na pītaṃ
+na kubjaṃ na pīnaṃ na hrasvaṃ na dīrgham |
+arūpaṃ tathā jyotirākārakatvāt
+tadeko'vaśiṣṭaḥ śivaḥ kevalo'ham || 6||
+na śāstā na śāstraṃ na śiṣyo na śikṣā
+na ca tvaṃ na cāhaṃ na cāyaṃ prapañcaḥ |
+svarūpāvabodho vikalpāsahiṣṇuḥ
+tadeko'vaśiṣṭaḥ śivaḥ kevalo'ham || 7||
+na jāgran na me svapnako vā suṣuptiḥ
+na viśvau na vā taijasaḥ prājñako vā |
+avidyātmakatvāt trayāṇaṃ turīyaḥ
+tadeko'vaśiṣṭaḥ śivaḥ kevalo'ham || 8||
+api vyāpakatvāt hitatvaprayogāt
+svataḥ siddhabhāvādananyāśrayatvāt |
+jagat tucchametat samastaṃ tadanyat
+tadeko'vaśiṣṭaḥ śivaḥ kevalo'ham || 9||
+na caikaṃ tadanyad dvitīyaṃ kutaḥ syāt
+na kevalatvaṃ na cā'kevalatvam |
+na śūnyaṃ na cāśūnyamadvaitakatvāt
+kathaṃ sarvavedāntasiddhaṃ bravīmi || 10||
+|| iti śrīmad śaṃkarācāryaviracitaṃ daśaślokī samāptaṃ ||
+    </body>
+  </text>
+</TEI>

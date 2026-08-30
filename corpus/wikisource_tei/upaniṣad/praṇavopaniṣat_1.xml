@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Praṇavopaniṣad (1)</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A3%E0%A4%B5%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D_(%E0%A5%A7)"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+oṃ saha nāvastu | saha nau bhunaktu |
+saha vīryaṃ karavāvahai |
+tejasvi nāvadhītamastu mā vidviṣāvahe |
+oṃ śāntiḥ śāntiḥ śāntiḥ ||
+purastādbrahmaṇastasya viṣṇoradbhutakarmaṇaḥ |
+rahasyaṃ brahmavidyāyā dhṛtāgniṃ saṃpracakṣate ||
+omityekākṣaraṃ brahma yaduktaṃ brahmavādibhiḥ |
+śarīraṃ tasya vakṣyāmi sthānakālatrayaṃ tathā ||
+tatra devāstrayaḥ proktā lokā vedāstrayo'gnayaḥ |
+tisro mātrārdhamātrā ca pratyakṣasya śivasya tat ||
+ṛgvedo gārhapatyaṃ ca pṛthivī brahma eva ca |
+akārasya śarīraṃ tu vyākhyātaṃ brahmavādibhiḥ ||
+yajurvedo'ntarikṣaṃ ca dakṣiṇāgnistathaiva ca |
+viṣṇuśca bhagavān deva ukāraḥ parikīrtitaḥ ||
+sāmavedastathā dyauścāhavanīyastathaiva ca |
+īśvaraḥ paramo devo makāraḥ parikīrtitaḥ ||
+sūryamaṇḍalamābhāti hyakāraścandramadhyagaḥ |
+ukāraścandrasaṃkāśastasya madhye vyavasthitaḥ |
+makāraścāgnisaṃkāśo vidhūmo vidyutopamaḥ |
+tisro mātrāstathā jñeyāḥ somasūryāgnitejasaḥ ||
+śikhā ca dīpasaṃkāśā yaminnu parivartate |
+ardhamātrā tathā jñeyā praṇavasyopari sthitā ||
+padmasūtranibhā sūkṣmā śikhābhā dṛśyate parā |
+nāsādisūryasaṃkāśā sūryaṃ hitvā tathāparam |
+dvisaptatisahasrāṇi nāḍibhistvā tu mūrdhani |
+varadaṃ sarvabhūtānāṃ sarvaṃ vyāpyaiva tiṣṭhati ||
+kāṃsyaghaṇṭāninādaḥ syādyadā lipyati śāntaye|
+oṅkārastu tathā yojyaḥ śrutaye sarvamicchati ||
+yasmin sa līyate śabdastatparaṃ brahma gīyate |
+so'mṛtatvāya kalpate so'mṛtatvāya kalpate || iti ||
+iti praṇavopaniṣatsamāptā
+    </body>
+  </text>
+</TEI>

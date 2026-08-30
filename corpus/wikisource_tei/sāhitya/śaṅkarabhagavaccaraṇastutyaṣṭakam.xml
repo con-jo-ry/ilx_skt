@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Śaṅkarabhagavaccaraṇastutyaṣṭaka</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%B6%E0%A4%99%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%AD%E0%A4%97%E0%A4%B5%E0%A4%9A%E0%A5%8D%E0%A4%9A%E0%A4%B0%E0%A4%A3%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%81%E0%A4%A4%E0%A5%8D%E0%A4%AF%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%95%E0%A4%AE%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+॥ śrīmacchaṅkarabhagavaccaraṇastutyaṣṭakam ॥
+śrutīnāmākrīḍaḥ prathitaparahaṃsocitagatirnije satye dhāmni trijagadativartinyabhirataḥ । 
+asau brahmevāsminnakhalu viśaye kiṃtu kalaye bṛherarthaṃ sākṣādanupacaritaṃ kevalatayā ॥ 1 
+mitaṃ pādenaiva tribhuvanamihaikena mahasā viśuddhaṃ tatsatvaṃ sthitijanilayeṣvapyanugatam । 
+daśākārātītaṃ svamahimani nirvedaramaṇaṃ tatastaṃ tadviṣṇoḥ paramapadamākhyāti nigamaḥ ॥ 2 
+na bhūteṣvāsaṅgaḥ kvacana nagavācā viharaṇaṃ na bhūtyā saṃsargo na paricitatā bhogibhirapi । 
+tadapyāmnāyāntastripuradahanātkevaladaśā turīyaṃ nirdvandvaṃ śivamatitarāṃ varṇayati tam ॥ 3 
+na dharmassauvarṇo na puruṣaphaleṣu pravaṇatā na caivāhorātra sphuradariyutaḥ pārthivarathaḥ । 
+sati vitatapuryaṣṭakajaye kathaṃ tanna brūyānnigamanikurambaḥ paraśivam ॥ 4 
+duḥkhāsāra duranta duṣkṛtaghanāṃ dussaṃmṛtiprāvṛṣaṃ durvārāmiha dāruṇāṃ pariharandūrādudārāśayaḥ । uccaṇḍapratipakṣapaṇḍitayaśo nālīkanālāṅkurapagrāsohaṃsakulāvataṃsapadabhāksanmānase krīḍati ॥ 5 
+kṣīraṃ brahma jagacca nīramubhayaṃ tadyogamabhyāgataṃ durbhedaṃ tvitaretaraṃ cirataraṃ samyagvibhaktīkṛtam । 
+yenāśeṣaviśeṣadohalaharī māseduṣīṃ śemuṣīṃ soyaṃ śīlavatāṃ punāti paramo haṃso dvijātyapraṇīḥ ॥ 6 nīrakṣīranayena tathyavitathe saṃpiṇḍite paṇḍitairdurbodhesakalairvivecayati yaḥ śrīśaṅkarākhyo muniḥ । 
+haṃsoyaṃ paramostu ye punarihāśaktāssamastāsthitā jumbhānnimbaphalāśanaikarasikān kākānamūnmanmahe ॥ 
+dṛṣṭiṃ ye praguṇīkaroti tamasā bāhyena mandīkṛtāṃ nālīkapriyatāṃ prayāti bhajate mitratvamavyāhatam । 
+viśvasyopakṛte vilumpati suhṛccakrasya cārtiṃ dhanāṃ haṃsassoyamabhivyanakti mahatāṃ jijñāsyamarthaṃ muhuḥ ॥ 8 
+iti śrīvidyāraṇyamuniracitaṃ śrīmacchaṅkarabhagavaccaraṇastutyaṣṭakam ॥
+    </body>
+  </text>
+</TEI>

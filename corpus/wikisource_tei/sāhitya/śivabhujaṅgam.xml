@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Śivabhujaṅga (Bṛhatstotraratnākarāntargata)</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%B6%E0%A4%BF%E0%A4%B5%E0%A4%AD%E0%A5%81%E0%A4%9C%E0%A4%99%E0%A5%8D%E0%A4%97%E0%A4%AE%E0%A5%8D_(%E0%A4%AC%E0%A5%83%E0%A4%B9%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8B%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%BE%E0%A4%95%E0%A4%B0%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A4%B0%E0%A5%8D%E0%A4%97%E0%A4%A4%E0%A4%AE%E0%A5%8D)"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+||śivabhujaṅgam||
+galaddānagaṇḍaṃ miladbhṛṅgaṣaṇḍaṃ
+calaccāruśuṇḍaṃ jagattrāṇaśauṇḍam |
+kanaddantakāṇḍaṃ vipadbhaṅgacaṇḍaṃ
+śivapremapiṇḍaṃ bhaje vakratuṇḍam || 1 ||
+anādyantamādyaṃ paraṃ tattvamarthaṃ
+cidākāramekaṃ turīyaṃ tvameyam |
+haribrahmamṛgyaṃ parabrahmarūpaṃ
+manovāgatītaṃ mahaḥ śaivamīḍe || 2 ||
+svaśaktyādiśaktyantasiṃhāsanasthaṃ
+manohārisarvāṅgaratnorubhūṣam |
+jaṭāhīndugaṅgāsthiśaṃyākamauliṃ
+parāśaktimitraṃ numaḥ pañcavaktram || 3 ||
+śiveśānatatpūruṣāghoravāmādibhiḥ pañcabhirhṛnmukhaiḥ ṣaḍ‌bhiraṅgaiḥ |
+anaupaṃya ṣaṭ‌triṃśataṃ tattvavidyāmatītaṃ paraṃ tvāṃ kathaṃ vetti ko vā || 4 ||
+pravālapravāhaprabhāśoṇamardhaṃ
+marutvanmaṇiśrīmahaḥśyāmamardham |
+guṇasyūtametadvapuḥ śaivamantaḥ
+smarāmi smarāpattisaṃpattihetum || 5 ||
+svasevāsamāyātadevāsurendrānamanmaulimandāramālābhiṣaktam |
+namasyāmi śaṃbho padāṃbhoruhaṃ te
+bhavāṃbhodhipotaṃ bhavānīvibhāvyam || 6 ||
+jagannātha mannātha gaurīsanātha
+prapannānukaṃpinvipannārtihārin |
+mahaḥstomamūrte samastaikabandho
+namaste namaste punaste namo'stu || 7 ||
+virūpākṣa viśveśa viśvādideva
+trayīmūla śaṃbho śiva tryaṃbaka tvam |
+prasīda smara trāhi paśyāvamuktyai
+kṣamāṃ prāpnuhi tryakṣa māṃ rakṣa modāt || 8 ||
+mahādeva deveśa devādideva
+smarāre purāre yamāre hareti |
+bruvāṇaḥ smariṣyāmi bhaktyā bhavantaṃ
+tato me dayāśīla deva prasīda || 9 ||
+tvadanyaḥ śaraṇyaḥ prapannasya neti
+prasīda smaranneva hanyāstu dainyam |
+na cette bhavedbhaktavātsalyahānistato me dayālo sadā sannidhehi || 10 ||
+ayaṃ dānakālastvahaṃ dānapātraṃ
+bhavāneva dātā tvadanyaṃ na yāce |
+bhavadbhaktimeva sthirāṃ dehi mahyaṃ
+kṛpāśīla śaṃbho kṛtārtho'smi tasmāt || 11 ||
+paśuṃ vetsi cenmāṃ tamevādhirūḍhaḥ
+kalaṅkīti vā mūrdhni dhatse tameva |
+dvijihvaḥ punaḥ so'pi te kaṇṭhabhūṣā
+tvadaṅgīkṛtāḥ śarva sarve'pi dhanyāḥ || 12 ||
+na śaknomi kartuṃ paradrohaleśaṃ
+kathaṃ prīyase tvaṃ na jāne girīśa |
+tathāhi prasanno'si kasyāpi kāntāsutadrohiṇo vā pitṛdrohiṇo vā || 13 ||
+stutiṃ dhyānamarcāṃ yathāvadvidhātuṃ
+bhajannapyajānanmaheśāvalaṃbe |
+trasantaṃ sutaṃ trātumagre mṛkaṇḍoryamaprāṇanirvāpaṇaṃ tvatpadābjam || 14 ||
+śiro dṛṣṭihṛdrogaśūlapramehajvarārśojarāyakṣmahikkāviṣārtān |
+tvamādyo bhiṣagbheṣajaṃ bhasma śaṃbho
+tvamullāghayāsmānvapurlāghavāya || 15 ||
+daridro'smyabhadro'smi bhagro'smi dūye
+viṣaṇṇo'smi sanno'smi khinno'smi cāham |
+bhavānprāṇināmantarātmāsi śaṃbho
+mamādhiṃ na vetsi prabho rakṣa māṃ tvam || 16 ||
+tvadakṣṇoḥ kaṭākṣaḥ pratettryakṣa yatra
+kṣaṇaṃ kṣmā ca lakṣmīḥ svayaṃ taṃ vṛṇāte |
+kirīṭasphuraccāmaracchatramālākalācīgajakṣaumabhūṣāviśeṣaiḥ || 17 ||
+bhavānyai bhavāyāpi mātre ca pitre
+mṛḍānyai mṛḍāyāpyaghaghnyai makhaghne |
+śivāṅgyai śivāṅgāya kurmaḥ śivāyai
+śivāyāṃbikāyai namastryaṃbakāya || 18 ||
+bhavadgauravaṃ mallaghutvaṃ viditvā
+prabho rakṣa kāruṇyadṛṣṭyānugaṃ mām |
+śivātmānubhāvastutāvakṣamo'haṃ
+svaśaktyā kṛtaṃ me'parādhaṃ kṣamasva || 19 ||
+yadā karṇarandhraṃ vrajetkālavāhadviṣatkaṇṭhaghaṇṭāghaṇātkāranādaḥ |
+vṛṣādhīśamāruhya devaupavāhyaṃ
+tadā vatsa mā bhīriti prīṇaya tvam || 20 ||
+yadā dāruṇābhāṣaṇā bhīṣaṇā me
+bhaviṣyantyupānte kṛtāntasya dūtāḥ |
+tadā manmanastvatpadāṃbhoruhasthaṃ
+kathaṃ niścalaṃ syānnamaste'stu śaṃbho || 21 ||
+yadā durnivāravyatho'haṃ śayāno
+luṭhanniḥśvasanniḥsṛtāvyaktavāṇiḥ |
+tadā jahnukanyājalālaṅkṛtaṃ te
+jaṭāmaṇḍalaṃ manmanomandiraṃ syāt || 22 ||
+yadā putramitrādayo matsakāśe
+rudantyasya hā kīdṛśīyaṃ daśeti |
+tadā devadeveśa gaurīśa śaṃbho
+namaste śivāyetyajasraṃ bravāṇi || 23 ||
+yadā paśyatāṃ māmasau vetti nāsmānayaṃ śvāsa eveti vāco bhaveyuḥ |
+tadā bhūtibhūṣaṃ bhujaṅgāvanaddhaṃ
+purāre bhavantaṃ sphuṭaṃ bhāvayeyam || 24 ||
+yadā yātanādehasandehavāhī
+bhavedātmadehe na moho mahānme |
+tadā kāśaśītāṃśusaṅkāśamīśa
+smarāre vapuste namaste smarāṇi || 25 ||
+yadāpāramacchāyamasthānamadbhirjanairvā vihīnaṃ gamiṣyāmi mārgam |
+tadā taṃ nirundhankṛtāntasya mārgaṃ
+mahādeva mahyaṃ manojñaṃ prayaccha || 26 ||
+yadā rauravādi smaranneva bhītyā
+vrajāṃyatra mohaṃ mahādeva ghoram |
+tadā māmaho nātha kastārayiṣyatyanāthaṃ parādhīnamardhendumaule || 27 ||
+yadā'śvetapatrāyatālaṅghyaśakteḥ
+kṛtāntādbhayaṃ bhaktavātsalyabhāvāt |
+tadā pāhi māṃ pārvatīvallabhānyaṃ
+na paśyāmi pātārametādṛśaṃ me || 28 ||
+idānīmidānīṃ mṛtirme bhavitrītyaho santataṃ cintayā pīḍito'smi |
+kathaṃ nāma mā bhūnmṛtau bhītireṣā
+namaste gatīnāṃ gate nīlakaṇṭha || 29 ||
+amaryādamevāhamābālavṛddhaṃ
+harantaṃ kṛtāntaṃ samīkṣyāsmi bhītaḥ |
+mṛtau tāvakāṅghryabjadivyaprasādādbhavānīpate nirbhayo'haṃ bhavāni || 30 ||
+jarājanmagarbhādhivāsādiduḥkhānyasahyāni jahyāṃ jagannātha deva |
+bhavantaṃ vinā me gatirnaiva śaṃbho
+dayālo na jāgarti kaṃ vā dayā te || 31 ||
+śivāyeti śabdo namaḥpūrva eṣa
+smaranmuktikṛnmṛtyuhā tattvavācī |
+maheśāna mā gānmanasto vacastaḥ
+sadā mahyametatpradānaṃ prayaccha || 32 ||
+tvamapyaṃba māṃ paśya śītāṃśumaulipriye bheṣajaṃ tvaṃ bhavavyādhiśāntau |
+bahukleśabhājaṃ padāṃbhojapote
+bhavābdhau nimagnaṃ nayasvādya pāram || 33 ||
+anudyallalāṭākṣivahniprarohairavāmasphuraccāruvāmoruśobhaiḥ |
+anaṅgabhramadbhogibhūṣāviśeṣairacandrārdhacūḍairalaṃ daivatairnaḥ || 34 ||
+akaṇṭhekalaṅkādanaṅgebhujaṅgādapāṇaukapālādaphālenalākṣāt |
+amaulauśaśāṅkādavāmekalatrādahaṃ devamanyaṃ na manye na manye || 35 ||
+mahādeva śaṃbho girīśa triśūliṃstvadīyaṃ samastaṃ vibhātīti yasmāt |
+śivādanyathā daivataṃ nābhijāne
+śivo'haṃ śivo'haṃ śivo'haṃ śivo'ham || 36 ||
+yato'jāyatedaṃ prapañcaṃ vicitraṃ
+sthitiṃ yāti yasminyadevāntamante |
+sa karmādihīnaḥ svayajjyotirātmā
+śivo'haṃ śivo'haṃ śivo'haṃ śivo'ham || 37 ||
+kirīṭe niśeśo lalāṭe hutāśo
+bhuje bhogirājo gale kālimā ca |
+tanau kāminī yasya tattulyadevaṃ
+na jāne na jāne na jāne na jāne || 38 ||
+anena stavenādarādaṃbikeśaṃ
+parāṃ bhaktimāsādya yaṃ ye namanti |
+mṛtau nirbhayāste janāstaṃ bhajante
+hṛdaṃbhojamadhye sadāsīnamīśam || 39 ||
+bhujaṅgapriyākalpa śaṃbho mayaivaṃ
+bhujaṅgaprayātena vṛttena klṛptam |
+naraḥ stotrametatpaṭhitvorubhaktyā
+suputrāyurārogyamaiśvaryameti || 40 ||
+||śivabhujaṅgaṃ saṃpūrṇam||
+    </body>
+  </text>
+</TEI>

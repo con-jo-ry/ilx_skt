@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Śivanāmāvalyaṣṭaka (Bṛhatstotraratnākarāntargata)</title>
+        <author>Śaṅkarācāryaḥ</author>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%B6%E0%A4%BF%E0%A4%B5%E0%A4%A8%E0%A4%BE%E0%A4%AE%E0%A4%BE%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%AF%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%95%E0%A4%AE%E0%A5%8D_(%E0%A4%AC%E0%A5%83%E0%A4%B9%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8B%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%BE%E0%A4%95%E0%A4%B0%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A4%B0%E0%A5%8D%E0%A4%97%E0%A4%A4%E0%A4%AE%E0%A5%8D)"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+śivanāmāvalyaṣṭakam
+he candracūḍa madanāntaka śūlapāṇe
+sthāṇo girīśa girijeśa maheśaśambho।
+bhūteśabhītabhayasūdanamāmanāthaṃ
+saṃsāraduḥkhagahanājjagadīśa rakṣa ॥ 1
+he pārvatīhṛdayavallabha candramaule
+bhūtādhipa pramathanātha girīśa cāpa ।
+he vāmadeva bhava rudra pinākapāṇe saṃsāra ...॥2
+he nīlakaṇṭha vṛṣabhadhvaja pañcavaktra
+lokeśa śeṣavalaya pramatheśa śarva।
+he dhūrjaṭe paśupate girijāpate māṃ saṃsāra...॥3
+he viśvanātha śivaśaṅkara devadeva
+gaṅgādhara pramathanāyaka nandikeśa ।
+bāṇeśvarāndhakaripo hara lokanātha saṃsāra...||4
+vārāṇasīpurapate maṇikarṇikeśa
+vīreśa dakṣamakhakāla vibho gaṇeśa।
+sarvajña sarvahṛdayaikanivāsa saṃsāra ...॥5
+śrīmanmaheśvara kṛpāmaya he dayālo
+he vyomakeśa śitikaṇṭha gaṇādhinātha ।
+bhasmāṅgarāga nṛkapālakalāpamāla saṃsāra ...॥6
+kailāsaśailavinivāsa vṛṣākape he
+mṛtyuñjaya trinayana trijagannivāsa।
+nārāyaṇapriyamadāpaha śaktinātha saṃsāra ...॥7
+viśveśa viśvabhavanāśaka viśvarūpa
+viśvātmaka tribhuvanaikaguṇādhikeśa ।
+he viśvanātha karuṇāmaya dīnabandho saṃsāra ...॥8
+gaurīvilāsabhavanāya maheśvarāya
+pañcānanāya śaraṇāgatakalpakāya ।
+śarvāya sarvajagatāmadhipāya tasmai
+dāridryaduḥkhadahanāya namaḥ śivāya ॥9
+iti śrīmatparamahaṃsa parivrājakācāryasya
+śrīgovindabhagavatpūjyapādaśiṣyasya śrīmacchaṅkarabhagavataḥ kṛtau
+॥ śivanāmāvalyaṣṭakaṃ sampūrṇam ॥
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Upasargavṛtti</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%89%E0%A4%AA%E0%A4%B8%E0%A4%B0%E0%A5%8D%E0%A4%97%E0%A4%B5%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%BF%E0%A4%83"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+prapratyapiparāpopaparyanvavavisaṃsvati |
+nirnyudadhidurabhyāḍ‌ upasargāśca viṃśatiḥ || 1 ||
+iti viṃśati upasargāḥ | eṣāṃ vṛttisūtramabhidhāsyāmaḥ |
+pra | ādikarmodīrṇabhṛśārthaiśvaryasaṃbhavaviyoganiyogatṛptiśuddhīcchāśaktiśāṃtipūjāgradarśaneṣu pretyayamupasarga eteṣvartheṣu vartate |
+ādikarmaṇi pragataḥ prabalo rājā |
+udīrṇe prabalā mūṣikā |
+bhṛśārthe pravadanti dāyādāḥ |
+aiśvarye prabhurdevadattaḥ |
+saṃbhave himavato gaṃgā prabhavati |
+viyoge preṣitaḥ|
+niyoge prayuktaḥ |
+tṛptau prabhuktaṃ annam‌ |
+śuddhau prasannamudakam‌ |
+icchāyāṃ prārthayate kanyām‌ |
+śaktau praśakto vidyāyām‌ |
+śāṃtau praśāṃto'gniḥ |
+pūjāyāṃ prāṃjali sthitaḥ |
+agre pravālo vṛkṣasya |
+darśane pralokayati kanyām‌ |
+ityayaṃ propasargaḥ || 1 ||
+parā | vadhamarṣaṇagativikramābhimukhyabhṛśārthāprādhānyavimokṣaprātilomyeṣu | parā ityayamupasarga eteṣvartheṣu vartate |
+vadhe parāghātaḥ |
+marṣaṇe parāmṛṣū |
+gatau parāgataḥ |
+vikrame parākrāntaḥ |
+abhimukhye parāvṛttaḥ |
+bhṛśārthe parājitaḥ |
+apradhāne parādhīnaḥ |
+vimokṣe parākṣataḥ |
+prātilomye parāṅmukhaḥ || 2 ||
+apa | varjanaviyogacauryaharṣanirddeśavikṛtivāraṇaviparyayeṣu | ayamapopasarga eteṣvartheṣu vartate |
+varjane apasāṃkāśyādṛṣṭo devaḥ |
+viyoge apayāti |
+caurye apaharati |
+nirddeśe apadiśati |
+vikṛtau'pakṛtam‌ |
+vāraṇa apasarati |
+viparyaye apaśabdaḥ || 3 ||
+sam‌ | yogaaikyaprabhvasatyasamaṃtatobhāvavibhūṣaṇābhimukhyaśleṣasiddhikrodhasvīkaraṇeṣu | samayaṃ upasarga eteṣvartheṣu vartate |
+yoge saṃgataḥ putreṇa |
+viyoge saṃviyuktaḥ priyeṇa |
+aikye saṃpravadanti mukhyāḥ |
+prabhave saṃbhavati agniḥ kāṣṭhaiḥ |
+satya saṃvādaḥ |
+samakṣe saṃkathā vartate |
+samaṃtatābhāve saṃkīrṇaḥ |
+bhūṣaṇe saṃskṛtā kanyā |
+abhimukhye saṃmukhaṃ vartate |
+śleṣe saṃdhate kāryam‌|
+siddhau saṃsiddhiḥ |
+krodhe saṃkṛddhaḥ |
+svīkaraṇe saṃgṛhṇāti || 4||
+anu | paścādbhāvādhiṣṭhānasāmīpyasvādhyāyānubaṃdhavisargasādṛśyābhimukhyalakṣaṇahīneṣu |
+ityanūpasarga eteṣvartheṣu vartate |
+paścādbhāve anurathaṃ padātayaḥ |
+adhiṣṭhāne anuṣṭhānaṃ pāṭaliputram‌ |
+sāmīpye amumeghaṃ gaganam‌ |
+svādhyāye vyākaraṇamanuvadati |
+anubaṃdhe anuśayaḥ |
+visarge anujñāto gacchati |
+sādṛśye anukṛtiḥ |
+ābhimukhye anuvatso mātaraṃ dhāvati |
+lakṣaṇe anuvanamasau nirgataḥ |
+hīne anvarjanaṃ yoddhāraḥ || 5 ||
+ava | vijñānāvalaṃbane śuddhīṣadarthavyāptiparibhavaviyogeṣu avetyayamupasarga eteṣvartheṣu vartate |
+vijñāne avagato'rthaḥ |
+avalaṃbane avaṣṭabhya yaṣṭiṃ gacchati |
+śuddhau avadāttaṃ mukham |
+īṣadarthe avabhuktam |
+vyāptau avakīrṇaṃ pāṃśubhiḥ |
+paribhave avahasati |
+viyoge avamuktā kāntā || 6 ||
+nir‌ | viyogabhṛśārthapāpātyayāvadhāraṇādeśātikramalābheṣu nirityupasarga ayameteṣu artheṣu vartate |
+viyoge niḥśalyam |
+bhṛśārthe nirnītaḥ |
+pāpe nirmaryādaḥ |
+atyaye nirdādhaṃ gamanam |
+avadhāraṇe niścitaḥ |
+ādeśe nirdiṣṭaḥ |
+atikrame niḥkrāṃtaḥ |
+lābhe nirviśeṣaḥ || 7 ||
+dur‌ | īṣadarthakutsanavaivarṇyāsaṃpatyalābheṣu durityayamupasarga eteṣvartheṣu vartate |
+īṣadarthe durgṛhītaḥ |
+kutsane durbalaḥ |
+vaivarṇye durvarṇaḥ |
+asaṃpattau durgataḥ |
+alābhe duḥprāpyaḥ || 8 ||
+vi | nānārthaviyogātiśayabhayadūrārthabhṛthārthakalahaiśvaryamohapauśūnyotkarṣakutsaneṣadarthānābhimukhyānavasthānāprādhānyadarśanaśauryeṣu | vi ityayaṃ upasarga eteṣvartheṣu vartate |
+nānārthe vicitrā kṛtiḥ pāṇineḥ |
+viyoge viyuktaḥ |
+atiśaye vikīrṇaḥ |
+bhaye vibhīṣaṇaḥ |
+īṣadarthe viprakṛṣṭamadhvānam |
+bhṛśārthe visuddhā nadī |
+kalahe vibhajya dhanam |
+aiśvarye vibhurdevadattasya |
+mohe vimanaskaḥ |
+paiśūnye vikaraḥ |
+utkarṣe vismito devadattaḥ |
+kutsane virupaḥ |
+īṣadarthe vilopitaḥ |
+anābhimukhye vimukhaḥ |
+anavasthāne vibhrāṃtaḥ |
+apradhānye viniṣṭaḥ |
+darśane vilokanīyā kanyā |
+śaurye vikrāṃtaḥ || 9 ||
+āḍ‌ | prāptīcchābaṃdhanabhayavākyaśleṣābhividhisādhyakṛcchrādikarmagrahaṇanilayasāmīpyavikriyānimaṃtraṇanivṛtyāśīrādānāṃtarbhāvaspardhābhimukhyordhvakarmavismayapratiṣṭhānirddeśaśaktimaryādāsu |
+āḍ‌ ityupasarga eteṣvartheṣu vartate | tadyathā |
+prāptau āsāditamanena |
+icchāyāṃ ākāṃkṣati |
+baṃdhane āmuñcati kavacam |
+bhaye ākaṃpitaḥ |
+vākye ājñāpayati |
+abhividhau ākṛmāraṃ yaśa pāṇineḥ |
+śleṣe āliṃgayati |
+sādhye ācarati kapaṭena |
+kṛcchre āpadgataḥ |
+ādikarmaṇi ārabhate kartum |
+grahaṇe ālaṃbate |
+nilaye āvasatham |
+sāmīpye āsannaṃ kalyāṇam |
+vikriyāyāṃ āsvādayati |
+nimaṃtraṇe āmaṃtraṇam |
+nivṛttau āramate |
+āśiṣi āśāste |
+ādāne rasāyanam |
+aṃtarbhāve āpītamudakam‌ sikatābhiḥ |
+spardhāyāṃ mallo mallamāhvayati |
+ābhimukhye āgacchati devadattaḥ |
+urdhvakarmaṇi ārohati hastipakaḥ |
+vismaye ānaṃditāḥ |
+pratiṣṭhāyāṃ āspadam |
+nirdeśe ādiśati |
+śaktau ākramate gaganaṃ caṃdramāḥ |
+maryādāyāṃ āilāvardhanātsaṃpannaḥ śālayaḥ || 10 ||
+ni | niveśarāśibhṛśārthādhobhāvanivāsaddārakarmadarśanoparamabaṃdhanakauśalyāṃtarbhāvasānīdhamokṣāśrayeṣu nirityayamupasarga eteṣvartheṣu vartate |
+niveśe niveśitam |
+rāśau nikaro dhānyasya |
+bhṛśārthe nigṛhītaḥ |
+adhobhāve nipatitaḥ |
+nivāse nivasito naram |
+dārakarmaṇi niviṣṭo devadattaḥ |
+darśane niśāmayati rupam |
+uparame nivṛtaḥ |
+baṃdhane niyamitaḥ |
+kauśalye nipuṇaḥ |
+aṃtarbhāve nipītamudakam‌ sikatābhiḥ |
+sāmīpye nikṛṣṭakālaḥ |
+mokṣe nisṛṣṭaḥ |
+āśraye nilayaḥ || 11 ||
+adhi | vaśīkaraṇādhiṣṭhānādhyayanaiśvaryasmaraṇādhikeṣu adhi ityayaṃ upasarga eteṣvartheṣu vartate |
+vaśīkaraṇe adhikaroti arthī |
+adhiṣṭhāne adhiguṇaḥ |
+adhyayane adhīte vyākaraṇam |
+aiśvarye adhipatiḥ |
+smaraṇe kṣetramadhismarati |
+ādhikye adhikṣetre rājñaḥ || 12 ||
+api | saṃbhāvanānivṛttiapekṣāsamuccayasaṃbhavagarhāśīramarṣaṇapraśneṣu | apītyayaṃ upasarga eteṣvartheṣu vartate |
+saṃbhāvane api siṃcenmūlasahasram |
+nivṛttau māṃsamapi juhyāt |
+apekṣāyāṃ athāyamapi vidvān |
+samuccaye tvahamapi ayamapi |
+saṃbhave api saṃbhavati |
+(ahiḥ stuhiṣu) garhāyāṃ api vṛṣalaṃ yācayet |
+āśiṣi api varṣaṃ śataṃ jīyāḥ |
+amarṣaṇe api bhajanna namet |
+bhūṣaṇe api nahvati hāram |
+praśne api gacchati || 13 ||
+ati | atiśayabhṛśārthātikrāṃtiatikramaṇavṛddhiṣu | ati ityayamupasarga eteṣvartheṣu vartate |
+atiśayo atimānuṣaṃ yasya vijñānam |
+bhṛśārthe atitaptā āyaḥ |
+atikrāntau atirathim |
+atikramaṇe hastinātikramati |
+vṛddhau atimeghaṃ gaganam || 14 ||
+su | pūjābhṛśārthānumatisamṛddhipraśaṃsākṛcchreṣu | su iti ayamupasarga eteṣvartheṣu vartate |
+pūjāyām‌ susādhuḥ |
+bhṛśārthe sutaptā āyaḥ |
+anumatau sukṛtam |
+samṛddhau sumudram |
+praśaṃsāyāṃ sukṛṣim |
+kṛcchre suduḥkaraḥ || 15 ||
+ut‌ | prābalyaviyogordhvakarmalābhaprakāśāsvasthamokṣābhāvabaṃdhanaprādhānyaśaktiṣu | ut‌ ityayamupasarga eteṣvartheṣu vartate |
+prābalye udvilasatsarpaḥ |
+viyoge utpathena gacchati |
+urdhvakarmaṇi uttiṣṭhati śayanāt |
+lābhe utpannaṃ dravyam |
+prakāśe uccaranti nabhasi meghāḥ |
+asvasthe utsukaḥ |
+mokṣe udvāsaḥ |
+abhāve utpathaḥ |
+baṃdhane udbaddhā kanyā |
+prādhānye utkṛṣṭaḥ |
+śaktau utsāhaḥ || 16 ||
+abhi | pūjāābhimukhyabhṛśārthasādṛśyaprayogavyāptinṛttasārupyavacanādānāmnāyeṣu | abhi iti ayamupasarga eteṣu artheṣu vartate |
+pūjāyāṃ abhivādayati |
+ābhimukhye abhimukhaṃ sthitaḥ |
+bhṛśārthe abhirataḥ |
+sādṛśye abhijñātaḥ |
+prayoge abhijānāti |
+icchāyāṃ abhilaṣati |
+vyāptau abhisyandaḥ |
+nṛtte abhinayaḥ |
+sārupye abhirupaḥ |
+vacane abhivacanam |
+ādāne'bhyavaharati |
+āmnāye abhyasyati || 17 ||
+prati | sādṛśyādānahiṃsātadyogavinimayapratinidhinivṛttivyādhyābhimukhyavyāptivāraṇeṣu | pratyayamupasarga eteṣvartheṣu vartate |
+sādṛśye pratikṛtaṃ devadattena |
+ādāne pratigṛhṇāti |
+hiṃsāyāṃ pratiharati |
+tadyoge pratipannamanena |
+vinimayo tolanaghṛtaṃ pratidadāti |
+pratinidhau praticchaṃdaḥ |
+nivṛttau pratikrāṃtaḥ |
+vyādhau pratiśyāyaḥ |
+abhimukhye pratisūrye gacchati |
+vyāptau pratikīrṇaṃ pāṃśubhiḥ |
+vāraṇe pratinivṛttaḥ || 18 ||
+pari | samaṃtatobhāvavyāpti doṣākhyānoparabhūṣaṇapūjāvarjanāliṃgananivasanavyādhiśokavīpsāsu |
+parīti ayamupasarga eteṣvartheṣu vartate |
+samaṃtatobhāve parikramati |
+vyāptau parigato'gninā grāmaḥ |
+doṣākhyāne paribhramati |
+uparame paripūrṇaḥ kuṃbhaḥ |
+bhūṣaṇe pariṣkaroti kanyām |
+pūjāyāṃ paricaryā |
+varjane paritrigartebhyāvṛṣṭo devadevaḥ |
+āliṃgane pariṣvajate kanyām |
+nivasano paridhānam |
+vyādhau parigatā sphoṭakāḥ |
+śoke paridevanā |
+vīpsāyāṃ vṛkṣaṃ vṛkṣaṃ parisiṃcati || 19 ||
+upa | sāmīpyāsāmarthyavyāptyācāryakaraṇadoṣākhyānadānadākṣiṇyavīpsāraṃbhapūjātadyogaoratyayamaraṇeṣu |
+upa iti upasarga eteṣvartheṣu vartate |
+sāmīpye upakuṃtam |
+sāmarthye upakaroti devadattaḥ |
+vyāptau upakīrṇaṃ pāṃśubhiḥ |
+ācāryakaraṇe upadiśati śiṣyebhyaḥ |
+doṣākhyāne upaghātaḥ |
+dāne upaharatyarthaṃ devadattāyāḥ |
+dākṣiṇye upacāraḥ |
+vīpsāyāṃ upayācate |
+āraṃbhe upakramate bhoktum |
+pūjāyāṃ upāsitaḥ |
+tadyoge upapannaṃ dhyānamāha |
+pratyaye upapannaṃ dhanam |
+śaraṇe upagato devadattaḥ |
+pratyaye upasargadharmaḥ || 20 ||
+iti upasargavṛttiḥ samāptā ||
+    </body>
+  </text>
+</TEI>

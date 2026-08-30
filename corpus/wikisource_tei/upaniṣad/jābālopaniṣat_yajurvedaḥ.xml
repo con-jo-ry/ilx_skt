@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Jābālopaniṣad (Yajurveda)</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%9C%E0%A4%BE%E0%A4%AC%E0%A4%BE%E0%A4%B2%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D_(%E0%A4%AF%E0%A4%9C%E0%A5%81%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83)"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+|| jābālopaniṣat ||
+oṃ pūrṇamadaḥ pūrṇamidaṃ pūrṇāt pūrṇamudacyate |
+pūrṇasya pūrṇamādāya pūrṇamevāvaśiṣyate ||
+oṃ śāntiḥ śāntiḥ śāntiḥ ||
+bṛhaspatiruvāca yājñavalkyaṃ yadanu kurukṣetraṃ devānāṃ devayajanaṃ sarveṣāṃ bhūtānāṃ brahmasadanam | avimuktaṃ vai kurukṣetraṃ devānāṃ devayajanaṃ sarveṣāṃ bhūtānāṃ brahmasadanam | tasmādyatra kvacana gacchati tadeva manyeta tadavimuktameva | idaṃ vai kurukṣetraṃ devānāṃ devayajanaṃ sarveṣāṃ bhūtānāṃ brahmasadanam | atra hi jantoḥ prāṇeṣūtkramamāṇeṣu rudrastārakaṃ brahma vyācaṣṭe yenāsāvamṛtībhūtvā mokṣībhavati | tasmādavimuktameva niṣeveta avimuktaṃ na vimuñcedevamevaitadyājñavalkyaḥ || 1 ||
+atha hainamatriḥ papraccha yājñavalkyaṃ ya eṣo'nanto'vyakta ātmā taṃ kathamahaṃ vijānīyāmiti | sa hovāca yājñavalkyaḥ so'vimukta upāsyo ya eṣo'nanto'vyakta ātmā so'vimukte pratiṣṭhita iti || 2 ||
+so'vimuktaḥ kasminpratiṣṭhita iti varaṇāyāṃ nāśyāṃ ca madhye pratiṣṭhita iti | kā vai varaṇā kā ca nāśīti | sarvānindriyakṛtāndoṣānvārayatīti tena varaṇā bhavati | sarvānindriyakṛtānpāpānnāśayatīti tena nāśī bhavatīti | katamaṃ cāsya sthānaṃ bhavatīti | bhruvorghrāṇasya ca yaḥ sandhiḥ sa eṣa dyaurlokasya parasya ca sandhirbhavatīti | etadvai sandhiṃ sandhyāṃ brahmavida upāsata iti | so'vimukta upāsya iti | so'vimuktaṃ jñānamācaṣṭe | yo vaitadevaṃ vedeti || 3 ||
+atha hainaṃ brahmacāriṇa ūcuḥ kiṃ japyenāmṛtatvaṃ brūhīti | sa hovāca yājñavalkyaḥ | śatarudriyeṇetyetānyeva ha vā amṛtasya nāmāni | etairha vā amṛto bhavatīti || 4 ||
+atha ha janako vaideho yājñavalkyamupasametyovāca bhagavansaṃnyāsaṃ brūhīti | sa hovāca yājñavalkyaḥ | brahmacaryaṃ samāpya gṛhī bhavet | gṛhī bhūtvā vanī bhavet | vanī bhūtvā pravrajet | yadi vetarathā brahmacaryādeva pravrajedgṛhādvā vanādvā | atha punaravratī vā vratī vā snātako vā'snātako vā utsannāgniranagniko vā yadahareva virajettadahareva pravrajet || 5 ||
+taddhaike prājāpatyāmeveṣṭiṃ kurvanti | tadu tathā na kuryādāgneyīmeva kuryāt | agnirha vai prāṇaḥ prāṇameva tathā karoti | pañcāntraidhātavīyāmeva kuryāt | etayaiva trayo dhātavo yaduta sattvaṃ rajastama iti | ayaṃ te yoniḥ ṛtvijo yato jātaḥ arocathāḥ | taṃ jānannagna ārohāthā no vardhayarayim | ityanena mantreṇāgnimājighret | eṣa ha vā agneryoniryaḥ prāṇaḥ prāṇaṃ gaccha svāhetyevamevaitadāha || 6 ||
+grāmādagnimāhṛtya pūrvadagnimāghrāpayet | yadyagniṃ na vindedapsu juhuyāt | āpo vai sarvā devatāḥ | sarvābhyo devatābhyo juhomi svāheti hutvodhṛtya prāśnīyātsājyaṃ haviranāmayaṃ mokṣamantraḥ trayyaivaṃ vindet | tadbrahmaitadupāsitavyam | evamevaitadbhagavanniti vai yājñavalkyaḥ || 7 ||
+atha hainamatriḥ papraccha yājñavalkyam | pṛcchāmi tvā yājñavalkya ayajñopavīti kathaṃ brāhmaṇa iti | sa hovāca yājñavalkya idamevāsya tadyajñopavītaṃ ya ātmāpaḥ prāśyācamyāyaṃ vidhiḥ parivrājakānām || 8 ||
+vīrādhvāne vā'nāśake vā'pāṃ praveśe vā'gnipraveśe vā mahāprasthāne vā | atha parivrāḍvivarṇavāsā muṇḍo'parigrahaḥ śuciradrohī bhaikṣaṇo brahmabhūyāya bhavatīti | yadyāturaḥ syānmanasā vācā saṃnyaset | eṣa panthā brahmaṇā hānuvittastenaiti saṃnyāsī brahmavidityevamevaiṣa bhagavan vai yājñavalkyaḥ || 9 ||
+tatra paramahaṃsā nāma saṃvartakāruṇiśvetaketudurvāsaṛbhunidāghajaḍabharatadattātreyaraivatakaprabhṛtayo'vyaktaliṅgā avyaktācārā anunmattā unmattavadācarantaḥ || 10 ||
+tridaṇḍaṃ kamaṇḍaluṃ śikyaṃ pātraṃ jalapavitraṃ śikhāṃ yajñopavītaṃ ca ityetatsarvaṃ bhūḥsvāhetyapsu parityajyātmānamanvicchet || 11 ||
+yathā jātarūpadharo nirdvando niṣparigrahastattattvabrahmamārge samyaksampannaḥ śuddhamānasaḥ prāṇasandhāraṇārthaṃ yathoktakāle vimukto bhaikṣamācarannudarapātreṇa lābhālābhau samau bhūtvā śūnyāgāradevagṛhatṛṇakūṭavalmīkavṛkṣamūlakulālaśālāgnihotraśālānadīpulinagirikuharakandarakoṭaranirjharasthaṇḍileṣvaniketavāsya prayatno nirmamaḥ śukladhyānaparāyaṇo'dhyātmaniṣṭho'śubhakarmanirmūlanaparaḥ saṃnyāsena dehatyāgaṃ karoti sa paramahaṃso nāma sa paramahaṃso nāmeti || 12 ||
+oṃ pūrṇamadaḥ pūrṇamidaṃ pūrṇāt pūrṇamudacyate |
+pūrṇasya pūrṇamādāya pūrṇamevāvaśiṣyate ||
+oṃ śāntiḥ śāntiḥ śāntiḥ ||
+|| ityatharvavedīyā jābālopaniṣatsamāptā ||
+    </body>
+  </text>
+</TEI>

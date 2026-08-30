@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Muṇḍakopaniṣad</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%AE%E0%A5%81%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%95%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A6%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+|| muṇḍakopaniṣat ||
+|| śrīḥ ||
+|| muṇḍakopaniṣat ||
+oṃ bhadraṃ karṇebhiḥ śruṇuyāma devā bhadraṃ paśyemākṣabhiryajatrāḥ |
+sthirairaṅgaistuṣṭuvām̐sastanūbhirvyaśema devahitaṃ yadāyuḥ |
+svasti na indro vṛddhaśravāḥ svasti naḥ pūṣā viśvavedāḥ |
+svasti nastārkṣyo ariṣṭanemiḥ svasti no bṛhaspatirdadhātu |
+|| oṃ śāntiḥ śāntiḥ śāntiḥ ||
+|| oṃ brahmaṇe namaḥ ||
+|| prathamamuṇḍake prathamaḥ khaṇḍaḥ ||
+oṃ brahmā devānāṃ prathamaḥ saṃbabhūva viśvasya kartā
+bhuvanasya goptā |
+sa brahmavidyāṃ sarvavidyāpratiṣṭhāmatharvāya
+jyeṣṭhaputrāya prāha || 1.1.1 ||
+atharvaṇe yāṃ pravadeta brahmā'tharvā taṃ
+purovācāṅgire brahmavidyām |
+sa bhāradvājāya satyavāhāya prāha
+bhāradvājo'ṅgirase parāvarām || 1.1.2 ||
+śaunako ha vai mahāśālo'ṅgirasaṃ vidhivadupasannaḥ papraccha |
+kasminnu bhagavo vijñāte sarvamidaṃ vijñātaṃ bhavatīti || 1.1.3 ||
+tasmai sa hovāca |
+dve vidye veditavye iti ha sma
+yadbrahmavido vadanti parā caivāparā ca || 1.1.4 ||
+tatrāparā ṛgvedo yajurvedaḥ sāmavedo'tharvavedaḥ
+śikṣā kalpo vyākaraṇaṃ niruktaṃ chando jyotiṣamiti |
+atha parā yayā tadakṣaramadhigamyate || 1.1.5 ||
+yattadadreśyamagrāhyamagotramavarṇamacakṣuḥśrotraṃ tadapāṇipādam |
+nityaṃ vibhuṃ sarvagataṃ susūkṣmaṃ
+tadavyayaṃ yadbhūtayoniṃ paripaśyanti dhīrāḥ || 1.1.6 ||
+yathorṇanābhiḥ sṛjate gṛhṇate ca
+yathā pṛthivyāmoṣadhayaḥ saṃbhavanti |
+yathā sataḥ puruṣāt keśalomāni
+tathā'kṣarāt saṃbhavatīha viśvam || 1.1.7 ||
+tapasā cīyate brahma tato'nnamabhijāyate |
+annāt prāṇo manaḥ satyaṃ lokāḥ karmasu cāmṛtam || 1.1.8 ||
+yaḥ sarvajñaḥ sarvavidyasya jñānamayaṃ tāpaḥ |
+tasmādetadbrahma nāma rūpamannaṃ ca jāyāte || 1.1.9 ||
+|| iti muṇḍakopaniṣadi prathamamuṇḍake prathamaḥ khaṇḍaḥ ||
+|| prathamamuṇḍake dvitīyaḥ khaṇḍaḥ ||
+tadetat satyaṃ mantreṣu karmāṇi kavayo
+yānyapaśyaṃstāni tretāyāṃ bahudhā saṃtatāni |
+tānyācaratha niyataṃ satyakāmā eṣa vaḥ
+panthāḥ sukṛtasya loke || 1.2.1 ||
+yadā lelāyate hyarciḥ samiddhe havyavāhane |
+tadā''jyabhāgāvantareṇā''hutīḥ pratipādayet || 1.2.2 ||
+yasyāgnihotramadarśamapaurṇamāsamacāturmāsyamanāgrayaṇamatithivarjitaṃ ca |
+ahutamavaiśvadevamavidhinā hutamāsaptamāṃstasya lokān hinasti || 1.2.3 ||
+kālī karālī ca manojavā ca
+sulohitā yā ca sudhūmravarṇā |
+sphuliṅginī viśvarucī ca devī
+lelāyamānā iti sapta jihvāḥ || 1.2.4 ||
+eteṣu yaścarate bhrājamāneṣu yathākālaṃ
+cāhutayo hyādadāyan |
+taṃ nayantyetāḥ sūryasya raśmayo yatra
+devānāṃ patireko'dhivāsaḥ || 1.2.5 ||
+ehyehīti tamāhutayaḥ suvarcasaḥ
+sūryasya raśmibhiryajamānaṃ vahanti |
+priyāṃ vācamabhivadantyo'rcayantya
+eṣa vaḥ puṇyaḥ sukṛto brahmalokaḥ || 1.2.6 ||
+plavā hyete adṛḍhā yajñarūpā
+aṣṭādaśoktamavaraṃ yeṣu karma |
+etacchreyo ye'bhinandanti mūḍhā
+jarāmṛtyuṃ te punarevāpi yanti || 1.2.7 ||
+avidyāyāmantare vartamānāḥ
+svayaṃ dhīrāḥ paṇḍitaṃ manyamānāḥ |
+jaṅghanyamānāḥ pariyanti mūḍhā
+andhenaiva nīyamānā yathāndhāḥ || 1.2.8 ||
+avidyāyāṃ bahudhā vartamānā vayaṃ
+kṛtārthā ityabhimanyanti bālāḥ |
+yat karmiṇo na pravedayanti rāgāt
+tenāturāḥ kṣīṇalokāścyavante || 1.2.9 ||
+iṣṭāpūrtaṃ manyamānā variṣṭhaṃ
+nānyacchreyo vedayante pramūḍhāḥ |
+nākasya pṛṣṭhe te sukṛte'nubhūtvemaṃ
+lokaṃ hīnataraṃ vā viśanti || 1.2.10 ||
+tapaḥśraddhe ye hyupavasantyaraṇye
+śāntā vidvāṃso bhaikṣyacaryāṃ carantaḥ |
+sūryadvāreṇa te virajāḥ prayānti
+yatrāmṛtaḥ sa puruṣo hyavyayātmā || 1.2.11 ||
+parīkṣya lokān karmacitān brahmaṇo
+nirvedamāyānnāstyakṛtaḥ kṛtena |
+tadvijñānārthaṃ sa gurumevābhigacchet
+samitpāṇiḥ śrotriyaṃ brahmaniṣṭham || 1.2.12 ||
+tasmai sa vidvānupasannāya samyak
+praśāntacittāya śamānvitāya |
+yenākṣaraṃ puruṣaṃ veda satyaṃ provāca
+tāṃ tatvato brahmavidyām || 1.2.13 ||
+|| iti muṇḍakopaniṣadi prathamamuṇḍake dvitīyaḥ khaṇḍaḥ ||
+|| dvitīya muṇḍake prathamaḥ khaṇḍaḥ ||
+tadetat satyaṃ
+yathā sudīptāt pāvakādvisphuliṅgāḥ
+sahasraśaḥ prabhavante sarūpāḥ |
+tathā'kṣarādvividhāḥ somya bhāvāḥ
+prajāyante tatra caivāpi yanti || 2.1.1 ||
+divyo hyamūrtaḥ puruṣaḥ sa bāhyābhyantaro hyajaḥ |
+aprāṇo hyamanāḥ śubhro hyakṣarāt parataḥ paraḥ || 2.1.2 ||
+etasmājjāyate praṇo manaḥ sarvendriyāṇi ca |
+khaṃ vāyurjyotirāpaḥ pṛthivī viśvasya dhāriṇī || 2.1.3 ||
+agnīrmūrdhā cakṣuṣī candrasūryau
+diśaḥ śrotre vāg vivṛtāśca vedāḥ |
+vāyuḥ praṇo hṛdayaṃ viśvamasya padbhyāṃ
+pṛthivī hyeṣa sarvabhūtāntarātmā || 2.1.4 ||
+tasmādagniḥ samidho yasya sūryaḥ
+somāt parjanya oṣadhayaḥ pṛthivyām |
+pumān retaḥ siñcati yoṣitāyāṃ
+bahvīḥ prajāḥ puruṣāt saṃprasūtāḥ || 2.1.5 ||
+tasmādṛcaḥ sāma yajūṃṣi dīkṣā
+yajñāśca sarve kratavo dakṣiṇāśca |
+saṃvatsaraśca yajamānaśca lokāḥ
+somo yatra pavate yatra sūryaḥ || 2.1.6 ||
+tasmācca devā bahudhā saṃprasūtāḥ
+sādhyā manuṣyāḥ paśavo vayāṃsi |
+prāṇāpānau vrīhiyavau tapaśca
+śraddha satyaṃ brahmacaryaṃ vidhiśca || 2.1.7 ||
+sapta prāṇāḥ prabhavanti tasmāt
+saptārciṣaḥ samidhaḥ sapta homāḥ |
+sapta ime lokā yeṣu caranti prāṇā
+guhāśayā nihitāḥ sapta sapta || 2.1.8 ||
+ataḥ samudrā girayaśca sarve'smāt
+syandante sindhavaḥ sarvarūpāḥ |
+ataśca sarvā oṣadhayo rasaśca
+yenaiṣa bhūtaistiṣṭhate hyantarātmā || 2.1.9 ||
+puruṣa evedaṃ viśvaṃ karma tapo brahma parāmṛtam |
+etadyo veda nihitaṃ guhāyāṃ
+so'vidyāgranthiṃ vikiratīha somya || 2.1.10 ||
+|| iti muṇḍakopaniṣadi dvitīyamuṇḍake prathamaḥ khaṇḍaḥ ||
+|| dvitīya muṇḍake dvitīyaḥ khaṇḍaḥ ||
+āviḥ saṃnihitaṃ guhācaraṃ nāma
+mahatpadamatraitat samarpitam |
+ejatprāṇannimiṣacca yadetajjānatha
+sadasadvareṇyaṃ paraṃ vijñānādyadvariṣṭhaṃ prajānām || 2.2.1 ||
+yadarcimadyadaṇubhyo'ṇu ca
+yasmim̐llokā nihitā lokinaśca |
+tadetadakṣaraṃ brahma sa prāṇastadu vāṅmanaḥ
+tadetatsatyaṃ tadamṛtaṃ tadveddhavyaṃ somya viddhi || 2.2.2 ||
+dhanurgṛhītvaupaniṣadaṃ mahāstraṃ
+śaraṃ hyupāsā niśitaṃ sandhayīta |
+āyamya tadbhāvagatena cetasā
+lakṣyaṃ tadevākṣaraṃ somya viddhi || 2.2.3 ||
+praṇavo dhanuḥ śāro hyātmā brahma tallakṣyamucyate |
+apramattena veddhavyaṃ śaravat tanmayo bhavet || 2.2.4 ||
+yasmin dyauḥ pṛthivī cāntarikṣamotaṃ
+manaḥ saha prāṇaiśca sarvaiḥ |
+tamevaikaṃ jānatha ātmānamanyā vāco
+vimuñcathāmṛtasyaiṣa setuḥ || 2.2.5 ||
+arā iva rathanābhau saṃhatā yatra nāḍyaḥ |
+sa eṣo'ntaścarate bahudhā jāyamānaḥ |
+omityevaṃ dhyāyatha ātmānaṃ svasti vaḥ
+pārāya tamasaḥ parastāt || 2.2.6 ||
+yaḥ sarvajñaḥ sarvavid yasyaiṣa mahimā bhuvi |
+divye brahmapure hyeṣa vyomnyātmā pratiṣṭhitaḥ ||
+manomayaḥ prāṇaśarīranetā
+pratiṣṭhito'nne hṛdayaṃ sannidhāya |
+tad vijñānena paripaśyanti dhīrā
+ānandarūpamamṛtaṃ yad vibhāti || 2.2.7 ||
+bhidyate hṛdayagranthiśchidyante sarvasaṃśayāḥ |
+kṣīyante cāsya karmāṇi tasmin dṛṣṭe parāvare || 2.2.8 ||
+hiraṇmaye pare kośe virajaṃ brahma niṣkalam |
+tacchubhraṃ jyotiṣaṃ jyotistad yadātmavido viduḥ || 2.2.9 ||
+na tatra sūryo bhāti na candratārakaṃ
+nemā vidyuto bhānti kuto'yamagniḥ |
+tameva bhāntamanubhāti sarvaṃ
+tasya bhāsā sarvamidaṃ vibhāti || 2.2.10 ||
+brahmaivedamamṛtaṃ purastād brahma paścād brahma dakṣiṇataścottareṇa |
+adhaścordhvaṃ ca prasṛtaṃ brahmaivedaṃ viśvamidaṃ variṣṭham || 2.2.11 ||
+|| iti muṇḍakopaniṣadi dvitīyamuṇḍake dvitīyaḥ khaṇḍaḥ ||
+|| tṛtīya muṇḍake prathamaḥ khaṇḍaḥ ||
+dvā suparṇā sayujā sakhāyā samānaṃ vṛkṣaṃ pariṣasvajāte |
+tayoranyaḥ pippalaṃ svādvattyanaśnannanyo abhicākaśīti || 3.1.1 ||
+samāne vṛkṣe puruṣo nimagno'
+nīśayā śocati muhyamānaḥ |
+juṣṭaṃ yadā paśyatyanyamīśamasya
+mahimānamiti vītaśokaḥ || 3.1.2 ||
+yadā paśyaḥ paśyate rukmavarṇaṃ
+kartāramīśaṃ puruṣaṃ brahmayonim |
+tadā vidvān puṇyapāpe vidhūya
+nirañjanaḥ paramaṃ sāmyamupaiti || 3.1.3 ||
+praṇo hyeṣa yaḥ sarvabhūtairvibhāti
+vijānan vidvān bhavate nātivādī |
+ātmakrīḍa ātmaratiḥ kriyāvāneṣa brahmavidāṃ variṣṭhaḥ || 3.1.4 ||
+satyena labhyastapasā hyeṣa ātmā
+samyagjñānena brahmacaryeṇa nityam |
+antaḥśarīre jyotirmayo hi śubhro
+yaṃ paśyanti yatayaḥ kṣīṇadoṣāḥ || 3.1.5 ||
+satyameva jayate nānṛtaṃ
+satyena panthā vitato devayānaḥ |
+yenā''kramantyṛṣayo hyāptakāmā
+yatra tat satyasya paramaṃ nidhānam || 3.1.6 ||
+bṛhacca tad divyamacintyarūpaṃ
+sūkṣmācca tat sūkṣmataraṃ vibhāti |
+dūrāt sudūre tadihāntike ca
+paśyantvihaiva nihitaṃ guhāyām || 3.1.7 ||
+na cakṣuṣā gṛhyate nāpi vācā
+nānyairdevaistapasā karmaṇa vā |
+jñānaprasādena viśuddhasattvastatastu taṃ paśyate niṣkalaṃ
+dhyāyamānaḥ || 3.1.8 ||
+eṣo'ṇurātmā cetasā veditavyo
+yasmin prāṇaḥ pañcadhā saṃviveśa |
+prāṇaiścittaṃ sarvamotaṃ prajānāṃ
+yasmin viśuddhe vibhavatyeṣa ātmā || 3.1.9 ||
+yaṃ yaṃ lokaṃ manasā saṃvibhāti
+viśuddhasattvaḥ kāmayate yāṃśca kāmān |
+taṃ taṃ lokaṃ jayate tāṃśca kāmāṃstasmādātmajñaṃ hyarcayet bhūtikāmaḥ || 3.1.10 ||
+|| iti muṇḍakopaniṣadi tṛtīyamuṇḍake prathamaḥ khaṇḍaḥ ||
+|| tṛtīyamuṇḍake dvitīyaḥ khaṇḍaḥ ||
+sa vedaitat paramaṃ brahma dhāma
+yatra viśvaṃ nihitaṃ bhāti śubhram |
+upāsate puruṣaṃ ye hyakāmāste
+śukrametadativartanti dhīrāḥ || 3.2.1 ||
+kāmān yaḥ kāmayate manyamānaḥ
+sa kāmabhirjāyate tatra tatra |
+paryāptakāmasya kṛtātmanastu
+ihaiva sarve pravilīyanti kāmāḥ || 3.2.2 ||
+nāyamātmā pravacanena labhyo
+na medhayā na bahunā śrutena |
+yamevaiṣa vṛṇute tena labhyastasyaiṣa ātmā vivṛṇute tanūṃ svām || 3.2.3 ||
+nāyamātmā balahīnena labhyo
+na ca pramādāt tapaso vāpyaliṅgāt |
+etairupāyairyatate yastu vidvāṃstasyaiṣa ātmā viśate brahmadhāma || 3.2.4 ||
+saṃprāpyainamṛṣayo jñānatṛptāḥ
+kṛtātmāno vītarāgāḥ praśāntāḥ
+te sarvagaṃ sarvataḥ prāpya dhīrā
+yuktātmānaḥ sarvamevāviśanti || 3.2.5 ||
+vedāntavijñānasuniścitārthāḥ
+saṃnyāsayogād yatayaḥ śuddhasattvāḥ |
+te brahmalokeṣu parāntakāle
+parāmṛtāḥ parimucyanti sarve || 3.2.6 ||
+gatāḥ kalāḥ pañcadaśa pratiṣṭhā
+devāśca sarve pratidevatāsu |
+karmāṇi vijñānamayaśca ātmā
+pare'vyaye sarve ekībhavanti || 3.2.7 ||
+yathā nadyaḥ syandamānāḥ samudre'
+staṃ gacchanti nāmarūpe vihāya |
+tathā vidvān nāmarūpādvimuktaḥ
+parātparaṃ puruṣamupaiti divyam || 3.2.8 ||
+sa yo ha vai tat paramaṃ brahma veda
+brahmaiva bhavati nāsyābrahmavitkule bhavati |
+tarati śokaṃ tarati pāpmānaṃ guhāgranthibhyo
+vimukto'mṛto bhavati || 3.2.9 ||
+tadetadṛcā'bhyuktam |
+kriyāvantaḥ śrotriyā brahmaniṣṭhāḥ
+svayaṃ juhvata ekarṣiṃ śraddhayantaḥ |
+teṣāmevaitāṃ brahmavidyāṃ vadeta
+śirovrataṃ vidhivad yaistu cīrṇam || 3.2.10 ||
+tadetat satyamṛṣiraṅgirāḥ
+purovāca naitadacīrṇavrato'dhīte |
+namaḥ paramaṛṣibhyo namaḥ paramaṛṣibhyaḥ || 3.2.11 ||
+|| iti muṇḍakopaniṣadi tṛtīyamuṇḍake dvitīyaḥ khaṇḍaḥ ||
+|| ityatharvavedīya muṇḍakopaniṣatsamāptā ||
+oṃ bhadraṃ karṇebhiḥ ||
+śāntiḥ ||
+|| oṃ śāntiḥ śāntiḥ śāntiḥ ||
+    </body>
+  </text>
+</TEI>

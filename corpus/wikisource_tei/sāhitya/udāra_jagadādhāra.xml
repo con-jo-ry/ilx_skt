@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Udāra Jagadādhāra</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%89%E0%A4%A6%E0%A4%BE%E0%A4%B0_%E0%A4%9C%E0%A4%97%E0%A4%A6%E0%A4%BE%E0%A4%A7%E0%A4%BE%E0%A4%B0"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+udāra jagadādhāra dehi me varamīdṛśam| svasvarūpānusandhāne rataṃ bhavatu me'ntaram||1||
+kāmakrodhādisaṃvāsaḥ kadā na syānmadantare| akhaṇḍitaṃ vasenmūrtiḥ sundarī tava he hare||2||
+śarīre'pi gṛhe dvāre strīputrādiparigrahe| anāsaktaṃ bhaveccittamāsaktaṃ tvadanugrahe||3||
+na dhanaṃ na ca vā māno na vā kīrtirbhavenmama| moharūpāt paraṃ pāśāt kaṇṭhaṃ mocaya re mama||4||
+na bhogo na ca vā tyāgo na vidyā na ca vā kalā| anudvege pādapadme bhaktirme'stu sadāmalā||5||
+harirūpā narā nāryo bahirantarbhavantu me| ‘rāma kṛṣṇa hare' mantraṃ vyāhared vaikharī mama||6||
+ahaṃ mameti līnaṃ syāt tvaṃ tava bhavatūditam| ahaṃ-tvaṃ-tā jagannātha tattvaṃ bhavatu caikakam||7||
+devabhaktamayaṃ dvaitamadvaite'khaṇḍite sati| darśaya devadeveśa prārthanaiṣā hi tvāṃ prati||8||
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Bharatakavaca</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%AD%E0%A4%B0%E0%A4%A4%E0%A4%95%E0%A4%B5%E0%A4%9A%E0%A4%AE%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+|| atha śrīmadānandarāmāyaṇāṃtargata śrī bharata kavacaṃ ||
+agastiruvāca
+athaḥ paraṃ bharatasya kavacaṃ te vadāmyahaṃ |
+sarvapāpaharaṃ puṇyaṃ sadā śrīrāmabhaktidaṃ || 1||
+kaikeyī tanayaṃ sadā raghuvara nyaskekṣaṇaṃ śyāmalaṃ
+sapta dvīpapater videha tanayā kāntasya vākye rataṃ |
+śrīsītādhava savyapārśva nikaṭe stitvā varaṃ cāmaraṃ
+dhṛtvā dakṣiṇa satkareṇa bharataṃ taṃ vījayantaṃ bhaje || 2||
+asya śrī bharatakavaca mantrasya agastya ṛṣiḥ |
+śrī bharato devatā |
+anuṣṭup chandaḥ |
+śaṅkha iti bījaṃ |
+kaikeyī nandanaḥ iti śaktiḥ |
+bharatakhaṇḍeśvara iti kīlakaṃ |
+rāmānuja ityastraṃ |
+saptadvīpeśvara dāsa iti kavacaṃ |
+rāmāṃśaja iti mantraḥ |
+śrībharata prītyarthaṃ sakalamanoratha siddhyarthaṃ jape viniyogaḥ ||
+atha aṅgulī nyāsaḥ ||
+oṃ bharatāya aṅguṣṭhābhyāṃ namaḥ |
+oṃ śaṅkhāya tarjanībhyāṃ namaḥ |
+oṃ kaikeyīnandanāya madhyamābhyāṃ namaḥ |
+oṃ bharatakhaṇḍeśvarāya anāmikābhyāṃ namaḥ |
+oṃ rāmānuja kaniṣṭhikābhyāṃ namaḥ |
+oṃ sapta dvīpeśvara dāsāya karatala karapṛṣṭhābhyāṃ namaḥ ||
+hṛdayādinyāsaḥ ||
+oṃ bharatāya hṛdayāya namaḥ |
+oṃ śaṅkhāya śirase svāhā |
+oṃ kaikeyīnandanāya śikāyai vaṣaṭ |
+oṃ bharatakhaṇḍeśvarāya kavacāya huṃ |
+oṃ rāmānujāya netratrayāya vauṣaṭ |
+oṃ sapta dvīpeśvara dāsāya astrāya phaṭ |
+oṃ rāmāṃśajeti digbandhaḥ ||
+atha dhyānam ||
+rāmacandra savyapārśve sthitaṃ kekayajā sutaṃ |
+rāmāya cāmareṇaiva vījayantaṃ manoramaṃ || 1||
+ratnakuṇḍala keyūra kaṅkaṇādi subhūṣitaṃ |
+pītāmbara paridhānaṃ vanamālā virājitaṃ || 2||
+māṇḍavī dhauta caraṇaṃ raśanā nūpurānvitaṃ |
+nīlotpala dalaśyāmaṃ dvijarāja samānanaṃ || 3||
+ājānubāhuṃ bharata khaṇḍasya pratipālakaṃ |
+rāmānujaṃ smitāsyaṃca śatrughna parivanditaṃ || 4||
+rāmanyastekṣaṇaṃ saumyaṃ vidyut puñca samaprabhaṃ |
+rāmabhaktaṃ mahāvīraṃ vande taṃ bharataṃ śubhaṃ || 5||
+evaṃ dhyātvā tu bharataṃ rāmapādekṣaṇaṃ hṛdi |
+kavacaṃ paṭhanīyaṃ hi bharatasyeda muttamaṃ || 6||
+kavaca prāraṃbhaḥ ||
+oṃ | pūrvato bharataḥ pātu dakṣiṇe kaikayīsutaḥ |
+nṛpātmajaḥ pratīcyāṃ hi pātūdīśyāṃ raghūttamaḥ || 1||
+athaḥ pātu śyāmalāṅgaḥ cordhvaṃ daśarathātmajaḥ |
+madhye bhāratavarṣeśaḥ sarvataḥ sūryavaṃśajaḥ || 2||
+śiras dakṣapitā pātu bhālaṃ pātu haripriyaḥ |
+bhṛvor madhyama janakajā vākyaika tatparovatu || 3||
+pātu janaka jāmātā mama netre sadātra hi |
+kapole māṇḍavīkāntaḥ karṇamūle smitānanaḥ || 4||
+nāsāgraṃ me sadā pātu kaikeyī toṣavardhanaḥ |
+udārāṅgo mukhe pātu vāṇīṃ pātu jaṭādharaḥ || 5||
+pātu puṣkaratāto me jihvāṃ dantāṇ prabhāmayaḥ |
+cibukaṃ valkaladharaḥ kaṇṭhe pātu varānanaḥ || 6||
+skandhau pātu jitārāti bhujau śatrughna vanditaḥ |
+karau kavacadhārīca nakhān khaḍgadharovatu || 7||
+kukṣau rāmānujaḥ pātu vakṣaḥ śrī rāmavallabhaḥ |
+pārśve rāghava pārśvasthaḥ pātu pṛṣṭhaṃ subhāṣaṇaḥ || 8||
+jaṭharaṃ ca dhanurdhārī nābhiṃ śarakarovatu |
+kaṭiṃ padmekṣaṇaḥ pātu guhyaṃ rāmaikamānasaḥ || 9||
+rāmamitraḥ pātu liṅgamūrū śrīrāmasevakaḥ |
+nandigrāma sthitaḥ pātu jānunī mama sarvadā || 10||
+śrī rāmapātukādhārī pātu jaṅghe sadā mama |
+gulphau śrīrāma bandhuśca pādau pātu surārcitaḥ || 11||
+rāmājñāpālakaḥ pātu mamāṅgānyatra sarvadā |
+mama pādāṅgulīḥ pātu raghuvaṃśa subhūṣaṇaḥ || 12||
+romāṇi pātu me ramyaḥ pātu rātrau sudhīr mama |
+tūṇīradhārī divase dik pātu mama sarvadā || 13||
+sarvakāleṣu māṃ pātu pāñcajanyaḥ sadā bhuvi |
+evaṃ śrībharasyedaṃ sutīkṣṇa kavacaṃ śubhaṃ || 14||
+mayā proktaṃ tavāgre hi mahāmaṅgala kārakaṃ |
+stotrāṇā muttamaṃ stotramidaṃ jñeyaṃ supuṇyadaṃ || 15||
+paṭhanīyaṃ sadā bhaktyā rāmacandrasya harṣadaṃ |
+paṭhitvā bharatasyedaṃ kavacaṃ raghunandanaḥ || 16||
+yathā yāti paraṃ toṣaṃ tathā svakavacenana |
+tasmādetat sadā japyaṃ kavacānā manuttamaṃ || 17||
+asyātra paṭhanān martyaḥ sarvān kāmānavāpnuyāt |
+vidyākāmo labhetvidyāṃ putrakāmo labhet sutaṃ || 18||
+patnīkāmo labhet patnīṃ dhanārthī dhana māpnuyāt |
+yadyan manobhi laṣitaṃ tattat kavacapāṭhataḥ || 19||
+labhyate mānavairatra satyaṃ satyaṃ vadāmyahaṃ |
+tasmāt sadā japanīyaṃ rāmopāsaka mānavaiḥ || 20||
+iti śrī śatakoṭirāmacaritāṃtargata śrīmadānandarāmāyaṇe
+vālmikīye manoharakāṇḍe śrī bharatakavacaṃ saṃpūrṇaṃ ||
+    </body>
+  </text>
+</TEI>

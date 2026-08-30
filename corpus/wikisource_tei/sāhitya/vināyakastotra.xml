@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Vināyakastotra</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BE%E0%A4%AF%E0%A4%95%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8B%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+mūṣikavāhana modakahasta cāmarakarṇa vilambitasūtra | vāmanarūpa maheśvaraputra vighnavināyaka pāda namaste ||
+devadevasutaṃ devaṃ jagadvighnavināyakam | hastirūpaṃ mahākāyaṃ sūryakoṭisamaprabham || 1||
+vāmanaṃ jaṭilaṃ kāntaṃ hrasvagrīvaṃ mahodaram | dhūmrasindūrayudgaṇḍaṃ vikaṭaṃ prakaṭotkaṭam || 2||
+ekadantaṃ pralamboṣṭhaṃ nāgayajñopavītinam | tryakṣaṃ gajamukhaṃ kṛṣṇaṃ sukṛtaṃ raktavāsasam || 3||
+dantapāṇiṃ ca varadaṃ brahmaṇyaṃ brahmacāriṇam | puṇyaṃ gaṇapatiṃ divyaṃ vighnarājaṃ namāmyaham || 4||
+devaṃ gaṇapatiṃ nāthaṃ viśvasyāgre tu gāminam | devānāmadhikaṃ śreṣṭhaṃ nāyakaṃ suvināyakam || 5||
+namāmi bhagavaṃ devaṃ adbhutaṃ gaṇanāyakam | vakratuṇḍa pracaṇḍāya ugratuṇḍāya te namaḥ || 6||
+caṇḍāya gurucaṇḍāya caṇḍacaṇḍāya te namaḥ | mattonmattapramattāya nityamattāya te namaḥ || 7||
+umāsutaṃ namasyāmi gaṅgāputrāya te namaḥ | oṅkārāya vaṣaṭkāra svāhākārāya te namaḥ || 8||
+mantramūrte mahāyogin jātavede namo namaḥ | paraśupāśakahastāya gajahastāya te namaḥ || 9||
+meghāya meghavarṇāya megheśvara namo namaḥ | ghorāya ghorarūpāya ghoraghorāya te namaḥ || 10||
+purāṇapūrvapūjyāya puruṣāya namo namaḥ | madotkaṭa namaste'stu namaste caṇḍavikrama || 11||
+vināyaka namaste'stu namaste bhaktavatsala | bhaktapriyāya śāntāya mahātejasvine namaḥ || 12||
+yajñāya yajñahotre ca yajñeśāya namo namaḥ | namaste śuklabhasmāṅga śuklamālādharāya ca || 13||
+madaklinnakapolāya gaṇādhipataye namaḥ | raktapuṣpa priyāya ca raktacandana bhūṣita || 14||
+agnihotrāya śāntāya aparājayya te namaḥ | ākhuvāhana deveśa ekadantāya te namaḥ || 15||
+śūrpakarṇāya śūrāya dīrghadantāya te namaḥ | vighnaṃ haratu deveśa śivaputro vināyakaḥ || 16||
+phalaśruti
+japādasyaiva homācca sandhyopāsanasastathā | vipro bhavati vedāḍhyaḥ kṣatriyo vijayī bhavet ||
+vaiśyo dhanasamṛddhaḥ syāt śūdraḥ pāpaiḥ pramucyate | garbhiṇī janayetputraṃ kanyā bhartāramāpnuyāt ||
+pravāsī labhate sthānaṃ baddho bandhāt pramucyate | iṣṭasiddhimavāpnoti punātyāsattamaṃ kulaṃ ||
+sarvamaṅgalamāṅgalyaṃ sarvapāpapraṇāśanam | sarvakāmapradaṃ puṃsāṃ paṭhatāṃ śruṇutāmapi ||
+|| iti śrībrahmāṇḍapurāṇe skandaprokta vināyakastotraṃ sampūrṇam ||
+    </body>
+  </text>
+</TEI>

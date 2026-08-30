@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Dvitvalakṣaṇa</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%B5%E0%A4%B2%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%A3%E0%A4%AE%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+dvitvalakṣaṇam
+padādau padamadhye vā sthitasyoṣmaparasya vai
+prathamasya dvitīyatvaṃ pūrvaṃ kurvīta paṇḍitaḥ 1
+abhidhānākhyavarṇasya prathamasya pare yadi
+mukhyaprathamasadbhāve dvitvaṃ na syāt sadoṣmaṇām 2
+na rephe vā hakāre vā dvirbhāvo jāyate kvacit
+na ca vargadvitīyasya na caturthe kadācana 3
+vyañjanādahṛtaṃ pūrvaṃ dvitvamityabhidhīyate
+svarādahṛtaṃ pūrvaṃ dvitvaṃ na syātkadācana 4
+kāṭhake tu pṛṇacchidraṃ dvitvamityabhidhīyate
+apeteti pṛṇacchidraṃ dvitvaṃ na syātkadācana 5
+rāśeve ca paro lastu dvitvaṃ naityapyasaṃyutaḥ
+vyañjanānāmasaṃyogo yatra yena niṣidhyate 6
+tatra tena bhaveddvitvaṃ lasya vasvāra eva hi
+lakārasya vakāreṇa saṃyogaḥ svarato yadi
+tathā saṃyukta eva syādasaṃyuktastathānyathā 7
+rephapūrvo nakāro yaḥ padānto yatra dṛśyate
+viśeṣaṃ tatra jānīyāddvitvamityabhidhīyate 8
+rephātparamṛvarṇasya vyañjanatvaṃ prakīrtitam
+tasmātsaṃyuktakāryāṇi bhavanti hi yathāvidhi 9
+dīrghātparasya rephasya ṛkāre parataḥ sthite
+rephaḥ pūrvasvarāṅgaḥ syāddhrasvāccāpi tathā bhavet 10
+dīrghasvarātpadāntasthā yā bhaktirupajātayaḥ
+sāpi pūrvasvarāṅgaḥ syād doṣāvastarhiviṣmati 11
+iti dvitvalakṣaṇaṃ samāptam
+    </body>
+  </text>
+</TEI>

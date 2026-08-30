@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Bhāṣikasūtrāṇi</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A4%BF%E0%A4%95%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%BF"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+bhāṣikasūtram
+
+1.1 atha brāhmaṇasvarasaṃskāraniyamaḥ
+1.2 dvau
+1.3 ukto mantrasvaraḥ
+1.4 tenātra siddham
+1.5 udāttānudāttau bhāṣikastatsaṃdhiḥ
+1.6 anudāttāvantareṇodāttaḥ
+1.7 āprapūrva ākhyātaparo na
+1.8 samāsaścānākhyātaparo'pi na
+1.9 apūrvaśca samāso naiva
+1.10 jātyābhinihitakṣaiprapraśliṣṭāśca
+1.11 uto yo mo no so ca
+1.12 oñ caikeṣām
+1.13 udāttametat
+1.14 svaritānudāttau ca
+1.15 udāttamanudāttamanantyam
+1.16 antyaṃ saṃhatānām
+1.17 bhāṣike cobhayeṣām
+1.18 ekasyāpi
+1.19 svaritasya cābhinihitatvam
+1.20 teṣāṃ ca prāguttamādanantarāṇāṃ ca kampanam
+1.21 udāttapūrvasyānudāttasya ca
+1.22 udāttapūrvasya svaritasyāpi ca
+1.23 atrāntyasyodāttasyānudāttatām pratyeke vivadante
+
+2.1 athākhyātapadavikaraṇāḥ
+2.2 arthādiḥ
+2.3 pādādiḥ
+2.4 hi
+2.5 hanta
+2.6 net
+2.7 kuvit
+2.8 aha
+2.9 samuccaye
+2.10 āmantritasasvaram
+2.11 jijñāsitam
+2.12 vicāritram
+2.13 avadhāritam
+2.14 yadyogaḥ
+2.15 viniyogaḥ
+2.16 vākyaśeṣaḥ
+2.17 anubandhaḥ
+2.18 eta āṣoḍaśākṣarāt padaṃ vikurvanti
+2.19 āpañcaviṃśād iti bhāradvājaḥ
+2.20 ādvātriṃśādityaupaśibiḥ
+2.21 āmaryādāsthoḥ padayorbahūnāṃ ca pūrvapadaṃ vikriyate
+2.22 sarvāṇītyaupaśibiḥ
+
+3.1 viniyoge tu pūrvapadam
+3.2 jijñāsitayośca
+3.3 anantarhitayośca
+3.4 vicāritasamuccitayośca
+3.5 nirvacane'nūbandho vākyaśeṣo'vadhyarthaścāvadhāraṇo na vikuruta iti bhāradvājaḥ
+3.6 bhūyovādī varīyovādī kanīyovādī cānavadhāraṇāḥ
+3.7 parisamāptyarthaścānyatamo hyādīnāṃ na vikaroti
+3.8 yamapadayoḥ svarādyoralpasvarataraṃ prakṛtyā
+3.9 svarādyasvarādyośca samamātrayoḥ pūrvanneṣṭamiti bhāradvājaḥ
+3.10 yathārthaṃ caturvidhaṃ padaṃ viparyastam
+3.11 kaṇṭhyasvaro'rṛtsavarṇe
+3.12 vakārasya padāntasya svaramadhye lopaḥ
+3.13 śeṣaṃ sāmānyaśāstrāt
+3.14 akārekārokārarkāralkārā avarṇadhāraṇāḥ
+3.15 śatapathavattāṇḍibhāllavināṃ brāhmaṇasvaraḥ
+3.16 sapta sāmnām
+3.17 ṣaḍjaṛṣabhagāndhāramadhyamapañcamadhaivataniṣādāḥ
+3.18 teṣāṃ yonayaḥ
+3.19 kaṇṭhātṣaḍjaḥ
+3.20 śirasa ṛṣabhaḥ
+3.21 nāsikāyā gāndhāraḥ
+3.22 uraso madhyamaḥ
+3.23 urasaḥ śirasaḥ kaṇṭhācca pañcamaḥ
+3.24 dhaivato lalāṭāt
+3.25 niṣādaḥ sarvata iti
+3.26 mantrasvaravadbrāhmaṇasvaraścarakāṇām
+3.27 teṣāṃ khāṇḍikheyaukheyānāṃ cātuḥsvaryamapi kvacit
+3.28 tāno'nyeṣāṃ brāhmaṇasvaraḥ
+3.29 tāna evāṅgopāṅgānāṃ tāna evāṅgopāṅgānāmiti
+
+iti śrīmanmaharṣikātyāyanapraṇītaṃ bhāṣikapariśiṣṭasūtraṃ parisamāptam
+    </body>
+  </text>
+</TEI>

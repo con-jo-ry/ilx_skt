@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Jaṭāyukṛtarāmastotra</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%9C%E0%A4%9F%E0%A4%BE%E0%A4%AF%E0%A5%81%E0%A4%95%E0%A5%83%E0%A4%A4%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8B%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+jaṭāyuruvāca
+agaṇitaguṇamaprameyamādyaṃ sakalajagatsthitisaṃyamādihetum |
+uparamaparamaṃ parātmabhūtaṃ satatamahaṃ praṇato'smi rāmacandram || 1||
+niravadhisukhamindirākaṭākṣaṃ kṣapitasurendracaturmukhādiduḥkham |
+naravaramaniśaṃ nato'smi rāmaṃ varadamahaṃ varacāpabāṇahastam || 2||
+tribhuvanakamanīyarūpamīḍyaṃ raviśatabhāsuramīhitapradānam |
+śaraṇadamaniśaṃ surāgamūle kṛtanilayaṃ raghunandanaṃ prapadye || 3||
+bhavavipinadavāgnināmadheyaṃ bhavamukhadaivatadaivataṃ dayālum |
+danujapatisahasrakoṭināśaṃ ravitanayāsadṛśaṃ hariṃ prapadye || 4||
+aviratabhavabhāvanātidūraṃ bhavavimukhairmunibhiḥ sadaiva dṛśyam |
+bhavajaladhisutāraṇāṅghripotaṃ śaraṇamahaṃ raghunandanaṃ prapadye || 5||
+giriśagirisutāmanonivāsaṃ girivaradhāriṇamīhitābhirāmam |
+suravaradanujendrasevitāṅghriṃ suravaradaṃ raghunāyakaṃ prapadye || 6||
+paradhanaparadāravarjitānāṃ paraguṇabhūtiṣu tuṣṭamānasānām |
+parahitaniratātmanāṃ susevyaṃ raghuvaramambujalocanaṃ prapadye || 7||
+smitaruciravikāsitānanābjamatisulabhaṃ surarājanīlanīlam |
+sitajalaruhacārunetraśobhaṃ raghupatimīśagurorguruṃ prapadye || 8||
+harikamalajaśambhurūpabhedāttvamiha vibhāsi guṇatrayānuvṛttaḥ |
+raviriva jalapūritodapātreṣvamarapatistutipātramīśamīḍe || 9||
+ratipatiśatakoṭisundarāṅgaṃ śatapathagocarabhāvanāvidūram |
+yatipatihṛdaye sadā vibhātaṃ raghupatimārtiharaṃ prabhuṃ prapadye || 10||
+ityevaṃ stuvatastasya prasanno'bhūdraghūttamaḥ |
+uvāca gaccha bhadraṃ te mama viṣṇoḥ paraṃ padam || 11||
+śṛṇoti ya idaṃ stotraṃ likhedvā niyataḥ paṭhet |
+sa yāti mama sārūpyaṃ maraṇe matsmṛtiṃ labhet || 12||
+iti rāghavabhāṣitaṃ tadā śrutavān harṣasamākulo dvijaḥ ||
+raghunandanasāmyamāsthitaḥ prayayau brahmasupūjitaṃ padam || 13||
+|| iti śrīmadadhyātmarāmāyaṇe araṇyakāṇḍe'ṣṭame
+sarge jaṭāyukṛtaṃ śrīrāmastotra ||
+    </body>
+  </text>
+</TEI>

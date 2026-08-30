@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Śivapratipādanastotra</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%B6%E0%A4%BF%E0%A4%B5%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%AA%E0%A4%BE%E0%A4%A6%E0%A4%A8%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8B%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+॥ śrīśivapratipādanastotram ॥
+namase sarvalokānāṃ sṛṣṭisthityanta kāraṇa । namaste bhavabhītānāṃ bhavabhīti vimardana ॥ 1 
+namaste vedavedāntai racanīya dvijottamaiḥ । namaste śūlahastāya namaste vahnipāṇaye ॥ 2 
+namaste viśvanāthāya namaste viśvayonaye । namaste nīlakaṇṭhāya namaste kṛttivāsase ॥ 3 
+namaste somarūpāya namaste sūryamūrtaye । namaste vahnirūpāya namaste toyamūrtaye ॥ 4 
+namaste bhūmirūpāya namate vāyumūrtaye । namaste vyomarūpāya namaste hyātmarūpiṇe ॥ 5 
+namaste satyarūpāya namaste satyarūpiṇe । namaste sukharūpāya namaste sukhirūpiṇe ॥ 6 
+namaste pūrṇarūpāya namaste pūrṇarūpiṇe । namaste brahmarūpāya namaste brahmarūpiṇe ॥ 7 
+namaste jīvarūpāya namaste jīvarūpiṇe । namaste vyaktarūpāya namaste vyaktarūpiṇe ॥ 8 
+namaste śabdarūpāya namaste śabdarūpiṇe । namaste sparśarūpāya namaste sparśarūpiṇe ॥ 9 
+namaste rūparūpāya namaste rūparūpiṇe । namaste rasarūpāya namaste rasarūpiṇe ॥ 10 
+namaste gandharūpāya namaste gandharūpiṇe । namaste deharūpāya namaste deharūpiṇe ॥ 11 
+namaste prāṇarūpāya namaste prāṇarūpiṇe । namaste śrotrarūpāya namaste śrotrarūpiṇe ॥ 12 
+namaste tvaksvarūpāya namaste tvaksvarūpiṇe । namaste dṛṣṭirūpāya namaste dṛṣṭirūpiṇe ॥ 13 
+namaste rasarūpāya namaste rasarūpiṇe । namaste ghrāṇarūpāya namaste ghrāṇarūpiṇe ॥ 14 
+namaste pādarūpāya namaste pādarūpiṇe । namaste pāṇirūpāya namaste pāṇirūpiṇe ॥ 15 
+namaste vāksvarūpāya namaste vāksvarūpiṇe । namaste liṅgarūpāya namaste liṅgarūpiṇe ॥ 16 
+namaste vāyurūpāya namaste vāyurūpiṇe । namaste cittarūpāya namaste cittarūpiṇe ॥ 17 
+namaste mātṛrūpāya namaste mātṛrūpiṇe । namaste mānarūpāya namaste mānarūpiṇe ॥ 18 
+namaste meyarūpāya namaste meyarūpiṇe । namaste mitirūpāya namate mitirūpiṇe ॥ 19 
+rakṣarakṣamahādeva kṣamasva karuṇālaya । bhaktacittasamāsīna brahma viṣṇu śivātmaka ॥ 20 
+sūtabrahmādayaḥ stutvā praṇamya bhuvi duṇḍavat । bhaktipāraṅgatā devā babhūvuḥ parameśvare ॥ 21
+iti śrīskāndemahāpurāṇe nandīśvaraviṣṇusaṃvāde śrīśivapratipādanastotram ॥
+    </body>
+  </text>
+</TEI>

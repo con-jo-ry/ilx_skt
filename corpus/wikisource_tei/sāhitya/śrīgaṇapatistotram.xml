@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Śrīgaṇapatistotra</title>
+        <author>Śrīvāsudevānandasarasvatī</author>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%97%E0%A4%A3%E0%A4%AA%E0%A4%A4%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8B%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+||śrīgaṇapatistotram||
+dviradānana vighnakānanajvalana tvaṃ prathameśanaṃdana|
+madanapatimākhuvāhana jvalanābhāsitapiṃgalocana||1||
+ahibaṃdhana raktacaṃdana priyadūrvāṅkurabhārapūjana||
+śaśibhūṣaṇa bhaktapālana jvalanākṣāsva nijānnijāvana||2||
+vividhāmaramartyanāyakaḥ prathitastvaṃ bhuvane vināyakaḥ||
+tava kope'pi hi naiva nāyakastata eva tvamajo vināyaka||3||
+balinigraha īśa keśavastripurākhyāsuranigrahe śivaḥ||
+jagadudbhavavanesbjasaṃbhavaḥ sakalānjetumaho manobhavaḥ||4||
+mahiṣāsuranigrahe śivā bhavamuktyai munayo dhutāśivāḥ||
+yamapūjayadiṣṭasiddhaye varado me bhava ceṣṭasiddhaye||5||
+gajakarṇaka mūṣakasthite varade tvayyabhaye hṛdi sthite||
+jayalābharameṣṭasaṃpadāḥ khalu sarvatra kuto vadāpadāḥ||6||
+saṃkalpitaṃ kāryamavighnamīśa drāksiddhimāyātu mamākhileśa||
+pāpatrayaṃ me hara sanmatīśa tāpatrayaṃ me hara śāṃtyadhīśa||7||
+gaṇādhīśo dhīśo hariharavidhīśosbhayakaro
+guṇādhīśo dhīśo vijayata umāhṛtsukhakaraḥ|
+budhādhīśo nīśo nijabhajakavighnaughaharakaḥ
+mudādhīśo pīśo yaśasa ubhayardheśca śaraṇam||8||
+iti śrīvāsudevānandasarasvatīviracitaṃ gaṇapatistotraṃ saṃpūrṇam||
+    </body>
+  </text>
+</TEI>

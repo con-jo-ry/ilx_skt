@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Śrīsiddhivināyakastotra</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%B8%E0%A4%BF%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%BF%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BE%E0%A4%AF%E0%A4%95%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8B%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+jayo'stu te gaṇapate dehi me vipulāṃ matim | stavanam te sadā kartuṃ sphūrti yacchamamāniśam || 1||
+prabhuṃ maṃgalamūrtiṃ tvāṃ candrendrāvapi dhyāyataḥ | yajatastvāṃ viṣṇuśivau dhyāyataścāvyayaṃ sadā || 2||
+vināyakaṃ ca prāhustvāṃ gajāsyaṃ śubhadāyakaṃ | tvannāmnā vilayaṃ yānti doṣāḥ kalimalāntaka || 3||
+tvatpadābjāṃkitaścāhaṃ namāmi caraṇau tava | deveśastvaṃ caikadanto madvijñaptiṃ śṛṇu prabho || 4||
+kuru tvaṃ mayi vātsalyaṃ rakṣa māṃ sakalāniva | vighnebhyo rakṣa māṃ nityaṃ kuru me cākhilāḥ kriyāḥ || 5||
+gaurisutastvaṃ gaṇeśaḥ śṝṇu vijñāpanaṃ mama | tvatpādayorananyārthī yāce sarvārtha rakṣaṇam || 6||
+tvameva mātā ca pitā devastvaṃ ca mamāvyayaḥ | anāthanāthastvaṃ dehi vibho me vāṃchitaṃ phalam || 7||
+laṃbodarasvam gajāsyo vibhuḥ siddhivināyakaḥ | heraṃbaḥ śivaputrastvaṃ vighneśo'nāthabāṃdhavaḥ || 8||
+nāgānano bhaktapālo varadastvaṃ dayāṃ kuru | siṃdūravarṇaḥ paraśuhastastvaṃ vighnanāśakaḥ || 9||
+viśvāsyaṃ maṃgalādhīśaṃ vighneśaṃ paraśūdharaṃ | duritāriṃ dīnabandhūṃ sarveśaṃ tvāṃ janā jaguḥ || 10||
+namāmi vighnahartāraṃ vande śrīpramathādhipaṃ | namāmi ekadantaṃ ca dīnabandhū namāmyaham || 11||
+namanaṃ śaṃbhutanayaṃ namanaṃ karuṇālayaṃ | namaste'stu gaṇeśāya svāmine ca namo'stu te || 12||
+namo'stu devarājāya vande gaurīsutaṃ punaḥ | namāmi caraṇau bhaktyā bhālacandragaṇeśayoḥ || 13||
+naivāstyāśā ca maccitte tvadbhaktestavanasyaca | bhavetyeva tu maccitte hyāśā ca tava darśane || 14||
+ajñānaścaiva mūḍho'haṃ dhyāyāmi caraṇau tava | darśanaṃ dehi me śīghraṃ jagadīśa kṛpāṃ kuru || 15||
+bālakaścāhamalpajñaḥ sarveṣāmasi ceśvaraḥ | pālakaḥ sarvabhaktānāṃ bhavasi tvaṃ gajānana || 16||
+daridro'haṃ bhāgyahīnaḥ maccittaṃ te'stu pādayoḥ | śaraṇyaṃ māmananyaṃ te kṛpālo dehi darśanam || 17||
+idaṃ gaṇapatestotraṃ yaḥ paṭhetsusamāhitaḥ | gaṇeśakṛpayā jñānasidhdhiṃ sa labhate dhanaṃ || 18||
+paṭhedyaḥ siddhidaṃ stotraṃ devaṃ saṃpūjya bhaktimān | kadāpi bādhyate bhūtapretādīnāṃ na pīḍayā || 19||
+paṭhitvā stauti yaḥ stotramidaṃ siddhivināyakaṃ | ṣaṇmāsaiḥ siddhimāpnoti na bhavedanṛtaṃ vacaḥ gaṇeśacaraṇau natvā brūte bhakto divākaraḥ || 20||
+    </body>
+  </text>
+</TEI>

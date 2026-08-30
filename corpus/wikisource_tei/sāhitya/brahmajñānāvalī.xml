@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Brahmajñānāvalī</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%AC%E0%A5%8D%E0%A4%B0%E0%A4%B9%E0%A5%8D%E0%A4%AE%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE%E0%A4%A8%E0%A4%BE%E0%A4%B5%E0%A4%B2%E0%A5%80"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+sakṛcchravaṇamātreṇa brahmajñānaṃ yato bhavet |
+brahmajñānāvalīmālā sarveṣāṃ mokṣasiddhaye ||1||
+asaṅgo'hamasaṅgo'hamasaṅgo'haṃ punaḥ punaḥ |
+saccidānandarūpo'hamahamevāhamavyayaḥ ||2||
+nityaśuddhavimukto'haṃ nirākāro'hamavyayaḥ |
+bhūmānandasvarūpo'hamahamevāhamavyayaḥ ||3||
+nityo'haṃ niravadyo'haṃ nirākāro'hamucyate |
+paramānandarūpo'hamahamevāhamavyayaḥ ||4||
+śuddhacaitanyarūpo'hamātmārāmo'hameva ca |
+akhaṇḍānandarūpo'hamahamevāhamavyayaḥ ||5||
+pratyakcaitanyarūpo'haṃ śānto'haṃ prakṛteḥ paraḥ |
+śāśvatānandarūpo'hamahamevāhamavyayaḥ ||6||
+tattvātītaḥ parātmāhaṃ madhyātītaḥ paraḥ śivaḥ |
+māyātītaḥ paraṃjyotirahamevāhamavyayaḥ ||7||
+nānārūpavyatīto'haṃ cidākāro'hamacyutaḥ |
+sukharūpasvarūpo'hamahamevāhamavyayaḥ ||8||
+māyātatkāryadehādi mama nāstyeva sarvadā |
+svaprakāśaikarūpo'hamahamevāhamavyayaḥ ||9||
+guṇatrayavyatīto'haṃ brahmādīnāṃ ca sākṣyaham |
+anantānantarūpo'hamahamevāhamavyayaḥ ||10||
+antaryāmisvarūpo'haṃ kūṭasthaḥ sarvago'smyaham |
+paramātmasvarūpo'hamahamevāhamavyayaḥ ||11||
+niṣkalo'haṃ niṣkriyo'haṃ sarvātmādyaḥ sanātanaḥ |
+aparokṣasvarūpo'hamahamevāhamavyayaḥ ||12||
+dvandvādisākṣirūpo'hamacalo'haṃ sanātanaḥ |
+sarvasākṣisvarūpo'hamahamevāhamavyayaḥ ||13||
+prajñānaghana evāhaṃ vijñānaghana eva ca |
+akartāhamabhoktāhamahamevāhamavyayaḥ ||14||
+nirādhārasvarūpo'haṃ sarvādhāro'hameva ca |
+āptakāmasvarūpo'hamahamevāhamavyayaḥ ||15||
+tāpatrayavinirmukto dehatrayavilakṣaṇaḥ |
+avasthātrayasākṣyasmi cāhamevāhamavyayaḥ ||16||
+dṛgdṛśyau dvau padārthau staḥ parasparavilakṣaṇau |
+dṛgbrahma dṛśyaṃ māyeti sarvavedāntaḍiṇḍimaḥ ||17||
+ahaṃ sākṣīti yo vidyādvivicyaivaṃ punaḥ punaḥ |
+sa eva muktaḥ so vidvāniti vedāntaḍiṇḍimaḥ ||18||
+ghaṭakuḍyādikaṃ sarvaṃ mṛttikāmātrameva ca |
+tadvadbrahma jagatsarvamiti vedāntaḍiṇḍimaḥ ||19||
+brahma satyaṃ jaganmithyā jīvo brahmaiva nāparaḥ |
+anena vedyaṃ sacchāstramiti vedāntaḍiṇḍimaḥ ||20||
+antarjyotirbahirjyotiḥ pratyagjyotiḥ parātparaḥ |
+jyotirjyotiḥ svayaṃjyotirātmajyotiḥ śivo'smyaham ||21||
+||iti śrīmatparamahaṃsaparivrājakācāryasya śrīgovindabhagavatpūjyapādaśiṣyasya śrīmacchaṅkarabhagavataḥ kṛtau brahmajñānāvalīmālā saṃpūrṇā||
+    </body>
+  </text>
+</TEI>

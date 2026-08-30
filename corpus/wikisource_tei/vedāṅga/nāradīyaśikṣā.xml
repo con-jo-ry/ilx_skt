@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Nāradīyaśikṣā</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A4%BE%E0%A4%B0%E0%A4%A6%E0%A5%80%E0%A4%AF%E0%A4%B6%E0%A4%BF%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BE"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+nāradīyā śikṣā
+athātaḥ svaraśāstrāṇāṃ sarveṣāṃ vedaniścayam
+uccanīcaviśeṣāddhi svarānyatvaṃ pravarttate 1
+ārcikaṃ gāthikaṃ caiva sāmikaṃ ca svarāntaram
+kṛtānte svaraśāstrāṇāṃ prayoktavyaṃ viśeṣataḥ 2
+ekāntarasvaro hyṛkṣu gāthāsu dvyantaraḥsvaraḥ
+sāmasu tryantaraṃ vidyādetāvatsvarato'ntaram 3
+ṛksāmayajuraṅgāni ye yajñeṣu prayuñjate
+avijñānāddhi śāstrāṇāṃ teṣāṃ bhavati visvaraḥ 4
+mantro hīnaḥ svarato varṇato vā mithyāprayukto na tamarthamāha
+sa vāgvajro yajamānaṃ hinasti yathendraśatruḥ svarato'parādhāt 5
+prahīṇaḥ svaravarṇābhyāṃ yo vai mantraḥ prayujyate
+yajñeṣu yajamānasya ruṣatyāyuḥ prajāṃ paśūn 6
+uraḥ kaṇṭhaḥ śiraścaiva sthānāni trīṇi vāṅmaye
+savanānyāhuretāni sāma vāpyarthatontaram 7
+uraḥ saptavicāraṃ syāttathā kaṇṭhastathā śiraḥ
+na ca saptorasi vyaktāstathā prāvacano vidhiḥ 8
+kaṭhakālāpapravṛtteṣu taittirīyāhvarakeṣu ca
+ṛgvede sāmavede ca vaktavyaḥ prathamaḥ svaraḥ 9
+ṛgvedastu dvitīyena tṛtīyena ca vartate
+uccamadhyamasaṃghātaḥ svaro bhavati pārthivaḥ 10
+tṛtīyaprathamakruṣṭān kurvantyāhvarakāḥ svarān
+dvitīyādyāṃstu mandrāntāṃstaittirīyāścaturaḥ svarān 11
+prathamaśca dvitīyaśca tṛtīyaśca caturthakaḥ
+mandraḥ kruṣṭo hyatisvāra etānkurvanti sāmagāḥ 12
+dvitīyaprathamāvetau tāṃḍibhāllavināṃ svarau
+tathāśātapathāvetau svarau vājasaneyinām 13
+eteviśeṣataḥ proktāḥ svarāvai sārvavaidikāḥ
+ityetaccāritaṃ sarvaṃ svarāṇāṃ sārvavaidikam 14
+iti prathamā kaṇḍikā
+kaṇḍikā 2
+sāmavede tu vakṣyāmi svarāṇāṃ caritaṃ yathā
+alpagranthaṃ prabhūtārthaṃ śravyaṃ vedāṅgamuttamam 1
+tānarāgasvaragrāmamūrchanānāṃ tu lakṣaṇam
+pavitraṃ pāvanaṃ puṇyaṃ nāradena prakīrtitam 2
+śikṣāmāhurdvijātīnāmṛgyajuḥsāmalakṣaṇam
+nāradīyamaśeṣeṇa niruktamanupūrvaśaḥ 3
+saptasvarāstrayo grāmāmūrchanāstvekaviṃśatiḥ
+tānā ekonapañcāśadityetatsvaramaṇḍalam 4
+ṣaḍjaśca ṛṣabhaścaiva gāndhāro madhyamastathā
+pañcamo dhaivataścaiva niṣādaḥ saptamaḥ svaraḥ 5
+ṣaḍjamadhyamagāndhārāstrayo grāmāḥ prakīrtitāḥ
+bhūrlokājjāyate ṣaḍjo bhuvarlokācca madhyamaḥ 6
+svargānnānyatra gāndhāro nāradasya mataṃ yathā
+svararāgaviśeṣeṇa grāmarāgā iti smṛtāḥ 7
+viṃśatirmadhyamagrāme ṣaḍjagrāme caturdaśa
+tānān pañcadaśecchanti gāndhāragrāmamāśritān 8
+nandī viśālā sumukhī citrā citravatī mukhā
+balā yā cātha vijñeyā devānāṃ sapta mūrchanāḥ 9
+āpyāyanī viśvabhṛtā candrā hemā kapardinī
+maitrī vārhatī caiva pitṝṇāṃ sapta mūrchanāḥ 10
+ṣaḍjetūttaramandrā syādṛṣabhe cābhirudgatā
+aśvakrāntā tu gāndhāre tṛtīyā mūrchanā smṛtā 11
+madhyame khalu sauvīrā hṛṣyakā pañcame svare
+dhaivate cāpivijñeyā mūrchanā tūttarāyatā 12
+niṣādādrajanī vidyādṛṣīṇāṃ saptamūrchanāḥ
+upajīvanti gandharvādevānāṃ saptamūrchanāḥ 13
+pitṝṇāṃ mūrchanāḥ sapta tathā yakṣā na saṃśayaḥ
+ṛṣīṇāṃ mūrchanāḥ sapta yāstvimā laukikāḥ smṛtāḥ 14
+ṣaḍjaḥ prīṇāti vai devānṛṣīn prīṇāti carṣabhaḥ
+pitṝnprīṇātigāndhāro gandharvānmadhyamaḥ svaraḥ 15
+devāna pitṝnnṛṣīṃścaiva svaraḥ prīṇāti pañcamaḥ
+yakṣān niṣādaḥ prīṇāti bhūtagrāmaṃ ca dhaivata iti 16
+iti prathame dvitīyākaṇḍikā
+kaṇḍikā 3
+gānasya tu daśavidhā guṇavṛttistadyathā
+raktaṃ pūrṇamalaṅkṛtaṃ prasannaṃ vyaktaṃvikruṣṭaṃ ślakṣṇaṃ samaṃ sukumāraṃ madhuramiti guṇāḥ1
+tatra raktaṃ nāma veṇuvīṇāsvarāṇāmekībhāve raktamityucyate 2
+pūrṇaṃ nāma svaraśrutipūraṇācchandaḥ pādākṣara saṃyogātpūrṇamityucyate 3
+alaṅkṛtaṃ nāmorasi śirasi kaṇṭhayuktamityalaṅkṛtam 4
+prasannaṃ nāmāpagatagadgadanirviśaṅkaṃ prasannamityucyate 5
+vyaktaṃ nāma padapadārthaprakṛtivikārāgamalopakṛttaddhitasamāsadhātunipātopasa-
+rgasvaraliṅgavṛttivārttikavibhaktyarthavacanānāṃ samyagupapādane vyaktamityucyate 6
+vikruṣṭaṃ nāmoccairuccāritaṃ vyaktapadākṣaramiti vikruṣṭam 7
+ślakṣṇaṃ nāmādrutamavilambitamuccanīcaplutasamāhāra-
+helatāravopanayānādibhirupapādanādibhiḥ ślakṣṇamityucyate 8
+samaṃ nāmāvāpanirvāpapradeśe pratyantarasthānānāṃ samāsaḥ samamityucyate 9
+asukumāraṃ nāma mṛdupadavarṇasvarakuharaṇayuktaṃ sukumāramityucyate 10
+madhuraṃ nāma svabhāvopanītalalitapadākṣara guṇasamṛddhaṃ madhuramityucyate 11
+śaṅkitaṃ bhītamudghṛṣṭamavyaktamanunāsikam
+kākasvaraṃ śirasigataṃ tathāsthāna vivarjitam 12
+visvaraṃ virasaṃ caiva viśliṣṭaṃ viṣamāhatam
+vyākulaṃ tāluhīnaṃ ca gītidoṣāścaturdaśa 13
+ācāryāḥ samamicchanti padacchedantu paṇḍitāḥ
+striyo madhuramicchanti vikruṣṭamitare janāḥ 14
+iti tṛtīyā kaṇḍikā
+kaṇḍikā 4
+padmapatraprabhaḥṣaḍjaṛṣabhaḥ śukapiṃjaraḥ
+kanakābhastu gāndhāro madhyamaḥ kundasaprabhaḥ 1
+pañcamastu bhavetkṛṣṇaḥ pītakaṃ dhaivataṃ viduḥ
+niṣādaḥ sarvavarṇaḥ syādityetāḥ svaravarṇatāḥ 2
+pañcamomadhyamaḥ ṣaḍjaityete brāhmaṇāḥ smṛtāḥ
+ṛṣabho dhaivataścāpītyetau kṣatriyāvubhau 3
+gāndhāraśca niṣādaśca vaiśyāvardhena vai smṛtau
+śūdratvaṃ viddhi cārdhena patitatvānna saṃśayaḥ 4
+ṛṣabhotthitaḥ ṣaḍjahato dhaivatasahitaśca pañcamo yatra
+nipatati madhyamarāge tanniṣādaṃ ṣāḍavaṃ vidyāt 5
+yadi pañcamo viramate gāndhāraścāntarasvaro bhavati
+ṛṣabho niṣādasahitastaṃ pañcamamīdṛśaṃ vidyāt 6
+gāndhārasyādhipatyena niṣādasya gatāgataiḥ
+dhaivatasya ca daurvalyān madhyamagrāmamucyate 7
+īṣatspṛṣṭo niṣādastu gāndhāraścādhiko bhavet
+dhaivataḥ kaṃpito yatra ṣaḍja grāmaṃ tu nirddiśet 8
+antarasvarasaṃyuktā kākalirpatra dṛśyate
+taṃ tu sādhāritaṃ vidyātpañcamasthaṃ tu kaiśikam 9
+kaiśikaṃ bhāvayitvā tu svaraiḥ sarvaiḥ samantataḥ
+yasmāttu madhyame nyāsastasmātkaiśika madhyamaḥ 10
+kākalirdṛśyate yatra prādhānyaṃ pañcamasya tu
+kaśyapaḥ kaiśikaṃ prāha madhyamagrāmasambhavam 11
+geti geyaṃ viduḥ prājñā dhetikārupravādanam
+veti vādyasya vijñeyaṃ gāndharvasya virocanamiti 12
+iti caturthī kaṇḍikā
+kaṇḍikā 5
+yaḥ sāmagānāṃ prathamaḥ sa veṇormadhyamaḥ svaraḥ
+yo dvitīyaḥ sa gāndhārastṛtīyastvṛṣabhaḥ smṛtaḥ 1
+caturthaḥ ṣaḍja ityāhu pañcamo dhaivato bhavet
+ṣaṣṭho niṣādo vijñeyaḥ saptamaḥ pañcamaḥ smṛtaḥ 2
+ṣaḍjaṃ vadati mayūro gāvo rambhanti carṣabham
+ajāvike tu gāndharaṃ krauñco vadati madhyamam 3
+pūṣpasādhāraṇe māle kokilo vakti pañcamam
+aśvastu dhaivataṃ vakti niṣādaṃ vakti kuñjaraḥ 4
+kaṇṭhāduttiṣṭhate ṣaḍjaḥ śirasastvṛṣabhaḥ smṛtaḥ
+gāndhārastvānunāsikya uraso madhyamaḥ svaraḥ 5
+urasaḥ śirasaḥ kaṇṭhāducchritaḥ pañcamaḥ svaraḥ
+lalāṭāddhaivataṃ vidyānniṣādaṃ sarvasandhijam 6
+nāsāṃ kaṇṭhamurastālujihvādantāṃśca saṃśritaḥ
+ṣaḍbhiḥ sañjāyate yasmāttasmāt ṣaḍja iti smṛtaḥ 7
+vāyuḥ samutthito nābheḥ kaṇṭhaśīrṣasamāhataḥ
+nardatyṛṣabhavadyasmāttasmādṛṣabha ucyate 8
+vāyuḥ samutthito nābheḥ kaṇṭhaśīrṣa samāhataḥ
+nāsāgandhāvahaḥ puṇyo gāndhārastenahetunā 9
+vāyuḥ samucchrito nābherurohṛdi samāhataḥ
+nābhiṃ prāpto mahānādo madhyamatvaṃ samaśnute 10
+vāyuḥ samutthitonābherūrohṛtkaṇṭhaśirohataḥ
+pañcasthānotthitasyāsya pañcamatvaṃ vidhīyate 11
+dhaivataṃ ca niṣādaṃ ca varjjayitvā svaradvayam
+śeṣānpañcasvarāṃstvanyānpañcasthānocchritānviduḥ 12
+agnigītaḥ svaraḥ ṣaḍja ṛṣabho brahmaṇocyate
+somena gītī gāndhāro viṣṇunā madhyamaḥ svaraḥ 13
+pañcamastu svaro gīto nāradena mahātmanā
+dhaivataśca niṣādaśca gītau tumburuṇā svarau 14
+ādyasya daivataṃ brahmā ṣaḍjasyāpyucyate budhaiḥ
+tīkṣṇadīptiprakāśatvād ṛṣabhasya hutāśanaḥ 15
+gāvaḥ pragīte tuṣyanti gāndhārastena hetunā
+śrutvā caivopatiṣṭhanti saurabheyā na saṃśayaḥ 16
+somastupañcamasyāpi daivataṃ brahmarāṭsmṛtam
+nirhrāso yasya vṛddhiśca grāmamāsādya somavat 17
+ati sandhīyate yasmādetān pūrvotthitān svarān
+tasmādasya svarasyāpi dhaivatatvaṃ vidhīyate 18
+niṣīdanti svarā yasmānniṣādastena hetunā
+sarvāṃścābhibhavatyeṣa yadādityo'sya daivatamiti 19
+iti pañcamī kaṇḍikā
+kaṇḍikā 6
+dāravī gātravīṇā ca dve vīṇe gānajātiṣu
+sāmikī gātravīṇā tu tasyāḥ śṛṇuta lakṣaṇam 1
+gātravīṇā tu sā proktā yasyāṃ gāyanti sāmagāḥ
+svaravyañjanasaṃyuktā aṅgulyaṅguṣṭharañjitā 2
+hastau susaṃyutaidhāyau jānubhyāmuparisthitau
+guroranukṛtiṃ kuryādyathājñānamatirbhavet 3
+praṇavaṃ prāk prayuñjītavyāhṛttīstadanantaram
+sāvitrīṃ cānuvacanaṃ tato vṛttāntamārabhet 4
+prasāryaṃ cāṅgulīḥ sarvāṃ ropayetsvaramaṇḍalam
+na cāṅgulibhiraṅguṣṭhamaṅguṣṭhenāṅgulīḥ spṛśet 5
+viralā nāṅgulīḥ kuryānmūle caināṃ na saṃspṛśet
+aṅguṣṭhāgreṇa tā nityaṃ madhyame parvaṇi spṛśet 6
+mātradvimātravṛddhānāṃ vibhāgārthaṃ vibhāgavit
+aṅgulībhirdvimātraṃ tu pāṇaiḥ savyasya darśayet 7
+trirekhā yatra dṛśyeta sandhiṃ tatra vinirdiśet
+sa parva iti vijñeyaḥ śeṣamantaramantaram 8
+yavāntaraṃ tu sāmastvṛkṣu kuryāttilāntaram
+svarānmadhyamaparvasu suniviṣṭānniveśayet 9
+na cātra kampayetkiñcidaṅgasyāvayavaṃ budhaḥ
+adhastanaṃ mṛdunyasya hastamāste yathākramam 10
+abhramadhye yathā vidyuddṛśyate maṇisūtravat
+eṣacchedo vivṛttīnāṃ yathā bāleṣu kartari 11
+kūrmoṅgānīva saṃhṛtya ceṣṭāṃ dṛṣṭiṃ diśan manaḥ
+svasthaḥ praśānto nirbhito varṇānuccārayedbudhaḥ 12
+nāsikāyāstu pūrveṇa hastaṃ gokarṇavaddharet
+niveśyadṛṣṭiṃ hastāgre śāstrārthamanucintayet 13
+samamuccārayedvākyaṃ hastena ca mukhena ca
+yathaivoccārayedvarṇāṃstathaivainān samāpayet 14
+nābhyāityātra nirhanyātra prayoganna kampayet
+samaṃ sāmāni gāyeta vyomni śyenagatiryathā 15
+yathāpsu caratāṃ mārgo mīnānāṃ nopalabhyate
+ākāśe vā vihaṅgānāṃ tadvatsvaragatā śrutiḥ 16
+yathādadhani sarpiḥ syātkāṣṭhasthovā yathānalaḥ
+prayatnenopalamyeta tadvatsvaragatā śrutiḥ 17
+svarātsvaraṃ saṅkramastu svarasandhimanulbaṇam
+avicchinnaṃ samaṃkuryātsūkṣmaṃ chāyātapopamam 18
+anāgatamatikrāntaṃ vicchinnaṃ viṣamāhatam
+tanvantamasthitāntaṃ ca varjjayetkarṣaṇaṃ budhaḥ 19
+svarasthānāccyutoyastusvaṃ sthānamativarttate
+visvaraṃ sāmagāḥ kuryuviraktamativīṇinaḥ 20
+ābhyāsārthe drutāṃ bṛttiṃ prayogārthe tu madhyamām
+śiṣyāṇāmupadeśārthe kuryādvṛttiṃ vilambitām 21
+gṛhītagrantha evaṃ tu granthoccāraṇaśikṣakān
+hastenādhyāpayecchiṣyān śaikṣeṇa vidhinā dvijaḥ 22
+iti ṣaṣṭhī kaṇḍikā
+kaṇḍikā 7
+kruṣṭasyamūrddha ni sthānaṃ lalāṭe prathamasya tu
+bhruvormadhye dvitīyasya tṛtīyasya ca karṇayoḥ 1
+kaṇṭhasthānaṃ caturthasya mandrasyorasi tūcyate
+atisvārasya nīcasya hṛdisthānaṃ vidhīyate 2
+aṅguṣṭhasyottame kruṣṭo hyaṅguṣṭhe prathamaḥ svaraḥ
+prādeśinyāṃ tu gāndhāra ṛṣabhastadanantaram 3
+anāmikāyāṃ ṣaḍjastu kaniṣṭhikāyāṃ ca dhaivataḥ
+tasyādhastācca yonyāstu niṣādaṃ tatra vinyaset 4
+aparvatvādasañjñatvādavyayatvācca nityaśaḥ
+mandro hi nahi bhūtastu parisvāra iti smṛtaḥ 5
+kruṣṭena devā jīvanti prathamena tu mānuṣāḥ
+paśavastu dvitīyena gandharvāpsarasastvanu 6
+āṇḍajāḥ pitaraścaiva caturthasvarajīvinaḥ
+mandrañcaivopajīvanti piśācāsurarākṣasāḥ 7
+atisvāreṇa nīcena agatsthāvarajaṅgamam
+sarvāṇi khalu bhūtāni dhāryante sāmikaiḥ svaraiḥ 8
+dīptāyatā karuṇānāṃ mṛdumadhyamayostathā
+śrutīnāṃ yo viśeṣajño na sa ācārya ucyate 9
+dīptāmandre dvitīye ca pracaturthe tathaiva tu
+ati svāre tṛtīye ca kruṣṭe tu karuṇā śrutiḥ 10
+śrutayo'nyā dvitīyasya mṛdumadhyāyatāḥ smṛtāḥ
+tāsāmapi tu vakṣyāmi lakṣaṇāni pṛthak pṛthak 11
+āyatātvaṃ bhavennoccairmṛdutvaṃ tu viparyaye
+sve svare madhyamatvaṃ tu tatsamīkṣya prayojayet 12
+dvitīye viratāyā tu kuṣṭaśca parato bhavet
+dīptāṃ tāṃ tu vijānīyātprathamena mṛdusmṛtā 13
+atraiva viratāyā tu caturthena pravarttate
+tathā mandre bhaveddīptā sāmnaścaiva samāpane 14
+nābhirate śrutiṃ kuryātsvarayornāpi cāntare
+na ca hrasve ca dīrghe ca na cāpi ghuṭasañjñike 15
+dvividhāgatiḥ padāntaḥ sthitasandhiḥ sahoṣmabhiḥ
+pañcasveteṣu sthāneṣu vijñeyaṃ ghuṭasañjñatam 16
+svarāntarāviratāni hrasvadīrghaghuṭāni ca
+śrutisthāneṣvaśeṣāṇi śrutivat svarato bhavet 17
+dīptāmudātte jānīyāddīptāṃ ca svarite viduḥ
+ānudātte mṛdujñeyā gandharvā śrutisampadaḥ 18
+udāttaścānudāttaśca svaritapracite tathā
+nighātaśceti vijñeyaḥ svarabhedastu pañcadhā 19
+iti saptamī kaṇḍikā
+kaṇḍikā 8
+ata ūrddhvaṃ pravakṣyāmyārccikasya svaratrayam
+udāttaścānudāttaśca tṛtīyaḥ svaritaḥ svaraḥ 1
+ya evodātta ityuktaḥ sa eva svaritātparaḥ
+pracayaḥ procyate tajjñairna cātrānyatsvarāntaram 2
+varṇasvāro'tītaḥ svāraḥ svarito dvividhaḥ smṛtaḥ
+mātrikovarṇa evaṃ nu dīrghastūccaritādanu 3
+sa tu saptavidho jñeyaḥsvaraḥ pratyayadarśanāt
+padena tu sa vijñeyo bhavedyo yatra yādṛśaḥ 4
+saptasvarānprayuñjīta dakṣiṇaṃ śravaṇaṃ prati
+ācāryairvihitaṃ śāstraṃ putraśiṣyahitaiṣibhiḥ 5
+uccāduccataraṃ nāsti nīcānnīcataraṃ tathā
+vaisvarye svārasaṃjñāyāṃ kiṃ sthānaṃ svāraucyate 6
+uccanīcasya yanmadhye sādhāraṇamiti śrutiḥ
+taṃ svāraṃ svārasañjñāyāṃ pratijānanti śaikṣikāḥ 7
+udātte niṣādagāndhārāvanudāttaḥ ṛṣabhadhaivatau
+svaritaprabhavā hyete ṣaḍjamadhyamapañcamāḥ 8
+yatra kakhaparā ūṣmā jihvāmūlaprayojanāḥ
+tāmathājñāpayenmātrāṃ prakṛtyaiva tu sā kalā 9
+jātyaḥ kṣaipro'bhinihitastairavyañjana eva ca
+tirovirāmaḥ praśliṣṭaḥ pādavṛttaśca saptamaḥ 10
+svārāṇāmahameteṣāṃ pṛthagvakṣyāmi lakṣaṇam
+uddiṣṭānāṃ yathānyāyamudāharaṇameva ca 11
+iti prathamasyāṣṭamī kaṇḍikā
+prathamaḥ prapāṭhakaḥ samāptaḥ
+dvitīyaḥ prapāṭhakaḥ
+kaṇḍikā 1
+sayakāraṃ sarvaṃ vāpyakṣaraṃ svaritaṃ bhavet
+na codāttaṃ purastasya jātyaḥ svāraḥ sa ucyate 1
+i u varṇau yadodāttāvāpadyete yavau kvacit
+anudātte pratyaye nityaṃ vidyātkṣaiprasya lakṣaṇam 2
+e o ābhyāmudāttābhyāmakāro nihitaścayaḥ
+akāraṃ yatra lumpati tamabhinihitaṃ viduḥ 3
+udāttapūrvaṃ yātkiñcicchandasi svaritaṃ bhavet
+eva sarvatrahrasvārastairavyañjana ucyate 4
+avagrahātparaṃ yatra svaritaṃ syādanantaram
+tirovirāmaṃ taṃ vidyādudātto yadyavagrahaḥ 5
+ikāraṃ yatra paśyeyurikāreṇaiva saṃyutam
+udāttamanudāttena praśliṣṭaṃ taṃ nibodhata 6
+svare cet svaritaṃ yatra vivṛttā yatra saṃhitā
+etatpādāntavṛttasya lakṣaṇaṃ śāstracoditam 7
+jātyaḥ svāraḥ sa jātyena śruṣṭyagre kṣaipra ucyate
+te manvatābhinihitastairavyañjana ūtaye 8
+tirovirāmo viṣkabhite prāśliṣṭo hīndragirvaṇaḥ
+pādavṛttaḥ ka īṃ veda svārāḥsaptaivamādayaḥ 9
+uccādekākṣarātpūrvātsvaryate yadihākṣaram
+svārāṇāṃ jātyavarjjānāmeṣā prakṛtirucyate 10
+catvārastvāditaḥ svārāḥ kampaṃ puṣyanti śāstrataḥ
+udātte vaikanīce vājuhvagristatra darśanam 11
+iti prathamā kaṇḍikā
+kaṇḍikā 2
+ikārānte pade pūrva ukāre parataḥ sthite
+hrasvakampaṃ vijānīyānmedhāvī nātra saṃśayaḥ 1
+ikārānte pade caivokāradvayapade pare
+dīrghaṃ kampaṃ vijānīyācchragdhyūṣviti nidarśanam 2
+trayodīrghāstu vijñeyā ye ca sandhyakṣareṣu vai
+manyāpatryā na indrābhyāṃ śeṣā hrasvāḥ prakīrtitāḥ 3
+anekānāmudāttānāmanudāttaḥ pratyayo yadi
+śivakampaṃ vijānīyādudāttaḥ pratyayo yadi 4
+yatradviprabhṛtīnisyurudāttānyakṣarāṇi tu
+nīcaṃ coccaṃ ca paratastatrodāttaṃ vidurbudhāḥ 5
+na rephe vā hakāre vā dvirbhāvo jāyate kvacit
+na ca vargadvitīyeṣu na caturthe kadā cana 6
+na caturthaṃ tṛtīyena dvitīyaṃ prathamena tu
+ādyamantyaṃ ca madhyañca svākṣareṇaiva pīḍayet 7
+anantyaśca bhavet pūrvo'ntyaśca parato yadi
+tatra madhye yamastiṣṭhet sa varṇaḥ pūrvavarṇayoḥ 8
+vargāntyāñchaṣasaiḥ sārddhamantasthairnāpi sam̐yyutān
+dṛṣṭvā yamā nivarttanta ādeśikamivādhvagāḥ 9
+tṛtīyaśca caturthaśca caturthādiparaṃ padam
+dvau tṛtīyau hakāraśca hakārādi paraṃ padam 10
+anusvāropadhāmūlānāṃ na kvacit kramateparam
+rahapūrvasaṃyute cāpyuttaraṃ kramate'kṣaram 11
+saṃyoge svaritaṃ yatra codghātaiḥ patane yathā
+pūrvāṅgamāditaḥ kṛtvā parāṅgādau niveśayet 12
+saṃyoge yatradṛśyet vyañjanaṃ virate pade
+pūrvāṅgaṃ tadvijānīyādyenārambhastatparāṅgam 13
+saṃyogāttu paraṃ svaryaṃ paraṃ saṃyoganāyakam
+saṃyuktasya tu varṇasya svaritaṃ pūrvamakṣaram 14
+anusvāraḥ padāntaśca kramajaḥ pratyaye svake
+svarabhaktistathā rephaḥ sarvaṃ pūrvāṅgamucyate 15
+pādādau ca padādau ca saṃyogāvagraheṣu ca
+yaḥ śabdaiti vijñeyo yo'nyaḥ sa ya itismṛtaḥ 16
+padādāvapyavicchede saṃyogānte ca tiṣṭhatām
+varjjayitvā raharyāṇāmayādeśaḥ pradṛśyate 17
+svasaṃyukto gururjñeyaḥ sānusvārāgrimaḥ sphuṭaḥ
+aṇuśeṣo'dhrigorvāpi yugalādiravisphuṭaḥ 18
+iti dvitīyā kaṇḍikā
+kaṇḍikā 3
+yadudāttamudāttaṃ tadyatsvaritaṃ tatpade bhavati nīcam
+yannīcannīcameva tadyatpracayaṃ tadapi nīcam 1
+ayamagniḥ suto mitramidaṃ vayamayāvanāḥ
+priyaṃ dūtaṃ ghṛtaṃ citramabhiśabdaśca nīcataḥ 2
+arkeṣveva suteṣveva yajñeṣu kalaśeṣu ca
+śateṣu sapavitreṣu nīcāduccāryate śrutiḥ 3
+harivaruṇavaruṇyeṣu dhārā puruṣeṣu ca svarati rephaḥ
+viśvānaro nakāreṣu śeṣārasvaritānarāḥ 4
+dvau varuṇau vasvarita uduttamaṃ tvaṃ varuṇa
+dhākāre corudhārāyāmurudhāreva dohane 5
+mātrikaṃ vā dvimātraṃ vā svaryate yadihākṣaram
+tasyādito'rddhamātrā vaiśeṣaṃ tu parato bhavet 6
+adīrghaṃ dīrghavatkuryād dvisvaraṃ yatprayujyate
+kampotsvaritābhigītaṃ hrasvakarṣaṇameva ca 7
+nimeṣakālā mātrāsyāddvidyutkāleti cāpare
+ṛksvarā tulyayogā vāmatiḥ syātsomaśarmaṇaḥ 8
+samāse'vagrahaṃ kuryātpadaṃ cātrānusaṃhitam
+yato'kṣarāditi karaṇaṃ padāntaṃ tasya taṃ viduḥ 9
+sarvatra mitraputrasakhiśabdā adriśatakratoravagrahyāḥ
+ādityaviprajātavedāśca satpatigopativṛtrahā samudrāśca 10
+svaryuvo devayavaścārati devatātaye
+cikitiścukrudhaṃ caivanāvagṛhṇanti paṇḍitāḥ 11
+iti tṛtīyā kaṇḍikā
+kaṇḍikā 4
+vivṛttayaścatasro vai vijñeyā iti me matam
+akṣarāṇāṃ niyogena tāsāṃ nāmāni me śrṛṇu 1
+hasvārdivatsānusṛtā vatsānusāriṇī cāgre
+pākavatyubhayorhrasvā dīrghā vṛddhā pipīlikā 2
+catasṛṇāṃ vivṛttīnāmantaraṃ mātrikaṃ bhavet
+arddhamātrikamanyeṣāmanyeṣāmaṇumātrikam 3
+āpadyate makāro rephoṣmasu pratyayeṣvanusvāram
+yalaveṣuparasavarṇaṃ sparśeṣu cottamāpattim 4
+nakārānte pade pūrve svare ca parataḥ sthite
+ākāraṃ raktamityāhurnakāreṇa tu rajyate 5
+nakārānte pade pūrve vyañjanaiśca yavo hiṣu
+arddhamātrā tu pūrvasya rajyate tvaṇumātrayā 6
+nakāraḥ svarasaṃyuktaścaturyukto vidhīyate
+rephoraṅgaśca lopaścānusvāro'pi vā kvacit 7
+hṛdayāduttiṣṭhate raṅgaḥ kāṃsyena samaniḥsvaraḥ
+mṛduścaiva dvimātraśca dadhanvām̐ iti darśanam 8
+yathā saurāṣṭrikā nārī takram̐ ityabhibhāṣate
+evaṃ raṅgaḥ prayoktavyo nāradasya mataṃ yathā 9
+iti caturthī kaṇḍikā
+kaṇḍikā 5
+svarā gaḍadabāścaiva ṅaṇanamāḥ sahoṣmabhiḥ
+caturṇāṃ padajātīnāṃ padāntā daśakīrtitāḥ 1
+svara uccaḥ svaro nīcaḥ svaraḥ svarita eva ca
+vyañjanānvanuvarttante yatra tiṣṭhati sa svaraḥ 2
+svarapradhānaṃ traisvaryamācāryāḥ pratijānate
+maṇivadvyañjanaṃ vidyātsūtravacca svaraṃ viduḥ 3
+durbalasya yathā rāṣṭraṃ harate balavānnṛpaḥ
+durbalaṃ vyañjanaṃ tadvaddharate balavān svaraḥ 4
+obhāvaśca vivṛttiśca śaṣasā rephaeva ca
+jihvāmūlamupadhmā ca gatiraṣṭavighoṣmaṇaḥ 5
+svarapratyayā vivṛttiḥ saṃhitāyāṃ tathā bhavet
+visargastatra mantavyastālavyo vātra jāyate 6
+sandhyakṣaropadhe sandhau prāptaluptau yavau yadi
+vyañjanākhyā vivṛttistu svarākhyā pratisaṃhitā 7
+ūṣmāntaṃ virataṃ yatra sandhāvo bhavate ca yat
+vivṛttiryā bhavettatra svārākhyāṃ tāṃ vinirdiśet 8
+yadyobhāvaprasandhānamukārādi paraṃ padam
+svarāntaṃ tādṛśaṃ vidyādyadanyadvyayaktamūṣmaṇaḥ 9
+prathamā uttamāścaiva padānteṣu yadi sthitāḥ
+dvitīyaṃ sthānamāpannāḥ śaṣasapratyayā yadi 10
+prathamānūṣmasaṃyuktān dvitīyāniva darśayet
+na cainānpratijānīyādyathā matsyaḥ kṣuro'psarā iti 11
+iti pañcamī kaṇḍikā
+kaṇḍikā 6
+chandomānaṃ na vṛttaṃ ca pādasthānaṃ trikāraṇam
+ṛcaḥ svachandavṛttāstu pādāstvakṣaramānasaḥ 1
+ṛvarṇaṃ svarabhaktiṃ ca chandomānena nirdiśet
+pratyayena samāhārephaṃ mimīta svarabhaktiṣu 2
+ṛvarṇe tu pṛthagrephaḥ pratyayastu pṛthagbhavet
+vidyāllaghumṛkāraṃ tu yadi tūṣmāṇasaṃyuktaḥ 3
+ūṣmaṇaiva hi saṃyuktaṛkāro yatra pīḍyate
+guruvarṇaḥ savijñeyastṛcaṃ cātrānudarśanam 4
+ṛṣabhaṃ ca gṛhītaṃ ca bṛhaspatiṃ pṛthivyāṃ ca
+niṛrtiḥ pañcamā hyatra ṛkāro nātra saṃśayaḥ 5
+śaṣasaharādau rephaḥ svarabhaktirjāyate dvipadā sandhau
+iuvarṇābhyāṃ hīnā kvacidekapadā kramaviyuktā 6
+svarabhaktistu dvividhā ṛkāro repha eva ca
+svarodāvyañjanodā ca vihitākṣaracintakaiḥ 7
+śaṣaseṣu svarodāyāṃ hakāre vyañjanodayām
+śaṣaseṣu vivṛttāṃ tu hakāre saṃvṛtāṃ viduḥ 8
+svarabhaktiṃ prayuñjānastrīndoṣān parivarjjayet
+ikāraṃ cāpyukāraṃ ca grastadoṣaṃ tathaiva ca 9
+saṃyogaparaṃ chaparaṃ visarjjanīyaṃ dvimātrikaṃ caiva
+āsānikaṃ ca na laghusānusvāraṃ ghuṭaṃtañca 10
+iti ṣaṣṭhī kaṇḍikā
+kaṇḍikā 7
+pathyāpādaḥ prathamo dvādaśamātrastathā tṛtīyo'pi
+aṣṭādaśo dvitīyaḥ samāpanaḥ pañcadaśamātraḥ 1
+pathyālakṣaṇamuktaṃ yā tvanyā sā smṛtā vipulā 2
+akṣarāṇāṃ laghuhrasvamasaṃyogaparaṃ yadi
+tat saṃyogottaraṃ vidyād gururdīrghākṣarāṇi tu 3
+vivṛttiryatra dṛśyeta svārasyaivāgrataḥ sthitā
+guruḥ svāraḥ sa vijñeyaḥ kṣaiprastatra na vidyate 4
+aṣṭaprakāraṃ vijñeyaṃ padānāṃ svaralakṣaṇam
+antodāttamādyudāttamudāttamanudātaṃ nīcasvaritam 5
+madhyodāttaṃ svaritaṃ dvirudāttamityetā aṣṭau padasaṃjñāḥ
+agniḥ somaḥ pra vo vīryaṃ haviṣā svarvanaspatiḥ 6
+antamadhyamayornāmnyudamanudanipāte
+ādyāt svaritamupasarge dvirnīcamākhyāta iti 7
+svaritātparāṇi yāni syurdhāryāṇyakṣarāṇi tu
+sarvāṇi pracayasthānyupodāttaṃ nihanyate 8
+pracayo yatra dṛśyeta tatra hanyāt svaraṃ budhaḥ
+svaritaḥ kevalo yatra mṛduntatra nipātayet 9
+pañcavidhamācāryakannāma mukhaṃ nyāsaḥkaraṇaṃ pratijñoccāraṇā
+atrocyate śreyaḥ khalu vai sa pratijñānoccāraṇā 10
+yasya kasyacidvarṇasya karaṇaṃ nopalabhyate
+pratijñā tatra voḍhavyā karaṇaṃ hi tadātmakam 11
+tumburunāradavasiṣṭhaviśvāvasvādayaśca gandharvāḥ
+sāmasunibhṛtaṃ karaṇaṃ svarasaukṣmyātte'pi hi na kuryuḥ 12
+iti saptamī kaṇḍikā
+kaṇḍikā 8
+kaukṣeyāgniṃ sadārakṣedaśnīyādaśanaṃ hitam
+jīrṇāhāraḥprabuddhaḥ sannuṣasi brahma cintayet 1
+śaradviṣuvato'tītāduṣasyuttthānamiṣyate
+yāvadvāsantikī rātrirmadhyamā paryupasthitā 2
+āmrapālāśabilvānāmapāmārgaśirīṣayoḥ
+vāgyataḥ prātaruttthāya bhakṣayed dantadhāvanam 3
+khadirañca kadambañca karavīrakaraṃjayoḥ
+sarve kaṇṭakinaḥ puṇyāḥ kṣīriṇaśca yaśasvinaḥ 4
+tenāsya karaṇaṃ saukṣmyaṃ mādhuryaṃ copajāyate
+varṇāṃśca kurute samyakprācīnaudavrajiryathā 5
+triphalā lavaṇākhyena bhakṣayecchikṣakaḥ sadā
+agnimedhājananyeṣā svaravarṇakarī tathā 6
+kṛtvā cāvaśyakān dharmān jaṭharaṃ paryupāsya ca
+pītvā dhūmaṃ ghṛtaṃ caiva śucirbhūtvā tato vadet 7
+mandreṇopakramet pūrvaṃ sarvaśākhāsvayaṃ vidhiḥ
+saptamantrānatikramya yatheṣṭāṃ vācamutsṛjet 8
+na tāṃ samīrayed vācaṃ yā prāṇamuparodhayet 8a
+prāṇānāmuparodhena vaisvaryaṃ copajāyate
+svaravyañjanamādhuryaṃ lupyate nātra saṃśayaḥ 9
+kutīrthādāgataṃ dagdhamapavarṇaiśca bhakṣitam
+na tasya parimokṣo'sti pāpāheriva kilbiṣāt 10
+sutīrthādāgataṃ vyaktaṃ svāmnātaṃ supratiṣṭhitam
+susvareṇa suvaktreṇa prayuktaṃ brahma rājate 11
+na karālo na lamboṣṭho na ca sarvānunāsikaḥ
+gadgado baddhajihvaśca prayogānvaktumarhati 12
+ekacitto nirudbhrāntastāntagānavivarjitaḥ
+sa tu varṇānprayuñjīta dantoṣṭhaṃ yasya śobhanam 13
+pañca vidyāṃ na gṛhṇanti caṇḍāstabdhāśca ye narāḥ
+ālasāścānarogāśca yeṣāṃ ca visṛtaṃ manaḥ 14
+śanairvidyāṃ śanairarthānāroheta parvataṃ śanaiḥ
+śanairadhvasu vartteta yojanānāṃ paraṃ vrajet 15
+yojanānāṃ sahasrāṇi śanairyāti pipīlikā
+agacchanvainateyo'pi padamekaṃ na gacchati 16
+nahi pārṣṇihatā vāṇī prayogānvaktumarhati
+badhirasyeva talpasthā vidagdhā vāmalocanā 17
+upāṃśu tvaritaṃ caivaṃ yo'dhīte vitrasanniva
+api rūpasahasreṣu sandeheṣveva varttate 18
+pustakapratyayādhītaṃ nādhītaṃ gurusannidhau
+rājate na sabhāmadhye jāragarbhā iva striyaḥ 19
+añjanasya kṣayaṃ dṛṣṭvā valmīkasya tu sañcayam
+abandhyandivasaṃ kuryāddānādhyayanakarmasu 20
+yojanānāṃ śataṃ sāgraṃ śanairyāti pipīlikāḥ
+agacchan vainateyo'pi padamekaṃ na gacchati 21
+yatkīṭaiḥ pāṃsubhiḥ ślakṣṇairvalmīkaḥ kriyate mahān
+na tatra balasāmarthyamudyogastatra kāraṇam 22
+sahasraguṇitā vidyā śataśaḥ parikīrttitā
+āgamiṣyati jihvāgre sthalānnimnamivodakam 23
+hayānāmiva jātyānāmarddharātrārddhaśāyinām
+nahi vidyārthināṃ nidrā cirannetreṣu tiṣṭhati 24
+na bhojanavilambī syānna ca nārīnibandhanaḥ
+sudūramapi vidyārthī vrajed garuḍahaṃsavat 25
+aheriva gaṇādbhītaḥ sauhṛdyaṃ narakādiva
+rākṣasībhya iva strībhyaḥ sa vidyāmadhigacchati 26
+na śaṭhāḥ prāpnuvantyarthān na klībā na ca māninaḥ
+na ca lokaravādbhītā na ca śvaḥ śvaḥ pratīkṣakāḥ 27
+yathā khanan khanitreṇa bhūtale vāri vindati
+evaṃ gurugatāṃ vidyāṃ śuśrūṣuradhigacchati 28
+śuśrūṣārahitā vidyā yadyapi medhāguṇaiḥ samupayāti
+bandhyeva yauvanavatī na tasya vidyā phalavatī bhavati 29
+dyūtaṃ pustakavādyaṃ ca nāṭakeṣu ca saktikā
+striyastandrā ca nidrā ca vidyāvighnakarāṇi ṣaṭ 30
+yathā vyāghrī haretputrān daṃṣṭrābhirna ca pīḍayet
+bhītā patanabhedābhyāṃ tadvadvarṇānprayojayet 31
+evaṃ varṇāḥ prayoktavyā nāvyaktā na ca pīḍitāḥ
+samyag varṇaprayogeṇa brahmaloke mahīyate 32
+iti dvitīyasyāṣṭamī kaṇḍikā
+iti dvitīyaḥ prapāṭhakaḥ
+iti nāradīyā śikṣā samāptā
+    </body>
+  </text>
+</TEI>

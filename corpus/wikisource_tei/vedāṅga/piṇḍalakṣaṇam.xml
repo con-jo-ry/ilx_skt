@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Piṇḍalakṣaṇa</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%AA%E0%A4%BF%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%B2%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%A3%E0%A4%AE%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+piṇḍalakṣaṇam
+yamayuktavarṇapiṇḍo nibiḍo ayaḥ 1
+piṇḍavadbhavati yathā rukkma śaggmāntaḥ 2
+aghghniyāḥ tanamiccmiyacchmaśruṇaḥ parijjmā āṭṭṇāraḥ
+ātmanaḥ dadhnā pāppmā dabhbhno 3
+ityādisparśāntasthā yogoviślathabandhastu dārupiṇḍasamaḥ 4
+pā kathācidvasavaḥssaṃvatsaramukhthaṃ vajraḥ ityādiḥ 5
+pa ayamoṣmottamayogaślathabandhastūlapiṇḍasamaḥ 6
+ślathabandho yatra naṇau vakārapūrvau bhavettatra 7
+ayamaḥ yamavarṇaśūnyaḥ yamūṣmottamānāṃ kramānmitho'nvayaḥ 8
+sakūlapiṇḍa ayamaḥ baviśeṣaṇamayaḥ piṇḍādbhedajñāpanāya yathā 9
+brahmavādinaḥ ahnāṃ aparāhṇe ślathabandho yathā 10
+vibhūdāvunne 11
+dadhikrāvivīṇṇaḥ 12
+grāvīṇṇaḥ 13
+pūrvokte dārupiṇḍe sparśasya pūrvatvaṃ vivakṣitam 14
+atra tu vakārasya antasthāyāḥ pūrvatvamiti ślathabandhe viśeṣaḥ 15
+ato'sya na dārupiṇḍe'ntarbhāvaḥ 16
+badhnanti yathābhāraṃ trīṇasya saṃveṣṭyavāhakāḥ puruṣāḥ sayakāravarṇapiṇḍaṃ
+samuccare dvaidikantadvat 17
+ayantrīṇabandhaḥ 18
+yathā 19
+prajananaṃ jyotiḥ abhyaśnute apvāyadhvaṃ yamyāsaṃ vivadānā 20
+atra dārupiṇḍa eva yakārarūpāntasthāyāḥ sparśayoge
+tṛṇarajubaṃdhavat 21
+uccarediti viśeṣaviddhyarthamayamāraṃbhaḥ 22
+uttamaparo hakāro nāsikyaścaurasaśca bhavet 23
+o aurasa evāntasthāyā paro naṇamaparo mahānādaḥ 24
+atra pūrvārdhena turyavākyena ca mūlapiṇḍe viśeṣamāhasa yathā 25
+śaradyaparāhṇe 26
+ahnnāndīketuḥ brahmavādinaḥ tṛtīyapādena dārupiṇḍaviśeṣa uktaḥ 27
+turyarcena ca dārupiṇḍamantasthairyuktamiti gautamokteḥ 28
+ihāpi dārupiṇḍa eva 29
+yathā mahyannamantāṃ kṛśiṣanduhrehlādayate 30
+ahvādhāḥ 31
+pa antasthoktamayogenā utsṛjyoghrāṇajo hakārasya vāyuḥ parayodi syāt
+tatra tu pṛthaguccārayedenaṃ hakārasyāntasthoktamebhyaḥ pūrvatve hakārasya vāyuḥ
+kaṇḍadeśe na tyājyaḥ 32
+kiṃ tu urasaiva hakāra uccāraṇīyya ityarthaḥ
+tathā ca śikṣā vacanam 33
+hakāraṃ paṃcamairyuktamantasthābhiśca saṃyutam
+urasyantaṃ vijānīyātkaṇṭhyamāhurasaṃyutam | iti 34
+hakārasya paratve'nupūrvairantasthoktamaihikāramaśliṣṭamuccaret 35
+yathā caturhotṛṇāṃ malyahā pratyandīhotāraṃ etān homān 36
+mātṛkāyāmapyasaṃpūrṇam 37
+    </body>
+  </text>
+</TEI>

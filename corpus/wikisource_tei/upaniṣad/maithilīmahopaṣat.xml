@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Maithilīmahopaṣad</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%AE%E0%A5%88%E0%A4%A5%E0%A4%BF%E0%A4%B2%E0%A5%80%E0%A4%AE%E0%A4%B9%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+nityāṃ nirañjanāṃ śuddhāṃ rāmābhinnāṃ maheśvarīm | mātaraṃ maithilīṃ vande guṇagrāmāṃ ramāramām ||
+oṃ tatsat | rāmarūpiṇe parabrahmaṇe namaḥ | atha havaikadā ratnasiṃhāsane samārūḍhāṃ bhagavatīṃ maithilīṃ lāṭyāyanaḥ kauñjāyanaḥ khāḍāyano bhalandano vilva ailākyastālukṣya ete sapta ṛṣayaḥ pretyatāmūcuḥ | bhūrbhuvaḥ svaḥ | saptadvīpā vasumatī | trayo lokāḥ | antarikṣam | sarve tvayi nivasanti | āmodaḥ | pramodaḥ | vimodaḥ | sammodaḥ | sarvāṃstvaṃ sandhatse | āñjaneyāya brahmavidyā pradātri dhātritvāṃ sarve vayaṃ praṇamāmahe praṇamāmahe ||
+atha hainānmaithilyuvāca | vatsāḥ kuśalino'dabdhāso'repasaḥ kiṃ kāmā yūyaṃ pratyapadyadhvam || te hocurmātarmokṣakāmaiḥ kiṃ jāpyaṃ kiṃ prāpyaṃ kiṃ dhyeyaṃ kiṃ vijñeyamityetat sarvaṃ no brūhi ||
+sovāca | rāma ityakṣara dvayaṃ jāpyam | riṃ rāma ityakṣara trayaṃ jāpyam | ruṃ rāma ityakṣara trayaṃ jāpyam | reṃ rāma ityakṣara trayaṃ jāpyam | raiṃ rāma ityakṣara trayaṃ jāpyam | roṃ rāma ityakṣara trayaṃ jāpyam | etadeva hi tārakam | etadeva hi bandhanabandhanam ||
+sārddhatisro mātrā omityatra | imāni tryakṣarāṇi japaṃstajjapati || trīṇi vai duḥkhāni | ādhyātmikamādhidaivikamādhibhautikam | imāni tryakṣarāṇi japaṃstāni praṇāśayati || viṣṇulokātpare loke sākete śubhaśaṃsini | rājantaṃ rāmacandreti japan bandhādvi mucyate japan bandhād vimucyate || iti prathamopaniṣat ||1||
+parātparataro nikhilaheyapratyanīkaguṇākaro jagadādikāraṇamamitatejorāśirbrahmādi devairapyupāsyaḥ sa śrī bhagavān dāśarathireva prāpyo dāśarathireva prāpyaḥ || iti dvitīyopaniṣat ||2||
+sakalajagatkāraṇabījaṃ bhaktavatsalaḥ sa eva bhagavāṃjñeyaḥ sa eva bhagavāṃjñeyaḥ || iti tṛtīyopaniṣat ||3||
+te ha punarenāmūcuḥ | ṣaṭsvapi mantreṣu katamo mantro garīyān | kamabhimantrya svakaṃ kalyāṇamabhipaśyāmaḥ | tanno brūhi maheśvari || sovācainān | sarva eva mantrāḥ sukhapradāḥ śubhapradāḥ kṣemapradā dhanapradāḥ | ekamakṣaramuccāritaṃ sadājanmabhirarjitāni mahāpātakānyapi vināśayati | tatrāpi | ṣaḍakṣaro mantraḥ sarvotkṛṣṭaḥ | āśuphalapradaḥ | sarvameva vāñchitamabhipūrayati | mokṣārthī mokṣaṃ labhate | svargārthī ca svargam | putrārthī putram | dhanārthī dhanam | vidyārthī vidyām | yadyatkāmayate sarvamagrataḥ sthitamivābhipaśyati | tataḥ sa eva sarvotkṛṣṭaḥ | sa eva śivakāraṇam | sa eva jāpyaḥ || iti caturthaupaniṣat ||4||
+imameva manuṃ pūrvaṃ sāketapatirmāmivocat | ahaṃ hanumate mama priyāya priyatarāya | sarveda vedine brahmaṇe | sa vasiṣṭhāya | sa parāśarāya | sa vyāsāya | sa śukāya | ityeṣopaniṣat ityeṣā brahmavidyā |
+teha praṇamyocuḥ | kṛtakṛtyā vayam | vidittaveditavyāḥ | pūrṇakāmāḥ | saṃśayādviyuktaḥ | tvaṃ hi mātarnūnamasmākaṃ gururasmākaṃ guruḥ || iti pañcamyupaniṣat ||5||
+||iti vālmīki saṃhitā pañcama adhyāya antargata maithilīmahopaniṣad samāptā||
+    </body>
+  </text>
+</TEI>

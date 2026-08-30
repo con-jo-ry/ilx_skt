@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Śivarakṣāstotra</title>
+        <author>Yājñavalyaḥ</author>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%B6%E0%A4%BF%E0%A4%B5%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8B%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+॥ śrīśivarakṣāstotram ॥
+oṃ asya śrīśivarakṣāstotramahāmantrasya yājñavalkyaṛṣiḥ 
+śrī sadāśivo devatā
+anuṣṭup chandaḥ
+śrī sadāśivaprītyarthe śrī śivarakṣāstotrajape viniyogaḥ ॥
+caritaṃ devadevasya mahādevasya pāvanam ।
+apāraṃ paramodāraṃ caturvargasya sādhanam ॥ 1
+gaurīvināyakopetaṃ pañcavaktraṃ trinetrakam ।
+śivaṃ dhyātvā daśabhujaṃ śivarakṣā paṭhennaraḥ ॥ 2
+gaṅgādharaśśiraḥ pātu phālamardhenduśekharaḥ ।
+nayane madanadhvaṃsī karṇau sarpavibhūṣaṇaḥ ॥ 3
+ghrāṇaṃ pātu purārātirmukhaṃ pātu jagatpatiḥ ।
+jihvāṃ vāgīśvaraḥ pātu kandharāṃ śaśikandharaḥ ॥ 4
+śrīkaṇṭhaḥ pātu me kaṇṭhaṃ skandhau viśvadhurandharaḥ ।
+bhujau bhūbhārasaṃhartā karau pātu pinākadhṛt ॥ 5
+hṛdayaṃ śaṅkaraḥ pātu jaṭharaṃ girijāpatiḥ ।
+nābhiṃ mṛtyuñjayaḥ pātu kaṭiṃ vyāghrājināmbaraḥ॥ 6
+sakthinī pātu dīnārtaḥ śaraṇāgatavatsalaḥ।
+ūrū maheśvaraḥ pātu jānunī jagadīśvaraḥ ।। 7
+jaṅghe pātu jagatkartā gulphau pātu gaṇādhipaḥ ।
+caraṇau karuṇāsindhuḥ sarvāṅgāni sadāśivaḥ ।। 8
+etāṃ śivabalopetāṃ rakṣāṃ yassukṛtī paṭhet ।
+sa bhuktvā sakalānkāmān śivasāyujyamāpnuyāt ॥ 9
+grahabhūtapiśācādyāstrailokye vicaranti ye ।
+dūrādāśu palāyante śivanāmābhirakṣaṇāt ॥ 10
+abhayaṅkaranāmedaṃ kavacaṃ pārvatīpateḥ।
+bhaktyā bibharti yaḥ kaṇṭhe tasya vaśyaṃ jagattrayam ॥ 11
+imāṃ nārāyaṇasvapne śivarakṣāṃ yathādiśat ।
+prātarutthāya yogīndro yājñavalkyastathālikhat ।। 12
+॥ iti śrīyājñavalkyaproktaṃ śrīśivarakṣāstotram ॥
+    </body>
+  </text>
+</TEI>

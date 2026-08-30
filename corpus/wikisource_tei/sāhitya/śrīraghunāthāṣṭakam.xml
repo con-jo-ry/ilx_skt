@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Śrīraghunāthāṣṭaka</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%B0%E0%A4%98%E0%A5%81%E0%A4%A8%E0%A4%BE%E0%A4%A5%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%95%E0%A4%AE%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+śrī gaṇeśāya namaḥ |
+śunāsīrādhīśairavanitalajñaptīḍitaguṇaṃ
+prakṛtyā'jaṃ jātaṃ tapanakulacaṇḍāṃśumaparam |
+site vṛddhiṃ tārādhipatimiva yantaṃ nijagṛhe
+sasītaṃ sānandaṃ praṇata raghunāthaṃ suranutam || 1||
+nihantāraṃ śaivaṃ dhanuriva ivekṣuṃ nṛpagaṇe
+pathi jyākṛṣṭena prabalabhṛguvaryasya śamanam |
+vihāraṃ gārhasthyaṃ tadanu bhajamānaṃ suvimalaṃ
+sasītaṃ sānandaṃ praṇata raghunāthaṃ suranutam || 2||
+gurorājñāṃ nītvā vanamanugataṃ dārasahitaṃ
+sasaumitriṃ tyaktvepsitamapi surāṇāṃ nṛpasukham |
+virupādrākṣasyāḥ priyavirahasantāpamanasaṃ
+sasītaṃ sānandaṃ praṇata raghunāthaṃ suranutam || 3||
+virādhaṃ svarnītvā tadanu ca kabandhaṃ suraripuṃ
+gataṃ pampātīre pavanasutasammelanasukham |
+gataṃ kiṣkindhāyāṃ viditaguṇasugrīvasacivaṃ
+sasītaṃ sānandaṃ praṇata raghunāthaṃ suranutam || 4||
+priyāprekṣotkaṇṭhaṃ jalanidhigataṃ vānarayutaṃ
+jale setuṃ baddhvā'surakula nihantāramanagham |
+viśuddhāmardhāṅgīṃ hutabhuji samīkṣantamacalaṃ
+sasītaṃ sānandaṃ praṇata raghunāthaṃ suranutam || 5||
+vimānaṃ cāruhyā'nujajanakajāsevitapada
+mayodhyāyāṃ gatvā nṛpapadamavāptāramajaram |
+suyajñaistṛptāraṃ nijamukhasurān śāntamanasaṃ
+sasītaṃ sānandaṃ praṇata raghunāthaṃ suranutam || 6||
+prajāṃ saṃsthātāraṃ vihitanijadharme śrutipathaṃ
+sadācāraṃ vedoditamapi ca kartāramakhilam |
+nṛṣu premodrekaṃ nikhilamanujānāṃ hitakaraṃ
+satītaṃ sānandaṃ praṇata raghunāthaṃ suranutam || 7||
+tamaḥ kīrtyāśeṣāḥ śravaṇagadanābhyāṃ dvijamukhāstariṣyanti
+jñātvā jagati khalu gantāramajanam ||
+atastāṃ saṃsthāpya svapuramanunetāramakhilaṃ
+sasītaṃ sānandaṃ praṇata raghunāthaṃ suranutam || 8||
+raghunāthāṣṭakaṃ hṛdyaṃ raghunāthena nirmitam |
+paṭhatāṃ pāparāśighnaṃ bhuktimuktipradāyakam || 9||
+|| iti paṇḍita śrīśivadattamiśraśāstri viracitaṃ śrīraghunāthāṣṭakaṃ sampūrṇam ||
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Atharvaśikhaupaniṣad</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%85%E0%A4%A5%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%B6%E0%A4%BF%E0%A4%96%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A6%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+oṅkārārthatayā bhātaṃ turyoṅkārāgrabhāsuram |
+turyaturyaṃtripādrāmaṃ svamātraṃ kalaye'nvaham ||
+oṃ bhadraṃ karṇebhiḥ śṛṇuyāma devāḥ | bhadraṃ paśyemākṣabhiryajatrāḥ |
+sthirairaṅgaistuṣṭuvāsastanūbhirvyaśema devahitaṃ yadāyuḥ |
+svasti na indro vṛddhaśravāḥ | svasti naḥ pūṣā viśvavedāḥ |
+svasti nastārkṣyo ariṣṭanemiḥ | svasti no bṛhaspatirdadhātu ||
+oṃ śāntiḥ śāntiḥ śāntiḥ ||
+oṃ atha hainaṃ paippalādo'ṅgirāḥ sanatkumāraścātharvaṇamuvāca bhagavankimādau prayuktaṃ dhyānaṃ dhyāyitavyaṃ kiṃ taddhyānaṃ ko vā dhyātā kaśca dhyeyaḥ |
+sa ebhyotharvā pratyuvāca |
+omityetadakṣaramādau prayuktaṃ dhyānaṃ dhyāyitavyamityetadakṣaraṃ paraṃ brahmāsya pādāścatvāro vedāścatuṣpādidamakṣaraṃ paraṃ brahma |
+pūrvāsya mātrā pṛthivyakāraḥ ṛgbhirṛgvedo brahmā vasavo gāyatrī gārhapatyaḥ |
+dvitīyāntarikṣaṃ sa ukāraḥ sa yajubhiryajurvedo viṣṇurudrāstriṣṭubdakṣiṇāgniḥ |
+tṛtīyaḥ dyauḥ sa makāraḥ sa sāmabhiḥ sāmavedo rudrā ādityā jagatyāhavanīyaḥ |
+yāvasāne'sya caturthyardhamātrā sā somaloka oṅkāraḥ sātharvaṇamantrairatharvavedaḥ saṃvartako'gnirmaruto virāḍekarṣirbhāsvatī smṛtā |
+prathamā raktapītā mahadbrahma daivatyā |
+dvitīyā vidyumatī kṛṣṇā viṣṇudaivatyā |
+tṛtīyā śubhāśubhā śuklā rudradaivatyā |
+yāvāsāne'sya caturthyardhamātrā sā vidyumatī sarvavarṇā puruṣadaivatyā |
+sa eṣa hyoṅkāraścaturakṣaraścatuṣpādaścatuḥśiraścaturthamātraḥ sthūlametad_hrasvadīrghapluta iti ||
+oṃ oṃ oṃ iti triruktvā caturthaḥ śānta ātmāplutapraṇavaprayogeṇa samastamomiti prayukta ātmajyotiḥ sakṛdāvartate sakṛduccāritamātraḥ sa eṣa ūrdhvamannamayatītyoṅkāraḥ |
+prāṇānsarvānpralīyata iti pralayaḥ |
+prāṇānsarvānparamātmani praṇānayatītyetasmātpraṇavaḥ |
+caturthāvasthita iti sarvadevavedayoniḥ sarvavācyavastu praṇavātmakam || 1||
+devāśceti saṃdhattāṃ sarvebhyo duḥkhabhayebhyaḥ saṃtārayatīti tāraṇāttāraḥ | sarve devāḥ saṃviśantīti viṣṇuḥ | sarvāṇi bṛhayatīti brahmā | sarvebhyo'ntasthānebhyo dhyeyebhyaḥ pradīpavatprakāśayatīti prakāśaḥ | prakāśebhyaḥ sadomityantaḥ śarīre vidyudvaddyotayati muhurmuhuriti vidyudvatpratīyāddiśaṃ diśaṃ bhittvā sarvāṃllokānvyāpnoti vyāpayatīti vyāpanādvyāpī mahādevaḥ || 2||
+pūrvāsya mātrā jāgarti jāgaritaṃ dvitīyā svapnaṃ tṛtīyā suṣuptiścaturthī turīyaṃ mātrā mātrāḥ pratimātrāgatāḥ samyaksamastānapi pādāñjayatīti svayaṃprakāśaḥ svayaṃ brahma bhavatītyeṣa siddhikara etasmāddhyānādau prayujyate | sarva karaṇopasaṃhāratvāddhāryadhāraṇādbrahma turīyam | sarvakaraṇāni manasi saṃpratiṣṭhāpya dhyānaṃ viṣṇuḥ prāṇaṃ manasi saha karaṇaiḥ saṃpratiṣṭhāpya dhyātā rudraḥ prāṇaṃ manasi sahakaraṇairnādānte paramātmani saṃpratiṣṭhāpya dhyāyīteśānaṃ pradhyāyitavyaṃ sarvamidaṃ brahmaviṣṇurudrendrāste saṃprasūyante sarvāṇi cendriyāṇi saha bhūtairna kāraṇaṃ kāraṇānāṃ dhyātā kāraṇaṃ tu dhyeyaḥ sarvaiśvaryasaṃpannaḥ śaṃbhurākāśamadhye dhruvaṃ stabdhvādhikaṃ kṣaṇamekaṃ kratuśatasyāpi catuḥsaptatyā yatphalaṃ tadavāpnoti kṛtsnamoṅkāragatiṃ ca sarvadhyānayogajñānānāṃ yatphalamoṅkāro veda para īśo vā śiva eko dhyeyaḥ śivaṃkaraḥ sarvamanyatparityajya samastātharvaśikhaitāmadhītya dvijo garbhavāsādvimukto vimucyata etāmadhītya dvijo garbhavāsādvimukto vimucyata ityosatyamityupaniṣat || 3||
+oṃ bhadraṃ karṇebhiriti śāntiḥ ||
+|| iti atharvavedīya atharvaśikhopaniṣatsamāptā ||
+    </body>
+  </text>
+</TEI>

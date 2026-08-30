@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Śrīgāyatrīśāpavimocana</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%97%E0%A4%BE%E0%A4%AF%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%B6%E0%A4%BE%E0%A4%AA%E0%A4%B5%E0%A4%BF%E0%A4%AE%E0%A5%8B%E0%A4%9A%E0%A4%A8%E0%A4%AE%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+|| śrī gāyatrī śāpa vimocanam || śāpa muktā hi gāyatrī caturvarga phala pradā | aśāpa muktā gāyatrī caturvarga phalāntakā ||
+oṃ asya śrī gāytrī | brahmaśāpa vimocana mantrasya | brahmā ṛṣiḥ | gāyatrī chandaḥ | bhukti muktipradā brahmaśāpa vimocanī gāyatrī śaktiḥ devatā | brahma śāpa vimocanārthe jape viniyogaḥ ||
+oṃ gāyatrī brahmetyupāsīta yadrūpaṃ brahmavido viduḥ | tāṃ paśyanti dhīrāḥ sumanasāṃ vācagrataḥ | oṃ vedānta nāthāya vidmahe hiraṇyagarbhāya dhīmahī | tanno brahma pracodayāt | oṃ gāyatrī tvaṃ brahma śāpat vimuktā bhava ||
+oṃ asya śrī vasiṣṭa śāpa vimocana mantrasya nigraha anugraha kartā vasiṣṭa ṛṣi | viśvodbhava gāyatrī chandaḥ | vasiṣṭa anugrahitā gāyatrī śaktiḥ devatā | vasiṣṭa śāpa vimocanārthe jape viniyogaḥ ||
+oṃ sohaṃ arkamayaṃ jyotirahaṃ śiva ātma jyotirahaṃ śukraḥ sarva jyotirasaḥ asmyahaṃ | (iti yuktva yoni mudrāṃ pradarśya gāyatrī trayaṃ paditva )| oṃ devī gāyatrī tvaṃ vasiṣṭa śāpat vimukto bhava ||
+oṃ asya śrī viśvāmitra śāpa vimocana mantrasya nūtana sṛṣṭi kartā viśvāmitra ṛṣi | vāgdehā gāyatrī chandaḥ | viśvāmitra anugrahitā gāyatrī śaktiḥ devatā | viśvāmitra śāpa vimocanārthe jape viniyogaḥ ||
+oṃ gāyatrī bhajāṃyagni mukhīṃ viśvagarbhāṃ yadudbhavāḥ devāścakrire viśvasṛṣṭiṃ tāṃ kalyāṇīṃ iṣṭakarīṃ prapadye | yanmukhānnisṛto akhilaveda garbhaḥ | śāpa yuktā tu gāyatrī saphalā na kadācana | śāpat uttarīta sā tu mukti bhukti phala pradā ||
+prārthanā ||
+brahmarūpiṇī gāyatrī divye sandhye sarasvatī | ajare amare caiva brahmayone namo'stute | brahma śāpat vimuktā bhava | vasiṣṭa śāpat vimuktā bhava | viśvāmitra śāpat vimuktā bhava ||
+    </body>
+  </text>
+</TEI>

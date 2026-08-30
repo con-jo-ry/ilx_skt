@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Veṅkaṭeśastotra</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%B5%E0%A5%87%E0%A4%99%E0%A5%8D%E0%A4%95%E0%A4%9F%E0%A5%87%E0%A4%B6%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8B%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+kamalākucacūcuka kuṅkumato niyatāruṇitātulanīlatano ।
+kamalāyatalocana lokapate vijayī bhava veṅkaṭaśailapate ॥ 1॥
+
+sacaturmukhaṣaṇmukhapaṃcamukhapramukhākhiladaivatamaulimaṇe ।
+śaraṇāgatavatsala sāranidhe paripālaya māṃ vṛṣaśailapate ॥ 2॥
+
+ativelatayā tava durviṣahai ranuvelakṛtairaparādhaśatai।
+bharitaṃ tvaritaṃ vṛṣaśailapate parayā kṛpayā paripāhi hare ॥ 3॥
+
+adhiveṅkaṭaśailamudāramatejanatābhimatādhikadānaratāt ।
+paradevatayā gaditānnigamaiḥ kamalādayitānna paraṃ kalaye ॥ 4॥
+
+kalaveṇuravāvaśagopavadhū śatakoṭivṛtātsmarakoṭisamāt ।
+pratipallavikābhimatātsukhadāt vasudevasutānna paraṃ kalaye ॥ 5॥
+
+abhirāmaguṇākara dāśarathe jagadekadhanurdhara dhīramate ।
+raghunāyaka rāma rameśa vibho varado bhava deva dayājaladhe ॥ 6॥
+
+avanītanayākamanīyakaraṃ rajanīkaracārumukhāmburuham ।
+rajanīcararājatamomihiraṃ mahanīyamahaṃ raghurāmamaye ॥ 7॥
+
+sumukhaṃ suhṛdaṃ sulabhaṃ sukhadaṃ svanujaṃ ca sukāyamamoghaśaram ।
+apahāya raghūdvahamanyamahaṃ na kathañcana kañcana jātu bhaje ॥ 8॥
+
+vinā veṅkaṭeśaṃ na nātho na nāthaḥ sadā veṅkaṭeśaṃ smarāmi smarāmi ।
+hare veṅkaṭeśa !prasīda prasīda priyaṃ veṅkaṭeśa prayaccha prayaccha ॥ 9॥
+
+ahaṃ dūrataste padāmbhojayugmapraṇāmecchayā''gatya sevāṃ karomi ।
+sakṛtsevayā nityasevāphalaṃ tvaṃ prayaccha prayaccha prabho veṅkaṭeśa ॥ 10॥
+
+ajñāninā mayā doṣānaśeṣān vihitān hare ।
+kṣamasva tvaṃ kṣamasva tvaṃ śeṣaśailaśikhāmaṇe ॥ 11॥
+
+॥ iti śrī veṅkaṭeśa stotram sampūrṇam ॥
+    </body>
+  </text>
+</TEI>

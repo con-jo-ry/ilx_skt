@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Śrīsiddhivināyakanāmāvali</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%B8%E0%A4%BF%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%BF%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BE%E0%A4%AF%E0%A4%95%E0%A4%A8%E0%A4%BE%E0%A4%AE%E0%A4%BE%E0%A4%B5%E0%A4%B2%E0%A4%BF%E0%A4%83"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+oṃ vināyakāya namaḥ| vighnarājāya namaḥ| gaurīputrāya namaḥ| gaṇeśvarāya namaḥ| skandāgrajāya namaḥ| avyayāya namaḥ| pūtāya namaḥ| dakṣādhyakṣyāya namaḥ| dvijapriyāya namaḥ| agnigarbhacchide namaḥ| iṃdraśrīpradāya namaḥ| vāṇībalapradāya namaḥ| sarvasiddhipradāyakāya namaḥ| śarvatanayāya namaḥ| gaurītanūjāya namaḥ| śarvarīpriyāya namaḥ| sarvātmakāya namaḥ| sṛṣṭikartre namaḥ| devānīkārcitāya namaḥ| śivāya namaḥ| śuddhāya namaḥ| buddhipriyāya namaḥ| śāṃtāya namaḥ| brahmacāriṇe namaḥ| gajānanāya namaḥ| dvaimāturāya namaḥ| munistutyāya namaḥ| bhakta vighna vināśanāya namaḥ| ekadaṃtāya namaḥ| caturbāhave namaḥ| śaktisaṃyutāya namaḥ| caturāya namaḥ| laṃbodarāya namaḥ| śūrpakarṇāya namaḥ| heraṃbāya namaḥ| brahmavittamāya namaḥ| kālāya namaḥ| grahapataye namaḥ| kāmine namaḥ| somasūryāgnilocanāya namaḥ| pāśāṃkuśadharāya namaḥ| chandāya namaḥ| guṇātītāya namaḥ| niraṃjanāya namaḥ| akalmaṣāya namaḥ| svayaṃsiddhārcitapadāya namaḥ| bījāpūrakarāya namaḥ| avyaktāya namaḥ| gadine namaḥ| varadāya namaḥ| śāśvatāya namaḥ| kṛtine namaḥ| vidvatpriyāya namaḥ| vītabhayāya namaḥ| cakriṇe namaḥ| ikṣucāpadhṛte namaḥ| abjotpalakarāya namaḥ| śrīdhāya namaḥ| śrīhetave namaḥ| stutiharṣatāya namaḥ| kalādbhṛte namaḥ| jaṭine namaḥ| candracūḍāya namaḥ| amareśvarāya namaḥ| nāgayajñopavītine namaḥ| śrīkāṃtāya namaḥ| rāmārcitapadāya namaḥ| vṛtine namaḥ| sthūlakāṃtāya namaḥ| trayīkartre namaḥ| saṃghoṣapriyāya namaḥ| puruṣottamāya namaḥ| sthūlatuṇḍāya namaḥ| agrajanyāya namaḥ| grāmaṇye namaḥ| gaṇapāya namaḥ| sthirāya namaḥ| vṛddhidāya namaḥ| subhagāya namaḥ| śūrāya namaḥ| vāgīśāya namaḥ| siddhidāya namaḥ| dūrvābilvapriyāya namaḥ| kāntāya namaḥ| pāpahāriṇe namaḥ| kṛtāgamāya namaḥ| samāhitāya namaḥ| vakratuṇḍāya namaḥ| śrīpradāya namaḥ| saumyāya namaḥ| bhaktākāṃkṣitadāya namaḥ| acyutāya namaḥ| kevalāya namaḥ| siddhāya namaḥ| saccidānaṃdavigrahāya namaḥ| jñānine namaḥ| māyāyuktāya namaḥ| dantāya namaḥ| brahmiṣṭhāya namaḥ| bhayāvarcitāya namaḥ| pramattadaityabhayadāya namaḥ| vyaktamūrtaye namaḥ| amūrtaye namaḥ| pārvatīśaṃkarotsaṃgakhelanotsavalālanāya namaḥ| samastajagadādhārāya namaḥ| varamūṣakavāhanāya namaḥ| hṛṣṭastutāya namaḥ| prasannātmane namaḥ| sarvasiddhipradāyakāya namaḥ| ||iti śrīsiddhivināyakāṣṭottaraśatanāmāvaliḥ||
+    </body>
+  </text>
+</TEI>

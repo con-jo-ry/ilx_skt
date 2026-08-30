@@ -1,0 +1,2180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Padakārikaratnamālā</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%AA%E0%A4%A6%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%BF%E0%A4%95%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+padakārikaratnamālā
+śrīśaṅkarācāryaviracitā śrīkāntaṃ sitarucirājitottamāṅgaṃ gaurīśaṃ gurupadamambujālayaṃ ca |
+sannatvā sulalitalakṣaṇaṃ padānāmācāryaiḥ prakaṭitameva vācayāmaḥ
+padānāmāvaliṃ vela visargāṇāṃ nirīkṣaṇam
+nāntānāṃ vakṣyate lakṣmanikṣipyaikākṣare kṣayam
+vihīnā ṛ lṛ varṇābhyāṃ na vā yaḥ svarāḥ
+daśamaṃ nindunā jñeyaṃ visargādviṃśatirbhavet
+tridaśāṅko kuṅkuśaḥ pārśvā ukāraścobhayāṅkuchāḥ
+āsannasridaśaṃ lakṣma yatra kvacidiha sphuṭam
+padānāṃ lakṣaṇaṃ proktaṃ velānāṃ tadanantaram
+vārgāṇāṃ pañcamārvāṇāṃ pañcapañcordhvarephayā
+daśobhayāṅkuśaṃ lakṣma vede vājasaneyake
+vārgāntaśakṣaraiḥ pañcavisargāṇāṃ nirīkṣaṇam
+anyo rephastathā pañca dvipañceṣu śukastathā
+savelasanisargāṅko vārgāṇāṃ ca halaṃ kramāt
+savisargāstathāmbhasthā hakāreṇāptalakṣaṇam
+avelāstadvaddṛṣṭvāṇo lastasthaiva hanaṃ kramāt
+nāntānāṃnai tvadhoyuktaṃ vargāṇāṃ ca halaḥkramāt
+ūṣmāṇaṃ ca tathāntastharephavarjaṃ yathākramam
+pañcānāṃ ca dvipakṣī ca śukī pāri śvatīti yat
+gaṇāntānāṃ nijaṃ pūrṇaṃ saptānāṃ padalakṣaṇam
+sarvaśāstravicārajñaḥ sadācāra samāgamaḥ
+tapassamādhinirato gurudhyānasamanvitaḥ
+sarvavedārthatatvajño bhānukoṭisamadyutiḥ
+sarvāgamavivekajñaḥ sarvamantrādhipaḥ śuciḥ
+śaṅkarācāryanāmāhaṃ ratnamālāca vakṣyate
+umāyukto viśvanāthaścaraṇadvayavanditaḥ
+brāhmāṇaṃ bhāskaraṃ vyāsaṃ śrīkāntaṃ ca jaṭhātprabhum
+yajurvedamahākalpatarorekaśatairyutāḥ
+śākhārūtatraśiravākārāḥ prathamā kāṇvasaṃjñikā
+puṇyaṃ pavitraṃ pūtantu sarvamantrasamāgamam
+yajuṣāṃ caiva sarveṣāṃ tanhreṣṭasamamuttamam
+padānāṃ kārikāṃ caiva ratnamālāṃ ca saudvakām
+yaśākhāsu yathoktaṃ tu yathākṛtam
+tathā śrutya nusāreṇa vakṣye haṃ ratnamālikām
+padānāṃ caiva veṣṭānāṃ visargāṇāṃ tathaiva ca
+yathākramastu nāntānāṃ vakṣye'haṃ gaṇyate tathā
+iṣe tveti samantrasya padāstrayodaśaiva ca
+veṣṭanaṃ caikameva syādvisargāstu trayo bhavet
+āpyāyadhvaṃ caturdabhyāṃ dvau vṛta saptavisarjanāḥ
+dhruṣā hyasminnekādaśīmekavṛtrirvisrujvinān
+daśadaurasi vṛtryaikaṃ visargāścaturo bhavet
+pañcadaśī nduhasva mavṛtrayo ścaturo visruk
+devastvādaśā vṛṭṭvau ca tri sargaḥ pare kramāt
+devastvādaśā vṛṭṭvau ca tri sargaḥ pare kramāt
+devastvādaśā vṛṭṭvau ca tri sargaḥ pare kramāt
+trayo daśaite sāviśvā vṛccatasro visṛgvayam
+pañcadaśāgne vratapate vṛtaṃ caika veṣṭanam
+kastvā yunakti daśamīṃ visargau dvau pade yathā
+pratyuṣṭaṃ rakṣo dvādaśyāṃ catasro'ṣṭau visarjanāḥ
+saptapadāstu devānāṃ saptavṛtrirvisarjanāḥ
+saptadaśyāṃ tu viṣṇustvā trayovṛtpañcavisrutāḥ
+agnaye juṣṭaṃ dvādaśyāṃ vṛdekaṃ caikaṃ visrutam
+dṛm̐ hantā vaṣṭṛduryyā pyolaśīṃ caikaṃ vṛttirvisarjanāḥ
+pavitre stho dvādaśāṃ ca vṛtryaścaturo visruk
+devīrāpo dvādaśī syātpañcavṛccaturo visruk
+yuṣmāṃ indro viṃśatistu trayovṛttirvisarjanāḥ
+daivyāya karma dvādaśyāṃ prāṭvayośca trayastathā
+śarmāsīti trayodaśyāṃ dvānayāṃ pañca visruk tataḥ
+ekādaśyāmadri rasi prācaikaṃ caturastathā
+agne stanurasyaṣṭau syādveṣṭanau dvau trayo bhavan
+caturdaśāṃ bṛhad grāvā catasraścaturaikanān
+kukaku si daśa dvau vṛd dvau visargau tataḥ param
+varṣavṛddhaṃ daśamyāṃ tu catvāri vṛtrayo visruk
+apahataṃ caturdaśyāṃ vṛṭvayaṃ ṣaṣṭhamucyate
+dhṛṣṭi trayodaśāṃ caiva trayo vṛddvau nisarjanau
+dhruvamasīti dvādaśyām̐ triṣaścaiko visarjanaḥ
+agne brahmannavapadā viśvābhyastvā caturdaśīm
+ekaṃ pañca cadhiṣaṇāṣṭādaśau dvau visarjanau
+dhānyamekādaśī dvau vṛnnāntamekaṃ yathoditam
+prāṇāyantvā caturdaśyāṃ vṛttrayastaikameva ca
+vedo sīticaturdaśyāṃ visargā mastathā
+saṃvapāmi navadaśa dvau vacca sapta visrutāḥ
+idamagneśca ṣolaśyāṃ ūtrayaḥ ṣaḍvisarjanāḥ
+ṣolaśyagniṣṭetvacaṃ tu vṛddvayaṃ saptamā bhavan
+mā bhe pañcadaśaikaṃ vṛṭvisargaḥ pañcamastathā
+pañcadaśādadedhvaraścaturviśva visrutāḥ
+pṛthivyai varmadaśasu ṣṛdekaṃ caikameva ca
+caturviṃśo vrajaṃ gaccha vṛṭvau ṣaḍvekanādbhavet
+apāruruṃ caturdaśyāṃ dvau prāṭvau visrugokanān
+yatreṇatvāṣṭaviṃśo veṣṭanau ṭvau prakīrtitau
+aṣṭādaṃśa purā kūraḥ pañcamaṃ pañcanān dvayoḥ
+aniśitosiṣolaśyāṃ ṣaḍvṛccaikaṃ ca visrutam
+pañca daśādityairāsnā pṛdekaṃ dvayamucyate
+agne rjuhvāṭvādaśām̐ ca trivṛt ṣaṭ ca visrugyathā
+ekādaśyāṃ tu tejosītyekaṃ caikameva tat
+yaste prāṇo viṃśatistu pañcamaṃ ca trinān bhavet
+iti śrīśaṅkarācāryakṛtau vājasaneyasaṃhitāyāṃ padakārikāratvamālāyāṃ
+prathamo'dhyāyaḥ samāptaḥ
+atha dvitīyo'dhyāyaḥ
+dvāviṃśatistu kṛṣṇosi vṛṭvau pañcavisarjanāḥ
+adityai vyuddhaikādaśyāndri veṣṭaśca trayastathā
+bhūpataye tu trayodaśyāṃ trayo vṛṭṭvayamucyate
+yajamānasya saptadaśyekaṃ vṛt saptavisrutāḥ
+vītihotraṃtvānavabhirdvayorveṣṭanayostathā
+samidasītida dvādaśyāṃ vṛttāyaśca catasrakaḥ
+ūrṇāmradasyaikādaśyāṃ dvau vṛt catvāra eva ca
+ghṛtācyasyaṣṭā daśastu caikaṃ vṛccaikameva tu
+caturdaśāṃ dhruvā asadan trivṛdekaṃ ca nāntakam
+pañcadaśyagne vā jajiścāsraṃ trivisarjanaḥ
+dvādaśyāskanna madyājyaṃ tathaikaṃ caikato bhavet
+vasumatīṃ saptadaśaścaikaṃ vṛt pañcamastathā
+agne ve rekādaśa cādvā bhyamṛdvamassya ca
+sviṣṭakṛddevodabhireka visarjanaḥ
+atra pitare kādaśyāṃ triṣu vṛcca dvayaṃ visruk
+upa hūtā caikādaśyā mekaṃ caikaṃ visarjanam
+ekādaśopahūtastu śṛdekaṃ ca triṣukramāt
+caturviṃśamayīdaṃtu ṣaḍ vṛt saptaikanāntakam
+deva savitaretaṃtvā dvādaśyekaṃ visarjanam
+manogāyatramodaśyāṃ ṣaḍvṛt catvāra eva ca
+bṛhaspatiḥ pañcadaśīṃ tathaikaṃ vṛt ca saptamam
+mitrasya tvācakṣuṣā ca saptabhistu padaiḥ pṛthak
+ādade gne ṣoḍaśī tu caikaṃ vṛt ṣaḍvisarjanam
+svāhākṛtaṃ trayodaśyāmekaṃ vṛt dvau visarjanau
+indra sya tvāṃ naikaṃ vṛt dvau visargau dvināntakau
+prāṇāpānau me viṃśatirvisargādvayamekanān
+eṣā te agne samintayā ṣoḍaśaikam̐ vṛṭucyate
+saptadaśe tatre devavṛdeka dvau visarjanau
+mano jyotirviṃśatistu cātvāri ca visarjanāḥ
+agnī ṣomayoṣṭāviṃśattyajjatasraśca keṣakanān
+vasubhyastvācaikādaśīn dvau vṛtriṣu vissruṣu
+vyantu saptadaśīṃ ṣaḍbhirvisarjanāyakaiḥ
+dvādaśabhiścakṣuṣpā asivṛccatasraḥ ṣalatratu
+tantaye tantuṣoḍaśyāmekaṃ tisro visarjanāḥ
+sam̐ sravabhāgāṣṭaviṃśaṣaḍbhovṛdaṣṭamaikanām
+aṣṭādaśāgne daṣṭyāyoḥ pañcabruk caturo visruk
+pañcādaśāgnaye saṃve trayaścaivaikavisruta
+utpuruṣaḥ pañcaviṃśastu ṣaḍvāṣṭau caikanān bhavet
+devāgātuścaturdaśyāmekaṃ catvāri visrutāḥ
+varahinavadaśastrayassapta ca visrutāḥ
+kastvā vimuñcaikādaśyāṃ ndri bhirvisrugnireva ca
+veṣo ssyupadvādaśī ca dvisruk catvāriścakanān
+dvādaśīruddhāḥ karmāṇyāścaturo vṛtribhirdvayoḥ
+saṃvarcasānavadaśau dvau veṣṭau ccatusro visruk
+tathā trayajñaśaṃ ca pañcadaśyekaveṣṭānam
+divi viṣṇarnavadaśo dvivṛt ṣaṭ caikanān bhavet
+asmādatāṃ ca navabhistathā dvau vṛd dvayo visruk
+svayamamracaturdaśyāṃ vṛttrayaṃ ṣaṭ ca visrutāḥ
+dvādaśyāgne gṛhapate pañca vṛttrivisargakaḥ
+astūriṇoḥ ṣoḍaśītu dvevṛttriḥ srugbhya eva ca
+uruviṣṇo caturdaśyāṃ catasraścaikavisrukaḥ
+tato'si pañcadaśyāṃ tu vṛdekadvau trināntakam
+caturviṃśatiridaṃ mekarmaṃ dvayostribhirvisruk
+daśāgnaye kavyavāhaścatvāri tisṛbhistataḥ
+ye rūpāṇi saptadaśyāṃ tisraḥ ṣaṭcatathaikakam
+trayoviṃśatirnamovo visargaikādaśaikanān
+udāyuṃṣādaśadvau vṛdekovisarga ekanān
+daśadvau dhantapitaro vṛdekaṃ ca dvayo visruk
+ūrjaṃ vahantīrdvā daśyāmeko vṛttribhirekanān
+iti śrīśaṅkarācāryakṛtau vājasaneyasaṃhitāyāṃ padakārikā ratnamālāyāṃ
+dvitīyo'dhyāyaḥ samāptaḥ
+atha tṛtīyo dhyāyaḥ
+samidhāgniṃ daśaikaṃ vṛdekaṃ visargamekanā
+susamiddhāya śociṣe padāssaptaśabda ddvayoḥ
+tantvā samidbhirnavabhirvṛdekaṃ dvayamatra tu
+upatvāgne havirdaśā caikaṃ vṛttriṣu visruṣu
+bhūrbhuvaḥ svaḥ saptadaśī pañcavṛt ṣaṭ ca visrutāḥ
+āyaṃgaurdvādaśī dvau vṛt catvāryekaṃ ca nāntakam
+daśabhirantaścarati dvayorvṛddvayamandra tu
+triṃśaddhāmaikādaśa tu vṛdekaṃ tu dvayoḥ punaḥ
+caturdaśāgni jyotiṣaṃ ca vṛt ṣaṭ tvamevaca
+sūryajyotiścaturdaśyāṃ pañca vṛt ṣaṭ ca mucyate
+sajūrdevena daśatu tisraścatvāra eva ca
+tathā daśa sajūrdevastriścatasro yathoditam
+iha puṣṭiṃ saptadaśyāṃ tathāṣṭau vṛddvayaṃ tathā
+anamitraṃ me adharāktrayodaśyeka visrutaḥ
+indraḥ paścātpañcadaśāṃ visargāḥ pañcacaikanān
+daśabhiḥ samidassyoti trayāṇāṃ vṛtamekakam
+upaprayanto nanabhirdvayorvṛttośca caikakam
+agnirmūrdhā ca daśabhiścaturbhistu visarjanaiḥ
+ubhāvāṃ saptadaśyāṃ tu dvayorvṛccaikavisrukaḥ
+ayaṃ te yoniḥ ṣolaśyāṃ visargaiḥ ṣaḍbhirekanam
+saptadaśyāmayamiha catvāri vṛcca saptabhiḥ
+asya pratnā ca daśabhirekaṃ vṛddhau visarjane
+tanūpāgne ṣṭādaśastrivṛtsapta ca visrugāḥ
+ṣolaśyagneye nmetanvā caikaṃ vṛttibhireva ca
+vayasvantau vayaścāṣṭau tribhiḥ pañcavisruk tathā
+citrāvaso trayodaśyāmekaṃ vṛccaikavisrutāḥ
+saṃpriyeṇa navadaśaścaikaṃ vṛtsaptamo bhavet
+navadaśorjasthorjaṃ vaścaikaṃ sapta tathaikanam
+ihaiva ste pañcadaśī dvayorvṛccaikamavyathā
+upatvāgne ccaikādaśyāṃ dvayostisṛṣu cakramāt
+rājantamadhvarāṇāṃ ca tathāṣṭau ca padāḥ kṛtāḥ
+sanaḥ pite va daśa dvābhyāṃ catvāri visrutāḥ
+agne tvaṃ naḥsaptadaśyāṃ dvābhyāṃ cāṣṭabhiratra tu
+tantvāśociḥ saptadaśī trayañca ṣaṭca visrutāḥ
+ilaye hyekādaśa tu tathaikavisrugāḥ
+somānaṃ svaraṇoṣṭabhyastrayaścaiva visarjanāḥ
+yorevānyaścaikādaśyāṃ catvāri sapta caikanān
+ekādaśyāmamānaśśām̐ saḥ ṣaḍbhirvisarjanīmakaiḥ
+mahitrīṇāṃ ca navabhirekaṃ vṛttrayaṃ tataḥ
+nahi teṣāṃ mā daśadvau vṛd dvau yorathantaram
+te hi putrā so daśabhistrayaścaiva visarjanāḥ
+kadācano navadaśo dvābhyāṃ dvāvekamiṣyate
+tatsaviturdaśaivasyādekaṃ vṛtpañca visrugāḥ
+parite ṣṭādaśāstribhyaḥ ṣaḍvisargāstu caikanān
+bhūrbhuvaḥ svastu daśabhiḥ pañcavṛccāṣṭa dṛśyate
+naryaprajāṃ trayo daśyaṃ trayo veṣṭaika nāntakam
+agne samrāṭ caturdaśyāṃ pañcabhiḥ pañcacaikakam
+saptadaśyagne gṛhapataikaṃ vṛccattribhistataḥ
+ūrjaṃ vibhradvaḥ ṣolaśyāṃ catvāriṣaṭsu ca dvayoḥ
+grahānupadvādaśāṃ tu dvābhyāṃ ṣaḍbhistu caikakam
+pañcadaśābhonnasya caturaḥ ṣaṭ tathaiva ca
+praghāsina saptabhistu dvābhyāṃ caturbhirvisrutaiḥ
+yadgrāme yattrayodaśyāṃ visargaścaikamucyate
+dvāviṃśatirmoṣūṇastu trayoṣṭāvekamucyate
+akan karma trayodaśyāṃ tribhyaścatvāricaikakam
+avabhṛthā saptadaśyāṃ saptavṛt ṣaḍbhireva ca
+pūrṇā darvī caturdaśyāṃ tisraścaikaṃ prapadyate
+dehi me navadaśabhirdvayorveṣṭanayoratha
+ṣolaśyannamīmadadvābhyāṃ catvāri caikakam
+susandṛśaṃ saptadaśī catvāri dvau dvayostathā
+manonvā huvā nava ca vṛccaikaṃ dvau ca visrutau
+ānaye tu dvādaśai tuṃ tathaikaṃ tribhirvisrutaiḥ
+daśapunarnaḥ pitaro visargāḥ ṣaṭ tataḥ param
+varyasomavṛte tavanava caikaṃ vṛttriṣu visruṣu
+saptadaśye ṣate rudra ṣaḍvisargasamanvitam
+saptadaśyavarudraṃ ca dvābhyāṃ dvābhyāṃ ca pañcamaḥ
+daśabhirbheṣajamasi veṣṭanaścaikato bhavet
+triyambakaṃ caika catasro dvau cavisrugau
+etena rudra ṣolaśyāṃ catvāri saptacaikatā
+vājināṃ vā nava daśo dvābhyāṃ vṛt pañcacaikatā
+vā jyahaṃ vājinavabhirdvayaṃ veṣṭaitameva ca
+navaḥ savitrā prasūtāneṣṭanau dvau trayastataḥ
+kaśyapasyetyekādaśyāṃ pañcabhiścaikameva ca
+enadhā tā trayodaśyāṃ visargaṃ caikamucyate
+dīrghāyutvāyadaśabhistriśyo vṛd dvau visarjanau
+iti śaṅkarācaryakṛtau vājasaneyasaṃhitāyāṃ padakārikāratnamālāyāṃ tṛtīyo'dhyāyaḥ
+atha caturtho'dhyāyaḥ
+saptadaśyedamaganma catvāri ṣaṭ ca visrutāḥ
+imā āpaikaviṃśaḥ syāttisṛṣvaṣṭau tathaikakam
+viśvam̐ hi caturviṃśatiścaikaṃ ṣaḍbhistu caikanā
+mahīnāṃ payaḥpaṣolaśyāṃ dvābhyāṃ sapta ca visrutāḥ
+dvāviṃśati citpatirmāṣaḍbhyāṃ pañcabhya āharet
+trayo daśyā vo devā so dvau ṣaḍhiḥ sarva eva tu
+svāhā yajñaṃ manasaśca navapadā dvau visrugau
+trayo viṃśatyā kūtyai tu catvāri vṛccatasrukaḥ
+viśvo deva trayodaśyāṃ visargāścaturastathā
+ṛksāmayoścaturdaśyāṃ pañcabhyo visṛtāstrayaḥ
+śarmāsi śarmāṣṭadaśaścaikaṃ vṛtriśca eva ca
+somasya nīviścaturdaśyā traikaṃ pañcamī tathā
+ucchrayasva caikādaśyāṃ ekaṃ tisro visarjanāḥ
+daśabhyo nṛtaṃ kṛṇutau pañcabhiśca visargakaiḥ
+daivījyamekādaśyāṃ catasrastu dvayaṃ visṛk
+ye devāśca trayodaśyāṃ trayo vṛnnava visrugāḥ
+śvātrāḥ pītāṣṭādaśo dvayorvṛd dvādaśīm̐ visṛk
+iyante caiva ṣolaśyāṃ tribhyaḥ pañcabhya eva ca
+caturdaśyagne tvaṃ sṛjā trayaśca tribhirekakam
+punarna no navaviṃśa pañcabhiḥ pañcadaśya ca
+tvamagne vrataikādaśyāṃ tathaikaṃ vṛtribhiḥ pṛthak
+rāsveyacca trayodaśyāṃ catvāri ca visarjanāḥ
+saptadaśyeṣā te śukro visargairstribhirūhatu
+tasyāste sattrayodaśyāṃ trayo vṛcca dvayoryari
+cidasi manāsīstrayodaśyāṃ trayaścatvāri visrutāḥ
+mitrastvāpadyaṣṭādaśastribhyaścatvāri sarvadā
+sādevi devaṃ ṣolaśyāṃ takadvayamucyate
+vakhyaśmi caturdaśyā thacaikena ca triṣukramāt
+dvādaśyadityāstvāmūrdhnandvau trayasyemasya tu
+asme ramasvā navabhiscatvāri ca trayastathā
+mā vayamaṣṭāviṃdatyā trayaḥ pañcabhya ekakam
+saptadaśyeṇa te gāyatrā trayaṃ ṣaḍbhiryathākramam
+nava cāsmākosiśukaścaikaṃ catvāri visrugāḥ
+caturviṃśatirabhityaṃ ṣaḍbhiḥ saptabhya eva ca
+pajābhyastvā prajāstvaṣṭau pañcabhistritayaṃ tataḥ
+candra tvā caturdaśyāmekaṃ vṛdekavisragaḥ
+tapasastanūrdaśe tu dvau vṛtau cācaturṣukramāt
+mitro naścaturdaśyā thacaika dvāricaikanaḥ
+svānaṃ bhrāja pañcadaśīṃ trayastribhyo dvayaṃ tataḥ
+parimāgne ṣolaśīca trayaścaikaṃ tathaikana
+pratipanthā dvādaśī tu tathaiko dvitayaṃ bhavet
+caturviṃśatyadityāstvak tatraikaścaturastathā
+vaneṣu vyantoṣṭādaśa staddvau jyā dvamamiṣyate
+sūryasya cakṣurdvādaśyāmekovā ṣaḍvisarjanāḥ
+usrāvetaṃ dvādaśī tu catvāryekaikamārabhet
+bhadro me saptaviṃśatyā tribhyaḥ saptadvayaṃ tataḥ
+namo mitrasya ṣolaśyā dvayorvṛcca trayaṃ tataḥ
+varuṇasyottambhadaśa ca catvārītyekavisragaḥ
+yāte dhāmānavadaśa pañcacatvāri caikakam
+iti śrīśaṅkarācāryakṛtau vājasaneyasaṃhitāyāṃ padakārikāratnamālāyāṃ
+caturtho'dhyāyaḥ
+atha pañcamo'dhyāyaḥ
+agnestanū caturdaśyāṃ dvābhyāṃ tribhyastathaiva ca
+aṣṭādaśāgne janitramekaṃ catvāri visrutāḥ
+bhavataṃ naḥ pañcadaśyāṃ catvāri trayameva ca
+aṣṭādaśognāvagniśca catvāri saptacaikatā
+āyataye tvāthāṣṭau ca tribhyāṃ vṛccaikanāntakam
+anādhṛṣṭamasyaṣṭabhyastribhyaścadvau pratīyate
+ekādaśyāṃ ca sma satyaṃ tribhyo vṛtrayayīryatāḥ
+yā tava caturviṃśatyā tisṛṣaḍbhyo hyanantaram
+am̐ śuram̐ śuraṣṭe ṣolaśyāṃ dvābhyāṃ caiva tathā trayaḥ
+āpyāya trayo daśyāmekovṛnnāntayo dvayoḥ
+ekādaśauṣṭārāyāśca dvābhyāṃ caiva tu pañcabhiḥ
+yāte agne ṣṭādaśabhiścatvāri pañcabhiḥ punaḥ
+taptāyanī me dvādaśyāṃ veṣṭanau dvau yathāvidhi
+pañcaviṃśadvideragne dvābhyāṃ vṛt ṣaḍvisarjanāḥ
+indra ghoṣaḥ pañcadaśīṃ ṣaṭkaṃ tu daśabhirvisruk
+dvādaśīdamahaṃ taptaṃ dvayoścaiva catasrukaḥ
+ekādaśīṃ brahmavaniścatvāri pañcacaikatā
+dhruvāsi pañcadaśyātha dvayorvṛccatrayaṃ visruk
+yuñjate nava daśabhistasṛbhiśca tathā daśa
+idaṃ viṣṇurdvādaśī ca caikaṃ vṛddhekameva ca
+irā vatī saptadaśyā ṣaḍbhyo vṛtraya īritāḥ
+devaśrutau caturdaśyāṃ tribhyo veṣṭabhya eva ca
+aṣṭādaśastu svaṃ goṣṭhaṃ catasraścaturaikatā
+viṣṇornukaṃ navadaśāḥ pañcamiḥ pañcamo visruk
+divo vā pañcaviṃśatyā dvayoratra catasrakaḥ
+saptadaśaḥ pratadviṣṇustribhivṛtpañcavisrugāḥ
+viṣṇorarāṭaikādaśyāmekaṃ vṛccaturo visruk
+ādade nāritriṃśatyā tisraścatvāryavaikatā
+idamahraṃtaṃ valagāmekaviṃśaścaturnavā
+svarālasinavamyāṃ tu cāṣṭāvṛccaikavisrutam
+rakṣohaṇodaśaṭtau vṛtribhiratra dvayaṃ tataḥ
+rakṣohaṇo dvādaśīṃ tu catvāri vṛddvayorvisruk
+yavosyaikādaśī caiva visargāstraya eva ca
+śunyantāṃ ca trayodaśyā dvau vṛcca dvayameva ca
+trayo daśīndyutā nastvā tisṛbhiśca dvayaṃ visruk
+brahmaddarkṣahaika viṃśatyā catvāri catuṣṭaikatā
+paritvā ca trayodaśyāmekaṃ vṛtsaptavisrutāḥ
+indra syū dhruvaṃ ṣaṭca tathaikaṃ vṛṭṭvayaṃ tataḥ
+vibhūrasī navaṃ caiva pañcamyo ṣṭabhya eva ca
+uśik virathāṣṭamyāṃ ṣaḍvisargāśca caikana
+ṛtadhāmeticāṣṭhau ca catvāri vṛccasaptamaḥ
+samrāṭ kṛśānuraṣṭabhyaścaturo vṛcca ṣaṣṭhake
+samūhyo'si caturviṃśaścatasraśca navāvisruk
+jyotirasyekaviṃśatyā pañcabhiḥ saptabhiḥ punaḥ
+agne nayassaptadaśī dvayordvābhyāṃ dvayaṃ tataḥ
+ayaṃ no navadaśabhiḥ dvābhyāṃ ṣaḍbhyastribhiḥ punaḥ
+devasavitāṣṭādaśaṃ pañcavisruk dvayoścanān
+pañcadaśyedamahaṃ ca tribhyo vṛccaturekatā
+yā tavatanvaṣṭāviṃśaścatvāri ṣaṭ ca visrutāḥ
+atyanyāṃ agāṃ dvādaśīṃ visargāstrirdvināntakam
+tantvā juṣā dvādaśa vasudvayorvṛccaikameva ca
+pañcadaśyo ṣadhetrāya trakaṃ vṛtrāyaṃ tataḥ
+navaṃ daśabhirayaṃ hi caturo vṛcca pañcamaḥ
+iti śrīśaṅkarācāryakṛtau vājasaneyasaṃhitāyāṃ padakārikāratnamālāyāṃ
+pañcamo'dhyāyaḥ samāptaḥ
+atha ṣaṣṭho'dhyāyaḥ
+agraṇīḥ saptaviṃśatyā catasro vṛccāṣṭabhīḥ
+yā te dhāmā navadaśo dvābhyāṃ catvāri visrutāḥ
+viṣṇoḥ karmāṇi navabhirvisargāśca trayastathā
+daśa tadviṣṇoḥ paraṃ dvau vṛtribhirvisarjanaiḥ
+parivīrasi dvā dvāviṃśaścaikaṃ vṛccadaśāvisruk
+upāvīssaptadaśabhirdvābhyāṃ ṣaḍbhirdvayostataḥ
+revatī strayo daśabhirekaṃ vṛtribhiratra ca
+agnīṣomābhyāṃ navabhistathaikaṃ vṛddvayoryadi
+apāṃ peruśca daśamastathaikaṃ vṛccatasrakaḥ
+sante prāṇaścaikādaśyāṃ caikaṃ vṛcca trayaṃ tataḥ
+ghṛtenāktau paśudaśacaikaṃ visarjanīyakam
+urorantastrayodaśyāmekaṃ vṛtrirvisrugbhavet
+varṣo varṣī caturdaśyāṃ dvayoḥ ṣaḍbhirvisarjanaiḥ
+namasta ātā ddvādaśyāṃ vṛdekaṃ tu trayastathā
+devīrāpaḥ śuddhā daśa trayo vṛccaṣaṭkamanyathā
+vācante dvādaśī tatra visargosyekamekanān
+manasta āpyā dvāviṃśo dvayoḥ ṣaṭsu visrugyathā
+vācante dvādaśī tatra visargo hyekamekanān
+oṃṣadhe trāyaikadaśyāṃ dvayoścaturthameva ca
+daśedamaharakṣobhirvisargau dvau prakīrtitau
+ghṛtena dyāvāṣolaśyāṃ catvāri vṛttrayaṃ tataḥ
+sante manassaptadaśī catvāri visrugekanān
+vātasatvāddhrā jyaina nava caikaṃ vṛcca trayaṃ tataḥ
+ghṛtaṃ ghṛtapādaśavyā dvayorvṛcca trayaṃ kramāt
+diśaḥ pradiśaḥ ṣolaśyāṃ nava caikādaśāvisruk
+devatvaṣṭarnavadaśaścatvāri tritayaṃ visruk
+samudraṃ gaccha viṃśatyāṃ tato dvābhyāṃ dvitīyakam
+divante dhūmaikādaśyāṃ visargastatathā dvayoḥ
+dvāviṃśatirmāpomauṣadhīścaikamekādaśaikanān
+sumitriyānaḥ pañcadaśyāṃ dvābhyāṃ vṛdaṣṭamaikatā
+idamāpoṣṭādaśabhyaḥ kuryāddvābhyāṃ dvayośca tat
+haviṣmatīśca dvādaśyāṃ visargāḥ ṣaṭtrayaścanān
+agnervopaṃ trayodaśyāṃ tribhyo vṛt ṣaḍbhya eva ca
+amūryā upadvādaśyā ṣaḍbhirvisrugbhireva ca
+hṛdetvāmanaikādaśyāṃ dvayoratra visargayoḥ
+somarājaṃ daśabhyastu catvāri caturaikatā
+śṛṇo tvagnekaviṃśatyā caikavṛtsaptame'pi vā
+devīrāpo daśa dvau vṛt saptamyāṃ ca tathā
+taṃ devebhyo navamyāṃ ca dvayoścaiva tribhiryathā
+kāriṣistu caturdaśyāmeko vā pañcamo visruk
+trayodaśīṃ yamagne pṛtsvaikaṃ vṛtpañcasukraga
+ādavāsiviṃśatyā pañcasu dvayamucyate
+manomeṣolaśaikaṃ vṛttribhirvisruk tribhiścanān
+daśendrā yatvā vasumaṣaṭsuvṛcca parāvat
+yatte soma saptadaśīṃ visargastu dvayaṃ tataḥ
+bhvātrāstha pañcadaśyau vā catvāryaṣṭabhya eva ca
+bhvātrāstha pañcadaśyau vā catvāryaṣṭabhya eva ca
+mābheryāsaṃ saptadaśīṃ tribhyaścaturbhya eva ca
+prāgapātpañcadaśyāṃ tu visargāścaturo bhavet
+tvamaṅga saptadaśyāṃ tu caikaṃ catvāri caikatā
+iti śrī śaṅkarācāryakṛtau vājasaneyasaṃhitāyāṃ padakārikā ratnamālāyāṃ
+ṣaṣṭho'dhyāyaḥ samāptaḥ
+atha saptamo'dhyāyaḥ
+ṣolaśīṃ vācaspataye trayo vṛnnavavisrutāḥ
+dvāviṃśatiryatte soma tathaikaṃ pañcamo'bhavat
+ṣaḍviṃśatirmanastvāṣṭupañcamaḥ pañcamaḥ kramāt
+dvādaśyupayāma gṛhīdvābhyāṃ catvāri caikatā
+antaste'ṣṭādaśo yastu ṣaḍbhyaḥ saptaikamucyate
+āvāyo caikaviṃśatyā ṣaḍbhyaścatvāri eva ca
+navadaśaścaindra vāyū catvāri saptamo bhavet
+ayaṃ vāṃ ca trayodaśyāme ko vā dvayamācake
+rāyāvayaikaviṃśatyā tisraḥ ṣadbhiryathākramam
+yāvāṅkaśātu ṣolaśyāṃ triśca dvayamasya ca
+taṃ pratnathā navadaśa saptavṛccaikavisrutaḥ
+eṣa te ca trayāśvistriṃśadaṣṭau trayodaśīṃ dvayoḥ
+acchinnasyāṣṭādaśo vā dvābhyāmaṣṭasu visrutāḥ
+saprathamoṣṭādaśabhirdvābhyāṃ pañcama ekatā
+ayaṃ venoṣṭādaśaśca pañcaveṣṭāśca saptabhiḥ
+mano na saptadaśyātha dvābhyāṃ ṣaḍbhiśca dāśuṣe
+eṣa te trayastriṃśaśca daśapañca daśaikatā
+ye devāso'ṣṭādaśaśca tathaikaṃ trayamāviśa
+āgrayaṇo sīsaptabhirdvayorvṛcca dvayorvisruk
+viṣṇustvāṃ ca caturdaśyāṃ visargā trayo bhavan
+dvāviṃśatyasme brahmaṇe tisroṣṭabhiśca pātave
+viṃśendrā ya tvābṛhaddvābhyāṃ catvāridevayuk
+devebhyastvā ṣṭādaśovā pañcavṛccaikavisrutam
+mūrdhānandivoṣṭādaśaścaiko vā traya ekatā
+dhruvosi dvādaśīṃ yastu trayaḥ ṣaḍbhyastathāvisruk
+dhruvaṃ dhruve pañcadaśīmekaṃ vṛtpañcavisrutāḥ
+yaste dra psaḥ pañcaviṃśaścatvāryaṣṭaṣvirānuṣak
+madhave mādhavāyeti caturdaśyekamekamet
+indrā gnyaṣṭā daśaścaiva catvāri pañcabhirvisruk
+āghāyegniṃ navadaśaścaturbhirvisrutaḥ kramāt
+navamo māsaścarṣaṇī caikaṃ vṛtpañca visrutāḥ
+viśve devāsa āgata trayodaśī dvayaṃ visruk
+saptaviṃśendra marutvastato dvābhyāṃ ṣalaikatā
+marutvantaṃ pañcadaśīṃ caturbhiścaikamemyate
+marutāmojase tveti padāścaite trayastataḥ
+sajoṣāśca navadaśaḥ catvāri ṣaḍdvayoratha
+mahāṃ indra ścaturviṃśo navadvādaśaikakam
+mahāṃ indro yo navabhirdvābhyāṃ catvāri ca dvayoḥ
+iti śrīśaṅkarācāryakṛtau vājasaneya saṃhitāyāṃ padakārikāratnamālāyāṃ
+saptamo'dhyāyaḥ samāptaḥ
+athāṣṭāmo'dhyāyaḥ
+ādityebhyaścaikaviṃśo dvayorvṛcca dvayaṃ tataḥ
+yajño devāḥ saptaviṃśastribhyo nava tathā dvayau
+śṛtasmai naro viṃśatyā dvābhyāṃ pañcaika nāntakam
+vāmamadyantavadaśastribhyaḥ pañcasu visruṣu
+sāvitrositrayodaśyāṃ dvayaṃ vā caturastathā
+suśarmāsīti pañcabhyastrayo velādvaye visruk
+bṛhaspati sutānavaścatvāri dvayamekatā
+ahaṃ parastā viṃśatirekaṃ velaikamucyate
+agne vākpatnina ścaikaṃ vṛdvisrugekatā
+prajāpatistrayodaśyāṃ pañcavṛnnavavisrutāḥ
+harirasihārī daśatribhyaḥ pañcabhya eva ca
+yaste devaṣolaśīśca saptavṛtsaptavisrutāḥ
+yukṣvā hi keśi dvāviṃśa catvāri vṛccatasraḥ
+ātiṣṭhapañcadaśastu dvābhyāmekaikamiṣyate
+indra miṭdarī dvādaśyāṃ dvau lau ca dvayorvisruk
+yasmānnajāto'ṣṭādaśaścatvāri saptamovisruk
+pañcaviṃśendra śca samrālekaṃ catvāri visrutāḥ
+agna āyūṃṣyekatriṃśastrirvisargastrināntakam
+agne pacasvā daśa tu velostisro dvayaṃ visruk
+uttiṣṭhannavaviṃśatyā trayaśca triścatasrakaḥ
+navaviṃśāddaśramasyāvisruk ṣaḍbhyaścaturṣunān
+daśodvutyaṃ jātavedasaṃ dvayoścaikameva ca
+citrandevānāṣṭādaśastathaikaṃ vṛcca ṣaṣṭhake
+vina indra tranyoniṃ śattribhyaḥ saptabhirekatā
+vācaspatiṃ pañcaviṃśa ṣaṭvṛtvelāśca saptamaḥ
+viśvakarmān saptadaśīṃ catvāri caturaikatā
+saptadaśyāṃ viśvakarman dvābhyāṃ pañcai mucyate
+agnaye tvā dvādaśīṃ ca pañcavṛttritayaṃ tataḥ
+preśīnāṃ tvā saptadaśyāmekameka tathaikatā
+kakuhaṃ pañcaviṃśatyā dvābhyāṃ ṣaṇṇāṃ tu visrutāḥ
+uśiktvamekaviṃśatyā caikaṃ vṛttriṣu visruṣu vikramāt
+iti śrī śaṅkarācāryakṛtau vājasaneyasaṃhitāyāṃ padakārikāratnamālāyāṃ
+aṣṭamo'dhyāyaḥ
+atha navamo'dhyāyaḥ
+prāṇāyamevarcodāṣṭau tisro vṛcca dvayorvisruk
+kratudakṣābhyāṃ ne sapta dvābhyāṃ vṛddvau visarjanau
+ātmane me navamyāṃ tu dvābhyāṃ tisraśca visrutāḥ
+kosikatamaḥ pañcadaśyā tra visruk trayaṃ tataḥ
+visvaḥ paśyaḥ pañcadaśyāṃ vṛccatvāri dvayorvisruk
+caturdaśyastu drā tā syāccatvāri dvau ca visrutau
+āyurdātre pañcadaśīṃ dvayaṃ vā pañcamī tathā
+kodātkasmai ṣolaśīṃ ca velaikaṃ caturo visruk
+samindra ṇo viṃśatistu catasrastraya ekatā
+dhātārātiḥ ṣolaśīṃ ca caturaḥ saptamo vidat
+sugāvaḥ saptadaśo vā trayāṇāṃ ṣaṭsu visrutāḥ
+yāṃ āvaha dvāviṃśastu trayaḥ pañca tṛtīyakam
+vayam̐ dvitvā viṃśatistu dvayordvau tribhiratra te
+yajña yajñaṃ saptadaśaścaturastu catasrakaḥ
+urūm̐ hi rājā dvāviṃśā ṣaḍvāvṛt ṣaṭ ca visrutāḥ
+agneranīkaṃ viṃśatyā tribhirvā dvayamekatā
+nava daśaḥ samudre te pañca catvāra eva ca
+devīrāpastrayo viṃśastisraḥ sapta ca visrutāḥ
+ejatu daśāṣṭādaśo velau dvau pañcamo visruk
+yasyāste pañcadaśa ca visargāḥ pañcamo bhavat
+purudasmaḥ ṣolaśīṃ ca saptabhiḥ ṣaṭsu visruṣu
+maruto yasya daśabhirdvābhyāṃ ṣaḍbhirbhanaṃ bhavet
+mahī dyaurekādaśasu tathaikaṃ caturo bruvan
+trayo viṃśatirājighra caiko vṛtpañcamo visruk
+havyekāmye'ṣṭādaśa bhirveṣṭanau ca dvayoratha
+iha ratīrviṃśatī ca dvābhyāṃ pañca dvayostataḥ
+trayo daśāganmatyovirvisruk pañcaikanāntakam
+yuvantaṃ navaviṃśatyā trayaḥ pañcama ekatā
+parameṣṭhī trayodaśyāṃ sapta catvāri visrutāḥ
+daśa cendra śca marutaḥ tatraikaṃ vṛcca saptabhiḥ
+viṣṇuḥ śipibhiḥ ṣaḍbhirdaśavisrutāḥ
+damognirārāgnīdhresyā tiraśca pañcamaritāḥ
+viṣṇurāprī naikādaśyāṃ tribhyaścaikādaśīṃ visruk
+śukraḥ kṣīraścyaikādaśaścataraḥ saptavisrutāḥ
+sadro ha pra su saptasaptadaśo visruk
+yayorojasāḥ pañcadaśyāṃ ṣaṭka catvāri caikatā
+devān divaṃ ca dvāviṃśo visruk catvāri pañcanān
+iti śrī śaṅkarācāryakṛtau vājasaneyasaṃhitāyāṃ padakārikāratnamālāyāṃ
+navamo'dhyāyaḥ samāptaḥ
+atha daśamo'dhyāyaḥ
+devasavitaścaikaviṃśo dvābhyāṃ vṛdaṣṭavisrutāḥ
+dhruvasadaṃ ṣolaśyāṃ tu pañcavṛccaturastathā
+navamyāmapsu ṣadaṃtvā tathāṣṭāu veṣṭanaḥ kramāt
+apāṃ rasaṃ caturdaśyāṃ tisṛbhiścatrayaḥ kramāt
+gṛhā ūrjāṃ trayodaśyāṃ dvābhyāṃ catvāri visrutāḥ
+saṃpṛcastha saṃ dvādaśyāṃ dvayaṃ vṛddvayameva tu
+indra sya vajro'ṣṭāviṃśastrayaścatvāri cādadhaḥ
+devīrāpaścaturdaśyā tisraḥ saptaikamedhate
+apsvantare kādaśa tu trayaśca ca triṣu kramāt
+vāto vāṣolaśīṃ tu caikaṃ ṣaḍbhirdvayaṃ tataḥ
+vātaram̐ hāṣṭādaśabhiścatasraḥ pañcacaikamait
+javo yastrayo viṃśatyā catvāri saptabhistrayaḥ
+vājino vājajito ṣṭāvekaṃ catvāri visrutāḥ
+devasavi caturdaśyāṃ tisro vṛtraya īritāḥ
+na vā bṛhaspate vājamindra vājaṃ navā punaḥ
+eṣāvassā ṣolaśīṃ tu vṛccaikaṃ dvayamucyate
+devasya vavannavabhirdvau vṛttatra catuṣṭayam
+navabhirvājino vājaṃ visargāścaturo bhavan
+eṣasyasaptadaśī syāt catvāri ca catasrukaḥ
+utasmāsya navadaśī stribhiśca saptabhiryathā
+śaṃno bhavantu ṣolaśyāṃ trayaḥ ṣaṭkaikamindhate
+teno arvan saptadaśaḥ pañca sapta ca jabhrire
+vāje vāje va ṣolaśyāṃ catvāri navabhiḥ punaḥ
+āmāvājasya viṃśatyā pañcavṛcca punardvayoḥ
+vājino vājiṃ navati sṛbhiḥ pañcamīvisruk
+āpaye svāhāṣṭādaśaṣaḍbhirvṛdekamiṣyate
+āyuryajñena daśabhirvisargāścaturastathā
+jāya ehi trayo daśyāṃ tisṛbhiḥ ṣaḍ tathā bhavan
+asme vo astu dvādaśyāṃ tisraścaiva trayastathā
+namo mātre ṣolaśī ca caturbhiśca visarjanaiḥ
+saptadaśavājasyemaṃ pañcamyāṃ pañcamo bhavat
+vājasyedaṃ navadaśo dvayorvā tribhirekatā
+vājasyemāṃ navadaśaścaturastraya ekakam
+saptadaśyāgne acchāsyātrayo vṛt pañcamīvisruk
+somam̐ rājānamavase caikādaśyāṃ vṛdekakam
+prabho yaccatvari yamā trayodaśyāṃ visrugdvayoḥ
+aryamaṇaṃ bṛhaspatiṃ padāścaikādaśī kramāt
+sarasvatyai vā ṣolaśyāṃ dvayaṃ ca dvayamekatā
+agnirekākṣaṣaṭtriṃśatṣaṭsaptāṣṭabhireva ca
+ṣaṭtriśatpūṣāpañcāsyāccatvāri dvayamaṣṭabhiḥ
+mitro navaścatustriṃśatsaptacatvāri caikakam
+vasavastrayodaśākṣapañcacatvāriṃśatyadā
+veṣṭanā daśamaścaivaṃ visruksaptatrayaṃ kramāt
+iti śrīśaṅkarācārya kṛtau vājasaneyasaṃhitāyāṃ padakārikā ratnamālāyāṃ
+daśamo'dhyāyaḥ samāptaḥ
+atha ekādaśo'dhyāyaḥ
+caturviṃśatireṣa te trayodaśyāṃ saptadaśaḥ
+ye devā nyāṣṭādaśīmekādaśyāṃ pañcadaśaḥ
+agne sahasva dvādaśyāṃ trayaḥ ṣaṭcaikamiṣyate
+upām̐ śorekaviṃśatyā caikaṃ vṛcca tasrakam
+apo devāśca ṣolaśyāṃ dvau vṛnnava tṛtīyakam
+vṛṣṇa ūrmiṣolaśīṃ tu trayaḥ saptasamīhitāḥ
+arthe tastha caturviṃśo navacāṣṭādaśo visruk
+saṃmadhumatīḥ ṣolaśyāṃ dvābhyāṃ vṛccaikapañcabhiḥ
+sanitātvā trāṣṭādaśyāstribhyaḥ saptabhya eva ca
+imaṃ devā ṣolaśīṃ ca dvau visargau tataḥ param
+dāṣavaḥ kuravo dvādaśyāṃ vispargāḥ saptamo bhavan
+somasya tviṣirdaśabhirekaṃ visargamindra tu
+indrā yām̐ śāya ṣolaśyāṃ prayaḥ pañcasu visrutāḥ
+sadhamādaḥ pañcadaśīṃ catvāri daśabhistataḥ
+kṣatrasyolbaṃ ṣoḍaśīṃ tu tathaikaṃ vṛddvayaṃ tataḥ
+rujādrubākṣuṣādaśa caikaṃ pravṛdvisrugekakam
+āvirmaryāṣṭādaśa ścaikādaśīṃ tathā nava
+aveṣṭādanyaṣolaśyāṃ trayo vṛtpañcavisrutāḥ
+dakṣiṇā caturdaśyāṃ dvitīyaṃ ca caturastathā
+caturdaśapratīcyīṃ ca vṛccaikaṃ caturo visruk
+udīcīṃ ca caturdaśyāmekaṃ vṛttritayaṃ tataḥ
+saptadaśyūrdhvāmārohapañcamī caturastathā
+somasya tvi trayādaśyāmekaṃ ca pañcamo bhavan
+trayo viṃśatirharaṇyarūpā dvau vṛcca ṣaṣṭhake
+somasya tvāviṃśatiśca dvayordvau caikamevaca
+praparvastrayoviṃśastrayaḥ saptaikameva ca
+prajāpate na viṃśatyā dvayamatra ca pañcabhiḥ
+rudra yatte kramī paraṃ dvādaśyāmekaveṣṭanam
+indra sya vajraikaviṃśastribhiḥ pañcabhireva ca
+māta indra te viṃśatyā dvayoścaikadvitīyakam
+saptadaśyāgne gṛhapataye dvau dvayaṃ tataḥ
+haṃsaśśuciraṣṭādamo dvādaśī saptavisrutāḥ
+caturviṃśatiyadasi trayaścatvāra eva ca
+syonā sī ca caturdaśyāṃ dvābhyāṃ caivaikamanyathā
+niṣasāda ghṛtāṣṭautisrastribhyaśca vedase
+abhibhūrasi dvādaśī mekaṃ triścaikamāharet
+savitāsi ca navamyāṃ tisraḥ saptacavisrutāḥ
+priyaṃ kareti navagnistisraścaiva trayastathā
+agniḥ pṛthurnavadaśaścatvāri dvādaśābhavat
+daśasavitrāprasavirdvābhyāṃ vṛddvayamatra tu
+bṛhaspatinā brahmaṇā pañcadaśāpadābhavan
+aśvibhyāṃ pañcadaśabhistathā vṛcca pañcamī
+kuvidaṅgastrayodaśātsaptavṛccaturo visruk
+yuvam̐ surāmaṃ dvādaśyāṃ trivṛdekaṃ ca visrutam
+putramivasaptadaśyāṃ dvābhyāṃ pañcaikamāharet
+iti śrī śaṅkarācāryakṛtau vājasaneyasaṃhitāyāṃ padakārikāratnāvaśyāṃ
+ekādaśo'dhyāyaḥ samāptaḥ
+atha dvādaśo'dhyāyaḥ
+trayodaśyāṃ yuñjānaścaikaṃ vṛcca ṣalatra tu
+yuktena mansāṣṭau ca caikavṛccaṃ dvitīyakam
+yuktvāyeti caturdaśyāṃ caturovisruto dvinān
+yujevāṃ nava daśābhirdvau vṛcca ṣaṭkameva ca
+yasya priyānavadaśastribhyaśca ṣaḍbhirityapi
+devasavitarviṃśati tribhirevāṣṭabhistataḥ
+ādade gāpañcadaśīṃ dvayorvṛccaikamiṣyate
+abhrirasi caturdaśyāmatraikaṃ velamekakam
+hasta ādhāya ṣolaśyāṃ tribhirastu tribhiḥ punaḥ
+pra tuṣṭamaṣṭādaśabhiḥ dvābhyāṃ dvitīyamekakam
+yuñjārthārāsabhaṃ navadvau vṛdekaṃ ca nāntakam
+yoge yoge tavaḥ saptatisrovṛcca dvayostataḥ
+pratūrvadehiviṃśatyā ṣaṭ caturbhistrayaḥ kramāt
+pṛthivyā ssadhasthā ddaśacaikaṃ tu tisṛbhiryathā
+anvagniraṣṭādaśa vā trayaśca triṣu caikakam
+āgātya vā trayodaśyāṃ dvayoḥ kuryāddvitīyakam
+ākramya pañcadaśyāṃ tu tathaikaṃ trayamekanān
+dyauste pṛṣṭhaṃ pañcadaśīṃ dvābhyāṃ caturbhireva ca
+utkrāma mahaṣolaśyāṃ catvāri pañcacaikatā
+udakramīnnavadaśaṃ ṣaḍbhirvā ṣadakamāgaman
+ātvājighārbhi ṣoḍaśyāmekaṃ velamathaikatā
+āviśvataḥ pañcadaśīṃ tribhiḥ pañcabhirityapi
+parivājapatirtava caikaṃ velaṃ tṛtīyakam
+pari tvāgne puruvayaṃ dvādaśyāṃ triṣu veṣṭasu
+tvamagne dyutrayodaśyāṃ trayaḥ sapta ca visrutāḥ
+dvāviṃśatipṛthivyāḥ sadhasthā ścatvāri catasṛbhiḥ
+apāṃ pṛṣṭhaṃ saptadaśīṃ visruk pañcaikanāntakam
+pañcadaśaḥ śarma ca sthaścatvāro dvayamāharet
+saṃvasāthāmekaviṃśastribhiḥ ṣaḍbhiḥ samīdhidhe
+daśatvāmagne puṣkarādvisargāstu trayo vidan
+tamutvā dadhyaṃ daśabhistribhiśca traya ūcatu
+tamu tvapā bhyo daśasu ca tvāyyekaṃ tu caikakam
+sīdahodarnavadaśa catvāri caturuṣudvayoḥ
+nihotā ca trayodaśyāṃ ṣaṭkamaṣṭau tathaikakam
+sam̐ sīdasvacaturdaśyāṃ dvayoścaikaṃ tathaikakam
+apo devīstrayodaśyāṃ catvāri ṣaḍbhirādanam
+saṃte vāyuraṣṭādaśaścaiko vā tribhiruhatuḥ
+sujātastu caturdaśyāṃ catvāri catribhistataḥ
+udutiṣṭha saptadaśaścaturṇāṃ tu trayo bhavan
+ūrdhva ūṣuṇa ṣolaśyāṃ caturaḥ ṣadakameva ca
+sa jāto gānavadaśo dvayordaśabhirekakam
+sthiro bhavatrayodaśyāṃ trayassaptaṇirekatā
+caturdaśaśśivo bhavadvayoḥ pañcasu caikatā
+praitu vājī caturdaśyāṃ dvau visargau tathaikanān
+navadaśo vṛṣāgniṃ tu visargekaṃ tu caika na
+oṣadhayo navadaśaścatasraḥ saptabhirdvayoḥ
+trayodaśyoṣadhayaḥ vṛttrayaḥ ṣaṭkaṃ tu cornute
+vipājasā ca ṣolaśyā tribhiśca saptabhiḥ punaḥ
+āpohiṣṭaikādaśyāṃ tu caikaṃ vṛtpañcabhiḥ punaḥ
+daśayovaśśivatamastatodvayaṃ ca saptasu
+tasmātparamekādaśyāṃ triṣu visruṣu bhavettathā
+mitrassam̐ sṛcaturdaśyā caturnāṃ vṛddvisruvadvayoḥ
+caturdaśo rudrāḥ sam̐ sṛjyaikau vṛtpañcasu kramāt
+sam̐ sṛṣṭāṃ tasudvādaśyāṃ dvayaṃ caika tribhistu vai
+dvādaśī ca sinīvālī tribhiratraikamucyate
+ukhāṃ kṛṇo saptadaśīṃ dvayaṃ caivaikamuccate
+saptacatvāriṃśanmakhasya pañcavṛddaśacaikanān
+kṛtvā yāṃ trayodaśyā mekaṃ dvābhyāṃ tu caikan
+vasavastvā trayo viṃśo dvayoratrāṣṭabhiḥ punaḥ
+aditiṣṭā tu navabhirdvābhyāmeva punardvayoḥ
+devānāṃ tvā navadaśastisṛbhirnavabhiḥ punaḥ
+mitrasya carṣaṇī saptavayaṃ tisṛbhireva ca
+devastvā saviṣolaśyāṃ tribhiḥ ṣaḍbhiryathākramam
+ukyāya bṛddvā viṃśaścaikamekaṃ praśasyate
+ākūtiṃ saptadaśyāṃ ca ṣaḍbhirdvau vā dra vasyate
+māsubhitthā caturdaśyāṃ catasrastu visarjanāḥ
+dṛm̐ hasvadevi viṃśatyā visrugekaṃ tathaikanān
+dr vanna ssarpiraṣṭau ca dvābhyāmaṣṭabhya eva ca
+parasyā adhi dvādaśyāṃ caikaṃ dvau vādvayaṃ bhavet
+dvādaśaḥ paramasyāśca tisṛbhiḥ ṣaḍbhireva ca
+yadagne kāni kāni ca saptadaśapadāstataḥ
+yadatyupa caturdaśyāṃ dvayaṃ vṛccaikamiṣyate
+aharahassaptadaśaścatvāri ṣaṭtathāvisruk
+nābhāpṛthi pañcadaśī catasrastu dvayaṃ tataḥ
+yāsye nāssaptadaśyāṃ dvayoḥ saptabhya ekakam
+dam̐ ṣṭrābhyāṃ maliṃ dvādaśyāṃ tisṛbhirdvau ca pañcakam
+ye janeṣu trayodaśyāmekaṃ pañcabhirekanān
+yo asmabhyaṃ saptadaśīṃ tathaikaṃ pañcacaikakam
+saṃśitaṃ me trayodaśyā catvāri dvayamāpnuyāt
+udeṣāṃ pañcadaśyāṃ tu dvayamenaṃ tathaikakam
+annapatestu ṣolaśyāṃ pañcabhiḥ pañcamo visruk
+punastvādityā viṃśatyā tato dvābhyāṃ navakramāt
+iti śrī śaṅkarācāryakṛtau vājasaneyasaṃhitāyāṃ padakārikāratnamālāyāṃ
+dvādaśo'dhyāyassamāptaḥ
+atha trayodaśo'dhyāyaḥ
+daśāno rukmaṣṭādaśastribhirekādaśastathā
+naktoṣā sāṣolaśīṃ tu ṣaḍbhiḥ pañcaikamena tu
+viśvārūpāṇi viṃśatyā trayaścatvāri visrutāḥ
+suparṇosīti daśabhistrayastribhyaśca caikanān
+stoma ātmā caturdaśyāṃ dvābhyāṃ catvāri visrutāḥ
+suparṇo sīti ṣaṭtriṃśadaṣṭau vṛnnavacaikatā
+akrandadagnirviṃśatyā catvāri saptabhirdvayoḥ
+caturdaśyāgne bhyāvartindvau vṛdekaṃ ca nāntakam
+dvāviṃśatyāgne aṅgirastato dvau vṛcca saptabhiḥ
+punarūrjā daśabhyastu tatraikaṃ visrutaikakam
+saptadaśyātvāhāriṣaṃ tu caikaṃ vṛt ṣaṭkamatra tu
+uduttamoṣṭādaśabhirdvābhyāṃ cātraikamucyate
+agre bṛhannavadaśo dvau vṛtsapta dvayostataḥ
+sīdatvaṃ caika viṃśatyā nato dvau pañcacaikatā
+antaragne caturdaśyāmekaṃ pañca tathaikatā
+śivo bhūtvā saptadaśyāmekaṃ ṣaḍbhiryathākramam
+divaspari saptadaśyāṃ catvāri ṣaḍbhiratra tu
+vidmāteṣaikatriṃśatyā tisṛṣvekaṃ prayujyate
+aṣṭādaśaḥ samudre tvā pañcapañcadvayaṃ tataḥ
+śrīṇāmudārassaptadaśyā catasrastu tathāṣṭāmīm
+viśvasya ketvaṣṭādaśo dvayoścaturbhirekatā
+uśikpāvako ṣṭādaśaścaikaṃ vṛtpañcamaikatā
+yaste adyanavadaśa catasrastu tathādvayam
+ātaṃbhajanavadaśo dvābhyāṃ tribhyaḥ parābhavan
+tvāmagne yajāṣṭādaśaścaikaṃ catubhirekatā
+astāvyagniḥ pañcadaśīṃ saptabhyaḥ ṣaḍbhya eva ca
+udutvā pañcadaśyāṃ tu catvāri saptabhiḥ punaḥ
+predagne pañcadaśyāṃ tu catvāri ṣaḍdvayaṃ tataḥ
+dvāviṃśatipraprāyeti velamekamathāṣṭāmīm
+āpo devīśca viṃśatyā catvāri caturastathā
+apsvagne dvādaśīścaiva dvābhyāṃ catasra ityapi
+garbho asīti dvādaśyāṃ catvāriścaiva visrutāḥ
+prasadyeti caturdaśyāṃ trayaścatvāri ekatā
+punarāsaccaturdaśyā vṛtrayaḥ pañcavisrutāḥ
+bodhāmeṣṭādaśaścaiva dvābhyāṃ pañcabhya eva ca
+sabodhisūrirnavabhistribhirdvāvekamiṣyate
+caturviṃśāpeta vītacaikaṃ ṣaṣṭaikamucyate
+saṃjñānamasyāṣṭādaśa pañcabhiḥ pañcasu kramāt
+ayam̐ so agnirnava daśo dvābhyāṃ pañcatribhistataḥ
+agneyatte diviṃśati trayaḥ ṣaṣṭhī tathā bhavet
+navadaśogne divorna tathaikaṃ pañcacaikatā
+purīṣyāsognayodaśa dvayorvṛdaṣṭavisrutāḥ
+ilāmagne navadaśaḥ pañcamyāṃ pañcamītathā
+cidasi caturdaśyāmekaṃ caiva tuveṣṭanam
+caturdaśau lokaṃpṛṇa tribhirekaṃ tathā dvayoḥ
+tā asyeti trayodaśyāmekaṃ pañcaikamiṣyate
+indrā viśvā daśabhyastu catvāri dvayamekatā
+samitaṃ samekādaśyāṃ catvāri caikaveṣṭanāḥ
+saṃ vo manāṃsi viṃśatyā tatra dvayadvayorathā
+pañcadaśyāgnetvaṃ parīdvayoścapañcamīdvayam
+mātevapubrāṣṭādaśaḥ pañcavṛtṣaḍbhireva ca
+asunvantaṃ navadaśaścaikaṃ vṛddvayameva ca
+namassute navadaśaścatvāri tritayaṃ tataḥ
+yasyāste ghore viṃśatyā tribhiḥ pañcaikameva ca
+yante devī pañcaviṃśaścatvāri pañcamo bhavan
+niveśanaḥ ṣolaśīṃ tu pañcavṛccaiva pañcabhiḥ
+sīrāyuñjantidaśabhirekaṃ vṛddvau visarjanau
+yunaktasīrādvāviṃśastataścaikaṃ tu pañcabhiḥ
+śunaṃ naḥ phalāṣṭādaśo dvayorvṛtpañcamīṃ punaḥ
+ghṛtena sītāṣṭādaśo dvayorvṛttritayaikatā
+lāṅgalaṃ ca caturdaśyāṃ pañcabhirveṣṭanairyutam
+kāmaṃ kāmadughaikādaśyāṃ tribhirdvayorvṛsruk
+vimucyaghvaṃ ca daśabhiścaikaṃ catvāri visrutāḥ
+caturdaśa sajūrabda caturo daśabhistu vai
+yā oṣadhīḥ pañcadaśaścaikaṃ pañcabhireva ca
+śataṃ vā pañcadaśyāṃ tu tatraikaṃ caturo bhavan
+oṣadhīḥ pratinavabhiścatvāri saptabhiḥ punaḥ
+pañca daśauṣadhīritiścaikaṃ vṛtpañcamo visruk
+aśvattheva caturdaśyāṃ tribhiścaturbhireva ca
+yā oṣadhīścaikādaśyāṃ catvāri ṣaḍbhiratra tu
+daśāśvāvatīṃ soma vā catvāri dvayamiṣyate
+ucchuni oṣaikādaśyāṃ dvābhyāṃ dvayamathottare
+pañcadaśoṣkṛtirnāma dvayoḥ pañcasu visruṣu
+ativiśvāścaturdaśyāṃ dvayoraṣṭabhiratra tu
+trayo daśīṃ yadi māśca dvau trayaścaikameva ca
+ekāda yasyauṣadhīścatvāri ṣaṣṭhake tathā
+sākaṃ yakṣma prapateti dvādaśyāmekaveṣṭanam
+anyā vo anyāṃ ṣolaśīṃ caikaṃ ṣaḍbhirvisruk tathā
+yāḥ phalinīryādvādaśaścaikaṃ vṛddaśavisrutāḥ
+muñcantu mācaikādaśyāṃ veṣṭanāśca trayo'bhavan
+trayodaśyavayatīssadvayoratraiva pañcabhiḥ
+yā oṣadhī strayodaśyāṃ tribhyaḥ pañcabhya eva ca
+viṣṭhitāḥ pṛthivīmaṣṭau dvayordhṛcca dvayaṃ tataḥ
+yāścedaṃ tu pañcadaśastrayaḥ pañcasu visruṣu
+nāśayitrīcaikādaśyāṃ tribhirvṛcca dvayorvisruk
+mānoriṣatpañcadaśīṃ veṣṭanau dvau tribhirvisruk
+oṣadhayaḥ sandvādaśyāṃ visrugvau nāntamekakam
+tvāṃ gandharvā caturdaśyāṃ visruk catvāri dvau canān
+caturdaśastvamuttamā dvayoḥ pañcasu caikakam
+dvāviṃśatiṃ mā mā hiṃsī dekaṃ saptabhireva ca
+abhyāvartasva dvādaśyāṃ visargāstu dvayaṃ tataḥ
+agne yatte caikādaśyāṃ caikavisruguvedyadi
+iṣamūrjaṃ navadaśaścaikaṃ visargamucyate
+agne tavapañca dvābhyāṃ tribhiśca visruk
+pāvakāvaścaturdaśyāṃ ṣaṣṭhe catvāri caikakam
+caturdaśyūrjenapācca saptabhyo daśa visrutāḥ
+irajyan pañcadaśyāṃ tu dvau vṛccatvāra ekakam
+niṣkartāraṃ caturdaśyāṃ dvayaṃ caiva dvayaṃ punaḥ
+ṛtāvānaṃ pañcadaśīṃ catvāri tritayaṃ tataḥ
+āpyāyasva caikādaśyāmekaṃ vṛdekamatra tu
+santepayāṃ saptadaśaṃ caturastrayardaśitāḥ
+ekādaśāpyāyasvaṃ tribhiḥ pañcaikanāntakam
+ātevatsaścaikādaśyāṃ dvayaṃ dvitayameva ca
+tubhyantāṃ giro navadvayoścatvāri visrutāḥ
+agniḥ prayeṣu daśasu dvābhyāṃ tribhyaśca visrutāḥ
+iti śrī śaṅkarācāryakṛtau vājasaneyasaṃhitāyāṃ padakārikāratnamālāyāṃ
+trayodaśo'dhyāyaḥ
+atha caturdaśo'dhyāyaḥ
+mayi gṛhṇāmi dvādaśyāṃ trayovṛttrirvisarjanāḥ
+brahmajajñaikaviṃśatyā pañcamyekādaśastathā
+hiraṇyagānavadaśaścaikaṃ pañcabhirityapi
+dra psaśca skandaikaviṃśaścaikaṃ caiva catasrukaḥ
+namo'stu pañcadaśabhirvisarvāḥ pañcamastathā
+yā iṣavaścaturdaśyāmekovā pañcacaikakam
+evāmīrocaṣolaśyāṃ trayaṃ pañcaiva visrutāḥ
+kṛṇuṣvapājo'ṣṭādaśa ścatvāri caturaikatā
+tavabhūmā sa saptadaśīṃ dvābhyāṃ catvāri caikakam
+pratispaśo dvāviṃśatyā dvayorvṛddvādaśī visruk
+udagne tiṣṭhaukaviṃśo velau dvau dvayamekatā
+ūrdhvo bhavā navadaśaścaikaṃ vṛddvayamekatā
+agneṣṭvātejasā sādayāmyaṣṭau visrugekakam
+bhuvoyajñaḥsaptadaśastribhiḥ pañca visarjanāḥ
+dhruvāsipañcadaśyāṃ tu tribhiścaiva dvayorvisruk
+prajāpatiṣṭvā dvādaśyā mekamekaṃ tathaikakam
+bhūrbhūmistu caturdaśyāmekaṃ vṛtpañcasu kramāt
+viśvasmai prāṇaviṃśatyā pañcavṛccaikamiṣyate
+kāṇḍātkāṇḍā ddvādaśī ca trayaścaiva trayaṃ kramāt
+dvādaśyāṃ yā śatenā dvayorekaṃ tu caika hi
+yāste agne sūryye ṣolaśyāṃ dvayossaptasuvisruṣu
+ṣolaśo yā devāśca vṛdekaṃ tu bhavā visruk
+virāḍyotirdvādaśīṃ tu tribhiścatvāri visrutāḥ
+viśvasmai pañcadaśabhistrayāṇāṃ trayamatra tu
+madhuśca saptatriṃśacca vṛddvādaśatrayodaśīm
+aṣṭālhāsi dvādaśīñca dvayaṃ ca dvitayaṃ tathā
+saha svemāścaikādaśyāṃ dvayostisṛbhirityapi
+madhuvātāśca daśasu tathaikaṃ pañcamo bhavan
+dvādaśīṃ madhunaktaṃ tu tathaikaṃ caturo bhavan
+apāṅgaṃ bhaṃ navadaśastribhyaḥ saptabhya ekakam
+trīn samudrā naṣṭādaśa trayaḥ pañca trayastathā
+dhruvāsicaṃ navadaśaḥ pañcaṣaṭkamathaikakam
+iṣe rāye ṣolaśīṃ tu veṣṭanau dvau tathāpi ca
+agne yukṣvā hyekādaśyāṃ dvayorvisargayoratha
+yukṣvāhi devadaśasu dvābhyāṃ tribhyastathā dvayoḥ
+samyaksravaḥ saptadaśyāṃ tathāṣṭau ca visrutāḥ
+ṛce tvā rucetvābhāse caturdaśyekavisrutam
+agnirjyotiṣā daśabhiścaikavṛttirdvayostataḥ
+saptadaśyādityaṃ garbhaṃ traso vṛcca dvayaṃ tataḥ
+vātasya jūsaptadaśyāṃ dvayaṃ caikaṃ tu caikakam
+saptadaśyājasraminduṃ pañcānāṃ pañcasukramāt
+varūtrīṃ tvā saptadaśīmekaṃ vṛtribhirekakam
+yo agniragnekaviṃśatyā dvābhyāṃ sapta ca visrutāḥ
+aṣṭāviṃśatirimaṃ mā hiṃsīrdvayaṃ ca pañcasu
+ekaśaphaṃ daśaikaṃ vṛtsāhasraikādaśī dvivṛt
+varuṇasyeti dvādaśyāṃ tisṛṣu dvayam
+ajo hyagnekaviṃśatyā visruk pañcadvayaṃ ca nān
+tvaṃ yaviṣṭhaikādaḥśyāṃ tu dvau visargāvathaikanān
+ṣaḍviṃśatirapāṃ tvemān trirvinnāntāstrayastathā
+daśāyam̐ purobhuvovai dvayaṃ ca ṣaḍbhireva ca
+gāyatryai gā pañcadaśīṃ saptamaṃ ṣaḍbhiratra tu
+ayaṃ dakṣiṇādaśabhistrayo vṛtitrayaṃ tataḥ
+triṣṭubhaḥ pañcadaśasu cāṣṭhabhirnavabhiḥ punaḥ
+ayaṃ paścāddaśasu cedvayaṃ tu caturo bhavan
+jagatyā pañca daśasyātsaptavṛtsaptavisrutāḥ
+daśedamuttarāccaivaṃ dvayorvṛccaikameva ca
+pañcadaśo'nuṣṭubhaśca pañcavṛtṣadakameva te
+daśeyamuparimiti visruk catvāra eva ca
+paṅktyaiḥ nidhannaikaviṃśaścāṣṭau vṛt ṣaṭca visrutāḥ
+iti śrīśaṅkarācāryakṛtau vājasaneyasaṃhitāyāṃ padakārikāratnamālāyāṃ
+caturdaśo'dhyāyaḥ
+atha pañcadaśo'dhyāyaḥ
+aṣṭādaśadhruvakṣitiścatvāri dvayameva ca
+kulāyinī ṣolaśyāṃ tu dvayoratra caturthake
+svairdakṣairaṣṭādaśabhiścatvāri vṛddvayorvisruk
+pṛthivyāḥ purī viṃśatyā caturastriśca visrutāḥ
+adityāstvekaviṃśatyā strayaḥ ṣaḍbhistu visrutāḥ
+sajūtra tu caturdaśyāṃ pañcabhirdvādaśastathā
+prāṇaṃ me trayodaśa ca dvayaṃ caikaṃ ca vedase
+apaḥ pinvaddvādaśīṃ tu dvayaṃ catvāri visrutāḥ
+mūrdhā vayastu daśabhiścaturaḥ pañcamo visruk
+basto vivalamaṣṭau ca dvayaṃ tu caturastathā
+sim̐ hadiḥ paṣṭa vāṣṭau velau vā catasrakaḥ
+anaḍvān paṭhantiraṣṭau syāccatvāri ca trayaikatā
+pañcāvirgāyatrīssapta catvāri traya īritāḥ
+indrā gnī avyathamānāmekādaśīṃ ca vṛddvayoḥ
+viśvakarmā tvāṣaṣṭhī syādekaṃ vṛccaikavisrutāḥ
+rājñyasi prācekaviṃśa pañcavṛccaturo bhavan
+āyurme saptadaśyāṃ tu dvayoścatvāri visrutāḥ
+mācchandaḥ pramā saptabhirdvābhyāṃ vṛttraya īritāḥ
+bṛhatyanuṣṭup ṣaṭkaṃ syādveṣṭanāstisra ādidhuḥ
+pṛthivyāntarikṣaṃ ṣaḍbhirvisargādvau tathaiva ca
+manaḥ kṛṣiśca saptabhyaḥ pañcamyāṃ tu visruggavait
+pañcadaśyāgnirdevatā visargā dvādaśastathā
+mūrdhāsirāṭ caikādaśyāṃ yantrīradyaṃ traikādaśīm
+āśustrivṛdviṃśatistu trayodaśa ca viṃśatiḥ
+garbhāḥ pañcasaptadaśyāṃ daśavṛtṣolaśastathā
+agnerbhāgo'ṣṭādaśastu catvāri vṛttathāṣṭamaḥ
+nṛcakṣasāṃ ca viṃśatyā pañcavṛccacaikādaśaḥ
+vasūnāmaṣṭādaśabhiḥ pañcamo daśa visrutāḥ
+aditerviṃśatiścaivaṃ caturo vṛtpañcadaśīm
+yavānāṃ trayoviṃśatyā ṣaṭkaṃ vṛddvādaśo visruk
+ekayāstu vata triṃśaddaśabhiśca trayodaśa
+navabhirastvaṣṭāviṃśaścāṣṭau caturdaśaikatā
+saptadaśa hyekatriṃśaddaśa caturdaśa stathā
+pañcaviṃśatyāṣaṭ catvāriṃśatpañcadaśaikavṛt
+visargāṣṭādaśaścaiva catvāri nāmamatra tu
+iti śrīśaṅkarācāryakṛtau vājasaneyasaṃhitāyāṃ padakārikāratnamālāyāṃ
+pañcadaśo'dhyāyaḥ
+atha ṣoḍaśo'dhyāyaḥ
+agne jātānviṃśatistu pañcacatvāripañcakam
+sahasājātāṣṭāviṃśapañcaikādaśa caturuṣu
+agneḥpurīṣaṃ viṃśatyā catvāri vṛttayo visruk
+evaśchando varivoṣṭau trayo vṛtsaptabhirvisruk
+sindhussamudra ssaptamyāmekaṃ caiva dvayorvisruk
+akṣarapaṅktirnavamiḥ saptavṛtpañca visrutāḥ
+bṛhadra thantaraṃ cāṣṭau pañcabhyaścaturo visruk
+evo varivaikādaśyāṃ pañcaśvaṣṭau ca visrutāḥ
+raśminā satyāyasatyaṃ trayodaśīṃ taryośca visruk
+pratidhinādvādaśīṃ ca trayo vṛccaikamatra tu
+uśijā vasu caturdaśyāṃ trayaścatvāri cādvayoḥ
+trayodaśyailenauṣadhī pañcavatṣaṭkamucyate
+daśabhyaḥ pratipadasi ṣaṭsuvṛccaikavisrugam
+trivṛttrivṛte ṣabhyāṃ tu veṣṭanāṣṭau yathākramam
+ākramaḥṣolaśīṃ caivaṃ daśavṛtpañcavisrutāḥ
+rājñyasi prācyaikādaśyāṃ dvayośca caturo bhavan
+trivṛtvā ttra trayodaśyā vṛt tribhiścaikavisrutam
+ṛṣayastvā caturviṃśaḥ pañcavṛt ṣaṭ ca visrutāḥ
+virālasyaikādaśyāṃ tu trayaścatvāra eva ca
+pañcadaśastvā trayodaśyā tra dvau vṛddvayavisruk
+samrālekādaśīṃ kuryāt trayovṛccaturastathā
+saptadaśastvā stomastu trayodaśīṃ dvayaṃ dvayoḥ
+ekādaśyāṃ svarālasi tribhiścatvārivisrutāḥ
+trayo daśyekaviṃśastvā trayāṇāṃ vṛtribhistataḥ
+adhipatnye syekādaśyāṃ triṣu vṛcca tribhiḥ kramāt
+triṇavatrayastriṃśau tvā trayodaśyāṃ tu ṣaṭsuvṛt
+ayaṃ paraścaikaviṃśatyāṣṭau vṛcca tvaikādaśaḥ
+tebhyo namo viṃśa stu visargāścāṣṭamastataḥ
+trayodaśyāyaṃ dakṣiṇā ṣaḍbhirvṛtpañcavisrutāḥ
+ayaṃ paścāttrayodaśyāṃ ṣaṇṇā vṛtsaptavisrutāḥ
+trayodaśyāyamuttarā triṣu visrutāḥ
+trayodaśyāyamupari saptapañcaikanāntakam
+ayamagnistu navabhirvisargāḥ pañcamo viduḥ
+abodhyagniḥ saptadaśyāṃ ṣaḍbhirvṛccaturo visruk
+pañcadaśyavocāmeti dvau vā dvābhyāṃ ca visrutaḥ
+janasyagopāḥ ṣolaśyāṃ catvāri saptavisrutāḥ
+tvāmagnernavadaśaścaikaṃ saptaika nāntakam
+sakhāyassantrayodaśyā tribhiścaiva visarjanaiḥ
+sam̐ samidyu saptadaśyāmekena caturakastathā
+trayodaśīṃ tu tvāmagne haviṣmantaikavṛtribhiḥ
+tvāṃ citraśnavodaśabhistrayāṇāṃ triṣu visrutāḥ
+enāvogniṃ pañcadaśīṃ caikaṃ vṛddvayamucyate
+viśvamasya drutaṃ trayodaśasu dvayostṛtīyakam
+samudra vastu daśabhistrayaścatvāri visrutāḥ
+agne vājasyaikādaśyāṃ caturnāṃ pañcabhistataḥ
+ekādaśyāṃ saci idhānaḥ punarekaṃ tu ṣaṣṭhake
+kṣaporājan trayodaśyāṃ caikaṃ pañca tathaikakam
+bhadro no agnirdvādaśīṃ tu trayovṛnnavavisrutāḥ
+bhadrā utapradaśasu catasraścaturo visruk
+yenā samatsaikādaśyāṃ triṣu vṛcca dvayoratha
+navadaśāgniṃ taṃ manye veṣṭanaikāṣṭamo visruk
+so agniriyo navadaśaścatvāri daśasu kramāt
+saptadaśobhe suścandra pañcavṛtpañcavisrutāḥ
+trayodaśyāgne tamadyacaikaṃ vṛcca dvayoryadi
+adhāhyagnecaikādaśyāṃ visargāstu catasrakaḥ
+ebhirnorkaistrayodaśyāṃ caikaṃ vṛnnavabhistataḥ
+caturviṃśāgniṃ hotāraṃ pañcabhyaścatupañcasu
+ye eva ṛṣayonavadaśo dvayaṃ ṣaṣṭhe dvināntakam
+taṃ patnībhirnavadaśo dvayorvṛtsaptavisrutāḥ
+saptadaśyā vo cāṃ tribhyaśca navabhiḥ punaḥ
+ayamagniḥ pañcadaśīṃ catvārastuṣadaikatā
+saṃpracyavapañcadaśīṃ pañcadaśorathaikakam
+viṃśatirudbudhyasvāgne trayo dvābhyāṃ dvayaṃ tataḥ
+caturdaśīṃ enavahasyekaṃ vṛcca dvayostathā
+tapastapasya ṣaṭpadāścaikaṃ vṛccaturo bhavan
+dvāviṃśatiḥ prothadaśvaścaikaṃ vṛccaturaikakam
+āyoṣṭvāsadane viṃśetyekaṃ vṛccadvayaṃ visruk
+sahasrasyapramāṣṭau ca trayo vṛccaikamiṣyate
+iti śrī śaṅkarācāryakṛtau vājasaneyasaṃhitāyāṃ padakārikāratnamālāyāṃ
+ṣoḍaśo'dhyāyaḥ samāptaḥ
+atha saptadaśo'dhyāyaḥ
+namaste rudra dvādaśyāṃ dvau vṛcca tribhirityapi
+yāte rudra caturdaśyāṃ trayovṛcca dvayorvisruk
+yāmiṣu ca caturdaśyāṃ dvayaṃ vṛccaikameva ca
+śivena vacasā tvātu caturdaśiṃ dvayaṃ dvayoḥ
+adhyavocatṣolaśīyaṃ tu dvitīyaṃ pañcabhistrayaḥ
+navadaśāsau yastāmro dvābhyāṃ daśa ca visrutāḥ
+asau yovapañcadaśīṃ ca tvayyāṣṭau tathā dvayam
+namostu nītrayodaśyāṃ tisṛṇāṃ caturo bhavan
+pramuñcyathanvaṣolaśyāmekaṃ ghṛtsaptamastathā
+pijyaṃ dhanustrayodaśyāṃ catvāri saptabhirdvayam
+ṣolaśīparite dhanva dvayaṃ cature ekakam
+yātehetipañcadaśīṃ caikaṃ caturbhirekatā
+dvādaśāvatatya dhanuḥ pañcabhyastu catasrakaḥ
+namasta āyurdvādaśyāmekaṃ vṛcca dvayoryadi
+māno mahān saptaviṃśaṃ caikaṃ vṛddaśa visrutāḥ
+toketanapañcadaśyāmekaṃ vṛccaturekakam
+hiraṇyabāhavaḥ ṣolaśyāṃ ṣaṇṇāṃ vṛccaturastathā
+babhlṛśāya dvādaśīṃ tu veṣṭanau dvau tathā sati
+rohitāyeti dvādaśyāṃ triṣu dvayamathāpivaḥ
+kṛtsnāvītāya dvādaśīṃ veṣṭanāḥ pañcakakramāt
+vañcate tu trayodaśyāṃ saptabhistu catasrakaḥ
+uṣṇīṣiṇe kādaśaṃ ca saptanṛtsaptamī visruk
+visṛjadyo vidyadaṣṭau ṣaṇṇāṃ vṛccāṣṭāmī visruk
+sabhābhyaḥ sabhāpatyaṣṭau caturṇāṃ cāṣṭamo visruk
+gaṇeśyaścāṣṭamī yastu pañcabhyaścāṣṭamī tu vā
+senābhyo'ṣṭau yadiśyāṃtu pañcamī hvāṣṭamo visruk
+akṣau takṣabhya evasyātpañcamīṃ punaraṣṭamīm
+śvabhyaḥ śvapatiraṣṭabhyaḥ pañcavṛddvitayaṃ tataḥ
+kapardine'ṣṭabhiḥ kuryātsaptavṛccaikavisrutāḥ
+hrasvāyāṣṭau vṛdekaṃ syādāśaveṣṭau vṛdekakam
+jyeṣṭhāyāṣṭau trivṛtsyātāṃ sobhyāṣṭadvayaṃ ca vṛt
+vanniyāṣṭacaturthaṃ vṛdbilmineṣṭau dvayaṃ bhavet
+dhṛṣṇaveṣṭau ca vṛtpañca srutyāyāṣṭapadaṃ bhavet
+kūpyāṣṭavṛddvau ca syātāṃ vātyāṣṭabhyo vṛdekakam
+śaṅkaveṣṭavṛccaturo vṛkṣe navaṣaṭ catriṣu
+pāryyāyāṣṭau dvayaṃ vṛcca sikatyāṣṭau dvivṛdbhavet
+vrajajyāṣṭavṛtrayaścaiva śuṣkyāyāṣṭaikaveṣṭanam
+parṇyāya ṣolaśīṃ caiva daśavṛnnava visrutāḥ
+drā pendhaso navadaśīṃ catvāri triṣu visruṣu
+imā rudrā yāṣṭādaśastriṣu vṛttitayaikatā
+pañcadaśīṃ yāte rudrā visargāstu dvayaṃ tataḥ
+pariṇo ṣṭādaśaiva syāddvayaṃ vṛtṣaṭkameva ca
+mīlhaṣṭamo ṣṭādaśastu catvāri pañca visrutāḥ
+pañca daśīṃ vikirida trayāṇāṃ vṛcca pañcabhiḥ
+sahasrāṇi caikādaśyāṃ vṛddvayoratra pañcabhiḥ
+ekādaśīmasaṃkhyātā vṛddvayorvisrugekatā
+asminmahati ṣaṇṇāṃ tu caiko visruk tathaikanān
+nīlagrīvā pañcabhistu trirvṛccatvārivisrutāḥ
+śarvā adhastrirekaraṃ trirvyakṣe caturthī dvau vṛttriḥ
+bhūtānāṃ ca caturtha dvau trīn pathāṃ catvāri dvau catuḥ
+tīrthā catvādvau dvau ca cānneṣu pañcamī tathā
+vṛdelaṃ visrugaikaṃ ca nāntamekaṃ tu śasyate
+etāvantaścasaptarmāṃ caikaṃ vṛccaturo visruk
+namosturunnavadaśīṃ visargairnavabhiḥ kramāt
+iti śrī śaṅkarācāryakṛtau vājasaneyasaṃhitāyāṃ padakārikāratnamālāyāṃ
+saptadaśo'dhyāyaḥ samāptaḥ
+athāṣṭādaśo'dhyāyaḥ
+navaviṃśatyaśmanūrjaṃ vṛccatvāryaṣṭamo dvayoḥ
+imāmegne trayodaśyāṃ caikaṃ vṛttribhya eva ca
+pañcadaśīmarbudaṃ ca dvābhyāṃ ṣaḍbhistathaikakam
+ṛtavasthadvādaśī tu saptabhistu navāvisruk
+samudra sya tvā daśabhirdvau visargau prakīrtitau
+himasya tvā jarā daśa dvayamatra visrugbhavet
+trayo viṃśatirūpajmannekaṃ dvau ca tathaikakam
+apāmikṣaṃ caturdaśyāṃ dvayaṃ vṛttribhirekatā
+agne pāvakaikādaśyāmekaṃ canāntamatra tu
+sanaḥ pāvaka caturdaśyāmekaṃ vṛtpañcacaikakam
+pāvake yaikaviṃśatyā visruk pañcatrayaṃścanān
+caturviṃśatirnamaste pañcaṣaṭkaikameva tu
+saptadaśyāṃ tu ye devāścaikaṃ pañcabhirekatā
+ye devāścaturviṃśatyā dvayoḥ saptaikamucyate
+caturdaśīṃ prāṇadāśca pañcavṛddaśacaikatā
+agnistigmenaikādaśyāṃ visargāstraya īritāḥ
+ya imā navadaśyāṃ tu vṛddvayoḥ pañcamaikatā
+kiṃ svidāsīdaṣṭādaśastu caturnāṃ dvayamekakam
+pañcadaśīṃ viśvataścakṣuḥ ṣaḍbhiḥ daśacaikatā
+ekaviṃśe kim̐ svidvanaṃ pañcasaptabhirekakam
+navadaśo yā te dhāmāni triṣu tribhirekanān
+cakṣuṣaḥ pitāṣṭādaśastrayovṛttriṣu visrutāḥ
+viśvakarmā navadaśa ṣaṣṭhe catvāri caikanā
+yona pitā viṃśatistu trayo vṛtṣaṣṭhamatra tu
+ta āyañnavadarśi dvābhyāñcaiva dvayaikanā
+parodivā viṃśatiśca tatraikaṃ sapta visrugāḥ
+tamidgarbhaṃ navadaśīmekaṃ triṣu ca caikakam
+nataṃ vidātha saptadaśyāṃ dvābhyāṃ catvāri visrutāḥ
+viśvakarmāṇyaṣṭādaśyāṃ dvayaṃ caiva catasrakam
+āśuśśiśānaḥ ṣolaśīṃ tribhyaścaikādaśāvisruk
+saṃkrandano pañcadaśīṃ pañcabhistritayaṃ visruk
+sa iṣu hastaiḥ ṣolaśyāmaṣṭau vṛnnavamo bhavet
+bṛhaspate jaṣolaśyāṃ catvāri caturuṣu trayaḥ
+balavijñāya ṣolaśyāṃ ṣaṇṇāṃ vṛdaṣṭamaikanā
+gotrabhidaṃ tu ṣolaśyāṃ pañcamīṃ dvayameva ca
+ṣolaśyāmabhigotrāṇi triṣu vṛnnava visrutāḥ
+indra āsāṃ pañcadaśīṃ dvayorvṛt ṣaṭ cavisrutāḥ
+pañcadaśyenddra sya vṛṣṇaḥ tato dvābhyāṃ catasrakaḥ
+saptadaśīmuddha ṛṣayaḥ dvayoścaikaṃ dvayoratha
+aṣṭādaśāsmākamindra strayaḥ ṣaṇṇāṃ tathaikanā
+navadaśāmīṣāṃ cittaṃ dvau vṛcca tribhya eva ca
+avasṛṣṭā pañcadaśī dvayaṃ caikaṃ ca caikakam
+pañcadaśyāṃ preta jayatā ca saptavisarjanāḥ
+asau yā senaikaviṃśe dvayaṃ ca tribhirekatā
+yatra bāṇāḥ pañcadaśīṃ dvayoḥ sapta ca visrutāḥ
+marmāṇi te viṃśatistu visargāḥ pañcamo bhavan
+udenaṃ pañcadaśīṃ tu trayovṛccaikavisrutam
+indre mantu caturdaśyāṃ triṣu vṛccaikamucyate
+yasya kurma ṣolaśīṃ tu pañcavisruta etu na
+pañcadiśo navadaśīṃ triṣu triṣu cāṣṭasuvisrutāḥ
+ṣolaśyāṃ samiddhe agnau catvāri pañcasu kramāt
+daivyāyadya caturdaśyāṃ catvāryaṣṭastathaikanā
+vītam̐ haviḥ pañcadaśyā mekaṃ saptabhya eva ca
+saptadaśīṃ sūrya raśmiścatvāri caturṣu trayaḥ
+vimāna eṣo'ṣṭādaśastriṣu ṣaḍbhistu caikatā
+navadaśyukṣā samudro dvābhyāṃ caivāṣṭavisrutāḥ
+devahūssaptadaśīṃ tu dvayoḥ ṣaṭsutathaikakam
+vājasya mātrayodaśyāṃ pañcatribhirdvayaṃ tataḥ
+udgrābhaṃ ca caturdaśyāṃ catvāryekaṃ ca trīn kramāt
+kramadhvaṃ tu trayodaśyāṃ visargāḥ pañcamo bhavan
+prācīmaṃ caikaviṃśatyā catvāryaṣṭaikamucyate
+pṛthivyā ahaṃ saptadaśyā catvāri visrutāḥ
+svaryantona caturdaśyā catasrastu catasrakaḥ
+agne prehiti ṣolaśyāṃ tribhyaḥ saptabhirastra tu
+saptadaśyagne sahasrāsstribhyastribhirathaikakam
+suparṇosyāṣṭadaśabhirekaṃ vṛttraya ekakam
+ājuhvānastu navabhistṛtīyaṃ vṛddvayaṃ visruk
+tām̐ savituraṣṭādaśaścatvāri dvayamucyate
+vidhemate navadaśaścatasro dvau tu caikakam
+prendo agne trayodaśyāmekovā pañcavisrutāḥ
+citiṃ juhomyaṣṭādaśīṃ catasraḥ pañcanaikakam
+dvāviṃśatiḥ sapta tegne caikaṃ vṛtpañcabhiḥ punaḥ
+śukrajyotiścāṣṭābhirvā pañcabhyaḥ ṣaṭtathaikakam
+īdṛṅca saptamīṃ caivaṃ catvāri traya eva ca
+ṛtajitsatryajitsaptā ṣaṭsucatvāri visrutāḥ
+ṛtassatve dhruvassapta dvayorvṛtspta visrutāḥ
+īdṛkṣāsassaptadaśīṃ pañcavṛddaśacaikanā
+svatavān praghāsī saptapañcamyekaṃ tu caikakam
+indra ndaivī strayoviṃśastribhyastrayodaśīṃ dvayam
+iti śaṅkarācāryakṛtau vājasaneya saṃhitāyāṃ padakārikāratnamālāyāṃ
+aṣṭādaśo'dhyāyaḥ samāptaḥ
+atha ekonaviṃśo'dhyāyaḥ
+imam̐ stamasaptadaśīṃ dvayorvṛccaikanāntakam
+ghṛtaṃ mimikṣe navadaśa trivṛttridvayavisruk
+samudrā drurminnavadaśīṃ dvayorvṛddvayamekanā
+saptadaśīṃ vayannāma dvayoḥ pañcaikamevatu
+catvāri śṛṅgānavadaśā tu dvau sapta caikanā
+tridhāhitaṃ navadaśīmekena ṣaḍbhirekakam
+etā aruṣaṃ trayo viṃśastribhyaśca navabhistathā
+sindhoriva pañcadaśīṃ catvāri nā caikakam
+abhiplavaṃ pañcadaśīṃ tribhiścāṣṭau visarjanāḥ
+kaṃ cā iva cāṣṭādaśīṃ dvayaṃ vṛtpañca visrutāḥ
+mā abhya ṛṣata cāṣṭādaśo dvayoścaiva dvayoratha
+yā mante caikaviṃśatyā catubhiścaturekatā
+nājaśca meṣṭādaśabhiścatvāri dvādaśi visrukam
+prāṇo pāno dvādaśīṃ tu trayaṣṣaṭkaṃ ca visrutāḥ
+ojassahodvādaśastu visargāścaturo'bhavan
+jyaiṣṭhayaṃ ca me caturdaśyā ekaṃ vṛccaiva pañcamaḥ
+satyāṃ śraddhā dvādaśīṃ tu yaṃ ca daṣitayaṃ tathā
+pitṛṃ ve dvaṃdvādaśīṃ syāttribhyaścaturbhya eva ca
+dvāśo yantāyantā ca dvayoḥ ṣaḍbhirvisarjanaiḥ
+śarmayaḥ priyaṃ dvādaśyāṃ caikaṃ cāṣṭabhirityapi
+ūrkacca nṛtā dvādaśī ca dvābhyāmatra ṣalityapi
+dvādaśyāmṛtamṛtaṃ catvāri vṛddvayorvisṛk
+dvādaśī carairāyāstribhyo vṛcca tribhiryathā
+vīhayoyavā dvādaśya visargā dvādaśastathā
+dvādaśī cāśmā nṛttikā pañcamo vāvisarjanāḥ
+agnerāpastrayodaśyāṃ dvayo rekādaśastathā
+vasurvasatiścāṣṭau vā visargāḥ pañcamaḥ utaḥ
+agnirindra ssomaḥ saptacaturbhistu visarjanaiḥ
+mitro varuṇāssaptamaścatvāri ca visarjanāḥ
+pṛthivīyantarikṣaṃ saptacaturo visrugmatu
+aṃśūraśmi dvādaśīṃ tu catvāri dvādaśo visruk
+dvādaśyāgrayaṇo vaiśva pañcabhistu trayodaśa
+sruśṛ ca ścamasā dvādaśī ṣaḍbhirnavabhireva ca
+agnirgharmastrayo daśyāmekaṃ vṛddvādaśo nisruk
+vrataṃ mṛtavastribhistribhyo vṛddvaya īritā
+ekātisraḥ saptadaśīmekādaśa navā visruk
+catasroṣṭau dvādaśīṃ tu pañcavṛt ṣaḍasavisrugaḥ
+triyapi strīyapī daśasu vātathāṣṭau triṣu visrugāḥ
+paṣṭhavāṭ ca dvādaśastu caikaṃ vṛttribhirekana
+navadaśabhiḥ svā nāya svāhā saptaikameva ca
+iyaṃ terāṭ caturdaśyā dvābhyāṃ vṛccaikameva ca
+āyuryajñe na ṣolaśyāṃ visargaḥ saptamaṃ punaḥ
+stomo yajussaptadaśīṃ trayovṛtsaptavisrugaḥ
+iti śrīśāṅkarācāryakṛtau vājasaneyasaṃhitāyāṃ padakārikā ratnamālāyāṃ
+ekonaviṃśo'dhyāyaḥ samāptaḥ
+atha viṃśo'dhyāyaḥ
+viśve adhaviṃśatiḥ syāddvayorvṛtṣaṭkameva ca
+vājo nasya caturdaśyāṃ trayāṇāṃ navabhiḥ punaḥ
+navadaśo vā jonotha trayāṇāmaṣṭamaikana
+vājaḥ plurastāṣṭādaśo dvābhyāmaṣṭabhirekakam
+sāṃ mā sṛjā pañcadaśamekavṛccaturastathā
+payaḥ pṛthivyaikaviṃśo dvayoratra daśāvisruk
+ṛtāṣādviṃśatiścaiva tathaikaṃ cāṣṭavisrutām
+saṃhito viśvanavabhiḥ dvayoḥ ṣaṭsu visarjanāḥ
+navamyāṃ suṣumnaḥ sūryaṃ vāyoścaiva ṣalatra tu
+naveṣiroviśva vyacācaikaṃ saptasuvisrugāḥ
+bhujyuḥ suparmo navabhiścaikena saptamī yathā
+navaprajāprati rviśvakarmācaturthama pañcasu
+sano cāndra vadaśa caikaṃ tribhirvisarjanaiḥ
+pañcadaśa samudro si triṣu cāṣṭadvayaṃ tataḥ
+rucaṃ naḥ pañcadaśyāṃ tu nathaikaṃ dvaya
+tatvā yāmi viṃśatyā dvayaṃ pradaṣṭa visrutāḥ
+sannavamastathā ṣṭai tā caṣṭaḍbhirvisarjanīyakaiḥ
+saptadaśyagniṃ yunajmiṃ trayo vṛcca dvayaṃ visruk
+navadaśīmaite pakṣau catvāri vṛcca pañcamaḥ
+indurdakṣo'ṣṭādaśīṃ tu catvāri daśacaikakam
+diṣo mūrdhā trayodaśyāṃ dvayoḥ ṣaḍbhistu visrugaiḥ
+viśvasya mūrdhā dvāviṃśastathā dvau saptacaikakam
+iṣṭo yajño strayodaśyāṃ triṣu saptasu visruṣu
+ekādaśīmiṣṭo agnirdvayoḥ saptayathākramam
+yadākūtādviṃśatistu saptavṛtsaptavisrutāḥ
+etam̐ sathasthāṣṭādaśī sapta vṛttribhirekana
+saptadaśyetaṃ tvā nātha ṣaḍbhirvṛtpañcamaikana
+prastareṇa catudaśyā bhyāṃ vṛcca dvayoratha
+yaddattaṃ yat ṣau caiva hi
+yatra dhārāścaturdaśyā jyābhyāmaṣṭabhireva ca
+caturdaśimaye agnayastathā dvau caturo bhavan
+vārtra hatyā ya cāṣṭābhyo dvau veṣṭau tataḥ param
+sahadānuṃ ṣolaśī syād dvayaṃ veṣṭanbamatra tu
+mṛgonabhīmo viṃśatistribhiḥ saptabhirekanān
+vaiśvānaro naikādaśyā dvitīyaṃ vṛtṣalatra tu
+pṛṣṭo divaukaviṃśatyā visargāstu trayodaśa
+abhyāmataṃ navadaśīṃ dvayaṃ caiva dvitīyakam
+vayaṃ te dhyasaptadaśīṃ dvayaṃ dvitīyamekakam
+dhāmaśca ta caturdaśyāṃ dvābhyāṃ vṛtsaptavisrugāḥ
+iti śrīśaṅkarācāryakṛtau vājasaneya saṃhitāyāṃ padakārikāratnamālāyāṃ
+viṃśo'dhyāyaḥ samāptaḥ
+atha ekaviṃśo'dhyāyaḥ
+svādvīṃtvā viṃśatiścaivaṃ catvāryekavisrutam
+paririto saptadaśyāṃ catvāryaṣṭaikamucyate
+dvādaśī vāyoḥ pūtaśca dvayaṃ saptaca visrutāḥ
+punātivote canavabhirveṣṭanaṃ caikamevaca
+dvāviṃśati brahmakṣatraṃ caikavṛtpañcabhistataḥ
+nānā hi trayoviṃśatyā trayaścatvāri caikakam
+āśvinaṃ tejodaśamīmekaṃ vṛccaikavisrutam
+pañcadaśyāṃ tejo siṣadbhirvisarjanīyakaiḥ
+caturdaśīṃ ca yā vyāghrāṃ visrugekaṃ tathaiva ca
+yadāpipe caturdaśyāṃ dvayostriṣu ca caikakam
+dvādaśastu devā yajñaṃ dvayaṃ caiva visarjanam
+dīkṣāyai rūpaikādaśyāṃ dvitīyaṃ ca dvayorvisruk
+ekādaśyā tibhyarūpaṃ catvāri traya īritāḥ
+somasya rūpaṃ dvādaśyāṃ veṣṭanau dvau prakīrtitau
+āsandīrūpaikādaśyāṃ catvāri tritayaṃ bhavet
+vedyāvedistrayodaśyāṃ caikaṃ vṛddvayameva ca
+havirdhānaṃ yaddvādaśī visrastrayaśca visrutāḥ
+praiṣebhiḥ praiṣādaśabhiraṣṭau ṣaḍdvayaṃ tataḥ
+daśabhyaḥ paśubhiḥ paśūn catvāri vṛtṣaludvayoḥ
+dhānāḥ karambho dvādaśīṃ caikaṃ vṛtṣadbhiratra tu
+daśabhirdhānānām̐ rūpaṃ dvayordvitayamācake
+payaso rūpaṃ trayodaśyāṃ trayaścavisrutaḥ kramāt
+āśrā vayetyekādaśyāṃ pañcavṛtpañcamastathā
+daśārtha ṛcairūndhānāṃ trayaḥ pañcama eva ca
+aśvibhyāṃ prātassavanaṃ daśatriṣvekameva ca
+vāyavyairvāyaikādaśyāṃ tathaikaṃ vṛttriṣukramāt
+yajurbhirāpyaṃ dvādaśyāṃ pañcamo navamaḥ sakṛt
+ilābhirbhakṣāṃ navabhiḥ ṣaṭca dvau cadvayostataḥ
+vratena dīkṣāmāpnoti padā dvādaśabhiḥ punaḥ
+caturdaśaitāvadrū paṃ visarjanīyamekakam
+surāvantaṃ pañcadaśīṃ pañcamīṃ ṣaṭkamiṣyate
+yaste rasaḥ saptadaśyāṃ tathaikaṃ vṛccaturthakam
+sapta caturdaśo yamaśvanānamecerekamekakam
+yadatrariptoṣṭādaśastisraścaiva visarjanāḥ
+pitṛbhyaḥ svadhānavabhiścaturthassaptamastathā
+akṣan pitaraḥ saptamīṃ trayo visarjanaikanān
+punantu mā caikādaśyāṃ dvitīyaṃ caturo visruk
+ekādaśīṃ punantu mā dvayorvṛcca trayo thavai
+punantu mā de dvādaśyāṃ dvau vṛddvau traya īritāḥ
+pavitreṇapunīmā daśabhiścaika nāntakam
+yatte pavitraikādaśyāṃ caikaṃ vṛttantu ṣaṭ tathā
+ubhābhyāṃ devanavabhirekaṃ vṛttaddvayaṃ visruk
+vaiśvadevīsaptadaśyāṃ trayo vṛtaśca ṣaṭsva ca
+ye samānāśca dvādaśyāṃ vṛdadvayośca ṣalatra tu
+jīvājīveṣvekādaśyāṃ caturo visrugekana
+navadaśo dve sutī cavṛcca dvau tu yathākramam
+idam̐ havistrayoviṃśo navavṛcca caturthakam
+udīratām̐ navadaśaścaikaṃ vṛnnavamastathā
+tvam̐ somapnanavadaśīṃ dvayoścatvāri visrutāḥ
+tvayāhinastu viṃśatirdvābhyāmaṣṭadvayoratha
+tvam̐ somapi saptadaśyāṃ catvāri trīṇi visrutāḥ
+barhiṣado viṃśatistu dvayaṃ vṛt ṣaṭcavisrutāḥ
+upahūtāsaptadaśyāṃ dvayostribhyastu caikanān
+navadaśī āhaṃ pitṝn catvāri caturodvayam
+agniṣvāttāḥ ṣolaśīṃ ca pañcabhyaḥ pañcamo viduḥ
+āyantunaḥ saptadaśastrayassapta dvayaṃ ca nān
+pañcadaśe yegniṣvāttāḥ pañcavṛcca caturthakam
+ṣolaśyagniṣvāttā nṛtucatvāri ṣadakamekana
+ācyājānu viṃśatistu dvayoḥ pañca visarjanāḥ
+āsīnāsassaptadaśyāṃ caikaṃ vrataṃ caturthakam
+yamagne kavyavāhana caturdaśyāṃ trayaṃ tribhiḥ
+yo gniḥ kavyapañcadaśyāṃ catvāriṣaṭkamekatā
+navadaśīṃ tvamagne īlitṛ triścaturaikakam
+idaṃ pitṛbhyo viṃśatistrīṇi ṣaṇṇāṃ tu visrutāḥ
+ye ce hapañcaviṃśatyā catvāritisṛṣu dvayoḥ
+athā yathā navadaśaścaikamaṣṭau dvayaṃ tataḥ
+uśantastvā caturdaśyāṃ trivisargo dvināntakam
+apāṃ phenenaikādaśyāṃ visargāḥ ṣaḍyathā kramam
+navadaśīṃ somo rājā caikaṃ vṛccaturo bhavan
+caturviṃśatyādbhyakṣīraṃ pañcasapta ca visrutāḥ
+reto mūtraṃ trayodaśyā dvau vṛtau traya īritāḥ
+trayo daśī dṛṣṭārūpe caturastu dvayorathā
+vedena rūpe ṣolaśyāṃ catvāri vṛccatasrakaḥ
+sīsenatantraṃ pañcadaśīṃ vṛccaikatrāya ekatā
+viṃśatistadaśyarūpaṃ dvayamaṣṭabhireva ca
+tadaśvinā pañcadaśīṃ tathā traikaṃ trayo visruk
+sarasvati saptadaśyāṃ tatraikaṃ triṣu sukramāt
+payasā saptadaśyāṃ tu vṛtamekaṃ trayastathā
+ṣolaśī mintrassutrāmā dvau trayaścaikameva ca
+navadaśāntrāṇi sthālīrdvayostathā ṣalatra tu
+kumbho maniṣṭhu ṣṭādaśaścaturo daśacaikana
+mukham̐ sadasya dvāviṃśo visrukapañcaika nāntakam
+saptadaśyāśvibhyāṃ cakṣurghṛtau dvau pañcabhiryathā
+avirnameṣaṣṣolaśyāṃ dvayośca saptasukramāt
+indra sya rūpo'ṣṭādaśo visargāstu trayastathā
+navadaśātmannupasthe dvayordvābhyāṃ dvayaṃ tataḥ
+aṅgānyātmannaṣṭādaśaścaikaṃ caturbhirekatā
+sarasvatī yoṣṭādaśastrayoda dvayamekatā
+tejaḥ paśūnāṃ ṣolaśyāṃ trayaśca pañcamastathā
+ṣolaśyā kṣatrasya nābhirekaṃ catvāri visrutāḥ
+saptadaśyāśvinorbhaiṣaṃ dvayorvṛccaikameva ca
+krosikatamo navamyāṃ dvayorvṛddvayamekatā
+śiromeśrīḥ saptadaśyāṃ saptadaśyāṃ dvayorvṛccatusaptabhiḥ
+jihvāmebhadraṃ ṣolaśyāṃ dvayamaṣṭabhireva ca
+dvādaśīṃ bāhū me balaṃ caikaṃ tatraikamiṣyate
+pañcadaśīṃ puṣṭīrme rācaturastu catasrakam
+nābhirme tu caturdaśyāṃ dvau vṛtau pañcabhistataḥ
+caturdaśīṃ jaṅghābhyāṃ tu dvābhyāṃ dvitayameva ca
+aṅgeṣvātmaṃdra ca ṣaṭ padā visrugekamathaikana
+trayo devāstrayodaśyāṃ tisṛbhirnavabhiḥ punaḥ
+prathamā dvitī dvādaśyāṃ dvayaṃ ca navamī visruk
+sāmānmṛgbhiḥ saptadaśī sapta trayodaśaikatā
+pañcadaśyāṃ lomāni prapañcamyāṃ pañcamo visruk
+iti śrī śaṅkarācārya kṛtau vājasaneyasaṃhitāyāṃ
+padakārikāratnamālāyāṃ ekaviṃśo'dhyāyaḥ samāptaḥ
+atha dvāviṃśo'dhyāyaḥ
+yaddevāstu trayodaśyāṃ vṛtamekaṃ ca pañcabhiḥ
+caturdaśīṃ yādidivā visargāstu trayo bhavan
+yadi jāgraccaturdaśyāṃ tribhirvisarjanīyakaiḥ
+śūdre ryapako dvādaśyāṃ vṛccaikaṃ ca dvayostataḥ
+dvādaśyāṃ drupadādiva trayaḥ pañcasu visrutāḥ
+udvayaṃ tu trayodaśyāṃ catvāri caturastathād
+apo adyāntra cātriṃśaddvayaṃ catvāri caikatā
+samāvavartiviṃśatyā pañcacatvāri ca dvayoḥ
+saptadaśābhyādadhāmi dvayaṃ caivaikamiṣyate
+yatra brahmasaptadaśyāṃ dvau visargau samāhitau
+saptadaśīṃ yatrendra ścaturastu visarjanāḥ
+trayo daśyām̐ śunā tem̐ śuḥ pañcamastu visruk tataḥ
+siñcanti parisiñcanti trayodaśīṃ visrugvayam
+dhānā vantaṃ karambhāṣṭau dvābhyāṃ vṛcca visrugvayam
+bṛhadindrā ya dvādaśyāṃ dvau vṛttribhyastu caikakam
+adhvaryo adibhirdaśadvayaṃ caiva tathā bhavet
+yo bhūtānāṃ navadaśo vṛdekaṃ ṣaṭkadvayoratha
+prāṇapāme trayodaśyāṃ ṣaḍvṛnnavabhiratra tu
+navāśvina kṛtasya te pañcamaṃ caikamena ca
+samiddha indraḥ ṣolaśyā ṣaḍvṛccāṣṭama eva ca
+narāśam̐ sapraṣolaśyāṃ caturaḥ ṣaṭ ca dvau canān
+ṣolaśyā mīlito devai pañcavṛnnavamekatā
+juṣāṇo barhiḥ ṣolaśī pañcamyāṃ navamaikakam
+indra nduraḥ saptadaśyāṃ trayāṇāṃ dvādaśastathā
+pañcadaśśaruṣā sānaktā vṛtaiḥ ṣaḍbhistu caikatā
+daivyā mimānāṣolaśyāṃ dvayaṃ tu traya ekatā
+tisrodevī ssaptadaśyāmekaṃ vṛccaiva saptabhiḥ
+tvaṣṭādadhadaṣṭādaśaścaikaṃ tribhyastrayo bhavan
+vanaspatiḥ saptadaśyāṃ dvābhyāṃ ṣaḍbhistu caikatā
+stokānāṃ tu pañcadaśīṃ dvayoḥ sapta ca visrutāḥ
+āyātvindro viṃśatistu trayaścaivāṣṭāmo visruka
+āna indro ṣṭādaśastu pañcamaścāṣṭamaikatā
+navadaśyāna indro haścatvāri pañcabhiḥ punaḥ
+trātāraṃ saptadaśyāṃ tu caturo dvayamiṣyate
+caturdaśīndraḥ sutrāmā ṣaṭkam̐ saptabhirekatā
+tasya vayaṃ cāṣṭadaśaścatasraścaturaikatā
+navadaśāmandrai rindr trayaścatvāri ca ddvayam
+evedindraṃ viśatistu caturthaṃ saptamo visruk
+caturdaśyāṃ samiddho'gnirdvau vā ṣaṣṭhe tu visrutāḥ
+dvādaśīṃ tan napābhiṣaddvayaṃ caikaṃ tu aikatā
+indrā yendraṃ sarasvatī padāścaikādaśī kramāt
+ājuhvānāstrayodaśyāṃ caikaṃ vṛddvayamatra tu
+trayodaśāśvinānamucereke vratamekatā
+kavaṣyo na caturdaśyāṃ tribhiḥ pañcaikamucyate
+uṣāsā naktamekādaśyā trayaścatvāri caikatā
+pātaṃ no aśvinādivā caturdaśyekavisrutam
+tisrastredhā dvādaśīṃ ca dvayaṃ vṛcca dvayaṃ catat
+trayodhyaśvinābheja vṛccaikaṃ triṣu visruṣu
+ṛtujyendra ścaikādaśyāṃ trayāṇāṃ vṛccaturthakam
+gobhirnasotrayodaśyāmekamekaṃ pracakatre
+trayodaśāśvinā havirvisargantu dvayaṃ tama
+yamaśvinā trayodaśyāmekaṃ visruktathaikanā
+tamindraṃ tu trayodaśyāṃ visargāstisra eva ca
+yandra indraṃ dvādaśyā tridvayaṃ ca ṣaṣṭhake
+dvādaśīṃ savitā varuṇaikaṃ vṛddvayaṃ merire
+varuṇaḥ kṣatraṃ dvādaśyāṃ caikaṃ vṛcca dvitīyakam
+ekādaśāśvināgobhirvisrutau dvau tu caikanā
+tānāsatyācaikādaśyāṃ trayo vṛtastacaikakam
+tābhīṣajā dvādaśīṃ catvāri traya ūcatu
+yu uṃ surāmaikādaśyāṃ dvābhyāmekaṃ tu śasyate
+yasminna śvā saṣṣolaśyāṃ catvāriptamekatā
+ahā vyagne saptadaśyāṃ ṣaḍvratastu dvayoryadi
+dvādaśyāśvinātejasā trayovisruta eva ca
+gomadguṣuṇā daśabhiścatvāri caikameva ca
+nayatparo navadaśaca tisraḥ ṣaḍbhireva ca
+navabhistāna āvolha dvayaṃ ca dvitayaṃ ca tat
+pāvakānassarasvāṣṭau dvābhyāṃ vṛttisṛbhirvisruk
+codayitrī sūnṛtānāṃ saptacaikaṃ vrataṃ bhavet
+maho arnastu daśabhirvisrutā ścaturastathā
+daśendrā yāhi citrabhāno dvayaṃ caturastathā
+dhiyeṣito viprasapta dvau vṛtau ta catasrakaḥ
+tū tujāna upāṣṭau ca vṛtamekaṃ caturthakam
+aśvinābhiṣaikādaśyāṃ trayaṃ caikaṃ pravartate
+iti śrīśaṅkarācāryakṛtau vājasaneyasaṃhitāyāṃ padakārikāratnamālāyāṃ
+dvāviṃśo'dhyāyaḥ samāptaḥ
+atha trayoviṃśo'dhyāyaḥ
+dvādaśīmimaṃ me varuṇa visargaikaṃ tu śasyate
+tvanno agne saptadaśyāṃ caikaṃ ṣaṣṭhe tu caikatā
+satvanno gnaikaviṃśatyā dvābhyāṃ vṛddaśavisrutāḥ
+pañcadaśīṃ mahīmuṣu pañca vṛcca yathā viduḥ
+sutrāmāṇaṃ pañcadaśīṃ vṛtaścaturtha eva ca
+sunāvamāruhe saptadvayo vṛtorathantaraṃ
+āno mitranavamyāṃ tu tathaikaṃ vṛdvisrugdvayoḥ
+prabāhuvāsi srajaṃ ca viṃśati dvau visarjanau
+samiddho'gnirdvādaśīṃ tu catvāri navabhirvisruk
+dvādaśyāṃ tanūnapāccatustu ṣalityapi
+trayodaśīlābhiragnirdvayorekādaśastathā
+subarhiragnirdvādaśyāṃ caturo navamaikatā
+durodevīḥ pañcadaśyāṃ caikamekādaśāparāḥ
+uṣeyahvī caturdaśyāṃ vṛtaḥ pañca ṣalatra tu
+daivyā hotārā trayodaśyekaṃ caturekatā
+tisra ilā pañcadaśyāṃ tathaikamaṣṭabhiḥ punaḥ
+tvaṣṭāturī trayodaśa strayo vṛtastu ṣaṭsu ca
+śamitānaścaturdaśyāmekaṃ pañcaikamucyate
+svāhā yajñaṃ trayodaśyāṃ dvayaṃ vṛtaṃ ca saptamī
+vasantena dvādaśīṃ ca dvābhyāṃ ṣaṣṭhe yathā vidhi
+grīṣmeṇa ca trayodaśyāṃ vidurekaṃ tu ṣaṣṭhake
+trayodaśaśca varṣābhirekaṃ ca ṣaṣṭhameva ca
+śāradena trayodaśastathā caikaṃ tu ṣadakakam
+hemantena trayodaśyāṃ vṛccaikaṃ ca tathāṣṭamīm
+trayodaśaḥ śaiśireṇa vṛtamekamathāṣṭamaḥ
+hotāyakṣannavaviṃśastatra dvau daśamaḥ kramāt
+tanūnapātsaptadaśa catvāriṣaṣṭhamaikanā
+narāśam̐ samekaviṃśastato dvāvaṣṭamo visruk
+ilekito viṃśatistu dvau vṛtau ṣaḍbhirekatā
+barhirūrṇā vaṣolaśyāṃ dvābhyāṃ vṛccaturo visruk
+durodiśaścaturviṃśastrayāṇāṃ ca daśaiva tu
+supeśasā ca viṃśatyā triṣu vṛtsu dvayovatha
+daivyā hotārāṣṭādaśo visrutau dvau tathāpivā
+tisrodevīṃ viṃśatyaikaṃ ca saptasu kramāt
+suretasaṃ caturviṃśaddvayorvṛccatuṣaṣṭhake
+navaspatiṃ savitāraṃ saptadaśyekamekakam
+pañcacatvāriṃśadagniṃ svāhāścatvāri cāṣṭame
+caturviṃśāśvinau chāgau dvādaśastu visarjanāḥ
+aśvinau sacatvāriṃśatsamiṃ viṃśataikakam
+aṣṭapañcāśadaśvinau cchāgadaśavṛdvāsvaviṃśatiḥ
+aṣṭā catvāriṃśadvanaspatimabhijitsaptavṛt
+caturdaśavisargāstu nāntamekamihocyate
+navadaśāgniṃ sviṣṭakṛttrīṇi sapta visarganāḥ
+devaṃ barhissaptadaśyāṃ trīṇi pañcameva ca
+devīrdvāraścaturdaśyā vṛccaikaṃ caturastathā
+caturdaśīṃ devī uṣāsau caturthantu caikakam
+joṣṭrī saraścaturdaśastrayāṇāṃ trīṇi caikakam
+saptadaśīndorjāhatī ṣaṣṭhe caiva catasrakaḥ
+ṣolaśī devā devānāṃ triṣu vṛcca dvayorvisruk
+devīstisraḥ pañcadaśyāṃ veṣṭanaikaṃ tu pañcabhiḥ
+deva indro ṣṭādaśastu vṛcca trayaṃ tu ṣaṣṭhake
+devo devairekaviṃśaścatvāri daśabhiḥ punaḥ
+navadaśo devaṃ bahistrayovṛcca catasrakaḥ
+catuścatvāriṃśaddevo agniḥ sviṣṭakṛddvādaśa
+caturdaśavisargāstu māntamekantu dvāsyate
+trayo viṃśatyagnimadya caturo dvau ca ṣaṣṭhake
+sūpasthāḥ pañcaviṃśatyā catvāri saptatrīn kramāt
+catuścatvāriṃśatvāmadya ṛṣe ṣaḍvṛddaśabhiḥ
+iti śrī śaṅkarācāryakṛtau vājasaneyasaṃhitāyāṃ padakārikāratnamālāyāṃ
+trayoviṃśo'dhyāyaḥ samāptaḥ
+atha caturviṃśo'dhyāyaḥ
+tejosiśukraṃ daśabhirekaṃ vṛccaturastathā
+aṣṭādaśīmāmagṛbhṇannekaṃ caikaṃ tṛtīyakam
+pañcadaśyābhidhā asi catuṣkaṃ tu caturthakam
+prajāpataye'ṣṭāviṃśaḥ pañcapañcaikamiṣyate
+ekādaśīṃ yo arvantaṃ visargāḥ pañcamastathā
+agnaye svāhā somāya padāścadvādaśābhavan
+hiṃkārāya tathāṣṭau ca catvāriveṣṭānaḥ kramāt
+niviṣṭāyopaviṣṭāṣṭau samāpyale vṛtastrayaḥ
+aṣṭau tathā kūjate prabuddhāya vṛccasaptamaḥ
+aṣṭame yate dhāvateti tisraścaiva vṛtaḥ pṛthak
+javāyaṃ ca balāyāṣṭamyā catvāri vṛtastathā
+dvādaśyāmīkṣamāṇāya dvayorvṛto rathāntaram
+hiraṇyapāṇiṃ navamīṃ vṛccaikaṃ tu tathaikakam
+devasya ca tatoṣṭau ca dvayaṃ ca dvitayaṃ bhavet
+aṣṭabhyaḥ suṣṭutiṃ caiva trayaśca dvayamiṣyate
+aṣṭarāttiṃ satpatiṃ ca trayāṇāṃ ca vṛtaṃ punaḥ
+devasya savitvaṣṭamaścaiva dvayorathaikakam
+agniṃ stomena navabhirekaṃ ca dvayameva ca
+sahavyavāḍdaśabhistu dvābhyāṃ ṣaḍbhistathā punaḥ
+daśamīṃ tatvā ghṛtasno trayaścaikamathaikakam
+ekādaśyāmagnindutaṃ caikaṃ caikaṃ punarekatā
+ajījano hi daśabhistrayāṇāṃ tribhireva ca
+dvāviṃśatirvibhūrmātrā tisṛbhyo daśamastathā
+devā āśā saptadaśyāṃ triṣu vṛccaiva ṣaṭsu ca
+kāyakasyai tu navabhiścatvāri caikameva ca
+adityai mahyai ṣaḍbhistu vṛtaṃ cacaikamatra tu
+na va pūṣṇe prapabhyamya caturo vṛta eva ca
+trayodaśyā brahman brahma triṣupañcasu caikratā
+dogghrī thenuḥ saptadaśyāṃ dvayamaṣṭaikamucyate
+nikāme nikāmaikādaśyāṃ trayāṇāṃ saptamaḥ punaḥ
+prāṇāyāpānasaptamyāṃ dvayorvṛtostathā sakṛt
+prācyai pradiśervāccai dakṣiṇāyai daśapadāstathā
+ādbho vārbhyo dvādaśīṃ ca dvau vṛtau navabhiḥ punaḥ
+bātāya dhūmāyāṣṭādaśaḥ pañcamadvayamācaret
+agnaye somaikādaśyāṃ vṛtamekaṃ dvayorvisruk
+nakṣatrebhyo navamyāṃ tu dvayoḥ sapta ca visrugaḥ
+na ca cendrā ya sūryāya trayo vṛccaiva saptamaḥ
+ṣaṭsu mūlebhyaḥ śākhābhyaścaikaṃ vṛt ṣaṭcacaivahi
+pṛthivyāntarikṣāya dvādaśyāṃ triṣu saptamīm
+asave vasave ṣṭamyāṃ pañcaveṣṭanamiṣyate
+śūṣāya saṃsarpā sapta veṣṭanaṃ caikameva tu
+nadhave mādhavāyeti trayodaśyekamekakam
+vājāpracaturdaśyāṃ ṣaḍvratāścaika visrutam
+āyuryajñena viṃśatyā catvāryekādaśastathā
+saptame caikamasmai dvābhyāṃ trayo vṛtastu caikakam
+iti śrīśaṅkarācāryakṛtau vājasaneyasaṃhitāyāṃ padakārikāratnamālāyāṃ
+caturviṃśo'dhyāyaḥ samāptaḥ
+atha pañcaviṃśo'dhyāyaḥ
+ṣaḍviṃśatiḥ prajāpataye trayaṃ yaḥ pañcacaikatā
+yaḥ prāṇato dvādaśīṃ ca caturonavavisrutāḥ
+candra māste navadaśaḥ plunardvayorvisruk
+yuñjanti vraghnaṃ navabhirekaṃ visarjanīyakam
+yuñjantyasya navamyāṃ tu caturo ṣenaḥ kramāt
+yadvāto apa ṣolaśyāṃ visruk pañcaikanāntakam
+pavasvasvāṃ jantunanmekaṃ tisṛṣu visṛbhāḥ
+bhūrbhuvaḥ svaḥ saptadaśīṃ caikaṃ catvāri ca dvayoḥ
+saptadaśīṃ kaścidekākī caturthastrayo visrukaḥ
+sūrya ekākī dvādaśyāṃ dvābhyāṃ vṛcca tu pañcamam
+saptadaśa kasvidāsīdveṣṭanaikaṃ tathā dvayoḥ
+dyaurāsīcca trayodaśyāṃ caikaṃ ṣaṣṭhe tu visrutāḥ
+pāyuṣṭāva ca daśabhirekaṃ ca saptamo visruk
+eṣa syaratthaḥ ṣolaśyāṃ dvayorna bhirekatā
+sam̐ śitoraśmekādaśyāṃ ṣaṣṭhe tu saptanau visruk
+svayaṃ vājintrayodaśyāṃ vṛdekaṃ nāntamekatā
+trayoviṃśatirnavā u caturthaḥ pañcamakatā
+agniḥ paśurdvāviṃśatyā visargā daśanaicaikamān
+ambe ambike dvādaśyāṃ dvābhyāṃ vṛcca dvayoḥ punaḥ
+gaṇānāṃ tvā caikādaśyāṃ veṣṭanaiḥ pañcabhiḥ pṛthak
+āhaṃ jānirdvāviṃśaḥ pañcavṛcca tu ṣaṣṭhake
+ekādaśyā sandhyā va ddvābhyāṃ tribhyastu caikatā
+yakāsakau śakuntikā trayodaśyekavisrutam
+pañcadaśīṃ yakosakau dvayorvṛtaśca pañcamaḥ
+mātā cate saptadaśyāṃ visrugekaṃ tu śasyate
+mātā ca saptadaśastu vṛtamekaṃ trayaikatā
+ūrdhvāmenāṃ caturdaśyāṃ dvau vṛtau dvau canāntakau
+caturdaśordhvamenaṃ tu vṛcca dvayaṃ dvināntakam
+yadasyā oṃ hu dvādaśyāṃ caturastu catasrakaḥ
+dvādaśastu yaddeṣāsastatradvayo strayastathā
+yaddhariṇaṃ caturdaśyāṃ vṛdekaṃ caikameva ca
+ṣolaśyāṃ yaddhariṇaṃ tu visargāstraya īritāḥ
+dadhikrāvṇa strayodaśyāṃ vaiṣṭaikaṃ pañcabhistathā
+gāyatrī triṣṭubdvādaśyā dvitayaṃ caikameva ca
+dvipadāyāścaturdaśyāṃ ṣaḍvṛccaikādaśo visruk
+ekādaśamahānāmnāstrīṇicaiva navābhavan
+trayodaśastu nāryaste visargaḥ pañcamastataḥ
+dvādaśīṃ rajatā hariṇīḥ sīsāścaikamaṣṭabhiḥ
+kastvā chayati saptadaśaścaikaṃ vṛtaṃ ca pañcabhiḥ
+ṛtavastarṛdvādaśyāṃ vṛdekaṃ traya īritaḥ
+dvādaśyardhamāsāḥ parūm̐ ṣi te dvayoścatasrakaḥ
+daivyā adhvacaturdaśyā vṛtaṃ caikaṃ tu pañcamīm
+dyauste pṛthipañcadaśaścaikebhyastu catuṣkakam
+pañcadaśasante pare trayāṇāṃ pañcabhistu vai
+kiṃsvitsūrya pañcadaśīṃ dvayośca trīṇi caiva tu
+caturdaśīṃ brahmasūrya dvau vṛtau pañcamamaikatā
+pṛcchāmi tvā navadaśaḥ punardvau dvitayaṃ visruk
+viṃśatya piteṣu triṣu vṛtaṃ caikaṃ dvayaṃ ca tat
+keṣvanto viṃśatistu syādvayoścaturaikatā
+navadaśyāṃ pañcasvantaḥ pañca vṛt pañcavisrutāḥ
+kāraṃ mareṣolaśīṃ ca dvitayaṃ vṛddvayoratha
+ajāre viṃśaṃ dvādaśyāṃ trayāṇāṃ ca dvayorvisruk
+katyasyaviṣṭāṣṭādaśastriṣu pañcasu visrutāḥ
+ṣalasya tu navadaśa strīṇi sapta ca visrutāḥ
+kosya veda saptadaśo dvayoścaiva tu saptamī
+vedāhamasya ṣolaśyāṃ trīṇi cai vai trayastathā
+aṣṭādaśaḥ pṛcchāmi tvā paramekaṃ tupañcamam
+navadaśīya vedastu vṛtamekaṃ daśāvisruk
+trayodaśasubhūḥ svayaṃ bhūratra trīṇi saptabhiḥ
+hotāyakṣatprajādaśa caikaṃ vṛtadvitīyakam
+iti śrī śaṅkarācāryakṛtau vājasaneyasaṃhitāyāṃ padakārikāratnamālāyāṃ
+pañcaviṃśo'dhyāyaḥ samāptaḥ
+atha ṣaḍviṃśo'dhyāyaḥ
+trayodaśyaśvastūparo strīṇi caiva tu saptamī
+dvādaśāśvinā adho rāmau vṛtamekaṃ tu saptabhiḥ
+tvāṣṭrau lomasyaikaviṃśaḥ ṣaḍvṛccaiva trayodaśa
+śitirandhraḥ pañcadaśyāṃ vṛccāṣṭau dvādaśāstathā
+śuddhavālatrayodaśyāṃ pañcabhirnavabhirvisruk
+navāvaliptāraudrā stu caturo navamīvisruk
+daśaphalgu lohitoṇī catvāri vṛcca saptamaḥ
+kṛṣṇagrīvāṃ śitidaśa ṣaṇṇāṃ vṛtāmathāṣṭamāḥ
+dvādaśī śilpā vaiśvadevyaḥ caturthastathāṣṭāmaḥ
+kṛṣṇagrīvāścaikādaśyāṃ catuṣkaṃ javamaḥ punaḥ
+ṣolaśṣunnata ṛṣamaḥ pañcamastu caturdaśaḥ
+ekādaśaitā aindrā gnā dvau vṛtau dvādaśastathā
+trayodaśīṃ kṛṣṇagrīvāstribhyastu daśavisrutāḥ
+kṛṣṇāṃ bhaumāṣṭa daśamīṃ visargāṃ navamaḥ punaḥ
+dhūmāṃ ca saṃcaturdaśyāṃ visrugdevo pañcanāntakāḥ
+daśamīṃ tryavayogāya saptamaḥ pañcasaṃkramāt
+daśamyāṃ ṣaṣṭhavāhaśca tisraścaiva tu pañcame
+kṛṣṇagrīvāḥ ṣolaśīṃ ca caturtha ṣolaśāvisruk
+daśamīmuktāḥ saṃ carāvṛccaikaṃ daśavisrutāḥ
+caturdaśāgnaye nīka daśapañcasu pañcabhiḥ
+aṣṭamyāṃ coktāḥ saṃcarāḥ pañcabhyaścāṣṭamī tathā
+dhūmrā babhrupañcadaśyāṃ ṣaḍvṛtau navamastataḥ
+uktāḥ saṃcarāṣṭamyāṃ velamekaṃ tu cāṣṭasu
+caturdaśīṃ vasantāya caikaṃ dvau pañcanāntakam
+samudrā ya dvādaśīṃ ca dvayoścaikaṃ tu pañcamaḥ
+somāya haṃso dvādaśyāṃ dvābhyāmekaṃ caturthakam
+dvādaśyāgnayekūṭarūn vṛtau caikaṃ tu pañcamīm
+somāya lanrāṃ caturdaśyā tratri caturastrayaḥ
+caturdaśāhne parāvata dvayoṣṣaḍbhistrayastathā
+bhūmyā ākhuṃ dvādaśastu dvayordvayaṃ tu pañcamīm
+vasubhya ṛśyāṃ trayodaśyekaṃ ṣaṣṭhetha pañcakā
+dvādaśī śānāyaparo visrugekaṃ catuṣkanān
+prajāpatayaikādaśyāmekena dvau tribhistataḥ
+caturviṃśatprajāpataye ca vāya ṣalaṣṭamī
+mayuḥ prājāpāṣṭādaśa ścatvārye kādaśīṃ tataḥ
+navadaśassomāya kuluṅgacaturthe kādaśīm
+saurī balākā viṃśatyā catuṣkaṃ navabhistataḥ
+viṃśatiḥ suparṇaḥ pārjanyaścaturbhistrayodaśaḥ
+puruṣamṛgo'ṣṭādaśastrayāṇāṃ daśavisrutāḥ
+aṣṭādaśaiṇyahno maṇḍadvitīyaṃ cāṣṭasu kramāt
+anya vāpo ṣṭādaśīṃ tu trayāṇāṃ caiva saptamī
+varṣāhūrnavadaśasya dvābhyāṃ dvādaśavisrutāḥ
+śvitra ādityāṣṭādaśā vṛdekaṃ daśacaikatā
+khadgo vaiśvadevaika viṃśatyekā vṛddvādaśā visruk
+iti śrīśaṅkarācāryakṛtau vājasaneya saṃhitāyāṃ padakārikāratnamālāyāṃ
+ṣaḍviṃśo'dhyāyaḥ samāptaḥ
+atha saptaviṃśo'dhyāyaḥ
+śādaṃ dadbhirviṃśatiḥ syāt ṣaṣṭhe pañcasu caikatā
+viṃśatyādityān śmaśrubhiścatvāriṣadatathaikatā
+vātaṃ prāṇe naikaviṃśo vṛtonavaikavisrutaḥ
+karṇābhyāṃ ca navadaśaḥ pañcabhiḥ pañcamaikatā
+maśakān syāttrayodaśyāṃ trayastriṃ tribhiriṣyate
+javaṃ jaṅpvā caturdaśyāṃ triṣu veṣṭasu caikakam
+ṣaḍviṃśatyagneḥ pakṣatidvābhyāmaṣṭaca visrutāḥ
+dvātriṃśadindrā gnyoḥ pakṣa tricaiva daśasvapi
+caturviṃśatirmarutāṃ skandhā vicaturastrayaḥ
+dvāviṃśatiḥ pūṣṇorvāmnaṣṭunā ṣaṭpañcapañca
+indra sya krolo dvādaśyā vṛdekaṃ dvau tathaikakam
+nabha udaryye dvāviṃśaṃ catvāriṣaṭ ca pañcamaḥ
+vidhṛtiṃ nābhyā ṣaḍviṃśastrayo vṛccāṣṭavisrutāḥ
+yasyemeṣṭādaśaścaturṇāṃ vṛccatasrakaḥ
+ya āptadāścāṣṭādaśīṃ caturthaṃ pañcamo visruk
+āno bhadrā navadaśīṃ catvāryekādaśaikatā
+devānāṃ bhadrai kaviṃśo dvābhyāṃ tu velaṃ tu ṣaṭsu ca
+navadaśastān pūrvayādvitayan dvayamekatā
+taṃ no vātaścaikaviṃśa striṣu cāṣṭavisarjanāḥ
+tamīśānaṃ navadaśīṃ vṛtamekaṃ tu pañcamaḥ
+svasti na indra ṣolaśyāṃ trīṇi vṛcca daśāvisruk
+pṛṣadaśvā ṣolaśīṃ tu pañca vṛddaśacaikatā
+bhadraṃ karṇebhiḥ saptadaśyāṃ tratri navabhistataḥ
+śatabhinnaikaviṃśatyā caikaṃ vṛccāṣṭamīpunaḥ
+aditirdyaurnavadaśaścaikavṛddvādaśī visruk
+mānomitroṣṭādaśastu dvayaṃ daśasu caikatā
+yannirṇijāsaptadaśastrayo vṛtṣaḍbhireva ca
+aṣṭādaśaiṣaśchāgastu dvitayaṃ ṣaṭsu caivahi
+yaddhaviṇyamaṣṭādaśastrayaścāṣṭabhirekatā
+hotādhvaryuḥ pañcadaśaḥ ṣaṣṭhe ca ṣaḍbhiratra tu
+yūpavraskāścāṣṭādaśaḥ ṣaṇṇāṃ vṛ caturastathā
+upaprāgāviṃśatistu tisṛṇāṃ tu catuṣṭayam
+yadvājinastrayoviṃśo dvayaṃ vṛttritayaṃ bhavet
+dvāviṃśatiryadaśvasya caikaṃ vṛttriṣu visrutāḥ
+yad vadhyaṃ saptadaśastriṣu catvāri visrutāḥ
+yānte gātrādekaviṃśastisrastu dvau tu visrutau
+ye vājinamekaviṃśaḥ pañcabhiḥ ṣaḍbhireva ca
+yannīkṣaṇaṃ ṣolaśīṃ tu tisrastu pañcabhiḥ punaḥ
+mātvāgnidhvanaikaviṃśatyā tisṛbhiścaturo visruk
+nikramaṇaṃ viṃśatistu tisṛṇāṃ caikameva ca
+pañcadaśīṃ yadaśvāya vṛtasrīścaikavisrutaḥ
+aṣṭāviṃśatīmānukaṃ pañcabhyo navavisrutāḥ
+iti śrī śaṅkarācāryakṛtau vājasaneyasaṃhitāyāṃ padakārikā ratnamālāyāṃ
+saptaviṃśo'dhyāyaḥ samāptaḥ
+atha aṣṭāviṃśo'dhyāyaḥ
+viṃśatyagniśca pṛthivī caturṇāmaṣṭamīpunaḥ
+sakāmāṃstu trayodaśyāṃ trīṇi dvayaṃ tu caikatā
+brahmarāja nyekavaṃśo visargāścaturastathā
+bṛhaspateti ṣaḍviṃśastisrastu traya eva tu
+indra gomaṃ viṃśatistu ṣaṭkaṃ tu caturaikatā
+ṛtāvānaṃ pañcadaśyāṃ caikaṃ vṛtraya īritāḥ
+vaiśvānaram̐ havāṣṭau ca visargaikaṃ tu tadbhavet
+agnirukthena tisrastu visargaṃ caikameva ca
+vaiśvānarasya saptadaśyā tra dvayoścaturthakam
+marutvāṃ indrā ṣṭādaśo dvayorvṛddvitayaikatā
+ekādaśīṃ mahām̐ indro vajraivaṃ tridvayoratha
+agni ṛṣistathāṣṭau ca trayo vṛtṣaḍbhiratra tu
+anuvīraistu ṣolaśyāṃ tisṛbhiḥ saptabhistathā
+ānogotrā viṃśatistu caturaḥ saptacaikatā
+iti śrī śaṅkarācāryakṛtau vājasaneyasaṃhitāyāṃ padakārikā ratnamālāyāṃ
+aṣṭāviṃśo'dhyāyaḥ
+atha ekonatriṃśo'dhyāyaḥ
+samāstvāgne'ṣṭādaśastu vṛdekaṃ saptavisrutāḥ
+saṃcedhyasvapañcaviṃśatyekavṛddvau ca visrutau
+tvāmagne vṛṇāṣṭādaśaścaturthaṃ caturaikatā
+ihaivāgne dhyekaviṃśa pañcavṛtritayaikatā
+kṣatreṇāgneḥ saptadaśyāṃ pañcavṛccavisruktrayaḥ
+atijihro navadaśo dvau vṛccatvāri visrutāḥ
+navadaśyanādhṛṃṣyo jāpañcavṛnnavacaikatā
+bṛhaspate savitaraṣṭā daśo dvau vṛcca dvau tu visrutau ||
+amutra bhūyātṣolaśyāṃ dvau vṛcca tribhirityapi
+ūrdhvā asya caikādaśyāṃ trayāṇāṃ vṛccaturthakaḥ
+tanūnapādasudaśa dvau vṛtpañcasu visruṣu
+madhvāyajñaṃ ca daśamīṃ dvayorvṛcca caturthakaḥ
+acchāyameti dvādaśyāṃ caikaṃ vṛcca trayo visruk
+sa ya kṣa cca trayodaśyāṃ vṛddvayaṃ saptavisrutāḥ
+dvārodevīścaikādaśyāṃ vṛdekaṃ pañca visrutāḥ
+te asya yo ṣṭadvādaśyāṃ catvāri vṛccacaikakam
+dvādaśīṃ daivyā hotārā vṛtamekaṃ trayovisruk
+tisro devīścaikādaśyāṃ visargāstu trayastathā
+tannastūrī trayodaśyāṃ dvayorvṛtordvayorvisruk
+vanaspatevadaśamīṃ visargastu dvayoratha
+agne svāhācaikādaśyāṃ vṛtamekaṃ trayastathā
+pīvo annān saptadaśastathāṣṭau navacaikatā
+rāye nu yaṃ viṃśatistu catvāri vṛttrayorvisruk
+vāyuragnegādaśabhistrayovṛtṣaṣṭamekatā
+prayābhiyāsi viṃśati vṛttrayaśca caturthakaḥ
+vāyo ete ca daśamīṃ dvau vṛtautraya ekakam
+viṃśaikayā cadaśabhiḥ pañcavṛttrayardvaritāḥ
+niyuktvā nvāyo dvādaśyāṃ dvayorvṛcca trayo visruk
+ānoniyudbhyāṣṭādaśastrayo vṛt ṣaṭkamekatā
+nava vāyo navamyāṃ ca dvau vṛtau dvau ca visrutau
+yena dyaurnavadaśastu dvayaṃ ṣaṭke tathaiva ca
+yaṃ krandasītrayodaśyāṃ pañcavṛcca dvayaṃ tataḥ
+āpo hayaḥ ṣolaśīṃ tu saptavisruk tathaiva ca
+yaścidāpaścaikaviṃśastataścaikaṃ navāvisruk
+abhitvā śūtrayodaśyāṃ vṛtaṃdvayaṃ ca ṣaṣṭhakam
+natvāvān saptadaśyāṃ tu vṛttrayaḥ saptasu trayam
+pañcadaśyāṃ tvāmiddhihavā vṛdekaṃ traya evatu
+satvaṃ na ścitra navadaśyatra triṣu ca pañcasu
+kayā naścitraikādaśyāṃ vṛccaikaṃ ca trayo visruk
+kastvā satyaścaikādaśyāṃ visargāścaturastathā
+abhīṣuṇo navamyāṃ tu caikaṃ visargamucyate
+yajñāyajñā caturdaśyāṃ caturovṛta ekatā
+ūrjo napātaṃ ṣolaśyāṃ dvābhyāṃ catvāri visrutāḥ
+saṃvatsaro si ṣolaśyāṃ trayaścaikādaśastathā
+pretyā etyai pañcadaśīṃ trayo vṛccaikavisrutam
+iti śrīśaṅkarācāryakṛtau vājasaneya saṃhitāyāṃ padakārikāratnamālāyāṃ
+navaviṃśatiradhyāyaḥ samāptaḥ
+atha triṃśo'dhyāyaḥ
+samidhendraṃ caturdaśyāṃ dvau vṛccatura ekatā
+tanūnapātaikādaśyāṃ ṣaṇṇāṃ vṛtāṃ catasrakam
+ilābhirindraṃ daśamīṃ caturaḥ ṣaṭ cavisrutāḥ
+barhiṣīndraṃ dvādaśīntu catvāri pañcavisrutāḥ
+saptadaśau jonavīryaṃ dvau vṛcca ṣaṭkayoratha
+uṣendra sya trayodaśyāṃ veṣṭanaḥ pañcamastathā
+bhiṣajā sakhaikādaśyāṃ vṛtaṃ dvayaṃ visrugvayam
+ilāsarasvatī ṣaṭsu vṛccaikaṃ tu trayovisruk
+tvaṣṭāramindraṃ navamyāṃ caturo veṣṭanaḥ kramāt
+pīyo joṣṭā raikādaśyāṃ tisrastisṛbhirekatā
+indraṃ svāhā jya dvādaśyāṃ trayaḥ pañcavisarjanāḥ
+devaṃ barhiraṣṭādaśa dvayoḥ pañca ca visrutāḥ
+pañcadaśīndra sa ghāte dvayoścaikaṃ dvitīyakam
+uṣāsānaktaikādaśyāṃ catasrastu dvayaṃ tataḥ
+pañcadaśyāṃ vasudhitī veṣṭanaṃ dvayamucyate
+sudughe payo ṣṭādaśa pañcasvapitu veṣṭanāḥ
+hatādyaśam̐ sāścaturo velamekaṃ tathaivaca
+patimindraṃ dvādaśīṃ tu vṛccaikaṃ caikatā dvayoḥ
+tritrarūthaḥ saptadaśyāṃ catasraḥ pañcamīvisruk
+madhuśākho navamyāṃ tu dvayaṃ vṛtaṃ dvitīyakam
+stāsa sthā saptamyāṃ veṣṭanau dvau tataḥ param
+sviṣṭan kurvan saptamīṃ tu triṣu vṛccaikamekatā
+indrā yacchā gadvādaśyāṃ visrugekaṃ yathoditam
+samidhānaṃ pañcadaśyāṃ catasrustu caturthakam
+tanūnapātaṃ navamīṃ vṛtrayaścaikameva ca
+navamīlenyamīlitaṃ mrayaśca dvau tathaikakam
+subarhiṣaṃ navamyāṃ tu trayo vṛtestathā sati
+daśavya ca svatīssupra trayāvṛtastu ṣaḍvisruk
+supeśasā navamyāṃ tu vṛccāṣṭau catathākramam
+pracetasā ca daśāmirvitaścatvāri caikakam
+peśasvatīśvaikādaśyāṃ vṛdekaṃ saptavisrutāḥ
+sureta sannavamyāṃ tu veṣṭanāstraya eva ca
+hiraṇyaparṇaṃ navabhiścaikaṃ veṣṭanamucyate
+svāhākṛti
+mekaṃ catasrakaḥ
+śucimuṣṇihāṣṭādaśasaptavṛttraya e
+iti śrī śaṅkarācāryaviracitāyāṃ vājasaneyasaṃhitāyāṃ padakārikāratnamālāyāṃ
+triṃśo'dhyāyaḥ samāptaḥ
+atha ekatriṃśo'dhyāyaḥ
+ntataḥ
+navadaśyāṃ ghṛtenāñjan trayaśca dvau caturthakam
+barhiḥ ṣolaśīṃ tu dvayaścatvāri visrutāḥ
+enā
+veṣṭanaḥ pañcamastathā
+prathamānāṃ ca ṣolaśyā
+vṛttrayaścāṣṭavisrutāḥ
+navadaśyāṃ tvaṣṭāvīraṃ vṛddvayoḥ pa
+ṣolaśīṃ tu prajāpate ścatasro vṛnnavā visruk
+ketuṃ
+vṛttrayo dvau visarjanau
+dhanvanāgāḥ saptadaśyāṃ trayāṇāṃ
+canān
+vakṣyantīvetsaptadaśyāṃ vṛtaścatvāri caikakam
+tāṣṭādaśa caturthaṃ cāṣṭhavisrutāḥ
+suparṇaṃ vaste kavi
+ke
+rathe tiṣṭhantu ṣolaśyāṃ dvābhyāṃ pañcabhiḥ
+upaśvāsayaviṃśatyā triṣu catvāri caikatā
+yadakrandasyāṣṭādaśastrayāṇāṃ vṛddvayaṃ dvayoḥ
+yamenadantaṃ mavadaśyekaṃ rjanāḥ
+asi yamosyāṣṭādaśo vṛdekaṃ pañca caikatā
+trīṇi ta āhurviṃśatyā tribhiścaturthamekatā
+imātevāsaptadaśa pañcasucaikakam
+ātmānaṃ te ṣolaśīṃ ca vṛttrīṇi pañcavisrutāḥ
+atrāterūpaikaviṃśatyekaṃ vṛta
+ekaviṃśatiranutvāvisargāḥ saptacaikanān
+hiraṇyaśvaṃ saptadaśīṃ catvāryekādaśaikatā
+īrmāntā sa catvāri nava visrutāḥ
+pañcadaśastavaśarīraṃ trivṛccaikaka dvayoḥ
+upaprāgānnavadaśaḥ ṣaḍvisargāḥ prakīrtitāḥ
+maṃ yadaṣṭādaśo dvayaṃ vṛddvau dvitīyakam
+aṣṭādaśassamiddho adya caturo dvau dvayaṃ tataḥ
+tanū pādaṣṭā catvāri trīnvayaṃ tathā
+narāśam̐ sa pañcadaśyāṃ vṛddvābhyāṃ pañca visrutāḥ
+ājuhvāno navadaśastrayassapta dvi
+prācīnaṃ barhissaptadaśyatratriṣu ṣalaikakam
+vyacasvatīḥ pañcadaśastrīṇivṛddaśa visrutāḥ
+ṣolaśyāmā veṣṭanā daśamastathā
+daivyāhotā pañcadaśyāṃ vṛccatuṣkaṃ visruvadtrayam
+āno yajñaṃ navadaśīmeka visrutāḥ
+ya ime dātāṣṭādaśastrayovṛccaturo dvayam
+pañcadaśyupāvasūjatribhyaścatuṣkamekatā
+sa vyaṣṭā daśastrayo vṛdaṣṭa visrutāḥ
+ekacatvāriṃśadagnaye gāṣṭādaśa ṣolaśīm
+caturviṃśāgneyaḥ kṛṣṇa ṣaḍvṛddvāviṃśatiḥ
+viṃśatiragnaye nīka pañcavṛnnava caikanān
+iti śrī śaṅkarācāryakṛtau vājasaneyasaṃhitāyāṃ padakārikā ratnamālāyāṃ
+ekatriṃśo'dhyāyaḥ samāptaḥ
+atha dvātriṃśo'dhyāyaḥ
+caturdaśca syājarāso dvau bṛccaikādaśā visruk
+harayo dhūmakeṣṭamyāṃ dvayoścatvāri visrutāḥ
+yajāno mitraikādaśyāṃ visrugekaṃ tathaikanān
+dve virūpe ca ṣolaśyāṃ sapta catvāraścaikatā
+trīṇi śataikaviṃśatistisro visrukatrināntakam
+agnirvṛtrāṇi jaṅcāṣṭau dvau vṛtpañca visarjanāḥ
+viśvebhissomyaṃ navamīṃ vṛdekaṃ dvau visarjanau
+āyadiṣe navadaśau vṛttrayaścaturo visruk
+agneśardha saptadaśovṛccaturastathaikatā
+tvām̐ hi mandra tāṣṭādaśo vṛttrayastrirvisarjanāḥ
+tve agne svā trayodaśyāṃ trayāṇāṃ caturaikatā
+śrudhiśrutkarma trayo daśyā tra catvāri ṣaṣṭhake
+viśveṣāmatrayodaśyāṃ trirvṛtsapta visarjanāḥ
+maho agniḥ saptadaśīṃ vṛtamekaṃ tu pañcamaḥ
+trayo viṃśatirāpaścidekaṃ vṛnnavamīdvayoḥ
+gāva upāvadaśamīṃ vṛdekaṃ visrugekakam
+yadaddasrure daśabhirekaṃ vṛcca trayovisruk
+navamyā su te siñcata vṛdekaṃ visrugekatā
+ātiṣṭhantaṃ saptadaśyāṃ trayaḥ pañcaikamiṣyate
+aṣṭādaśaḥ pravomahemandamā triṣu pañcabhiḥ
+bṛhannididhma eṣāṣṭau visruktiṃ nāntamekatā
+indre himatsidaśīṃ caikaṃ caturthamekatā
+indro vṛtraṃ tu ṣolaśyāṃ tisraḥ pañcasu caikatā
+dvāviṃśatiḥ kutastvamindra catvāryaṣṭasu caikatā
+ātanta indro 'ṣṭādaśaḥ pañcavṛccaikakaṃ dvayoḥ
+caturviṃśatirimāntetisro vṛddvayamekatā
+vibabhrāḍbṛhadaṣṭādaśa ṣaḍvṛcca caturo visruk
+navabhiryanopāvaka nāntamekaṃ tu śasyate
+daivyā adhvaryudaśāmyāṃ veṣṭana straya eva ca
+āna ilabhyaṣṭādaśa stato dvau vṛt ṣalucyate
+yadadyakatrayodaśyāṃ dvayoścaikena caikatā
+taruṇirviśvanavamīṃ vṛddvayostriṣu visrutāḥ
+tu sūryasya ca viṃśatyā caturastu trayovisruk
+navadaśīṃ tanmitrasya dvau vṛtau caturo visruk
+baṇmahān saptadaśyā tha visrugvau nā ntakāstrayaḥ
+baṭsūryaśravaṣolaśyāṃ dvayoścatvāri ca dvayoḥ
+sāyanta iva sūryaṃ caturdaśyekamekatā
+navadaśīmadyā devā vṛddvau daśa visarjanāḥ
+ākṛṣṇena tu ṣolaśyāṃ caikaṃ vṛddvau dvayaṃ tataḥ
+pravāvṛje saptadaśyāṃ pañcapañcaikanāntakam
+indra vāyunavamyāṃ tu vṛdekaṃ nāntamekakam
+navamīṃ varuṇaḥ prāvi vṛttrayaḥ ṣaṭsuvisruṃṣu
+navamyāmadhina indra dvau vṛtau dvau visarjanau
+viṃśatiragna indra syo caikaṃ vṛtpañca visrutāḥ
+navadaśīndrā gnī mitrāvṛtau dvau caturaikatā
+asmerudrāḥ ṣolaśīṃ tu pañcavṛtsaptacaikakam
+arvāñco adyāṣṭādaśo dvau vṛtau navabhirvisruk
+viśve devāścaikaviṃśo dvayostisṛṣu caikatā
+devebhyohissaptadaśyāṃ dvau vṛcca caturo visruk
+pravāyuṃ pañcadaśyatra ṣaḍvṛcca triṣu visrutāḥ
+mitram̐ huve navamyāṃ tu veṣṭanaṃ caikameva ca
+dasrāyuvā kanoṣṭamyāṃ dvayorvṛtaṃ trayo visruk
+vidayadī navadaśaḥ punardvau vṛttrayastathā
+nahi sparśaṃ saptadaśyāṃ dvayaṃ taccaturo dvayoḥ
+ugrāṃvidyanināṃ navadvitīyaṃ vṛttrisṛṣvapi
+upāsmaigāyanavabhirekaṃ visruktathaikanān
+yetvā hi hatye viṃśatiḥ saptavṛccaturo dvayam
+ja janiṣṭhāḥ saptadaśyāṃ tu vṛdekaṃ saptamaikakam
+ātūn indra dvādaśyāṃ vṛddvayaṃ tisṛbhirdvayoḥ
+tvamindra pracaturdaśyāṃ vṛttrayaścaturo visruk
+a te śuṣmāṣṭādaśaścaikaṃ vṛttraya īritāḥ
+aṣṭādaśā dabdhebhistu catvāri navamī visruk
+pravīrayāsaptadaśyāṃ pañcavṛtṣaṭkameva ca
+kāvyayo rājāneṣvaṣṭau vṛddvayoścaikameva ca
+tiraścīno'ṣṭādaśastu tisraścāṣṭau dvināntakau
+ārodasī viṃśatistu trīṇi saptaikamiṣyate
+navamyāmukthe bhirvṛttadvitīyaṃ triṣu caikatā
+upanasru navadaśabhirekaṃ vṛtpañcabhiḥ punaḥ
+brahmāṇi me caikaviṃśatyatradvayaṃ ca saptabhiḥ
+viṃśatiranuntamāte trayaścaturthake dvayam
+navadaśyāṃtadidāsa vṛccaikaṃ ṣadakamekatā
+imā utvā caturdaśyāṃ catasraścāṣṭamī tathā
+yasyāyaṃ saptadaśyāṃ tu caikaṃ vṛdaṣṭavisrutā
+caturdaśāyaṃ sahasraṃ caturmāṃ saptavisrutāḥ
+iti śrī śaṅkarācāryakṛtau vājasaneyasaṃhitāyāṃ padakārikā ratnamālāyāṃ
+dvātriṃśo'dhyāyaḥ samāptaḥ
+atha trayastriṃśo'dhyāyaḥ
+yajjyāgrato viṃśatistu caturthaṃ vṛttrayo visruk
+piturnustotrayodaśyāṃ caikaṃ vṛddvayamatra tu
+agnidanusaptadaśyāṃ caikaṃ vṛtaṃ caturthakaḥ
+sinīvāli trayodaśyāṃ trayovṛdekavisrutam
+trayodaśīṃ pañcanadyaveṣṭanau dvau dvayaṃ tataḥ
+saptadaśastu tvamagne prathamo dvau daśāvisruk
+viṃśatistvanno agne tava vṛddvayoḥ pañcamo visruk
+ṣolaśyuttānā yāma vaddvābhyāṃ pañcakameva ca
+ilāyāstvā trayodaśyāṃ vṛdekaṃ trirvisrugyathā
+praganmahe caturdaśyāṃ dvitayaṃ vṛccacaikatā
+aṣṭādaśa pravomahe mahyekamaṣṭamaikatā
+icchanti tvāṣṭādaśīṃ ca vṛddvayoścaturo visruk
+nate dure caikaviṃśattrivṛttrivisrutastathā
+aṣālhaṃ yutsuṣolaśyāṃ pañcavṛccaikavisrutam
+ṣolaśīṃ somo dhenuṃ ca dvayorvṛtāścaturthakaḥ
+tvamimā oṣaviṃśati saptamastu visarjanāḥ
+viṃśatirdevena nastu dvayaṃ vṛttritathaikatā
+aṣṭau vyakhyannavadaśo vṛdekaṃ caturaikatā
+hiraṇyapāṇissaptadaśya tracatvāri trirvisruk
+hiraṇyaha caturdaśyāṃ sapta vṛtsapta trīn kramāt
+ete panthāviṃśatistu catvāri daśavisrutāḥ
+navamyāmubhāpibataṃ veṣṭanaikaṃ trayastathā
+apnasvatīṃ navadaśastatra dvau vṛddvayaṃ visruk
+dyubhiraktubhiraṣṭau ca vṛddvayaṃ caturaikatā
+ārāttripārthiḥ ṣolaśyāṃ vṛdekaṃ pañcavisrutāḥ
+trayodaśyuṣastaccitraṃ caikaṃ veṣṭanamekakam
+dvāviṃśatiḥ prātarjītaṃ dvābhyāṃ vṛcca ṣalatra tu
+pūṣantava dvādaśastu caikaṃ visruktathaikanā
+pathaspathassaptadaśyā pañcavṛtsapta visrutāḥ
+trīṇipadāvidaśamīṃ visruk catvāri caikanā
+daśamastadviprāso dvivṛdekaṃ caturo visruk
+trayodaśyāṃ ghṛtavatī veṣṭanādaśamaḥ kramāt
+navadaśāyenassapatnā catvāri pañcaca dvayoḥ
+ānāsatyā navadaśastrirvitaḥ ṣaṭcavisrutāḥ
+eṣavastomo'ṣṭādaśaścaikaṃ vṛtantu ṣaṣṭhake
+sahastomāḥ pañcadaśyāṃ ṣaḍvṛto ṣṭabhirekatā
+trayodaśāyuṣyaṃ varcasyaṃ śayamekakam
+pañcaviṃśo natadra kṣāṃ syekaṃ vṛtsapta visrutāḥ
+yadā badhvaṃ ca ṣolaśyāṃ caturthastrirdvayoryadi
+utanohiḥ saptadaśyāṃ trirveṣṭaikādaśī visruk
+saptadaśīmāgiraśca tribhirdvādaśa visrutāḥ
+sapta ṛṣayo navadaśo vṛccaturthā visṛk ca ṣaṭ
+uttiṣṭha brahmaṣolaśyāṃ dvayaṃ vṛtpañcamo visruk
+pañcadaśī pranūnaṃtu ṣaḍvisruk caikanāntakam
+viṃśati brahmaṇaspate dvau vṛtau visrutastrayaḥ
+iti śrīśaṅkarācāryakṛtau vājasaneyasaṃhitāyāṃ
+padakārikāratnamālāyāṃ trayastriṃśo'dhyāyaḥ samāptaḥ
+atha catustriṃśo'dhyāyaḥ
+viśvāni deva dvādaśyāṃ vṛdekaṃ visrutastrayaḥ
+vibhaktāraṃ havā sapta vṛddvayaṃ visruto dvayoḥ
+brahmaṇe brāhmaṇaviṃśatyā catvāri vṛccacaikakam
+viṃśatirnṛttāya sūtaṃ veṣṭana ṣṣaṭ tathāpivi
+tapase viṃśatiścaiva saptavṛccaika visrutam
+nadībhyaḥ pauñjiviṃśatyā caikādaśa vṛtodaśaḥ
+sandhaye viṃśatistatra pañcadaśaścaturthakaḥ
+viṃśatirutsādebhyastu nava vṛtraya īritāḥ
+armebhyohastiviṃśatyā veṣṭanā daśacaikatā
+bhāyai dārvā caturviṃśastrayo daśa trayo visruk
+ṛtayastenā dvāviṃśo vṛddvādaśastu caikatā
+manyave śastāviṃśatirdaśavṛcca caturthakaḥ
+yamāyayamaviṃśatistrayodaśa vṛtastrayaḥ
+caturviṃśatissarobhyaḥ pañcasvaikādaśīvisruk
+cībhatsāyai caikaviṃśaścāṣṭau vṛddvau tu visrutau
+caturviṃśākṣarājāya caikādaśa trayovisruk
+viṃśatiḥ pratiścutkāyai daśavṛccaika visrutam
+marmāyacāṣṭā daśastu ṣaḍvṛto dvauca nāntakā
+dvāviṃśatyagnaye pīvā pañcavṛccaikavisrutam
+saptaviṃśatirathai tāne kādaśīṃ nava dvayoḥ
+iti śrī śaṅkarācāryakṛtau vājasaneyasaṃhitāyāṃ padakārikā ratnamālāyāṃ
+catustriṃśo'dhyāyaḥ samāptaḥ
+atha pañcatriṃśo'dhyāyaḥ
+sahasraśīrṣaikādaśyāṃ caturthaścaturo visruk
+puruṣa eva pañcadaśyatra dayaṃ dvayaṃ visruk
+pañcadaśyetāvānasya vṛddvayostriṣu ca dvayoḥ
+tripādūrdhva utṣolaśyāṃ trayaḥ pañca visarjanāḥ
+tato virāṭ caturdaśyāṃ caturastu ṣalasya ca
+tasyādyajñā trayodaśyāṃ trayastribhyastisṛṣvapi
+dvādaśyāṃ vā tasmādyajñātsarvahutacaikaṃ tribhiḥ
+tasmādaśvāścaturdaśyāṃ vṛddaikaṃ pañcabhistataḥ
+taṃ yajñaṃ pañcadaśyāṃ caturnāṃ visrugekanā
+pañcadaśo yatpuruṣaṃ triṣu vṛccaikamekatā
+brāhmaṇo sya pañcadaśī vṛttrayaḥ pañca visrutāḥ
+catudra śyāṃ tu candra mā visrugāṣṭabhya eva ca
+nābhyā āsīccaturdaśyāṃ vṛdekaṃ pañcabhirdvayoḥ
+caturdaśo yatpuruṣeṇa haviṣā pañca cā visruk
+saptāsyāsan pañcadaśyāṃ vṛddvayoḥ ṣaḍdvayaṃ tataḥ
+yajñena yajñāṣṭādaśaścaturo visrugekanān
+navadaśyadbhyaḥ saṃbhūtaḥ ṣaḍvṛcca traya īritāḥ
+navadaśyāṃ tu vedāhaṃ vṛccaikaṃ ca trayovisruk
+prajāpatiścāṣṭādaśaścaikaṃ vṛtpañcacaikatā
+yodevebhyastrayodaśyāṃ dvābhyāṃ vṛccadaśā visruk
+rucaṃ brāhmaṃ ṣolaśīṃ tu pañcavisrugvināntakau
+viṃśatirddraśca te lakṣmīścaturau dvau tathaikanā
+tadevāgnirekādaśyāṃ dvayaṃ vṛtaṃ tu ṣaṣṭhake
+sarvenime pañcadaśyāṃ dvau vṛtau visṛto dvayoḥ
+na tasya pratimāṣṭau ca vṛdekamekavisrutam
+dvāviṃśatyeṣo haścaturo vṛtpañcadaśīm
+venasta caturviṃśatyā ṣaḍvṛtāḥ pañcacaikakam
+caturviṃśatpratadro ce dvābhyāṃ catasra ekatā
+sano nandhussaptadaśīṃ dvitayaṃ ṣaṭca caikakam
+parītyabhūsaptadaśaḥ ṣaḍvṛtāstraya ekatā
+paridyāvāviṃśatiśca caturnāṃ traya ekanā
+sadasaspatiṃ daśamyāṃ visrugekaṃ tu śasyate
+yāṃ medhāṃ tu caturdaśyāṃ dvayaṃ vṛtaṃ dvayaṃ ca tat
+idaṃ me saptadaśyāṃ ca dvau vṛtāvekamiṣyate
+apetoyaṃ tu navabhirdvayaṃ vṛtṣaṭca visrutāḥ
+saptadaśīṃ dyuriho pañcavṛtsaptavisrutāḥ
+vāyuḥ punālekādaśyāṃ visrutāstraya eva ca
+savitā tena va daśastrayo vṛccaikamatra tu
+paraṃ mṛtyo dvāviṃśatiścaturaḥ pañcamaikana
+śaṃṣātaḥ śannavadaśo visargāḥ pañcamaikana
+kalpantāṃ te ṣolaśīṃ ca vṛdekaṃ ṣaṣṭhake tathā
+aśmanvatī viṃśatiśca caikaṃ vṛtriścatasrakaḥ
+caturdaśyapādyamapatrayo vṛddvayamucyate
+anaḍvāhaṃ navamyāṃ tu trayāṇāṃ vṛccaṣaṣṭhake
+aṣṭādaśā yuṣmānagne tri yāstisro dvayośca tat
+navadaśīmaṃ jīvebhyaścaikaṃ vṛtaṃ tu pañcamaḥ
+paramegāṃ caturdaśyāṃ caikaṃ vṛttraya ekatā
+saptadaśīṃ kavyādaṃ ca pañcavṛccaturaikatā
+vaha vapāṃ viṃśatiśca caturthaḥ sapta trīn kramāt
+syonā pṛthivī caturdaśyāṃ dvayoścatasṛbhistataḥ
+trayodaśyāsmātvamadhi vṛddvayostrirvisarjanāḥ
+iti śrī śaṅkarācāryakṛtau vājasaneyasaṃhitāyāṃ padakārikāratnamālāyāṃ
+pañcatriṃśo'dhyāyaḥ
+atha ṣaṭtriṃśo'dhyāyaḥ
+ṛcaṃ vācamaṣṭādaśastattrayaṃ ca suvisrutāḥ
+yanme chidraṃ navadaśī dvābhyāṃ sapta ca visrutāḥ
+kayā tvanno dvādaśīṃ ca vṛdekaṃ dvau tu caikakam
+indro viśvasya rājāṣṭau dvayorvṛttisṛbhistataḥ
+mitro varuṇo bhavāṣṭau vṛdekaṃ ṣaṭsu visrutāḥ
+vātaḥ pavati navamīṃ visargāścaturastathā
+ahāniśamaṣṭādaśaścaturo vṛcca pañcamaḥ
+devīrabhiṣṭaye daśa visrutāścaturthakaḥ
+dyauḥ śāntirantaṃ navamīṃ visargāḥ ṣaṭtathaiva ca
+dhṛte dṛm̐ ha māmitrasya padāstu caikaviṃśatiḥ
+jyok ce sandru syaṣṭamyāṃ tu vṛddvayaṃ tu bhavedyadi
+namaste astu daśamīṃ catvāri traya ekatā
+yato yataścaturdaśyāṃ trayaścāṣṭabhiratra ca
+trayodaśyāṃ tu taccakṣurdvayorvṛtau dvayorvisruk
+iti śrīśaṅkarācāryakṛtau vājasaneyasaṃhitāyāṃ padakārikāratnamālāyāṃ
+ṣaṭtriṃśo'dhyāyaḥ samāptaḥ
+atha saptatriṃśo'dhyāyaḥ
+ādade nāriścaturastatravaikaṃ tu visrutam
+devī dyāvā caturdaśyāṃ trayovṛto dvayorvisruk
+devyo vamrīyaḥ ṣaṇṇāṃ tu vṛdekaṃ caturastathā
+iyatyagre pañcamīṃ tu visrutaścaikamiṣyate
+indra syaujaḥ pañcabhirvā visrutau dve yathā tathā
+praitu brahmaṇaḥ ṣolaśyāṃ vṛdekaṃ caturo visruk
+makhasya śira ṣaḍbhistu visrutau dvau pare tathā
+aśvasya tvā caturdaśyāṃ dvābhyāṃ vṛcca catasrakaḥ
+caturthāmṛjave sādhave tvā vṛccaikamevaca
+yamā yamakhāyaṃ saptadaśyekaṃ vṛtṣaṣṭhameva ca
+anādhṛṣṭā purastācca catuścatvāriṃśadvituḥ
+veṣṭanā daśavijñeyā visargā viṃśatirbhavet
+svāhā marudbhirnavamīṃ dvayoścaiva trayastathā
+caturdaśagarbho devānāṃ pitaikaṃ trayo visruk
+ekaviṃśatissamagnirvisargā dvayameva ca
+dhartā divo viṣolaśyāṃ vṛttrayastu ṣalityatha
+apaśyaṅgo pāṃṣṭādaśa strayo vṛtsapta visrutāḥ
+navaviṃśadviśvāsāṃ tu vṛttrayaḥ pañcacaikana
+pitā nosi trayo viṃśaddvayoḥ pañca dvināntakau
+ahaḥ ketunā dvādaśyāṃ vṛttrayā caturo visruk
+iti śrī śaṅkarācārya kṛtau vājasaneyasaṃhitāyāṃ
+padakārikārantamālāyāṃ saptatriṃśo'dhyāyaḥ
+atha aṣṭatriṃśo'dhyāyaḥ
+ādadebhyoḥ pañcadaśyāṃ gāṇāntaṃ ca vihāya ca
+ila e hyadi tathaiva padāścaikādaśastathā
+adityairāsnānavamyāṃ śvibhyāṃ pinvasvaveṣṭanāstra eva ca
+yaste stano viṃśatistu vṛtpañcaikādaśastathā
+gāyatraṃ caturviṃśo dvayorvṛcca trayo visruk
+samudrā yatvānavabhirvṛtamekaṃ tu vidyate
+savitraru bhumaṣaṭsu caturo vṛcca sarvadā
+yamāyāṅgirasvateṣṭau vṛtamekaṃ tu caikakam
+viśvā āśādvādaśīṃ tu dvayaṃ trayastathā dvayoḥ
+dividhāstu trayodaśyāṃ vṛccaikaṃ tu caturthakaḥ
+aśvinā gharmaṃ daśabhirekaṃ catvāri visrutāḥ
+apātāmaśvinā daśa vṛccaikamekavisrutam
+iṣe pinva svāṣṭā daśa stato dvā vṛdathāntaram
+svāhā pūṣṇo caikādaśyāṃ pañcavṛccāṣṭanisrutāḥ
+rudrā ya rudra hataye saptadaśadvayaṃ dvayoḥ
+abhīmaṃ mahyekādaśyāṃ caikaṃ vṛtaṃ tisṛṣvapi
+catussraktiḥ pañcadaśyāṃ ṣaḍvṛccaikādaśastathā
+gharmaitatte pañcamīṃ tu gaṇānto yatra nocyate
+dvādaśya cikradadvṛṣā dvayo vṛtpañcamaikatā
+yāvatī dyā saptadaśyāṃ trayo vṛdekavisrutam
+ṣaḍviṃśatiṃ mayityadgi ndri yaṃ catvāri pañcamaḥ
+tviṣassaṃpṛkapañcadaśyāṃ navavṛccaturo visruk
+iti śrīśaṅkarācāryakṛtau vājasaneya saṃhitāyāṃ padakārikāratnamālāyāṃ
+maṣṭatriṃśo'dhyāyaḥ samāptaḥ
+atha ekonacatvāriṃśo'dhyāyaḥ
+svāhāprāṇebhyaḥ ṣolaśīṃ tisṛṇāṃ pañcavisrutāḥ
+vāce prāṇāya caturthaṃ padakāle tu dṛśyate
+pañcadaśīṃ manasaḥ kāmamekaṃ pañca tu visrutāḥ
+ṣaḍviṃśatiḥ prajāpatiḥ saṃbhriyamāṇaikādaśa
+visargāstu sapta daśaścaikaṃ nāntaṃ tathā viduḥ
+savitā prathaṣaḍviṃśo visrugekādaśaikanān
+ugraśca bhīmo daśabhirvṛttrayaḥ pañca caikakam
+viṃśatyāgniṃ hṛdayena ṣaḍvṛtāśca dvayorvisruk
+viṃśatirugraṃ lohi saptavṛtpañcacaikatā
+lomabhyaḥ svāhaikādaśyāṃ caturo vṛcca pañcamī
+āyāsāya prāyāsāṣṭau caturo vṛta eva ca
+tapase tapyaṣaḍbhistu vṛtamekaṃ tu caikatā
+yamāyāntakā yāṣṭamyāṃ vṛdekaṃ tu dvayorvisruk
+iti śrīśaṅkarācārya kṛtau vājasaneyasaṃhitāyāṃ padakārikāratnamālāyāṃ
+ekonacatvāriṃśo'dhyāyaḥ
+atha catvāriṃśo'dhyāyaḥ
+īśāvāsyāṃ saptadaśyāṃ visrugo dvau yathāvidhi
+saptadaśīṃ kurvanneva visrugdvau caikanāntakam
+saptadaśyasuryā nāma vṛttribhiḥ pañcacaikanān
+anejadekaṃ viṃśatirvisruk pañca trināntakam
+tadejati caturdaśyā dvau vṛtau dvau tu visrutau
+caturdaśīṃ yastu sarvā dvayaṃ vṛddvayamekanān
+caturdaśo yasmin sarvā vṛttrayaḥ ṣaṭ ca caikanān
+saparyagānavadaśa caturthe saptamaikanā
+andhantamaḥ pañcadaśastrayovṛtpañca visrutāḥ
+caturdaśyanyadevāhurekaṃ vṛttraya eva ca
+pañcadaśīṃ vidyāṃ ca vidyā ca visrugekakam
+pañcadaśyandhamaḥ prapañcavṛtpañca visrutāḥ
+anyadeva caturdaśyāṃ trayo vṛttrīṇi visrutāḥ
+sabhūtiṃ ca pañcadaśyāṃ caturo vṛccacaikakam
+trayodaśyāṃ hiraṇmaye dvau vṛtau caika nāntakam
+pañcaviṃśatiṃ pūṣannekariṣe yamatrayaṃ vṛtam
+caturo visrutaścaiva dvau nāntau śruticoditau
+vāyuranilaṃ ṣolaśyāṃ trayovṛdekavisrutam
+iti śrīśaṅkarācāryakṛtau vājasaneyasaṃhitāyāṃ
+padakārikā ratnamālā nāma catvāriṃśadadhyāyaḥ
+visargaśca visruk caiva visrutau visrutastathā
+visrugo visrutaścaiva visarjano visargakaḥ
+visarjanīyo bhidhānāścaite visarganīyakāḥ
+śuṅgavadvālavatsasyā bālikā kūcayugmahu
+netravattvaṣṭasarpasya savima iti smṛtaḥ
+veṣṭanaṃ veṣṭanaṃ caiva vṛdaṃ vela vṛducyate
+nāntamāntakaṃ caiva syānāṃ ca caikaranakainān
+nakārāntapadājñeyāścaite nāntasya saujñakāḥ
+udāttaṃ cānudāttaṃ ca svaritaṃ pracayaṃ tathā
+samāne sthāne kaṭhādau tridhā vibhajyabhāgavat
+varṇāstatra niṣpadyante cordhvabhāge tu jāyate
+udāttastu savijñeyaḥ so nudāttastu nīcake
+anudāttaḥ savijñeyaḥ svaritastu tataḥ param
+uccanīca samāhārāste varṇāḥ svarito viduḥ
+udāttavatsaṃhitāyāṃ pada kāle tu nihitāḥ
+nihitāḥ sarvavarṇāstu ca pracayastu dṛśyate
+ye svaritaparā varṇāste varṇāḥ pracayo viduḥ
+sādanyaṃ ca sudhukṣaṃ ca sīṣadhīdhi saduṣṭaraḥ
+eteṣvagraho nāsti naiṣādaṃ prāvaṇebhiṣṣaṭ
+aṣṭau sthānāni varṇānāmuraḥ kaṇṭhaḥ śirastathā
+jihvāmūlaṃ ca dantāśca nāsikoṣṭhau ca tālu ca
+hakāraṃ pañcamairyuktamanasthābhiśca saṃyutam
+urasyantaṃ vijānīyātkaṇṭhyamāhurasaṃyutam
+catvāraśca prayatvāḥ syurakṣarāṇāṃ tathaiva ca
+spṛṣṭeṣatspṛṣṭatā syau ca saṃvṛtaṃ vivṛtaṃ tathā
+ekamātro bhaveddhrasvo dvimātro dīrgha ucyate
+trimātrastu pluto jñeyo vyañjanaṃ tvardhamātrakam
+cāṣastu ravate mātraṃ dvimātraṃ vāyaso'bravīt
+śikhī tu rauti trimātrī metanmātrasya lakṣaṇam
+padakāle tu saṃprāpte gaṇāntaṃ lupyate yadi
+padatrayaṃ padaikaṃ vā bahuvātthava lupuḥ
+kāyāyanakṛtaṃ sūtraṃ vettikātyāyanaḥ svayam
+tato karkī tato dhanvī vāsudevo na pañcamaḥ
+gaṇāntā yatra vartante punaruktastu lupyate
+punarukto gaṇāntaḥ syādvede vājasaneyake
+hrasvapūrvo hyanusvāro dīrghānusvārabhāgbhavet
+dvitvaṃ parañcanna tathā kramakāle tu vājinām
+antasva savitaḥ punaryattrirephaṃ paro bhavet
+visarjanīyamevasyādabhāve veṣṭanaṃ bhavet
+iyaṃ vediśca vājāya svāhā dvau ca vihāya ca
+abhāvo veṣṭanastatra tvanyathā veṣṭanaṃ bhavet
+tathā cāntaḥ parārdhaśca varjayitvānyathācavṛt
+iti śrī śaṅkarācāryakṛtau vājasaneyasaṃhitāyāṃ padakārikā ratnamālānām
+ekacatvāriṃśadadhyāyaḥ samāptaḥ
+    </body>
+  </text>
+</TEI>

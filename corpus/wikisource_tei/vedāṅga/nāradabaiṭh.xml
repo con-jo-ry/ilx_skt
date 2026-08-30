@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Nāradabaiṭh</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A4%BE%E0%A4%B0%E0%A4%A6%E0%A4%AC%E0%A5%88%E0%A4%A0%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+nāradabaiṭh
+iṣe tvā || nūthanāvainavavede 1 nāvīnāvanakhinīvegū 2 nivīnakhūṇinīvahīsu 3 vanārībhrājanabhānavānacchrāveḍrāniḍrāvakanivāpabhrāvaimārodī 4 nādaṃ nadedunidagū 5 vibhubāhūbhāvainuge 6 nūromukhāmīnakhaido 7 nābhaibhīmuyunībhārībhāvuṇakanībhūgī 8
+vāyavyaṃ śvetam
+naugū 1 nikhanetai 2 novīnigū 3 nīmanajumunude 4 naunadu 5 naugaigi 6
+prajāpatirakāmayata
+nidūnakhanabhāṣemase 1 navīviṣamūbhāṣīdaṃ nāmo 2 nāvainīmamaṃ māgū 3 narenāvanavinābhīgo 4 vainabhāmimaṃ vo nirita 5
+yuñjānaḥ prathamam
+maigudīdidimamogomedega 1 didadodaṃ taṃ godīmegodādā 2 nimanaviṣanido bhusī 3 nārāso nedai 4 gaṃ naidimā 5 gigidaidogaṃ godudada 6 bhānau mūdūmogū 7
+sāvitrāṇi juhoti
+nauda 1 naumama 2 na tṛtīyacaturtthayoḥ praśnayo lakṣyāni bhavanti 4 nūbhānābhānene 5 dūnaunainī 6 namebhīvainalūmovīvīnenedhanā 7
+prācīnavaṃśam
+na ca prathamadvitīyatṛtīyacaturtthapañcameṣu lakṣyāni 5 nūthanī
+prajananaṃ jyotiḥ
+nuvanībhānūvanā 1 na ca dvitīye praśne 2 naumunabhune 3 nenebhunavaimagāronā 4 nūthanaivābhānūbhāna 5
+nāradabaiṇmūlaṃ saṃpūrṇam
+śrībhaktavatsalaparabrahmaṇe namaḥ
+    </body>
+  </text>
+</TEI>

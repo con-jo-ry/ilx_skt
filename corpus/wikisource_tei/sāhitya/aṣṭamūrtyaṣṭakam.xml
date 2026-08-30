@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Aṣṭamūrtyaṣṭaka</title>
+        <author>Śukrācārya</author>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%85%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%AE%E0%A5%82%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A5%8D%E0%A4%AF%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%95%E0%A4%AE%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+॥ aṣṭamūrtyaṣṭakam ॥
+tuṣṭāvāṣṭatanuṃ hṛṣṭaḥ praphullanayanāñcalaḥ।
+maulāvañjalimādhāya vadan jayajayetica ॥ 1
+bhārgava uvācaḥ
+tvaṃ bhābhirābhirabhibhūya tamassamastamastaṃ nyasyamimataṃ ca niśācarāṇām । 
+dedīpyase dinamaṇe gagane hitāya lokatrayasya jagadīśvara tannamaste ।। 2
+loketivelamativela mahāmahobhirnirmāsi kaumudamudaṃ ca samutsamudram । 
+vidrāvitākhilatamāssutamohimāṃśo pīyūṣapūraparipūrita tannamaste ॥ 3
+tvaṃ pāvane pathi sadāgatirapyupāsyaḥ kastvāṃ vinā bhuvanajīvana jīvatīha । 
+stabdhaprabhañjana vivardhitasarvajanto santoṣitāhikula sarvaga tannamaste ॥ 4
+viśvaikapāvaka natāvaka pāvakaika śakteṛte mṛtabatāmṛtadivyakāryam । 
+prāṇityado jagadaho jagadantarātman tatpāvaka pratipadaṃ śamadaṃ namaste॥ 5
+pānīyarūpa parameśa jagatpavitra citraṃ vicitra sucaritra karoṣi nūnam । 
+viśvaṃ pavitramamalaṃ kila viśvanātha pānāvagāhanata etadato nato'smi ॥ 6
+ākāśarūpa bahirantaritāvakāśa dānādvikasvara maheśvara viśvametat । 
+tvattassadā sadaya saṃśvasiti svabhāvātsaṃkocameti bhavatosmi natastatastvām ॥ 7
+viśvambharātmaka bibharti vibhotra viśvaṃ koviśvanātha bhavatonyatamastamore । 
+tattvāṃ vinā naśamināhi phaṇāhibhūṣa stavyo paraḥ paratara praṇatastatastvām ॥ 8
+ātmasvarūpa tava rūpaparamparābhirābhistataṃ hara carācararūpametat । 
+sarvāntarātmanilaya pratirūparūpanityaṃ nato'smi paramātmatano'ṣṭamūrte ॥ 9
+ityaṣṭamūrtibhirimābhirumābhinandha vanyātivandha tava viśvajanītamūrte। 
+etattataṃ nu vitataṃ praṇatapraṇīta sarvārthasārthaparamārthatano nato'smi ॥ 10
+aṣṭamūrtyaṣṭakeneṣṭaṃ pariṣṭutyeti bhārgavaḥ ।
+bhargaṃ bhūmimilanmauliḥ praṇanāma punaḥ punaḥ ॥11
+॥ iti śrīśukrācāryakṛtaṃ aṣṭamūrtyaṣṭakam ॥
+    </body>
+  </text>
+</TEI>

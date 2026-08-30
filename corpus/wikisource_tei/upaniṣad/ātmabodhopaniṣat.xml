@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Ātmabodhopaniṣad</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%86%E0%A4%A4%E0%A5%8D%E0%A4%AE%E0%A4%AC%E0%A5%8B%E0%A4%A7%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+śrīmannārāyaṇākāramaṣṭākṣaramahāśayam | svamātrānubhavātsiddhamātmabodhaṃ hariṃ bhaje || oṃ vāṅme manasīti śāntiḥ ||
+||prathamo'dyāya:||
+oṃ pratyagānandaṃ brahmapuruṣaṃ praṇavasvarūpaṃ akāro ukāra makāra iti tryakṣaraṃ praṇavaṃ tadetadomiti | yamuktvā mucyate yogī janmasaṃsārabandhanāt | oṃ namonārāyaṇāya śaṅkhacakragadādharāya tasmāt oṃ namo nārāyaṇāyeti mantropāsako vaikuṇṭhabhavanaṃ gamiṣyati | || 1||
+atha yadidaṃ brahmapuraṃ puṇḍarīkaṃ tasmāttaḍitābhamātraṃ dīpavatprakāśam ||2||
+brahmaṇyo devakīputro brahmaṇyo madhusūdanaḥ | brahmaṇyaḥ puṇḍarīkākṣo brahmaṇyo viṣṇuracyutaḥ ||3||
+sarvabhūtasthamekaṃ nārāyaṇaṃ kāraṇapuruṣamakāraṇaṃ paraṃ brahmom ||4||
+śokamohavinirmukto viṣṇuṃ dhyāyanna sīdati | dvaitādvaitamabhayaṃ bhavati mṛtyoḥ sa mṛtyumāpnoti ya iha nāneva paśyati ||5||
+hṛtpadmamadhye sarvaṃ yattatprajñāne pratiṣṭhitam | prajñānetro lokaḥ prajñā pratiṣṭhā prajñānaṃ brahma ||6||
+sa etena prajñenātmanāsmāllokādutkramyāmuṣminsvarge loke sarvānkāmānāptvā'mṛtaḥ samabhavadamṛtaḥ samabhavat ||7||
+yatra jyotirajasraṃ yasmiṃlloke'bhyarhitamaṃ tasminmāṃ dehi svamānamṛte loke akṣate acyute loke akṣate amṛtatvaṃ ca gacchatyoṃ namaḥ || 8||
+||dvitīyo'dyāya:||
+pragalitanijamāyo'haṃ nistuladṛśirūpavastumātro'ham | astamitāhanto'haṃ pragalitajagadīśajīvabhedo'ham || 1||
+pratyagabhinnaparo'haṃ vidhvastāśeṣavidhiniṣedho'ham | samudastāśramito'haṃ pravitatasukhapūrṇasaṃvidevāham || 2||
+sākṣyahamanapekṣo'haṃ nijamahimni saṃsthito'hamacalo'ham | ajaro'hamavyayo'haṃ pakṣavipakṣādibhedavidhuro'ham || 3||
+avabodhaikaraso'haṃ mokṣānandaikasindhurevāham | sūkṣmo'hamakṣaro'haṃ vigalitaguṇajālakevalātmā'ham || 4||
+nistraiguṇyapado'haṃ kukṣisthānekalokakalano'ham | kūṭasthacetano'haṃ niṣkriyadhāmāhamapratarkyo'ham || 5||
+eko'hamavikalo'haṃ nirmalanirvāṇamūrtirevāham | niravayo'hamajo'haṃ kevalasanmātrasārabhūto'ham || 6||
+niravadhinijabodho'haṃ śubhatarabhāvo'hamaprabhedyo'ham | vibhurahamanavadyo'haṃ niravadhiniḥsīmatattvamātro'ham || 7||
+vedyo'hamagamāstairārādhya: sakalabhuvanahṛdyo'ham | paramānandaghano'ham paramānandaikabhūmarūpo'ham || 8||
+śuddho'hamadvayo'haṃ santatabhāvo'hamādiśūnyo'ham | śamitāntatritayo'haṃ baddho mukto'hamadbhutātmāham || 9||
+śuddho'hamāntaro'haṃ śāśvatavijñānasamarasātmāham | śodhitaparatattvo'haṃ bodhānandaikamūrtirevāham || 10||
+vivekayuktibuddhyāhaṃ jānāmyātmānamadvayam | tathāpi bandhamokṣādivyavahāraḥ pratīyate || 11||
+nivṛtto'pi prapañco me satyavadbhāti sarvadā | sarpādau rajjusatteva brahmasattaiva kevalam || 12||
+prapañcādhārarūpeṇa vartate'to jaganna hi | yathekṣurasasaṃvyāptā śarkarā vartate tathā | || 13||
+advayabrahmarūpeṇa vyāpto'haṃ vai jagattrayam | brahmādikīṭaparyantāḥ prāṇino mayi kalpitāḥ || 14||
+budbudādivikārāntastaraṅgaḥ sāgare yathā | taraṅgasthaṃ dravaṃ sindhurna vāñchati yathā tathā || 15||
+viṣayānandavāñchā me mā bhūdānandarūpataḥ| dāridryāśā yathā nāsti saṃpannasya tathā mama || 16||
+brahmānande nimagnasya viṣayāśā na tadbhavet | viṣaṃ dṛṣṭvā'mṛtaṃ dṛṣṭvā viṣaṃ tyajati buddhimān || 17||
+ātmānamapi dṛṣṭvāhamanātmānaṃ tyajāmyaham | ghaṭāvabhāsako bhānurghaṭanāśe na naśyati || 18||
+dehāvabhāsakaḥ sākṣī dehanāśe na naśyati | na me bandho na me muktirna me śāstraṃ na me guruḥ || 19||
+māyāmātravikāsatvānmāyātīto'hamadvayaḥ | prāṇāścalantu taddharmaiḥ kāmairvā hanyatāṃ manaḥ || 20||
+ānandabuddhipūrṇasya mama duḥkhaṃ kathaṃ bhavet | ātmānamañjasā vedmi kvāpyajñānaṃ palāyitam || 21||
+kartṛtvamadya me naṣṭaṃ kartavyaṃ vāpi na kvacit | brāhmaṇyaṃ kulagotre ca nāmasaundaryajātayaḥ || 22||
+sthūladehagatā ete sthūlādbhinnasya me nahi | kṣutpipāsāndhyabādhiryakāma krodhādayo'khilāḥ || 23||
+liṅgadehagatā ete hyaliṅgasya na santi hi | jaḍatvapriyamodatvadharmāḥ kāraṇadehagāḥ || 24||
+na santi mama nityasya nirvikārasvarūpiṇaḥ| ulūkasya yathā bhānurandhakāraḥ pratīyate || 25||
+svaprakāśe parānande tamo mūḍhasya jāyate | cakṣurdṛṣṭinirodhe'bhraiḥ sūryo nāstīti manyate || 26||
+tathā'jñānāvṛto dehī brahma nāstīti manyate | yathāmṛtaṃ viṣādbhinnaṃ viṣadoṣairna lipyate || 27||
+na spṛśāmi jaḍādbhinno jaḍadoṣān prakāśataḥ | svalpāpi dīpakaṇikā bahulaṃ nāśayettamaḥ || 28||
+svalpo'pi bodho nibiḍe bahulaṃ nāśayettamaḥ | kālatraye yathā sarpo rajjau nāsti tathā mayi || 29||
+ahaṅkārādidehāntaṃ jagannāstyahamadvayaḥ | cidrūpatvānna me jāḍyaṃ satyatvānnānṛtaṃ mama || 30||
+ānandatvānna me duḥkhamajñānādbhāti satyavat | ātmaprabodhopaniṣa muhūrtamupāsitvā na sa punarāvartate | na sa punarāvartata ityupaniṣat || 31||
+oṃ vāṅme manasīti śāntiḥ ||
+    </body>
+  </text>
+</TEI>

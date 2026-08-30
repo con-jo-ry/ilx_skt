@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Bālamukundāṣṭaka</title>
+        <author>Śrī-bilvamaṃgala Ṭhākura</author>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%AC%E0%A4%BE%E0%A4%B2%E0%A4%AE%E0%A5%81%E0%A4%95%E0%A5%81%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%95%E0%A4%AE%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+karāravindena padāravindaṃ mukhāravinde viniveśayantam ।
+vaṭasya patrasya puṭe śayānaṃ bālaṃ mukundaṃ manasā smarāmi ॥ 1॥
+
+saṃhṛtya lokānvaṭapatramadhye śayānamādyantavihīnarūpam ।
+sarveśvaraṃ sarvahitāvatāraṃ bālaṃ mukundaṃ manasā smarāmi ॥ 2॥
+
+indīvaraśyāmalakomalāṃgamindrādidevārcitapādapadmam ।
+santānakalpadrumamāśritānāṃ bālaṃ mukundaṃ manasā smarāmi ॥ 3॥
+
+lambālakaṃ lambitahārayaṣṭiṃ śṛṅgāralīlāṅkitadantapaṅktim ।
+bimbādharaṃ cāruviśālanetraṃ bālaṃ mukundaṃ manasā smarāmi ॥ 4॥
+
+śikye nidhāyādyapayodadhīni bahirgatāyāṃ vrajanāyikāyām ।
+bhuktvā yatheṣṭaṃ kapaṭena suptaṃ bālaṃ mukundaṃ manasā smarāmi ॥ 5॥
+
+kalindajāntasthitakāliyasya phaṇāgraraṅge naṭanapriyantam ।
+tatpucchahastaṃ śaradinduvaktraṃ bālaṃ mukundaṃ manasā smarāmi ॥ 6॥
+
+ulūkhale baddhamudāraśauryamuttuṅgayugmārjunabhaṅgalīlam ।
+utphullapadmāyatacārunetraṃ bālaṃ mukundaṃ manasā smarāmi ॥ 7॥
+
+ālokya māturmukhamādareṇa stanyaṃ pibantaṃ sarasīruhākṣam ।
+saccinmayaṃ devamanantarūpaṃ bālaṃ mukundaṃ manasā smarāmi ॥ 8॥
+
+॥ iti bālamukundāṣṭakam sampūrṇam ॥
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Gaṇeśastotra</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%97%E0%A4%A3%E0%A5%87%E0%A4%B6%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8B%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+śrīgaṇeśāya namaḥ |
+nārada uvāca |
+praṇamya śirasā devaṃ gaurīputraṃ vināyakam |
+bhaktāvāsaṃ smarenityaṃ āyuḥkāmārthasiddhaye || 1 ||
+prathamaṃ vakratuṇḍaṃ ca ekadantaṃ dvitīyakam |
+tṛtīyaṃ kṛṣṇapiṅgākṣaṃ gajavaktraṃ caturthakam || 2 ||
+lambodaraṃ pañcamaṃ ca ṣaṣṭhaṃ vikaṭameva ca |
+saptamaṃ vighnarājendraṃ dhūmravarṇaṃ tathāṣṭamam || 3 ||
+navamaṃ bhālacandraṃ ca daśamaṃ tu vināyakam |
+ekādaśaṃ gaṇapatiṃ dvādaśaṃ tu gajānanam || 4 ||
+dvādaśaitāni nāmāni trisaṃdhyaṃ yaḥ paṭhennaraḥ |
+na ca vighnabhayaṃ tasya sarvasiddhikaraḥ prabhuḥ || 5 ||
+vidyārthī labhate vidyāṃ dhanārthī labhate dhanam |
+putrārthī labhate putrānmokṣārthī labhate gatim || 6 ||
+japedgaṇapatistotraṃ ṣaḍbhirmāsaiḥ phalaṃ labhet |
+saṃvatsareṇa siddhiṃ ca labhate nātra saṃśayaḥ || 7 ||
+aṣṭebhyo brāhmaṇebhyaśca likhitvā yaḥ samarpayet |
+tasya vidyā bhavetsarvā gaṇeśasya prasādataḥ || 8 ||
+|| iti śrīnāradapurāṇe saṃkaṭanāśanaṃ gaṇeśastotraṃ saṃpūrṇam ||
+    </body>
+  </text>
+</TEI>

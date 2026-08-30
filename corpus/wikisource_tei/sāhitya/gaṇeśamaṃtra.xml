@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Gaṇeśamaṃtra</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%97%E0%A4%A3%E0%A5%87%E0%A4%B6%E0%A4%AE%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%83"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+gaṇādiṃ pūrvamuccārya varṇādiṃ tadanaṃtaram ||
+anusvāraḥ parataraḥ ||ardhendulasitam ||tāreṇa ṛddham ||
+etattava manusvarūpam ||gakāraḥ pūrvarūpam ||
+akāro madhyamarūpam ||anusvāraścāntyarūpam ||
+binduruttararūpam ||nādaḥ saṃdhānam ||
+saṃhitāsaṃdhiḥ ||saiṣā gaṇeśavidyā ||
+gaṇakaṛṣiḥ ||nicṛdgāyatrīcchaṃdaḥ ||
+gaṇapatirdevatā ||oṃ gaṃ gaṇapataye namaḥ ||7||
+||gaṇeśa gāyatrī ||
+ekadaṃtāya vidmahe | vakratuṇḍāya dhīmahi ||
+tanno daṃtiḥ pracodayāt ||8||
+||gaṇeśa rūpa ||
+ekadaṃtaṃ caturhastaṃ pāśamaṃkuśadhāriṇam ||
+radaṃ ca varadaṃ hastairbibhrāṇaṃ mūṣakadhvajam ||
+raktaṃ laṃbodaraṃ śūrpakarṇakaṃ raktavāsasam ||
+raktagaṃdhānuliptāṃgaṃ raktapuṣpaiḥ supūjitam ||
+bhaktānukaṃpinaṃ devaṃ jagatkāraṇamacyutam ||
+āvirbhūtaṃ ca sṛṣṭyādau prakṛteḥ puruṣātparam ||
+evaṃ dhyāyati yo nityaṃ sa yogī yogināṃ varaḥ ||9||
+||aṣṭa nāma gaṇapati ||
+namo vrātapataye | namo gaṇapataye | namaḥ pramathapataye |
+namaste'stu laṃbodarāyaikadaṃtāya |
+vighnanāśine śivasutāya | śrīvaradamūrtaye namo namaḥ ||10||
+||phalaśruti ||
+etadatharvaśīrṣaṃ yo'dhīte ||sa brahmabhūyāya kalpate ||
+sa sarvataḥ sukhamedhate ||sa sarva vighnairnabādhyate ||
+sa paṃcamahāpāpātpramucyate ||
+sāyamadhīyāno divasakṛtaṃ pāpaṃ nāśayati ||
+prātaradhīyāno rātrikṛtaṃ pāpaṃ nāśayati ||
+sāyaṃprātaḥ prayuṃjāno apāpo bhavati ||
+sarvatrādhīyāno'pavighno bhavati ||
+dharmārthakāmamokṣaṃ ca viṃdati ||
+idamatharvaśīrṣamaśiṣyāya na deyam ||
+yo yadi mohāddāsyati sa pāpīyān bhavati
+sahasrāvartanāt yaṃ yaṃ kāmamadhīte
+taṃ tamanena sādhayet ||11||
+anena gaṇapatimabhiṣiṃcati sa vāgmī bhavati ||
+caturthyāmanaśnan japati sa vidyāvān bhavati |
+sa yaśovān bhavati ||
+ityatharvaṇavākyam ||brahmādyācaraṇaṃ vidyāt
+na bibheti kadācaneti ||12||
+yo dūrvāṃkurairyajati sa vaiśravaṇopamo bhavati ||
+yo lājairyajati sa yaśovān bhavati ||
+sa medhāvān bhavati ||
+yo modakasahasreṇa yajati
+sa vāñchitaphalamavāpnoti ||
+yaḥ sājyasamidbhiryajati
+sa sarvaṃ labhate sa sarvaṃ labhate ||13||
+aṣṭau brāhmaṇān samyaggrāhayitvā
+sūryavarcasvī bhavati ||
+sūryagrahe mahānadyāṃ pratimāsaṃnidhau
+vā japtvā siddhamaṃtro bhavati ||
+mahāvighnātpramucyate ||mahādoṣātpramucyate ||
+mahāpāpāt pramucyate ||
+sa sarvavidbhavati sa sarvavidbhavati ||
+ya evaṃ veda ityupaniṣat ||14||
+    </body>
+  </text>
+</TEI>

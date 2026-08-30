@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Śrīrāmacandrāṣṭaka</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%9A%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%95%E0%A4%AE%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+oṃ cidākāro dhātā paramasukhadaḥ pāvanatanur
+munīndrairyogīndrairyatipatisurendrairhanumatā |
+sadā sevyaḥ pūrṇo janakatanayāṅgaḥ suragurū
+ramānātho rāmo ramatu mama citte tu satatam || 1||
+mukundo govindo janakatanayālālitapadaḥ
+padaṃ prāptā yasyādhamakulabhavā cāpi śabarī |
+girātīto'gamyo vimaladhiṣaṇairvedavacasā
+ramānātho rāmo ramatu mama citte tu satatam || 2||
+dharādhīśo'dhīśaḥ suranaravarāṇāṃ raghupatiḥ
+kirīṭī keyūrī kanakakapiśaḥ śobhitavapuḥ |
+samāsīnaḥ pīṭhe raviśatanibhe śāntamanaso
+ramānātho rāmo ramatu mama citte tu satatam || 3||
+vareṇyaḥ śāraṇyaḥ kapipatisakhaścāntavidhuro
+lalāṭe kāśmīro ruciragatibhaṅgaḥ śaśimukhaḥ |
+narākāro rāmo yatipatinutaḥ saṃsṛtiharo
+ramānātho rāmo ramatu mama citte tu satatam || 4||
+virūpākṣaḥ kāśyāmupadiśati yannāma śivadaṃ
+sahasraṃ yannāmnāṃ paṭhati girijā pratyuṣasi vai |
+svaloke gāyantīśvaravidhimukhā yasya caritaṃ
+ramānātho rāmo ramatu mama citte tu satatam || 5||
+paro dhīro'dhīro'surakulabhavaścāsuraharaḥ
+parātmā sarvajño narasuragaṇairgītasuyaśāḥ |
+ahalyāśāpaghnaḥ śarakaraṛjuḥkauśikasakho
+ramānātho rāmo ramatu mama citte tu satatam || 6||
+hṛṣīkeśaḥ śaurirdharaṇidharaśāyī madhuripur
+upendro vaikuṇṭho gajaripuharastuṣṭamanasā |
+balidhvaṃsī vīro daśarathasuto nītinipuṇo
+ramānātho rāmo ramatu mama citte tu satatam || 7||
+kaviḥ saumitrīḍyaḥ kapaṭamṛgaghātī vanacaro
+raṇaślāghī dānto dharaṇibharahartā suranutaḥ |
+amānī mānajño nikhilajanapūjyo hṛdiśayo
+ramānātho rāmo ramatu mama citte tu satatam || 8||
+idaṃ rāmastotraṃ varamamaradāsena racitam
+uṣaḥkāle bhaktyā yadi paṭhati yo bhāvasahitam |
+manuṣyaḥ sa kṣipraṃ janimṛtibhayaṃ tāpajanakaṃ
+parityajya śrīṣṭhaṃ raghupatipadaṃ yāti śivadam || 9||
+|| iti śrīmadrāmadāsapūjyapādaśiṣyaśrīmaddhaṃ
+sadāsaśiṣyeṇāmaradāsākhyakavinā viracitaṃ
+śrīrāmacandrāṣṭakaṃ samāptam ||
+    </body>
+  </text>
+</TEI>

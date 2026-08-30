@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Malhārīkavaca</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%AE%E0%A4%B2%E0%A5%8D%E0%A4%B9%E0%A4%BE%E0%A4%B0%E0%A5%80%E0%A4%95%E0%A4%B5%E0%A4%9A%E0%A4%AE%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+|| śrī gaṇeśāya namaḥ ||
+asyaśrīmallārīkavacamaṃtrasya | skaṃdaṛṣiḥ |
+śrīmalhārīdevatā | anuṣṭhupachaṃdaḥl śrīmallārīkavacajapeviniyogaḥll
+sanatkumāra uvāca |
+munīnāṃ saptakoṭīnāṃ | varadaṃ bhaktavatsalama |
+duṣṭa mardana deveśaṃ | vaṃdehaṃ mhālasāpatima ||
+anugrahāya devānāṃ | maṇiratnagirausthitaṃ |
+prasannavadanaṃ nityaṃ | vaṃdehaṃ malla vairiṇaṃ ||
+sarvadevamayaṃ śāṃta | kaumāraṃ karuṇākaraṃ |
+ādirudra mahārudra | vaṃdehaṃ savitvakapriyama ||
+bhuktīmuktī pradaṃ devaṃ | sarvābharaṇabhūṣitaṃ ||
+koṭisūryapratīkāśaṃ | vaṃdehaṃ asurāṃtakaṃ ||
+ādidevaṃ mahādevaṃ | mallārī parameśvarama |
+vīrastvastyāvirupākṣaṃ | vaṃdehaṃ bhaktavatsalaṃ ||
+bhogarūpaparaṃ jyotiḥ | śiromālā vibhūṣitaṃ |
+triśalādidharaṃ devaṃ | vaṃdehaṃ lokarakṣakaṃ ||
+idaṃ paṭhati yo bhaktyā | mallārī pratikārakaṃ |
+bhaktānāṃ varadaṃ nityaṃ | praṇatosmimaheśvaraṃ ||
+vane raṇe mahādurge | rājacaura bhayopyuta |
+śākinīḍākinībhūta | piśācoragarākṣasaḥl
+grahapiḍāsu rogeṣu | viṣasarpabhayeṣuca ||
+sadā mallārīmallārī | mallārītikīrtanaṃ |
+saptajanmakṛtaṃ pāpaṃ | tatkṣaṇādeva naśyati ||
+trikāletu paṭhe nityaṃ | viṣṇū lokaṃsa gacchaṃtī |
+dehāṃtetu taprāpnotī | sarva loke mahīyate ||
+iti śrībrahmāṃḍapurāṇe | kṣetrakhaṃḍe mallārīmahātme |
+    </body>
+  </text>
+</TEI>

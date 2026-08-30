@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Vaṃśabrāhmaṇa</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%B5%E0%A4%82%E0%A4%B6%E0%A4%AC%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%B9%E0%A5%8D%E0%A4%AE%E0%A4%A3%E0%A4%AE%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+vaṃśabrāhmaṇa
+namo brahmaṇe namo brāhmaṇebhyo nama ācāryebhyo nama ṛṣibhyo namo devebhyo nama
+vāyave ca mṛtyave ca viṣṇave ca namo vaiśravaṇāya ca 1 upajāyata śarvadattādgārgyācchārvadatto gārgyaḥ 2 śarvadatto gārgyo rudra bhūtedrā rhyāyaṇāt 3 rudra bhūtidrārhyāyaṇastrātādaiṣumāt 4 trāta eṣumato nigaḍāt pārṇavalkeḥ 5 nigaḍaḥ pārṇavalkiḥ giriśarmaṇaḥ kāṇṭheviddheḥ 6 giriśarmā kāṇṭheviddhirbrahmavṛddheśchandogamāhakeḥ 7 brahmavṛddhiśchandogamāhakirmitravarcasaḥ sthairakāyanāt 8 mitravarcāḥ sthairakāyanaḥ supratītādaulundyāt 9 supratīta aulundyo bṛhaspatiguptācchāyastheḥ 10 bṛhaspatiguptaḥ śāyasthirbhavatrātācchāyastheḥ 11 bhavatrātaḥ śāyasthiḥ kustukācchārkarākṣyāt 12 kustukaḥ śārkarāskṣyaḥ śravaṇadattātkauhalāt 13 śravaṇadattaḥ kauhalaḥ suśāradācchālaṅkāyanāt 14 suśāradaḥ śālaṅkāyana ūrjayata aupamanyavāt 15 ūrjayannaupamanyavo bhānumata aupamanyavāt 16 bhānumānaupamanyava ānandajāccāndhanāyanāt 17 ānandajaścāndhanāyanaḥ śāmbācchārkarākṣyātkāmbojāccopamanyavāt 18 śāmbaḥ śārkarākṣyaḥ kāmbojaścaupamanyavo madra kārācchauṅgāyaneḥ 19 madra kāraḥ śauṅgāyaniḥ svāterauṣṭrākṣeḥ 20 svātirauṣṭrākṣiḥ suśravaso vārṣagaṇyāt 21 suśravā vārṣagaṇyaḥ prātarahnātkauhalāt 22 prātarahnaḥ kauhalaḥ ketorvādyāt 23 keturvādyo mitravindātkauhalāt 24 mitravindaḥ kauhalaḥ sunīthātkāpaṭavāt 25 sunīthaḥ kāpaṭavaḥ sutemanasaḥ śāṇḍilyāyanāt 26 sutemanāḥ śāṇḍilyāyano'm̐ śordhānaṃjayyāt 27 1
+aṃśurdhāñjayyo'mavāsyācchāṇḍilyāyanādrā dhācca gautamāt 1 rādho gautamo gāturgautamāt pituḥ 2 gātā gautamaḥ saṃvargajito lāmakāyanāt 3 saṃvargajillāmakāyanaḥ śākadāsādbhāḍitāyanāt 4 śākadāso bhāḍitāyano vicakṣaṇāttāṇḍyāt 5 vicakṣaṇastāṇḍyo gardabhīmukhācchāṇḍilyāyanāt 6 gardabhīsukhaḥ śāṇḍilyāyanaḥ udaraśāṇḍilyātpituḥ 7 udaraśāṇḍilyo'tidhanvanaśca śaunakānmaśakācca gārgyāt 8 maśako gārgyaḥ sthirakāt gārgyātpituḥ 9 sthirako gārgyo vāsiṣṭhāccaikitāneyāt 10 vāsiṣṭhaścaikitāneyo vāsiṣṭhādārehaṇyādrā janyāt 11 vāsiṣṭha ārehaṇyo rājanyaḥ sumantrādbābhravādgautamāt 12 sumantro bābhravo gautamaḥ śūṣādvāhneyādbhāradvājāt 13 śuṣo vāhnebhyo bhāradvājo'rālāddārteyācchaunakāt 14 arālo darteyaḥ śaunako dṛteraindro tācchaunakātpituḥ 15 dṛtiraindro taḥ śaunaka indro tācchaunakātpitureva 16 indro taḥ śaunako vṛṣaśuṣmādvātāvatāt 17 vṛṣaśuṣmo vātāvato nikothakādbhāyajātyāt 18 nikothako bhāyajātyaḥ pratitherdevatarathāt 19 pratithirdevataratho devatarasaḥ śāvasāyanātpituḥ 20 devatarāḥ śāvasāyanaḥ śavasaḥ pitureva 21 śavā agnibhuvaḥ kāśyapāt 22 agnibhūḥ kāśyapa indra bhuvaḥ kāśyapāt 23 indra bhūḥ kāśyapo mitrabhuvaḥ kāśyapāt 24 mitrabhūḥ kāśyapo vibhuṇḍakātkāśyapātpituḥ 25 vibhaṇḍakaḥ kāśyapa ṛṣyaśṛṅgātkāśyapātpituḥ 26 ṛṣyaśṛṅgaḥ kāśyapaḥ kāśyapātpitureva 27 kaśyapo'gneḥ 28 agnirindrāt 29 indro vāyoḥ 30 vāyurmṛtyoḥ 31 mṛtyuḥ prajāpateḥ 32
+prajāpatirbrahmaṇaḥ 33 brahmā svayambhūḥ 34 tasmai namastasmai namaḥ 35 2
+ācāryebhyo namaskṛtvātha vaṃśasya kīrtayet
+svadhā pūrveṣāṃ bhavati netāyurdīrghamaśnute
+ityuktvānukrāmedvaṃśamā brahmaṇaḥ 1 nayannaryamabhūteḥ kālabavāt 2 aryamabhūtiḥ kālabavaḥ bhadra śarmaṇaḥ kauśikāt 3 bhadra śarmā kauśikaḥ puṣpayaśasa audavrajeḥ 4 puṣpayaśā audavrajiḥ saṃkarādgautamāt 5 saṃkaro gautamo'ryamarādhācca gobhilātpūṣmitrācca gobhilāt 6 pūṣāmitro gobhilo'śvamitrādgobhilāt 7 aśvamitro gobhilo varuṇamitrādgobhilāt 8 varuṇamitro gobhilo mūlamitrādgobhilāt 9 mūlamitro gobhilo vatsamitrādgobhilāt 10 vatsamitro gobhilo gaulgulavīputrādgobhilāt 11 gaulgulavīputro gobhilo bṛhadvasoḥ pituḥ 12 bṛhadvasurgobhilo gobhilādeva 13 gobhilo rādhācca gautamāt
+14 samānaṃ paraṃ samānaṃ param 15 3
+    </body>
+  </text>
+</TEI>

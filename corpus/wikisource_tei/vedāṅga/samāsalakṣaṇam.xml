@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Samāsalakṣaṇa</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%AE%E0%A4%BE%E0%A4%B8%E0%A4%B2%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%A3%E0%A4%AE%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+samāsalakṣaṇam – śrīratna maṇḍanasūriḥ
+dvaṃdvaḥ prathamācāgradhvaniḥ sa itaretaraḥ samāhāraḥ |
+ādyaḥ svaliṃgavacano 'nyaḥ klībaścaikavacanāntaḥ || 1
+prathamā ca caśca prathamācau | prathamācau agre yeṣāṃ te prathamācāgrāḥ | evaṃvidhā dhvanayaḥ śabdā yasminsaḥ pra0 (prathamācāgradhvaniḥ) |
+sa dvaṃdva dvividho bhavati | kaḥ | itaretaraḥ | punaḥ kaḥ | samāhāraḥ | etāvatā dvaṃdvasya dvividhāmuktam | svaliṃgavacane yasya sa tathā | aṃtyaśabdāpekṣayā liṃgaṃ, vācyasaṃkhyāpekṣayā vacanaṃ bhavatītyarthaḥ | yathā | netre ca nāsikā ca netranāsikāḥ | dhavaśca khadiraśca palāśaśca dhavakhadirapalāśāḥ | uttamaśca madhyamaśca adhamaśca uttamamadhyamādhamāḥ | puruṣaḥ kevalaviśeṣaṇo'yam‌ |
+atha samāhāraḥ | aśvaśca vaḍavā ca aśvavaḍavam‌ | gāvaśca mahiṣāśca gaumahiṣam‌ | ityādi || ṭīkā 1 ||
+prathamācāgrau tvaṃ guṇaguṇinau guṇisadṛśaliṃgavacanābhyām‌ |
+madhyasthitatadadobhyāṃ samasya budha karma dhāraya vaḥ || 2
+pratha0 | – he budha tvaṃ guṇaguṇinau viśeṣaṇaviśeṣye karmadhārayake samāse samasyeti | (saṃṭaṃkaḥ ) kīdṛśau | prathamā ca caśca tāvagre yayostau prathamācāgrau | prathamāntayojinaḥ cakārāvityarthaḥ | kābhyāṃ kṛtvā | madhya0 – madhyasthitau ca tau tadadasau ca tābhyām | puṃstriyoḥ prathamaikavacanāṃtasyādaḥśabdasyāpi prayojanāttadgrahaṇam‌ | kīdṛśābhyām | guṇī viśeṣyaṃ tattulyaliṃgavacane yayostābhyām‌ | yathā vīraścāsau puruṣaśca vīrapuruṣaḥ | madhurā cāsau vāṇī ca madhuravāṇī | prasannaṃ tat‌ vadanaṃ ca prasannavadanam‌ | evaṃ śeṣavacanayorapi | viśeṣyamapi vivakṣayā viśeṣaṇaṃ syāttena nābhiḥ syātso nṛpaśca nābhinṛpaḥ | ityādi karmadhārayaḥ || ṭīkā 2 ||
+saṃkhyāsannapramukhāḥ saṃkhyābhirdigdiśā saho'nye ca |
+sarvaiḥ guṇisamasāmādiḥ yadā yuktā bahuvrīhau || 3
+saṃ0 – saṃkhyāsannapramukhāḥ saṃkhyābhiḥ saṃkhyāśabdairyuktāḥ samastā bhavantīti saṃbaṃdhaḥ || saṃkhyā saṃkhyāśabdāste ca āsannapramukhāśceti dvaṃdvaḥ | atra pramukhaśabdenāsannārthā adūrādhikādayaśca gṛhyante | yathā dvirdaśa dvidaśāḥ 20|| evaṃ tridaśādayo'pi | dvau vā trayo vā dvitrā | evaṃ tricaturādayo'pi sarvatra pramāṇīsaṃkhyāḍḍaḥ iti pratyayaḥ | āsannā daśa yeṣāṃ te āsannadaśā 9, 11 | vā evaṃ nikaṭanavādūradaśādayo'pi | digdigvācī śabdo diśā digvāciyuktaḥ syādyathā | uttarasyāḥ pūrvasyā diśoḥ yadaṃtarālaṃ sā uttarapūrvā aiśānī | evaṃ viśeṣavidiśo'pi vācyāḥ | sahaḥ sahaśabdaḥ sarvaiḥ śabdaiḥ yuktaḥ syādyathā | saha putreṇa vartate saputraḥ | evaṃ savidyādayo'pi | anye sahavivarjitāḥ śabdāḥ sarvaiḥ śabdairyuktā bhavanti | kena kṛtvā | guṇe sāmādayitvā guṇī viśeṣyaṃ tena samatulyaliṃgavacana ityarthaḥ | saha amādibhirdvitīyādiṣaṭṣaḍvibhaktivāneva vartate | iti sāmādiḥ | guṇisamaśca sāmādiśceti viśeṣaṇadvaṃdvastato guṇisamasāmādiścāsau yatra tena guṇi0 | viśeṣatulyaliṃgavacanena dvitīyādyaṃtena śabdena sarvaṃ sarvaiḥ samasyate ityarthaḥ | yathā uccaiḥ mukhaṃ yasya sa uccaiḥmukhāḥ | udgataṃ yauvanaṃ yasya sa udyauvanaḥ kumāraḥ | evaṃ udraśmiprabhṛtayo'pi avyayapūrvapadāḥ | natā indrā yaṃ sa natendraḥ pārśvaḥ | 1 jito moho yena sa jitamoho jinaḥ | 2 dattā dakṣiṇā yasmai sa dattadakṣiṇaḥ dvijaḥ | 3 vītaḥ rāgo yasmātsa vītarāgo jinaḥ | 4 śītā raśmayo yasya sa śītaraśmirinduḥ | 5 prādurbhūtā aṃkūrā yasyāṃ sā prādurbhūtāṃkurā bhūḥ | 6 viśeṣaṇaviśeṣābhyāṃ ete bhedā bahuvrīhau | dharme matiryasya sa dharmamatiḥ | duḥkhasya kṣayo yasmātsa duḥkhakṣayaḥ | ityādayaḥ viśeṣaṇaviśeṣyabhāvaṃ vinā bhedāḥ || ṭīkā 3 ||
+saptavibhaktyaṃtapadaiḥ prathamāṃtapade samasyamāne saḥ |
+paraliṃgo'naṃtara iva tatpuruṣo mukhyapadayugalaḥ || 4
+sapta0 – saḥ samāsaḥ parasya liṃgaṃ yasminsa tathā | anaṃtaro bahuvrīhiḥ sa iva paraliṃgaḥ etāvavanā bahuvrīhistatpuruṣaśca viśeṣyaliṃgau bhavataḥ ityarthaḥ | mu0 – pradhānapadadvayam‌ | yathā |
+bhava eva sāgaraḥ bhavasāgaraḥ | śobhanaḥ sādhuḥ susādhuḥ | candra iva candravadvā saumyaḥ | na jitaḥ ajitaḥ | ityādau prathamātatpuruṣaḥ |1|
+vṛkṣaṃ ārūḍhaḥ vṛkṣārūḍhaḥ | atikrāntaḥ khaṭvāṃ atikhaṭvaḥ dvitīyātatpuruṣaḥ |2| guṇairyuktaḥ guṇayuktaḥ | pariṇaddho vīrūdbhiḥ parivīrut‌ tṛtīyātatpuruṣaḥ |3|
+jīvebhyo hitaḥ jīvahitaḥ| pariglāno'dhyayanāya paryadhyayanaḥ caturthītatpuruṣaḥ|4| pāpādbhītaḥ pāpabhītaḥ| nirgataḥ kauśāmbyāḥ niṣkauśāṃbiḥ pañcamītatpuruṣaḥ |5|
+rājñaḥ puruṣaḥ rājapuruṣaḥ | ardhaṃ pippalyā ardhapippalī ṣaṣṭhītatpuruṣaḥ |6|
+dharme dhīraḥ dharmadhīraḥ saptamītatpuruṣaḥ |7| || ṭīkā 4 ||
+syādavyayapūrvapadastadarthamukhyo'vyayī sa ca klībaḥ |
+anadaṃtāllupsyāderādam‌ cāsminnapañcamyāḥ || 5
+avyayībhāvaḥ | a0 – akārāṃtavarjāt‌ | āt akārāṃtāt‌ | apaṃcamyāḥ paṃcamīvarjasyādeḥ || yathā kumbhasya mālāyāśca samīpaṃ upakumbham upamālam asti 1 paśya 2 śuśubhe 3 krudhyati 4 upakumbhāt‌ anaghaśobhā 5 śete | evaṃ sādhoḥ samīpaṃ upasādhu | vadhoḥ samīpaṃ upavadhu upanadi | yathāmukhaṃ pratyahaṃ baliṣuramityādiḥ || ṭīkā 5 ||
+saṃkhyārthātṣaṣṭhyantaṃ dvigau samāhārayugviśeṣyapadam‌ |
+ekatvamadaṃtāḍḍīrābaṃtādvā ṣaṇḍhatvam‌ || 6
+saṃkhyāvācakāt‌ viśeṣasya ṣaṣṭhyaṃtatve ukte viśeṣaṇasyāpi ṣaṣṭhyantatvalābhāt‌ | dvigau ṣaṣṭhyaṃtātsaṃkhyāpūrvakaviśeṣyamātraparaḥ samāhāraśabdaḥ prayuñjīta iti bhāvaḥ | trayāṇāṃ lokānāṃ samāhāraḥ trilokī | paṃcarājītyādayo'pyevam‌ | ābaṃtādvikalpena ḍīpratyayaḥ | yathā tisṛṇāṃ mālānāṃ samāhāraḥ trimālā trimālam‌ | ityeteṣāṃ ikārādyaṃtānāṃ ca ṣaṇḍhatvaṃ syādyathā | dvimuni dvinadi trijagadityādi || ṭīkā 6 ||
+iti śrīratnamaṃḍanakṛtaṃ samāsalakṣaṇaṃ ṣaḍvidham‌ | śrī saṃvata 16 āṣāḍhādi 17 varṣe phalgunaśuklapratipadā ṣayaranayare līlālaṣitam‌ |
+muniṛddhivijayapaṭhanārtham‌ ||
+iti ṣaṭsamāsaprakriyā samāptā ||
+iti śrīratnamaṇḍanasūrikṛtaṃ samāsalakṣaṇamalekhi | śrīrastu |
+iha yatkiṃcidaśuddhaṃ śāstraviruddhaṃ ca likhitamasti mayā |
+śodhyaṃ śrīsūrivaraiḥ prasādamadhyāyya tatsarvam‌ || 1 || śrīrastu ||
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Amoghaśivakavaca</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%85%E0%A4%AE%E0%A5%8B%E0%A4%98%E0%A4%B6%E0%A4%BF%E0%A4%B5%E0%A4%95%E0%A4%B5%E0%A4%9A%E0%A4%AE%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+amoghaśivakavacam ṛṣyādinyāsaḥ oṃ brahmaṛṣaye namaḥ śirasi| anuṣṭupa chandase namaḥ mukhe|śrī sadāśivarudradevatāya namaḥ hṛdi|hrīṃ śaktaye namaḥ pādayoḥ|vaṃ kīlakāya namaḥ nābhau|śrīṃ hrīṃ klīmītī bījāya namaḥ guhye|viniyogāya namaḥ sarvāṃge| atha karanyāsaḥ oṃ namo bhagavate jvalajvālāmālīne oṃ hrīṃ rāṃ sarvaśaktīdhāmne īśānātmane aḍguṣṭhābhyāṃ namaḥ| oṃ namo bhagavate jvalajvālāmālīne oṃ naṃ rīṃ nityatṛptīdhāmne tatpuruṣātmane tarjanībhyāṃ svāhā| oṃ namo bhagavate jvalajvālāmālīne oṃ maṃ rūṃ anādiśaktīdhāmne aghorātmane madhyamābhyāṃ vaṣaṭa| oṃ namo bhagavate jvalajvālāmālīne oṃ śiṃ raiṃ svataṃtraśaktīdhāmne vāmadevātmane anāmikābhyāṃ huma| oṃ namo bhagavate jvalajvālāmālīne oṃ vāṃ rauṃ aluptaśaktīdhāmne sadyojātātmane kaniṣṭhikābhyāṃ vauṣaṭa| oṃ namo bhagavate jvalajvālāmālīne oṃ yaṃ raḥ anādiśaktīdhāmne sarvātmane karatalakarapṛṣṭhābhyāṃ phaṭa| hṛdayādyaḍgnyāsaḥ oṃ namo bhagavate jvalajvālāmālīne oṃ hrīṃ rāṃ sarvaśaktīdhāmne īśānātmane hṛdayāya namaḥ| oṃ namo bhagavate jvalajvālāmālīne oṃ naṃ rīṃ nityatṛptīdhāmne tatpuruṣātmane śirase svāhā| oṃ namo bhagavate jvalajvālāmālīne oṃ maṃ rūṃ anādiśaktīdhāmne aghorātmane śikhāyai vaṣaṭa| oṃ namo bhagavate jvalajvālāmālīne oṃ śiṃ raiṃ svataṃtraśaktīdhāmne vāmadevātmane kavacāya huma| oṃ namo bhagavate jvalajvālāmālīne oṃ vāṃ rauṃ aluptaśaktīdhāmne sadyojātātmane netratrayāya vauṣaṭa| oṃ namo bhagavate jvalajvālāmālīne oṃ yaṃ raḥ anādiśaktīdhāmne sarvātmane astrāya phaṭa|
+atha dhyānam vajradaṃṣṭraṃ trinayanaṃ kālakaṇṭhmariṃdamam|sahastrakaramatyugrama vande śambhumumāpatima||
+ṛṣabha uvāca athāparaṃ sarvapurāṇaguhyaṃ niḥśeṣpāpaughaharaṃ pavitrama| jayapradama sarvavipadvimocanama vakṣyāmi śaivaṃ kavacaṃ hitāya te|| namaskṛtya mahādeva viśvavyāpīnamīśvaram|vakṣye śivamayaṃvarma sarvarakṣākarama nṛṇāma||1|| śucau deśe samāsīno yathāvatakalpitāsanaḥ| jiteṃdriyojitaprāṇściṃtayecchivamavyayama||2|| hatpuṇḍrīkāntarasaṃniviṣṭaṃ svatejasā vyāptanabhovakāśam|atīndriyaṃsūkṣmamanantamādyaṃ dhyāyetaparamānandamaheśama||3|| dhyānāvadhūtākhilakarmabandhaściraṃ cidānandnimagnacetāḥ|ṣaḍakṣaranyāsamāhitātmā śaivena kuryāta kavacena rakṣāma||4|| māṃ pātu devoSkhiladevatātmā saṃsārakūpe patītaṃ gabhīre|tannama divyaṃ varamaṃtramūlaṃ dhunotu me sarvamaghaṃ hṛdisthaṃ||5|| sarvatra māṃ rakṣatu viśvamūrtijyotirmayānandaghanaścidātmā|aṇoraṇīyānurūśaktīrekaḥ sa īśvaraḥ pātu bhayādaśeṣāta||6|| yo bhūsvarūpeṇbibhartiviśvaṃ pāyāta sa bhūmergirīśo Sṣṭmūrtiḥ|yoSpāṃ svarūpeṇa nṛṇāṃ karoti saṃjīvanaṃ sasovatu māṃjalebhya||7|| kalpāvasāne bhuvanāni dagdhvā sarvāṇi yo nṛtyati bhūrilīlaḥ|sa kakālarudrovatu māṃdavāgne rvātyādibhīterkhilācca tāpāta||8|| pradīptavidyutakanakāvabhāso vidyāvarābhītīkuṭhārapāṇiḥ|caturmukhstatpuruṣastrinetraḥ prācyāṃ sthitaṃ rakṣatu māmajastrama||9|| kuṭhāravedāḍkuśapāśaśūla kapālḍhakkākṣaguṇānadadhān|caturmukhonīlarucistrīnetraḥ pāyādaghoro diśī dakṣīṇasyāma||10|| kuṃdenduśaḍkhsphaṭīkāvabhāso vedākṣamālāvaradābhayāḍakaḥ|tryakṣacaturvaktra urūprabhāvaḥ sasasadyodhijātovatu māṃ pratīcyāma||11|| varākṣamālābhayaṭaḍkahastaḥ sarojakijjlksamānavarṇaḥ|trilocanaścārūcaturmukho māṃ pāyādudīcyāṃ dīśī vāmadeva||12|| vedābhayeṣṭāḍḍakuśpāśaṭaṃka kapālaḍhakkākṣaśūlapāṇiḥ|sitadyutiḥ paṃcamukhoSvatānmā mīśāna urdhvaṃ paramaprakāśaḥ||13|| mūrdhānmvyānmamacaṃdramauli rbhālaṃ mamāvyādatha bhālanetraḥ|netre mamāvyāda bhaganetrahārī nāsāṃ sadā rakṣatu viśvanātha||14|| pāyācchruti me śrutīgītkīrtiḥ kapolamavyāta satataḥ kapāli|vaktraḥ sadā rakṣatu paṃcavaktro jivhāṃ sadā rakṣatu vedajivhaḥ||15|| kaṇṭhaṃ gīrīśoSvatu nīlakaṇṭhaḥ pāṇidvayaṃ pātu pinākapāṇiḥ|dormulamavyānmamadharmabāhu rvakṣasthalaṃ dakṣamakhāntkovvyāta||16|| mamodaraṃ pātu girīndradhanvā madhyaṃ mamāvyādamadanāntakārī|herambtāto mama pātu nābhiṃpāyāta kaṭi dhūrjaṭirīśvaro me||17|| urudvayaṃ pātu kuberamitrojānudvayaṃ me jajagadīśvarovyāt|jaḍghāyugaṃ puḍgavaketuravyāta pādau mamāvyāta suravaṃdyapāda||18|| maheśvaraḥ pātu dinādiyāme māṃ madhyayāmevatu vāmadevaḥ|triyaṃbakaḥ pātu tṛtīyayāme vṛṣadhvajaḥ pātu dināntayāme||19|| pāyānniśādau śaśiśekharo māṃ gaḍgādharo rakṣatu māṃ nīśīthe|gaurīpatiḥ pātu niśāvasāne mṛtyuṃjayo rakṣatu sarvakālama||20|| antasthitama rakṣatu śaṃkaro māṃ sthāṇu sadā pātu bahiḥsthitaṃ mām|tadantare pātu patiḥ paśunāṃ sadāśivo rakṣatu māṃ samantāta||21|| tiṣṭhantamavyādbhuvanaikanāthaḥ pāyāda vrajantaṃ papramathadhināthaḥ|vedāntvedyovatu māṃ niṣaṇṇaṃ māmāvyayaḥ pātu śivaḥśayānama||22|| mārgeṣu māṃ rakṣatu nīlakaṇṭha śailādidurgeṣupuratrayāriḥ araṇyavāsādimahāpravāse pāyānmṛgavyādhaudāraśaktiḥ||23|| kalpāntkāṭopapaṭuprakopaḥ sphuṭāṭṭahāsoccalitāṇḍkośaḥ|ghorādisenārṇvadurnivāra mahābhayāda rakṣatu vīrabhadra||24|| patyaśvamātaḍgghaṭāvaruthsahastralakṣāyutakoṭībhīṣaṇama akṣauhīṇīnāṃśatamātatāyināṃ chindyānmṛḍoghorakuṭhāradhārayā||25|| nihantu dasyunapralayānalārcirjvalata triśūlaṃ tripurāṃtakasya śārdūlasiṃharśavṛkādihiṃstrānsaṃtrāyatvīśadhanuḥ pinākama||26|| duḥkhpraduśśakundurgatidaurmanasdurbhikṣyadurvyasandussahaduryaśāṃsi utpātatāpavīṣbhītīmasadagrahārtivyādhīṃśca nāśayatu me jagatāmadhīśa||27||
+oṃ namo bhagavate sadāśivāya sakalatatvātmakāya sakalatatvavihārāya sakalalokaikakartre sakalalokaikabhartre sakalalokaikahartre sakalalokaikagurave sakalalokaikasākṣiṇe sakalanigamaguhyāya sakalavaradapradāya sakaladuritārtibhaṃjanāya sakalajagadabhayaṃkarāya sakalalokaikaśaḍkarāya śaśāṃḍkśekharāya śāśvata nijābhāsāya nirguṇāya nirupamāya nīrupāya nirābhāsāya nirāmayāya niṣprapaṃcāya niṣkalaṃkāya nirdvaṃdvāya niḥsaṃḍgāya nirmalāya nirgamāya nityarupavibhavāya nirupamavibhavāya nirādhārāya nityaśuddhabuddhaparipūrṇsaccidānaṃdādvayāya paramaśāṃta prakāśatejorūpāya jaya jaya mahārūdra mahāraudra bhadrāvatāra duḥkhadāvadāraṇa mahābhairava kālabhairava kalpāntabhairavakapālamālādhara khaṭvāḍgkhaḍgcarmpāśāḍkuśdamarūśūlcāpbāṇgadāśaktībhindīpāla tomaramusalamudgarapaṭṭiśaparaśuparighabhuśuṇḍiśataghni cakrāāyudhabhīṣaṇakara sahastramukha daṃṣṭrākarālavikaṭāṭṭahāsavisphārītbrahmāṃḍamaṃḍalnāgeṃdrakuṃḍala nāgeṃdrahāra nāgeṃdravalaya nāgeṃdracarmadhara mṛtyuṃjaya tryaṃbaka tripurāṃtaka virupākṣa viśveśvara viśvarūpa vṛṣabhavāhana viṣabhūṣaṇa viśvatomukha sarvato rakṣa rakṣa mā jvala jvala mahāmṛtyubhayapamṛtyubhayaṃ nāśaya nāśaya rogabhayamutsādayotsādaya viṣasarpabhayaṃ śamaya śamaya corabhayaṃ māraya māraya mama śatrunuccāṭayoccāṭaya śūlena vidāraya vidāraya kuṭhāreṇa bhīndhī bhīndhī khaḍgena cīndhī cīndhī khaṭvāḍgena vipothaya vipothaya mūsalena niṣpeṣaya niṣpeṣaya bāṇaiḥ saṃtāḍaya sāṃtāḍaya rakṣāṃsi bhīṣaya bhīṣaya bhūtāni vidrāvaya vidrāvaya kūṣmāṇḍvetālmārīgaṇa brahmarākṣasāna saṃtrāsaya saṃtrāsaya māmbhayaṃ kuru kuru vitrastaṃ māmāśvāsayāśvāsaya narakabhayānmāmoddhārayoddhāraya saṃjīvaya saṃjīvaya kṣuttuḍbhyāṃ māmāpyāyayāpyāyaya duḥkhāturaṃ māmānandayānandaya śivakavacena māmācchādayācchādaya tryaṃbaka sadāśiva namaste namaste namaste|
+ṛṣabha uvāca ityeta kavacaṃ śaivaṃ varadaṃ vyāhṛtaṃ mayā|sarvabādhāpraśamanaṃ rahasyaṃ sarvadehināṃ||28|| yaḥsadā dhārayenmartyaḥ śaivaṃ kavacamuttamam|na tasya jāyate kvapi bhayaṃ śambhornugrahāta||29|| kṣīṇāryumṛtyumāpanno mahārogahato Spi vā|sadyaḥ sukhamavāpnoti dīrghamāyuśca vindati||30|| sarvadāridryaśamanaṃ saumaṃgalyavivardhanaṃ yo dhatte kavacaṃ śaivaṃ sa devairapi pūjyate||31|| mahāpātakasaṃghātairmucate copapātakaiḥ|dehānte śivavāpnoti śivavarmānubhāvataḥ||32|| tvamapiśraddhayā vatsa śaivaṃ kavacamuttamama|dhārayasva mayā dattaṃ sdya śreyo hrāvāpsyasi||40||
+iti śrīskaṃdamahāpurāṇe ekāśītīsāhastrayāṃtṛtīye brahmottarakhaṃḍe amogha śivakavacaṃ saṃpūrṇaṃ|
+    </body>
+  </text>
+</TEI>

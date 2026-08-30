@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Godāvarīstotra</title>
+        <author>Śrīvāsudevānandasarasvatī</author>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%97%E0%A5%8B%E0%A4%A6%E0%A4%BE%E0%A4%B5%E0%A4%B0%E0%A5%80%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8B%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+|| godāvarīstotram ||
+yā snānamātrāya narāya godā godānapuṇyādhidṛśiḥ kugodā||
+godāsaraidā bhuvi saubhagodā godāvarī sā'vatu naḥ sugodā||1||
+yā gaupavastermuninā hṛtā'tra yā gautamena prathitā tato'tra||
+yā gautamītyarthanarāśvagodā godāvarī sā'vatu naḥ sugodā||2||
+vinirgatā tryaṃbakamastakādyā snātuṃ samāyānti yato'pi kādyā||
+kā''dyādhunī dṛtsatatapramodā godāvarī sā'vatu naḥ sugodā||3||
+gaṅgodgatiṃ rāti mṛtāya revā tapaḥphalaṃ dānaphalaṃ tathaiva||
+varaṃ kurukṣetramapi trayaṃ yā godāvarī sā'vatu naḥ sugodā||4||
+siṃhe sthite vāgadhipe purodhaḥ siṃhe samāyāntyakhilāni yatra||
+tīrthāni naṣṭākhilalokakhedā godāvarī sā'vatu naḥ sugodā||5||
+yadūrdhvaretomunivargalabhyaṃ tadyattaṭasthairapi dhāma labhyam||
+abhyantarakṣālanapāṭavodā godāvarī sā'vatu naḥ sugodā||6||
+yasyāḥ sudhāspardhi payaḥ pibanti na te punarmātṛpayaḥ pibanti||
+yasyāḥ pibanto'mbvamṛtaṃ hasanti godāvarī sā'vatu naḥ sugodā||7||
+saubhāgyadā bhāratavarṣadhātrī saubhāgyabhūtā jagato vidhātrī||
+dhātrī prabodhasya mahāmahodā godāvarī sā'vatu naḥ sugodā||8||
+samāplutā mayā sā yā siṣeve pūrvasāgaram||
+saptavaktraistapaḥ kṛṣṇasaptamyāṃ sati vāsare||9||
+saptasupterasuptā sā guptā sāgaramadhyataḥ||
+godāvarī varīvarti na nidrāti kadācana||10||
+|| iti śrī pa. pa. śrīvāsudevānandasarasvatīviracitaṃ godāvarīstotraṃ saṃpūrṇam ||
+    </body>
+  </text>
+</TEI>

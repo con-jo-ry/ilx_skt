@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Vedaparibhāṣākārikāśikṣā</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%AA%E0%A4%B0%E0%A4%BF%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A4%BE%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%BF%E0%A4%95%E0%A4%BE_%E0%A4%B6%E0%A4%BF%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BE"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+vedaparibhāṣākārikā śikṣā
+atha vedaparibhāṣā kārikā śikṣā prārabhyate |
+
+śrīrāmaṃ sadguruṃ yājñavalkyaṃ kātyāyanaṃ tathā
+nattvā padānāṃ vakṣyāmi lakṣaṇaṃ caturakṣaraiḥ 1
+anuvāke'nuvāke cāmnāye mādhyandinīyake
+paribhāṣocyate halyuk kevalo vā svaro'kṣaram 2
+padasaṅkhyā''dimena syāddvitīyena visarganau
+sāvagrahaṃ setikāraṃ tṛtīyena turīyataḥ 3
+māntaṃ kvādihalantaṃ ca situsentaṃ visargataḥ
+ekarūpaṃ tu viṣamaṃ tadabhāve samanna vā 4
+kakārādihakārāntāstrayastriṃśaddhalaḥ smṛtāḥ
+saṅkhyāpūrtistu naikena sam̐yyogaṃ tatra kārayet 5
+ṛ lṛ varjyā akārādyā aukārāntāḥ svarā daśa
+ādye dvitīyādiṣu tu navaivākāravarjitāḥ 6
+navādhike tūparistharepheṇa daśa vā nakhāḥ
+ekonaviṃśatyadhike'nusvārāttithayaḥ smṛtāḥ 7
+daśaghne halyute nācā padasaṅkhyā''dime'kṣare
+dvitīyāditriṣṭhahalbhirvisargo'vagrahaśca maḥ 8
+visargaḥ padamadhyasthaḥ padyāntaśca padāntagaḥ 9
+padyāntaṃ ca padāntaṃ ca vyañjanaṃ situsentakam
+kaṭau tapau ṅaṇanamā halaḥ padyapadāntagāḥ 10
+iyañcaturvarṇayutā nirṇīya paribhāṣikā
+saukaryadātrī pāṭhasya padavedasya kārikā 11
+iti śrīmatpaṇḍitasiddheśvarasūnunā paṇḍitarāmacandraviracitā
+vedaparibhāṣā kārikā śikṣā samāptā
+    </body>
+  </text>
+</TEI>

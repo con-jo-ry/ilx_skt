@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Śrīnṛsiṃhasarasvatīprārthanāṣṭaka</title>
+        <author>Śrīvāsudevānandasarasvatī</author>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%A8%E0%A5%83%E0%A4%B8%E0%A4%BF%E0%A4%82%E0%A4%B9%E0%A4%B8%E0%A4%B0%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%A4%E0%A5%80%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A5%E0%A4%A8%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%95%E0%A4%AE%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+|| śrīnṛsiṃhasarasvatīprārthanāṣṭakam ||
+ṛtakṛtsvagirosmarosbhavad dvijapatnyāstanayospi yosbhavaḥ|
+sa nṛsiṃhasarasvatī yatirbhagavān messti parā varā gatiḥ||1||
+praṇavaṃ prapapāṭha janmato vijahārālpadaśospi sanmataḥ|
+sa nṛsiṃhasarasvatī yatirbhagavān messti parā varā gatiḥ||2||
+mṛtaviprasutaṃ vyajīvayadya u vaṃdhyāmahiṣīmadohayat|
+sa nṛsiṃhasarasvatī yatirbhagavān messti parā varā gatiḥ||3||
+svatanuṃ yataye vyadarśayaddvijagarvaṃ buruḍādvyanāśayat|
+sa nṛsiṃhasarasvatī yatirbhagavān messti parā varā gatiḥ||4||
+pradadau hi mṛtapriyastriyā api saubhāgyamu yannamaskriyā|
+sa nṛsiṃhasarasvatī yatirbhagavān messti parā varā gatiḥ||5||
+svamudesbhavadannavṛddhikṛt suvaśāyāspi vaṃśavṛddhikṛt|
+sa nṛsiṃhasarasvatī yatirbhagavān messti parā varā gatiḥ||6||
+drurakāryapi śuṣkakāṣṭhataḥ kusurau yena śucī ca kuṣṭhataḥ|
+sa nṛsiṃhasarasvatī yatirbhagavān messti parā varā gatiḥ||7||
+amarākhyapure ca yoginīvarado yoskhiladossti yoginīḥ|
+sa nṛsiṃhasarasvatī yatirbhagavān messti parā varā gatiḥ||8||
+|| iti śrī pa. pa. śrīvāsudevānandasarasvatīviracitaṃ śrīnṛsiṃhasarasvatīstotraṃ saṃpūrṇam ||
+    </body>
+  </text>
+</TEI>

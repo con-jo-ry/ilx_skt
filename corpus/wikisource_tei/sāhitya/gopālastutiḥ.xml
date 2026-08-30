@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Gopālastuti</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%97%E0%A5%8B%E0%A4%AA%E0%A4%BE%E0%A4%B2%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%81%E0%A4%A4%E0%A4%BF%E0%A4%83"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+śrī gaṇeśāya namaḥ |
+oṃ namo viśvarūpāya viśvasthityantahetave |
+viśveśvarāya viśvāya govindāya namo namaḥ || 1||
+
+namo vijñānarūpāya paramānandarūpiṇe |
+kṛṣṇāya gopīnāthāya govindāya namo namaḥ || 2||
+
+namaḥ kamalanetrāya namaḥ kamalamāline |
+namaḥ kamalanābhāya kamalāpataye namaḥ || 3||
+
+barhāpīḍābhirāmāya rāmāyākuṇṭhamedhase |
+ramāmānasahaṃsāya govindāya namo namaḥ || 4||
+
+kaṃsavaśavināśāya keśicāṇūraghātine |
+kālindīkūlalīlāya lolakuṇḍaladhāriṇe || 5||
+
+vṛṣabhadhvajavandyāya pārthasārathaye namaḥ |
+veṇuvādanaśīlāya gopālāyāhimardine || 6||
+
+ballavīvadanāmbhojamāline nṛtyaśāline |
+namaḥ praṇatapālāya śrīkṛṣṇāya namo namaḥ || 7||
+
+namaḥ pāpapraṇāśāya govardhanadharāya ca |
+pūtanājīvitāntāya tṛṇāvartāsuhāriṇe || 8||
+
+niṣkalāya vimohāya śuddhāyāśuddhavairiṇe |
+advitīyāya mahate śrīkṛṣṇāya namo namaḥ || 9||
+
+prasīda paramānanda prasīda parameśvara |
+ādhivyādhibhujaṅgena daṣṭaṃ māmuddhara prabho || 10||
+
+śrīkṛṣṇa rukmiṇīkānta gopījanamanohara |
+saṃsārasāgare magnaṃ māmuddhara jagadguro || 11||
+
+keśava kleśaharaṇa nārāyaṇa janārdana |
+govinda paramānanda māṃ samuddhara mādhava || 12||
+
+|| ityātharvaṇe gopālatāpinyupaniṣadantargatā gopālastuti samāptā ||
+    </body>
+  </text>
+</TEI>

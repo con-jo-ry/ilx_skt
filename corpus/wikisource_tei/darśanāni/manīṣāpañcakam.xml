@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Manīṣāpañcaka</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%AE%E0%A4%A8%E0%A5%80%E0%A4%B7%E0%A4%BE%E0%A4%AA%E0%A4%9E%E0%A5%8D%E0%A4%9A%E0%A4%95%E0%A4%AE%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+||manīṣāpañcakaṃ ||
+manīṣāpañcakaṃ
+annamayādannamayamathavā caitanyameva caitanyāt |
+yativara dūrīkartuṃ vāñchasi kiṃ brūhi gaccha gaccheti ||
+pratyagvastuni nistaraṅgasahajānandāvabodhāmbudhau vipro'yaṃ śvapaco'yamityapi mahānko'yaṃ vibhedabhramaḥ |
+kiṃ gaṅgāmbuni bimbite'mbaramaṇau cāṇḍālavīthīpayaḥ pūre vā'ntaramasti kāñcanaghaṭīmṛtkumbhayorvā'mbare ||
+jāgratsvapnasuṣuptiṣu sphuṭatarā yā saṃvidujjṛmbhate yā brahmādipipīlikāntatanuṣu protā jagatsākṣiṇī |
+saivāhaṃ na ca dṛśyavastviti dṛḍhaprajñāpi yasyāsti ceccāṇḍālo'stu sa tu dvijo'stu gururityeṣā manīṣā mama ||1||
+brahmaivāhamidaṃ jagacca sakalaṃ cinmātravistāritaṃ sarvaṃ caitadavidyayā triguṇayā'śeṣaṃ mayā kalpitam |
+itthaṃ yasya dṛḍhā matiḥ sukhatare nitye pare nirmale cāṇḍālo'stu sa tu dvijo'stu gururityeṣā manīṣā mama ||2||
+śaśvannaśvarameva viśvamakhilaṃ niścitya vācā gurornityaṃ brahma nirantaraṃ vimṛśatā nirvyājaśāntātmanā |
+bhūtaṃ bhāti ca duṣkṛtaṃ pradahatā saṃvinmaye pāvake prārabdhāya samarpitaṃ svavapurityeṣā manīṣā mama ||3||
+yā tiryaṅnaradevatābhirahamityantaḥ sphuṭā gṛhyate yadbhāsā hṛdayākṣadehaviṣayā bhānti svato'cetanāḥ |
+tāṃ bhāsyaiḥ pihitārkamaṇḍalanibhāṃ sphūrtiṃ sadā bhāvayanyogī nirvṛtamānaso hi gururityeṣā manīṣā mama ||4||
+yatsaukhyāmbudhileśaleśata ime śakrādayo nirvṛtā yaccitte nitarāṃ praśāntakalane labdhvā munirnirvṛtaḥ |
+yasminnityasukhāmbudhau galitadhīrbrahmaiva na brahmavid yaḥ kaścitsa surendravanditapado nūnaṃ manīṣā mama ||5||
+dāsaste'haṃ dehadṛṣṭyā'smi śaṃbho jātasteṃ'śo jīvadṛṣṭyā tridṛṣṭe |
+sarvasyā''tmannātmadṛṣṭyā tvamevetyevaṃ me dhīrniścitā sarvaśāstraiḥ ||
+||iti śrīmacchaṅkarabhagavataḥ kṛtau manīṣāpañcakaṃ saṃpūrṇam ||
+    </body>
+  </text>
+</TEI>

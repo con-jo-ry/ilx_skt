@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Ardhanārīśvarāṣṭaka</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%85%E0%A4%B0%E0%A5%8D%E0%A4%A7%E0%A4%A8%E0%A4%BE%E0%A4%B0%E0%A5%80%E0%A4%B6%E0%A5%8D%E0%A4%B5%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%95%E0%A4%AE%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+ardhanārīśvarāṣṭakam||
+aṃbhodharaśyāmalakuntalāyai
+taṭitprabhātāmrajaṭādharāya |
+nirīśvarāyai nikhileśvarāya
+namaḥ śivāyai ca namaḥ śivāya || 1||
+pradīptaratnojvalakuṇḍalāyai
+sphuranmahāpannagabhūṣaṇāya |
+śivapriyāyai ca śivapriyāya
+namaḥ śivāyai ca namaḥ śivāya || 2||
+mandāramālākalitālakāyai
+kapālamālāṅkitakandharāyai |
+divyāmbarāyai ca digambarāya
+namaḥ śivāyai ca namaḥ śivāya || 3||
+kastūrikākuṅkumalepanāyai
+śmaśānabhasmāttavilepanāya |
+kṛtasmarāyai vikṛtasmarāya
+namaḥ śivāyai ca namaḥ śivāya || 4||
+pādāravindārpitahaṃsakāyai
+pādābjarājatphaṇinūpurāya |
+kalāmayāyai vikalāmayāya
+namaḥ śivāyai ca namaḥ śivāya || 5||
+prapañcasṛṣṭyunmukhalāsyakāyai
+samastasaṃhārakatāṇḍavāya |
+samekṣaṇāyai viṣamekṣaṇāya
+namaḥ śivāyai ca namaḥ śivāya || 6||
+praphullanīlotpalalocanāyai
+vikāsapaṅkeruhalocanāya |
+jagajjananyai jagadekapitre
+namaḥ śivāyai ca namaḥ śivāya || 7||
+antarbahiścordhvamadhaśca madhye
+puraśca paścācca vidikṣu dikṣu |
+sarvaṃ gatāyai sakalaṃ gatāya
+namaḥ śivāyai ca namaḥ śivāya || 8||
+ardhanārīśvarastotraṃ upamanyukṛtaṃ tvidam |
+yaḥ paṭhecchṛṇuyādvāpi śivaloke mahīyate || 9||
+|| iti upamanyukṛtaṃ ardhanārīśvarāṣṭakam ||
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Śaṅkarāṣṭaka</title>
+        <author>Brahmānandaḥ</author>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%B6%E0%A4%99%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%95%E0%A4%AE%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+॥ śaṅkarāṣṭakam ॥
+śīrṣajaṭāgaṇabhāraṃ garalāhāraṃ samastasaṃhāram ।
+kailāsādrivihāraṃ pāraṃ bhavavāridherahaṃ vande ॥ 1
+candrakalojjvalaphālaṃ kaṇṭhavyālaṃ jagattraryāphālam ।
+kṛtanaramastakamālaṃ kālaṃ kālasya komalaṃ vande ॥ 2
+kopekṣaṇahatakāmaṃ svātmārāmaṃ nagendrajāvāmam ।
+saṃsṛtiśokavirāmaṃ śyāmaṃ kaṇṭhena kāraṇaṃ vande ॥ 3
+kaṭitaṭavilasitanāgaṃ khaṇḍitayāgaṃ mahādbhutatyāgam ।
+vigataviṣayarasarāgaṃ bhāgaṃ yajñeṣu bibhrataṃ vande ॥ 4
+tripurādikadanujāṃtaṃ girijākāntaṃ sadaiva saṃśāntam
+līlāvijitakṛtāntaṃ bhāntaṃ svānteṣu dehināṃ vande ।
+surasaridāplutakeśaṃ tridaśakuleśaṃ dālayāveśam ।
+vigatāśeṣakleśaṃ deśaṃ sarveṣṭasampadāṃ vande ॥ 6
+karatalakalivapinākaṃ vigatajarākaṃ sukarmaṇāṃ pākam ।
+parapadavītavarākaṃ nākaṅgamapūgavanditaṃ vande ।।7
+bhūtivibhūṣitakārya dustaramāyaṃ vivarjivāpāyam ।
+pramathasamūhasahāyaṃ sāyaṃ prātanirantaraṃ vande ॥ 8
+yastu padāṣṭakametadbrahmānandena nirmitaṃ nityam ।
+paṭhati samāhitacetāḥ prāpnotyante sa śaivameva padam ॥
+iti śrīmatparamahaṃsasvāmibrahmānandaviracitaṃ śrīśaṅkarāṣṭakaṃ sampūrṇam ॥
+    </body>
+  </text>
+</TEI>

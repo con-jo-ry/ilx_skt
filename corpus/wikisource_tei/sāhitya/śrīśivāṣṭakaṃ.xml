@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Śrīśivāṣṭaka</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%B6%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%95%E0%A4%82"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+prabhuṃ prāṇanāthaṃ vibhuṃ viśvanāthaṃ jagannāthanāthaṃ sadānaṃda bhājāṃ |
+bhavadbhavya bhūteśvaraṃ bhūtanāthaṃ śivaṃ śaṃkaraṃ śaṃbhumīśānamīḍe || 1 ||
+gale ruṃḍamālaṃ tanau sarpajālaṃ mahākālakālaṃ gaṇeśādhipālāṃ |
+jaṭājūṭagaṃgottaraṃgairviśiṣyaṃ śivaṃ śaṃkaraṃ śaṃbhumīśānamīḍe || 2 ||
+mudāmākaraṃ maṃḍanaṃ maṃḍayaṃtaṃ mahāmaṃḍalaṃ bhasmabhūṣādharaṃ taṃ |
+anādiṃhyapāraṃ mahāmohamāraṃ śivaṃ śaṃkaraṃ śaṃbhumīśānamīḍe || 3 ||
+vaṭādho nivāsaṃ mahāṭṭāṭṭahāsaṃ mahāpāpanāśaṃ sadā suprakāśaṃ |
+girīśaṃ gaṇeśaṃ sureśaṃ maheśaṃ śivaṃ śaṃkaraṃ śaṃbhumīśānamīḍe || 4 ||
+girīṃdrātmajā saṃgṛhītārthadehaṃ girausaṃsthitaṃ sarvadā sannagehaṃ |
+parabrahma brahmādibhirvaṃdyamānaṃ śivaṃ śaṃkaraṃ śaṃbhumīśānamīḍe || 5 ||
+kapālaṃ triśūlaṃ karābhyāṃ dadhānaṃ padāṃbhojanamrāya kāmaṃ dadānaṃ |
+balīvardhayānāṃ surāṇāṃ pradhānaṃ śivaṃ śaṃkaraṃ śaṃbhumīśānamīḍe || 6 ||
+śaraccaṃdra gātraṃ gaṇānaṃda pātraṃ trinetraṃ dhaneśasya mitraṃ |
+aparṇā kalatraṃ sadā saccaritraṃ śivaṃ śaṃkaraṃ śaṃbhumīśānamīḍe || 7 ||
+haraṃ sarpahāraṃ citābhūvihāraṃ bhavaṃ vedasāraṃ sadā nirvikāraṃ |
+smaśāne vasaṃtaṃ manojaṃ dahaṃtaṃ śivaṃ śaṃkaraṃ śaṃbhumīśānamīḍe || 8 ||
+svayaṃ yaḥ prabhāte naraśśūlapāṇeḥ paṭhet stotraratnaṃ tvihaprāpyaratnaṃ |
+saputraṃ sudhānyaṃ samitraṃ kalatraṃ vicitraiḥ samārādhya mokṣaṃ prayāti || phalaśṛti ||
+    </body>
+  </text>
+</TEI>

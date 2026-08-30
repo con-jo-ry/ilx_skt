@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sītopaniṣad</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A5%80%E0%A4%A4%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+oṃ bhadraṃ karṇebhiḥ śruṇuyāma devāḥ |
+bhadraṃ paśyemākṣabhiryajatrāḥ |
+sthirairaṅgaistuṣṭuvāṅṃ sastanūbhiḥ |
+vyaśema devahitaṃ yadāyuḥ |
+svasti na indro vṛddhaśravāḥ |
+svasti naḥ pūṣā viśvavedāḥ |
+svasti nastārkṣyo ariṣṭanemiḥ |
+svasti no bṛhaspatirdadhātu |
+oṃ śāntiḥ śāntiḥ śāntiḥ ||
+devāha vai prajāpatimabruvankā sītā kiṃ rūpamiti ||1||
+sa hovāca prajāpatiḥ sā sītetiḥ sīteti|
+mūlaprakṛtirūpatvātsā sītā prakṛtiḥ smṛtā|
+praṇavaprakṛtirūpatvātsā sītā prakṛtirucyate ||2||
+sītā iti trivarṇātmā sākṣānmāyāmayī bhavet|
+viṣṇuḥ prapañcabījaṃ ca māyā īkāra ucyate ||3||
+sakāraḥ satyamamṛtaṃ prāptiḥ somaśca kīrtyate |
+takārastāralakṣmyā ca vairājaḥ prastaraḥ smṛtaḥ ||4||
+īkārarūpiṇī somā'mṛtāvayavadivyālaṅkārasraṅmauktikādyābharaṇalaṅkṛtā mahāmāyā'vyaktarūpiṇī vyaktā bhavati ||5||
+prathamā śabdabrahmamayī svādhyāyakāle prasannā |
+udbhāvanakarī sātmikā dvitīyā bhūtale halāgre samutpannā |
+tṛtīyā īkārarūpiṇī avyaktasvarūpā bhavatīti sītāityudāharanti śaunakīye ||6||
+śrīrāmasānnidhyavaśājjagadānandakāriṇī |
+utpattisthitisaṃhārakāriṇī sarvadehinām ||7||
+sītā bhagavatī jñeyā mūlaprakṛtisaṃjñitā |
+praṇavatvātprakṛriti vadanti brahmavādina iti ||8||
+athāto brahmajijñāseti ca ||9||
+sā sarvavedamayī sarvadevamayī sarvalokamayī sarvakīrtimayī sarvadharmamayī sarvādhārakāryakāraṇamayī mahālakṣmīrdeveśasya bhinnābhinnarūpā cetanācetanātmikā brahmasthāvarātmā tadguṇakarmavibhāgabhedāccharīrūpā devarṣimanuṣyagandharvarūpā asurarākṣasabhūtapretapiśācabhūtādibhūtaśarīrūpā bhūtendriyamanaḥprāṇarūpeti ca vijñāyate ||10||
+sā devī trividhā bhavati śaktyāsanā icchāśaktiḥ kriyāśaktiḥ sākṣācchaktiriti ||11||
+icchāśaktistrividhā bhavati |
+śrībhūminīlātmikā bhadrarūpiṇī prabhāvarūpiṇī somasūryāgnirūpā bhavati ||12||
+somātmikā oṣadhīnāṃ prabhavati kalpavṛkṣapuṣpaphalalatāgulmātmikā auṣadhabheṣajātmikā amṛtarūpā devānāṃ mahastomaphalapradā amṛtena tṛptiṃ janayantī devānāmannena paśūnāṃ tṛṇena tattajjīvānāṃ ||13||
+sūryādisakalabhuvanaprakāśinī divā ca rātriḥ kālakalānimeṣamārabhya ghaṭikāṣṭayāmadivasavārarātribhedena pakṣamāsartvayanasaṃvatsarabhedena manuṣyāṇāṃ śatāyuḥkalpanayā prakāśamānā cirakṣipravyapadeśena nimeṣamārabhya parārdhaparyantaṃ kālacakraṃ jagaccakramityādiprakāreṇa cakravatparivartamānāḥ sarvasyaitasyaiva kālasya vibhāgaviśeṣāḥ prakāśarūpāḥ kālarūpā bhavanti ||14||
+agnirūpā annapānādiprāṇināṃ kṣuttṛṣṇātmikā devānāṃ mukharūpā vanauṣadhīnāṃ śītoṣṇarūpā kāṣṭheṣvantarbahiśca nityānityarūpā bhavati ||15||
+śrīdevī trividhaṃ rūpaṃ kṛtvā bhagavatsaṃkalpānuguṇyena lokarakṣaṇārthaṃ rūpaṃ dhārayati |
+śrīriti lakṣmīriti lakṣyamāṇā bhavatīti vijñāyate ||16||
+bhūdevī sasāgarāṃbhaḥ saptadvīpā vasundharā bhūrādicaturdaśabhuvanānāmādhārādheyā praṇavātmikā bhavati |
+nīlā ca mukhavidyunmālinī sarvauṣadhīnāṃ sarvaprāṇināṃ poṣaṇārthaṃ sarvarūpā bhavati ||8||
+samastabhuvanasyādhobhāge jalākārātmikā maṇḍūkamayeti bhuvanādhāreti vijñāyate ||19||
+kriyāśaktisvarūpaṃ harermukhānnādaḥ |
+tannādādbinduḥ |
+bindoroṃkāraḥ |
+oṃkārātparato rāmavaikhānasaparvataḥ |
+tatparvate karmajñānamayībhirbahuśākhā bhavanti ||20||
+tatratrayīmayaṃ śāstramādyaṃ sarvārthadarśanam |
+ṛgyajuḥsāmarūpatvāttrayīti parikīrtitā ||21||
+hetunā kāryasiddhena caturdhā parikīrtitā |
+ṛco yajūṃṣi sāmāni atharvāṅgirasastathā ||22||
+cāturhotrapradhānatvālliṅgāditritayaṃ trayī |
+atharvāṅgirasaṃ rūpaṃ sāmaṛgyajurātmakam ||23||
+tathā diśantyābhicārasāmānyena pṛthakpṛthak |
+ekaviṃśatiśākhāyāmṛgvedaḥ parikīrtitaḥ ||24||
+śataṃ ca navaśākhāsu yajuṣāmeva janmanām |
+sāmnaḥ sahasraśākhāḥ syuḥ pañcaśākhā atharvaṇaḥ ||25||
+vaikhānasamatastasminnādau pratyakṣadarśanam |
+smaryate munibhirnityaṃ vaikhānasamataḥ param ||26||
+kalpo vyākaraṇaṃ śikṣā niruktaṃ jyotiṣaṃ chanda etāni ṣaḍaṅgāni ||27||
+upāṅgamayanaṃ caiva mīmāṃsānyāyavistaraḥ |
+dharmajñasevitārthaṃ ca vedavedo'dhikaṃ tathā ||28||
+nibandhāḥ sarvaśākhā ca samayācārasaṅgatiḥ |
+dharmaśāstraṃ maharṣiṇāmantaḥkaraṇasambhṛtam |
+itihāsapurāṇākhyamupāṅgaṃ ca prakīrtitam ||29||
+vāstuvedo dhanurvedo gāndharvaśca tathā mune |
+āyurvedaśca pañcaite upavedāḥ prakīrtitāḥ ||30||
+daṇḍo nītiśca vārtā ca vidyā vāyujayaḥ paraḥ |
+ekaviṃśatibhedo'yaṃ svaprakāśaḥ prakīrtitaḥ ||31||
+vaikhānasaṛṣeḥ pūrvaṃ viṣṇorvāṇī samudbhavet |
+trayīrūpeṇa saṅkalpya itthaṃ dehī vijṛmbhate ||32||
+saṃkhyārūpeṇa saṃkalpya vaikhānasaṛṣeḥ purā |
+udito yādṛśaḥ pūrvaṃ tādṛśaṃ śṛṇu me'khilam |
+śaśvadbrahmamayaṃ rūpaṃ kriyāśaktirudāhṛtā ||33||
+sākṣācchaktirbhagavataḥ smaraṇamātrarūpāvirbhāvaprādurbhāvātmikā nigrahānugraharūpā śāntitejorupā vyaktāvyaktakāraṇacaraṇasamagrāvayavamukhavarṇabhedarupā bhagavatsahacāriṇī anapāyinī anavaratasahāśrayiṇī uditānuditākārānimeṣonmeṣasṛṣṭisthitisaṃhāratirodhānānugrahādisarvaśaktisāmarthyātsākṣācchaktiriti gīyate ||34||
+icchaśaktistrividhā pralayāvasthāyāṃ viśramaṇārthaṃ bhagavato dakṣiṇavakṣaḥsthale śrīvatsākṛtirbhūtvā viśrāmyatīti sā yogaśaktiḥ ||35||
+bhogaśaktirbhogarūpā kalpavṛkṣakāmadhenucintāmaṇiśaṅkhapadmanidhyādinavanidhisamāśritā bhagavadupāsakānāṃ kāmanayā'kāmanayā vā bhaktiyuktā naraṃ nityanaimittikakarmabhiragnihotrādibhirvā yamaniyamāsanaprāṇāyāmapratyāhāradhyānadhāraṇāsamādhibhirvālamanaṇvapi gopuraprākārādibhirvimānādibhiḥ saha bhagavadvigrahārcāpūjopakaraṇairarcanaiḥ snānādhiparvā pitṛpūjādibhirannapānādibhirvā bhagavatprītyarthamuktvā sarvaṃ kriyate ||36||
+athāto vīraśaktiścaturbhujā'bhayavaradapadmadharā kirīṭābharaṇayutā sarvadevaiḥ parivṛtā kalpatarumūle caturbhirgajai ratnaghaṭairamṛtajalairabhiṣicyamānā sarvadaivatairbrahmādibhirvandyamānā aṇimādyaṣṭaiśvaryayutā saṃmukhe kāmadhenunā stūyamānā vedaśāstrādibhiḥ stūyamānā jayādyapsarasstrībhiḥ paricaryamāṇā ādityasomābhyāṃ dīpābhyāṃ prakāśyamānā tumburunāradādibhirgāyamānā rākāsinīvālībhyāṃ chatreṇa hlādinīmāyābhyāṃ cāmareṇa svāhāsvadhābhyāṃ vyajanena bhṛgupuṇyādibhirabhyarcyamānā devī divyasiṃhāsane padmāsanarūḍhā sakalakāraṇakāryakarī lakṣmīrdevasya pṛthagbhavanakalpanā |
+alaṃcakāra sthirā prasannalocanā sarvadevataiḥ pūjyamānā vīralakṣmīriti vijñāyata ityupaniṣat ||37||
+oṃ bhadraṃ karṇebhiḥ śṛṇuyāma devāḥ |
+bhadraṃ paśyemākṣabhiryajatrāḥ |
+sthirairaṅgaistuṣṭuvāsastanūbhiḥ |
+vyaśema devahitaṃ yadāyuḥ |
+svasti na indro vṛddhaśravāḥ |
+svasti naḥ pūṣā viśvavedāḥ |
+svasti nastārkṣyo ariṣṭanemiḥ |
+svasti no bṛhaspatirdadhātu ||
+oṃ śāntiḥ śāntiḥ śāntiḥ ||
+    </body>
+  </text>
+</TEI>

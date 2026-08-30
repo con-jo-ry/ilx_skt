@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Śivāṣṭottaraśatanāmastotra</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%B6%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8B%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%B0%E0%A4%B6%E0%A4%A4%E0%A4%A8%E0%A4%BE%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8B%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+॥ bṛhatstotraratnākaraḥ॥
+॥ śrīśivāṣṭottaraśatanāmastotram ॥
+śivo maheśvaraśśaṃbhuḥ pinākī śaśiśekharaḥ ।
+vāmadevo virūpākṣaḥ kapardī nīlalohitaḥ ॥ 1
+śaṅkaraśśūlapāṇiśca khaṭvāṅgī viṣṇuvallabhaḥ ।
+śipiviṣṭoṃ'bikānāthaḥ śrīkaṇṭho bhaktavatsalaḥ ॥2
+bhavaśśarvastrilokeśaśśitikaṇṭhaśśivāpriyaḥ ।
+ugraḥ kapālī kāmārirandhakāsurasūdanaḥ ॥3
+gaṅgādharo lalāṭākṣaḥ kālakālaḥ kṛpānidhiḥ।
+bhīmaḥ paraśuhastaśca mṛgapāṇirjaṭādharaḥ ॥4
+kailāsavāsī kavacī kaṭhorastripurāntakaḥ।
+vṛṣāṅko vṛṣabhārūḍho bhasmoddhūlitavigrahaḥ ॥
+sāmapriyaskharamayastrayīmūrtiranīśvaraḥ ।
+sarvajñaḥ paramātmā ca somasūryāgnilocanaḥ ॥
+haviryajñamayassomaḥ pañcavaktrasadāśivaḥ ।
+viśveśvaro vīrabhadro gaṇanāthaḥ prajāpatiḥ ॥
+hiraṇyaretā durdharṣo girīśo giriśo'naghaḥ ।
+bhujaṅgabhūṣaṇo bhargo giridhanvā giripriyaḥ॥
+kṛttivāsāḥ purārātirbhagavān pramathādhipaḥ ।
+mṛtyuñjayassūkṣmatanurjagadvyāpī jagadguruḥ ॥
+vyomakeśo mahāsenajanakaśvāruvikramaḥ ।
+rudro bhūtapatiḥ sthāṇurahirbudhnyo digambaraḥ ॥
+aṣṭamūrtiranekātmā sāttvikaśśuddhavigrahaḥ ।
+śāśvataḥ khaṇḍaparaśurajaḥ pāśavimocakaḥ ।।
+mṛḍaḥ paśupatirdevo mahādevo'vyayo hariḥ ।
+pūṣadantabhidavyagro dakṣādhvaraharo haraḥ ॥
+bhaganetrabhidavyaktassahasrākṣassahasrapāt ।
+apavargaprado'nantastārakaḥ parameśvaraḥ ॥
+evaṃ śrīśaṃbhudevasya nāmnāmaṣṭottaraṃ śatam ॥
+॥śrīśivāṣṭottaraśatanāmastotraṃ samāptam ॥
+    </body>
+  </text>
+</TEI>

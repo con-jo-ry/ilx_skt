@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Nirvāṇadaśaka</title>
+        <author>Śaṅkarācārya</author>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%A3%E0%A4%A6%E0%A4%B6%E0%A4%95%E0%A4%AE%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+॥ nirvāṇadaśakam ॥
+na bhūmirna toyaṃ na tejo na vāyurna khaṃ neṃdriyaṃ vā na teṣāṃ samūhaḥ ।
+anaikāntikatvātsuṣuptyekasiddhastadeko'vaśiṣṭaḥ śivaḥ kevalo'ham ।। 1
+na varṇā na varṇāśramācāradharmā na me dhāraṇādhyānayogādayo'pi ।
+anātmāśrayo'haṃ mamādhyāsahānāttadeko ॥ 2
+na mātā pitā vā na devā na lokā na devā na yajñā na tīrthaṃ bruvanti ।
+suṣuptau nirastātiśūnyātmakatvāttadeko ॥ 3
+na sāṃkhyaṃ na śaivaṃ na tatpāñcarātraṃ na jainaṃ na mīmāṃsakādermataṃ vā ।
+viśiṣṭānubhūtyā viśuddhātmakatvāttadeko ॥ 4
+na śuklaṃ na kṛṣṇaṃ na raktaṃ na pītaṃ na pīnaṃ na kubjaṃ na hsvaṃ dīrgham ।
+arūpaṃ tathā jyotirākārakatvāntadeko ॥ 5
+na jāgranna me svapnako vā suṣuptirna viśvo na vā tejasaḥprājñako vā।
+avidyātmakatvāttrayāṇāṃ turīyaṃ tadeko ॥6
+na śāstā na śāstraṃ na śiṣyo na śikṣā na ca tvaṃ na cāhaṃ na cāyaṃ prapañcaḥ।
+svarūpāvabodhādvikalpāsahiṣṇustadeko ॥ 7
+na cordhvaṃ na cādho na cāntarna bāhyaṃ na madhyaṃ na tiryaṅ na pūrvā parā dik ।
+viyadvyāpakatvādakhaṇḍaikarūpastadeko ॥ 8
+api vyāpakatvāditattvātprayogātsvataḥsiddhabhāvādananyāśrayatvāt ।
+jagantucchametatsamastaṃ tadanyastadeko ॥ 9
+na caikaṃ tadanyaddvitīyaṃ kutaḥ syānna cākevalatvaṃ na vā kevalatvam ।
+na śūnyaṃ na cāśūnyamadvaitakatvātkathaṃ sarvavedāntasiddhaṃ bravīmi ॥10
+॥ iti śrīmacchaṅkarācāryaviracitaṃ nirvāṇadaśakastotraṃ sampūrṇam।।
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lakṣmīnṛsiṃhapañcaratna</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%B2%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%8D%E0%A4%AE%E0%A5%80%E0%A4%A8%E0%A5%83%E0%A4%B8%E0%A4%BF%E0%A4%82%E0%A4%B9%E0%A4%AA%E0%A4%9E%E0%A5%8D%E0%A4%9A%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+tvatprabhujīvapriyamicchasi cennaraharipūjāṃ kuru satataṃ
+pratibimbālaṃkṛtidhṛtikuśalo bimbālaṃkṛtimātanute ।
+cetobhṛṅga bhramasi vṛthā bhavamarubhūmau virasāyāṃ
+bhaja bhaja lakṣmīnarasiṃhānaghapadasarasijamakarandam ॥ 1॥
+
+śukttau rajatapratibhā jātā katakādyarthasamarthā ce
+dduḥkhamayī te saṃsṛtireṣā nirvṛtidāne nipuṇā syāt ।
+cetobhṛṅga bhramasi vṛthā bhavamarubhūmau virasāyāṃ
+bhaja bhaja lakṣmīnarasiṃhānaghapadasarasijamakarandam ॥ 2॥
+
+ākṛtisāmyācchālmalikusume sthalanalinatvabhramamakaroḥ
+gandharasāviha kimu vidyete viphalaṃ bhrāmyasi bhṛśavirasesmin ।
+cetobhṛṅga bhramasi vṛthā bhavamarubhūmau virasāyāṃ
+bhaja bhaja lakṣmīnarasiṃhānaghapadasarasijamakarandam ॥ 3॥
+
+srakcandanavanitādīnviṣayānsukhadānmatvā tatra viharase
+gandhaphalīsadṛśā nanu temī bhogānantaraduḥkhakṛtaḥ syuḥ ।
+cetobhṛṅga bhramasi vṛthā bhavamarubhūmau virasāyāṃ
+bhaja bhaja lakṣmīnarasiṃhānaghapadasarasijamakarandam ॥ 4॥
+
+tava hitamekaṃ vacanaṃ vakṣye śṛṇu sukhakāmo yadi satataṃ
+svapne dṛṣṭaṃ sakalaṃ hi mṛṣā jāgrati ca smara tadvaditi।
+cetobhṛṅga bhramasi vṛthā bhavamarubhūmau virasāyāṃ
+bhaja bhaja lakṣmīnarasiṃhānaghapadasarasijamakarandam ॥ 5॥
+
+iti śrīmatparamahaṃsaparivrājakācāryasya
+śrī govinda bhagavatpūjyapāda śiṣyasya
+śrīmacchaṃkara bhagavataḥ kṛtau
+lakṣmīnṛsiṃha pañcaratnam sampūrṇam ॥
+    </body>
+  </text>
+</TEI>

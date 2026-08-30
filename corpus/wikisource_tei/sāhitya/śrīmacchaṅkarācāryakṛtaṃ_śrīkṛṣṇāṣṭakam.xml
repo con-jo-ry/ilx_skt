@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Śrīmacchaṅkarācāryakṛtaṃ Śrīkṛṣṇāṣṭaka</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AE%E0%A4%9A%E0%A5%8D%E0%A4%9B%E0%A4%99%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%BE%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%95%E0%A5%83%E0%A4%A4%E0%A4%82_%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%95%E0%A5%83%E0%A4%B7%E0%A5%8D%E0%A4%A3%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%95%E0%A4%AE%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+|| kṛṣṇāṣṭakaṃ ||
+bhaje vrajaikamaṇḍanaṃ samastapāpakhaṇḍanaṃ
+svabhaktacittaraṃjanaṃ sadaiva nandanandanam |
+supicchagucchamastakaṃ sunādaveṇuhastakaṃ
+anaṃgaraṃgasāgaraṃ namāmi kṛṣṇanāgaram || 1 ||
+manojagarvamocanaṃ viśālalolalocanaṃ
+vidhūtagopaśocanaṃ namāmi padmalocanam |
+karāravindabhūdharaṃ smitāvalokasundaraṃ
+mahendramānadāraṇaṃ namāmi kṛṣṇāvāraṇam || 2 ||
+kadambasūnakuṇḍalaṃ sucārugaṇḍamaṇḍalaṃ
+vrajāṃganaikavallabhaṃ namāmi kṛṣṇadurlabham |
+yaśodayā samodayā sagopayā sanandayā
+yutaṃ sukhaikadāyakaṃ namāmi gopanāyakam || 3 ||
+sadaiva pādapaṃkajaṃ madīya mānase nijaṃ
+dadhānamuktamālakaṃ namāmi nandabālakam |
+samastadoṣaśoṣaṇaṃ samastalokapoṣaṇaṃ
+samastagopamānasaṃ namāmi nandalālasam || 4 ||
+bhuvo bharāvatārakaṃ bhavābdhikarṇadhārakaṃ
+yaśomatīkiśorakaṃ namāmi cittacorakam |
+dṛgantakāntabhaṃginaṃ sadā sadālisaṃginaṃ
+dine dine navaṃ navaṃ namāmi nandasambhavam || 5 ||
+guṇākaraṃ sukhākaraṃ kṛpākaraṃ kṛpāparaṃ
+suradviṣannikandanaṃ namāmi gopanandanam |
+navīnagopanāgaraṃ navīnakelilampaṭaṃ
+namāmi meghasundaraṃ taḍitprabhālasatpaṭam || 6 ||
+samastagopanandanaṃ hṛdambujaikamodanaṃ
+namāmi kuṃjamadhyagaṃ prasannabhānuśobhanam |
+nikāmakāmadāyakaṃ dṛgantacārusāyakaṃ
+rasālaveṇugāyakaṃ namāmi kuṃjanāyakam || 7 ||
+vidagdhagopikāmanomanojñatalpaśāyinaṃ
+namāmi kuṃjakānane pravraddhavanhipāyinam |
+kiśorakāntiraṃjitaṃ dṛagaṃjanaṃ suśobhitaṃ
+gajendramokṣakāriṇaṃ namāmi śrīvihāriṇam || 8 ||
+yadā tadā yathā tathā tathaiva kṛṣṇasatkathā
+mayā sadaiva gīyatāṃ tathā kṛpā vidhīyatām |
+pramāṇikāṣṭakadvayaṃ japatyadhītya yaḥ pumāna
+bhavetsa nandanandane bhave bhave subhaktimāna || 9 ||
+iti śrīmacchaṃkarācāryakṛtaṃ śrīkṛṣṇāṣṭakaṃ sampūrṇam ||
+śrī kṛṣṇārpaṇamastu ||
+    </body>
+  </text>
+</TEI>

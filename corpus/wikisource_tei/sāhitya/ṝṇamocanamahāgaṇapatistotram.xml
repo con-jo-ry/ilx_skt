@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Ṝṇamocanamahāgaṇapatistotra</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A5%A0%E0%A4%A3%E0%A4%AE%E0%A5%8B%E0%A4%9A%E0%A4%A8%E0%A4%AE%E0%A4%B9%E0%A4%BE%E0%A4%97%E0%A4%A3%E0%A4%AA%E0%A4%A4%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8B%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+śrīgaṇeśāyanamaḥ||
+oṃ asya śrīṝṇamocana mahāgaṇapatistrotra maṃtrasya bhagavān śukrācāryāṝṣiḥ ṝṇamocanagaṇapatirdevatā ṝṇamocanārthe jape viniyogaḥ oṃ smarāmi devadeveśaṃ vakratuṇḍaṃ mahābalaṃ ||
+mahāvidhnaharaṃ saumyaṃ namāmi ṝṇamuktaye ||1||
+mahāgaṇapatiṃ devaṃ mahāsatyaṃ mahābalaṃ || mahāvidhnaharaṃ saumyaṃ namāmi ṝṇāmuktaye ||2||
+ekākṣaraṃ ekadaṃtaṃ ekabrahmasanātanaṃ || ekamevāravditīyaṃ ca namami ṝṇāmuktaye ||3||
+raktāṃbaraṃ raktavarṇaṃ raktaṃgadhānulepanaṃ || raktapuṣpaiḥ pūjāmānaṃ namāmi ṝṇāmuktaye ||4||
+kṛṣṇāṃbaraṃ kṛṣṇavarṇaṃ kṛṣṇagaṃdhānulepanaṃ || kṛṣṇapuṣpaiḥ pūjyamānaṃ namāmi ṝṇamuktaye ||5||
+pītāṃbaraṃ pītavarṇaṃ pītagaṃdhānulepanaṃ || pītapuṣpaiḥ pūjyamānaṃ namāmi ṝṇamuktaye ||6||
+dhūmrāṃbāraṃ dhūmravarṇaṃ dhūmragaṃdhānulepanaṃ || dhūmrapaṣpaiḥ pūjyamānaṃ namāmi ṝṇamuktaye ||7||
+sarvāṃbaraṃ sarvavarṇaṃ sarvagaṃdhānulepanaṃ || sarvapuṣpaiḥ pūjyamānaṃ namāmi ṝṇamuktaye ||8||
+bhadrajātaṃ ca rupaṃ ca pāśāṃkuśadharaṃ śubhaṃ || sarvavighnaharaṃ devaṃ namāmi ṝṇamuktaye ||9||
+yaḥ paṭhet ṝṇaharastotraṃ prātaḥkāle śucirnaraḥ || ṣaṇmāsābhyaṃtare caiva ṝṇacchedo bhaviṣyati ||10||
+iti śrībrahmāṃḍapurāṇe ṝṇamocanamahāgaṇapatistotraṃ saṃpūrṇam |
+    </body>
+  </text>
+</TEI>

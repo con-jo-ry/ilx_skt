@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Śanivajrapaṃjarakavaca</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%B6%E0%A4%A8%E0%A4%BF%E0%A4%B5%E0%A4%9C%E0%A5%8D%E0%A4%B0%E0%A4%AA%E0%A4%82%E0%A4%9C%E0%A4%B0%E0%A4%95%E0%A4%B5%E0%A4%9A%E0%A4%AE%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+śrīgaṇeśāya namaḥ
+nīlāṃbaro nīlavapuḥ kirīṭī gṛdhasthitastrāsakaro dhanuṣmān|
+caturbhujaḥ sūryasutaḥ prasannaḥ sadā mama syādvaradaḥ praśāntaḥ||1||
+brahmā uvāca|| śruṇudhvamṛṣayaḥ sarve śanipīḍāharaṃ mahat|
+kavacaṃ śanirājasya saureridamanuttamam ||2||
+kavacaṃ devatāvāsa vajrapaṃjarasaṃjñakam |
+śanaiścaraprītikaraṃ sarvasaubhāgyadāyakam ||3||
+oṃ śiro śanaiścaraḥ pātu bhālaṃ me sūryanaṃdanaḥ |
+netre chāyātmajaḥ pātu pātu karṇau yamānujaḥ ||4||
+nāsāṃ vaivasvataḥ pātu mukhaṃ me bhāskaraḥ sadā |
+snigdhakaṃṭhaśca me kaṃṭhaṃ bhujau pātu mahābhujaḥ ||5||
+skaṃdhau pātu śaniścaiva karau pātu śubhapradaḥ |
+vakṣaḥ pātu yamabhrātā kukṣiṃ pātvasitastathā ||6||
+nābhiṃ grahapatiḥ pātu maṃdaḥ pātu kaṭiṃ tathā |
+ūrū mamāṃtakaḥ pātu yamo jānuyugaṃ tathā||7||
+pādau maṃdagatiḥ pātu sarvāṃgaṃ pātu pippalaḥ|
+aṅgopāṅgāni sarvāṇi rakṣen me sūryanaṃdanaḥ ||8||
+ityetatkavacaṃ divyaṃ paṭhetsūryasutasyayaḥ|
+na tasya jāyate pīḍā prīto bhavati sūryajaḥ||9||
+vyayajanmavditiyastho mṛtyusthānagato'pi vā |
+kalatrastho gato vāpi suprītastu sadā śaniḥ ||10||
+aṣṭamasthe sūryasute vyaye janmavditīyage |
+kavacaṃ paṭhate nityaṃ na pīḍā jāyate kvacita ||11||
+ityetatkavacaṃ divyaṃ saureryannirmitaṃ purā |
+vdādaśāṣṭamajanmasthadoṣānnāśayate sadā |
+janmalagnasthitān doṣān sarvānnāśayate prabhuḥ ||12||
+|| iti śrībrahmāṇḍapurāṇe brahmanāradasaṃvāde śanivajrapaṃjarakavacaṃ saṃpūrṇam ||
+    </body>
+  </text>
+</TEI>

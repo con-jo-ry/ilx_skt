@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sākṣiprakaraṇa</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%BE%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BF%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+tapasvino dānaśīlāḥ kulīnāḥ satyavādinaḥ |
+dharmapradhānā ṛjavaḥ putravanto dhanānvitāḥ | | 2.68 | |
+
+tryavarāḥ sākṣiṇo jñeyāḥ śrautasmārtakriyāparāḥ |
+yathājāti yathāvarṇaṃ sarve sarveṣu vā smṛtāḥ | | 2.69 | |
+
+strībālavṛddhakitava mattonmattābhiśastakāḥ |
+raṅgāvatāripākhaṇḍi kūṭakṛdvikalendriyāḥ | | 2.70 | |
+
+patitāptārthasaṃbandhi sahāyariputaskarāḥ |
+sāhasī dṛṣṭadoṣaśca nirdhūtādyāstvasākṣiṇaḥ | | 2.71 | |
+
+ubhayānumataḥ sākṣī bhavatyeko'pi dharmavit |
+sarvaḥ sākṣī saṃgrahaṇe cauryapāruṣyasāhase | | 2.72 | |
+
+sākṣiṇaḥ śrāvayedvādi prativādisamīpagān |
+ye pātakakṛtāṃ lokā mahāpātakināṃ tathā | | 2.73 | |
+
+agnidānāṃ ca ye lokā ye ca strībālaghātinām |
+sa tānsarvānavāpnoti yaḥ sākṣyaṃ anṛtaṃ vadet | | 2.74 | |
+
+sukṛtaṃ yattvayā kiṃcijjanmāntaraśataiḥ kṛtam |
+tatsarvaṃ tasya jānīhi yaṃ parājayase mṛṣā | | 2.75 | |
+
+abruvanhi naraḥ sākṣyaṃ ṛṇaṃ sadaśabandhakam |
+rājñā sarvaṃ pradāpyaḥ syātṣaṭcatvāriṃśake'hani | | 2.76 | |
+
+na dadāti hi yaḥ sākṣyaṃ jānannapi narādhamaḥ |
+sa kūṭasākṣiṇāṃ pāpaistulyo daṇḍena caiva hi | | 2.77 | |
+
+dvaidhe bahūnāṃ vacanaṃ sameṣu guṇināṃ tathā |
+guṇidvaidhe tu vacanaṃ grāhyaṃ ye guṇavattamāḥ | | 2.78 | |
+
+yasyocuḥ sākṣiṇaḥ satyāṃ pratijñāṃ sa jayī bhavet |
+anyathā vādino yasya dhruvastasya parājayaḥ | | 2.79 | |
+
+ukte'pi sākṣibhiḥ sākṣye yadyanye guṇavattamāḥ |
+dviguṇā vānyathā brūyuḥ kūṭāḥ syuḥ pūrvasākṣiṇaḥ | | 2.80 | |
+
+pṛthakpṛthagdaṇḍanīyāḥ kūṭakṛtsākṣiṇastathā |
+vivādāddviguṇaṃ daṇḍaṃ vivāsyo brāhmaṇaḥ smṛtaḥ | | 2.81 | |
+
+yaḥ sākṣyaṃ śrāvito'nyebhyo nihnute tattamovṛtaḥ |
+sa dāpyo'ṣṭaguṇaṃ daṇḍaṃ brāhmaṇaṃ tu vivāsayet | | 2.82 | |
+
+varṇināṃ hi vadho yatra tatra sākṣyanṛtaṃ vadet |
+tatpāvanāya nirvāpyaścaruḥ sārasvato dvijaiḥ | | 2.83 | |
+    </body>
+  </text>
+</TEI>

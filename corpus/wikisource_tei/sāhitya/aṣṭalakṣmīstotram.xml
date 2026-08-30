@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Aṣṭalakṣmīstotra</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%85%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%B2%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%8D%E0%A4%AE%E0%A5%80_%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8B%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+|| ādilakṣmī ||
+sumanasavandita sundari mādhavicandra sahodari hemamaye | munigaṇamaṇḍita mokṣapradāyinimañjulabhāṣiṇi vedanute || paṅkajavāsini devasupūjitasadguṇavarṣiṇi śāntiyute | jayajaya he madhusūdana kāminiādilakṣmi sadā pālaya mām || 1||
+|| dhānyalakṣmī ||
+ahikali kalmaṣanāśini kāminivaidikarūpiṇivedamaye | kṣīrasamudbhava maṅgalarūpiṇimantranivāsini mantranute || maṅgaladāyini ambujavāsinidevagaṇāśrita pādayute | jayajaya he madhusūdana kāminidhānyalakṣmi sadā pālaya mām || 2||
+|| dhairyalakṣmī ||
+jayavaravarṇini vaiṣṇavi bhārgavimantrasvarūpiṇi mantramaye | suragaṇapūjita śīghraphalapradajñānavikāsini śāstranute || bhavabhayahāriṇi pāpavimocanisādhujanāśrita pādayute | jayajaya he madhusūdana kāminidhairyalakṣmi sadāpālaya mām || 3||
+|| gajalakṣmī ||
+jayajaya durgatināśini kāminisarvaphalaprada śāstramaye | rathagaja turagapadādi samāvṛtaparijanamaṇḍita lokanute || harihara brahma supūjita sevitatāpanivāriṇi pādayute | jayajaya hemadhusūdana kāminigajalakṣmi rūpeṇapālayamām || 4||
+|| santānalakṣmī ||
+ahikhaga vāhinimohini cakriṇirāgavivardhini jñānamaye | guṇagaṇavāridhi lokahitaiṣiṇisvarasapta bhūṣitagānanute || sakala surāsura devamunīśvaramānavavandita pādayute | jayajaya he madhusūdana kāminisantānalakṣmi tvaṃ pālaya mām || 5||
+|| vijayalakṣmī ||
+jaya kamalāsani sadgatidāyinijñānavikāsini gānamaye | anudinamarcita kuṅkumadhūsarabhūṣita vāsita vādyanute || kanakadharāstuti vaibhava vanditaśaṅkara deśikamānya pade| jayajaya he madhusūdana kāminivijayalakṣmi sadā pālaya mām || 6||
+|| vidyālakṣmī ||
+praṇata sureśvari bhārati bhārgaviśokavināśini ratnamaye | maṇimayabhūṣita karṇavibhūṣaṇaśāntisamāvṛta hāsyamukhe || navanidhidāyini kalimalahāriṇikāmita phalapradahastayute| jayajaya he madhusūdana kāminividyālakṣmi sadā pālaya mām ||7||
+|| dhanalakṣmī ||
+dhimidhimidhindhimidhindhimidhindhimidundubhinādasupūrṇamaye | ghumaghuma ghuṅghuma ghuṅghuma ghuṅghumaśaṅkhaninādasuvādyanute||vedapurāṇetihāsa supūjitavaidikamārga pradarśayute | jayajaya he madhusūdana kāminidhanalakṣmi rūpeṇapālayamām || 8||
+    </body>
+  </text>
+</TEI>

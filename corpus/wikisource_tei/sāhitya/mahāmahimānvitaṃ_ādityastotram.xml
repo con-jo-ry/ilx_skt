@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mahāmahimānvita Ādityastotra</title>
+        <author>Appayyadīkṣita</author>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%AE%E0%A4%B9%E0%A4%BE%E0%A4%AE%E0%A4%B9%E0%A4%BF%E0%A4%AE%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A4%82_%E0%A4%86%E0%A4%A6%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8B%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+|| mahāmahimānvitaṃ ādityastotram ||
+atha śrīmadappayyadīkṣitaviracitaṃ mahāmahimānvitaṃ ādityastotram ||
+vistārāyāmamānaṃ daśabhirupagato yojanānāṃ sahasraiḥ
+cakre pañcāranābhitritayavati lasan nemiṣaṭke niviṣṭaḥ |
+saptacchandasturaṅgāhitavahanadhuro hāyanāṃśatrivarga
+vyaktākḷptākhilāṅgaḥ sphuratu mama puraḥ syandanaścaṇḍabhānoḥ || 1||
+ādityairapsarobhirmunibhirahivarairgrāmaṇīyātudhānaiḥ
+gandharvairvālakhilyaiḥ parivṛtadaśamāṃśasya kṛtsnaṃ rathasya |
+madhyaṃ vyāpyādhitiṣṭhan maṇiriva nabhaso maṇḍalaścaṇḍaraśmeḥ
+brahmajyotirvivartaḥ śrutinikaraghanībhāvarūpaḥ samindhe || 2||
+nirgacchanto'rkabimbān nikhilajanibhṛtāṃ hārdanāḍīpraviṣṭāḥ
+nāḍyo vasvādibṛndārakagaṇamadhunastasya nānādigutthāḥ |
+varṣantastoyamuṣṇaṃ tuhinamapi jalānyāpibantaḥ samantāt
+pitrādīnāṃ svadhauṣadhyamṛtarasakṛto bhānti kāntiprarohāḥ|| 3||
+śreṣṭhāsteṣāṃ sahasre tridivavasudhayoḥ pañcadigvyāptibhājāṃ
+śubhrāṃśuṃ tārakaughaṃ śaśitanayamukhān pañca codbhāsayantaḥ |
+ārogo bhrājamukhyāstribhuvanadahane saptasūryā bhavantaḥ
+sarvān vyādhīn suṣumnāprabhṛtaya iha me sūryapādāḥ kṣipantu || 4||
+ādityānāśritāḥ ṣaṇṇavatiguṇasahasrānvitā raśmayo'nye
+māse māse vibhaktāstribhuvanabhavanaṃ pāvayantaḥ sphuranti |
+yeṣāṃ bhuvyapracāre jagadavanakṛtāṃ saptaraśmyutthitānāṃ
+saṃsarpe cādhimāse vratayajanamukhāḥ satkriyāḥ na kriyante || 5||
+ādityaṃ maṇḍalāntaḥsphuradaruṇavapustejasā vyāptaviśvaṃ
+prātarmadhyāhnasāyaṃ samayavibhajanādṛgyajussāmasevyam |
+prāpyaṃ ca prāpakaṃ ca prathitamatipathijñānināmuttarasmin
+sākṣād brahmetyupāsyaṃ sakalabhayaharābhyudgamaṃ saṃśrayāmi || 6||
+yacchaktyā'dhiṣṭhitānāṃ tapanahimajalotsarjanādirjagatyām
+ādityānāmaśeṣaḥ prabhavati niyataḥ svasvamāsādhikāraḥ |
+yat prādhānyaṃ vyanakti svayamapi bhagavān dvādaśasteṣu bhūtvā
+taṃ trailokyasya mūlaṃ praṇamata paramaṃ daivataṃ saptasaptim || 7||
+svaḥstrīgandharvayakṣā munivarabhujagā yātudhānāśca nityaṃ
+nṛttairgītairabhīśugrahanutivahanairagrataḥ sevayā ca |
+yasya prītiṃ vitanvantyamitaparikarā dvādaśa dvādaśaite
+hṛdyābhirvālakhilyāḥ saraṇibhaṇitibhistaṃ bhaje lokabandhum || 8||
+brahmāṇḍe yasya janmoditamuṣasi parabrahmamukhyātmajasya
+dhyeyaṃ rūpaṃ śirodoścaraṇapadajuṣā vyāhṛtīnāṃ trayeṇa |
+tat satyaṃ brahma paśyāmyaharahamabhidhaṃ nityamādityarūpaṃ
+bhūtānāṃ bhūnabhassvaḥ prabhṛtiṣu vasatāṃ prāṇasūkṣmāṃśamekam || 9||
+āditye lokacakṣuṣyavahitamanasāṃ yogināṃ dṛśyamantaḥ
+svacchasvarṇābhamūrtiṃ vidalitanalinodāradṛśyākṣiyugmam |
+ṛksāmodgānageṣṇaṃ niratiśayalasallokakāmeśabhāvaṃ
+sarvāvadyoditatvāduditasamuditaṃ brahma śambhuṃ prapadye || 10||
+omityudgīthabhakteravayavapadavīṃ prāptavatyakṣare'smin
+yasyopāstiḥ samastaṃ duritamapanayatvarkabimbe sthitasya |
+yat pūjaikapradhānānyaghamakhilamapi ghnanti kṛcchravratāni
+dhyātaḥ sarvopatāpān haratu paraśivaḥ so'yamādyo bhiṣaṅnaḥ || 11||
+āditye maṇḍalārciḥ puruṣavibhidayādyantamadhyāgamātmanyāgopālāṅganābhyo nayanapathajuṣā jyotiṣā dīpyamānam
+gāyatrīmantrasevyaṃ nikhilajanadhiyāṃ prerakaṃ viśvarūpam |
+nīlagrīvaṃ trine(ṇe)traṃ śivamaniśamumāvallabhaṃ saṃśrayāmi || 12||
+abhrākalpaḥ śatāṅgaḥ sthiraphaṇitimayaṃ maṇḍalaṃ raśmibhedāḥ
+sāhasrāsteṣu sapta śrutibhirabhihitāḥ kiñcidūnāśca lakṣāḥ |
+ekaikeṣāṃ catasrastadanu dinamaṇerādidevasya tisraḥ
+kḷptāḥ tattatprabhāvaprakaṭanamahitāḥ sragdharā dvādaśaitāḥ || 13||
+duḥsvapnaṃ durnimittaṃ duritamakhilamapyāmayānapyasādhyān
+doṣān duḥsthānasaṃsthagrahagaṇajanitān duṣṭabhūtān grahādīn |
+nirdhūnoti sthirāṃ ca śriyamiha labhate muktimabhyeti cānte
+saṅkīrtya stotraratnaṃ sakṛdapi manujaḥ pratyahaṃ patyurahnām || 14||
+|| iti śrīmadappayyadīkṣitaviracitaśrīmadādityastotraratnam ||
+    </body>
+  </text>
+</TEI>

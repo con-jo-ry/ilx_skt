@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Durgāstuti</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%A6%E0%A5%81%E0%A4%B0%E0%A5%8D%E0%A4%97%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%81%E0%A4%A4%E0%A4%BF%E0%A4%83"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+namāmi devīṃ kamalāyatākṣīṃ surendrabṛndādi natāṃghriyugmām | samunnatāśeṣasuraprapālinīṃ namāmi durgāṃ duritāpahantrīm || 1 ||
+kirīṭakoṭyullikhitābjapādāṃ manojavāṃ tāṃ parameśabhāminīm | śaśāṃkarekhānvitamastakāgrāṃ sureśvarīṃ tāṃ praṇamāmi durgām || 2 ||
+mūlaśrībhairavātmatrividhapadamahādevatābhiḥ parīte divye siṃhāsanendre sthitamakhilakalābodhakaṃ deśikeśam | tasyāṅke sanniṣaṇṇāmaruṇarucicayā rañjitāśāvakāśāṃ devīmānandapūrṇāmamṛtakaratalāmāśraye'bhīṣṭasiddhyai || 3 ||
+kalpāntānalakoṭikoṭisadṛśaṃ ghoraṃ triśūlāyudhaṃ pāṇibhyāṃ parigṛhya pañcavadanaskandhe'dhiruhya sthitām | viśvāsāvṛtavīraśaktivividhakrīḍāviśeṣāravaiḥ tattatkṣudrasamastaśatrunivahāṃ vande mahāśūlinīm || 4 ||
+bhāsākundaśaśāṅkaśaṃkhasadṛśāṃ kaṇṭhīravādhyāsinīṃ kodāṇḍeṣukapālapustakajapasrak śūladānābhayām | sarveśīṃ nikhilāghasaṃghaśamanīṃ bhaktānukampāparāṃ devīṃ viśvamanorathaikavaradāṃ dhyāyetparāmambikām || 5 ||
+meghaśyāmalakomalāṃ smitamukhīṃ siṃhāsanāṃ śāṅkarīṃ cāpajyodgatavāruṇāstragalitairāpūritāśāṣṭakaiḥ | toyairbhaktaviruddhasainikagaṇaṃ saṃstambhayantyanvahaṃ viśvākāraniyāpanaṃ vidadhatīṃ dhyāyenmahāśūlinīm || 6 ||
+āruhya siṃhamasikheṭarathāṅgaśaṃkhacāpeṣvabhītivaradāṅkuśapāśahastā | pathyagratassakalavairimadāpahaya gacchāniśaṃ vijayaśūlini viśvabhūtyai || 7 ||
+viśvajyotiprakāśe vividhatanumaye viśvahṛtpadmavāse viśvavyāpārabhedānuguṇavividhairviśvaśikṣaikadakṣe | viśvadrohaṃ kṣamasvākhilavidhaduritaṃ nāśayatvāśu śaśvat trāhi śrīśūlinīśe sahajakaruṇayā santataṃ sannidhehi || 8 ||
+    </body>
+  </text>
+</TEI>

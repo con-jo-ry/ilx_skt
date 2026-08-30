@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Śrīmahāgaṇeśapañcaratna</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AE%E0%A4%B9%E0%A4%BE%E0%A4%97%E0%A4%A3%E0%A5%87%E0%A4%B6%E0%A4%AA%E0%A4%9E%E0%A5%8D%E0%A4%9A%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%AE%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+mudā karātta modakaṃ sadā vimukti sādhakaṃ
+kalādharāvataṃsakaṃ vilāsi loka rakṣakam |
+anāyakaika nāyakaṃ vināśitebha daityakaṃ
+natāśubhāśu nāśakaṃ namāmi taṃ vināyakam || 1||
+natetarāti bhīkaraṃ navoditārka bhāsvaraṃ
+namat surāri nirjaraṃ natādhikāpaduddharam |
+sureśvaraṃ nidhīśvaraṃ gajeśvaraṃ gaṇeśvaraṃ
+maheśvaraṃ tamāśraye parātparaṃ nirantaram || 2||
+samasta loka śaṃkaraṃ nirāsta daitya kunjaraṃ
+daretarodaraṃ varaṃ varebhavaktraṃ akṣaram |
+kṛpākaraṃ kṣamākaraṃ mudākaraṃ yaśaskaraṃ
+manaskaraṃ namaskṛtāṃ namaskaromi bhāsvaram || 3||
+akiṃcanārti marjanaṃ cirantanokti bhājanaṃ
+purāripūrvanandanaṃ surāri garva carvaṇam |
+prapañcanāśa bhīṣaṇaṃ dhanaṃjayādi bhūṣaṇaṃ
+kapoladānavāraṇaṃ bhaje purāṇavāraṇam || 4||
+nitānta kānta dantakāntimantakāntakātmajaṃ
+acintyarūpamantahīnamantarāya kṛntanam |
+hṛdantare nirantaraṃ vasantameva yogināṃ
+tamekadantamekameva cintayāmi santatam || 5||
+|| phala śrutī ||
+mahāgaṇeśa pañcaratnaṃ ādareṇa yon'vahaṃ
+prajalpati prabhātake hṛdi smaranṃ gaṇeśvaram |
+arogatāṃ adoṣatāṃ susāhitīṃ suputratāṃ
+samāhitāyuraṣṭa bhūtimabhyupaiti so'cirat ||
+|| iti śrī śaṃkarācārya viracitaṃ śrī mahāgaṇeśa pañcaratnaṃ saṃpūrṇam ||
+    </body>
+  </text>
+</TEI>

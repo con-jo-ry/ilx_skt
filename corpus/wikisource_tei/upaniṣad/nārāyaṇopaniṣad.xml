@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Nārāyaṇopaniṣad</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A4%BE%E0%A4%B0%E0%A4%BE%E0%A4%AF%E0%A4%A3%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A6%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+sahastraśīrṣaṃ devaṃ viśvākṣaṃ viśvaśaṃbhuvam |
+viśvaṃ nārāyaṇaṃ devamakṣaraṃ paramaṃ padam ||1||
+viśvataḥ paramānnityaṃ viśvaṃ nārāyaṇan harim |
+viśvamevedaṃ puruṣastavdiśvamupajīvati ||2||
+patiṃ viśvasyā''tmeśvara śāśvata śivamacyutam |
+nārāyaṇaṃ mahājñeyaṃ viśvātmānaṃ parāyaṇam ||3||
+nārāyaṇaparojyotirātmānārāyaṇaḥ paraḥ |
+nārāyaṇaparaṃ bramhatattvaṃ nārāyaṇaḥ paraḥ |
+nārāyaṇa paro dhyātā dhyānaṃ nārāyaṇaḥ paraḥ ||4||
+yaccakiṃcijjagatsarvaṃ dṛśyate śrūyate'pivā |
+antarbahiśca tatsarvaṃ vyāpya nārāyaṇaḥ sthitaḥ ||5||
+anantamavyayaṃkavi samudrentaṃ viśvaśaṃbhuvam |
+padmakośapratīkāśa hadayaṃcāpyadhomukham ||6||
+adhoniṣṭhyāvitastyānte nābhyāmupari tiṣṭhati |
+jvālamālākulaṃbhāti viśvasyā''yatanaṃmahat ||7||
+saṃtata śilābhistu lambatyākośasannibham |
+tasyānte suṣira sūkṣmaṃ tasminsarvaṃ pratiṣṭhitam ||8||
+tasyamadhye mahānagnirviśvārcirviśvatomukhaḥ |
+so'grabhugvibhajantiṣṭhannāhāramajaraḥ kaviḥ |
+tiryagūrdhvamadhaḥśāyī raśmayastasyasaṃtatā ||9||
+saṃtāpayati svaṃdehamāpādatalamastakaḥ |
+tasyamadhye vahniśikhā aṇīyordhvā vyavasthitaḥ ||10||
+nīlatoyadamadhyasthāvdidyullekhevabhāsvarā |
+nīvāraśūkavattanvī pītā bhāsvatyaṇūpamā ||11||
+tasyāḥ śikhāyāmadhye paramātmā vyavasthitaḥ |
+sabramha saśivaḥ sahariḥ sendraḥ sokṣaraḥ paramaḥ svarāṭ ||12||
+    </body>
+  </text>
+</TEI>

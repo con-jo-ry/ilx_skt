@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Nārāyaṇāṣṭaka</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A4%BE%E0%A4%B0%E0%A4%BE%E0%A4%AF%E0%A4%A3%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%95%E0%A4%AE%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+vātsalyādabhayapradānasamayādārttārtinirvāpaṇād
+audāryyādaghaśoṣaṇādagaṇitaśreyaḥ padaprāpaṇāt |
+sevyaḥ śrīpatireka eva jagatāmete'bhavansākṣiṇaḥ
+prahlādaśca vibhīṣaṇaśca karirāṭ pāñcālyahalyādhruvaḥ || 1||
+
+prahlādāsti yadīśvaro vada hariḥ sarvatra me darśaya
+staṃbhe caivamiti bruvantamasuraṃ tatrāvirāsīddhariḥ |
+vakṣastasya vidārayannijanakhairvātsalyamāpādayan
+nārttatrāṇaparāyaṇaḥ sa bhagavānnārāyaṇo me gatiḥ || 2||
+
+śrīrāmo'tra vibhīṣaṇo'yamanagho rakṣobhayādāgataḥ
+sugrīvānaya pālayainamadhunā paulastyamevāgatam |
+ityuktvā'bhayamasya sarvaviditaṃ yo rāghavo dattavān
+ārttatrāṇaparāyaṇaḥ sa bhagavānnārāyaṇo me gatiḥ || 3||
+
+nakragrastapadaṃ samuddhṛtakaraṃ brahmādayo bhoḥ surā
+rakṣantāmiti dīnavākyakariṇaṃ deveṣvaśakteṣu yaḥ |
+mā bhaiṣīriti tasya nakrahanane cakrāyudhaḥ śrīdharo
+hyārttatrāṇaparāyaṇaḥ sa bhagavānnārāyaṇo me gatiḥ || 4||
+
+bhoḥ kṛṣṇācyutaḥ bhoḥ kṛpālaya hare bhoḥ pāṇḍavānāṃ sakhe
+kvāsi kvāsi suyodhanādhyapahṛtāṃ bho rakṣa māmāturām |
+ityuktto'kṣayavastrasaṃbhṛtatanuryo'pālayaddraupadīm
+ārttatrāṇaparāyaṇaḥ sa bhagavānnārāyaṇo me gatiḥ || 5||
+
+yatpādābjanakhodakaṃ trijagatāṃ pāpaughavidhvaṃsanaṃ
+yannāmāmṛtapūrakaṃ ca pibatāṃ saṃsārasantārakam |
+pāṣāṇo'pi yadaṅighrapaṅkarajasā śāpānmunermocito
+hyārttatrāṇaparāyaṇaḥ sa bhagavānnārāyaṇo me gatiḥ || 6||
+
+pitrā bhrātaramuttamāsanagataṃ hyauttānapādirdhruvo
+dṛṣṭvā tatsamamārurukṣuradhikaṃ mātrā'vamānaṃ gataḥ |
+yaṃ gatvā śaraṇaṃ yadāpa tapasā hemādrisiṃhāsanaṃ
+hyārttatrāṇaparāyaṇaḥ sa bhagavānnārāyaṇo me gatiḥ || 7||
+
+ārttā viṣaṇṇāḥ śithilāśca bhītā ghoreśu ca vyādhiśu vartamānāḥ |
+saṃkīrtya nārāyaṇaśabdamātraṃ vimuktaduḥkhāḥ sukhino bhavanti || 8||
+
+iti śrīkūreśasvāmiviracitaṃ nārāyaṇāṣṭakaṃ sampūrṇam |
+    </body>
+  </text>
+</TEI>

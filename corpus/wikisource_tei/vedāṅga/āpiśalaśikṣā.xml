@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Āpiśalaśikṣā</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%86%E0%A4%AA%E0%A4%BF%E0%A4%B6%E0%A4%B2%E0%A4%B6%E0%A4%BF%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BE"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<1>
+ākāśavāyuprabhavaḥ śarīrātsamuccaran vaktramupaiti nādaḥ |
+sthānāntareṣu pravibhajyamāno varṇatvamāgacchati yaḥ sa śabdaḥ || 1 ||
+tamakṣaraṃ brahma paraṃ pavitraṃ guhāśayaṃ samyaguśanti viprāḥ | 2 ||
+sthānamidaṃ karaṇamidaṃ prayatna eṣa dvidhānilaḥ sthānaṃ pīḍayati vṛttikāraḥ prakrama eṣo'tha nābhitalāt || 3 ||
+tatra sthānakaraṇaprayatnebhyo varṇāstriṣaṣṭiḥ | 4 ||
+tatra varṇānāṃ keṣāṃ kiṃ sthānaṃ kiṃ kāraṇaṃ prayatnaśca kaḥ keṣāmityucyate | 5 ||
+<2>
+sthānaprakaraṇam
+tatra sthānaṃ tāvat | 1 |
+akuhavisarjanīyāḥ kaṇṭhyāḥ | 2 |
+havisarjanīyāvurasyāvekeṣām | 3 |
+jihvāmūlīyo jihvyaḥ | 4 |
+kavargāvarṇānusvārajihvāmūlīyā jihvyā ekeṣām | 5 |
+sarvamukhasthānamavarṇameke | 6 |
+icuyaśāstālavyāḥ | 7 |
+ṛṭuraṣā mūrdhanyāḥ | 8 |
+ro dantamūlasthānamekeṣām | 9 |
+ḷtulasā dantyāḥ | 10 |
+vakāro dantoṣṭhyaḥ | 11 |
+sṛkvasthānameke | 12 |
+upūpadhmānīyā oṣṭhyāḥ | 13 |
+anusvārayamā nāsikyāḥ | 14 |
+kaṇṭhanāsikyamanusvārameke | 15 |
+yamāśca nāsikyajihvāmūlīyā ekeṣām | 16 |
+edaitau kaṇṭhatālavyau | 17 |
+odautau kaṇṭhoṣṭhyau | 18 |
+ñamaṅaṇanā svasthānā nāsikasthānāśca | 19 |
+dvivarṇāṇi sandhyakṣarāṇi | 20 |
+sarepha ṛvarṇaḥ | 21 |
+<3>
+karaṇaprakaraṇam
+karaṇamapi | 1 |
+jihvyatālavyamūrdhanyadantyānāṃ jihvā karaṇam | 2 |
+kathamiti | 3 |
+jihvāmūlena jihvyānām | 4 |
+jihvāmadhyena tālavyānām | 5 |
+jihvopāgreṇa mūrdhanyānām | 6 |
+jihvāgrādhaḥ karaṇaṃ vā | 7 |
+jihvāgreṇa dantyānām | 8 |
+śeṣāḥ svasthānakaraṇāḥ | 9 |
+ityetat karaṇam | 10 |
+<4>
+antaḥprayatnaprakaraṇam
+prayatno dvividhaḥ | 1 |
+ābhyantaro bāhyaśca | 2 |
+ābhyantarastāvat | 3 |
+spṛṣṭakaraṇāḥ sparśāḥ | 4 |
+īṣatspṛṣṭakaraṇāḥ antasthāḥ | 5 |
+īṣadvivṛtakaraṇā ūṣmāṇaḥ | 6 |
+vivṛtakaraṇāḥ svarāḥ | 7 |
+tebhya e o vivṛtatarau | 8 |
+tābhyāmai au | 9 |
+tābhyāmapyākāraḥ | 10 |
+saṃvṛto'kāraḥ | 11 |
+ityeṣo'ntaḥprayatnaḥ | 12 |
+<5>
+bāhyaprayatnaprakaraṇam
+atha bāhyaḥ | 1 |
+vargāṇāṃ prathamadvitīyāḥ śaṣasavisarjanīyajihvāmūlīyopadhmānīyā yamau ca |3|
+prathamadvitīyau vivṛtakaṇṭhāḥ śvāsānupradānā aghoṣāḥ | 4 |
+vargayamānāṃ prathame'lpaprāṇā itare sarve mahāprāṇāḥ | 5 |
+vargāṇāṃ tṛtīyacaturthā antasthā hakārānusvārau yamau ca
+tṛtīyacaturthau saṃvṛtakaṇṭhā nādānupradānā ghoṣavantaḥ | 6 |
+vargayamānāṃ tṛtīyā antasthāścalpaprāṇā itare sarve mahāprāṇāḥ | 7 |
+yathā tṛtīyāstathā pañcamāḥ | 8 |
+ānunāsikyameṣāmadhiko guṇaḥ | 9 |
+kādayo māvasānāḥ sparśāḥ | 10 |
+yādayo'ntasthāḥ | 11 |
+śādaya ūṣmāṇaḥ | 12 |
+sasthānena dvitīyāḥ | 13 |
+hakāreṇa caturthāḥ | 14 |
+eṣa bāhya prayatnaḥ | 15 |
+<6>
+sthānapīḍaprakaraṇam
+tatra sparśayamavarṇakāro vāyurayaḥpiṇḍavatsthānamabhipīḍayati | 1 |
+antasthavarṇakāro vāyurdārupiṇḍavat | 2 |
+ūṣmasvaravarṇakāro vāyurūrṇāpiṇḍavat | 3 |
+<7>
+vṛttikāraprakaraṇam
+evaṃ vyākhyāne vṛttikārā paṭhanti -- aṣṭādaśaprabhedamavarṇakulamiti | atra | 1 |
+hrasvadīrghaplutatvācca traisvaryopanayena ca | ānunāsikyabhedācca
+saṅkhyāto'ṣṭādaśātmakaḥ || iti || | 2 |
+evavirṇādayaḥ | 3 |
+ḷvarṇasya dīrghā na santi | 4 |
+taṃ dvādaśaprabhedamācakṣate | 5 |
+yadṛcchāśaktijānukaraṇā vā yadā dīrghāḥ syustadā tamapyaṣṭādaśaprabhedaṃ bruvate | 6 |
+sandhyakṣarāṇāṃ hrasvā na santi | 7 |
+tānyapi dvādaśaprabhedāni | 8 |
+chandogānāṃ sātyamugrirāṇāyanīyā hrasvāni paṭhanti | 9 |
+teṣāmapyaṣṭādaśaprabhedāni | 10 |
+antasthā dviprabhedā rephavarjitāḥ sānunāsikā niranunāsikāśca | 11 |
+rephoṣmaṇāṃ savarṇā na santi | 12|
+vargyo vargyeṇa savarṇaḥ | 13 |
+<8>
+prakramaprakaraṇam
+eṣa kramo varṇānām | 1 |
+tatraiṣāṃ sthānakaraṇaprayatnānāṃ vyākaraṇaprasiddharucyate | 2 |
+iha yatra sthāne varṇā upalabhyante tatsthānam | 3 |
+yena nivartyante tatkaraṇam | 4 |
+prayatanaṃ prayatnaḥ | 5 |
+<9>
+nābhitalaprakaraṇam
+tatra nābhipradeśātpreritaḥ prāṇo nāma vāyurūrdhvamākrāmannuraḥprabhṛtīnāṃ
+sthānānāmanyatamasminsthāne prayatnena vidhāryate |
+sa vidhāryamāṇo vāyuḥ sthānamabhihanti |
+tasmātsthānābhighātād dhvanirutpadyata ākāśe |
+sā varṇaśrutiḥ |
+sa varṇasyātmalābhaḥ | 1 |
+tatra dhvanāvutpadyamāne yadā sthānakaraṇaprayatnāḥ parasparaṃ spṛśanti sā spṛṣṭatā | 2 |
+yadeṣatspṛśanti tadeṣatspṛṣṭatā | 3 |
+dūreṇa yadā spṛśanti sā vivṛtatā | 4 |
+sāmīpyena yadā spṛśanti sā saṃvṛtatā | 5 |
+ityeṣa'ntaḥprayatnaḥ | 6 |
+sa idānīṃ prāṇo nāma vāyurūrdhvamākrāmanmūdhni pratihato nivṛtto yadā
+koṣṭhamabhihanti tadā koṣṭheṣabhihanyamāne galabilasya vivṛtatvādvivāraḥ
+saṃvṛtatvātsaṃvāro jāyate | 7 |
+tau saṃvāravivārau | 8 |
+tatra yadā kaṇṭhabilaṃ saṃvṛtaṃ bhavati tadā nādo jāyate | 9 |
+vivṛte kaṇṭhabile śvāso jāyate | 10 |
+tau śvāsanādāvanupradānamityācakṣate | 11 |
+anye tu bruvate -- anupradānamanusvāno ghaṇṭānirhradavat | 12 |
+tatra yadā sthānābhighātaje dhvanau nādo'nupradīyate tadā nādadhvanisaṃsargād ghoṣo jāyate | 13 |
+yadā śvāso'nupradīyate tadā śvāsadhvanisaṃsargādaghoṣaḥ | 14 |
+sā ghoṣavadaghoṣatā | 15 |
+mahati vāyau mahāprāṇaḥ | 16 |
+alpe vāyāvalpaprāṇaḥ | 17 |
+sālpaprāṇamahāprāṇatā | 18 |
+mahāprāṇatvādūṣmatvam | 19 |
+yadā sarvāṅgānusārī prayatnastīvro bhavati tadā gātrasya nigrahaḥ kaṇṭhabilasya | 20 |
+āṇutvaṃ svarasya ca vāyostīvragatitvādraukṣyaṃ bhavati | tamudāttamācakṣate | 21 |
+yadā tu mandaḥ prayatno bhavati tadā gātrasya sraṃsanaṃ kaṇṭhabilasya mahattvaṃ
+svarasya ca vāyormandagatitvatsnigdhatā bhavati | tamanudāttamācakṣate | 22 |
+udāttānudāttasvarasannipātātsvarita iti | 23 |
+evaṃ prayatno'bhinirvṛttaḥ kṛtsnaḥ prayatno bhavati | 24 |
+aṣṭau sthānāni varṇānāmuraḥ kaṇṭhaḥ śirastathā | jihvāmūlaṃ ca dantāśca nāsikoṣṭhau ca tālu ca || 25 |
+spṛṣṭatvamīṣatspṛṣṭatvaṃ saṃvṛtatvaṃ tathaiva ca | vivṛtatvaṃ ca varṇānāmantaḥkaraṇamucyate || 26 |
+kālo vivārasaṃvārau śvāsanādāvaghoṣatā | ghoṣo'lpaprāṇatā caiva mahāprāṇaḥ svarāstrayaḥ || 27 |
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Rāghavāṣṭaka</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%B0%E0%A4%BE%E0%A4%98%E0%A4%B5%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%95%E0%A4%AE%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+rāghavaṃ karuṇākaraṃ munisevitaṃ suravanditaṃ
+jānakīvadanāravindadivākaraṃ guṇabhājanam |
+vālisūnuhitaiṣiṇaṃ hanumatpriyaṃ kamalekṣaṇaṃ
+yātudhānabhayaṃkaraṃ praṇamāmi rāghavakuñjaram || 1||
+maithilīkucabhūṣaṇāmalanīlamauktikamīśvaraṃ
+rāvaṇānujapālanaṃ raghupuṅgavaṃ mama daivatam |
+nāgarīvanitānanāṃbujabodhanīyakalevaraṃ
+sūryavaṃśavivardhanaṃ praṇamāmi rāghavakuñjaram || 2||
+hemakuṇḍalamaṇḍitāmalakaṇṭhadeśamarindamaṃ
+śātakuṃbhamayūranetravibhūṣaṇenavibhūṣitam |
+cārunūpurahārakaustubhakarṇabhūṣaṇabhūṣitaṃ
+bhānuvaṃśavivardhanaṃ praṇamāmi rāghavakuñjaram || 3||
+daṇḍakākhyavane ratāmarasiddhayogigaṇāśrayaṃ
+śiṣṭapālanatatparaṃ dhṛtiśālipārthakṛtastutim |
+kuṃbhakarṇabhujābhujaṃgavikartane suviśāradaṃ
+lakṣmaṇānujavatsalaṃ praṇamāmi rāghavakuñjaram || 4||
+ketakīkaravīrajātisugandhimālyasuśobhitaṃ
+śrīdharaṃ mithilātmajākucakuṃkumāruṇavakṣasam |
+devadevamaśeṣabhūtamanoharaṃ jagatāṃ patiṃ
+dāsabhūtabhayāpahaṃ praṇamāmi rāghavakuñjaram || 5||
+yāgadānasamādhihomajapādikarmakarairdvijaiḥ
+vedapāragatairaharniśamādareṇa supūjitam |
+tāṭakāvadhahetumaṃgatatātavāliniṣūdanaṃ
+paitṛukoditapālakaṃ praṇamāmi rāghavakuñjaram || 6||
+līlayā kharadūṣaṇādiniśācarāśuvināśanaṃ
+rāvaṇāntakamacyutaṃ hariyūthakoṭigaṇāśrayam |
+nīrajānanamaṃbujāṃghriyugaṃ hariṃ bhuvanāśrayaṃ
+devakāryavivakṣaṇaṃ praṇamāmi rāghavakuñjaram || 7||
+kauśikena suśikṣitāstrakalāpamāyatalocanaṃ
+cāruhāsamanāthabandhumaśeṣalokanivāsinam |
+vāsavādisurārirāvaṇśāsanaṃ ca parāṃgatiṃ
+nīlameghanibhākṛtiṃ praṇamāmi rāghavakuñjaram || 8||
+rāghavāṣṭakamiṣṭasiddhidamacyutāśrayasādhakaṃ
+muktibhuktiphalapradaṃ dhanadhānyasiddhivivardhanam |
+rāmacandrakṛpākaṭākṣadamādareṇa sadā japet
+rāmacandrapadāṃbujadvayasantatārpitamānasaḥ || 9||
+rāma rāma namo'stu te jaya rāmabhadra namo'stu te
+rāmacandra namo'stu te jaya rāghavāya namo'stu te |
+devadeva namo'stu te jaya devarāja namo'stu te
+vāsudeva namo'stu te jaya vīrarāja namo'stu te || 10||
+|| iti śrīrāghavāṣṭakaṃ saṃpūrṇam ||
+    </body>
+  </text>
+</TEI>

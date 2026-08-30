@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Herambastotraṃ Gaurikṛta</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%B9%E0%A5%87%E0%A4%B0%E0%A4%AE%E0%A5%8D%E0%A4%AC%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8B%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%82_%E0%A4%97%E0%A5%8C%E0%A4%B0%E0%A4%BF%E0%A4%95%E0%A5%83%E0%A4%A4%E0%A4%AE%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+|| herambastotraṃ gaurikṛtam ||
+śrī gaṇeśāya namaḥ |
+gauryuvāca |
+gajānana jñānavihārakārinna māṃ ca jānāsi parāvamarṣām |
+gaṇeśa rakṣasva na ceccharīraṃ tyajāmi sadyastvayi bhaktiyuktā || 1||
+vighneśa heramba mahodara priya lambodara premavivardhanācyuta |
+vighnasya hartā'surasaṅghahartā māṃ rakṣa daityātvayi bhaktiyuktām || 2||
+kiṃ siddhibuddhiprasareṇa mohayukto'si kiṃ vā niśi nidrito'si |
+kiṃ lakṣalābhārthavicārayuktaḥ kiṃ māṃ ca vismṛtya susaṃsthito'si || 3||
+kiṃ bhaktasaṅgena ca devadeva nānopacāraiśca suyantrito'si |
+kiṃ modakārthe gaṇapāddhṛto'si nānāvihāreṣu ca vakratuṇḍa || 4||
+svānandabhogeṣu parihṛto'si dāsīṃ ca vismṛtya mahānubhāva |
+ānantyalīlāsu ca lālaso'si kiṃ bhaktarakṣārthasusaṅkaṭasthaḥ || 5||
+aho gaṇeśāmṛtapānadakṣāmaraistathā vā'surapaiḥ smṛto'si |
+tadarthanānāvidhisaṃyuto'si visṛjya māṃ dāsīmananyabhāvām || 6||
+rakṣasva māṃ dīnatamāṃ pareśa sarvatra citteṣu ca saṃsthitastvam |
+prabho vilambena vināyako'si brahmeśa kiṃ deva namo namaste || 7||
+bhaktābhimānīti ca nāma mukhyaṃ vede tvabhāvān nahi cenmahātman |
+āgatya hatvā'ditijaṃ sureśa māṃ rakṣa dāsīṃ hṛdi pādaniṣṭhām || 8||
+aho na dūraṃ tava kiñcideva kathaṃ na buddhīśa samāgato'si |
+sucintyadeva prajahāmi dehaṃ yaśaḥ kariṣye viparītamevam || 9||
+rakṣa rakṣa dayāsindho'parādhānme kṣamasva ca |
+kṣaṇe kṣaṇe tvahaṃ dāsī rakṣitavyā viśeṣataḥ || 10||
+stuvatyāmeva pārvatyāṃ śaṅkaro bodhasaṃyutaḥ |
+babhūva gaṇapānāṃ vai śrutvā hāhāravaṃ vidheḥ || 11||
+gaṇeśaṃ manasā smṛtvā vṛṣārūḍhaḥ samāyayau |
+kṣaṇena daityarājaṃ taṃ dṛṣṭvā ḍamaruṇāhanat || 12||
+tataḥ so'pi śivaṃ vīkṣyāliṅgituṃ dhavito|ābhavat |
+śivasya śūlikādīni śastrāṇi kuṇṭhitāni vai || 13||
+taṃ dṛṣṭvā paramāścaryaṃ bhayabhīto maheśvaraḥ |
+sasmāra gaṇapaṃ so'pi nirvighnārthaṃ prajāpate || 14||
+pārvatyāḥ stavanaṃ śrutvā gajānanaḥ samāyayau |
+iti mudgalapurāṇoktaṃ herambastotraṃ sampūrṇam |
+    </body>
+  </text>
+</TEI>

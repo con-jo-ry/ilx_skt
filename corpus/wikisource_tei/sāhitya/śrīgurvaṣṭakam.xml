@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Śrīgurvaṣṭaka</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%97%E0%A5%81%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%95%E0%A4%AE%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+śarīraṃ surūpaṃ tathā vā kalatram
+yaśaścāru citraṃ dhanaṃ meru tulyam |
+manaścenna lagnaṃ guroraṅghripadme,
+tataḥ kiṃ tataḥ kiṃ tataḥ kiṃ tataḥ kim ||1||
+kalatraṃ dhanaṃ putra pautrādisarvam
+gṛhe bāndhavāḥ sarvametaddhi jātam |
+manaścenna lagnaṃ guroraṅghripadme,
+tataḥ kiṃ tataḥ kiṃ tataḥ kiṃ tataḥ kim ||2||
+ṣaḍaṅgādivedo mukhe śāstravidyā,
+kavitvādi gadyaṃ supadyaṃ karoti |
+manaścenna lagnaṃ guroraṅghripadme,
+tataḥ kiṃ tataḥ kiṃ tataḥ kiṃ tataḥ kim ||3||
+videśeṣu mānyaḥ svadeśeṣu dhanyaḥ,
+sadācāravṛtteṣu matto na cānyaḥ |
+manaścenna lagnaṃ guroraṅghripadme,
+tataḥ kiṃ tataḥ kiṃ tataḥ kiṃ tataḥ kim ||4||
+kṣamāmaṇḍale bhūpabhūpālabṛndaiḥ,
+sadā sevitaṃ yasya pādāravindam |
+manaścenna lagnaṃ guroraṅghripadme,
+tataḥ kiṃ tataḥ kiṃ tataḥ kiṃ tataḥ kim ||5||
+yaśo me gataṃ dikṣu dānapratāpāt,
+jagadvastu sarvaṃ kare yatprasādāt |
+manaścenna lagnaṃ guroraṅghripadme,
+tataḥ kiṃ tataḥ kiṃ tataḥ kiṃ tataḥ kim ||6||
+na bhoge na yoge na vā vājirājau,
+na kantāmukhe naiva vitteṣu cittam |
+manaścenna lagnaṃ guroraṅghripadme,
+tataḥ kiṃ tataḥ kiṃ tataḥ kiṃ tataḥ kim ||7||
+araṇye na vā svasya gehe na kārye,
+na dehe mano vartate me tvanardhye |
+manaścenna lagnaṃ guroraṅghripadme,
+tataḥ kiṃ tataḥ kiṃ tataḥ kiṃ tataḥ kim ||8||
+guroraṣṭakaṃ yaḥ paṭhetpuṇyadehī,
+yatirbhūpatirbrahmacārī ca gehī |
+labhedvācchitārthaṃ padaṃ brahmasaṃjñaṃ,
+guroruktavākye mano yasya lagnam ||9||
+    </body>
+  </text>
+</TEI>

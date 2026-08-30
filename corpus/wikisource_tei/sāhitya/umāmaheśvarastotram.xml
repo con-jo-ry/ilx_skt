@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Umāmaheśvarastotra</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%89%E0%A4%AE%E0%A4%BE%E0%A4%AE%E0%A4%B9%E0%A5%87%E0%A4%B6%E0%A5%8D%E0%A4%B5%E0%A4%B0%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8B%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+|| umāmaheśvarastotram || || śrī śaṅkarācārya kṛtam | namaḥ śivābhyāṃ navayauvanābhyām parasparāśliṣṭavapurdharābhyām | nāgendrakanyāvṛṣaketanābhyām namo namaḥ śaṅkarapārvatībhyām || 1|| namaḥ śivābhyāṃ sarasotsavābhyām namaskṛtābhīṣṭavarapradābhyām | nārāyaṇenārcitapādukābhyāṃ namo namaḥ śaṅkarapārvatībhyām || 2|| namaḥ śivābhyāṃ vṛṣavāhanābhyām viriñciviṣṇvindrasupūjitābhyām | vibhūtipāṭīravilepanābhyām namo namaḥ śaṅkarapārvatībhyām || 3|| namaḥ śivābhyāṃ jagadīśvarābhyām jagatpatibhyāṃ jayavigrahābhyām | jambhārimukhyairabhivanditābhyām namo namaḥ śaṅkarapārvatībhyām || 4|| namaḥ śivābhyāṃ paramauṣadhābhyām pañcākṣarī pañjararañjitābhyām | prapañcasṛṣṭisthiti saṃhṛtābhyām namo namaḥ śaṅkarapārvatībhyām || 5|| namaḥ śivābhyāmatisundarābhyām atyantamāsaktahṛdambujābhyām | aśeṣalokaikahitaṅkarābhyām namo namaḥ śaṅkarapārvatībhyām || 6|| namaḥ śivābhyāṃ kalināśanābhyām kaṅkālakalyāṇavapurdharābhyām | kailāsaśailasthitadevatābhyām namo namaḥ śaṅkarapārvatībhyām || 7|| namaḥ śivābhyāmaśubhāpahābhyām aśeṣalokaikaviśeṣitābhyām | akuṇṭhitābhyām smṛtisaṃbhṛtābhyām namo namaḥ śaṅkarapārvatībhyām || 8|| namaḥ śivābhyāṃ rathavāhanābhyām ravīnduvaiśvānaralocanābhyām | rākāśaśāṅkābhamukhāmbujābhyām namo namaḥ śaṅkarapārvatībhyām || 9|| namaḥ śivābhyāṃ jaṭilandharabhyām jarāmṛtibhyāṃ ca vivarjitābhyām | janārdanābjodbhavapūjitābhyām namo namaḥ śaṅkarapārvatībhyām || 10|| namaḥ śivābhyāṃ viṣamekṣaṇābhyām bilvacchadāmallikadāmabhṛdbhyām | śobhāvatī śāntavatīśvarābhyām namo namaḥ śaṅkarapārvatībhyām || 11|| namaḥ śivābhyāṃ paśupālakābhyām jagatrayīrakṣaṇa baddhahṛdbhyām | samasta devāsurapūjitābhyām namo namaḥ śaṅkarapārvatībhyām || 12|| stotraṃ trisandhyaṃ śivapārvatībhyām bhaktyā paṭheddvādaśakaṃ naro yaḥ | sa sarvasaubhāgya phalāni bhuṅkte śatāyurānte śivalokameti || 13|| iti umāmaheśvarastotraṃ sampūrṇam ||
+    </body>
+  </text>
+</TEI>

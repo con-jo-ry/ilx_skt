@@ -1,0 +1,993 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kakārādikālīsahasranāmastotra</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%BE%E0%A4%A6%E0%A4%BF_%E0%A4%95%E0%A4%BE%E0%A4%B2%E0%A5%80%E0%A4%B8%E0%A4%B9%E0%A4%B8%E0%A5%8D%E0%A4%B0%E0%A4%A8%E0%A4%BE%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8B%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+śrī gaṇeśāya namaḥ |
+kailāsaśikhare ramye nānādevagaṇāvṛte |
+nānāvṛkṣalatākīrṇe nānāpuṣpairalaṅkṛte || 1||
+caturmaṇḍalasaṃyukte śrṛṅgāramaṇḍape sthite |
+samādhau saṃsthitaṃ śāntaṃ krīḍantaṃ yoginīpriyam || 2||
+tatra maunadharaṃ dṛṣṭvā devī pṛcchati śaṅkaram |
+devyuvāca |
+kiṃ tvayā japyate deva kiṃ tvayā smaryyate sadā || 3||
+sṛṣṭiḥ kutra vilīnāsti punaḥ kutra prajāyate |
+brahmāṇḍakāraṇaṃ yattat kimādyaṃ kāraṇaṃ mahat || 4||
+manorathamayī siddhistathā vāñchāmayī śiva |
+tṛtīyā kalpanāsiddhiḥ koṭisiddhīśvarātmakam || 5||
+śaktipātāṣṭadaśakaṃ carācarapurīgatiḥ |
+mahendrajālamindrādijālānāṃ racanā tathā || 6||
+aṇimādyaṣṭakaṃ deva parakāyapraveśanam |
+navīnasṛṣṭikaraṇaṃ samudraśoṣaṇaṃ tathā || 7||
+amāyāṃ candrasandarśo divā candraprakāśanam |
+candrāṣṭakaṃ cāṣṭadikṣu tathā sūryāṣṭakaṃ śiva || 8||
+jale jalamayatvaṃ ca vahnau vahnimayatvakam |
+brahmaviṣṇvādinirmāṇamindrāṇāṃ kāraṇaṃ kare || 9||
+pātālaguṭikāyakṣavetālapañcakaṃ tathā |
+rasāyanaṃ tathā guptistathaiva cākhilāñjanam || 10||
+mahāmadhumatī siddhistathā padmāvatī śiva |
+tathā bhogavatī siddhiryāvatyaḥ santi siddhayaḥ || 11||
+kena mantreṇa tapasā kalau pāpasamākule |
+āyuṣyaṃ puṇyarahite kathaṃ bhavati tadvada || 12||
+śrīśiva uvāca |
+vinā mantraṃ vinā stotraṃ vinaiva tapasā priye |
+vinā baliṃ vinā nyāsaṃ bhūtaśuddhiṃ vinā priye || 13||
+vinā dhyānaṃ vinā yantraṃ vinā pūjādinā priye |
+vinā kleśādibhirdevi dehaduḥkhādibhirvinā || 14||
+siddhirāśu bhavedyena tadevaṃ kathyate mayā |
+śūnye brahmaṇḍagole tu pañcāśacchūnyamadhyake || 15||
+pañcaśūnyasthitā tārā sarvānte kālikā sthitā |
+anantakoṭi brahmāṇḍa rājadaṇḍāgrake śive || 16||
+sthāpya śūnyālayaṃ kṛtvā kṛṣṇavarṇaṃ vidhāya ca |
+mahānirguṇarūpā ca vācātītā parā kalā || 17||
+krīḍāyāṃ saṃsthitā devī śūnyarūpā prakalpayet |
+sṛṣṭerārambhakāryārthaṃ dṛṣṭā chāyā tayā yadā || 18||
+icchāśaktistu sā jātā tathā kālo vinirmitaḥ |
+pratibimbaṃ tatra dṛṣṭaṃ jātā jñānābhidhā tu sā || 19||
+idametatkiṃviśiṣṭaṃ jātaṃ vijñānakaṃ mudā |
+tadā kriyā'bhidhā jātā tadīcchāto maheśvari || 20||
+brahmāṇḍagole deveśi rājadaṇḍasthitaṃ ca yat |
+sā kriyā sthāpayāmāsa svasvasthānakrameṇa ca || 21||
+tatraiva svecchayā devi sāmarasyaparāyaṇā |
+tadicchā kathyate devi yathāvadavadhāraya || 22||
+yugādisamaye devi śivaṃ paraguṇottamam |
+tadicchā nirguṇaṃ śāntaṃ saccidānandavigraham || 23||
+śāśvataṃ sundaraṃ śuddhaṃ sarvadevayutaṃ varam |
+ādināthaṃ guṇātītaṃ kālyā saṃyutamīśvaram || 24||
+viparītarataṃ devaṃ sāmarasyaparāyaṇam |
+pūjārthamāgataṃ devagandharvā'psarasāṃ gaṇam || 25||
+yakṣiṇīṃ kinnarīkanyāmurvaśyādyāṃ tilottamām |
+vīkṣya tanmāyayā prāha sundarī prāṇavallabhā || 26||
+trailokyasundarī prāṇasvāminī prāṇarañjinī |
+kimāgataṃ bhavatyā'dya mama bhāgyārṇavo mahān || 27||
+uktvā maunadharaṃ śambhuṃ pūjayantyapsarogaṇāḥ |
+apsarasa ūcuḥ |
+saṃsārāttāritaṃ deva tvayā viśvajanapriya || 28||
+sṛṣṭerārambhakāryyārthamudyukto'si mahāprabho |
+veśyākṛtyamidaṃ deva maṅgalārthapragāyanam || 29||
+prayāṇotsavakāle tu samārambhe pragāyanam |
+guṇādyārambhakāle hi varttate śivaśaṅkara || 30||
+indrāṇīkoṭayaḥ santi tasyāḥ prasavabindutaḥ |
+brahmāṇī vaiṣṇavī caiva māheśī koṭikoṭayaḥ || 31||
+tava sāmarasānanda darśanārthaṃ samudbhavāḥ |
+sañjātāścāgrato deva cāsmākaṃ saukhyasāgara || 32||
+ratiṃ hitvā kāminīnāṃ nā'nyat saukhyaṃ maheśvara |
+sā ratirdṛśyate'smābhirmahatsaukhyārthakārikā || 33||
+evametattu cāsmābhiḥ kartavyaṃ bhartṛṇā saha |
+evaṃ śrutvā mahādevo dhyānāvasthitamānasaḥ || 34||
+dhyānaṃ hitvā māyayā tu provāca kālikāṃ prati |
+kāli kāli ruṇḍamāle priye bhairavavādinī || 35||
+śivārūpadhare krūre ghoradraṃṣṭe bhayānake |
+trailokyasundarakarī sundaryyaḥ santi me'grataḥ || 36||
+sundarīvīkṣaṇaṃ karma kuru kāli priye śive |
+dhyānaṃ muñca mahādevi tā gacchanti gṛhaṃ prati || 37||
+tava rūpaṃ mahākāli mahākālapriyaṅkaram |
+etāsāṃ sundaraṃ rūpaṃ trailokyapriyakārakam || 38||
+evaṃ māyābhramāviṣṭo mahākālo vadanniti |
+iti kālavacaḥ śrutvā kālaṃ prāha ca kālikā || 39||
+māyayā''cchādya cātmānaṃ nijastrīrūpadhāriṇī |
+itaḥ prabhṛti strīmātraṃ bhaviṣyati yuge yuge || 40||
+vallyādyauṣadhayo devi divā vallīsvarūpatām |
+rātrau strīrūpamāsādya ratikeliḥ parasparam || 41||
+ajñānaṃ caiva sarveṣāṃ bhaviṣyati yuge yuge |
+evaṃ śāpaṃ ca datvā tu punaḥ provāca kālikā || 42||
+viparītaratiṃ kṛtvā cintayanti mananti ye |
+teṣāṃ varaṃ pradāsyāmi nityaṃ tatra vasāmyaham || 43||
+ityuktvā kālikā vidyā tatraivāntaradhīyata |
+triṃśattrikharvaṣaḍvṛndanavatyarbudakoṭayaḥ || 44||
+darśanārthaṃ tapastepe sā vai kutra gatā priyā |
+mama prāṇapriyā devī hāhā prāṇapriye śive || 45||
+kiṃ karomi kva gacchāmi ityevaṃ bhramasaṅkulaḥ |
+tasyāḥ kālyā dayā jātā mama cintāparaḥ śivaḥ || 46||
+yantraprastārabuddhistu kālyā dattātisatvaram |
+yantrayāgaṃ tadārabhya pūrvaṃ cid‍ghanagocarā || 47||
+śrīcakraṃ yantraprastāraracanābhyāsatatparaḥ |
+itastato bhramyamāṇastrailokyaṃ cakramadhyakam || 48||
+cakrapāradarśanārthaṃ koṭyarbudayugaṃ gatam |
+bhaktaprāṇapriyā devī mahāśrīcakranāyikā || 49||
+tatra bindau paraṃ rūpaṃ sundaraṃ sumanoharam |
+rūpaṃ jātaṃ maheśāni jāgrattripurasundari || 50||
+rūpaṃ dṛṣṭvā mahādevo rājarājeśvaro'bhavat |
+tasyāḥ kaṭākṣamātreṇa tasyā rūpadharaḥ śivaḥ || 51||
+vinā śrṛṅgārasaṃyuktā tadā jātā maheśvarī |
+vinā kālyaṃśato devi jagatsthāvarajaṅgamam || 52||
+na śrṛṅgāro na śaktitvaṃ kvāpi nāsti maheśvarī |
+sundaryyā prārthitā kālī tuṣṭā provāca kālikā || 53||
+sarvāsāṃ netrakeśeṣu mamāṃśo'tra bhaviṣyati |
+pūrvāvasthāsu deveśi mamāṃśastiṣṭhati priye || 54||
+sāvasthā taruṇākhyā tu tadante naiva tiṣṭhati |
+madbhaktānāṃ maheśāni sadā tiṣṭhati niścitam || 55||
+śaktistu kuṇṭhitā jātā tathā rūpaṃ na sundaram |
+cintāviṣṭā tu malinā jātā tatra ca sundarī || 56||
+kṣaṇaṃ sthitvā dhyānaparā kālī cintanatatparā |
+tadā kālī prasannā'bhūt kṣaṇārddhena maheśvarī || 57||
+varaṃ brūhi varaṃ brūhi varaṃ brūhīti sādaram |
+sundaryuvāca |
+mama siddhivaraṃ dehi varo'yaṃ prārthyate mayā || 58||
+tādṛgupāyaṃ kathaya yena śaktirbhaviṣyati |
+śrīkālyuvāca |
+mama nāmasāhasraṃ ca mayā pūrvaṃ vinirmitam || 59||
+matsvarūpaṃ kakārākhyaṃ medhāsāmrājyanāmakam |
+varadānābhidhaṃ nāma kṣaṇārddhādvaradāyakam || 60||
+tatpaṭhasva mahāmāye tava śaktirbhaviṣyati |
+tataḥ prabhṛti śrīvidyā tannāmapāṭhatatparā || 61||
+tadeva nāmasāhasraṃ sundarīśaktidāyakam |
+kathyate parayā bhaktyā sādhaye sumaheśvari || 62||
+madyermāṃsaistathā śukrairbahuraktairapi priye |
+tarpayet pūjayet kālīṃ viparītaratiṃ caret || 63||
+viparītaratau devi kālī tiṣṭhati nityaśaḥ |
+mādhvīkapuṣpaśukrānnamaithunādyā virāgiṇī || 64||
+vaiṣṇavī vyāpikā vidyā śmaśānavāsinī parā |
+vīrasādhanasantuṣṭā vīrāsphālananādinī || 65||
+śivābaliprahṛṣṭātmā śivārūpādyacaṇḍikā |
+kāmastotrapriyātyugramānasā kāmarūpiṇī || 66||
+brahmānandaparā śambhu maithunānandatoṣitā |
+yogīndrahṛdayāgārā divā niśi viparyayā || 67||
+kṣaṇaṃ tuṣṭā ca pratyakṣā dantamālājapapriyā |
+śayyāyāṃ cumbanāṅgaḥ san veśyāsaṅgaparāyaṇaḥ || 68||
+khaḍgahasto muktakeśo digambaravibhūṣitaḥ |
+paṭhennāmasahasrākhyaṃ medhāsāmrājyanāmakam || 69||
+yathā divyāmṛtairdevāḥ prasannā kṣaṇamātrataḥ |
+tathā'nena mahākālī prasannā pāṭhamātrataḥ || 70||
+kathyate nāmasāhasraṃ sāvadhānamanāḥ śrṛṇu |
+sarvasāmrājyamedhākhyanāmasāhastrakasya ca || 71||
+mahākāla ṛṣiḥ prokta uṣṇikchandaḥ prakīrtitam |
+devatā dakṣiṇā kālī māyābījaṃ prakīrtitam || 72||
+hrūm̐ śaktiḥ kālikābījaṃ kīlakaṃ parikīrtitam |
+kālikā varadānādisveṣṭārthe viniyogataḥ || 73||
+kīlakena ṣaḍaṅgāni ṣaḍdīrghābījena kārayet |
+dhyānaṃ ca pūrvavatkṛtvā sādhayediṣṭasādhanam || 74||
+oṃ asya śrīsarvasāmrājyamedhākālīsvarūpakakārātmakasahasranāmastotramantrasya mahākāla-ṛṣiruṣṇikchandaḥ, śrīdakṣiṇakālī devatā, hrīṃ bījam, hrūm̐ śaktiḥ, krīṃ kīlakaṃ, kālīvaradānādisveṣṭārthe jape viniyogaḥ |
+oṃ mahākāla ṛṣaye namaḥ śirasi |
+uṣṇikchandase namaḥ mukhe |
+śrī dakṣiṇakālīdevatāyai namaḥ hṛdaye |
+hrīṃ bījāya namaḥ guhye |
+hrūm̐ śaktaye namaḥ pādayoḥ |
+krīṃ kīlakāya namaḥ nābhau |
+viniyogāyanamaḥ sarvāṅge | iti ṛṣyādinyāsaḥ |
+oṃ krāṃ aṅguṣṭhābhyāṃ namaḥ |
+oṃ krīṃ tarjanībhyāṃ namaḥ |
+oṃ krūṃ madhyamābhyāṃ namaḥ |
+oṃ kraiṃ anāmikābhyāṃ namaḥ |
+oṃ krauṃ kaniṣṭhikābhyāṃ namaḥ |
+oṃ kraḥ karatalakarapṛṣṭhābhyāṃ namaḥ | iti karāṅganyāsaḥ |
+oṃ krāṃ hṛdayāya namaḥ |
+oṃ krīṃ śirase svāhā |
+oṃ krūṃ śikhāyai vaṣaṭ |
+oṃ kraiṃ kavacāya huṃ |
+oṃ krauṃ netratrayāya vauṣaṭ |
+oṃ kraḥ astrāya phaṭ | iti hṛdayādi ṣaḍaṅganyāsaḥ |
+atha dhyānam |
+oṃ karālavadanāṃ ghorāṃ muktakeśīṃ caturbhujām |
+kālikāṃ dakṣiṇāṃ divyāṃ muṇḍamālāvibhūṣitām ||
+sadyaśchinnaśiraḥkhaḍgavāmordhvādhaḥkarāmbujām |
+abhayaṃ varadaṃ caiva dakṣiṇādhordhvapāṇikām ||
+mahāmeghaprabhāṃ śyāmāṃ tathā caiva digambarām |
+kaṇṭhāvasaktamuṇḍālīgaladrudhiracarcitām ||
+karṇāvataṃsatānītaśavayugmabhayānakām |
+ghoradaṃṣṭrākarālāsyāṃ pīnonnatapayodharām ||
+śavānāṃ karasaṅghātaiḥ kṛtakāñcīṃ hasanmukhīm |
+sṛkkadvayagaladraktadhārāvisphuritānanām ||
+ghorarūpāṃ mahāraudrīṃ śmaśānālayavāsinīm |
+danturāṃ dakṣiṇavyāpimuktalambakacoccayām ||
+śavarūpamahādevahṛdayopari saṃsthitām |
+śivābhirghorarūpābhiścaturddikṣu samanvitām ||
+mahākālena sārddhorddhamupaviṣṭaratāturām |
+sukhaprasannavadanāṃ smerānanasaroruhām ||
+evaṃ saṅcintayeddevīṃ śmaśānālayavāsinīm ||
+oṃ krīṃ kālī krūm̐ karālī ca kalyāṇī kamalā kalā |
+kalāvatī kalāḍhyā ca kalāpūjyā kalātmikā || 1||
+kalādṛṣṭā kalāpuṣṭā kalāmastā kalādharā |
+kalākoṭi kalābhāsā kalākoṭiprapūjitā || 2||
+kalākarmakalādhārā kalāpārā kalāgamā |
+kalādhārā kamalinī kakārā karuṇā kaviḥ || 3||
+kakāravarṇasarvāṅgī kalākoṭivibhūṣitā |
+kakārakoṭiguṇitā kalākoṭivibhūṣaṇā || 4||
+kakāravarṇahṛdayā kakāramanumaṇḍitā |
+kakāravarṇanilayā kākaśabdaparāyaṇā || 5||
+kakāravarṇamukuṭā kakāravarṇabhūṣaṇā |
+kakāravarṇarūpā ca kakaśabdaparāyaṇā || 6||
+kakavīrāsphālaratā kamalākarapūjitā |
+kamalākaranāthā ca kamalākararūpadhṛk || 7||
+kamalākarasiddhisthā kamalākarapāradā |
+kamalākaramadhyasthā kamalākaratoṣitā || 8||
+kathaṅkāraparālāpā kathaṅkāraparāyaṇā |
+kathaṅkārapadāntasthā kathaṅkārapadārthabhūḥ || 9||
+kamalākṣī kamalajā kamalākṣaprapūjitā |
+kamalākṣavarodyuktā kakārā karburākṣarā || 10||
+karatārā karacchinnā karaśyāmā karārṇavā |
+karapūjyā kararatā karadā karapūjitā || 11||
+karatoyā karāmarṣā karmanāśā karapriyā |
+karaprāṇā karakajā karakā karakāntarā || 12||
+karakācalarūpā ca karakācalaśobhinī |
+karakācalaputrī ca karakācalatoṣitā || 13||
+karakācalagehasthā karakācalarakṣiṇī |
+karakācalasammānyā karakācalakāriṇī || 14||
+karakācalavarṣāḍhyā karakācalarañjitā |
+karakācalakāntārā karakācalamālinī || 15||
+karakācalabhojyā ca karakācalarūpiṇī |
+karāmalakasaṃsthā ca karāmalakasiddhidā || 16||
+karāmalakasampūjyā karāmalakatāriṇī |
+karāmalakakālī ca karāmalakarocinī || 17||
+karāmalakamātā ca karāmalakasevinī |
+karāmalakabaddhyeyā karāmalakadāyinī || 18||
+kañjanetrā kañjagatiḥ kañjasthā kañjadhāriṇī |
+kañjamālāpriyakarī kañjarūpā ca kañjanā || 19||
+kañjajātiḥ kañjagatiḥ kañjahomaparāyaṇā |
+kañjamaṇḍalamadhyasthā kañjābharaṇabhūṣitā || 20||
+kañjasammānaniratā kañjotpattiparāyaṇā |
+kañjarāśisamākārā kañjāraṇyanivāsinī || 21||
+karañjavṛkṣamadhyasthā karañjavṛkṣavāsinī |
+karañjaphalabhūṣāḍhyā karañjāraṇyavāsinī || 22||
+karañjamālābharaṇā karavālaparāyaṇā |
+karavālaprahṛṣṭātmā karavālapriyā gatiḥ || 23||
+karavālapriyā kanyā karavālavihāriṇī |
+karavālamayī karmmā karavālapriyaṅkarī || 24||
+kabandhamālābharaṇā kabandharāśimadhyagā |
+kabandhakūṭasaṃsthānā kabandhānantabhūṣaṇā || 25||
+kabandhanādasantuṣṭā kabandhāsanadhāriṇī |
+kabandhagṛhamadhyasthā kabandhavanavāsinī || 26||
+kabandhakāñcīkaraṇī kabandharāśibhūṣaṇā |
+kabandhamālājayadā kabandhadehavāsinī || 27||
+kabandhāsanamānyā ca kapālākalpadhāriṇī |
+kapālamālāmadhyasthā kapālavratatoṣitā || 28||
+kapāladīpasantuṣṭā kapāladīparūpiṇī |
+kapāladīpavaradā kapālakajjalasthitā || 29||
+kapālamālājayadā kapālajapatoṣiṇī |
+kapālasiddhisaṃhṛṣṭā kapālabhojanodyatā || 30||
+kapālavratasaṃsthānā kapālakamalālayā |
+kavitvāmṛtasārā ca kavitvāmṛtasāgarā || 31||
+kavitvasiddhisaṃhṛṣṭā kavitvādānakāriṇī |
+kavipṛjyā kavigatiḥ kavirūpā kavipriyā || 32||
+kavibrahmānandarūpā kavitvavratatoṣitā |
+kavimānasasaṃsthānā kavivāñcchāprapūriṇī || 33||
+kavikaṇṭhasthitā kaṃ hrīṃ kaṅkaṅkaṃ kavipūrtidā |
+kajjalā kajjalādānamānasā kajjalapriyā || 34||
+kapālakajjalasamā kajjaleśaprapūjitā |
+kajjalārṇavamadhyasthā kajjalānandarūpiṇī || 35||
+kajjalapriyasantuṣṭā kajjalapriyatoṣiṇī |
+kapālamālābharaṇā kapālakarabhūṣaṇā || 36||
+kapālakarabhūṣāḍhyā kapālacakramaṇḍitā |
+kapālakoṭinilayā kapāladurgakāriṇī || 37||
+kapālagirisaṃsthānā kapālacakravāsinī |
+kapālapātrasantuṣṭā kapālārghyaparāyaṇā || 38||
+kapālārghyapriyaprāṇā kapālārghyavarapradā |
+kapālacakra‍rūpā ca kapālarūpamātragā || 39||
+kadalī kadalīrūpā kadalīvanavāsinī |
+kadalīpuṣpasamprītā kadalīphalamānasā || 40||
+kadalīhomasantuṣṭā kadalīdarśanodyatā |
+kadalīgarbhamadhyasthā kadalīvanasundarī || 41||
+kadambapuṣpanilayā kadambavanamadhyagā |
+kadambakusumāmodā kadambavanatoṣiṇī || 42||
+kadambapuṣpasampūjyā kadambapuṣpahomadā |
+kadampuṣpamadhyasthā kadambaphalabhojinī || 43||
+kadambakānanāntaḥsthā kadambācalavāsinī |
+kacchapā kacchapārādhyā kacchapāsanasaṃsthitā || 44||
+karṇapūrā karṇanāsā karṇāḍhyā kālabhairavī |
+kalaprītā kalahadā kalahā kalahāturā || 45||
+karṇayakṣī karṇavārtā kathinī karṇasundarī |
+karṇapiśācinī karṇamañjarī kavikakṣadā || 46||
+kavikakṣāvirūpāḍhyā kavikakṣasvarūpiṇī |
+kastūrīmṛgasaṃsthānā kastūrīmṛgarūpiṇī || 47||
+kastūrīmṛgasantoṣā kastūrīmṛgamadhyagā |
+kastūrīrasanīlāṅgī kastūrīgandhatoṣitā || 48||
+kastūrīpūjakaprāṇā kastūrīpūjakapriyā |
+kastūrīpremasantuṣṭā kastūrīprāṇadhāriṇī || 49||
+kastūrīpūjakānandā kastūrīgandharūpiṇī |
+kastūrīmālikārūpā kastūrībhojanapriyā || 50||
+kastūrītilakānandā kastūrītilakapriyā |
+kastūrīhomasantuṣṭā kastūrītarpaṇodyatā || 51||
+kastūrīmārjanodyuktā kastūrīcakrapūjitā |
+kastūrīpuṣpasampūjyā kastūrīcarvaṇodyatā || 52||
+kastūrīgarbhamadhyasthā kastūrīvastradhāriṇī |
+kastūrīkāmodaratā kastūrīvanavāsinī || 53||
+kastūrīvanasaṃrakṣā kastūrīpremadhāriṇī |
+kastūrīśaktinilayā kastūrīśaktikuṇḍagā || 54||
+kastūrīkuṇḍasaṃsnātā kastūrīkuṇḍamajjanā |
+kastūrījīvasantuṣṭā kastūrījīvadhāriṇī || 55||
+kastūrīparamāmodā kastūrījīvanakṣamā |
+kastūrījātibhāvasthā kastūrīgandhacumbanā || 56||
+kasatūrīgandhasaṃśobhāvirājitakapālabhūḥ |
+kastūrīmadanāntaḥsthā kastūrīmadaharṣadā || 57||
+kastūrīkavitānāḍhyā kastūrīgṛhamadhyagā |
+kastūrīsparśakaprāṇā kastūrīvindakāntakā || 58||
+kastūryyāmodarasikā kastūrīkrīḍanodyatā |
+kastūrīdānaniratā kastūrīvaradāyinī || 59||
+kastūrīsthāpanāsaktā kastūrīsthānarañjinī |
+kastūrīkuśalapraśnā kastūrīstutivanditā || 60||
+kastūrīvandakārādhyā kastūrīsthānavāsinī |
+kaharūpā kahāḍhyā ca kahānandā kahātmabhūḥ || 61||
+kahapūjyā kahākhyā ca kahaheyā kahātmikā |
+kahamālākaṇṭhabhūṣā kahamantrajapodyatā || 62||
+kahanāmasmṛtiparā kahanāmaparāyaṇā |
+kahaparāyaṇaratā kahadevī kaheśvarī || 63||
+kahahetu kahānandā kahanādaparāyaṇā |
+kahamātā kahāntaḥsthā kahamantrā kaheśvarī || 64||
+kahajñeyā kahārādhyā kahadhyānaparāyaṇā |
+kahatantrā kahakahā kahacaryyāparāyaṇā || 65||
+kahācārā kahagatiḥ kahatāṇḍavakāriṇī |
+kahāraṇyā kaharatiḥ kahaśaktiparāyaṇā || 66||
+kaharājyanatā karmmasākṣiṇī karmasundarī |
+karmavidyā karmagatiḥ karmatantraparāyaṇā || 67||
+karmamātrā karmagātrā karmadharmaparāyaṇā |
+karmarekhānāśakartrī karmarekhāvinodinī || 68||
+karmarekhāmohakarī karmakīrtiparāyaṇā |
+karmavidyā karmasārā karmmādhārā ca karmabhūḥ || 69||
+karmakārī karmahārī karmakautukasundarī |
+karmakālī karmatārā karmacchinnā ca karmadā || 70||
+karmacāṇḍālinī karmavedamātā ca karmabhūḥ |
+karmakāṇḍaratānantā karmakāṇḍānumānitā || 71||
+karmakāṇḍaparīṇāhā kamaṭhī kamaṭhākṛtiḥ |
+kamaṭhārādhyahṛdayā kamaṭhākaṇṭhasundarī || 72||
+kamaṭhāsanasaṃsevyā kamaṭhī karmatatparā |
+karuṇākarakāntā ca karuṇākaravanditā || 73||
+kaṭhorā karamālā ca kaṭhorakucadhāriṇī |
+kapardinī kapaṭinī kaṭhinā kaṅkabhūṣaṇā || 74||
+karabhorūḥ kaṭhinadā karabhā karabhālayā |
+kalabhāṣāmayī kalpā kalpanā kalpadāyinī || 75||
+kamalasthā kalāmālā kamalāsyā kkaṇatprabhā |
+kakudminī kaṣṭavatī karaṇīyakathārcitā || 76||
+kacārcitā kacatanuḥ kacasundaradhāriṇī |
+kaṭhorakucasaṃlagnā kaṭisūtravirājitā || 77||
+karṇamakṣapriyā kandā kathākandagatiḥ kaliḥ |
+kalighnī kalidūtī ca kavināyakapūjitā || 78||
+kaṇakakṣāniyantrī ca kaścitkavivarārcitā |
+kartrī ca kartṛkā bhūṣākāriṇī karṇaśatrupā || 79||
+karaṇeśī karaṇapā kalavācā kalānidhiḥ |
+kalanā kalanādhārā kalanā kārikā karā || 80||
+kalageyā karkarāśiḥ karkarāśiprapūjitā |
+kanyārāśiḥ kanyakā ca kanyakāpriyabhāṣiṇī || 81||
+kanyakādānasantuṣṭā kanyakādānatoṣiṇī |
+kanyādānakarānandā kanyādānagraheṣṭadā || 82||
+karṣaṇā kakṣadahanā kāmitā kamalāsanā |
+karamālānandakartrī karamālāprapoṣitā || 83||
+karamālāśayānandā karamālāsamāgamā |
+karamālāsiddhidātrī karamālākarapriyā || 84||
+karapriyā kararatā karadānaparāyaṇā |
+kalānandā kaligatiḥ kalipūjyā kaliprasūḥ || 85||
+kalanādaninādasthā kalanādavarapradā |
+kalanādasamājasthā kaholā ca kaholadā || 86||
+kaholagehamadhyasthā kaholavaradāyinī |
+kaholakavitādhārā kaholaṛṣimānitā || 87||
+kaholamānasārādhyā kaholavākyakāriṇī |
+kartṛrūpā kartṛmayī kartṛmātā ca kartarī || 88||
+kanīyā kanakārādhyā kanīnakamayī tathā |
+kanīyānandanilayā kanakānandatoṣitā || 89||
+kanīyakakarākāṣṭhā kathārṇavakarī karī |
+karigamyā karigatiḥ karidhvajaparāyaṇā || 90||
+karināthapriyākaṇṭhā kathānakapratoṣitā |
+kamanīyā kamanakā kamanīyavibhūṣaṇā || 91||
+kamanīyasamājasthā kamanīyavratapriyā |
+kamanīyaguṇārādhyā kapilā kapileśvarī || 92||
+kapilārādhyahṛdayā kapilāpriyavādinī |
+kahacakramantravarṇā kahacakraprasūnakā || 93||
+ka‍e‍īlahrīṃsvarūpā ca ka‍e‍īlahrīṃvarapradā |
+ka‍e‍īlahrīṃsiddhidātrī ka‍e‍īlahrīṃsvarūpiṇī || 94||
+ka‍e‍īlahrīṃmantravarṇā ka‍e‍īlahrīmprasūkalā |
+kavargā ca kapāṭasthā kapāṭodghāṭanakṣamā || 95||
+kaṅkālī ca kapālī ca kaṅkālapriyabhāṣiṇī |
+kaṅkālabhairavārādhyā kaṅkālamānasaṃsthitā || 96||
+kaṅkālamohaniratā kaṅkālamohadāyinī |
+kaluṣaghnī kaluṣahā kaluṣārtivināśinī || 97||
+kalipuṣpā kalādānā kaśipuḥ kaśyapārcitā |
+kaśyapā kaśyapārādhyā kalipūrṇakalevarā || 98||
+kaleśvarakarī kāñcī kavargā ca karālakā |
+karālabhairavārādhyā karālabhairaveśvarī || 99||
+karālā kalanādhārā kaparddīśavarapradā |
+kaparddīśapremalatā kaparddimālikāyutā || 100||
+kaparddijapamālāḍhyā karavīraprasūnadā |
+karavīrapriyaprāṇā karavīraprapūjitā || 101||
+karṇikārasamākārā karṇikāraprapūjitā |
+kariṣāgnisthitā karṣā karṣamātrasuvarṇadā || 102||
+kalaśā kalaśārādhyā kaṣāyā karigānadā |
+kapilā kalakaṇṭhī ca kalikalpalatā matā || 103||
+kalpalatā kalpamātā kalpakārī ca kalpabhūḥ |
+karpūrāmodarucirā karpūrāmodadhāriṇī || 104||
+karpūramālābharaṇā karpūravāsapūrtidā |
+karpūramālājayadā karpūrārṇavamadhyagā || 105||
+karpūratarpaṇaratā kaṭakāmbaradhāriṇī |
+kapaṭeśvavarasampūjyā kapaṭeśvararūpiṇī || 106||
+kaṭuḥ kapidhvajārādhyā kalāpapuṣpadhāriṇī |
+kalāpapuṣparucirā kalāpapuṣpapūjitā || 107||
+krakacā krakacārādhyā kathambrūmā karālatā |
+kathaṅkāravinirmuktā kālī kālakriyā kratuḥ || 108||
+kāminī kāminīpūjyā kāminīpuṣpadhāriṇī |
+kāminīpuṣpanilayā kāminīpuṣpapūrṇimā || 109||
+kāminīpuṣpapūjārhā kāminīpuṣpabhūṣaṇā |
+kāminīpuṣpatilakā kāminīkuṇḍacumbanā || 110||
+kāminīyogasantuṣṭā kāminīyogabhogadā |
+kāminīkuṇḍasammagnā kāminīkuṇḍamadhyagā || 111||
+kāminīmānasārādhyā kāminīmānatoṣitā |
+kāminīmānasañcārā kālikā kālakālikā || 112||
+kāmā ca kāmadevī ca kāmeśī kāmasambhavā |
+kāmabhāvā kāmaratā kāmārtā kāmamañjarī || 113||
+kāmamañjīraraṇitā kāmadevapriyāntarā |
+kāmakālī kāmakalā kālikā kamalārcitā || 114||
+kādikā kamalā kālī kālānalasamaprabhā |
+kalpāntadahanā kāntā kāntārapriyavāsinī || 115||
+kālapūjyā kālaratā kālamātā ca kālinī |
+kālavīrā kālaghorā kālasiddhā ca kāladā || 116||
+kālañjanasamākārā kālañjaranivāsinī |
+kālaṛddhiḥ kālavṛddhiḥ kārāgṛhavimocinī || 117||
+kādividyā kādimātā kādisthā kādisundarī |
+kāśī kāñcī ca kāñcīśā kāśīśavaradāyinī || 118||
+krāṃ bījā caiva krīṃ bījā hṛdayāya namassmṛtā |
+kāmyā kāmyagatiḥ kāmyasiddhidātrī ca kāmabhūḥ || 119||
+kāmākhyā kāmarūpā ca kāmacāpavimocinī |
+kāmadevakalārāmā kāmadevakalālayā || 120||
+kāmarātriḥ kāmadātrī kāntārācalavāsinī |
+kāmarūpā kālagatiḥ kāmayogaparāyaṇā || 121||
+kāmasammarddanaratā kāmagehavikāsinī |
+kālabhairavabhāryā ca kālabhairavakāminī || 122||
+kālabhairavayogasthā kālabhairavabhogadā |
+kāmadhenuḥ kāmadogdhrī kāmamātā ca kāntidā || 123||
+kāmukā kāmukārādhyā kāmukānandavarddhinī |
+kārttavīryyā kārttikeyā kārttikeyaprapūjitā || 124||
+kāryyā kāraṇadā kāryyakāriṇī kāraṇāntarā |
+kāntigamyā kāntimayī kātyā kātyāyanī ca kā || 125||
+kāmasārā ca kāśmīrā kāśmīrācāratatparā |
+kāmarūpācāraratā kāmarūpapriyaṃvadā || 126||
+kāmarūpācārasiddhiḥ kāmarūpamanomayī |
+kārttikī kārttikārādhyā kāñcanāraprasūnabhūḥ || 127||
+kāñcanāraprasūnābhā kāñcanāraprapūjitā |
+kāñcarūpā kāñcabhūmiḥ kāṃsyapātraprabhojinī || 128||
+kāṃsyadhvanimayī kāmasundarī kāmacumbanā |
+kāśapuṣpapratīkāśā kāmadrumasamāgamā || 129||
+kāmapuṣpā kāmabhūmiḥ kāmapūjyā ca kāmadā |
+kāmadehā kāmagehā kāmabījaparāyaṇā || 130||
+kāmadhvajasamārūḍhā kāmadhvajasamāsthitā |
+kāśyapī kāśyapārādhyā kāśyapānandadāyinī || 131||
+kālindījalasaṅkāśā kālindījalapūjitā |
+kādevapūjāniratā kādevaparamārthadā || 132||
+karmmaṇā karmmaṇākārā kāmakarmaṇakāriṇī |
+kārmmaṇatroṭanakarī kākinī kāraṇāhvayā || 133||
+kāvyāmṛtā ca kāliṅgā kāliṅgamarddanodyatā |
+kālāgaruvibhūṣāḍhyā kālāgaruvibhūtidā || 134||
+kālāgarusugandhā ca kālāgarupratarpaṇā |
+kāverīnīrasamprītā kāverītīravāsinī || 135||
+kālacakrabhramākārā kālacakranivāsinī |
+kānanā kānanādhārā kāruḥ kāruṇikāmayī || 136||
+kāmpilyavāsinī kāṣṭhā kāmapatnī ca kāmabhūḥ |
+kādambarīpānaratā tathā kādambarīkalā || 137||
+kāmavandyā ca kāmeśī kāmarājaprapūjitā |
+kāmarājeśvarīvidyā kāmakautukasundarī || 138||
+kāmbojajā kāñchinadā kāṃsyakāñcanakāriṇī |
+kāñcanādrisamākārā kāñcanādripradānadā || 139||
+kāmakīrtiḥ kāmakeśī kārikā kāntarāśrayā |
+kāmabhedī ca kāmārtināśinī kāmabhūmikā || 140||
+kālānalāśinī kāvyavanitā kāmarūpiṇī |
+kāyasthā kāmasandīptiḥ kāvyadā kālasundarī || 141||
+kāmeśī kāraṇavarā kāmeśīpūjanodyatā |
+kāñcīnūpurabhūṣāḍhyākuṅkumābharaṇānvitā || 142||
+kālacakrā kālagatiḥ kālacakrāmanobhavā |
+kundamadhyā kundapuṣpā kundapuṣpapriyā kujā || 143||
+kujamātā kujārādhyā kuṭhāravaradhāriṇī |
+kuñcarasthā kuśaratā kuśeśayavilocanā || 144||
+kumaṭhī kurarī kudrā kuraṅgī kuṭajāśrayā |
+kumbhīnasavibhūṣā ca kumbhīnasavadhodyatā || 145||
+kumbhakarṇamanollāsā kulacūḍāmaṇiḥ kulā |
+kulālagṛhakanyā ca kulacūḍāmaṇipriyā || 146||
+kulapūjyā kulārādhyā kulapūjāparāyaṇā |
+kulabhūṣā tathā kukṣiḥ kurarīgaṇasevitā || 147||
+kulapuṣpā kularatā kulapuṣpaparāyaṇā |
+kulavastrā kulārādhyā kulakuṇḍasamaprabhā || 148||
+kulakuṇḍasamollāsā kuṇḍapuṣpaparāyaṇā |
+kuṇḍapuṣpaprasannāsyā kuṇḍagolodbhavātmikā || 149||
+kuṇḍagolodbhavādhārā kuṇḍagolamayī kuhūḥ |
+kuṇḍagolapriyaprāṇā kuṇḍagolaprapūjitā || 150||
+kuṇḍagolamanollāsā kuṇḍagolabalapradā |
+kuṇḍadevaratā kruddhā kulasiddhikarā parā || 151||
+kulakuṇḍasamākārā kulakuṇḍasamānabhūḥ |
+kuṇḍasiddhiḥ kuṇḍaṛddhiḥ kumārīpūjanodyatā || 152||
+kumārīpūjakaprāṇā kumārīpūjakālayā |
+kumārīkāmasantuṣṭā kumārīpūjanotsukā || 153||
+kumārīvratasantuṣṭā kumārīrūpadhāriṇī |
+kumārībhojanaprītā kumārī ca kumāradā || 154||
+kumāramātā kuladā kulayoniḥ kuleśvarī |
+kulaliṅgā kulānandā kularamyā kutarkadhṛk || 155||
+kuntī ca kulakāntā ca kulamārgaparāyaṇā |
+kullā ca kurukullā ca kullukā kulakāmadā || 156||
+kuliśāṅgī kubjikā ca kubjikānandavarddhinī |
+kulīnā kuñjaragatiḥ kuñjareśvaragāminī || 157||
+kulapālī kulavatī tathaiva kuladīpikā |
+kulayogeśvarī kuṇḍā kuṅkumāruṇavigrahā || 158||
+kuṅkumānandasantoṣā kuṅkumārṇavavāsinī |
+kusumā kusumaprītā kulabhūḥ kulasundarī || 159||
+kumudvatī kumudinī kuśalā kulaṭālayā |
+kulaṭālayamadhyasthā kulaṭāsaṅgatoṣitā || 160||
+kulaṭābhavanodyuktā kuśāvartā kulārṇavā |
+kulārṇavācāraratā kuṇḍalī kuṇḍalākṛtiḥ || 161||
+kumatiśca kulaśreṣṭhā kulacakraparāyaṇā |
+kūṭasthā kūṭadṛṣṭiśca kuntalā kuntalākṛtiḥ || 162||
+kuśalākṛtirūpā ca kūrcabījadharā ca kūḥ |
+kuṃ kuṃ kuṃ kuṃ śabdaratā krūṃ krūṃ krūṃ krūṃ parāyaṇā || 163||
+kuṃ kuṃ kuṃ śabdanilayā kukkurālayavāsinī |
+kukkurāsaṅgasaṃyuktā kukkurānantavigrahā || 164||
+kūrcārambhā kūrcabījā kūrcajāpaparāyaṇā |
+kucasparśanasantuṣṭā kucāliṅganaharṣadā || 165||
+kumatighnī kuberārcyā kucabhūḥ kulanāyikā |
+kugāyanā kucadharā kumātā kundadantinī || 166||
+kugeyā kuharābhāsā kugeyā kughnadāribhā |
+kīrtiḥ kirātinī klinnā kinnarā kinnarīkriyā || 167||
+krīṅkārā krīñjapāsaktā krīṃ hūm̐ strīṃ mantrarūpiṇī |
+kirmīritadṛśāpāṅgī kiśorī ca kirīṭinī || 168||
+kīṭabhāṣā kīṭayoniḥ kīṭamātā ca kīṭadā |
+kiṃśukā kīrabhāṣā ca kriyāsārā kriyāvatī || 169||
+kīṅkīṃśabdaparā klāṃ klīṃ klūm̐ klaiṃ klauṃ mantrarūpiṇī |
+kām̐ kīṃ kūm̐ kaiṃ svarūpā ca kaḥ phaṭ mantrasvarūpiṇī || 170||
+ketakībhūṣaṇānandā ketakībharaṇānvitā |
+kaikadā keśinī keśī keśīsūdanatatparā || 171||
+keśarūpā keśamuktā kaikeyī kauśikī tathā |
+kairavā kairavāhlādā keśarā keturūpiṇī || 172||
+keśavārādhyahṛdayā keśavāsaktamānasā |
+klaibyavināśinī klaiṃ ca klaiṃ bījajapatoṣitā || 173||
+kauśalyā kośalākṣī ca kośā ca komalā tathā |
+kolāpuranivāsā ca kolāsuravināśinī || 174||
+koṭirūpā koṭiratā krodhinī krodharūpiṇī |
+kekā ca kokilā koṭiḥ koṭimantraparāyaṇā || 175||
+koṭyānantamantrayuktā kairūpā keralāśrayā |
+keralācāranipuṇā keralendragṛhasthitā || 176||
+kedārāśramasaṃsthā ca kedāreśvarapūjitā |
+krodharūpā krodhapadā krodhamātā ca kauśikī || 177||
+kodaṇḍadhāriṇī krauñcā kauśalyā kaulamārgagā |
+kaulinī kaulikārādhyā kaulikāgāravāsinī || 178||
+kautukī kaumudī kaulā kumārī kauravārcitā |
+kauṇḍinyā kauśikī krodhā jvālābhāsurarūpiṇī || 179||
+koṭikālānalajvālā koṭimārttaṇḍavigrahā |
+kṛttikā kṛṣṇavarṇā ca kṛṣṇā kṛtyā kriyāturā || 180||
+kṛśāṅgī kṛtakṛtyā ca kraḥ phaṭsvāhāsvarūpiṇī |
+krauṃ krauṃ hūm̐ phaṭmantravarṇā
+krāṃ hrīṃ hrūm̐ phaṭ svarūpiṇī || 181||
+krīṅkrīṃhrīṃhrīṃ tathā hrūm̐ hūm̐phaṭsvāhāmantrarūpiṇī |
+iti śrīsarvasāmrājyamedhā nāmasahasrakam || 182||
+sundarīśaktidānākhyaṃ svarūpārbhidhameva ca |
+kathitaṃ dakṣiṇākālyāḥ sundaryai prītiyogataḥ || 1||
+varadānaprasaṅgena rahasyamapi darśitam |
+gopanīyaṃ sadā bhaktyā paṭhanīyaṃ parātparam || 2||
+prātarmadhyāhnakāle ca madhyārddharātrayorapi |
+yajñakāle japānte ca paṭhanīyaṃ viśeṣataḥ || 3||
+yaḥ paṭhet sādhako dhīraḥ kālīrūpo hi varṣataḥ |
+paṭhedvā pāṭhayedvāpi śrṛṇoti śrāvayedapi || 4||
+vācakaṃ toṣayedvāpi sa bhavet kālikātanuḥ |
+sahelaṃ vā salīlaṃ vā yaścainaṃ mānavaḥ paṭhet || 5||
+sarvaduḥkhavinirmuktastrailokyavijayī kaviḥ |
+mṛtavandhyā kākavandhyā kanyāvandhyā ca vandhyakā || 6||
+puṣpavandhyā śūlavandhyā śrṛṇuyāt stotramuttamam |
+sarvasiddhipradātāraṃ satkaviṃ cirajīvinam || 7||
+pāṇḍityakīrtisaṃyuktaṃ labhate nātra saṃśayaḥ |
+yaṃ yaṃ kāmamupaskṛtya kālīṃ dhyātvā japetstavam || 8||
+taṃ taṃ kāmaṃ kare kṛtvā mantrī bhavati nā'nyathā |
+yonipuṣpairliṅgapuṣpaiḥ kuṇḍagolodbhavairapi || 9||
+saṃyogāmṛtapuṣpaiśca vastradevīprasūnakaiḥ |
+kālipuṣpaiḥ pīṭhatoyairyonikṣālanatoyakaiḥ || 10||
+kastūrīkuṅkumairdevīṃ nakhakālāgarukramāt |
+aṣṭagandhairdhūpadīparyavayāvakasaṃyutaiḥ || 11||
+raktacandanasindūrairmatsyamāṃsādibhūṣaṇaiḥ |
+madhubhiḥ pāyasaiḥ kṣīraiḥ śodhitaiḥ śoṇitairapi || 12||
+mahopacārai raktaiśca naivedyaiḥ surasānvitaiḥ |
+pūjayitvā mahākālīṃ mahākālena lālitām || 13||
+vidyārājñīṃ kullukāñca japtvā stotraṃ japecchive |
+kālībhaktastvekacittaḥ sindūratilakānvitaḥ || 14||
+tāmbūlapūritamukho muktakeśo digambaraḥ |
+śavayonisthito vīraḥ śmaśānasuratānvitaḥ || 15||
+śūnyālaye bindupīṭhe puṣpākīrṇe śivānane |
+śayanotthaprabhuñjānaḥ kālīdarśanamāpnuyāt || 16||
+tatra yadyatkṛtaṃ karma tadanantaphalaṃ bhavet |
+aiśvarye kamalā sākṣāt siddhau śrīkālikāmbikā || 17||
+kavitve tāriṇītulyaḥ saundarye sundarīsamaḥ |
+sindhorddhārāsamaḥ kārye śrutau śrutidharastathā || 18||
+vajrāstramiva durddharṣastrailokyavijayāstrabhṛt |
+śatruhantā kāvyakartā bhavecchivasamaḥ kalau || 19||
+digvidik‍candrakartā ca divārātriviparyyayī |
+mahādevasamo yogī trailokyastambhakaḥ kṣaṇāt || 20||
+gānena tumburuḥ sākṣāddāne karṇasamo bhavet |
+gajā'śvarathapattīnāmastrāṇāmadhipaḥ kṛtī || 21||
+āyuṣyeṣu bhuśuṇḍī ca jarāpalitanāśakaḥ |
+varṣaṣoḍaśavān bhūyāt sarvakāle maheśvarī || 22||
+brahmāṇḍagole deveśi na tasya durlabhaṃ kvacit |
+sarvaṃ hastagataṃ bhūyānnātra kāryyā vicāraṇā || 23||
+kulapuṣpayutaṃ dṛṣṭvā tatra kālīṃ vicintya ca |
+vidyārājñīṃ tu sampūjya paṭhennāmasahasrakam || 24||
+manorathamayī siddhistasya haste sadā bhavet |
+paradārān samāliṅgaya sampūjya parameśvarīm || 25||
+hastāhastikayā yogaṃ kṛtvā japtvā stavaṃ paṭhet |
+yoniṃ vīkṣya japet stotraṃ kuberādadhiko bhavet || 26||
+kuṇḍagolodbhavaṃ gṛhyavarṇāktaṃ homayenniśi |
+pitṛbhūmau maheśāni vidhirekhāṃ pramārjayet || 27||
+taruṇīṃ sundarīṃ ramyāṃ cañcalāṃ kāmagarvitām |
+samānīya prayatnena saṃśodhya nyāsayogataḥ || 28||
+prasūnamañce saṃsthāpya pṛthivīṃ vaśamānayet |
+mūlacakraṃ tu sambhāvya devyāścaraṇasaṃyutam || 29||
+sammūjya parameśānīṃ saṅkalpya tu maheśvari |
+japtvā stutvā maheśānīṃ praṇavaṃ saṃsmarecchive || 30||
+aṣṭottaraśatairyoniṃ pramantryācumbya yatnataḥ |
+saṃyogībhūya japtavyaṃ sarvavidyādhipo bhavet || 31||
+śūnyāgāre śivāraṇye śivadevālaye tathā |
+śūnyadeśe taḍāge ca gaṅgāgarbhe catuṣpathe || 32||
+śmaśāne parvataprānte ekaliṅge śivāmukhe |
+muṇḍayonau ṛtau snātvā gehe veśyāgṛhe tathā || 33||
+kuṭṭinīgṛhamadhye ca kadalīmaṇḍape tathā |
+paṭhetsahasranāmākhyaṃ stotraṃ sarvārthasiddhaye || 34||
+araṇye śūnyagarte ca raṇe śatrusamāgame |
+prajapecca tato nāma kālyāścaiva sahasrakam || 35||
+bālānandaparo bhūtvā paṭhitvā kālikāstavam |
+kālīṃ sañcintya prajapet paṭhennāmasahasrakam || 36||
+sarvasiddhīśvaro bhūyādvāñchāsiddhīśvaro bhavet |
+muṇḍacūḍakayoryoni tvaci vā komale śive || 37||
+viṣṭare śavavastre vā puṣpavastrāsane'pi vā |
+muktakeśo diśāvāso maithunī śayane sthitaḥ || 38||
+japtvākālīṃ paṭhet stotraṃ khecarīsiddhibhāg bhavet |
+cikuraṃ yogamāsādya śukrotsāraṇameva ca || 39||
+japtvā śrīdakṣiṇāṃ kālīṃ śaktipātaśataṃ bhavet |
+latāṃ spṛśan japitvā ca ramitvā tvarcayannapi || 40||
+āhlādayandigāvāsaḥ paraśaktiṃ viśeṣataḥ |
+stutvā śrīdakṣiṇāṃ kālīṃ yoniṃ svakaragāñcaret || 41||
+paṭhennāmasahasraṃ yaḥ sa śivādadhiko bhavet |
+latāntareṣu japtavyaṃ stutvā kālīṃ nirākulaḥ || 42||
+daśāvadhāno bhavati māsamātreṇa sādhakaḥ |
+kālarātryāṃ mahārātryāṃ vīrarātryāmapi priye || 43||
+mahārātryāṃ caturdaśyāmaṣṭamyāṃ saṅkrame'pi vā |
+kuhūpūrṇenduśukreṣu bhaumāmāyāṃ niśāmukhe || 44||
+navamyāṃ maṅgaladine tathā kulatithau śivai |
+kulakṣetre prayatnena paṭhennāmasahasrakam || 45||
+sudarśano bhavedāśu kinnarīsiddhibhāgbhavet |
+paśmimābhimukhaṃ liṅgaṃ vṛṣaśūnyaṃ purātanam || 46||
+tatra sthitvā japet stotraṃ sarvakāmāptaye śive |
+bhaumavāre niśīthe vā amāvasyādine śubhe || 47||
+māṣabhaktabaliṃ chāgaṃ kṛsarānnaṃ ca pāyasam |
+dagdhamīnaṃ śoṇitañca dadhi dugdha guḍārdrakam || 48||
+baliṃ datvā japet tatra tvaṣṭottarasahasrakam |
+devagandharvasiddhaudhaiḥ sevitāṃ surasundarīm || 49||
+labheddeveśi māsena tasya cāsana saṃhatiḥ |
+hastatrayaṃ bhavedūrdhvaṃ nātra kāryā vicāraṇā || 50||
+helayā līlayā bhaktyā kālīṃ stauti narastu yaḥ |
+brahmādīṃssatambhayeddevi māheśīṃ mohayetkṣaṇāt || 51||
+ākarṣayenmahāvidyāṃ daśapūrvān triyāmataḥ |
+kurvīta viṣṇunirmmāṇaṃ yamādīnāṃ tu māraṇam || 52||
+dhruvamuccāṭayennūnaṃ sṛṣṭinūtanatāṃ naraḥ |
+meṣamāhiṣamārjārakharacchāganarādikaiḥ || 53||
+khaṅgiśūkarakāpotaiṣṭiṭṭibhaiḥ śaśakaiḥ palaiḥ |
+śoṇitaiḥ sāsthimāṃsaiśca kāraṇḍairdugdhapāyasaiḥ || 54||
+kādambarīsindhumadyaiḥ surāriṣṭaiśca sāsavaiḥ |
+yonikṣālitatoyaiśca yoniliṅgāmṛtairapi || 55||
+svajātakusumaiḥ pūjyā japānte tarpayecchivām |
+sarvasāmrājyanāmnā tu stutvā natvā svaśaktitaḥ || 56||
+śaktyā labhan paṭhet stotraṃ kālīrūpo dinatrayāt |
+dakṣiṇākālikā tasya gehe tiṣṭhati nānyathā || 57||
+veśyālatāgṛhe gatvā tasyāścumbanatatparaḥ |
+tasyā yonau mukhaṃ datvā tadrasaṃ vilihañjapet || 58||
+tadante nāma sāhasraṃ paṭhedbhaktiparāyaṇaḥ |
+kālikādarśanaṃ tasya bhaveddevi triyāmataḥ || 59||
+nṛtyapātragṛhe gatvā makārapañcakānvitaḥ |
+prasūnamañce saṃsthāpya śaktinyāsaparāyaṇaḥ || 60||
+pātrāṇāṃ sādhanaṃ kṛtvā digvastrāṃ tāṃ samācaret |
+sambhāvya cakraṃ tanmūle tatra sāvaraṇāṃ japet || 61||
+śataṃ bhāle śataṃ keśe śataṃ sindūramaṇḍale |
+śatatrayaṃ kucadvandve śataṃ nābhau maheśvari || 62||
+śataṃ yonau maheśāni saṃyoge ca śatatrayam |
+japettatra maheśāni tadante prapaṭhetstavam || 63||
+śatāvadhāno bhavati māsamātreṇa sādhakaḥ |
+mātaṅginīṃ samānīya kiṃ vā kāpālinīṃ śive || 64||
+dantamālā jape kāryā gale dhāryā nṛmuṇḍajā |
+netrapadme yonicakraṃ śakticakraṃ svavaktrake || 65||
+kṛtvā japenmaheśāni muṇḍayantraṃ prapūjayet |
+muṇḍāsanasthito vīro makārapañcakānvitaḥ || 66||
+anyāmāliṅgaya prajapedanyāṃ sañcumbya vai paṭhet |
+anyāṃ sampūjayettatra tvanyāṃ sammarddayan japet || 67||
+anyayonau śivaṃ datvā punaḥ pūrvavadācaret |
+avadhānasahasreṣu śaktipātaśateṣu ca || 68||
+rājā bhavati deveśi māsapañcakayogataḥ |
+yavanīśaktimānīya gānaśaktiparāyaṇam || 69||
+kulācāramatenaiva tasyā yoniṃ vikāsayet |
+tatra pradāya jihvāṃ tu japennāmasahasrakam || 70||
+nṛkapāle tatra dīpaṃ japetprajvālya yatnataḥ |
+mahākavivaro bhūyānnātra kāryā vicāraṇā || 71||
+kāmārtāṃ śaktimānīya yonau tu mūlacakrakam |
+vilikhya parameśāni tatra mantraṃ likhecchive || 72||
+tallihan prajapeddevi sarvaśāstrārthatatvavit |
+aśrutāni ca śāstrāṇi vedādīn pāṭhayed dhruvam || 73||
+vinā nyāsairvinā pāṭhairvinādhyānādibhiḥ priye |
+caturvedādhipo bhūtvā trikālajñastrivarṣataḥ || 74||
+caturvidhaṃ ca pāṇḍityaṃ tasya hastagataṃ kṣaṇāt |
+śivābaliḥ pradātavyaḥ sarvadā śūnyamaṇḍale || 75||
+kālīdhyānaṃ mantrarcitā nīlasādhanameva ca |
+sahasranāmapāṭhaśca kālīnāmaprakīrtanam || 76||
+bhaktasya kāryametāvadanyadabhyudayaṃ viduḥ |
+vīrasādhanakaṃ karma śivāpūjā balistathā || 77||
+sindūratilako devi veśyālāpo nirantaram |
+veśyāgṛhe niśācāro rātrau paryaṭanaṃ tathā || 78||
+śaktipūjā yonidṛṣṭiḥ khaṅgahasto digambaraḥ |
+muktakeśo vīraveṣaḥ kulamūrtidharo naraḥ || 79||
+kālībhakto bhaveddevi nānyathā kṣemamāpnuyāt |
+dugdhāsvādī yonilehī saṃvidāsavaghūrṇitaḥ || 80||
+veśyālatāsamāyogānmāsātkalpalatā svayam |
+veśyācakrasamāyogātkālīcakrasamaḥ svayam || 81||
+veśyādehasamāyogāt kālīdehasamaḥ svayam |
+veśyāmadhyagataṃ vīraṃ kadā paśyāmi sādhakam || 82||
+evaṃ vadati sā kālī tasmādveśyā varā matā |
+veśyā kanyā tathā pīṭhajātibhedakulakramāt || 83||
+akulakramabhedena jñātvā cāpi kumārikām |
+kumārīṃ pūjayedbhaktyā japānte bhavane priye || 84||
+paṭhennāmasahasraṃ yaḥ kālīdarśanabhāg bhavet |
+bhaktyā kumārīṃ sampūjya vaiśyākula samudbhavām || 85||
+vastra hemādibhistoṣyā yatnātstotraṃ paṭhecchive |
+trailokya vijayī bhūyāddivā candraprakāśakaḥ || 86||
+yadyaddattaṃ kumāryai tu tadanantaphalaṃ bhavet |
+kumārīpūjanaphalaṃ mayā vaktuṃ na śakyate || 87||
+cāñcalyādduritaṃ kiñcitkṣamyatāmayamañjaliḥ |
+ekā cetpūjitā bālā dvitīyā pūjitā bhavet || 88||
+kumāryaḥ śaktayaścaiva sarvametacarācaram |
+śaktimānīya tadgātre nyāsajālaṃ pravinyaset || 89||
+vāmabhāge ca saṃsthāpya japennāmasahasrakam |
+sarvasiddhīśvaro bhūyānnātra kāryyā vicāraṇā || 90||
+śmaśānastho bhavetsvastho galitaṃ cikuraṃ caret |
+digambaraḥ sahasraṃ ca sūryapuṣpaṃ samānayet || 91||
+svavīryeṇa plutaṃ kṛtvā pratyekaṃ prajapan hunet |
+pūjya dhyātvā mahābhaktyā kṣamāpālo naraḥ paṭhet || 92||
+nakhaṃ keśaṃ svavīryaṃ ca yadyatsammārjanīgatam |
+muktakeśo diśāvāso mūlamantrapuraḥsaraḥ || 93||
+kujavāre madhyarātre homaṃ kṛtvā śmaśānake |
+paṭhennāmasahasraṃ yaḥ pṛthvīśākarṣako bhavet || 94||
+puṣpayukte bhage devi saṃyogānandatatparaḥ |
+punaścikuramāsādya mūlamantraṃ japan śive || 95||
+citāvahnau madhyarātre vīryamutsārya yatnataḥ |
+kālikāṃ pūjayettatra paṭhennāma sahasrakam || 96||
+pṛthvīśākarṣaṇaṃ kuryānnātra kāryā vicāraṇā |
+kadalī vanamāsādya lakṣamantraṃ japennaraḥ || 97||
+madhumatyā svayaṃ devyā sevyamānaḥ smaropamaḥ |
+śrīmadhumatītyuktvā tathā sthāvarajaṅgamān || 98||
+ākarṣiṇīṃ samuccārya ṭhaṇṭhaṃ svāhā samuccaret |
+trailokyākarṣiṇī vidyā tasya haste sadā bhavet || 99||
+nadīṃ purīṃ ca ratnāni hemastrīśailabhūruhān |
+ākarṣayatyambunidhiṃ sumeruṃ ca digantataḥ || 100||
+alabhyāni ca vastūni dūrādbhūmitalādapi |
+vṛttāntaṃ ca surasthānādrahasye viduṣāmapi || 101||
+rājñāṃ ca kathayatyeṣā satyaṃ satvaramādiśet |
+dvitīyavarṣapāṭhena bhavetpadmāvatī śubhā || 102||
+oṃ hrīmpadmāvati padaṃ tatastrailokyanāma ca |
+vārtāṃ ca kathaya dvandvaṃ svāhānto mantra īritaḥ || 103||
+brahmaviṣṇvādikānāṃ ca trailokye yādṛśī bhavet |
+sarva vadati deveśī trikālajñaḥ kaviśśubhaḥ || 104||
+trivarṣaṃ sampaṭhandevi labhedbhogavatīṃ kalām |
+mahākālena dṛṣṭo'pi citāmadhyagato'pi vā || 105||
+tasyā darśanamātreṇa cirañjīvī naro bhavet |
+mṛtasañjīvinītyuktvā mṛtamutthāpaya dvayam || 106||
+svāhānto manurākhyāto mṛtasañjīvanātmakaḥ |
+caturvarṣaṃ paṭhedyastu svapnasiddhistato bhavet || 107||
+oṃ hrīṃ svapnavārāhi kālisvapne kathayoccaret |
+amukasyā'mukaṃ dehi klīṃ svāhānto manurmataḥ || 108||
+svapnasiddhā caturvarṣāttasya svapne sadā sthitā |
+caturvarṣasya pāṭhena caturvedādhipo bhavet || 109||
+taddhastajalasaṃyogānmūrkhaḥ kāvyaṃ karoti ca |
+tasya vākyaparicayānmūrtirvindati kāvyatām || 110||
+mastake tu karaṃ kṛtvā vada vāṇīmiti bruvan |
+sādhako vāñchayā kuryāttattathaiva bhaviṣyati || 111||
+brahmāṇḍagolake yāśca yāḥ kāścijjagatītale |
+samastāḥ siddhayo devi karāmalakavatsadā || 112||
+sādhakasmṛtimātreṇa yāvantyaḥ santi siddhayaḥ |
+svayamāyānti purato japādīnāṃ tu kā kathā || 113||
+videśavartino bhūtvā vartante ceṭakā iva |
+amāyāṃ candrasandarśaścandragrahaṇameva ca || 114||
+aṣṭamyāṃ pūrṇacandratvaṃ candrasūryāṣṭakaṃ tathā |
+aṣṭadikṣu tathāṣṭau ca karotyeva maheśvari || 115||
+aṇimā khecaratvaṃ ca carācarapurīgatam |
+pādukākhaṅgavetālayakṣiṇīguhyakādayaḥ || 116||
+tilakoguptatādṛśyaṃ carācarakathānakam |
+mṛtasañjīvinīsiddhirguṭikā ca rasāyanam || 117||
+uḍḍīnasiddhirdeveśi ṣaṣṭisiddhīśvaratvakam |
+tasya haste vaseddevi nātra kāryā vicāraṇā || 118||
+ketau vā dundubhau vastre vitāne veṣṭanegṛhe |
+bhittau ca phalake devi lekhyaṃ pūjyaṃ ca yatnataḥ || 119||
+madhye cakraṃ daśāṅgoktaṃ parito nāmalekhanam |
+taddhāraṇānmaheśāni trailokyavijayī bhavet || 120||
+eko hi śatasāhasraṃ nirjitya ca raṇāṅgaṇe |
+punarāyāti ca sukhaṃ svagṛhaṃ prati pārvatī || 121||
+eko hi śatasandarśī lokānāṃ bhavati dhruvam |
+kalaśaṃ sthāpya yatnena nāmasāhasrakaṃ paṭhet || 122||
+sekaḥ kāryo maheśāni sarvāpattinivāraṇe |
+bhūtapretagrahādīnāṃ rākṣasāṃ brahmarākṣasām || 123||
+vetālānāṃ bhairavāṇāṃ skandavaināyakādikān |
+nāśayet kṣaṇamātreṇa nātra kāryā vicāraṇā || 124||
+bhasmabhirmantritaṃ kṛtvā grahagrastaṃ vilepayet |
+bhasmasaṅkṣepaṇādeva sarvagrahavināśanam || 125||
+navanītaṃ cābhimantrya strībhyo dadyānmaheśvari |
+vandhyā putrapradāṃ devi nātra kāryā vicāraṇā || 126||
+kaṇṭhe vā vāmabāhau vā yonau vā dhāraṇācchive |
+bahuputravatī nārī subhagā jāyate dhruvam || 127||
+puruṣo dakṣiṇāṅge tu dhārayetsarvasiddhaye |
+balavānkīrtimāna dhanyodhārmikaḥ sādhakaḥ kṛtī || 128||
+bahuputrī rathānāṃ ca gajānāmadhipaḥ sudhīḥ |
+kāminīkarṣaṇodyuktaḥ krīṃ ca dakṣiṇakālike || 129||
+krīṃ svāhā prajapenmantramayutaṃ nāmapāṭhakaḥ |
+ākarṣaṇaṃ careddevi jalakhecarabhūgatān || 130||
+vaśīkaraṇakāmo hi hūm̐ hūm̐ hrīṃ hrīṃ ca dakṣiṇe |
+kālike pūrvabījāni pūrvavatprajapan paṭhet || 131||
+urvaśīmapi vasayennātra kāryā vicāraṇā |
+krīṃ ca dakṣiṇakālike svāhā yuktaṃ japennaraḥ || 132||
+paṭhennāmasahasraṃ tu trailokyaṃ mārayeddhruvam |
+sadbhaktāya pradātavyā vidyā rājñi śubhe dine || 133||
+sadvinītāya śāntāya dāntāyātiguṇāya ca |
+bhaktāya jyeṣṭhaputrāya gurubhaktiparāya ca || 134||
+vaiṣṇavāya praśuddhāya śivābaliratāya ca |
+veśyāpūjanayuktāya kumārīpūjakāya ca || 135||
+durgābhaktāya raudrāya mahākālaprajāpine |
+advaitabhāvayuktāya kālībhaktiparāya ca || 136||
+deyaṃ sahasranāmākhyaṃ svayaṃ kālyā prakāśitam |
+gurudaivatamantrāṇāṃ maheśasyāpi pārvati || 137||
+abhedena smarenmantraṃ sa śivaḥ sa gaṇādhipaḥ |
+yo mantraṃ bhāvayenmantrī sa śivo nātra saṃśayaḥ || 138||
+sa śākto vaiṣṇavassauraḥ sa evaṃ pūrṇadīkṣitaḥ |
+ayogyāya na dātavyaṃ siddhirodhaḥ prajāyate || 139||
+veśyāstrīnindakāyātha surāsaṃvitpranindake |
+surāmukho manuṃ smṛtvā surācāryo bhaviṣyati || 140||
+vāgdevatā ghore āsāparaghāre ca hūm̐ vadet |
+ghorarūpe mahāghore mukhībhīmapadaṃ vadet || 141||
+bhīṣaṇyamuṣyaṣaṣṭhyantaṃ heturvāmayuge śive |
+śivavahniyugāstraṃ hūm̐ hūm̐ kavacamanurbhavet || 142||
+etasya smaraṇādeva duṣṭānāṃ ca mukhe surā |
+avatīrṇā bhavaddevi duṣṭānāṃ bhadranāśinī || 143||
+khalāya paratantrāya paranindāparāya ca |
+bhraṣṭāya duṣṭasatvāya paravādaratāya ca || 144||
+śivābhaktāya duṣṭāya paradāraratāya ca |
+na stotraṃ darśayeddevi śivahatyākaro bhavet || 145||
+kālikānandahṛdayaḥ kālikābhaktimānasaḥ |
+kālībhakto bhavetso'yaṃ dhanyarūpaḥ sa eva tu || 146||
+kalau kālī kalau kālī kalau kālī varapradā |
+kalau kālī kalau kālī kalau kālī tu kevalā || 147||
+bilvapatrasahasrāṇi karavīrāṇi vai tathā |
+pratināmnā pūjayeddhi tena kālī varapradā || 148||
+kamalānāṃ sahasraṃ tu pratināmnā samarpayet |
+cakraṃ sampūjya deveśi kālikāvaramāpnuyāt || 149||
+mantrakṣobhayuto naiva kalaśasthajalena ca |
+nāmnā prasecayeddevi sarvakṣobhavināśakṛt || 150||
+tathā damanakaṃ devi sahasramāhared‍vratī |
+sahasranāmnā sampūjya kālīvaramavāpnuyāt || 151||
+cakraṃ vilikhya dehasthaṃ dhārayetkālikātanuḥ |
+kālyai niveditaṃ yadyattadaṃśaṃ bhakṣayecchive || 152||
+divyadehadharo bhūtvā kālīdehe sthito bhavet |
+naivedyanindakān duṣṭān dṛṣṭvā nṛtyanti bhairavā || 153||
+yoginyaśca mahāvīrā raktapānodyatāḥ priye |
+māṃsāsthicarmaṇodyuktā bhakṣayanti na saṃśayaḥ || 154||
+tasmānna nindayeddevi manasā karmaṇā girā |
+anyathā kurute yastu tasya nāśo bhaviṣyati || 155||
+kramadīkṣāyutānāṃ ca siddhirbhavati nānyathā |
+mantrakṣobhaśca vā bhūyāt kṣīṇāyurvā bhaveddhruvam || 156||
+putrahārī striyohārī rājyahārī bhaveddhruvam |
+kramadīkṣāyuto devi kramādrājyamavāpnuyāt || 157||
+ekavāraṃ paṭheddevi sarvapāpavināśanam |
+dvivāraṃ ca paṭhedyo hi vāñchāṃ vindati nityaśaḥ || 158||
+trivāraṃ ca paṭhedyastu vāgīśasamatāṃ vrajet |
+caturvāraṃ paṭheddevi caturvarṇādhipo bhavet || 159||
+pañcavāraṃ paṭheddevi pañcakāmādhipo bhavet |
+ṣaḍvāraṃ ca paṭheddevi ṣaḍaiśvaryādhipo bhavet || 160||
+saptavāraṃ paṭhetsaptakāmanāṃ cintitaṃ labhet |
+vasuvāraṃ paṭheddevi digīśo bhavati dhruvam || 161||
+navavāraṃ paṭheddevi navanāthasamo bhavet |
+daśavāraṃ kīrttayedyo daśārhaḥ khecareśvaraḥ || 162||
+viṃśativāraṃ kīrtayedyaḥ sarvaiśvaryamayo bhavet |
+pañcaviṃśativāraistu sarvacintāvināśakaḥ || 163||
+pañcāśadvāramāvartya pañcabhūteśvaro bhavet |
+śatavāraṃ kīrttayedyaḥ śatānanasamānadhīḥ || 164||
+śatapañcakamāvartya rājarājeśvaro bhavet |
+sahasrāvartanāddevi lakṣmīrāvṛṇute svayam || 165||
+trisahasraṃ samāvartya trinetrasadṛśo bhavet |
+pañca sāhasramāvartya kāmakoṭi vimohanaḥ || 166||
+daśasāhasramāvartya bhaveddaśamukheśvaraḥ |
+pañcaviṃśatisāhasrai ca caturviṃśatisiddhidhṛk || 167||
+lakṣāvartanamātreṇa lakṣmīpatisamo bhavet |
+lakṣatrayāvarttanāttu mahādevaṃ vijeṣyati || 168||
+lakṣapañcakamāvartya kalāpañcakasaṃyutaḥ |
+daśalakṣāvarttanāttu daśavidyāptiruttamā || 169||
+pañcaviṃśatilakṣaistu daśavidyeśvaro bhavet |
+pañcāśallakṣamāvṛtya mahākālasamo bhavet || 170||
+koṭimāvarttayedyastu kālīṃ paśyati cakṣuṣā |
+varadānodyuktakarāṃ mahākālasamanvitām || 171||
+pratyakṣaṃ paśyati śive tasyā deho bhaveddhruvam |
+śrīvidyākālikātārātriśaktivijayī bhavet || 172||
+vidherlipiṃ ca sammārjya kiṅkaratvaṃ visṛjya ca |
+mahārājyamavāpnoti nātra kāryā vicāraṇā || 173||
+triśaktiviṣaye devikramadīkṣā prakīrtitā |
+kramadīkṣāyuto devi rājā bhavati niścitam || 174||
+kramadīkṣāvihīnasya phalaṃ pūrvamiheritam |
+kramadīkṣāyuto devi śiva eva na cāparaḥ || 175||
+kramadīkṣāsamāyuktaḥ kālyuktasiddhibhāgbhavet |
+kramadīkṣāvihīnasya siddhihāniḥ pade pade || 176||
+aho janmavatāṃ madhye dhanyaḥ kramayutaḥ kalau |
+tatrāpi dhanyo deveśi nāmasāhasrapāṭhakaḥ || 177||
+daśakālīvidyau devi stotrametatsadā paṭhet |
+siddhiṃ vindati deveśi nātra kāryā vicāraṇā || 178||
+kākī kālī mahāvidyā kalau kālī ca siddhidā |
+kalau kālī ca siddhā ca kalau kālī varapradā || 179||
+kalau kālī sādhakasya darśanārthaṃ samudyatā |
+kalau kālī kevalā syānnātra kāryā vicāraṇā || 180||
+nānyavidyā nānyavidyā nānyavidyā kalau bhavet |
+kalau kālīṃ vihāyātha yaḥ kaścitsiddhikāmukaḥ || 181||
+sa tu śaktiṃ vinā devi ratisambhogamicchati |
+kalau kālīṃ vinā devi yaḥ kaścitsiddhimicchati || 182||
+sa nīlasādhanaṃ tyaktvā paribhramati sarvataḥ |
+kalau kālī vihāyātha yaḥ kaścinmokṣamicchati || 183||
+gurudhyānaṃ parityajya siddhimicchati sādhakaḥ |
+kalau kālī vihāyātha yaḥ kaścidrājyamicchati || 184||
+sa bhojana parityajya bhikṣuvṛttimabhīpsati |
+sa dhanyaḥ sa ca vijñānī sa eva surapūjitaḥ || 185||
+sa dīkṣitaḥ sukhī sādhuḥ satyavādī jitendriyaḥ |
+sa vedavaktā svādhyāyī nātra kāryā vicāraṇā || 186||
+śivarūpaṃ guruṃ dhyātvā śivarūpaṃ guruṃ smaret |
+sadāśivaḥ sa eva syānātra kāryā vicāraṇā || 187||
+svasmin kālīṃ tu sambhāvya pūjayejjagadambikām |
+trailokyavijayī bhūyānnātra kāryyā vicāraṇā || 188||
+gopanīyaṃ gopanīyaṃ gopanīyaṃ prayatnataḥ |
+rahasyātirahasyaṃ ca rahasyātirahasyakam || 189||
+ślokārddhaṃ pādamātraṃ vā pādādardhaṃ ca tadardhakam |
+nāmārdhaṃ yaḥ paṭheddevi na vandhyadivasaṃ nyaset || 190||
+pustakaṃ pūjayedbhaktyā tvaritaṃ phalasiddhaye |
+na ca mārībhayaṃ tatra na cāgnirvāyusambhavam || 191||
+na bhūtādibhayaṃ tatra sarvatra sukhamedhate |
+kuṅkumā'laktakenaiva rocanā'garuyogataḥ || 192||
+bhūrjapatre likhet pustaṃ sarvakāmārthasiddhaye |
+iti saṅkṣepataḥ proktaṃ kimanyacchrotumicchasi || 193||
+iti gaditamaśeṣaṃ kālikāvarṇarūpaṃ |
+prapaṭhati yadi bhaktyā sarvasiddhīśvaraḥ syāt || 194||
+abhinavasukhakāmaḥ sarvavidyābhirāmo
+bhavati sakalasiddhidhaḥ sarvavīrāsamṛddhiḥ || 195||
+|| iti śrīmadādināthamahākālaviracitāyāṃ mahākālasaṃhitāyāṃ
+kālakālīsaṃvāde sundarīśaktidānākhyaṃ kālīsvarūpa
+medhāsāmrājyapradaṃ sahasranāmastotraṃ sampūrṇam ||
+    </body>
+  </text>
+</TEI>

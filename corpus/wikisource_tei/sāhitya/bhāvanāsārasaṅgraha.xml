@@ -1,0 +1,3278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Bhāvanāsārasaṅgraha</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%AD%E0%A4%BE%E0%A4%B5%E0%A4%A8%E0%A4%BE%E0%A4%B8%E0%A4%BE%E0%A4%B0%E0%A4%B8%E0%A4%99%E0%A5%8D%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%B9"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<1>
+<1.1>
+ajñānatimirāndhasya
+jñānāñjanaśalākayā
+cakṣurunmīlitaṃ yena
+tasmai śrīgurave namaḥ
+<1.2>
+siṃhaskandhaṃ madhuramadhurasmeragaṇḍasthalāntaṃ
+durvijñeyojjvalarasamayāścaryanānāvikāram
+vibhratkāntiṃ vikacakanakāmbhojagarbhābhirāmām
+ekībhūtaṃ vapuravatu vo rādhayā mādhavasya
+<1.3>
+śoṇasnigdhāṅgulidalakulaṃ jātarāgaṃ parāgaiḥ
+śrīrādhāyāḥ stanamukulayoḥ kuṅkumakṣodarūpaiḥ
+bhaktaśraddhāmadhunakhamahaḥpuñjakiñjalkajālaṃ
+jaṅghānālaṃ caraṇakamalaṃ pātu naḥ pūtanāreḥ
+<1.4>
+bhaktirasāmṛtasindhau
+carataḥ paribhūtakālajālabhiyaḥ
+bhaktamakarānaśīlita
+muktinadīkānnamasyāmi
+śrī gauracandra
+<1.5>
+prage śrīvāsasya dvijakularavairniṣku avare
+śrutidhvānaprakhyaiḥ sapadi gatanidraṃ pulakitam
+hareḥ pārśve rādhāsthitiṃ anubhavantaṃ nayanajair
+jalaiḥ saṃsiktāṅgaṃ varakanakagauraṃ bhaja manaḥ
+<1.6>
+mūlasūtra
+rātryante trastavṛnderitabahuviravairbodhitau kīraśārī
+padyairhṛdyairahṛdyairapi sukhaśayanādutthitau tau sakhībhiḥ
+dṛṣṭau hṛṣṭau tadātvoditaratilalitau kakkha īgīḥ saśaṅkau
+rādhākṛṣṇau satṛṣṇāvapi nijanijadhāmnyāptatalpau smarāmi
+<1.7>
+pratisvasevāvasaraprabodhitā
+sadātanābhyāsajuṣo'tha kiṅkarīḥ
+nidraiva rātryantaṃ avetya tā jahau
+saiva svayaṃ jāgarayāñcakāra kim?
+<1.8>
+utthāya talpāccakitekṣaṇāḥ kṣaṇān
+duhānayornāgaracakravartinoḥ
+svāpaṃ rahaḥsvāpaṃ abhaṅgaṃ aṅganā
+ālakṣya tūṣṇīṃ adhiśayaṃ āsata
+<1.9>
+papracchuranyonyaṃ imā mimānayā
+rasaṃ parīhāsabhṛtaṃ sajṛmbhayā
+girā cirājjāgaramūḍhaghūrṇana
+svasvākṣibhṛṅgītatilīḍhavakṣasaḥ
+<1.10>
+niśāntasevocitamālyavīṭikā
+kṛtyāttacittā atha kācidāha tāḥ
+anaṅgabaddhāṅgayuvadvayocchalat
+saurabhyasaulabhyavatī rasoccalā
+<1.11>
+jānīta jālādhvagatāsyapadmāḥ
+sadmāntarālyaḥ svadṛśaḥ prahitya
+kāntau nitāntātanulāsyacuñcu
+dhinoti suptiḥ parirabhya kīdṛk?
+<1.12>
+itastato nyastamaṇipradīpān
+aphullanīlotpalacampakābhān
+vidhatta etau svamayūkhavṛndair
+anāvṛtairmaṇḍanamālyacelaiḥ
+<1.13>
+sa kṛṣṇameghaḥ sthiracañcalālī
+vṛto'timādhuryarasairamūḥ kim?
+āsnāpayatsvārhaṇakṛtyavṛttāḥ
+pratyarhaṇenādita eva dhinvan
+<1.14>
+tāmbūlamālāvividhānulepair
+aṅgāradhānyāguruvaiśca dhūpaiḥ
+kālocitaistaiḥ pratipādyamānaiḥ
+katikṣaṇāṃstā gamayāṃ babhūvuḥ
+<1.15>
+prabhañjano rañjayituṃ nikuñja
+rājau vyarājiṣṭa mudā tadānīm
+manye prabudhya ślathadurbalāṅgo
+drutaṃ prayātuṃ natarāṃ śaśāka
+<1.16>
+yā vṛkṣavallyo vyakasaṃstadaiva tāś
+cumbaṃstadāmodabharairdiśo daśa
+prasāritaiḥ śvāsapathapraveśitair
+bhṛṅgāvalīrjāgarayāñcakāra saḥ
+<1.17>
+tadguñjitai rañjitasusvarairbhṛśaṃ
+prabudhya vṛndā'tha vilokya sarvataḥ
+svanāthayorjāgaraṇe patatriṇo
+nyayuṅkta kālajñatayā rayādiyam
+<1.18>
+āsanyadarthaṃ prathamaṃ dvijendrāḥ
+sevāsamutkaṇṭhadhiyo'pi mūkāḥ
+vṛndānideśaṃ taṃ avāpya harṣāt
+krīḍānikuñjaṃ paritaścukūjuḥ
+<1.19>
+athālivṛndaṃ makarandalubdhaṃ
+ratīśiturmaṅgalakambutulyam
+praphullavallīcayamañjukuñje
+juguñja talpīkṛtakañjapuñje
+<1.20>
+jhaṅkṛtiṃ aṅgīkurute
+ratimaṅgalajhallarīva govindam
+bodhayituṃ madhumattā
+madhupītatirudbha ānandā
+<1.21>
+pikaśreṇī manojasya
+vīṇeva vyaktapañcamam
+ālalāpa svaraṃ tāraṃ
+kuhūriti muhurmuhuḥ
+<1.22>
+ratimadhuravipañcīnādabhaṅgīṃ dadhānā
+madanamadavikūjatkāntapārśve niṣaṇṇā
+mṛdulamukulajālāsvādavispaṣṭakaṇṭhī
+kalayati sahakāre kākalīṃ kokilālī
+<1.23>
+vidrāvya gopīdhṛtidharmacaryā
+lajjāmṛgīrmānavṛkeṣvamarṣī
+kapotaghūtkāramiṣeṇa śaṅke
+garjatyayaṃ kāmatarakṣurājaḥ
+<1.24>
+rādhādhairyadharādharoddhṛtividhau ke'nye samarthā vinā
+kṛṣṇaṃ kṛṣṇasumattakuñjaravaśīkāre'pyalaṃ śṛṅkhalāḥ
+anyāḥ kā vṛṣabhānujāṃ iha vinā dhanyāṃ atīvādṛtāḥ
+kekāḥ kiṃ samudīrayanti śikhinastau bodhayantaḥ prage
+<1.25>
+hrasvadīrghaplutairyuktaṃ
+kukūkūkū iti svaram
+kukkuṭo'pyapa hatprātar
+vedābhyāsī baṭuryathā
+<1.26>
+atha pakṣiṇāṃ kalakalaiḥ prabodhitāv
+api tau mitho'viditajāgarau tadā
+nibiḍopagūhaṇavibhaṅgakātarau
+kapa ena mīlitadṛśāvatiṣṭhatām
+<1.27>
+vṛndeṅgitajñaḥ sa vicakṣaṇaḥ śukaḥ
+śuko yathā bhāgavatārthakovidaḥ
+dakṣaḥ prabodhe jagatāṃ prabhorati
+premāspadatvānupamaḥ samabhyadhāt
+<1.28>
+jaya smarāśeṣavilāsavaiduṣī
+niṣṇātagopījanalocanāmṛta!
+prāṇapriyāpremadhunīmataṅgaja!
+svamādhurīplāvitalokasaṃhate
+<1.29>
+priyādharāsvādasukhe nimajjasi
+prabudhyase netyucitaṃ rasāmbudhe!
+riraṃsutāyāṃ viriraṃsureva te
+kiñcādhuneyaṃ kṣaṇadā kṣaṇaṃ dyati
+<1.30>
+jahīhi nidrāṃ ślathayopagūhanaṃ
+vrajaṃ pratiṣṭhāsuraraṃ prabho! bhava
+prātarbabhūvānusara svacāturīṃ
+pracchannakāmatvaṃ athorarīkuru
+<1.31>
+jaya vrajānandana! nandacetaḥ
+payodhipīyūṣamayūkha! deva!
+goṣṭheśvarīpuṇyalatāprasūna!
+prayāhi gehāya dhinu svabandhūn
+<1.32>
+gokulabandho! jaya rasasindho!
+jāgṛhi talpaṃ tyaja śaśikalpam
+prītyanukūlāṃ śritabhujamūlāṃ
+bodhaya kāntāṃ ratibharatāntām
+<1.33>
+udayaṃ prajavādayaṃ etyaruṇas
+taruṇīnicaye sahajākaruṇaḥ
+nibhṛtaṃ nilayaṃ vrajanātha! tatas
+tvarito' a kalindasutāta ataḥ
+<1.34>
+śārī śubhā sā'tha jagāda sūkṣmadhīḥ
+śārī yathā devanasammatasthitiḥ
+jayeśvari! svīyavilāsasaubhaga
+śrītarṣitaśrīmukhamukhyayauvate
+<1.35>
+kamalamukhi! vilāsāyāsagāḍhālasāṅgī
+svapiṣi sakhi! niśānte yattavāyaṃ na doṣaḥ
+digiyaṃ aruṇitaindrī kintu paśyāvirāsīt
+tava sukhaṃ asahiṣṇuḥ sādhvi! candrāsakhīva
+<1.36>
+śeṣe'dhunā yadrativallabhāsya
+rājīvarājanmadhupānamattā
+asāmprataṃ tatkhalu sāmprataṃ te
+prātastato jāgarayāmyahaṃ tvām
+<1.37>
+kṛṣṇo'pyanidraḥ priyayopagūḍhaḥ
+kāntā'pyanidrā'pyamunopagūḍhā
+talpātprabhātākulaṃ apyanalpān
+notthātuṃ etanmithunaṃ śaśāka
+<1.38>
+kṛṣṇasya jānūpariyantritasannitambā
+vakṣaḥsthale dhṛtakucā vadane'rpitāsyā
+kaṇṭhe niveśitabhujā'sya bhujopadhānā
+kāntā na hīṅgati manāgapi labdhabodhā
+<1.39>
+śrīkṛṣṇalīlāracanāsu dakṣas
+tatpremajānandaviphullapakṣaḥ
+dakṣākhya āha śritakuñjakakṣaḥ
+śukaḥ samadhyāpitakīralakṣaḥ
+<1.40>
+ekaṃ prācyāṃ aruṇakiraṇāpā alāyāṃ vidhatte
+cakṣuḥ kānte tvaritaṃ aparaṃ dūrage cakravākī
+śaṅkākrāntāstarukuharagā mūkatāṃ yānti ghūkāḥ
+śaṅke bhāsvānudayaṃ udagātkṛṣṇa! nidrāṃ jahīhi
+<1.41>
+jaya jaya guṇasindho! preyasīprāṇabandho!
+vrajasarasijabhāno! satkalāratnasāno!
+iha hi rajanīśeṣe kiṃ manā nātha! śeṣe
+samayaṃ avakalayāpīṣyate kuñjasayyā?
+<1.42>
+ayaṃ api ca śikhaṇḍī jāgaritvaiva khaṇḍī
+kṛtasulalitakekaḥ kālaniṣṭhāvivekaḥ
+pramilati tava nidrāhānaye'dhīdaridrāḥ
+śiva śiva nijasevākālaṃ ujjhanti ke vā?
+<1.43>
+vṛndāvaktrādadhigatavidyā
+sārī hārīkṛtabahupadyā
+rādhāsnehoccayamadhumattā
+tasyā nidrāpanayanayattā
+<1.44>
+nidrāṃ jahīhi vijahīhi nikuñjaśayyāṃ
+vāsaṃ prayāhi sakhi! nālasatāṃ prayāhi
+kāntaṃ ca bodhaya na bodhaya lokalajjāṃ
+kālocitāṃ hi kṛtinaḥ kṛtiṃ unnayanti
+<1.45>
+vrajapatitanayāṅkāsaṅgato vītaśaṅkā
+vidhumukhi! kimu śeṣe nirbharaṃ rātriśeṣe?
+pramadamadhupapuñje mā paraṃ tiṣṭha kuñje
+na gaṇayasi vigarhāṃ kiṃ guruṇāṃ anarhām?
+<1.46>
+sudati! kumudinīnāṃ aṅkaṃ āsādya līnā
+madamadhukaramālā kālaṃ āsādya lolā
+sarati kamalinīnāṃ rājiṃ etāṃ adīnāṃ
+bhavati samaya eva glāniharṣādidevaḥ
+<1.47>
+viyadatilaghutāraṃ tvadvapuḥ kṣuṇṇahāraṃ
+vigalitakusumānāṃ varṣma śephālikānām
+tritayaṃ idaṃ idānīṃ ekarūpaṃ tadānīm
+api yadapi tathāpi tvadvapuḥ śrībhirāpi
+<1.48>
+tru itapatitamuktāhāravatte viyuktā
+bhavaduḍutatireṣā svalpamātrāvaśeṣā
+ciraśayanaṃ avekṣyārundhatī te vilakṣyā
+bhavadiva parivakre paśya saptarṣicakre
+<1.49>
+iti kalavacanānāṃ śārikāṇāṃ śukānāṃ
+rutaṃ atiśayaramyaṃ śrotrapeyaṃ niśamya
+vihitaśayanabādhā sā jajāgāra rādhā
+prathamaṃ atha sa kṛṣṇaḥ svāpalīlāvitṛṣṇaḥ
+<1.50>
+yugapadubhayanidrābhaṅgavidhvastamudrā
+yugapadubhayanetrāpāṅgabhaṅgī vicitrā
+yugapadubhayaghūrṇājātasaṃkleśapūrṇā
+bhavadubhayavilokābhāvataḥ prāptaśokā
+<1.51>
+kalakvaṇatkaṅkaṅanūpuraṃ jabād
+atyucchaladgātrayugacchavicchaṭām
+vyastālakāgrāvaliveṣṭanonnamat
+tā aṅkahāradyutidīpitānanam
+<1.52>
+srastāṃśukānveṣaṇasaṃbhramodayād
+itastato nyastakarābjamañjulam
+śayyotthitaṃ kelivilāsinostayos
+trailokyalakṣmīṃ iva sañcikāya tam
+<1.53>
+ghūrṇālasākṣaṃ ślathasarvagātraṃ
+viśrastakeśaṃ rasikadvayaṃ tat
+bhugnopaveśaṃ skhalane kathaṃ cid
+anyonyaṃ ālambanatāṃ prapede
+<1.54>
+anyonyagrathitāṅgulīkisalayāṃ unnīya bāhudvayīṃ
+jṛmbhārambhapuraḥsaraṃ vidadhatī gātrasya saṃmo anam
+mīlannetraṃ urojayornakhapadavyādānadīnānanā
+nānāneti punarnakhakṣatadhiyā sā kṛṣṇapāṇī dadhe
+<1.55>
+saṅgopāya pa āñcalena tanunā niḥsāridantāvalī
+jyotsnābhiḥ snapitena dakṣiṇakarākṛṣṭena vaktrāmbujam
+līlollāsitakandharaṃ mṛdukalairvāmāṅguliccho ikā
+niḥsvānaiścalakaṅkaṇasvanasakhaiḥ śrīrādhikā'jṛmbhata
+<1.56>
+alasavalitaṃ ūrdhvīkṛtya mūrdhopakaṇṭhe
+valayitaṃ idaṃ anyonyena saṃsaktapāṇi
+trikavicalanabhaṅgisaṅgi mo āyitāyāḥ
+paridhiriva mukhendorbhāti dordvandvaṃ asyāḥ
+<1.57>
+utthāyeśaḥ sanniviṣṭo'tha talpe
+vyājānnidrāśālinīṃ mīlitākṣīm
+dorbhyāṃ kāntāṃ svāṅkaṃ ānīya tāntāṃ
+paśyatyasyā mādhurīṃ sādhurīti
+<1.58>
+ghūrṇāyamānekṣaṇakhañjarī aṃ
+lalā alolālakabhṛṅgajālam
+mukhaṃ prabhātābjanibhaṃ priyāyāḥ
+papau dṛśeṣatsmitaṃ acyuto'sau
+<1.59>
+saṃśliṣṭasarvāṅgulibāhuyugmam
+unmathya dehaṃ parimo ayantīm
+udbuddhajṛmbhāsphuṭadantakāntim
+ālokya kāntāṃ mumude mukundaḥ
+<1.60>
+tadaiva jṛmbhottharadāṃśujāla
+māṇikyadīpairnirarājayatkim
+sanidraṃ unmudradṛgantalakṣmī
+rasajñayānyonyavilihyamānam
+<1.61>
+svīyāṅkottānasuptāṃ uṣasi mṛdu mṛṣā rodaneṣatsmitāsyām
+ardhonmuktāgrakeśāṃ vimṛditakusumasragdharāṃ chinnahārām
+unmīlyonmīlya ghūrṇālasanayanayugaṃ svānanālokanotkāṃ
+kāntāṃ tāṃ kelitāntāṃ mudaṃ atulatamāṃ āpa paśyanvrajenduḥ
+<1.62>
+hemābjāṅgyāḥ prabalasuratāyāsajātālasāyāḥ
+kāntasyāṅke nihatavapuṣaḥ snigdhatāpiñchakānteḥ
+śampākampā navajaladhare sthāsnutāṃ cedadhāsyat
+śrīrādhāyāḥ sphuṭaṃ iha tadā sāmyakakṣāṃ avāpsyat
+<1.63>
+sphuranmakarakuṇḍalaṃ madhuramandahāsodayaṃ
+madālasavilocanaṃ kamalagandhi lolālakam
+mukhaṃ svadaśanakṣatāñjanamalīmasauṣṭhaṃ hareḥ
+samīkṣya kamalekṣaṇā punarabhūdvilāsotsukā
+<1.64>
+parasparālokanajātalajjā
+nivṛttacañcaddarakuñcitākṣam
+īṣatsmitaṃ vīkṣya mukhaṃ priyāyā
+uddīptatṛṣṇaḥ punarāsa kṛṣṇaḥ
+<1.65>
+vāmena cādhaḥ śira unnamayya
+kareṇa tasyāścibukaṃ pareṇa
+vibhugnakaṇṭhaḥ smitaśobhigaṇḍaṃ
+mukhaṃ priyāyāḥ sa muhuścucumba
+<1.66>
+kāntādharasparśasukhābdhimagnā
+karaṃ dhunānā darakuñcitākṣī
+mā meti mandākṣarasannakaṇṭhī
+sakhīdṛśāṃ sā mudaṃ ātatāna
+<1.67>
+rūpāmṛtaṃ me trijagadvilakṣaṇaṃ
+niḥsīmamādhuryaṃ idaṃ ca yauvanam
+adyaiva sāphalyaṃ avāpa sarvathā
+preyānupābhuṅktatamāṃ mudā yataḥ
+<1.68>
+saivaṃ vicintya kṣaṇaṃ āha kāntaṃ
+tadakṣipītākhilamādhurīkā
+svāntarmudātyarthalasaddṛganta
+lakṣmīvihārāyatanāsyapadmam
+<1.69>
+bho bho vilāsinnavadhehi yattvayā
+visrastaveśābharaṇāsmyahaṃ kṛtā
+yāvanmadālyo'nusaranti noṣasi
+drutaṃ samādhitsasi tanna kiṃ punaḥ
+<1.70>
+svacāturīṃ sādhaya māṃ prasādhaya
+prasādayānaṅgaṃ abhīṣṭadaivatam
+yo'smanmanomandiravartyayaṃ tvayā
+bahiṣkṛto lakṣmabhirebhireva yat
+<1.71>
+satyaṃ bravīṣyaṅgajaṃ iṣṭadevaṃ
+tvadaṅgapīṭhe prakaṭībhavantam
+yajāmi bhūṣāmbaragandhapuṣpaṃ
+srakcandanādyairiti tāṃ sa ūce
+<1.72>
+itthaṃ īśvaryā vākyaṃ hi
+śrutvā sevanapeśalā
+tadupayogivastūni
+samarpayituṃ utsukā
+<1.73>
+dvāraṃ samunmucya manāganāravaṃ
+śanaiḥ padanyāsaviśeṣamañjulā
+nirṇīta tajjāgaraṇātha kiṅkarī
+tatirviśaṅkā praviveśa veśma sā
+<1.74>
+itastato nyastamaṇipradīpān
+aphullanīlotpalacampakābhān
+vidhatta etau svamayūkhavṛndair
+anāvṛtairmaṇḍanamālyacelaiḥ
+<1.75>
+mitho daśanavikṣatādharapu au vilāsālasau
+nakhāṅkitakalevarau galitapatralekhāśriyau
+ślathāmbarasukuntalau tru itahārapuṣpasrajau
+muhurmumudire puraḥ samabhilakṣya tāḥ svapriyau
+<1.76>
+athāmunā kaṅkatikāṃ śanaiḥ śanair
+vikarṣatā bhānumatīkarārpitām
+kacāvalī saṃstriyate sma mālatī
+mālotaveṇīracanāpaṭīyasā
+<1.77>
+kastūrikācandanakuṅkumadravaiḥ
+sambhāvitaistāṃ anurāgalekhayā
+cakāra mālāñcitacārucitrakāṃ
+sa citracuñcurdhṛtanavyavartikaḥ
+<1.78>
+tā aṅkayugmena lavaṅgamañjarī
+sampāditāpūrvarucā sa cāruṇī
+ānarca tasyāḥ śravaṇe navāñjane
+nānañjakañjapratiṃ etadakṣinī
+<1.79>
+dadhāra hāraṃ rucimañjarīlitaṃ
+yadā tadoce priyayā madoddhuram
+yā khaṇḍitā candanakañculī tvayā
+vakṣojayostāṃ na kutaścikīrṣasi?
+<1.80>
+ālekhyakarmaṇyatigarvadhāriṇīs
+tāstā viśākhāprabhṛtīrbhavatsakhīḥ
+vismāpayāmyadya kucadvaye kṛtaiś
+citrairvicitrairiti tāṃ jagāda saḥ
+<1.81>
+prasādhanārthapratipādanonmukha
+śrīrūpalīlāratimañjarīmukhaḥ
+stanadvayaṃ tulikayāṅkayanhari
+pañceṣupañceṣuśaravyatāṃ agāt
+<1.82>
+pāṇiśca kampe yadi vakrarekhaṃ
+citraṃ vilumpannurasā muhuḥ saḥ
+manye smarāgniṃ dhamati sma tasyā
+dhṛtīndhanaṃ dagdhumanā vidagdhaḥ
+<1.83>
+kāmastaṃ avakalpaṃ analpavaibhavaiḥ
+sadyo vidhāyāniyatasthalasthitam
+vimṛjya saṃsṛjya vikhaṇḍya khaṇḍaśas
+tenaiva sollāsaṃ ubhāvabhūṣayat
+<1.84>
+dāsyaśca tāḥ phulladṛśāṃ kṛtārthatāṃ
+mūrtāṃ cirāyābhilaṣantya eva tām
+punā riraṃsū samavetya tau tato
+miṣeṇa sarvā niragūhi kenacit
+<1.85>
+punarapi ghanaghūrṇa śrīmukhadvandvayogād
+acaṭulabhujavallīveṣṭaneneṣṭabhāsau
+kṣaṇaṃ api darasuptyā śaṃ bhajāvetya tastāv
+anṛjukusumatalpe srastagātrāvabhūtām
+<1.86>
+virahavikalayā tacchayyayā dūnayā kiṃ
+kathaṃ api daralabdhāśleṣayā nidrayā vā
+uṣasi na ca vihātuṃ hanta śaktau khagāstau
+tadapi vidadhurābhyāṃ viprayuktau svanantaḥ
+<1.87>
+agaṇitakulaniṣṭhā mā nikuñje śayiṣṭhāḥ
+parihara surataghnaṃ svāpaṃ udgaccha śīghram
+samajani saviśeṣaḥ paśya doṣāvaśeṣaḥ
+kuru na gatasamādhāṃ bandhuvargasya bādhām
+<1.88>
+iyaṃ ajani digaindrī dṛśyatāṃ devi! sāndrī
+bhavadaruṇimadhārā tvatpādābjānukārā
+iyaṃ api ca varākī satvarā cakravākī
+parimilita rathāṅge jātavicchedabhaṅge
+<1.89>
+api tava mukhaśobhāṃ āptukāmo'tilobhād
+aparikalitakāmaḥ svaṃ vapustyaktukāmaḥ
+caramaśikhariśṛṅgaṃ prāpya paśyaiva tuṅgaṃ
+vrajati śaśadharo'staṃ vārayedadya kastam
+<1.90>
+sumukhi! nayanamudrāṃ muñca nirdhūya nidrāṃ
+kalaya vadanamāsāṃ vidyududdyotabhāsām
+rativigalitabhūṣāṃ vyastaparyastaveṣāṃ
+vilulitatanuṃ etāstvāṃ bhajantāṃ sametāḥ
+<1.91>
+nijakaraparipuṣṭā paśya seyaṃ praviṣṭā
+śaśimukhi! lalitāṅgī sannidhau te kuraṅgī
+kuru sakṛpaṃ apāṅge kiñcidañcattaraṅge
+bhavatu bata kṛtārthā prītaye te samarthā
+<1.92>
+navakiśalayabuddhyā jātito'ntarviśuddhyā
+ruṇapadakamalaṃ te svādituṃ kṛṣṇakānte!
+tvaritaṃ upasarantī tvatsakhīnāṃ vahantī
+karasarasijaghātaṃ yā vidhatte prayātam
+<1.93>
+śaśimukhi! tava phelāmātrabhoge sakhelā
+tava padajalapānāmodamātrāvadhānā
+api bhavadavalokābhāvasañjātaśokā
+tava mukhaśaśibimbālokamātrāvalambā
+<1.94>
+hariratikutukī te netrayugmaṃ mimīte
+nayanayugaṃ amāyaprema yasyāḥ pramāya
+kiṃ api vimalamuktāmālayā cāruvaktā
+niyataṃ upamimānaḥ saṃśayaṃ nirdhunānaḥ
+<1.95>
+iti nigaditavatyaḥ śārikāḥ premavatyaḥ
+sukhadapadapadārthāṃ vācaṃ utthāpanārthām
+yadi kiṃ api viremuḥ patriṇastaṃ praṇemuḥ
+samupasṛtanikuñjāḥ prāptasammodapuñjāḥ
+<1.96>
+atha śayanasatṛṣṇaṃ bodhayāmāsa kṛṣṇaṃ
+vitatirapi śukānāṃ kṛṣṇaharṣotsukānām
+śravaṇasukhadasoṃyaiḥ snigdhaśabdārtharamyaiḥ
+sarasataraṃ analpaiḥ kūjitaiḥ sīdhukalpaiḥ
+<1.97>
+praṇayarasagabhīrāścāruśabdārthadhīrāḥ
+kalasumadhurakaṇṭhāḥ premajalpeṣvakuṇṭhāḥ
+sati samayaviveke bodhayāṃ cakrureke
+na khalu bata vidagdhāḥ kāryakāle vimugdhāḥ
+<1.98>
+subhaga! rajaniśeṣe svāpagehe suśeṣe
+tvaṃ iti hi jananī te saṃśayaṃ svaṃ dhunīte
+samayaṃ atha viditvā jāgarārthaṃ tvaritvā
+svayaṃ iyaṃ upagantrī sneha evātra mantrī
+<1.99>
+tvaṃ asi samayavettā sarvaduḥkhaikabhettā
+bhavasi bhuvanabandhuḥ sadguṇagrāmasindhuḥ
+vratatibhavanatalpaṃ mūrtimanmodakalpaṃ
+yadapi tadapi muñca svasti te'smādudañca
+kṛṣṇāhnikakaumudī 1.22)
+<1.100>
+madamadhupayuvānaḥ prāptadoṣāvasānaḥ
+cyutakusumavanāntaḥ svāpaṃ udyātavantaḥ
+dadhati katipayathyāṃ keliṃ ambhojavīthyāṃ
+sati samayaviveke ke vimuhyanti loke?
+<1.101>
+kvacana mukhaviṣādaḥ kvāpi hāsaprasādaḥ
+kva ca dayitaviyogaḥ kvāpi kāntasya yogaḥ
+kumudakamalavīthyorvaisadṛśye'titathye
+bhavati kimu na kālaḥ kṣobhaśobhāviśālaḥ
+<1.102>
+jaya subhaga! namaste śrūyatāṃ satvaraste
+ciraśayanasapīḍaḥ kautyayaṃ tāmracūḍaḥ
+upanatanijasevākālasammodapīvā
+nahi samayavidagdhaḥ kāryakāle vimugdhaḥ
+<1.103>
+atha prabudhyaiva vidhūya pakṣān
+grīvāḥ samunnīya cukūjuruccaiḥ
+yatkukkuṭāḥ pañcaṣavāraṃ ādau
+rādhā jajāgāra tadāptabādhā
+<1.104>
+kṛṣṇāṇgasaṃśleṣaviśeṣavādhinas
+tāneva matveti śaśāpa sā ruṣā
+are! paretāśu paretarā puraṃ
+tatraiva kiṃ kūjata no padāyudhāḥ?
+<1.105>
+viśliṣya kiñcitpriyavakṣasaḥ sā
+tūṣṇīṃ sthitāṃstānupalabhya sadyaḥ
+saṃśliṣya kāntaṃ daranidrayaiva
+niṣevyamāṇā punarapyarājīt
+<1.106>
+jālādatho dṛksapharī tadālayo
+lāvaṇyavanyā bhṛśaṃ anvaśīlayan
+krīṇanti yāḥ prāṇaparārddhakoṭibhis
+tayoḥ pramodottharucicchaṭākaṇam
+<1.107>
+ūce viśākhā kalayāli! kāntau
+niraṃśukāvaṃśukapuñjamañjū
+vihāriṇāvapyatihāriṇau svair
+aṅgairanaṅgairalasau lasantau
+<1.108>
+anaṅgadau kelivaśādanaṅgadau
+nirañjanau hanta mitho nirañjanau
+visrastarāgādharatābhilakṣitau
+viprastarāgādharatābhilakṣitau
+<1.109>
+athāvabhāṣe lalitā'vadhāryatāṃ
+jayaḥ smarājau katarāśrito dvayoḥ
+babhūva daṣṭādharayoḥ kacagraha
+vyākṣiptamūrdhnornakharakṣatorasoḥ
+<1.110>
+hṛdo'nurāgaṃ kucakuṅkumacchalān
+nyadhatta rādhācyutapādapadmayoḥ
+yāvadravāraktatarālako dadhau
+mūrdhnaiva so'syāḥ padayostaṃ ujjvalaṃ
+<1.111>
+itthaṃ kṣaṇaṃ tāvadalakṣitāṅgyo
+nīcaiḥ svaraṃ tāvanuvarṇayantyaḥ
+bhāgyaṃ svaṃ evātisabhājayantyo
+mamajjurānandamahodadhau tāḥ
+<1.112>
+tataḥ punastānatha i ibhādī
+nūtkūjataḥ prāha vidhūtatandrā
+haṃho! kṣamadhvaṃ śayituṃ kṣaṇaṃ me
+datteti sā mo ayadaṅgaṃ īṣat
+<1.113>
+kādambakāraṇḍavahaṃsasārasāḥ
+kapotaśārīśukakekikokilāḥ
+jaguḥ kalaṃ kelivanījalasthala
+pracāriṇaḥ kṛṣṇakathāmṛtopamam
+<1.114>
+prabuddhya kāntau yugapadyathā rujaṃ
+viśleṣajāṃ ūhaturaṅgamo anāt
+cāmpeyanīlābjadhanustviṣau tathā
+sāndropagūhena mudaṃ ca vakṣasoḥ
+<1.115>
+athāsyā vayasyāḥ pramodātsmitāsyāḥ
+sakhīṃ tāṃ hasantyo mithaḥ prerayantyaḥ
+saśaṅkāḥ samantātprabhātāddurantāt
+praviṣṭā nikuñjaṃ saśabdālipuñjam
+<1.116>
+abhilakṣya sakhīrvihasad vadanāḥ
+savidhopagatā vicalannayanāḥ
+dayitāya mudaṃ dviguṇaṃ dadatī
+dayitoruyugādudatiṣṭhadiyam
+<1.117>
+tvarotthitā sambhramasaṃgṛhīta
+pītottarīyeṇa vapuḥ pidhāya
+pārśve priyasyopaviveśa rādhā
+salajjaṃ āsāṃ mukhaṃ īkṣamāṇā
+<1.118>
+athānuraktālyanumodanāñcitā
+mudā tayoraidhata rūpamañjarī
+saiva svayaṃ kelivilāsinordvayos
+tadātvaramyāpacitau paṭīyasī
+<1.119>
+pṛṣṭhopadhānaṃ nidadhe kayācana
+pyadhādathānyā mṛdulāṃśukena tau
+pīyūṣava yārpitayāsyayoḥ parā
+nirasya ghūrṇāṃ vikasaddṛśau vyadhāt
+<1.120>
+kācitprasūnāmbudarārdravāsasā
+vyatyastarāgāñjanayāvakādikam
+mṛṣṭvā pratisvekṣaṇasiddhaye tayor
+mukhadvayaṃ darpaṇatāṃ nināya kim
+<1.121>
+tāmbūlavī īrnidadhe parāsminn
+ekā pa imnā maṇidīpapālyā
+tanmaṅgalārātrikaṃ āśu cakre
+nīrājayantyeva nijāsulakṣaiḥ
+<1.122>
+madhye'cyutāṅgaghanakuṅkumapaṅkadigdhaṃ
+rādhāṅghriyāvakavicitritapārśvayugmam
+sindūracandanakaṇāñjanabinducitraṃ
+talpaṃ tayordiśati keliviśeṣaṃ ābhyaḥ
+<1.123>
+pramliṣṭapuṣpoccayasanniveśāṃ
+tāmbūlarāgāñjanacitritāṅgīm
+vyaktībhavatkāntavilāsacihnāṃ
+śayyāṃ apaśyansvasakhīṃ ivālyaḥ
+<1.124>
+kvacana ghusṛṇapaṅkaḥ kvāpi sindūrajo'ṅkaḥ
+kṣatavirahavipakṣaprasnutāsṛksapakṣaḥ
+kvacana kusumadāmacchinnakodaṇḍadhāma
+kva ca vilulitahāraśchinnamaurvīprakāraḥ
+<1.125>
+kvacana mṛgamadāṅkāḥ kutracitkajjalāṅkāḥ
+smaranarapatidanticchedakalpāḥ sphuranti
+sa hi ratiraṇaraṅgaḥ kautukodyattaraṅgaḥ
+samajani sumukhīnāṃ āgatānāṃ sakhīnām
+<1.126-127>
+vakṣaḥ svaṃ darśayaṃstābhyo
+dṛgbhaṅgyovāca tā hariḥ
+didṛkṣuḥ svapriyāvaktra
+bhāvaśābalyamādhurīm
+vidhuṃ prayāsyantaṃ avekṣya kāntaṃ
+viśleṣabhītoṣasi paśyatālyaḥ
+didṛkṣayevāmbaracitrapa yāṃ
+rādhendulekhāśataṃ ālilekha
+<1.128>
+iti nigadati kṛṣṇe vīkṣya sāgre vayasyāḥ
+prahasitavadanāstāḥ saṅkucallolanetrā
+vikasadamalagaṇḍaṃ dolitārecitabhrūḥ
+priyaṃ anṛjukaṭākṣaiḥ paśyati sma ghnatīva
+<1.129>
+helollāsādaramukulitā vāspasāndrāruṇāntā
+lajjāśaṅkācapalacakitā bhaṅgurerṣyābhareṇa
+smerasmerā dayitavadanālokanotphullatārā
+rādhādṛṣṭirdayitanayanānandaṃ uccairvyatānīt
+<1.130>
+itthaṃ mithaḥ premasukhābdhimagnayoḥ
+pragetanīṃ vibhramamādhurīṃ tayoḥ
+nipīya sakhyaḥ pramadonmadāstadā
+tadātvayogyācaraṇaṃ visasmaruḥ
+<1.131>
+vilokya līlāmṛtasindhumagnau
+tau tāḥ sakhīśca praṇayonmadāndhāḥ
+vṛndā prabhātodayajātaśaṅkā
+nijeṅgitajñāṃ nidideśa sārīm
+<1.132>
+gurulajjābhartṛbhīti
+lokahāsanivārikā
+śubhākhyā sārikā prāha
+rādhikābodhasādhikā
+<1.133>
+āgantā grāhayitvā tava patiradhunā goṣṭhataḥ kṣīrabhārān
+uttiṣṭhottiṣṭha rādhe tadiha kuru gṛhe maṅgalāṃ vāstupūjāma
+itthaṃ yāvaddhavāmbā tava nahi śayanādutthitā vāvadīti
+tāvacchayyāniketaṃ vraja sakhi nibhṛtaṃ kuñjataḥ kañjanetre!!
+<1.134>
+śaṅkāpaṅkākalitahṛdayā śaṅkate'syā dhavāmbā
+chidrānveṣī patiratika uḥ sārthanāmābhimanyuḥ
+ruṣṭābhīkṣṇaṃ parivadati sā hā nanandāpi mandā
+prātarjātaṃ tadapi saralāṃ kṛṣṇa naināṃ jahāsi
+<1.135>
+sārīvacomandaraśailapāta
+saṃkṣubdhahṛddugdhapayodhireṣā
+athodbhramannetranavīnamīnā
+viyogadīnā śayanādudasthāt
+<1.136>
+kṛṣṇo'pi kāntaṃ vṛṣabhānujāyāḥ
+paśyanmukhaṃ bhītivilolanetram
+nīlaṃ sucīnaṃ dayitānicolaṃ
+gṛhṇansvatalpāttvarayodatiṣṭhat
+<1.137>
+parivartitasaṃvyānau
+mithastāvatha śaṅkitau
+parasparakarālambau
+niragātāṃ nikuñjataḥ
+<1.138>
+rādhāpāṇiṃ savye'savye
+pāṇau bibhradveṇuṃ kṛṣṇaḥ
+reje kuñjānniryanyadvad
+vidyunmālāśliṣṭāmbhodaḥ
+<1.139>
+haimaṃ bhṛṅgāraṃ ekā vyajanaṃ atha parā svarṇadaṇḍaṃ dadhānā
+kāpyādarśaṃ sudarśaṃ ghusṛṇamalayajā'matraṃ anyā vicitram
+kācittāmbūlapātraṃ maṇicitaṃ aparā sārikāṃ pañjarasthām
+itthaṃ sakhyaḥ kiyatyāḥ pramuditahṛdayā niryayuḥ kuñjagehāt
+<1.140>
+māhendrakāntacchadanaṃ sakāñcanaṃ
+dāntaṃ sasindūrasamudgakaṃ parā
+āpannasatvākucaku malopamaṃ
+kuñjādgṛhītvā niragānmṛdusmitā
+<1.141>
+āśleṣasañchinnaguṇātparicyutaṃ
+hārāllasanmauktikasañcayaṃ mudā
+vicitya kācitsvapa āñcale dṛḍhaṃ
+nibadhnatī kuñjagṛhādviniryayau
+<1.142>
+tā aṅkaṃ kelivibhraṣṭaṃ
+talpādādāya satvarā
+nirgatya sveśvarīkarṇe
+yuyoja ratimañjarī
+<1.143>
+talpaprāntādupādāya
+kañculīṃ rūpamañjarī
+priyanarmasakhī sakhyai
+nirgatya nibhṛtaṃ dadau
+<1.144>
+patadgrāhaṃ upādāya
+dāsikā guṇamañjarī
+tāmbūlaṃ carvitaṃ tābhyo
+vibhajantī bahiryayau
+<1.145>
+mañjulālī tayoraṅgāc
+cyutamālyānulepanam
+talpādādāya sarvābhyaḥ
+prayacchantī vinirgatā
+<1.146>
+vilokyāgre meghāmbaravṛtaśarīraṃ priyatamaṃ
+vayasyāṃ tāṃ pītāmbaraparivṛtāṅgīṃ pramuditām
+hasantyastāḥ sakhyaḥ karapihitamukhyaḥ pratidiśaṃ
+diśantyaścānyonyaṃ ku ilacaladṛgbhirmumudire
+<1.147>
+samīkṣya tāsāṃ parihāsabhaṅgīm
+anyonyavaktrārpitaphullanetrau
+samucchalatpremasukhābdhimagnau
+citrārpitāṅgāviva tāvabhūtām
+<1.148>
+ghanaśyāmaṃ cīnaṃ vasanaṃ abhilīnaṃ priyatanau
+kṣamā nāsītkāntā svaṃ api paricetuṃ ghanarucau
+svaṃ ajñāsītsphītaṃ harirapi na pītaṃ priyatamā
+tanau līnaṃ cīnaṃ kanakaruci kambāviva payaḥ
+<1.149>
+tayorlīlāsudhāpāna
+pratyūhāmarṣasaṅkulā
+nindantyaruṇaṃ udyantam
+athāha lalitā sakhīm
+<1.150>
+ūṣasi varavadhūnāṃ paśya rādhe'ruṇo'yaṃ
+ramaṇasahitalīlābhaṅgataḥ pāparugbhiḥ
+galitapadayugo'pyadyāpi tanno jahāti
+dhruvaṃ iti vacanaṃ yaddustyajaḥ svasvabhāvaḥ
+<1.151-152>
+aruṇāruṇe nidadhatī tato'mbare
+ratikelibhaṅgajaruṣā'ruṇāṃ dṛśam
+lalitopahāsajanitasmitānanā
+vṛṣabhānujāha mṛdumañjubhāṣiṇī
+anūrurapyastamayankṣaṇārddhān
+nabho vilaṅghyodayaṃ eti so'yam
+cetsoruṃ enaṃ sa vidhirvyadhāsyad
+vārttāpi rātrerna tadābhaviṣyat
+<1.153-154>
+manoramāṃ vīkṣya vibhātalakṣmīṃ
+nipīya tasyā vacanāsavaṃ ca
+mudonmanā vismṛtagoṣṭhayānaḥ
+prāṇeśvarīṃ tāṃ avadanmukundaḥ
+inaṃ prabhātopagataṃ samīkṣya
+kānteva kāntāntarabhuktakāntam
+paśyānyadiksaṅgakaṣāyitāṅgaṃ
+prācīyaṃ īrṣyāruṇiteva jātā
+<1.155>
+paśyonmatte dvijeśo'pyakhilajanatamastomahantāpi śāntaḥ
+kānto'yaṃ te samantātsapadi nipatito vāruṇīṃ saṃniṣevya
+itthaṃ svīyenasaṅgapramuditanalinīhāsasañjātalajjā
+śaṅke vaktraṃ pidhatte hyuṣasi kumudinī saṅkucadbhirdalaiḥ svaiḥ
+<1.156>
+dṛṣṭvā tamaḥkṣayaṃ amī vidhunānyapuṣṭā
+naktaṃ tamaścayanibhāścakitāḥ prabhāte
+mitraṃ tadāśrayatayā tamasā carantīṃ
+grastaṃ kuhūriti kuhūṃ svagirāhvayanti
+<1.157>
+vasantakāntasaṃsarga
+jātānandabharā avī
+kapotīghūtkṛtimiṣāt
+śītkarotīva sonmadā
+<1.158>
+paśyānusarati cañcalabhṛṅgaḥ
+kairaviṇīkulakelipiśaṅgaḥ
+nalinīkoṣe niśi kṛtasaṅgāṃ
+bhṛṅgīṃ śaśimukhi! kṛtanatibhaṅgām
+<1.159>
+kāntaṃ āyāntaṃ āśaṅkyā
+ruṇāṃśudviguṇāruṇam
+kokī kokanadaṃ cañcvā
+cumbatyānandavihvalā
+<1.160>
+kalasvanākhyaḥ kalakaṇṭhi! haṃsaḥ
+samīkṣya nau sammadaphullapakṣaḥ
+riraṃsuṃ apyeṣa visṛjya haṃsīṃ
+ta aṃ ta inyāḥ purataḥ sameti
+<1.161>
+svasahacaravisṛṣṭaṃ svāmibhuktaṃ mṛṇālaṃ
+madakalakalakaṇṭhī vibhratī paśya cañcvā
+ramaṇaṃ anu sameti tvanmukhābjārpitākṣī
+sarasijamukhi nāmnā tuṇḍiketī marālī
+<1.162>
+malayaśikharacārī paṅkajāmodadhārī
+vratatina akumārīlāsyaśikṣādhikārī
+vahati jalavihārī vāyurāyāsadārī
+sa ramaṇavaranārīsvedajālāpahārī
+<1.163>
+itīśayoḥ sumadhuravāgvilāsayoḥ
+samīkṣya tāṃ svabhavanayānavismṛtam
+sakhīśca tāḥ smitarucirā mudonmadā
+vaneśvarī divasabhiyāsa sonmanāḥ
+<1.164>
+kāntā udīyurvikasanmukhendavo
+rātrirgatā cāstaṃ apāstacandrikā
+vilāsabhaṅgaḥ kathaṃ astu nāstu vā
+kṣaṇaṃ hṛdaiveti parāmamarśa sā
+<1.165>
+tamāṃsya naśyannabhito yathā yathā
+tadā prakāśaśca yathā yathaidhata
+tathā tathā hṛdrujaṃ eva sānvabhūd
+vrajasya rītiṃ śrutayo'pi no viduḥ
+<1.166>
+atha vṛndeṅgitābhijñā
+samayajñā tarusthitā
+padyaṃ udyotayāmāsa
+kakkha ī vṛddhamarka ī
+<1.167>
+raktāmbarā satāṃ vandyā
+prātaḥsandhyā tapasvinī
+ūrdhvaprasarpadarkāṃśur
+jaṭileyaṃ upasthitā
+<1.168>
+ākarṇya tābhirjaṭileti varṇa
+trayīṃ vivarṇatvaṃ adhāri sadyaḥ
+vilāsaratnākaraṃ udbhavantī
+śaṅkaiva tāsāṃ culukīcakāra
+<1.169>
+pathi piśunamatibhyaḥ śaṅkamānau gurubhyaḥ
+calacakitataraṅgau nikṣipantāvapāṅgau
+paramaguṇagabhīrau kāmasaṃgrāmadhīrau
+yayatū rativitandrau rādhikākṛṣṇacandrau
+<1.170>
+na pathi na bhavane vā lakṣitau tau vane vā
+sahajasadanuraktyā svīyayānandaśaktyā
+parijananayanānāṃ utsavānādadhānāv
+atha pathi viharantau rejaturlokakāntau
+<1.171>
+bhraśyaddukūlacikurasrajaṃ unnayantau
+bhītau pṛthaggahanavartmani cāpayāntau
+tau vīkṣya bhītitaralau jaṭileti nāmnā
+sakhyastatastata itaścakitā nirīyuḥ
+<1.172>
+vāme candrāvaliparijanānghoṣavṛddhānpurastāt
+kṛṣṇaḥ paścātku ilajaṭilāṃ āgatāṃ manyamānaḥ
+yāntīṃ kāntāṃ sabhayacaṭulāṃ dakṣiṇe draṣṭuṃ utkaś
+cañcadgrīvaṃ diśi diśi dṛśau prerayangoṣṭhaṃ āyāt
+<1.173>
+mlānāṃ utkṣipya mālāṃ tru itamaṇisaraḥ kajjalaṃ vibhradoṣṭhe
+saṃkīrṇāṅgo nakhāṅkairdiśi diśi vikiranghūrṇite netrapadme
+paśya mlānāṅgayaṣṭiḥ sphuṭaṃ aparicito gopagoṣṭhībhiragre
+goṣṭhe goṣṭhendrasūnuḥ praviśati rajanau dhvaṃsaṃ āsādayantyām
+<1.174>
+anugatā jaṭiletyabhiśaṅkinī
+gurunitambakucodvahanākulā
+drutavilambitavalgu yayau vrajaṃ
+karadhṛtāmbarakeśacayeśvarī
+<1.175>
+na vyālādapi sambibheti purataḥ sthāṇoryathā dūrato
+nodvignā karigarjitādapi yathā kākāvalīnisvanāt
+naiveyaṃ timire'pi muhyatitarāṃ kāmaṃ prakāśe yathā
+tanmanye virahe'pi naiva vidhurā kāntasya yoge yathā
+<1.176>
+bhayānurāgoccayadhūmraloladṛk
+tiraskariṇyā pihite manorathe
+nije niveśyaiva hi rūpamañjarī
+gṛhaṃ ninīṣuḥ pathi tāṃ tadanvayāt
+<1.177>
+itastataḥ kṣiptacalekṣaṇāśugair
+bhīdusthahṛdvṛtticayairbha airiva
+agresaraistāṃ ratimañjarī ca sā
+nivārayantyanyajanāṃstadānvayāt
+<1.178>
+tābhirvṛtā vrajajanairavilokitaiva
+veśma praviśya nijatalpaṃ athādhyatiṣṭhat
+preyoviyogavidhurā hi sakhīṃ athāsau
+hṛdvedanāṃ prakaṭaṃ āha sagadgadāśru
+<1.179>
+niḥsārya gehāllalite'dhunaiva māṃ
+praveśayasyapyadhunaiva tatpunaḥ
+kṛṣṇāṅgasaṅgāmṛtasindhumajjana
+pralobhanaivādya vṛthā kṛtā tvayā
+<1.180>
+astācalaṃ yannadhunā vyaloki yaḥ
+sa tigmaraśmiḥ sakhi! pūrvaparvatam
+āroḍhuṃ ākāṅkṣati kiṃ vibhāvarī
+khapuṣpatāṃ adyatanī jagāma kim?
+<1.181>
+dhiṅme śrutiṃ dhigrasanāṃ dṛśaṃ ca dhik
+sadātanautkaṇṭhyabharajvarāturam
+prāpurna pātuṃ lavaṃ apyamuṣya yāḥ
+sausvaryasaurasyasurūpatāmṛtam
+<1.182>
+nirvedapaddhatiṃ apīpa hadeva pūrvaṃ
+yogo'dhunā tu sarale bhavatīṃ viyogaḥ
+ādyo'cyutāmṛtaṃ adarśayadarthaṃ asyā
+anyo'nubhāvayati hā ka ukālakū am
+<1.183>
+itthaṃ sakhīgiraṃ api pratiboddhuṃ eṣā
+naivānurāgaparabhāgavatī śaśāka
+svapne punaḥ kalayituṃ hṛdayādhināthaṃ
+suṣvāpa sā'tha śayane vṛṣabhānuputrī
+<1.184>
+anabhisārikāṃ kāñcitpṛcchantīṃ prati kācidāha
+srastaṃ srastaṃ udañcayatyadhiśiraḥ śyāmaṃ nicolāñcalaṃ
+hastena ślathadurbalena lulitākalpāṃ vahantī tanum
+muktārdhāṃ avarudhya veṇiṃ alasasyande kṣipantī dṛśau
+kuñjātpaśya gṛhaṃ praviśya nibhṛtaṃ śete sakhī rādhikā
+<1.185>
+nirvartya vibhramabharaṃ samaye svadhāmni
+supte'cyute pratilayaṃ śrutayo yatheśam
+līlāvitānanipuṇāḥ saguṇāḥ samīyuḥ
+sakhyo'palakṣyagatayaḥ sadanaṃ yathāsvam
+iti śrībhāvanāsārasaṅgrahe niśāntalīlāsaṅgraho nāma prathamasaṅgrahaḥ
+śrī śrī bhāvanāsārasaṅgrahaḥ
+<2>
+<2.1>
+paśyantīṃ svasutaṃ śaci bhagavatī saṅkīrtane vikṣataṃ
+prātarhā kathaṃ eva te vapuridaṃ sūno babhūva kṣatam
+itthaṃ lālanataḥ svaputravanuṣi vyagrā spṛśantī muhus
+talpājjāgarayāñcakāra yaṃ ahaṃ taṃ gauracandraṃ bhaje
+<2.2>
+bhaktaiḥ sārddhaṃ upāgatairbhuvi nataiḥ śrīvāsaguptādibhiḥ
+pṛcchadbhiḥ kuśalaṃ prage parimilanprakṣālya vaktraṃ jalaiḥ
+puṣpādiprativāsitaiḥ sukathayansvapnānubhūtaṃ kathāṃ
+snātvādyāddhariśeṣaṃ odanavaraṃ yastaṃ hi gauraṃ bhaje
+<2.3>
+mūlasūtra
+rādhāṃ snātavibhūṣitāṃ vrajapayāhūtāṃ sakhībhiḥ prage
+tadgehe vihitānnapākaracanāṃ kṛṣṇāvaśeṣāśanām
+kṛṣṇaṃ buddhaṃ avāptadhenusadanaṃ nirvyūḍhagodohanaṃ
+susnātaṃ kṛtabhojanaṃ sahacaraistāṃ cātha taṃ cāśraye
+<2.4>
+snātānuliptavapuṣaḥ pupuṣuḥ svabhāstan
+nirmālyamālyavasanābharaṇena dāsyaḥ
+prāsya svakāmaṃ anuvṛttiratāstayoryāḥ
+śrīrūpamañjarisamānaguṇābhidhānāḥ
+<2.5>
+tā vidyududdyutijayiprapadaikarekhā
+vaidagdhya eva kila mūrtibhṛtastathāpi
+yūtheśvarītvaṃ api samyagarocayitvā
+dāsyāmṛtābdhiṃ anu sasnurajasraṃ asyāḥ
+<2.6>
+śvaśrūpurāntaragatottara pārśvavarti
+bhrājiṣṇu dhāma varaśilpakalaikadhāma
+tātena vatsalatayā vṛṣabhānunaiva
+nirmāpitaṃ tadupamāpi tadeva nānyat
+<2.7>
+sthūṇāpraghāṇa pa alāṅgaṇatoraṇālī
+gopānasīvividhakoṣṭhakapā avedyaḥ
+rājanti yatra maṇidīpatatipradīpta
+vaicitryanirmitajanekṣaṇacitrabhāvāḥ
+<2.8>
+yatrendranīlamaṇibhūrvalabhī ghanābhā
+haṃsālirapyupari rājati rājatī sā
+ye vīkṣya bandhuripubhānabhṛto vitatya
+saṅkocayanti śikhinaḥ svaśikhaṇḍapaṅktīḥ
+<2.9>
+tatropaveśaśayanāśanabhūṣaṇādi
+vedīrvimṛjya parilipya viśodhya tāstāḥ
+āstīrya rāṅkavaṃ uparyupayuktamuktam
+ullocaṃ unnatamudo militā babandhuḥ
+<2.10>
+ekā mamārja maṇikāñcanabhājanāni
+kācitpayaḥ samayayogyaṃ upānināya
+citrāṃśukāpihitaratnacatuṣkikāyām
+ālambanīyaṃ adadhādaparopabarham
+<2.11>
+pūrvedyuraṃśukamaṇimayabhūṣaṇāni
+mṛṣṭāni yatra nihitānyatha sampu aṃ tat
+uccairjhanadvalayarāji samudghaṭayya
+kācijjagharṣa vidhukuṅkumacandanāni
+<2.12>
+anyā vyadhatta sumanāḥ sumanobhireva
+citraiḥ kirī aka akāṅgadahārakāñcīḥ
+jātīlavaṅgakhadirādibhi rajyamānāḥ
+kācidbabandha surasāḥ phaṇivallīvī īḥ
+<2.13>
+atrāntare pratidiśaṃ dadhimanthanottha
+rāvairavāritamahīsuravedaghoṣaiḥ
+hambādhvanivyatividhānamitho'vadhāyi
+dhenvālitarṇakaghaṭā valadantarāyaiḥ
+<2.14>
+vṛndiṣṭhavandijanavṛndavitāyamāna
+śrīkṛṣṇakīrtivirudālisudhātaraṅgaiḥ
+śārīśukavrajakalaiḥ kalaviṅkakeki
+kolāhalaiḥ kramata eva samedhamānaiḥ
+<2.15>
+jāgratsu lokanicayeṣvatha vāsareti
+kartavyabhāvanapareṣvadhiśayaṃ eva
+kṛṣṇekṣaṇakṣaṇa satṛṣṇatayā purandhrī
+vṛndeṣu nandagṛhasanditamānaseṣu
+<2.16>
+naptrīmukhāmbujavilokanajīvitāyāṃ
+tatropasṛtya sahasā mukharābhidhāyām
+vātsalyaratnapaṭalībhṛtapeṭikāyāṃ
+rādhe! kva putri! bhavasīti samāhvayantyām
+<2.17-20>
+svabhāvaku ilāpyātma
+sutasampattikāṅkṣayā
+vyākulā jaṭilā gatvā
+nikaṭaṃ tāṃ athābravīt
+sūnoḥ prajāyurdhanavṛddhaye'sau
+tvayā snuṣā jñe! niyataṃ niyojyā
+sumaṅgalasnānavibhūṣaṇādau
+gokoṭihetostapanārcanāya
+ājñānavajñā nijagoṣṭharājñyāḥ
+kāryānabhijñoktiṣu te'pyavajñā
+ityādiśatyanvahaṃ arthavijñā
+vijñāpitā me kila paurṇamāsī
+asmāttvaṃ ārye svāṃ naptrīṃ
+sarvamaṅgalamaṇḍitām
+vidhehi sarvasampattir
+yathā sūnorbhavenmama
+<2.21>
+vadhūṃ athābhāṣasata putri! talpād
+uttiṣṭha tūrṇaṃ kuru vāstupūjām
+tvaṃ maṅgalasnānavidhiṃ vidhāya
+pūjopahāraṃ saviturvidhehi
+<2.22-23>
+prabhātaṃ āyātaṃ aho tathāpi
+nidrāti naptrīti muhurvadantī
+snehadrutāṅgī mukharā praviśya
+śayyālayaṃ tāṃ avadattadedam
+uttiṣṭha vatse śayanātpramugdhe
+vyasmāri vāro'dya ravestvayā kim?
+snātvā prabhātārghyavidhānaṃ asmai
+pūjopahāraṃ racayāsya cāśu
+<2.24>
+tadvacaḥ pratibuddhātha
+viśākhotthāya sālasā
+sakhi! tūrṇaṃ samuttiṣṭhot
+tiṣṭheti prāha satvarā
+<2.25>
+tāsāṃ vacobhiḥ śayane'tha mugdhā
+muhuḥ prajāgaryya punarnidadrau
+vicālitā vīcicayaistaḍāge
+sā rājahaṃsīva ratālasāṅgī
+<2.26>
+tadaivāvasarābhijñā
+jagrāha ratimañjarī
+sakhī vṛndāvaneśvaryāḥ
+śrīmaccaraṇapaṅkajam
+<2.27-28>
+itthaṃ iyaṃ bahubhiḥ kṛtabodhā
+svācchayanādudatiṣṭhadanalpāt
+tāṃ atha vīkṣya supītapaṭāṅgīṃ
+śaṅkitahṛnmukharedaṃ uvāca
+drutakanakasavarṇaṃ sāyaṃ etanmurārer
+vasanaṃ urasi dṛṣṭaṃ yatsakhī te bibharti
+kiṃ idaṃ ayi viśākhe! hā pramādaḥ pramādo
+vyavasitaṃ idaṃ asyāḥ paśya śuddhānvayāyāḥ
+<2.29-30>
+tadvacaścakitadhīrhṛdi sakhyā
+vīkṣya pītavasanaṃ caladṛṣṭyā
+hā kiṃ etaditi tāṃ ca diśantī
+drāguvāca jaratīṃ ca viśākhā
+svabhāvāndhe! jālāntaragatavibhātoditaravi
+cchaṭājālasparśocchalitakanakāṅgadyutibharaiḥ
+vayasyāyāḥ śyāmaṃ vasanaṃ api pītikṛtaṃ idaṃ
+kuto mugdhe śaṅkāṃ jarati kuruṣe śuddhamatiṣu
+<2.31>
+lalitāpramukhāstāvat
+sakhyastāḥ svasvagehataḥ
+ājagmustvaritāḥ sakhyāḥ
+praskhaladgatayo'ntikam
+<2.32-33>
+tāsāṃ vākyairgatāyāntu
+kṛtavañcanasañcayaiḥ
+mukharāyāṃ tato'nyāsu
+draṣṭukāmāsu tatra tām
+ekaikaśo'tha militāsu sakhīṣu sarvā
+svanyonyahāsaparihāsaparāsu tāsu
+suśliṣṭamaṇḍalatayaiva kṛtopaveśā
+svārūḍharatnamaṇihemacatuṣkikāsu
+<2.34>
+śrīrādhikāmilanaṃ eva samastaharṣa
+śasyaikavarṣaṃ iti yaddhṛdi niścikāya
+śyāmalaitya samayā samayābhivijñā
+śliṣṭā tayā suṣamayeva tadāsa tatra
+<2.35>
+śyāme! tvaṃ evaṃ adhunaiva vicintyamānā
+mannetravartmagamitā vidhinā yathaiva
+tadvatsa tarṣavi apī phalayiṣyate ced
+adyaiva tarhi gaṇayānyapi suprabhātam
+<2.36>
+hantaiṣa santataṃ atīva samedhamānaḥ
+śaśvatsakhībhirapi sundari! sicyamānaḥ
+nādyāpi yatphalaṃ adhādayi! ko'tra hetur
+hā tatkadātirabhasādavalokayiṣye
+<2.37>
+rādhe! sa te na phalito yadi tatphaliṣyaty
+āścaryaṃ asya phalaṃ apyalasāṅgi! buddhye
+āsvādyamānaṃ api saurabhamāditāli
+pratyāyayatyananubhūtaṃ iva svaṃ uccaiḥ
+<2.38>
+pakṣmāvalī bata yadīyarasena śoṇe
+nārañji kañjamukhi! tanna tadapyapaśyaḥ
+yatsvādanavyatikarādadharo vraṇitvam
+āgāttathāpi tadaho! na kadāpyabhuṅkthāḥ
+<2.39>
+śyāme! tvaṃ apyalaṃ alakṣitamannitānta
+svāntavraṇā hasasi māṃ yadato bravīmi
+vidyudvihanti timiraṃ niśi yaddṛśostat
+sadyaḥ punardviguṇayediti bhoḥ pratīhi
+<2.40>
+rādhe! kalānidhirayaṃ vidhinopanītas
+tvāṃ santatāmṛtamayairadhinotkarāgraiḥ
+yattatkalāḥ svayaṃ aho kucayorbibharṣi
+vidyunnibhatvaparivādaṃ athāpi datse
+<2.41>
+śyāme! sa me sakhi! dadau na kalaṅkaṃ eva
+satyaṃ kalānidhirasāviti vaḥ pratītaḥ
+datte kadāpi mama dṛṣṭicakorikā yair
+jyotsnākaṇaṃ yadapi tanna punarnikāmam
+<2.42>
+rādhe! sphuṭaṃ vada bhavanmukhapaṅkajottha
+naktantanehitasudhādyudhunī vidhūya
+tāpaṃ nimajjayatu māṃ svaṃ anu prabhāte
+kṛtyāntaraṃ mama kathaṃ tadṛte susidhyet
+<2.43>
+śyāme'dhikuñjanilayaṃ navanīlakānti
+dhārā yadā snapayituṃ niśi māṃ pravṛttā
+tarhyeva pañcaśarasañcayanā yaraṅga
+bhūmiṃ ca kena ca kāñcana yāpitā'sam
+<2.44>
+vadantītthaṃ mūrchāṃ paramaparamānandajanikāṃ
+gatā seyaṃ sadyaḥ smṛtividhuratāpaddhatiṃ agāt
+kadāyātā śyāme punariti hi pṛṣṭāhaṃ adhunā
+gatetyuktvāpṛcchatparikalitabodhāṃ sapadi tām
+<2.45>
+alasavalitaṃ aṅgaṃ svāvasādaṃ vyanakti
+glapitaṃ iva mṛṇālīkandalaṃ dordvayaṃ te
+daśanavasanaṃ etannīrasaṃ gaṇḍapālī
+lulitalalitapatrā prakramaḥ kastavaiṣaḥ
+<2.46>
+abhinavalatikeva vātarugnā
+navanalinīva mataṅgajena bhugnā
+mṛdutaranavamālikeva dhūtā
+madamadhupena vilakṣyase tvaṃ adya
+<2.47>
+api ciraṃ abhilaṣyamāṇa evaṃ
+praṇayini ko'pi sudurlabho hi labdhaḥ
+atha kathaṃ iyaṃ anyathā'smadādeḥ
+phalitavatī sakhi! bhāgyakalpavallī
+<2.48>
+iti sapraṇayavācā sādaraṃ pṛcchyamānā
+pa avṛtamukhacandrā svacchacittā batāsau
+mudaṃ atha janayantī pārśvagānāṃ sakhīnām
+avaninihitadṛṣṭiṃ sasmitaḥ pratyuvāca
+<2.49>
+kvāhaṃ sthitā kva calitā kva ca vā sa panthā
+nītāsmi kena nalinākṣi tadīya pārśvam
+kiṃvā babhūva mayi tatra sametavatyāṃ
+jānāmyahaṃ yadi tadā bhavatī na vetti
+<2.50>
+vyāpāro manasaśca yatra na gataḥ sambhāvanābhāvato
+yatsvapnaḥ kiṃ athendrajālaṃ athavā bhrāntiḥ sudīrghaiva me
+tatkiṃ hlādi kiṃ ārtidaṃ kiṃ ubhayaṃ kiṃvā na tannāpi tac
+cetovidrutikārakaṃ ca manaso mūrchākaraṃ cābhavat
+<2.51>
+atha śyāmāha
+kelīkalādhyayanakauśalaṃ ekadaiva
+na syādataḥ kiṃ api no bhavatī viveda
+bhūyastataḥ sakhi! vilāsaguroḥ sakāśād
+yatnādadhīṣva yadi vijñatamāsi bhūṣṇuḥ
+<2.52>
+tataḥ śrīrādhikā prāha
+mātaḥ paraṃ sumukhi! yāmi tadīyapārśvaṃ
+dūrādasau nayanavartmanivartanīyaḥ
+adhyetu nāma bhavatī tata eva tatte
+pāṇḍityaṃ eva manaso rasadaṃ mama syāt
+<2.53>
+bhrājante varadanti! mauktikagaṇā yasyollikhadbhirnakhaiḥ
+kṣiptāḥ puṣkaramālayāvṛtarucaḥ kuñjeṣu kuñjeṣvamī
+śau īryābdhirurojapañjarataṭe saṃveśayantyā kathaṃ
+sa śrīmānhariṇekṣaṇe! harirabhūnnetreṇa baddhastvayā?
+<2.54>
+ko'yaṃ kṛṣṇa iti vyudasyati dhṛtiṃ yastanvi karṇaṃ viśan
+rāgāndhe! kiṃ idaṃ sadaiva bhavatī tasyorasi krīḍati
+hāsyaṃ mā kuru mohite! tvaṃ adhunā nyastāsya haste mayā
+satyaṃ satyaṃ asau dṛgaṅganaṃ agādadyaiva vidyunnibhaḥ
+<2.55>
+lajjābharakrāntatayātitūṣṇīṃ
+sthitā vayasyā priyakelivārttām
+śrotuṃ gṛhītvā cibukaṃ tadā sā
+hyatyāgrahīdālīṃ atha pravaktum
+<2.56>
+priyasakhi! mama vṛttaṃ pṛccha mā bhāgyaṃ īdṛk
+kva nu mama kathayeyaṃ tvayyahaṃ tānvilāsān
+dhṛtavati karaṃ eva śyāmale kvāsa kāhaṃ
+kiṃ iva ca karako'sau kiṃ vyadhānna smarāmi
+<2.57>
+veṇīṃ gumphati divyapuṣpanicayaiḥ sīmantasīmanyaho
+sindūraṃ nidadhāti kajjalamayīṃ nirmāti rekhāṃ dṛśoḥ
+divyaṃ vāsayate dukūlaṃ asakṛttāmbūlaṃ apyāśayed
+itthambhūtaratiḥ sakhā tava na māṃ talpe nidhatte'ṅkataḥ
+<2.58>
+nityaṃ manmukhasammukhaṃ mukhavidhuṃ dhatte'nimiṣekṣaṇo
+nityaṃ manmukhaṃ eva paśyati mayaivājasragoṣṭhīparaḥ
+ādhāyaiva śayīta māṃ hṛdi mayaivāvartayetpārśvakaṃ
+sakhyuste sakhi! sarvanāgaramaṇeḥ prītiḥ kathaṃ varṇyatām?
+<2.59>
+vilāsaceṣṭā sakhi! keśināśino
+halāhalābhā pradahanti me manaḥ
+kṛntanti marmāṇi guṇā ghuṇā iva
+premā vikārī hṛdi hṛdvraṇo yathā
+<2.60>
+no vidmaḥ kiṃ u gauravaṃ gurukule kaulīnyarakṣāvidhau
+na śraddhā kiṃ u durjanoktigaralajvālāsu kiṃ no bhayam
+udvegādanavasthitaṃ mama manaḥ kasyāpi meghatviṣo
+yūnaḥ śrotragatairghuṇairiva guṇairantaḥ kṛtaṃ jarjaram
+<2.61>
+rādhe! yadāsyasarasīruhagandha evam
+andhīkaroti kulajākulaṃ āli! dūrāt
+tanmadhvatīva surasaṃ sarasaṃ pibantyāś
+cittabhramastava madāditi naiva citram
+<2.62>
+atrāntare madhurikā militātha pṛṣṭā
+tābhir jagāda madhuraṃ śṛṇutaitadālyaḥ
+kasyaicideva kṛtaye vrajarājaveśma
+prāptādya kautukaṃ aho yaduṣasyapaśyam
+<2.63>
+paurṇamāsī bhagavatī sarvasiddhividhāyinī
+kāṣāyavasanā gaurī kāśakeśī darāyatā
+kṛṣṇaṃ draṣṭumanāstalpādudatiṣṭhaddvijadhvanaiḥ
+<2.64>
+atha prabhāte kṛtanityakṛtyā
+prītyācyutasyātivihastacittā
+premendupūrṇā kila paurṇamāsī
+tūrṇaṃ vrajendrālayaṃ āsasāda
+<2.65>
+kṣoṃaṃ vāsaḥ pṛthukaṭitaṭe bibhratī sūtranaddhaṃ
+putrasnehasnutakucayugaṃ jātakampaṃ ca subhrūḥ
+rajjvākarṣaśramabhujacalatkaṅkaṇau kuṇḍale ca
+svinnaṃ vaktraṃ kavaravigalanmālatī nirmamantha
+<2.66>
+rajanivipariṇāme gargarīṇāṃ garīyān
+dadhimathanavinodādudbhavanneṣa nādaḥ
+amaranagarakakṣācakraṃ ākramya sadyaḥ
+smarayati suravṛndānyabdhimanthotsavasya
+<2.67>
+manthānoddhṛtagavyavindunikaravyākīrṇaramyāṅganaṃ
+premasnigdhajanānvitaṃ bahuvidhai ratnairvicitrāntaram
+kṣīrormyucchalitaṃ mudāhivilasacchayyāprasuptācyutaṃ
+śvetadvīpaṃ ivālayaṃ vrajapatervīkṣyāsa sānanditā
+<2.68>
+tāṃ āgatāṃ abhiprekṣya
+sākṣādiva tapaḥśriyam
+vrajarajñī parābhijñā
+sthitijñābhyudyayau mudā
+<2.69>
+ehi bho bhagavatīti vrajavandye
+svāgatāsi bhavatīṃ praṇamāmi
+ityudīrya savidhe praṇamantīṃ
+sā mukundajananīṃ parirebhe
+<2.70>
+āśīrbhirabhinandyāmūṃ
+govindadarśanosukā
+papraccha kuśalaṃ cāsyāḥ
+sadhavātmajagotateḥ
+<2.71>
+nivedya kuśalaṃ cāsyai
+tayotkaṇṭhitayā saha
+utkā śayyāgṛhaṃ sūnoḥ
+praviveśa vrajeśvarī
+<2.72>
+ḍorījūṭitavakrakeśapa alā sindūrabindūllasat
+sīmantadyutiraṅgabhūṣaṇavidhiṃ nātiprabhūtaṃ śritā
+govindāsyanisṛṣṭasāśrunayanadvandvā navendīvara
+śyāmaśyāmarucirvicitrasicayā goṣṭheśvarī pātu vaḥ
+<2.73>
+paryaṅke nyasya savyaṃ tadupari nihitasvāṅgabhārātha pāṇiṃ
+kṛṣṇasyāṅgaṃ spṛśantītarakarakamaleneṣadābhugnamadhyā
+siñcantyānandabāṣpaiḥ snutakucapayasāṃ dhārayā cāsya talpaṃ
+vatsottiṣṭhāśu nidrāṃ tyaja mukhakamalaṃ darśayetyāha mātā
+<2.74>
+madhurikovāca
+gāndharvike! śṛṇu yadanyadabhūdvicitraṃ
+nīlāṃśukaṃ svatanayorasi vīkṣyamāṇām
+tāṃ āha saiva bhagavatyayi goṣṭharājñi!
+rāmāmbareṇa parivartitaṃ asya vāsa
+<2.75>
+tā aṅkagāruṇamaṇipratibimba eva
+gaṇḍe vibhāti tava mādhava! śoṇaśociḥ
+ityukta eva sa tayā nijapāṇinā taṃ
+sadyo jagharṣa bhavadādhararāgabhāgam
+<2.76>
+uttiṣṭha tāta rajanīyaṃ agādvirāmaṃ
+paśyāṃśumantaṃ udayodyamanābhirāmam
+pratyūṣasevanavidhau vilasadvilāsāḥ
+śayyālayaṃ tava viśanti kumāradāsāḥ
+<2.77>
+saṅkīrtayanjaya jayeti girā suvṛttas
+tvāṃ tāta jāgarayituṃ praṇayātpravṛttaḥ
+kīrastavaiṣa nijapāṇitalena puṣṭaḥ
+sanmañjuvākkanakapañjaravāsahṛṣṭaḥ
+<2.78>
+khedastavaiṣa śayanālasabhāramūlaḥ
+svāpaṃ jahīhi bhava jāgaraṇānukūlaḥ
+itthaṃ kareṇa mṛdunā muhuraṅgaṃ aṅgam
+āspṛśya bāhuyugalena taṃ āliliṅga
+<2.79>
+mātuḥ kalāṃ giraṃ atipraṇayopagūhaṃ
+śrutvānubhūya ca tadaiva sa samyagūham
+gātrāvamo anapuraḥsarajṛmbhaṇena
+jāgraddaśāṃ abhinināya kutūhalena
+<2.80>
+kālociteṣu paricāraṇakauśaleṣu
+gāḍhānurāgaparabhāganirākuleṣu
+dakṣaṃ samakṣaṃ anuśāsya kumāradāsī
+dāsaṃ vrajendragṛhiṇī svagṛhānayāsīt
+<2.81>
+tāvadgobha abhadrasenasubalaśrīstokakṛṣṇārjuna
+śrīdāmojjvaladāmakiṅkiṇisudāmādyāḥ sakhāyo gṛhāt
+āgatya tvaritā mudābhimilitāḥ śrīsīriṇā prāṅgaṇe
+kṛṣṇottiṣṭha nijeṣṭagoṣṭhaṃ aya bho ityāhvayantaḥ sthitāḥ
+<2.82>
+hī hī prabhātaṃ kiṃ u bho vayasyā
+adyāpi nidrāti kathaṃ sakhā naḥ
+tadbodhayāmyenaṃ itīrayansva
+talpādudasthānmadhumaṅgalo'pi
+<2.83>
+samuttiṣṭha vayasyeti
+jalpaṃstalpālayaṃ hareḥ
+nidrālasaskhaladyānaḥ
+prāviśanmadhumaṅgalaḥ
+<2.84>
+tadvāgvigatanidro'yam
+uttiṣṭhāsurapīśvaraḥ
+utthātuṃ īśvaro nāsīd
+ghūrṇāpūrṇekṣaṇaḥ kṣaṇam
+<2.85>
+uttiṣṭha kuryāṃ mukhamārjanaṃ te
+balasya vāsaḥ kiṃ iha tvadaṅge
+iti bruvāṇāpanināya nīlaṃ
+vāsastadaṅgādavadacca sāryām
+<2.86>
+ayi bhagavati! paśyāco itaṃ me'sya sūnoḥ
+kamalamṛdulaṃ aṅgaṃ mallalīlāsu lolaiḥ
+kharanakharaśikhābhirdhāturāgāticitraṃ
+capalaśiśusamūhairhā hatā kiṃ karomi?
+<2.87>
+snehabharaiḥ svajananyāś
+citrapadāṃ api vāṇīm
+tāṃ avadhārya murārir
+hrīcakitekṣaṇa āsīt
+<2.88-89>
+kṛṣṇaṃ saśaṅkaṃ āśaṅkya
+parihāsapaṭurbaṭuḥ
+snehaklinnāntarāṃ ambām
+avadanmadhumaṅgalaḥ
+satyaṃ amba! vayasyālī
+vāritāpi mayāniśam
+reme'nenātilubdhena
+kuñjeṣu kelicañcalā
+<2.90>
+atha prakāśīkṛtabālyavibhramo
+yatnātsamunmīlya vilocanaṃ muhuḥ
+paśyanpuraḥ svāṃ jananīṃ hariḥ punar
+nyamīlayatsa smitavaktrapaṅkajaḥ
+<2.91>
+ākarṇya vācaṃ vrajarājapatnyāḥ
+samīkṣya kṛṣṇasya ca bālyaceṣṭām
+bhāvāntarācchādakarīṃ jananyās
+taṃ paurṇamāsī smitapūrvaṃ āha
+<2.92>
+sakhīnāṃ sandohairniravadhi mahākelitatibhiḥ
+pariśrāntastvaṃ yatsvapiṣi sumate yogyaṃ iha tat
+anālokya tvāṃ bhostṛṣitaṃ api no tarṇakakulaṃ
+dhayatyūdhaḥ kintu vrajakulapate jāgṛhi tataḥ
+<2.93>
+uttiṣṭha goṣṭheśvaranandanārāt
+paśyāgrajo'yaṃ saha te vayasyaiḥ
+goṣṭhaṃ pratiṣṭhāsurapi pratīkṣya
+tvāṃ aṅgane tiṣṭhati tarṇakaiśca
+<2.94>
+samuṣṭipāṇidvayaṃ unnamayya
+vimo ayanso'tha rasālasāṅgam
+jṛmbhāvisarpaddaśanāṃśujālas
+tamālanīlaḥ śayanādudasthāt
+<2.95>
+unmīlanapratinimīlanayorbahutve
+jāgracchayānadaśayoriva miśritatve
+sā nidrayā virahakātarayā dhṛteva
+tasyotthitasya nayanadvitayī dideva
+<2.96>
+kha vaikadeśe tvatha sanniviṣṭo
+vinyastapādābjayugaḥ pṛthivyām
+namāmyahaṃ tvāṃ bhagavatyayīti
+jagāda jṛmbhodgamagadgadaṃ saḥ
+<2.97>
+āpādaśīrṣaṃ atha pāṇitalābhimarśe
+nāvyādajo'ṅghriṃ iti mantraṃ udāharantī
+saṃrakṣya tūrṇaṃ akhilāṅgaṃ athordhvadṛṣṭyā
+kiñcitsakākubharaṃ arthayate sma rājñī
+<2.98>
+devādhideva! bhavataiva cirātsuto'yaṃ
+dattaḥ svabandhujanajīvanatāṃ upetaḥ
+pālyo'pi nātha! bhavataiva kṛpābhareṇa
+svenaiva kāṃ apacitiṃ tava vedmi kartum
+<2.99>
+ārātrikeṇa maṇimaṅgaladīpabhājā
+vibhrājitena jitasaubhagavatsamājāḥ
+ādhāya paṇisarasīruhayormudāsya
+nīrājanaṃ vidadhire'sya kumāradāsyaḥ
+<2.100-101>
+uṣṇīṣabandhasumanojñatamottamāṅgāḥ
+pāthojakeśarasusaurabhasundarāṅgāḥ
+śyāmāḥ sitāśca haritā aruṇāśca pītā
+ye ke'pi ke'pi mahanīyaguṇaiḥ parītāḥ
+taireva kevalasukhānubhavasvarūpair
+naisargikānudinadivyakumārarūpaiḥ
+dāsīgaṇairapi ca dāsagaṇairudāraiḥ
+sevā vyadhāyi vividhāsya vilolahāraiḥ
+<2.102>
+paryaṅkataḥ samadhiruhya maṇīcatuṣkaṃ
+śrīpādapīṭhamahasā vilasadvapuṣkam
+cārūpaviṣṭaṃ atihṛṣṭahṛdo gṛhītvā
+cārūpacāraṃ atha bhejuramī militvā
+<2.103>
+tairāhitāṃ karatale vinidhāya dhārāṃ
+karpūrasaurabhavatāṃ aticāruvārām
+gaṇḍūṣapuraṃ upakptasutthopajoṣaṃ
+kṛṣṇaḥ śanairabhiṣiṣeca mukhābjakoṣam
+<2.104>
+āmṛjya cārumṛdusūkṣmabalakṣavāsaḥ
+khaṇḍena pāṇivadanaṃ nirupādhihāsaḥ
+tairāhitaṃ karatale mṛdu dantakāṣṭhaṃ
+pratyagrahīnmradimaniṣṭhaṃ atho laghiṣṭham
+<2.105>
+kalpadrumasya mṛdunā vi apena tena
+ratnāṅgulīyakamahobhiralaṅkṛtena
+dantāvaliṃ vihitavīkṣakanetraharṣam
+ālolakuṇḍalayugaṃ śanakairjagharṣa
+<2.106>
+aṅguṣṭhatarjanikayordhṛtayā vitastyā
+jihvāvilekhanikayā maṇihemamayyā
+rājanmaṇīndravalayaṃ vyalikhanmanojñāṃ
+tāmbūlarāgaparabhāgavatīṃ rasajñām
+<2.107>
+bhūyaḥ payobhiramalairvadanaṃ nineja
+bhūyo mamārja ca kadāpi na codviveja
+śrīdarpaṇaṃ kṛtasamarpaṇacañcalākṣi
+lakṣmyā cakāra mukhadhāvanaśuddhisākṣi
+<2.108>
+māṇikyakaṅkatikayā karapadmakoṣaṃ
+samprāptayā valayakaṅkaticārughoṣam
+keśaprasādhanaṃ athānabhisandhihāsī
+bhūtānanā vyadhita kāpi kumāradāsī
+<2.109>
+naktantanaṃ vasanaṃ asya nirāsya kaścid
+vāso'ntaraṃ suparidhāpya kalāvipaścit
+uṣṇīṣabandhaṃ atha mūrdhni babandha pādau
+prakṣālya vārbhirabhimṛjya ca vāsarādau
+<2.110>
+gā dogdhuṃ uddhuradhiyo'pi vṛthodyamāste
+gopā babhūvuratha tarṇakamaṇḍalāśca
+cūṣanta eva na payaḥ kaṇamātraṃ āsām
+āpīnato'dya yadavāpurato viṣeduḥ
+<2.111>
+gāvastavādhvani dhṛtāśrubhṛtākṣiyugmā
+na prasravantyapagatānna lihanti vatsān
+hambādhvanidhvanitadigvalayā vilambaṃ
+soḍhuṃ darāpi na hi samprati śaknuvanti
+<2.112>
+ityeva kenacidupetya sa goduhokto
+mātṛrnijāsyadarahāsyasudhābhiṣekaiḥ
+svānandaśaṃsibhirasau sukhayanmukhābjaṃ
+tāmbūlarañjitaṃ alaṃ kalayannudasthāt
+<2.113>
+dohaṃ samāpya balabhadra! sahānujastvaṃ
+mallājiraṃ vrajasi cetkuru mā vilambam
+nirmañcanaṃ tava bhaje kṣaṇamātreva
+sārdhaṃ vihṛtya sakhibhirdrutaṃ ehi bhoktum
+<2.114>
+śrutveti mātṛgiraṃ āha harirna mātaḥ
+pratyeṣi māṃ yadamuṃ eva vadasyathaivam
+śiṣṭo'graṇīḥ punaramīṣvahaṃ eka eva
+no cedamuṣya vaśatāṃ kiṃ uri kariṣye?
+<2.115>
+śiṣṭo yathā tvaṃ asi vatsa! nijātibālyam
+ārabhya tatkhalu vidantyakhilāḥ purandhryaḥ
+yāḥ svālayāpacayavedanayā purāsāṃ
+phutkartuṃ āpuriha no katidheti soce
+<2.116>
+saudāminītativibhājayidāmanīdyud
+vibhrājisavyakarakorakitāravindaḥ
+sa grāhitapramitakānakadohanīko
+mātrā tayā sakhi! rayādadhikaṃ vireje
+<2.117>
+stamberamavrajaviḍambivilambipāda
+vinyāsajhañjhanajhaṇatkṛtakiṅkiṇīkaḥ
+lolālakālimaṇikuṇḍalakāntiveṇī
+vīcībharasnapitavaktrasudhāṃśubimbaḥ
+<2.118>
+pītottarīyacapalelitakelinṛtya
+rājadghanāṅgakiraṇocchalanocchritaśrīḥ
+preṅkholahāraparidhiśritakaustubhodyad
+bhānuḥ svanaccaraṇabhūṣaṇacumbidāmā
+<2.119>
+niṣkramya ramyapurataḥ purato'bhigacchan
+yacchanmudaṃ svajananījanalocanebhyaḥ
+dāsaiḥ pradhāritaṃ avāritarociraśnaṃ
+tāmbūlapulakaṃ avāpa sa gopurāgram
+<2.120>
+tadbāhyakuṭṭimata īṃ avalambamānaḥ
+kā kutra kiṃ kuruta ityanusandadhānaḥ
+vyāpārayannayanaṃ a aghaṭāsu narma
+preṣṭhairmiladbhirabhitaḥ sa rarāja mitraiḥ
+<2.121>
+tannirmitānupadakarṇakathārasajña
+syāsyāmbuje kiṃ api yatsmitaṃ udbabhūva
+tasyārthajātaṃ api kiṃ vivarītuṃ īśe
+ceto'lireva tava sakhyanusandadhātu
+<2.122>
+uṣṇīṣavakrimamahāmadhurimṇi tasya
+tātkālike kila na kasya mano nyamāṅkṣīt
+tatraiva śekharitakānakasūtrajāla
+rājanmaṇidyutibharāḥ kiṃ u varṇanīyāḥ
+<2.123>
+taiḥ saurabhaiḥ prasṛmarairanu nūpurādi
+dhvānairbalena valabhīṃ adhirohitābhiḥ
+gośālavartmani calallalanāvalībhir
+netrāmbujaiḥ sa katidhā nahi pūjyate sma
+<2.124>
+tattadvilāsabalitā suṣamārasālā
+preṣṭhasya sā madhurikā pariveśyamānā
+vaiśleṣikajvaraṃ aśīśamadapyathāsyās
+tene ca taṃ śataguṇaṃ tṛṣaṃ edhayantī
+<2.125>
+harṣonnatiḥ stimitatāṃ śravasorvyatānīt
+tarṣotthasaṃjvarabharastu dṛśorviveśa
+ākasmikī nirupamā prativeśisampat
+tāpaṃ tanoti sahavāsabhṛtāṃ sadaiva
+<2.126>
+prāhānurāgaparabhāgavatī tataḥ sā
+tā eva cārumukhi! dhanyatamā ramaṇyaḥ
+yāḥ khelayanti satataṃ sudṛśastadīya
+lāvaṇyakelijaladhau kaladhautagātryaḥ
+<2.127>
+janmaiva hanta kiṃ abhūnmama gokule'smiṃs
+tanmādhurīṃ na yadurīkurute kadāpi
+tatśyāmale'ticapale hṛdi leśamātrī
+no sambhavediha bhave dhṛtirityavehi
+<2.128>
+śyāmāha yāmi! lalite! śṛṇu yāmi gehaṃ
+sampratyamūṃ prati mamāstu girāṃ virāmaḥ
+tvaṃ padminīṃ vrajapurandarasadmanīmāṃ
+kṛṣṇekṣaṇālini samarpaya baddhatṛṣṇe
+<2.129>
+priyavirahavihastā srastadhīḥ sā tadānīṃ
+kṣaṇaṃ api yugakalpaṃ kalpayantī babhūva
+yadakhilaṃ api kṛtyaṃ kāritā kiṅkarībhiḥ
+samayavihitaṃ eko'bhyāsa evātra hetuḥ
+<2.130>
+atha nikhilasakhīnāṃ svālibhiḥ snāpitānāṃ
+dhṛtasamucitavastrālaṅkṛtīnāṃ tatiḥ sā
+mathitaśaradudañcaccandrikāsindhujātāṃ
+śriyaṃ api nijapādāmbhojabhāsā vijigye
+<2.131>
+kācinmaṇīndramayaṃ āsanaṃ ājahāra
+śrīpādapīṭhaṃ aparā tadadho dadhāra
+kāpyānayadvadanadhāvanabhājanāni
+kāpyādadhe daśanaśodhanasādhanāni
+<2.132>
+utthāya talpatalataḥ kanakāsanasthā
+nidrāvasānavigalanniyatavyavasthā
+sā pādapīṭhaṃ adhi dattapadāravindā
+babhrāja satparijanairvihitābhinandā
+<2.133-134>
+bhṛṅgāranālaśikhareṇa samarpitābhiḥ
+sandhāya vaktravivare culukīkṛtābhiḥ
+tatsaurabhasya rabhasādhikasaurabhābhiḥ
+śrīpāṇipadmatalasaṅgamalohitābhiḥ
+nikṣepaṇe priyasakhīkarayoḥ kṛtābhiḥ
+karpūrapūrarajasā'bhisuvāsitābhiḥ!
+vyāptālibhiḥ sakalakelikalāsuhṛdbhiḥ
+sā sādhu śodhitavatī mukhapadmamadbhiḥ
+<2.135>
+karatalādasakṛcculukīkṛtaṃ
+salilaṃ āradatālvanu cālitam
+calakapolayugonnatimañjula
+dhvanibhṛtaṃ nibhṛtaṃ kṣipati sma sā
+<2.136>
+visṛmarānalakānkiratī śirasy
+upari savyakarāṅgulighaṭanaiḥ
+alikagaṇḍadṛgādyatha sāmita
+dyutiṃ itaṃ timitaṃ triradīdhavat
+<2.137>
+vi apikāṃ dyutarostatarociṣaṃ
+radahitāṃ nihitāṃ svavayasyayā
+mukulitāmbujatāṃ bhajatāñjasā
+mṛdutareṇa kareṇa sudṛgdadhe
+<2.138>
+pratisaroditadolanaṃ asvanad
+valayaṃ uccalakuṇḍalaṃ etayā
+vyadhita sā mṛjatī radanāṃśchaviṃ
+kaṇavaducchalitāṃ lalitāṃ śritān
+<2.139>
+atha dadhe sudatī dhanurākṛtiṃ
+maṇimayīṃ rasanāpariṇejinīm
+mṛdulapāṇiyugāṅguliyugmakāṃ
+sahacarīkarato'daratoṣataḥ
+<2.140>
+navadalopamitāṃ rasanāṃ mṛjaty
+atha tayā natakampitamastakam
+mukhaṃ iyaṃ skhalitairalakairvṛtaṃ
+vidadhatī dadhatī smitaṃ ābabhau
+<2.141>
+niraṇijadbahirantaraṃ apyaraṃ
+mukhavidhoratha dhautakaradvayā
+parijanārpitamañjulavāsasā
+jalakaṇāpanayaṃ sanayaṃ vyadhāt
+<2.142>
+sahacarīvidhṛte maṇidarpaṇe
+tadabhinandanasākṣiṇi vīkṣya sā
+smitasudhābhiradhāvayadānanaṃ
+priyatamakṣaṇalakṣaṇalakṣakam
+<2.143>
+tasya dohādikāṃ kriyāṃ
+dṛṣṭāgatā kalāvatī
+jagādātha tadabhyarṇe
+paramollāsasaṃyutā
+<2.144>
+gopālo'pi svagośālaṃ
+sarāmamadhumaṅgalaḥ
+sakāvyagīṣpatiḥ sāyaṃ
+śaśīvāmbaraṃ āviśat
+<2.145>
+dadhāra dyuṣadāṃ rāmo
+dhavalāvaliveṣṭitaḥ
+kailāsagaṇḍaśailālī
+madhyasthairāvatabhramam
+<2.146>
+madhye'cyuto'ñcandhavalāvalīnām
+udānanānāṃ paritaḥ sthitānām
+dadhau janānāṃ sphū apuṇḍarīka
+śreṇyantarañcadbhramarabhramaṃ saḥ
+<2.147>
+hihī gaṅge! godāvari! śabali! kālindi! dhavale!
+hihī dhūmre! tūṅgi! bhramari! yamune! haṃsi! kamale!
+hihī rambhe! campe! kariṇi! hariṇīti vrajavidhur
+muhurnāmagrāhaṃ nikhilasurabhīrāhvayadasau
+<2.148>
+nyastāṅgaḥ prapadopari praghaṭayanjānudvaye dohanīṃ
+kāściddogdhi payaḥ svayaṃ tvatha parāḥ svairdohayatyunmukhīḥ
+anyāḥ pāyayati svatarṇakagaṇānkaṇḍūyanaiḥ prīṇayann
+itthaṃ nandasutaḥ prage svasurabhīrānandayannandati
+<2.149>
+pādāgre kṛtapādukaṃ trikasamullāsollasatpārṣṇikaṃ
+madhye nyasya ghaṭīṃ pa onnaṃ anataḥ prodyattviṣorjānunoḥ
+gotundavyatiṣaṅgasundaradarakṣobhaślathoṣṇīṣakaṃ
+pāṇibhyāṃ kramakuḍmalāṅgulipu aṃ gāṃ dogdhi dugdhaṃ hariḥ
+<2.150>
+vatsādapyadhikapriyo bhagavataḥ pāṇyambujasparśana
+snehasrāvipayaḥpayodharapu ā gaurduhyamānā svayam
+dhārābhiḥ sugabhīraghoṣagahanaṃ āpūrya sā dohanīṃ
+dohanyantaraṃ eti yāvadavanīṃ tāvatsamāpupluvat
+<2.151>
+aṅguṣṭhāgrimayantritāṅgulirasau pādārddhanīruddhabhūr
+āpīnāñcalamardayanniha puro dvitraiḥ payobindhubhiḥ
+nyagjānudvayamadhyayantritaghaṭīvaktrāntare praskhalad
+dhārādhvānamanoharaṃ sakhi! payo gāṃ dogdhi dāmodaraḥ
+<2.152>
+śṛṇvantīṃ bhāvavaivaśyād
+vismṛtasnāpanakriyām
+lavaṅgamañjarī sadyo
+juhāva vyagramānasā
+<2.153>
+tatra kāñcanamaye mṛdupīṭhe
+cīnacelapihite viniviṣṭām
+sevane parijanā nipuṇā drāk
+tāṃ upāyanakarāḥ parivavruḥ
+<2.154>
+sāvātārayadābharaṇanicayaṃ
+lalitā svasakhītanutaḥ sadayam
+kanakavratateriva sapraṇayaṃ
+pallavakusumastavakapracayam
+<2.155>
+āmṛjya celaśakalena tanūttamena
+sarvāṅgaṃ aṅkitaṃ anaṅgaraṇāṅkakena
+abhyaṅgasaṅgivasanaṃ paridhāpya naktaṃ
+vāso'bhyamūmucadanuttamagandhayuktam
+<2.156>
+ākṛṣya mugdhaṃ avaguṇṭhanaṃ uttamāṅgād
+unmocya kuntalatatīḥ sughanottamāṅgāḥ
+ratnaprasādhanikayā calakaṅkaṇāliḥ
+saprema sādaraṃ aśūśudhaduttamāliḥ
+<2.157>
+prakṣālya pādayugalaṃ mukuraṃ purastād
+ādarśya kācana kalākuśalatvaśastā
+tailena satsurabhiṇā lasatāruṇimnā
+bhyānañja kañjavadanāṃ praṇayena bhūmnā
+<2.158>
+aṅgādyato yata udasyati cārucelaṃ
+tattannirīkṣya hriyaṃ ṛcchati sānuvelam
+tenāktaṃ aktaṃ avadhāya sakhīyaṃ aṅgaṃ
+tasyāḥ pyadhāttadakhilaṃ kṛtahrīvibhaṅgam
+<2.159>
+abhyajya rajyadatiśuddhahṛdo vayasyā
+āpādamūrdhakṛtamardanaṃ aṅgaṃ asyāḥ
+udvartanaṃ vidadhire ghanasārapūrṇaiḥ
+kastūrikāghusṛṇacandanacārucūrṇaiḥ
+<2.160>
+gandhānubandhivimalāmalakīkaṣāyaiḥ
+keśānvighṛṣya katamā vividhairupāyaiḥ
+bhṛṅgāranālagalitairlalitaiḥ kabandhair
+ukṣāṃ cakāra sahajapraṇayānubandhaiḥ
+<2.161>
+kālocitena ghanasārasuvāsitena
+nānāmaṇīśvaraghaṭīghaṭayā bhṛtena
+dvābhyāṃ śanairubhayataḥ pratipāditena
+dve pārśvayoḥ siṣicatuḥ sumukhīṃ jalena
+<2.162>
+saṃveṣṭya cārucikurānsicayena bāḍhaṃ
+niṣpīḍya bhūri galadambu nigālya gāḍham
+bhūyaḥ prasārya caladaṅgulibhirvikīrya
+bhūyo babandha katamā sicayaṃ vitīrya
+<2.163>
+kācinmukhenduṃ aparā galamūlaṃ anyā
+karṇau mamārja mṛdunā vasanena dhanyā
+vakṣo visāri katamā katamā ca pṛṣṭhaṃ
+bāhudvayaṃ ca katamā suṣamāvariṣṭham
+<2.164>
+saṃveṣṭya śuṣkavasanena nirāsanīyaṃ
+śroṇyā jahāra vigalajjalaṃ antarīyam
+āmṛjya pāṇiyugalena śanairudāram
+arddhorukaṃ kaṭitaṭe ghaṭayāṃ cakāra
+<2.165>
+āmṛṣṭayorvarapayodharayoralolaṃ
+kācitkalāsu kuśalātha babandha colam
+pa āṃśukena racitaṃ svasakhījanena
+nānāvidhātiśayaśilpaviśāradena
+<2.166>
+tasyopari pratanu śoṇataraṃ suvīci
+caṇḍātakādudayaduccalasanmarīci
+śrīpādapadmanakhacandracayāgracumbi
+celaṃ babandha tapanīyaguṇānubandhi
+<2.167>
+lambapralambayugalena supaṭṭadāmnā
+muktāmaṇīndramahasā vilasadgarimṇā
+ākuñcanakramavaśātkamalānukārāṃ
+jagrantha nīviṃ abhinābhi suśilpasārām
+<2.168>
+kanakabindumatī navaśā ikā
+ghanarucistaduparyatididyute
+yadabhiveṣṭanaṃ eva mukundadṛṅ
+niranurodhanarodhanaṃ ucyate
+<2.169>
+ārohya tāṃ atha mahāmaṇipīṭhapṛṣṭhe
+vistāritātimṛducelakṛtapratiṣṭhe
+prakṣālya pādakamaladvitayaṃ satoṣāḥ
+sakhyo vyadhurvividhamaṅgalaveṣabhūṣāḥ
+<2.170>
+bhūyaḥ prasārya bahuśo bahuśaḥ prasādhya
+ratnaprasādhanikayāṅgulibhirviśodhya
+kālāguruprabhavadhūpadhurāpracāram
+ālījanaḥ kacabharaṃ surabhīcakāra
+<2.171>
+snānādṛjuṃ sadalakāliṃ arālayitvā
+kastūrikābhiralike tilakaṃ likhitvā
+sindūrabindurucire'kṛta bālapāśyāṃ
+sīmantasīmani maṇīndramayūkharasyām
+<2.172>
+kastūrīpatravallīsamudayakhacitaṃ pārśvayorākapolaṃ
+bhāle śrīkhaṇḍabindūtkaravṛtaṃ abhitaḥ kāmayantrābhidhānam
+antaḥ kastūrikodyanmalayajaśaśabhṛllekhayādhaścitaṃ sā
+cakre sīmantarekhānvitaṃ atha tilakaṃ sāndrasindūrapaṅkaiḥ
+<2.173>
+maulau babandha katamā sumaṇipravekaṃ
+sanmālatīkusumagarbhakakāntisekam
+dhammillaṃ ullasitalohitapaṭṭadāmnā
+lambapralambayugalena maṇīndradhāmnā
+<2.174>
+sūkṣmordhvarandhragatahemaśalākikāyā
+mūlāgrasaṅgalalite vidadhe sukāyā
+śrīcakrikābakulike śrutimadhyadeśe
+ratnaprabhābharadhurā vihitopadeśe
+<2.175>
+muktākalāpakalayā lalitaprakāśyāṃ
+kācidvyadhādalakasīmani patrapāśyām
+kācinmaṇīndramayakuṇḍalaṃ atyudāram
+ekaikaśaḥ śrutiyuge ghaṭayāṃ cakāra
+<2.176>
+kācidvibhūṣya nayane dalitāñjanena
+smārau śarāviva nighṛṣṭarasāñjanena
+nāsāpasavyapu ake vitatāra muktāṃ
+netrāñjanādharavibhābharanīlaraktām
+<2.177>
+makarike likhatī mṛdugaṇḍayor
+makaraketanaṃ āhvayadeva sā
+yaṃ adharāruṇapallavaṃ arpayan
+rasamaye samaye harirarcayet
+<2.178>
+ruciracibukamadhye ratnarājacchalākā
+kalitakaraviśākhānirmito'syāścakāsti
+navamṛgamadabinduḥ śobhayanśrīmukhenduṃ
+bhramara iva dalāgre sanniviṣṭaḥ sarojam
+<2.179>
+karpūrāgurukāśmīra
+paṅkamiśritacandanaiḥ
+samālipya viśākhā'syāḥ
+pṛṣṭhaṃ bāhukucāvuraḥ
+<2.180>
+puṣpagucchendulekhābja
+makarīcūtapallavam
+lilekha citraṃ kastūryā
+citrā tatkucayostaṭe
+<2.181>
+mīnīprasūnanavapallavacandralekhā
+vyājātsvacihnaśarakuntadhanūṃṣi kāmaḥ
+tadbhrūdhanurdhuvanamātranirastakarmā
+manye nyadhatta nijatatkucakoṣagehe
+<2.182>
+citrārpitānekavicitraratna
+muktācitā raktadukūlacolī
+kucau bhajālendradhanurvicitrā
+tastāra śailāviva sāndhyakāntiḥ
+<2.183-184>
+upari khacitanānāratnajālaiḥ sphuranta
+vimalapura apatryā kaṇṭhaṃ asyā viśākhā
+harikaradaracihnaśrīharaṃ puṣkarākṣyāḥ
+sapadi haribhiyeva chādayāmāsa madhye
+vajrācitākhaṇḍalaratnacitra
+susthūlamadhyo guṇabaddhacañcuḥ
+lalāsa tasyā upakaṇṭhakūpaṃ
+dattastayā hā akacitrahaṃsaḥ
+<2.185>
+suvarṇagolīyugamadhyagollasan
+masāragolīgilito'ntarāntarā
+susūkṣmamuktāvaligumphitastayā
+nyayoji hāro hṛdi gostanābhidhaḥ
+<2.186>
+masāracandropalapadmarāga
+suvarṇagolīgrathitāntarālaiḥ
+muktāpravālaiḥ parigumphitāṃ sā
+ratnasrajaṃ taddhṛdaye yuyoja
+<2.187>
+vaidūryayugmācitahemadhātrikā
+bījābhagolīgilito'ntarāntarā
+vicitramuktāvalicitragucchako
+rarāja tasyā hṛdaye'rpitastayā
+<2.188>
+rāse niśīthe sahanṛtyagāna
+tuṣṭena dattāṃ hariṇā svakaṇṭhāt
+tasyaiva sākṣādiva rājalakṣmīṃ
+guñjāvalīṃ taddhṛdi sā yuyoja
+<2.189>
+sthūlatārāvalīramyā
+sannāyakavibhūṣitā
+tasyā ekāvalījyotsnī
+hṛdambaraṃ amaṇḍayat
+<2.190>
+kanakakhacitavajrairveṣṭitaiḥ padmarāgaiś
+citaharimaṇipūrṇābhyantarā śātakoṃbhī
+pratanupura arājacchṛṅkhalālambamānā
+lasati hṛdi viśākhāyojitāsyāścatuṣkī
+<2.191>
+ālījanairmaṇḍanakelikāle
+vibhūṣyamāṇā vṛṣabhānuputrī
+urogate nīlamaṇīndrahāre
+svinnā sakampā pulakākulāsīt
+<2.192>
+pṛṣṭhāntaḥ kramalambamānaṃ amalaṃ grīvāntahārāvalī
+vī ībandhanapaṭṭasūtracamarījālaṃ tadāsyā babhau
+manye cārunitambaśailaka akānmūrdhnādhirohārthakaṃ
+sopānaṃ vidhinā kṛtaṃ karuṇayā veṇībhujaṅgyāḥ sphuṭam
+<2.193>
+madhyepragaṇḍaṃ atulāṅgadamunmaṇīni
+madhyeprakoṣṭhaṃ atulāni ca kaṅkaṇāni
+tatsīmni kāpyakṛta maṅgalapaṭṭasūtraṃ
+ratnaprakāśi maṇibandharucāticitram
+<2.194>
+muktāvalīkhacitahā akakaṅkaṇābhyāṃ
+saṃveṣṭitaḥ sa valayāvalisanniveśaḥ
+bimbairvidhormilitabhāskaramaṇḍalābhyāṃ
+tasyāścakāsti nitarāṃ iva saiṃhikeyaḥ
+<2.195>
+nijanāmāṅkitā nānā
+ratnadyutikarambitā
+babhāvaṅgulimudrāsyā
+vipakṣamadamardanī
+<2.196>
+tundāntike maṇivinirmitatundabandhaṃ
+kāñcīguṇaṃ ca tadadho maṇivṛndabandham
+pādāṅgulīṣu vararatnamayormikālīm
+āgulphaṃ ādhṛta suhaṃsakayugmaṃ ālī
+<2.197>
+nakhaśikhāṅghritalādyuruśoṇimāpy
+ahaha yāvakarañjitatāṃ agāt
+bhavati kiṃ daradīpajarociṣā
+dinakṛto na kṛto manujairmahaḥ
+<2.198>
+anyā kācidāha
+vṛthā'kṛthā yāvakaṃ aṅghripaṅkaje
+sva eva rāgo'sya dṛśāṃ rasāyanaḥ 
+kintveka evāsti guṇo'sya rādhike
+yaḥ keśavasyāpi ca keśarañjanaḥ 
+<2.199>
+mañjīrayugmaṃ atimañjularatnasiddhaṃ
+pādāmbujopari cakāra ca kāpi baddham
+tattatsvaśilpakuśalatvanidarśanāya
+kācinmaṇīndramukuraṃ purato nināya
+<2.200>
+asyā nyadhāduṣasi narmadayā svasakhyā
+mālākṛtastanujayopahṛtaṃ viśākhā
+smerāravindavadanātha karāravinde
+līlāravindaṃ aravindavilocanāyāḥ
+<2.201>
+sā kṛṣṇanetrakutukocitarūpaveśaṃ
+varṣmāvalokya mukure pratibimbitaṃ svam
+kṛṣṇopasattitaralāsa varāṅganānāṃ
+kāntāvalokanaphalo hi viśeṣaveṣaḥ
+<2.202>
+mallalīlādikaṃ tasya
+tanmadhye sakhibhiḥ saha
+vilokyaiva hiraṇyāṅgī
+tāṃ āyātāvadaddrutam
+<2.203>
+godohanādatha viramya sa ramyalīlaiḥ
+sārdhaṃ nijapriyasakhaiḥ svasamānaśīlaiḥ
+abhyāyayau kutukamallavilāsanityā
+bhyāsālayaṃ maṇimayaṃ sakalaikamatyā
+<2.204>
+pratyekaṃ eva sakhibhiḥ savayobhiretair
+mallakriyāṃ atha bhujābhuji vītabhītaiḥ
+svasvaujasaḥ prakaṭanena saroṣadarpaiś
+cakre'pasarpaparisarpavisarpasarpaiḥ
+<2.205>
+viśramya kiñcidatha sañcitapuṇyavṛndais
+taireva kaiścana mahāguṇavṛkṣakandaiḥ
+abhyañjanārthaṃ anurañjanamañjuhāsair
+abhyaṅgamaṅgalagṛhaṃ praviveśa dāsaiḥ
+<2.206>
+nānāprabandhabahubandhavidhau vidagdhair
+abhyaṅgamaṅgalaviśeṣakalāsu mugdhaiḥ
+tailena sādhu śubhagandhasubāndhavena
+prārambhi yattadurarīkṛtaṃ apyanena
+<2.207>
+āpādamastakaṃ anastasamastabhāgyais
+tailena taiḥ priyasamājasabhājayogyaiḥ
+nātiślathaṃ ca na dṛḍhaṃ ca sumaṅgalāni
+prītyā ciraṃ mamṛdire'tha tadaṅgakāni
+<2.208>
+te kauṅkumena rajasā ghanasāracūrṇaiḥ
+pūrṇena cārumṛdunā paripeṣaśīrṇaiḥ
+vimlānabhāvaṃ atha tailakṛtaṃ harantaḥ
+kṛṣṇasya tānavayavānudavartayanta
+<2.209>
+kenocitena ghanasārasuvāsitena
+nānāvidhasphaṭikahemaghaṭībhṛtena!
+keśānkaṣāyakaṣitānkalayankumāra
+dāsīgaṇo'mbujadṛśaṃ snāpayāṃ cakāra
+<2.210>
+kācitkaṣāyitakacānbahuśaḥ kaṣantī
+kācinmṛdūnavayavānmṛdu mārjayantī
+bhṛṅgārakeṇa katamā salilaṃ kirantī
+lebhetarāṃ atitarāṃ anurāgakāntī
+<2.211>
+jyotsnābhirnavanīradaḥ kiṃ athavā śuklena nīlo guṇaḥ
+śuddhasphaṭikaratnakāntisalilaiḥ kiṃ vendranīlāṅkuraḥ
+muktābhiḥ kiṃ u vā tamālataruṇaḥ snātaḥ samudbhrājate
+kiṃ vā śyāmasarojaṃ ujjvalavidhukṣodairmurārervapuḥ
+<2.212>
+evaṃ samāpya katame snapanaṃ śubhena
+śaṅkhodakena śirasi pratipāditena
+aṅgoñchanāṃśukaṃ anekaṃ athopanīya
+saṃmārjanaṃ vidadhurasya bhṛśaṃ vinīya
+<2.213>
+ādau sucelaśakalairmṛdulairaśuṣkaiḥ
+paścātkrameṇa mamṛjuḥ sitasūkṣmaśuṣkaiḥ
+āpādakuntalabharaṃ pratisandhisandhi
+te mārjanaṃ vidadhire praṇayānubandhi
+<2.214>
+kaścitkacāngatajalāndvividhena vāsaḥ
+khaṇḍena sādhu vidadhe mṛdumandahāsaḥ
+kaścitpaṭuḥ kaṭita ādgaladambucelaṃ
+celāntareṇa vinināya kṛtāvahelam
+<2.215>
+kenāpi nūtanaṃ atitvarayopanītaṃ
+kauṣeyacelayugalaṃ drutahemapītam
+kenāpi pāṇikamale kramataḥ pradattam
+utsārya pūrvapaṭaṃ āśu sa paryadhatta
+<2.216>
+tasyāsthitasya ramaṇīyamaṇīcatuṣkaṃ
+prakṣālitāṅghrikamalasya lasadvapuṣkam
+paścādgatena katamena kumārabhṛtye
+nāsevi kuntalabharaḥ kuśalena kṛtye
+<2.217>
+bhūyaḥ prasārya parimṛjya muhuḥ prasādhya
+ratnaprasādhanikayā bahuśo viśodhya
+āvṛtya celaśakalena satā dviphāla
+baddhaḥ sa kuntalabharaḥ prabhayā paphāla
+<2.218>
+anyonyapālanakṛtā kacamecakimnā
+sūkṣmātisūkṣmavasanasya ca pāṇḍarimṇā
+nirmokamokaparabhoginibho'sya keśa
+vinyāsa eṣa na hi kasya dṛśorviveśa
+<2.219>
+snānādṛjūnsadalakānatha kuñcayitvā
+cārusvabhāvaku ilānapi rañjayitvā
+bhāle lilekha tilakaṃ śaśimaṇḍalābhaṃ
+śrīkhaṇḍakuṅkumarasena sujātaśobham
+<2.220>
+gārutmatendramaṇihīrakapadmarāga
+pradyotanaṃ vidhurayantyaṃ ivāpyanāgaḥ
+anyaprabhāvaraṇakārimayūkhasāndraṃ
+śrīkaustubhābhidhaṃ adhatta mahāmaṇīndram
+<2.221>
+sthūlena mauktikaphalaprakareṇa kptān
+hārāndadhāra giragocaratāṃ avāptān
+kañcidviśālataravakṣasi nābhikūle
+kañcitpralambaṃ atha kañcana jānumūle
+<2.222>
+śrīkuṇḍale maṇimaye makarānukāre
+kāntiprabhākṛtakapolamahaḥpracāre
+śrīkarṇayorupanināya jaloparuddhe
+snānotsavena virahayya sa pūrvasiddhe
+<2.223>
+satpaṭṭasūtrakṛtamañjutarapralambau
+sadratnapaṭṭamayamaṅgalasūtracumbau
+gārutmatādinavaratnajabāhubandhau
+kaścidbabandha valayau maṇibandhasandhau
+<2.224>
+divyāṅgulīyakaṃ udāraṃ anāmikāyāṃ
+tatpadmarāgamahasāṃ pariṇāmikāyām
+pṛṣṭhopasannamaṇimudraṃ avarjanīyaṃ
+datte sma kaścidadhitarjani rañjanīyam
+<2.225>
+nānāmaṇīndraghaṭayā ghaṭitānubandhaṃ
+pītāṃśukodarata īṃ anu tundabandham
+māṇikyakiṅkiṇiguṇaṃ ca ka īramūle
+kaścidbabandha paridhattalasaddukūle
+<2.226>
+pādāmbujopari maṇīndraghaṭānukptaṃ
+mañjīrayugmakaṃ atho nakhacandradīptam
+ādhāya ko'pi maṇidarpaṇaṃ atyudāram
+āsyendubimbaṃ adhi saspṛhaṃ ādadhāra
+<2.227>
+atrāntare vrajapurandarasannideśam
+ādāya kaścana tadasya gṛhaṃ viveśa
+ūce ca kṛṣṇa! janakasya girā bahubhyas
+tvaṃ dātuṃ arhasi gavāṃ ayutaṃ dvijebhyaḥ
+<2.228>
+śrutvā piturgiraṃ asau cikuraṃ nibadhya
+pītottarīyaṃ api samyagatho viśodhya
+ācamya ramyavadano guṇaratnasānū
+rāmānujaḥ sīvamanasā vitatāra dhenūḥ
+<2.229>
+goṣṭheśvarīpsitatamo rasavatprapākaḥ
+sampādito bhavati yāvadanekapākaḥ
+tāvanna soḍhuṃ abhiśaktavatī vilambaṃ
+sā prāhiṇotkiṃ api bhoktuṃ athāvilambam
+<2.230>
+haiyaṅgavīnadadhidugdhasarādibhakṣyam
+etatsametaghanasārarajo'bhibhakṣya
+ācamya ca priyasakhāṃsakṛtāvalambas
+tāmbūlamāda madhurānanacandrabimbaḥ
+<2.231>
+niśamyemāṃ vārttāṃ pramuditavatī sīdhusadṛśīṃ
+svayaṃ paktvā yanno tadaśanaṃ asau kāritavatī
+viṣaṇṇā bāṣpāṇāṃ himamihikābindunikaraṃ
+mumocevākṣibhyāṃ jalajayugataḥ śīkarakaṇam
+<2.232>
+atrāntare vrajapurādhipayā'napāya
+vātsalyakalpalatayā'tirayānnirdiṣṭā
+āgatya kundalatikāntiṃ etadakṣi
+bhṛṅgapramodakṛtaye kṛtinī vyarājīt
+<2.233>
+anyonyadarśanasamudgamanasmitāḍhya
+śastānuyogarabhasonnatisīdhuvṛṣṭiḥ
+sadyo babhūva yata eva tadā tadāli
+vṛndaṃ nananda samasauhṛdahṛdyarociḥ
+<2.234>
+vrajapuraparameśvarīprasādaṃ
+mayi sakhi! vyakti tavodayo hyakasmāt
+na śiśirarucinā vinaiva pūrvāṃ
+diśaṃ adhi rātri sameti kāpi lakṣmīḥ
+<2.235>
+tadahaṃ anumime nideśadambhāt
+kiṃ api kṛpāmṛtaṃ eva sā vyatārīt
+yadidaṃ anupalabhya yanmamātmā
+svaṃ api sakhedaṃ avaityanātmanīnam
+<2.236>
+ajani rasavatīvidhāpanārthā
+rasavati! te gatirityavaimi nūnam
+atha kiṃ itarathā javādayāsīḥ
+prathamato'nunayantyamūṃ madāryām
+<2.237>
+iti sudṛguditāmṛtaṃ pibantī
+smitasubhagaṃ nijagāda kundavallī
+tadayi sakhi! vidhehi tatra yātrām
+akṛtavilambaṃ itaḥ sahālivṛndā
+<2.238>
+kiṃ iha gurujanāvaleranujñā
+grahaṇavidhāvaṇumātraṃ asti kaṣṭam
+yadatuladhanadhenudhānyavarṣair
+akṛta vaśāṃ svayaṃ eva tāṃ vrajeśā
+<2.239>
+nirupadhiparamapriyo'sukoṭer
+api nikhilasya janasya goṣṭhabhājaḥ
+vrajapatitanayaḥ samīhate yat
+paraṃ iha vipratipattirasti kasya
+<2.240>
+sakhi! kiṃ api na veda tatsavitrī
+tadatularocakavastu saṃjighṛkṣuḥ
+ucitaṃ anucitaṃ svalābhahānī
+nijaparabhāvabhidā yaśo'yaśo vā
+<2.241>
+pacasi yadapi yaśca tasya bhoktā
+sa ca tirayatyamṛtaṃ sadaiva divyam
+iti nikhilapureṣvatiprasiddhis
+tava sakhi! kaṃ na camatkaroti bāḍham
+<2.242>
+yadavadhi kalayāṃ babhūva sā tvāṃ
+munivaradattavarāṃ varāmbujākṣi!
+tadavadhi tava pāṇisaṃskṛtānnā
+śanaviratiṃ kvacanāhni nāsya cakre
+<2.243>
+jayati yadatighoradaityayūthaṃ
+mṛdulatanuḥ svaparābubhūṣuṃ eṣaḥ
+tvadamalakarapakvabhaktabhukter
+aparaṃ iyaṃ manute na hetuṃ atra
+<2.244>
+śṛṇu paramayi tattvaṃ atra rādhe
+yadavagataṃ sahasāntaraṃ mayāsyāḥ
+pratidinaṃ avalokanaṃ vinā te
+śaśimukhi! khidyati sā yathā svasūnoḥ
+<2.245>
+sutanurabhidadhe'vadhehi vijñe
+sakhi! tadidaṃ na vadasyayuktaṃ ittham
+api tu kulavatīti vādabhājāṃ
+sphuṭaṃ aparāṅganagāmitetyayuktam
+<2.246>
+yadapi bata sakhīyaṃ rītireveha loke
+tadapi tava vaco no laṅghanīyaṃ kadāpi
+anunaya prathamaṃ tāṃ kintu yuktyā hi vṛddhāṃ
+parivadati tu yā māṃ āśu labdhvāpi rāyam
+<2.247>
+tataḥ sāsādya jaṭilāṃ
+snuṣāyāṃ ku ilāṃ api
+śrāvayāmāsa sandeśaṃ
+vrajeśvaryā vicakṣaṇā
+<2.248-249>
+ākarṇya sājñāṃ vrajarājarājñyāḥ
+kṛṣṇātsnuṣāyāṃ api śaṅkamānā
+vicintya śikṣāṃ atha paurṇamāsyās
+tāṃ kundavallīṃ praṇayādavādīt
+snuṣeyaṃ me sādhvī guṇagarimamādhvīkamadhurā
+janaśchidrānveṣī sa khalu capalo nandatanayaḥ
+na cājñāvajñeyā vrajapatigṛhiṇyā bhagavatī
+vacaḥ pālyaṃ vatse! na ati hṛdayaṃ kiṃ nu karavai!
+<2.250>
+mātaḥ! satyaṃ vadati bhavatī kiṃca gopendrasūnur
+nāyaṃ jñeyaḥ khalasamudayairyādṛśaḥ śrāvito'sti
+kintu prodyaddyumaṇiriva saddharmapadme khalālī
+ghūke cāyaṃ vṛjinatimire ghoṣasantoṣakoke
+<2.251>
+mādhuryaṃ tūnmadayati jagadyauvataṃ tasya tasmād
+bhītirnītistava navavadhūpālanaṃ cāpi yuktam
+māśaṅkiṣṭhāstadayati yathā dṛkpathaṃ nāsya sādhvyāś
+chāyāpyasyāḥ svayaṃ ahaṃ imāṃ drāktathā te'rpayāmi
+<2.252>
+tvaṃ putri! sādhvī prathitāsi goṣṭhe
+tvayyarpiteyaṃ saralā vadhūstat
+sa loladṛṣṭiḥ kila nandasūnur
+naināṃ yathā paśyati tadvidheyam
+<2.253>
+vadhūṃ athāhūya jagāda vatse
+vrajālayānnandavadhūsamīpam
+niṣpādya tasyāḥ priyaṃ ehi tūrṇaṃ
+sahānayaivādya ravistvayārcyaḥ
+<2.254>
+rādheti diṣṭā hṛdi sābhinanditā
+pyanicchuvadgantuṃ uvāca tāṃ sakhīm
+astīha kṛtyaṃ na ca me yiyāsutā
+gṛhaṃ gṛhaṃ neṅgati yatkulāṅganā
+<2.255>
+vrajapatigṛhiṇīgiraṃ cirābhyar
+thanavinayānunayānubaddhamūlām
+kati nirasituṃ atra śaknumastat
+tava bhagavānharireva rakṣitāstu!
+<2.256>
+avati jagadidaṃ svadharmapālīḥ
+kiṃ iha satīḥ sa jahāti lokanāthaḥ?
+iti kila bhavatīṃ tadīyapāṇau
+sumukhi! samarpya nirākulā bhaveyam
+<2.257>
+iti gurujaratīgirā samudyat
+smitalavasaṃvṛtipeśalāḥ sakhīḥ svāḥ
+vikasadasitanetrakoṇabhaṅgyā
+kiṃ api nigadya babhūva sāpi tūṣṇīm
+<2.258>
+kṛtāgrahoccaiḥ punarāryayāsau
+kaundyā babhāṣe kṛtahastakarṣam
+bhītāsi kiṃ sādhvyahaṃ asmyavitrī
+tyuccālitā phullatanuḥ pratasthe
+<2.259>
+kṛṣṇasya prātarāśāya
+saṃskṛtaṃ laḍḍukādikam
+ādāya lalitāmukhyāḥ
+sakhyo'pyanuyayuḥ sakhīm
+<2.260>
+atha nijabhavanādviniryatī sā
+tanuvasanābharaṇacchavicchaṭābhiḥ
+vyadhita maṇivicitraśātakoṃbhīṃ
+puraviśikhāṃ surabhīkṛtākhilāśā
+<2.261>
+jananivahagatāgatipravṛttau
+daravimukhī saraṇeḥ śritaikapārśvā
+avanatadṛgavācakāsyapadmo
+pari pariguṇṭhanamādhurī prapede
+<2.262>
+vīkṣyādhvani parānanda
+caladvakṣaḥpa āñcalām
+savayasyāṃ kundavallī
+premṇā parijahāsa tām
+<2.263>
+mūlyānītopasaryāstricaturadivasānproṣya sandhyāgataste
+bhartā gobhiḥ svagoṣṭhe ghaṭayituṃ akhilāṃ rātriṃ eva nyavātsīt
+vakṣaḥ prodyannakhāṅkāvalicitaṃ adharaḥ spaṣṭadantakṣato yat
+tatsādhvyāste satītvaṃ samucitaṃ adhunā vyaktaṃ ullālasīti
+<2.264-265>
+antargūḍhasmitotphulla
+kiñcitkuñcitalocanām
+svasakhīṃ lalitālokya
+kundavallīṃ athābravīt
+karakaphaladhiyāsyāḥ kānane dhṛṣṭakīraḥ
+stanaṃ anuviniviṣṭaḥ pakvabimbabhrameṇa
+adaśadadharaṃ uccaistannakhāco itaṃ tad
+dhṛdayaṃ idaṃ amuṣyāḥ kiṃ vṛthā śaṅkase tvaṃ
+<2.266-267>
+sakhīvacaḥsmāritakṛṣṇasaṅga
+līlocchalatkampataraṅgitāṅgīm
+tāṃ vīkṣya padmākaraṃ īkṣamāṇā
+jagau punaḥ kundalatā sahāsam
+ānandakampottaralāsi mugdhe!
+kiṃ bho vṛthā padmini! kundavallyāḥ
+na devarastvāṃ madhusūdano'sau
+bhrāmyanpunaḥ pāsyati bhuktamuktām
+<2.268-269>
+karṇaśarmadasannarma
+bharmakuṇḍalanirmitau
+karma hāṃ kundavallīṃ tāṃ
+viśākhāha vicakṣaṇā
+svene'nurāgaṃ paraṃ udvahantī
+phullāpi mṛdvī bhramarātsulolāt
+satpadminīyaṃ sakhi kundavallī
+bhṛṅgānujādbhītaralā cakampe
+<2.270>
+athānantaram
+kvacana ca pathi nirjane kadācit
+sphuṭaṃ itaretaravāgvilāsaraṅgaiḥ
+yadi calati tadā kutaḥ kva yāmī
+tyapi na hi vedanagocarīkaroti
+<2.271>
+kṛṣṇānurāgeṇa vihastacittām
+ānandarāśiṃ janayantaṃ eva
+sandarśayāmāsa pathi vrajantīṃ
+nandīśvaraṃ tāṃ kila tuṅgavidyā
+<2.272-273>
+rasālapanasārjunakramukanārikelāsanaiḥ
+palāśava aparka īkhadirabilvajambvādibhiḥ
+madhūkagirimallikābakulanāgapunnāgakair
+aśokabakapā alīkanakacampakaiścampakaiḥ
+tamālanavamālikākanakayūthikāyūthikā
+kuraṇakalavaṅgikādamanakātimuktādibhiḥ
+api sthalasarojinīvicakilādibhiḥ kandalī
+priyaṅgutulasīmukhairapi vicitravīrudgaṇaiḥ
+<2.274>
+sitāsitavilohitotpalasarojakahlārakai
+rathāṅgabakasārasaiḥ kurarahaṃsakāraṇḍavaiḥ
+virājitataraṅgakairvimalavāribhirvāpikā
+taḍāgasarasīmukhaiḥ parivṛtāni toyāśayaiḥ
+<2.275>
+hambāravairiha gavāṃ api ballavānāṃ
+kolāhalairvividhavandikalāvatāṃ taiḥ
+sambhrājate priyatayā vrajarājasūnor
+govardhanādapi gururvrajavanditādyaḥ
+<2.276>
+sakhi! nijapurato vidūraṃ āgā
+vrajapatisadma samīpavarti vṛttam
+tadayi nayanacātakābhilāṣaḥ
+phalati tavāśviti samprati pratīhi
+<2.277-278>
+iti nigaditamātrataḥ svasakhyā
+sapadi savepathujāḍyaviplutāṅgīm
+prasabhaṃ abhidadhāra cetayantī
+kiṃ api jagāda ca tāṃ tadaiva kaundī
+sumukhi! kiṃ adhunaiva viklavābhūr
+nayanapathāmilite'pi kṛṣṇacandre
+avagamaṃ akhilaṃ satītvaṃ āptaṃ
+tava savayaḥ sada eva yatpramāṇaṃ
+<2.279>
+dhṛtiṃ iha hṛdi dhartuṃ īśiṣe no
+yadapi tadapyabale! kṣaṇaṃ dadhīthāḥ
+giriyugabharadhāraṇāya yatte
+giridhara eva mayādya yojanīyaḥ
+<2.280>
+giridharadiśa eva śaṅkayā yā
+jani vidhurādya sakhī mahāsatīyam
+parivadasi balādimāṃ avijñe!
+tadapi niyokṣyasi hā punastaṃ asyām
+<2.281>
+tvayi muhuriyaṃ arpitāryayā yat
+taducitaṃ eva vidhitsase'dya bhadram
+svaṃ iva sakhi! paraṃ janaṃ na viddhī
+tyuditavatī lalitā punastayoce
+<2.282>
+alaṃ alaṃ anayā girāvidūre
+kalaya puraḥ puratoraṇopakaṇṭhe
+sphaṭikaghaṭitaratnacitritāsthā
+nyabhinavakuṭṭimagaṃ hṛdekakāmyam
+<2.283>
+sarasaṃ uṣasi dugdhanaicikīkaḥ
+sahasavayāḥ kṛtamallaraṅgakeliḥ
+avagatabhavadāliyānavārttā
+kṣubhitahṛdāgata eṣa bhāti paśya
+<2.284>
+vrajapuralalanākulonmadiṣṇu
+karaṇapaṭucchavimaṇḍalopagūḍhaḥ
+madhurimadhurayaiva kiṃ tribhaṅgī
+kṛtatanuruccaladāmamāditālīḥ
+<2.285>
+śritamṛdutaragaṇḍakuṇḍalādhyā
+panaparatāṇḍavapaṇḍitākṣiyugmaḥ
+pavanadhutapaṭāṅgagauranīla
+dyutilaharīstimitīkṛtākhilāśaḥ
+<2.286>
+priyasakhabhujaśīrṣṇi rājadudyat
+karikaranindakadhāmavāmabāhuḥ
+nijarucivijitābjaghūrṇanaika
+vyasanavaśetarapāṇireṣa īṣṭe
+<2.287>
+iti giraṃ atha rūpamādhurīṃ tāṃ
+yadi caṣakīkṛtakarṇanetrayugmā!
+apivadadaramohatastadā tat
+prasṛmarasaurabhaṃ āśvabodhayattām
+<2.288>
+pulakanivahakampasampadaśru
+srutikalilāpi dhṛtiṃ dadhatyavādīt
+sakhi! kiṃ aparaṃ asti vartma pādau
+na mama puraścalato'sya kiṃ karomi
+<2.289>
+guruparavaśataiva doṣadūrī
+karaṇapaṭustava kiṃ bhiyā hriyā vā
+sapadi savayaseti bodhyamānā
+laghu laghu gantuṃ iyeṣa sā tadagre
+<2.290>
+kiṃ idaṃ iti parasparāvaloko
+cchalitamahāmadhurimṇi yattayostāḥ
+svaṃ atulatarasi nyamajjayannā
+laya iti varṇayituṃ na gīrapīṣṭe
+<2.291>
+aghadamanacakoracandrikāstāḥ
+śaśivadanāpi papau muhuḥ pipāsuḥ
+giridharamudiroparīha cāta
+kyatanurasaṃ pravavarṣa seti citram
+<2.292>
+atha nijanija mūrdhni savyahaston
+namanakalākalitāvaguṇṭhanāstāḥ
+avanatanayanāñcalīvilīḍha
+priyacaraṇābjasudhā yayustadagrāt
+<2.293>
+harirapi parivṛtya tannitamba
+dyutinihitekṣaṇapaṅkajo'vatasthe
+varatanutatirapyatītya tadgo
+puraṃ avaguṇṭhanaṃ īṣadasyati sma
+<2.294-295>
+sakhi! bhavadavalokajātaharṣaṃ
+sapadi sa campakamālayā baṭustam
+sukhinaṃ akṛta yattadiṅgitajñā
+bhavasi na vetyuditāha sā svasakhyā
+tvaṃ asi khalu yathā tathānvamāsīr
+nijadṛśīryatase parā vidhitsuḥ
+iti daravikasatsmitā bhramadbhrūs
+tvaritaṃ avāpa mahāpurāntaraṃ sā
+<2.296>
+sphaṭikaghaṭitakuḍyaṃ īḍyabharmoj
+jvalapa alaṃ pavikīlakaṃ kavā am
+maṇimayalalanādhṛtapradīpa
+vratatinagadvijarājirājitadvāḥ
+<2.297>
+dyumaṇikiraṇadīptaratnakumbha
+dhvajana akekivṛtāgrapaura ā am
+suravarapuranindi yatra śaṃdaṃ
+vilasati mandiravṛndaṃ indirāḍhyaṃ
+<2.298>
+masāraprācīraṃ marakatagṛhaṃ hemapa alaṃ
+pravālastambhālisphaṭikavṛtivaidūryavaḍabhiḥ
+mahānīlendrā aṃ vimalakuruvindopalamahā
+pratīhāraṃ nānākṛti jitavimānāvalipuram
+<2.299>
+kuḍye yasya maṇipravekaracite śilpakriyākalpitaiḥ
+pratyāsajya śukaiḥ samaṃ gṛhaśukeṣvāsāditasthemasu
+saprāṇāḥ kiṃ amī ime kiṃ atha vetyunmīlataḥ saṃśayād
+dātuṃ dāḍimabījakāni suciraṃ muhyanti mugdhāṅganāḥ
+<2.300>
+mukhyaprakoṣṭhe caturālaye'syā
+bhāṇḍāragehaṃ varuṇasya diśyam
+śrīkṛṣṇavāsaḥ śubhadakṣiṇasthaḥ
+śrīrāmadhāmottaradiśyudeti
+<2.301>
+prācyāṃ gṛhaṃ tādṛśaṃ eva yatra
+prācyāṃ sa yasyānyataraprakoṣṭhe
+svaputrabhadrāya nijeṣṭadevaṃ
+nārāyaṇaṃ sevate eva nandaḥ
+<2.302>
+koṣālayasyānvitadakṣiṇāṃśe
+kṛṣṇasya dhāmnaḥ śubhapaścime'sti
+yā pākaśālādvayamadhya eva
+viśrāmadhāmānuru rādhikāyāḥ
+<2.303>
+kṛṣṇasya dhāmno'nvita dakṣiṇāṃśe
+pākālayasyāpi virājamānaḥ
+ārāma āste sarasī ca yatra
+raho manojñaṃ bahugehavedi
+<2.304>
+atha samupaseduṣīṃ sakhībhirhari
+jananī nijaveśma bhāsayantīm
+amanuta bhuvanatrayaikalakṣmīm
+uditavatīṃ muditā'rkamitraputrīm
+<2.305>
+tatrāgatāṃ caraṇayoḥ praṇatāṃ svadorbhyām
+utthāpya tāṃ hṛdi nidhāya mukundamātā
+āghrāya mūrdhni muditā jananī parārdhā
+snigdhā cucumba mukhaṃ aśrumukhī tato'syāḥ
+<2.306>
+pratyekaṃ āliṅgya ca tadvayasyāḥ
+papraccha sā'vyāhatabhavyaṃ asyāḥ
+vyagrā sutasyāśanasādhane drāk
+sasnehaṃ etāḥ punarāvabhāṣe
+<2.307>
+na sutāsi kīrtidāyāḥ
+kintu mamaiveti tathyaṃ ākhyāmi
+prāṇimi vīkṣya mukhaṃ te
+kṛṣṇasyeveti kiṃ trapase?
+<2.308>
+madhuramṛdulamodakādi kiñcit
+samaṃ upaveśya sakhījanairbalāttām
+drutahṛdayā dhaniṣṭhayāśayitvā
+bhṛśaṃ upalālya nināya pākaśālām
+<2.309>
+vividhamadhurabhakṣyotpādane labdhavarṇā
+vrajabhuvi kila yūyaṃ viśrutā miṣṭahastāḥ
+tadiha kuruta putryaḥ! sādhu bhakṣyāṇi yatnād
+dararucirapi vatsaḥ saspṛhaṃ me yathātti
+<2.310>
+upalāvaṇikaṃ tvekāḥ
+kāścitkuruta dādhikam
+sārpiṣkaṃ aparā yūyaṃ
+vatsāḥ śārkarikaṃ parāḥ
+<2.311>
+sarasarasavatīsatprakriyāpaṇḍitāsi
+tvaṃ iha rasavatīṃ me yāhi rādhe! prayatnāt
+janani! balajananyādhiṣṭhitāṃ miṣṭaṃ annaṃ
+racaya saha tayaiva vyañjanānyuttamāni
+<2.312>
+va akaṃ amṛtakeliṃ sādhayātiprayatnāt
+sarasamasṛṇaṃ anyaṃ putri! karpūrakelim
+madhuraṃ amṛtakoṭeryatra kṛṣṇaḥ satṛṣṇas
+trijagati na hi kaścittvāṃ ṛte yasya vettā
+<2.313>
+yasyāṃ uccairlālasāḍhyaḥ suto me
+tāṃ pīyūṣagranthipālīṃ ca kṛtvā
+karpūrailādyanvitapānake tvaṃ
+yatnādvatse! dhehi pañcāmṛtākhye
+<2.314>
+tvaṃ vidhehi lalite'mba! rasālāṃ
+tvaṃ ca ṣāḍavaṃ ihāśu viśākhe!
+tvaṃ ca bhoḥ śikhariṇīṃ śaśilekhe
+putri campakalate! mathitaṃ tvam
+<2.315>
+āmikṣāṃ tvaṃ putri! saṃsādhya tasyās
+tattaddravyairyogapākaprabhedaiḥ
+tattadbhedāntuṅgavidye! vidhehi
+tvaṃ matsyaṇḍīpānakānyamba! citre!
+<2.316>
+tvaṃ khaṇḍamaṇḍāni ca raṅgadevi!
+tvaṃ kṣīrasārānvividhānsudevi!
+vāsanti! śubhrā mṛduphenikāstvaṃ
+tvaṃ maṅgale! kuṇḍalikāṃ vidhehi
+<2.317>
+kādambari! tvaṃ kuru candrakāntīs
+tvaṃ lāsike! taṇḍulacūrṇapiṇḍīḥ
+tvaṃ śaṣkulīḥ kaumudi! bhūribhedās
+tvaṃ indupiṇḍāni madālase'mba!
+<2.318>
+śaśimukhi! va akāni tvaṃ vidhehi prayatnād
+dadhiva akamukhāni prājyamādhuryabhāñji
+praṇaya sumukhi! ramyāḥ śarkarāpa ikāstvaṃ
+maṇimati! bahubhedāṃstvaṃ ca piṣṭānnapūpān
+<2.319>
+vidhatsva bhoḥ kāñcanavalli! vatse!
+godhūmacūrṇodbhavalaḍḍukāni
+manoharākhyāni manorame! tvaṃ
+tvaṃ mauktikākhyāni ca ratnamāle!
+<2.320>
+subhṛṣṭanistuṣatilair
+modakānkuru mādhavi!
+tathā tilakadambākhyāḥ
+satilāḥ khaṇḍapa ikāḥ
+<2.321>
+lājāndhānāṃśca saṃbhṛṣṭān
+pṛthukānghṛtabharjitān
+kṛtvā vindhye! sitākvāthaiḥ
+samudgānkuru modakān
+<2.322>
+rambhe! karambhaṃ kuru śātakumbha
+kuṇḍyāṃ surambhāphalaśarkarādyaiḥ
+niṣpīḍya pakvāmrarasaṃ manojñe!
+sitāghanakṣīrayutaṃ vidhehi
+<2.323>
+utthāpitaṃ yattu mayā mathitvā
+prātaḥ sugandhāpayaso dadhīni
+tadiṣṭagandhaṃ navanītapiṇḍaṃ
+haiyaṅgavīnaṃ kuru bhoḥ kilimbe
+<2.324>
+svayaṃ dugdhvā vrajendreṇa
+prahitaṃ dhavalāpayaḥ
+pānārthaṃ ambike mandaṃ
+tvaṃ śṛtaṃ kuru vatsayoḥ
+<2.325>
+ṛjīṣadarvīnivahaiḥ parītāṃ
+mṛddārukuṇḍyādikabhājanaiśca
+cullīcayāḍhyāṃ mama siktaliptāṃ
+taddugdhaśālāṃ vrajatāśu bālāḥ
+<2.326>
+nānopakaraṇāni tvaṃ
+tāni tāni dhaniṣṭhike!
+niṣkāsya tattadbhāṇḍebhyaḥ
+pātreṣvādhāya dāpaya
+<2.327>
+tattatpadārthāṃstvaritaṃ tulasyā
+sahānayā raṅgaṇamālike tvam
+ānīya koṣālayato'smadīyād
+dāsīgaṇairdāpaya tatra tatra
+<2.328-329>
+āmrātakāmraphalapūrakarīradhātrī
+limpākakolirucakādiphalāni kāmam
+taile ciraṃ salavaṇe kila sandhitāni
+mūlānyathārdrakamukhāni ca rocakāni
+matsyaṇḍikārasaciroṣitapakvaciñcā
+dhātrīrasālabadarīśakalāni tadvat
+niṣkāsya bhostvaṃ iha manthanikākulebhyaḥ
+kṛtvānayendumukhi! kāñcanabhājaneṣu
+<2.330>
+śande śubhe bharaṇi pīvari miṣṭahaste
+cullīcayoparidhṛtātulamanthanīṣu
+dugdhāni bhārikagaṇopahṛtāni goṣṭhād
+vatsāḥ! śanaiḥ śrapayatāśu nidhāya yūyam
+<2.331-332>
+kāntabhuktāvaśiṣṭaṃ saṃ
+bhujya tu jātaśarmikām
+āyātāṃ svasamīpe tāṃ
+rādhāṃ āha salālanam
+sarasijamukhi! kīrtidaikakīrte!
+pacanakalācaturā kṛtāsi dhātrā
+tadayi rasavatīṃ praviśya pākaṃ
+kuru lalitādisakhīkṛteti kṛtyam
+<2.333>
+śaśimukhi! śaradāṃ śataṃ jayaivaṃ
+sukhaya manonayane mametyuditvā
+anayata sumanoharāstadālīḥ
+śaṃ atulavatsalatālatā natāḥ sā
+<2.334>
+goṣṭheśvarīṃ samabhivādya viśeṣanamrā
+tatpāṇipadmadhṛtapāṇiratīva kamrā
+āsādya rāmajananīṃ praṇanāma yātām
+adhyakṣatāṃ pacanakarmaṇi sābhijātā
+<2.335>
+kailāsaśailakanibhaṃ dadhatī svakāntyā
+nīlāṃśukā praṇayinī hi sadātra rādhā
+ehīti doḥprasaraṇena muhurvadantī
+śiśleṣa tāṃ samukhacumbaṃ asau hasantī
+<2.336>
+tābhyāṃ mahānasaṃ upetya ca pākaśālā
+pālīḥ smitena mṛdunā vacasā ca bālā
+sammānya mānyacaritā mumude mitāni
+pākakriyopakaraṇāni vilokya tāni
+<2.337-338>
+kuṣmāṇḍakālukacumānakakandatumbī
+vārttākumūlakapaṭolaphalāni śimbī
+ḍiṇḍīśavāraṇabuṣāmaphalānyanīcā
+rambhāviśeṣanavagarbhanavīnamocāḥ
+
+vāstūkamāriṣapaṭolaśikhāḥ kalāya
+vallīśikhāścaṇakāgraśikhāḥ pradhāya
+tumbīśikhāśca mṛdulāḥ sahapodikāgrāṇy
+ālokya saikṣata sakhīḥ sarasāḥ samagrāḥ
+<2.339>
+yadyena yena vidhinā ruciratvaṃ etya
+yadvyañjane yadupayujyata ityavetya
+tābhirmahānasacarībhiramūni tāni
+tattatprakāraṃ atha kuṭṭitakarttitāni
+<2.340>
+elālavaṅgamaricārdrakajātyajājī
+jātīphalatvacasulāṅgalisasyarājīḥ
+siddhārthataṇḍulaniśā dalitāṃśca māṣān
+kecijjanāḥ pipiṣurabjadṛśāṃ aśeṣān
+<2.341>
+piṣṭvā suvarṇapuṭikāsu śubhaprabhāvair
+ācchāditāsvanucarīghaṭayā śarāvaiḥ
+susthāpitāni vasanopari pākalīlā
+rambhe cakāra hṛdayaṃ niravadyaśīlā
+<2.342>
+āvaśyakābharaṇaveśalasatpratīkā
+dhautāṅghripāṇikamalā saharohiṇīkā
+babhrāja sā varamahānasavedikāyāṃ
+śraddhāya kautukavatī pacanakriyāyām
+<2.343>
+dīptāsu rāmajananīṅgitato'nalena
+cullīṣu cārutaradārusamujjvalena
+ārūruhannakhilalocanacittajaitrīs
+tāstāmrarītirajatācitapākapātrīḥ
+<2.344>
+jajjvāla sa svayaṃ aphutkṛtivītadhūmam
+agniḥ svayaṃ jalaṃ abhūdanabhūmabhūma
+yadyatra yatra lavaṇaṃ ca tathā pramāṇaṃ
+tattatra tatkaratale'kuruta pramāṇam
+<2.345>
+agurusaraladevadārudāru
+jvalanapariśritacullikācayāgre
+nihitavividhapātrarājirājad
+bahuvidhatemanasādhusādhanārthaṃ
+<2.346-347>
+jvalanakalanapātradhāraṇonna
+tyavanatimūrchanadarvicālanādyaiḥ
+trivalikucabhujāṃsakampaceloc
+calanavaśādudapādi yastadā'syāḥ
+madhurimabharaṃ acyutaḥ svasaudha
+sphuritagavākṣadhṛtekṣaṇaḥ pibaṃstam
+madanamadaṃ udañcitaṃ vivṛṇvan
+kiṃ api jagāda paṭurbaṭuṃ miṣeṇa
+<2.348>
+prahitya taṃ sātha mahānasaṃ gatā
+kiṃ kiṃ tvayā sādhitaṃ etayā saha
+sarvaṃ tadetanmama temanādikaṃ
+saṃdarśayetyāha balasya mātaram
+<2.349>
+tāṃ āha sammārjitavedikāntare
+navīnamṛdbhājanapaṅkti sambhṛtam
+sā darśayantī kṛtatemanādikaṃ
+rādhāṃ praśaṃsantyatha tāṃ ca rohiṇī
+<2.350>
+sumadhuraṃ śaśito'pi susaṃskṛtaṃ
+nipuṇayā pacane mṛdu rādhayā
+pravaramanthanikāsu susambhṛtaṃ
+sumukhi! paśya puraḥ sakhi! pāyasaṃ
+<2.351>
+balapuṣṭikaraṃ hṛdyaṃ
+madhuraṃ mṛdulaṃ sati!
+manthanīsambhṛtaṃ paśya
+saṃyāvaṃ anayā kṛtam
+<2.352>
+rambhāsīrīkṣīrasāraiḥ
+śaṣkulīrvividhāḥ sakhi!
+paśya piṣṭavikāraṃśca
+nānābhedānsusaṃskṛtān
+<2.353>
+pīyūṣagranthikarpūra
+kelikāmṛtakelikāḥ
+anayā saṃskṛtāḥ paśya
+yadvidhirme na gocaraḥ
+<2.354>
+kevalo mathitaklinno
+maudgo'yaṃ vaṭako dvidhā
+sitālavaṇasaṃyogān
+māṣasyāpi caturvidhaḥ
+<2.355>
+ciñcāmrātakacukrāmrais
+tattaddravyādiyogataḥ
+īṣanmadhuragāḍhādi
+bhedādamlo dviṣaḍvidhaḥ
+<2.356-357>
+baddharambhānavyagarbha
+tannavyamukulāṃśayoḥ
+mānakandāmbukacvīnāṃ
+mukhāṃśasyālukasya ca
+kuṣmāṇḍaḍiṇḍiśāṇāṃ ca
+cakrābhakhaṇḍajālakam
+caṇakakṣodapaṅkāktaṃ
+ghṛtabhṛṣṭaṃ pṛthakpṛthak
+<2.358>
+caṇakakṣodava akān
+yājyabhṛṣṭāni kevalam
+aparānyamlasattakra
+kvāthaklinnāni lokaya
+<2.359>
+caṇakakṣodapiṇḍānāṃ
+svinnānāṃ kvathitāmbhasi
+khaṇḍāni dravyapākādi
+bhedānnānāvidhāni ca
+<2.360>
+vaṭikā phalamūlānāṃ
+pṛthaksaṃyogabhedataḥ
+trijātamaricādyaistu
+prakārānbahudhākṛtān
+<2.361>
+karkārujyotsnikālābu
+phalānyāli pṛthakpṛthak
+rājikādadhiyogena
+saṃskṛtānyanayā śubhe
+<2.362>
+vatsepsitaprasūnāni
+ghṛtabhṛṣṭāni kevalam
+ghṛtabhṛṣṭā dadhiklinnāḥ
+kalikāḥ kovidārajāḥ
+<2.363>
+ghṛtabhṛṣṭā dadhiklinnāḥ
+prasūnavaṭikā dvidhā
+paṭolasya phalānyājya
+bhṛṣṭāni rucidānyalam
+<2.364>
+vṛddhakuṣmāṇḍavaṭikāḥ
+kacvīmānālukandakaiḥ
+tiktalālitacūrṇāḍhyāś
+cavikāḍhyāḥ parāḥ kṛtāḥ
+<2.365>
+sitailāmaricairyogād
+dugdhatumbīkṛtānayā
+tadyogādaparaṃ miṣṭaṃ
+kṣīrakuṣmāṇḍanāmakam
+<2.366>
+dadhiśūraṇakaṃ miṣṭaṃ
+dhātrīśūraṇakaṃ param
+dadhnaikaṃ bharjitaṃ cānyaṃ
+kāravilvaphalaṃ dvidhā
+<2.367>
+mṛdurambhāgarbhakhaṇḍa
+vṛddhakuṣmāṇḍakhaṇḍayoḥ
+sitādadhiyutaḥ pāko
+madhurāmlaḥ suśītalaḥ
+<2.368>
+nālītamethīśatapuṣpikāmiśī
+paṭolavāstūkavitunnamāriṣāḥ
+prakārasaṃyogavibhedato'nayā
+śākāḥ sudhāgarvahṛtaḥ susaṃskṛtāḥ
+<2.369>
+kalambī pakvaciñcāyā
+rasapakvā rucipradā
+kṛṣṇanālītaśāko'yam
+āmāmraphalayukśubhaḥ
+<2.370>
+mayuṣṭhakasya mudgasya
+māṣasyāpyadhunā mayā
+trividho'yaṃ sudhākūpa
+nibhaḥ sūpo vipācyate
+<2.371>
+paṅkaiḥ sumanacūrṇānāṃ
+dāsībhirbhṛśamarditaiḥ
+pūrṇendumaṇḍalākārāḥ
+kriyante ro ikā mayā
+<2.372>
+kṛtāni kriyamāṇāni
+kartavyāni tu kānicit
+ityannavyañjanāni tvaṃ
+saṃsiddhāni pratīhi nau
+<2.373-374>
+saurabhyasadvarṇamanoharaṃ tat
+sā vīkṣya sarvaṃ muditā babhūva
+jijñāsamānāṃ atha tadvidhānaṃ
+tāṃ rohiṇī vismayapūrvaṃ āha
+sāmagrī saiva sāmānyā
+pākasya prakriyāpyasau
+kintvapūrvaguṇe hetur
+gāndharvāhastasauṣṭhavam
+<2.375>
+sā tāṃ rādhāṃ annasaṃskārasaktāṃ
+prasvidyantīṃ lajjayā namravaktrām
+dṛṣṭvā rājñī snehaviklinnacittā
+dāsīṃ asyā vījanāyādideśa
+<2.376-377>
+atha tasyāḥ pariveśanakauśalaṃ āha
+vyāptāyāṃ vasanena bhojanabhuvi śrīratnapīṭhāgratas
+tattadvyañjanaratnaratnapuṭikāpaṅktiḥ krameṇābhitaḥ
+miṣṭābhīṣṭasupiṣṭakaughapuṭikāpaṅktistu tāsāṃ bahiḥ
+samyagbhavyasugavyahemapuṭikāpaṅktiśca tāsāṃ bahiḥ
+ityevaṃ kramato'rdhamaṇḍalatayā paṅktikrameṇādbhute
+svālībhiḥ purucārucitraracanādvaividhya āpādite
+anyonyāvyatiṣaktasūkṣmasurabhiślakṣṇairghṛtācyotanair
+madhye hemamayī vyadhāyi rucirā pātrī śubhairodanaiḥ
+<2.378>
+sauvarṇīṃ talapātrikāṃ ghṛtapu īlimpākakhaṇḍādibhiḥ
+sandhānārdrarasālakhaṇḍasahitaiḥ satkāsamardādibhiḥ
+yuktāṃ dakṣiṇato nidhāya nika e tasyāśca bhṛṅgārakān
+karpūreṇa suvāsitena payasā pūrṇānvyadhātkānakān
+<2.379>
+tasyāḥ pākasukauśalaṃ bahuvidhaṃ dṛṣṭvā vrajeśapriyā
+tāsāṃ tatpariveṣacitraracanāṃ cātisphuradvismayā
+ānetuṃ prajighāya vatsalamanāḥ kṛṣṇaṃ ca rāmaṃ ca sā
+dhātreyīṃ atha tau samīyaturatiśraddhāvaśādañjasā
+<2.380>
+natvā mātaraṃ ājñayā sahabalastasyāḥ samullāsanaḥ
+premṇā bālakadāsikākṛtapadāmbhojadvayīdhāvanaḥ
+ācamyopaviveśa sammukhatayā cārvannapātrīpuraḥ
+sarvaṃ tattadavekṣya vismitamanā babhrāja pītāmbaraḥ
+<2.381>
+śrīdāmasubalau vāme
+puro'sya madhumaṅgalaḥ
+dakṣiṇe śrībalaścānye
+paritaḥ samupāviśan
+<2.382>
+mātṛbhyāṃ kramadarśitena hi pathā bhoktuṃ samārabdhavān
+yadyadbhoktuṃ upakramaṃ sma kurute tyaktuṃ na tatsoḍhavān
+bhoktuṃ tattadaśeṣaṃ apyabhilaṣansāmarthyavāṃśca svayaṃ
+kiñcitkiñcidabhukta vīkṣakabhiyā durvādabhītyāpyayam
+<2.383>
+vyākhyādbhiḥ sahabhojibhiḥ sahabalaiḥ pākasya tatkauśalaṃ
+svāduṅkāraṃ adannavāgapi hṛdā so'pi praśaṃsannalam
+ādau pāyasaṃ āśa kiñcidaparaprācuryaparyāptatāṃ
+vīkṣya vyañjanaratnayatnagaminā lobhena bhūmnā citām
+<2.384>
+śākādikramato'bhitoṣavaśataḥ sarvāṇi sadvyañjanā
+nyādanmātṛmude bhavedapi yathā paktrīmanorañjanā
+tānsarvānsahabhojinaḥ sarasayā vācā hasanhāsayan
+bhuñjadhvaṃ na parityajeta kiṃ apītyekāntaṃ āhlādayan
+<2.385>
+svasvasaṃskṛtamiṣṭānnaṃ
+prātarāśopayogi yat
+upajahrustayāhūtā
+mātre gopyo mudānvitāḥ
+<2.386>
+śrīrādhayā yatnata eva gehād
+ānītakhaṇḍodbhavalaḍḍukāni
+gaṅgājalākhyānyatha raṅgadevī
+tadiṅgitenopajahāra mātre
+<2.387>
+tāni mātā balādibhyo
+vibhajya snehato dadau
+prakīrṇasvarṇapātreṣu
+vinidhāya pṛthakpṛthak
+<2.388>
+āsvādayantaṃ ghṛtapakvaṃ annaṃ
+sunarmabhistānapi hāsayantam
+ālokayantaṃ nayanāñcalena
+rādhānanaṃ taṃ dadṛśurmudālyaḥ
+<2.389>
+ado bhadraṃ idaṃ miṣṭam
+etatsnigdhaṃ sucāru tat
+tarjanyā darśayantyambā
+bhuṅkṣva vatsetyabhāṣata
+<2.390>
+yadyadiṣṭaṃ bhavedyasya
+jñātvā jñātvā hasanhariḥ
+tasmai tasmai dadau tattat
+svapātrātprakṣipanmuhuḥ
+<2.391-393>
+vīkṣya yatnānvitāṃ ambāṃ
+mandaṃ aśnantaṃ acyutam
+parihāsapaṭustasmin
+vrajeśāṃ avadadbaṭuḥ
+ayaṃ cedbhūri nāttyamba!
+dehi me sarvaṃ admyasau
+mayaivāliṅgitaḥ puṣṭo
+bhavitā bhūribhojinā
+nāsya mandaruceḥ śaktir
+ghṛtapakvānnabhojane
+tadasmai laghurāddhānnaṃ
+vyañjanānyamba! dāpaya
+<2.394>
+atha kṛṣṇaḥ svapātrastha
+pakvānnāñjalibhirhasan
+pañcaṣaiḥ pūrayāmāsa
+bhuṅkṣveti baṭubhājanam
+<2.395-396>
+tato vāmakaphoṇiṃ svaṃ
+vādayanvāmapārśvake
+samyagbhoktuṃ kṛtārambhaḥ
+prahṛṣṭo baṭurāha tam
+vayasya! paśya bhakṣye'ham
+ityaśnankavaladvayam
+mātarme dadhi dehīti
+prāhiṇottāṃ tadāhṛtau
+<2.397>
+gopāḥ paśyata nṛtyatīha capalaḥ pakvānnalabdhāśayā
+kīśeśo dadhilampa o'yaṃ iti tānkṛtvonmukhāṃstaddiśi
+teṣāṃ bhojanabhājaneṣu śanakairnikṣipya bhakṣyaṃ nijaṃ
+sarvaṃ bhuktaṃ idaṃ mayeti sa punargarvāyamāno'vadat
+<2.398>
+tathāgatāṃ tāṃ dadhipātrahastām
+uvāca paśyāmba! vinaiva dadhnā
+mayopabhuktaṃ drutaṃ eva sarvaṃ
+tatpāyasaṃ dāpaya bhūri mahyam
+<2.399>
+haimeṣu pātreṣu nidhāya rādhayā
+navīnarambhādalamandamārutaiḥ
+śītīkṛtaṃ sve pariveśitaṃ kare
+tebhyo dadau pāyasaṃ āśu rohiṇī
+<2.400>
+ānīyānīya gāndharvā
+dattāni vyañjanāni sā
+śākādīnyamlaśeṣāṇi
+tebhyo'dātkramaśaḥ śanaiḥ
+<2.401>
+rambhodarasthacchadavarṇalāghavāḥ
+saṃmṛṣṭagodhūmasucūrṇaro ikāḥ
+ghṛtābhiṣiktāḥ pariveśitāstayā
+tebhyo'nyapātreṣu nidhāya sā dadau
+<2.402>
+pūrvaṃ pakvānnaṃ uddiśyā
+dhunā tvannādikaṃ ca yā
+baṭoḥ suparihāsoktir
+nātra syātpunaruktatā
+<2.403>
+kṛṣṇaḥ satṛṣṇo naivātra
+balaḥ kavalamātrabhuk
+śrīdāmā nāma mandāśī
+subalo'subalojjhitaḥ
+<2.404>
+kvaiṣāṃ bhakṣyaikatānatva
+rāhityaṃ avidagdhatā
+kvaitadannaṃ sudhānindi
+svayaṃ lakṣmyaiva sādhitam
+<2.405>
+kāvyaṃ viphalatāṃ kiṃ na
+yāti satkavinirmitam?
+yatra goṣṭhyāṃ tadāsvāda
+lolupatvaṃ na vartate
+<2.406>
+caturvargaphalaṃ mūrtaṃ
+etadannaṃ caturvidham
+ahaṃ kevalaṃ eko'sya
+pātraṃ ityavadadbaṭuḥ
+<2.407>
+śrīdāmovāca piṇḍībhiḥ
+piciṇḍaṃ pūraya drutam
+yadeva tava sarvasvaṃ
+yadarthaṃ baṭutāṃ adhāḥ
+<2.408>
+baṭurākhyadare mūrkha!
+gopastvaṃ kiṃ nu vetsyasi?
+rasāsvādaṃ svadharmārthaṃ
+gā roddhuṃ aṭavīṃ aṭa
+<2.409>
+paśyaiṣo'haṃ anūcāno
+vipro yairmanmukhe hutam!
+tairiṣṭaḥ sarvayajñena
+bhagavāneva kevalam
+<2.410>
+śrīdāmoce śrutismṛtyor
+vartmāpi śatajanmasu
+tvayā paricitaṃ naiva
+vipratve sūtraṃ eva te
+<2.411>
+kṛṣṇaḥ prāha baṭorasti
+rasaśāstre'nuśīlanam
+vyañjanānekatātparya
+lakṣaṇābhijñatā yataḥ
+<2.412>
+baṭurāha ṣaḍevātra
+rasā na tvaṣṭa manmate
+ṣoḍhaiva nyāyya āsvādo
+yatṣaḍevendriyāṇi naḥ
+<2.413>
+rasā hyaṣṭāviti prāhur
+ye te'pi vyañjanāśritāḥ
+vyañjanābhijñatāleśo'py
+eṣāṃ kintu na vidyate
+<2.414>
+vihāya śākasūpādīn
+vihāyaste dhayanti yat
+tannīraṃ prakaṭaṃ hitvā
+dhāvantyeva marīcikām
+<2.415>
+kāraṇaṃ rasaniṣpattau
+carvaṇeneti tajjaguḥ
+carvantu paricoṣyanti
+na piturjanmakoṭibhiḥ
+<2.416>
+rāmaḥ prāha rasāsvāde
+ke'nubhāvā bhavanmate
+ke vā sañcāriṇaḥ ko vā
+sthāyī sa svādyate katham
+<2.417>
+baṭurūce yadaprāptyā
+pūrvaṃ evāśru me bhavet
+prāptyā tu vyañjanasyāsya
+pulakāsyaprasannate
+<2.418>
+varṇasya snigdhatātṛptyā
+vaivarṇyaṃ tacca paśya me
+bhuñjāna eva yadvacmi
+svaro me tena bhidyate
+<2.419>
+stambho me bhūri miṣṭānna
+bhojanāśaktiduḥkhajaḥ
+prasvedaḥ prakaṭo'nte tu
+pralayo bahubhakṣaṇāt
+<2.420>
+ālasyacintāsvāpādyāḥ
+spaṣṭāḥ sañcāriṇo'tra naḥ
+svādyatvenaika evāpi
+sthāyī tu vividhābhidhaḥ
+<2.421-422>
+ājyābhyaktāni bhaktāni
+manye kāñcanavāriṇā
+snapitānīva saurabhyaṃ
+yeṣāṃ saulabhyaṃ abhyagāt
+godantakṛttaghāsādi
+ghrāyiṇyāṃ gopasaṃsadi
+kṛtapuṇyasya me bhūri
+bhogabhājaḥ prasaṅgataḥ
+<2.423>
+vane viprāstapasyanti
+patramūlaphalāśanāḥ
+baṭoste nādhikāro'sti
+bhoge yāhi tapaścara
+<2.424-425>
+satyaṃ bho yaiḥ purā taptaṃ
+patramūlaphalādibhiḥ
+pariṇamya januṣyatra
+vyañjanatvena tairmama
+bhoṃasvargajuṣaḥ sādhu
+pratyakṣībhūyate'nvaham
+iti jānītabhogo'yam
+ataptatapasaḥ kutaḥ
+<2.426>
+evaṃ cetprathamaṃ prāptum
+arhantyete valīmukhāḥ
+vāgvyayaśramiṇo'trāpi
+januṣyete tapasvinaḥ
+<2.427>
+śītoṣṇavātasahanāḥ
+patrapuṣpaphalāśanāḥ
+jātismarāḥ kathaṃ na syuḥ
+ko'mīṣāṃ vetti vijñatām
+<2.428>
+kṛṣṇaḥ prāha sakhe! viprā
+brahmopāsanatatparāḥ
+kīśāḥ kukṣimbharā eṣāṃ
+dvayeṣāṃ mahadantaram
+<2.429>
+asya kīśasya cāvaimi
+na kiṃ apyantaraṃ hare!
+naratvaṃ vānaratvaṃ vā
+nayorbhede na kāraṇam
+<2.430>
+kiṃ ca khyāpayatā tena
+loke'pūrvāṃ svavijnatāṃ
+bṛhattvādbṛṃhaṇatvācca
+svakukṣirbrahma manyate
+<2.431>
+atastriṣavaṇaṃ tasya
+dhyāyatā pūrtisādhanam
+sa evopāsyate'nena
+naiṣṭhikabrahmacāriṇā
+<2.432>
+kadācidbhūripakkānna
+grasanāveśasaṃbhramaiḥ
+kīśāyitaṃ syātpāṇibhyāṃ
+bhuñjānasyāsya lāghavaiḥ
+<2.433>
+ityuktvājīhasatsarvān
+subalastānbaṭuḥ sa tu
+hasanbhuñjāna evoccaiḥ
+kāśaiḥ śoṇamukho'bhavat
+<2.434>
+goṣṭheśāha baṭo! tiṣṭha
+kṣaṇaṃ mā bhuṅkṣva mā hasa!
+sthairyaṃ āpnuhi mā jalpa
+mainaṃ hāsayatārbhakāḥ
+<2.435>
+dhaniṣṭhayā yallalitādisaṃskṛtaṃ
+tattadrasālādikaṃ āhṛtaṃ puraḥ
+kṛtvā pṛthakpātracaye vrajeśvarī
+sasnehaṃ ebhyo dadatī mumoda sā
+<2.436>
+hṛdayadayitamukhavīkṣaṇahṛṣṭās
+tadatimadhuramṛdukāntivikṛṣṭāḥ
+mumuduruditapṛthubhāvavihastā
+ramaṇabhavanaṃ adhi tāḥ puruśastāḥ
+<2.437>
+annānyatho tāni caturvidhāni te
+pīyuṣasārodbhavavikriyā iva
+āsvādayanto madhurāṇi saspṛhaṃ
+taṃ hāsayanto jahasuśca narmabhiḥ
+<2.438>
+carvanti carvyāṇi mṛdūni kecil
+lehyāni cānye caṭulaṃ lihanti
+pibanti peyāni pare prahṛṣṭāś
+cūṣyanti coṣyāṇyapare vitṛptāḥ
+<2.439>
+svāduṅkāraṃ kamalanayanaḥ saspṛhaṃ tattadannaṃ
+hastasparśādamṛtamadhuraṃ mandamandaṃ priyāyāḥ
+tadvaktrābjaprahitanayanaprāntabhṛṅgo nigūḍhaṃ
+prāśnannambāmanasi nibiḍaṃ sa pramodaṃ vyatānīt
+<2.440>
+prahitacakitanetraprāntadṛṣṭipraṇālī
+militatadatilāvanyāmṛtāsvādapuṣṭā
+prasaradakhilabhāvollāsaṃ ācchādayantī
+dayitahṛdayaṃ uccai rādhikāpyājahāra
+<2.441>
+atha balajananīṃ tāṃ antarākṛtya nṛtyan
+madakalamadirākṣīṃ arpayantīṃ kare'syāḥ
+mṛdu mṛdu madhurānnaṃ preyasīṃ prekṣya kṛṣṇaḥ
+ślatharuciraśane'bhūdunmanā nāgareśaḥ
+<2.442>
+sāmibhuktaṃ kiyattena
+kiṃca tryaṃśāvaśeṣitam
+bhakṣyaṃ vīkṣyāśane mandaṃ
+taṃ cāsīdvyākulā prasūḥ
+<2.443>
+yatnātsaṃskṛtaṃ annādi
+sarvaṃ tyaktaṃ kathaṃ suta!
+kṣudhito'si kiyadbhuṅkṣva
+śapathaḥ śiraso mama
+<2.444>
+ānāyya yatnādvṛṣabhānukanyakāṃ
+saṃskāritaṃ sarvaṃ idaṃ sutānayā
+annādi miṣṭaṃ ca sudhāparārddhatas
+tathāpi nāśnāsi karomi kiṃ hatā
+<2.445>
+atha sā rohiṇīṃ āha
+paśya rohiṇi! cañcalaḥ
+durbalaḥ kṣudhito'pyeṣa
+kiṃ apyatti na mandabhuk
+<2.446-447>
+tataḥ snehaparītāṅgī
+lālayantyaghamardanam
+pralambahanturambeyaṃ
+babhāṣe taṃ puraḥsthitā
+yatnādannaṃ sādhitaṃ vatsa! miṣṭaṃ
+mallīmṛdvyā rādhayedaṃ mayā ca
+kṣutkṣāmo'si tvaṃ ca nāśnāsi tattām
+ambāṃ etāṃ māṃ ca kiṃvā dunoṣi
+<2.448>
+jananī tava paśya khidyate
+suta! nirmañcanaṃ atra yāmi te
+bhramato bhavitā vane śramaḥ
+kiyadaśnīhi vidhehi madvacaḥ
+<2.449>
+bhuktaṃ mayā bhūri gatā bubhukṣe
+tyuktvā niyamyocchalitaṃ vikāram
+taṃ vīkṣya mandaṃ punarapyadantaṃ
+nanandaturnandasutaṃ jananyau
+<2.450>
+idaṃ idaṃ atimiṣṭaṃ vatsa! bhuṅkṣveti mātā
+saśapathaṃ atha tattaddarśayantyaṅgulībhiḥ
+sakalaṃ abhilaṣantī kartuṃ aśruplutākṣī
+tadudaragataṃ annaṃ sātmajaṃ vāvadīti
+<2.451>
+rasālāpakvāmradravaśikhariṇīṣāḍavapayaḥ
+karambhāmikṣāvyañjanadadhiphalāpūpava akān
+kṛtāmreḍā netrastanajapayasā klinnasicayā
+pyatṛptā taṃ tṛptaṃ muhuratha sutaṃ prāśayadiyam
+<2.452>
+bhakṣyaṃ bhojyaṃ bahutaramiṣṭaṃ
+lehyaṃ peyaṃ mṛdumadhuraṃ te
+bhuktvā pītvā rasabharatṛptāḥ
+sarve'bhūvanvanagamanotkāḥ
+<2.453>
+sarve suvāsitamṛdā mukhapāṇipadmā
+nyāmṛjya sādhu mṛduleṣikayā ca dantān
+dāsaiḥ praṇītakanakādikakuṇḍikāsu
+tairdattavāribhirathācamanaṃ vyadhūste
+<2.454>
+elālavaṅgaghanasāravimiśritābhir
+jambūladattavarakhādiragolikābhiḥ
+śītojjvalābhiradhivāsya mudā mukhaṃ te
+savyena pūrṇaṃ udaraṃ mamṛjuḥ kareṇa
+<2.455>
+rasālakarasaṃskṛtopahṛtanāgavallīsphurat
+supakvadalavīṭikāḥ sukhaṃ adanta evotsukāḥ
+tataḥ śatapadāntarālayaviśālapalyaṅkikā
+kuleṣvatha viśaśramuḥ parijanairamī vījitāḥ
+<2.456>
+taṃ iha viśramitaṃ paricārakāḥ
+śikhidalavyajanaiḥ samavījayan
+avadalayya dalaṃ mṛduvīṭikāḥ
+prabhuṃ athādayati sma vilāsakaḥ
+<2.457-458>
+niṣkramya dhautāṅghrikarāṃ mahānasād
+dāsīgaṇaistāṃ vyajanairupāsitām
+rādhāṃ prakoṣṭhāntaragāṃ sakhījanair
+vilokayantīṃ ramaṇaṃ gavākṣataḥ
+ānandajasvedajalairvrajeśayā
+pratīyamānāṃ śramakarṣitetyalam
+bhoktuṃ prayatnādupaveśya sā mudā
+balāmbayānnāni gṛhādadāpayat
+<2.459>
+tayā nidiṣṭā ghṛtasaṃskṛtānnaṃ
+dātuṃ dhaniṣṭhā haribhuktaśeṣaiḥ
+saṃmiśrya gūḍhaṃ ghṛtasaṃskṛtānnair
+gṛhāttadānīya dadāvamūbhyaḥ
+<2.460-461>
+anaśnantīṃ hriyā vīkṣya
+vastrāvṛtanatānanām
+rādhikāṃ avadatkṛṣṇa
+mātā vātsalyaviklavā
+janani! mayi jananyāṃ kiṃ nu lajjedṛśīyaṃ
+suta iva mama cetaḥ snihyati tvayyatīva
+ayi tadapanayaināṃ yāmi nirmañcanaṃ te
+śiśiraya mama netraṃ bhuṅkṣva paśyāmi sākṣāt
+<2.462>
+yūyaṃ ca me stha tanayāstvanayā hriyā kiṃ
+putryaḥ kurudhvaṃ aśanaṃ lalitādayastat
+ityāgrahācchapathadānaśataiśca mātā
+miṣṭānnamiṣṭavacanaiḥ samabhojayattāḥ
+<2.463>
+tato dāsīdhautaiḥ karakamalayugmairnijanijair
+imāḥ prakṣālyāsyaṃ śaśisahitavārbhirnijanijam
+pa airmārjitvā ca svaparijanadattā himakarā
+viyuktā vī īstā varakanakagauryo bubhujire
+<2.464>
+hṛdyudgataiḥ sutakaragrahaṇābhilāṣais
+tadbhūṣaṇaiḥ subahuśaḥ saha yāni yatnāt
+niṣpādya tannavavadhūpratirūpakāṇi
+snehāddhṛtāni sadane varasampu eṣu
+<2.465>
+tairbhūṣaṇairatha dhaniṣṭhikayopanītais
+tāmbūlacandananavāmbaranāgajaiśca
+ālīvṛtāṃ navavadhūṃ iva tāṃ vrajeśā
+sammānya hārdavalitā muditā babhūva
+<2.466>
+rādhāhṛtaṃ yanniśi tadviśākhā
+dhaniṣṭhayādātsubalāya gūḍham
+pītottarīyaṃ subalo'pi tasyai
+nīlāmbaraṃ kṛṣṇahṛtaṃ tayaiva
+iti śrībhāvanāsārasaṅgrahe prātarlīlāsaṅgraho nāma dvitīyasaṅgrahaḥ
+    </body>
+  </text>
+</TEI>

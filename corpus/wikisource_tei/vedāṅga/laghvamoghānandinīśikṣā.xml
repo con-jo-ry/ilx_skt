@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Laghvamoghānandinīśikṣā</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%B2%E0%A4%98%E0%A5%8D%E0%A4%B5%E0%A4%AE%E0%A5%8B%E0%A4%98%E0%A4%BE%E0%A4%A8%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A4%BF%E0%A4%A8%E0%A5%80%E0%A4%B6%E0%A4%BF%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BE"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+laghvamoghānandinī śikṣā
+
+pādādau ca padādau ca sam̐yyogāvagraheṣu ca
+jaḥ śabda iti vijñeyo yo'ntyaḥ sa ya iti smṛtaḥ 1
+yuktena manasā tadvattatvāvāmi tathāparam
+anūkāśena bāhyaṃ ca turīyamanuyā pade 2
+padādāvapyavicchede sam̐yyogānte ca tiṣṭhatām
+varjjayitvā rahau yānāmīṣatspṛṣṭatvamiṣyate 3
+viddyadī syamitrāṃśca rocanāsya yathā bhavet
+tathā pāryāyya sūryaśca muhyantvanye samūhyavat 4
+upasargaparo yastu padādirapi dṛśyate
+īṣatpṛṣṭo yathā vidyātpadacchedātparo bhavet 5
+vibhāṣayā yakāraśca nityamāmreḍite'pi ca
+yatra yatreti mā yajñaṃ tathā yeti padādapi 6
+athāta'uttaro yaḥ syāttathā neti padātparaḥ
+bhavantyete'pi pūrvatra tathā ca sa padādapi 7
+athā vayamādityādāvathoye'sya dṛśyate
+na yatparo yathā ca syātsa pade tadudāhṛtāḥ 8
+vo vā vā vai vi vau pāṭhe upasargātparo laghuḥ
+atha mā sa na śabdebhyo vibhāṣā'mreḍite yavau 9
+yadeva lakṣaṇaṃ yasya vakārasyāpi tadbhavet
+yatra yatra viśeṣaḥ syāttadidānīṃ tu kathyate 10
+tvadarthavācinau vo vāṃ vā vai yadi nipātajau
+ādeśāśca vikalpārthā īṣatspṛṣṭāśca te smṛtāḥ 11
+devīvaḥ savitā yā vāṃ vvāto veti tathā na tat
+tatra vāyvṛtaspate tāna' āveti kīrtitāḥ 12
+yatkṛtaṃ sūtrakāreṇa tadvatsyātsamprasāraṇam
+tajjñeyaṃ sarvaśākhāsu na tu vājasaneyinām 13
+lakṣaṇasya virodhe'pi pāṭhaikyaṃ yadi dṛśyate
+tattathā pratipattavyaṃ yyajñā yajñā va'ityatha 14
+anusvāro dvimātraḥ syādṛvarṇavyañjanodaye
+hrasvādvā yadi vā dīrghāddevānāṃ hṛdayebhyaḥ 15
+saṃsraṣṭā siṃhyasi saṃyyoge hrasva iṣyate
+madhyamaṃ śrathāyeti saṃyyogo na dvirucyate 16
+jñātvā vedavināśaṃ tu samyag brūyānna vai budhaḥ
+āhūya taṃ vivikte vai tasya dharmo na hīyate 17
+iti śrīlaghvamoghānandinī śikṣā samāptā
+    </body>
+  </text>
+</TEI>

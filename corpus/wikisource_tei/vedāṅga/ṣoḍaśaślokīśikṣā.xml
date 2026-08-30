@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Ṣoḍaśaślokīśikṣā</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%B7%E0%A5%8B%E0%A4%A1%E0%A4%B6%E0%A4%B6%E0%A5%8D%E0%A4%B2%E0%A5%8B%E0%A4%95%E0%A5%80_%E0%A4%B6%E0%A4%BF%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BE"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+ṣoḍaśaślokī śikṣā
+atha śikṣām̐ pravakṣyāmi vāca uccāraṇe vidhim
+yathā saṃvyavahāreṣu svayaṃ proktā svayambhuvā 1
+trayastriṃśaddhaśā varṇāḥ svarā dvāviṃśatiryyamāḥ
+catvāraśca visargo'nusvāraḥ kaḥ pastriṣaṣṭikāḥ 2
+samāste'diduto jñeyā ṛccādīrgha ḷpañcamaḥ
+edaidodau tu catvāro'hrasvāḥ sandhyakṣarāṇi ca 3
+hrasvadīrghaplutā bhedāstadudātto'nudāttakāḥ
+svaritaścāpi te sānunāsikānanunāsikāḥ 4
+ityaṣṭādaśadhā bhedā vyavarṇā nāminaḥ svarāḥ
+kucuṭutupuvargāstadutpañcavarṇasaṅgrahaḥiti svarabhedāḥ 5
+kupvantyacvādivargāṇāṃ vyutkramātpañcamāditaḥ
+khaphādyāśchaṭhathā jñeyā ralāntyā hayavāḥ smṛtāḥ 6
+ataścetaḥ svarāḥ pūrvvā halo ñamo jhamo jabaḥ
+khathaścapaḥ śasaścaite pratyāhārāstvasaṅkhyakāḥ 7
+kādayo māntikāḥ sparśā yamā jhapañamāntare
+śaṣasahāḥ syurūṣmāṇo'ntasthā yaralavāḥ smṛtāḥ 8
+kakhataḥ paphataḥ pūrvaḥ kramādarddhavisargakaḥ
+jihvāmūlīyako jñeya upadhyamānīyasañjñakaḥ 9
+visargārddhavisargānusvāravyaṅgaṃ parāśrayam
+etatparāparau hrasvau glau dīrghaśca gurustathā 10
+iti vyaṅgabhedāḥ
+hakuvisarjanīyānāṃ syātkaṇṭhyaṃ yiścu tālukam
+ṛṭurṣaṃ sḷtulā dantampūpadhmānīyamoṣṭhajam 11
+vo dantoṣṭhaṃ ñamasyāpi nāsikāyamayugghuraḥ
+odautorapi kaṇṭhoṣṭhaṃ tvedaitoḥ kaṇṭhatālukam 12
+jihvāmūlīyamātrasya jihvāmūlaṃ hi cāṣṭamam
+sadyo bodhakarā śikṣā maṇibhūtā prakāśitā 13
+karālo na ca lamboṣṭho nāvyakto nānunāsikaḥ
+gadgado baddhajihvaśca prayogānvaktumarhati 14
+vyāghrī dadbhirharetputrānbhītā pātācca pīḍanāt
+tadvatprayojayedvarṇāṃstena loke mahīyate 15
+iti varṇoccāraḥ
+śivā yānniḥsṛtāṃ śikṣāṃ prayato yaḥ paṭhediha
+putrakīrtidhanāyuṣmāntsvarge'tisukhamaśnute 16
+
+iti rāmakṛṣṇaviracitā ṣoḍaśaślokī śikṣā samāptā
+    </body>
+  </text>
+</TEI>

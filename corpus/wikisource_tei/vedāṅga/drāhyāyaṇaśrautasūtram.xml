@@ -1,0 +1,3591 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Drāhyāyaṇaśrautasūtra</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%95%E0%A4%B2%E0%A5%8D%E0%A4%AA%E0%A4%83/%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%8C%E0%A4%A4%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%BF/%E0%A4%A6%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%A3%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%8C%E0%A4%A4%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<1>
+<1.1> 
+atha vidhyavyapadeśe sarvakratvadhikāraḥ 1 
+mantravidhiścādigrahaṇena 2 
+uttarādiḥ pūrvāntalakṣaṇaṃ 3 
+ekaśrutividhānānmantrāna karmāṇi codgāteva karyādanādeśe 4 
+yāvadyajuranādiṣṭāntān mantrān 5 
+ṛcaścādigrahaṇena 6 
+ṛtvigārṣeyo'nūcānaḥ sādhucaraṇo vāgmyanyūnāṅgo'natiriktāṅgo dvayasataścānatikṛṣṇo'natiśvetaḥ 7 
+yājyaśca prathamaistribhirguṇairvyākhyātaḥ 8 
+somapravākamakariṣyannamaḥ somāya rājña ityuktvā prātyācakṣīta 6 
+mahanme voca iti kariṣyan pratimantrayeta 10 
+tanna jahyādaprokte'pi kariṣyāmīti viditvā 11 
+āvasathaṃ somapravākāya lavaṇamannaṃ dadhnāhārayet 12 
+prahiṇuyātprastotṛsubrahmaṇyau purastātkarmabhyaḥ 13 
+prāgudakpravaṇaṃ devayajanaṃ lomaśaṃ samaṃ 14 
+purastāccāsyāpaḥ syuḥ 15 
+tattriśukriyamiti hyāha 16 
+tadabhāve mahāvṛkṣa udapāno mahāpatho vā 17 
+na cāsya sthalataramadare syāt 18 
+devayajanamātraṃ ca purastāt 16 
+viparyasyābhicaraṇīyeṣu 20 
+sthalādanyaddevayajanamātrācca21 
+svayaṃ vrajetkraya upavasathye vā 22 
+udaṅaḍeva tu gṛhebhyaḥ prathamaṃ devo devametviti 23 
+dūraṃ vrajitvā vihāya dauṣkṛtyam 24 
+badvānāmāsīti panthānamāpadyottaraṃ vedyantamākramya dakṣiṇamīkṣamāṇaḥ pitaro bhūriti 25 
+yajurantaraye'nvāhāraṃ dhānaṃjayyaḥ 26 
+upekṣaṇaṃ śāṇḍilyaḥ 27
+iti drāhyāyaṇaśrautasūtre prathame paṭale prathamaḥ khaṇḍaḥ
+<1.2>
+arhayiṣyanta āharanti viṣṭarau pādyamarghyamācamanīyaṃ madhuparkamiti 1 
+teṣāmekaikaśastrirvacanam 2 
+gośca 3 
+viṣṭarayorekamadhyāste | dhautau pādāvitarasmin 4 
+pṛthak sāvitrīpādairmadhuparkasya pibet 5 
+idamannamayaṃ rasa imā gāvaḥ saha śriyeti tu purastādekaikasya 6 
+vāgbahu bahu me bhūyāditi prathamasyopariṣṭāt| 7 
+prāṇo vai vāco bhūyāt| bahurme bhūyo bhūyāditi dvitīyasya 8 
+mano vāva sarvaṃ sarvaṃ me bhūyāditi tṛtīyasya 9 
+sarve svāhākārāntāḥ 10 
+raso'si vānaspatyo rasaṃ mayi dhehīti madhumanthasya pibediti gautamaḥ 11 
+vānaspatya iti pravacanam 12 
+tathā dadhimanthodamanthayoḥ 13 
+payasyo'payasya iti tu rasādeśaḥ 14 
+ete vaiva pravacane kālindaḥ sārasvata iti vā 15 
+śeṣaṃ brāhmaṇāya dadyāt 16 
+tadabhāve'dbhiḥ saṃprokṣyābrāhmaṇāya 17 
+kuruteti gavi proktāyāṃ brūyāt 18 
+utsṛkṣyannoṃ kṛto dharmastṛṇānyattu pibatūdakamutsṛjateti brūyāt 19 
+sarveṣāṃ yajñopavītodakācamane nitye 20 
+karmopayatāmavyavāyo'vyāvṛttiśca yajñāṅgaiḥ 21 
+prāṅgakhakaraṇaṃ cānādeśe 22 
+krīte rājani subrahmaṇya uttareṇa somavahanaṃ gatvāntareṇeṣe śamīśākhāṃ palāśaśākhāṃ vā sapalāśāṃ pāṇau kṛtvāvatiṣṭheta 23 
+adhvaryusaṃpraiṣaṃ sarvatrākāṅkṣet subrahmaṇyāyām 24 
+raśmī dhārayaṃśchākhayā preṣyedgāvau 25 
+dakṣiṇaṃ pūrvaṃ 26 
+sabrahmaṇyomiti trirāhvayetprāci varttamāne madhyamayā vācā 27 
+ṣaṭkṛtvā pratīci 28 
+pūrvveṇa patnīśālāṃ vimukte chadiṣi śākhāmavaguhya tāmevaiṣāmanutkramyāvyavāyannagnīṣomau yathārthaṃ syāt 26
+iti drāhyāyaṇaśrautasūtre prathame paṭale dvitīyaḥ khaṇḍaḥ 2
+<1.3>
+athaitadrājavāhanaṃ subrahmaṇyāya dadyāt | dakṣiṇāvatsu karmasaṃyogāt 1 
+ātithyāyāṃ saṃsthitāyāṃ dakṣiṇasya dvārabāhoḥ parastāttiṣṭhannantarvedideśe'nvārabdhe yajamāne patnyāṃ ca subrahmaṇyomiti triruktvā nigadaṃ brūyāt 2 
+indrāgaccha hariva āgaccha medhātithermeṣavṛṣaṇaśvasya mene gaurāvāskandinnahalyāyai jārakauśikabrāhmaṇa gautamabruvāṇeti 3 
+etāvadahe sutyāmiti yāvadahe syāt 4 
+adyeti samānāhani 5 
+pūrvayoḥ praṇavāntayorviramet 6 
+mene bruvāṇeti ca 7 
+āgneyyāṃ ṣaṇe jāreti ca 8 
+pṛthagyajatiśabdeṣu ca 9 
+devā brahmāṇa āgacchatāgacchatāgacchateti gautamaḥ 10 
+āgaccheti pūrvaṃ devāhvānāddhānaṃjayyaḥ 11 
+āgaccha maghavannityeke 12 
+evaṃ trirāhūya patrīyajamānāvupahavamicchamānāvupahūya yathārthaṃ syāt 13 
+upahūta ityupahavaḥ 14 
+evaṃ sarveṣūpasadanteṣu 15 
+yāścorddhvamupasadbhyaḥ 16 
+utkare tu tatra tiṣṭhan 17 
+prāk ca sutyādeśānnāmagrāho'gnīṣomīyavapāyāṃ hutāyāṃ parihṛtāsu vasatīvarīṣu prātaranuvākopakramaṇavelāyāmasau yajata iti 18 
+pratyekaṃ gṛhṇīyādyajamānanāmadheyāni yāni syuḥ 16 
+amuṣya putraḥ pautro napteti pūrveṣāṃ 20 
+athāvareṣāṃ yathājyeṣṭhaṃ strīpuṃsānāṃ ye jīveyuḥ 21 
+janiṣyamāṇānāmityanta uktvā sutyādeśa prabhūti samāpayet 22 
+atha nāmagrahaṇavākyeṣu svaraṃ vidhatte arthanirvacanamuccāntam 23 
+vaibhakte ca syādau vaibhaktaścaiva 24 
+uccācca nīce nīcam 25 
+janiṣyamāṇānāmiti madhye dve 26 
+yajeścādiḥ 27 
+dakṣiṇāsu codito'nuvrajan dakṣiṇāḥ sanāmagrāhāmāhvayet 28 
+praṇavanāmāni vā 26 
+havirdhānapravartanāgnīṣomapraṇayanayośca subrahmaṇyetyeke 30 
+anāhvānamācāryāḥ prātaranuvākāntā subrahmaṇyeti 31
+iti drāhyāyaṇaśrautasūtre prathame paṭale tṛtīyaḥ khaṇḍaḥ 3
+<1.4>
+sādyaskreṣvagnīṣomīyāyāmiṣṭau vapākālājyabhāgayorhutayoḥ saṃsthitāyāṃ vetyeke 1 
+luptā tvadhikaraṇāpāyāt 2 
+agniṣṭutsvāgreyo nigadaḥ 3 
+tatra gautamīyam 4 
+agna āgaccha rohitābhyāṃ bṛhadbhāno dhūmaketo jātavedo vicarṣaṇa āṅgirasabrāhmaṇāṅgirasabruvāṇeti prāk sutyādeśāt 5 
+devānāṃ sthāne'gnayaḥ 6 
+atha dhānañjayyo'gna āgaccha rohitava āgaccha bharadvājasyājasahasaḥ sūno vārāvaskandinnuṣaso jāreti 7 
+āṅgirasaprabhṛtisamānam 8 
+indraṃ śakreti brūyādviśva iti devānanirukteṣu 6 
+aniruktaṃ prātaḥsavanayośca 10 
+abhiṣecanīyadaśapeyāvantareṇa sadā nāmagrāhaḥ 11 
+ahargaṇeṣvaharādyantayorāhvayet 12 
+uttarārthāharantikī 13 
+agnīṣomīyaprabhṛtyahīneṣu sarvāḥ sanāmagrāhāḥ 14 
+dīkṣānupūrveṇa dīkṣitānāṃ satreṣu nāmagrāhaḥ 15 
+ūrdhvamatirātrādagrahaṇam 16 
+tasyānte śvaḥ sutyā gautamasya 17 
+nārmedhānta eke 18 
+adyasutyā śāṇḍilyasya 16 
+anāhvānaṃ dhānañjayyaḥ 20 
+tisṛṣu cottamāsu nāmagrāhaḥ 21 
+uttamayoriti gautamaḥ 22 
+tathāsatyagnīṣomīyavapāyāmagrahaṇaṃ dhānaṃjayyaḥ 23 
+anāhānaṃ vā 24 
+sarvatra satreṣvagrahaṇaṃ śāṇḍilyaḥ 25 
+ūdbhūrvamatirātrādāgneyyekā dvitīye pañcadaśarātre dve vā 26 
+sarvāḥ prāk trikadrukebhyastṛtīye 27 
+kauṇḍapāyinatāpaścitayo daśāhe sutyeti viditvā parimāṇāhvānaṃ dhānañjayyaḥ | sutyāmāgacchetītarāḥ 28 
+ūrdhvaṃ cātirātrāt prathamasya sārasvatasya prāk śvaḥ sutyāyāḥ 26 
+kauṇḍapāyinasārasvatayoriṣṭayayaneṣu satyāvacchāṇḍilyaḥ 30 
+tathāgnihotramāse tathāgrihotramāse 31
+iti drāhyāyaṇaśrautasūtre prathame paṭale caturthaḥ khaṇḍaḥ 4
+<2>
+<2.1>
+sarvatrānādeśe parisāmāni prastotā gāyet svādhyāyavat svāsu 1 
+tṛcāpattīni tṛceṣu triritarāṇi 2 
+śārṅāgārūḍhavadāṅgirase vā trirabhyasyedantarā parācā 3 
+tathā ca hotā 4 
+liṅgopapattiścaivam 5 
+antareṇa cātvālotkarau saṃcaraḥ sarvatrānādeśe 6 
+tadāpnānaṃ tīrtham 7 
+agnau cīyamāne paścimena pucchaṃ gatvā dakṣiṇe'pikakṣe tiṣṭhedyatra vopadadhyuḥ 8 
+paścimena pakṣāvapikakṣau 6 
+pūrveṇopaplavau 10 
+puṣkarapalāśa upadhīyamāne hiraṇmaye puruṣe svayamātṛṇāsu ca śarkarāsu vyāhṛti sāmāni gāyedyajamānaṃ satyaṃ puruṣo bhūrbhuvaḥ svarityetāsu pṛthak 11 
+teṣāṃ sthāne svayaṃ cinvāna ṛtanidhanamājyadohaṃ puruṣavratamekānugānaṃ rathantaraṃ vāmadevyaṃ bṛhaditi 12 
+rathantaraprabhṛtīni vikalpante lokasāmabhirāvṛttaiḥ 13 
+saṃcitamagniṃ dakṣiṇena gatvā agnaāyūṃṣīti pratyaṅgukhastiṣṭhañchirasi gāyatraṃ gāyenniruktam 14 
+pratyāvrajya rathantaraṃ dakṣiṇe pakṣa udaṅmukhaḥ paścādvā prāṅmukhaḥ 15 
+paścimena pucchaṃ gatvā bṛhaduttare pakṣe dakṣiṇāmukhaḥ | paścādvā prāṅmukhaḥ 16 
+pratyāvrajya yajñāyajñīyaṃ pucche saṃvatsaraśceddaikṣaḥ sautyo vā 17 
+ṛtuṣṭhāyajñāyajñīyamanyatra|18 
+vāmadevyaṃ dakṣiṇe'pikakṣe 19 
+prajāpatehṛdayamuttare 20 
+etāni gautama uttareṇāgniṃ gatvā 21 
+etānyeva pradakṣiṇaṃ pratyantāddhānañjayyaḥ 22 
+yajñāyajñīyaṃ pucche 23 
+prajāpaterhṛdayasthāne ca vāmadevyam 24 
+dakṣiṇenāgniṃ gatvā gautamīye vyatyayaṃ ye pakṣayoḥ śāṇḍilyaḥ 25 
+śirasi ca gītvottare pakṣe 26 
+yathāgītamitarāṇi 27 
+uttare copaplaye svaṃhṛdayadeśamālabhya prajāpaterhṛdayam 28 
+adhvaryupathe śyaitam 26
+iti drāhyāyaṇaśrautasūtre dvitīye paṭale prathamaḥ khaṇḍaḥ
+<2.2>
+pravargyavatyuttareṇa samrāḍāsandīṃ gatvā paścāttiṣṭhannadhvaryupreṣitastyagnāyiriti gāyet 1 
+padāya padāya stobhet 2 
+nidhanāyaiva staubhīṃ vācaṃ visṛjet 3 
+upagrahaprabhṛtīni svarayantamupeyurye gharma upayuktāḥ syuḥ 4 
+patnī ca 5 
+evaṃ madhye 6 
+prāpya cāhavanīyāyatanam 7 
+pariṣicyamāne'pa upaspṛśya vārṣāharam 8 
+iṣṭāhotrīyaṃ pariṣikte 9 
+tasya sarve nidhanamupeyuḥ 10 
+dvīpaṃ ceddharmapātrāṇi hareyuḥ santatānyeva gāyennākāṅkṣetpariṣecanam 11 
+śyaitaṃ pratyāvajan 12 
+tṛce vaikasyāṃ vā yajamāno nidhanamanūpeyāt 13 
+pūrvayā dvārā prapadyottareṇāgnīngatvā paścādgārhapatyasya tiṣṭhan mahāvīrāyatanaṃ prekṣamāṇo vāmadevyaṃ gāyediti dhānañjayyaḥ 14 
+śyaitāntānīti śāṇḍilyaḥ 15 
+gaṇaḥ sāmānyuttarāṇi 16 
+ābhirūpyāt kartavyānītyeke 17 
+na vā kuryāt 18 
+sve vā yajñe kuryādityeke 19 
+yathākāmī vā 20 
+dīkṣaṇīyāyāṃ tārkṣyasāmanī gāyettyamūṣvityete 21 
+prāyaṇīyāyām̐ pravadbhārgavaṃ 22 
+udayanīyāyāmudvat 23 
+ātithyāyām̐ gāyatrīsāmauśanam 24 
+añjanti gharmaṃ tatra śārṅgam 25 
+rajatajātarūpe upadadhati tacchukracandre 26 
+abhīndhatte taddharmasya tanvau 27 
+rucitaṃ prāhustaddharmasya vā rocanamindrasya veti 28 
+dhenumupasṛjanti taddhenu 29 
+tasya devatāsu sopāyaṃ stobhamāharedanupāyaṃ pādāyābhyasyeduttamaṃ pādaṃ pañcanidhanavaditi gautamaḥ 30 
+samasyetpadadevate iti śāṇḍilyaḥ 31 
+nottamaṃ pādaṃ punarabhyasyediti vārṣagaṇyaḥ 32 
+śeṣaṃ yathā marutāṃ bhūtau tathā samāpayet 33 
+paya āharanti tatpayaḥ 34 
+āsiñcanti tatsindhuṣāmātvā viśantvindava iti 35 
+śaphābhyām̐ parigṛhṇanti tadvasiṣṭhasya śaphāviti 36 
+hriyamāṇe vratapakṣau 37 
+hute'śvinorvrate ahorātrayorvā 38 
+rauhiṇābhyāṃ puroḍāśābhyāṃ caranti tadrājana rauhiṇake 36 
+parigharmyaṃ samrāḍāsandyāṃ samāropayanti tadārūḍhavadāṃgirasamita eta iti svarṇidhanaṃ 40 
+agniṃ praṇayanti tatrāgnervratam 41 
+agnīṣomau tatrobhayorvrate 42 
+sutyāyāṃ yajñasārathi prāk prātaranuvākopākaraṇādāgnīdhrīye'harahaḥ 43 
+satre satrasyarddhi 44 
+ukṣā cedanubandhya aukṣṇorandhre 45 
+ṛṣabha ārṣabham 46 
+unnate traikakubham 47 
+vaśāyāṃ vāśam 48 
+aja ājigaṃ 49 
+meṣa aurṇāyavam 50 
+payasyāyām̐ svāraṃ payonidhanama 51 
+udavasānīyāyāmudvaṃśīyam 52 
+upakramya samāpayedākratorapavargāt 53
+iti drāhyāyaṇaśrautasūtre dvitīye paṭale dvitīyaḥ khaṇḍaḥ 2
+<2.3>
+audumbarīmucchrayiṣyan pūrveṇa devayajanaṃ gaccheddakṣiṇataścedasyāvasathaḥ syāt 1 
+uttareṇa yadyanyataḥ 2 
+pūrvau sadaso dvāryau śvabhrāvantareṇa prapadyāgreṇaudumbarīṃ gatvodaṅmukhastiṣṭhannadhvaryuṇā sahocchrayeddakṣiṇottarottānābhyāṃ pāṇibhyāṃ dyutānastveti 3 
+āyoriti śvabhre'vadadhyāt 4 
+avadhāya japennamaḥ samudrāya namaḥ samudrasya cakṣase māmāyunarvāhasī dūrgasyūrjedā ūrjaṃ me dehyūrjaṃ me dhehyannaṃ me dehyannaṃ me dhehīti 5 
+tānna visṛjedāvacchādanāt 6 
+adhvaryuṇābhihutāyāṃ juhuyāt tasyaivāvṛtāntareṇa viśākhe 7 
+ghṛtena dyāvāpṛthivī aprīṇāthā svāheti pūrvāṃ prajāpataye svāhetyuttarām 8 
+anyatarāṃ vā svāhākāradvitīyām 9 
+yathā bhūmimājyaṃ prāpsyatīti 10 
+ājyaṃ homa codanāsvanādeśe 11 
+adhastādviśākhasya parigṛhya japeddivi devāndṛha mayi prajāmiti 12 
+antarīkṣe vayāsi dṛṃha mayi paśūniti madhye 13 
+pṛthivyāmadhyauṣadhīrdṛha mayi sajātāniti mūle 14 
+ūrddhvahomādyājamānaṃ dhānaṃjayyaḥ 15 
+svayamiti gautamaśāṇḍilyau yāṃ vā kāṃcid ṛtvigāśiṣamāśāste yajamānasyaiva seti 16 
+avacchādyamānāyāṃ divyaṃ chadyāsi saṃtanināma viśvajanasya chāyā namaste'stu mā mā hiṃsīriti 17 
+dakṣiṇena śvabhrān gatvāparau dvāryāvantareṇa prapadyaitat kuryāditi śāṇḍilyaḥ 18 
+uttareṇeti dhānaṃjayyaḥ 16 
+gautamīyamitarat 20 
+yathaitaṃ niṣkrāmet 21
+iti drāhyāyaṇaśrautasūtre dvitīye paṭale tṛtīyaḥ khaṇḍaḥ 3
+<2.4>
+yūpamucchrīyamāṇamanumantrayerannṛmaṇa ūrdhvabharasaṃ tveti 1 
+etānyevohasthānāni yāvantaḥ syuḥ 2 
+yatra tiṣṭhanta ucchīyamāṇaṃ paśyeyuriti śāṇḍilyaḥ 3 
+antarvedyeveti dhānaṃjayyaḥ 4 
+na bahirvedi yajuravakalpata iti 5 
+viśvarūpāṇāṃ gānaṃ jyotiṣṭome yajamānenoktaḥ pratyācakṣīta | catuṣṭomastomasaṃpadatirekādgrahaśastrābhāvācca 6 
+vasatīvarīyo grahaḥ prātaranuvākaḥ śastramāsāṃ na ca saṃpatkopo yathānyaiḥ parisāmabhirgāyaiveti cedbrūyāt 7 
+na māmanāmantrya prātaranuvākamupākuryādityadhvaryuṃ brūyāt 8 
+hotāraṃ prātaranuvākāyopaviṣṭaṃ pūrveṇa gatvā yajamānaśca pūrvayā dvārā prapadyāntareṇa havirdhānaṃ pūrveṇa cakre udaṅmukha upaviśet tūṣṇīm 9 
+purastādyajamānaḥ pratyaṅmukhaḥ 10 
+yuje vāca śatapadīṃ gāyetsahasravartani gāyatraṃ traiṣṭubhaṃ jagadviśvārūpāṇi saṃbhṛtā devā okāsi cakrira ityetasyāṃ paṅktau trirgāyatraṃ gāyediti dhānaṃjayyaḥ svādhyāyasvareṇa 11 
+manasaiva yajamāna upasvaret 12 
+triṣu triṣu pādeṣu gāyediti gautamaḥ 13 
+pūrvaṃ pūrvamatisṛjan gāyatrīkāram 14 
+pragāthakāraṃ vā 15 
+gītvā yathārthaṃ syāt 16 
+viśvarūpāścedgāyejyo tīṃṣyapi gāyet 17 
+parihite prātaranuvāke'ponaptrīyaṃ nāma sūktaṃ purā tasmāddhotāramārametyuktvā 18 
+āgrayaṇasya vānuhiṃkāraṃ pavitraṃ dhārayan 19 
+āstāvaṃ vā prāpya stomayogāt 20 
+agnirjyotirjyotiragnirindro jyotirjyotirindraḥ sūryojyotirjyotiḥ sūrya ityeteṣu pādeṣu tristrirekaikamabhyāsaṃ manasā gāyatraṃ gāyet 21 
+tāni nānyatra viśvarūpābhyaḥ 22 
+nānyatra viśvarūpā jyotiṣṭomāt 23 
+sahacarāṇi hyetāni viśvarūpāśca jyotīṃṣi ca jyotīṃṣi 24
+iti drāhyāyaṇaśrautasūtre dvitīye paṭale caturthaḥ khaṇḍaḥ 4
+iti dvitīyaḥ paṭalaḥ samāptaḥ 2
+<3>
+<3.1>
+yugapatkarmasu sarveṣūdgāturdakṣiṇamanu bāhuṃ prastotā savyaṃ pratihartā 1 
+hotā prātaranuvākamanucyābhūduṣā iti yadā brūyādatha vedimākrāmeyurmṛdāśithireti | māmāhiṃsīriti maṃtrānta iti | bahirvedye tajjapitvā mā mā hiṃsīrityetāvataiveti dhānaṃjayyaḥ 2 
+savanamukheṣu ca yajuṣā 3 
+aharahariti gautamaḥ 4 
+sakṛtkratāviti śāṇḍilyaḥ 5 
+yāvaddhākrāmeyurityeke 6 
+havirddhānaṃ praveśyamānā vasatīvarīranupraviśeyuḥ 7 
+tasya rarāṭyāmālabhya viṣṇoḥ śiraḥ 8 
+iṣa ūrja iti praviśanto'ntareṇeṣe bāhūnavahṛtya pārṣṇīranudyacchanto yunajmīti rājānamabhimṛśeyuryaḥ prātaḥsavanāya 9 
+avibhaktaścetsarvam 10 
+nacetprāpnuyuḥ somaṃ deśenaiva 11 
+prastotā prathamo'tisarpet 12 
+tata udgātā tataḥ pratihartā 13 
+dakṣiṇasya havirdhānasya paścāt savyāvṛta upaviśeyurṛtasya sadana iti 14 
+purastāccopariṣṭāccarcaḥ sarvatra japeyuryāsu kariṣyantaḥ syuḥ 15 
+atra tu bahiṣpavamānasya 16 
+abhiṣute rājanyṛtapātramasīti droṇakalaśamālabhya vānaspatya iti proheyuḥ 17 
+dakṣiṇe pāṇāvudgātā daśāpavitraṃ kurvīta 18 
+akṣaṃ cedupahanyuḥ punaḥ proheyuḥ 19 
+antareṇākṣaviṣkambhau daśāpavitraṃ droṇakalaśe prāsyedanupaghnan 20 
+saṃhitau cedubhāvupari 21 
+sarvaṃ rathopasthamuparyuparyuttareṇa rathajaṅghāṃ rathaścet 22
+iti drāhyāyaṇaśrautasūtre tṛtīye paṭale prathamaḥ khaṇḍaḥ 1
+<3.2>
+pratyāvrajya grāvṇo yuñjyāt 1 
+pradakṣiṇamaṣṭamadeśeṣu sthavīyāṃsyabhyantarāṇi kṛtvā 2 
+tāni mukhāni 3 
+dakṣiṇārdhyapūrvārdhyaṃ prathamam 4 
+tānabhimṛśya japeyurmaruta iti 5 
+ṛtasadana etajjapitvā yuktāḥstha vahatetyetāvataiveti dhānaṃjayyaḥ 6 
+paścāddakṣiṇato vā droṇakalaśamadhyūheyuridamahamimamiti 7 
+yajamānaśabdaṃ sarvatra yathārthaṃ kuryuḥ 8 
+anujapeyuranyena kṛte mantrau 9 
+bāhmaṇavihitādanyatraiṣa kalpaḥ kāmyānāma 10 
+dveṣyakalpastvavaśiṣyate | tatrāpi nityadharmagrahaṇe prāpte āha dveṣyakalpādanyatra 11 
+viparyasya tu tasmin 12 
+tūṣṇīṃ ca yojanādhyūhane 13 
+idamahamamumiti dakṣiṇāparamaṣṭamadeśaṃ nirūhet 14 
+dveṣyapriyakalpayormantrau rājanyūhet 15 
+tasya ca viśamādiśet 16 
+taṃ caivānnādyena 17 
+upāṃśusavano nāma grāvā pañcamastamupariṣṭāddroṇakalaśasya kuryādrāṣṭrajighāṃsuḥ pratīveśām̐ balavatīṃ viśamādiśan 18 
+eteṣāmekaṃ kṛtvā pathyaṃ kuryāditi gautamaḥ 16 
+tameveti dhānaṃjayyaḥ 20 
+pṛṣṭhānāmante pūrvayādvārā niṣkramya kāmyaṃ śāṇḍilyaḥ 21 
+pavitreṇa droṇakalaśaṃ saṃmṛjyādvasavastveti budhnaṃ rudrāstveti madhyamādityāstveti bilama 22 
+eteṣāmekaikena tristriranusavanaṃ saṃmṛjyāditi dhānaṃjayyaḥ 23 
+sarvaiḥ sarveṣviti śāṇḍilyaḥ 24 
+sarvairbudhnaṃ sarvermadhyaṃ sarvairbilamityeke 25 
+bilaṃ madhyaṃ budhnamityaparam 26 
+avadhūya pavitramudagdaśamavāṅnābhivitanuyuḥ pavitraṃ ta iti 27 
+tṛcenaike 28 
+saṃtatāyāṃ dhārāyāmudgātā japet praśukraitviti 29 
+amuṣya rājyāyeti priyaṃ rājānamādiśet 30 
+rājño rājyāyeti vā 31 
+yajamānasya rājño rājyāyeti vā 32 
+somasya rājño rājyāyeti vā 33 
+somasyetyeva brūyāt somarājāno hi brāhmaṇāḥ 34
+iti drāhyāyaṇaśrautasūtre tṛtīye paṭale dvitīyaḥ khaṇḍaḥ 2
+<3.3>
+āgrayaṇaṃ gṛhṇannadhvaryurhiṃ karoti tadā pravṛṇīranagniḥ prastotāhaṃ mānuṣo bṛhaspatirudgātāhaṃ mānuṣo vāyuḥ pratihartāhaṃ mānuṣaḥ iti yathāliṅgam 1 
+na pravṛṇīranniti dhānaṃjayyaḥ 2 
+pravṛṇīranneveti śāṇḍilyaḥ 3 
+atra vācaṃ yaccheyuḥ 4 
+ṛtasadane vā 5 
+vediṃ vākrāmantaḥ 6 
+stute bahiṣpavamāne visṛjeran 7 
+uttarāddhavirdhānāt dhruvasthālīṃ harantaḥ paścimenogātṝn hṛtvā tenaiva pratihareyuḥ 8 
+api hyadhvaryavo'pyakuśalā bhavantīti 9 
+abhipīḍya pavitramadhvaryurniḥsarpantaṃ prastotā saṃtanuyāt 10 
+tamudgātodgātāraṃ pratihartā taṃ brahmā brahmāṇaṃ yajamānaḥ 11 
+pañcartvijaḥ saṃrabdhāḥ sarpantītyetānāha 12 
+doṣavacanāt vyavacchedājjugupseran 13 
+na rājānamālabhyānuspṛśyāpa ājyamālabheraṃstathājyaṃ rājānaṃ sarvatra 14 
+eṣa somasya yadājyamiti tayorasamavāyamāha 15 
+adhvaryuṇā hute pravṛtahomau juhuyurgatyānupūrvyeṇa bekurā nāmāsi sūryo meti 16 
+saṃsutasome tvadhikāmudgātā juhuyāt saṃveśāyopaveśāyeti yathāsavanaṃ chandām̐syādiśan 17 
+ṛcāṃ sāmeti svāhākārāntayā tṛtīyāṃ sarvatra 18 
+sa eveti śāṇḍilyaḥ 19 
+mahāgirimahānadī rathāharvāyuvyavāyeṣvasaṃsavaḥ 20 
+pṛthagjanapade ca 21 
+avidviṣāṇamātrādityeke 22 
+hutvā japeyurbrahmāhaṃ gāyatrīṃ vācaṃ prāṇaṃ prajāpatiṃ prapadye'śmānamākhaṇaṃ paryūha iti 23 
+adhvaryumanvāvarteran sarpantaḥ 24 
+savyaiḥ pāṇibhiḥ pṛthagdakṣiṇā tṛṇāni nirasyeyuryo'dya saumya iti 25 
+cātvāladeśaṃ prāpyādhvaryāvupaviṣṭe tasmāt pratyagupaviśeyuryo ma ātmeti 26 
+pratyaṅmukhaḥ prastotodaṅmukha udgātā paścimenodgātāraṃ gatvā dakṣiṇapūrvamaṣṭamadeśamīkṣamāṇaḥ pratihartā 27 
+savyādyarānupasthān kṛtvā dyāvāpṛthivyoḥ sandhimīkṣamāṇāḥ samāni mukhāni dhārayantaḥ 28 
+evaṃ sarvastotreṣvāsīran 29
+iti drāhyāyaṇaśrautasūtre tṛtīye paṭale tṛtīya khaṇḍaḥ
+iti prathame prapāṭhake ekādaśaḥ khaṇḍaḥ 11
+<3.4>
+caturavarāryādhura upagāḥ syuḥ 1 
+tathāhi bhāllavi brāhmaṇaṃ bhavati | yo'nupagītaṃ sāma ādatte muṣyate rūkṣo bhāvuko bhavatyupagātṛbhyaḥ prasvaret | prāṇo vai svaraḥ | prāṇenaiva sāma saṃtanotīti valgutamaṃ sāmopagītaṃ bhavati | tasmādapyupageyam 2 
+catvāra upagāḥ syuścatasro diśo digbhirupagāyantīti ca bāhmaṇam 3 
+| upagātāra iti ca brāhmaṇam 4 
+yāvanto vā saṃsvareran 5 
+te ho ityetenākṣareṇopagāyeyuromiti yajamānaḥ 6 
+pṛṣṭyantarayorupaviśya bhaktyantarāṇi chādayanto mandra upagā bhavanti 7 
+tryantara upagīthaḥ prātaḥsavanādanyatra 8 
+mandrastveva prātaḥsavane 9 
+nidhanāya nidhanāyoparameyuḥ 10 
+tatrāpyeka ekākṣareṣu noparamanti 11 
+te svāṃ svāṃ bhaktimanucchvasanto brūyuḥ 12 
+pade vocchvaseyuḥ stobhe vā 13 
+nāntareṇa pade na stobhau 14 
+yatra vopapadyeta na tāntaḥ kuryāditi 15 
+prastaraṃ pratigṛhya prastotā brahmanstoṣyāmaḥ | praśastarityudgātre prayacchet 16 
+tena dakṣiṇāṃ jaṅghāmupahatya yuñjyātstomamagnestejaseti 17 
+annaṃ kariṣyāmīti japet 18 
+tūṣṇīṃ cātvālamudapātraṃ cāvekṣeran 16 
+sāmāsi pratimā bhāhītyādityam 20 
+tūṣṇīṃ vā 21 
+sakṛddhiṃkṛtya bahiṣpavamānena stuvīran 22 
+ahiṃkṛtā prathamā retasyā | hiṃkṛtāḥ parāḥ 23 
+rathantaravarṇottamā avisṛṣṭahiṃkārā 24 
+tasyā ūrdhvaṃ prastāvāccatvāryakṣarāṇyabhiṣṭobhet 25 
+annamakaramiti stutvā japet 26 
+śyeno'sīti prastare yajamānaṃ vācayet 27 
+taṃ sarvatra stutvopahvayeran 28 
+saṃvarcasetīkṣakānsahakāriṇaśca prekṣamāṇo japet 29 
+namo gandharvāyetyādityam 30 
+deśenaivāntarhitaścet 31 
+etatsarvaṃ kuryāduttarayoḥ pavamānayoḥ 32 
+pravarāstu nivartante 33 
+cātvālāvekṣaṇaprabhṛti ca prāgghiṅkārāt 34 
+praveśanasaṃmārjane cāntareṇa tṛtīyasavane 35 
+kumbhaṃ tu tatra saṃmṛjyāt 36 
+uttare havirdhāne yaḥ pūrvo droṇakalaśāvṛtā 37 
+taṃ pūtabhṛdityācakṣate taṃ pūtabhṛdityācakṣate 38
+iti tṛtīye paṭale caturthaḥ khaṇḍaḥ 4
+iti drāhyāyaṇaśrautasūtre prathamaḥ prapāṭhakaḥ samāptaḥ 1
+<4>
+<4.1>
+stomayoge'gniryunaktvityetasya sthāne vāyuryunaktu sūryo yunaktviti nānāsavanayoḥ 1 
+vihāraṃ dhānaṃjayyaḥ 2 
+agnestejasā bṛhaspatistveti prātaḥ savanaṃ indriyasyendriyeṇa bṛhaspatistveti mādhyaṃdine sūryasya varcaseti tṛtīyasavane 3 
+sarvairekaikaṃ yathāmnāya śāṇḍilyaḥ 4 
+sāmne sāmne hiṃ kuryuḥ 5 
+vṛṣako'si svaro'sīti yajamānavācane 6 
+stutvā bahiṣpavamānena prastarādubhayataścaturaṅgulaṃ paricchidya tṛṇaṃ cātvāle pravidhyedyadi stutaṃ yadi vādya suṣṭutamarvāk stataṃ yadi vātiṣṭutaṃ yattayoranyena divamāruhememamanyena jayema lokamiti 7 
+tatraivodapātraṃ ninayet samudraṃ vaḥ prahiṇomi svāṃ yonimapi gacchatāriṣṭāstvābhuyāsma mā parāsecino dhanamiti 8 
+bahirvedyudañco'yuñji padānyutkrāmeyuḥ prāgdaśabhyaḥ 9 
+abhidakṣiṇamāvṛtyā vrajyāgnīdhrīyaṃ bahiṣpavamānarco'dhīyīran 10 
+anuvyāhārṣīnmāmiti yamiti śaṅketa tasyā āgnīdhrīya āhutivajraṃ praharedyajñaśaṃ ca ta upacate namaśca te satyo'si satyasaskṛtastasya te ya ūnaṃ yo'kṛtaṃ yo'tiriktamadarśaṃ tasya prāṇenāpyāyasva svāheti 11 
+na vyabhicarediti dhānaṃjayyaḥ 12 
+ahīnabahiṣpavamānaiḥ sadasi stuvīran prathamādahno'nyatra 13 
+ādyantayośca satreṣu 14 
+prāgdhiṣṇya viharaṇānniṣkramya tṛṇaprāsanaprabhṛti samāpayeyuḥ 15 
+vaidatrirātre satranyāyaṃ gautamaḥ 16 
+ahīnanyāyaṃ dhānaṃjayyaḥ 17 
+mandraṃ prātaḥsavane stuvīran 18 
+uttarottaryuttarayoḥ savanayoḥ 19 
+samena vobhayoḥ 20 
+etasyāṃ velāyāṃ prāśnīyuḥ 21 
+anusavanaṃ tu satreṣu 22 
+savanamukhīyān bhakṣayitvā sanneṣu nārāśaseṣu 23
+iti drāhmāyaṇaśrautasūtre caturthe paṭale prathamaḥ khaṇḍaḥ 1
+<4.2>
+vapāyāṃ hutāyāṃ dhiṣṇyānupatiṣṭheran 1 
+cātvāle tu mārjanaṃ pūrva satreṣvidamāpaḥ pravahanāvadyaṃ ca matraṃ ca yadyaccābhidudrohānṛtaṃ yacca śepe abhīruṇamāpo mā tasmādenaso duritātpāntu viśvato nirmāmuñcāmi | śapathānnirmā varuṇādutanirmā yamasya ṣaḍviṃśātsarvasmādeva kilbiṣāt sumitriyā na āpa oṣadhayaḥ santu durmitriyāstasmai santu yo'smān dveṣṭi yaṃ ca vayaṃ dviṣmaḥ iti 2 
+samrāḍasītyāhavanīyamupasthāyodañco gatvāstāva cātvāla śāmitrānudaṅmukhāstutonabho saṃmṛṣṭa iti 3 
+vibhurasītyāgnīdhrīyamupatiṣṭheran 4 
+tamuttareṇa saṃcaraḥ sarvatra 5 
+dakṣiṇenottarayoḥ savanayoryadā havirddhānamāhavanīyaṃ ca pṛṣṭhahomāya 6 
+pūrvasyāṃ sadaso dvāri pratyaṅmukhāstiṣṭhanto vahniriti hoturdhiṣṇyam 7 
+śvātra iti maitrāvaruṇasya 8 
+tutha uśigandhāriravasyuriti brāhmaṇācchaṃsiprabhṛtīnāmudañcaḥ 6 
+śugdhyuriti mārjālīyaṃ tatraiva tiṣṭhantaḥ 10 
+ṛtadhāmetyaudumbarīm 11 
+samudra iti brahmaṇaḥ sadanam 12 
+uttareṇa sado gatvāntarvedi pratyaṅmukhāstiṣṭhanto'hiriti prajahitam 13 
+aja iti gārhapatyam 14 
+sagarā iti dakṣiṇāgnerāyatanam 15 
+kavya iti dakṣiṇaṃ vedyantam 16 
+tatraiva tiṣṭhantaḥ sarvāntsamanvīkṣamāṇaḥ pātameti 17 
+ekaikamupasthāyaitadbrūyuriti śāṇḍilyaḥ 18 
+bahuśabdānekavat kurvantaḥ 16
+iti drāhyāyaṇaśrautasūtre caturthe paṭale dvitīyaḥ khaṇḍaḥ 2
+<4.3>
+raurukīṇi cetkuryurādityaṃ prathamamupatiṣṭherannadhvanāmiti 1 
+āhavanīyamupasthāya tamevāpijosi jāyamāna ityapijosi navajāta iti vāyumagnimanupraharanti tamabhipretya 2 
+yadā cātvālamathotkaraṃ tumalo'syākrandaṃ kṛtveti 3 
+yadā śāmitramatha yatrā'vadhyaṃ nikhanantyūvadhyagohosi pārthiva iti 4 
+yadāgnīdhīyamatha yatrācchāvāka āsīno hotaryupahavamicchatyupahavyo'si namasya ityupahavyo'si tanūpā iti vā 5 
+yadā brahmaṇaḥ sadanamatha sadasyasya sadasyo'si malimluca iti 6 
+yadā dakṣiṇaṃ vedyantamatha prājāpatyamasīti palīśālāmaindramasīti sado vaiṣṇavamasīti havirddhānamaindrāgnamasītyagnīdhrīyaṃ vaiśvadevamasīti vā 7 
+atha tathaiva samastena 8 
+sarve stha somyāsaḥ sarve somaṃ pibata sarve somasya pītimānaśadhve pātameti | samānaṃ param 6 
+ṛtasya dvāraustha ityaparau dvārabāhū sadasaḥ saṃmṛjya māmā saṃtāptamiti praviśeyuḥ 10 
+dakṣiṇenaudumbarīṃ gatvā tasyā uttarata upaviśeyurnamaḥ sakhibhyaḥ iti 11 
+pūrveṇa prastotāraṃ pratihartā gacchet 12 
+etasyāṃ velāyā samupahvayerantsarve satreṣu 13 
+mitho'nyatra 14 
+sarve yajamānam 15 
+dvārabāhusaṃmārjanaprabhṛtyetatsarvaṃ kuryuryadā dhiṣṇyānupatiṣṭheran 16
+iti drāhyāyaṇaśrautasūtre caturthe paṭale tṛtīyaḥ khaṇḍaḥ 3
+<4.4>
+yājamāna brahmatve cedudgātā kuryāt 1 
+āgnīdhrīyamupasthāya pūrveṇa parikrāmet 2 
+sadasānupasthāya tata evekṣamāṇaḥ pātnīśālān 3 
+itarathetarau 4 
+ṛtasya dvārau stha iti pūrvau dvārabāhū sadasaḥ saṃmṛjya dakṣiṇasya purastādudaṅmukha upaviśediti śāṇḍilyaḥ 5 
+tasyaiva paścātpratyaṅmukha iti dhānaṃjayyaḥ 6 
+ukte praveśanopaveśane 7 
+ṛtvikpathena gatvā samastopasthānaprabhṛtisamānam 8 
+dakṣiṇārdhe tu sadasaḥ pūrvamupaveśanam | prastotuḥ pratyupaveśanaṃ brahmopaveśanena nirastaḥ parāvasuriti dakṣiṇā tṛṇaṃ nirasyet 11 
+āvasoḥ sadane sīdāmītyupaviśet 12 
+namaḥ sakhibhyaḥ pūrvasadbhyo namo'parasadbhyo bhūrbhuvaḥsvarbṛhaspatibrahmāhaṃ mānuṣa omityuktvaudumbarīṃ gatvopaviśet 13 
+anupaviśeyātāmitarau 14 
+etenānupūrvyeṇa sarvaṃ yathāsanaṃ cikīrṣet 15 
+glāyeccedadhyaudumbaryeva 16 
+sadasya evameva dhiṣṇyānupatiṣṭhan brahmāṇamanupraviśet 17 
+brāhmaṇācchaṃsinaṃ vā 18 
+tenāsya samupahavaḥ syāt 19 
+bhakṣaśca samānaḥ 20 
+bībhatseyātāṃ cennānācamasau syātām 21 
+sarpatsu na śūnyaṃ sadaḥ kuryāt 22 
+tasya dadhibhakṣāntaṃ karma 23 
+sa nivarteta satreṣu 24 
+visaṃsthite savane pūrvayā dvārāntareṇa hoturdhiṣṇyaṃ maitrāvaruṇasya ca saṃcaraḥ 25 
+tadyathaitam iti 26
+iti drāhyāyaṇaśrautasūtre caturthe paṭale caturthaḥ khaṇḍaḥ
+<5>
+<5.1>
+camasaṃ pratigṛhya prastotā dakṣiṇa ūrāvādhāya dakṣiṇena pāṇinā vidhāyāsīta 1 
+upahūyamānāyāmiḍāyāmanūpadhārayedanupaghnan 2 
+vaṣaṭkarturanubhakṣa sarvatra bhakṣayeyuḥ 3 
+mitha upahūyodgātā prathamaḥ 4 
+dakṣiṇamanu bāhuṃ daṇḍaṃ kṛtvā śyena ityavekṣyendaviti dviralpaṃ bhakṣayedyathā savanaṃ chandāṃsyādiśan 5 
+ūrdhva iti mukhyāna prāṇānabhimṛśet 6 
+soma rārandhīti hṛdayam 7 
+soma gīrbhiriti nābhim 8 
+evamitarau kuryātāṃ pratihartā paścāt 9 
+taṃ sa āpyāyayedabhimṛśyāpyāyasvetyetayā gāyatryā 10 
+sarve vā 11 
+tāṃ tṛtīyasavane dvirbrūyuḥ 12 
+saṃ te payāsīti mādhyaṃdine 13 
+gāyatryaivānasavanamāpyāyayediti śāṇḍilyaḥ 14 
+dvitīyāḥ savaneṣu nārāśaṃsāḥ 15 
+pūrvayośca tṛtīyau 16 
+teṣāmanavekṣya bhakṣaṇam 17 
+avamairiti prātaḥ savane aurveriti mādhyaṃdine kāvyairiti tṛtīyasavane 18 
+pitṛbhiriti sarvatrānusaharet 16 
+pratyabhimarśane yathākāmī 20 
+prathamadvitīyau pūrvayoḥ savanayorāpyāyayet 21 
+prathamaṃ tṛtīyasavane 22 
+āvarttiṣu tṛṇe pratigṛhya prastotā prayacchedyathāprastaram 23 
+anāhriyamāṇayorna mantraṃ jahyāt 24 
+tathaiva jaṅghāmupahatya yuñjyāt stomaṃ dīkṣāyai tapaso manaso vāca iti 25 
+nānā dhānaṃjayyo yatrānantarāṇi catvāri 26 
+antaḥsarveṣāṃ prajāpatistveti 27 
+prathamenālpīyassu 28 
+tatprabhṛtīni rātrau 29 
+tathātiriktastotreṣu 30 
+sarvairekaikaṃ yathāmnāyaṃ śāṇḍilyaḥ 31 
+āvṛttinyāyaḥ saṃdhau 32 
+upavasathye'hani na samāmaneran 33
+iti drāhyāyaṇaśrautasūtre pañcame paṭale prathamaḥ khaṇḍaḥ 1
+<5.2>
+prastotā tu kuśāḥ kārayedyajñiyasya vṛkṣasya 1 
+khadirasya dīrghasatreṣveke 2 
+prādeśamātrīḥ kuśapṛṣṭhāstvaktaḥ samāmajjato'ṅguṣṭhaparvapṛthumātrīḥ prajñātāgrāḥ 3 
+kārayitvā gandhavatībhiroṣadhībhiranulipya sarpiṣā satreṣveke kuśāvidhānena vasanena pariveṣṭya kṣaumaśāṇakakārpāsānāṃ kenaciduparyaudumbaryā vāsayet 4 
+tāṃ śvobhūte kuśairūrdhvāgraiḥ pariveṣṭyaivaṃjātīyenaiva vasanena pradakṣiṇamūrdhvadeśena pariveṣṭya spṛṣṭo'napaśrita udgāyediti gautamaḥ5 
+dhiṣṇyo'yaṃ bhavati na dhiṣymāsādayet 6 
+dhṛṣṭamapaśrayateti dhānaṃjayyaḥ 7 
+sa eva tadurjiśritaḥ prajābhya ūrjaṃ vibhajatīti hyāha 8 
+stoṣyamāṇānāṃ madhye vaiṣṭutaṃ vasanaṃ prāksamāsaṃ vodaksamāsaṃ vopari daśamāstīrya tatra prastotā kuśā vidadhyāt prastāvānteṣu 9 
+ādye'nekaprastāvāsu 10 
+aprastāvāsvādau 11 
+udagagraṃ prathama viṣṭāvaṃ prāksaṃsthaṃ pratyagvā 12 
+taṃ paścimena madhyadeśenodaksaṃsthaṃ prāgagraṃ pratyagvā 13 
+taṃ paścimenodagagraṃ pratyaksaṃstham 14 
+evaṃ vidhāḥ paryāyā uttarottarāḥ 15 
+mithaḥ paryāyaviṣṭāvānsaṃdadhyāt 16 
+paryāyādiṣu hiṃkāraṃ stuvīran 17 
+uttamāṃ prastutyaiṣeti śasiṣyantaṃ brūyāt 18 
+stutasya stutamasīti yajamānavācanam 19 
+savanasaṃsthāsu praśāstroktā yathetamaparayā dvārā niṣkramya paścimenāgnīdhrīyaṃ mūtraṃ kuryuḥ 20 
+vācaṃ yaccheyuryāvadudakyāḥ syuḥ 21 
+etanmṛgatīrtham 22 
+tena bhūyaḥ śamyāparāsādgaccheyuḥ 23 
+yo bhūyo jigamiṣedāpnānena gacchet 24 
+|
+iti drāhyāyaṇaśrautasūtre pañcame paṭale dvitīyaḥ khaṇḍaḥ|
+<5.3>
+atha dhiṣṇyānupatiṣṭheran 1 
+samastenottarayoḥ savanayoriti gautamaśāṇḍilyāyanau 2 
+sarveṇeti dhānaṃjayyaḥ 3 
+anupasthāna śāṇḍilyaḥ 4 
+evameva niṣkramya pṛthakastotrebhyaḥ samastenopatiṣṭheranyānyūrdhvamukthebhyaḥ 5 
+paryāyebhyastu rātreḥ 6 
+yathāsanamapaviśya prastotā havirdhānaṃ gacchenmadhyaṃdine 7 
+huta ādityagrahe pratihartārbhave 8 
+ubhayatra sarve satreṣu 9 
+pavamānayoruttarayordhiṣṇyaviharaṇe mārjālīya harantaḥ paścimena yajamāna hutvā tenaiva pratihareyuḥ 10 
+madhyaṃdinena stutvā satreṣu dadhigharmasya bhakṣayeyuḥ samupahūya dadhikrāvṇa iti 11 
+tasyā uttamaṃ pādaṃ daśame'hanyabhyasyeyuḥ 12 
+pūrveṇa palīśālāmantareṇāgnīdhrīya sadaśca tīrthena dakṣiṇā nayeyuḥ 13 
+sarvāsāṃ devasya tveti purastājjapaḥ 14 
+varuṇastveti yathādaivataṃ pratigṛhṇīyāt 15 
+yathājāti mṛgān 16 
+aprāṇacca 17 
+puṃvanmithunānyanyatrājābhyaḥ 18 
+tena ka idamityupariṣṭājjapaḥ 16 
+tatrohāpādīni padāni 20 
+tvā devi dakṣiṇe'da iti ca yattatsyāttena dātra idamāviśaitatte bhuñjatīti māsā hisīriti ca 21 
+aśva rathaṃ ceddadyāt 22 
+pūrveṇāgnīdhīyamavasthāpya purastājjapaṃ japitvā darbhamuṣṭināśvamukhāni saṃmṛjyāddvābhyāṃ dvābhyāmaśvanāmabhyāmekekasyāśvo'sītyetatprabhṛtibhirudaksaṃsthamiti dhānaṃjayyaḥ 23 
+dhuryau prathamamityaparam 24 
+dakṣiṇaṃ pūrvaṃ tathā praṣṭī 25 
+sarvāṇyekaikasminudaksaṃsthamiti śāṇḍilyaḥ 26 
+sarvāṇyekasmistūṣṇīmitarāṇītyaparam 27 
+etānyevāśvāsvaśvatareṣvaśvatarīṣu ca yathārthamūheta 28 
+tribhiścedardhānyekasminnardhāni dvayoḥ 26 
+dvaidhaṃ dvayoḥ 30
+iti drāhyāyaṇaśrautasūtre pañcame paṭale tṛtīyaḥ khaṇḍaḥ 3
+<5.4>
+ādityānāmiti rathaśira ālabhya japet 1 
+yadrathyaṃ syādvāyoriti carmaṇyaṃ pratigṛhṇīyānnakṣatrāṇāmityasthi mayaṃ sūryasyetyayolohe hiraṇyaṃ ca 2 
+dakṣiṇena rathaṃ gatvā rathantaramasīti dakṣiṇaṃ cakramālabhet 3 
+vāmadevyamasītyadhiṣṭhānam 4 
+bṛhadasītyuttaraṃ cakram 5 
+aṅkānyaṅku iti cakre eva saṃmṛjyāt 6 
+vaiśvānara iti dakṣiṇena pādenārohet 7 
+tadapi veditamavapannaṃ dakṣiṇaṃ cakraṃ nirvartya khamanvīkṣayet pūrvasyāntena te tvāgnaya iti 8 
+te metītaro brūyāt 9 
+āruhya japed gidaiṣata iti 10 
+tadapi veditaṃ śamarathaṃ śākhāstambhamālabhyāntarā cakravartmanyetenaivānvīkṣeta 11 
+kṛśeti savyānabhīśūnā yacchet 12 
+dāseti dakṣiṇānavagṛhṇīyāt 13 
+avaruhya sakṛdvāruṇamuktvā yathādaivatamādiśyopariṣṭājjapaṃ japediti gautamaḥ 14 
+saṃmārjanaprabhṛtyetatsarvaṃ kṛtvā vimucya nānā purastājjapopariṣṭājjapau vāruṇamaśvebhyo rathāya ceti dhānaṃjayyaḥ 15 
+glāyeccedyathāsanaṃ vaitatsarvaṃ japet 16 
+pṛṣṭhyaṃ ceddadyāt prāgvāruṇādaśvanāmāni japet 17 
+purastājjapādvā 18 
+tathā dānteṣu 16 
+yadrathyaṃ syāttena tatpratigṛhṇīyāt 20 
+annasyeti prāgvāruṇādaveḥ 21 
+purastājjapādvā 22 
+gnāstvā kṛntanniti vasanasya 23 
+tadudasyedatāntave 24 
+hiraṇyamalpīyo'bhogādāgacchedaudumbaryāmāśleṣayet 25 
+āgnīdhrīye vā juhayāt 26 
+samastān vīhiyavānekakratau pratigṛhṇīyāt 27 
+tathā tilamāṣān 28 
+prājāpatyenānādiṣṭadevatāḥ pratigṛhṇīyāt 26 
+tūṣṇīmayajñe dakṣiṇā iti dhānaṃjayyaḥ 30 
+bhūrbhuvaḥ svariti gautamaḥ 31 
+omiti vomiti vā 32
+iti drāhmāyaṇaśrautasūtre pañcame paṭale caturthaḥ khaṇḍaḥ 4
+<6>
+<6.1>
+pūrvaṃ nārāśaṃsaṃ bhakṣayitvāhavanīye prastotā pṛṣṭhahomaṃ juhuyāt | yatpṛṣṭhaṃ syāttadādiśyādaḥ pibatu somyaṃ madhvāyardadhadyajñapatāvavihṛtamimaṃ yajñamabhisaṃvasānā hotrāstṛpyantu sumanasyamānāḥ svāheti pūrvām 1 
+svāhākāreṇottarām 2 
+dvaidhaṃ juhuyāditi dhānaṃjayyaḥ 3 
+adaḥ pibatu somyaṃ madhvāyurdadhadyajñapatāvavihṛtaṃ svāheti pūrvām 4 
+imaṃ yajñamityuttarāṃ hotṛkapṛṣṭhebhya iti 5 
+revatīṣu vāravantīyamiti ṣaṣṭhe pṛṣṭhādeśaṃ gautamaḥ 6 
+mahāvratamiti vrate 7 
+revatyaśca vāravantīyaṃ ceti dhānaṃjayyaḥ 8 
+yāvanti pṛṣṭhasthānāni syuḥ sarvāṇyeva prasaṃcakṣīta 9 
+pibatu dadhaditi ca yathārthamūhet 10 
+bṛhatā rathantareṇa vā stoṣyamāṇaḥ prākstomayogāddaśa vyāhṛtīrmanasā dhyāyedairamiti 11 
+rathantara evarcaṃ yaste goṣviti 12 
+yuktvā stomametad brūyāditi śāṇḍilya ṛcaṃ pūrvaṃ vyāhṛtibhya iti 13 
+itaraddhānaṃjayyaḥ 14 
+rathantare prastūyamāne sarvatra sammīlet 15 
+ekaikaṃ manasākṣara stobhairvācā yugapat saṃyujyād bhakārādibhirakārāntairakrāntaiḥ prathamasvarairakārairuttamo dvitīyaḥ svaraḥ prāk pratihārāccaturakṣara śiṣṭvā 16 
+tatsarvatra prativīkṣeta 17 
+stutvā varaṃ codayet 18 
+tasyāpṛṣṭhasya sato nivarterandharmāḥ saha stobhairiti gautamaḥ 16 
+stobhā evānvīyuriti dhānaṃjayyaḥ 20 
+agriṣṭomasāmasaṃdhiṣāmṇorevāpṛṣṭha stobhediti śāṇḍilyaḥ 21 
+sarvatrāsvastotrīyaṃ na stobhediti sthaviro gautamaḥ 22
+iti drāhyāyaṇaśrautasūtre ṣaṣṭhe paṭale prathamaḥ khaṇḍaḥ 1
+<6.2>
+vāmadevyena stoṣyamāṇaḥ prākstomayogād gāvo aśvājāvayo vrīhayo yavā iti manasā dhyāyet 1 
+brahmasāmni yaḥ kāmo yajamānasya syāt sa sidhyatviti dhyāyannupāsīta 2 
+tathetara udgāyana 3 
+ārbhaveṇa stutvā puroḍāśādekaikaṃ piṇḍaṃ trītrīnvā parayā dvārā havirdhānaṃ prapadyādhastāt svasya camasasya kuryuryadā sannaḥ syādatra pitaro mādayadhvaṃ yathā bhāgamāvṛṣāyadhvamiti 4 
+tāmāhriyamāṇaṃ pratimantrayerannamīmadanta pitaro yathābhāgamāvṛṣāyiṣata iti 5 
+somyamāhṛtamudgātāvekṣetāyurme prāṇa iti 6 
+punarasmāsu dadhmasītyantaḥ 7 
+taṃ daśame'hanyabhyasyet 8 
+yanme māde sthāne yanme yamamityeke 9 
+pūrveṇa tvevāvekṣeta 10 
+tasminnaṅgulī avadhāyāṅguṣṭhānāmike ityeke'kṣiṇī vimṛjīta yenāhyājimiti 11 
+evamitarau kuryātām | pratihartā paścāt 12 
+tamuttareṇa pratihartāraṃ hareyuḥ 13 
+dravyepsurbhuñjītainaṃ gacchatyanyatarāṃ rogārto vāhatena vāsasā pracchādya dakṣiṇārddhaṃ sadaso gatvā 14 
+yajñāyajñīyasya hiṃkāraṃ prati patnīmudgātekṣeta 15 
+nidhanaṃ prati patnī dakṣiṇamūrumabhiṣiñcet 16 
+tṛtīyāyā stotrīyāyāṃ prastutāyāṃ sarvaṃ tadudakaṃ ninayet 17 
+uttamāyāṃ stotrīyāyāṃ bhuvadvājāyi bhuvadvājeṣvityabhyannāmiti ca nidhanamanuṣṭubhamuttamāmakṣareṇānta iti hyāheti 18 
+anabhyāsaṃ tvācāryyāḥ 19 
+nidhanaṃ ca yathāmnāyaṃ śāṇḍilyaḥ 20 
+tadyadānuśasan hotāpohiṣṭhīyāṃ brūyāttadainamanvālabherannapāvṛṇvānāḥ 21 
+anyasthānagatasya sato nivarteran dharmāḥ 22
+iti drāhyāyaṇaśrautasūtre ṣaṣṭhe paṭale dvitīyaḥ khaṇḍaḥ
+<6.3>
+yadanyadagniṣṭomasāma syāttasya syuḥ 1 
+ahiṃkāre'pi pratihāravelāyāṃ patnīmudrātāvekṣeta 2 
+anubrāhmaṇamārcikān sannāmāntsarvatra kuryurapyanyasmintsāmni 3 
+tṛtīyasavane sarveṣu stotreṣu samāpteṣu bhakṣayitvā stomaṃ vimuñceyurṛtasya tveti 4 
+dakṣiṇaiḥ pāṇibhiḥ kuśāḥ saṃlobhayeyuḥ 5 
+pratiyojanameke yajamānavacanādanantaram 6 
+atra vā 7 
+yajamānaṃ vācayettantave mā jyotiṣeti 8 
+asāvanu mā tanuhi jyotiṣeti yathājyeṣṭhaṃ putrān 6 
+janiṣyamāṇā ityajāteṣu 10 
+jāteṣvajāteṣu ca putrā ityeva satreṣu 11 
+vaṣaṭkṛte hāriyojanasya yathaitamaparayā dvārā niṣkrāmanto japeyuḥ somehānu mehihīti 12 
+subhūrasītyādityamupatiṣṭheran 13 
+astamitaścedgārhapatyaṃ candramasaṃ nakṣatrāṇi vā 14 
+āgnīdhrīye dve āhutī juhayurapāṃ puṣpamasīti pūrvāṃ svāhākāreṇottarām 15 
+hāriyojanyo nāma dhānā droṇakalaśe bhavanti | tāsāmudgātā prathama ādadānaḥ samupahūtā bhakṣayiṣyāma iti brūyāt 16 
+tathetarau 17 
+unnetaryupahavamiṣṭvā hāriyojanasya ta iti tirohy1syetyati rātre sarvatra vā yathādhītaṃ dvirupaghrāya paścādāhavanīyasyāntaḥ paridhi nivapeyuḥ 18 
+anaprahṛteṣu bhasmānte 16 
+apa upaspṛśyāṣṭāvaṣṭau śakalānyāhavanīye 'nuprahareyurdevakṛtasyetyetatprabhṛtibhirikārāntaiḥ 20 
+sakṛdeva sarvāṇyuttameneti śaucivṛkṣiḥ 21 
+apsuṣomā nāma camasāścātvāladeśe'dbhiḥ pūrṇāḥ 22 
+teṣu haritāni tṛṇāni prāstāni bhavanti 23 
+te svaṃ savaṃ camasaṃ paryupaviśyāpsu dhautesyetyavamṛśya japeyuḥ 24 
+madhumannamiti pāṇīnupajighreran 25 
+śamadbhyaḥ ityudañcaṃ camasaṃ ninayeyuḥ 26 
+kāmetyabhyātmamāvartayeyuḥ 27 
+ūrgityuraḥsu pāṇīnnidadhīran 28 
+prāṇasometi mukhyān prāṇānabhimṛśeran 29 
+āgnīdhrīyaṃ gatvā dadhibhakṣaṃ bhakṣayeyurasamupahūya dadhikrāvṇaḥ iti 30
+iti drāhyāyaṇaśrautasūtre ṣaṣṭhe paṭale tṛtīyaḥ khaṇḍaḥ 3
+<6.4>
+agniṣṭapatītyavabhṛthasāma 1 
+tasyāvṛdyathā prathamasya pravargyasāmnaḥ 2 
+sarva ṛtvijo nidhanamupeyuḥ 3 
+iṣṭāhotrīyamabhiṣecanīye samasyeti vā 4 
+aśvatrirātre nānāvabhṛthāni sāmāni 5 
+teṣāṃ prathamasya sanādagra ityavabhṛthasāma 6 
+yadvā u viśpatiriti dvitīyasya tyagnāyiriti vā 7 
+avabhṛtheṣṭau sasthitāyāmavabhṛthanicumpuṇa nicerurasi nicumpṛṇāvadevaidevakṛtameno'yāsiṣamavamartyairmartyakṛtaṃ puru rāvṇo devariṣasyāhītyapa upaspṛśya trirabhyukṣeran 8 
+ādityamupatiṣṭherannudvayaṃ tamasaspari jyotiḥ paśyanta uttara svaḥ paśyanta uttaraṃ devaṃ devatrā sūryamaganma jyotiruttamamiti 9 
+astamitaścedāhavanīyam 10 
+tasmintsamidha ādadhyuredho'syedhiṣīmahīti prathamām | samidasi samedhiṣīmahīti dvitīyām yadenaścakṛmā vayaṃ yadvānyakṛtamārimānayā samidhā vayatadapamṛjmahe iti tṛtīyām 11 
+tamevopatiṣṭherannapo adyānvacārirasena samasṛkṣmahi payasvānagna āgamaṃ taṃ mā sasṛja varcaseti 12 
+prāgudayanīyādatirāvādapsuṣomāntamahaḥ satreṣu 13 
+dadhibhakṣāntamahīneṣu 14 
+yāvantyahāni rājānaṃ bhakṣayeyustāvatsvabrāhmaṇāyocchiṣṭaṃ na dadyuḥ 15 
+adbhirvā prokṣya dadyuḥ 16 
+tadeṣa ślokaḥ somametatpibata yatkiñcāśnīta brāhmaṇāḥ | mā brāhmaṇāyocchiṣṭaṃ datta mā pātsomamasomapaḥ iti 17 
+etaṃ parikramasarvakratuṣu vidyāt 18 
+eṣa jyotiḥ 16 
+kāmāḥ sarve kāmāḥ 20
+iti drāhyāyaṇaśrautasūtre ṣaṣṭhe paṭale caturthaḥ khaṇḍaḥ 12
+iti drāhyāyaṇaśrautasūtre dvitīyaḥ prapāṭhakaḥ samāptaḥ 2
+<7>
+<7.1>
+ṣoḍaśi sāmnā stoṣyamāṇo yathāsanamupaviśya havirdhānaṃ gatvā ṣoḍaśigrahamavekṣetodgātā yasmādanya iti 1 
+evameva prātaḥsavane 2 
+yadi cottarayorapi gṛhṇīyuḥ 3 
+aśvaḥ kṛṣṇaḥ pūrvasyā sadaso dvāri pratyaṅmukhastiṣṭhediti śāṇḍilyaḥ 4 
+aparasyāṃ prāṅmukha iti dhānañjayyaḥ 5 
+kṛṣṇābhāve śyāvaḥ 6 
+tadabhāve yaḥ kaścāśvaḥ 7 
+gaurvājo'śvābhāve 8 
+yo yaḥ sāmāṅgaṃ brūyātsa hiraṇyaṃ dhārayet 6 
+udgātā nidhanamupayatsu 10 
+sarve vābhimṛśeyuḥ 11 
+avasarpati prathamaṃ paryāyaṃ gāyecchannam 12 
+viṣite dvitīyaṃ madhyamena 13 
+astamite tṛtīyamāviḥ 14 
+yadopākuryuḥ stuvīrannevāhani channa rātrāvāviḥ 15 
+udgātre dadyādaśvahiraṇye dakṣiṇāvatsu 16 
+satra eva grahasya bhakṣayeyuraindra saha iti 17 
+udasya harivadaharikāsu cetstuvīrana 18 
+anuṣṭupchandasā camasasya 19 
+pūrveṇa vā 20 
+tathā kurvannindraśca samrāḍvaruṇaśca rājā tau te bhakṣaṃ cakraturagra etaṃ tayorahamanubhakṣaṃ bhakṣayāmi vāgjuṣāṇā somasya tṛpyatviti grahasya 21 
+indramiddharī iti śāṇḍilyo vāgdevī somasya pibatvityetadadhikayā 22 
+aindrasaha iti camasasyāsatre 23 
+triṣṭupchandasā vājapeyasāmni bhakṣayediti gautamaḥ 24 
+anuṣṭupchandaseti dhānaṃjayyaśāṇḍilyau 25 
+anuṣṭachandasā rātrau 26 
+pṛthaktṛcebhyaḥ sandhau hiṃkuryuḥ 27 
+iṣṭayajuṣa iti bhakṣaḥ 28 
+gāyatracchandasātiriktastotreṣviti gautamaḥ 26 
+pṛthagbhakṣachandobhiranupūrvamiti dhānaṃjayyaśāṇḍilyau 30 
+anuṣṭupchandasā vā 31 
+acchandasā vā 32 
+saṃdhivadvā 33
+iti drāhyāyaṇaśrautasūtre saptame paṭale prathamaḥ khaṇḍaḥ 1
+<7.2>
+āhitāgnirasomayājī para somena yājayitvā paribhakṣaṃ kurvīta 1 
+somayājyapīti śāṇḍilyaḥ 2 
+hutyāṃ prātarāhutāvājyaṃ gārhapatye'dhiśrityodagudvāsayet 3 
+kaṃse camase vā drapsānavadhāya dakṣiṇāgnāvupasādayet 4 
+sphyadarbhamuṣṭī ca 5 
+paścimena gārhapatyaṃ gatvā paścādāhavanīyasyopaviśya sruveṇa srucyājyaṃ gṛhṇīyāt | yāvadgṛhītī syāt 6 
+tajjuhuyādimāmagne śaraṇiṃ mīmṛṣo na imamadhvānaṃ yamagāma dūrāt | āpiḥ pitā pramatiḥ somyānāṃ bhūmirasyṛṣikṛnmartyānā svāheti 7 
+evameva gṛhītvāpāṃ puṣpamasyoṣadhīnāraso'gneḥ priyatamā tanūrindrasya priyatamahaviḥ svāheti 8 
+ājyasya pūrvān grahān gṛhītvā dadhna uttamaṃ viśvebhyo devebhyaḥ svāheti 9 
+dadhiśeṣaṃ srucyānīyodaṅṅāvṛtya prāśnīyāttava somavrate vayaṃ manastanūṣu piprataḥ prajāvanto aśīmahīti 10 
+prakṣālya srucaṃ yathetaṃ pratyāvrajya prācīnāvītī bhūtvāpa upaspṛśya dakṣiṇāgneḥ sthaṇḍila samūhyādbhiḥ saṃprokṣya sphyena sakṛdullikhyolmukamupanidhāya darbhānupastīryāpa upaninīyāmīṣāṃ drapsānāṃ nipṛṇuyādavamebhyaḥ pitṛbhyaḥ svadhā sahabhakṣebhya iti prathamam 11 
+aurvebhyaḥ kāvyebhya ityevameva dakṣiṇā pṛthak 12 
+atra pitaro mādayadhvaṃ yathābhāgamāvṛṣāyadhvamityuktvodaṅṅāvṛtyāsitvā yāvanmanyeta tāvat 13 
+abhiparyāvartamāno japedamīmadanta pitaro yathābhāgamanantaritāḥ pitaraḥ somapīthāditi 14 
+tāndarbhāndrapsāṃśca dakṣiṇāgnau praharet 15
+iti drāhyāyaṇaśrautasūtre saptame paṭale dvitīyaḥ khaṇḍaḥ 2
+<7.3>
+yajñopavītī bhūtvāpa upaspṛśya gṛhān vrajañjapet | upaśivena manasā gṛhānaimi mānuṣān | gṛhāmā vibhīta mā vepidvamūrjaṃ vibhrata evamasyūrjaṃ bibhradvaḥ | sumanāḥ sumeghā gṛhānaimi manasā daivena | yeṣāmadhyeti pravasanyeṣu saumanaso bahurgṛhānupahvayāmahe | te no jānantu jānata upahūtā iha gāvaḥ | upahūtā ajāvayo'tho annasya yo rasa upahūto gṛheṣu naḥ iti 1 
+paścācchālāmagnerupaviśya japediha gāvaḥ prajāyadhvamihāśvā iha puruṣāḥ | iho sahasradakṣiṇo'pi pṛṣā niṣīdatviti 2 
+agnestṛṇāni pratyūhya yaḥ suhṛttamabhi bhāṣeta 3 
+goṣu gā api sṛjet | upedamupaparcanamāsu goṣūpapṛcyatāmuparṣabhasya retasyupendra tava vīrya iti 4 
+memā indragāvo ṛṣanmo āsāṃ gopati ṛṣanmā sāma mitrayurjana indramā stena īśata iti 5 
+satrāya dīkṣiṣyamāṇāḥ saṃvaderan saha naḥ sādhukṛtyā nānāpāpakṛtyā yadasmintsatre'tha yatpurā cakṛma kartāsmaśca yathopasthitameva nastaditi 6 
+yo no'vratyaṃ careddīkṣito naḥ sa dīkṣitān yājayet 7 
+saṃvatsaraṃ ha sma pūrve'nyonyasya krodhamākrośaṃ nibhṛtaṃ śīlamiti saṃvijñāya dīkṣante 8 
+teṣāṃ dīkṣāprabhṛti patīśālāyāṃ bhojanasaṃveśane syātām 6 
+upavasathyaprabhṛtyāgnīdhrīye 10 
+sandhivelayorvācaṃ yaccheyuḥ 11 
+vicakṣaṇāntāṃ vācaṃ bhāṣeran 12 
+na kaṃcanābhivādayeran 13 
+na śūdreṇa saṃbhāṣeran 14 
+nādhiṣṇya uttaperan 15 
+na pratīcyā dvārā patīśālāyā niṣkrāmeyuḥ 16 
+prāñcamudañcaṃ voccāraṃ kurvīran 17 
+na bahu vadeyuḥ 18 
+na dantān darśayeran 16 
+noccairjakṣuḥ 20 
+nāhutasyāśnīyuḥ 21 
+nainānanyonyānaśnataḥ paśyet 22 
+sarveṣāṃ savanānāṃ prāśnīyuḥ 23 
+krodhānṛte varjayeyuḥ 24 
+etāni vratāni dīkṣāsu 25 
+dīkṣopasatsu vā 26 
+vā satrāntāt 27 
+udayāstamayāvabhyāśrāvaṇaṃ ca bahirvedi prasṛte varjayeyuḥ 28
+iti drāhyāyaṇaśrautasūtre saptame paṭale tṛtīyaḥ khaṇḍaḥ 3
+<7.4>
+teṣāḥ cedenāstrayāṇāṃ kiṃcideyād gṛhapatāvupahavamiccheran 1 
+taṃ cedudgātari 2 
+eṣa vai yajamānasya prajāpatiryadudgāteti hyāha 3 
+dīkṣānupūrvyeṇa vā sarveṣu 4 
+parihṛtāsu vasatīvarīṣu saṃviśeyuḥ 5 
+teṣāṃ cet kaścit preyādatīrthena nirhṛtyāhāryeṇānāhitāgniṃ daheyuḥ | patnīṃ caivam 6 
+araṇyoragnīnsamāropyate āpnānena nirhṛtya nirmanthyenāhitāgnim 7 
+madhyamasya rātriparyyāyasya daivodāsa hotṛṣāma syādaurdhvasadmanaṃ vā 8 
+abhiplavasya dvitīye'hani bhargo yaśa iti prāgviṣuvato vyatyāsa syātāmiti gautamaḥ 6 
+ūrdhvaṃ ca triṣvabhiplaveṣu 10 
+yaśo bharga iti pareṣu 11 
+sakṛddvirvā yaśaḥ purastāttathopariṣṭādbharga itareṣvaparam 12 
+bhargaḥ pūrvasmin pakṣasi yaśa uttarasminnityaparam 13 
+etābhyāmukte vīṅkaśuddhāśuddhīye 14 
+viṣuvata ūrdhvaṃ vīṅkameva syāditi dhānaṃjayyaḥ 15 
+pañcame'hani yadahargrāmegeya santani syānmānavātpūrvaṃ vāmra syāt 16 
+iṣovṛdhīyasamante pṛṣṭhyānantarye ṣaṣṭhe 17 
+pūrvasmin pakṣasi triṣu caturtho'bhiplavo lupyeta 18 
+eta evāvṛttā ūrdhvaṃ viṣuvato'bhiplavāḥ 16 
+teṣāṃ pratilomamahānyupeyuḥ 20 
+pṛṣṭhyasvarasāmnāṃ ca 21 
+daśarātrasamīpe triṣu caturṇāmāvṛttānāṃ prathamo lupyeteti dhānāṃjayyaḥ 22 
+uttama iṣovṛdhīyasamante syātāmiti 23 
+viparītametacchāṇḍilyāyanasya 24 
+viṣuvatsamīpe ca triṣu 25 
+abhāva iṣovṛdhīyasamantayoḥ 26 
+bhāvastvācāryāṇāṃ bhāvastvācāryāṇām 27
+iti drāhyāyaṇaśrautasūtre saptame paṭale caturthaḥ khaṇḍaḥ 4
+<8>
+<8.1>
+athāto gavāmayanavikalpāḥ 1 
+sarvama jyotiṣṭomenaike 2 
+atirātracaturviśanavāhavatātirātrā vā yathāsthānasyuḥ | śeṣo jyotiṣṭomena 3 
+atra vā go āyuṣī daśarātramityupāharet sa saṃvatsaraprabarhaḥ śaṅkhāhutamiti ca 4 
+nānāhobhirvayaṃ kalpayāmo yathaitadbrāhmaṇam 5 
+atirātramubhayasāmānaṃ kurvannāndhīgavāduttare audalabṛhatī 6 
+ṣoḍaśimāścedaudalasthāne nānadam 7 
+pūrvo bṛhataḥ sāmatṛcaḥ 8 
+caturviṃśamarathantarameke 9 
+rathantarapṛṣṭhaṃ vā bṛhadanuṣṭupkam 10 
+agniṣṭomasaṃsthaṃ cettriṃśānyājyāni ṣaṭtriśāni pṛṣṭhāni 11 
+ṣaṭtriṃśāni vā hotṛkasāmāni 12 
+pṛṣṭhānāṃ vāṣṭācatvāriṃśāni 13 
+sarvāṇi vā triṃśāni stotrāṇi 14 
+vyatyāsaṃ vā triṇavatrayastriṃśau 15 
+etadantarukthyam 16 
+abhiplavasvarasāmnaśca jyotiṣṭome tantre eke kalpayanti 17 
+tathā satāśāṭyāyaninaḥ ṣaḍahavibhaktīranukalpayanti 18 
+dvividhamabhiplavameke 19 
+upavatyagriyavatī ca vyatyāsaṃ pratipadau rāthantarabārhatāni cājyāni 20 
+ājyapratipadau vā 21 
+auśanakāve antye 22 
+pārthayāme vā bārhatānām 23 
+svayonyabhīvarto rathantarapṛṣṭheṣu 24 
+śyaitarkṣu bṛhatpṛṣṭheṣu 25 
+vyūḍhaṃ pṛṣṭhyameke 26 
+tasya samūḍhātprathamasyāhno bahiṣpavamānam 27 
+samūḍhameke rathantarabṛhatpṛṣṭham 28 
+nānāpṛṣṭhe cottare caturahe rathantarabṛhatī vyatyāsaṃ pavamāneṣu 29 
+bṛhatīṣu rathantaramanuṣṭupsu bṛhat 30 
+te dvitīye 31 
+bṛhaduttamasamūḍhe 32 
+āṣkāraṇidhanātpūrvaṃ kaulmalabarhiṣam 33 
+āndhīgavācchyāvāśvam 34 
+upottamaṃ samūḍhe 35
+iti drāhyāyaṇaśrautasūtre aṣṭame paṭale prathamaḥ khaṇḍaḥ 1
+<8.2>
+ānūpopakramā bṛhatī pañcame 1 
+mānavātpūrvaṃ hārāyaṇam 2 
+madhuścunnidhanādākūpāram 3 
+upottamaṃ samūḍhe 4 
+bṛhataḥ pūrve traya ekarcāḥ 5 
+rathantarāduttare 6 
+ṣaṣṭhe ca bṛhato vyūḍhe 7 
+nityau ca śaśakarṇau tṛtīye 8 
+pṛṣṭhye'bhīvartakāleye bṛhatīṣvanukalpayediti gautamaḥ 9 
+neti dhānaṃjayyaḥ 10 
+vyūhannānukalpayediti śāṇḍilyāyanaḥ 11 
+ekaviṃśatyahakāriṇa upariṣṭādabhijitaḥ pṛṣṭhyamupayanti prāk ca viśvajitaḥ svarasāmnaścokthyān 12 
+abhijidviśvajitau vyatiharantyeke 13 
+abhijidviśvajitau vyatiharantyeke 13 
+abhijito rathantarapṛṣṭhasya rāthantarī pratipaddhoturājyaṃ ca 14 
+abhivāyumityauśanam 15 
+jyotiṣṭomaṃ param 16 
+sujñānamuṣṇihi 17 
+śyāvāśvāt pūrve gaurīvitabṛhatī 18 
+svayoninī rathantarabṛhatī svarasāmasveke 16 
+svarapṛṣṭhāścetsvārasāmikeṣu pṛṣṭhastotrīyeṣu yathāsvam 20 
+svārāṇi cārbhavāntyāni 21 
+dvaigatagautamayoḥ sthāne rathantaram 22 
+antarikṣasya gautamam 23 
+svarasya bṛhaddvitīye 24 
+nityaśca sāmatṛcaḥ 25 
+audalatvāṣṭrīsāmnoruddhāraḥ 26 
+viṣuvato divaike prātaranuvākamupākurvanti 27 
+bahirasyaike bahiṣpavamānena stuvate 28 
+agnirindrāyopāsmai pavasva vāca iti stotrīyaṃ śuṅgāḥ 29 
+vāta āvātviti māṣaśarāvayaḥ 30 
+yajñāyajñīyabhāse vyatiharantyeke 31 
+baṇmahāṃ asi sūrya indramiddevatātaye śrāyanta iva sūryamiti mahādivākīrtyasya stotrīyā vikalpante 32
+iti drāhyāyaṇaśrautasūtre aṣṭame paṭale dvitīyaḥ khaṇḍaḥ 2
+<8.3>
+bṛhatpṛṣṭhaścedagriyavatī pratipat 1 
+tṛtīyāt sāhasrādājyāni nityairvikalpante 2 
+utsedhasthāne rathantaram 3 
+tasya mahādivākīrtyam 4 
+ayaṃ somaḥ iti pārtham 5 
+ābhijātāni pṛṣṭhāni 6 
+indrakatau śyaitam 7 
+goḥ kakubuṣṇihau 8 
+uddharati pipīlikamadhyam 6 
+śyāvāśvavikarṇagaurīvitāndhīgavaudalabhāsānyanuṣṭubhi 10 
+audalasthāne vā vāṅnidhanaṃ krauñcam 11 
+araṇyegeye tṛcayoḥ 12 
+vratātpare 13 
+viśvajiti yajñāyajñīyabṛhatī vyatiharantyeke 14 
+bṛhatpṛṣṭhaścettṛtīyāt sāhasrāt prātaḥsavanaṃ 15 
+kāleyasthāne samantam 16 
+ayaṃ soma iti pārtham 17 
+ābhijitāni pṛṣṭhāni 18 
+indrakratau śyaitam 19 
+goḥ kakubuṣṇihau 20 
+uddharati pipīlikamadhyām 21 
+anuṣṭupprabhṛti vratāt 22 
+uttare pakṣasyayanavikalpāḥ 23 
+abhiplavapṛṣṭhyān pratilomānupayantyaharāvṛttakāriṇaḥ 24 
+pṛṣṭhyābhiplavānanulomān māsāvṛttakāriṇaḥ 25 
+go āyuṣī ca vyatiharanti 26 
+uttamaṃ saṃbhāryaṃ kurvan saptamānmāsān pṛṣṭhyābhiplavānuddharet 27 
+pañcāyanamāsān kṛtvā daśarātramiśrādabhiplavamuddharet 28 
+tathā sati pūrve pakṣasi vikalpaḥ 29 
+ṣaṣṭhādabhiplavapṛṣṭhyānuddhṛtya caturviṃśād dvitīyādahnaḥ uttarān kuryāt 30 
+samau pakṣau cikīrṣan pañcāyanamāsān kṛtvā daśarātramiśraṃ māsamuddharet 31 
+pañcadaśau pakṣau vratasyāparimātkama 32 
+bṛhatpṛṣṭhaṃ viśvajitam 33 
+viśvajita āyuṣameka upayanti 34 
+tathā sati go āyuṣorekāhike bṛhatyau 35 
+daśarātrameka āvartayanti 36 
+tasmādvrataṃ yadā paraṃ vratānte mānasaṃ sāṃvargajitā gotamāḥ 37
+iti drāhyāyaṇaśrautasūtre aṣṭame paṭale tṛtīyaḥ khaṇḍaḥ 3
+<8.4>
+jyotiṣāmayanavikalpāḥ 1 
+tatra yadādito'ntatastadūrdhvaṃ viṣuvataḥ 2 
+māsi māsyādyasyābhiplavasya sthāne trikadrukāḥ sa ṣaṭtriṃśadūno nākṣatraḥ 3 
+saptaviṃśino hi māsāḥ 4 
+ṣaṣṭhādyasyābhiplavasya sthāne jyotirgauśca jyotirevāvṛtte sa navono nākṣatra eva trayodaśī 5 
+yugmamāseṣvādyasyābhiplavasya sthāne tatpañcāhaḥ sa ṣaḍūnaścāndramasaḥ 6 
+ṣaṣṭhādau trikadrukānabhiplavaṃ copadadhyāt so'ṣṭādaśādhikaḥ paurṇamāsī prasavastairyagayanika ādityasya 7 
+utsarjanāni māsi māsi 8 
+yathānta evamāvṛttānāmādiḥ 6 
+pūrveṣvabhiplaveṣu ṣaṣṭhamaharukthyaṃ kṛtvāgniṣṭomamuttame 10 
+tadvaikatrikastomam 11 
+asṛkṣateti bahiṣpavamānam 12 
+gāyatraṃ gāyatryāmāśvamaiḍaṃ bṛhatyāṃ goṣṭho vā 13 
+ayā ruceti gāyatrapārśvamārbhavaḥ 14 
+savanavidhaṃ paśuṃ kurvanuttamamabhiplavapañcāhaṃ kṛtvā ṣaṣṭhasthāne savanavidhaḥ paśuḥ 15 
+prathamaṃ vābhiplavapañcāhaṃ kṛtvā māsānte savanavidhaḥ paśuḥ 16 
+sarvānūnāneke 17 
+prathamaṃ vābhiplavapañcāhaṃ kuryuḥ 18 
+ahanī vā samasyeyurabhiplavapṛṣṭhyayoḥ sāṃnipātike 16 
+abhiplavayoruttame 20 
+tathā satyekādaśyāṃ pūrvapakṣasya dīkṣitvā trayodaśa dīkṣāḥ kurvīran 21 
+saptadaśa vā 22 
+vyatyāsaṃ vā pūrṇo nān 23 
+ūnapūrṇānāvṛttāñchālaṃkāyaninaḥ 24 
+ekāṣṭakādīkṣiṇa upasargiṇaḥ 25 
+te tūṣṇīmevatriśamaharāsīran 26 
+savanavidhena vā paśunā yajeran 27 
+adhvaryubahvṛcaiḥ samayaṃ kṛtvā dīkṣerannevamavilopo bhavatīti bhavatīti 28
+iti drāhyāyaṇaśrautasūtre aṣṭame paṭale caturthaḥ khaṇḍaḥ
+<9>
+<9.1>
+pṛṣṭhye rathamativaheyuḥ paścāt prāñcaṃ dakṣiṇato vodañcaṃ bahirvedi rathantarasya stotre 1 
+bṛhato dundubhimāhanyuḥ 2 
+upavājayamānā vairūpeṇa stuvīrannupavājyamānā vā 3 
+vācayitvā yajamānaṃ vātaṃ vāta ā vātviti tṛcenānumantrayeta 4 
+vairājasya stotra upākṛta uparyanūruśakalaṃ nidhāya tṛṇe ca tasyopari tiraścīmaraṇiṃ nidhāyādhyātmaṃ prajananaṃ kṛtvā triḥpradakṣiṇamabhimanthedgāyatraṃ chando'nuprajāyasva traiṣṭubhaṃ jāgatamānuṣṭubhaṃ vairājamiti gautamaḥ 5 
+caturbhiriti dhānaṃjayyaḥ 6 
+tribhiriti śāṇḍilyaḥ 7 
+araṇyoḥ sandhānamālabhyopajighretpāṇī tejo'si tejo mayi dhehīti 8 
+mathyamāne stomaṃ yuñjyāt 6 
+jāte stuvīran 10 
+vācayitvā yajamānaṃ punarūrjā nivartasva punaragna iṣāyuṣā | punarnaḥ pāhyahasaḥ | saha rathyā nivartasvāgne pinvasva dhārayā viśvapnyān viśvataspari ityanumantryābhijuhuyāt 11 
+taduktaṃ brāhmaṇena 12 
+svāhākāreṇottarām 13 
+apaḥ sāvakā upanidhāya mahānāmnībhiḥ stuvīran 14 
+yo yaḥ sāmāṅgaṃ brūyātsa udaghoṣaṃ janayet 15 
+vācayitvā yajamānaṃ tā ninayedāstāve'nādhṛṣṭāsi tāṃ tvā somo rājāvatu yāmapīthā upatiṣṭhanta āpo ye śākvarā ṛṣabhā ye svarājaste arṣantu te varṣantu te kṛṇvantviṣamūrjarāyaspoṣaṃ tadvideyeti | samanyā yantīti vā samudraṃ vaḥ prahiṇomīti vā 16 
+sarvairvā 17 
+aṣṭhīvatoravakā upoheran 18 
+chadiṣi varṣākāmo'dhyāsayediti śāṇḍilyaḥ 19 
+goṣṭhe paśukāmaḥ 20 
+sabhāyāṃ yaśaskāmaḥ 21 
+śmaśāne'bhicaran 22
+iti drāhyāyaṇaśrautasūtre navame paṭale prathamaḥ khaṇḍaḥ
+<9.2>
+vāravantīyasya stotra dhenuḥ saṃvāśayeyurdakṣiṇataḥ kṛtvottarato vatsān 1 
+pūrveṇa sadaḥ saṃsṛjya paścimenāgrīdhīyamudīcīstyajeyuḥ 2 
+vācayitvā yajamānaṃ gonāmabhiranumantrayeta havye kāmye candre jyota iḍerantejuṣṭe sūnari mayi vo rāyaḥ śrayantāmiḍa ehyadita ehi juṣṭe juṣṭiṃ te gameyamupahūtā upahavaṃ vośīyeti 3 
+saharṣabhā iti vā 4 
+ubhābhyāṃ vā 5 
+adbhiścedupākuryustā ninayedāstāva āpo hiṣṭhīyābhiḥ 6 
+ṣaṣṭhe'hani saṃsthite'bahuvādinaḥ syuḥ 7 
+na cādhīyīrannottarasyāhna upākaraṇāt 8 
+sarpirmadhubhyāmṛtvijo bhojayedahīneṣvanyatareṇa vā 9 
+sarpiṣaiva tṛtīyasavane satreṣu 10 
+etasyānyatarasmistryahe'ti grāhyāṇāṃ bhakṣayeyuḥ stutvā pṛṣṭhena 11 
+viṣuvadvratayośca 12 
+triṣṭupchandasā pūrvaṃ camasebhyaḥ 13 
+anyatra caitasmin kāle yānāhareyuḥ 14 
+sahadharmaiḥ sarvatra pṛṣṭhyaḥ syāt 15 
+daśamavrate ca 16 
+abhīvartastotrīyānābhiplavikān pṛṣṭhye śasayed brāhmaṇācchasinā kāleyarco'cchāvākena sarvatra yadā pavamāne syātām 17 
+sarvatrendrakratuṃ brāhmaṇācchasinordhvaṃ viṣuvataḥ prāgatirātrāt 18
+iti drāhyāyaṇaśrautasūtre navame paṭale dvitīyaḥ khaṇḍaḥ 2
+<9.3>
+viśvajiti vairāje dharmmān kuryāt 1 
+itareṣvapi pṛṣṭheṣvityācāryamatiḥ 2 
+saptame'hanyagnerarko'dhyardheḍaṃ ca somasāma maukṣasya pūrvayoḥ 3 
+mokṣasomasāmanī gāyatrasyottarayoragnerarkastisṛṣviti vā 4 
+sākamaśveḍānāṃ saṃkṣārau vyatiharantyeke 5 
+surūpakrauñca ekarcayoreke 6 
+navamasya jyautiṣṭomaḥ paryāsaḥ sāptamika ityeke 7 
+tasya bṛhatyāmaraṇyegeyāni tṛceṣu pṛṣṭhaṃ ca 8 
+vāsiṣṭhamadhyāsyāyām 6 
+vaiyaśvaṃ prāgbhargādābhīśavaṃ yaśasaḥ 10 
+saptaiva tṛceṣu vairājāmityaparam 11 
+dīrghatamaso'rko'ntyaḥ sāmarājaṃ vā 12 
+pṛṣṭhasyottarayordīrghatamaso'rko māṇḍavaṃ caiḍa sāmarāje'ntye 13 
+daśamasya bahiṣpavamānaṃ dvitīyaprabhṛtīnāṃ pañcānāmahnāmanurūpāḥ prathamāñca bahiṣpavamānaṃ tannavarcam 14 
+anurūpeṣu tṛcāḥ pratilomāḥ ṛco navarca iti gautamaḥ 15 
+sarvatra tṛcā iti dhānaṃjayyaḥ 16 
+yathādhītaṃ navarcamiti śāṇḍilyāyanaḥ 17 
+sarvatrarcaḥ pratilomā iti śāṇḍilyaḥ 18 
+apratibhāmetasminnahanyanuṣṭupmātrāṃ kṛtvācakṣīran 19 
+jyāyasicchandasi lumpeyurakṣarāṇi 20 
+kanīyasyabhyasyeyuḥ 21 
+vācaiva vibrūyurdhānaṃjayyo vāganuṣṭubiti hi brāhmaṇaṃ bhavati 22 
+aniṣṭomasāmnā stutvā prāk patnīsaṃyājebhyo yadebhiḥ prasṛte parārdhyaṃ vrajitaṃ syāttadgatvā pratyāvrajya manasānutsāhe hutaṣu patnīsaṃyājaṣu gārhapatya udgātā juhuyādupasṛjandharuṇaṃ mātre mātaraṃ dharuṇo dhayan rāyaṣpoṣamiṣamūrjamasmāsu dīdharatsvāheti pūrvāṃ svāhākāreṇottarām 23
+iti drāhyāyaṇaśrautasūtre navame paṭale tṛtīyaḥ khaṇḍaḥ 3
+<9.4>
+āhavanīyaṃ gatvā'yasahohā iti trirudgātā gāyet 1 
+nidhanamitarāvanūpeyātām 2 
+abhidakṣiṇamāvṛtya pūrvayā dvārā sadaḥ praviśeyuḥ 3 
+yadādhvaryurupākuryāttadā mānasena stuvīran 4 
+āyaṃ gauḥ pṛśnirakramīditi gāyatreṇa 5 
+pṛthak stotrīyābhyo hiṃkāram 6 
+trikeṇa stomenāstomayogāyajamānavācanākuśāvidhānena 7 
+pratihāravelāyāṃ pratihartāpānyāt 8 
+uttamāṃ prastutyaiṣeti hotāramīkṣeta 6 
+sarvametasmin stotre manasā kuryuḥ samīkṣaṇena vijñāpayantaḥ 10 
+yamadhvaryurbhakṣaṃ prayacchan manyeta tasya manasopahūya kastvā kaṃ bhakṣayāmīti bhakṣayeyuḥ 11 
+brahmodyaṃ vadantīti 12 
+gāyatrīṃ trirbrūyuriti dhānaṃjayyaḥ 13 
+caturhotāramabhipretyaitaditi gautamaḥ 14 
+tarke vā kathayeyuryathāśvatrirātra iti śāṇḍilyaḥ 15 
+prajāpatiṃ parivadanti 16 
+pāpaiḥ karmabhirityeke na tvavīmahe 17 
+api vādhvaryubahvṛcānāṃ kiṃcitsyāt 18 
+etasyāṃ velāyāṃ varān vṛṇīran manasā yāniccheyuḥ 16 
+abhayaṃ dhānaṃjayyaḥ sarvakāmānaparādhāt 20 
+uttarata udgātaudumbarīṃ gṛhīyāt paścāt pratihartā dakṣiṇato brahmā purastāditare sarve 21 
+atha japeyuriha dhṛtiriha svadhṛtiriha rantiriha ramadhvaṃ mayi dhṛtirmayi svadhṛtirmayi ramo mayi ramadhvamiti vobhau vā 22 
+vāgyatā apidhāya dvāre āsīrannānakṣatrapravacanāt 23 
+prokte nakṣatre pūrvayā dvāropaniṣkramya subrahmaṇyāpraṇavairvāṃcaṃ visṛjeranniti dhānaṃjayyaḥ 24 
+śrutvaivāhūyamānāya iti śāṇḍilyaḥ 25 
+varavaraṇavāgyamane yajamāna eva kuryādahīneṣu 26 
+kṛtvetare yathārthaṃ kṛtvetare yathārtham 27
+iti drāhyāyaṇaśrautasūtre navame paṭale caturthaḥ khaṇḍaḥ 4
+iti drāhyāyaṇaśrautasūtre tṛtīyaḥ prapāṭhakaḥ samāptaḥ 3
+<10>
+<10.1>
+mahāvratasya pṛṣṭha upākṛte yuktvā stomaṃ parimādo gāyediti bhāṇḍitāyanaḥ 1 
+pratigṛhya tṛṇe'yuktveti gautamaśāṇḍilyau dhānaṃjayyaśca 2 
+prāgeva stotropākaraṇādityeke 3 
+dakṣiṇenāgnīdhrīyaṃ gatvottareṇāgniṃ prāṇaprabhṛtibhirupatiṣṭhera staduktaṃ brāhmaṇena 4 
+sarvāṇyudgātā sakṛtsakṛdgāyennidhanamitarāvanūpeyātām 5 
+api madhye nidhaneṣu 6 
+ādyantastubdheṣu padāya padāya stobhet 7 
+tenaiva pratyāvrajya puccham 8 
+vratapakṣayoḥ pūrveṇa dakṣiṇaṃ pakṣam 6 
+uttaramapi kakṣamupatiṣṭheran 10 
+viśve devā iti vasiṣṭhasya nihavamūhet 11 
+cātvālamupasthāyottareṇāgnīdhrīyaṃ gatvā paścāttiṣṭhantaḥ 12 
+tata eva pratyaṅmukhā iti dhānaṃjayyaḥ 13 
+tasyottamaṃ nidhanamā tamitorupeyuḥ 14 
+pūrveṇa havirdhāne purastāt pratyaṅmukhāḥ paścāditareṇa 15 
+tata evekṣamāṇā mārjālīyaṃ nāke suparṇamiti yaddvandveṣu 16 
+yathā havirdhāne tathā sadaḥ 17 
+antarvedi pratyaṅmukhā gārhapatyamiti dhānaṃjayyaḥ 18 
+tasyaiva pathāttiṣṭhanta iti śāṇḍilyaḥ 16 
+indraprabhṛti pratyakṣaṃ nidhanamupeyuḥ 20
+iti drāhyāyaṇaśrautasūtre daśame paṭale prathamaḥ khaṇḍaḥ 1
+<10.2>
+atha rājānaṃ saṃnāhayet 1 
+tasya dyṭarārdhyau rathāvanuyāyinau syātām 2 
+pūrveṇa devayajanasaṃnahyerannanye tasmāt 3 
+dakṣiṇena pariyāyuḥ 4 
+pūrveṇa patnīśālāmudgātā gatvā dakṣiṇe vedyante prāco darbhān sastīrya teṣvenaṃ prāṅmukhamupaveśayet 5 
+athāsmai varmābhiharet 6 
+anyaṃ vābhiharantamanumantrayetottiṣṭha rājan parivarmāsyaśvayukto ratho vitato daiva ākhaṇo viśā rājā brāhmaṇa edhi gopteti 7 
+paścimena pariyāhītyuktvā tenaiva pratyāvrajyottara enaṃ vedyante'vasthāpya brūyāddhastatraṃ badhnīṣvojyvamāyudhaṃ kuruṣva trīniṣūnupakalpayasvāyasmayānanyameva kaṃ caturthamiti 8 
+pratidhatsveti brūyāt 6 
+taṃ pratidadhānamanumantrayeta vaiṇāvatāya pratidhatsva śaṃkuṃ māpaproṣṭha moteti paptadbrahmaṇo guptyai vidhṛtyai dhārayātreti 10 
+saṃbhṛtyātiṣṭheti brūyāt 11 
+uttareṇāgnīdhrīyaṃ pūrvāpare carmaṇī vibadhnīyurdakṣiṇena rathapathaṃ śiṣṭvā 12 
+taṃ brūyāt pradakṣiṇaṃ devayajanaṃ parīyā pūrvaṃ carmāgamaneṣu vidhyerekaikenottarottaryanatipātayannaparasmā itare yathābhipretamasyeyustṛtīyena vidhvodaṅ prayāyāstadā caturthamiṣuṃ yāṃ diśaṃ manyethāstāmasyeravabrahmadviṣo jahīti gā dṛṣṭvāvatiṣṭhethāstatra tvā visraṃbhayeyuḥ 13 
+brāhmaṇamuktvemaṃ hiṅkāravelāyāṃ kārayeyuḥ 14
+iti drāhyāyaṇaśrautasūtre daśame paṭale dvitīyaḥ khaṇḍaḥ 2
+<10.3>
+bhūmidundubhimāvrajet 1 
+paścādāgnīdhrīyasyārdhamantarvedi śvabhrasya khātaṃ syādardhaṃ bahirvedi 2 
+ārṣabheṇottaralomnā carmaṇā pihitaḥ syāt 3 
+tvaṃ vāgasi 4 
+ye naḥ satre anindiṣurdīkṣāyāṃ śrānta āsite | arāddhiṃ tebhyo dundubhe rāddhimasmabhyamāvada | iti | parāvada dviṣantaṃ ghorāṃ vācaṃ parāvadāthāsmabhyaṃ  sumitryāṃ vācaṃ dundubhe kalyāṇīṃ kīrtimāvadeti| parāvada dviṣato vādyaṃ durhārdo yo viṣūkuho'thāsmabhyaṃ puṣṭi  rāddhiṃ śriyamāvada dundubhe ityenametairmantraiḥ pṛthagāhatya bāladhānena 4 
+anyaṃ vā ghnantamanumantrayeta 5 
+apa upaspṛśya yathaitaṃ pratyāvrajya paścāttiṣṭhanto'gnimupatiṣṭherannamaste gāyatrāya yatte puro yatte śiro namaste rathantarāya yatte dakṣiṇato yatte dakṣiṇaḥ pakṣo namaste bṛhate yatte uttarato yatta uttaraḥ pakṣo namaste yajñāyajñīyāya yatte paścādyatte pucchaṃ namaste vāmadevyāya yasta ātmā yatte madhyamityetaiḥ pṛthagaṅgānyanvartham 6 
+atha sarvaṃ samastena tasmaite subhoḥ subhuvo bhūyāsma | nāmāsi nāma bhūyāsam | āvirasyāvirmā kuru | savitaḥ pramā suva | yāṃ manuṣyāṇāṃ bhūtau saṃpaśyasi teṣvabhibhūyāsam | śriyaṃ mayi ghehīti 7 
+upasthāya sadaḥ praviśeyuḥ 8
+iti drāhyāyaṇaśrautasūtre daśame paṭale tṛtīyaḥ khaṇḍaḥ 3
+<10.4>
+aparayā dvāraudumbarīmāsandīṃ mauñjavivānāmatihareyuḥ 1 
+yajñiyasya vṛkṣasyaudumbarābhāve 2 
+muñjābhāve dārbham 3 
+tasya prādeśamātrāḥ pādāḥ 4 
+aratnimātrāsītarāṇyaṅgāni 5 
+dakṣiṇenaudumbarī hutvā tasyā uttarato nidadhyuḥ 6 
+tāmuttareṇodgātā gatvā paścādupaviśya bhūmispṛśo'syāḥ pādānkṛtvā kūrcānadhastādupohyābhimṛśedbṛhadrathantare te pūrvo pādau śyaitanaudhase aparau vairūpavairāje anūcī śākvara raivate tiraścī ityetaiḥ pṛthagaṅgāni 7 
+vivayanamālabhyarcaḥ prāñca ātānā yajūṣi tiryañcaḥ sāmānyāstāraṇa śrīrupabarhaṇaṃ vākovākyamatilokā vāravantīyasaṃdhayo rājanamātmā pratiṣṭhā yajñāyajñīyamiti 8 
+tāṃ mukhenorasā bāhubhyāmiti spṛṣṭvārohed vasavastvā gāyatreṇa chandasārohantu | tānanvadhirohāmi | rājyāya rudrāstvā traiṣṭubhena chandasārohantu | tānanvadhirohāmi | vairājyāyādityāstvā jāgatena chandasārohantu | tānanvadhirohāmi | svārājyāya viśve tvā devā ānuṣṭabhena chandasārohantu | tānanvadhirohāmi sāmrājyāyeti 9 
+athetaireva devatā udasya rājyaśabdaṃ cāmunā tvā chandasārohāmīti vairājapañcamairiti gautamaḥ 10 
+caturbhiriti dhānaṃjayyaḥ 11 
+tribhiriti śāṇḍilyaḥ 12 
+āruhya japetsyonāmāsada sukhadāmāsadaṃ namaste'stu mā mā hisīriti 13 
+tasminnārohati kūrcānāroheyuḥ praṣṭhī brahmā gṛhapatiḥ 14 
+āsandyā vyākhyātaṃ dravyaṃ vāṇasya dravyaṃ vāṇasya 15
+iti drāhyāyaṇaśrautasūtre daśame paṭale caturthaḥ khaṇḍaḥ 4
+iti drāhyāyaṇaśrautasūtre tṛtīyaḥ prapāṭhakaḥ samāptaḥ 3
+<11>
+<11.1>
+rohitenānuḍuhenottaralomnā carmaṇā pihitaḥ syāt 1 
+tasya daśasu paścācchidreṣu daśa daśa tantryo baddhāḥ syurmauñjyo dārbhyo vā 2 
+triṣviti śāṇḍilyaścatustriṃśamadhyame trayastriṃśatāvabhitaḥ iti 3 
+purastādekaikaśastāstraidhaṃ vibhajya bhūrbhuvaḥ svarityetābhiḥ pṛthaguttarottaryudūhet 4 
+tamabhimṛśedvadovada vadāvadī vado vadoruḥ pṛthuḥ sugaḥ sugantvaḥ karmaḥ karaṇaḥ karaḥ karasyurabhīṣāṭ cā bhīṣāhīcābhimātihaścābhimātihā ca sāsahiśca sahīyāṃśca sahasvāṃśca sahamānāścodvayāśca bṛhadvayāśca savayāśca bṛhadvayāścaindrīṃ vācaṃ bṛhatīṃ viśvarūpā śatāyuṣīṃ pravada devavāṇeti 5 
+śithilā stantūnāyacchet ebhirno vāṇatantubhiḥ śataṃ rāddhīrihāvada | arātsma sarve'tārṣma jīvā jyotiraśīmahi iti 6 
+vāksarvaṃ mano jyotirmāno bhadra iti japitvā vādayedindreṇatayeṣīkayā vetasaśākhayā ca sapalāśayā 7 
+mūlato yā svayaṃ vakrā sendraṇatā 8 
+prāṇāya tvetyūrdhvamullikhedapānāya tvetyavāñcam 6 
+vyānāya tveti triḥsaṃllikhyodañcaṃ vāṇaṃ prohedbāhmaṇamuktvā imamullikhannāsveti 10
+iti drāhyāyaṇaśrautasūtre ekādaśe paṭale prathamaḥ khaṇḍaḥ
+<11.2>
+āhata dundubhīn pravadantu vīṇā iti brūyāt 1 
+alābuvīṇāṃ vakrakapiśīrṣṇyau ca pūrvasyāṃ dvāri bahiḥ sadasam 2 
+vakrākapiśīryauāṃve dundubhīṃśca pratimantrayetayo vakrāyāṃ kapiśīryāṃvāpa dundabhau ca yacca vādyam | ghoṣo yo mahato mahāstena no rāddhi māvada iti 3 
+mahāvīṇāpiśīlavīṇe cāparasyāmantariti gautamaśāṇḍilyau bahiriti dhānaṃjayyaḥ 4 
+alābuvīṇāpiśīlavīṇe ca pratimantrayetālābuvīṇāpiśīlī ca yaṃ mantramadhijagmatustenedamupagāyatāṃ te sāma mahayiṣyata iti 5 
+paścimenopagātṝn dve dve ekaikā patnī kāṇḍavīṇāṃ picchorāṃ ca vyatyāsaṃ vādayet 6 
+upamukhaṃ picchorāṃ vādanena kāṇḍamayīm 6 
+tā apaghāṭilā ityācakṣate 8 
+tāḥ pratimantrayeta yāṃ patnyapaghāṭilāṃ mṛdukaṃ vādayiṣyati sārātimapabādhatāṃ dviṣantaṃ taijanitvagiti 9 
+sarvamanuvīkṣamāṇo japedākrandā ulūlayaḥ prakośā yacca ceṣṭati sarvā satrasya sā rāddhistathedasāma gīyata iti 10 
+japedeva suparṇo'smi garutmān premāṃ vācaṃ vadiṣyāmi bahu kariṣyantīṃ bahu kariṣyantsvargamayiṣyantī svargamayiṣyan māmimān yajamānāniti 11
+iti drāhyāyaṇaśrautasūtre ekādaśe paṭale dvitīyaḥ khaṇḍaḥ 2
+<11.3>
+brāhmaṇo'bhigaraḥ pūrvasyā sadaso dvāri pratyaṅmukha upaviśed vṛṣalo'pagaro'parasyāṃ prāṅmukhaḥ 1 
+sa brūyānnārātsurime satriṇa iti 2 
+arātsurityabhigaraḥ 3 
+dakṣiṇena mārjālīyamaryo'ntarvedi dakṣiṇāmukhastiṣṭhet 4 
+bahirvedi śūdra udaṅmukhaḥ 5 
+aryābhāve yaḥ kaścāryoṃ varṇaḥ 6 
+tau śvetaṃ parimaṇḍalaṃ carma vyāyacchetām | śūdraḥ pūrvaḥ 7 
+pūrveṇāgnīdhrīyaṃ brahmacāryantarvedyudaṅmukhastiṣṭhedbahirvedi puṃścalī dakṣiṇāmukhī 8 
+sā brūyādduścaritinnavakīrṇinniti 6 
+dhiktvā jālmi puṃścali grāmasya mārjani puruṣasya puruṣasya śiśnapraṇejanīti brahmacārī 10 
+evamātṛtīyaṃ vyatyāsam 11 
+sarveṣāṃ karmaṇi niṣṭhite tadevābhigarastrirbrūyāt 12 
+avasṛjya śūdraḥ pradravet 13 
+taṃ tenaivāvakṣiṇuyāt 14 
+yathābhipretamitarāṃ brahmacāryākrośet 15 
+paścimenāgnīdhrīyaṃ bahirvedi pariśrite mithunau saṃbhavetāṃ yau varṇau labheran 16 
+gṛhapaterdāsyo'bhīṣṭā vā navānudaharaṇānpūrayitvā pradakṣiṇaṃ mārjālīyaṃ parīyurhaimahā3idaṃ madhvidaṃ madhviti vadatyaḥ 17 
+pañcāvarārdhyāḥ pañcaśataṃ parārdhyāḥ pañcaviṃśatirvā 18 
+tābhyo'pi vīṇā vādayeyuḥ 19 
+sarvāsu sraktiṣu dundubhīnābadhnīyuḥ 20 
+uttarottari vāco vyāharayeyuryāvatīradhi gaccheyuḥ 21 
+ghoṣāṃśca 22 
+hiṃkāramanvabhigaraprabhṛtayaḥ kṛtvā yathārtha syuḥ 23 
+āstotrāntātkumbhinyaḥ sarve ca ghoṣāḥ 24
+iti drāhyāyaṇaśrautasūtre ekādaśe paṭale tṛtīyaḥ khaṇḍaḥ 3
+<11.4>
+pañcaviṃśe caturviśasyottame paryāye paricarāyāmāvapediti gautamaḥ 1 
+āvāpasthāna iti dhānaṃjayyaḥ 2 
+prathamasyāvāpasthāna iti śāṇḍilyaḥ 3 
+caturviṃśena vā stutvā madhyamāmahiṃkṛtāṃ tṛcasya prastuyāt 4 
+sa āskando nāma 5 
+taṃ na kuryāditi śāṇḍilyāyanaḥ 6 
+uttamāyā stotrīyāyāṃ prastutāyāṃ pādāvupāharet 7 
+saha nidhanena bhūmau pratiṣṭhāpayet 8 
+āhriyamāṇe bhakṣe pratilomairārohaṇīyairavaruhya japenmahī dyauḥ pṛthivī ca na imaṃ yajñaṃ mimikṣatāmpipṛtāṃ no bharīmabhiriti 6 
+adha āsīnāḥ śeṣeṇa stuvīran 10 
+udayanīye'tirātre saṃsthite'vabhṛthamabhyaveyuḥ 11 
+anupamajjantaḥ pāṇibhiḥ saṃdhāveran 12 
+yasyātra patnī syāt pṛṣṭhaṃ tayā vyuddhāvayet 13 
+tānunnetodānayet 14 
+udetya gṛhapatiḥ somopanahanaṃ paridadhīta 15 
+ahatāni vasanānītare 16 
+abhyukṣaṇaprabhṛti samāpayeyuḥ 17 
+yeneto gaccheyuranyena pratyāvrajeyuḥ pāpmano'vyatiṣaṅgāya 18 
+anubandhyavapāyāṃ hutāyāṃ dakṣiṇe vedyante keśaśmaśrūṇi vāpayet 16 
+tasmin sasthite prāñca udañco vā gatvā pṛthagudavasanīyābhiriṣṭibhirāhitāgnayo yajeran 20 
+gṛhapatiṃ yajamānamanāhitāgnaya upāsīran 21 
+taddevatyaiḥ sthālīpākairyajeranniti dhānaṃjayyaḥ 22 
+saṃvatsaraṃ saṃvaseyuḥ 23 
+dvādaśarātramahorātrau vā 24 
+yāvadvā sunuyuryāvadvā sunuyuḥ 25
+iti drāhyāyaṇaśrautasūtre ekādaśe paṭale caturthaḥ khaṇḍaḥ 4
+<12>
+<12.1>
+sarvatra brahmā dakṣiṇataḥ 1 
+udaṅmukhaḥ kuryāddhomebhyo'nyata 2 
+pākayajñā ityācakṣata ekāgnau yajñān 3 
+teṣāhoṣyantsutūṣṇīmupaviśet 4 
+hute yathārthaṃ syāt 5 
+śūlagave ca balīn hriyamāṇānanugacchet 6 
+nidhīyamānānāṃ dakṣiṇataḥ sthitvā nihiteṣvapa upaspṛśyānavekṣaṃ pratyāvrajet 7 
+tūṣṇīṃ pākayajñe dakṣiṇāmomiti vā pratigṛhṇīyāt 8 
+paśureva paśordakṣiṇā 6 
+pūrṇapātraṃ sthālīpākasya 10 
+ubhayoryathotsāhaṃ vā 11 
+na vitānaṃ pṛṣṭhataḥ kurvīta 12 
+yena yajñāṅgena saṃyujyeta tadabhyāvarteta 13 
+karmādiṣu sarveṣvadhvaryusapraiṣamāgamayet 14 
+pūrvayā ca dvārānādeśe praviśet 15 
+agnyādheye dakṣiṇayā dvārā prapadya cātuṣprāśyaṃ nirvapsyatsu tūṣṇīmupaviśet 16 
+nirupte yathārthaṃ syāt 17 
+taduddhariṣyatsvevameva 18 
+taccedanṛtvigbhiḥ prāśayeyustaṇḍulānādāyāpavidhyeyurneṣṭāviddhaṃ kṛtānīti 19 
+athānyānnidadhīran 20 
+ādhāsyamānasyāraṇyoḥ prattayoryathārthaṃ syāt 21 
+pūrvāhṇe dakṣiṇenāgnyāyatanāni gatvā yatrāgniṃ manthiṣyantaḥ syustaddakṣiṇato nirastaḥ parāvasuriti dakṣiṇā tṛṇaṃ nirasyedāvasoḥ sadane sīdāmītyupaviśet 22 
+bhūrbhuvaḥsvarbṛhaspatibrahmāhaṃ mānuṣa omiti 23 
+etenopaviśedyajuṣeti yatra syāt 24 
+agniṃ hriyamāṇamanugacchet 25 
+nihite yajuṣopaviśet 26 
+atra prathamamiti śāṇḍilyaḥ 27 
+dvitīyamiti dhānaṃjayyaḥ 28 
+jāte rāthantaraṃ gāyet 26 
+vāmadevyaṃ hriyamāṇe 30 
+bṛhannihite 31 
+sarvāṇi tūceṣu manasā 32 
+vācā gāyediti hyukte kimanyadvācā pratīyeta 33 
+athāpi gānamevādhvaryave vidhīyate na manaseti 34 
+api vā rahasyānyeva manasā gāyet | na hyaraṇye geyānāṃ gānaṃ grāme vidyata iti 35 
+prathamottamayoḥ sthāne vāravantīyayajñāyajñīya iti lāmakāyanaḥ 36 
+pūrve kalpe bhūyāsīti śāṇḍilyaḥ 37
+iti drāhyāyaṇaśrautasūtre dvādaśe paṭale prathamaḥ khaṇḍaḥ 1
+<12.2>
+manthiṣyatsvaraṇī ālabhyāraṇyoriti gāyet 1 
+madhyamāne'gniṃ nara ityetayoranyatarat 2 
+dhūma udite tveṣaste dhūma ṛṇvatīti 3 
+prajvalite'darśi gātviti 4 
+nidhīyamāne gavāṃ vrataṃ yadagnimīḍe iti 5 
+tānyudgātṛkarmaike 6 
+udgātā sāmavedeneti śruteḥ 7 
+yathā vihavyasajanīyakayāśubhīyāni hotuḥ 8 
+prastotuśca vairājaśakvarī prastāvāḥ 6 
+sarvaiścāvidhānādbrahmatvakāribhiḥ 10 
+karmayogāccodgātuścatvāro mahartvijaḥ prāśnantīti hi cātuṣprāśyaprāśanam 11 
+adhikārāttu brahmaṇaḥ 12 
+audgātre cāvidhānāt 13 
+dṛṣṭaṃ cānena sāmagānaṃ brahmā rathacakre'bhigāyatīti 14 
+udgāteti yathābhūyasavādaḥ 15 
+hautre ca vidhervihavyādīni 16 
+stotravatprastāvā virāṭsu stuvanti purīṣeṇa stuvate iti ca bahuśruteḥ 17 
+avidhānaṃ vidherdvaidhāt 18 
+yāvadvacanaṃ karmayogaḥ 19 
+hutāyāṃ pūrṇāhutau yathārthaṃ syāt 20 
+akṣāṃścedabhijuhayustatra gatvā tūṣṇīmupaviśet 21 
+tairdyūte yathārthaṃ syāt 22 
+iṣṭyādiṣu sarveṣu yajuṣopaviśet pūrvo yajamānādāhavanīyaṃ prati 23 
+paridhyorvā sandhim 24 
+srucāṃ vāgrāṇi 25 
+utkaraṃ vā 26 
+tamantareṇāhavanīyaṃ ca yajamānasya saṃcaro nānyeṣām 27 
+taṃ yadādhvaryurbrūyād brahmannidaṃ kariṣyāmīti savitṛprasūto'daḥ kuru | bhūrbhuvaḥ svarbṛhaspatirbrahmāhaṃ mānuṣa omityetenānumantrayeta 28 
+etatsarvānumantraṇam 29 
+uccairadaḥ kurvomiti 30 
+praṇītāsu praṇīyamānāsu vācaṃ yacchedā tāsāṃ vimocanāt 31 
+tāsveva praṇīyamānāsvā haviṣkṛtastambayajuṣaścādhyā samidhaḥ prasthānīyāyā iti vā 32 
+yatra vādhvaryubahvṛcau ceṣṭetām 33 
+yatra vā na ceṣṭetāṃ vāgyataḥ prāyastveva syāt 34
+iti drāhyāyaṇaśrautasūtre dvādaśe paṭale dvitīyaḥ khaṇḍaḥ 2
+<12.3>
+prāyaścittaṃ cetkarttavyasyād bhūḥ svāhetigārhapatye juhuyāt | bhuvaḥ svāheti dakṣiṇāgnau āgnīdhrīye sutyā cet | svaḥ svāhetyāhavanīye | bhūrbhuvaḥ svāheti tatraiva 1 
+hutvā brūyānceṣṭatākārṣma prāyaścittamiti 2 
+avelāyāṃ cedvyāharedayajñiyaṃ vāpadyetaitā eva vyāhṛtīranuprekṣeta 3 
+idaṃ viṣṇuriti varcam 4 
+amāvāsyāyāṃ dohanapavitre mārjayerannāpohiṣṭhīyābhiḥ 5 
+tadabhāve dārbhe 6 
+sarveṣṭiṣviti śāṇḍilyāyanaḥ 7 
+prāśitramāhriyamāṇaṃ pratimantrayeta mitrasya tvā cakṣuṣā pratipaśyāmīti 8 
+apa ācamya devasya tveti pratigṛhṇīyāt 6 
+vyūhya tṛṇāni purastāddaṇḍasādayet pṛthivyāstvā nābhau sādayāmīti 10 
+aṅguṣṭhenānāmikayā cādāyāgneṣṭvāsyena prāśnāmīti prāśnīyāt 11 
+asaṃkhādaṃ nigiret 12 
+apa ācamyorasi pāṇiṃ nidadhītendrasya tvā jaṭhare sādayāmīti 13 
+prakṣālya prāśitraharaṇaṃ tatra nidadhyāt 14 
+yathāhṛtaṃ vā pratihārayet 15 
+brahmabhāgamāhṛtamagrata upanidadhīta 16 
+tamiṣṭau saṃsthitāyāṃ prāśnīyāt 17 
+anvāhāryamantareṇa brahmāṇaṃ yajamānaṃ ca haret 18 
+svayaṃ ced brahmā yajamānaḥ syātpūrveṇainam 19 
+hṛtvā tamantarvedi sannaṃ tūṣṇīmālabheta 20 
+prajāpaterbhāgo'sīti vā 21 
+athāparaṃ prajāpaterbhāgo'syūrjasvānpayasvān | akṣito'sya kṣitye tvā | prāṇāpānau me pāhi samānavyānau me pāhyudānarūpe me pāhi | ūrgasyūrjaṃ mayi dhehīti 22 
+tatraiva yajamānaṃ vācayet prajāpatiṃ tvayā samakṣamṛdhyāsamāgamyānvāhāryaṃ dadāni brahman brahmāsi brahmaṇe tvā hutādya mā mā hisīrahuto mahyaṃ śivo bhaveti 23
+iti drāhyāyaṇaśrautasūtre dvādaśe paṭale tṛtīyaḥ khaṇḍaḥ 3
+<12.4>
+samidhaṃ prasthānīyāmanumantrayeta deva savitaretatte yajñaṃ prāhurbṛhaspataye brahmaṇe tena yajñamavatena yajñapatiṃ tena māmava | mano jyotirjuṣatāmājyasya bṛhaspatiryajñamimaṃ tanotvariṣṭaṃ yajñasamimaṃ dadhātu viśve devāsa iha mādayantāmityupāśu pratiṣṭhetyuccairbhurbhuvaḥ svarbṛhaspatirbrahmāhaṃ mānuṣa ityupāśvomityuccaiḥ 1 
+sarvānumantraṇena vā 2 
+vimuktāsu praṇītāsu samidha ādadhyādyathāvabhṛthādudetya 3 
+etatsarveṣṭīnāṃ brahmatvam 4 
+samāne'hanyekāsane na punaryajuṣopaviśediti śāṇḍilyaḥ 5 
+agnyādheyeṣṭiṣu prathamāyāṃ yajuṣopaviśeduttamāyāsamidha ādadhyāditi gautamaḥ 6 
+pṛthagiṣṭiṣviti dhānaṃjayyaḥ 7 
+cātuṣprāśyaṃ ca prāśnatsu 8 
+dhenuṃ dadyādbrahmaṇe 9 
+adhvaryave cāgnipadam 10 
+dhanurhotre vatsatarīrbrahmaṇe anaḍuho'dhvaryave | sarve trivargāḥ 11 
+paṣṭhauhīmāgnīdhrāya 12 
+sarvebhyo'śvarathaṃ kuṇḍale ca 13 
+evameva dhenumagnipadaṃ ceti śāṇḍilyaḥ 14 
+dhenumanaḍvāhaṃ vatsatarīṃ vatsataramajaṃ pūrṇapātramiti tatprathamāyāmiṣṭau dadyāt 15 
+tathottarayoranyatrājyapūrṇapātrābhyām 16 
+varaḥ saptamo dakṣiṇānāṃ trayodaśo vā pañcaviṃśo vā | etadvājasaneyakam 17 
+agnyādheyāntān kurvate pūrṇāhutimakṣābhirhomamiṣṭīḥ 18 
+mithunau dakṣiṇānvārambhaṇīyāyāmiṣṭau19 
+vājināśvinadharmāṇāmṛtvikṣūpahamiṣṭvā prāṇabhakṣaṃ bhakṣayet 20 
+pratyakṣabhakṣasve yajñe 21 
+yanme retaḥ prasicyate yadvāme'pi gacchati yadvā jāyate punastena māśivamāviśa | tena mā vājinaṃ kuru tasya te vājipītasyopahūtaḥ | upahūtasya bhakṣayāmīti | vājinasyeti | ṛtūnāṃ tvā vājināṃ vājinaṃ bhakṣayāmīti vā vobhābhyāṃ vobhābhyāṃ vā 22
+iti drāhyāyaṇaśrautasūtre dvādaśe paṭale caturthaḥ khaṇḍaḥ 4
+caturthaḥ prapāṭhakaḥ samāptaḥ 4
+<13>
+<13.1>
+cāturmāsyeṣu varuṇapraghāsānāstambayajurhariṣyatsu yajuṣopaviśet 1 
+vilikhite cātvāle'dhvaryuṇā saha pratyāvrajyāhavanīyamupaviśet 2 
+agnī praṇīyamānau yathaitamanugacchet 3 
+adhvaryuścedbrūyādbrahmannekasyīyopasaṃbhindhīti sphyenāhavanīyātpāsūnupahatyottarasyā vederddakṣiṇādantātkarṣanniyāt 4 
+āvedimadhyādekā cet 5 
+prohya sphyaṃ paścimena vediṃ gatvā nidhīyamānayoragnyostūṣṇīmupaviśet 6 
+etatkarmāgnipraṇayaneṣu sarveṣu 7 
+avabhṛthanyaṅgaṃ gacchatsu pūrveṇāgnī cātvālaṃ ca gacchet 8 
+paścimena vedī cātvālaṃ ca sve yajñe 9 
+haviryajñeṣveṣa saṃcara uttareṇa vihāraṃ karmabhyaḥ 10 
+yathā cātvāle tathā yūpe śāmitre ca paśau 11 
+avabhṛthanyaṅgaṃ prāpyābhyukṣaṇaprabhṛti sautyaṃ karma samāpayeyuḥ 12 
+sākamedheṣu kṣīrodanasya yathārthaṃ prāśnīyāt 13 
+yajamānaṃ brūyātprabhūtamannaṃ kāraya suhitā alaṃkṛtā bhavatetyamatyān brūhi | vatsāṃśca mātṛbhiḥ saha vāsayeta 14 
+pūrvāhṇe'dhvaryuḥ kṣīraudanamṛṣabhasya ravathe juhoti brahmāṇamupaveśya 15 
+ṛṣabhe'ruvati brahmaiva brūyājjuhudhīti 16 
+tṛṣṇīṃ paitṛkayajñikāyāsarvaṃ kuryāt 17 
+omityevānumantrayet 15 
+yajñopavītaprācīnāvītayoradhvaryumanuvidadhīta 16 
+tasyā havīṣi nirvapsyatsu dakṣiṇayā dvārā prapadya paścātprāṅmukha upaviśet 20 
+evameva vediṃ gatvā stambayajurhariṣyatsu 21 
+ājyabhāgayor tayordakṣiṇenāgniṃ parikramya purastāt pratyaṅmukha upaviśedyajamānaśca 22
+iti drāhyāyaṇaśrautasūtre trayodaśe paṭale prathamaḥ khaṇḍaḥ 1
+<13.2>
+hute sviṣṭakṛti yathetaṃ pratyāvrajyopaviśetām 1 
+prāśitramāhṛtamupaghrāyāpavidhyet 2 
+ājyaṃ cet prāśitrabhāgān vidhyeyustadupaghrāyāpa upaspṛśet 3 
+iḍāṃ ca pratigṛhya pratiprayaccheta 4 
+adhvaryuṇā pariṣicyamāne vyutkramya pariṣikta āhavanīyamupatiṣṭheran 5 
+dakṣiṇena dakṣiṇāgnimuttareṇa dakṣiṇāgnisve yajñe 6 
+akṣannamīmadanta hīti prathamā | susaṃdṛśaṃ tvā vayaṃ maghavanmandiṣīmahi | pranūnaṃ pūrṇavandhuraḥ stuto yāsi vaśāanuyojā nvindra te harī iti dvitīyā upoṣu śṛṇuhī giraḥ iti tṛtīyā 7 
+tata evekṣamāṇā gārhapatyam manonvā huvāmahe nārāśasena somena | pitṝṇāṃ ca manmabhiḥ | punarnaḥ pitaro mano dadātu daivyo janaḥ | jīvaṃ vratasacemahi | ā na e tumanaḥ punaḥ kratve dakṣāya jīvase | jyokca sūryaṃ dṛśeyamiti 8 
+kayā naścitra ābhuvad ityekayā dakṣiṇāgnim 6 
+traiyambakānāmāpūpā bhavantyekakapālāḥ | teṣāṃ yamadhvaryurākhūtkara upavapettasminnapa upaspṛśeyuḥ śivā naḥ śantamā bhava sumṛḍīkā sarasvati | mā te vyoma saṃdṛśi iti 10 
+āsītetareṣāhūyamāna iti dhānaṃjayyaḥ 11 
+tiṣṭhediti śāṇḍilyaḥ 12 
+hute tiṣṭhanto japeyuḥ avāmba rudramayakṣmahyava devaṃ tryambakama | yathā naḥ śreyasaskaradyathā no vasīyasaskaradyathā naḥ paśumataskaradyathā no vyavasāyayāt | bheṣajamasi bheṣajaṃ gave'śvāya puruṣāya bheṣaja sugaṃ meṣāya meṣyai subheṣajaṃ yathāsaditi 13
+iti drāhyāyaṇaśrautasūtre trayodaśe paṭale dvitīyaḥ khaṇḍaḥ 2
+<13.3>
+yajamānasyāmātyā ekaikamapūpamādāya triḥpradakṣiṇamagniṃ parīyuḥ 1 
+tatra brahmā pariyañjapediti dhānaṃjayyaḥ 2 
+tiṣṭhanniti śāṇḍilyaḥ 3 
+tryambakaṃ yajāmahe sugandhiṃ puṣṭivardhanam | urvārukamivabandhanānmṛtyormukṣīyamāmṛtāt iti || jāmī kumārī vā yā syāt patikāmā sāpi parīyāt | tryambakaṃ yajāmahe sugandhiṃ pativedanam | urvārukamiva bandhanāditomukṣīya iti jñātīnabhisaṃkalpayet 4 
+māmuta itīṣṭamabhinirdiśedamuṣya gṛhāditi 5 
+evaṃ triḥ parītyodasyeyuḥ 6 
+teṣāṃ brahmaikaṃ lipsitvā yasya sa syāttasmai prayacchet 7 
+tasya vauvasantaṃ pāṇāvālabheta 8 
+tathaiva triḥ pratiparīyuḥ 6 
+yatrainānadhvaryurāsajettatropatiṣṭheranneṣa te rudra bhāgastenāvasena paro mūjavato'tīhi kṛttivāsāḥ pinākahasto'vatatadhanvomiti 10 
+ātamito japeyuḥ 11 
+śaṃ no devīrityapa upaspṛśyānapekṣaṃ pratyāvrajeyuḥ 12 
+varuṇapraghāsairvyākhyātaṃ brahmatvaṃ haviryajñeṣu 13 
+paśūnāṃ yūpāhuti hoṣyatsu tūṣṇīmupaviśet 14 
+hutāyāṃ yathārthaṃ syāt 15 
+vapāyāhutāyāmidamāpa iti cātvāle mārjayitvā paśūnāṃ yathārtha syāt 16 
+puroḍāśena cariṣyatsu tūṣṇīmupaviśet 17 
+āhṛtaṃ puroḍāśamālabhya brūyāt prāśnantu ye prāśiṣyanta iti 18 
+anuvrajetsarvapaśūnāṃ patnīsaṃyājāniti gautamaḥ 16 
+savanīyasyaiveti dhānaṃjayyaḥ 20 
+na savanīyasya ca neti śāṇḍilyaḥ 21 
+hṛdayaśūlo'trāvabhṛthanyaṅgasthāne bhavati 22 
+tasminnapa upaspṛśeyuḥ dhāmno dhāmno rājastato varuṇa no muñca | yadāpo aghnyā varuṇeti śapāmahe tato varuṇa no muñca | sumitriyā na āpa oṣadhayaḥ santu durmitriyāstasmai santu yo'smān dveṣṭi yaṃ ca dviṣmaḥ iti 23
+iti drāhyāyaṇaśrautasūtre trayodaśe paṭale tṛtīyaḥ khaṇḍaḥ
+<13.4>
+abhyukṣaṇaprabhṛtyata ūrdhvam 1 
+ādityaṃ nopatiṣṭheran 2 
+pūrṇāhutau hūyamānāyāmāsitvā hutāyāṃ yathārtha syāt 3 
+saktuhomāścejjuhuyurāsītā teṣāhomāt 4 
+sautrāmaṇyā surākarmasvāvrājamāsīta 5 
+tatra dvāvamī atipraṇayanti tayordakṣiṇata āsīt 6 
+dakṣiṇamadhyadhi kumbhyāmāsaktāyāṃ śatātṛṇṇāyāsurāśeṣeṣvāsicyamāneṣūpatiṣṭheran
+yatte pavitramarciṣyagne vitatamantarā | brahma tena punīhi me iti 7 
+aśvinorgrahasya bhakṣayedyamaśvinānamucerāsurādadhi sarasvatyasunodindriyeṇa | imaṃ taśukraṃ madhumantamindu somarājānamiha bhakṣayāmi iti 8 
+yajamānaṃ cedvasātiśeṣeṇābhiṣiñceyurupotthāyāntareṇāgnī gatvādhvaryuṇoktaḥ saśānāni gāyet 6 
+padāya padāya stobhet 10 
+nidhanānyupayanto yajamānasya mūrdhānamālabheran 11 
+saṃ tvā hinvantītyeteṣāṃ pūrvaḥ pūrvaḥ stobha uttaramuttaraṃ nidhanam 12 
+śravasa iti sthāne jityā iti kṣatriyasya puṣṭyā iti vaiśyasye tyeke 13 
+dve sautrāmaṇyau kaukilī carakasautrāmaṇī ca 14 
+kaukilyāṃ sāmagānaṃ netarasyāsaṃśānāni gāyediti ha smāha kautsaḥ 15 
+sapta haviryajñasya saṃsthā agnyādheyamagnihotraṃ darśapūrṇamāsāvāgrayaṇaṃ cāturmāsyāni nirūḍhapaśubandhaḥ sautramaṇī ceti 16 
+sapta somasaṃsthā agniṣṭomo'tyagniṣṭoma ukthyaḥ ṣoḍaśī vājapeyo'tirātro'ptoryāma ityaptoryāma iti
+iti drāhyāyaṇaśrautasūtre trayodaśe paṭale caturthaḥ khaṇḍaḥ 4
+<14>
+<14.1>
+sutyāyāṃ brahmaṇaḥ prāksubrahmaṇyāyā audgātreṇa samānaṃ karma 1 
+ikṣaṇākramaṇe vedeḥ 2 
+saṃcaradhiṣṇyopasthānadakṣiṇāpratigrahabhakṣāḥ 3 
+stomavimocanāccordhvamanyat samānam 4 
+anuṣyāttu dīkṣaṇīyāyām 5 
+tasyāsasthitāyāmāsītādīkṣaṇādyajamānasya 6 
+taṃ yadādhvaryurvācaṃ yamayedatha yathārthasyāt 7 
+mahāvīrāntsambhariṣyatsu tūṣṇīmupaviśet 8 
+sambhṛteṣu yathārthaṃ syāt 6 
+prāyaṇīyāyāsaṃsthitāyāṃ pūrveṇa patnīśālāṃ tiṣṭhedābhihomātpadasya rājakrayaṇyāḥ 10 
+abhihuta uttareṇa somavahanaṃ gatvā prāgvā padābhihomāddakṣiṇena yatra rājānaṃ kreṣyantaḥ syustatra gatvā tūṣṇīmupaviśet 11 
+krīte prāṅutkrāmet paścimenaina hutvā rājānamādadhyurāhitaṃ pūrveṇa parītyohyamānamanugaccheddakṣiṇena cedgataḥ syāt 12 
+uttareṇa cetkrīte pratyaṅḍutkrāmet pūrveṇainaṃ hṛtvā rājānamādadhyurāhitaṃ paścimena parītyohyamānamanugacchet 13 
+tāmevātreṣāmanvāvarteta 14 
+sā hyasya prāci vartamānasya dakṣiṇeṣā bhavati 15 
+vimukte cāntareṇa somavahanaṃ patnīśālāṃ ca dakṣiṇenotkramya tiṣṭheddīkṣitaścedā rājño'vaharaṇāt 16 
+praveśyamāna rājānamanupraviśedavyavayannāminā 17 
+saṃbādhaścet syāddakṣiṇayāpi dvārā praviśet 18 
+uttareṇāhavanīyaṃ paścimena vedi saṃcareddīkṣitaścet 19
+iti drāhyāyaṇaśrautasūtre caturdaśe paṭale prathamaḥ khaṇḍaḥ 1
+<14.2>
+ātithyāmiṣṭiṃ nirvapante 1 
+tāṃ cedanavahṛte rājani nirvaperan brāhmaṇa rājani samādiśya tatra gatvāsīta 2 
+tasyāsasthitāyām̐ tānūnaptramājyamavamṛśanto japeyurhavirasi vaiśvānaramanādhṛṣṭamanādhṛṣyaṃ devānāmojo'nabhiśastyamabhiśastipā anabhiśastyanyamañjasā satyamupageṣasuvitemādhā iti 3 
+apa upaspṛśyādhvaryuṇokto rājānaṃ visrambhavet 4 
+taṃ hiraṇyamantardhāyābhimaśeyuraśuraśuṣṭe deva | somāpyāyatāmindrāyaikadhanavide | ā tubhyamindraḥ pyāyatāmātvamindrāya pyāyasva | āpyāyayāsmāntsakhīn sanyā medhayā | svasti te deva soma sutyāmudṛcamaśīyeti 5 
+kāśamaye prastare nihnuvīrandakṣiṇān pāṇīnuttānān kṛtvā savyānnīcaḥ eṣṭā rāya eṣṭā vāmāni preṣe bhagāyārtamṛtavādibhyo namo dive namaḥ pṛthivyā iti 6 
+subrahmaṇyāsvāhūyamānāsu dakṣiṇotkramya tiṣṭheddīkṣitaścet 7 
+āhūtāsu yathārthaṃ syāt 8 
+upasadiṣṭirata ūrdhvaṃ tasyāṃ tathaivābhimarśananihnavane 9 
+savyā aparāhna uttānāḥ syurdakṣiṇā nyañcaḥ 10 
+sruveṇopasaddhome hute vidyātsasthiteti 11 
+tasyā gharmaḥ pravargyavati pūrvaḥ 12
+iti drāhyāyaṇaśrautasūtre caturdaśe paṭale dvitīyaḥ khaṇḍaḥ 2
+<14.3>
+tamabhīndhiṣyatsu gārhapatyaṃ gatvā yajuṣopaviśeddakṣiṇena 1 
+dakṣiṇāgnimuttareṇa bahiścet 2 
+rucito gharma ityukte'nuvākena tiṣṭhanto'vekṣeran yamadhvaryurbrūyāt 3 
+taṃ hiyamāṇaṃ yathetamanuvrajan japedviśvā āśā dakṣiṇasatsarvān devānayāḍiha | svāhā kṛtasya gharmasya medhoḥ pibatamaśvinā iti 4 
+āśrāvita upaviśya japedaśvinā gharmaṃ pātaṃ hārdivānamahardivābhirūtibhiḥ | tantrāyiṇena namo dyāvāpṛthivībhyāmiti 5 
+hute yajamānaṃ vācayedāpātāmaśvinā gharmamanu dyāvāpṛthivī amasātām | ihaiva rātayaḥ santviti 6 
+gharmaśeṣasya bhakṣayenmadhu hutamindratame'gnāvaśyāma te deva gharma namaste'stu mā mā hisīriti 7 
+satraṃ cetsyādyajamānā upahvayadhvamityevopahvānam 8 
+evasadā pravargyopasadaḥ kuryāt 6 
+mahāvedestambayajurhariṣyatsu yajuṣopaviśet 10 
+vilikhite cātvāle yathārthaṃ syāt 11 
+uttaravediṃ nirvapsyatsu tūṣṇīmupaviśet | nyuptāyāṃ yathārthasyāt 12 
+agnicityāyāṃ prāgdīkṣaṇīyāyāḥ sāvitrān homān hoṣyatsu yajuṣopaviśet 13 
+teṣu huteṣūkhyāṃ mṛttikāmāhriyamāṇāmanugacchet 14 
+tasyāṃ sambhriyamāṇāyāmāsitvā sambhṛtāyāṃ yathārthaṃ syāt 15
+iti drāhyāyaṇaśrautasūtre caturdaśe paṭale tṛtīyaḥ khaṇḍaḥ
+<14.4>
+āhavanīyaṃ ceṣyatsu yajuṣopaviśet 1 
+tasmiṃtsaṃcita ukhyāmāsandīṃ nairṛtīśceṣṭakā araṇyahriyamāṇā anugacchet 2 
+nidhīyamānānāṃ dakṣiṇataḥ sthitvā nihitāsvapa upaspṛśyānapekṣaṃ pratyāvrajet 3 
+agniṃ vikrakṣyatsu sarvoṣadhaṃ ca vapsyatsu tatra gatvā tṛṣṇīmupaviśet 4 
+taiḥ sārdhaṃ pratyāvrajya citīḥ praṇīyamānā anugacchet 5 
+nidhīyamānānāṃ dakṣiṇataḥ sthitvā nihitāsu dakṣiṇasya pakṣasyāsanno yajuṣopaviśet 6 
+lokaṃ pṛṇāsūpadhīyamānāsu brāhmaṇaṃ tatra samādiśya yathārthaṃ syāditi śāṇḍilyaḥ 7 
+āsītaiveti dhānaṃjayyaḥ 8 
+evaṃ sadā citiṣu kuryāt 6 
+saṃcitakarmāṇi kariṣyatsvāvrājamāsīta 10 
+samrāḍāsandīhriyamāṇāmanugacchet 11 
+nidhīyamānānāṃ dakṣiṇataḥ sthitvā pariṣicyamāne'pa upaspṛśya taiḥ sārdhaṃ pratyāvrajyāgniṃ praṇīyamānamanugacchedapratirathaṃ japan 12 
+tūṣṇīmanagnicityā cet 13 
+nidhīyamānasya dakṣiṇataḥ sthitvā nihite dakṣiṇā bahirvedi yajuṣopaviśet 14 
+havirdhāne pravartyamāne anugacchet 15 
+parivāryamāṇayostatraiva gatvāsīta 16 
+ucchritāyāmaudumbaryām̐ yathārthaṃ syāt 17 
+vedikarmaprabhṛti vāgnīṣomapraṇayanātpraṇayanāt 18 
+|
+iti drāhyāyaṇaśrautasūtre caturdaśe paṭale caturthaḥ khaṇḍaḥ 4
+<15>
+<15.1>
+agnīṣomau praṇeṣyatsu vedimākrāmenmantreṇa 1 
+paścimenottaravedimudaṅṅatikramyākramaṇayajurjapet 2 
+cātvālasamīpe dīkṣitaścet 3 
+tūṣṇīmata ūrdhvaṃ vederākramaṇam 4 
+krītvā rājā yenātihṛtaḥ syāttena gatvā tūṣṇīmupaviśet 5 
+rājānaharetyuktaḥ pūrveṇāgnimekasmā atipradāya tān prasavyaṃ parītyādāyānugaccheddkṣiṇena cedgataḥ syāt 6 
+uttareṇa cedyathetaṃ parītyādāyānugacchet 7 
+anyena cedbrahmā vrajitaḥ syādanyena rājā tenainaṃ pragṛhṇīyāt 8 
+etau tveva brahmaṇo gatikalpāvaharato'pi 6 
+āsītāgnīdhrīya āhutyorhūyamānayoriti dhānaṃjayyaḥ 10 
+tiṣṭhediti śāṇḍilyaḥ 11 
+uttareṇāgnīdhrīyarājānamājyāni ca hriyamāṇānyanugacchet 12 
+praveśiteṣu havirdhānaṃ paścimena gatvāsīteti gautamaḥ 13 
+pūrveṇeti dhānaṃjayyo dakṣiṇasya dvārabāhoḥ purastādyajuṣeti 14 
+agrīṣomīyavapāyāṃ hutāyāṃ yathetamudaṅṅatikramya cātvāle mārjayeta 15 
+evamevāpararātra ājyeṣu praviṣṭeṣūpaveśanam 16 
+mārjanaṃ ca 17
+iti drāhyāyaṇaśrautasūtre pañcadaśe paṭale prathamaḥ khaṇḍaḥ 1
+<15.2>
+savanīyavapāyāhutāyām 1 
+puroḍāśena cariṣyatsu tūṣṇīmupaviśet 2 
+dīkṣitaścet sarvā iḍā anvārabheta 3 
+vasatīvarīṣu parihriyamāṇāsu dakṣiṇotkramya tiṣṭhedadīkṣitaścedā tāsāṃ pariharaṇāt 4 
+āgnīdhrīyarājānahriyamāṇamanugacchet 5 
+dīkṣitaścettatraiva saṃviśeta 6 
+apararātra ājyāni grahīṣyataḥ pūrveṇa gatvāgniṃ ca paścimena vā yajuṣopaviśet 7 
+ātteṣu prāṅutkramya prasavyaṃ parītyānugacchetpūrveṇa cedgataḥ syāt 8 
+paścimena cedyathetamagniṃ parītyānugacchet 6 
+praveśiteṣūpaviśet 10 
+ājyeṣveva grahīṣyamāṇeṣvatropaviśediti śāṇḍilyaḥ 11 
+adhvaryuṇokto vācaṃ yacchedā tṛtīyaṃ prātaranuvākasya 12 
+ā vā paridhānīyāyāḥ 13 
+ā vopāṃśvantaryāmayorhomāt 14 
+ā vā bahiṣpavamānāta 15 
+havirdhānaṃ cet pūrveṇa gataḥ syādupāśvantaryāmau hoṣyatsūdaṅṅatikramya tiṣṭhet 16 
+adīkṣitaścedā tayorhomāt 17 
+niḥsarpatsvanvārabheta 18 
+tasya prastotrā samānaṃ karma prāgupaveśanāt 16 
+āstāvaṃ prāpyānāsanno yajuṣopaviśetprastotāraṃ prati 20
+iti drāhyāyaṇaśrautasūtre pañcadaśe paṭale dvitīyaḥ khaṇḍaḥ
+<15.3>
+raśmirasītyetāvanuvākau stomabhāgāḥ 1 
+taiḥ pṛthaganupūrvastotrāṇyanumantrayeta brahmantstoṣyāmaḥ praśastarityukte 2 
+ūrdhvaṃ prathamādrātriparyāyādyatra syādamuṣmai tveti taṃ jinveti tatra brūyāt 3 
+savitṛprasūtā bṛhaspataye stutetyekaikasyāntaḥ 4 
+pūrveṣāṃ ca 5 
+bhūrbhuvaḥsvarbṛhaspatirbrahmāhaṃ mānuṣa omityetadvādhikaṃ kuryyādoṃkāraṃ vā 6 
+yathāmnāyasaṃdheranumanrtayeta 7 
+traidhaṃ vibhajediti dhānaṃjayyo vasuko'si vasyaṣṭirasi veṣaśrīrasi | vasukāya tvā vasyaṣṭaye tvā veṣaśriye tvā | vasukaṃ jinva vasyaṣṭiṃ jinva veṣaśriyaṃ jinva | savitṛprasūtā bṛhaspataye stuteti 8 
+srutadevena savitrā prasūtā ityanumantrayeta mānasaṃ vājapeye ca bṛhat 6 
+ānantaryeṇetarāṇi 10 
+īddhrātstotrāṇi pūrveṇa tadvivṛddheḥ 11 
+pareṇa vā tannikāmanāt 12 
+mānasavadvātirikta sāmānyāt 13 
+sarvānumantraṇena vānuktatvāt 14 
+yadyatstotraṃ lupyeta sahaiva stomabhāgena 15 
+stute bahiṣpavamāne vapāyāṃ hutāyāṃ mārjayitvā dhiṣṇyānupasthāyoktasadasyupaveśanam 16 
+stutaśastrayorvācaṃ yacchet 17 
+anūcyamāne ca sarvatra 18 
+vaṣaṭkṛte visṛjeta 19 
+avabhṛthādudetyānuṣyādyajñaśeṣam 20 
+ahargaṇeṣvena sadātipraiṣeṇa praśāstā vācaṃ yamayati rājānarakṣeti cāha tadubhayaṃ kuryādā vasatīvarīṇāṃ pariharaṇāt 21 
+tatsatre paryāyeṇa kuryurahīne tu brahmaiva 22
+iti drāhyāyaṇaśrautasūtre pañcadaśe paṭale tṛtīyaḥ khaṇḍaḥ
+<15.4>
+vājapeye pṛṣṭhasya stotramanumantrya sadasyaṃ brahmāsana upaveśya niṣkrāmet 1 
+pūrveṇāgnīdhrīyasthūṇā nikhātā syāt 2 
+dakṣiṇena mārjālīyamantarvedīti śāṇḍilyaḥ 3 
+tasyāmaudumbara saptadaśāra rathacakraṃ pratimuktaṃ syāt 4 
+tadabhāve yatkiṃca rathacakram 5 
+tasmin bāhū ādadhyāddevasyāhasavituḥ pravase satyaśravaso bṛhaspatervājino vājajito varṣiṣṭhamadhi nākaruheyamiti 6 
+ratheṣvājiṃ dhāvatsvāvirmaryā iti gāyedākāramudgīthādau luptvā tasya sthāne pratyāhṛtya dvyakṣaramagmanniti 7 
+gateṣu ca 8 
+yathādhītamādhāvatsu 6 
+āsṛteṣu vā 10 
+sarvatra vā yathādhītam 11 
+parivartayan gāyet 12 
+parivartya vā gāyedgītvā vā parivartayet 13 
+gāyato vānyaḥ parivartayet 18 
+udaṅṅavarohaṃ manyeta viṣṇoḥ kramo'si viṣṇoḥ krāntamasi viṣṇorvikrāntamasīti 16 
+abhidakṣiṇamāvṛtya sadaḥ praviśet 14 
+udaṅṅavarohaṃ manyeta viṣṇoḥ kramo'si viṣṇoḥ krāntamasi viṣṇorvikrāntamasīti 15 
+abhidakṣiṇamāvatya sadaḥ praviśet 16 
+tatrāsīno hiraṇyaṃ madhu ca nānā pratigṛhṇīyāt 17 
+ṛtapeye ca dakṣiṇāṃ camasam 18 
+brāhmaṇāya madhu dadyānnidadhīta hiraṇyam 19 
+triṣṭupchandasā sarvabhakṣaṃ camasaṃ bhakṣayet 20 
+taṃ pratigṛhṇīyāditi sthaviro gautamaḥ 21 
+kastvā dadāti sa tvā dadāti kasmai tvā dadāti tasmai tvā dadāti kastvā kaṃ bhakṣayāmīti bhakṣayet 22 
+vāgdevī sīmasya tṛpyatviti vā 23 
+ubhābhyāṃ vobhābhyāṃ vā 24
+iti drāhyāyaṇaśrautasūtre pañcadaśe paṭale caturthaḥ khaṇḍaḥ 4
+iti pañcamaḥ prapāṭhakaḥ
+<16>
+<16.1>
+saṃtani codyamānamekaikasyāṃ sarvam 1 
+stomasaṃbhavāt 2 
+tathā cānyāni svavicchandaḥsu 3 
+saṃtanīti yadvāhiṣṭhīyavat 4 
+triṣu vā tṛceṣvekarccavattṛce darśanāt 5 
+sāmnā ca stomasaṃkhyānāt 6 
+tūceṣvācāryasmṛteryathānyāni sāmāni 7 
+saṃtānācca saṃtanīti 8 
+saṃtataṃ gāyatīti cāha 9 
+ekarcceṣu coddhataṃ kalpe 10 
+pramāṇārthaṃ tṛce darśanaṃ 11 
+stotrīyāyāṃ sāmasamāptiḥ 12 
+tāsu sarvāsu prastāvāḥ syurnyāyapragāthadharmābhyām 13 
+nottarayorācāryāḥ | smṛteḥ 14 
+santataṃ gāyatīti ca | bhaktilopadarśanāt 15 
+tasya stotrādāvāvartiṣu prastāvaḥ paryāyādiṣu vā 16 
+sarvatra prathamāyāmiti dhānaṃjayyaḥ 17 
+nidhanabhūtāḥ pratihāravatyo'prastāvyāḥ 18 
+dhānaṃjayyena prathamāyāṃ śāṇḍilya uttare tu stotrīye viṣṭāvamukheṣvevāprastāvye viṣṭāveṣu caikiṣu 19 
+trivṛtstome ca parivartinīvidhānam 20 
+uttarayoḥ stotrīyayośchandasto vipratipattiḥ 21 
+dvipade syātāmaprastāvye kakubhau prastāvye 22 
+bṛhatyau śāṇḍilyaḥ 23 
+kakubhāvaprastāvye tathā sati 24 
+ubhe kakubhau sthaviro gautamaḥ 25 
+bṛhatyau dhānaṃjayyaḥ 26
+iti drāhyāyaṇaśrautasūtre ṣoḍaśe paṭale prathamaḥ khaṇḍaḥ 1
+<16.2>
+ādyābhirviṣṭutibhiḥ stomavidhānamanādeśe 1 
+tāḥ pathyāḥ 2 
+sarvābhiprāyāśca 3 
+yathāśiṣaṃ vā vidadhyāt 4 
+dvitīyāṃ trivṛtaḥ pathyāmeke 5 
+aviṣṭāvā hyādyā 6 
+saṃhāraśiraḥsaṃdhisaṃtaniṣu cānupapannā 7 
+avarṣukastviti cāsyām 8 
+iṣorvyatyāsamiṣubhyām 6 
+tayoḥ pūrvā śyenasyāgniṣṭomasāmni 10 
+satreṣu daśarātre sarvāḥ prayuñjītābhicaraṇīyā uddhatyeti śāṇḍilyaḥ 11 
+śāṇḍilyāyanaḥ kulāyinīm 12 
+bhastrāṃ cobhau 13 
+dhānaṃjayyastāmeva 14 
+pathyābhirhotṛṣāmāṇi vidadhyādapathyābhiritarāṇi 16 
+samāptāsu tā evāditaḥ punaḥ prayuñjīta 17 
+tathā kurvan prāgāthikāni parivartinyā prathamasyeti śāṇḍilyaḥ 18 
+sakṛtsarvāḥ samāpya pathyayaiva tata ūrdhvamiti dhānaṃjayyaḥ 19 
+asamāptāsu tvapi hotṛṣāmapathyayaiva 20 
+tathā kurvan kulāyinīṃ cet prayuñjīta prathamasyāhno dvitīyaṃ pṛṣṭhaṃ tayā vidadhyāt 21 
+ṣaṣṭhasyāhnaḥ ukthyamuttamamuttamayā trayastriṃśasya viṣṭutyā vidadhyāt 22 
+uktaḥ prayogo brāhmaṇena catuścatvāriṃśe 23 
+savanasamīṣantī pūrvaḥ prayogaḥ stotrasamīṣantītyuttaraḥ 24 
+tathā kuryādaharbhāji 25 
+pathyāmanyatra 26 
+aṣṭācatvāriṃśasyottarayā maitrāvaruṇasyājyaṃ vidadhyāt 27 
+sarvāṇi vā hotṛkasāmāni 28 
+madhyame madhyame vā savaneṣu 29 
+dvitīyacaturthe vā 30 
+uttare vā 31 
+adaśarātreṣu satreṣu pathyā eveti gautamaḥ 32 
+sarvā iti dhānaṃjayyaḥ 33
+iti drāhyāyaṇaśrautasūtre ṣoḍaśe paṭale dvitīyaḥ khaṇḍaḥ 2
+<16.3>
+tṛcasūktānāmādigrahaṇena vidhiranādeśe 1 
+tṛcottamāyāṃ pratilomaḥ 2 
+madhyamāyāṃ saiva 3 
+retasyaikatrikasya bahiṣpavamānam 4 
+udbhidyanurūpamekarcaṃ śāṇḍilyaḥ 5 
+stotrīyaṃ gautamadhānañjayyau 6 
+uttamau tṛcau bahiṣpavamāne sāhasrottamo cāturmāsyeṣu 7 
+sarve sarvasvāre 8 
+vāmadevyayajñāyajñīyāraṇyegeyapṛṣṭhapūrvāṇāṃ tṛcakaraṇamuttarayoḥ pavamānayoranyeṣāṃ cāvipratiṣedhaḥ 6 
+ekamekarcaṃ kurvan prathamāyāmāditaḥ kuryāt 10 
+dvau tasyāmeva 11 
+trīnekatṛce nānāstotrīyāsu 12 
+caturṇāṃ prathamāyāṃ dvāvitarau nānottarayoḥ 13 
+mādhyaṃdine cedeko dvau vā bṛhatyāmeva 14 
+trīnyatarasyāṃ saṃbhaveyuḥ 15 
+anadhyāsā ced dvayoranyataraṃ gāyatryāṃva dhānaṃjayyaḥ 16 
+ubhau bṛhatyāṃ śāṇḍilyaḥ 17 
+sādhyāsāyāṃ cedeko'dhyāsyāyāmevāntataḥ 18 
+dvau tasyāṃ caivāditaśca 16 
+sā śaśakarṇaklṛptā 20 
+triṣvadhyāsyā lupyeta 21 
+tṛce vā 22 
+caturo nānā stotrīyāsu 23 
+ārbhave cedeko'nuṣṭubhi 24 
+dvi prabhṛtīn kakupprabhṛtyānantaryyeṇa 25 
+uṣṇikkakubhostṛcaikarccatvamavyāghātena 26
+iti drāhyāyaṇaśrautasūtre ṣoḍaśe paṭale tṛtīyaḥ khaṇḍaḥ 3
+<16.4>
+vāmadevyaṃ tu tṛce viśvajicchilpe yajñāyajñīyaprabhṛtīni ca trīṇi 1 
+saṃbhavati stome'ntyaṃ sarvatra tṛce 2 
+dvitīyaṃ cedaraṇyegeyama 3 
+tadabhāve yadantyāt pūrvam 4 
+ekarccasthāneṣvanāpadyamānāni tṛceṣu kuryāt gāyatraṃ triṇidhanaṃ madhyaṃdine madhyenidhanamaiḍamārbhave 5 
+anādiṣṭatṛcaikarccānyetenoddeśena kalpayet 6 
+kakubyatra madhyaṃdina ekarccastasyāmanyatrottamād vātyastomāt 7 
+dvipadā kakubvat tatsthāne 8 
+pūrvayorvrātyastomayorārbhave gāyatramekarcce dhānaṃjayyastṛce marutāṃ saṃstobham 6 
+viparītaṃ śāṇḍilyaḥ 10 
+caturṛcānāmāvṛttiṣvantyāmuddhareta 11 
+tṛtīyāṃ sarvasvārasvarasāmnoḥ 12 
+pravāmarccantīti dvitīyām 13 
+suṣamiddha ityatrivasiṣṭhaśunakakaṇvasaṃkṛtivādayaśvānāṃ tānūnapātīm 14 
+nārāśaṃsīmanyeṣām 15 
+samavāye tu bhūyasāṃ kalpaḥ 16 
+gṛhapatervā prādhānyāt prādhānyāt 17
+iti drāhyāyaṇaśrautasūtre ṣoḍaśe paṭale caturthaḥ khaṇḍaḥ 4
+<17>
+<17.1>
+varddhamāneṣu stomeṣu 1 
+prathamasya paryāyasya prathamā tṛcabhāgā | tasyāstrirvacanam 2 
+madhyamāvāpasthānam 3 
+uttamā paricarā 4 
+paricarā tṛcabhāgāvāpasthānamiti madhyame 5 
+āvāpasthānaṃ paricarā tṛcabhāgetyuttame 6 
+ete viṣṭāvāḥ 7 
+tadabhāve tṛcabhāgāsthāneṣu paryāyāṇāṃ paryāyāḥ syuḥ 8 
+yathā vaikaḥ paryāyaḥ 6 
+naikini paryāyā vidyante | tathā trike viṣṭāvāḥ 10 
+trivṛtaścodyatyām 11 
+sameṣu samaḥ prayogaḥ stotrīyāṇām 12 
+ekaikādhiśayeṣvadhikā dve dvyadhiśayeṣu 13 
+te viṣamāḥ 14 
+yugmāyuktā dvyuttarībhāveṇa 15 
+ayuja ekiprabhṛtayaḥ 16 
+dvikaprabhṛtayo yujaḥ 17 
+tryuttarībhāvenobhayeṣāṃ samavaiṣamyam 18 
+ekiprabhṛtaya ekādhiśayāḥ 19 
+dvikaprabhṛtayo dvyadhiśayāḥ 20 
+samāstrikaprabhṛtayaḥ 21 
+viṣamāḥ samaparyāyairvartante 22 
+yāvabhito'nantarau samau tayoḥ paryāyān saṃharet 23 
+pūrvasyaikamekādhiśayeṣu 24 
+dvau dvyadhiśayeṣu 25 
+ubhayān yathājāti 26 
+yugmāyugbhyo vā 27 
+tatra yujāmekādhiśayānāmayujaḥ pūrvau paryāyau 28 
+uttarau dvyadhiśayānām 29 
+viparyayo yugmāyujāmayukṣu 30
+iti drāhyāyaṇaśrautasūtre saptadaśe paṭale prathamaḥ khaṇḍaḥ 1
+<17.2>
+triṇavādyāvatsamāḥ 1 
+ekayā dvābhyāṃ vā parau jyāyāṃsau 2 
+antyo vā 3 
+anyatra tveva 4 
+saṃharantyeke 5 
+yathāsthānaṃ paryāyān kuryāt 6 
+so'vidoṣaḥ 7 
+yadavasānaḥ pūrvaḥ paryāyastatprabhṛtiruttarastatsāmātsāmyam 8 
+tadubhayaṃ kuryāt 6 
+brahmāyatanīyāṃ ca 10 
+tathā paryāyaroham 11 
+asaṃbhavatsu sarveṣu samātsamāmeva cikīrṣet 12 
+paryāyapratyavarohaṃ tu varjayet 13 
+viḍāyatanīyāṃ ca 14 
+prathamāyāḥ prayoge bhūyiṣṭhe brahmāyatanīyā 15 
+madhyamāyāḥ kṣattrāyatanīyā 16 
+uttamāyā viḍāyatanīyā 16 
+dāśarātrikebhyaḥ paryāyakṛtau pathyāparyāyāneva saṃharet 18 
+parivartinyāstu trivṛto'nādeśe 16 
+eṣa nyāyo'nādiṣṭānām 20 
+ekinyāvartisthānagate triḥ purastāddhiṃkāraṃ śāṇḍilyaḥ 21 
+trike ca prathamayā stomapūraṇam 22 
+tṛcena dhānaṃjayyaḥ 23 
+sakṛñcaikini hiṃkāram 24 
+jātisaṃhāraḥ paccini 25 
+pañcadaśaparyāyaiḥ pṛthaganupūrvaṃ rātriparyāyānnidadhyāt 26
+iti drāhyāyaṇaśrautasūtre saptadaśe paṭale dvitīyaḥ khaṇḍaḥ
+<17.3>
+saṃlaṅghitāyāmiti bhāḍitāyanaḥ 1 
+tatra viṣṭāvāḥ paryāyasthāneṣu syuḥ 2 
+pṛthak ca stotrīyāsu paryāyāḥ 3 
+dāśarātrikebhya ekayā jyāyassu tasmāt pūrvasyottame paryāya āvapet 4 
+brahmāyatanīyā tu teṣu 5 
+kṣatrāyatanīyā vā 6 
+āskandaṃ tu gautamaścatvāriṃśe 7 
+dhānaṃjayya itareṣu 8 
+daśini catuṣko madhye parivarttinī paryāyāvabhitaḥ 6 
+udyatyā vā 10 
+udyatīparyāyayorbrahmāyatanīyāṃ kurvan prathamāyāṃ catuṣkaṃ kuryāt 11 
+dvādaśe tṛcabhāgāsthāneṣu dvikā viṣṭāvā āvāpasthāneṣu vā 12 
+trayodaśatrayoviṃśayoḥ pañcaviṃśe ca madhyamaḥ paryāyo jyāyānekajyāyaḥsu kanīyānekakanīyaḥsu 13 
+tathaikānnatriṃśekatriṃśayoḥ 14 
+rūḍhaparyāyā vā 15 
+teṣāṃ prathame yugmāyuksaṃhāraṃ śāṇḍilyāyanaḥ 16 
+dvitīye śāṇḍilyaḥ 17 
+ubhayorjātisaṃhāraṃ dhānaṃjayyaḥ 18 
+śāṇḍilyastu pañcaviṃśe 16 
+aṣṭādaśaḥ saptadaśa evāvapediti gautamaḥ 20 
+nyāyavihitaḥ syāditi dhānaṃjayyaḥ 21 
+ekānnaviṃśe ca parivartinīparyāyāvabhitastrayodaśī madhye 22 
+tasmin prathamāyāstrirvacanaṃ tathottamāyāḥ 23 
+pañcadaśaparyāyāvabhito navī madhye trikaviṣṭāva iti śāṇḍilyaḥ 24 
+śāṇḍilyāyanastu jātisaṃhāram 25 
+dvātriṃśe tisro viṣṭutīḥ kuryāditi dhānaṃjayyaḥ 26 
+tāsāṃ paryāyakṛtiprayogau catuścatvāriṃśena vyākhyātau 27 
+apyaharbhāji prathamayaiveti śāṇḍilyaḥ 28
+iti drāhyāyaṇaśrautasūtre saptadaśe paṭale tṛtīyaḥ khaṇḍaḥ 3
+<17.4>
+catuṣṭomayoścatuṣparyāyāḥ 1 
+tatra catuṣke dvau prathamāyāṃ paryāyau syātāṃ yadi brahmāyatanīyāṃ kuryāt 2 
+madhyamāyāṃ kṣatrāyatanīyāṃ cet 3 
+tathāṣṭini 4 
+dvikāstu tasya paryāyāḥ 5 
+pūrvayoḥ pūrva uttarayoruttara evaṃ vihitāvaparāviti śāṇḍilyaḥ 6 
+pūrvayordvitīyaḥ pṛthakstotrīyāsvitara iti dhānaṃjayyaḥ 7 
+dvādaśe vyākhyātau prathamottamau 8 
+madhyamau dvikau 9 
+pūrvayoḥ pūrva uttarayoruttaraḥ 10 
+ṣoḍaśe catvāro dvādaśaparyāyāḥ 11 
+teṣāṃ madhyamau sadṛśau 12 
+caturviṃśe catvāraḥ ṣaṭkāḥ paryāyā dvikā viṣṭāvāḥ 13 
+pṛthaktṛceṣu tu catustṛce 14 
+dvayordvayorvā dvaidham 15 
+yajñāyajñīyasyarkṣu vā prathamaḥ prathamās ca 16 
+yajñāyajñīyaprathamāyāṃ dvitīyaḥ sākamaścarkṣu paramadhyamayośca 17 
+pūrvamadhyamayostṛtīyo hārivarṇarkṣu tairaścyottamāyāṃ ca 18 
+pūrvottamāsu caturthastairaścyarkṣu ca 19 
+upottamo vā dvikaviṣṭāvo'śvamedhe'ṣṭādaśāditare 20 
+pañcadaśasya paryāyau pūrvāvekaviṃśasyottarāviti vottarāviti 21
+iti drāhyāyaṇaśrautasūtre saptadaśe paṭale caturthaḥ khaṇḍaḥ 4
+<18>
+<18.1>
+chandodaivatasāmāntayogānyāḥ yyān bruvate yathā ṣoḍaśimato'tirātrasya jyotiṣṭomasya 1 
+ukthottame'nuṣṭabho nyāyyāḥ 2 
+vicchandasastu vacanāt 3 
+yaddevatyāsu stuvate sā stotradevatā 4 
+anvadhyāyamapavādaniśāmanam 5 
+svārāṇi hāikārasvārāṇi padānusvārāṇi ca 6 
+tebhyo'nyānyaiḍavāṅnidhanebhyaśca nidhanavanti 7 
+sarveṣāṃ tulyāntasaṃnipāte jāmi 8 
+vāco'nyatra 9 
+tanna kuryādanādeśe 10 
+daśarātrāt ṣāḍahikānyaṣṭamanavamayoścaitānyahīnatantrāṇi 11 
+jyotiṣaśca goścaikāhike tantre 12 
+tayoḥ samāsa ubhayaphalakam 13 
+kalpasaprāyāṇi ṛksāmāni yatra samavayanti tadāśīstantraṃ yadābhicaraṇīyeṣu 14 
+bhūyiṣṭhaṃ tantralakṣaṇam 15 
+uttarayoḥ savanamukhīye gāyatrāviti śauci vṛkṣiḥ 16 
+madhyaṃdinīyā tvācāryāṇām 17 
+dvirātraprabhṛtiṣvahīneṣu prāk ṣaḍahebhyo'ntyamantyamekāhikamiti rāṇāyanīputraḥ 18 
+sarvāṇyāhīnikānīti vaiyyāghrapadyaḥ 16 
+ahīnaikāhasamāsaṃ tu lāmakāyanaḥ 20
+iti drāhyāyaṇaśrautasūtre aṣṭādaśe paṭale prathamaḥ khaṇḍaḥ 1
+<18.2>
+atha sāmnāṃ pañcadhākāraḥ 1 
+prastāvodgīthau pratihāropadravau nidhanamantaḥ 2 
+tatsarve śrutisāmarthyāt 3 
+gāyatre tu vikalpaḥ sarve vodātā vā 4 
+saptadhākāramapyeke vacanāt 5 
+hiṃkāraḥ prastāvāt pūrvaḥ 6 
+udrīthādoṃkāraḥ 7 
+catuṣṭayāni sāmāni viṣamabhaktīni padasastobhastobhavibhāgyāni yathā pravadbhārgavaṃ mahāvaiśvāmitraṃ saumitram 8 
+avasānaṃ prastāvāntalakṣaṇamavibhāgyānām 6 
+dvyavasānaḥ pūrve vāravantīye 10 
+pūrveṇa vā 11 
+caturakṣaro vājabhṛtkārṇaśravasājigānām 12 
+surūpayośca 13 
+padaṃ vājigaprabhutīnāma 14 
+eḍe'rdhaṃ sākamaśve 15 
+śaukte ca 16 
+stobhānta ābhīśavayoḥ 17 
+abhyastenottarasya 18 
+hāukārāntaścyāvane 16 
+vāgvāmre 20 
+ṣoḍaśākṣaro nānadasya 21 
+tathā gośṛṅgasaṃjayayoḥ 22 
+yacca rātryāṃ daivodāsam 23 
+ṣaṭtriṃśadakṣara ṛṣabhasya raivatasya 24 
+sarveṣāmoṅkāreṇodgīthādānam 25 
+prathamākṣaralopaṃ tu dhānaṃjayyo'lopaṃ śāṇḍilyaḥ 26
+iti drāhyāyaṇaśrautasūtre aṣṭādaśe paṭale dvitīyaḥ khaṇḍaḥ 2
+<18.3>
+prastutaṃ vai sāmāvasīdati tadudgātoṅkāreṇottabhnātīti brāhmaṇam 1 
+svarādiṣu vā tameva svaramoṅkārīkuryādāgantumoṅkāraṃ vyañjanādiṣu 2 
+pratyavetasvareṣu 3 
+pratyakṣaparokṣipraciranyastoḍhāttakṛṣṭākṛṣṭānāṃ yena saṃsvarettatkuryāt 4 
+sarvaṃ tu laghīyasā'mātrālopana 5 
+padādiḥ pratihārasthānaṃ sarvatra 6 
+padānirdeśe cottame pade 7 
+saṃkhyāviṣaye cākṣarādhikāraḥ 8 
+antaḥpratihāraṃ stobhān pratihartā brūyāt 6 
+ūrdhvaṃ cārcikāvyapetān 10 
+aṣṭākṣarapadottamānāṃ catvāryanyatra paṅktibhyaḥ 11 
+tasminnyāyyasaṃjñā 12 
+padāntamaviśeṣe copottamātpadātpratīyāt 13 
+eṣa nyāyo'nādeśe 14 
+saumedhasyaurṇāyavayorṛṣabhasya pāvamānasya nidhanasya mārgīyavasyaiteṣāmupariṣṭātpratihārasyodgātā stobhaṃ bhajate 15 
+nyāyyapratihārāṇāmiḍānāṃ saṃkṣārāśvasūktaiḍasvaravārṣāharasvārakautsānāṃ gorāṅgirasasya sāmno'bhyāsavataśca krauñcasyāgnimīyāmasyaiteṣāṃ purastāt pratihartā 16 
+saṃhitamārṣarbhaṃ śākalaṃ vājadāvaryaḥ svāraṃ saumitraṃ padanidhane kāṇvarohitakūlīye 17
+iti drāhyāyaṇaśrautasūtre aṣṭādaśe paṭale tṛtīyaḥ khaṇḍaḥ 3
+<18.4>
+yauktāśve sauparṇānāmuttare yaudhājayaṃ naudhasamāṣkāranidhanaṃ kāṇvaṃ yauktasrucaṃ vāmraṃ tīraścīnidhanamāyāsyamindrasyayaśo vaiṣṇavamuttaraṃ saphaṃ pramaṃhiṣṭhīyaṃ dīrghaṃ pauṣkalamāndhīgavaṃ bṛhadāgneyaṃ śyāvāśvatraiśoke teṣāṃ dve 1 
+purastātstobho yauktāśvayoḥ pūrvasya 2 
+śyāvāśvatraiśokayoḥ padāntaḥ 3 
+astobhastu śyāvāśvasya 4 
+padānto vāmre nyāyyo vā 5 
+oṃkārādistṛtīyacaturthābhyāṃ viśoviśīye 6 
+hiṃkārādirvā pañcamaṣaṣṭhābhyām 7 
+śauktanārmedhe dvipratihāre 8 
+prathamanavamābhyāṃ śauktasya 9 
+padāntaścaturbhiḥ pūrvo nārmedhasya caturbhireva madhyamairuttaraḥ 10 
+ekapratihāraṃ vottareṇa 11 
+bhāsavairūpayorgāyatrīsāmnoḥ padāntaḥ 12 
+dvābhyāṃ bhāse 13 
+caturbhiruttarasya 14 
+tṛtīyena padena yajñāyajñīyanidhane sauhaviṣe 15 
+śrāyantīyavaruṇasāmadvaigatāñjasā daśa 16 
+teṣāṃ pūrvayoḥ sarvaṃ padaṃ dve ca punaruktasya 17 
+dvaigate tu padāntaḥ 18 
+upottamasya padasya padādirañjasaḥ 19 
+viśoviśīyaprabhṛtīnāṃ vā navānāmuttamasya padasyādau dve 20 
+hāikārānto viśoviśīye 21 
+śrāyantīyavaruṇasāmnorabhyāsādiḥ 22 
+catvāri vā prāgghiṃkārāt prāgghiṃkārāt 23
+iti drāhyāyaṇaśrautasūtre aṣṭādaśe paṭale caturthaḥ khaṇḍaḥ 4
+iti drāhyāyaṇaśrautasūtre ṣaṣṭhaḥ prapāṭhakaḥ samāptaḥ 6
+<19>
+<19.1>
+vāmadevyaṃ svāraṃ sākamaśvaṃ pāṣṭhauhaṃ nidhanakāmaṃ satrāsāhīyaṃ kākṣīvataṃ cyāvanaṃ gāyatrīsāmauśanaṃ nidhanavadaidhmavāham teṣāṃ pañcamaṣaṣṭhe vikalpyete nyāyyena 1 
+gūrdaḥ saumedhaṃ mādhucchandasamaudalaṃ sauśravasamuttaraṃ vārtraturamṛṣabho raivataḥ kautsamauṣṇihamātīṣādīyaṃ krośamokonidhanaṃ svāraṃ sāmarājaṃ mārutamauṣṇihamākṣāraṃ sujñānaṃ hārivarṇaṃ sāṃvarttaṃ jāgataṃ varuṇasāma marutāṃdhenu sraugmatam | teṣāṃ catvāri 2 
+abhyāso gūrdasya 3 
+abhyāsādiruttareṣāṃ trayāṇām 4 
+uttamāni sauśravase 5 
+aṣṭau vā vārtrature 6 
+pūrvayośca nyāyyau 7 
+madhyamaṃ vacanamṛṣabhe 8 
+madhyamānyuttareṣāṃ pañcānām 9 
+prāgvābhyāsāduttamāni kautse 10 
+prathamāni vā sāmarājasya purastātstobhaḥ 11 
+ṣaḍvā pañcamaprabhṛtīni mārate 12 
+āśvarathantarayoḥ pañca 13 
+vaidanvate cābhyāsavati 14 
+uttame tu padāntastasya 15 
+ādau vā dve ubhayataḥstome 16 
+tṛtīyaṃ vā 17 
+ubhau vaikaḥ 18
+iti drāhyāyaṇaśrautasūtre ekonaviṃśe paṭale prathamaḥ khaṇḍaḥ 1
+<19.2>
+ākūpārakrauñce gāyatrīsāmanī daivātithaṃ gauṣūktaṃ rauravaṃ dvihiṃkāraṃ vāmadevyamekārāntaḥprastāvaṃ vaiyaśvamaraṇyegeyaṃ śākvaravarṇaṃ saubharaṃ bārhadgirarāyovājīye svāramaidhmavāhaṃ gauśṛṅgaṃ hārāyaṇakaulmalabarhiṣe janitramuttaraṃ vaitahavyamihavadvāmadevyaṃ pratīcīneḍaṃ kāśītaṃ vaiṣṇavaṃ pūrvaṃ śyaitaṃ saṃjayam | teṣāṃ ṣaṭ 1 
+astobhāvuttamayoḥ 2 
+prathamatṛtīyayorubhayataḥstobhau 3 
+prāgaukārātprathame 4 
+hiṃkārāttṛtīye 5 
+apratihāre pūrve stotrīye śākvaravarṇasya 6 
+ihakārānta aidhmavāhe stobhaḥ 7 
+sarvo vā 8 
+prāgovāyāstriṣūttareṣu 6 
+paurumadge ca 10 
+okārājjanitre 11 
+saha vauvayā paurumadge 12 
+gauśṛṅgahārāyaṇakaulmalabarhiṣavaitahavyānāṃ vā padāntaḥ 13 
+dvābhyāṃ pūrvayoścaturuttarayoḥ 14 
+purastātstobhaḥ kaulmalabarhiṣasya 15
+iti drāhyāyaṇaśrautasūtre ekonaviṃśe paṭale dvitīyaḥ khaṇḍaḥ
+<19.3>
+sapta vāravantīye pūrvasmin | teṣāṃ trīṇi padānte 1 
+kārṣaśravasaṃ traitaṃ pajraṃ tauraśravasamuttaraṃ śrudhyamudvaṃśaputraḥ śākvaram | teṣāmaṣṭau 2 
+pajratauraśravasayorarddhāni padānte 3 
+śrudhyasya ca kakupsu 4 
+tasya gāyatrīṣu catvāri 5 
+ṣoḍaśa bṛhatīṣu 6 
+nadaṃ va odatīnāmiti daśa 7 
+madhyamasya padasyābhyāsaḥ śākcare 8 
+nyāyyo vā 6 
+vāyorabhikrandaḥ svāraṃ kāvamaurukṣayamauśanaśyāvāśve traiṣṭubhe śnauṣṭaṃ jāgataṃ somasāma kārtayaśaṃ svāraṃ payonidhanamṛṣabhaḥ śākvaro yaṇvāpatye | teṣāmuttamaṃ padam 10 
+purastātstobhā uttamānāṃ trayāṇām 11 
+apratihārā prathamā stotrīyā yaṇvāpatyayoḥ 12 
+pañcānāṃ vādita uttame pade catvāri 13 
+vaikhānasaṃ pauruhanmanamudvaṃśīyamāṣkāraṇidhanaṃ tvāṣṭrīsāma | teṣāmuttamaṃ padaṃ prāgabhyāsāt 14 
+abhyāse vā catvāryuttarayoḥ 15
+iti drāhyāyaṇaśrautasūtre ekonaviṃśe paṭale tṛtīyaḥ khaṇḍaḥ 3
+<19.4>
+śāktyasāma maidhātithaṃ vāravantīyamuttaramābhīśave simānāṃ niṣedhastriṇidhane tvāṣṭrīsāmāyāsye dārḍhacyutamātharvaṇaṃ revatya aiṭatamagnestriṇidhanamutsedhaniṣedhāvaiḍaṃ sākamaśvaṃ dairghaśravasaṃ dāśaspatyaṃ grāmegeyaśyenaḥ | tāni dvipratihārāṇi 1 
+madhyamayoḥ padayoḥ śāktyasāmamaidhātithayoḥ padānto dvābhyām 2 
+caturbhirvā 3 
+ihāhe vāravantīye 4 
+saptabhirvekapratihāraṃ prāgihāhāyāḥ 5 
+ukārādirvaikena padāntaḥ 6 
+nyāyyo vā 7 
+pūrvayośca 8 
+vāravantīyasya dvipadāsu saptānāṃ sthāne catvāri 9 
+dve caturṇām 10 
+dve ekamityekapadāyām 11 
+uttarayoḥ padayoruttareṣām 12 
+dve dve tu ṣaṇṇāmābhīśava prabhṛtīnām 13 
+catvāri vā simānāṃ niṣedhasya tvāṣṭrīsāmnaśca 14 
+purastātstobhā vātharvaṇasya 15 
+tatprabhṛtīnāṃ catvāri 16 
+aṣṭau vā dāśaspatye 17 
+pūrve vottareṇaikapratihāre 18 
+tṛtīyapañcamābhyāṃ padābhyāṃ śyene 19 
+caturthaṣaṣṭhayorvā padayordve padayordve 20
+iti drāhyāyaṇaśrautasūtre ekonaviṃśe paṭale caturthaḥ khaṇḍaḥ 4
+<20>
+<20.1>
+pṛthakstotrīyāsu pratihārāḥ saṃtaninaḥ 1 
+trayastraya ūdhaḥsu mahānāmnīnām 2 
+tān pratitodā ityācakṣate 3 
+tathā svarāśca nityavatsātīṣaṅgayoḥ 4 
+dve dve tu sarveṣām 5 
+ṣaḍvā saṃtanivarjam 6 
+śākvarottameṣu mahānāmnīnām 7 
+ṣaṣṭhamadhyāyeṣu 8 
+āndhāsvaraṃ madhyamaṃ vacanaṃ stautrikaṃ purīṣeṣu 6 
+apratihārāṇyadhyāsaparīṣapadānyācāryāḥ 10 
+tāsāṃ prathamadvitīye pade dvipadā 11 
+trīṇi śākvarāṇi 12 
+dhāturvatsa ūdhaḥ 13 
+tacchākvaram 14 
+puruṣastrīṇi śākvarāṇyadhyāsyā 15 
+iti padāni 16 
+uttamā tu dvyadhyāsā 17 
+dvipadāsu prastāvaḥ śākvaraprathameṣvadhyāsapurīṣapadeṣu ca 18 
+bhāsenoktaḥ padānto yajñāyajñīye devasthāne vairūpeṇa 16 
+araṇyegeyaḥ śyenaḥ pārthuraśmācchidrarayiṣṭhe | teṣāmuttareṣu padeṣu 20 
+dve dve pūrvayoḥ 21 
+catvāri catvāryuttarayoḥ 22 
+ubhayataḥ stobhāḥ pārthuraśmasya 23 
+devatāpadaṃ devatāpadamiti vairūpe nidhanāni 24 
+prākśiśumatyāḥ stobhaiḥ pratihāraḥ 25 
+ekādaśamaiḍe daivodāse 26 
+saptamāṣṭamābhyāṃ traikakubhasya 27 
+navamadaśamābhyāṃ vaiśvamanasasya 28 
+tathā vṛṣṇaḥ 29 
+triruktābhyāṃ tu tasyābhyāsādyaiḥ 30 
+sadṛśagītiṣu sarveṣu pṛthakpṛthakpadāni vibhajeran | pratyantādanādeśe | śeṣamudgātā tāni vibhāgyāni 31 
+traiṣṭubhajāgatānyanādiṣṭāni 32 
+bahvakṣarastobhādīni ca rahasyeṣu 33 
+yathā vasiṣṭhasya vairājaṃ vaṣaṭkāraṇidhanamāṣṭādaṃṣṭre mahāvaiśvamitraṃ saumitraṃ svarṇidhanaṃ daivodāsamaiḍaṃ vaidanvataṃ plavaḥ parītoyonīni krauñcaṃ tvāṣṭrīsāmāni svāraṃvāṅnidhanānyabhyāsavadākūpāram 34 
+ādyantasrubdheṣu padāya padāya stobhet | yo yaḥ padaṃ brūyāttathānupadaṃ stubdheṣu 35
+iti drāhyāyaṇaśrautasūtre viṃśe paṭale prathamaḥ khaṇḍaḥ 1
+<20.2>
+ūrvaṃ. tu prathamātpadātsaṃkṛtinaḥ 1 
+prākcaturthātpadātstobhaiḥ pratihāraḥ 2 
+nidhanāni padānyupāyasadṛśāḥ stobhāntā yeṣāṃ tāni stobha vibhāgyāni 3 
+tatra tṛtīyāyaiva padāya pratihartā stobhet 4 
+upāyavantaḥ stobhā ekavṛṣasya 5 
+devatāsu carṣabhasya śākvarasya 6 
+tāsāṃ nānāstobheyuḥ 7 
+sadevate pade prastāvapratihārau vibhāgyaścet 5 
+gāyatrīsāmasu vibhāgyeṣūttame vyāvarga śiṣṭvā pratiharediti dhānaṃjayyaḥ 6 
+sarveṇaiva padeneti śāṇḍilyāyanaḥ 10 
+triruktān stobhāñchukriyeṣu caturbrūyuranyatra nidhanebhyaḥ 11 
+mahādivākīrtyasya prāstāvike devate vipariharet 12 
+evaṃ jyotiṣprāyaṇaṃ jyotirudayanaṃ bhaviṣyatīti 13 
+tatrātmā stobhavibhāgyaḥ 14 
+prathamāyaivānugānāya prastotā prastuyādātmane ca 15 
+itarāṇyanugānānyudgātaiva sarvāṇi būyāt 16 
+teṣāṃ nidhaneṣvenamanūpeyātām 17 
+uttamāni vā trīṇyanugānāni pratyāhṛtyetareḥ sahātmapadebhyaḥ stobhadharmeṇānusaṃhareyuḥ 18 
+yāni prāgātmana ādau tāni sakṛdyānyūrdhvamantatastāni sakṛdātmanaiva stomaṃ pūrayedityaparam 19 
+paryāyādyanteṣu 20 
+viṣṭāvānāṃ vā 21 
+bhāsanidhane daśamasya padasyopāyamudgātaiva brūyāt 22 
+sarvāṇi rājane triruktāni pañcakṛtvo brūyuḥ 23 
+tasyānupadaṃ stobhāḥ 24 
+padena prastāvaḥ 25 
+tṛtīyena padena purastātstobhena pratihāraḥ 26 
+vibhāgyaṃ vā 27 
+tatra devatābhyo yadyanantaraṃ pūrvaṃ padaṃ tena sahaitā brūyuḥ 28 
+vyavastobhetpadadaivatamityeke 26 
+nidhanāni padāni padastobheṣu tathaiveḍāḥ 30 
+tebhyo nānā stobheyuḥ 31 
+tribhyaḥ prathamebhyaḥ prastotā tribhya eva saptamaprabhṛtibhyaḥ pratihartā 32 
+arddhaṃ padaṃ nidhanamiḍāvyaveteṣu 33 
+sarvamavyapeteṣu 34 
+caturthasya prathamaḥ pādastryakṣarāṇi catvāri nidhanāni 35 
+tathā tṛtīyaḥ 36 
+dvitīyottamau vā dvaidhaṃ caturakṣaraśa itarau 37 
+avibhāgyāścedaṣṭamena stobhena prathamasya 38 
+navamena pareṣām 36 
+daśamena vāntyasya 40 
+sarveṣāṃ prathamena prastāvaḥ 41
+iti drāhyāyaṇaśrautasūtre viṃśe paṭale dvitīyaḥ khaṇḍaḥ 2
+<20.3>
+ilāndasyottame'nugāne ṣaṭ 1 
+vibhāgyānītarāṇi 2 
+prathamaṃ vā vibhāgyam 3 
+tatrottamasya stobhasya madhyamena vacanena 4 
+ekādaśa dairghatamasasya 5 
+aṣṭamaiḥ stobhaistriruktairbhadraśreyasoḥ 6 
+pañcamaiśca yadi dvipratihāre 7 
+pañcākṣaraśaḥ stobhavibhāgye dharmavidharmaṇī 8 
+dvipadākāraṃ vā 6 
+tayordaśamaiḥ stobhaiḥ pratihāraḥ 10 
+ṣaṣṭhaiśca yadi dvipratihāre 11 
+padānte trīṇi sauhaviṣe 12 
+padādau vā 13 
+madhyamaṃ vacanaṃ svarṇidhane sauhaviṣe 14 
+vibhāgyaṃ vā 15 
+madhyamameva vacanaṃ purastātstobhaṃ vairājasya 16 
+tasya padāntāṃścaturvābhyasyeyuḥ 17 
+tathā cāturthikasya vātsaprasya 18 
+samādhiṃ tu 30 
+ṛgādimupariṣṭāllāmakāyanaḥ 20 
+stobhaṃ śāṇḍilyaḥ 21 
+traikakubhe ca padādiḥ 22 
+avibhāgyānāmuttame pade prāgupāyāt ṣaṭsu vyāvargavatsvaṣṭasu vā yathā vāmadevyakrośayoḥ pūrveṇa vyāvargeṇa pratiharediti śāṇḍilya uttareṇeti dhānaṃjayyaḥ 23 
+prātihārikameva gītaṃ pratihāro vaicchandaseṣu 24 
+apyapadādau 25 
+nordhvaṃ pratihārādoṃkāreṇādadīteti gautamaḥ 26 
+pratyaveta svarāṇāṃ tu pratyudgṛhṇīyāt | yathā kāleyavātsagurddānām 27 
+nakāriṇām | mayo vā | varo vā 28 
+oṃkāreṇa pratyavetasvarāṇāmādadīteti dhānaṃjayyaḥ 26 
+yathāmnāyaṃ śāṇḍilyaḥ 30 
+ihakāra iḍāthakārau gītaṃ ca nidhanasvaraṃ hīṣīsvaraṃ ca dvyakṣaraṃ devatāścāraṇyegeyeṣu tānyantaḥsāmanidhanāni 31 
+vāk cet stobhānto'nantaraḥ purastādvṛddhaḥ kruṣṭo vākāraḥ svaritaṃ vārcikaṃ vā vṛddhaṃ pūrveṣāṃ trayāṇām 32 
+yathā devatyastvāṣṭrīsāma yaudhājayaṃ dārḍhacyutamātharvaṇamāndhīgavama 33 
+tebhyo yannigadavartyanantaramārcikaṃ tena sahopeyuranādeśaḥ 34 
+ihakārādimiḍāṃ sarva upeyuḥ 35 
+tāni pratīcīneḍāni 36 
+ikāraṃ tvanyāsu gautamaḥ 37 
+iḍeti dhānaṃjayyaḥ 38 
+ikārāntaṃ caivopāyaṃ saṃpragātheṣu saṃpragāyanti kutsāḥ 36 
+evaṃ naḥ kṛtsneḍopetā bhaviṣyatīti 40 
+pratyudgītastu khalveṣāṃ tathodgātā bhavati 41 
+kṛtsnāmeke samayāmnāyābhyām 42 
+purīṣapadaśeṣāṇi nidhanānyācāryāḥ svaritāntāni yathādhītaṃ vā 43
+iti drāhyāyaṇaśrautasūtre viṃśe paṭale tṛtīyaḥ khaṇḍaḥ 3
+<20.4>
+trirātreṣu ca yaudhājayasyaikākṣarāṇi nidhanāni 1 
+pragātheṣu bṛhadrathantarayoryajñāyajñīyasya cānādeśe kakubhāvuttare 2 
+tayordvyakṣaraḥ prastāvaḥ sarvatra 3 
+tṛceṣvakṣarasaṃyogena 4 
+prathamāyā uttamamakṣaraṃ madhyamāyāśca prathamam 5 
+evamevāparayordvitīyottamayoḥ 6 
+prastāvapratihāranidhanānāmakṣaraparimāṇaṃ yathāyoni cikīrṣedvaicchandaseṣvanādeśe 7 
+yasyārcikamudāttānudāttaṃ tadṛgūḍhamatha yasya sāmikaṃ tat sāmoḍham 8 
+yathā pauṣkalasyottarayoryathāvide | samapsujīditi dhānaṃjayyastadṛgūḍham | yathāvide | samapsujīditi śāṇḍilyastatsāmoḍham ūnākṣareṣu pādeṣvakṣaropadhiṃ śāṇḍilyaḥ 10 
+yathāgnistriṇidhanasya ānūpego | māngobhirā uvā | ākṣāḥ | somośdūgdhā | bhirā uvā| ākṣāḥ || tadakṣarasadhātu anupadhiṃ dhānaṃjayyaḥ | ānūpego | māngobhira uvā| ākṣāḥ | somodūgdhā || bhirā uvā| ākṣāḥ | tatpadasadhātu 12 
+pāṅktasyānuṣṭupsu dvitīyaṃ padaṃ dvaidhaṃ vyūheccaturakṣaraśo yatharṣabhasya śākvarasya 13 
+tṛtīyaṃ bṛhatīṣvaṣṭākṣaraṃ caturakṣaraṃ ca yathā saṃkṛtinaḥ 14 
+simā bṛhatyanuṣṭapsu yathāpadaṃ vyūhet 15 
+sa hi ṛgdharmaḥ 16 
+saptadhetyācāryāḥ 17 
+sapta hi śākvarāṇi 18 
+upakṣudrā iti cāha 16 
+tāsāṃ dvitīyaṃ padaṃ dve dve kṛtvā catvāryūdhaḥ 20 
+aṣṭau catvārīti tṛtīyam 21 
+catvāryaṣṭāviti vā 22 
+samadhānuṣṭupsu 23 
+yathāsthānamaśākvarāṇi 24 
+yonau yānyabhyāsenānyacchandaḥ saṃpadyante yathā gaurīvitaudalakautsatraikakubhavaikhānasāni tadāpanneṣu teṣu gautamasārdāgavāvanabhyāsam 25 
+maśako gārgyo'bhyāsaṃ maśako gārgyo'bhyāsam 26
+iti drāhyāyaṇaśrautasūtre viṃśe paṭale caturthaḥ khaṇḍaḥ 4
+<21>
+<21.1>
+upāsthāneṣvanyāni nidhanāni 1 
+svarānādeśe tathā svarāṇi syuḥ 2 
+iḍāścānādeśe 3 
+ubityarddheḍā 4 
+prakṛtisvarā prathamasvarā vā 5 
+adhyarddhā tvadhyarddhopānām 6 
+autpattikaḥ svaraḥ svaḥ kāśīte 7 
+devodāsasujñānayośca 8 
+svaḥ pṛṣṭhe ca pūrvaḥ 9 
+uttara iti gautamadhānaṃjayyau 10 
+aupagavayorathāmathā vā 11 
+kāmaṃ tu nānā 12 
+abhicaraṇīyeṣu vā mathāthānyatra 13 
+jāgatasya somasāmna indra iva dasyūramṛṇāḥ | sūrya iva dasyūramṛṇāḥ | vajrin suvajrin 14 
+dvirvāvasyet 15 
+indra iva dasyūramṛṇāḥ | sūrya iva dasyūramṛṇāḥ | vajrin suvajrin | indra iva dasyūramṛṇāḥ | sūrya iva dasyūramaṇo vajrin suvajrinniti vā 16 
+sakṛccāntataḥ indra iva dasyūramaṇaḥ sūrya iva dasyūvamṛṇo vajrin suvajrin 17 
+yathā vāyobhastrāyāṃ nihanyamānāyāṃ hrādaḥ syāt 18 
+yathā vāyasī samṛccheyātām 19 
+yathā vā niṣkaḥ kṛntatreṇābhihato dhvanet 20 
+yathā vā sanūpurapādasya nighātaḥ syāt 21 
+gaṇṇiti vā 22 
+yathā vāpsu pippalaṃ nipatet 23 
+plugiti vā 24 
+plaugiti vā 25 
+sahobhīriti vā 26 
+kārtayaśe ca trayo vikalpāḥ 27 
+dayitnave ham | dayitnave ham | dayitnave ham 28 
+evamevottarasminnidhane 29 
+gāyatrasya pādena prastāvaḥ sarvatra 30 
+aṣṭākṣareṇeti dhānaṃjayyaḥ 31 
+tathā purāṇaṃ tāṇḍam 32 
+tasya nidarśanārthaṃ gānaṃ gāyatrīṣu 33 
+upāsmai gāyatā naromiti dhānaṃjayyaḥ 34 
+upāsmai gāyatā naro iti śāṇḍilyaḥ 35 
+upāsmai gāyatā narā ityeke 36 
+śeṣamudgātā 37 
+manasā tu svabhaktimoṃkāra tathā svaraṃ vācā 38 
+sarve vā nidhananyāyāt 39
+iti drāhyāyaṇaśrautasūtre ekaviṃśe paṭale prathamaḥ khaṇḍaḥ 1
+<21.2>
+pavamānāyendāvā ityekāvṛt 1 
+abhidevāṃ iyā ityaparā 2 
+kṣātā ityaparā 3 
+pūrvā vā vargāvavanardyāviti dhānaṃjayyaḥ 4 
+madhyamāyāmāvṛti dvau stobhau kuryāttāvavanardyāviti gautamaḥ 5 
+abhidevāṃ iyā 6 
+sarvatraukārāvityeke stobhadharmatvāt 7 
+yamarcamācāryāstathark saliṅgadṛṣṭāntāt 8 
+stobhānaikāntyācca 6 
+jyāyasi cchandasi prathamāyāmāvṛtyāvapeduttamaṃ pādaṃ śiṣṭvā 10 
+aṣṭākṣaramiti dhānaṃjayyaḥ 11 
+ūrvaṃvṛ retasyāyā dvyakṣaraṃ śiṣṭvā hiṃkāraṃ brūyāt hiṃ ā iti 12 
+taṃ retasyāyāṃ pratihartā manasā dhyāyenna parāsviti gautamaḥ 13 
+parāsveveti dhānaṃjayyaśāṇḍilyau 14 
+rathantaravarṇāyākṣarāṇyabhiṣṭobhet 15 
+bhā'3bhā'3 
+iti śāṇḍilyaḥ 16 
+bha bha iti dhānaṃjayyaḥ 17 
+tryakṣaraṃ cābhiṣṭobhet 18 
+prathamaṃ hyakṣaraṃ luptamiti 16 
+him iti hiṃkāraḥ 20 
+dvādaśākṣarāṇyabhiṣṭobhedanuṣṭubhi 21 
+sarvatra catvārīti śāṇḍilyaḥ 22 
+yatharccaṃ cāntaṃ brūyāt kṣātā ivāyū iti 23 
+svārāṇyājyānīti stutvā nidhanavateti ca nānātvacodanāt 24 
+padānusvārameke stobhāśruteḥ 25 
+bahiḥsvāraṃ vā prāṇasāmānyāt bārhataṃ hīti 26 
+ākāraṃ tvācāryāḥ smṛteḥ 27 
+gāyatraṃ nidhanavadanidhanamaiḍaṃ gāyatraṃ purastāt bhavati svāramantataḥ iti nānātvadarśanāt 28 
+svārāṇīti svaritatvāt svaratvādvā tasya svarapradhānatvādvā gāyatrasya 26 
+same ca bhaktinānātve 30 
+taṃ dīrgham 31 
+avasvarediti dhānaṃjayyaḥ 32 
+kṣātā o'3 
+iti gautamaḥ 33 
+kṣāto vā ityeke 34
+iti drāhyāyaṇaśrautasūtre ekaviṃśe paṭale dvitīyaḥ khaṇḍaḥ
+<21.3>
+kāmyānāṃ nidhanānāṃ kiṃciccikīrṣannuttamasya dvyakṣarasya sthāne kuryāditi śāṇḍilyaḥ 1 
+abhidevāṃ iyakṣatāi iti vā sarvāmṛcaṃ samāpya 2 
+avikāreṇa sarvaṃ gītveti dhānaṃjayyaḥ 3 
+tānyākārasthāneṣu syurnidhanatvena hi codyante 4 
+kṛtalakṣaṇacodanāccautpattikasvarāṇi 5 
+ekākṣaraṃ ṣṭhāsvaraṃ dvyakṣaraṃ hīṣīsvaramiti vā nyāyāt 6 
+kṛtasvaraṃ tu nidhanaṃ tasya codyate varṇavikāraḥ 7 
+yathā rathantarasya gāyatryaḥ 8 
+tāni sarvatra syuranārabhyotpattikatvādgāyatrasya 6 
+bahiṣpavamāna ityeke 10 
+taddhi vikārā nātikrāmanti | yathā retasyārathantaravarṇayordhurāṃ ca sāmāntāḥ iti 11 
+bahiṣpavamānasaṃyogastu teṣāṃ na kāmasaṃyogaḥ 12 
+gītivikārā gāyatrasya dhuraḥ 13 
+stotrīyānurūpayorjyotiṣṭomasyaivājyeṣu nānyatra 14 
+retasyāyāstrirudgṛhṇātīti brāhmaṇaṃ bhavati | pā'3vā'3mā'3 
+nāyendāvā3 
+15 
+gāyatryuttarā 16 
+tasyā dve tryakṣare saśayanī vyatiṣajatīti brāhmaṇaṃ bhavati 17 
+madhyamasya ca padasyottamamuttamasya ca prathamam 18 
+ātharvaṇo āśiśrāde'2yurvandevāyadā333iti 19 
+triṣṭabuttarā 20 
+tāṃ balavadivoraseva gāyantīti brāhmaṇaṃ bhavati | śā'3m | jā'3 
+| nā'3 
+| yaśamārvatā3 
+| śaṃ rājāno'3ṣā | dhā'33 
+21 
+tasyā dve uttamārddhe'kṣare dyotayatīti brāhmaṇaṃ bhavati 22 
+ye ūrdhvaṃ hiṃkārātte nirbrūyāditi gautamaḥ 23 
+ṣā dhā iti dhānaṃjayyaḥ 24 
+jagatyuttarā 25 
+tasyāścatvāri catvāryakṣarāṇi nikrīḍanniva gāyatryā dvādaśebhyo'kṣarebhya iti brāhmaṇaṃ bhavati 26 
+pāriṣṭobhāṃ'2tayākṛpā'2somāḥ śukrāḥ2gavā'222 
+27 
+tasyāścatvāryuttamārddhe'kṣarāṇi dyotayatīti brāhmaṇaṃ bhavati 28 
+dve purastāddhiṃkārāttathopariṣṭāditi gautamaḥ 29 
+stomāśśukrā iti dhānaṃjayyaḥ 30
+iti drāhyāyaṇaśrautasūtre ekaviṃśe paṭale tṛtīyaḥ khaṇḍaḥ 3
+<21.4>
+anuṣṭabuttarā 1 
+tānninarddanniva gāyatīti brāhmaṇaṃ bhavati | āvājaṃ vājyakramī'222t | sīdantovā'222 
+| nuṣā'222: 2 
+niruktāṃ cāniruktāṃ ca gāyeditīti brāhmaṇaṃ bhavati | samastadhurāṃ manyata iti gautamaḥ | triṣṭubjagatyorhyakṣarāṇi nirāheti 3 
+etasyā eveti dhānaṃjayyaśāṇḍilyau 4 
+tasyā dvitīyaṃ pādaṃ nirbrūyāt | tṛtīye cākṣare pañcamaṣaṣṭhe 5 
+paṅktiruttarā tasyā dve dve akṣare udāsaṃ gāyatryā ṣaḍbhyo'kṣarebhya iti brāhmaṇaṃ bhavati | saṃjagmāno dāivā kāvāi iti dhānaṃjayyaḥ 6 
+kāvā iti śāṇḍilyaḥ 7 
+saditi retasyāyā dhuro nidhanaṃ samiti gāyatryā svariti triṣṭubha iḍeti jagatyā vāgityanuṣṭubhaḥ 8 
+teṣāmukto nyāyaḥ kāmyaiḥ sāmāntairnidhanaiḥ 9 
+na tūrdhvaṃ bahiṣpavamānātsyuḥ 10 
+jagatīgāyatryau triṣṭabanuṣṭubhāviti pṛthagājyaprathamāsu gāyet 11 
+tatpurāṇaṃ yathājyagānam 12 
+gāyatrītriṣṭubhorvyatikramaṃ dhānaṃjayyaḥ 13 
+gāyatrīṃ maitrāvaruṇasyājyaprathamāyāṃ hoturitarā āditaḥ 14 
+tatpurāṇaṃ hoturājyagānam 15 
+triṣṭubha uttarāṃ gāyatrīṃ gītvā tasyā eva dvitīyāyāmṛcyānuṣṭubhaṃ gāyediti dhānaṃjayyo gāyediti dhānaṃjayyaḥ 16
+iti drāhyāyaṇaśrautasūtre ekaviṃśe paṭale caturthaḥ khaṇḍaḥ 4
+iti drāhyāyaṇaśrautasūtre saptamaḥ prapāṭhakaḥ samāptaḥ 7
+<22>
+<22.1>
+udagayanapūrvapakṣapuṇyāhasaṃnipāte yajñakālo'nādeśe 1 
+saṃkhyāmātre ca dakṣiṇā gāvaḥ 2 
+hiraṇyamiti jātarūpaṃ vidyāt 3 
+prathamāyāṃ pūrvapakṣasya dīkṣetaikāhebhyaḥ 4 
+dṛṣṭvā vā nakṣatrayogam 5 
+teṣāmekā dīkṣānādeśe tisraścatasro'parimitā vā 6 
+tisra upasadaḥ 7 
+jyotiṣṭomasyokthānāmuttare saubharanārmedhe'tirātra ukthyānta itarāṇīti gautamo vṛttigrahaṇāt 8 
+aniyogamitareṣāṃ dhānaṃjayyo viśeṣāmnānāta 6 
+sarveṣāṃ yathākāmīti śāṇḍilyastulyacodanāt 10 
+āṣṭādaṃṣṭrayorvikalpaḥ syāt 11 
+kāmyānukthyacchandoyogānatirātrasyamanyante saubharanārmedhapramāṇāḥ 12 
+vṛttistvanuṣṭubhāṃ rātryupāye na vidyate 13 
+dṛśyate cānyatra rātryupāyānnārmedhaṃ yathābhiplavasya pañcāhe 14 
+tasyānuṣṭubhaḥ stotrīyaḥ syādukthyānteṣu vaicchandaso'tirātreṣu | vṛttivibhāgāt 15 
+vaicchandasamevaike brāhmaṇoktatvāt 16 
+svatantrasya jyotiṣṭomasya saṃsthāvikalpā āgniṣṭomyamukthyatātirātramiti 17 
+tasyānatirātrasya dvādaśaśataṃ dakṣiṇāḥ 18 
+go āyuṣośca 19 
+viśvajidabhijidbhyāṃ yamābhyāṃ yajamānaḥ pūrvāparābhyāṃ yajeteti dhānaṃjayyaḥ 20 
+yugapaditi śāṇḍilyaḥ 21 
+abhijito dakṣiṇaṃ devayajanaṃ syādviśvajita uttaram 22 
+tatprati patrīśālā syāt 23 
+nānartvijaḥ 24 
+yaccāntarvedi karma 25 
+atha yadbahirvedyekaṃ tat 26 
+abhijitaḥ pūrvaṃ pūrvaṃ karma saṃtiṣṭheta viśvajita uttaram 27 
+tayoḥ pṛthak sahasre dakṣiṇāḥ 28 
+kāmaṃ tu yamābhyāṃ yajeta 26 
+sahasramabhijiti dakṣiṇāḥ 30
+iti drāhyāyaṇaśrautasūtre dvāviṃśe paṭale prathamaḥ khaṇḍaḥ 1
+<22.2>
+tasyāvabhṛthādudetya rohiṇīṃ vatsacchaviṃ paridhāya dharmān kuryāt 1 
+ta uktā brāhmaṇena 2 
+araṇye tisro vasatītyudumbare vasediti 3 
+udumbarābhāve'pyudumbaraśākhāṃ nikhaneyuḥ 4 
+khanitreṇa jīvatīti yattatra khānyaṃ syāttena jīvet 5 
+khānyābhāve dhānyapātrāṇi nikhāya tairutkhānaṃ jīvet 6 
+ubhayataḥkṣṇudabhrirbhavatīti vaiṇavī kālmāṣīti śāṇḍilyo yākācaneti dhānaṃjayyaḥ 7 
+niṣādeṣu tisro vasatīti pārśvato niṣādagrāmasya vaset 8 
+teṣāṃ kāmamāraṇyaṃ bhuñjīta nīvāraṃ śyāmākaṃ mārgaṃ vā māṃsam 6 
+jane tisro vasatīti rājanyabandhurjano brāhmaṇaḥ samānajana iti śāṇḍilyaḥ 10 
+vivāhyo janaḥ sagotraḥ samānajanaḥ iti dhānaṃjayyaḥ 11 
+prativeśyo jano janapado yatra vaset sa samānajana iti śāṇḍilyāyanaḥ 12 
+eta dharmāḥ sarvavedasa dakṣiṇānāṃ sarveṣām 13 
+vratavatsu sarveṣvamāvāsyāyāṃ dīkṣitvokhāmābadhnīta sāṃvatsarikebhyo'nyatreti gautamaḥ 14 
+saha sutyābhiḥ ṣaḍahāni saṃvatsarādadhikāni kṛtvottiṣṭheyuḥ 15 
+asamāpte vā saṃvatsare rātrisatreṣu rājānaṃ krīṇīyuḥ 16 
+yathā jāti tu prathame pañcadaśarātre dīkṣeran 17 
+sarvatra vā yathājātyanyatra cedupetamiti śāṇḍilyaḥ 18 
+anupetaṃ cedapīti dhānaṃjayyaḥ 16 
+tisra upasado vratasyaikāhikasya gautamīyena ṣaḍvā dvādaśa vā 20 
+tatra brahmaṇe'śvarathaṃ śataṃ ca dadyāt 21 
+tathāgniṃ cinvate'dhvaryave 22 
+pṛṣṭhena ca stuvānāyodgātre 23 
+taccānuśaṃsate hotre 24 
+sarvebhyaśca sahasram 25 
+sarvavedasadakṣiṇaṃ vā 26 
+itaracchāṇḍilam 27 
+sarve sāhasrāḥ pṛthaksahasradakṣiṇāḥ 28
+iti drāhyāyaṇaśrautasūtre dvāviṃśe paṭale dvitīyaḥ khaṇḍaḥ 2
+<22.3>
+sādyaskreṇa yakṣyamāṇo mahārātre prātarāhutiṃ hutvācakṣītartvigbhyaḥ sādyaskroma iti 1 
+prāgeva prahiṇuyāditi dhānaṃjayyaḥ 2 
+dīkṣāprabhṛti sadyaḥ sarvaṃ kuryuḥ | prathamadvitīyayoḥ śyenasya ca 3 
+ekatrikāntāḥ ṣaṭ sādyaskrāḥ iti śaucivṛkṣirnikāyitvāt 4 
+urvarā vediriti prathame 5 
+yavorvarā pakvā syādvrīrvahyurā vā 6 
+tata eva samutkartaṃ khala uttaravediṃ kuryuḥ 7 
+khale vālīyūpo bhavatīti lāṅgaleṣāyūpaḥ syāt 8 
+kalāpī caṣālabhāgā 9 
+atītāyāṃ cedyavavelāyāṃ vīhivelāyāṃ vā yajeta | dhānyapātrāṇyuptvābhikṛṣeyuḥ 10 
+dhānyapātrā uttaravediḥ syāt 11 
+mūtaścaṣālabhāgaḥ 12 
+trivatsaḥ sāṇḍa iti bahutrivarṣasya jānapadī trivatsa iti 13 
+yo vā tisro dhayet 14 
+trivarṣo vaiva syāt 15 
+prāñcaṃ hotāraṃ vaheyurudañcamudgātāraṃ pratyañcamadhvaryuṃ dakṣiṇā brahmāṇam 16 
+purastādvātra vaseyuḥ 17 
+tatraibhyaḥ somaṃ prabrūyuḥ aśvarathairyātvā 18 
+na uktā bāhmaṇenādhvānaśca 16 
+kuryurevartvija iti śāṇḍilyaḥ 20 
+anyāṃstu brāhmaṇāṃstānadhvana ūrdhvā tebhyaḥ somaṃ prabrūyuḥ 21 
+asau sadyaskriyā yajate | tadahaṃ prabravīmīndrāya viśvebhyo devebhyo brāhmaṇebhyaḥ somebhyaḥ somapebhyaḥ iti 22 
+sakṣīradṛtayo rathā bhavantīti sādyodugdhena kṣīreṇa dṛtayaḥ pūrṇāḥ syuḥ 23 
+tato'yaṃ navanītamudīyāt pheno vā tadājye visṛjeyuḥ 24 
+aśvaḥ śveta etasya dakṣiṇā tamudgātre dadyāt 25 
+kiṃciccetarebhyaḥ 26
+iti drāhyāyaṇaśrautasūtre dvāviṃśe paṭale tṛtīyaḥ khaṇḍaḥ 3
+<22.4>
+etenaivottaro vyākhyātastasyāśva ekaviṃśo dakṣiṇānām 1 
+aśvo vai vā 2 
+ekarātrīṇaḥ 3 
+dvyahīno'nukrīḥ 4 
+te'ṅgirasa ādityebhyaḥ śvasutyāmiti hyāha 5 
+tasya krayaprabhṛtyuttamahaḥ syāditi gautamaḥ 6 
+taṃ sadyaḥ parikrīyeti hyādityānāha netarān 7 
+aparedyuḥ krayaṇāñcānukrīrityākhyā 8 
+upavasathāntaṃ pūrvamahaḥ syāditi dhānaṃjayyaḥ 9 
+śvaḥ sutyāmiti hyāha śvaḥ krayaṃ prābruvannityabhaviṣyat 10 
+taṃ sadyaḥ parikrīyeti ca prathamasya sadyastāṃ darśayati 11 
+dvyahīnatvāttu jaghanyatare'ṅgiraso'krīṇaṃstasmādanukrīrityākhyā 12 
+tasyāśva ekaśatatamo dakṣiṇānāmaśvo vai vā 13 
+etenokto viśvajicchilpo dvirātrīṇaḥ 14 
+tryahīna iti dhānaṃjayyaḥ 15 
+daikṣa prathamamahaḥ krayaprabhṛtyupavasathāntaṃ dvitīyaṃ sautyamuttamam 16 
+tasya dakṣiṇā dhanāni yathotsāhaṃ dadyāttasmin janapade yānyabhidhyātatamāni syuḥ 17 
+sarvavedasanirmāṃ dadyāditi dhānaṃjayyaḥ 18 
+vimitaṃ śayanamārohaṇaṃ mahānase dāsamithunau dhānyapalyaṃ sīraṃ dhenuriti 19
+iti drāhyāyaṇaśrautasūtre dvāviṃśe paṭale caturthaḥ khaṇḍaḥ 4
+<22.5>
+vratīnānāṃ yaudhānāṃ putrānanūcānānṛtvijo vṛṇīta śyenasya 1 
+arhatāmeveti dhānaṃjayyaḥ 2 
+abhivātāsu yā anabhivātāḥ syustāsāmājyaṃ manthayet 3 
+yatra stambā vā vṛkṣā vā bahulāḥ jātāḥ syustāṃśchedandevayajanaṃ kuryuḥ 4 
+yadvā vidāhi sthaṇḍilam 5 
+śavanabhye adhiṣavaṇe iti 6 
+yena yānena mṛtaṃ nirhareyustasya nabhye adhiṣavaṇaphalake kuryuḥ 7 
+yūpaḥsphyāgra iti caṣālabhāgaḥ syāt 8 
+lohitoṣṇīṣā lohitavāsaso nivītā ṛtvijaḥ pracarantyupetapuruṣā udjyadhanvānaḥ 9 
+pavamāne rathantaraṃ kuryāditi bṛhatyāmekarccānāṃ sthāne syāttaddhi bārhatānāṃ sthānam 10 
+evaṃ ca tṛce bhavati 11 
+avipratiṣedhenetareṣāmanukalpayedityaparamevamalpīyān vikāraḥ 12 
+tatra pañcamaṃ bārhatamāharet stomavaśena 13 
+tat paurumadgaṃ syāt bhrātṛvyavadhaṃ hyasmin darśayati 14 
+pṛṣṭheṣu rathantarasyottarayordvipade syātāmityācāryāḥ | parācīṣviti hyāha 15 
+kakubhāveveti gautamaḥ 16 
+anāvṛttimetat stomasya darśayatīti 17 
+plavaṃ brahmasāma kurvaṃścaitasyarkṣu kuryāt 15 
+vṛttirhyetasmin sthāne pāvamānīnāṃ na vidyate 19 
+nava nava dakṣiṇā iti nava vargānyathotsāhaṃ dadyāt | kāṇakhorakūṭavaṇṭānām 20 
+tāsāmabhi dakṣiṇāvelāyāṃ lohitaṃ janayeyuḥ 21 
+ekatrike sadyaḥ sarvaṃ kuryuḥ 22 
+ekadīkṣastryupasatka iti gautamaḥ 23 
+tasya gāyatrapārśvamārbhavo'yā ruceti 24 
+purojityāṃ śāṇḍilyaḥ 25 
+tasyāḥ sasunve yo vasūnāmityetāṃ madhye kuryāt 26 
+prācīmanupradiśaṃ yāti cekitadityetasyāmudvaṃśīyaṃ kuryāduddhatya gāyatrapārśvamiti lāmakāyanaḥ 27 
+trikaṃ bahiṣpavamānaṃ syāditi śāṇḍilyaḥ 28 
+pañcī madhyaṃdinaḥ saptārbhava ekīnītarāṇi 26 
+tryaikinameke 30 
+hotṛṣāmāṇi vā trikāṇi pavamānāśca 31 
+caturuttarasaṃpanno vā 32 
+dve dve trikapañcinī 33 
+pratyavaroheṇa tasya tat ṣaṣṭham 34 
+śataṃ dakṣiṇā dakṣiṇāḥ 35
+iti drāhyāyaṇaśrautasūtre dvāviṃśe paṭale pañcamaḥ khaṇḍaḥ 5
+<23>
+<23.1>
+vrātyastomairyakṣyamāṇāḥ pṛthagagnīnādhāya yajñopakaraṇāni ceṣṭvā ya eṣāmadhyayane'bhikrāntitamaḥ syādabhijanena vā tadabhāve'pi bhogalābhena tasya gārhapate dīkṣeran 1 
+bhakṣāṃścānubhakṣayeyuḥ 2 
+jyotiṣāniṣṭvā prāyaścittapūrvakārabalīyastvāt 3 
+yathā dakṣiṇaḥ sa yajñakratuḥ pañca dakṣiṇā iti 4 
+visamāpte tvetānīndrāt tasmādapramāṇam 5 
+iṣṭvaivānārabhya doṣavacanāt 6 
+vrātapratipadvidheḥ 7 
+yathā cāgnyāgheyamapūtānām 8 
+upahavyāgniṣṭunmīmāṃsitasatraṃ punaḥ stomāścāniṣṭvā syuḥ 6 
+ye ke ca vrātyāḥ saṃpādayeyuste prathamena yajeran 10 
+brāhmaṇenetara uktāḥ 11 
+sthāviryādapetaprajananā ye te śamanīcāmeḍhrāḥ 12 
+yanniruktaṃ nidhanamupeyurgṛhapatirevarnu sayādapetastadārdhnoteti kasyedaṃ brāhmaṇaṃ syāditi 13 
+naudhasapratiṣedha ityācāryāḥ 14 
+niruktanidhanatvāt 15 
+indreti vā dyautāne nidhanaṃ nirāhustasya pratiṣedho yathāmnāyamevopeyuḥ 16 
+uṣṇīṣaṃ ca pratodaśceti uṣṇīṣaṃ ca yattiryaṅnaddhaṃ bhavatyavrātyānām 17 
+dhanuṣkeṇānīṣuṇā vrātyāḥ prasedhamānā yānti sajyā hroḍaḥ 18 
+vipathaśca phalakāstīrṇa iti kampramiśrābhyāmaśvāśvatarābhyāṃ ratho yuktaḥ syāditi śāṇḍilyaḥ 19 
+yābhyāṃ kābhyāṃ cāśvābhyāmaśvatarābhyāṃ veti dhānaṃjayyaḥ 20
+iti drāhyāyaṇaśrautasūtre trayoviṃśe paṭale prathamaḥ khaṇḍaḥ 1
+<23.2>
+kṛṣṇaśaṃ vāsa iti kṛṣṇaṃ kadrumiśramiti śāṇḍilyaḥ 1 
+śuklaṃ kṛṣṇadaśamiti gautamaḥ 2 
+kṛṣṇa ityevaṃ manyata iti dhānaṃjayyaḥ 3 
+kṛṣṇabalakṣe ajine iti 4 
+yāvavikau dvābhyāmekaiko'vibhyāṃ krītaḥ syāttayoḥ pārśvasaṃhite kṛṣṇavalakṣe ajine syātām 5 
+valakṣamiti śvetākhyā 6 
+rajato niṣkastadgṛhapaterityetatsarvaṃ gṛhapatirāharet 7 
+trayastriṃśataṃ ca 8 
+dvistrayastriṃśatamiti dhānaṃjayyaḥ 6 
+valūkāntāni dāma tuṣāṇītareṣāmityāvikāni lohitapravāṇāni vasanāni syuḥ 10 
+dāmatūṣāṇīti dāmadaśāni syuḥ 11 
+daśākhyā tūṣamiti 12 
+dve dve dāmanī iti 13 
+dve dve upānahāviti kṛṣṇāḥ karṇinya iti śāṇḍilyo yāḥ kāśceti dhānaṃjayyaḥ 14 
+dviṣaṃhitānyajinānīti pūrvābhyāmajinābhyāṃ vyākhyātāni 15 
+taccetareṣāmekaika āharet 16 
+trayastriṃśataṃ ca 17 
+trayastriṃśatā trayastriṃśatā gṛhapatirabhisamāyantīti 18 
+trayastriṃśatamṛtvigbhyo dadyuḥ 19 
+vrātyebhyo vrātyadhanāni ye vrātyacaryāyā aviratāḥ syurbrahmabandhave vā magadhadeśīyāya 20 
+yasmā etaddadati tasminneva mṛjanāyantīti 21 
+tairiṣṭvā traividyavṛttiṃ samātiṣṭheyuḥ 22 
+teṣāṃ tata ūrdhvaṃ bhuñjīta yājayeccainān 23 
+iti drāhyāyaṇaśrautasūtre trayoviṃśe paṭale dvitīyaḥ khaṇḍaḥ 2
+<23.3>
+ṣaḍagniṣṭutaḥ 1 
+trivṛjyoyātiṣṭomaścādyau svarkkavāravantīyāvadhikārakāmanānātvāt 2 
+na vā trivṛdaviśeṣāt 3 
+pare ca vāravantīyātideśāt 4 
+kratuṣu cānuvāka nānātvāt 5 
+smṛteścatvāra ityācāryāḥ 6 
+punarāmnānāttrivṛjyo ītiṣṭomayoḥ 7 
+sarveṣāṃ ca sārṣṭo'nuvāka ādyo gavāmayanavat 8 
+na vānuvāka nānātvāt kratupṛthaktvam | yathājyotiṣṭomenānuvākānām | yathā caturmāsyavājapeyarājasūyagargatrirātreṣu 9 
+teṣvanaḍuhāmaśvānāmajānāmiti yathotsāhaṃ dadyāt | tathā hiraṇyasya 10 
+kañcidarthamarhan yo na vāpnuyātsa trivṛtāṃ prathamena yajeta | tasya caturyugaśvaratho dakṣiṇāsteṣāmekaḥ śyāvaḥ syāt 11 
+yaṃ brāhmaṇāḥ sarājānaḥ puraskurvīran sa bṛhaspatisavena yajeta 12 
+tasya prātaḥsavane sanneṣu nārāśaṃseṣvekādaśa dakṣiṇā vyādiśati 13 
+ṛtvigbhyo nāpākuryāt 14 
+aśvadvādaśā madhyaṃdine 15 
+tā ubhayorapākaroti 16 
+ekādaśa tṛtīyasavane tā anubandhya vapāyāṃ hutāyāmapākuryāt | tānyapyekādaśaikādaśaśatāni syuḥ sahasrāṇi vā 17 
+nityastvaśvo madhyaṃdine 18 
+ya evaṃ puraskurvīrannanvagbhūtavṛttiṃ tata ūrdhvaṃ teṣu vartayet 19 
+sthapatiriti cainaṃ ta ācakṣīran 20 
+śyeneneṣurvyākhyātaḥ 21 
+dīkṣopasadastvasyaikāhikyaḥ 22
+iti drāhyāyaṇaśrautasūtre trayoviṃśe paṭale tṛtīyaḥ khaṇḍaḥ 3
+<23.4>
+sarvasvāreṇa yakṣyamāṇo dīkṣāprabhṛti prayateta yathā sautye'hani preyāmiti 1 
+prāṇabhakṣān sarvatra bhakṣān bhakṣayet 2 
+tānapo'bhyavahārayetkarte vānuṣecayet 3 
+somamadbhiḥ saṃsṛjya mārjālīyasadeśe ninayeyuḥ 4 
+ārbhave pavamāne stūyamāne dakṣiṇenaudumbarīṃ kṛṣṇājinamupastīrya dakṣiṇaśirāḥ prāvṛto nipadyeta | tadeva saṃgacchate | tadeva mriyate iti 5 
+etaṃ mṛtaṃ yajamānaṃ havirbhiḥ saharjīṣairyajñapātraiścāhavanīye prahṛtya pravrajeyuriti śāṇḍilyaḥ 6 
+samāpayeyuḥ śeṣamiti dhānañjayyaḥ 7 
+samāpayeyuścediti śāṇḍilyāyano nediṣṭhī tatkṛṣṇājinaṃ pratimucya yājamānaṃ kuryādbhakṣāṃśca bhakṣayet 8 
+ṛtvijo yājamānaṃ kuryuḥ sarvahutobhakṣān juhayuriti dhānañjayyaḥ 6 
+saṃsthite'hani santvā hinvantītyāsandyaṅgāni samāhareyuḥ 10 
+santvā riṇantīti prakṣālayeyuḥ 11 
+santvā tatakṣṇuriti takṣṇuyuḥ 12 
+santvā śiśantīti vivayeyuḥ 13 
+tayainamavabhṛthahṛtvā somopanahanena pracchādyānūbandhyavapāyā hutāyāṃ dakṣiṇe vedyante keśaśmaśrūṇyasya vāpayeyuḥ 14 
+anūbandhyaśeṣaṃ samāpya madhye devayajanasya citāṃ cinuyuḥ 15 
+purastādāhavanīyam paścādgārhapatyaṃ dakṣiṇato'nvāhāryavacanaṃ paścimena gārhapatyaṃ dakṣiṇāgniṃ madhyeśarīram 16 
+taṃ dakṣiṇāśirasaṃ citāvāhitaṃ yajñapātraiḥ kalpayedadhvaryuḥ 17 
+śirasi kapālāni yuñjyāt 18 
+samoptadhānaṃ ca camasam 16 
+lalāṭe prāśitraharaṇam 20 
+nāsikayoḥ sruvau 21 
+āsye hiraṇyamavadhāyānustaraṇikyā gaurvapayā mukhaṃ pracchādya tatrāgrihotrahavanīṃ tiraścīm 22 
+dakṣiṇe pāṇau juhūm 23 
+savya upabhṛtam 24 
+pārśvayoḥ spaye 25 
+tathā vṛkvau 26 
+urasi dhuvām 27 
+udare pātrīm 28 
+upasthe kṛṣṇājinam 26 
+antareṇa sakthnī śamyādṛṣadupale yacca nādekṣyāmaḥ 30 
+dakṣiṇasyokhasya dakṣiṇata ulūkhalam 31 
+anusakthaṃ musalam 32 
+pādayoḥ śakaṭaśūrpe 33 
+sarvāṇyuttānānyāsecanavanti pṛṣadājyavanti kṛtvā sarvebhyo'gnibhya ulaparājīstṛṇuyuryathāsminnagnayaḥ samaveyuriti 34 
+āhavanīyāccetprathamameyāt brahmalokameṣyatīti vidyāt | gārhapatyāddevalokam | dakṣiṇāgneḥ pitṛlokam 35 
+evamenaṃ yajñapātraiḥ klṛptaṃ triśchandogaḥ parigāyennāke suparṇamiti 36 
+dhūma udite tveṣaste dhūma ṛṇvatīti 37 
+prajvalite'gne mṛḍamahāṃ asītyetayoranyatareṇa 38 
+tathaivāvṛtā vṛddhāḥ śrotriyā jñātaṃ parigāyanti | sa eṣa yajñāyudhi yajamānaḥ svargaṃ lokameṣyatīti vidyāt 36 
+jīvecced yajetodavasānīyayā 40 
+abhojanena tata ūrdhvaṃ mumūrṣediti śāṇḍilyaḥ 41 
+bhuñjīta jijīviṣedeveti dhānañjayyaḥ 42 
+tasya kṛtānnaṃ dakṣiṇā 43 
+phālgunyāṃ paurṇamāsyāṃ cāturmāsyānyārabheta 44 
+uktaṃ kālāntaraṃ brāhmaṇena 45 
+yajanīye'hani vaiśvadevaśunāsīrye syātām | uttaraṃ ca vāruṇaprāghāsikam 46 
+parvaṇyuttama sākamedhānām 47 
+dvādaśaśata śunāsīryasya dakṣiṇāḥ 48 
+pañcāśaditareṣāmahnāmekaikasyaikaikasya 49
+iti drāhyāyaṇaśrautasūtre trayoviṃśepaṭale caturthaḥ khaṇḍaḥ 4
+<24>
+<24.1>
+upahavye devatā nāmadheyāni parokṣaṃ brūyuḥ svasthānāsu 1 
+pratyakṣamasvasthānāsu 2 
+devaśabdaṃ sarvatra varjayeyuḥ 3 
+hotā devo mahīmitrasyetyete hotā yajñomahīyajñasyeti brūyuḥ 4 
+induriti somam 5 
+ādiṣṭā dakṣiṇā brāhmaṇena 6 
+itarebhyaśca kiṃciddadyāt 7 
+ṛtapeyasya dvādaśa dīkṣopasada iti tisra upasadaḥ | ṣaḍvā 8 
+ghṛtavrato bhavatīti yathotsāhaṃ dīkṣāsu prāśnīyāt 6 
+uttareṇottareṇa kāṇḍenopaitīti pṛthagupasatsvaṅguliparvabhiḥ pratilomaiḥ prāśnīyāditi śāṇḍilyaḥ 10 
+ekāṅgulyā pṛthakparvabhiḥ sarvāndeśāṃścamasā mitāḥ syuḥ | tairanulomairiti śaucivṛkṣiḥ 11 
+pratilomairiti dhānaṃjayyaḥ 12 
+ṛtamuktvā prasarpantīti prasrapsyataḥ sado bhakṣayiṣyantaśca deva satyāni brūyuriyaṃ bhūmirityuktvāsāvāditya udetā prātarāditya iti 13 
+yā asya devatāścamasairijyeran tatpītavadbhakṣamantrānūheyuriti dhānaṃjayyaḥ 14 
+avikāreṇa tu nārāśaṃsānām 15 
+sarvakratuṣvevameke 16 
+anuvyūhanti ca bhakṣacchandāṃsi 17 
+sarvatrāvikāreṇācāryāḥ 18 
+somacamaso dakṣiṇetyabhiṣutasya syāt 19 
+tasminhi camasaṃ pramāṇam 20 
+taṃ madhyaṃdine camasamukhīyaiḥ sahonnayeyuḥ 21 
+juhuyuścāsya huto deyaḥ iti brāhmaṇam 22 
+taṃ dakṣiṇāvelāyāṃ pūrveṇāhavanīyamanirharanto vederdakṣiṇena sado havirdhānāni hārayitvā pūrvayā dvārā sadaḥ praviśeyuḥ 23 
+saṃsthite'hanyṛtvigbhyaḥ kiṃciddadyāt 24
+iti drāhyāyaṇaśrautasūtre caturviśe paṭale prathamaḥ khaṇḍaḥ 1
+<24.2>
+ādiṣṭā dakṣiṇā brāhmaṇena dūṇāśasya 1 
+etāvantyaṣṭāviṃśatiśatamānānīti yatra syāccaturviṃśatimānānāṃ tāvantyaṣṭāviṃśatiśatāni dadyāt 2 
+rukmo hoturiti niṣko nāmālaṃkārastaṃ dadyāt | sragudgāturiti hiraṇmayī syāt 3 
+vaiśyastome sadyo dugdhena payasā somaṃ miśraṃ kuryuḥ prātaḥsavane śṛtena madhyaṃdine dadhnā tṛtīyasavane 4 
+tasya dakṣiṇāḥ dvādaśaśataṃ sahasraṃ vā yathārūpāḥ pañcaśāradīye paśava ālabhyante 5 
+tīvrasuti somātipavitaṃ yājayediti ya iṣṭvā pāpīyān syāt sa somātipavita iti śāṇḍilyaḥ 6 
+yaḥ somaṃ pītvā chardayeta viricyeta veti dhānaṃjayyaḥ 7 
+jyeṣṭho vāniṣṭīkaḥ kanīyasīṣṭinīti 8 
+tatra bhakṣāvṛtā camasānavajighreyuḥ 6 
+abhakṣayanta ṛtvijaścamasānavajighrantīti hyāha 10 
+tānacchāvākasya stotre bhakṣayeyurevaṃ sarveṣu savaneṣu 11 
+abhyabhisomānunnayantīti yānavajighreyusteṣvevābhyunnayeyuḥ 12 
+śatamāśiraṃ duhantīti dhenuśataṃ dohayitvā tattraidhaṃ vibhajya somamiśraṃ kuryuryathā vaiśyastome 13 
+tasya tadeva dhenuśataṃ dakṣiṇāstā u eva dakṣiṇā iti hyāha 14
+iti drāhyāyaṇaśrautasūtre caturviṃśe paṭale dvitīyaḥ khaṇḍaḥ 2
+<24.3>
+yaṃ brāhmaṇā rājānaśca puraskurvīran sa vājapeyena yajeta 1 
+tasya paurṇamāsyāṃ dīkṣitvā trayodaśa dīkṣāḥ kurvīran 2 
+saptadaśa vā 3 
+amāvāsyāyāṃ dīkṣitvā māsamiti gautamaḥ 4 
+saṃvatsaramiti dhānaṃjayyaḥ 5 
+ṣaḍupasatkaśca sāgnicityaḥ syāditi 6 
+pārṣṭikān stomān jyotiṣṭomasya tantre kalpayitvā tairjyotiṣṭomavyapetaistatprabhṛtibhiḥ saṃvatsaraṃ pūrvapakṣeṣu yajeta 7 
+trayodaśe pūrvapakṣe vājapeyeneṣṭvaitairevāvṛttairaparaṃ saṃvatsaram 8 
+tā yathotsāhadakṣiṇāḥ syuḥ 9 
+rājasūyeta yajeteti lāmakāyanaḥ 10 
+trivṛtpañcadaśo'bhyārohaṇīyasya sthāne syāt 11 
+vājapeyo'bhiṣecanīyasya 12 
+pañcadaśaṃ trivṛtkeśavapanīyasya 13 
+vyuṣṭikṣatradhṛtyorjyotiṣṭomaḥ 14 
+bṛhaspatisavenaiva purastādupariṣṭāñca pariyajeteti śāṇḍilyaḥ 15 
+māsamātre purastājjyotiṣṭomena tathopariṣṭāditi dhānaṃjayyaḥ 16 
+pratyavarohaṇīyenaivāntato yajeta naiteṣāṃ kenaciditi gautamaḥ 17 
+sadasyasaptadaśān pṛthagṛtvijo vṛṇīta 18 
+tasya dakṣiṇā dāsīniṣkarathahastiyānagavāṃ pṛṣṭhyānāṃ cāśvānāṃ saptadaśaikaikasya jātasya 19 
+sahasrāṇi gavāṃ śatāni vā 20 
+saptadaśa vaiva gāvastaṃ kuruvājapeyaḥ ityācakṣate 21 
+tāḥ samamṛtvigbhyo vibhajet 22 
+śreṣṭhato vā madhyataḥkāribhyaḥ 23 
+yena rathenājiṃ dhāvettamudrātre dadyādāsandīṃ ca sāstaraṇāṃ yāmabhiṣikta ārohet 24 
+bastacarma sarukmaṃ hotre yasminnāsīno'bhiṣicyeta 25 
+vasanamayī raśanādhvaryave 26 
+hiraṇyasthālaṃ madhunā pūrṇaṃ brahmaṇe 27 
+kaṃsasthāle vā hiraṇyatuṣānmadhumiśrān 28
+iti drāhyāyaṇaśrautasūtre caturviṃśe paṭale tṛtīyaḥ khaṇḍaḥ 3
+<24.4>
+tasya vratāni 1 
+kṣatravṛttiṃ varttayet 2 
+pratyavarohaṇābhivādane jaghanyavrajyāṃ samānaśayyatāmiti ca varjayedavājapeyayājibhiḥ 3 
+yathāvayasaṃ vājapeyayājibhiḥ 4 
+pratyavarohaṇīyeneṣṭvā naitāni vratāni carediti śāṇḍilyāyanaḥ 5 
+tasya vikalpāḥ 6 
+prākṛta eva vājapeya ekiprabhṛtidvyuttarān saptadaśatrayastriṃśāntān stomān kalpayetsa mayūro nekarṣī 7 
+tasyopāsmai gāyatā nara  iti bahiṣpavamānam 8 
+brahmasāmaiva pratyetena svargalokamākramata iti śāṇḍilyaḥ 6 
+jyotiṣṭomo vātirātro'ṣoḍaśikaḥ 10 
+anatirātro vā ṣoḍaśimān 11 
+tasya bṛhatsaptadaśaṃ stotraṃ syāt | pañcadaśastomaṃ svāsu 12 
+agniṣṭomo vā 13 
+tasyābhīvarto brahmasāmānuṣṭubhi yajñāyajñīyamanukalpayedbṛhadagniṣṭomasāma pañcaviṃśaṃ pṛṣṭhānāṃ brahmasāmācchāvākasāma vā caturviṃśamitarat 14 
+etasya vaiva catustriṃśāni pṛṣṭhānyagniṣṭomasāma ca saptadaśamitaratsarvam 15 
+naiteṣāṃ kaścana vājapeya iti gautamaḥ 16 
+yajamānaścaiteṣu na vājapeya dakṣiṇā dadyāditi dadyāditi 17
+iti drāhyāyaṇaśrautasūtre caturviṃśe paṭale caturthaḥ khaṇḍaḥ 4
+<25>
+<25.1>
+rājā rājasūyena yajeta 1 
+phālgunī pakṣasya prathamāyāṃ dīkṣetābhyārohaṇīyāya jyotiṣṭomāya 2 
+tasyaikā dīkṣā dvādaśaśataṃ dakṣiṇāḥ 3 
+saṃvatsarādūrdhvamabhiṣecanīyena yajeta 4 
+tasya tathaiva dīkṣā | dve iti gautamaḥ 5 
+tathā satyabhyārohaṇīyasyāpi dve 6 
+ekābhyārohaṇīyasya tisro'bhiṣecanīyasyeti śāṇḍilyaḥ 7 
+trayodaśyāṃ tvaparapakṣasya dīkṣeta 8 
+tasya dakṣiṇā dvātriṃśataṃ sahasrāṇi madhyataḥkāribhyo dadyādekaikasmai 9 
+ṣoḍaśa prastotṛmaitrāvaruṇapratiprasthātṛbrāhmaṇācchaṃsibhyastā ardhiekanyaḥ 10 
+aṣṭau pratihartṛ potṛneṣṭracchāvākebhyastāstṛtīyinyaḥ 11 
+catvāri subrahmaṇyāgnīdhronnetṛgrāvastudbhyastāḥ pādinyaḥ 12 
+abalānasya jñātīnsavittānāvaheyustāñjinīyāddakṣiṇāvelāyām 13 
+iṣūṃścaibhyo'syet 14 
+tāṃsta eva pratyāhareyurvijayasva rājanniti 15 
+teṣāṃ vittasya tṛtīyamṛtvigbhyo dadyāt 16 
+daśapeye'nuprasarpibhyastṛtīyam 17 
+śeṣaṃ tebhya eva pratyutsṛjet 18 
+grāmānebhyo'pi dadyāt 16 
+rājanyāste syustata ūrdhvamanabhiṣekyāḥ 20 
+teneṣṭvā na sākṣādavabhṛthamabhyaveyāt | kṛṣṇaviṣāṇaṃ kṛṣṇājinapādaṃ vā nidadhyāt 21 
+vārāhībhyāmita upānadbhyāṃ vrajetkārṣṇībhyāṃ pratyāvrajet 22
+iti drāhyāyaṇaśrautasūtre pañcaviṃśe paṭale prathamaḥ khaṇḍaḥ
+<25.2>
+taddīkṣita eva daśāhe tato daśapeyena yajeta 1 
+tasya brāhmaṇaṃ daśa daśa camasamabhiyantīti brahmaṇyacaturthā udgātṛcamasaṃ bhakṣayeyuḥ ṣaṭsu cānye 2 
+evamitareṣāmekaikaṃ yāvatā daśa pūryeranyajamāna camasādanyān 3 
+te daśa mātṝrdaśa pitṝnityanvākhyāya prasarpeyurādaśamātpuruṣāditi hyāha 4 
+yatrābrāhmaṇīmadhigaccheyurbrāhmaṇyevābhyāsaṃ daśa taṃ pūrayeyuḥ 5 
+asmarantaśca yataḥ smareyuḥ 6 
+ṛtvigbhiḥ saha dhiṣṇyānupatiṣṭheran 7 
+sragudgāturiti srapsyate'smai bahiṣpavamānaṃ hiraṇyasrajaṃ tripuṣkarāṃ pratimuñcet 8 
+āstāva upaviṣṭāya yajamāna audakīṃ dvādaśapuṣkarāṃ yāsya svā syāt 9 
+stute bahiṣpavamāne yajamānāyaivaudakīṃ pratyutsṛjet 10 
+itarayā pratimuktyā sarvamahaḥ kurvīta 11 
+tāṃ sa evāharet 12 
+prākāśāvadhvaryvoriti sauvarṇo'dhvaryordakṣiṇataḥ syādrājataḥ pratiprasthātuḥ savyataḥ 13 
+vāsaḥ poturiti kārpāsaṃ syāt 14 
+varāsī neṣṭuriti kṣaumī syāt 15 
+brāhmaṇenaivetarā vijñātāḥ 16 
+tasyāvabhṛthādudetya saṃvatsaraṃ devavrataṃ caret 17 
+unmṛnnītānāplavamānaḥ 18 
+dhāveta dantānnikṛntayennakhāni śmaśrūṇi vāpayeta na keśān 19 
+vaiyāghre carmaṇyuttaralomyegnyagāre saṃviśet 20 
+aharahaḥ samidha ādadhyāt 21 
+nānu grāmaṃ praviśet 24 
+nāsyābrāhmaṇā rāṣṭre vāpayeran 23 
+āśvānāṃ ca na keśāṃśchindyuḥ 24 
+na tejanīdantān 25 
+na prasravaṇāni 26 
+brāhmaṇāstu yathābhipretaṃ ye ca tānanu syuḥ 27
+iti drāhyāyaṇaśrautasūtre pañcaviṃśe paṭale dvitīyaḥ khaṇḍaḥ 2
+<25.3>
+saṃvatsarādūrdhvaṃ keśavapanīyāya dīkṣeta | yasmin kāle'bhiṣecanīyena yajeta 1 
+tasya paurṇamāsyāmatirātraḥ 2 
+daśapeyeneṣṭvā ya uttaraḥ pūrvapakṣastasminneva keśavapanīyena yajeteti dhānaṃjayyaḥ 3 
+paurṇamāsyāṃ caivātirātraḥ 4 
+tasya sahasraṃ dakṣiṇāḥ 5 
+tasyodavasānīyayeṣṭvā paurṇamāsena vyaṣṭidvirātrāya dīkṣetāmāvāsyāyāṃ pūrvamahariti ceccikīrṣet 6 
+paurṇamāsyāmiti cetpūrvapakṣa eva dīkṣeta 7 
+ubhayorvicārayoryajanīya uttaramahaḥ 8 
+vyaṣṭakāyāmuttaramiti tāmisraprathamāstisro vyaṣṭakā ityācakṣate 6 
+ubhe eva pūrvapakṣe syātāṃ ye eva samānapakṣa iti hyāha 10 
+pūrveṇaiva dakṣiṇā vyākhyātāḥ 11 
+tasminneva pūrvapakṣe kṣatrasya dhṛtinā yajetāvakāśaścet syāt 12 
+avidyamāne ya uttaraḥ pūrvapakṣastasmin 13 
+so'bhyārohaṇīyena vyākhyātaḥ 14 
+tayoḥ pṛthaksahasre dakṣiṇā iti gautamadhānaṃjayyau 15 
+dve ca sahasre keśavapanīye 16 
+tathā vyuṣṭau 17 
+catvāryabhiṣecanīye gautamaḥ pañca dhānaṃjayyaḥ 18 
+nityaṃ tvabalānāṃ jñātīnāṃ vittama 19 
+rājyekaviṃśativargānyathotsāhaṃ dadyād 20 
+aindreṇa tvṛṣabheṇa purastādupariṣṭācca pariyajeta 21 
+rājā rājyamicchannetena yajeta 22 
+virāji daśa vargānyathotsāhaṃ dadyād 23 
+āgneyena tu paśunā purastādupariṣṭācca pariyajeta 24 
+vaiśvadevenaupaśade 25 
+tasya caturviṃśaśataṃ dakṣiṇāḥ 26 
+pūrve vayasyuccāvacānyājayitvopanīya vā tebhyaḥ samāvartsyan punaḥstomena yajeta 27 
+tasya dvādaśamithunā dakṣiṇā iti dhānaṃjayyaḥ 28 
+punaḥ saṃskṛto rathaḥ punarutsyūtaṃ śāmūlaṃ punardhenuḥ punarvatsa iti śāṇḍilyaḥ 29 
+eteṣāṃ yathotsāhaṃ dadyāt 30 
+catuṣṭomayorekaśaphānā pūrvasminyathotsāhaṃ dadyāt 31 
+ubhayeṣāmuttarasmin 32
+iti drāhyāyaṇaśrautasūtre pañcaviṃśe paṭale tṛtīyaḥ khaṇḍaḥ 3
+<25.4>
+udbhidbalabhidbhyāmaviprayogeṇa yajeta 1 
+tāvubhau saptāpavargau syātām 2 
+vasante cārddhamāsa enāvantareṇa syāt 3 
+māsaḥ saṃvatsaro vā 4 
+tatreṣuriṣṭiḥ 5 
+tayoḥ pṛthak caturyujāvaśvarathāvapacityorubhayataḥ kāṃsyakavacau 7 
+śatārhāḥ syuraśvāḥ śatakriyo vā 8 
+rājaitābhyāṃ yajeteti śāṇḍilyaḥ 6 
+yaḥ kaścāpacitikāma iti dhānaṃjayyaḥ 10 
+aikāhikena vratenokta upāyo'gneḥ stomayoḥ 11 
+tayoḥ pṛthakcatvāri dhānyācitāni dakṣiṇāḥ 12 
+ṣaḍgavāni pūrve caturgavāṇyuttarasmin 13 
+ṛṣabhāṇāṃ dvādaśaśataṃ dakṣiṇāḥ sahasraṃ varṣabhe 14 
+avidyamāneṣu katicid apyṛṣabhāḥ syuḥ sāṇḍā itare vatsatarāḥ 15 
+vaiśyaṃ yaṃ viśaḥ sarājānaḥ puraskurvīran sa gosavena yajeta | sa bṛhaspatisavena vyākhyātaḥ 16 
+ayutaṃ tvasya dakṣiṇāḥ 17 
+sakhāyo bhrātaro vā ye sampādayeyuste marutstomena yajeran 18 
+tasya dakṣiṇā yathārūpāḥ pañcaśāradīye praśava ālabhyante | teṣāṃ yathotsāhaṃ dadyuḥ 19 
+yeṣāṃ keṣāṃ ceti dhānaṃjayyaḥ 20 
+kuladakṣiṇa indrāgnyoḥ kulāyaḥ 21 
+sahasramindrastome 22 
+rājapurohitau yajeyātāmindrāgnyoḥ stomena 23 
+gāyatrīsaṃpannā dakṣiṇā brāhmaṇo dadyājjagatī saṃpannā rājā 24 
+kāmaṃ tu pṛthagyajeyātām 25 
+tayorevameva dakṣiṇāḥ 26 
+vighanābhyāṃ paśukāmo yajetābhicaranvā 27 
+somasāmātharvaṇaṃ vetyātharvaṇaṃ paśukāmasya yajñe kuryāt somasāmābhicarataḥ 28 
+bṛhatīsaṃpannā dakṣiṇāḥ paśukāmasya 29 
+iṣuṇābhicarato vyākhyātau 30 
+saṃdaṃśavajrau ca 31 
+rājānaṃ saṃdaṃśenābhicarejjanapadaṃ vajreṇa 32 
+rājānamabhicaranvyatyāsamenau prayuñjīta 33 
+jyotiṣṭomenaivāntato yajeta śāntyarthaḥ śāntyarthaḥ 34
+iti drāhyāyaṇaśrautasūtre pañcaviṃśe paṭale caturthaḥ khaṇḍaḥ 4
+<26>
+<26.1>
+paurṇamāsīdīkṣāmāsāpavargā ahīnāḥ 1 
+teṣāṃ dvādaśopasadaḥ | ṣaḍiti dhānaṃjayyaḥ 2 
+ekaviṃśe'hani yajñapucchaṃ triṃśe vā 3 
+satyābhyuccaye dīkṣāpratihrāsaḥ 4 
+sarve'tirātrā ahīnā dvirātraprabhṛtayaścāhargaṇāḥ 5 
+anyatra cāturmāsyarājasūyābhyām 6 
+ṛksamāmnāyāntarāyādahīnavaidharmyācca 7 
+teṣāṃ rātrerviśeṣaḥ panyaṃ panyaṃ śrautakakṣaṃ daivodāsaṃ hotṛṣāma kautsasya loka āṣṭādaṃṣṭraṃ tvāmāviśantviti 8 
+aśvamedhādanye sahasradakṣiṇāḥ prāk catūrātrebhyaḥ 6 
+tatprabhṛtīnāṃ bhūyasyaḥ sutyābhyuccayena 10 
+trayastriṃśatā tribhiśca śatairityake kṛtāntadarśanāttrirātre 11 
+pañcaviṃśaṃ śataṃ sahasraṃ copajata ityaparam 12 
+evamayutopapattiḥ pauṇḍarīke 13 
+tāḥ samaṃ sarveṣvahaḥsu vibhājan dadyāt 14 
+samānupapattāvuttame'hani bhūyiṣṭhāḥ 15 
+ayutamekādaśarātre dadyānnavanava pūrveṣvahaḥsu śatāni sahasramuttame 16 
+trirātrāṇāṃ prathame'hani vaṣaṭkāribhyo dadyāt | grāvastute ca 17 
+chandogebhya uttame 18 
+madhyama itarebhyaḥ 16 
+śatamekaikasmaimadhyataḥ kāribhyo dadyāt 20 
+pañcāśatamarddhinībhyaḥ 21 
+tṛtīyinībhyo viṃśatiṃ potre tathā neṣṭre triṃśatam itarābhyām 22 
+āgnīdhrāya ca 23 
+pādinībhyo navonnetre daśetarābhyām 24 
+anvahaṃ unnetre samaṃ dadyāt 25
+iti drāhyāyaṇaśrautasūtre ṣaḍviṃśe paṭale prathamaḥ khaṇḍaḥ 1
+<26.2>
+daśa sadasyāya prathame'hani saptatiṃ dvitīye viṃśatiṃ tṛtīye 1 
+daśa daśārṣeyapravādibhyo ya uktā brāhmaṇena 2 
+anūcānau pūrvayorahnorananūcāna uttame 3 
+daśa śataṃ śiṣyante | tā ṛtviābhyo dadyāt | prasarpakebhyo vā 4 
+sahasratamīṃ ṣoḍaśakalāṃ madhyame'hani brahmaṇa āgnīdhrāya ca 5 
+śuklaṃ kṛṣṇaṃ rohitamityasyā rūpāṇi 6 
+daśa kalā brahmaṇe | pañcāgnīdhrāya 7 
+ekāmamā kurvīta 8 
+tāmanyayā gavā niṣkrīya kāmyāsītyanumanya dakṣiṇe vāsyāḥ karṇe japitvā goṣvapi sṛjeta 9 
+jyotiṣṭomavidhiranantarāmnānāt dvādaśāhāṅgabhūtaḥ syāt 10 
+talliṅgadarśanācca yathā pṛṣṭhānām 11 
+punarāmnānāccāhīnaikāhādau 12 
+nānā prakaraṇavattu coditānāmānantaryātsaṃbandho na syādyathopahavyartapeyayoḥ 13 
+liṅgagrahaṇaṃ cānyārthena yathā ṣaṣṭhe'hani śakvarīṇām 14 
+śeṣavidhiḥ punarāmnānam 15 
+tasmin svatantre'hīnarātriḥ syādaviśeṣeṇa hyahīneṣu codyate 16 
+prākṛtī tveva syādadhikṛtyāmnānāt 17 
+aviśeṣacodanā śeṣe yathā caturavattam 18 
+etenoṃkāsyoktaṃ pratyāmnānaṃ vācā rathantare 16 
+asaṃbhavācca śabdārthasya 20 
+samuccayo vai tayorapaghāṭilāvat 21 
+vāgityādeyamiti deśaviparyayamātram 22 
+yathā vāmadevyayajñāyajñīyayoḥ 23
+iti drāhyāyaṇaśrautasūtre ṣaḍviṃśe paṭale dvitīyaḥ khaṇḍaḥ 2
+<26.3>
+aptoryāme kṛtā garbhāḥ kalpena 1 
+rathantaraṃ vā pṛṣṭhaṃ tasya sthāne vārhataṃ vājijit 2 
+bṛhadvāravantīye uttare pṛṣṭhe 3 
+kāleyasyarkṣu vāravantīyam 4 
+tasya sthāne pūrvam 5 
+samantasya ca kāleyaṃ pārthasya cauśanam 6 
+ta eva garbhāḥ pṛṣṭheṣu 7 
+vaiśvajitānyājyānyājyeṣu garbhān kuryāditi dhānaṃjayyaḥ | ṣāṣṭhikānyukthānyuktheṣu 8 
+yathaivārṣeyakalpena śāṇḍilyaḥ 9 
+jyotiṣṭome vātirātre'tiriktastotrāṇyādadhyāt ṣoḍaśimatīti 10 
+ta eva garbhāḥ pṛṣṭheṣu yajñāyajñīyaṃ ca bṛhadgarbham 11 
+ekastomeṣu baidatrirātre ca svastomātirātriḥ syāt | tathā saṃdhiḥ 12 
+ubhayaṃ hyavikāreṇa vartate 13 
+parāktvaṃ ca trivṛto'nyatra saṃdhernopapadyate 14 
+trivṛtātirātreṇetyaviśeṣacodanā 15 
+vṛttyapekṣā cādeśe na vidyate | yathā ṣoḍaśaṃ prathamaṃ rātriṣāmeti 16 
+tadbaidottame'pyācāryā madhyama ityeke 17 
+arthoktaḥ saṃdhāvāvāpo'bhyāso vā 18 
+anubrāhmaṇaṃ veti prakṛtyanvayādekaviṃśāḥ 19 
+ahastomastvadhikārāt 20 
+na caikasminnanviti bhavati 21 
+jyāyāṃścokthebhya ekaviṃśaḥ syādanyāyyam 22 
+saṃpannityeti śocivṛkṣiḥ 23 
+ekaviṃśapañcadaśau madhyamayorahastomāvitarayoḥ 24 
+brāhmaṇamājyadohānāmagnimupanidhāya stuvata iti 25 
+hoturdhiṣṇaye'gniṃ dhārayeyuḥ | prathame'hani yaṃ madhyaṃdina ānayeyuḥ 26 
+prātaḥ savana uttarayoḥ 27 
+stotravelāyāmenaṃ prajvalayeyuḥ 28
+iti drāhyāyaṇaśrautasūtre ṣaḍviṃśe paṭale tṛtīyaḥ khaṇḍaḥ 3
+<26.4>
+sahasrapoṣakāmaḥ śabalīhomaṃ kurvīta 1 
+nātrirātrayājīti dhānaṃjayyaḥ 2 
+trirātro vā etāṃ pradāpayatīti hyāha 3 
+yaḥ kaśca sahasrapoṣakāma iti śāṇḍilyaḥ 4 
+yo'lamannādyāya sannathānnaṃ nādyāditi hyāha 5 
+vasante prathamāyāṃ pūrvapakṣasya keśaśmaśrūṇi vāpayitvāhataṃ vasanaṃ paridhāya taptaṃ kṣīraṃ pibed dvādaśarātrīradhaḥ śayītānantarhite sthaṇḍile 6 
+nityādhyāhito'syāgnirāvasathe syāt 7 
+nainamanyaḥ suhṛdaḥ praiṣakṛto'nuviśet 8 
+alpavyāhārī ca syāt 6 
+adūragāmī 10 
+dvādaśyā upavyuṣaṃ parisamuhyāgniṃ paristīryaudumbara idhmaḥ syātsruksruvaṃ ca tathā camasastasmin dadhimadhu sarpīṃṣi samānīya sruveṇa sruciṃ gṛhṇīyāccaturgrahītamaṣṭagṛhītaṃ vātra juhuyācchabalī samudro'sīti 11 
+svāhākāreṇottarām 12 
+sruci yaḥ śeṣaḥ syāttaṃ camasa ānīya prāśnīyāt 13 
+prakṣālya sruksruvaṃ camasaṃ nidadhyāt 14 
+tatraivānupraharediti śāṇḍilyāyanaḥ 15 
+prāṅvodaṅvā grāmānniṣkramya yatra grāmyasya paśornāśṛṇuyāttadaraṇyaṃ paretya tatra darbhastambamālabhya śabalī śabalīti triṣparamakaṇṭhena krośet 16 
+yadanyaḥ śuno gardabhādvā prativāśyeta samṛddhaṃ karmeti vidyāt 17 
+evamātṛtīyaṃ saṃvatsarābhyāsamaprativāśyamāne kurvīta 18 
+prathamataścettu śvā gardabho vā prativāśyeta na paśūnāmāśāstīti vidyāt 16 
+ātṛtīyaṃ cāprativāśyamāna āśā paśūnām 20 
+śāntirvāmadevyaṃ śāntirvāmadevyam 21
+iti drāhyāyaṇaśrautasūtre ṣaḍviṃśe paṭale caturthaḥ khaṇḍaḥ 4
+<27>
+<27.1>
+rājāpratigho'śvamedhena yajeta 1 
+tasyopāyo yathā mahāvrate gautamīyam 2 
+upasadastvasyāhīnikyaḥ 3 
+dīkṣitvāśvamutsṛjecchvetam 4 
+kṛṣṇamaṇḍalamakṣṇo rūpam 5 
+yo javena saṃpannaḥ 6 
+tamanāvartayanto digbhyaḥ saṃvatsaraṃ rakṣitvā rājakraye badhnīyuḥ 7 
+grīṣma upakrameti dhānaṃjayyaḥ vasanta iti śāṇḍilyaḥ 8 
+caitravaiśākhayoranyatarasya saptamyāmaṣṭamyāṃ vā madhyataḥkāriṇa ṛtvijo brahmaudanaṃ bhojayitvā tebhyaḥ pṛthaksahasrāṇi dadyāditi 9 
+pauṣṇyāmiṣṭau vitatāyāṃ saṃsthitāyāṃ vāśvamutsṛjet 10 
+tatra tisra iṣṭayaḥ sāvitryo bhavanti 12 
+tāsu saṃsthitāsu dakṣiṇata āhavanīyasya hiraṇmaye kūrcce prāṅmukha āsīno yajamānastathā hotā 13 
+saṃvatsaramaharaharhotuḥ pāriplavamācakṣāṇasya śṛṇuyāt 14 
+purastādadhvaryuḥ pratyaṅmukho hairaṇye phalake 15 
+hiraṇyakaśipunyāsīno brahmodgātā codaṅmukhau 16 
+śataṃ hotre dadyāddaśādhvaryave sahasraṃ vā hotre śatamadhvaryave 17 
+kiṃciccetarābhyām 18 
+tasya devavratāni yathā rājasūye 19 
+saṃvatsarādūrdhvamaśvaṃ badhvā dīkṣeta 20 
+tadaharetānyṛtvija āsanāni yathāsvaṃ hareran 21 
+tasya dvādaśa dīkṣāstathopasadaḥ 22 
+sarveṣāmahnāṃ bahirbahiṣpavamānaḥ stuvīran 23
+iti drāhyāyaṇaśrautasūtre saptaviṃśe paṭale prathamaḥ khaṇḍaḥ 1
+<27.2>
+madhyame'hanyaśvasya bāladhimālabhya bahiṣpavamānaṃ sarpeyuḥ 1 
+sarpatsu yajamāna udgātāraṃ brūyādudgātarupa tvā vṛṇe śatena niṣkeṇa cāśvo mamodgāsyatīti 2 
+aśvamāstāvamākramayyavāṃ darśayeyuḥ 3 
+tāṃ yadābhikandedatha yajamāna udgātāraṃ brūyādudgātarupa tvā vṛṇe śatena caiva niṣkeṇa ca tvameva mamodgāsyasīti 4 
+udañcamaśvamutkramayyāstāva upaviśyodgātāśvavratena stuyādabhivājī viśvarūpa iti tṛcena 5 
+hiraṇyakaśipunyāsīno bahiṣpavamānena stutvā sa eva taddharet 6 
+yā patnīnāṃ priyatamā yajamānasya sā vāvatā 7 
+rājaputryanapacitā parivṛktī 8 
+saṃjñapteṣu paśuṣu hotrābhimethite brahmā vāvatāmabhimethet 6 
+ūrdhvāmenāmucchrāpaya girau bhāraṃ harannivāthāsyai madhyamedhatāṃ śīte vāte punarniveti nirdiśet 10 
+śatamasyā rājanyānāṃ duhitaro'nucaryaḥ syuḥ | tāstaṃ pratyabhimetheyurūrdhvamenamucchrayatāt girau bhāraṃ harannivāthāsya madhyame jatu śīte vāte nirdiśeyuḥ 11 
+udgātā parivṛktīmabhimethedyadasyā aṃśubhedyāḥ kṛdhusthūlamupātasanmuṣkāvidasyā ejato gośapheśakulāviveti nirdiśet 12 
+śatamasyāḥ sūtagrāmaṇīnāṃ duhitaro'nucaryastāstaṃ pratyabhimetheyuryaddevāso lalāmaguṃ praviṣṭiminamāviṣuriti nirdiśeyuḥ 13 
+sakthnā dediśyate nārī satyasyākṣibhuvo yatheti 14 
+apa upaspṛśya vāmadevyaṃ gītvā tasyarco'nujapeyuḥ 15
+iti drāhyāyaṇaśrautasūtre saptaviṃśe paṭale dvitīyaḥ khaṇḍaḥ 2
+<27.3>
+svāhākṛtibhiścarite pūrveṇa sada upaviśya brahmodyaṃ vadeyuḥ 1 
+hotrādhvaryuṇā cokte brahmā pṛcchedudgātāraṃ pṛcchāmi tvā citaye devasakha yadi tvamatra manasānuvettha yeṣu viṣṇustriṣu padeṣvasthātteṣu viśvaṃ bhuvanamāviveśā''iti 2 
+taṃ pratibrūyādapi teṣu triṣu padeṣvasmin yeṣu viśvaṃ bhuvanamāviveśa sadyaḥ paryemi pṛthivīmuta dyāmekenāṅgena divo asya pṛṣṭhamiti 3 
+udgātā pṛcchedbrahmāṇaṃ kiṃsvidantaḥpuruṣa āviveśa | kānyantaḥ puruṣa arpitāni | etadbrahmannupavahalāmasi | tvā kiṃsvinnaḥ prativocāmyatreti 4 
+taṃ pratibrūyāt pañcasvantaḥ puruṣa āviveśa | tānyantaḥ puruṣa arpitānyetattvātra pratimanvāno asminna māyayā bhavasyuttaromaditi 5 
+sarve yajamānaṃ pṛccheyuḥ | pṛcchāmastvā vṛṣṇo'śvasya retaḥ | pṛcchāmo vācaḥ paramaṃ vyometi 6 
+tān prati brūyādiyaṃ vediḥ paro antaḥ pṛthivyā ayaṃ yajño bhuvanasya nābhiḥ | ayaṃ somo vṛṣṇo aśvasya retaḥ brahmāyaṃ vācaḥ paramaṃ vyometi 7 
+tasya dakṣiṇāḥ sahasraṃ prathame'hani dadyāttathottame 8 
+madhyame'hanyekajanapade yadabrāhmaṇānāṃ vittaṃ taddadyāt 9 
+vijitasya vā madhye yajeta 10 
+prācīṃ hotre diśaṃ dadyāddakṣiṇāṃ brahmaṇe'dhvaryave pratīcīmudīcīmudgātre 11 
+yadanyatkṣetrācca puruṣebhyaścetyubhayorvicārayoḥ 12 
+yāvadvā brūyurneto bhūya icchāma iti 13 
+aṣṭācatvāriṃśaṃ śataṃ vā sahasrāṇi madhyataḥ kāribhyaḥ dadyādekaikasmai caturviṃśatimarddhinībhyo dvādaśa tṛtīyinībhyaḥ ṣaṭ pādinībhyaḥ 14 
+avarārdhyā̍ etāḥ kāmaṃ tu bhūyasīrdadyāt 15 
+tasya vikalpāḥ 16 
+etānyeva pañcadaśastomānyahāni kalpayet 17
+iti drāhyāyaṇaśrautasūtre saptaviṃśe paṭale tṛtīyaḥ khaṇḍaḥ 3
+<27.4>
+sa patantako'śvamedhaḥ 1 
+tasyādyabahiṣpavamāne vaiṣṇavīranuṣṭubhastisraścaturdhākāramāvapet 2 
+pūrvasmin dṛṣṭāntādyad vaiṣṇavyastisraścatasra iti hyāha 3 
+ayukṣvasaṃbhavāttu gāyatrīḥ pavamānīrāvapet 4 
+prākṛtau dṛṣṭāntāttaddhi kāraṇam 5 
+samarthaṃ ca yadvaiṣṇavyastisraścatasra ityādau karaṇāt 6 
+sarvaṃ vā bahiṣpavamānaṃ gāyatrīṣu 7 
+catuṣṭoma kārito hi vyūhaḥ 8 
+arddhamāsamaśvaṃ cārayitvaitena tyajeta 6 
+jyotiṣṭomo vai tasyātirātrastṛtīyamahaḥ syāttena māsam 10 
+gaurvā tena trīn 11 
+āyurvā tena ṣaṭ 12 
+prākṛtasya vaiteṣāmahnāṃ kiṃcittṛtīyamahaḥ syāt 13 
+viśvajidabhijidrhatāptoryyāmāṇāṃ vātirātrāṇāmeva 14 
+teṣāṃ stomacodanaiva syādyathā catuṣṭomasarvastomayoḥ 15 
+dvirātratrirātreṣu ca tantravilopo na vidyate | brāhmaṇaśabdasāmarthyāt 16 
+tenaiva jagatī kṛtā tābhyāṃ dvirātramatanvatāṃ tametaiḥ sāmabhirabhiṣajyannityetadvai trirātramakaryadetāni rūpāṇyanvahamājyadohāni 17 
+asaṃcārānnikāyitvācca 18 
+astīva trirātrasya prathamamaharastīvottamama cchidramiva madhyata iti cānvayadarśanāt 16 
+prākṛtāstveva syuḥ | kṛtalakṣaṇā hi purastāccodyante 20 
+yathā vratavati pañcarātre ṣaḍahanavāhayorāyuṣkāmasyaindre ca saptarātre 21 
+pratyakṣavikārāt stomacodanā yathā catuṣṭomasarvastomayoḥ 22 
+vacanāttantralopo yathājāmi kalpaḥ sarvasvāre 23 
+catuṣkaprabhṛtayaścaturuttarā aṣṭācatvāriṃśāntāḥ prathamasyāhnaḥ stomāḥ syuriti lāmakāyanaḥ 24
+iti drāhyāyaṇaśrautasūtre saptaviṃśe paṭale caturthaḥ khaṇḍaḥ 4
+<27.5>
+sa govinato'śvamedhaḥ 1 
+evaṃ sarvacchandomaṃ prathamamahaḥ sarvapaśumadhyamaṃ sarvastomamuttamam 2 
+ṣaḍadhikā virāṭ 3 
+tāṃ ceccikīrṣettriṇavamukthamekaviṃśaṃ kuryāt 4 
+stomapratyavarohānnaivaṃ śāṇḍilyaḥ 5 
+aśvamedheneṣṭvā saṃvatsaramṛtāvṛtau ṣaḍbhiḥ ṣaḍbhiḥ paśubandhairyajetāgneyairaindrairmārutaiḥ pārjanyairvā maitrāvaruṇairaindrābārhaspatyairaindrāvaiṣṇavairiti 6 
+trayodaśyāṃ tvaparapakṣasya dīkṣeta jāmadagnyāya tasya viṃśatirdakṣiṇā dvādaśopasadaḥ 7 
+tatropasatsu pṛthagghomānadhvaryurjuhuyāt puroḍāśāṃsta uktā brāhmaṇena 8 
+samānadevatau pūrvāhṇāparāhṇayoḥ 9 
+agnervairhotramityetatprabhṛtaya eṣāṃ homāḥ 10 
+tasyāvabhṛthādudetya dvādaśāhamiṣṭibhiryajeta 11 
+tāsveta eva pratilomāḥ puroḍāśāḥ 12 
+vasiṣṭhasya janitre bhavata iti saṃsarpatsu caturthe'hani bṛhatyanuṣṭabhoḥ pṛthaganupūrvamanukalpayet 13 
+caturthaṃ hi janitrasthānam 14 
+rāthantarabṛhatyorvā sacchandastvāt 15 
+vāsiṣṭhaṃ prajananoktaṃ ca rathantaram 16 
+bārhatayorityeke 17 
+tayorvikalpaḥ syādārṣeyakalpena 18 
+pañcaśāradīye paśubandhairyajeta | ta uktā brāhmaṇena 19 
+saptamyāmaṣṭamyāṃ vāśvayuji pakṣasya 20 
+vatsatarīrālabherannukṣṇo visṛjeyuḥ 21 
+teṣāṃ yāvanto bhreṣamāpadyeraṃstāvato'nyānayajuṣkṛtānapi sṛjet tathārūpāṃstadvarṣān 22 
+ṣaṣṭhyāṃ śaradi kārtike māsi yajeta | tasya dvādaśopasadaḥ 23
+iti drāhyāyaṇaśrautasūtre saptaviṃśe paṭale pañcamaḥ khaṇḍaḥ 5
+<27.6>
+parayoḥ ṣaḍ rātrayordvitīye'hani pārthaṃ gautamaḥ samūhāt 1 
+saṃcāraprasaṅgācca pauṇḍarīke 2 
+vāsiṣṭhaṃ śāṇḍilyo'prayogāta ṣaṣṭhe 3 
+saṃcārācca samūḍharūpiṇi 4 
+tṛtīye ṣaḍrātre pañcamasyāhnaḥ pratyavarohīṇyukthāni syurityācāryāḥ 5 
+abhyāsaṅgo hyatra yathā devānāṃ pañcarātre 6 
+triṇavāni vānuktatvāt 7 
+rātrikāritaḥ stomaḥ pratyavaroha iti gautamaḥ 8 
+savanaśeṣatvādukthāni trayastriṃśānyeva syuriti 9 
+saptarātrāṇāṃ prathamasyātirātre pañcaviṃśānyahastomatvāt 10 
+ekaviṃśāni tu jyotiṣṭomapradeśāt 11 
+stomānvayīnīti saptadaśāni syuradhikārāt 12 
+yathā ca stomānvayī ṣoḍaśītyekaviṃśaḥ 13 
+ekaviṃśāni prakṛtistomānvayāt 14 
+pañcaviṃśāni śaucivṛkṣistriṇavaṃ vādyaṃ ṣoḍaśinā ca stomānvaya iti 15 
+pauṇḍarīkacaturthe ṣoḍaśiṣaṣṭhābhāvādyathā kṣullakajāmadagnye 16 
+kriyamāṇe caikaviṃśe svārājyoktānāṃ bṛhatīnāmekaviṃśaṃ śataṃ kratuḥ 17 
+aṣoḍaśikena tu pradeśo na syāt 18 
+virāḍapāye cāpaityanyāsu vā 16 
+anapāyāt kṣullakajāmadagyena 20 
+saṃpadacoditā 21 
+upapannā ca daśarātre 22 
+klṛptaśca ṣaṭtriṃśaḥṣaṭśataṃ hi bṛhatyaḥ 23 
+catuṣṭoma iti jyotiṣṭomasaṃsthāniyamāt 24 
+prakṛtipratyayādviśaye 25 
+guṇāttu pūrvaṃ cātuṣṭomyaṃ tasminnapūrvaṃ paśukāmayajñe 26 
+tatpratyaye nyāyo viśaye 27 
+agniṣṭomasāmaikatṛce saṃsthāniyamāt 28 
+caturṣu nāgniṣṭoma iti vacanāt 29 
+yathā cāśvatrirātre 30 
+sarveṣvatyagniṣṭomasthānakalpanāditi vacanādācāryāḥ 31 
+na tathāśvatrirātraḥ 32 
+anādeśe prakṛteḥ 33 
+dvādaśastotratvādagniṣṭomaḥ iti 34 
+ahīnayājanaṃ na kāryam | bahvṛcataittirīyakabrāhmaṇe hi nindā 35 
+ahirhyenameṣa bhūtvā yajñakraturgirati | yo'hīnena yājayatīti 36 
+vidhestu yājanam 37 
+jyeṣṭhaṃ jyaiṣṭhineyamabhicaryamāṇaṃ citrarathaṃ kāpeyā iti ca bruvanna doṣamāha 38 
+yathā ye mṛtāya kurvantīti 36 
+ubhayorārdhnuvanṛtvigyajamānā iti brāhmaṇam iti brāhmaṇam 40
+iti drāhyāyaṇaśrautasūtre saptaviṃśe paṭale ṣaṣṭhaḥ khaṇḍaḥ 6
+<28>
+<28.1>
+dīkṣākrayaprasavotthānāni sarvasatreṣu pūrvapakṣa upapādayeyuḥ 1 
+teṣāmekasyānupapattau krayo'parapakṣe syāt 2 
+prasavaśca | yadi dve 3 
+triṣūtthānameva pūrvapakṣe syāt 4 
+teṣāṃ dvādaśa dīkṣāstathopasado'nādeśe 5 
+sāṃvatsarikebhyaśca 6 
+ūrdhvaṃ dīkṣāṇāṃ yāthākāmī 7 
+prathame pañcadaśarātra ekānnaviṃśatirdīkṣā iti dhānaṃjayyaḥ 8 
+ekāṣṭakā mahāvratamamāvāsyātirātra iti hyāha 6 
+aṣṭādaśeti gautamaḥ paurṇamāsyatirātra iti hyāha 10 
+jātikalpo vā 11 
+ṣoḍaśarātraprabhṛtīni triṃśadrātrāntāni aṣṭādaśadīkṣāṇyekānnapañcāśadrātrāṇi ca 12 
+dvādaśaprabhṛtīni satrāṇi 13 
+tena yajetāpyahīnabhūtena 14 
+ahīnaliṅgāni hyasmin brāhmaṇaṃ darśayatīti 15 
+yathaikadīkṣaṇaṃ dvādaśāhena yajeta | yadgaurīvitenāhīnān yajamānaṃ vā anupratitiṣṭhantaṃ yajamānamevaitayā varddhayanti | sahasrāṇyaditsatāmiti 16 
+aparimitāni satraliṅgāni 17 
+prathame'hanyākṣāraṃ brahma sāma kurvannaudhasastotrīye kuryāt 18 
+tasyauṣṇihamekākṣaranidhanaṃ sthāne syāt 19 
+naudhasaṃ vā 20 
+anācārastūṣṇikṣu bārhatānām 21 
+anekākṣaraṇidhanāni cātra bhūyiṣṭhāni sāmāni 22 
+tatra pauṣkalaṃ kuryāt 23 
+jyotiṣṭomaprāyāṇi hyatra sāmāni 24 
+etaccaiṣāmakṛtaṃ daśarātre bhavatīti 25
+iti drāhyāyaṇaśrautasūtre aṣṭāviṃśe paṭale prathamaḥ khaṇḍaḥ 1
+<28.2>
+śakvarīṣu ṣoḍaśinā stuvīteti gaurīvitaṃ mahānāmnīṣu syāt 1 
+ṛkcodanā hi tatprakaraṇe 2 
+rahasyatvāccānirdeśaḥ 3 
+prayavo vā nirdeśāt 4 
+indra juṣasveti vādhikāraśakvarīpravādābhyām 5 
+mahānāmystveva ṣoḍaśisāma syuḥ 6 
+na hyetāsvanyatsāmāpadyate 7 
+api ha pṛṣṭhastotrīyeṣu parokṣāṇi kurvannaitāsu nityavatsāḥ karoti 8 
+kṛtā hyetasmin sthāne vajasya 6 
+tāsāṃ sthāne parokṣadarśanāttaduddhāraḥ 10 
+vyatihāre tu jāmisaṃcārau syātām 11 
+syādvobhayatra vidheḥ saṃcārastāsāṃ nānāhatvācca 12 
+etenopāyā vyākhyātā bṛhataḥ 13 
+api ca tatsaṃcāradharmitaram 14 
+virāṭsvanuṣṭupsu ca gaurīvitameva syāt 15 
+svāraprāyāṇi hi ṣoḍaśasāmāni 16 
+anuṣṭapsu gaurīvitaṃ kurvan purāṃbhinduriti kuryāt 17 
+tadanuṣṭabhi nānade ṣoḍaśi sāmni vṛtya saṃcārābhyām 18 
+śakvarīṣu kāmyāni nidhanānīḍāsthāneṣu sarvatra syurityācāryāḥ taddhi bhūyiṣṭham 16 
+ūdhasyeveti gautamadhānaṃjayyau 20 
+atra hi nidhanavādaṃ vadati 21 
+athakārasthāna iti śaucivṛkṣirevamalpīyānvikāraḥ 22 
+aniyamātsarveṣu nidhanasthāneṣviti śāṇḍilyāyanaḥ | tathā kautsaḥ 23 
+uttamayā stotrīyayā purīṣaṃ saṃyuktamānantaryāditi dhānaṃjayyo yathā dvitīyo'dhyāyaḥ 24 
+śakvarībhiḥ stutvā purīṣeṇetyapavṛjya purīṣeṇeti tvāha | tasmādasaṃyuktaṃ syāt 25 
+pañcame'hani rāyovājīyaṃ brahmasāma kurvaṃstasya sthāne kuryāt kalpavṛttenopapannam 26 
+bārhadgiraṃ kuryāt 27 
+araṇyegeyaṃ hi sacchandasya ca samāne cāhani dṛṣṭam 28 
+pārthuraśmaṃ kurvan bārhadgirasyarkṣu kuryādṛcāmasaṃcārāya 29
+iti drāhyāyaṇaśrautasūtre aṣṭāviṃśe paṭale dvitīyaḥ khaṇḍaḥ 2
+<28.3>
+daśamasyāhno'naṅgameke mānasaṃ bruvate bahiṣpatnīsaṃyājatvāt 1 
+astotrasthānaṃ hi 2 
+agniṣṭomāvabhita iti cāha 3 
+avayavena cāsya sargaṃ vadati 4 
+aṅgaṃ tu syādadhikṛtyāmnānāt 5 
+astotramityekastotrasyāpi svātantryaṃ na vidyate 6 
+agniṣṭomāvabhita iti vādamātram 7 
+yathā yadukthyo yajñakratoranantarayāyetyatirātrasya gavāmayane 8 
+na ca sargāvayavādadhikṛtyāmnātamanaṅgaṃ syādyathā rathantaraṃ jyotiṣṭomasya 6 
+atirātrayoḥ ṣoḍaśinyanādiṣṭapratiṣiddhe vā kriyamāṇe yatra virāḍapapadyate kuryādenaṃ tatretyācāryāḥ 10 
+dvādaśāhe hi kriyate na gavāmayane tatra tathopapadyate 11 
+akāraṇaṃ tu saṃpadbahavo hyavirāṭsaṃpannāḥ 12 
+kāraṇaṃ cāpūrvasya vidherna vidyate 13 
+sarvatra vāṣoḍaśikau prakṛtāvantarayāt 14 
+na ca jñātvāṣoḍaśikamāhānyatra vyāhatātirātrābhyāṃ bahulaṃ ṣoḍaśimantam 15 
+yāthākāmī tvatirātrasya prakṛtau yadi vā ṣoḍaśimāniti 16 
+tasmādihāpi tathaiva syāt 17 
+niyamārthau tu vidhipratiṣedhau 18 
+pūrvasmiṃstrayodaśarātre vyūḍhāśchandomāḥ somasāmādeśāt gaurīvitasya cānādeśāt 16 
+gavāmayananyāyena tu pṛṣṭhyaḥ 20 
+avacchinno hi tathā pravartate 21 
+daśarātravattu sacchandomatvāt 22 
+vyūhasamādhyavyatirekāt 23 
+pratnavaccādyabahiṣpavamānam 24 
+pareṇa hyetadasya pratnānurūpa ityāha 25 
+dṛṣṭaṃ ca daśamārthamavyavacchede 26 
+navāhayogaśca 27 
+abhīvartasthāne śyaitanaudhase ca tāsveva 28 
+yathauṣṇihe yāsu sujñānam 26 
+svāsu tvāvartīni 30 
+yathā bṛhato vaṣaṭkāraṇidhanaṃ bṛhadrathantare ca tatpṛṣṭhe ṣaḍahe 31 
+abhīvartakāritāśca pragāthāḥ 32
+iti drāhyāyaṇaśrautasūtre aṣṭāviṃśe paṭale tṛtīyaḥ khaṇḍaḥ 3
+<28.4>
+pūrvasminnekaviṃśatirātre'bhiplavaṃ tṛtīyamanulomaṃ cāha śaucivṛkṣiḥ 1 
+na hyāvṛttirvijñāyate 2 
+pratilomaṃ śāṇḍilyo dvāvabhiplavāvityavacanāt 3 
+uccāvacāni viṣuvatsthāne 4 
+etenokte vidhṛtyādīnāṃ tṛtīyaṣaṣṭhe trayastriṃśadrātre ca 5 
+abhinivṛttimuttareṣāṃ darśayatītyeke 6 
+saṃvatsarādeśādrātrisatreṣu tathaivābhiplavānāmabhyāsaḥ syāditi gautamaḥ 7 
+āvṛttānāṃ pañcāhānāṃ prathamasya pañcāhasya prathamasyāhno mānavādirbṛhatī tajjāmi syātsaṃtaninā 8 
+vaikṛtatvāttu nivṛttiḥ | pañcāheṣvabhiplavanna prasṛjet 6 
+tān pṛṣṭhyastomapañcāhāneke'nādeśe prakṛteḥ 10 
+nānā brahmasāmatvāt 11 
+viśvajidanvayāt 12 
+pṛṣṭhataḥ ṣaṣṭhasyālopavacanāt 13 
+jyotirgaurāyurityavacanāt 14 
+trivṛtā prayanti trivṛtodyantīti cāha 15 
+samāstvete 16 
+abhiplavapañcāhā eveti gautamaḥ adhikṛto hi saḥ satreṣu 17 
+itaraścādṛṣṭaḥ 18 
+abhyāsaścāsya na prākṛtasyāpi kṛtaḥ pañcāhasya 16 
+gaurīvitābhyāsaṅgayoranādeśāt 20 
+pañcame'bhiṣomāgrahaṇāt 21 
+atirātro jyotirgaurāyurgaurāyuḥ pañcāhaḥ 22 
+sa dvitīyaḥ sa tṛtīyaḥ iti cātra parabrāhmaṇam 23 
+eṣa pratnā vārkajambhe pratipañcāhaṃ yathā lokaṃ bṛhadrathantarāśca 24 
+eṣa pratnā pūrve pakṣasi vārkajambhamuttare 25 
+yad viśvajiti chandomānupayantīti ṣaṣṭheṣu syuryathāpacitau 26 
+praṇayasthāneṣu vāviśeṣāt 27 
+pavamāneṣu vāvāpasthānatvāt 28 
+pārṣṭhikāstveva stomāḥ syuḥ 26 
+pṛṣṭhyāśchandomā nirmitāḥ 30
+iti drāhyāyaṇaśrautasūtre aṣṭāviṃśe paṭale caturthaḥ khaṇḍaḥ
+<28.5>
+āñjanābhyañjanāsu gārhapatya upasatsu sarpīṃṣi phāṇayeyuḥ | pṛthagdevasurabhīṇi yānyuktāni bāhmaṇena 1 
+taiḥ sutyāsūpakaraṇavelāyāṃ savanānāṃ pūrveṇa havirdhāne āsīnā āñjīrannabhyañjīraṃśca 2 
+bhuktvāgnīdhrīya eveti gautamaḥ 3 
+aharaharetat kuryuriti dhānaṃjayyaśāṇḍilyau 4 
+sarvastoma eveti gautamaḥ 5 
+pṛṣṭhya eke 6 
+abhiplaveṣveke 7 
+saṃvatsarasaṃmitāsu prathamaṃ dāśarātrikaṃ prāyaṇīyaṃ syādityeke | trivṛdeva kāryamityāha 8 
+prāyaṇīyaṃ tu codayitvā tasya stomavikāraṃ gṛhṇāti 9 
+dāśarātrikāṇāṃ cāvayavaprayogo na vidyate 10 
+āvatte'bhiplave śākvaravarṇaṃ syādityācāryāḥ sāṃvatsarikasya dravyasyānugrahāyeti 11 
+caturthastvabhiplavo luptastena sahopeyādyathā pṛṣṭhyena janitram 12 
+saṃtani pūrvaprayuktamāvṛttisāmatvāt 13 
+apatyaṃ saṃprayogāt 14 
+yaṇvaṃ tu syāt 15 
+upariṣṭādyadabhiplavānāṃ lopasthānaṃ pūrvasmin pakṣasi tatpurastādāvṛttānām 16 
+ekasmiṃścaitadeva dṛṣṭam 17 
+etenoktamekaṣaṣṭirātre 18 
+śatarātre'bhiprāyamabhiṣuṇvanti | samānatrabhiṣuṇvantīti savikalpaḥ syāt 16 
+yāvantaḥ sunuyuryathā sārasvateṣu yatra tu kva ca samāne deśe vā yathānyeṣām 20 
+ayānta eva cakrībhavanti sadohavirdhānāni kārayitvāhaḥsaṃsthāsu cakrāṇi viparivartayeyurityācāryāstadabhiprāyāttadrūpam 21 
+aprayāṇāt samānatrābhiṣavaḥ 22 
+aharaharetat kuryuriti dhānaṃjayyaśāṇḍilyau 23 
+abhiplava eveti gautamaḥ 24 
+pṛṣṭhya eke 25 
+trikadrukeṣveke 26 
+uktakālā dīkṣā brāhmaṇena gavāmayanasya 27 
+vaiśākhajyeṣṭhau tu vikalpete | caitrīpakṣeṇāṣāḍhaśca 28 
+ṣaṣṭhyāṃ vā dīkṣitvā saptadaśa dīkṣāḥ kurvīran 29 
+etenoktamanādeśe sāṃvatsarikānāṃ sāṃvatsarikānām 30
+iti drāhyāyaṇaśrautasūtre aṣṭāviṃśe paṭale pañcamaḥ khaṇḍaḥ 5
+<29>
+<29.1>
+pañcasu māḥsu bārhatāḥ pragāthāḥ āpyanta ityabhīvartastotrīyāḥ 1 
+brahmasāmabhūtasya tasya hi prakaraṇe śrūyante 2 
+anyonyaḥ pragātha iti ca nānāpragāthastaṃ darśayati 3 
+catuḥśatamaindrā bārhatāḥ pragāthā daśatayīṣu 4 
+teṣāṃ bṛhadrathantarakāleyastotrīyā indrakratuścānyatra sthāne 5 
+śatasyaikaṃ caturviṃśe kuryāditarānabhiplaveṣu 6 
+ekonatriṃśatsātobārhatāstṛcāsteṣāmekaikaṃ tṛtīye tṛtīye'hani kuryāt 7 
+kṛtā hyetasmin sthāna ārṣeyakalpena 8 
+pañcamasya māsasyottame'bhiplave pañcame'hani satobṛhatīḥ kuryāt | pragāthāprabhavāt 6 
+teṣvāpteṣu chandasī saṃyujyaitavyamiti ṣaṣṭhe māse 10 
+gāyatrīpādamekaikamuṣṇihāmupariṣṭāt kuryāt 11 
+viṣṭāvānupapattirytanyathā 12 
+sātobārhataśeṣo'ṣṭau tān kṛtvā saṃyoga iti gautamaḥ 13 
+bṛhatīkṣayāddhyevamāmanatīti 14 
+caturuttaraireva chandobhiretavyamiti gāyatrīṃ caturviṃśe kuryāduṣṇihaṃ prathama ābhiplavike'nuṣṭabhaṃ dvitīye bṛhatītareṣu 15 
+uddharettu pañcamādahnaḥ satobṛhatīḥ prabhavanti hi pragāthāḥ 16 
+tatra paṅktiḥ kṛtvā ṣaṣṭhe vā triṣṭubhā ṣaṣṭhaṃ māsamīyurjagatī tṛtīye svarasāmni 17 
+navasātobārhataśeṣo dvau ca pragāthau tān kṛtvā paṅktimupeyusteṣāṃ vottamasya sthāne taṃ ṣaṣṭhe tata ūrdhvaṃ triṣṭubheti gautamaḥ 18 
+bṛhatyā caiva triṣṭubhā caitavyamiti 16 
+triṣṭubhaṃ caturviṃśe kuryāt | bṛhatīṃ prathama ābhiplavike 20
+iti drāhyāyaṇaśrautasūtre ekonatriṃśe paṭale prathamaḥ khaṇḍaḥ 1
+<29.2>
+eṣa viparyāsaḥ sarvasminnayane 1 
+etāni mahānānātvāni 2 
+caturuttaraprayogo bṛhatītriṣṭubhośca viparyāsaḥ ṣaṣṭha eva māse syāditi śaucivṛkṣiḥ 3 
+saṃśara iva vā eṣa chandasāmiti hi tasminnupodya vidadhāti 4 
+sarvatraivetyācāryāḥ 5 
+caturuttarāṇi hyanupūrvaṃ prayuñjāno bṛhatīṃ madhya āmanati 6 
+triṣṭubhā ṣaṣṭhaṃ māsamiti cāha 7 
+bṛhatīkṣayātpunarviparyāsastasminnopapadyate 8 
+sāprāyyeṇa bṛhatīgrahaṇamiti śaucivṛkṣiḥ 9 
+pañca māsa iti vā rātrayaḥ 10 
+triṣṭubheti yathā bhūyasavādaḥ 11 
+akṣīṇāśca bṛhatyaḥ 12 
+sātobārhataśeṣo hyaṣṭau bṛhadrathantarakāleyastotrīyāśca 13 
+naistriṣṭubho vyatyasyet 14 
+taraṇiritsiṣasatīti kāleyaṃ syādyadahastasya stotrīye'bhīvartaḥ 15 
+tvāmiddhīti rathantaraṃ yadahastasya 16 
+svarasāmnorvānyatarasmin rathantarasya stotrīyaṃ kuryāt 17 
+kṛtā hi tatrānyā rathantarasya 18 
+evaṃ vyācakṣata ācāryāḥ 16 
+viṃśatiśataṃ tvapi pragāthānadhīyate | tebhya eva prayuñjīta 20 
+saṃrodho hi catuḥśate 21 
+tatra tathaiva sato bṛhatīḥ kuryāt 22 
+uddharettu pañcamādahnaḥ 23 
+śaucivṛkṣeḥ punarviparyāso'nyāyyena 24 
+akṛtakriyā hi vidhānam | kṛtāḥ punarbṛhadrathantarakāleyastotrīyāḥ 25 
+|
+iti drāhyāyaṇaśrautasūtre ekonatriṃśe paṭale dvitīyaḥ khaṇḍaḥ 2
+<29.3>
+viṃśatiśatasya tu śeṣo vidyate | teṣāṃ saptabhiḥ sāto bārhataiśca caturbhirvyatyasyet 1 
+trayastriṃśatprabhṛtīn saha caturviṃśeṣu kuryāduttame ca svarasāmnītyācāryāḥ 2 
+abhīvartaprakaraṇe hi śrūyante | so'trāpyabhīvarta iti 3 
+antareṇa tvetāvārṣeyakalpena kṛtaṃ ṣaṭpragāthamihāpi tathaiva syāt 4 
+teṣāṃ yatra samaprayoge tṛtīye tṛtīye'hani satobṛhatya upapadyeran kuryādetāstatra 5 
+anupapadyamānāsu pragāthā eva syuḥ 6 
+anācāro hi ṣaḍahe'nyatra tṛtīyādahnaḥ satobṛhatīnām 7 
+sa yathaiva purastādabhīvartastotrīyān kuryāt tathopariṣṭādindrakratau brahmasāmāni nidhanavanti tacchandasyāni 8 
+tacchandasyābhāve'pyanyāni gītinidhanopetāni 9 
+evamupekṣitamindrakratupragāthamanugṛhṇannāhatamastūyamānamanuśaṃsayan sāmāni pratikalpayet 10 
+na vā śaṃsayediti gautamaḥ 11 
+janitraṃ viśvajiti 12 
+yāni pṛṣṭhye tāni dāśarātrike pṛṣṭhye 13 
+catvāryeṣāṃ chandomeṣu yathābhāgaṃ yathāpṛṣṭhaṃ vā 14 
+paurumīḍhaṃ vrate śyaitaṃ vā 15 
+atirātracaturviṃśābhyāṃ saha ṣaṣṭho māsaḥ pūrvasminpakṣasi 16 
+vratātirātrābhyāṃ prathama uttarasmin 17 
+yadetāni sāmāni na cyavanta iti gaurīvitasyottarayornihavaśyāvāśve syātāṃ sarvatra gavāmayane 18 
+anārabhyācyavanaṃ vidadhātītyeke 16 
+anvavetyavidhistvārṣeyakalpena kṛto gaurīvitaśyāvāśvayornihavasya ca 20 
+brāhmaṇe na tathā satyacyavanaṃ syāt 21
+iti drāhyāyaṇaśrautasūtre ekonatriṃśe paṭale tṛtīyaḥ khaṇḍaḥ 3
+<29.4>
+sarve sahartvijo mahāvratena stuvīrannityudgātṛvikāra eva syāt 1 
+aśrutibhūtā hyanye 2 
+avāpyante ca sarvaśabdasteṣveva 3 
+saha stuvīranniti karmasamavāyāt 4 
+paurvāparyadarśanādanupūrvaṃ stavanaṃ syāt 5 
+tisṛbhirudgātātmana udgīyeti cātmanā jaghanyastavanaṃ darśayati 6 
+nanādeśastavanaṃ chandogānāmeva syāt 7 
+udgātaiva sarveṇodgāyediti hyuktvā tasya deśān vidadhāti 8 
+havirdhāne śirasā stutvā saṃrabdhāḥ pratyañcameyuste dakṣiṇena dhiṣṇyān parītya paścānmaitrāvaruṇasya dhiṣytasyopaviśyeti ca ye śirasā stuvate teṣāmevetaraiḥ stavanaṃ darśayati 9 
+ilāndamagniṣṭomasāma kāryamityagre tavaśravovaya ityetāsāṃ pūrvāsu tisṛṣu daśākṣareṣvārcikānyanugānāni 10 
+evaṃ tṛce bhavati 11 
+ṣaḍṛca ityācāryā ardharceṣvanugānāni 12 
+dvādaśarca iti śāṇḍilyaḥ 13 
+tatrāparāvāgneyau tṛcāvāharedāte agne'gniṃ taṃ manya iti 14 
+caturthamevānugānaṃ tṛca iti vārṣagaṇyaḥ 15 
+atra hi nidhanavādaṃ vadati | vratamiti bhavati | svariti bhavati | śakuna iti bhavatīti 16 
+bhaktayaśca kalpānte 17 
+nānāsāmavaccainānyeke'dhīyate'dhīyate 18
+iti drāhyāyaṇaśrautasūtre ekonatriṃśe paṭale caturthaḥ khaṇḍaḥ 4
+<30>
+<30.1>
+chandomadaśāhayordaśamasya trayastriṃśamagniṣṭomasāma syādityeke trikaṃ sārparājñaṃ daśamapradeśāt 1 
+yathābhūyasavādaścaturviṃśamiti 2 
+ṛksāmāni tu pradiśyante daśamātsarvaṃ hyaharadhikṛtya codyate caturviṃśameva 3 
+na cāvakṣyat 4 
+pratyakṣavidhānācca yathābhūyasavādaḥ 5 
+brāhmaṇavihite ca stome kalpapradeśa ṛksāmnāṃ bhavati 6 
+triṃśinaḥ sutyāmāsāḥ sarvatra saṃcakṣīran 7 
+kauṇḍapāyināmayane ca hāviryajñikān 8 
+tāpaścite ca daikṣopasadān 6 
+dṛtivātavatorayane dvāvekonau māsau sunuyuḥ 10 
+trivṛtāviti gautamaḥ 11 
+trayastriṃśāviti dhānaṃjayyaḥ 12 
+ubhau vā triṃśinau syātām | yathaitadbrāhmaṇam 13 
+tathā satyaṣṭamyāṃ pūrvapakṣasya dīkṣitvā pañcadaśadīkṣāḥ kurvīran 14 
+etenoktaṃ sarpasatre 15 
+pañcadaśānāṃ daśamasyāhnaḥ āṣṭādaṃṣṭrāntānyukthāni syurityācāryāḥ | ṣoḍaśāpāyāddhi nivṛttaṃ nārmedham 16 
+yathā trivṛtsu maukṣamukthāpāyāditi 17 
+avacanāttu nivṛttirna syādyathānyeṣāṃ sāmnām 18 
+vacanaṃ ca kāraṇaṃ nārmedhasya na ṣoḍaśī dṛśyate cābhīkṣṇamaṣoḍaśikeṣu 16 
+tasyāyanavicāraḥ 20 
+pṛṣṭhyenaikaiko māso vartetetyeke 21 
+pṛṣṭhyastomeneti śāṇḍilyaḥ 22 
+abhiplavapṛṣṭhyābhyāmiti śaucivṛkṣiḥ 23 
+pṛṣṭhyasyāhnaikaikeneti śāṇḍilyāyanadhānaṃjayyau 24 
+jyotiṣṭomeneti lāmakāyanaḥ 25 
+tasya rathantaraṃ pṛṣṭhaṃ bṛhacca vyatyāsam 26 
+yathārṣeyakalpasamāmnāya iti kṣairakalāmbhiḥ 27
+iti drāhyāyaṇaśrautasūtre triṃśe paṭale prathamaḥ khaṇḍaḥ 1
+<30.2>
+paurṇamāsīprabhṛtayo dīkṣāḥ kauṇḍapāyinasya 1 
+tasyopasadanta upavasathavat karma kṛtvātirātramupeyuriti śāṇḍilyaḥ evaṃ hi gṛhyate vṛttiḥ 2 
+hutisaṃsthā ekānnatriṃśatamahānyagnihotraṃ juhuyuḥ 3 
+māsameveti gautamaḥ 4 
+sutyānāṃ tu purastādupavasathakarma syādatirātraścaivaṃ ca gṛhyate vṛttiḥ 5 
+avyavāyaśca haviryajñaiḥ sutyānām 6 
+aśravaṇādatirātro na syāditi dhānaṃjayyaḥ 7 
+pratyantāddhyanyeṣu codayanneha vidadhātīti 8 
+tasyopasadanta evopavasathakarma kuryuraṣṭādaśabhyo vordhvaṃ śaunāsīryebhyo rājānaṃ krīṇīyurevamanantaraṃ sutyābhyo bhavatīti 9 
+dīkṣopasadāṃ vyavāyo'nyāyya iti śāṇḍilyāyanaḥ 10 
+te māsi somaṃ krīṇantīti vānantaraṃ dīkṣābhyaḥ darśayati 11 
+upavasathakarmaivānantaraṃ sutyābhyaḥ syāditi 12 
+āgnīdhrīyādaṅgārānmārjālīyaṃ hṛtvā pṛthak sthālīpākāṃśca śrapayitvā pitṛyajñān kurvīran 13 
+tato dakṣiṇātipraṇayeyuḥ paitṛyajñikāyām 14 
+āhavanīyāddakṣiṇato varuṇapraghāseṣu 15 
+tasmin kuryuryaddakṣiṇata āhavanīye kṛtyam 16 
+upavasathakarma cet kṛtaṃ syāt 17 
+yathāprakṛtyakṛte 18 
+agnihotramāse dīkṣitānnasyādhvaryurjuhuyādanvārabdhā itare syuḥ 16 
+havīṃṣyeveṣṭyayaneṣūpālabheran 20 
+agnihotropasthānaṃ viṣṇukramāḥ samiṣṭayajūṃṣīti na kriyeran 21 
+avabhṛthanyaṅgaṃ ceti śāṇḍilyāyanaḥ 22 
+samidhastvādadhyustatra purastāduktāḥ syuḥ 23 
+sarvaṃ kriyeteti dhānaṃjayyaḥ 24 
+māsaṃ darśapaurṇamāsābhyāmityāmāvāsyena pūrvapakṣamuttaraṃ paurṇamāsyena 25 
+āmāvāsye pitṛyajñaḥ sakṛdbhūtvā na syāditi gautamaḥ 26 
+sakṛcca na syāditi śāṇḍilyaḥ 27 
+aharahaḥ syāditi dhānaṃjayyaḥ 28 
+|
+iti drāhyāyaṇaśrautasūtre triṃśe paṭale dvitīyaḥ khaṇḍaḥ 2
+<30.3>
+māsaṃ sākamedhairiti brāhmaṇamanusaṃdhatte māsaṃ sākamedhairiti gṛhamedhīyeneṣṭvā tadaiva śeṣaṃ saṃsthāpayeyuḥ 1 
+evaṃ triṃśatkṛtva upetā bhavantīti 2 
+dvyahāpavargastveṣāṃ prakṛtau pañcadaśakṛtva evābhyasyeyuḥ sa māsaḥ 3 
+agnihotraṃ daśahoteti daśahotāraṃ nāmādhvaryavo'gnihotropasthānamadhīyata ṛtvija uttarairabhipretā vaṣaṭkāriṇo'dhvare 4 
+atsarukaiścamasairbhakṣayeyuḥ kuṇḍapratirūpaiḥ 5 
+hotrā samāsa ukto brāhmaṇena 6 
+svādāsanādupasaṃcāraṃ brahmetare hotre kuryāt 7 
+tathodgātṛprastotārāvāgnīdhraśca 8 
+vyatikramameke śāstrasaṃbhavāt 6 
+yo neṣṭā sa udgātetyabhaviṣyat 10 
+gṛhapatirgṛhapatiḥ subrahmaṇyaḥ iti asamāsaṃ tayordarśayati 11 
+etenoktastāpaścitasya dīkṣādiḥ 12 
+tasyāyanavicārāḥ 13 
+jyotiṣṭomo'tirātraḥ ṣoḍaśimānaharahaḥ syāditi dhānaṃjayyaḥ 14 
+catvāro jyotiṣṭomā abhijideṣa pañcāhaḥ ṣaṭsu māseṣvabhyasyeta 15 
+mahāvrataṃ viṣuvān 16 
+athaita evāvṛttāstairāvṛttairuttarān ṣaṇmāsān 17 
+viśvajidabhijitsthāne 18 
+tatpuruṣasya nārāyaṇasyāyanam 16 
+eṣa eva pañcāhaḥ kevalaḥ kṛtsnaṃ saṃvatsaraṃ māsānteṣu viśvajidabhijitsthāne tadyāvajjīvāyanaṃ bruvate 20 
+stotrīyā hi varṣaśatabhakti samāse 21 
+abhijidaharahastadagneḥ 22 
+jyotiṣṭomo vā rathantarapṛṣṭhaḥ 23 
+bṛhatpṛṣṭha indrasya 24 
+vyatyāse bṛhadrathantare ṣaṣṭhe syātāṃ tadindrāgnyoḥ 25 
+tadindrāgnyorayanam 26 
+ubhayasāma brahmaprajāpatyoḥ 27 
+vāyorvairūpapṛṣṭho vrataṃ vā 28 
+ādityasya vairājapṛṣṭho viśvajidā 29 
+apāṃ śakvarīpṛṣṭhaḥ 30 
+gavāṃ revatīpṛṣṭhaḥ 31 
+prajāpatervāmadevyapṛṣṭhaḥ 32 
+viśveṣāṃ devānāṃ svarapṛṣṭhaḥ 33 
+sūryasya mahādivākīrtyapṛṣṭhaḥ 34 
+mahendrasya mahāvratapṛṣṭhaḥ 35
+iti drāhyāyaṇaśrautasūtre triṃśe paṭale tṛtīyaḥ khaṇḍaḥ
+<30.4>
+kṣullaka tāpaścitamahātāpaścitayordīkṣopasatsutyāmāsāḥ pṛthakcaturvargāḥ saṃvatsarāḥ parasya 1 
+saṃvatsarāḥ parasya 2 
+ayanamāsato vṛddhisaṃrodhau gavāmayane klṛptau 3 
+uttarasyāyanavicārāḥ 4 
+gavāmayanaṃ caturupeyuḥ 5 
+pūrvāṇi vā trīṇi dṛtivātavatorayanacaturthānyupeyuḥ 6 
+kausurubindaṃ vāyanaṃ syāt 7 
+jyotiṣṭomena vā 8 
+tena trīṇyuttarāṇi 9 
+tasya rathantaraṃ pṛṣṭhaṃ bṛhacca vyatyāsam 10 
+dṛtivātavatorayaneneti kṣairakalāmbhiryathārṣeyakalpasamāmnāya iti 11 
+agniṣṭomāstrivṛta ukthyāḥ pare iti 12 
+tatrāvacanādatirātrā na syurviṣuvantaśceti śāṇḍilyaḥ 13 
+itaraḥ satranyāya iti dhānaṃjayyaḥ 14 
+atirātrāvabhitaḥ syātām 15 
+madhye viṣuvān bṛhatpṛṣṭho rathantaramadhyaṃdinaḥ paśadaśasaptadaśaḥ 16 
+ekaikasminvai tatsaṃvatsaravarge syāt 17 
+uttame vā vargāṇām 18 
+pṛthagvā saṃvatsareṣu 16 
+teṣāṃ yathāstomaṃ viṣuvantaḥ syuḥ 20 
+rathantarapṛṣṭho bṛhadbrahmasāmā trivṛtāṃ syāt 21 
+bṛhatpṛṣṭho rathantaramadhyaṃdinaḥ pareṣu 22 
+yajanīye'hani prasavaḥ syāt | pūrvvapakṣe samārddhamāsātivartiṣu 23 
+aparapakṣe viṣameṣu 24 
+sahasrasāvye sahātirātrābhyāṃ sahasramahānyācāryāḥ sahasrasāvyamiti hyāha 25 
+antareṇeti śaucivṛkṣiḥ 26 
+sahasramahānītyantareṇātirātrāvāha 27 
+tasyāyanakalpaḥ 28 
+atirātrastrikadrukastrirātrāścatuḥṣaṣṭiśatamabhiplavānāṃ rātro vratamatirātra iti vratamatirātra iti 29
+iti drāhyāyaṇaśrautasūtre triṃśe paṭale caturthaḥ khaṇḍaḥ 4
+<31>
+<31.1>
+dakṣiṇe tīre sarasvatyā vinaśanasya dīkṣeran sārasvatāya 1 
+ṣaṣṭhyāṃ pūrvapakṣasyeti gautamo'māvāsyāyāmatirātraḥ syāt 2 
+evaṃ svasthānamāmāvāsyaṃ prayujyate 3 
+saptamyāṃ vā dīkṣitvāmāvāsyāyāṃ yajanīye'hani prasavaḥ syāditi dhānaṃjayyaḥ | samādhaya uttarābhyāṃ sutyābhyām 4 
+svasthānaṃ caivāmāvāsyaṃ prayujyate 5 
+pūrvapakṣo hyāmāvāsyasthānamiti 6 
+purā rātreḥ sāyaṃ dohaṃ dohayeran 7 
+saṃsthite'tirātre prātardoham 8 
+tena sānāyyena yajeran 6 
+sānāyyeneṣṭvādhvaryuḥ śamyāṃ parāsyatītyāhavanīyanyantena tiṣṭhan prāṅmukho nityeṣṭisaṃsthānastu prāsyet 10 
+taduktaṃ brāhmaṇena 11 
+cakrīvattā ca 12 
+tathāpi patnīśālā syācchāmitraśca 13 
+tāni yathādeśaṃ varteran samaścedbhūmibhāgaḥ syāt 14 
+anupūrvaṃ viṣame 15 
+vedeḥ pāṃsūn hareyustathottaravederdhiṣṇyebhyaśca 16 
+tānniviśya yathāyatanaṃ nivapeyuḥ 17 
+ulūkhalabudhno yūpaḥ iti pṛthubudhnaḥ syāt 18 
+prakṛṣya iti taṃ pūrvaṃ karṣayeyurevānudyacchantaḥ 19 
+upopta evetyanikhātastiṣṭhetpāṃśubhiḥ paryuptaḥ 20 
+noparavān khanantītyadhiṣavaṇaphalakayoradhastāduparavā nāma śvabhrāsteṣāṃ pratiṣedhaḥ 21 
+ālikheyurevainānna khaneyuḥ 22 
+teṣāṃ paurṇamāsyāṃ goṣṭomo bhavatīti 23 
+yajanīye'hani syādityācāryāḥ 24 
+saṃsthite goṣṭome paurṇamāsamiti saṃsthānāntādvidadhāti 25 
+te tamāpūryamāṇaṃ te tamapakṣīyamāṇamiti kṛtsnavatpakṣābhidhānam 26 
+parvaṇi tveva syāt 27 
+teṣāṃ paurṇamāsyāṃ teṣāmamāvāsyāyāmiti hi pratyakṣeṇa vidadhāti 28 
+karmānantarīyamātraṃ ca saṃsthā darśapaurṇamāsayoḥ 26 
+te tamāpūryamāṇaṃ te tamapakṣīyamāṇamiti ca yathābhūyasavādaḥ 30 
+saṃsthite goṣṭome tadahareva paurṇamāsena haviṣeṣṭvodyuñjeranniti dhānaṃjayyaḥ 31 
+ayajamānāstatraiva tāṃ rātriṃ vaseyuriti śāṇḍilyaḥ 32 
+udyujyaiveti gautamaḥ śvobhūte tu yajeran
+iti drāhyāyaṇaśrautasūtre ekatriṃśe paṭale prathamaḥ khaṇḍaḥ 1
+<31.2>
+etenāyurvyākhyātaḥ 1 
+tatra dhānaṃjayyenāmāvāsyāyāṃ sāyaṃdohaṃ dohayeran purā prātaranuvākātprātardohamiti 2 
+aticiramevaṃ dugdhaṃ sānnāyyaṃ tiṣṭhediti śāṇḍilyāyanaḥ 3 
+itarayorevānyatarat kuryuḥ 4 
+kauṇḍapāyine bhojanamuktamiṣṭyayaneṣu 5 
+darśapūrṇamāsadharmāśca 6 
+candrapramāṇāstveva parvasu syuḥ 7 
+taddhi pratyekāpyetīti dṛṣadvatyā apyaye aponaptrīyāmiṣṭiṃ nirvaperanyadi sodakā syāt 8 
+apyanudakāyāmiti dhānaṃjayyaḥ 6 
+śate goṣvṛṣabhamapyṛjantīti vatsatarīśate agarbhiṇīṣu 10 
+tā yatra gavyamabhayaṃ syāttatra rakṣeyuḥ 11 
+puṅgavaistāsāṃ bhuñjīran sarpiṣā ca 12 
+tāsu sahasraṃ saṃpannāsu pūrvapakṣe gāmatirātraṃ kṛtvā datvainā uttiṣṭheyuḥ 13 
+yadā sarvajyāniṃ jīyanta iti tāsāmevādhikāraḥ | prakaraṇa bhūtatvāt 14 
+tatra viśvajidatirātraḥ 15 
+mṛte gṛhapatāvāyuḥ 16 
+prādurbhāvāntādetayorāpadoruttiṣṭheyurapyaparapakṣe 17 
+na sakṛcca na sarasvatyāmavabhṛthamabhyaveyurdevayajanabhūtā hyeṣā bhavati 18 
+avidyamāne sarasvatyā evoddhāraṃ pārśvatastu 16 
+yadā plakṣaṃ prāsravaṇamāgacchantyathotthānamiti 20 
+tathā prāsyeyuryathenaṃ pūrvapakṣa āgaccheyuḥ 21 
+taṃ prāpya prāyaṇīyamatirātramupetyottiṣṭheyuriti śāṇḍilyaḥ 22 
+yadenātkiṃcidutthānamāgacchet prāyaṇīyamevātirātramupetyottiṣṭheyuriti dhānaṃjayyaḥ 23 
+plakṣaṃ prāsravaṇaṃ prāpya purastādatirātrasyāgnaye kāmāyeṣṭiḥ syāditi śāṇḍilyaḥ | upariṣṭāditi dhānaṃjayyaḥ 24 
+tasyāmaśvāṃ ca puruṣīṃ ca dhenuke yajñopakaraṇaśeṣāṃścābhirūpāyānyasmai dadyuḥ 25 
+svāmino hi sarve satreṣu teṣāṃ pratigrahaṇaṃ na vidyate iti 26 
+ukto'vabhṛtho brāhmaṇena 27 
+apṛṣṭhaśamanīyametat 28
+iti drāhyāyaṇaśrautasūtre ekatriṃśe paṭale dvitīyaḥ khaṇḍaḥ 2
+<31.3>
+etenaivottare vyākhyāte 1 
+tatrāgnaye kāmāyeṣṭiraponaptrīyā ca sruvahomau syātām 2 
+iṣṭirevāgnaye kāmāyopariṣṭāccedatirātrasyeti śāṇḍilyaḥ 3 
+parvaṇorindrakukṣī 4 
+paurṇamāsyāmabhijit 5 
+pūrvasyāgniṣṭomau trivṛtī rāthantarabārhate pūrvapakṣa ukthye pañcadaśe rāthantarabārhate aparapakṣa iti gautamaḥ 6 
+te na pakṣayoḥ saṃcārayet 7 
+sarvatra tveva trivṛtpañcadaśau vyatyāsaṃ syātām 8 
+tayoryasminnanupete parvāgacchettenottaraṃ pakṣamupakrameta 9 
+etenoktamuttarasya trikadrukeṣu 10 
+dārṣadvatataurayorvratāni 11 
+tiṣṭheddivāsīta naktam 12 
+havirucchiṣṭabhojī syāt 13 
+amāṃsāśī 14 
+alavaṇāśī 15 
+na striyamupeyāt 16 
+yathā prakṛtyāhitāgnivṛttiṃ vartayet 17 
+dārṣadvate saṃvatsaraṃ brāhmaṇasya gā rakṣedṛtvija ācāryasya vā 18 
+naitandhavānāmārmmāḥ sarasvatyāṃ teṣāmeko vyarṇastasmin saṃvatsaramagnimindhītathaikāgneḥ paricaryā tayā 19 
+agnihotrameva juhvat purastāccedāhitāgniḥ 20 
+saṃvatsarādūrdhvaṃ parīṇaṃ nāma sthalī kurukṣetre tasyāmagnīnādhāya yathākālamanvārambhaṇīyeṣṭyeṣṭvā prasṛjyeteti śāṇḍilyaḥ 21 
+darśapūrṇamāsābhyāṃ yajeteti dhānaṃjayyaḥ 22 
+sāyaṃprātarāhutīreva hutvā purastāccedāhitāgniḥ 23 
+sarasvatīdṛṣadvatyoḥ saṃbhedaṃ prāpyāgneyenāṣṭākapālena yaṣṭumupakrameta 24 
+atra śamyāprāsanaṃ yathā sārasvateṣu 25 
+na tu prakramān prakrāmet 26 
+kāmamanekāmiṣṭimekaikenāhnā saṃsthāpayet 27 
+dṛṣadvatyā dakṣiṇena tīreṇeyāt 28 
+tasyāḥ prabhavyamarmaṃ prāpyaitayeṣṭyeṣṭvā triplakṣāpaharaṇaṃ prati yamunāmavabhṛthamabhyaveyāt 29 
+yatra kva ca tato dūre yamunātīre syāditi dhānaṃjayyaḥ 30 
+tatraitayeṣṭyeṣṭvā svayaṃ sāma gāyannavabhṛthamabhyaveyāt 31 
+agāyanvā 32 
+pravrajiṣyato'yanamidaṃ manya iti śāṇḍilyaḥ 33 
+tadaiva manuṣyebhyastirobhavatīti svargaṃ lokamākramate 34 
+vyāvartate śreyān bhavatīti vā 35 
+na grāmaṃ punareyāditi vā 36 
+udakāntardhānādvā 37 
+yathā sarajasa iti 38
+iti drāhyāyaṇaśrautasūtre ekatriṃśe paṭale tṛtīyaḥ khaṇḍaḥ 3
+<31.4>
+saṃvatsaramaharahastaureṇa yajeta 1 
+ṣaṣyāṃṛta caitrī pakṣasyetyācāryāḥ 2 
+pañcamyāmiti śāṇḍilyāyanaḥ 3 
+prātarāhutiṃ hutvā vratopāyanīyamodanamaśitvā keśaśmaśrūṇi vāpayitvāhataṃ vasanaṃ paridhāya parisamuhyāgnīn paristīrya praṇītāḥ praṇīya daṇḍaṃ pāṇau kṛtvā mekhalāmābadhya navanītenāṅgānyabhyañjaya paścāt gārhapatyasyopaviśya svayaṃ kṛṣṇājinaṃ pratiṣajyeta tūṣṇīm 4 
+paścimenāhavanīyaṃ dakṣiṇātikramyaitat kuryāt 5 
+tasya tisra iṣṭayaḥ | pūrvāhṇa ekā | pṛthaktvaṃ madhyaṃdināparāhṇayoḥ 6 
+tāsu pṛthaganupūrvaṃ havīṃṣi yānyuktāni brāhmaṇena 7 
+ekā vaiva syāttasyāṃ tāni sarvāṇi syuḥ 8 
+tatra sāmagānaṃ yathā pūrvasmin 9 
+ubhayostvavabhṛthādudetya yat purastādiṣṭyayanaṃ teneṣṭvā somena yajeta 10 
+yāvanti vā havīṃṣi purastāttāvadbhirvā paśubhistaddevatyaiḥ 11 
+sarpasatraṃ gavāmayanaṃ stomasaṃsthāvikṛtamityeke 12 
+ṣaṇḍakuṣaṇḍāvabhigarāpagarāviti hyāha 13 
+pratyakṣavihitaṃ tvārṣeyakalpena tatrānumānaṃ na vidyate 14 
+abhigarāpagarāvevopottame'hani syātām 15 
+paurṇamāsīprasavaṃ trisaṃvatsarama 16 
+tasya yāthākāmī dīkṣāṇām 17 
+ṣaṣṭiriti śāṇḍilyaḥ 18 
+prathamottamau saṃvatsarau vyatiharediti dhānaṃjayyaḥ 19 
+abhiplavastomapṛṣṭhyadeśarohārthaḥ 20 
+amāvāsyāprasave sahasrasaṃvatsare sahasrasaṃvatsare 21 
+iti drāhyāyaṇaśrautasūtre ekatriṃśe paṭale caturthaḥ khaṇḍaḥ 4
+samāpto'yaṃ granthaḥ
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Rāmāṣṭaka</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%95%E0%A4%AE%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+|| atha rāmāṣṭakam ||
+sugrīvamitraṃ paramaṃ pavitraṃ sītākalatraṃ navameghagātram |
+kāruṇya pātraṃ śatapatranetraṃ śrīrāmacandraṃ satataṃ namāmi || 1||
+saṃsārasāraṃ nigamaṃ pracāraṃ dharmāvatāraṃ hata bhūmi bhāram |
+sadā nirvikāraṃ sukha sindhusāraṃ śrīrāmacandraṃ satataṃ namāmi || 2||
+lakṣmī vilāsaṃ jagatāṃ nivāsaṃ bhūdeva vāsaṃ sukha sindhu hāsam |
+laṅkā vināśaṃ bhavanaṃ prakāśaṃ śrīrāmacandraṃ satataṃ namāmi || 3||
+maṃdāramālaṃ vacane rasālaṃ guṇayaṃ viśalaṃ hata saptatālam |
+kravyādakālaṃ suralokapālaṃ śrīrāmacandraṃ satataṃ namāmi || 4||
+vedāṃta jñānaṃ sakala satānaṃ haṃtāramānaṃ tridaśaṃ pradhānam |
+gajendrapālaṃ vigatā viśālaṃ śrīrāmacandraṃ satataṃ namāmi || 5||
+khelā'tibhītaṃ svajane punītaṃ syāmo pragītaṃ vacane ahītam |
+rāgenagītaṃ vacane ahītaṃ śrīrāmacandraṃ satataṃ namāmi || 6||
+līlāśarīraṃ raṇaraṅga dhīraṃ viśvai kavīraṃ raghuvaṃśadhāram |
+gambhīranādaṃ jitasarvavādaṃ śrīrāmacandraṃ satataṃ namāmi || 7||
+śyāmābhirāmaṃ nayanābhirāmaṃ guṇābhirāmaṃ vacanābhirāmaṃ |
+viśvapraṇāmaṃ katabhaktikāmaṃ śrīrāmacandraṃ satataṃ namāmi || 8||
+|| iti rāmāṣṭakaṃ sampūrṇam ||
+    </body>
+  </text>
+</TEI>

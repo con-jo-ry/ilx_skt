@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Gaṇeśapaṃcaratnastotra</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%97%E0%A4%A3%E0%A5%87%E0%A4%B6%E0%A4%AA%E0%A4%82%E0%A4%9A%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8_%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8B%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+mudākarātta modakaṃ sadā vimuktisādhakam | kalādharāvataṃsakaṃ vilāsi lokarakṣakam |
+anāyakaika nāyakaṃ vināśitebhadaityakam | natāśubhāśunāśakaṃ namāmi taṃ vināyakam ||1||
+natetarātibhīkaraṃ navoditārkabhāsvaram | namatsurāri nirjaraṃ natādhikāpaduddharam |
+sureśvaraṃ nidhīśvaraṃ gajeśvaraṃ gaṇeśvaraṃ | maheśvaraṃ tamāśraye parātparaṃ nirantaram ||2||
+samasta lokasaṃkaraṃ nirastadaityakuṃjaram| daretarodaraṃ varaṃ varebhavaktramakṣaram|
+kṛpākaraṃ kṣamākaraṃ mudākaraṃ yaśaskaram | manaskaraṃ namaskṛtāṃ namaskaromi bhāsvaram||3||
+akiṃcanārtimārjanaṃ cirantanokti bhājanam | purāripūrva nandanaṃ surāri garvacarvaṇam|
+prapaṃca nāśabhīṣaṇaṃ dhanaṃjayādi bhūṣaṇam| kapoladānavāraṇaṃ bhaje purāṇavāraṇam ||4||
+nitāntakāntadantakāntimantakāntakātmajam | acintyarupamantahīnamantarāyakṛntanam|
+hradantare nirantaraṃ vasantameva yoginām| tamekadantameva taṃ vicintayāmi santatam||5||
+phalaśrutī
+mahāgaṇeśa paṃcaratnam ādareṇa yonvaham| prajalpati prabhātake hradi smaran gaṇeśvaram|
+arogitāmadoṣatāṃ susāhitīṃ suputratām| samāhitāyuraṣṭabhūtimabhyupaiti socirāt||
+    </body>
+  </text>
+</TEI>

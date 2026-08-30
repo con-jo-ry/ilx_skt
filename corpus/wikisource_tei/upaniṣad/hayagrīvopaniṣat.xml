@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Hayagrīvopaniṣad</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%B9%E0%A4%AF%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%B5%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+|| hayagrīvopaniṣat ||
+svajño'pi yatprasādena jñānaṃ tatphalamāpnuyāt |
+so'yaṃ hayāsyo bhagavānhṛdi me bhātu sarvadā ||
+oṃ bhadraṃ karṇebhiḥ śruṇuyāma devāḥ |
+bhadraṃ paśyemākṣabhiryajatrāḥ |
+sthirairaṅgaistuṣṭuvām̐sastanūbhiḥ |
+vyaśema devahitaṃ yadāyuḥ ||
+svasti na indro vṛddhaśravāḥ |
+svasti naḥ pūṣā viśvavedāḥ |
+svasti nastārkṣyo ariṣṭanemiḥ |
+svasti no bṛhaspatirdadhātu ||
+oṃ śāntiḥ śāntiḥ śāntiḥ ||
+hariḥ oṃ || nārado brahmāṇamupasametyovācādhīhi bhagavan
+brahmavidyāṃ variṣṭhāṃ yayā cirātsarvapāpaṃ vyapohya
+brahmavidyāṃ labdhvaiśvaryavānbhavati |
+brahmovāca
+hayagrīvadaivatyānmantrānyo veda sa śrutismṛtītihāsapurāṇāni veda |
+sa sarvaiśvaryavānbhavati |
+ta ete mantrāḥ |
+viśvottīrṇasvarūpāya cinmayānandarūpiṇe |
+tubhyaṃ namo hayagrīva vidyārājāya svāhā svāhā namaḥ || 1 ||
+ṛgyajuḥsāmarūpāya vedāharaṇakarmaṇe |
+praṇavodgīthavapuṣe mahāśvaśirase namaḥ svāhā svāhā namaḥ || 2 ||
+udgītha praṇavodgītha sarvavāgīśvareśvara |
+sarvavedamayācintya sarvaṃ bodhaya bodhaya svāhā svāhā namaḥ || 3 ||
+brahmātriravisavitṛbhārgavā ṛṣayaḥ |
+gāyatrītriṣṭubanuṣṭup chandāṃsi |
+śrīmān hayagrīvaḥ paramātmā devateti |
+lhaumiti bījam |
+so'hamiti śaktiḥ |
+lhūmiti kīlakam |
+bhogamokṣayorviniyogaḥ |
+akārokāramakārairaṅganyāsaḥ |
+dhyānam |
+śaṅkhacakramahāmudrāpustakāḍhyaṃ caturbhujam |
+saṃpūrṇacandrasaṃkāśaṃ hayagrīvamupāsmahe ||
+oṃ śrīmiti dve akṣare |
+lhaumityekākṣaram |
+oṃ namo bhagavata iti saptākṣarāṇi |
+hayagrīvāyeti pañcākṣarāṇi |
+viṣṇava iti tryakṣarāṇi |
+mahyaṃ medhāṃ prajñāmiti
+ṣaḍakṣarāṇi, prayaccha svāheti pañcākṣarāṇi |
+hayagrīvasya turīyo bhavati || 4 ||
+oṃ śrīmiti dve akṣare |
+lhaumityekākṣaram |
+aimaimaimiti trīṇyakṣarāṇi |
+klīṃ klīmiti dve akṣare |
+sauḥ sauriti dve akṣare |
+hrīmityekākṣaram |
+oṃ namo bhagavata iti saptākṣarāṇi |
+mahyaṃ medhāṃ prajñāmiti ṣaḍakṣarāṇi |
+prayaccha svāheti pañcākṣarāṇi |
+pañcamo manurbhavati || 5 ||
+hayagrīvaikākṣareṇa brahmavidyāṃ pravakṣyāmi |
+brahmā maheśvarāya maheśvaraḥ saṃkarṣaṇāya saṃkarṣaṇo nāradāya
+nārado vyāsāya vyāso lokebhyaḥ prāyacchaditi
+hakāroṃsakāromakāroṃ trayamekasvarūpaṃ bhavati |
+lhau bījākṣaraṃ bhavati |
+bījākṣareṇa lhauṃ rūpeṇa tajjāpakānāṃ saṃpatsārasvatau bhavataḥ |
+tatsvarūpajñānāṃ vaidehī muktiśca bhavati |
+dikpālānāṃ rājñāṃ nāgānāṃ kinnarāṇāmadhipatirbhavati |
+hayagrīvaikākṣarajapaśīlājñayā sūryādayaḥ svataḥ svasvakarmaṇi pravartante |
+sarveṣāṃ bījānāṃ hayagrīvaikākṣarabījamanuttamaṃ mantrarājātmakaṃ
+bhavati |
+lhauṃ hayagrīvasvarūpo bhavati |
+amṛtaṃ kurukuru svāhā |
+tajjāpakānāṃ vāksiddhiḥ śrīsiddhiraṣṭāṅgayogasiddhiśca bhavati |
+agamyāgamanātpūto bhavati |
+patitasaṃbhāṣaṇātpūto bhavati |
+brahmahatyādipātakairmukto bhavati |
+gṛhaṃ gṛhapatiriva dehī dehānte paramātmānaṃ praviśati |
+prajñānamānandaṃ brahma
+tattvamasi ayamātmā brahma ahaṃ brahmāsmīti mahāvākyaiḥ
+pratipāditamarthaṃ ta ete mantrāḥ pratipādayanti |
+svaravyañjanabhedena dvidhā ete |
+athānumantrāñjapati |
+yadvāgvadantyavicetanāni rāṣṭrī devānāṃ niṣasāda mandrā |
+catasra ūrjaṃ duduhe payāṃsi kva svidasyāḥ paramaṃ jagāma || 1 ||
+gaurīrmimāya salilāni takṣatyekapadī dvipadī sā catuṣpadī |
+aṣṭāpadī navapadī babhūvuṣī sahasrākṣarā parame vyoman || 2 ||
+oṣṭhāpidhānā nakulī dantaiḥ parivṛtā paviḥ |
+sarvasyai vāca īśānā cāru māmiha vādayeti ca vāgrasaḥ || 3 ||
+sasarparīramatiṃ bādhamāna bṛhanmimāya jamadagnidatta |
+āsūryasya duritā tanāna śravo deveṣvamṛtamajuryam || 4 ||
+ya imāṃ brahmavidyāmekādaśyāṃ paṭheddhayagrīvaprabhāvena mahāpuruṣo bhavati |
+sa jīvanmukto bhavati |
+oṃ namo brahmaṇe dhāraṇaṃ me astvanirākaraṇaṃ dhārayitā bhūyāsaṃ karṇayoḥ
+śrutaṃ mācyoḍhvaṃ mamāmuṣya omityupaniṣat ||
+oṃ bhadraṃ karṇebhiḥ śruṇuyāma devāḥ |
+bhadraṃ paśyemākṣabhiryajatrāḥ |
+sthirairaṅgaistuṣṭuvām̐sastanūbhirvyaśema devahitaṃ yadāyuḥ ||
+oṃ svasti na indro vṛddhaśravāḥ |
+svasti naḥ pūṣā viśvavedāḥ |
+svasti nastārkṣyo ariṣṭanemiḥ |
+svasti no bṛhaspatirdadhātu ||
+oṃ śāntiḥ śāntiḥ śāntiḥ || hariḥ oṃ tatsat ||
+atha hayagrīvopaniṣatsamāptā ||
+    </body>
+  </text>
+</TEI>

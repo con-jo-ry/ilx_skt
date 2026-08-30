@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Baudhāyanaśulbasūtra</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%AC%E0%A5%8C%E0%A4%A7%E0%A4%BE%E0%A4%AF%E0%A4%A8%E0%A4%B6%E0%A5%81%E0%A4%B2%E0%A5%8D%E0%A4%AC%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<baudhāyanaśulbasūtram>
+<0>
+atheme'gnicayāḥ 1
+teṣāṃ bhūmeḥ parimāṇavihārānvyākhyāsyāmaḥ 2
+athāṅgulapramāṇaṃ caturdaśāṇavaḥ catustriṃśattilāḥ pṛthusaṃśliṣṭā ityaparam | daśāṅgulaṃ kṣudrapadam | dvādaśa prādeśaḥ | pṛthottarayuge trayodaśike | padaṃ pañcadaśa | aṣṭāśītiśatamīṣā | catuḥśatamakṣaḥ | ṣaḍaśītiryugam | dvātriṃśajjānuḥ | ṣaṭtriṃśacchamyābāhū | dvipadaḥ prakramaḥ | dvau prādeśāvaratniḥ | athāpyudāharanti pade yuge prakrame'ratnāviyati śamyāyāṃ ca mānārtheṣu yāthākāmīti | pañcāratniḥ puruṣo vyāmaśca | caturaratnirvyāyāmaḥ 3
+caturaśraṃ cikīrṣanyāvaccikīrṣettāvatīṃ rajjumubhayataḥ pāśāṃ kṛtvā madhye lakṣaṇaṃ karoti | lekhāmālikhya tasyā madhye śaṅkuṃ nihanyāt | tasminpāśau pratimucya lakṣaṇena maṇḍalaṃ parilikhet | viṣkambhāntayoḥ śaṅkū nihanyāt | pūrvasminpāśaṃ pratimucya pāśena maṇḍalaṃ parilikhet | evamaparasmiṃste yatra sameyātāṃ tena dvitīyaṃ viṣkambhamāyacchet | viṣkambhāntayoḥ śaṅkū nihanyāt | pūrvasminpāśau pratimucya lakṣaṇena maṇḍalaṃ parilikhet | evaṃ dakṣiṇata evaṃ paścādevamuttaratasteṣāṃ ye'ntyāḥ saṃsargāstaccaturaśraṃ saṃpadyate 4
+athāparam | pramāṇāddviguṇāṃ rajjumubhayataḥ pāśāṃ kṛtvā madhye lakṣaṇaṃ karoti | sa prācyarthaḥ | aparasminnardhe caturbhāgone lakṣaṇaṃ karoti | tannyañcanam | ardheṃ'sārthaṃ | pṛṣṭhyāntayoḥ pāśau pratimucya nyañcanena dakṣiṇāpāyamyārdhena śroṇyaṃsānnirharet 5
+dīrghacaturaśraṃ cikīrṣanyāvaccikīrṣe ttāvatyāṃ bhūmyāṃ dvau śaṅkū nihanyāt | dvau dvāvekaikamabhitaḥ samau | yāvatī tiryaṅmānī tāvatīṃ rajjumubhayataḥ pāśāṃ kṛtvā madhye lakṣaṇaṃ karoti | pūrveṣāmantyayoḥ pāśau pratimucya lakṣaṇena dakṣiṇāpāyamya lakṣaṇe lakṣaṇaṃ karoti | madhyame pāśau pratimucya lakṣaṇasyopariṣṭāddakṣiṇāpāyamya lakṣaṇe śaṅkuṃ nihanyāt | saoṃ'sa etenottaraoṃ'so vyākhyātastathā śroṇī 6
+yatra purastādaṃhīyasīṃ minuyāttatra tadardhe lakṣaṇaṃ karoti 7
+athāparam | pramāṇādadhyardhāṃ rajjumubhayataḥ pāśāṃ kṛtvāparasmiṃstṛtīye ṣaḍbhāgone lakṣaṇaṃ karoti | tannyañchanam | iṣṭeṃ'sārtham | pṛṣṭhyāntayoḥ pāśau pratimucya nyañchanena dakṣiṇāpāyamyeṣṭena śroṇyaṃsānnirharet 8
+samacaturaśrasyākṣṇayārajjurdvistāvatīṃ bhūmiṃ karoti 9
+pramāṇaṃ tiryagdvikaraṇyāyāmastasyākṣṇayārajjustrikaraṇī 10
+tṛtīyakaraṇyetena vyākhyātā navamastu bhūmerbhāgo bhavatīti 11
+dīrghacaturaśrasyākṣṇayārajjuḥ pārśvamānī tiryaṅmānī ca yatpṛthagbhūte kurutastadubhayaṃ karoti 12
+tāsāṃ trikacatuskayordvādaśikapañcikayoḥ pañcadaśikāṣṭikayoḥ saptikacaturviṃśikayordvādaśikapañcatriṃśikayoḥ pañcadaśikaṣaṭtriṃśikayorityetāsūpalabdhiḥ 13
+<1>
+nānācaturaśre samasyankanīyasaḥ karaṇyā varṣīyaso vṛdhramullikhet | vṛdhrasyākṣṇayārajjuḥ samastayoḥ pārśvamānī bhavati 1
+caturaśrāccaturaśraṃ nirjihīrṣanyāvannirjihīrṣettasya karaṇyā varṣīyaso vṛdhramullikhet | vṛdhrasya pārśvamānīmakṣṇayetaratpārśvamupasaṃharet | sā yatra nipatettadapacchindyāt | chinnayā nirastam 2
+samacaturaśraṃ dīrghacaturaśraṃ cikīrṣaṃstadakṣṇayāpacchidya bhāgaṃ dvedhā vibhajya pārśvayorupadadhyādyathāyogam 3
+api vai tasmiṃścaturaśraṃ samasya tasya karaṇyāpacchidya yadatiśiṣyate taditaratropadadhyāt 4
+dīrghacaturaśraṃ samacaturaśraṃ cikīrṣaṃstiryaṅmānīṃ karaṇīṃ kṛtvā śeṣaṃ dvedhā vibhajya pārśvayorupadadhyāt | khaṇḍamāvāpena tatsaṃpūrayet | tasya nirhāra uktaḥ 5
+caturaśramekato'ṇimaccikīrṣannaṇimataḥ karaṇīṃ tiryaṅmānīṃ kṛtvā śeṣamakṣṇayā vibhajya viparyasyetaratropadadhyāt 6
+caturaśraṃ praugaṃ cikīrṣanyāvaccikīrṣeddvistāvatīṃ bhūmiṃ samacaturaśrāṃ kṛtvā pūrvasyāḥ karaṇyāḥ madhye śaṅkuṃ nihanyāt | tasminpāśau pratimucya dakṣiṇottarayoḥ śroṇyornipātayet | bahispandyamapacchindyāt 7
+caturaśramubhayataḥ praugaṃ cikīrṣanyāvaccikīrṣeddvistāvatīṃ bhūmiṃ dīrghacaturaśrāṃ kṛtvā pūrvasyāḥ karaṇyāḥ madhye śaṅkuṃ nihanyāt | tasminpāśau pratimucya dakṣiṇottarayormadhyadeśayornipātayet | bahiḥspandyamapacchindyāt | etenāparaṃ praugaṃ vyākhyātam 8
+caturaśraṃ maṇḍalaṃ cikīrṣannakṣṇayārdhaṃ madhyātprācīmabhyāpātayet | yadatiśiṣyate tasya saha tṛtīyena maṇḍalaṃ parilikhet 9
+maṇḍalaṃ caturaśraṃ cikīrṣanviṣkambhamaṣṭau bhāgānkṛtvā bhāgamekonatriṃśadhā vibhajyāṣṭāviṃśatibhāgānuddharet | bhāgasya ca ṣaṣṭhamaṣṭamabhāgonam 10
+api vā pañcadaśabhāgānkṛtvā dvāvuddharet | saiṣānityā caturaśrakaraṇī 11
+pramāṇaṃ tṛtīyena vardhayettacca caturthenātmacatustriṃśonena | saviśeṣaḥ 12
+<2>
+athāgnyādheyike vihāre gārhapatyādāhavanīyasyāyatanam | vijñāyate'ṣṭaṣu prakrameṣu brāhmaṇo'gnimādadhītaikādaśasu rājanyo dvādaśasu vaiśya iti 1
+āyāmatṛtīyena trīṇi caturaśrāṇyanūcīnāni kārayet | aparasyottarasyāṃ śroṇyāṃ gārhapatyaḥ | tasyaiva dakṣiṇeṃ'se'nvāhāryapacanaḥ pūrvasyottareṃ'sa āhavanīyaḥ 2
+api vā gārhapatyāhavanīyayorantarālaṃ pañcadhā ṣoḍhā vā saṃbhujya ṣaṣṭhaṃ saptamaṃ vā bhāgamāgantukamupasamasya samaṃ traidhaṃ vibhajya pūrvasmādantād dvayorbhāgayorlakṣaṇaṃ karoti | gārhapatyāhavanīyayorantau niyamya lakṣaṇena dakṣiṇāpāyamya lakṣaṇe śaṅkuṃ nihanti | taddakṣiṇāgnerāyatanaṃ bhavati 3
+api vā pramāṇaṃ pañcamena vardhayet | tatsarvaṃ pañcadhā saṃbhujyāparasmādantāddvayorbhāgayorlakṣaṇaṃ karoti | pṛṣṭhyāntayoḥ pāśau pratimucya lakṣaṇena dakṣiṇāpāyamya lakṣaṇe śaṅkuṃ nihanti | taddakṣi ṇāgnerāyatanaṃ bhavati 4
+viparyastaitenotkaro vyākhyātaḥ 5
+aparenāhavanīyaṃ yajamānamātrī bhavatīti darśapaurṇamāsikāyā vedervijñāyate 6
+tasyāstribhāgonaṃ paścāttiraścī | tasyā evārdhaṃ purastāttiraścī | evaṃ dīrghacaturaśramekato'ṇimadvihṛtya sraktiṣu śaṅkūnnihanyāt 7
+yāvatī pārśvamānī dvirabhyastā tāvatīṃ rajjumubhayataḥ pāśāṃ kṛtvā madhye lakṣaṇaṃ karoti | dakṣiṇayoḥ pārśvayoḥ pāśau pratimucya lakṣaṇena dakṣiṇāpāyamya lakṣaṇe śaṅkuṃ nihanyāt | tasminpāśau pratimucya lakṣaṇena dakṣiṇaṃ pārśvaṃ parilikhet | etenottaraṃ pārśvaṃ vyākhyātam | pūvaṃ pārśvaṃ tayā dvirabhyastayā parilikhet | evamaparam 8
+daśapadā paścāttiraścī dvādaśapadā prācyaṣṭāpadā purastāttiraścīti pāśubandhikāyā vedervijñāyate | mānayogastasyā vyākhyātaḥ | rathasaṃmitetyekeṣām | virāṭsaṃpannetyekeṣām 9
+śamyāmātrī catuḥsraktirbhavatītyuttaravedervijñāyate | samacaturaśrāviśeṣāt 10
+vitṛtīyā vedirbhavatīti paitṛkyā vedervijñāyate | mahāvedestṛtīyena samacaturaśrakṛtāyāstṛtīyakaraṇī bhavatīti | navamastu bhūmerbhāgo bhavati | yajamānamātrī catuḥsraktirbhavatītyekeṣām | dikṣu sraktayo bhavanti 11
+veditṛtīye yajeteti sautrāmaṇikīṃ vedimabhyupadiśanti | mahāvedestṛtīyena samacaturaśrakṛtāyā aṣṭādaśapadā pārśvamānī bhavati | tasyai dīrghakaraṇyāmekato'ṇimatkaraṇyāṃ ca yathākāmīti 12
+<3>
+prāgvaṃśaḥ ṣoḍaśaprakramāyāmo dvādaśavyāso'pi vā dvādaśaprakramāyāmo daśavyāsaḥ 1
+tasya madhye dvādaśiko vihāraḥ 2
+triṃśatpadāni prakramā vā paścāttiraścī bhavati ṣaṭtriṃśatprācī caturviṃśatiḥ purastāttiraścīti mahāvedervijñāyate | mānayogastasyā vyākhyātaḥ | āhavanīyātṣaṭ prakramānmahāvediḥ 3
+tata ekasminsadaḥ | taddaśakam | udak saptaviṃśatyaratnayaḥ | aṣṭādaśetyekeṣām 4
+tataścaturṣu havirdhānam | taddaśakaṃ dvādaśakaṃ vā mānayogastayorvyākhyātaḥ 5
+yūpāvaṭīyācchaṅkorardhaprakramamavaśiṣyottaravediṃ vimimīte | daśapadottaravedirbhavatīti some vijñāyate | mānayogastasyā vyākhyātaḥ 6
+cātvālaḥ śamyāmātro'parimito vā 7
+athoparavāḥ prādeśamukhāḥ prādeśāntarālāḥ | aratnimātraṃ samacaturaśraṃ vihṛtya sraktiṣu śaṅkūnnihanyāt | ardhaprādeśenārdhaprādeśenaikaikaṃ maṇḍalaṃ parilikhet 8
+sadasaḥ pūrvārdhāddviprakramamavaśiṣya dhiṣṇyānāṃ dviprādeśo viṣkambhastathāntarālāḥ 9
+āgnīdhrāgārasya pārśvamānī pañcāratniḥ 10
+etena mārjālīyo vyākhyātaḥ | tasyodīcīṃ dvāraṃ kurvanti 11
+rathākṣāntarālā yūpāvaṭā bhavantītyekādaśinyāṃ vijñāyate | tasyā daśānāṃ ca rathākṣāṇāmekādaśānāṃ ca padānāmaṣṭāṅgulasya ca caturviṃśaṃ bhāgamādadīta | sa prakramaḥ syāt | tena vediṃ vimimīte 12
+athāśvamedhe viṃśatyāśca rathākṣāṇāmekaviṃśatyāśca padānāmaṣṭāṅgulasya ca caturviṃśaṃ bhāgamādadīta | sa prakramaḥ syāt | tena vediṃ vimimīte 13
+atha prācyekādaśinyāṃ yūpārthaṃ vedeḥ pūrvārdhātpadārdhavyāsamapacchidya tatpurastātprāñcaṃ dadhyāt | nātrāṣṭāṅgulaṃ vidyate | na vyatiṣaṅgaḥ 14
+yūpāvaṭāḥ padaviṣkambhāstripadapariṇāhāni yūpoparāṇīti 15
+<4>
+ardhāṣṭamāḥ puruṣāḥ prathamo'gniḥ | ardhanavamā dvitīyaḥ | ardhadaśamāstṛtīyaḥ | evamuttarottaro vidhābhyāsa ekaśatavidhāt | tadetatsaptavidhaprabhṛtyekaśatavidhāntam 1
+ata ūrdhvamekaśatavidhāneva pratyādadīta | anagnikānvā yajñakratūnāharet | anyatrāśvamedhāt 2
+aśvamedhamaprāptaṃ cedāharedata ūrdhvaṃ vidhāmabhyasyennetaradādriyeta 3
+atītaṃ cedāharedāhṛtya kṛtāntādeva pratyādadīta 4
+kathamu khalu vidhāmabhyasyet 5
+yadanyatprakṛtestatpañcadaśa bhāgānkṛtvā vidhāyāṃ vidhāyāṃ dvau dvau bhāgau samasyet | tābhirardhāṣṭamābhiragniṃ cinuyāt 6
+ūrdhvapramāṇābhyāsaṃ jānoḥ pañcamasya caturviṃśenaike samāmananti 7
+atha haika ekavidhaprabhṛtīnapakṣapucchāṃścinvate 8
+tannopapadyate pūrvottaravirodhāt 9
+atha haikeṣāṃ brāhmaṇaṃ bhavati śyenacidagnīnāṃ pūrvā tatiriti 10
+athāpareṣāṃ na jyāyāṃsaṃ citvā kanīyāṃsaṃ cinvīteti 11
+athāsmākaṃ | pakṣī bhavati | na hyapakṣaḥ patitumarhati | aratninā pakṣau drāghīyāṃsau bhavataḥ | tasmātpakṣapravayāṃsi vayāṃsi | vyāmamātrau pakṣau ca pucchaṃ ca bhavatīti 12
+nāpakṣapucchaḥ śyeno vidyate | na cāsaptavidhasya pakṣapucchāni vidyante | na ca saptavidhaṃ citvaikavidhaprasaṅgaḥ | tasmātsaptavidha eva prathamo'gniḥ 13
+bhedānvarjayet | adharottarayoḥ pārśvasaṃdhānaṃ bhedā ityupadiśanti | tadagnyanteṣu na vidyate na sraktipārśvayoḥ 14
+sāhasraṃ cinvīta prathamaṃ cinvāna iti 15
+pañcamāyāṃ vā citau saṃkhyāṃ pūrayet 16
+dviśatāśceccikīrṣetpañcacoḍābhirnākasadaḥ samānasaṃkhyaṃ pratīyāt 17
+<5>
+paśudharmo ha vā agniḥ | yathā ha vai paśordakṣiṇeṣāmasthnāṃ yaddakṣiṇaṃ pārśvaṃ taduttareṣāmuttaraṃ yaduttareṣāṃ dakṣiṇaṃ taddakṣiṇeṣāmuttaraṃ yadavāk cordhvaṃ ca tatsamānamevamiṣṭakānāṃ rūpāṇyupadadhyāt 1
+yā dakṣiṇāvṛto lekhāstā dakṣiṇata upadadhyāt savyāvṛta uttarataḥ | ṛjulekhāḥ paścācca purastācca bhavanti | tryālikhitā madhye | atha yā viśayasthā yathā ha vai paśoḥ pṛṣṭhavaṃśo naivaikasminpārśve vyatirekeṇa vartate naivāparasminnevaṃ tāsāmupadhānaṃ pratīyāt 2
+athāpi brāhmaṇaṃ bhavati | prajāpatirvā atharvāgnireva dadhyaṅṅātharvaṇastasyeṣṭakā asthānīti 3
+tasmād bahistanvaṃ ceccinuyāttanvopaplavamadhyairātmopaplavamadhyāt saṃdadhyāt 4
+prāñcamenaṃ cinuta iti vijñāyate 5
+amṛnmayībhiraniṣṭakābhirna saṃkhyāṃ pūrayet 6
+iṣṭakacidvā anyo'gniḥ paśucidanya ityetasmādbrāhmaṇāt 7
+paśurvā eṣa yadagniryoniḥ khalu vā eṣā paśorvikriyate yatprācīnamaiṣṭākādyajuḥ kriyata iti ca 8
+lokabādhīni dravyāṇyavaṭeṣūpadadhyāt 9
+maṇḍalamṛṣabhaṃ vikarṇīmitīṣṭakāsu lakṣmāṇi pratīyāt 10
+iṣṭakāmantrayoriṣṭakāvyatireke lokaṃpṛṇāḥ saṃpradyante parimāṇābhāvāt 11
+atītāneva veṣṭakāgaṇānatropadadhyāt 12
+pañca lokaṃpṛṇāḥ 13
+mantravyatireke'ktāḥ śarkarāḥ saṃdhiṣūpadadhyāt 14
+prācīrupadadhāti pratīcīrupadadhātīti gaṇeṣu rītivādaḥ 15
+prācīmupadadhāti pratīcīmupadadhātīti karturmukhavādaḥ 16
+purastādanyāḥ pratīcīrupadadhāti paścādanyāḥ prācīrityapavargaḥ 17
+caturaśrāsvevaitadupapadyate 18
+<6>
+na khaṇḍāmupadadhyāt | na bhinnāmupadadhyāt | na kṛṣṇāmupadadhyāt | na jīrṇāmupadadhyāt | na lakṣmaṇāmupadadhyāt | na svayamātṛṇṇāṃ svayaṃcitāvupadadhyāt 1
+ūrdhvapramāṇamiṣṭakānāṃ jānoḥ pañcamena kārayet | ardhena nākasadāṃ pañcacoḍānāṃ ca 2
+yacchoṣapākābhyāṃ pratihraseta purīṣeṇa tatsaṃpūrayet purīṣasyāniyataparimāṇatvāt 3
+vyāyāmamātrī bhavatīti gārhapatyacitervijñāyate 4
+caturaśretyekeṣāṃ | parimaṇḍaletyekeṣām 5
+caturaśraṃ saptadhā vibhajya tiraścīṃ tredhā vibhajet | aparasminprastāra udīcīrupadadhāti 6
+samacaturaśrāścedupadadhyādvyāyāmaṣaṣṭheneṣṭakāḥ kārayeccaturthena tṛtīyeneti | tāsāṃ nava prathamā dvādaśa dvitīyā iti pūrvasminprastāra upadadhāti | pañca tṛtīyāḥ ṣoḍaśa prathamā ityaparasmin 7
+parimaṇḍalāyāṃ yāvatsaṃbhavettāvatsamacaturaśraṃ kṛtvā tannavadhā vibhajet pradhīṃstridhā tridheti | aparaṃ prastāraṃ tathopadadhyādyathā pradhyanīkeṣu sraktayo bhavanti 8
+dhiṣṇyā ekacitīkāścaturaśrāḥ parimaṇḍalā vā 9
+teṣāmāgnīdhrīyaṃ navadhā vibhajyaikasyāḥ sthāne'śmānamupadadhyāt 10
+atha hoturdhiṣṇyaṃ navadhā vibhajya pūrvāṃstribhāgānekaikaṃ dvedhā vibhajet 11
+athetarānnavadhā navadhā vibhajya madhyamapūrvau dvau bhāgau samasyet 12
+atha mārjālīyaṃ tredhā vibhajya pūrvāparau bhāgau pañcadhā vibhajet 13
+ukhyabhasmanā saṃsṛjyeṣṭakāḥ kārayediti 14
+saṃvatsarabhṛta evaitadupapadyate na rātribhṛtaḥ 15
+evamasya mantravatī citikḷptiḥ 16
+chandaścitaṃ triṣāhasrasya parastāccinvīta kāmavivekāt tasya rūpaṃśyenākṛtirbhavatīti 17
+<7>
+atha vai bhavati śyenacitaṃ cinvīta suvargakāma iti 1
+ākṛtidvaividhyam | caturāśrātmā śyenākṛtiśca 2
+vijñāyate ubhayaṃ brāhmaṇam 3
+pañca dakṣiṇāyāṃ śroṇyāmupadadhāti pañcottarasyām | basto vaya iti dakṣiṇeṃ'sa upadadhāti | vṛṣṇirvaya ityuttare | vyāghro vaya iti dakṣiṇe pakṣa upadadhāti | siṃho vaya ityuttare puruṣo vaya iti madhya iti ca 4
+athāparaṃ vayasāṃ vā eṣa pratimayā cīyate yadagniriti | utpatatāṃ chāyayetyarthaḥ 5
+samacaturaśrābhiragniṃ cinute daivyasya ca mānuṣasya ca vyāvṛttyā iti maitrāyaṇīyabrāhmaṇaṃ bhavati 6
+tasyeṣṭakāḥ kārayet puruṣasya caturthena pañcamena ṣaṣṭhena daśameneti 7
+athāgniṃ vimimīte 8
+yāvānpuruṣa ūrdhvabāhustāvadantarāle veṇośchidre karoti | madhye tṛtīyaṃ | yadamutra spandyayā karoti tadiha veṇunā karoti 9
+tasyātmā samacaturaśraścatvāraḥ puruṣāḥ | pakṣaḥ samacaturaśraḥ puruṣaḥ | sa tu dakṣiṇato'ratninā drāghīyān | etenottaraḥ pakṣo vyākhyātaḥ | pucchaḥ samacaturaśraḥ puruṣaḥ | tamavastātprādeśena vardhayet | evaṃ sāratni prādeśā saptavidhaḥ saṃpradyataḥ 10
+upadhāne pakṣāgrāduttarataḥ puruṣatṛtīyavelāyāṃ catasraḥ pañcamyastāsāmabhito dve dve pādeṣṭake tato'ṣṭau caturthyaḥ | pakṣaśeṣaṃ ṣaḍbhāgīyābhiḥ pracchādayet | etenottaraḥ pakṣo vyākhyātaḥ 11
+pūrvāparayoḥ pucchapārśvayoścaturbhāgīyā upadadhyāt | dakṣiṇottarayoḥ pādeṣṭakāḥ | śeṣamagniṃ pañcamabhāgīyābhiḥ pracchādayet 12
+eṣa dviśataḥ prastāraḥ 13
+aparasminprastāre pakṣāgrāduttarato'rdhavyāyāmavelāyāṃ tisrastisraḥ ṣaṣṭhyo dve dve dvipade iti viparyāsamupadadhyāt | tathottare 14
+dakṣiṇasyāṃ śroṇyāṃ nava ṣaṣṭhyaścaturaśrakṛtāḥ | tathottarasyām 15
+nava nava ṣaṣṭhyo dve dve dipade iti dakṣiṇādaṃsāduttarādaṃsādviparyāsamupadadhyāt 16
+śeṣamagniṃ pañcamabhāgīyābhiḥ pracchādayet 17
+eṣa dviśataḥ prastāro vyatyāsaṃ cinuyādyāvataḥ prastārāṃścikīrṣet 18
+<8>
+athāparaḥ 1
+puruṣasya pañcamyaḥ | tā evaikato'dhyardhāḥ | tāsāmardhyāḥ pādyāśca 2
+upadhāne | pūrvāparayoḥ pakṣapārśvayorardheṣṭakā udīcīrupadadhyāt | tathottare 3
+dakṣiṇottarayoḥ pucchapārśvayoścatasraścatasro'dhyardhā udīcīḥ | pucchasyāvastāccatasro'rdheṣṭakā udīcīḥ | tāsāmabhito dve pādeṣṭake | jaghanena pucchāpyayorekaikāmardheṣṭakāṃ prācīm 4
+śeṣamagniṃ pañcamabhāgīyābhiḥ pracchādayet 5
+eṣa dviśataḥ prastāraḥ 6
+aparasmin prastāra ātmasraktiṣu catasraḥ pādeṣṭakā upadadhyāt | tāsāmabhito dve dve ardheṣṭake | pūrvasminnanike pañca 7
+pakṣāgrayostisrastisro'dhyardhā udīcīḥ | tāsāmantaraleṣvekaikāmardheṣṭakāṃ prācīm 8
+śeṣamagniṃ pañcamabhāgīyābhiḥ pracchādayet 9
+eṣa dviśataḥ prastāro vyatyāsaṃ cinuyādyāvataḥ prastārāṃścikīrṣet 10
+<9>
+atha vakrapakṣo vyastapucchaḥ 1
+tasyeṣṭakāḥ kārayetpuruṣasya caturthyaḥ | tāsāmardhyāḥ pādyāśca | nityamakṣṇyāpacchedanamanādeśe 2
+pādeṣṭakāścaturbhiḥ parigṛhṇīyādardhapadena padenādhyardhapadena padasaviśeṣeṇeti | te dve yathā dīrghasaṃśliṣṭe syātāṃ tathārdheṣṭakāṃ kārayet 3
+athāgniṃ vimimīta | ātmā dvipuruṣāyāmo daśapadavyāsaḥ | tasya dakṣiṇādaṃsāduttarato'dhyardhaprakrame lakṣaṇaṃ karoti | evamaparataḥ | tayorupariṣṭātspandyāṃ niyamyāṃsamapacchindyāt | etenetarāsāṃ sraktīnāmapacchedā vyākhyātāḥ | sa ātmā 4
+śiro'rdhaṣaṣṭhapadāyāmamardhapuruṣavyāsaṃ | tasyāṃsau prakrameṇa prakrameṇāpacchindyāt 5
+pucchasya ṣaṭpadā prācī dvipuruṣodīcī | tasya pūrve srakti tribhistribhiḥ prakramairapacchindyāt 6
+pakṣo dvādaśapadāyāmo daśapadavyāsaḥ | tasya madhyātprāñci ṣaṭpadāni prakramya śaṅkuṃ nihanyāt | śroṇyorekaikam | athainaṃ spandyayā paricinuyāt | antaspandyamapacchidya tatpurastāt prāñcaṃ dadhyāt | sa nirṇāmaḥ | etenottarasya pakṣasya nirṇāmo vyākhyātaḥ 7
+pakṣāgrayoḥ prakramapramāṇāni pañca pañca caturaśrāṇyanūcīnāni kṛtvā sarvāṇyavāñcamakṣṇayāpacchindyādardhānyuddharet 8
+evaṃ sāratniprādeśaḥ saptavidhaḥ saṃpadyataḥ 9
+upadhāne śiraso'pyaye caturthīmupadadhyāt | haṃsamukhī purastāt | pādeṣṭake abhitaḥ | tayoravastādabhitastisrastisraścaturaśrapādyāḥ | śeṣe pādeṣṭakāḥ 10
+api vā śiraso'gre haṃsamukhīmupadadhyāttasya avastāccaturthīmupadadhyātpādeṣṭake abhitaḥ | tayoravastādabhitastisrastisraścaturaśrapādyāḥ | śeṣe pādeṣṭakāḥ 11
+śiraso'vastātpañcapādeṣṭakā vyatiṣaktā upadadhyāt | tathā pucchasya purastāt yadyadapacchinnaṃ tasminnardheṣṭakāḥ pādeṣṭakāścopadadhyāt 12
+śeṣamagniṃ caturbhāgīyābhiḥ pracchādayet | pādyābhiḥ sārdhyābhiḥ saṃkhyāṃ pūrayet 13
+eṣa dviśataḥ prastāraḥ 14
+aparasminprastāre haṃsamukhīścatasraścatasṛbhiḥ pādeṣṭakābhiḥ saṃyojayedyathā dīrghacaturaśraṃ saṃpadyate | tattiryak svayamātṛṇṇāvakāśa upadadhyāt 15
+haṃsamukhyau pratīcyau pucchāpyaye'rdhapadenātmani viśaye | tayoravastādabhitastisraḥ pādeṣṭakāḥ prāṅmukhīrupadadhyāt 16
+pucchasyāvastātpañcadaśa pādeṣṭakā vyatiṣaktā upadadhyāt 17
+pādeṣṭake ardheṣṭaketi pakṣapatrāṇāṃ prācīrvyatyāsaṃ cinuyāt 18
+viśaye yadapacchinnaṃ tasminnardheṣṭakāḥ pādeṣṭakāścopadadhyāt 19
+śeṣamagniṃ caturbhāgīyābhiḥ pracchādayet | pādyābhiḥ sārdhyābhiḥ saṃkhyāṃ pūrayet 20
+<10>
+athāparaḥ 1
+puruṣasya pañcamībhiḥ śatamaśītiḥ saptārdhaṃ ca sāratniprādeśaḥ saptavidhaḥ saṃpadyate 2
+tāsāṃ pañcāśaddve cātmanyardhacaturthyaḥ śirasi | pañcadaśa pucche | aṣṭapañcāśatsārdhyā dakṣiṇe pakṣa upadadhyāt | tathottare 3
+ardhavyāyāmena sraktīnāmapacchedaḥ | saṃnataṃ pucchaṃ | pakṣayostribhistribhiraratnibhirapanāmaḥ | adhyardhyābhiḥ ṣaṭ ṣaṭ patrāṇi kuryāt | ākṛtiḥ śiraso nityā 4
+atheṣṭakānāṃ vikārāḥ 5
+puruṣasya pañcamyastā evaikato'dhyardhāḥ | tā evaikataḥ sapādāḥ | pañcamabhāgīyāyāḥ pādyāḥ sārdhyāḥ | tathādhyardhāyāḥ | tayoścāṣṭamabhāgau tathā śleṣayedyathā tisraḥ sraktayo bhavanti | pañcamabhāgīyāyāścāṣṭamyaḥ | tāni daśa 6
+ātmani pañcamabhāgīyāḥ sārdhyā upadadhyāt | tathā pucche 7
+pakṣayoścādhyardhāḥ sārdhyāḥ 8
+śirasi yāḥ saṃbhavanti 9
+aparasminprastāre pūrvayoḥ pakṣāpyayayorekaikāmubhayīmupadadhyāt | ekaikāmaparayoḥ | dve dve śirasaḥ pārśvayoḥ 10
+pucchasyāvastādadhyardhāḥ prācīryathāvakāśam | pārśvayoḥ pādyāḥ sāṣṭamabhāgāḥ 11
+pakṣayoścādhyardhāḥ sāvayavāḥ 12
+śeṣaṃ yathāyogaṃ yathāsaṃkhyaṃ yathādharmaṃ copadadhyāt 13
+<11>
+kaṅkacita etenātmā pucchaṃ ca vyākhyātam 1
+śirasi pañcopadadhyāt | tasyākṛtirvyākhyāta 2
+saptapañcāśaddakṣiṇe pakṣa upadadhyāt | tathottare 3
+vyāyāmena saprādeśena pakṣayorapanāmaḥ | pañcamabhāgīyārdhyābhiḥ ṣaṭ ṣaṭ patrāṇi kuryāt | adhyardhāvaśiṣyate 4
+tayā pucchasyāvastāt pādāvaratnimātrāvaratnyantarālau prādeśavyāsau bhavataḥ | tayoravastādabhito dvaudvāvaṣṭamabhāgau prāgbhedāvupadadhyāt 5
+evaṃ sāratniprādeśaḥ saptavidhaḥ saṃpadyate 6
+atheṣṭakānāṃ vikārāḥ | pañcamabhāgīyāḥ sāvayavāḥ | pādeṣṭakāṃ caturbhiḥ parigṛhṇīyādardhaprādeśenādhyardhaprādeśena prādeśena prādeśasaviśeṣeneti | adhyardheṣṭakāṃ caturbhiḥ parigṛhṇīyādardhavyāyāmena dvābhyāmaratnibhyāmaratnisaviśeṣeneti | tāḥ ṣaṭ 7
+tāsāṃ caturaśrapādyāḥ sāṣṭamabhāgāḥ pādayorupadhāya śeṣaṃ yathāyogaṃ yathāsaṃkhyaṃ yathādharmaṃ
+copadadhyāt 8
+<12>
+alajacita etenātmā śiraḥ pucchaṃ ca vyākhyātaṃ pādāvapoddhṛtya 1
+triṣaṣṭirdakṣiṇe pakṣa upadadhyāt | tathottare 2
+puruṣeṇa pakṣayorapanāmaḥ 3
+aparasmādapanāmātprāñcamaratniṃ mitvā tasminspandyāṃ niyamyāparaṃ pakṣapatrāpacchedamanvāyacchet 4
+evaṃ pañca pañcamyaḥ sārdhyā uddhṛtā bhavanti 5
+pādeṣṭakāmapanāma upadhyāya tāsāṃ caturaśra pādyāḥ sāṣṭamabhāgā apoddhṛtya
+śeṣaṃ yathāyogaṃ yathāsaṃkhyaṃ yathādharmaṃ copadadhyāt 6
+<13>
+praugacitaṃ cinvīteti 1
+yāvānagniḥ sāratniprādeśastāvatpraugaṃ kṛtvā tasyāparasyāḥ karaṇyā dvādaśeneṣṭakāstadardhavyāsāḥ kārayet | tāsāmardhyāḥ pādyāśca 2
+tāsāṃ dve ardheṣṭake bāhyasaviśeṣe cubuka upadadhyādardhyāścāntayoḥ 3
+śeṣamagniṃ bṛhatībhiḥ pracchādayedardheṣṭakābhiḥ saṃkhyāṃ pūrayet 4
+aparasminprastāre'parasminnanīke saptacatvāriṃśatpādeṣṭakā vyatiṣaktā upadadhyāt 5
+cubuka ekāṃ śūlapādyām 6
+dīrghe cetare catasraḥ svayamātṛṇṇāvakāśa upadadhyādardhyāścāntayoḥ 7
+śeṣamagniṃ bṛhatībhiḥ
+prācībhiḥ pracchādayedardheṣṭakābhiḥ saṃkhyāṃ pūrayet 8
+<14>
+ubhayataḥ praugaṃ cinvīteti 1
+yāvānagniḥ sāratniprādeśastāvadubhayataḥ praugaṃ kṛtvā navamena tiryaṅmānyāḥ praugacitoktā vikārāḥ 2
+tathopadhānam 3
+aparasminprastāre cubukayorddhve pādeṣṭake upadadhyāt | saṃdhyantayośca dīrghapādye 4
+dīrghe cetare ca catasraḥ svayamātṛṇṇāvakāśa upadadhyādardhyāścāntayoḥ 5
+śeṣamagniṃ bṛhatībhiḥ prācībhiḥ pracchādayedardheṣṭakābhiḥ
+saṃkhyāṃ pūrayet 6
+<15>
+rathacakracitaṃ cinvīteti vijñāyate 1
+dvayāni tu khalu rathacakrāṇi bhavanti sārāṇi ca pradhiyuktāni ca | aviśeṣātte manyāmahe'nyatarasyākṛtiriti 2
+athāgniṃ vimimīte | yāvānagniḥ sāratniprādeśastāvatīṃ bhūmiṃ parimaṇḍalāṃ kṛtvā tasminyāvatsaṃbhavettāvatsamacaturaśraṃ kṛtvā tasya karaṇyā dvādaśeneṣṭakāḥ kārayet 3
+tāsāṃ ṣaṭ pradhāvupadhāya śeṣamaṣṭadhā vibhajet 4
+aparaṃ prastāraṃ tathopadadhyādyathā pradhyanīkeṣu sraktayo bhavanti 5
+athāparaḥ 6
+puruṣārdhātpañcadaśeneṣṭakāḥ samacaturaśrāḥ kārayenmānārthāḥ 7
+tāsāṃ dve śate pañcaviṃśatiśca sāratniprādeśaḥ saptavidhaḥ saṃpadyate 8
+tāsvanyāścatuḥṣaṣṭimāvapet | tābhiḥ samacaturaśraṃ karoti | tasya ṣoḍaśeṣṭakā pārśvamānī bhavati | trayastriṃśadatiśiṣyante | tābhirantānsarvaśaḥ paricinuyāt 9
+nābhiḥ ṣoḍaśa madhyamāḥ | catuḥṣaṣṭirarāścatuḥṣaṣṭirvediḥ | nemiḥ śeṣāḥ 10
+nābhimantataḥ parilikhet | nemimantataścāntarataśca parilikhya | neminābhyorantarālaṃ dvātriṃśaddhā vibhajya viparyāsaṃ bhāgānuddharet | evamāvāpa uddhṛto bhavati 11
+nemiṃ catuḥṣaṣṭiṃ kṛtvā vyavalikhya madhye parikṛṣet | tā aṣṭāviṃśatiśataṃ bhavanti 12
+arāṃścaturdhā caturdhā nābhimaṣṭadhā vibhajet 13
+eṣa prathamaḥ prastāraḥ 14
+aparasminprastāre nābhimantataścaturthavelāyāṃ parikṛṣet | nemimantarataḥ 15
+nemimantarataścatuḥṣaṣṭiṃ kṛtvā vyavalikhet 16
+arāṇāṃ pañcadhā vibhāga āparikarṣaṇayoḥ 17
+nemyāmantarāleṣu dve dve nābhyāmantarāleṣvekaikāṃ 18
+yaccheṣaṃ nābhestadaṣṭadhā vibhajet 19
+sa eṣa ṣoḍaśakaraṇaḥ sāro rathacakracit 20
+<16>
+droṇacitaṃ cinvīteti vijñāyate 1
+dvayāni tu khalu droṇāni bhavanti caturaśrāṇi ca parimaṇḍalāni ca | aviśeṣātte manyāmahe'nyatarasyākṛtiriti 2
+athāgniṃ vimimīte | caturaśra ātmā bhavati | tasya trayaḥ puruṣāstribhāgonāḥ parśvamānī 3
+paścāttsarurbhavati | tasyārdhapuruṣo daśāṅgulāni ca prācī | tribhāgonaḥ puruṣa udīcīti 4
+evaṃ sāratniprādeśaḥ saptavidhaḥ saṃpadyate 5
+atheṣṭakānāṃ vikārāḥ | puruṣasya ṣaṣṭhyastā evaikato'dhyardhāḥ | tāsāmardhyāstiryagbhedāḥ puruṣasya caturthya iti 6
+tāsāṃ tsaruśroṇyantarālayoḥ ṣaṭ ṣaṣṭīrupadhāya śeṣamagniṃ bṛhatībhiḥ pracchādayet | ardheṣṭakābhiḥ saṃkhyāṃ pūrayet 7
+aparasminprastāre dakṣiṇeṃ'se'dhyardhāmudīcīmupadadhyāt | tathottare 8
+pūrvasminnanīke ṣaḍbhāgīyā upadadhyāt 9
+dakṣiṇottarayoścaturbhāgīyāḥ 10
+tsaroḥ purastātpārśvayorddhve caturbhāgīye upadadhyāt | tayoravastādabhito dve dve adhyardhe viṣūcī | tayoravastānmadhyadeśe dve ṣaṣṭhyau prācyau 11
+śeṣamagniṃ bṛhatībhiḥ prācībhiḥ pracchādayet | ardheṣṭakābhiḥ saṃkhyāṃ pūrayet 12
+<17>
+athāparaḥ 1
+puruṣasya ṣoḍaśībhirviṃśaśataṃ sāratniprādeśaḥ saptavidhaḥ saṃpadyate 2
+tāsāmekāmapoddhṛtya śeṣāḥ parimaṇḍalaṃ karoti 3
+tatpūrveṇa rathacakracitā vyākhyātam 4
+ṣoḍaśīṃ purastādviśaya upadhāya tayā saha maṇḍalaṃ parilikhet 5
+yadavastādapacchinnaṃ tatpurastādupadadhyāt 6
+pradhīnāṃ saptadhā vibhāgaḥ 7
+pradhimadhyamāḥ prakramavyāsā bhavanti 8
+caturaśrāṇāmardhyābhiḥ saṃkhyāṃ pūrayet 9
+aparasminprastāre pradhimadhyamāmoṣṭha upadhāya yadavastāttaddvedhā vibhajet 10
+sa eṣa navakaraṇo droṇacitparimaṇḍalaḥ 11
+samūhya paricāyyau pūrveṇa rathacakracitā vyākhyātau 12
+samūhyasya dikṣu cātvālān khānayitvā tebhyaḥ purīṣaṃ samūhyopadadhyāt 13
+paricāyya iṣṭakānāṃ deśabhedaḥ 14
+taṃ sarvābhiḥ pradakṣiṇaṃ paricinuyāt 15
+<18>
+śmaśānacitaṃ cinvīteti vijñāyate 1
+sarvamagniṃ caturaśrānpañcadaśa bhāgānkṛtvā teṣāmākhyātamupadhānam 2
+tribhirbhāgairbhāgārdhavyāsaṃ dīrghacaturaśraṃ vihṛtya pūrvasyāḥ karaṇyā madhyācchroṇī pratyālikhyāntāvuddharet | tasya daśadhā vibhāgaḥ 3
+tāni viṃśatiḥ sarvo'gniḥ saṃpadyate 4
+aparasminprastāre praugamadhye'nūcīnaṃ vibhajet | tasya ṣaḍdhā vibhāgaḥ | te dve parśvayorupadadhyāt 5
+bhāgatṛtīyāyāmaścaturthavyāsāḥ kārayet | tāsāmardhyāstiryagbhedāḥ 6
+tā antayorupadhāya śeṣamagniṃ bṛhatībhiḥ prācībhiḥ pracchādayet | ardheṣṭakābhiḥ saṃkhyāṃ pūrayet 7
+ūrdhvapramāṇamagneḥ pañcamena vardhayet 8
+tatsarvaṃ tredhā vibhajya dvayorbhāgayoścaturthena vā navamena vā caturdaśena veṣṭakāḥ kārayet 9
+tābhiścatasro vā nava vā caturdaśa vā citirupadhāya śeṣamavāñcamakṣṇayāpacchindyāt | ardhamuddharet 10
+tasya nityo vibhāgo yathāyogamiṣṭakānāṃ hrāsavṛddhi 11
+<19>
+kūrmacitaṃ cinvīta yaḥ kāmayeta brahmalokamabhijayeyamiti | vijñāyate 1
+dvayāḥ khalu kūrmā bhavanti vakrāṅgāśca parimaṇḍalāśca | aviśeṣātte manyāmahe'nyatarasyākṛtiriti 2
+athāgniṃ vimimīte | caturaśra ātmā bhavati | tasya daśa prakramāḥ pārśvamānī bhavati | tasya dvābhyāṃ dvābhyāṃ prakramābhyāṃ sraktīnāmapacchedaḥ 3
+pūrvasminnanīke prakramapramāṇāni catvāri caturaśrāṇi kṛtvā teṣāṃ ye antye te akṣṇayāpacchindyāt | evaṃ dakṣiṇata evaṃ paścādevamuttarataḥ | sa ātmā 4
+śiraḥ pañcapadāyāmamardhapuruṣavyāsam | tasyāṃsau prakrameṇa prakrameṇāpacchindyāt 5
+sraktyapacchede pādānunnayet | tasya dvipadākṣṇayā tiraścī taddviguṇāyāmamanūcī | tasya dvipadākṣṇayā pūrvamaṃsamapacchindyāt | etenetareṣāṃ pādānāmapacchedā vyākhyātāḥ | aparayoḥ pādayoraparāvaṃsāvapacchindyāt 6
+evaṃ sāratniprādeśaḥ saptavidhaḥ saṃpadyate 7
+tasyeṣṭakāḥ kārayetpuruṣasya caturthyastāsāmardhyāḥ pādyāśca 8
+adhyardhapādyāścaturbhiḥ parigṛhṇīyātprakrameṇa dvābhyāṃ padābhyāṃ padasaviśeṣeṇeti 9
+te dve yathā dīrghasaṃśliṣṭe syātāṃ tathaikāṃ kārayet 10
+dvipadākṣṇayārdhena samacaturaśrāmekāṃ 11
+upadhāne śiraso'gre caturaśrāmupadadhyāt | haṃsamukhyāvavastāt 12
+pañca pañca caturaśrā dve dve pādeṣṭake iti pādeṣūpadadhyāt 13
+yadyadapacchinnaṃ tasminnardheṣṭakā upadadhyāt 14
+śeṣamagniṃ caturbhāgīyābhiḥ pracchādayet | ardheṣṭakābhiḥ saṃkhyāṃ pūrayet 15
+aparasminprastāre śiraso'gre haṃsamukhīmupadadhyātpādeṣṭake abhitaḥ 16
+tayoravastādabhito dve dve adhyardha pādye viṣūcī 17
+tayoravastādabhitaśchedasaṃhite dve pādeṣṭake 18
+dve dve dvipade tisrastisro'rdheṣṭakā iti pādeṣūpadadhyāt 19
+yadyadapacchinnaṃ tasminnardheṣṭakāḥ pādeṣṭakaścopadadhyāt 20
+śeṣamagniṃ caturbhāgīyābhiḥ pracchādayet|
+ardheṣṭakābhiḥ saṃkhyāṃ pūrayet 21
+<20>
+athāparaḥ 1
+puruṣasya ṣoḍaśībhirviṃśaśataṃ sāratniprādeśaḥ saptavidhaḥ saṃpadyate 2
+tāsāṃ pañca ṣoḍaśīrapoddhṛtya śeṣāḥ parimaṇḍalaṃ karoti | taduttareṇa droṇacitā vyākhyātam 3
+atha tāḥ pañca ṣoḍaśyastābhiravāntaradikṣu pādānunnayecchiraḥ purastāt | tāsāṃ parikarṣaṇaṃ vyākhyātam 4
+pradhīnāṃ saptadhā vibhāgaḥ pradhimadhyamāḥ prakramavyāsā bhavanti 5
+yadatiriktaṃ saṃpadyate taccaturaśrāṇāmadhyardhābhiryoyujyeta 6
+aparasminprastāre pādānāṃ śirovadvibhāgaḥ śirasaḥ pādavat 7
+vyatyāsaṃ cinuyādyāvataḥ prastārāṃścikīrṣet 8
+kūrmasyānte tanu purīṣamupadadhyānmadhye bahulam | etadeva droṇe viparītam 9
+atha haika ekavidhaprabhṛtīnpraugādīn bruvate 10
+samacaturaśrāneka ācāryāḥ | tasya karaṇyā dvādaśeneṣṭakāḥ kārāyettāsāmardhyāḥ pādyāśca 11
+athāśvamedhikasyāgneḥ puruṣābhyāso nāratniprādeśānāṃ 12
+prākṛto vā triguṇaḥ | tristāvo'gnirbhavatītyekaviṃśo'gnirbhavatītyubhayaṃ brāhmaṇamubhayaṃ brāhmaṇam 13
+iti baudhāyanaśulbasūtram
+    </body>
+  </text>
+</TEI>

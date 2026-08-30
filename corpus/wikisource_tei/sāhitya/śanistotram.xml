@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Śanistotra</title>
+        <author>Daśaratha</author>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%B6%E0%A4%A8%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8B%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+|| atha śanistotram ||
+śrīḥ || asya śrīśanaiścarastotrasya daśaratha ṛṣiḥ śanaiścaro devata triṣṭupachaṃdaḥ śanaiścaraprītyarthe jape viniyogaḥ ||
+daśaratha uvāca ||
+koṇā'ntako raudrayamo'tha babhruḥ kṛṣṇaḥ śaniḥ piṃgalamaṃda sauriḥ || nityaṃ smṛto yo harate ca pīḍāṃ tasmai namaḥ śrīravinaṃdanāya || 1 ||
+surāsuraḥ kiṃpurūṣā gaṇeṃdrā gandharvavidyādharapannagāśca || pīḍyaṃti sarve viṣamasthitena tasmai nāmaḥ śrīravinaṃdanāya || 2 ||
+narā nareṃdrāḥ paśavo mṛgeṃdrā vanyāśca ye kīṭapataṃgabhṛṃgā || pīḍyaṃti sarve viṣamasthitena tasmai namaḥ śrīravinaṃdanāya || 3 ||
+deśāśca durgāṇi vanāni yatra senāniveśāḥ purapattanāti || pīḍyaṃti sarve viṣamasthitena tasmai namaḥ śrīravinaṃdanāya || 4 ||
+tilairyavairmāṣaguḍannadānairlohena nīlāṃbaradānato vā || prīṇāti maṃtrairnijavāsare ca tasmai namaḥ śrīravinaṃdanāya || 5 ||
+prayākūle yamunātaṭe ca sarasvatī puṇyajale guhāyām‌ || yo yogināṃ dhyānagato'pi sūkṣmastasmai namaḥ śrīravinaṃdanāya || 6 ||
+anyapradeśātsvagṛhaṃ praviṣṭastadīyavāre sa naraḥ sūkhī syāt‌ || gṛhād‌ gato yo na punaḥ prayāti tasmai namaḥ śrīravinaṃdanāya namaḥ || 7 ||
+sraṣṭā syaṃbhūrbhuvanatarasya trātā hariḥ saṃharate pinākī || ekastridhā ṛgyajuḥsāmamūrtitasmai namaḥ śrīravinaṃdanāya namaḥ || 8 ||
+śanyaṣṭakaṃ yaḥ prayataḥ prabhāte nityaṃ suputraiḥ paśubāṃdhavaiśca || paṭhecca saukhyaṃ bhuvi bhogayuktaṃ prāpnoti nirvāṇapadaṃ paraṃ saḥ || 9 ||
+koṇasthaḥ piṃgalo babhraḥ kṛṣṇā raudrā'ntako yamaḥ || sauriḥśaneścaro maṃdaḥ pippalādena saṃstutaḥ || 10 ||
+etāni daśa nāmāni prātarutthāpa yaḥ paṭhet || śanaiścarakṛtā pīḍā na kadācid‍bhaviṣyati || 11 ||
+iti śrīdaśarathaproktaṃ śanaiścarastotraṃ saṃpūrṇam ||
+    </body>
+  </text>
+</TEI>

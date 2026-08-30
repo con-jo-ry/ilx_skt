@@ -1,0 +1,1270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Cārudatta</title>
+        <author>Bhāsa</author>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A5%81%E0%A4%A6%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%AE%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<1>
+|| śrīḥ ||
+prathamo'ṅkaḥ
+(nāndyante tataḥ praviśati sūtradhāraḥ|)
+sūtradhāraḥ --- 
+kiṇṇu khu ajja paccūsa evva gehādo ṇikkhantassa bubhukkhāe pukkharapattapaḍidajalabindū via cañcalāati via me akkhīṇi | (parikramya) jāva gehaṃ gacchia jāṇāmi kiṇṇu khu saṃvidhā vihidā ṇa vetti| (parikramya) edaṃ amhāṇaṃ gehaṃ| jāva pavisāmi| (praviśyāvalokya) jaha lohīparivaṭṭaṇakālasārā bhūmī, ṇeubbhāmaṇasugandho via gandho, suṇimittaṃ via paribbhamanto vaḍivassaajaṇo, kiṇṇu khu saṃvidhā vihidā | ādu bubhukkhāe odaṇamaaṃ via jīvaloaṃ pekkhāmi| jāda ayyāṃ saddāvemi| ayye! ido dāva | (kinnu khalvadya pratyūṣa eva gehānniṣkrāntasya bubhukṣayā puṣkarapatrapatitajalabindū iva cañcalāyete iva me'kṣiṇī | yāvad gehaṃ gatvā jānāmi kinnu khalu saṃvidhā vihitā na veti| etadasmākaṃ geham| yāvat praviśāmi| yathā lauhīparivartanakālasārā bhūmiḥ, snehodbhāvanasugandha iva gandhaḥ, sunimittamiva paribhraman varivasyakajanaḥ, kinnu khalu saṃvidhā vihitā | athavā bubhukṣayaudanamayamiva jīvalokaṃ paśyāmi | yāvadāryāṃ śabdāpayāmi | ārye! itastāvat |)
+(praviśya)
+naṭī --- 
+ayya! iaṃ mhi| ayya! diṭṭhiā khu si āado (ārya! iyamasmi! ārya! dviṣṭvyā khalvasyāgataḥ |)
+sūtradhāraḥ --- 
+ayye! kiṃ atthi amhāṇaṃ gehe ko vi pādarāso| (ārye! kimastyasmākaṃ gehe ko'pi prātarāśaḥ |)
+naṭī --- 
+atthi | (asti|)
+sūtradhāraḥ --- 
+ciraṃ jīva | evvaṃ sobhaṇāṇi bhoaṇāṇi dantiā hohi | (ciraṃ jīva| evaṃ śobhanāni bhojanāni dātrī bhava|)
+naṭī --- 
+ayya! tuvaṃ evva paḍivālantī ciṭṭhāmi | (ārya? tvāmeva pratipālayantī tiṣṭhāmi |)
+sūtradhāraḥ --- 
+ayye? kiṃ atthi abbhatthidaṃ| (ārye! kimastyabhyarthitam|)
+naṭī --- 
+atthi|(asti|)
+sūtradhāraḥ --- 
+evvaṃ devā tumaṃ assāsaantu| ayye! kiṃ kiṃ| (evaṃ devāstvā māśvāsayantu | ārye! kiṃ kim |)
+naṭī --- 
+ghidaṃ gulaṃ dahiṃ taṇḍulā ja savvaṃ atthi | (ghṛtaṃ guḍo dadhi taṇḍulāśca sarvamasti |)
+sūtradhāraḥ --- 
+evaṃ savvaṃ amhāṇaṃ gehe atthi | (etat sarvamasmākaṃ gehe'sti |)
+naṭī --- 
+ṇahi ṇahi | antalāvaṇe | (nahi nahi| antarāpaṇe|)
+sūtrādhāraḥ --- 
+(saroṣam) āḥ aṇayye! evvaṃ de āsā chindīadu| abhāvaṃ ca gamissasi| ahaṃ caṇḍappavādalaṇḍio via varaṇḍī pavvadādo dūraṃ ārovia pāḍido mhi | (āḥ anārye! evaṃ te āśā chidyatām| abhāvaṃ ca gamiṣyasi| ahaṃ caṇḍapravātalaṇḍita iva varaṇḍaḥ parvatād dūramāropya pātito'smi|)
+naṭī --- 
+mā bhāāhi mā bhāāhi| muhuttaaṃ paḍivāledu ayyo| savvaṃ sajjaṃ bhavissadi | laddhaṃ ṇāma edaṃ| ajja mama uvavāsassa ayyo sahāyo hodu| (mā bibhīhi mā bibhīhi | muhūrtakaṃ pratipālayatvāryaḥ sarvaṃ sajjaṃ bhaviṣyati| labdhaṃ nāmaitat| adya mamopavāsasyāryaḥ sahāyo bhavatu|)
+sūtrādhāraḥ --- 
+kiṇṇāmaheo ayyāe uvavāso| (kinnāmadheya āryāyā upavāsaḥ|)
+naṭī --- 
+abhirūpavadī ṇāma| (abhirūpapatirnāma|)
+sūtrādhāraḥ --- 
+kiṃ aṇṇajādīe| (kimanyajātyām|)
+naṭī --- 
+āma| (ām|)
+sūtrādhāraḥ --- 
+savvaṃ dāva ciṭṭhadu| ko ṇu dāṇiṃ ayyāe uvavāsassa uvadesiyo| (sarvaṃ tāvat tiṣṭhatu| ko nvidānīmāryāyā upavāsasyopadeśikaḥ|)
+naṭī --- 
+imiṇā vaḍivassaeṇa cuṇṇagoṭṭheṇa | (anena varivasyakena cūrṇagoṣṭhena |)
+sūtrādhāraḥ --- 
+sāhu cuṇṇagoṭṭha! sāhu| (sādhu cūrṇagoṣṭha! sādhu|)
+naṭī --- 
+jai ayyassa aṇuggaho, tado iccheaṃ amhārisajaṇajoggaṃ kaṃci bamhaṇaṃ nimanteduṃ| (yadyāryasyānugrahaḥ, tata iccheyamasmāddaśajanayogyaṃ kañcid brāhmaṇaṃ nimantrayitum|)
+sūtrādhāraḥ --- 
+dhammiṭṭho khu ṇioo | teṇa pādarāso vi me bhavissadi | jai evvaṃ, pavisadu ayyā | ahaṃ vi amhārisajaṇajoggaṃ kaṃci bamhaṇaṃ aṇṇesāmi | (dharmiṣṭhaḥ khalu niyogaḥ| tena prātarāśo'pi me bhaviṣyati | yadyevaṃ praviśatvāryā | ahamapyasmādṛśajanayogyaṃ kañcid brāhmaṇamanveṣe|)
+naṭī --- 
+jaṃ ayyo āṇavedī| (niṣkrāntā) (yadārya ājñāpayati|)
+sūtrādhāraḥ --- 
+kahi ṇṇu khu dariddabamhaṇaṃ labheaṃ | (vilokya) eso ayya cārudattassa vaasso ayyametteo ṇāma bamhaṇo ido evva āacchadi | jāba uvaṇimantemi| (parikramya) ayya! ṇimantido si| āmantaṇassa mā daridda tti maṃ avamaṇṇehi| sampaṇaṃ ahṇidavvaṃ bhavissadi| ghidaṃ gulaṃ dahiṃ taṇḍulā a savvaṃ atthi | avi a dakkhiṇāmāsaāṇi bhavissanti| (kutra nu khalu daridrabrāhmaṇaṃ labheya| eṣa āryacārudattasya vayasya āryamaitreyo nāma brāhmaṇa ita evāgacchati | yāvadupanimantrayāmi| ārya! nimantrito'si| āmantraṇasya mā daridra iti māmavamanyasva| sampannamaśitavyaṃ bhaviṣyati| ghṛtaṃ guḍo dadhi taṇḍulāśca sarvamasti api ca dakṣiṇāmāṣakā bhaviṣyanti|)
+(nepathye)
+aṇṇaṃ aṇṇaṃ ṇimantedu dāva bhavaṃ| arittao dāva ahaṃ| (anyamanyaṃ nimantrayatu tāvad bhavān| ariktakastāvadaham|)
+sūtradhāraḥ ---
+ghidaguladahisusamiddhaṃ dhūviasūvovadaṃsasambhiṇṇaṃ|
+sakkāradattamiṭṭhaṃ bhuñjīadu bhattamayyeṇa||1||
+(ghṛtaguhadadhisamṛddhaṃ dhūpitasūpopadaṃśasambhinnam| satkāradattamiṣṭaṃ bhujyatāṃ bhaktamāryeṇa||1||)
+(niṣkrāntaḥ)
+sthāpanā |
+(tataḥ praviśati vidūṣakaḥ|)
+vidūṣakaḥ --- 
+aṇṇaṃ aṇṇaṃ ṇimantedu dāva bhavaṃ arittao dāva ahaṃ| ṇaṃ bhaṇāmi ahaṃ arittao tti| kiṃ bhaṇāsi --- 
+sampaṇṇaṃ asaṇaṃ ahṇidavvaṃ bhavissadi| tti| ahaṃ puṇa jāṇāmi| ahiamahurassa ambassa ajoggadāe aṭṭhi ṇa bhakkhīadi tti| kiṃ dāṇi maṃ ullālia ullālia bhaṇāsi| bhaṇāmi vāvudo tti| kiṃ bhaṇāsi-dakkhiṇāmāsaāṇi bhavissadi tti | eso bāā paccācakkhido hiaeṇa aṇubandhīamāṇo gacchīadi | aho accāhidaṃ | ahaṃ vi ṇāma parassa kṣāmantarāṇi tti takkemi | jo ahaṃ tattahodo cārudattassa gehe ahorattapayyattasiddhehi ṇāṇāvidhehi hiṅguviddhehi oggāraṇasugandhehi bhūkkhevamattapaḍicchidehi antarapāṇīehi asaṇappaārehi cittaaro via bahumallaehi parivudo āaṇṭhamattaṃ ahṇia caccaravusaho via modaakhajjaehi romanthāamāṇo divasaṃ khevemi, so evva dāṇiṃ ahaṃ tattahodo cārudattasya dariddadāe sama pārāvadehi sāhāraṇavutti uvajīvanto aṇṇahi caria caria tassa āvāsaṃ evva gacchāmi | aṇṇaṃ ca acchariaṃ | mama udaraṃ avatthāvisesaṃ jāṇādi | appeṇāvitussādi | bahuaṃ vi odaṇabharaṃ bharissadi dīamāṇaṃ | ṇa āedi adīamāṇaṃ paccācikkhadi| ṇa khu aha eriseṇa ṇa santuṭṭho| tā saṭṭhīkidadevakayyassa tattahodo cārudattasya kāraṇādo gahīdo sumaṇo antalickhavāso a | jāva se passaparivattī homi| (parikramyāvalokya) eso tattabhavaṃ cārudatto pabhādacando via sakaruṇappiadaṃsaṇo jahāvibhaveṇa gihadevadāṇi accaanto ido evva āacchaṣṭi jāpa ṇaṃ uva sappāmi | (niṣkrāntaḥ|) (anyamanyaṃ nimantrayatu tāvat bhavān | ariktakaratāvadaham| nanu bhaṇāmyahamariktaka iti| kiṃ bhaṇasi-sampannamaśanamaśitavyaṃ bhaviṣyatīti| ahaṃ punarjānāmi| adhikaramadhurasya āmrasya ayogyatayā asthi na bhakṣyata iti | kimidānīṃ māmullālyollālya bhaṇasi| bhaṇāmi vyāpṛta iti| kiṃ bhaṇasi-dakṣiṇā māṣakā bhaviṣyantīti| eṣa vācā pratyākhyāto hṛdayenānubavyamāno gamyate| aho atyāhitam| ahamapi nāma parasyāmantraṇānīti tarkayāmi | yo'haṃ tatrabhavataścārudattasya gehe'horātraparyāptasiddhairnānāvidhairhiṅguviddhairudgārasugandhibhiḥ bhrūkṣepamātrapratīṣṭairāntarāpānīyairaśanaprakāraiścitrakara iva bahumallakaiḥ parivṛta ākaṇṭhamātramaśitvā catvaravṛṣabha iva modakakhādyai romanthāyamāno divasaṃ kṣipāmi, sa evedānīmahaṃ tatra bhavataścārudattasya daridratayā samaṃ pārāvataiḥ sādhāraṇavṛttimupajīvan anyatra caritvā caritvā tasyāvāsameva gacchāmi| anyaccāścaryam| mamodaramavasthāviśeṣaṃ jānāti| alpenāpi tuṣyati| bahukamapyodanabharaṃ bhariṣyati dīyamānam| na yācate adīyamānaṃ, na pratyācaṣṭe| na khalvahamīdṛśena na santuṣṭaḥ| ṣaṣṭhīkṛtadevakāryasya tatrabhavataścārudattasya kāraṇād gṛhītāni sumanaso'ntarīyavāsaśca | yāvadasya pārśvaparivartī bhavāmi | eṣa tatrabhavāṃścārudattaḥ prabhātacandra iva sakaruṇapriyadarśano yathāvibhavena gṛhadaivatānyarcayan ita evāgacchati | yāvadenamupasarpāmi|)
+(tataḥ praviśati balimupaharannāyako vidūṣakaścaṅgerikāhastā ceṭī ca|)
+nāyakaḥ --- 
+(dīrghaṃ niḥśvasya) bhoḥ! dāridryaṃ khalu nāma manasvinaḥ puruṣasya socchvāsaṃ maraṇam | kutaḥ,
+
+yāsāṃ balirbhavati madgṛhadehalīnāṃ haṃsaiśca sārasagaṇaiśca vibhaktapuṣpaḥ|
+tāsveva pūrvabalirūḍhayavāṅkurāsu, bījāñjaliḥ patati kīṭamukhāvalīḍhaḥ || 2 ||
+vidūṣakaḥ --- 
+alaṃ dāṇi bhavaṃ adimattaṃ santappiduṃ purusajovvaṇāṇi via giha jovvaṇāṇi khu dasāvisesaṃ aṇuhonti | āsamuddaāṇavipaṇṇavibhavassa bahulapakkhacandassa johṇāparikkhao via bhavado evva ramaṇīo aaṃ dariddabhāvo| (alamidānīṃ bhavānatimātraṃ santaptum| puruṣayauvanānīva gṛhayauvanāni khalu daśāviśeṣamanubhavanti | āsamudradānavipannavibhavasya bahulapakṣacandrasya jyotsnāparikṣaya iva bhavata eva ramaṇīyo'yaṃ daridrabhāvaḥ |)
+nāyakaḥ --- 
+na khalvahaṃ naṣṭāṃ śriyamanuśocāmi| guṇarasajñasya tu puruṣasya vyasanaṃ dāruṇataraṃ māṃ pratibhāti | kutaḥ,
+sukhāttu yo yāti daśāṃ daridratāṃ sthitaḥ śarīreṇa mṛtaḥ sa jīvati || 3 ||
+vidūṣakaḥ --- 
+bho vaasya! samuddapaṭṭaṇasārabhūdo tādiso atthasaṃcao kahiṃ gao (bho vayasya! samudrapattanasārabhūtastādṛśo'rthasañcayaḥ kva gataḥ|)
+nāyakaḥ --- 
+(niḥśvasya) vayasya! yatra gatāni me bhāgadheyāni |
+paśya,
+
+kṣīṇā mamārthāḥ praṇayikriyāsu vimānitaṃ naiva paraṃ smarāmi|
+etattu me pratyayadattamūlyaṃ sattvaṃ sakhe! na kṣayamabhyupaiti || 4 ||
+(cintāṃ nāṭayati)
+vidūṣakaḥ --- 
+kiṃ bhavaṃ atthavibhavaṃ cintedi| (kiṃ bhavānarthavibhavaṃ cintayati|)
+nāyakaḥ --- 
+
+satyaṃ na me dhanavināśagatā vicintā
+bhāgyakrameṇa hi dhanāni punarbhavanti |
+etattu māṃ dahati naṣṭadhanaśriyo me
+yat sauhṛdāni sujane śithilībhavanti || 5 ||
+api ca  --- 
+
+dāridryāt puruṣasya bāndhavajano vākye na santiṣṭhate
+sattvaṃ hāsyamupaiti śīlaśaśinaḥ kāntiḥ parimlāyate |
+nirvairā vimukhībhavanti suhṛdaḥ sphītā bhavantyāpadaḥ
+pāpaṃ karma ca yat parairapi kṛtaṃ tattasya sambhāvyate || 6 ||
+vidūṣakaḥ --- 
+ede dāṇi dāsīeputtā atthavāvārā govadāraā via masaabhīdā gihādo ṇiggacchanti | dhaṇaviṇāsadukkhassa uṇa cintiamāṇassa vasante vuḍhḍhassa saratthambassa via aṅkuraṅkurā ubbhamanti| tā alaṃ bhavado sandāveṇa| (eta idānīṃ dāsyāḥ putrā arthavyāpārā gopadārakā iva maśakabhītā gṛhād nirgacchanti | dhanavināśaduḥkhasya punaścintyamānasya vasante vṛddhasya śarastambasyevā'ṅkurāṅkurā udbhramanti| tadalaṃ bhavataḥ santāpena|)
+nāyakaḥ --- 
+vayasya! kimarthaṃ santāpaṃ kariṣye| kiñcāhaṃ daridraḥ, yasya mama,
+vibhavānuvaśā bhāryā samaduḥkhasukho bhavān |
+sattvaṃ ca na paribhraṣṭaṃ yad daridreṣu durlabham || 7 ||
+(tataḥ praviśati gaṇikā sambhrāntā viṭena śakāreṇa cānugamyamānā |)
+śakāraḥ --- 
+ciṭṭha ciṭṭha vaśañcaśeṇie! ciṭṭha
+kiṃ yāśi dhāvaśi padhāvaśi pakkhalantī
+śāhu ppaśīda ṇa malīasi ciṭṭha dāva|
+kāmeṇa śampadi hi ujjhai me śalīlaṃ
+aṅgālamajjhapaḍide via cammakhaṇḍe || 8 ||
+(tiṣṭha tiṣṭha vasantasene! tiṣṭha,
+kiṃ yāsi dhāvasi pradhāvasi praskhalantī sādhu prasīda na māryase tiṣṭha tāvat |
+kāmena samprati hi dahyate me śarīra-maṅgāramadhyapatitamiva carmakhaṇḍam || 8 ||)
+viṭaḥ --- 
+basantasene!
+kiṃ tvaṃ bhayena parivartitasaukumāryā
+nṛtopadeśaviśadau caraṇau kṣipantī |
+udvignacañcalakaṭākṣaniviṣṭadṛṣṭi-
+rvyāghrānusāracakitā hariṇīva yāsi || 9 ||
+śakāraḥ --- 
+bhāve! eśā gacchai vaśañcaśeṇiā, (bhāva! eṣā gacchati vasantasenā)
+duvehi amhehyaṇubandhaantī jahā śigālī via kukkulehi |
+śaṇūpulā mehalaṇādahāśā śaveṭṭaṇaṃ me halaaṃ halantī || 10 ||
+(dvābhyāmāvābhyāmanubadhyamānā yathā śrṛgālīva kukkurābhyām |
+sanūpurā mekhalānādahāsā saveṣṭanaṃ me hṛdayaṃ harantī || 10 ||)
+viṭaḥ --- 
+vasantasene!
+kiṃ tvaṃ padāt padaśatāni niveśayantī
+nāgīva yāsi patagendrabhayābhibhūtā |
+vegādahaṃ pracalitaḥ pavanopameyaḥ
+kiṃ tvāṃ grahītumathavā na hi me'sti śaktiḥ || 21 ||
+gaṇikā --- 
+(samantādavalokya) pallavaa! pallavaa! parahudie! parahudie! mahuaraa! mahuaraa! sārie! sārie! haddhi, ṇaṭṭho me parijaṇo| ettha saaṃ eva appā rakkhidavvo| (pallavaka! pallavaka! parabhṛtike! madhukaraka! madhukaraka! śārike! śārike!| hā dhik, naṣṭo me parijanaḥ | atra svayamevātmā rakṣitavyaḥ|)
+śakāraḥ --- 
+vilava vilava ṇāe! vilava pallavaṃ vā| parahudiaṃ vā, mahuaraṃ vā, śāliaṃ vā, śavvaṃ vaśañcamāśaṃ vā| ke ke tumaṃ parittaaśi| (vilapa vilapa jñāte! vilapa pallavaṃ vā, parabhṛtikāṃ vā, madhukaraṃ vā, śārikāṃ vā, sarva vasantamāsaṃ vā| kaḥ kastvāṃ paritrāsyate|)
+kiṃ vāśudeve śavapaṭṭaṇeśe kuntīśude vā jaṇamajae vā |
+ahaṃ tumaṃ gahṇia keśahatthe duḥśāśale śīdamivāhalāmi || 12 ||
+(kiṃ vāsudevaḥ śavapattaneśaḥ kuntīsuto vā janamejayo vā|
+ahaṃ tvāṃ gṛhītvā keśahaste duḥśāsanaḥ sītāmivāharāmi || 12 ||)
+viṭaḥ --- 
+vasantasene! sarvatra bhayānabhijñahṛdayaṃ māṃ kuru| paśya,
+paricitatimirā me śīladoṣeṇa rātri-
+rbahulatimirakālastīrṇapūrvā vighaṭṭāḥ |
+yuvatijanasamakṣaṃ kāmametanna vācyaṃ
+vipaṇiṣu hataśeṣā rakṣiṇaḥ sākṣiṇo me || 13 ||
+gaṇikā --- 
+(ātmagatam) haṃ idāṇi saṃsaivā saṃvṛttā, jo appaguṇāṇi saaṃ evva mantedi | kahaṃ eve akayya ṇa karissanti | (aham idānīṃ saṃśayitā saṃvṛttā, ya ātmaguṇān svayameva mantrayate| kathamete'kārya na kariṣyanti|)
+viṭaḥ --- 
+bhavati, kriyatāmasmākamanunayapragrahaḥ paśya,
+janayati khalu roṣaṃ praśrayo bhidyamānaḥ
+kimiva ca ruṣitānāṃ duṣkaraṃ madvidhānām|
+anunayati samarthaḥ khaḍgadīrghaḥ karo'yaṃ
+yuvativadhaghṛṇāyā māṃ śarīraṃ ca rakṣa || 14 ||
+gaṇikā --- 
+(ātmagatam) aṇuṇao vi khu se bhāedi| (anunayo'pi khalvasya bhāyayati|)
+śakāraḥ --- 
+vaśañcaśeṇie| śuṭṭhu bhāve bhaṇādi| bahuṇṇiadi khu dāva baliajaṇadullahe aṇuṇae! pekkha vāśu! (vasantasene! suṣṭhe bhāvo bhaṇati| bahu mānyate khalu tāvad balavajjanadurlabho'nunayaḥ | paśya vāsu!)
+aśi kkhu tikkhe śihigīvameae khivemi śīśaṃ tava mālae havā|
+alaṃ tu ampāliśakāṇi lośia maḍe khu jo hoī ṇa ṇāma jīvai || 15 ||
+(asiḥ khalu tīkṣṇaḥ śikhigrīvāmecakaḥ kṣipāmi śīrṣaṃ tava māraye'thavā |
+alaṃ tvasmādṛśakān roṣayitvā mṛtaḥ khalu yo bhavati na nāma jīvati || 15 ||)
+gaṇikā --- 
+ayya! kulauttajaṇassa sīlaparitosovajīviṇī gaṇiā khu ahaṃ | (ārya| kulaputrajanasya śīlaparitoṣopajīvinī gaṇikā khalvaham|)
+viṭaḥ --- 
+ataḥ khalu prārthyase|
+gaṇikā --- 
+ayya! imāco jaṇādo kiṃ icchīadi sarīraṃ vā ādu alaṅkāro vā| (ārya! asmājjanāt kimiṣyate śarīraṃ vāthavālaṅkāro vā|)
+viṭaḥ --- 
+na puṣpamokṣaṇamarhati latā| kṛtamalaṅkāreṇa|
+gaṇikā --- 
+ahaṃ khu dāṇiṃ attāṇaṃ ṇa sandāveaṃ| (ahaṃ khalvidānīmātmānaṃ na santāpayeyam|)
+śakāraḥ --- 
+vaśañcaśeṇie! ahaṃ bhaṭṭiputte kāmaidavve| (vasantasene ahaṃ bhartṛputraḥ kāmayitavyaḥ|)
+gaṇikā --- 
+santo si| (śanto'si|)
+śakāraḥ --- 
+śuṇāhi bhāve! śuṇāhi| eśā vaśañcaśeṇiā maṃ śanto śi tti bhaṇādi| (śruṇu bhāva! śruṇu| eṣā vasantasenā māṃ śrānto'sīti bhaṇati|)
+viṭaḥ --- 
+(ātmagatam) ākruṣṭamātmānaṃ na jānāti mūrkhaḥ| dhvaṃsa ityukte śrānta ityavagacchati| api ca,
+abhinayati vacāṃsi sarvagātraiḥ kimapi kimapyanavekṣitārthamāha |
+anucitagatirapragalbhavākyaḥ puruṣamayasya paśornavāvatāraḥ || 16 ||
+(prakāśam)
+vasantasene! kimidaṃ matsannidhau veśavāsaviruddhamabhihitam| paśya,
+taruṇajanasahāyaścintyatāṃ veśavāso
+vigaṇaya gaṇikā tvaṃ mārgajātā lateva |
+vahasi hi dhanahāryaṃ paṇyabhūtaṃ śarīraṃ
+samamupacara bhadre! supriyaṃ cāpriyaṃ ca || 17 ||
+gaṇikā --- 
+eso me abhiṇiveso abhijaṇeṇa tuloadi| (eṣa me'bhiniveśo'bhijanena tolyate|)
+śakāraḥ --- 
+bhāve! eśā andhaālapūlidagambhīlā lacchā dīśai | mā khu ṇāe ettha bhaṃśaidavvā | ā kāmadevāṇuāṇappahudi ṇaaṇamattaśatthulaṃ dariddaśatthavāhaputtaṃ cāludattavaḍuaṃ kamedi eśā | idaṃ taśśa gehaśśa pakkhaduvālaṃ| (bhāva! eṣāndhakārapūritagambhīrā rathyā dṛśyate| mā khalu jñātā atra bhraṃśayitavyā| ā kāmadevānuyānāt prabhṛti nayanamātrasaṃsthulaṃ daridrasārthavāhaputraṃ cārudattabaṭukaṃ kāmayata eṣā| idaṃ tasya gṛhasya pakṣadvāram|)
+gaṇikā --- 
+(saharṣamātmagatam) evaṃ tassa gehaṃ| diṭṭhiā dāṇi amittajaṇaṇiroheṇa piajaṇasamīvaṃ uvaṇīdamhi| bhodu, evaṃ dāva karissaṃ| (apasarati|)
+(etat tasya geham| diṣṭyedānīmamitrajananirodhena priyajanasamīpamupanītāsmi| bhavatu, evaṃ tāvat kariṣyāmi|)
+śakāraḥ --- 
+(vilokya) bhāve! ṇaṭṭhā ṇāe ṇaṭṭhā| (bhāva! naṣṭā jñātā naṣṭā|)
+viṭaḥ --- 
+kathaṃ naṣṭā| anviṣyatāmanviṣyatām|
+śakāraḥ --- 
+bhāve! ṇa diśśadi| (bhāva! na dṛśyate|)
+viṭaḥ --- 
+hanta vañcitāḥ smaḥ| vasantasene! upalabdhedānīmasi|
+kāmaṃ pradoṣatimireṇa na dṛśyase tvaṃ
+saudāmanīva jaladodarasanniruddhā|
+tvāṃ sūcayiṣyati hi vāyuvaśopanīto
+gandhaśca śabdamukharāṇi ca bhūṣaṇāni || 18 ||
+(gaṇikā mālāmapanīya bhūṣaṇāni cotsārayati)
+viṭaḥ --- 
+aho balavāṃścāyamandhakāraḥ| samprati hi,
+limpatīva tamo'ṅgāni varṣatīvāñjanaṃ nabhaḥ|
+asatpuruṣaseveva dṛṣṭirniṣphalatāṃ gatā || 19 ||
+api ca,
+sulabhaśaraṇamāśrayo bhayānāṃ vanagahanaṃ timiraṃ ca tulyameva |
+ubhayamapi hi rakṣate'ndhakāro janayati yaśca bhayāni yaśca bhītaḥ || 20 ||
+tathāhi --- 
+
+ālokaviśālā me sahasā timirapraveśasañchannā |
+unmīlitāpi dṛṣṭirnimīlitevāndhakāreṇa || 21 ||
+gaṇikā --- 
+ammahe bhittipariṇāmasūidaṃ pakkhaduvālaṃ| asambhoamaliṇadāe iha ahiaṃ andhaāro | tā iha evva ciṭṭhassaṃ| (sthitā|) (aho bhittipariṇāmasūcitaṃ pakṣadvāram | asambhogamalinatayohādhikamandhakāraḥ | tad ihaiva sthāsyāmi|)
+nāyakaḥ --- 
+maitreya! gaccha, catuṣpathe balimupahara mātṛbhyaḥ|
+vidūṣakaḥ --- 
+ṇa me saddhā, aṇṇo gacchadu| (na me śraddhā, anyo gacchatu|)
+nāyakaḥ --- 
+kimartham|
+vidūṣakaḥ --- 
+mama buddhī ādaṃsamaṇḍalagaā via chāā vāmesu dakkhiṇā dakkhiṇesu vāmā hoi| (mama buddhirādarśamaṇḍalagateva cchāyā vāmeṣu dakṣiṇā dakṣimeṣu vāmā bhavati|)
+nāyakaḥ --- 
+mūrkha! yathāvibhavenārcyatām| bhaktyā tuṣyanti daivatāni| tad gamyatām|
+vidūṣakaḥ --- 
+eāī ahaṃ kahaṃ gamissaṃ| (ekākyahaṃ kathaṃ gamiṣyāmi|)
+nāyakaḥ --- 
+radanike! anugacchātrabhavantam|
+radanikā --- 
+jaṃ bhaṭṭā āṇavedi| (yad bhartājñāpayati|)
+vidūṣakaḥ --- 
+bhodi! dīvaṃ ahaṃ ṇiissaṃ| (bhavati! dīpamahaṃ neṣyāmi|)
+nāyakaḥ --- 
+yathā bhavān manyate tathāstu|
+vidūṣakaḥ --- 
+(dīpaṃ gṛhītvā) bho radaṇie! avāvṛda pakkhaduvālaṃ| (bho radanike! apāvṛṇu pakṣadvāram|)
+radanikā --- 
+taha|(nāṭyena dvāramapāvṛṇoti) (tathā|)
+(gaṇikā vastrāntena dīpaṃ nirvāpayati|)
+vidūṣakaḥ --- 
+avihā! avihā!| (avihā! avihā!|)
+vidūṣakaḥ --- 
+avihā! avihā!| (avihā! avihā!|)
+nāyakaḥ --- 
+vayasya! kimetat |
+vidūṣakaḥ --- 
+avāvudapakkhaduvārapiṇḍīkidappaviṭṭheṇa rāamaggasāṃkaṇṇeṇa vādeṇa sahasā ṇiggacchantassa mama hatthe ṇivvāvudo dīvo| (apāvṛtapakṣadvārapiṇḍīkṛtapraviṣṭena rājamārgasaṅkīrṇena vātena sahasā nirgacchato mama haste nirvāpito dīpaḥ|)
+nāyakaḥ --- 
+mūrkha! dhik tvām|
+vidūṣakaḥ --- 
+appaṃ khu me avaraddhaṃ | radaṇie! gaccha, cauppahe ma paḍivālehi | jāvaṃ ahaṃ vi abbhantaracaussālādo dīvaṃ gahṇia āacchāmi | (niṣkrāntaḥ|) (alpaṃ khalu me'varāddham| radanike! gaccha, catuṣpathe māṃ pratipālaya| yāvadahamapyabhyantaracatuśśālād dīpaṃ gṛhītvā''gacchāmi |)
+ceṭī --- 
+ayya! taha| (parikrāmati|) (ārya! tathā|)
+gaṇikā --- 
+diṭṭhiā mama pavesaṇimittaṃ avāvudaṃ pakkhaduvālaṃ| alaṃ cārittabhaeṇa| jāva pavisāmi| (abhyantaraṃ praviśya tiṣṭhati|) (diṣṭyā mama praveśanimittamapāvṛtaṃ pakṣadvāram | alaṃ cāritrabhayena | yāvat praviśāmi|)
+viṭa --- 
+(vilokyātmagatam) bhavanānnirgatya kācidithamāgacchati| bhavatu, anayā varākaṃ vañcayāmi| (prakāśam) surabhisnānadhupānubiddha iva gandhaḥ|
+śakāraḥ --- 
+āma bhāve! śuṇāmi gaṃdhaṃ śavaṇehi| andhaālapūlidehiṃ ṇāśāpuḍehiṃ śuṭṭhu ṇa pekkhāmi| (āma bhāva! śrṛṇomi gandhaṃ śravaṇābhyām| andhakārapūritābhyāṃ nāsāpuṭābhyāṃ suṣṭhu na paśyāmi|)
+viṭaḥ --- 
+tiṣṭha tiṣṭha| kva yāsyasi| (ceṭīṃ gṛhṇāti|)
+(ceṭī sabhayaṃ bhūmau patitā|)
+śakāraḥ --- 
+gaṇha bhāve! gaṇha| (gṛhāṇa bhāva! gṛhāṇa|)
+viṭaḥ --- 
+
+eṣā hi vayaso darpāt kulaputrāvamāninī |
+keśeṣu kusumanyāsaḥ sevitavyeṣu dharṣitā || 22 ||
+śakāraḥ --- 
+bhāve| kiṃ gahīdā (bhāva! kiṃ gṛhītā|)
+viṭaḥ --- 
+atha kim | eṣā gandhānusāreṇa gṛhītā|
+śakāraḥ --- 
+dāśīe puttīe śīśaṃ dāva chindia paccā mālaiśśaṃ| (dāsyā putryāḥ śīryaṃ tāvacchitvā paścānmārayiṣyāmi|)
+viṭaḥ --- 
+gṛhyatāṃ tāvat|
+śakāraḥ --- 
+(ceṭī gṛhītvā)
+esā hi vāśū śilaśiggahīdā keśeṣu bālesu śiloluheśu|
+kūjādi kandāhi lavāhi vāttaṃ maheśśalaṃ śaṅkalamiśśalaṃ vā || 23 ||
+(eṣā hi vāsūḥ śirasi gṛhītā keśeṣu bāleṣu śiroruheṣu|
+kūja kranda lapa vārtaṃ maheśvaraṃ śaṅkaramīśvaraṃ vā || 23||)
+(ceṭīṃ balādākarṣati|)
+ceṭī --- 
+kiṃ ayyamissehi vavasidaṃ| (kimāryamiśrairvyavasitam|)
+śakāraḥ --- 
+bhāve! jāṇāmi śalayogeṇa ṇa hoi vaśañcaśeṇiā | (bhāva! jānāmi svarayogena na bhavati vasantasenā|)
+viṭaḥ --- 
+na moktavyā| vasantasenaivaiṣā|
+eṣā raṅgapraveśena kalānāṃ caiva śikṣayā|
+svarāntareṇa dakṣā hi vyāhartuṃ tanna mucyatām || 24 ||
+vidūṣakaḥ --- 
+(dīpaṃ gṛhītvā) rāamaggasaṅkiṇṇeṇa sīasuumāreṇa vādeṇa pade pade vikkhohiamāṇajaṇiataraṅgatellapuṇṇabhāaṇaṃ dīvaṃ kahaṃ vi rakkhia gaṇhia āado mhi| (rājamārgasaṅkīrṇena śītasukumāreṇa vātena pade pade vikṣobhyamāṇajanitataraṅgatelapūrṇabhājanaṃ dīpaṃ kathamapi rakṣitvā gṛhītvāgato'smi|)
+ceṭī --- 
+(śakāraṃ pādena tāḍayantī ruditvā) ayya! mettea! aaṃ paribhavo ādu avalevo| (ārya! maitreya! ayaṃ paribhavo'thavāvalepaḥ|)
+vidūṣakaḥ --- 
+mā dāva mā dāva! (sakhaḍgaṃ viṭaṃ śakāraṃ ca dṛṣṭvā śaṅkitastiṣṭhati|) mā tāvad, mā tāvat|)
+viṭaḥ --- 
+aye āryacārudattasya vayasyo maitreyaḥ khalvayam| neyamapi vasantasenā| mahābrāhmaṇa! anyaśaṅkayā khalvidamasmābhiranuṣṭhitaṃ na darpāt| paśyatu bhavān,
+akāmā hriyate'smābhiḥ kācit svādhīnayauvanā |
+sā bhraṣṭā śaṅkyā tasyāḥ prāpteyaṃ śīlavañcanā || 25 ||
+śakāraḥ --- 
+avihā daliddaśatthavāhaputtaśaśa cāludattabaḍuaśśa ceḍī khu iaṃ, ṇa hoi vaśañcaśeṇiā | śāhu, vaśañcaśeṇie! śāhu! andhaālaṃ kalia antalā vañcide bhāve, ahake dāve vañcide kūḍakavaḍaśīlae| śauvahā dukkhaḍe kaḍe| (avihā daridrasārthavāhaputrasya cārudattabaṭukasya veṭī khalviyaṃ, na bhavati vasantasenā| sādhu vasantasene! sādhu| andhakāraṃ kṛtvā'ntarā vañcito bhāvaḥ | ahaṃ tāvat vañcitaḥ kūṭakapaṭaśīlayā| sarvathā duṣkaraṃ kṛtam|)
+vidūṣakaḥ --- 
+mā dāva| ṇa juttamidaṃ| (mā tāvat| na yuktamidam|)
+viṭaḥ --- 
+bho mahābrāhmaṇa! ayamanunayasarvasvamañjaliḥ|
+vidūṣakaḥ --- 
+bhodu,bhodu! aṇavaraddho bhavaṃ| aṇuṇīdo ahaṃ evva ettha avaraddho | (bhavatu, bhavatu| anaparāddho bhavān| anunīto'hamevātrāparāddhaḥ|)
+śakāraḥ --- 
+bhāve! diḍhaṃ khu bhāāśi taṃ daliddaśatthavāhaputtaṃ cāludattavaḍuaṃ| (bhāva! dṛḍhaṃ khalu bibheṣi taṃ daridrasārthavāhaputraṃ cārudattabaṭukam|)
+viṭaḥ --- 
+satyaṃ bhīto'smi|
+śakāraḥ --- 
+kiśśa bhāve! kiśśa| (kasmāt bhāva! kasmāt|)
+viṭaḥ --- 
+tasya guṇebhyaḥ! paśyatu bhavān,
+sa madvidhānāṃ praṇayaiḥ kṛśīkṛto na tasya kaścid vibhavairamaṇḍitaḥ|
+nidāghasaṃśuṣka iva hrado mahān nṛṇāṃ tu tṛṣṇāmapanīya śuṣyati || 26 ||
+mahābrāhmaṇa! ayamarthaḥ sārthavāhaputrasya na kathayitavyaḥ |
+(niṣkrānto viṭaḥ|)
+śakāraḥ --- 
+māliśa! bahua! māliśa! bhaṇehi taṃ daliddaśatthavāhaputtaṃ cāludattavaḍuaṃ mama vaaṇeṇa --- lāaśāle śaṇṭhāṇe śavaṭṭeṇa śīśeṇa anuvandia bhaṇādiṇāḍaaitthiā vaśañcaśeṇiā ṇāma gaṇiādāriā śuvaṇṇavaṇṇā duvehi ammehi balakkāreṇa ṇīamāṇā mahanteṇa śuvaṇṇalaṅkāreṇa tava gehaṃ paviṭṭhā| śā śuve ṇiyyāaidavvā| mā dāva tava a mama a dāluṇo khoho hodi tti| vaḍua! māliśa! idaṃ ca bhaṇāhi-yā dāśīeputta! pārāvadagalappaviṭṭhaṃ via mūlakandaṃ śīśakavālaṃ maḍamaḍāiśśaṃ| mā khu kavāḍaśampuḍappuḍappaviṭṭhaṃ via pakkakavitthaṃ śīśaṃ de cuṇṇacuṇṇaṃ maḍamaḍāiśśaṃ ti| (māriṣa! baṭuka! māriṣa! bhaṇa taṃ daridrasārthavāhaputraṃ cārudattabaṭukaṃ mama vacanena-rājaśyālaḥ saṃsthānakaḥ sapaṭṭana śīrṣeṇānuvandya bhaṇati-nāṭakastrī vasantasenā nāma gaṇikādārikā suvarṇavarṇā dvābhyāmāvābhyāṃ balātkāreṇa nīyamānā mahatā suvarṇālaṅkāreṇa tava gehaṃ praviṣṭā| sā śvo niryātayitavyā| mā tāvat tava ca mama ca dāruṇaḥ kṣobho bhavatīti| baṭuka! māriṣa! idaṃ ca bhaṇa --- mā dāsyāḥputra! pārāvatagalapraviṣṭāmiva mūlakandaṃ śīrṣakapālaṃ maḍamaḍāyiṣyāmi| mā khalu kapāṭasampuṭapraviṣṭamiva pakvakapitthaṃ śīrṣaṃ te cūrṇacūrṇa maḍamaḍāyiṣyāmi iti|)
+vidūṣakaḥ --- 
+bho! taha| (śakāraṃ dīpenodvejayati|) (bho tathā|)
+śakāraḥ --- 
+(sarvato vilokya) kahiṃ bhāve| gade bhāve| avihā bhāve!| (kva bhāvaḥ| gato bhāvaḥ | avihā bhāva!|)
+(niṣkrantaḥ śakāraḥ|)
+vidūṣakaḥ --- 
+kidaṃ devakyayaṃ ti tattahodo ṇivedaissāmo | bhodi! avaṇīadude hiaamaṇṇū | aaṃ buttanto abbhantaraṃ ṇa pesidavvo | (kṛtaṃ devakāryamiti tatrabhavato nivedayiṣyāvaḥ | bhavati ! apanīyatāṃ te hṛdayamanyuḥ | ayaṃ vṛttānto'bhyantaraṃ na preṣayitavyaḥ|)
+ceṭī ---
+ayya! radaṇiā khu ahaṃ| (ārya! radanikā khalvaham|)
+vidūṣakaḥ --- 
+ehi gacchāmo! (ehi gacchāvaḥ|)
+(ubhau parikrāmataḥ|)
+nāyakaḥ --- 
+bhadre! kṛtaṃ devakāryam|
+gaṇikā --- 
+(ātmagatam) parijaṇatti maṃ saddāvedi| bhodu, rakkhidamhi| (parijana iti māṃ śabdāpayati | bhavatu, rakṣitāsmi|)
+nāyakaḥ --- 
+mārutābhilāṣī pradoṣaḥ | tad gṛhyatāṃ prāvārakam|
+gaṇikā --- 
+(prāvārakam gṛhītvā saharṣamātmagatam) aṇudāsīṇaṃ jovvaṇaṃ me paḍavāsagandhī sūedi| (anudāsīnaṃ yauvanamasya paṭavāsagandhaḥ sūcayati|)
+nāyakaḥ --- 
+radanike! praveśyatāmabhyantaracatuḥśālam |
+gaṇikā --- 
+(ātmagatam) abhāiṇī ahaṃ abbhantarappavesassa| (abhāginyahamabhyantarapraveśasya|)
+nāyakaḥ --- 
+kimidānīṃ na praviśasi|
+gaṇikā --- 
+(ātmagatam) idāṇiṃ ahaṃ kiṃ bhaṇisassaṃ| (idānīmahaṃ kiṃ bhaṇiṣyāmi|)
+nāyakaḥ --- 
+radanike! kiṃ vilambase|
+(radanikāvidūṣakāvupasṛtya)
+ceṭī --- 
+bhaṭṭidāraa! iaṃ mhi| (bhartṛdāraka! iyamasmi|)
+nāyakaḥ --- 
+iyamidānīṃ kā|
+avijñātaprayuktena dharṣitā mama vāsasā|
+saṃvṛtā śaradabhreṇa candralekheva śobhate || 27 ||
+gaṇikā --- 
+(ātmagatam) dīvāloasūidarūvo so evva dāṇi eso jassa kide ahaṃ ṇissāsamattalakkhidaṃ sarīraṃ uvvahāmi| (dīpālokasūcitarūpaḥ sa evedānīmeṣaḥ, yasya kṛte'haṃ niḥśvāsamātrarakṣitaṃ śarīramudvahāmi|)
+vidūṣakaḥ --- 
+bho cārudatta! rāasālo saṇṭhāṇo savaṭṭeṇa sīseṇa aṇuvandia viṇṇavedi-ṇāḍaaitthiā vasantaseṇiā ṇāma gaṇiādāriā amhedi balakkāreṇa ṇīamāṇā mahanteṇa suvaṇṇālaṅkāreṇa tumhāṇaṃ gehaṃ paviṭṭhā| sā suve ṇiyyāaidavvatti| (bhoḥ cārudatta! rājaśyālaḥ saṃsthānaḥ sapaṭṭena śīrṣeṇānuvandya vijñāpayatināṭakastrī vasantasenā nāma gaṇikādārikāsmābhirbalātkāreṇa nīyamānā mahatā suvarṇālaṅkāreṇa yuṣmākaṃ gehaṃ praviṣṭā| sā śvo niryātayitavyeti|)
+gaṇikā --- 
+(ātmagatam) haṃ balakkāreṇa ṇīamāṇatti ṇaṃ bhaṇādi| bhodu, aaṃ pattakālo| (prakāśam) ayya! saraṇāgadamhi| (ahaṃ balātkāreṇa nīyamāneti nanu bhaṇati| bhavatu, ayaṃ prāptakālaḥ| ārya! śaraṇāgatāsmi|)
+nāyakaḥ --- 
+na bhetavyaṃ, na bhetavyam | kiṃ vasantasenaivā |
+vidūṣakaḥ --- 
+avihā vasantaseṇā| (apavārya) bho cārudatta! vasantaseṇā khu iaṃ, jā bhavadā kāmadevāṇuāṇappahudi ṇaaṇamattasaṃtthudā saṇṇihidamaṇobhaveṇa hiaeṇa uvvahīadi! tā pekkhadu iaṃ | (avihā vasantasenā | bhoḥ cārudatta! vasantasenā khalviyaṃ, yā bhavatā kāmadevānuyānaprabhṛti nayanamātrasaṃstutā sannihitamanobhavena hṛdayenoduhyate | tat paśyatvimām|)
+nāyakaḥ --- 
+vayasya! paśyāmyenāṃ,
+yatra me patitaḥ kāmaḥ kṣīṇe vibhavasañcaye|
+roṣaḥ kupuruṣasyeva svāṅgeṣvevāvasīdati || 28 ||
+gaṇikā --- 
+adiṇṇabhūmippavesapagharisaṇeṇa avaraddhā ahaṃ ayyaṃ sīseṇa pasādemi|
+(adattabhūmipraveśapragharṣaṇenāparāddhāhamāryaṃ śīrṣeṇa prasādayāmi| )
+nāyakaḥ --- 
+yadyevamahamapi tāvadavijñātaprayuktena preṣyasamudācāreṇa sāparādho bhavatīṃ prasādayāmi|
+vidūṣakaḥ --- 
+bho! vivadantā iva saaḍiaṃ duvviṇīdabalīvaddā aṇṇoṇṇaṃ saṅkilesanti | ahaṃ dāṇi kaṃ pasādemi| bhodu, dāṇi radaṇiaṃ pasādemi| radaṇie; pasīdadu, pasīdadu hodīṃ| (bhoḥ! vivadantāviva śakaṭikāṃ durvinītabalīvardāvanyonyaṃ saṃkleśayataḥ| ahamidānīṃ kaṃ prasādayāmi| bhavatu idānīṃ radanikāṃ prasādayāmi| radanike! prasīdatu bhavatī|)
+nāyakaḥ --- 
+bhavati! paravānasmi| kimanutiṣṭhati snehaḥ|
+gaṇikā --- 
+(ātmagatam) mahuraṃ khu icchidavvaṃ| adakkhiṇaṃ khu paḍhamadaṃsaṇe jaicchāgadāe iha vasiduṃ| tā evaṃ karissaṃ| prakāśam) jai me ayyo pasaṇṇo, aaṃ me alaṃkāro iha evva ciṭṭhadu| alaṅkāraṇimittaṃ pāvā maṃ aṇusaranti| ahaṃ pi ayyeṇa rakkhidā gehaṃ gantumicchāmi| (madhuraṃ khalveṣṭavyam| adakṣiṇaṃ khalu prathamadarśane yadṛcchāgatayeha vastum| tadevaṃ kariṣyāmi| yadi me āryaḥ prasannaḥ ayaṃ me'laṅkāra ihaiva tiṣṭhatu| alaṅkāranimittaṃ pāpā māmanusaranti| ahamapyāryeṇa rakṣitā gehaṃ gantumicchāmi|)
+nāyakaḥ --- 
+anvarthamupadiśati| maitreya! gṛhyatām|
+vidūṣakaḥ --- 
+ṇa me saddhā| (na me śraddhā|)
+nāyakaḥ --- 
+mūrkha! gṛhyatām|
+vidūṣakaḥ --- 
+jaṃ bhavaṃ āṇavedi| āṇedu bhodī| (yad bhavānājñāpayati| ānayatu bhavatī|)
+(gaṇikā vimucyālaṅkāraṃ prayacchati|)
+vidūṣakaḥ --- 
+(gṛhītvā) radaṇie! gahṇa evaṃ suvaṇṇālaṅkāraṃ tuvaṃ | saṭṭīe sattamīe a dhārehi | ahaṃ aṭhṭhamīe aṇaddhāe dhāraissaṃ| (radanike! gṛhāṇaitaṃ suvarṇālaṅkāraṃ tvam| ṣaṣṭhyāṃ saptamyāṃ ca dhāraya| ahamaṣṭamyāmanadhyāye dhārayiṣyāmi|)
+ceṭī --- 
+(vihasya) satthaṃ vakkhāṇaṃantassa bhaṭṭiputtassa tadāṇiṃ avasaro hodi| āṇedu ayyo| (gṛhītvā niṣkrāntā|) (śāstraṃ vyācakṣāṇasya bhartṛputrasya tadānīmavasaro bhavati| ānayatvāryaḥ|)
+nāyakaḥ --- 
+ko'tra bhoḥ! daupikā tāvat|
+vidūṣakaḥ --- 
+bhoḥ! dīviā gaṇikā bia ṇissiṇehā saṃvuttā| (bhoḥ! dīpikā gaṇikeva niḥsnehā saṃvṛttā|)
+nāyakaḥ --- 
+kṛtaṃ dīpikayā| (vilokya) udito bhagavān sarvajanasāmānyapradīpaścandraḥ| ataḥ khalu,
+udayati hi śaśāṅkaḥ klinnakharjūrapāṇḍu-
+ryuvatijanasahāyo rājamārgapradīpaḥ |
+timiranicayamadhye raśmayo yasya gaurā
+hṛtajala iva paṅke kṣīradhārāḥ patanti || 29 ||
+bhavati ! rājamārge niṣkamaṇaḥ kriyatām | sakhe! anugacchātrabhavatīm|
+vidūṣakaḥ --- 
+jaṃ bhava āṇavedi| edu edu bhodī| (yad bhavānājñāpayati| etvetu bhavatī|)
+(niṣkrāntāḥ sarve|)
+iti prathamo'ṅkaḥ |
+<2>
+dvitīyo'ṅkaḥ
+(tataḥ praviśati gaṇikā ceṭī ca|)
+gaṇikā --- 
+tado tado|[tatastataḥ|]
+ceṭī --- 
+ammahe ṇa kiñci mae bhaṇidaṃ | kiṃ tado tado tti| [ammahe na kiñcinmayā bhaṇitam | kiṃ tatastata iti|]
+gaṇikā --- 
+hañje! kiṃ mae mantidaṃ|[hañje! kiṃ mayā mantritam|]
+ceṭī --- 
+ajjue! siṇeho pucchadi, ṇa purobhāidā kiṃ cintīadi| [ajjuke! snehaḥ pṛcchati, na purobhāgitā| kiṃ cintyate|]
+gaṇikā --- 
+hañje!tumaṃ dāva kiṃ ti takkesi|[hañje! tvaṃ tāvat kimiti tarkayasi|]
+ceṭī --- 
+appaoaṇadāe gaṇiābhāvassa ajjuā kaṃ pi kāmedi tti takkemi | [aprayojanatayā gaṇikābhāvasyājjukā kimapi kāmayata iti tarkayāmi|]
+gaṇikā --- 
+suṭṭhu tue kidaṃ| aviñcidā de diṭṭhī| īdisavaṇṇayyeva| [suṣṭhu tvayā kṛtam, avañcitā te dṛṣṭiḥ| īdṛśavarṇaiva!]
+ceṭī --- 
+aṇalaṃkidaṃ pi ajjuaṃ maṇḍidaṃ via pekkhāmi| kāmo hi bhaavaṃ aṇavagīdo ūsuvo taruṇajaṇassa| [analaṅkṛtāmapyajjukāṃ maṇḍitāmiva paśyāmi| kāmo hi bhagavānanavagīta utsavastaruṇajanasya|]
+gaṇikā --- 
+hadāse! ukkaṇṭhidavve kā de radī| [hatāśe! utkaṇṭhitavye kā te ratiḥ|]
+ceṭī --- 
+ajjue! icchāmi pucchiduṃ bahumāṇo via ramaṇīo kocci rāakumāro| [ajjuke! icchāmi praṣṭuṃ bahumāna iva ramaṇīyaḥ kaścid rājakumāraḥ|]
+gaṇikā --- 
+ramiduṃ icchāmi, ṇa seviduṃ| [rantumicchāmi, na sevitum|]
+ceṭī --- 
+kiṇṇu khu vijjāvisesaramaṇīo kocci bramhaṇadārao| [kinnu khalu vidyāviśeṣaramaṇīyaḥ kaścid brāhmaṇadārakaḥ|]
+gaṇikā --- 
+atthi adibahumado vissambho| pūaṇīo khu so jaṇo| [astyatibahumato viśrambhaḥ | pūjanīyaḥ khalu sa janaḥ|]
+ceṭī --- 
+kiṇṇu hu vaṇijadārao kocci āgantuo| [kinnu khalu vaṇigdārakaḥ kaścidāgantukaḥ|]
+gaṇikā --- 
+unmattie! āsācchedaṃ ukkaṇṭhantā kā sahedi| [unmattike! āśācchedamutkaṇṭhamānā kā sahate|]
+ceṭī --- 
+kiṃ ṇa sakkaṃ soduṃ| ko amhāṇaṃ maṇorahāutto| [kiṃ na śakyaṃ śrotum| ko'smākaṃ manorathāvuttaḥ!]
+gaṇikā --- 
+kiṃ tuvaṃ kāmadevāṇuyāṇe ṇa āadā si| [kiṃ tvaṃ kāmadevānuyāne nāgatāsi|]
+ceṭī --- 
+ṇaṃ āadamhi| [nanvāgatāsmi|]
+gaṇikā --- 
+keṇa udāsīṇaṃ mantesi| [kenodāsīnaṃ mantrayase|]
+ceṭī --- 
+bhaṇādu,bhaṇādu,ajjuā,bhaṇādu| [bhaṇatu, bhaṇatvajjukā, bhaṇatu|]
+gaṇikā --- 
+hañje! suṇāhi dāva| atthi satthavāhaputto cāludatto ṇāma| [hañje! śruṇu tāvat asti sārthavāhaputraścārudatto nāma|]
+ceṭī --- 
+jeṇa saraṇāgadā tuvaṃ rakkhidā| [yena śaraṇāgatā tvaṃ rakṣitā|]
+gaṇikā --- 
+so evva| [sa eva|]
+ceṭī --- 
+haddhi, dariddo kkhu so| [hā dhik, daridraḥ khalu saḥ]
+gaṇikā --- 
+ado kkhu kāmīadi| adidariddapurusasattā gaṇiā avaaṇīā hoi| [ataḥ khalu kāmyate| atidaridrapuruṣasaktā gaṇikā avacanīyā bhavati|]
+ceṭī --- 
+ajjue! uddhūdapuphphaṃ sahaāraṃ mahuarā uvāsanti| [ajjuke! uddhṛtapuṣpaṃ sahakāraṃ madhukārā upāsate|]
+gaṇikā --- 
+hañje! evaṃ, uvāsanti| de mahuarā tti pucchīanti| [hañje! evam, upāsate| te madhukarā iti pṛcchyante|]
+ceṭī --- 
+kiṃ, vihavamandadāe vesavāsappasaṅgakādaro dukkhaṃ tti jai ṇa āacche! [kiṃ, vibhavamandatayā veśavāsaprasaṅgakātaro duḥkhamiti yadi nāgacchet|]
+gaṇikā --- 
+ṇaṃ ahaṃ taṃ kāmemi| [nanvahaṃ taṃ kāmaye|]
+ceṭī --- 
+jai ettao bahumāṇo, kiṃ ṇābhisarīādi| [yadyetāvān bahumānaḥ, kiṃ nābhisriyate|]
+gaṇikā --- 
+ṇa hu ṇa gacchāmi| kintu sahasā abhisarido paccuaāradullabhadāe puṇo me dullabho bhave tti vilambemi| [na khalu na gacchāmi| kintu sahasābhisṛtaḥ pratyupakāradurlabhatayā punarme durlabho bhavediti vilambe|]
+ceṭī --- 
+haṃ kiṃ etaṇṇimittaṃ tahi evva so alaṅkāro ṭhāvido| [haṃ, kimetannimittaṃ tatraiva so'laṅkāraḥ sthāpitaḥ|]
+gaṇikā --- 
+īdisaṃ evva| [īdṛśameva|]
+(tataḥ praviśatyapaṭīkṣepeṇa saṃvāhakaḥ|)
+saṃvāhakaḥ --- 
+ayye! saraṇāgado mhi| [ārye! śaraṇāgato'smi|]
+gaṇikā --- 
+alaṃ ayyassa sambhameṇa| [alamāryasya sambhrameṇa|]
+ceṭī --- 
+haṃ ka dāṇiṃ eso| [haṃ ka idānīmeṣaḥ|]
+gaṇikā --- 
+ummattie! kiṃ saraṇāado pucchīadi| [unmattike! kiṃ śaraṇāgataḥ pṛcchyate|]
+ceṭī --- 
+avi ṇāma sāhasio bhave| [api nāma sāhasiko bhavet|]
+gaṇikā --- 
+ummattie ! guṇavanto rakkhidavvo hodi| [unmattike! guṇavān rakṣitavyo bhavati|]
+saṃvāhakaḥ --- 
+ayye! ṇaṃ bhaeṇa uvaāro vissarido, ṇa paribhaveṇa| pekkhadu ayyā, bhīdāhavā padharisidāhavā āvaṇṇāhavā sulabhacārittavañcaṇāhavā avarāheduṃ samatthā honti| [ārye! nanu bhayenopacāro vismṛtaḥ, na paribhavena, paśyatvāryā, bhītā athavā pradharṣitāṃ athavā āpannā athavā sulabhācāritravañcanā aparādhayituṃ samarthā bhavanti|]
+gaṇikā --- 
+bhodu, bhodu| vissattho bhodu ayyo| gaṇiā kkhu ahaṃ|[bhavatu, bhavatu | viśvasto bhavatvāryaḥ | gaṇikā khalvaham|]
+saṃvāhakaḥ --- 
+abhijaṇeṇa, ṇa sīleṇa| [abhijanena, na śīlena|]
+gaṇikā --- 
+hañje! evaṃ via| [hañje! evamiva|]
+ceṭī --- 
+ajjuā ayyaṃ pucchadi, kudo ayyassa bhaaṃ ti| [ajjukā ārya pṛcchati, kuta āryasya bhayamiti|]
+saṃvāhakaḥ --- 
+ayye! dhaṇiādo| [ārye! dhanikāt|]
+gaṇikā --- 
+jai evaṃ, āsaṇaṃ dedu ayyassa| [yadyevam, āsanaṃ dīyatāmāryasya|]
+ceṭī --- 
+taha| (āsanaṃ dadāti|) [tathā|]
+gaṇikā --- 
+uvavisadu ayya| [upaviśatvāryaḥ|]
+saṃvāhakaḥ --- 
+(svāgatam) pūāviseseṇa jāṇāmi kayyaṃ tti| (upaviśati|) [pūjāviśeṣeṇa jānāmi kāryamiti|]
+gaṇikā --- 
+hañje! evaṃ via| [hañje| evamiva|]
+ceṭī --- 
+ajjue! taha| ayya! rāamagge vissatthasampādaṃ ayyaṃ kāduṃ icchadi ajjuā | kassa kiṃ kattavvaṃ| [ajjuke! tathā| ārya! rājamārgaviśvastasampātamāryaṃ kartumicchatyajjukā | kasya kiṃ kartavyam|]
+saṃvāhakaḥ --- 
+suṇādu ayyā| [śruṇotvāryā|]
+gaṇikā --- 
+avahidamhi| [avahitāsmi|]
+saṃvāhakaḥ --- 
+pāḍaliputtaṃ me jammabhūmī| pakidīe vaṇijao ahaṃ| tado bhāadhea parivuttavāe dasāe saṃvāhaavuttiṃ uvajīvāmo| [pāṭaliputraṃ me janmabhūmiḥ| prakṛtyā vaṇigaham| tato bhāgadheyaparivṛttatayā daśayā saṃvāhakavṛttimupajīvāmi|]
+gaṇikā --- 
+saṃvāhao ayyo| suumārā kalā sikkhidā ayyeṇa| [saṃvāhaka āryaḥ sukumārā kalā śikṣitāryeṇa|]
+saṃvāhakaḥ --- 
+kaleti sikkhidā| ājīviaṃ dāṇiṃ saṃvṛttaṃ| [kaleti śikṣitā| ajīvikedānīṃ saṃvṛttā|]
+gaṇikā --- 
+ṇivvedasūaaṃ via vaaṇaṃ ayyassa| tado tado| [nirvedasūcakamiva vacanamāryasya| tatastataḥ|]
+saṃvāhakaḥ --- 
+ajjue! so dāṇi ahaṃ āantuāṇaṃ suṇia purusavisesako dūhaleṇa āado mhi imaṃ ujjaaṇi| [ajjuke! sa idānīmahamāgantukānāṃ śrutvā puruṣaviśeṣakautūhalenāgato'smī māmujjayanīm|]
+gaṇikā --- 
+tado tado| [tatastataḥ|]
+saṃvāhakaḥ --- 
+tado iha āadamatta evva kocci satthavāhaputto samāsādido| [tata ihāgatamātra eva kaścit sārthavāhaputraḥ samāsāditaḥ|]
+gaṇikā --- 
+keriso| [kīdṛśaḥ|]
+saṃvāhakaḥ --- 
+āidimanto avibbhasamanto aṇucchitto lalido lalidadāe avimhaoṃ cauro mahuro dakkho sadakkhiñño abhimado āido tuṭṭho hodi| dayya ṇa vikatthedi| appaṃ vi sumaradi, bahuaṃ pi avaidaṃ visumaradi| ajjue! kiṃ bahuṇā,tassa kulaputtassa guṇāṇaṃ caubbhāaṃ pi sudiggheṇa vi gimhadiaheṇa vaṇṇiduṃ ṇa sakkaṃ| kiṃ bahuṇā, dakkhiññadāe parakeraaṃ via attaṇo sarīraṃ dhāredi| [ākṛtimān avibhran anutsikto lalito lalitatayāvismayaścaturo madhuro dakṣaḥ sadākṣiṇyo'bhimata ācitastuṣṭo bhavati| dattvā na vikatthate| alpamapi smarati,bahukamapyapakṛtaṃ vismarati| ajjuke| kiṃ bahunā, tasya kulaputrasya guṇānāṃ caturbhāgamapi sudīrgheṇāpi graṣmadivasena varṇayituṃ na śakyam! kiṃ bahunā, dakṣiṇatayā parakīyamivātmanaḥ śarīraṃ dhārayati|]
+gaṇikā --- 
+(apavārya) hajje! ko ṇu kkhu so ayyacārudattassa guṇāṇaṃ aṇukaredi| [hañje! ko nu khalu sa āryacārudattasya guṇānāmanukaroti|]
+ceṭī --- 
+mama vi kodūhalaṃ soduṃ| ko ṇu khu ujjaaṇi attaṇo guṇehiṃ maṇḍedi| [mamāpi kautuhalaṃ śrotum! ko nu khalūjjayanīmātmano guṇairmaṇḍayati|]
+gaṇikā --- 
+tado tado| [tatastataḥ|]
+saṃvāhakaḥ --- 
+tado tassa guṇavikkiṇidasarīro vissaridakalatto uvajīvio saṃvutto| [tatastatasya guṇavikrītaśarīro vismṛtakalatra upajīvī saṃvṛttaḥ|]
+gaṇikā --- 
+kiṃ so dariddo| [kiṃ sa daridraḥ|]
+saṃvāhakaḥ --- 
+kahaṃ aṇācakkhide ayyā jāṇādi| [kathamanākhyāta āryā jānāti|]
+gaṇikā --- 
+eassiṃ dullaho guṇavibhavo tti | tado tado | [ekasmin durlabho guṇavibhava iti| tatastataḥ|]
+ceṭī --- 
+ko ṇāma so ayyo| [ko nā sa āryaḥ|]
+saṃvāhakaḥ --- 
+ayyacārudatto ṇāma| [āryacārudatto nāma|]
+gaṇikā --- 
+jujjai| tado tado| [yujyate| tatastataḥ|]
+saṃvāhakaḥ --- 
+tado so vibhavamandadāe assāhīṇaparijaṇo visajjiakuḍumbabharaṇo cārittamattāvaseso satthavāhakule paḍivasidi | ahaṃ pi teṇa ayyeṇa abbhaṇuññādo --- 
+aṇṇaṃ uvaciṭṭhadu tti | kahaṃ aṇṇaṃ erisa maṇussaraaṇaṃ labhaiaṃ tti, kahaṃ ca tassa komalalalidamahurasarīrapparisakidatthaṃ me hatthaṃ sāhāraṇasarīrasammaddeṇa soaṇīaṃ karissaṃ tti jādaṇivvedo baddhasarīrakkhaṇatthaṃ jūdovajīvī saṃvṛtto| [tataḥ sa vibhavamandatayā svādhīnaparijano visarjitakuṭumbamaraṇaścāritramātrāvaśeṣaḥ sārthavāhakule prativasati| ahamapi tenāryeṇābhyanujñāto'nyamupatiṣṭhitāmiti | kathamanyamīdṛśaṃ manuṣyaratnaṃ labheyeti, kathaṃ ca tasya komalalalitamadhuraśarīrasparśakṛtārthaṃ me hastaṃ sādhāraṇaśarīrasammardena śocanīyaṃ kariṣyāmīti jātanirvedo dagdhaśarīrarakṣaṇārthaṃ dyūtopajīvī saṃvṛttaḥ |]
+(gaṇikā saṃharṣabāṣpaṃ ceṭīmavalokayati|)
+ceṭī --- 
+tado tado| [tatastataḥ |]
+saṃvāhakaḥ --- 
+tado bahūṇi diṇāṇi mae parāideṇa puruseṇa kadāi ahaṃ pi dahasu suvaṇṇesu parāido mhi| [tato bahūni dināni mayā parājitena puruṣeṇa kadācidahamapi daśasu suvarṇeṣu parājito'smi|]
+gaṇikā --- 
+tado tado| [tatastataḥ|]
+saṃvāhakaḥ --- 
+tado ajja vesamagge jaicchovaṇado samāsādido mhi| tassa bhaeṇa iha paviṭṭho| evaṃ ayyā jāṇādu| [tato'dya veśamārge yadṛcchopanataḥ samāsādito'smi | tasya bhayeneha praviṣṭaḥ| evamāryā jānātu|]
+gaṇikā --- 
+(ātmagatam) aho accāhidaṃ evaṃ khu maṇṇe vāsapādapaviṇāseṇa pakkhiṇo āhiṇḍanti tti| (prakāśam) evaṃ gade attakerao ayyo halā! ehi taṃ jaṇaṃ visajjehi| [aho atyāhitam| evaṃ khalu manye vāsapādapavināśena pakṣiṇa āhiṇḍanta iti| evaṃ gata ātmīya āryaḥ | halā! ehaṃ taṃ janaṃ visarjaya|]
+ceṭī --- 
+taha| (niṣkrāntā) [tathā|]
+gaṇikā --- 
+ṇa khu ayyeṇa atthaṇimittā cintā kādavvā| ayyacārudatto eva dedi tti ayyo jāṇādu| [na khalvāryeṇārthanimittā cintā kartavyā| āryacārudatta eva dadātītyāryo jānātu|]
+ceṭī --- 
+ajjue! visajjido so jaṇo, parituṭṭho gado a| [ajjuke! visarjitaḥ sa janaḥ, parituṣṭo gataśca|]
+saṃvāhakaḥ --- 
+aṇuggahido mhi| [anugṛhīto'smi|]
+gaṇikā --- 
+gacchadu ayyo suhijjaṇadaṃsaṇeṇa pīdiṃ ṇivvatteduṃ| [gacchatvārya suhṛjjanadarśanena prītiṃ nirvartayitum|]
+saṃvāhakaḥ --- 
+ajja eva kadāi ṇivvedeṇa pavvajeaṃ | jai iaṃ pariaṇe saṅkantā kalā bhave, tado ayyāe aṇuggahido bhaveaṃ| [adyaiva kadācinnirvedena pravrajeyam| yadīyaṃ parijane saṅkrāntā kalā bhavet, tata āryayānugṛhīto bhaveyam|]
+gaṇikā --- 
+jassa kide iśraṃ kalā sikkhidā, so evva ayyeṇa uvaciṭṭhidavvo bhavissadi| [yasya kṛte iyaṃ kalā śikṣitā, sa evāryeṇopasthātavyo bhaviṣyati|]
+saṃvāhakaḥ --- 
+(svagatam) ṇiuṇaṃ khu paccācakkhido mhi| ko hi ṇāma appaṇā kidaṃ paccuaāreṇa viṇāsedi| (prakāśam) ayye ! gacchāmi dāva ahaṃ| [nipuṇaṃ khalu pratyākhyāto'smi | ko hi nāmātmanā kṛtaṃ pratyupakāreṇa vināśayati| ārye! gacchāmi tāvadaham|]
+gaṇikā --- 
+gacchadu ayyo puṇodaṃsaṇāa| [gacchatvāryaḥ punardarśanāya|]
+saṃvāhakaḥ --- 
+ayye! taha| (niṣkrāntaḥ|) [ārye! tathā |]
+gaṇikā --- 
+haṃ saddo via| [haṃ śabda iva|]
+(praviśya)
+ceṭī --- 
+vicchittie! vicchittie! kahiṃ kahiṃ ajjuā| [vicchittike! vicchittike! kutra kutrājjukā|]
+gaṇikā --- 
+hañje! kiṃ edaṃ| [hañje kimetat|]
+ceṭaḥ --- 
+haṃ vippaladdho mhi, vādāaṇaṇikkhāmida puvvakāāe oṇamiapaoharāe kaṇṇaūrassa pariṣphando ajjuāe jeṇa ṇa diṭṭho| [haṃ, vipralabdho'smi, vātāyananiṣkrāmitapūrvakāyayā'vanamitapayodharayā karṇapūrasya parispando'jjukayā yena na dṛṣṭaḥ|]
+gaṇikā --- 
+lahujaṇassa sulaho vimhao| kiṃ de usseassa kāraṇam|[laghujanasya sulabho vismayaḥ| kiṃ te utsekasya kāraṇam|]
+ceṭaḥ --- 
+suṇādu ajjuā eso uggavegeṇa ogāhaṇaṇivvattideṇa passudamadagandhaṃ rāamaggaṃ karanteṇa maṅgalahatthiṇā bhaddakavodaeṇa aṇoapurusasaṅkulesu rāamaggesu uttariapaḍavirāadāe ahialakkhaṇīo locci ppavvaido samāsādido| [śrṛṇotvajjukā eṣa ugravegenāvagāhanatrivartitena prasrutamadagandhaṃ rājamārgaṃ kurvatā maṅgalahastinā bhadrakapotakenānekapuruṣasaṅkuleṣu rājamārgeṣuttarīyapaṭavirāgatayā'dhikalakṣaṇīyaḥ kaścit pravrajitaḥ samāsāditaḥ|]
+gaṇikā --- 
+haṃ, tado tado| [haṃ, tatastataḥ|]
+ceṭaḥ --- 
+tado mae hatthihatthāmaddatāḍiamāṇo dantantaraparivattamāṇo hatthihatthapaḍidacaraṇo tado hā hā vipāḍido hā hā hado tti jaṇavāde saṃvṛtte tado diṇṇakarappahāreṇa parivattidaṃ hatthiṃ karia moido so parivvājo| [tato mayā hastihastā mardatāḍyamāno dantāntaraparivartamāno hastihastapatitacaraṇaḥ tato hā hā vipāṭito, hā hā hata iti janavāde saṃvṛtte tato dattakaraprahāreṇa parivartitaṃ hastinaṃ kṛtvā mocitaḥ sa parivrāṭ|]
+gaṇikā --- 
+piaṃ me| tado tado| [priyaṃ me! tatastataḥ|]
+ceṭaḥ --- 
+tado savvo jaṇo bhaṇādi --- aho ceḍassa kamma tti| ṇa uṇa kocci kiṃ pi iccha dāuṃ| tado ajjue ! keṇa vi kulavutteṇa uidāṇi ābharaṇaṭṭhāṇāṇi viloia aṅguṭṭheṇāṇi a vi uṇa aladdhaṃ pekkhia davvaṃ uvālabhia digdhaṃ ṇissasia ettao me vibhavo tti karia parijaṇahatthe aaṃ pāvarao pesido| [tataḥ sarvo jano bhaṇati --- aho ceṭasya karmeti| na punaḥ kaścit kimapīcchati dātum| tato'jjuke! kenāpi kulaputreṇocitānyābharaṇasthānāni vilokyāṅguṣṭhenānīyāpi punaralabdhaṃ preśya devamupālabhya dīrgha niḥśvasyaitāvān me vibhava iti kṛtvā parijana haste'yaṃ prāvārakaḥ preṣitaḥ|]
+gaṇikā --- 
+(ceṭīmavalokya) ko ṇu khu ayyacārudattassa guṇāṇaṃ aṇukaredi| [ko nu khalvāryacārudattasya guṇānanukaroti|]
+ceṭī --- 
+ajjue! mama vi kodūhalaṃ atthi| ko ṇu khu eso| [ajjuke! mamāpi kautūhalamasti| ko nu khalveṣaḥ|]
+gaṇikā --- 
+keṇa vi sāhuṇā puruṣeṇa hodabvaṃ| [kenāpi sādhunā puruṣeṇa bhavitavyam|]
+ceṭī --- 
+sāhu pucchīadu dāva| [sādhu pṛcchyatāṃ tāvat|]
+gaṇikā --- 
+hañje! ekapurasapakkhavādidā sabvaguṇāṇaṃ hanti| [hañje! ekapuruṣapakṣapātitā sarvaguṇān hanti|]
+ceṭī --- 
+(ceṭaṃ prati) bhadda! se ṇāma tuvaṃ jāṇāsi| [bhadra! asya nāma tvaṃ jānāsi|]
+ceṭaḥ --- 
+ṇa hu jāṇāmi| [na khalu jānāmi|]
+gaṇikā --- 
+adilahu tue kidaṃ| [atilaghu tvayā kṛtam|]
+ceṭī --- 
+jai evaṃ iha tue ko tti mantidaṃ| [yadyevam, iha tvayā ka iti mantritam|]
+ceṭaḥ --- 
+ahaṃ ettaaṃ tu jāṇāmi --- 
+bhaddao avimhao tti| [ahametāvat tu jānāmi --- 
+bhadrako'vismaya iti|]
+gaṇikā --- 
+ehi dāva taṃ pekkhāmo| [ehi tāvat taṃ paśyāmaḥ|]
+ceṭaḥ --- 
+pekkhadu pekkhadu ajjuā| eso gacchai| [paśyatu paśyatvajjukā| eṣa gacchati|]
+gaṇikā --- 
+(prāsādād vilokya) hañje! eso hi so ayyacārudatto evva jaṇṇovavīdamattapāvarao gacchai| tā jāba dūraṃ gao ṇa bhavissadi eso, pekkhamha dāva ṇaṃ| [hañje! eṣa hi sa āryacārudatta eva yajñopavītamātraprāvārako gacchati| tad yāvad dūraṃ gato na bhaviṣyatyeṣa, paśyāmastāvadenam|]
+(niṣkrāntāḥ sarve|)
+iti dvitīyo'ṅkaḥ !
+<3>
+tṛtīyo'ṅkaḥ
+(tataḥ praviśati nāyako vidhūṣakaśca|)
+nāyakaḥ --- 
+vayasya! vīṇā nāmāsamudrotthitaṃ ratnam| kutaḥ,
+utkaṇṭhitasya hṛdayānugatā sakhīva
+saṅkīrṇadoṣarahitā viṣayeṣu goṣṭhī|
+krīḍāraseṣu madanavyasaneṣu kāntā
+strīṇāṃ tu kāntarativighnakarī sapatnī || 1 ||
+vidūṣakaḥ --- 
+bho vayasya! ko kālo kidaparighosaṇadā ṇisampādāe rāamaggā| kukkurā vi osuttā | vaaṃ ṇiddaṃ ṇa labhāmo | aṇṇaṃ ca dāṇi accharīaṃ | imaṃ hadavīṇaṃ ṇa ramāmi | ahiaviḍhatthāṇe vicchiṇṇatantiā hodu| [bho vayasya! kaḥ kālaḥ kṛtaparighoṣaṇatayā niḥsampātā rājamārgāḥ | kukkurā apyavasuptāḥ vayaṃ nidrāṃ na labhāmahe | anyacchedānīmāścaryam| imāṃ hatavīṇāṃ na rame| adhikadṛḍhasthāne vicchinnatantrīkā bhavatu|]
+nāyakaḥ --- 
+vayasya! bhāvaśābalenā bahuśaḥ khalvadya madhuraṃ gītam| na ca bhavān ramate|
+vidūṣakaḥ --- 
+ado evva edaṃ ahaṃ ṇa ramāmi| mahuraṃ pi bahu khādiśraṃ ajiṇṇaṃ hodi| [ata evetāmahaṃ ta rame | madhuramapi bahu khāditamajīrṇaṃ bhavati|]
+nāyakaḥ --- 
+sarvathā suvyaktaṃ gītam| kutaḥ,
+raktaṃ ca tāramadhuraṃ ca samaṃ sphuṭaṃ ca
+bhāvārpitaṃ ca na ca sābhinayaprayogam|
+kiṃ vā praśasya vividhairbahu tattaduktvā
+bhittyantaraṃ yadi bhaved yuvatīti vidyām|| 2 ||
+vidūṣakaḥ --- 
+kāmaṃ pasaṃsedu bhavaṃ| mama khu dāva gāanto maṇusso itthiā vipaṭhantī ubhaaṃ ādara ṇa dedi | gāanto dāva maṇusso rattasumaṇāveṭhṭhido via purohido diḍha ṇa sohai| itthiā vi paṭhantī chiṇṇaṇāsiā via dheṇuā adivirūvā hoi | [kāmaṃ praśaṃsatu bhavān | mama khalu tāvad gāyan manuṣyaḥ stryapi paṭhantyubhayamādaraṃ na dadāti | gāyaṃstāvanmanuṣyo raktasumanoveṣṭita iva purohito dṛḍhaṃ na śobhate | stryapi paṭhantī chinnanāsikeva dhenurativirūpā bhavati|]
+nāyakaḥ --- 
+sakhe! upārūḍho'rdharātraḥ | sthiratimirā rājamārgāḥ | nissampātapuruṣatvāt prasuptevojjayinī pratibhāti| kutaḥ,
+asau hi dattvā timirāvakāśamastaṃ gato hyaṣṭamapakṣacandraḥ |
+ttoyāvagāḍhasya vanadvipasya viṣāṇakoṭīva nimajjamānā || 3 ||
+vidūṣakaḥ --- 
+suṭṭhu bhavaṃ bhaṇādi| antaddhiamāṇacandraladdhāvaāso odaradī via pāsādādo andhaāro| [suṣṭhu bhavān bhaṇati | antardadhānacandralabdhāvakāśo'vataratīva prāsādādandhakāraḥ |]
+nāyakaḥ --- 
+(parikramya) idamasmadīyaṃ gṛham | vardhamānaka! vardhamānaka!
+vidūṣakaḥ --- 
+vaddhamāṇaa ! vaddhamāṇaa! duāraṃ avāvuda| [vardhamānaka! vardhamānaka! dvaramapāvṛṇu|]
+(praviśya)
+ceṭaḥ --- 
+ammo ayyametteo | [ammo āryamaitreyaḥ|]
+nāyakaḥ --- 
+vardhamānaka!
+ceṭaḥ --- 
+ammo bhaṭṭidārao | bhaṭṭidāraa! vandāmi| [ammo bhartṛdārakaḥ| bhartṛdāraka! vande|]
+nāyakaḥ --- 
+pādodakamānaya|
+'ceṭaḥ --- 
+(parikramya) idaṃ pādodaaṃ | (nāyakasya pādau prakṣālayati|) [idaṃ pādodakam|]
+vidūṣakaḥ --- 
+vaḍḍhamāṇavaa ! mama vi pādaṃ pakkhālehi| [vardhamānaka! mamāpi pādaṃ prakṣālaya|]
+ceṭaḥ --- 
+suhodesu pādeṣu bhūmīe paloṭṭhidavvaṃ | udaaṃ viṇāsehi| ahava āṇehi| pakkhālaissaṃ | (nāṭyena vidūṣakasya pādau prakṣālayati|) [sudhautayoḥ pādayorbhūmyāṃ praloṭhitavyam| udakaṃ vināśaya| athavā naya| prakṣālayiṣyāmi|]
+vidūṣakaḥ --- 
+ṇa kevalaṃ dāsīeputteṇa pādā dhodā, muhaṃ vi dhaudaṃ| [na kevalaṃ dāsyāḥ putreṇa pādau dhautau, mukhamapi dhautam |]
+nāyakaḥ --- 
+vayasya|
+iyaṃ hi nidrā nayanāvalambinī lalāṭadeśādupasarpatīva mām |
+adṛśyamānā capalā jareva yā manuṣyavīrya paribhūya vardhate || 4 ||
+maitreya! supyatām|
+(niṣkrāntaśceṭaḥ|)
+(praviśyābharaṇasamudgahastā)
+ceṭīḥ --- 
+ayyamettea! uṭṭhehi uṭṭhehi| [āryamaitreya! uttiṣṭhottiṣṭha|]
+vidūṣakaḥ --- 
+bhodi! kiṃ edaṃ| [bhavati! kimetat|]
+ceṭī --- 
+iaṃ suvaṇṇabhaṇḍaṃ saṭṭhīe sattamīe pariveṭṭāmi| aṭṭamī khu ajja| [idaṃ suvarṇabhāṇḍaṃ ṣaṣṭhyāṃ saptamyāṃ parivartayāmi | aṣṭamī khalvadya|]
+nāyakaḥ --- 
+idaṃ tad vasantasenāyāḥ svakam|
+ceṭī --- 
+āma| bhaṇādu bhaṇādu bhaṭṭidārao, gaṇhadu tti| [āma| bhaṇatu bhaṇatu bhartṛdārakaḥ gṛhṇātviti|]
+nāyakaḥ --- 
+maitreya| gṛhyatām|
+vidūṣakaḥ --- 
+kiṃ ṇimittaṃ aaṃ alaṅkāro abbhantaracaussālaṃ ṇa ppavesīadi| [kinnimittamayamalaṅkāro'bhyantaracatuḥśālaṃ na praveśyate|]
+nāyakaḥ --- 
+mūrkha! bāhyajanadhāritamalaṅkāraṃ gṛhajano na drakṣyati|
+vidūṣakaḥ --- 
+kā gaī | āṇehi gaṇhāmi corehiṃ gaṇhiamāṇaṃ | [kā gatiḥ | ānaya gṛhṇāmi caurairgṛhyamāṇam|]
+(ceṭī dattvā niṣkrāntā|)
+vidūṣakaḥ --- 
+bho! kiṃṇimittaṃ so pāvarao tassa gaṇiāpariāraassa diṇṇo| [bhoḥ! kinnimittaṃ sa prāvārakastasmai gaṇikāparicārakāya dattaḥ |]
+nāyakaḥ --- 
+sānukrośatayā|
+vidūṣakaḥ --- 
+iha vi sāṇukkosadā| [ihāpi sānukrośatā|]
+nāyakaḥ --- 
+vayasya! mā maivama|[]
+vidūṣakaḥ --- 
+ahaṃ bharidagaddabho via bhūmīe paloṭhṭhāmi | [ahaṃ bharitagardabha iva bhūmyāṃ praluṭhāmi|]
+nāyakaḥ --- 
+nidrā māṃ bādhate| tūṣṇīṃ bhava| []
+vidūṣakaḥ --- 
+asadu bhavaṃ suhappabohāa | jāva ahaṃ pi suvissaṃ| [śetāṃ bhavān sukhaprabodhāya | yāvadahamapi svapsyāmi|]
+(dvāvapi svapataḥ|)
+(tataḥ praviśati sajjalakaḥ|)
+sajjalakaḥ --- 
+eṣa bhoḥ!
+kṛtvā śarīrapariṇāhasukhapraveśaṃ
+śikṣābalena ca balena ca karmamārgam|
+gacchāmi bhūmiparisarpaṇaghṛṣṭapārśvo
+nirmucyamāna iva jīrṇatanurbhujaṅgaḥ || 5 ||
+bhoḥ! vṛkṣavāṭikāpakṣadvāre sandhiṃ chittvā praviṭṭho'smi| yāvadidānīṃ catuḥśālamupasarpāmi | (sanirvedaṃ vicintya) bhoḥ!
+kāmaṃ nīcamidaṃ vadantu vibudhāḥ supteṣu yadvartate
+viśvasteṣu hi vañcanāparibhavaḥ śauryaṃ na kārkaśyatā|
+svādhīnā vacanīyatā'pi tu varaṃ baddho na sevāñjaliḥ
+mārgaścaṣa narendrasauptikavadhe pūrvaṃ kṛto drauṇinā||6||
+(vicintya)
+lubdho'rthavān sādhujanāvamānī vaṇik svavṛttāvatikarkaśaśca|
+yastasya gehaṃ yadi nāma lapsye bhavāmi duḥkhopahato na citte||7||
+yadvā tadvā bhavatu| kiṃ vā na kārayati manmathaḥ | yāvadārabhe karma | bhoḥ!
+deśaḥ ko nu jalāvasekaśithilaśchedādaśabdo bhavet
+bhittīnāṃ kva nu darśitāntarasukhaḥ sandhiḥ karālo bhavet|
+kṣārakṣīṇatayā caleṣṭakakṛśaṃ harmyaṃ kva jīrṇaṃ bhavet
+kutra strījanadarśanaṃ ca na bhavet svantaśca yatno bhavet ||8||
+(parikramya) iyaṃ vāstuvibhāgakriyā| sopasnehatayā gṛhaviśiṣṭa ivāyaṃ bhavanavinyāsaḥ | iha tāvat praveśāvakāśaṃ kariṣye | bhoḥ ! kīdṛśa idānīṃ sandhicchedaḥ kartavyaḥ syāt|
+siṃhākrāntaṃ pūrṇacandraṃ jhaṣāsyaṃ candrārdhaṃ vā vyāghravaktraṃ trikoṇam|
+sandhicchedaḥ pīṭhikā vā gajāsyamasmatpakṣyā vismitāste kathaṃ syuḥ || 9 ||
+bhavatu, ekāntameva cchedayiṣye |
+vidūṣakaḥ --- 
+bho! jāgatti khu bhavaṃ, ṇahi| [bhoḥ! jāgarti khalu bhavān, na hi| ]
+nāyakaḥ --- 
+kimartham|
+vidūṣakaḥ --- 
+ahaṃ khu dāva kattavvakaratthīkidasaṅkedo via sakkiasamaṇao ṇiddaṃ ṇa labhāmi| vāmaṃ khu me akkhi phandedi| coro sandhiṃ chindadī via pekkhāmi| jai īdisī avatthā atthāṇaṃ, jādīe dariddo evva homi| [ahaṃ khalu tāvat kartavyakarastrīkṛtasaṅketa iva śākyaśramaṇako nidrāṃ na labhe| vāmaṃ khalume'kṣispandate| coraḥ sandhiṃ chinattīva paśyāmi| yadīdṛśyavasthā'rthānāṃ, jātyā daridra eva bhavāmi|]
+nāyakaḥ --- 
+mūrkha! dhik tvām! dāridryamabhilaṣasi |
+sajjalakaḥ --- 
+atha kenedānīṃ sandhicchedamārgaḥ sūcayitavyaḥ syāt| nanvidaṃ divā brahmasūtraṃ rātrau karmasūtraṃ bhaviṣyati|
+adyāsya bhittiṣu mayā niśi pāṭitāsu
+chedāt samāsu sakṛdarpitakākalīṣu |
+kālyaṃ viṣādavimukhaḥ prativeśavargo
+doṣāṃśca me vadatu karmasu kauśalaṃ ca ||10||
+namaḥ kharapaṭāya | namo rātrigocarebhyo devebhyaḥ | (tathā karoti |) hanta avasitaṃ karma | praviśāmastāvat | (praviśya) aye ! jvalati dīpaḥ | apasarāmi tāvat| dhik sajjalakaḥ khalvaham |
+mārjāraḥ plavane vṛko'pasaraṇe śyeno gṛhālokane
+nidrā suptamanuṣyavīryatulane saṃsarpaṇe pannagaḥ |
+māyā varṇaśarīrabhedakaraṇe vāg deśabhāṣāntare
+dīpo rātriṣu saṅkaṭe ca timiraṃ vāyuḥ sthale naurjale||11||
+(sarvato vilokya) āgantukatvādaviditasamṛddhivistaraḥ kevalaṃ bhavanapratyayādiha praviṣṭo'smi| na cedānīṃ kañcit paricchadaviśeṣaṃ paśyāmi | kinnu khalu daridra evāyam| utāho ayaṃ saṃyamananirarthakaṃ draṣṭavyaṃ dhārayati| athavā, abhijāto'yaṃ bhavanavinyāsaḥ | upabhuktapranaṣṭavibhavenānena bhavitavyam |
+tathā vibhavamando'pi janmabhūmivyapekṣayā|
+gṛhaṃ vikrayakāle'pi nīlasnehena rakṣati||12||
+bhavatu paśyāmastāvat | athavā, na khalu me tulyāvasthaḥ kulaputraḥ pīḍayitavyaḥ gacchāmi tāvat |
+vidūṣakaḥ --- 
+bho! gaṇha edaṃ suvaṇṇabhaṇḍaaṃ | [bhoḥ! gṛhāṇaitat suvarṇabhāṇḍam |]
+sajjalakaḥ --- 
+kathaṃ suvarṇabhāṇḍamityāha | kiṃ māṃ dṛṣṭvā'bhibhāṣate | āhosvit sattvalāghavād svapnāyate | bhavatu paśyāmastāvat | (dṛṣṭvā) bhūtārtha supta evāyam| tathāhi,
+niḥśvāso'sya na śaṅkito na viṣamastulyāntaraṃ jāyate
+gātraṃ sandhiṣu dīrghatāmupagataṃ śayyāpramāṇādhikam|
+dṛṣṭirgāḍhanimīlitā na capalaṃ pakṣmāntaraṃ jāyate
+dīpaṃ caiva na marṣayedabhimukhaḥ syāllakṣasupto yadi || 13 ||
+kva nu khalu tat | aye jarjaraprāvaraṇaikadeśe dīpaprabhāvyaktīkṛtarūpaṃ dṛśyate | suparigṛhītamanena | ayamatra prāptakālaḥ| ime mayā gṛhītāḥ śalabhāḥ dīpanirvāpaṇārthamekaṃ muñcāmi| (bhramarakaraṇḍakādekaṃ muñcati|) aye! eṣa dīpaṃ nirvāpya patati|
+vidūṣakaḥ --- 
+avihā ṇivvāvidā dīvo dāṇiṃ | musido mhi | bho cārudatta! gaṇha evaṃ suvaṇṇālaṅkāraṃ| ahaṃ khu bhīdīe uppahappavutto via vaṇijo ṇiddaṃ ṇa labhāmi | mama bamhattaṇeṇa sāvido si, jai ṇa gaṇhasi| [avihā nirvāpito dīpa idānīm | muṣito'smi | bhoścārudatta! gṛhāṇemaṃ suvarṇālaṅkāram | ahaṃ khalu bhītyotpathapravṛtta iva vaṇig nidrāṃ na labhe| maya brahmatvena śāpito'si, yadi na gṛhṇāsi|]
+sajjalakaḥ --- 
+kimatra śapathaparigraheṇa | eṣa pratigṛhṇāmi| (gṛhṇāti) |
+vidūṣakaḥ --- 
+(dattvā) ahaṃ vikkiṇidabhaṇḍao via vaṇijao suhaṃ saissaṃ | [ahaṃ vikrītabhāṇḍaka iva vaṇik sukhaṃ śayiṣye|]
+sajjalakaḥ --- 
+sukhaṃ svapihi mahābrāhmaṇa! (vicintyaḥ) bhoḥ! brāhmaṇena viśvāsād dīyamānaṃ mayā hartavyamāsīt |
+dhigastu khalu dāridryamanirvedaṃ ca yauvanam|
+yadidaṃ dāruṇaṃ karma nindāmi ca karomi ca || 14 ||
+(nepathye paṭahaśabdaḥ kriyate|)
+sajjalakaḥ --- 
+(karṇaṃ dattvā) aye prabhātasamayaḥ saṃvṛttaḥ | apasarāmi tāvat|
+(niṣkrāntaḥ sajjalakaḥ|)
+(praviśya)
+ceṭī --- 
+(sākrandam) ayyamettea! amhāṇaṃ rukkhavāḍiāpakkhaduvāle sandhiṃ chindia coro paviṭṭho | [āryamaitreya! asmākaṃ vṛkṣavāṭikāpakṣadvāro sandhiṃ chittvā coraḥ praviṣṭaḥ|]
+vidūṣakaḥ --- 
+(sahasotthāya) kiṃ bhaṇādi hodī | [kiṃ bhaṇati bhavati|]
+(ceṭī `rukkhavāḍiā' iti paṭhati|)
+vidūṣakaḥ --- 
+coraṃ chindia sandhī paviṭṭho| [coraṃ chittvā sandhiḥ praviṣṭaḥ |]
+ceṭī --- 
+hadāsa! sandhiṃ chindia coro paviṭṭho| [hatāśa! sandhiṃ chittvā coraḥ praviṣṭaḥ |]
+vidūṣakaḥ --- 
+āaccha ṇaṃ daṃsehi| [āgaccha nanu darśaya|]
+ceṭī --- 
+(parikramya) edaṃ | [etat|]
+vidūṣakaḥ --- 
+avihā dāsīevutteṇa kukkureṇa paveso kido | bhodi! āaccha, cārudattassa piaṃ ṇivedemi| [avihā dāsyāḥ putreṇa kukkureṇa praveśaḥ kṛtaḥ | bhavati! āgaccha cārudattasya priyaṃ nivedayāmi|]
+(ubhāvupagamya)
+bho cārudatta! piaṃ du ṇivedemi| [bhoścārudatta! priyaṃ te nivedayāmi|]
+nāyakaḥ --- 
+(buddhvā) kiṃ me priyam| nanu vasantasenā prāptā|
+vidūṣakaḥ --- 
+ṇa khu vasantaseṇā vasantaseṇā patto| [na khalu vasantasenā, vasantasenaḥ prāptaḥ |]
+nāyakaḥ --- 
+radanike! kimetat|
+ceṭī --- 
+bhaṭṭidāraa ! amhāṇaṃ rukkhavāḍiāpakkhaduvāre sandhiṃ chindia coro paviṭṭho| [bhartṛdāraka! asmākaṃ vṛkṣavāṭikāpakṣadvāre sandhiṃ chittvā coraḥ praviṣṭaḥ|]
+nāyakaḥ --- 
+kiṃ coraḥ praviṣṭaḥ |
+vidūṣakaḥ --- 
+bho vaassa| savvahā tuvaṃ bhaṇāsi, mukkho mettoo apaṇḍido metteotti| ṇaṃ mae sobhaṇa kidaṃ taṃ suvaṇṇabhaṇḍaaṃ tava hatthe samappaanteṇa| [bho vayasya! sarvathā tvaṃ bhaṇasi, mūrkho maitreyo'paṇḍito maitreya iti| nanu mayā śobhanaṃ kṛtaṃ tat suvarṇabhāṇḍakaṃ tava haste samarpayatā|]
+nāyakaḥ --- 
+kiṃ bhavatā dattam|
+vidūṣakaḥ --- 
+ahaiṃ| [atha kim|]
+nāyakaḥ --- 
+kasyāṃ velāyām|
+vidūṣakaḥ --- 
+addharatte| [arddharātre|]
+nāyakaḥ --- 
+kimardharātre | bāḍhaṃ dattam|
+vidūṣakaḥ --- 
+bho cārudatta| jaṃ velaṃ paribuddho āsi, tassiṃ velāaṃ khu diṇṇaṃ | [bhoścārudatta! yasyāṃ velāyāṃ pratibuddha āsiḥ, tasyāṃ velāyāṃ khalu dattam|]
+nāyakaḥ --- 
+hasta hṛtaṃ suvarṇabhāṇḍakam|
+vidūṣakaḥ --- 
+dāṇiṃ me hatthe paḍicchidu attabhāvaṃ | [idānīṃ mama haste prayacchatvatrabhavān|]
+nāyakaḥ --- 
+(ātmagatam)
+kaḥ śraddhāsyati bhūtārthaṃ sarvo māṃ tūlayiṣyati|
+śaṅkanīyā hi doṣeṣu niṣprabhāvā daridratā||15||
+(praviśya)
+brāhmaṇī-radaṇie! radaṇie! āaccha! ṇahi suādi| kavāḍasaddaṃ dāva karissaṃ| (tathā karoti|)[radanike! radanike! āgaccha| na hi śrṛṇoti| kavāṭaśabdaṃ tāvat kariṣyāmi|]
+ceṭī --- 
+`haṃ kavāḍasaddo via| bhaṭṭidāriā maṃ saddāvedi| (parikramya) bhaṭṭidārie ! ia mhi| [haṃ,kavāṭaśabda iva| bhartṛdārikā mā śabdāpayati| bhartṛdārike! iyamasmi|]
+brāhmaṇī --- 
+ṇa parikkhado ṇa vāvādido ayyautto ayyametteo vā| [na parikṣato na vyāpādita āryaputra āryamaitreyo vā|]
+ceṭī --- 
+kusalī bhaṭṭidārao ayyametteo a| jo tassa jaṇassa alaṅkāro coreṇa gahīdo| [kuśalī bhartṛdāraka āryamaitreyaśca| yastasya janasyālaṅkāraścoreṇa gṛhītaḥ|]
+brāhmaṇī --- 
+kiṃ bhaṇasi coreṇa gahīda tti| [kiṃ bhaṇasi coreṇa gṛhīta iti|]
+ceṭī --- 
+aha iṃ| [atha kim|]
+brāhmaṇī --- 
+kiṃṇu khu tassa jaṇassa dādavvaṃ bhavissadi| ahava edaṃ daissaṃ| (karṇau spṛṣṭvā)| haddhi tālīpattaṃ khu evaṃ| so dāṇiṃ pariao maṃ bilambedi| kiṃ vāṇiṃ karissaṃ| (vicintya) bhodu, diṭṭhaṃ| mama ñjādikulādo laddhā sadasahassamullā muttāvalī | taṃ pi ayyautto soḍhīradāe vaḍicchadi| bhodu, evaṃ dāva karissaṃ| (niṣkrāntā) [kinnu khalu tasmai janāya dātavyaṃ bhaviṣyati| athavaitad dāsyāmi| hā dhik tālīpatraṃ khalvetat| sa idānīṃ paricayo māṃ viḍambayati| kimidānīṃ kariṣyāmi | bhavatu, dṛṣṭam| mama jñātikulād labdhā śatasahasramūlyā muktāvalī| tāmapyāryaputraḥ śauṭīratayā pratīcchati| bhavatu, evaṃ tāvat kariṣyāmi|]
+vidūṣakaḥ --- 
+imassa andhaāruppādidassa avarāhassa kiḍe bhavantaṃ sīseṇa pasādemi | dāṇiṃ me hatthe paḍicchadu attabhavaṃ| [asyāndhakārotpāditasyāparādhasya kṛte bhavantaṃ śīrṣeṇa prasādayāmi| idānīṃ me haste prayacchatvatrabhavān|]
+nāyakaḥ --- 
+kiṃ bhavānidānīṃ māṃ bādhate?
+bhavāṃstāvadaviśvāsī śīlajño mama nityaśaḥ|
+kiṃ punaḥ sa kalājīvī vañcanāpaṇḍito janaḥ||16||
+vidūṣakaḥ --- 
+maṇṇe maya mandabhaggeṇa kumbhīlassa haste diṇṇaṃ| (viṣaṇṇastiṣṭhati|)[manye mayā mandabhāgyena kumbhīlassa haste dattam|]
+(praviśya)
+brāhmaṇī --- 
+radaṇie! ayyametteaṃ saddāvehi| [radanike! ārya maitreyaṃ śabdāpaya|]
+ceṭī --- 
+ayyamettea! bhaṭṭidāriā| tumaṃ saddāvedi| [āryamaitreya! bhartṛdārikā tvāṃ śabdāpayati|]
+vidūṣakaḥ --- 
+bhodi! kiṃ maṃ| [bhavati! kiṃ mām|]
+ceṭī --- 
+ām| [ām]
+vidūṣakaḥ --- 
+esa āacchāmi| (upasarpati|)[eṣa āgacchāmi|]
+brāhmaṇī --- 
+ayyametteya! imaṃ paḍiggāhaṃ paḍigaṇha| [āryamaitreya! imaṃ pratigrahaṃ pratigṛhāṇa|]
+vidūṣakaḥ --- 
+avatthāviruddho khu aaṃ padāṇavibhavo| kudo edassa āgamo| [avasthāviruddhaḥ khalvayaṃ pradānavibhavaḥ | kuta etasyāgamaḥ|]
+brāhmaṇī --- 
+ṇaṃ saṭṭhiṃ uvavasāmi| savvasāravibhaveṇa bamhaṇeṇa sotthi vāa idavvaṃ tti eso imassa āgamo ! [nanu ṣaṣṭhīmupavasāmi| sarvasāravibhavena brāhmaṇena svasti vācayitavyamityeṣo'syāgamaḥ |]
+vidūṣakaḥ --- 
+aṭṭhamī khu ajja| [aṣṭamī khalvadya|]
+brāhmaṇī --- 
+pamadādo adikkamo kido| ajja pūā ṇivvattīadi| [pramādād atikramaḥ kṛtaḥ | adya pūjā nirvartyate|]
+vidūṣakaḥ --- 
+aṇaṇurūvadāe padāṇassa aṇukkoso via paḍibhādi| (janāntikam) radaṇie! kiṃ karissaṃ| [ananurūpatayā pradānasyānukrośa iva pratibhāti| radanike! kiṃ kariṣyāmi|]
+ceṭī --- 
+(apavārya) kiṇu khu tassa jaṇassa dādavvaṃ bhavissadi tti edaṇṇimittaṃ bhaṭṭidārao santappadi tti bhaṭṭidāriā tava hatthe daia ayyauttaṃ aṇiriṇaṃ karissāmi tti evaṃ karedi | tā gaṇha edaṃ | [kinnu khalu tasmai janāya dātavyaṃ bhaviṣyatītyetannimittaṃ bhartṛdārakaḥ santapyata| iti bhartṛdārikā tava haste dattvā''ryaputramanṛṇaṃ kariṣyāmītyevaṃ karoti| tad gṛhāṇaitat|]
+brāhmaṇī --- 
+udaasambhavadāe muttāvalīe tava adullahadāe uvaāro vissarido| gaṇha edaṃ| (dadāti|) [udakasambhavatayā muktāvalyāstava ca durlabhatayopacāro vismṛtaḥ | gṛhāṇaitat|]
+vidūṣakaḥ --- 
+(gṛhītvā) savvaṃ dāva ciṭhṭhadu| rodidī via hodīe diṭhṭhī| [sarvaṃ tāvat tiṣṭhatu | roditīva bhavatyā dṛṣṭiḥ|]
+brāhmaṇī --- 
+devauladhūmeṇa rovidā| [devakuladhūmena roditā|]
+vidūṣakaḥ --- 
+sāvidāsī tattahodā cārudatteṇa, jai aliaṃ bhaṇāsi| [śāpitāsi tatrabhavatā cārudattena, yadyalīkaṃ bhaṇasi|]
+brāhmaṇī --- 
+haddhi| (niṣkrāntā)| [hā dhik|]
+vidūṣakaḥ --- 
+esā bāāe dukkhaṃ rakkhia assūhi sūia gaā| (upagamya) bho! idaṃ| [eṣā vācā duḥkhaṃ rakṣitvā'śrubhiḥ sūcayitvā gatā| bhoḥ! idam|]
+nāyakaḥ --- 
+kimetat|
+vidūṣakaḥ --- 
+sarisakuladārasaṅgahassa phalaṃ| [sadṛśakuladārasaṃgrahasya phalam|]
+nāyakaḥ --- 
+kiṃ brāhmaṇī māmanukampate|
+vidūṣakaḥ --- 
+evaṃ via| [evamiva|]
+nāyakaḥ --- 
+dhigātmānam| adya hato'smi|
+mayi dravyakṣayakṣīṇe strīdravyeṇānukampitaḥ|
+arthataḥ puruṣo nārī yā nārī sā''rthataḥ pumān||17||
+vidūṣakaḥ --- 
+tattahodo hiaeṇa tumaṃ yācedi| ahaṃ sīseṇa yācemi | gaṇha edaṃ| [tatrabhavatī hṛdayena tvā yācate| ahaṃ śīrṣeṇa yāce| gṛhāṇaitat|]
+nāyakaḥ --- 
+tathā| (gṛhītvā) vayasya! imāṃ muktāvalīṃ gṛhītvā vasantasenāyāḥ sakāśaṃ gaccha|
+artheṣu kāmamupalabhya manoratho me
+strīṇāṃ dhaneṣvanucitaṃ praṇayaṃ karoti|
+māne ca kāryakaraṇe ca vilambamāno
+dhig bhoḥ! kulaṃ ca puruṣasya daridratāṃ ca ||18||
+vidūṣakaḥ --- 
+aho appamullassa suvaṇṇabhaṇḍaassa kide sadasahassamullā muttāvalī ṇīādaidavvā| [aho alpamūlyasya suvarṇabhāṇḍakasya kṛte śatasahasramūlyā muktāvalī niryātayitavyā|]
+nāyakaḥ --- 
+vayasya! mā maivam|
+yaṃ samālakṣya viśvāsaṃ nyāso'smāsu kṛtastayā|
+tasyaitanmahato mūlyaṃ pratyayasya pradīyatām|| 19 ||
+(niṣkrāntāḥ sarve|)
+iti tṛtīyo'ṅkaḥ|
+<4>
+caturtho'ṅkaḥ
+(tataḥ praviśati sotkaṇṭhā vasantasenā, citraphalakamādāya vartikākaraṇḍahastā ceṭī ca|)
+gaṇikā --- 
+hañje| pekkhasi sariso tassa jaṇassa| [hañje! paśyasi sadṛśastasya janasya|]
+ceṭī --- 
+ajjue! tassiṃ hatthivimaddakolāhale bahumāṇapayyatthāe diṭṭhīe dūrado diṭṭho so bhaṭṭidārao īdiso evva| [ajjuke! tasmin hastivimardakolāhale bahumānaparyastayā dṛṣṭyā dūrato dṛṣṭaḥ sa bhartṛdāraka īdṛśa eva|]
+gaṇikā --- 
+tumaṃ dāva dakkho vesavāsajaṇo tti jaṇavādaṃ pūraantī aliaṃ bhaṇasi| [tvaṃ tāvad dakṣo veśavāsajana iti janavādaṃ pūrayantyalīkaṃ bhaṇasi|]
+ceṭī --- 
+kiṃ edaṃ veśavāsajaṇo savvo dakkhiṇo hoi tti| pekkhadu ajjuā, campaārāme vicumandā jāanti| adisarisaṃ tti mama hiaaṃ ahiramadi| paramatthado evva pasaṃtīadi, ṇaṃ kāmadevo| [kimetad veśavāsajanaḥ sarvo dakṣiṇo bhavatīti| paśyatvajjukā, campakārāme picumandā jāyante| atisadṛśa iti mama hṛdayamabhiramate| paramārthata eva praśasyate, nanu kāmadevaḥ |]
+gaṇikā --- 
+hañje! sahojaṇeṇa avahasaṇīattaṇaṃ attaṇo pariharāmi| [hañje! sakhījanenāpahasanīyatvamātmanaḥ pariharāmi|]
+ceṭī --- 
+edaṃ jujjai| sahījaṇasapattio gaṇiājaṇo ṇāma | [etad yujyate| sakhījanasapatnīko gaṇikājano nāma|]
+(tataḥ praviśatyābharaṇahastā'parā ceṭī|)
+ceṭī --- 
+suhaṃ ajjuāe| [sukhamajjukāyāḥ|]
+gaṇikā --- 
+hañje! sāadaṃ ḍe| [hañje! svāgataṃ te|]
+ceṭī --- 
+ajjue! attā āṇavedi --- 
+idaṃ duvāraṃ paviṭṭaṃ pokkharaṃ uvāvattidaṃ pahavaṇaṃ | tā tuvaramāṇamaṇḍaṇā gahīdāvauṇṭhaṇā āacchadu tti| iha alaṅkāraṃ alaṅkaredu ajjuā| [ajjuke! ambā''jñāpayati --- idaṃ dvāraṃ praviṣṭaṃ pauṣkaramupāvartitaṃ pravahaṇam| tat tvaramāṇamaṇḍanā gṛhītāvaguṇṭhanā''gacchatviti| ihālaṅkāramalaṅkārotvajjukā|]
+gaṇikā --- 
+kiṃ ayyacārudatto maṇḍaissidi| [kimāryacārudatto maṇḍayiṣyati|]
+ceṭī --- 
+ṇahi, jeṇa alaṅkāro pesido so rāasālo saṇṭhāṇo | [nahi, yenālaṅkāraḥ preṣitaḥ sa rājaśyālaḥ saṃsthānaḥ|]
+gaṇikā --- 
+avehi aviṇīde!| [apehyavinīte|]
+ceṭī --- 
+pasīdadu pasīdadu ajjuā| sandesaṃ khu ahaṃ mantemi| (pādayoḥ patati)| [prasīdatu prasīdatvajjukā| sandeśaṃ khalvahaṃ mantraye|]
+gaṇikā --- 
+uṭṭhehi uṭṭhehi| kusandesaṃ asūāmi, ṇa tuvaṃ| [uttiṣṭhottiṣṭha| kusandeśamasūyāmi, na tvām|]
+ceṭī --- 
+kiṃ ahaṃ attaṃ bhaṇāmi| [kimahamambāṃ bhaṇāmi|]
+gaṇikā --- 
+bhaṇehi attaṃ --- jadā ayyacārudatto abhisāraidavvo tadā maṇḍemi tti| [bhaṇāmbāṃ --- yadā''ryacārudatto'bhisārayitavyastadā maṇḍayāmīti|]
+ceṭī --- 
+taha| (niṣkrāntā|)[tathā|]
+(tataḥ praviśati sajjalakaḥ|)
+sajjalakaḥ --- 
+kṛtvā niśāyāṃ vacanīyadoṣaṃ nidrāṃ ca hitvā timiraṃ bhayaṃ ca|
+sa eva sūryodayamandavīryaḥ śanairdivācandra ivāsmi bhītaḥ ||1||
+diṣṭyā karmānte prabhātam| yāvadidānīṃ vasantasenāyāḥ paricārikāyā madanikāyā niṣkrayārtha mayedaṃ kṛtam| (parikramya) idaṃ vasantasenāyā gṛham| yāvat | praviśāmi| (praviśya) kinnu khalvabhyantarasthā madanikā| athavā pūrvāhṇe gaṇikānāmabhyantare sānnidhyam| atastatraiva tayā bhavitavyam| yāvacchabdāpayāmi| madanike! madanike!|
+ceṭī --- 
+(ākarṇyaṃ) sajjalaassa via saro | vāvudā ajjuā| tā uvasappissaṃ | (upagamya) iamhi| [sajjalakasyeva svaraḥ vyāpṛtā'jjukā| tadupasarpiṣyāmi| iyamasmi|]
+sajjalakaḥ --- 
+itastāvat|
+ceṭī --- 
+kiṃ tuvaṃ saṅkidavaṇṇo via| [kiṃ tvaṃ śaṅkitavarṇa iva|]
+sajjalakaḥ --- 
+na khalu, kiñcit kathayitukāmaḥ|
+gaṇikā --- 
+hañje! imaṃ cittaphalaaṃ saaṇie ṭhāve hi(vilokya) kahiṃ gaā hadāsā | ahava adūragaāe hodavvaṃ | jāva ṇaṃ pekkhissaṃ(parikramyāvalokya) ammo iaṃ sā adisiṇiddhāe diṭṭhīe keṇa vimaṇusseṇa pibantī via saha mantaantī ciṭṭhai| takkemi etto jo kovi kaeṇa maṃ yācedi| [hañje! idaṃ citraphalakaṃ śayanīye sthāpaya| kutra gatā hatāśā| athavā adūragatayā bhavitavyam| yāvadenāṃ prekṣiṣye | ammo iyaṃ sā'tisnigdhayā dṛṣṭyā kenāpi manuṣyeṇa pibantīva saha mantrayamāṇā tiṣṭhati| tarkayāmyeṣa yaḥ ko'pi krayeṇa māṃ yācate|]
+sajjalakaḥ --- 
+śrūyatāṃ rahasyam|
+gaṇikā --- 
+ajuttaṃ pararahassaṃ soduṃ, ahaṃ gamissaṃ| [ayuktaṃ pararahasyaṃ śrotum,ahaṃ gamiṣyāmi|]
+sajjalakaḥ --- 
+api vasantasenā(ityardhokte)|
+gaṇikā --- 
+ahaṃ ahiidā edāaṃ kahāaṃ | hodu, suṇissaṃ dāva bhavissadi| (punaḥ pratinivṛtya sthitā|) [ahamadhikṛtaitasyāṃ kathāyām| bhavatu, śroṣyāmi tāvad bhaviṣyati|]
+sajjalakaḥ --- 
+kiṃ dāsyati tvāṃ niṣkrayeṇa|
+gaṇikā --- 
+so evva eso| hodu, suṇissaṃ | [sa evaiṣaḥ| bhavatu, śroṣyāmi|]
+ceṭī --- 
+sajjalaa! mama padāṇaṃ puḍhabhaṃ evaṃ ajjuāe uttaṃ| [sajjalaka! mama pradānaṃ prathamamevājjukayoktam|]
+sajjalakaḥ --- 
+tena hīmamasyai prayaccha, evaṃ vaktavyā ca --- 
+
+ayaṃ tava śarīrasya pramāṇādiva nirmitaḥ|
+aprakāśyo hyalaṅkāro matsnehād dhāryatāmiti||2||
+ceṭī --- 
+pekkhāmi dāva| [paśyāmi tāvat|]
+sajjalakaḥ --- 
+gṛhyatām| (darśayati|)
+ceṭī --- 
+diṭṭhapuruvo via aaṃ alaṅkāro| [dṛṣṭapūrva ivāyamalaṅkāraḥ|]
+gaṇikā --- 
+mamakerao via aaṃ alaṅkāro| [madīya ivāvayamalaṅkāraḥ|]
+ceṭī --- 
+bhaṇāhi bhaṇāhi| ko imassa āamo| [bhaṇa bhaṇa | ko'syāgamaḥ]
+sajjalakaḥ --- 
+tvatsnehāt sāhasaṃ kṛtam|
+ubhe --- 
+haṃ, sāhasio| [haṃ, sāhasikaḥ|]
+ceṭī --- 
+(ātmagatam) ā ajjuāe khu imassa āidī kammadāruṇadāe uvve aṇīā saṃvuttā| (prakāśam) haddhi mama kide ubhaaṃ saṃsaidaṃ saṃvuttaṃ tava sarīraṃ cārittaṃ ca| [ā, ajjukāyāḥ khalvasyākṛtiḥ karmadāruṇatayodvejanīyā saṃvṛttā| hā dhig mama kṛte ubhayaṃ saṃśayitaṃ savṛttaṃ tava śarīraṃ cāritraṃ ca|]
+sajjalakaḥ --- 
+unmattike! sāhase khalu śrīrvasati|
+ceṭī --- 
+apaṇḍido khu si| ko hi ṇāma jīvideṇa sarīraṃ vikkīṇissadi| aha kassa gehe iaṃ vissāsavañcaṇā kidā| [apaṇḍitaḥ khalvasi| ko hi nāma jīvitena śarīraṃ vikreṣyati| atha kasya gehe iyaṃ viśvāsavañcanā kṛtā|]
+sajjalakaḥ --- 
+yathā prabhāte mayā śrutaṃ --- śreṣṭhicatvare prativasati sārthavāhaputraścārudatto nāma|
+ubhe --- 
+hum|
+sajjalakaḥ --- 
+ayi,
+viṣādasrastasarvāṅgī sambhramotphullalocanā|
+mṛgīva śaraviddhāṅgī kampase cānukampase|| 3||
+ceṭī --- 
+saccaṃ bhaṇāhi| satthavāhakule sāhasaṃ karanteṇa tu e kocci kulavutto sattheṇa atthi parikkhado vāvādido vā | [satyaṃ bhaṇa | sārthavāhakule sāhasaṃ kurvatā tvayā kaścit kulaputraḥ śastreṇāsti parikṣato vyāpādito vā|]
+gaṇikā --- 
+suṭṭhu, mae vi pucchidavvaṃ edāe pucchidaṃ| [suṣṭhu, mayāmi praṣṭavyametayā pṛṣṭam|]
+sajjulakaḥ --- 
+madanike! etāvat kiṃ na paryāptaṃ, dvitīyamapyakāryaṃ kariṣyāmi| na khalvatra śastreṇa kaścit parikṣato vyāpādito vā|
+ceṭī --- 
+sajjalaa! saccaṃ | [sajjalaka! satyam|]
+sajjalakaḥ --- 
+satyam|
+ceṭī --- 
+sāhu sajjalaa! piaṃ me| [sādhu sajjalaka! priyaṃ me|]
+sajjalakaḥ --- 
+kiṃ kiṃ priyamityāha| īdṛśaṃ madanike!
+tvatsnehabaddhahṛdayo hi karomyakāryaṃ
+santuṣṭapūrvapuruṣe'pi kule prasūtaḥ|
+rakṣāmi manmathagṛhītamidaṃ śarīraṃ
+mitraṃ ca māṃ vyapadiśasyaparaṃ ca yāsi||4||
+ceṭī --- 
+sajjalaa! suṇāhi| ajjuāe aaṃ alaṅkāro| (karṇe|) evaṃ via| [sajjalaka! śruṇu | ajjukāyā ayamalaṅkāraḥ| evamiva|]
+sajjalakaḥ --- 
+evam|
+ajñānād yā mayā pūrve śākhā patrairviyojitā|
+chāyārthī grīṣmasantaptastāmeva punarāśritaḥ ||5||
+gaṇikā --- 
+santāppadi tti takkemi edeṇa akayyaṃ kidaṃ ti| [santapyata iti tarkayāmi etenākāryaṃ kṛtamiti|]
+sajjalakaḥ --- 
+madanike! evaṃ gate kiṃ kartavyam|
+ceṭī --- 
+tahiṃ evva ṇiyyādehi ṇahi maṇḍaissadi ajjuā| [tatraiva niryātaya, nahi maṇḍayiṣyatyajjukā|]
+sajjalakaḥ --- 
+athedānīṃ so'marṣānmāṃ cora iti rakṣipuruṣairgrāhayiṣyati cedatra kiṃ kariṣyāmi|
+ceṭī --- 
+mā bhāāhi mā bhāāhi| kulavutto khu so guṇāmaṃ paritussadi| [mā bibhīhi mā bibhīhi| kulaputraḥ khalu sa guṇānāṃ parituṣyati|]
+gaṇikā --- 
+sāhu bhadde! avattavvāsi alaṅkidā via edeṇa vaaṇeṇa| [sādhu bhadre! avaktavyāsi, alaṅkṛtevaitena vacanena|]
+sajjalakaḥ --- 
+sarvathā na śakṣyāmyahaṃ tatra gantum|
+ceṭī --- 
+aaṃ aṇṇo uvāo|[ayamanya upāyaḥ|]
+gaṇikā --- 
+ede guṇā vesavāsassa| [ete guṇā veśavāsasya|]
+sajjalakaḥ --- 
+ko'nya upāyaḥ|
+ceṭī --- 
+ṇaṃ tava rūpañjā ajjuā avi satthavāhaputto a|[nanu tava rūpajñājjukā'pi sārthavāhaputraśca|]
+sajjalakaḥ --- 
+na khalu|
+ceṭī --- 
+teṇa hi imaṃ dāva alaṅkāraṃ tassa satthavāhaputtassa vaaṇādo ajjuāe ṇiyyādehi| evaṃ ca kide tuvaṃ rakkhido, so ayyo a aṇivviṇṇo bhavissadi| ahaṃ ca pīḍidā ṇa bhavissaṃ | ādu ajjuaṃ ca puṇo vañcia puṇo evva dāsabhāvo bhave| [tena hīmaṃ tāvadalaṅkāraṃ tasya sārthavāhaputrasya vacanādajjukāyai niryātaya| evaṃ ca kṛte tvaṃ rakṣitaḥ, sa āryaścānirviṇṇo bhaviṣyati| ahaṃ ca pīḍitā na bhaviṣyāmi| athavā ajjukāṃ ca punarvañcayitvā punareva dāsabhāvo bhavet|]
+sajjalakaḥ --- 
+madanike! prīto'smi|
+gaṇikā --- 
+bhodu abbhantaraṃ pavisia uvavisāmi| (tathā karoti|) [bhavatvabhyantaraṃ praviśyopaviśāmi|]
+ceṭī --- 
+sajjalaa! āaccha, kāmadevaule ma paḍivālehi | ahaṃ osaraṃ jāṇia ajjuāe ṇivedemi| [sajjalaka! āgaccha, kāmadevakule mā pratipālaya| ahamavasaraṃ jñātatvā'jjukāyai nivedayāmi|]
+sajjalakaḥ --- 
+bāḍham|(niṣkrāntaḥ|)
+(tataḥ praviśatyaparā ceṭī|)
+ceṭī --- 
+suhaṃ ajjuāe| eso satthavāhaputtassa, saāsādo kocci bamhaṇo āado ajjuaṃ pekkhiduṃ| [sukhamajjukāyāḥ | sārthavāhaputrasya sakāśāt kaścid brāhmaṇa āgato'jjukāṃ draṣṭum|]
+gaṇikā --- 
+(sādaram) gaccha sigdhaṃ pavesehi ṇaṃ| [gaccha, śīghraṃ praveśayainam|]
+ceṭī --- 
+taha| (upasṛtya) edu edu ayyo| [tathā etvetvāryaḥ|]
+vidūṣakaḥ --- 
+(praviśya sarvato vilokya) aho gaṇiāvāḍassa sassirīadā| ṇāṇāpaṭṭaṇasamāgadehi āamiehi putthaā vāīanti| saṃojaanti a āhārappaārāṇi vīṇā vādīanti| suvaṇṇaārā alaṅkārappaārāṇi ādareṇa jojaanti| [aho gaṇikāvāṭasya saśrīkatā| nānāpaṭṭaṇasamāgatairāgamikaiḥ pustakāni vācyante| saṃyojyante cāhāraprakārāḥ | vīṇā vādyante| suvarṇakārā alaṅkāraprakārānādareṇa yojayanti|]
+ceṭī --- 
+eṣā ajjuā uvasappadu ayyo| [eṣājjukā| upasarpatvāryaḥ|]
+vidūṣakaḥ --- 
+(upagamya) sotthi hodīe| [svasti bhavatyai|]
+gaṇikā --- 
+sāadaṃ ayyassa| hañje! āsaṇaṃ ayyassa, pādodaaṃ ca | [svāgatamāryasya| hañje! āsanamāryasya, pādodakaṃ ca|]
+vidūṣakaḥ --- 
+(ātmagatam) savvaṃ āṇedu vajjia bhoaṇaṃ| [sarvamānayatu varjayitvā bhojanam|]
+ceṭī --- 
+jaṃ ajjuā āṇavedi| (āsanaṃ dadāti, pādodakaṃ ca|) uvavisadu ayyo| [yadajjukājñāpayati| upaviśatvāryaḥ|]
+vidūṣakaḥ --- 
+(upaviśya) paḍicchadu āsaṇaṃ bhodī| ahaṃ kiñci bhaṇiduṃ āado| [pratīcchatvāsanaṃ bhavatī| ahaṃ kiñcid bhaṇitumāgataḥ|]
+gaṇikā --- 
+(upaviśya) avahidamhi| [avahitāsmi|]
+vidūṣakaḥ --- 
+kettiamattaṃ khu tassa alaṅkārassa mullappamāṇaṃ | [kriyanmātraṃ khalu tasyālaṅkārasya mūlyapramāṇam|]
+gaṇikā --- 
+kiṃṇimittaṃ khu ayyo pucchadi| [kinnimittaṃ khalvāryaḥ pṛcchati|]
+vidūṣakaḥ --- 
+suṇādu bhodī| tattahodo cārudattassa guṇappaccāaṇaṇimittaṃ khu tue alaṅkāro tarhi ṇikkhitto| so teṇa jūde hārido| [śruṇotu bhavatī| tatrabhavataścārudattasya guṇapratyāyananimittaṃ khalu tvayālaṅkārastasmin nikṣiptaḥ| sa tena dyūte hāritaḥ|]
+gaṇikā --- 
+jūde| jujjai| tado tado| [dyūte| yujyate| tatastataḥ|]
+vidūṣakaḥ --- 
+tado tassa alaṅkārassa mullabhūdaṃ imaṃ muttāvaliṃ paḍicchadu bhodī| [tatastasyālaṅkārasya mūlyabhūtāmimāṃ muktāvalīṃ pratīcchatu bhavatī|]
+gaṇikā --- 
+(ātmagatam) dhik khu gaṇiābhāvaṃ | luddhati maṃ tulaadi| jai ṇa paḍicche, so evva doso bhavissadi| (prakāśam) āṇedu ayyo | [dhik khalu gaṇikābhāvam| lubdheti māṃ tulayati| yadi na pratīcchāmi, sa eva doṣo bhaviṣyati| ānayatvāryaḥ |]
+vidūṣakaḥ --- 
+idaṃ gaṇhadu bhodī| [idaṃ gṛhṇātu bhavatī|]
+gaṇikā --- 
+(gṛhītvā) paḍicchidaṃ tae tti ayyo ṇivededu| [pratīṣṭaṃ tayetyāryo nivedayatu|]
+vidūṣakaḥ --- 
+(ātmagatam) kovi uvaāro vi ṇa edāe bhaṇido| (prakāśam) evaṃ hodu | (dattvā niṣkrāntaḥ) [ko'pyupacāro'pi naitayā bhaṇitaḥ| evaṃ bhavatu|]
+gaṇikā --- 
+sāhu cārudatta! sāhu| bhāadheaparivuttadāe dasāe māṇāvamāṇaṃ rakkhidaṃ | [sādhu cārudatta! sādhu| bhāgadheyaparivṛttatāyāṃ daśāyāṃ mānāvamānaṃ rakṣitam|]
+(praviśya)
+madanikā --- 
+ajjue! satthavāhaputtassa saāsādo kocci maṇusso āado icchai ajjuaṃ pekkhiuṃ| [ajjuke! sārthavāhaputrasya sakāśāt kaścid manuṣya āgata icchatyajjukāṃ draṣṭum|]
+gaṇikā --- 
+kiṃ diṭṭhapuruvo ṇavadaṃsaṇo vā| [kiṃ dṛṣṭapūrvo navadarśano vā|]
+madanikā --- 
+ajjue! ṇahi, tassakerao tti me paḍibhādi| [ajjuke! nahi, tadīya iti me pratibhāti|]
+gaṇikā --- 
+gaccha, pavesehi ṇaṃ| [gaccha, praveśayainam|]
+madanikā --- 
+taha| (niṣkrāntā|) [tathā|]
+gaṇikā --- 
+aho ramaṇijjadā ajja divasassa| [aho ramaṇīyatā'dya divasasya]|
+(tataḥ praviśati madanikā sajjalakena saha|)
+sajjalakaḥ --- 
+kaṣṭā khalvātmaśaṅkā nāma,
+yaḥ kaściccakitagatirnirīkṣate māṃ sambhrānto drutamupasarpati sthito vā|
+sarvāstāṃstulayati doṣato mano me svairdoṣairbhavati hi śaṅkito manuṣyaḥ||6||
+madanikā --- 
+esā ajjuā| uvasappadu ayyo| [eṣājjukā | upasarpatvāryaḥ|]
+sajjalakaḥ --- 
+(upasṛtya) sukhaṃ bhavatyai|
+gaṇikā --- 
+sāudaṃ ayyassa| hañje! āsaṇaṃ dedu ayyassa| [svāgatamāryasya| hañje! āsanaṃ dīyatāmāryāya|]
+sajjalakaḥ --- 
+bhavatu bhavatu| gṛhītamāsanam | tvaritataramanuṣṭheyaṃ kiñcit kāryamasti|
+gaṇikā --- 
+evaṃ, bhaṇādu ayyo| [evaṃ,bhaṇatvāryaḥ|]
+sajjalakaḥ --- 
+āryacārudattenāsmi preṣitaḥ --- yastāvadalaṅkāro mama haste nikṣiptaḥ, sa tvasaṃbhogamalinatayā gṛhasyāsānnidhyāt kauṭumbikānāṃ durārakṣaḥ| tad gṛhyatām iti|
+gaṇikā --- 
+imaṃ tassa cārudattassa dedu ayyo| [imaṃ tasmai cārudattāya dadātvāryaḥ|]
+sajjalakaḥ --- 
+bhavati! na khalvahaṃ gacchāmi|
+gaṇikā --- 
+ahaṃ jāṇāmi tassa gehe sāhasaṃ karia āṇīdo aa alaṅkāro| tassa guṇāṇi aṇukampedu ayyo| [ahaṃ jānāmi tasya gehe sāhasaṃ kṛtvānīto'yamalaṅkāraḥ | tasya guṇānanukampatāmāryaḥ|]
+sajjalakaḥ --- 
+(ātmagatam) kathaṃ vidito'smyanayā|
+gaṇikā --- 
+ko ettha, pavahaṇaṃ dāva ayyassa| [ko'tra, pravahaṇaṃ tāvadāryasya|]
+madanikā --- 
+ṇemisaddo via suṇīadi! āadeṇa pavahaṇeṇa hodavvaṃ| [nemiśabda iva śrūyate| āgatena pravahaṇena bhavitavyam| ]
+gaṇikā --- 
+(svairābharaṇairmadanikāmalaṅkṛtya) āruhadu ayyo ayyāe saha pavahaṇaṃ ![ārohatvārya āryayā saha pravahaṇam|]
+madanikā --- 
+ajjue ! kiṃ edaṃ| [ajjuke! kimetat|]
+gaṇikā --- 
+mā khu mā khu evaṃ mantia| ayyā khu si dāṇiṃ saṃvuttā | gaṇhadu ayyo! (madanikāṃ gṛhītvā sajjalakāya prayacchati|) [mā khalu mā khalvevaṃ mantrayitvā| āryā khalvasīdānīṃ saṃvṛttā| gṛhṇātvāryaḥ|]
+sajjalakaḥ --- 
+(ātmagatam) bhoḥ! kadā khalvasyāḥ pratikartavyaṃ bhaviṣyati| athavā, śāntaṃ śāntaṃ pāpam|
+naraḥ pratyupakārārthī vipattau labhate phalam|
+dviṣatāmeva kālo'stu yo'syā bhavatu tasya vā ||7||
+(tayā saha niṣkrāntaḥ sajjalakaḥ |)
+gaṇikā --- 
+caurie!| [caturike!|]
+ceṭī --- 
+(prakāśaṃ) ajjue! iamhi| [ajjuke iyamasmi|]
+gaṇikā --- 
+hañje! pekkha jāgarantīe maesiviṇo diṭṭo evvaṃ| [hañje! paśya jāgratyā mayā svapno dṛṣṭaḥ evam|]
+ceṭī --- 
+piaṃ me, amudaṃkaṇāḍaaṃ saṃvuttaṃ| [priyaṃ me, amṛtāṅkanāṭakaṃ saṃvṛttam|]
+gaṇikā --- 
+ehi imaṃ alaṅkāraṃ gaṇhia ayyacārudattaṃ abhisarissāmo| [ehīmamalaṅkāraṃ gṛhītvāryacārudattamabhisariṣyāvaḥ|]
+ceṭī --- 
+ajjue! taha | edaṃ puṇa abhisāriāsahāabhūdaṃ duddiṇaṃ uṇṇamidaṃ| [ajjuke! tathā etat punarabhisārikāsahāyabhūta durdinamunnamitam|]
+gaṇikā --- 
+hadāse! mā hu vaḍḍhāvehi| [hatāśe| mā khalu vardhaya|]
+ceṭī --- 
+edu edu ajjuā| [etvetvajjukā|](niṣkrānte|)
+iti caturtho'ṅkaḥ|
+    </body>
+  </text>
+</TEI>

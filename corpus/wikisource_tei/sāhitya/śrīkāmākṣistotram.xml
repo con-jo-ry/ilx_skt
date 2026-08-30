@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Śrīkāmākṣistotra</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%95%E0%A4%BE%E0%A4%AE%E0%A4%BE%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8B%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+śrī kāmākṣi stotram |
+kāraṇāparacidrapā kañcīpurasīmni kāmapīṭhagatā | kāṃcana viharati karūṇā kāṣmīrastabakakomalāṅgalatā || 1||
+kaṃcana kāñcīnilayaṃ karadhṛtakodaṇḍabāṇasṛṇiśm | kaṭhinastanabharanamraṃ kaivalyānandakandamavalambe || 2||
+aiśvaryamindumauleḥ aikātmya prakṛtikāñcimadhyagatām aindavakiśoraśekhara maidaṃparyaṃ cakāsti nigamānām || 3||
+līye purahajāye māye tava tarūṇapallavacchāye | caraṇe candrabharaṇa kāñcīśaraṇe natārtisaṃharaṇe || 4||
+kāmaparipandhikāmini kāmeśvarī kāmapīṭhamadhyagate | kāmadudhā bhava kamale kāmakale kāmakoṭi kāmākṣī || 5||
+samaravijayakoṭī sādhakānandadhārī mṛduguṇaparipeṭī mukhyakādambavāṭī | muninutaparipāṭī mohitājāṇḍakoṭī paramaśīvavaghūṭī pātu māṃ kāmakoṭī || 6||
+jaya jaya jagadamba śive jaya jaya kāmākṣī jaya jayādrisute | jaya jaya maheśadayite jaya jaya cidraganakaumudī dhare || 7||
+    </body>
+  </text>
+</TEI>

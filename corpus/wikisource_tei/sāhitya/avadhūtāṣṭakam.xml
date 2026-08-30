@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Avadhūtāṣṭaka</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%85%E0%A4%B5%E0%A4%A7%E0%A5%82%E0%A4%A4%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%95%E0%A4%AE%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+śrī paramātmane namaḥ ||
+atha paramahaṃsa śiromaṇyavadhūtaśrīsvāmīśukadevastutiḥ
+nirvāsanaṃ nirākāṅkṣaṃ sarvadoṣavivarjitam |
+nirālambaṃ nirātaṅkaṃ hyavadhūtaṃ namāmyaham || 1||
+nirmamaṃ nirahaṅkāraṃ samaloṣṭāśmakāñcanam |
+samaduḥkhasukhaṃ dhīraṃ hyavadhūtaṃ namāmyaham || 2||
+avināśinamātmānaṃ hyekaṃ vijñāya tatvataḥ |
+vītarāgabhayakrodhaṃ hyavadhūtaṃ namāmyaham || 3||
+nāhaṃ deho na me deho jīvo nāhamahaṃ hi cit |
+evaṃ vijñāya santuṣṭam hyavadhūtaṃ namāmyaham || 4||
+samastaṃ kalpanāmātraṃ hyātmā muktaḥ sanātanaḥ |
+iti vijñāya santuṣṭaṃ hyavadhūtaṃ namāmyaham || 5||
+jñānāgnidagdhakarmāṇaṃ kāmasaṅkalpavarjitam |
+heyopādeyahīnaṃ taṃ hyavadhūtaṃ namāmyaham || 6||
+vyāmohamātraviratau svarūpādānamātrataḥ |
+vītaśokaṃ nirāyāsaṃ hyavadhūtaṃ namāmyaham || 7||
+ātmā brahmeti niścitya bhāvābhāvau ca kalpitau |
+udāsīnaṃ sukhāsīnaṃ hyavadhūtaṃ namāmyaham || 8||
+svabhāvenaiva yo yogī sukhaṃ bhogaṃ na vāñchati |
+yadṛcchālābhasantuṣṭaṃ hyavadhūtaṃ namāmyaham || 9||
+naiva nindāpraśaṃsābhyāṃ yasya vikriyate manaḥ |
+ātmakrīḍaṃ mahātmānaṃ hyavadhūtaṃ namāmyaham || 10||
+nityaṃ jāgradavasthāyāṃ svapnavadyo'vatiṣṭhate |
+niścintaṃ cinmayātmānaṃ hyavadhūtaṃ namāmyaham || 11||
+dveṣyaṃ nāsti priyaṃ nāsti nāsti yasya śubhāśubham |
+bhedajñānavihīnaṃ taṃ hyavadhūtaṃ namāmyaham || 12||
+jaḍaṃ paśyati no yastu jagat paśyati cinmayam |
+nityayuktaṃ guṇātītaṃ hyavadhūtaṃ namāmyaham || 13||
+yo hi darśanamātreṇa pavate bhuvanatrayam |
+pāvanaṃ jaṅgamaṃ tīrthaṃ hyavadhūtaṃ namāmyaham || 14||
+niṣkalaṃ niṣkriyaṃ śāntaṃ nirmalaṃ paramāmṛtam |
+anantaṃ jagadādhāraṃ hyavadhūtaṃ namāmyaham || 15||
+|| iti avadhūtāṣṭakaṃ samāptam ||
+    </body>
+  </text>
+</TEI>

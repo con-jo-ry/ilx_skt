@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Śaṃkarastotra</title>
+        <author>Śrīvāsudevānandasarasvatī</author>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%B6%E0%A4%82%E0%A4%95%E0%A4%B0%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8B%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+|| śaṃkarastotram ||
+namastubhyaṃ bhagavate śaṃkarāya mahātmane| jagadutpattivināśānāṃ hetave mokṣahetave||1||
+sarvadevādhidevāya pārvatīpataye namaḥ| ṛṣiyogimunīndrāṇāṃ tvameva paramā gatiḥ||2||
+brahmāṃḍagolake deva dayālūnāṃ tvamagraṇīḥ| ata evolbaṇaṃ pītaṃ tvayā hālāhalaṃ viṣam||3||
+gaṃgādhara mahādeva candrālaṃkṛtamastaka| parameśvara māṃ pāhi bhayaṃ vāraya vāraya||4||
+sarvapāpaṃ praśamaya sarvatāpaṃ nivāraya| duḥkhaṃ hara harāśeṣaṃ mṛtyuṃ vidrāvaya drutam||5||
+stutiṃ kartuṃ na me śaktistava vāggatyagocara| dehi satsaṃgatiṃ bhaktiṃ niścalāṃ tvayi śaṃkara||6||
+sarvāriṣṭaṃ parihara sarvaśatrūnvināśaya| dāridryaṃ hara sarveśa sarvānkāmān prapūraya||7||
+mukhe nāma dṛśo rūpaṃ hṛdaye tvatpadāmbujam| mamāstu te namaḥ sāṃba prasanno bhava sarvadā||8||
+tvadarcanavidhiṃ jāne na bhaktistvayi me hṛdi| athāpyanugrahāṇeśa kevalaṃ dayayoddhara||9||
+iti śrī pa. pa. śrīvāsudevānandasarasvatīviracitaṃ śaṃkarastotraṃ saṃpūrṇam||
+    </body>
+  </text>
+</TEI>

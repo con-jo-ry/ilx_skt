@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Skandopaniṣad</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%A8%E0%A5%8D%E0%A4%A6_%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A6%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+skandopaniṣat
+yatrāsaṃbhavatāṃ yāti svātiriktabhidātatiḥ | | saṃvinmātraṃ paraṃ brahma tatsvamātraṃ vijṛmbhate ||
+oṃ saha nāvavatu | saha nau bhunaktu | saha vīryaṃ karavāvahai | tejasvi nāvadhītamastu mā vidviṣāvahai || oṃ śāntiḥ śāntiḥ śāntiḥ ||
+acyuto'smi mahādeva tava kāruṇyaleśataḥ | vijñānaghana evāsmi śivo'smi kimataḥ param || 1||
+na nijaṃ nijavadbhāti antaḥkaraṇajṛmbhaṇāt | antaḥkaraṇanāśena saṃvinmātrasthito hariḥ || 2||
+saṃvinmātrasthitaścāhamajo'smi kimataḥ param | vyatiriktaṃ jaḍaṃ sarvaṃ svapnavacca vinaśyati || 3||
+cijjaḍānāṃ tu yo draṣṭā so'cyuto jñānavigrahaḥ | sa eva hi mahādevaḥ sa eva hi mahāhariḥ || 4||
+sa eva hi jyotiṣāṃ jyotiḥ sa eva parameśvaraḥ | sa eva hi paraṃ brahma tadbrahmāhaṃ na saṃśayaḥ || 5||
+jīvaḥ śivaḥ śivo jīvaḥ sa jīvaḥ kevalaḥ śivaḥ | tuṣeṇa baddho vrīhiḥ syāttuṣābhāvena taṇḍulaḥ || 6||
+evaṃ baddhastathā jīvaḥ karmanāśe sadāśivaḥ | pāśabaddhastathā jīvaḥ pāśamuktaḥ sadāśivaḥ || 7||
+śivāya viṣṇurūpāya śivarūpāya viṣṇave | śivasya hṛdayaṃ viṣṇuḥ viṣṇośca hṛdayaṃ śivaḥ || 8||
+yathā śivamayo viṣṇurevaṃ viṣṇumayaḥ śivaḥ | yathāntaraṃ na paśyāmi tathā me svastirāyuṣi || 9||
+yathāntaraṃ na bhedāḥ syuḥ śivakeśavayostathā | deho devālayaḥ proktaḥ sa jīvaḥ kevalaḥ śivaḥ || 10||
+tyajedajñānanirmālyaṃ so'haṃbhāvena pūjayet | abhedadarśanaṃ jñānaṃ dhyānaṃ nirviṣayaṃ manaḥ | snānaṃ manomalatyāgaḥ śaucamindriyanigrahaḥ || 11||
+brahmāmṛtaṃ pibedbhaikṣyamācareddeharakṣaṇe | vasedekāntiko bhūtvā caikānte dvaitavarjite | ityevamācareddhīmānsa evaṃ muktimāpnuyāt || 12||
+śrīparamadhāmne svasti cirāyuṣyonnama iti | viriñcinārāyaṇaśaṅkarātmakaṃ nṛsiṃha deveśa tava prasādataḥ | acintyamavyaktamanantamavyayaṃ vedātmakaṃ brahma nijaṃ vijānate || 13||
+tadviṣṇoḥ paramaṃ padaṃ sadā paśyanti sūrayaḥ | divīva cakṣurātatam || 14||
+tadviprāso vipanyavo jāgṛvāṃsaḥ samindhate | viṣṇoryatparamaṃ padam | ityetannirvāṇānuśāsanamiti vedānuśāsanamitim vedānuśāsanamityupaniṣat || 15||
+|| iti kṛṣṇayajurvedīya skandopaniṣatsamāptā ||
+    </body>
+  </text>
+</TEI>

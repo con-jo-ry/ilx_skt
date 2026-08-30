@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Prajñāvivardhanastotra</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A7%E0%A4%A8_%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8B%E0%A4%A4%E0%A5%8D%E0%A4%B0"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+asya śrīprajñāvivardhanastotramaṃtrasya sanatkumāraṛṣiḥ|
+svāmī kārtikeyo devatā| anuṣṭup chaṃdaḥ|
+mama sakala vidyāsiddhyarthaṃ jape viniyogaḥ|
+śrīskaṃda uvāca||
+yogīśvaro mahāsenaḥ kārtikeyoSgninandanaḥ|
+skaṃdaḥkumāraḥ senānīḥ svāmiśaṃkarasaṃbhavaḥ ||1||
+gāṃgeyastāmracūḍaśca brahmacārī śikhidhvajaḥ|
+tārakārirumāputraḥ krauṃcāriśca ṣaḍānanaḥ ||2||
+śabdabrahmasamudraśca siddhaḥsārasvato guhaḥ|
+sanatkumāro bhagavān bhogamokṣaphalapradaḥ ||3||
+śarajanmā gaṇādhīśapūrvajo muktimārgakṛt|
+sarvāgamapraṇetāca vāṃchitārthapradarśanaḥ ||4||
+aṣṭāviṃśati nāmāni madīyānīti yaḥ paṭhet|
+pratyūṣaṃ śraddhayāyukto mūko vācaspatirbhavet ||5||
+mahāmaṃtramayānīti mama nāmānukīrtanam|
+mahāprajñāmavāpnoti nātra kāryā vicāraṇā ||6||
+|| iti śrī prajñāvivardhana stotraṃ saṃpūrṇam ||
+    </body>
+  </text>
+</TEI>

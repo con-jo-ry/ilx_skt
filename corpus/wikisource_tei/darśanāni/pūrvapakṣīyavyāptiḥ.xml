@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Pūrvapakṣīyavyāpti</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%AA%E0%A5%82%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%AA%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%80%E0%A4%AF%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF%E0%A4%83"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+||pūrvapakṣīyavyāptilakṣaṇam||
+pūrvapakṣīyavyāptilakṣaṇam -- "sādhyābhāvavadavṛttitvam"| sādhyaṃ vahniḥ, tadabhāvavān hradaḥ, tadvṛttitvaṃ mīnaśaivālādiṣu, avṛttitvaṃ dhūme iti lakṣaṇasamanvayaḥ| sādhyābhāvavannirupitāvṛttitvaṃ vyāptiriti niṣkṛṣṭo'rthaḥ| evamukte'pi "samavāyasambandhena vahnirmahānase nāsti" iti pratītyā vahnyabhāvavān mahānasaḥ tadvṛttitvameva dhūme iti avyāptiḥ,tadvāraṇāya sādhyaniṣṭhapratiyogitāyāṃ sādhyatāvacchedakasambandhāvacchinnatvaviśeṣaṇaṃ dīyate|tathā sati sādhyo vahniḥ parvate saṃyogena siṣādhayiṣito'stīti sādhyatāvacchedakasambandhaḥ saṃyogaḥ| ataḥ saṃyogasambandhāvacchinnasādhyaniṣṭhapratiyogitākābhāvo mahānase nāsti iti nāvyāptiḥ|
+evamukte'pi -- mahānase catvarīyavahnirvāsti iti pratītyā (cālanīnyāyena) mahānase vahnyabhāvaṃ sādhayitvā tadvṛttitvaṃ dhūme iti punaravyāptiḥ| tadvāraṇāya sādhyatāvacchedakāvacchinnatvaviśeṣaṇaṃ pratiyogitāyāṃ niveśyate|tathā sati mahānase vahnitvāvacchinnapratiyogitākābhāvo nāstīti nāvyāptiḥ| evamukte'pi etadvṛkṣaḥ kapisaṃyogī etadvṛkṣatvāditi saddhetau saṃyogābhāvasya vṛkṣe sattvātsamavāyasambandhāvacchinnasaṃyogatvāvacchinnasaṃyoganiṣṭhapratiyogitākābhāvāvān vṛkṣaḥ tadvṛttitvameva etadvṛkṣatve iti avyāptiḥ| tadvāraṇāya pratiyogivyadhikaraṇaviśeṣaṇamabhāve niveśyate|vyadhikaraṇañcātra tadanadhikaraṇavṛttitvam| tatpadena sādhyaḥ kapisaṃyogo gṛhyate| tadadhikaraṇametadvṛkṣaḥ anadhikaraṇaṃ guṇaḥ, tadvṛttirabhāvaḥ saṃyogābhāvaḥ, tadvadavṛttitvametadvṛkṣatve iti nā'vyāptiḥ|
+evamapi "saṃyogena kapisaṃyogo vṛkṣe nāsti" iti pratītyā kapisaṃyogābhāvavān etadvṛkṣatvaṃ tadvṛttitvam etadvṛkṣatve iti punaravyāptiḥ| tadvāraṇāya pratiyoginiṣṭhādheyatāyāṃ pratiyogitāvacchedakasambandhāvacchinnatvaviśeṣaṇaṃ dīyate| sa ca sambandhaḥ sādhyatāvacchedakasambandha eva bhavati| evañca samavāyasambandhāvacchinnasaṃyotvāvacchinnapratiyogitākasamavāyasambandhāvacchinnādheyatāvatpratiyogivyadhikaraṇābhāvavannirupitavṛttitvābhāvo vyāptiritilakṣaṇamaṃ sampannam|
+tena ca samavāyasambandhāvacchinnādheyatāvatpratiyogyanadhikaraṇametadvṛkṣo na bhavatīti nāvyāptiḥ|
+etenāpi viśiṣṭasattvāvān jāteḥ iti vyabhicāriṇi ativyaptiḥ| tathāhi -- sādhyaṃ viśiṣṭasattā| viśiṣṭaśuddhayoranatireka iti nyāyena sattā eva sādhyā| tadabhāvavat sāmānyādikaṃ tadavṛttitvañca jātau iti jātau sattāvyāpyatvamāyātamiti ativyāptiḥ| tadvāraṇāya pratiyogitāvacchedakāvacchinnatvaviśeṣaṇaṃ pratiyoginiṣṭhādheyatāyāṃ dīyate| tathā sati viśiṣṭasattātvāvacchinnādheyatāvatpratiyogyanadhikaraṇaṃ guṇaḥ tadvṛttitvameva jātau na tvavṛttitvamiti ativyāptiḥ vāritā|
+etāvatā sādhyatāvacchedakāsaṃyogāvacchinnasādhyatāvacchedakāvacchinnapratiyogitākapratiyogitāvacchedakasambandhāvacchinnapratiyogitāvacchedakāvacchinnapratiyogyanadhikaraṇavṛttyabhāvavannirūpitahetuniṣṭhavṛttitvābhāvo vyāptiriti lakṣaṇam|
+evamapi "vahnimān dhūmādi"tyatra vahnipratiyogikavahnivyadhikaraṇābhāvo dhūmāvayavagatavahnyabhāvaḥ| tadvān dhūmāvayavaḥ tadvṛttitvaṃ dhūme iti saddhetāvavyāptiḥ| tadvāraṇāya vṛttitve hetutāvacchedakasambandhāvacchinnatvaṃ viśeṣaṇaṃ dīyate| prakṛte dhūmaḥ saṃyogasambandhena pakṣe'stīti hetutāvacchedakasambandhaḥ saṃyogaḥ| dhūmāvayavanirūpitaṃ dhūmaniṣṭhaṃ vṛttitvaṃ samavāyasambandhāvacchinnamiti hetutāvacchedakasambandhāvacchinnavṛttitvaṃ dhūmāvayavanirupitaṃ na bhavati iti nā'vyāptiḥ|
+etāvadukte'pi "dhūmavān vahne"riti vyabhicārasthale'tivyāptiḥ| tadyathā -- sādhyābhāvavannirūpito vṛttitvapratiyogitāko'bhāvo nāma ayogolake vṛttitvaghaṭobhayannāstīti pratītisiddho'bhāvaḥ| ataḥ sādhyapratiyogikapratiyogivyadhikaraṇābhāvavannirūpitavṛttitvābhāvarūpāvyāptiḥ vahnau astīti ativyāptiḥ| tadvāraṇāya vṛttitvatvāvacchinnatvaviśeṣaṇaṃ deyam| tena 'ayogolake vahniniṣṭhavṛttitvaṃ nāsti' iti pratītisiddhau vṛttitvatvāvacchinnavahniniṣṭhavṛttitvapratiyogitākābhāvo nāsti iti vyāptilakṣaṇaṃ na ghaṭate iti nātivyāptiḥ| yattu ayogolake vahnighaṭobhayabhāvamādāya vṛttitvaniṣṭhapratiyogitākābhāvaḥ sādhitaḥ sa (vṛttitvaghaṭo)bhayatvāvacchinnapratiyogitākābhāva iti na doṣaḥ|||
+    </body>
+  </text>
+</TEI>

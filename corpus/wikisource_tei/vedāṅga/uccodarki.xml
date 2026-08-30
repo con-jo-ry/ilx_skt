@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Uccodarki</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%89%E0%A4%9A%E0%A5%8D%E0%A4%9A%E0%A5%8B%E0%A4%A6%E0%A4%B0%E0%A5%8D%E0%A4%95%E0%A4%BF"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+uccodarki
+nityābhinihatakṣaiprapūrvodāttasya saṃgrahaḥ
+kriyate hastavinyāsabhedoccāraṇasiddhaye 1
+yadekasminpade svārapūrvodātto na vidyate
+saṃhitā lakṣaṇaṃ tasmādidamityavagacchata 2
+udāttapracayau bhinnau sthānavāksthānabhedataḥ
+asmintāneva goṣṭhe te rāṣṭre loke kṣaye paraḥ 3
+asaṃbuddhisubante niśabde vṛttaṃ yadetadoḥ
+tadanyayostadā svārodāttapūrvākṣaraṃ vasoḥ 4
+asmāllokādantarikṣādannādyasya kimātṛṇam
+agnā ihi vyasau pātramamuto'styantarātmanaḥ 5
+abhyaiyyasyāmadho eva tapasānnerddhṛtā apaḥ
+asmānarvān sva ukthyasyādyantonāśśuṃbhavatyavaḥ 6
+ugrāmadhyeṃśurānīyya sarvān ruṃśumamukhalu
+idānīmabhyahaṃ svāhātvotāmāso ahaṃsyadi 7
+amuṣyāsyai dhyapāṃ vajro yathānunma udetyupa
+iti brahmāpsusendrāya matūrttosītyukhā trayaḥ 8
+asyeśvaro namāsan syurvarṣau jo jāmajā nahi
+asmākamakṣyorasmadvā prāṇo'śnātyūrjamaśvinā 9
+jyotirannādyamanvāgnau trai bṛhaspataye jayā
+īṅgyānaṃśapadeṣveṣūdāttaṃ svārātparo'kṣaram 10
+svārātparo'nudāttasya saṃgraho yamudīritaḥ
+sarvān devān gurūnnatvā laghuvṛttiḥ pravakṣyate 11
+uccodarkidaśaślokyā bālavyutpattisiddhaye
+śrīkeśavāryācāryāṇāṃ padapaṃkajamañjasā 12
+vidvanmaṇīnāṃ yajjihvā kośaveśmāya te namaḥ
+iti śrī keśavācāryaviracitamuccodarki saṃpūrṇam
+    </body>
+  </text>
+</TEI>

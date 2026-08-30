@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Yājñavalkyopaniṣad</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%AF%E0%A4%BE%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A4%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+|| yājñavalkyopaniṣat ||
+oṃ pūrṇamadaḥ pūrṇamidaṃ pūrṇātpūrṇamudacyate |
+pūrṇasya pūrṇamādāya pūrṇamevāvaśiṣyate ||
+oṃ śāntiḥ śāntiḥ śāntiḥ ||
+atha janako ha vaideho yājñavalkyamupasametyovāca bhagavansaṃnyāsamanubrūhīti | sa hovāca yājñavalkyo brahmacaryaṃ samāpya gṛhī bhavet | gṛhī bhūtvā vanī bhavet bhūtvā pravrajet | yadi vetarathā brahmacaryādeva pravrajedgṛhādvā vanādvā | atha punarvratī vāvratī vā snātako vā'snātako vā utsannāgniranagnoko'vā yadahareva virajettadahareva pravrajet || 1 ||
+tadeke prājāpatyāmeveṣṭiṃ kurvanti | atha vā na kuryādāgneyyāmeva kuryāt | agnirhi prāṇaḥ | prāṇamevaitayā karoti | traidhātavīyāmeva kuryāt | etayaiva trayo dhātavo yaduta sattvaṃ rajastama iti | ayaṃ te yonirṛtvijo yato jāto arocathāḥ | taṃ jānannagna ārohāthāno vardhayā rayimityanena mantreṇāgnimājighret | eṣa vā agneryoniryaḥ prāṇaṃ gaccha svāṃ yoniṃ gaccha svāhetyevamevaitadāha || 2 ||
+grāmādagnimāhṛtya pūrvavadagnimājighret yadagniṃ na vindedapsu juhuyādāpo vai sarvā devatāḥ sarvābhyo devatābhyo juhomi svāheti hutvoddhatya prāśnīyāt sājyaṃ haviranāmayam | mokṣamantrastrayyevaṃ veda tadbrahma tadupāsitavyam | śikhāṃ yajñopavītaṃ chittvā saṃnyastaṃ mayeti trivāramuccaret | evamevaitadbhagavanniti vai yājñavalkyaḥ || 3 ||
+atha hainamatriḥ papraccha yājñavalkyaṃ yajñopavītī kathaṃ brāhmaṇa iti | sa hovāca yājñavalkya idaṃ praṇavamevāsya tadyajñopavītaṃ ya ātmā | prāśyācamyāyaṃ vidhiḥ || 4 ||
+atha vā parivrāḍvivarṇavāsā muṇḍo'parigrahaḥ śuciradrohī bhaikṣamāṇo brahma bhūyāya bhavati | eṣa panthāḥ parivrājakānāṃ vīrādhvāne vā'nāśake vāpāṃ praveśe vāgnipraveśe vā mahāprasthāne vā | eṣa panthā brahmaṇā hānuvittasteneti sa saṃnyāsī brahmaviditi | evamevaiṣa bhagavanniti vai yājñavalkya || 5 ||
+tatra paramahaṃsā nāma saṃvartakāruṇiśvetaketudūrvāsaṛbhunidāghadattātreyaśukavāmadevahārītakaprabhṛtayo'vyaktaliṅgā'vyaktācārā anunmattā unmattavadācarantaḥ || 6 ||
+parastrīpuraparāṅmukhāstridaṇḍaṃ kamaṇḍaluṃ bhuktapātraṃ jalapavitraṃ śikhāṃ yajñopavītaṃ bahirantaścetyetatsarvaṃ bhūḥ svāhetyapsu parityajyātmānamanvicchet || 7 ||
+yathā jātarūpadharā nirdvandvā niṣparigrahāstattvabrahmamārge samyaksaṃpannāḥ śuddhamānasāḥ prāṇasandhāraṇārthaṃ yathoktakāle vimukto bhaikṣamācarannudarapātreṇa lābhālābhau samau bhūtvā karapātreṇa vā kamaṇḍalūdakapo bhaikṣamācarannudaramātrasaṃgrahaḥ pātrāntaraśūnyo jalasthalakamaṇḍalurabādhakarahaḥ sthalaniketano lābhālābhau samau bhūtvā śūnyāgāradevagṛhatṛṇakūṭavalmīkavṛkṣamūlakulālaśālāgnihotraśālānadīpulinagirikuharakoṭarakandaranirjharasthaṇḍileṣvaniketanivāsyaprayatnaḥ śubhāśubhakarmanirmūlanaparaḥ saṃnyāsena dehatyāgaṃ karoti sa paramahaṃso nāmeti || 8 ||
+āśāmbaro na namaskāro na dāraputrābhilāṣī lakṣyālakṣyanirvartakaḥ parivrāṭ parameśvaro bhavati | atraite ślokā bhavanti || 9 ||
+yo bhavetpūrvasaṃnyāsī tulyo vai dharmato yadi |
+tasmai praṇāmaḥ kartavyo netarāya kadācana || 10 ||
+pramādino bahiścittāḥ piśunāḥ kalahotsukāḥ |
+saṃnyāsino'pi dṛśyante devasaṃdūṣitāśayāḥ || 11 ||
+nāmādibhyaḥ pare bhūmni svārājye cetsthito'dvathe |
+praṇametkaṃ tadātmajño na kāryaṃ karmaṇā tadā || 12 ||
+īśvaro jīvakalayā praviṣṭo bhagavāniti |
+praṇameddaṇḍavadbhūmāvāśvacaṇḍālagokharam || 13 ||
+māṃsapāñcālikāyāstu yantraloke'ṅgapañjare |
+snāyvasthigranthiśālinyaḥ striyaḥ kimiva śobhanam || 14 ||
+tvaṅmāṃsaraktabāṣpāmbu pṛthakkṛtvā vilocane |
+samālokaya ramyaṃ cetkiṃ mudhā parimuhyasi || 15 ||
+meruśṛṅgataṭollāsi gaṅgājalasyopamā |
+dṛṣṭā yasminmune muktāhārasyollasaśālitā || 16 ||
+śmanāneṣu diganteṣu sa eva lalanāstanaḥ |
+śvabhirāsvādyate kāle laghupiṇḍa ivāndhasaḥ || 17 ||
+keśakajjaladhāriṇyo duḥsparśā locanapriyāḥ |
+duṣkṛtāgniśikhā nāryo dahanti tṛṇavannaram || 18 ||
+jvalanā atidūre'pi sarasā api nīrasāḥ |
+striyo hi narakāgnīnāmindhanaṃ cāru dāruṇam || 19 ||
+kāmanāmnā kirātena vikīrṇā mugdhacetasaḥ |
+nāryo naravihaṅgānāmaṅgabandhanavāgurāḥ || 20 ||
+janmapalvalamatsyānāṃ cittakardamacāriṇām |
+puṃsāṃ durvāsanārajjurnārībaḍiśapiṇḍikā || 21 ||
+sarveṣāṃ doṣaratnānāṃ susamudgikayānayā |
+duḥkhaśṛṅkhalayā nityamalamastu mama striyā || 22 ||
+yasya strī tasya bhogecchā nistrīkasya kva bhogabhūḥ |
+striyaṃ tyaktvā jagattyaktaṃ jagattyaktvā sukhī bhavet || 23 ||
+alabhyamānastanayaḥ pitarau kleśayecciram |
+labdho hi garbhapātena prasavena ca bādhate || 24 ||
+jātasya graharogādi kumārasya ca dhūrtatā |
+upanīte'pyavidyatvamanudvāhaśca paṇḍite || 25 ||
+yūnaśca paradārādi dāridryaṃ ca kuṭumbinaḥ |
+putraduḥkhasya nāstyanto dhanī cenmriyate tadā || 26 ||
+na pāṇipādacapalo na netracapalo yatiḥ |
+na ca vākcapalaścaiva brahmabhūto jitendriyaḥ || 27 ||
+ripau baddhe svadehe ca samaikātmyaṃ prapaśyataḥ |
+vivekinaḥ kutaḥ kopaḥ svadehāvayaveṣviva || 28 ||
+apakāriṇi kopaścetkope kopaḥ kathaṃ na te |
+dharmārthakāmamokṣāṇāṃ prasahya paripanthini || 29 ||
+namo'stu mama kopāya svāśrayajvāline bhṛśam |
+kopasya mama vairāgyadāyine doṣabodhine || 30 ||
+yatra suptā janā nityaṃ prabuddhastatra saṃyamī |
+prabuddhā yatra te vidvānsuṣuptiṃ yāti yogirāṭ || 31 ||
+cidihāstīti cinmātramidaṃ cinmayameva ca |
+cittvaṃ cidahamete ca lokāściditi bhāvaya || 32 ||
+yatīnāṃ tadupādeyaṃ pārahaṃsyaṃ paraṃ padam |
+nātaḥ parataraṃ kiñcidvidyate munipuṅgavaḥ ityupaniṣat || 33 ||
+oṃ pūrṇamadaḥ pūrṇamidaṃ pūrṇātpūrṇamudacyate |
+pūrṇasya pūrṇamādāya pūrṇamevāvaśiṣyate ||
+oṃ śāntiḥ śāntiḥ śāntiḥ ||
+|| iti yājñavalkyopaniṣatsamāptā ||
+    </body>
+  </text>
+</TEI>

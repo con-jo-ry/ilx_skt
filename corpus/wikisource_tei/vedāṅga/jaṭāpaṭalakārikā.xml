@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Jaṭāpaṭalakārikā</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%9C%E0%A4%9F%E0%A4%BE%E0%A4%AA%E0%A4%9F%E0%A4%B2%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%BF%E0%A4%95%E0%A4%BE"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+jaṭāpaṭalakārikā
+śaiśirīye samāmnāye vyāḍinaiva maharṣiṇā
+jaṭādyā vikṛtīraṣṭau vakṣyante nātivistaram 1
+jaṭā mālā śikhā rekhā dhvajo daṇḍo ratho ghanaḥ
+aṣṭau vikṛtayaḥ proktāḥ kramapūrvā manīṣibhiḥ 2
+brūyātkramaviparyāsakramamīdṛgvidhāṃ diśet
+jaṭākhyāṃ vikṛtiṃ dhīmān vijñāya kramalakṣaṇam 3
+anulomavilomābhyāṃ trivāraṃ hi paṭhetkramam
+vilome padavatsaṃdhiranulome yathākramam 4
+ṣatvaṃ ṇatvaṃ ca dīrghatvaṃ kramasaṃdhau yaducyate
+vyutkrame tanna kartavyaṃ svarakṣaiprādikaṃ bhavet 5
+vilome padavatsaṃdhiranānupūrvyasaṃhite
+ānupūrvyaṃ krame tyājyaṃ vyutkramaṃ padavatpaṭhet 6
+catuḥkrame trikrame ca tathā pañcakrame'pi ca
+ādyantābhyāṃ trivṛnmadhyaṃ brūyātkramaviparyayaiḥ 7
+samayādau krame yadvatsamayātparatastathā
+jaṭāyāṃ samayādisthaṃ śuddhena parivartayet 8
+samayakramaṇaṃ nāsti samayādikramaṃ vinā
+trikramaṃ samayādisthamādinā saha taṃ paṭhet 9
+vyutkrame kramavatsaṃdhiḥ sa ca kṣaiprādiriṣyate
+ḍakārādividhānaṃ tatsvarāntaḥparivartanam 10
+tryakṣarāntapragṛhyāṇāmukārāmantritasya ca
+vilome padasaṃdhau tu pragṛhyatvaṃ na vidyate 11
+ekāraukāraparastvakāro'bhinihanyate
+vyutkrame kramavaccaiva navadhā kampalopanam 12
+vilomasaṃdhau praśliṣṭe kṣaiprābhinihiteṣu ca
+varjayitvā svaraṃ jātyaṃ triṣu kampaniṣedhanam 13
+parigrahāvagraheṣu dvyudāttādipadeṣu ca
+udāttādividhānaṃ tacchaunakoktaṃ bhavediha 14
+ādityairyātamityasminpāde cāṣṭākṣare bhavet
+padādhyāye'nudāttaḥ syātsaṃhitāyāmudāttavat 15
+padadvayamanukramya vyutkramyotmyakra saṃdhivat
+svaralakṣaṇasaṃyuktā sā jaṭetyabhidhīyate te 16
+iti jaṭāpaṭalakārikā
+    </body>
+  </text>
+</TEI>

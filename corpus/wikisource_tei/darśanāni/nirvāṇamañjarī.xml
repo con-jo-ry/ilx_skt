@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Nirvāṇamañjarī</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A4%9E%E0%A5%8D%E0%A4%9C%E0%A4%B0%E0%A5%80"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+ahaṃ nāmaro naiva martyo na daityo na gandharvayakṣaḥ piśācaprabhedaḥ |
+pumānnaiva na strī tathā naiva ṣaṇḍaḥ prakṛṣṭaprakāśasvarūpaḥ śivo'ham || 1 ||
+ahaṃ naiva bālo yuvā naiva vṛddho na varṇī na ca brahmacārī gṛhasthaḥ |
+vanastho'pi nāhaṃ na saṃnyastadharmā jagajjanmanāśaikahetuḥ śivo'ham || 2 ||
+ahaṃ naiva meyastirobhūtamāyā tathaivekṣituṃ māṃ pṛthaṅnāstyupāyaḥ |
+samāśliṣṭakāyatrayo apyadvitīyaḥ sadātīndriyaḥ sarvarūpaḥ śivo'ham || 3 ||
+ahaṃ naiva mantā na gantā na vaktā na kartā na bhoktā na muktāśramasthaḥ |
+yathāhaṃ manovṛttibhedasvarūpastathā sarvavṛttipradīpaḥ śivo'ham || 4 ||
+na me lokayātrāpravāhapravṛttirna me bandhabuddhyā durīhānivṛttiḥ |
+pravṛttirnivṛttyāsya cittasya vṛttiryatastanvahaṃ tatsvarūpaḥ śivo'ham || 5 ||
+nidānaṃ yadajñānakāryasya kāryaṃ vinā yasya sattvaṃ svato naiva bhāti |
+yadādyantamadhyāntarālāntarālaprakāśātmakaṃ syāttadevāhamasmi || 6 ||
+yato'haṃ na buddhirna me kāryasiddhiryato nāhamaṅgaṃ na me liṅgabhaṅgam |
+hṛdākāśavartī gatāṅgatrayārtiḥ sadā saccidānandamūrtiḥ śivo'ham || 7 ||
+yadāsīdvilāsādvikāraṃ jagadyadvikārāśrayaṃ nādvitīyatvataḥ syāt |
+manobuddhicittāhamākāravṛttipravṛttiryataḥ syāttadevāhamasmi || 8 ||
+yadantarbahirvyāpakaṃ nityaśuddhaṃ yadekaṃ sadā saccidānandakandam |
+yataḥ sthūlasūkṣmaprapañcasya bhānaṃ yatastatprasūtistadevāhamasmi || 9 ||
+yadarkenduvidyutprabhājālamālāvilāsāspadaṃ yatsvabhedādiśūnyam |
+samastaṃ jagadyasya pādātmakaṃ syādyataḥ śaktibhānaṃ tadevāhamasmi || 10 ||
+yataḥ kālamṛtyurbibheti prakāmaṃ yataścittabuddhīndriyāṇāṃ vilāsaḥ |
+haribrahmarudrendracandrādināmaprakāśo yataḥ syāttadevāhamasmi || 11 ||
+yadākāśavatsarvagaṃ śāntarūpaṃ paraṃ jyotirākāraśūnyaṃ vareṇyam |
+yadādyantaśūnyaṃ paraṃ śaṅkarākhyaṃ yadantarvibhāvyaṃ tadevāhamasmi || 12 ||
+iti śrīmatparamahaṃsaparivrājakācāryasya
+śrīgovindabhagavatpūjyapādaśiṣyasya
+śrīmacchṅkarabhagavatpāda kṛtau
+nirvāṇamañjarī saṃpūrṇā
+    </body>
+  </text>
+</TEI>

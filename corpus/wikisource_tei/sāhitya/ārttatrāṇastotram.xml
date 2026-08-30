@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Ārttatrāṇastotra</title>
+        <author>Pppayyadīkṣita</author>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%86%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8B%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+|| ārttatrāṇastotram ||
+kṣīrāmbhonidhimanthanodbhavaviṣāt sandahyamānān surān
+brahmādīnavalokya yaḥ karuṇayā hālāhalākhyaṃ viṣam |
+niḥśaṅkaṃ nijalīlayā kavalayan lokān rarakṣādarāt
+ārttatrāṇaparāyaṇaḥ sa bhagavān gaṅgādharo me gatiḥ || 1||
+kṣīraṃ svādu nipīya mātulagṛhe gatvā svakīyaṃ gṛhaṃ
+kṣīrālābhavaśena khinnamanase ghoraṃ tapaḥ kurvate |
+kāruṇyādupamanyave niravadhiṃ kṣīrāmbudhiṃ dattavān
+ārttatrāṇaparāyaṇaḥ sa bhagavān gaṅgādharo me gatiḥ || 2||
+mṛtyuṃ vakṣasi tāḍayan nijapadadhyānaikabhaktaṃ muniṃ
+mārkaṇḍeyamapālayat karuṇayā liṅgādvinirgatya yaḥ |
+netrāmbhojasamarpaṇena haraye'bhīṣṭaṃ rathāṅgaṃ dadau
+ārttatrāṇaparāyaṇaḥ sa bhagavān gaṅgādharo me gatiḥ || 3||
+ūḍhaṃ droṇajayadrathādirathikaiḥ sainyaṃ mahat kauravaṃ
+dṛṣṭvā kṛṣṇasahāyavantamapi taṃ bhītaṃ prapannārttihā |
+pārthaṃ rakṣitavān amoghaviṣayaṃ divyāstramudghoṣayan
+ārttatrāṇaparāyaṇaḥ sa bhagavān gaṅgādharo me gatiḥ || 4||
+bālaṃ śaivakulodbhavaṃ parihasatsvajñātipakṣākulaṃ
+khidyantaṃ tava mūrdhni puṣpanicayaṃ dātuṃ samudyatkaram |
+dṛṣṭvā''namya viriñciramyanagare pūjāṃ tvadīyāṃ bhajan
+ārttatrāṇaparāyaṇaḥ sa bhagavān gaṅgādharo me gatiḥ || 5||
+santrasteṣu purā surāsurabhayādindrādivṛndārake'vṛndārake aśvārūḍho
+śvārūḍho dharaṇīrathaṃ śrutihayaṃ kṛtvā murāriṃ śaram |
+rakṣan yaḥ kṛpayā samastavibudhān jitvā purārīn kṣaṇāt
+ārttatrāṇaparāyaṇaḥ sa bhagavān gaṅgādharo me gatiḥ || 6||
+śrautasmārttapathe parāṅmukhamapi prodyanmahāpātakaṃ
+viśvātītamapatyameva gatirityālāpayantaṃ sakṛt |
+rakṣan yaḥ karuṇāpayonidhiriti prāptaprasiddhiḥ purā
+hyārttatrāṇaparāyaṇaḥ sa bhagavān gaṅgādharo me gatiḥ || 7||
+gāṅgaṃ vegamavāpya mānyavibudhaiḥ soḍhuṃ purā yācito
+dṛṣṭvā bhaktabhagīrathena vinato rudro jaṭāmaṇḍale |
+kāruṇyādavanītale suranadīmāpūrayat pāvanīm
+ārttatrāṇaparāyaṇaḥ sa bhagavān gaṅgādharo me gatiḥ || 8||
+|| iti śrīmadappayadīkṣitaviracitaṃ gaṅgādharastotram athavā ārttatrāṇastotram sampūrṇam ||
+    </body>
+  </text>
+</TEI>

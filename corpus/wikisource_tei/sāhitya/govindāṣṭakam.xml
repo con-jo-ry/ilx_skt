@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Govindāṣṭaka</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%97%E0%A5%8B%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%95%E0%A4%AE%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+|| govindāṣṭakaṃ ||
+
+satyaṃ jñānamanaṃtaṃ nityamanākāśaṃ paramākāśam |
+goṣṭhaprāṅgaṇariṅkhaṇalolamanāyāsaṃ paramāyāsam |
+māyākalpitanānākāramanākāraṃ bhuvanākāram |
+kṣmāyā nāthamanāthaṃ praṇamata goviṃdaṃ paramānaṃdam || 1 ||
+
+mṛtsnāmatsīheti yaśodātāḍanaśaiśava saṃtrāsam |
+vyaditavaktrālokitalokālokacaturdaśalokālim |
+lokatrayapuramūlastaṃbhaṃ lokālokamanālokam |
+lokeśaṃ parameśaṃ praṇamata goviṃdaṃ paramānaṃdam || 2 ||
+
+traiviṣṭaparipuvīraghnaṃ kṣitibhāraghnaṃ bhavarogaghnam |
+kaivalyaṃ navanītāhāramanāhāraṃ bhuvanāhāram |
+vaimalyasphuṭacetovṛttiviśeṣābhāsamanābhāsam |
+śaivaṃ kevalaśāṃtaṃ praṇamata goviṃdaṃ paramānaṃdam || 3 ||
+
+gopālaṃ prabhulīlāvigrahagopālaṃ kulagopālam |
+gopīkhelanagovardhanadhṛtilīlālālitagopālam |
+gobhirnigadita goviṃdasphutanāmānaṃ bahunāmānam |
+gopīgocarapathikaṃ praṇamata goviṃdaṃ paramānaṃdam || 4 ||
+
+gopīmaṃḍalagoṣṭhibhedaṃ bhedāvasthamabhedābham |
+śaśvadgokhuranirghūtoddhatadhūlīdhūsarasaubhāgyam |
+śraddhābhaktigṛhītānaṃdamacintyaṃ ciṃtitasadbhāvam |
+ciṃtāmaṇimahimānaṃ praṇamata goviṃdaṃ paramānaṃdam || 5 ||
+
+snānavyākulayośidvastramupādāyāgamupārūḍham |
+vyaditsaṃtiratha digvastrā hyupudātumupākarṣaṃtam |
+nirdhūtadvayaśokavimohaṃ buddhaṃ buddheraṃtastham |
+sattāmātraśarīraṃ praṇamata goviṃdaṃ paramānaṃdam || 6 ||
+
+kāṃtaṃ kāraṇakāraṇamādimanādiṃ kālamanābhāsam |
+kāliṃdīgatakāliyaśirasi muhurnṛtyaṃtaṃ nṛtyaṃtam |
+kālaṃ kālakalātītaṃ kalitāśeṣaṃ kalidoṣaghnam |
+kālatrayagatihetuṃ praṇamata goviṃdaṃ paramānaṃdam || 7 ||
+
+vṛṃdāvanabhuvi vṛṃdārakagaṇavṛndārādhyaṃ vaṃde'ham |
+kuṃdābhāmalamaṃdasmerasudhānaṃdaṃ suhṛdānaṃdam |
+vaṃdyāśeṣamahāmunimānasavaṃdyānaṃdapadadvaṃdvam |
+vaṃdyāśeṣaguṇābdhiṃ praṇamata goviṃdaṃ paramānaṃdam || 8 ||
+
+goviṃdāṣṭakametadadhīte goviṃdārpitacetā yo |
+goviṃdācyuta mādhava viṣṇo gokulanāyaka kṛṣṇeti |
+goviṃdāṅghrisarojadhyānasudhājaladhautasamastāgho |
+goviṃdaṃ paramānaṃdāmṛtamaṃtaḥsthaṃ sa tamabhyeti ||
+
+|| iti śrīmacchaṅkarācāryaviracitaṃ śrīgoviṃdāṣṭakaṃ saṃpūrṇam ||
+    </body>
+  </text>
+</TEI>

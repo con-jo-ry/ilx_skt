@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Pañcīkaraṇa</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%AA%E0%A4%9E%E0%A5%8D%E0%A4%9A%E0%A5%80%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+||pañcīkaraṇam||
+athātaḥ paramahaṃsānāṃ samādhividhiṃ vyākhyāsyāmaḥ||
+sacchabdavācyamavidyāśabalaṃ brāhṛ| brāhṛṇo'vyaktam| avyaktānmahat| mahato'haṃkāraḥ| ahaṃkārātpañcatanmātrāṇi| pañcatanmātrebhyaḥ pañcamahābhūtāni| pañcamahābhūtebhyo'khilaṃ jagat||
+pañcānāṃ bhūtānāmekaikaṃ dvidhā vibhajya svārdhabhāgaṃ vihāyārdhabhāgaṃ caturdhā vibhajyetareṣu yojite pañcīkaraṇaṃ māyārūpadarśanamadhyāropāpavādābhyāṃ niṣprapañcaṃ prapañcyate||
+oṃ pañcīkṛtapañcamahābhūtāni tatkāryaṃ sarvaṃ virāḍityucyate| etatsthūlaśarīramātmanaḥ| indriyairarthopalabdhirjāgaritam| etadubhayābhimānyātmā viśvaḥ| etattrayamakāraḥ||
+apañcīkṛtapañcamahābhūtāni pañcatanmātrāṇi, tatkāryaṃ ca pañcaprāṇāḥ daśendriyāṇi mano buddhiśceti saptadaśakaṃ liṅgaṃ bhautikaṃ hiraṇyagarbha ityucyate| etatsūkṣmaśarīramātmanaḥ| karaṇeṣūpasaṃhmateṣu jāgaritasaṃskārajaḥ pratyayaḥ saviṣayaḥ svapna ityucyate| tadubhayābhimānyātmā taijasaḥ| etattrayamukāraḥ||
+śarīradvayakāraṇamātmājñānaṃ sābhāsamavyākṛtamityucyate| etatkāraṇaśarīramātmanaḥ| tacca na sat, nāsat| nāpi sadasat| na bhinnam, nābhinnam, nāpi bhinnābhinnaṃ kutaścit| na niravayavam, na sāvayavam, nobhayam| kiṃ tu kevalabrāhmaikatvajñānāpanodyam| sarvaprakārajñānopasaṃhāre buddheḥ kāraṇātmanāvasthānaṃ suṣuptiḥ| tadubhayābhimānyātmā prājñaḥ| etattrayaṃ makāraḥ||
+akāra ukāre, ukāro makāre, makāra oṃkāre'hamyeva||
+ahamātmā sākṣī kevalaścinmātrasvarūpaḥ, nājñānam, nāpi tatkāryam| kiṃ tu nityaśuddhabuddhamuktasatyasvabhāvaṃ paramānandādvayaṃ pratyagbhūtacaitanyaṃ brāhmaivāhamasmītyabhedenāvasthānaṃ samādhiḥ| 'tattvamasi brāhṛāhamasmi prajñānamānandaṃ brāhṛ ayamātmā brāhṛ ' ityādiśrutibhyaḥ||iti pañcīkaraṇaṃ bhavati||
+iti śrīmatparamahaṃsaparivrājakācāryasya
+śrīgovindabhagavatpūjyapādaśiṣyasya
+śrīmacchaṃkarabhagavataḥ kṛtau
+pañcīkaraṇaṃ saṃpūrṇam||
+    </body>
+  </text>
+</TEI>

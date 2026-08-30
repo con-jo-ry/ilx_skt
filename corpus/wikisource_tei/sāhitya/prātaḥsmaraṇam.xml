@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Prātaḥsmaraṇa</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%A4:%E0%A4%B8%E0%A5%8D%E0%A4%AE%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+vakratuṇḍa mahākāya sūryakoṭisamaprabha |
+nirvighnaṃ kurū me deva sarvakāryeṣu sarvadā || 1 ||
+śāṃtākāraṃ bhujagaśayanaṃ padmanābhaṃ sureśaṃ |
+viśvādhāraṃ gaganasadṛśaṃ meghavarṇaṃ śubhāṅgam |
+lakṣmīkāntaṃ kamalanayanaṃ yogibhirdhyānagamyam |
+vande viṣṇuṃ bhavabhayaharaṃ sarvalokaikanātham || 2 ||
+kṛṣṇāya vāsudevāya haraye paramātmane |
+praṇatkleśanāśāya goviṃdāya namo namaḥ || 3 ||
+yā kundeṃdutuṣārahāradhavalā yā śubhravastrāvṛtā |
+yā vīṇāvaradaṃḍamaṃḍitakarā yā śvetapadmāsanā |
+yā brahmācyutśaṃkaraprabhṛtibhiḥ devai sadā vanditā |
+sā māṃ pātu sarasvatī bhagavatī niḥśeṣajāḍayāpahā || 4 ||
+brahmānaṃdaṃ paramasukhadaṃ kevalaṃ jñānamūrtim |
+dvaṃdvātītaṃ gaganasadṛśaṃ, tattvamasyādilakṣam |
+ekaṃ nityaṃ vimalamacalaṃ sarvadhīḥ sākṣībhūtam |
+bhāvātītaṃ triguṇarahitaṃ sadgurūṃ taṃ namāmi || 5 ||
+gururbrahmā gururviṣṇuḥ gururdevo maheśvaraḥ |
+guruḥ sākṣāt parabrahma tasmai śrīguravai namaḥ || 6 ||
+puṇyaśloko nalo rājā puṇyaśloko yudhiṣṭhiraḥ |
+puṇyaśloko videhaśca puṇyaśoko janārdanaḥ || 7 ||
+ahilyā draupadī sītā tārā maṃdodarī tathā |
+paṃcakanyā nā smarennityaṃ mahāpātakanāśanam || 8 ||
+aśvatthāmā balirvyāso hanumānaśca vibhīṣaṇaḥ |
+kṛpaḥ paraśurāmaśca saptaite cirajīvinaḥ || 9 ||
+ayodhyā mathurā māyā kāśī kāṃcī avaṃtikā |
+purī dvārāvatī caiva saptaitā mokṣadāyikāḥ || 10 ||
+sarvamaṃgalamāṃgalye śive sarvārthasādhike
+śaraṇye tryaṃbake gauri nārāyaṇi namosstute || 11 ||
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Keśavīpadyātmikāśikṣā</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%95%E0%A5%87%E0%A4%B6%E0%A4%B5%E0%A5%80%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A4%E0%A5%8D%E0%A4%AE%E0%A4%BF%E0%A4%95%E0%A4%BE%E0%A4%B6%E0%A4%BF%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BE"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+keśavīpadyātmikā śikṣā
+anudāttādudāttaścetsvaritottara eva ca
+hṛcchiraḥ karṇamūleṣu nyaseddhastamasaṃśayam 1
+anudāttādudāttaścedanudāttaparastathā
+anudāttaṃ hṛdi nyasyodāttaṃ vāmabhruvi nyaset 2
+punarhṛdi nyasennocamiti śāstravyavasthitiḥ
+pracitoccāraṇe nyāso hastasya nāsikāgrataḥ 3
+jātyo'bhinihitaḥ kṣaipraḥ praśliṣṭo vyañjanastiraḥ
+tairovirāmaḥ pādavṛttastāthābhābyastathāṣṭamaḥ 4
+eteṣāṃ lakṣaṇānyāhuḥ kātyāyanamunīśvarāḥ
+tatra jātyādisañjñānāṃ caturṇāṃ darśane karam 5
+tiryyañcaṅgamayeddhīmānpitṛdāna vadeva hi
+manuṣyadāna miva cedudāttaḥ pratyayaḥ svaraḥ 6
+ādyāntasthasya joccāraḥ padādau paṭhitasya ca
+upasargaparo yastu yasya chandasi neṣyate 7
+padasyādyantamadhye syādṛrahaiḥ sam̐yyutasya ca
+dvirbhāve'pyevameva syāditi kātyāyanaśrutiḥ 8
+antasthānāṃ dvitīyasya saikāroccāraṇaṃ bhavet
+atyuktahalbhiḥ śaṣasaiṛrkāreṇa yutasya ca 9
+evameva tṛtīyasya śaṣasaiḥ sam̐yyutasya ca
+saikāroccāraṇaṃ kuryāditi śāstravyavasthitiḥ 10
+ṛkārasya ca sam̐yyuktāsam̐yuktasyāpi sarvataḥ
+saikāroccāraṇaṃ kuryāllakārasya tathā bhavet 11
+atha cāntasyāntastrividhaṃ gurumadhyamalaghuvṛttyoccāraḥ
+vākyasyādimamadhyāntyasya prādikaparasya laghveva syāt 12
+vo vāṃ vā vai mantre laghavo guravaḥ pade ca vijñeyāḥ
+devo vaḥ savitādau mṛgyamudāharaṇamanyeṣām 13
+asaṃyyuktasya mūrddhanyoṣmaṇaḥ khoccāraṇaṃ matam
+dumṛte saṃyyuktasyāpi sasya yoga ṣa eva hi 14
+chandasītyeva khoccāro loka prakṛtiriṣyate
+anusvārasya aṃkāra ādeśaśchandasi smṛtaḥ 15
+ūṣmarepheṣu paratastasya traivadhyamucyate
+hasvāddīrghāddīrghaṃhrasvo gurau ca parato guruḥ 16
+ṛkārapara ūṣmāntye dīrghāddīrgho'pi jāyate
+parasavarṇe hyanusvārasyeṣatprakṛtirucyate 17
+aṇumātramanusvāro hyuttamaṃ cāṇumātrakam
+śaṣase ca kakhapaphe visargāḥ santi yatra ca 18
+vāco virāmaḥ karttavyastatreṣacchruticodanāt
+sam̐yyuktasya padādyasya cākārasya pratīyate 19
+īṣaddīrghatayoccāraḥ kātyāyanamunergirā
+āstikasya munervaṃśe jāto daivajñagokulaḥ 20
+tatsutena keśaven kṛtā samyak śubhāptinām
+prītyarthaṃ sudhiyāṃ kārikāvalī nirmmalā śubhā 21
+    </body>
+  </text>
+</TEI>

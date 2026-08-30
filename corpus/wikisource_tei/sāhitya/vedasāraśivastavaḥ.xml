@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Vedasāraśivastava</title>
+        <author>Śaṅkarācārya</author>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%B8%E0%A4%BE%E0%A4%B0%E0%A4%B6%E0%A4%BF%E0%A4%B5%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A4%B5%E0%A4%83"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+॥ vedasāraśivastavaḥ ॥
+paśūnāṃ patiṃ pāpanāśaṃ pareśaṃ gajeṃdrasya kṛttiṃ vasānaṃ vareṇyam ।
+jaṭājūṭamadhye sphuradgāṅgavāriṃ mahādevamekaṃ smarāmi smarārim ।। 1
+maheśaṃ sureśaṃ surārātināśaṃ vibhuṃ viśvanāthaṃ vibhūtyaṅgabhūṣam ।
+virūpākṣamindvarkavahnitrinetraṃ sadānandamīḍe prabhuṃ pañcavakram ।। 2
+girīśaṃ gaṇeśaṃ gale nīlavarṇaṃ gavendrādirūḍhaṃ gaṇātītarūpam ।
+bhavaṃ bhāsvaraṃ bhasmanā bhūṣitāṅgaṃ bhavānīkalatraṃ bhaje pañcavakram ॥3
+śivākānta śambho śaśāṅkārdhamaule maheśāna śūlin jaṭājūṭadhārin ।
+tvameko jagadvyāpako viśvarūpa prasīda prasīda prabho pūrṇarūpa ॥ 4
+parātmānamekaṃ jagadbījamādyaṃ nirīhaṃ nirākāramoṅkāravedyam ।
+yato jāyate pālyate yena viśvaṃ tamīśaṃ bhaje līyate yatra viśvam ॥ 5
+na bhūmirna cāpo na vahnirna vāyurna cākāśamāste na tandrā na nidrā।
+na prīṣmo na śītaṃ na deśo na veṣo na yasyāsti mūrtistrimūrtiṃ tamīḍe ॥ 6
+ajaṃ śāśvataṃ kāraṇaṃ kāraṇānāṃ śivaṃ kevalaṃ bhāsakaṃ bhāsakānām ।
+turīyaṃ tamaḥpāramādyantahīnaṃ prapadye paraṃ pāvanaṃ dvaitahīnam ॥ 7
+namaste namaste vibho viśvamūrte namaste namaste cidānandamūrte।
+namaste namaste tapoyogagamya namaste namaste śruvijñānagamya ॥ 8
+prabho śūlapāṇe vibho viśvanātha mahādeva śaṃbho maheśa trinetra ।
+śivākānta śānta smarāre purāre tvadanyo vareṇyo na mānyo na gaṇyaḥ ॥ 9
+śambho maheśa karuṇāmaya śūlapāṇe gaurīpate paśupate paśupāśanāśin ।
+kāśīpate karuṇayā jagadetadekastvaṃ haṃsi pāsi vidadhāsi maheśvaro'si ॥10
+tvatto jagadbhavati deva bhava smarāre tvayyeva tiṣṭhati jaganmṛḍa viśvanātha ।
+tvayyeva gacchati layaṃ jagadetadīśa liṅgātmakaṃ hara carācaraviśvarūpin ॥11
+॥ iti śrīmacchaṅkarācāryaviracitaṃ vedasāraśivastotraṃ sampūrṇam ॥
+    </body>
+  </text>
+</TEI>

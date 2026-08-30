@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Śrīsūkta</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%AE%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+|| atha śrī sūktam ||
+śrīgaṇeśāya namaḥ || atha śrīmahālakṣmyai namaḥ ||
+hiraṇyavarṇāmiti paṃcadaśarcasya sūktasya ānaṃdakardamacilkī teṃdirāsutā ṛṣayaḥ ||
+śrīragniśvetyubhe devate || ādyāstisro'nuṣṭubhaḥ || caturthī bṛhatī || paṃcamīṣaṣṭhyau triṣṭubhau || tato'ṣṭāvanuṣṭubhaḥ || aṃtyā prastārapaṃktiḥ || jape vinoyogaḥ ||
+|| śrīsūktaprāraṃbhaḥ ||
+hariḥ oṃ || hiraṇyavarṇāṃ hariṇīṃ suvarṇarajatasrajām ||
+caṃdrāṃ hiraṇmayīṃ lakṣmīṃ jātavedo ma āvaha ||
+tāṃ ma āvaha jātavedo lakṣmīṃ anapagāminīm ||
+yasyāṃ hiraṇyaṃ viṃdeyaṃ gāṃ aśvaṃ puruṣān aham ||
+aśvapūrvāṃ rathamadhyāṃ hastinādaprabodhinīm ||
+śriyaṃ devīṃ upavhaye śrīḥ mā devī juṣatām ||
+kāṃ sosmitāṃ hiraṇyaprākārāṃ ārdrā jvalaṃtīṃ tṛptāṃ tarpayaṃtīm ||
+padme sthitāṃ padmavarṇāṃ tāṃ ihopahvaye śriyam ||
+caṃdrāṃ prabhāsāṃ yaśasā jvalaṃtīṃ śriyaṃ loke devajuṣṭāṃ udārām ||
+tāṃ padminīmīṃ śaraṇamahaṃ prapadye' lakṣmīḥ me naśyatāṃ tvāṃ vṛṇe ||1||
+ādityavarṇe tapaso'dhijāto vanaspatiḥ tavavṛkṣotha bilvaḥ ||
+tasya phalāni tapasā nudaṃtu māyāṃtarāyāśca bāhyā alakṣmīḥ ||
+upaitu māṃ devasakhaḥ kīrtiśca maṇinā saha ||
+prādurbhūtaḥ surāṣṭre'smin kīrtimṛddhiṃ dadātu me ||
+kṣutpipāsāmalāṃ jyeṣṭhāṃ alakṣmīṃ nāśayāmyaham ||
+abhūtiṃ asamṛddhiṃ ca sarvāṃ nirṇuda me gṛhāt ||
+gaṃdhadvārāṃ durādharṣāṃ nityapuṣṭāṃ karīṣiṇīm ||
+īśvarīṃ sarvabhūtānāṃ tāṃ ihopahvaye śriyam ||
+manasaḥ kāmamākūtiṃ vācaḥ satyamaśīmahi ||
+paśūnāṃ rupamannasya mayi śrīḥ śrayatāṃ yaśaḥ ||2||
+kardamena prajā bhūtā mayi saṃbhava kardama ||
+śriyaṃ vāsaya me kule mātaraṃ padmamālinīm ||
+āpaḥ sṛjantu snigdhāni cilkīta vasa me gṛhe ||
+nica devīṃ mātaraṃ śriyaṃ vāsaya me kule ||
+ārdrāṃ yaḥ kariṇīṃ yaṣṭiṃ suvarṇāṃ hemamālinim ||
+sūryāṃ hiraṇmayīṃ lakṣmīṃ jātavedo ma āvaha ||
+ārdrāṃ puṣkariṇīṃ puṣṭiṃ piṃgalāṃ padmamālinīm ||
+caṃdrāṃ hiraṇyamayīṃ lakṣmīṃ jātavedo ma āvaha ||
+tāṃ ma āvaha jātavedo lakṣmīṃ anapagāminīṃ ||
+yasyāṃ hiraṇyaṃ prabhūtaṃ gāvodāsyo'śvān viṃdeyaṃ puruṣān aham ||3||
+yaḥ śuciḥ prayato bhūtvā juhuyād ājyaṃ anvaham ||
+sūktaṃ paṃcadaśarcaṃ ca śrīkāmaḥ satataṃ japet ||
+padmānane padma‌urū padmākṣī padmasaṃbhave ||
+tanme bhajasi padmākṣi yena saukhyaṃ labhāmyaham ||
+aśvadāyai godāyai dhanadāyai mahādhane ||
+dhanaṃ me labhatāṃ devi sarvakāmāṃścadehi me ||
+padmānane padmavipadmapatre padmapriye padmadalāyatākṣi ||
+viśvapriye viśvamanonukūle tvatpādapadmaṃ mayi saṃnidhatsva ||
+putrapautra dhanaṃ dhānyaṃ hastyaśvādigave ratham ||
+prajānāṃ bhavasi mātā āyuṣmaṃtaṃ karotu me ||
+dhanaṃ agniḥ dhanaṃ vāyuḥ dhanaṃ sūryo dhanaṃ vasuḥ ||
+dhanaṃ indro bṛhaspatirvaruṇo dhanamaśvinā ||
+vainateya somaṃ piba somaṃ pibatu vṛtrahā ||
+somaṃ dhanasya somino mahyaṃ dadātu sominaḥ ||
+na krodho na ca mātsaryaṃ na lobho nāśubhā matiḥ ||
+bhavaṃti kṛtapuṇyānāṃ bhaktānāṃ śrīsūktaṃ japet ||
+sarasijanilaye sarojahaste dhavalatarāṃśukagaṃdhamālyaśobhe ||
+bhagavati harivallabhe manojñe tribhuvanabhūtikari prasīda mahyam ||
+viṣṇupatnīṃ kṣamāṃ devīṃ mādhavīṃ mādhavapriyām ||
+lakṣmīṃ priyasakhīdevīṃ namyacyutavallabhām ||
+mahālakṣmī ca vidmahe viṣṇupatnī ca dhīmahi || tanno lakṣmīḥ pracodayāt ||
+śrīvarcasvamāyuṣyamārogyamāvidhāt śobhamānaṃ mahīyate ||
+dhānyaṃ dhanaṃ paśuṃ bahuputralābhaṃ śatasaṃvatsaraṃ dīrghaṃ āyuḥ ||
+|| iti śrīsūktam ||
+    </body>
+  </text>
+</TEI>

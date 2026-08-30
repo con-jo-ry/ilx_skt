@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sādhanapañcaka</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%BE%E0%A4%A7%E0%A4%A8%E0%A4%AA%E0%A4%9E%E0%A5%8D%E0%A4%9A%E0%A4%95%E0%A4%AE%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+vedo nityamadhīyatāṃ taduditaṃ karma svanuṣṭhīyatāṃ
+
+teneśasya vidhīyatāmapacitiḥ kāmye matistyajyatām |
+
+pāpaughaḥ paridhūyatāṃ bhavasukhe doṣo'nusandhīyatām
+
+ātmecchā vyavasīyatāṃ nijagṛhāttūrṇaṃ vinirgamyatām || 1||
+
+saṅgaḥ satsu vidhīyatāṃ bhagavato bhaktirdṛḍhā''dhīyatāṃ
+
+śāntyādiḥ paricīyatāṃ dṛḍhataraṃ karmāśu santyajyatām |
+
+sadvidvānupasṛpyatāṃ pratidinaṃ tatpādukā sevyatāṃ
+
+brahmaikākṣaramarthyatāṃ śrutiśirovākyaṃ samākarṇyatām || 2||
+
+vākyārthaśca vicāryatāṃ śrutiśiraḥpakṣaḥ samāśrīyatāṃ
+
+dustarkātsuviramyatāṃ śrutimatastarko'nusandhīyatām |
+
+brahmāsmīti vibhāvyatāmaharahargarvaḥ parityajyatāṃ
+
+dehe'hammatirujjhyatāṃ budhajanairvādaḥ parityajyatām || 3||
+
+kṣudvyādhiśca cikitsyatāṃ pratidinaṃ bhikṣauṣadhaṃ bhujyatāṃ
+
+svādvannaṃ na tu yācyatāṃ vidhivaśāt prāptena santuṣyatām |
+
+śītoṣṇādi viṣahyatāṃ na tu vṛthā vākyaṃ samuccāryatām
+
+audāsīnyamabhīpsyatāṃ janakṛpānaiṣṭhuryamutsṛjyatām || 4 ||
+
+ekānte sukhamāsyatāṃ paratare cetaḥ samādhīyatāṃ
+
+pūrṇātmā susamīkṣyatāṃ jagadidaṃ tadbādhitaṃ dṛśyatām |
+
+prākkarma pravilāpyatāṃ citibalānnāpyuttaraiḥ śliṣyatāṃ
+
+prārabdhaṃ tviha bhujyatāmatha parabrahmātmanā sthīyatām || 5||
+
+|| iti paramahaṃsaparivrājakācāryaśrīmacchaṅkarācāryaviracitasādhanapañcakaṃ saṃpūrṇam ||
+    </body>
+  </text>
+</TEI>

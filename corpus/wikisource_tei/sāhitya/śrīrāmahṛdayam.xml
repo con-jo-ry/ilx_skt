@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Śrīrāmahṛdaya</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%B9%E0%A5%83%E0%A4%A6%E0%A4%AF%E0%A4%AE%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+|| śrīrāmahṛdayam ||
+|| śrī gaṇeśāya namaḥ ||
+śrī mahādeva uvācaḥ
+tato rāmaḥ svayaṃ prāha hanumantamupasthitam|
+śrṛṇu yatvaṃ pravakṣyāmi hyātmānātmaparātmanām || 1 ||
+ākāśasya yathā bhedastrividho dṛśyate mahān|
+jalāśaye mahākāśastadavacchinna eva hi|
+pratibimbākhyamaparaṃ dṛśyate trividhaṃ nabhaḥ || 2 ||
+buddhyavacchinnacaitanyamekaṃ pūrṇamathāparam|
+ābhāsastvaparaṃ bimbabhūtamevaṃ tridhā citiḥ || 3 ||
+sābhāsabuddheḥ kartṛtvamavicchinne'vikāriṇi|
+sākṣiṇyāropyate bhrāntyā jīvatvaṃ ca tathā'budhaiḥ || 4 ||
+ābhāsastu mṛṣābuddhiravidyākāryamucyate|
+avicchinnaṃ tu tadbrahma vicchedastu vikalpitaḥ || 5 ||
+avicchinnasya pūrṇena ekatvaṃ pratipadyate|
+tatvamasyādivākyaiśca sābhāsasyāhamastathā || 6 ||
+aikyajñānaṃ yadotpannaṃ mahāvākyena cātmanoḥ|
+tadā'vidyā svakāryaiśca naśyatyeva na saṃśayaḥ || 7 ||
+etadvijñāya madbhakto madbhāvāyopapadyate madbhaktivimukhānāṃ hi śāstragarteṣu muhyatām|
+na jñānaṃ na ca mokṣaḥ syātteṣāṃ janmaśatairapi || 8 ||
+idaṃ rahasyaṃ hṛdayaṃ mamātmano mayaiva sākṣātkathitaṃ tavānagha|
+madbhaktihīnāya śaṭhāya na tvayā dātavyamaindrādapi rājyato'dhikam || 9 ||
+|| śrīmadadhyātmarāmāyaṇe bālakāṇḍe śrīrāmahṛdayaṃ sampūrṇam ||
+śrī gaṇeśāya namaḥ |
+śrī mahādeva uvāca |
+tato rāmaḥ svayaṃ prāha hanumantamupasthitam |
+śrṛṇu yatvaṃ pravakṣyāmi hyātmānātmaparātmanām || 1||
+ākāśasya yathā bhedastrividho dṛśyate mahān |
+jalāśaye mahākāśastadavacchinna eva hi |
+pratibimbākhyamaparaṃ dṛśyate trividhaṃ nabhaḥ || 2||
+buddhyavacchinnacaitanyamekaṃ pūrṇamathāparam |
+ābhāsastvaparaṃ bimbabhūtamevaṃ tridhā citiḥ || 3||
+sābhāsabuddheḥ kartṛtvamavicchinne'vikāriṇi |
+sākṣiṇyāropyate bhrāntyā jīvatvaṃ ca tathā'budhaiḥ || 4||
+ābhāsastu mṛṣābuddhiravidyākāryamucyate |
+avicchinnaṃ tu tadbrahma vicchedastu vikalpitaḥ || 5||
+avicchinnasya pūrṇena ekatvaṃ pratipadyate |
+tatvamasyādivākyaiśca sābhāsasyāhamastathā || 6||
+aikyajñānaṃ yadotpannaṃ mahāvākyena cātmanoḥ |
+tadā'vidyā svakāryaiśca naśyatyeva na saṃśayaḥ || 7||
+etadvijñāya madbhakto madbhāvāyopapadyate
+madbhaktivimukhānāṃ hi śāstragarteṣu muhyatām |
+na jñānaṃ na ca mokṣaḥ syātteṣāṃ janmaśatairapi || 8||
+idaṃ rahasyaṃ hṛdayaṃ mamātmano mayaiva sākṣātkathitaṃ tavānagha |
+madbhaktihīnāya śaṭhāya na tvayā dātavyamaindrādapi rājyato'dhikam || 9||
+|| śrīmadadhyātmarāmāyaṇe bālakāṇḍe śrīrāmahṛdayaṃ sampūrṇam ||
+    </body>
+  </text>
+</TEI>

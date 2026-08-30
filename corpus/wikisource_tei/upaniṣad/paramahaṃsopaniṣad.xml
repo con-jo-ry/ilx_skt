@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Paramahaṃsopaniṣad</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%AA%E0%A4%B0%E0%A4%AE%E0%A4%B9%E0%A4%82%E0%A4%B8%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A6%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+oṃ pūrṇamadaḥ pūrṇamidaṃ pūrṇāt pūrṇamudacyate |
+pūrṇasya pūrṇamādāya pūrṇamevāvaśiṣyate ||
+oṃ śāntiḥ śāntiḥ śāntiḥ ||
+atha yogināṃ paramahaṃsānāṃ ko'yaṃ mārnasteṣaṃ kā sthitiriti nārado bhagavantamupagatyovāca | taṃ bhagavānāha | yo'yaṃ paramahaṃsamārgo loke durlabhataro na tu bāhulyo yadyeko bhavati sa eva nityapūtasthaḥ sa eva vedapuruṣa iti viduṣo manyante mahāpuruṣo yaccittaṃ tatsarvadā mayyevāvatiṣṭhate tasmādahaṃ ca tasminnevāvasthīyate | asau svaputramitrakalatrabandhvādīñchikhāyajñpavītaṃ svādhyāyaṃ ca sarvakarmāṇi saṃnyasyāyaṃ brahmāṇḍaṃ ca hitvā kaupīnaṃ daṇḍamācchādanaṃ ca svaśarīropabhogārthāya ca lokasyopakārārthāya ca parigrahet | tacca na mukhyo'sti ko'yaṃ mukhya iti cedayaṃ mukhyaḥ || 1 ||
+na daṇḍaṃ na śikhāṃ na yajñpavītaṃ na cācchādanaṃ carati paramahaṃsaḥ | na śitaṃ na coṣṇaṃ na sukhaṃ na duḥkhaṃ na mānāvamāne ca ṣaḍūrmivarjaṃ nindāgarvamatsaradammadarpecachādveṣasukhaduḥkhakāmakodhalobhamohaharṣāsūyāhaṅkārādīṃśca hitvā svavapuḥ kuṇapamiva dṛśyate yatastadvapurapadhvastaṃ saṃśayaviparītamithyājñānānāṃ yo hetustena nityanivṛttastannityabodhastatsvayamevāvasthitistaṃ śāntamacalamadvayānandavidghana evāsmi | tadeva mama paramdhāma tadeva śikhā ca tadevopavīta ca | paramātmātmanorekatvajñānena tayorbheda eva vibhagnaḥ sā sandhyā || 2 ||
+sarvānkāmānparityajya advaite paramasthitiḥ | jñānadaṇḍo dhṛto yena ekadaṇḍī sa ucyate | kāṣṭhadaṇḍo dhṛto yena sarvāśī jñānavarjitaḥ | titikṣājñānavairāgyaśamadiguṇavarjitaḥ | sa yāti narakāndhorānmahārauravasaṃjñakān | idamantaraṃ ṅyātvā sa paramahaṃsaḥ || 3 ||
+āśāmbaro na namaskar na svāhākāro na svādhākār na nindā na stutiryādṛcachiko bhavedbhikṣuḥ | nāvāhanaṃ na visarjanaṃ na mantraṃ na dhyānaṃ nopāsanaṃ ca | na lakṣyaṃ nākakṣyaṃ na pṛthagnāpṛthagahaṃ na na tvaṃ na sarvaṃ cāniketasthiramatireva sa bhikṣuḥ sauvarṇādīnāṃ naiva parigrahenna lokaṃ nāvalokaṃ na cā''bādhakaṃ ka iti cedbādhako'styeva | yasmādbhikṣurhiraṇyaṃ rasena dṛṣṭaṃ cetsa brahmahā bhavet | yasmādbhikṣurhiraṇyaṃ rasena spṛṣṭaṃ cetsa paulkas bhavedyasmādbhikṣurhiraṇyaṃ rasena grāhyaṃ cetsa ātmahā bhavet | tasmādbhikṣurhiraṇyaṃ rasena na dṛṣṭaṃ ca na spṛṣṭaṃ ca na grāhyaṃ ca | sarve kāmā manogatā vyāvartante | duḥkhe nodvignaḥ sukhe na spṛhā tyāgo rāge sarvatra śubhāśubhayoranabhisneho na dveṣṭi na modaṃ ca | sarveṣāmindriyāṇāṃ gatiruparamate ya ātmanyevāvasthīyate yatpūrṇānandaikabodhastadbrahmaivāhamasmīti kṛtakṛtyo bhavati kṛtakṛtyo bhavati || 4 ||
+oṃ pūrṇamadaḥ pūrṇamidaṃ pūrṇāt pūrṇamudacyate |
+pūrṇasya pūrṇamādāya pūrṇamevāvaśiṣyate ||
+oṃ śāntiḥ śāntiḥ śāntiḥ ||
+|| iti śrīparamahaṃsopaniṣatsamāptā ||
+    </body>
+  </text>
+</TEI>

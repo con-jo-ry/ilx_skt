@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Śrīrāmaprātaḥsmaraṇa</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%A4%E0%A4%83%E0%A4%B8%E0%A5%8D%E0%A4%AE%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+prātaḥ smarāmi raghunāthamukhāravindaṃ
+mandasmitaṃ madhurabhāṣi viśālabhālam |
+karṇāvalambicalakuṇḍalaśobhigaṇḍaṃ
+karṇāntadīrghanayanaṃ nayanābhirāmam || 1||
+prātarbhajāmi raghunāthakarāravindaṃ
+rakṣogaṇāya bhayadaṃ varadaṃ nijebhyaḥ |
+yadrājasaṃsadi vibhajya maheśacāpaṃ
+sītākaragrahaṇamaṅgalamāpa sadyaḥ || 2||
+prātarnamāmi raghunāthapadāravindaṃ
+vajrāṅkuśādiśubharekhi sukhāvahaṃ me |
+yogīndramānasamadhuvratasevyamānaṃ
+śāpāpahaṃ sapadi gautamadharmapatnyāḥ || 3||
+prātarvadāmi vacasā raghunātha nāma
+vāgdoṣahāri sakalaṃ śamalaṃ nihanti |
+yatpārvatī svapatinā saha bhoktukāmā
+prītyā sahasraharināmasamaṃ jajāpa || 4||
+prātaḥ śraye śrutinutāṃ raghunāthamūrtiṃ
+nīlāmbujotpalasitetararatnanīlām |
+āmuktamauktikaviśeṣavibhūṣaṇāḍhyāṃ
+dhyeyāṃ samastamunibhirjanamuktihetum || 5||
+yaḥ ślokapañcakamidaṃ prayataḥ paṭheddhi
+nityaṃ prabhātasamaye puruṣaḥ prabuddhaḥ |
+śrīrāmakiṅkarajaneṣu sa eva mukhyo
+bhūtvā prayāti harilokamananyalabhyam ||
+|| iti śrīrāma prātaḥsmaraṇam ||
+    </body>
+  </text>
+</TEI>

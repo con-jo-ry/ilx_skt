@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caṇḍikāṣṭaka</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%9A%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%BF%E0%A4%95%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%95%E0%A4%AE%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+|| caṇḍikāṣṭakam || sahasracandranitdakātikāntacandrikācayaidiśo'bhipūrayad vidūrayad durāgrahaṃ kaleḥ | kṛtāmalā'valākalevaraṃ varaṃ bhajāmahe maheśamānasāśrayanvaho maho mahodayam || 1|| viśālaśailakandarāntarālavāsaśālinīṃ trilokapālinīṃ kapālinī manoramāmimām | umāmupāsitāṃ surairūpāsmahe maheśvarīṃ parāṃ gaṇeśvaraprasū nageśvarasya nandinīm || 2|| aye maheśi! te mahendramukhyanirjarāḥ same samānayanti mūrddharāgata parāgamaṃghrijam | mahāvirāgiśaṃkarā'nurāgiṇīṃ nurāgiṇī smarāmi cetasā'tasīmumāmavāsasaṃ nutām || 3|| bhaje'marāṃganākarocchalatsucāma roccalan nicolalolakuntalāṃ svalokaśokanāśinīm | adabhrasambhṛtātisambhramaprabhūtavibhramapravṛtatāṇḍavaprakāṇḍapaṇḍitīkṛteśvarām || 4|| apīha pāmaraṃ vidhāya cāmaraṃ tathā'maraṃ nupāmaraṃ pareśidṛgvibhāvitāvitatrike | pravartate pratoṣaroṣakhelana tava svadoṣamoṣahetave samṛddhimelanaṃ padannumaḥ || 5|| bhabhūvbhabhavbhabhavbhabhābhitovibhāsi bhāsvaraprabhābharaprabhāsitāgagahvarādhibhāsinīm | milattarajvalattarodvalattarakṣapākara pramūtabhābharaprabhāsibhālapaṭṭikāṃ bhaje || 6|| kapotakambukāmyakaṇṭhakaṇṭhayakaṃkaṇāṃgadādikāntakāścikāścitāṃ kapālikāminīmaham | varāṃghrinūpuradhvanipravṛttisambhavad viśeṣakāvyakalpakauśalāṃ kapālakuṇḍalāṃ bhaje || 7|| bhavābhayaprabhāvitadbhavottaraprabhāvi bhavya bhūmibhūtibhāvana prabhūtibhāvukaṃ bhave | bhavāni neti te bhavāni! pādapaṃkajaṃ bhaje bhavanti tatra śatruvo na yatra tadvibhāvanam || 8|| durgāgrato'tigarimaprabhavāṃ bhavānyā bhavyāmimāṃ stutimumāpatinā praṇītām | yaḥ śrāvayet sapurūhūtapurādhipatya bhāgyaṃ labheta ripavaśca tṛṇāni tasya || 9|| rāmāṣṭāṃka śaśāṃke'bde'ṣṭamyāṃ śuklāśvine gurau | śāktaśrījagadānandaśarmaṇyupahṛtā stutiḥ || 10|| || iti kavipatyupanāmakaśrī umāpatidvivediviracitaṃ caṇḍikāṣṭakaṃ sampūrṇam ||
+    </body>
+  </text>
+</TEI>

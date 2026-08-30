@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caṇḍīpāṭha</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%9A%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A5%80%E0%A4%AA%E0%A4%BE%E0%A4%A0%E0%A4%83"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+||śrī caṇḍīpāṭha ||
+||oṃ śrī devaiḥ namaḥ ||
+||atha caṃḍīpāṭhaḥ ||
+yā devī sarvabhūteṣu viṣṇumāyeti śabditā |
+namastasyai namastasyai namastasyai namo namaḥ ||5-16||
+yā devī sarvabhūteṣu cetanetyabhidhīyate |
+namastasyai namastasyai namastasyai namo namaḥ ||5-19||
+yā devī sarvabhūteṣu buddhirūpeṇa saṃsthitā |
+namastasyai namastasyai namastasyai namo namaḥ ||5-22||
+yā devī sarvabhūteṣu nidrārūpeṇa saṃsthitā |
+namastasyai namastasyai namastasyai namo namaḥ ||5-25||
+yā devī sarvabhūteṣu kṣudhārūpeṇa saṃsthitā |
+namastasyai namastasyai namastasyai namo namaḥ ||5-28||
+yā devī sarvabhūteṣu cchāyārūpeṇa saṃsthitā |
+namastasyai namastasyai namastasyai namo namaḥ ||5-31||
+yā devī sarvabhūteṣu śaktirūpeṇa saṃsthitā |
+namastasyai namastasyai namastasyai namo namaḥ ||5-34||
+yā devī sarvabhūteṣu tṛṣṇārūpeṇa saṃsthitā |
+namastasyai namastasyai namastasyai namo namaḥ ||5-37||
+yā devī sarvabhūteṣu kṣāntirūpeṇa saṃsthitā |
+namastasyai namastasyai namastasyai namo namaḥ ||5-40||
+yā devī sarvabhūteṣu jātirūpeṇa saṃsthitā |
+namastasyai namastasyai namastasyai namo namaḥ ||5-43||
+yā devī sarvabhūteṣu lajjārūpeṇa saṃsthitā |
+namastasyai namastasyai namastasyai namo namaḥ ||5-46||
+yā devī sarvabhūteṣu śāntirūpeṇa saṃsthitā |
+namastasyai namastasyai namastasyai namo namaḥ ||5-49||
+yā devī sarvabhūteṣu śraddhārūpeṇa saṃsthitā |
+namastasyai namastasyai namastasyai namo namaḥ ||5-52||
+yā devī sarvabhūteṣu kāntirūpeṇa saṃsthitā |
+namastasyai namastasyai namastasyai namo namaḥ ||5-55||
+yā devī sarvabhūteṣu lakṣmīrūpeṇa saṃsthitā |
+namastasyai namastasyai namastasyai namo namaḥ ||5-58||
+yā devī sarvabhūteṣu vṛttirūpeṇa saṃsthitā |
+namastasyai namastasyai namastasyai namo namaḥ ||5-61||
+yā devī sarvabhūteṣu smṛtirūpeṇa saṃsthitā |
+namastasyai namastasyai namastasyai namo namaḥ ||5-64||
+yā devī sarvabhūteṣu dayārūpeṇa saṃsthitā |
+namastasyai namastasyai namastasyai namo namaḥ ||5-67||
+yā devī sarvabhūteṣu tuṣṭirūpeṇa saṃsthitā |
+namastasyai namastasyai namastasyai namo namaḥ ||5-70||
+yā devī sarvabhūteṣu mātṛrūpeṇa saṃsthitā |
+namastasyai namastasyai namastasyai namo namaḥ ||5-73||
+yā devī sarvabhūteṣu bhrāntirūpeṇa saṃsthitā |
+namastasyai namastasyai namastasyai namo namaḥ ||5-76||
+indriyāṇāmadhiṣṭhātrī bhutānāñcākhileṣu yā |
+bhūteṣu satataṃ tasyai vyāptidevyai namo namaḥ ||5-77||
+citirūpeṇa yā kṛtsnametad vyāpya sthitā jagat |
+namastasyai namastasyai namastasyai namo namaḥ ||5-80||
+|| iti caṃḍīpāṭhaḥ ||
+    </body>
+  </text>
+</TEI>

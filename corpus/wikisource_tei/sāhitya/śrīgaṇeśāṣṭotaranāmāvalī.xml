@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Śrīgaṇeśāṣṭotaranāmāvalī</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%97%E0%A4%A3%E0%A5%87%E0%A4%B6-%E0%A4%85%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8B%E0%A4%A4%E0%A4%B0%E0%A4%A8%E0%A4%BE%E0%A4%AE%E0%A4%BE%E0%A4%B5%E0%A4%B2%E0%A5%80"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+oṃ akalmaṣāya namaḥ | oṃ agnigarbhaccide namaḥ | oṃ agraṇye namaḥ | oṃ ajāya namaḥ | oṃ adbhutamūrtimate namaḥ | oṃ adhyakkṣāya namaḥ | oṃ anekācitāya namaḥ | oṃ avyaktamūrtaye namaḥ | oṃ avyayāya namaḥ | oṃ avyayāya namaḥ | oṃ āśritāya namaḥ | oṃ indraśrīpradāya namaḥ | oṃ ikṣucāpadhṛte namaḥ | oṃ utpalakarāya namaḥ | oṃ ekadantāya namaḥ | oṃ kalikalmaṣanāśanāya namaḥ | oṃ kāntāya namaḥ | oṃ kāmine namaḥ | oṃ kālāya namaḥ | oṃ kulādribhettre namaḥ | oṃ kṛtine namaḥ | oṃ kaivalyaśukhadāya namaḥ | oṃ gajānanāya namaḥ | oṃ gaṇeśvarāya namaḥ | oṃ gatine namaḥ | oṃ guṇātītāya namaḥ | oṃ gaurīputrāya namaḥ | oṃ grahapataye namaḥ | oṃ cakriṇe namaḥ | oṃ caṇḍāya namaḥ | oṃ caturāya namaḥ | oṃ caturbāhave namaḥ | oṃ caturmūrtine namaḥ | oṃ candracūḍāmaṇye namaḥ | oṃ jaṭilāya namaḥ | oṃ tuṣṭāya namaḥ | oṃ dayāyutāya namaḥ | oṃ dakṣāya namaḥ | oṃ dāntāya namaḥ | oṃ dūrvābilvapriyāya namaḥ | oṃ devāya namaḥ | oṃ dvijapriyāya namaḥ | oṃ dvaimātreeyāya namaḥ | oṃ dhīrāya namaḥ | oṃ nāgarājayajñopavītavate namaḥ | oṃ niraṅjanāya namaḥ | oṃ parasmai namaḥ | oṃ pāpahāriṇe namaḥ | oṃ pāśāṃkuśadharāya namaḥ | oṃ pūtāya namaḥ | oṃ pramattādaityabhayatāya namaḥ | oṃ prasannātmane namaḥ | oṃ bījāpūraphalāsaktāya namaḥ | oṃ buddhipriyāya namaḥ | oṃ brahmacāriṇe namaḥ | oṃ brahmadveṣavivarjitāya namaḥ | oṃ brahmaviduttamāya namaḥ | oṃ bhaktavāñchitadāyakāya namaḥ | oṃ bhaktavighnavināśanāya namaḥ | oṃ bhaktipriyāya namaḥ | oṃ māyine namaḥ | oṃ munistutyāya namaḥ | oṃ mūṣikavāhanāya namaḥ | oṃ ramārcitāya namaḥ | oṃ laṃbodarāya namaḥ | oṃ varadāya namaḥ | oṃ vāgīśāya namaḥ | oṃ vāṇīpradāya namaḥ | oṃ vighnarājāya namaḥ | oṃ vidhaye namaḥ | oṃ vināyakāya namaḥ | oṃ vibhudeśvarāya namaḥ | oṃ vītabhayāya namaḥ | oṃ śaktisamyutāya namaḥ | oṃ śāntāya namaḥ | oṃ śāśvatāya namaḥ | oṃ śivāya namaḥ | oṃ śuddhāya namaḥ | oṃ śūrpakarṇāya namaḥ | oṃ śailendratanujotsaṅgakelanotsukamānasāya namaḥ | oṃ śrīkaṇṭhāya namaḥ | oṃ śrīkarāya namaḥ | oṃ śrīdāya namaḥ | oṃ śrīprataye namaḥ | oṃ saccidānandavigrahāya namaḥ | oṃ samastajagadādhārāya namaḥ | oṃ samāhitāya namaḥ | oṃ sarvatanayāya namaḥ | oṃ sarvarīpriyāya namaḥ | oṃ sarvasiddhipradāya namaḥ | oṃ sarvasiddhipradāyakāya namaḥ | oṃ sarvātmakāya namaḥ | oṃ sāmaghoṣapriyāya namaḥ | oṃ siddhārcitapadāṃbujāya namaḥ | oṃ siddhidāyakāya namaḥ | oṃ sṛṣṭikartre namaḥ | oṃ somasūryāgnilocanāya namaḥ | oṃ saumyāya namaḥ | oṃ skandāgrajāya namaḥ | oṃ stutiharṣitāya namaḥ | oṃ sthulakaṇṭhāya namaḥ | oṃ sthulatuṇḍāya namaḥ | oṃ svayaṃkartre namaḥ | oṃ svayaṃsiddhāya namaḥ | oṃ svalāvaṇyasutāsārajitamanmathavigrahāya namaḥ | oṃ haraye namaḥ | oṃ hṝṣṭhāya namaḥ | oṃ jñānine namaḥ | ||iti śrī vināyaka aṣṭottaraśata nāmāvalī saṃpūrṇam ||
+    </body>
+  </text>
+</TEI>

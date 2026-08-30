@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sāṃkhyatatvakaumudī</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A4%BE%E0%A4%82%E0%A4%96%E0%A5%8D%E0%A4%AF%E0%A4%A4%E0%A4%A4%E0%A5%8D%E0%A4%B5%E0%A4%95%E0%A5%8C%E0%A4%AE%E0%A5%81%E0%A4%A6%E0%A5%80"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+ajāmekāṃ lohitaśuklakṛṣṇāṃ
+bahvīḥ prajāḥ sṛjamānāṃ namāmaḥ|
+ajā ye tāṃ juṣamāṇāṃ bhajante
+jahatyenāṃ bhuktabhogāṃ numastān||
+kapilāya mahāmunaye munaye śiṣyāya tasya cāsuraye|
+pañcaśikhāya tatheśvarakṛṣṇāyaite namasyāmaḥ||
+iha khalu pratipitsitamarthaṃ pratipādayan pratipādayitā avadheyavacano bhavati prekṣatām| apratipitsitamarthaṃ tu pratipādayan na ayaṃ laukiko nāpi parīkṣaka iti prekṣāvadbhirunmattavadupekṣyeta| (pañcamakārikāyāḥ bhāṣyam itaḥ param) tatrāptavacanamiti lakṣyanirdeśaḥ, pariśiṣṭaṃ lakṣaṇam| āptā prāptā yukteti yāvat| āptā cā'sau śrutiśceti āptaśrutiḥ| śrutiḥ -- vākyajanitaṃ vākyārthajñānam| tacca svataḥ pramāṇam| apauruṣeyavedavākyajanitatvena sakaladoṣāśaṅkāvinirmukteryuktaṃ bhavati|
+ādividuṣaśca kapilasya kalpādau kalpāntarādhītaśutismaraṇasambhavaḥ, suptaprabuddhasyeva pūrvedyuravagatānāmarthānāmaparedyuḥ| tathā ca āvaṭyajaigīṣavyasaṃvāde bhagavān jaigīṣavyo daśamahākalpavarttijātajanmasmaraṇamātmana uvāca -- "daśasu mahākalpeṣu viparivartamānenānabhibhūtabuddhisattvena mayā" ityādinā granthasandarbheṇa|
+āptagrahaṇenā'yuktāḥ śākyabhikṣunirganthakasaṃsāramocakādīnāmāgamābhāsāḥ parihṛtā bhavanti| ayuktatvaṃ caiteṣāṃ vigānāt, vicchinnamūlatvāt pramāṇaviruddhārthābhidhānācca kaiścideva mlecchādibhiḥ puruṣāpasadaiḥ paśuprāyaiḥ parigraho boddhavyam| tu śabdenā'numānād vyavacchinatti| vākyārtho hi prameyaḥ, na tu taddharmo vākyam, yena tatra liṅgaṃ bhavet| na ca vākyaṃ vākyārthaṃ bodhayat sambandhagrahaṇamapekṣate, abhinavakaviviracitasya vākyasyā'dṛṣṭapūrvasyā'nubhūtacaravākyārthabodhakatvāditi|
+    </body>
+  </text>
+</TEI>

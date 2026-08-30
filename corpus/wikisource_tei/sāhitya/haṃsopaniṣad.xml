@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Haṃsopaniṣad</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%B9%E0%A4%82%E0%A4%B8%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A4%A6%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+|| haṃsopaniṣat ||
+oṃ pūrṇamadaḥ pūrṇamidaṃ pūrṇāt pūrṇamudacyate |
+pūrṇasya pūrṇamādāya pūrṇamevāvaśiṣyate ||
+oṃ śāntiḥ śāntiḥ śāntiḥ ||
+gautama uvāca | bhagavansarvadharmajña sarvaśāstraviśārada | brahmavidyāprabodho hi kenopāyena jāyate || 1 ||
+sanatkumāra uvāca | vicārya sarvavedeṣu mataṃ jñātvā pinākinaḥ | pārvatyā kathitaṃ tattvaṃ śṛṇu gautama tanmama || 2 ||
+anākhyeyamidaṃ guhyaṃ yogināṃ kośasannibham | haṃsasyākṛtivistāraṃ bhuktimuktiphalapradam || 3 ||
+atha haṃsaparamahaṃsanirṇayaṃ vyākhyāsyāmaḥ | brahmacāriṇe śāntāya dāntāya gurubhaktāya | haṃsahaṃseti sadā dhyāyan || 4 ||
+sarveṣu deheṣu vyāpto vartate | yathā hyagniḥ kāṣṭheṣu tileṣu tailamiva taṃ viditvā mṛtyumatyeti || 5 ||
+gudamavaṣṭabhyādhārādvāyumutthāpyasvādhiṣṭhānaṃ triḥ pradakṣiṇīkṛtya maṇipūrakaṃ ca gatvā anāhatamatikramya viśuddhau prāṇānnirudhyājñāmanudhyāyanbrahmarandhraṃ dhyāyan trimātro'hamityeva sarvadā paśyatyanākāraśca bhavati || 6 ||
+eṣo'sau paramahaṃso bhānukoṭipratīkāśo yenedaṃ sarvaṃ vyāptam || 7 ||
+tasyāṣṭadhā vṛttirbhavati | pūrvadale puṇye matiḥ | āgneye nidrālasyādayo bhavanti | yāmye kraurye matiḥ | nairṛte pāpe manīṣā | vāruṇyāṃ krīḍā | vāyavyāṃ gamanādau buddhiḥ | saumye ratiprītiḥ | īśānye dravyādānam | madhye vairāgyam | kesare jāgradavasthā | karṇikāyāṃ svapnam | liṅge suṣuptiḥ | padmatyāge turīyam | yadā haṃse nādo vilīno bhavati tat turīyātītam || 8 ||
+atho nādamādhārādbrahmarandhraparyantaṃ śuddhasphaṭikasaṅkāśaḥ | sa vai brahma paramātmetyucyate || 1 ||
+atha haṃsa ṛṣiḥ | avyaktagāyatrī chandaḥ | paramahaṃso devatā | hamiti bījam | sa iti śaktiḥ | so'hamiti kīlakam || 10 ||
+ṣaṭ saṅkhyayā ahorātrayorekaviṃśatisahasrāṇi ṣaṭ śatānyadhikāni bhavanti | sūryāya somāya nirañjanāya nirābhāsāyatanusūkṣmaṃ pracodayāditi || 11 ||
+agnīṣomābhyāṃ vauṣaṭ hṛdayādyaṅganyāsakaranyāsau bhavataḥ || 12 ||
+evaṃ kṛtvā hṛdaye aṣṭadale haṃsātmānaṃ dhyāyet || 13 ||
+agnīṣomau pakṣāvoṅkāraḥ śiro ukāro bindu strinetraṃ mukhaṃ rudro rudrāṇī caraṇau | dvividhaṃ kaṇṭhataḥ kuryādityunmanāḥ ajapopasaṃhāra ityabhidhīyate || 14 ||
+evaṃ haṃsavaśāttasmānmano haṃso vicāryate || 15 ||
+asyeva japakoṭyāṃ nādamanubhavati evaṃ sarvaṃ haṃsavaśānnādo daśavidho jāyate | ciṇīti prathamaḥ | ciñciṇīti dvitīyaḥ | ghaṇṭānādastṛtīyaḥ | śaṅkhanādaścaturthaḥ | pañcamastantrīnādaḥ | ṣaṣṭhastālanādaḥ | saptamo veṇunādaḥ | aṣṭamo mṛdaṅganādaḥ | navamo bherīnādaḥ | daśamo meghanādaḥ || 16 ||
+navamaṃ parityajya daśamamevābhyaset || 17 ||
+prathame ciñciṇīgātraṃ dvitīye gātrabhañjanam | tṛtīye khedanaṃ yāti caturthe kampate śiraḥ || 18 ||
+pañcame sravate tālu ṣaṣṭhe'mṛtaniṣevaṇam | saptame gūḍhavijñānaṃ parā vācā tathāṣṭame || 19 ||
+adṛśyaṃ navame dehaṃ divyaṃ cakṣustathāmalam | daśame paramaṃ brahma bhavedbrahmātmasannidhau || 20 ||
+tasminmano vilīyate manasi saṅkalpavikalpe dagdhe puṇyapāpe sadāśivaḥ śaktyātmā sarvatrāvasthitaḥ svayaṃjyotiḥ śuddho buddho nityo nirañjanaḥ śāntaḥ prakāśata iti vedānuvacanaṃ bhavatītyupaniṣat || 21 ||
+oṃ pūrṇamadaḥ pūrṇamidaṃ pūrṇāt pūrṇamudacyate |
+pūrṇasya pūrṇamādāya pūrṇamevāvaśiṣyate ||
+oṃ śāntiḥ śāntiḥ śāntiḥ ||
+|| iti haṃsopaniṣatsamāptā ||
+    </body>
+  </text>
+</TEI>

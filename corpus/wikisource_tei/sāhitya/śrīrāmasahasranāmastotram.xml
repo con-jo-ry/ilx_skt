@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Śrīrāmasahasranāmastotra</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%B8%E0%A4%B9%E0%A4%B8%E0%A5%8D%E0%A4%B0%E0%A4%A8%E0%A4%BE%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8B%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+śrīrāghavaṃ daśarathātmajamaprameyaṃ
+sītāpatiṃ raghukulānvayaratnadīpam |
+ājānubāhumaravindadalāyatākṣaṃ
+rāmaṃ niśācaravināśakaraṃ namāmi ||
+vaidehīsahitaṃ suradrumatale haime mahāmaṇḍape
+madhye puṣpakamāsane maṇimaye vīrāsane susthitam |
+agre vācayati prabhañjanasute tattvaṃ munibhyaḥ paraṃ
+vyākhyāntaṃ bharatādibhiḥ parivṛtaṃ rāmaṃ bhaje śyāmalam ||
+śrīrāmo rāmabhadraśca rāmacandraśca śāśvataḥ |
+rājīvalocanaḥ śrīmān rājendro raghupuṅgavaḥ || 1||
+jānakīvallabho jaitro jitāmitro janārdanaḥ |
+viśvāmitrapriyo dāntaḥ śatrujicchatrutāpanaḥ || 2||
+vālipramathano vāgmī satyavāk satyavikramaḥ |
+satyavrato vratadharaḥ sadā hanumadāśritaḥ || 3||
+kausaleyaḥ kharadhvaṃsī virādhavadhapaṇḍitaḥ |
+vibhīṣaṇaparitrātā harakodaṇḍakhaṇḍanaḥ || 4||
+saptatālaprabhettā ca daśagrīvaśiroharaḥ |
+jāmadagnyamahādarpadalanastāṭakāntakaḥ || 5||
+vedāntasāro vedātmā bhavarogasya bheṣajam |
+dūṣaṇatriśiro hantā trimūrtistriguṇātmakaḥ || 6||
+trivikramastrilokātmā puṇyacāritrakīrtanaḥ |
+trilokarakṣako dhanvī daṇḍakāraṇyapāvanaḥ || 7||
+ahalyāśāpaśamanaḥ pitṛbhakto varapradaḥ |
+jitendriyo jitakrodho jitāmitro jagadguruḥ || 8||
+ṛkṣavānarasaṃghātī citrakūṭasamāśrayaḥ |
+jayantatrāṇavaradaḥ sumitrāputrasevitaḥ || 9||
+sarvadevādidevaśca mṛtavānarajīvanaḥ |
+māyāmārīcahantā ca mahādevo mahābhujaḥ || 10||
+sarvadevastutaḥ saumyo brahmaṇyo munisaṃstutaḥ |
+mahāyogī mahodāraḥ sugrīvepsitarājyadaḥ || 11||
+sarvapuṇyādhikaphalaḥ smṛtasarvāghanāśanaḥ |
+ādidevo mahādevo mahāpūruṣa eva ca || 12||
+puṇyodayo dayāsāraḥ purāṇapuruṣottamaḥ |
+smitavaktro mitābhāṣī pūrvabhāṣī ca rāghavaḥ || 13||
+anantaguṇagambhīro dhīrodāttaguṇottamaḥ |
+māyāmānuṣacāritro mahādevādipūjitaḥ || 14||
+setukṛjjitavārīśaḥ sarvatīrthamayo hariḥ |
+śyāmāṅgaḥ sundaraḥ śūraḥ pītavāsā dhanurdharaḥ || 15||
+sarvayajñādhipo yajvā jarāmaraṇavarjitaḥ |
+śivaliṅgapratiṣṭhātā sarvāvaguṇavarjitaḥ || 16||
+paramātmā paraṃ brahma saccidānandavigrahaḥ |
+paraṃ jyotiḥ paraṃdhāma parākāśaḥ parātparaḥ || 17||
+pareśaḥ pāragaḥ pāraḥ sarvadevātmakaḥ paraḥ ||
+|| iti śrīrāmāṣṭottaraśatanāmastotraṃ sampūrṇam ||
+rājīvalocanaḥ śrīmān śrīrāmo raghupuṅgavaḥ |
+rāmabhadraḥ sadācāro rājendro jānakīpatiḥ || 1||
+agragaṇyo vareṇyaśca varadaḥ parameśvaraḥ |
+janārdano jitāmitraḥ parārthaikaprayojanaḥ || 2||
+viśvāmitrapriyo dāntaśśatrujicchatrutāpanaḥ |
+sarvajñaḥ sarvadevādiḥ śaraṇyo vālimardanaḥ || 3||
+jñānabhāvyo'paricchedyovāgmīsatyavrataḥ śuciḥ |
+jñānagamyo dṛḍhaprajñaḥ kharadhvaṃsī pratāpavān || 4||
+dyutimānātmavān vīro jitakrodho'rimardanaḥ |
+viśvarūpo viśālākṣaḥ prabhuḥ parivṛḍho dṛḍhaḥ || 5||
+īśaḥ khaḍgadharaḥ śrīmān kausaleyo'nasūyakaḥ |
+vipulāṃso mahoraskaḥ parameṣṭhī parāyaṇaḥ || 6||
+satyavrataḥ satyasaṃdho guruḥ paramadhārmikaḥ |
+lokajño lokavandyaśca lokātmālokakṛtparaḥ || 7||
+anādirbhagavān sevyo jitamāyo raghūdvahaḥ |
+rāmo dayākaro dakṣaḥ sarvajñaḥ sarvapāvanaḥ || 8||
+brahmaṇyo nītimān goptā sarvadevamayo hariḥ |
+sundaraḥ pītavāsāśca sūtrakāraḥ purātanaḥ || 9||
+saumyo maharṣiḥ kodaṇḍī sarvajñaḥ sarvakovidaḥ |
+kaviḥ sugrīvavaradaḥ sarvapuṇyādhikapradaḥ || 10||
+bhavyo jitāriṣaḍvargo mahodaro'ghanāśanaḥ |
+sukīrtirādipuruṣaḥ kāntaḥ puṇyakṛtāgamaḥ || 11||
+akalmaṣaścaturbāhuḥ sarvāvāso durāsadaḥ |
+smitabhāṣī nivṛttātmā smṛtimān vīryavān prabhuḥ || 12||
+dhīro dānto ghanaśyāmaḥ sarvāyudhaviśāradaḥ |
+adhyātmayoganilayaḥ sumanā lakṣmaṇāgrajaḥ || 13||
+sarvatīrthamayaśśūraḥ sarvayajñaphalapradaḥ |
+yajñasvarūpī yajñeśo jarāmaraṇavarjitaḥ || 14||
+varṇāśramakaro varṇī śatrujit puruṣottamaḥ |
+vibhīṣaṇapratiṣṭhātā paramātmā parātparaḥ || 15||
+pramāṇabhūto durjñeyaḥ pūrṇaḥ parapuraṃjayaḥ |
+anantadṛṣṭirānando dhanurvedo dhanurdharaḥ || 16||
+guṇākaro guṇaśreṣṭhaḥ saccidānandavigrahaḥ |
+abhivandyo mahākāyo viśvakarmā viśāradaḥ || 17||
+vinītātmā vītarāgaḥ tapasvīśo janeśvaraḥ |
+kalyāṇaprakṛtiḥ kalpaḥ sarveśaḥ sarvakāmadaḥ || 18||
+akṣayaḥ puruṣaḥ sākṣī keśavaḥ puruṣottamaḥ |
+lokādhyakṣo mahāmāyo vibhīṣaṇavarapradaḥ || 19||
+ānandavigraho jyotirhanumatprbhuravyayaḥ |
+bhrājiṣṇuḥ sahano bhoktā satyavādī bahuśrutaḥ || 20||
+sukhadaḥ kāraṇaṃ kartā bhavabandhavimocanaḥ |
+devacūḍāmaṇirnetā brahmaṇyo brahmavardhanaḥ || 21||
+saṃsārottārako rāmaḥ sarvaduḥkhavimokṣakṛt |
+vidvattamo viśvakartā viśvahartā ca viśvakṛt || 22||
+nityoniyatakalyāṇaḥ sītāśokavināśakṛt |
+kākutsthaḥ puṇḍarīkākṣo viśvāmitrabhayāpahaḥ || 23||
+mārīcamathano rāmo virādhavadhapaṇḍitaḥ |
+dussvapnanāśano ramyaḥ kirīṭī tridaśādhipaḥ || 24||
+mahādhanurmahākāyo bhīmo bhīmaparākramaḥ |
+tattvasvarūpī tattvajñaḥ tattvavādī suvikramaḥ || 25||
+bhūtātmā bhūtakṛtsvāmī kālajñānī mahāpaṭuḥ |
+anirviṇṇo guṇagrāhī niṣkalaṅkaḥ kalaṅkahā || 26||
+svabhāvabhadraśśatrughnaḥ keśavaḥ sthāṇurīśvaraḥ |
+bhūtādiḥ śambhurādityaḥ sthaviṣṭhaśśāśvatodhruvaḥ || 27||
+kavacī kuṇḍalī cakrī khaḍgī bhaktajanapriyaḥ |
+amṛtyurjanmarahitaḥ sarvajitsarvagocaraḥ || 28||
+anuttamo'prameyātmā sarvādirguṇasāgaraḥ |
+samaḥ samātmā samago jaṭāmukuṭamaṇḍitaḥ || 29||
+ajeyaḥ sarvabhūtātmā viṣvakseno mahātapāḥ |
+lokādhyakṣo mahābāhuramṛto vedavittamaḥ || 30||
+sahiṣṇuḥ sadgatiḥ śāstā viśvayonirmahādyutiḥ |
+atīndra ūrjitaḥ prāṃśurupendro vāmano balī || 31||
+dhanurvedo vidhātā ca brahmā viṣṇuśca śaṃkaraḥ |
+haṃso marīcirgovindo ratnagarbho mahāmatiḥ || 32||
+vyāso vācaspatiḥ sarvadarpitāsuramardanaḥ |
+jānakīvallabhaḥ pūjyaḥ prakaṭaḥ prītivardhanaḥ || 33||
+sambhavo'tīndriyovedyo'nirdeśojāmbavatprabhuḥ |
+madano mathano vyāpī viśvarūpo nirañjanaḥ || 34||
+nārāyaṇo'graṇīḥ sādhurjaṭāyuprītivardhanaḥ |
+naikarūpo jagannāthaḥ surakāryahitaḥ svabhūḥ || 35||
+jitakrodho jitārātiḥ plavagādhiparājyadaḥ |
+vasudaḥ subhujo naikamāyo bhavyapramodanaḥ || 36||
+caṇḍāṃśuḥ siddhidaḥ kalpaḥ śaraṇāgatavatsalaḥ |
+agado rogahartā ca mantrajño mantrabhāvanaḥ || 37||
+saumitrivatsalo dhuryo vyaktāvyaktasvarūpadhṛk |
+vasiṣṭho grāmaṇīḥ śrīmānanukūlaḥ priyaṃvadaḥ || 38||
+atulaḥ sāttviko dhīraḥ śarāsanaviśāradaḥ |
+jyeṣṭhaḥ sarvaguṇopetaḥ śaktimāṃstāṭakāntakaḥ || 39||
+vaikuṇṭhaḥ prāṇināṃ prāṇaḥ kamaṭhaḥ kamalāpatiḥ |
+govardhanadharo matsyarūpaḥ kāruṇyasāgaraḥ || 40||
+kumbhakarṇaprabhettā ca gopigopālasaṃvṛtaḥ |
+māyāvī vyāpako vyāpī raiṇukeyabalāpahaḥ || 41||
+pinākamathano vandyaḥ samartho garuḍadhvajaḥ |
+lokatrayāśrayo lokacarito bharatāgrajaḥ || 42||
+śrīdharaḥ sadgatirlokasākṣī nārāyaṇo budhaḥ |
+manovegī manorūpī pūrṇaḥ puruṣapuṅgavaḥ || 43||
+yaduśreṣṭho yadupatirbhūtāvāsaḥ suvikramaḥ |
+tejodharo dharādhāraścaturmūrtirmahānidhiḥ || 44||
+cāṇūramardano divyaśśānto bharatavanditaḥ |
+śabdātigo gabhīrātmā komalāṅgaḥ prajāgaraḥ || 45||
+lokagarbhaśśeṣaśāyī kṣīrābdhinilayo'malaḥ |
+ātmayoniradīnātmā sahasrākṣaḥ sahasrapāt || 46||
+amṛtāṃśurmahāgarbho nivṛttaviṣayaspṛhaḥ |
+trikālajño munissākṣī vihāyasagatiḥ kṛtī || 47||
+parjanyaḥ kumudo bhūtāvāsaḥ kamalalocanaḥ |
+śrīvatsavakṣāḥ śrīvāso vīrahā lakṣmaṇāgrajaḥ || 48||
+lokābhirāmo lokārimardanaḥ sevakapriyaḥ |
+sanātanatamo meghaśyāmalo rākṣasāntakṛt || 49||
+divyāyudhadharaḥ śrīmānaprameyo jitendriyaḥ |
+bhūdevavandyo janakapriyakṛtprapitāmahaḥ || 50||
+uttamaḥ sātvikaḥ satyaḥ satyasaṃdhastrivikramaḥ |
+suvrataḥ sulabhaḥ sūkṣmaḥ sughoṣaḥ sukhadaḥ sudhīḥ || 51||
+dāmodaro'cyutaśśārṅgī vāmano madhurādhipaḥ |
+devakīnandanaḥ śauriḥ śūraḥ kaiṭabhamardanaḥ || 52||
+saptatālaprabhettā ca mitravaṃśapravardhanaḥ |
+kālasvarūpī kālātmākālaḥ kalyāṇadaḥkaviḥ
+saṃvatsara ṛtuḥ pakṣo hyayanaṃ divaso yugaḥ || 53||
+stavyo vivikto nirlepaḥ sarvavyāpī nirākulaḥ |
+anādinidhanaḥ sarvalokapūjyo nirāmayaḥ || 54||
+raso rasajñaḥ sārajño lokasāro rasātmakaḥ |
+sarvaduḥkhātigo vidyārāśiḥ paramagocaraḥ || 55||
+śeṣo viśeṣo vigatakalmaṣo raghunāyakaḥ |
+varṇaśreṣṭho varṇavāhyo varṇyo varṇyaguṇojjvalaḥ || 56||
+karmasākṣyamaraśreṣṭho devadevaḥ sukhapradaḥ |
+devādhidevo devarṣirdevāsuranamaskṛtaḥ || 57||
+sarvadevamayaścakrī śārṅgapāṇī raghūttamaḥ |
+mano buddhirahaṃkāraḥ prakṛtiḥ puruṣo'vyayaḥ || 58||
+ahalyāpāvanaḥ svāmī pitṛbhakto varapradaḥ |
+nyāyo nyāyī nayī śrīmānnayo nagadharodhruvaḥ || 59||
+lakṣmīviśvambharābhartā devendro balimardanaḥ |
+vāṇārimardano yajvānuttamo munisevitaḥ || 60||
+devāgraṇīḥ śivadhyānatatparaḥ paramaḥ paraḥ |
+sāmageyaḥ priyo'krūraḥ puṇyakīrtissulocanaḥ || 61||
+puṇyaḥ puṇyādhikaḥ pūrvaḥ pūrṇaḥ pūrayitā raviḥ |
+jaṭilaḥ kalmaṣadhvāntaprabhañjanavibhāvasuḥ || 62||
+avyaktalakṣaṇo'vyakto daśāsyadvipakesarī |
+kalānidhiḥ kalānātho kamalānandavardhanaḥ || 63||
+jayī jitāriḥ sarvādiḥ śamano bhavabhañjanaḥ |
+alaṃkariṣṇuracalo rociṣṇurvikramottamaḥ || 64||
+āśuḥ śabdapatiḥ śabdāgocaro rañjano raghuḥ |
+niśśabdaḥ praṇavo mālī sthūlaḥ sūkṣmo vilakṣaṇaḥ || 65||
+ātmayonirayoniśca saptajihvaḥ sahasrapāt |
+sanātanatamassragvī peśalo javināṃ varaḥ || 66||
+śaktimāñśaṅkhabhṝnnāthaḥ gadāpadmarathāṅgabhṛt |
+niroho nirvikalpaśca cidrūpo vītasādhvasaḥ || 67||
+śatānanaḥ sahasrākṣaḥ śatamūrtirdhanaprabhaḥ |
+hṛtpuṇḍarīkaśayanaḥ kaṭhino drava eva ca || 68||
+ugro grahapatiḥ śrīmān samartho'narthanāśanaḥ |
+adharmaśatrū rakṣoghnaḥ puruhūtaḥ puruṣṭutaḥ || 69||
+brahmagarbho bṛhadgarbho dharmadhenurdhanāgamaḥ |
+hiraṇyagarbhojyotiṣmān sulalāṭaḥ suvikramaḥ || 70||
+śivapūjārataḥ śrīmān bhavānīpriyakṛdvaśī |
+naro nārāyaṇaḥ śyāmaḥ kapardīnīlalohitaḥ || 71||
+rudraḥ paśupatiḥ sthāṇurviśvāmitro dvijeśvaraḥ |
+mātāmahomātariśvāviriñcoviṣṭaraśravāḥ || 72||
+akṣobhyaḥ sarvabhūtānāṃ caṇḍaḥ satyaparākramaḥ |
+vālakhilyo mahākalpaḥ kalpavṛkṣaḥ kalādharaḥ || 73||
+nidāghastapano'moghaḥ ślakṣṇaḥ parabalāpahṛt |
+kabandhamathano divyaḥ kambugrīvaśivapriyaḥ || 74||
+śaṅkho'nilaḥ suniṣpannaḥ sulabhaḥ śiśirātmakaḥ |
+asaṃsṛṣṭo'tithiḥ śūraḥ pramāthī pāpanāśakṛt || 75||
+vasuśravāḥ kavyavāhaḥ pratapto viśvabhojanaḥ |
+rāmonīlotpalaśyāmojñānaskandhomahādyutiḥ || 76||
+pavitrapādaḥ pāpārirmaṇipūro nabhogatiḥ |
+uttāraṇo duṣkṛtihā durdharṣo dussaho'bhayaḥ || 77||
+amṛteśo'mṛtavapurdharmī dharmaḥ kṛpākaraḥ |
+bhargo vivasvānādityo yogācāryo divaspatiḥ || 78||
+udārakīrtirudyogī vāṅmayaḥ sadasanmayaḥ |
+nakṣatramālī nākeśaḥ svādhiṣṭhānaḥ ṣaḍāśrayaḥ || 79||
+caturvargaphalo varṇī śaktitrayaphalaṃ nidhiḥ |
+nidhānagarbho nirvyājo girīśo vyālamardanaḥ || 80||
+śrīvallabhaḥ śivārambhaḥ śāntirbhadraḥ samañjasaḥ |
+bhūśayo bhūtikṛdbhūtirbhūṣaṇo bhūtavāhanaḥ || 81||
+akāyo bhaktakāyasthaḥ kālajñānī mahāvaṭuḥ |
+parārthavṛttiracalo viviktaḥ śrutisāgaraḥ || 82||
+svabhāvabhadro madhyasthaḥ saṃsārabhayanāśanaḥ |
+vedyo vaidyo viyadgoptā sarvāmaramunīśvaraḥ || 83||
+surendraḥ karaṇaṃ karma karmakṛtkarmyadhokṣajaḥ |
+dhyeyo dhuryo dharādhīśaḥ saṃkalpaḥ śarvarīpatiḥ || 84||
+paramārthagururvṛddhaḥ śucirāśritavatsalaḥ |
+viṣṇurjiṣṇurvibhurvandyo yajñeśo yajñapālakaḥ || 85||
+prabhaviṣṇurgrasiṣṇuśca lokātmā lokabhāvanaḥ |
+keśavaḥ keśihā kāvyaḥ kaviḥ kāraṇakāraṇam || 86||
+kālakartā kālaśeṣo vāsudevaḥ puruṣṭutaḥ |
+ādikartā varāhaśca mādhavo madhusūdanaḥ || 87||
+nārāyaṇo naro haṃso viṣvakseno janārdanaḥ |
+viśvakartā mahāyajño jyotiṣmān puruṣottamaḥ || 88||
+vaikuṇṭhaḥ puṇḍarīkākṣaḥ kṛṣṇaḥ sūryaḥ surārcitaḥ |
+nārasiṃho mahābhīmo vakradaṃṣṭro nakhāyudhaḥ || 89||
+ādidevo jagatkartā yogīśo garuḍadhvajaḥ |
+govindogopatirgoptā bhūpatirbhuvaneśvaraḥ || 90||
+padmanābho hṛṣīkeśo dhātā dāmodaraḥ prabhuḥ |
+trivikramastrilokeśo brahmeśaḥ prītivardhanaḥ || 91||
+vāmano duṣṭadamano govindo gopavallabhaḥ |
+bhaktapriyo'cyutaḥ satyaḥ satyakīrtirdhṛtiḥ smṛtiḥ || 92||
+kāruṇyaṃ karuṇo vyāsaḥ pāpahā śāntivardhanaḥ |
+saṃnyāsī śāstratatvajño mandarādriniketanaḥ || 93||
+badarīnilayaḥ śāntastapasvī vaidyutaprabhaḥ |
+bhūtāvāso guhāvāsaḥ śrīnivāsaḥ śriyaḥ patiḥ || 94||
+tapovāso mudāvāsaḥ satyavāsaḥ sanātanaḥ |
+puruṣaḥ puṣkaraḥ puṇyaḥ puṣkarākṣo maheśvaraḥ || 95||
+pūrṇamūrtiḥ purāṇajñaḥ puṇyadaḥ prītivardhanaḥ |
+śaṅkhī cakrī gadī śārṅgī lāṅgalī musalī halī || 96||
+kirīṭī kuṇḍalī hārī mekhalī kavacī dhvajī |
+yoddhā jetā mahāvīryaḥ śatrujicchatrutāpanaḥ || 97||
+śāstā śāstrakaraḥ śāstraṃ śaṃkaraḥ śaṃkarastutaḥ |
+sārathiḥ sāttvikaḥ svāmī sāmavedapriyaḥ samaḥ || 98||
+pavanaḥ saṃhataḥ śaktiḥ sampūrṇāṅgaḥ samṛddhimān |
+svargadaḥ kāmadaḥ śrīdaḥ kīrtido'kīrtināśanaḥ || 99||
+mokṣadaḥ puṇḍarīkākṣaḥ kṣīrābdhikṛtaketanaḥ |
+sarvātmāsarvalokeśaḥ prerakaḥ pāpanāśanaḥ || 100||
+sarvavyāpī jagannāthaḥ sarvalokamaheśvaraḥ |
+sargasthityantakṛddevaḥ sarvalokasukhāvahaḥ || 101||
+akṣayyaḥ śāśvato'nantaḥ kṣayavṛddhivivarjitaḥ |
+nirlepo nirguṇaḥ sūkṣmo nirvikāro nirañjanaḥ || 102||
+sarvopādhivinirmuktaḥ sattāmātravyavasthitaḥ |
+adhikārī vibhurnityaḥ paramātmā sanātanaḥ || 103||
+acalo nirmalo vyāpī nityatṛpto nirāśrayaḥ |
+śyāmo yuvā lohitākṣo dīptāsyo mitabhāṣaṇaḥ || 104||
+ājānubāhuḥ sumukhaḥ siṃhaskandho mahābhujaḥ |
+satyavān guṇasampannaḥ svayaṃtejāḥ sudīptimān || 105||
+kālātmā bhagavān kālaḥ kālacakrapravartakaḥ |
+nārāyaṇaḥ paraṃjyotiḥ paramātmā sanātanaḥ || 106||
+viśvasṛḍviśvagoptā ca viśvabhoktā ca śāśvataḥ |
+viśveśvaro viśvamūrtirviśvātmā viśvabhāvanaḥ || 107||
+sarvabhūtasuhṛcchāntaḥ sarvabhūtānukampanaḥ |
+sarveśvareśvaraḥ sarvaḥ śrīmānāśritavatsalaḥ || 108||
+sarvagaḥ sarvabhūteśaḥ sarvabhūtāśayasthitaḥ |
+abhyantarasthastamasaśchettā nārāyaṇaḥ paraḥ || 109||
+anādinidhanaḥ sraṣṭā prajāpatipatirhariḥ |
+narasiṃho hṛṣīkeśaḥ sarvātmā sarvadṛgvaśī || 110||
+jagatastasthuṣaścaiva prabhurnetā sanātanaḥ |
+kartā dhātā vidhātā ca sarveṣāṃ prabhurīśvaraḥ || 111||
+sahasramūrtirviśvātmā viṣṇurviśvadṛgavyayaḥ |
+purāṇapuruṣaḥ sraṣṭā sahasrākṣaḥ sahasrapāt || 112||
+tattvaṃ nārāyaṇo viṣṇurvāsudevaḥ sanātanaḥ |
+paramātmā paraṃ brahma saccidānandavigrahaḥ || 113||
+paraṃjyotiḥ paraṃdhāmaḥ parākāśaḥ parātparaḥ |
+acyutaḥ puruṣaḥ kṛṣṇaḥ śāśvataḥ śiva īśvaraḥ || 114||
+nityaḥ sarvagataḥ sthāṇurugraḥ sākṣī prajāpatiḥ |
+hiraṇyagarbhaḥ savitā lokakṛllokabhṛdvibhuḥ || 115||
+rāmaḥ śrīmān mahāviṣṇurjiṣṇurdevahitāvahaḥ |
+tatvātmā tārakaṃ brahma śāśvataḥ sarvasiddhidaḥ || 116||
+akāravācyobhagavān śrīrbhūlīlāpatiḥ pumān |
+sarvalokeśvaraḥ śrīmān sarvajñaḥ sarvatomukhaḥ || 117||
+svāmī suśīlaḥ sulabhaḥ sarvajñaḥ sarvaśaktimān |
+nityaḥ sampūrṇakāmaśca naisargikasuhṛtsukhī || 118||
+kṛpāpīyūṣajaladhiśśaraṇyaḥ sarvadehinām |
+śrīmānnārāyaṇaḥ svāmī jagatāṃ patirīśvaraḥ || 119||
+śrīśaḥ śaraṇyo bhūtānāṃ saṃśritābhīṣṭadāyakaḥ |
+anantaḥ śrīpatī rāmo guṇabhṛnnirguṇo mahān || 120||
+|| iti śrīrāmasahasranāmastotraṃ sampūrṇam ||
+    </body>
+  </text>
+</TEI>

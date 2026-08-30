@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Gaṅgādharastotra</title>
+        <author>Appayyadīkṣita</author>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%97%E0%A4%99%E0%A5%8D%E0%A4%97%E0%A4%BE%E0%A4%A7%E0%A4%B0%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8B%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+॥ gaṅgādharastotram ॥
+kṣīrāmbhonidhimanthanodbhavaviṣātsandahyamānān surān brahmādīnavalokya yaḥ karuṇayā hālāhalākhyaṃ
+viṣam । niśśaṅkaṃ nijalīlayā kabalayanlokānnarakṣādarādārtatrāṇaparāyaṇassabhagavān gaṅgādharo megatiḥ।। 1
+kṣīraṃ svādu nipīya mātulagṛhebhuktvā svakīyaṃ gṛhaṃ kṣīrālābhavaśena khinnamanaseghoraṃ tapaḥ kurvate ।
+kāruṇyādupamanyaveniravadhiṃ kṣīrāṃbudhiṃ dattavānārtatrāṇa parāyaṇassabhagavān gaṅgādharo me gatiḥ ।। 2
+mṛtyuṃ vakṣasi tāḍayannijapadadhyānaikabhaktaṃ muniṃ mārkaḍeyamapālayatkaruṇayā liṃgādvinirgatya yaḥ ।
+netrāmbhojasamarpaṇenaharayebhīṣṭaṃ rathāṅgaṃ dadā vārtātrāṇa parāyaṇassabhagavān gaṅgādharo me gatiḥ ।। 3
+oḍhuṃ droṇajayadrathādirathikaissainyaṃ mahatkairavaṃ dṛṣṭvā kṛṣṇasahāyavantamapi taṃ bhītaṃ prapannārtihā । 
+pārthaṃ rakṣitavā namoghaviṣaya divyāstra mudbodhayannārta...।। 4
+bālaṃ śaivakulodbhavaṃ parihasatsvajñātipakṣākulaṃ khidyantaṃ tava mūrdhni puṣpanicayaṃ dātuṃ samudyatkaram ।
+dṛṣṭvā namyaviriñciramyanagare pūjāṃ tvadīyāṃ bhajannārta ...॥ 5
+saṃtrasteṣu purā surāsurabhayādindrādibṛndārakeṣvārūḍho dharaṇīrathaṃ śrutihayaṃ kṛtvā murāriṃ śaram ।
+rakṣanyaḥ kṛpayā samastavibudhāt jitvā purārīn kṣaṇā dārtatrāṇa...॥ 6
+śrautasmārtapatho parāṅbhuvamapi prodyanmahāpātakaṃ viśvādhīśamapatyameva gatirityālāpavantaṃ sakṛt ।
+rakṣanyaḥ karuṇāpayonidhiriti prāptaprasiddhiḥ purā hyārtratāṇa...॥ 7
+gāṅgaṃ vegamavāpyamānyavibudhaissoḍhuṃ purā yācito dṛṣṭvābhaktabhagīrathena vinato rudrojaṭāmaṇḍale। 
+kāruṇyā davanītale suranadīmāpūrayanpāvanī mārtatrāṇa parāyaṇa...॥ 8
+॥ iti śrīmadapparayyadīkṣitaviracitaṃ śrīgaṅgādharāṣṭakam ॥
+    </body>
+  </text>
+</TEI>

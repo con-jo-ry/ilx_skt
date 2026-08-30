@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sītārāmāṣṭaka</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A5%80%E0%A4%A4%E0%A4%BE%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%95%E0%A4%AE%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+brahmamahendrasurendramarudgaṇarudramunīndragaṇairatiramyaṃ
+kṣīrasaritpatitīramupetya nutaṃ hi satāmavitāramudāram |
+bhūmibharapraśamārthamatha prathitaprakaṭīkṛtacidghanamūrtim |
+tvāṃ bhajato raghunandana dehi dayāghana me svapadāmbujadāsyam || 1||
+padmadalāyatalocana he raghuvaṃśavibhūṣaṇa deva dayālo
+nirmalanīradanīlatano'khilalokahṛdambujabhāsaka bhāno |
+komalagātra pavitrapadābjarajaḥkaṇapāvita gautamakānta |
+tvāṃ bhajato raghunandana dehi dayāghana me svapadāmbujadāsyam || 2||
+pūrṇa parātpara pālaya māmatidīnamanāthamanantasukhābdhe
+prāvṛḍadabhrataḍitsumanoharapītavarāmbara rāma namaste |
+kāmavibhañjana kāntatarānana kāñcanabhūṣaṇa ratnakirīṭa |
+tvāṃ bhajato raghunandana dehi dayāghana me svapadāmbujadāsyam || 3||
+divyaśaracchaśikāntiharojjvalamauktikamālaviśālasumaule
+koṭiraviprabha cārucaritrapavitra vicitradhanuḥśarapāṇe |
+caṇḍamahābhujadaṇḍavikhaṇḍitarākṣasarājamahāgajadaṇḍam |
+tvāṃ bhajato raghunandana dehi dayāghana me svapadāmbujadāsyam || 4||
+doṣavihiṃsrabhujaṅgasahasrasuroṣamahānalakīlakalāpe
+janmajarāmaraṇormimaye madamanmathanakravicakrabhavābdhau |
+duḥkhanidhau ca ciraṃ patitaṃ kṛpayādya samuddhara rāma tato mām |
+tvāṃ bhajato raghunandana dehi dayāghana me svapadāmbujadāsyam || 5||
+saṃsṛtighoramadotkaṭakuñjaratṛṭkṣudanīradapiṇḍitatuṇḍaṃ
+daṇḍakaronmathitaṃ ca rajastama unmadamohapadojjhitamārtam |
+dīnamananyagatiṃ kṛpaṇaṃ śaraṇāgatamāśu vimocaya mūḍham |
+tvāṃ bhajato raghunandana dehi dayāghana me svapadāmbujadāsyam || 6||
+janmaśatārjitapāpasamanvitahṛtkamale patite paśukalpe
+he raghuvīra mahāraṇadhīra dayāṃ kuru mayyatimandamanīṣe |
+tvaṃ jananī bhaginī ca pitā mama tāvadasi tvavitāpi kṛpālo |
+tvāṃ bhajato raghunandana dehi dayāghana me svapadāmbujadāsyam || 7||
+tvāṃ tu dayālumakiñcanavatsalamutpalahāramapāramudāraṃ rāma
+vihāya kamanyamanāmayamīśa janaṃ śaraṇaṃ nanu yāyām |
+tvatpadapadmamataḥ śritameva mudā khalu deva sadāva sasīta |
+tvāṃ bhajato raghunandana dehi dayāghana me svapadāmbujadāsyam || 8||
+yaḥ karuṇāmṛtasindhuranāthajanottamabandhurajottamakārī
+bhaktabhayormibhavābdhitariḥ sarayūtaṭinītaṭacāruvihārī |
+tasya raghupravarasya nirantaramaṣṭakametadaniṣṭaharaṃ vai yastu
+paṭhedamaraḥ sa naro labhate'cyutarāmapadāmbujadāsyam || 9||
+|| iti śrīmanmadhusūdanāśramaśiṣyācyutayativiracitaṃ
+śrīsītārāmāṣṭakaṃ sampūrṇam ||
+    </body>
+  </text>
+</TEI>

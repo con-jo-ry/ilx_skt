@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Bilvāṣṭaka</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%AC%E0%A4%BF%E0%A4%B2%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%95%E0%A4%AE%E0%A5%8D"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+॥ bilvāṣṭakam ॥
+tridalaṃ triguṇākāraṃ trinetraṃ ca triyāyudhaṃ ।
+trijanmapāpasaṃhāraṃ ekabilvaṃ śivārpitam ॥ 1
+triśākhairbilvapatraiśca acchidraiḥ komalaiśśubhaiḥ ।
+tava pūjāṃ kariṣyāmi eka ...॥ 2
+darśanaṃ bilvavṛkṣaiśca sparśanaṃ pāpanāśanam ।
+aghorapāpasaṃhāraṃ eka ...॥ 3
+sālagrāmeṣu vipreṣu taṭāke vanakūpayoḥ ।
+yajñakoṭisahasrāṇāṃ eka ...॥ 4
+dantikoṭisahasreṣu aśvamedhaśatāni ca ।
+koṭikanyāpradānena eka ...॥ 5
+ekaṃ ca bilvapatraiśca koṭiyajñaphalaṃ labhet ।
+mahādevaiśca pūjārtha eka ...॥ 6
+kāśīkṣetre nivāsaṃ ca kālabhairavadarśanam ।
+gayāprayāgame dṛṣṭvā eka ...॥ 7
+umayā saha deveśaṃ vāhanaṃ nandiśaṅkaram ।
+mucyate sarvapāpebhyo ekabilvaṃ śivārpitam ॥ 8
+॥ iti śrībilvāṣṭakam ॥
+tulasī bilva nirguṇḍī apāmārgakapitthako ।
+śamī cāmalakaṃ dūrvā aṣṭabilvāḥ prakīrtitāḥ ॥ 9
+॥ityaṣṭabilvāni॥
+    </body>
+  </text>
+</TEI>

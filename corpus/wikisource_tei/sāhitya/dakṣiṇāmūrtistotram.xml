@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Dakṣiṇāmūrtistotra</title>
+        <respStmt>
+          <resp>Original digitization and proofreading</resp>
+          <name>Wikisource Contributors</name>
+        </respStmt>
+        <respStmt>
+          <resp>Compilation, IAST transliteration, and TEI encoding</resp>
+          <name>ERC-funded Intellexus project</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sanskrit Wikisource / ERC-funded Intellexus project</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+          </licence>
+          <p>
+            The underlying etext was sourced from Sanskrit Wikisource. In accordance with 
+            Wikisource's standard licensing, this derived and transliterated TEI edition is 
+            distributed under a CC BY-SA 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="https://sa.wikisource.org/wiki/%E0%A4%A6%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BF%E0%A4%A3%E0%A4%BE%E0%A4%AE%E0%A5%82%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8B%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D_(%E0%A4%AC%E0%A5%83%E0%A4%B9%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8B%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%BE%E0%A4%95%E0%A4%B0%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A4%B0%E0%A5%8D%E0%A4%97%E0%A4%A4%E0%A4%AE%E0%A5%8D)"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Compiled into a single file, transliterated to IAST, and converted to basic TEI encoding by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+viśvaṃ darpaṇadṛśyamānanagarītulyaṃ nijāntargatam, paśyannātmani māyayā bahirivodbhūtaṃ yadā nidrayā।
+yaḥ sākṣātkurute prabodhasamaye svātmānamevādvayam, tasmai śrīgurumūrtaye nama idaṃ śrīdakṣiṇāmūrtaye ॥1॥
+bījasyāntarivānkuro jagadidaṃ prāṅanirvikalpaṃ punarmāyākalpitadeśakālakalanāvaicitryacitrīkṛtam।
+māyāvīva vijṝmbhayatyapi mahāyogova yaḥ svecchayā tasmai śrīgurumūrtaye nama idaṃ śrīdakṣiṇāmūrtaye ॥2॥
+yasyaiva sphuraṇaṃ sadātmakamasatkalpārthakaṃ bhāsate sākṣāttattvamasīti vedavacasā yo bodhayatyāśritān।
+yatsākṣātkaraṇādbhavenna punarāvṛttirbhavāmbhonidhau tasmai śrīgurumūrtaye nama idaṃ śrīdakṣiṇāmūrtaye ॥3॥
+nānācchidraghaṭodarastithamahādīpaprabhābhāsvaraṃ jñānaṃ yasya tu cakṣurādikaraṇadvārā bahiḥ spandate।
+jānāmīti tameva bhāṃtamanubhātyetatsamastaṃ jagat tasmai śrīgurumūrtaye nama idaṃ śrīdakṣiṇāmūrtaye ॥4॥
+dehaṃ prāṇamapīndriyāṇyapi calāṃ buddhiṃ ca śūnyaṃ viduḥ strībālāṃdhajaḍopamāstvahamiti bhrāntā bhṛśaṃ vādinaḥ।
+māyāśaktivilāsakalpitamahāvyāmohasaṃhāriṇatasmai śrīgurumūrtaye nama idaṃ śrīdakṣiṇāmūrtaye ॥5॥
+rāhugrastadivākareṃdusadṛśo māyāsamācchādanāt saṃmātraḥ karaṇopasaṃharaṇato yo'bhūtsuṣuptaḥ pumān।
+prāgasvāpsamiti prabodhasamaye yaḥ pratyabhijñāyate tasmai śrīgurumūrtaye nama idaṃ śrīdakṣiṇāmūrtaye ॥6॥
+bālyādiṣvapi jāgradādiṣu tathā sarvāsvavasthāsvapi vyāvṛttāsvanuvartamānamahamityantaḥ sphurantaṃ sadā।
+svātmānaṃ prakaṭīkaroti bhajatāṃ yo mudrayā bhadrayā tasmai śrīgurumūrtaye nama idaṃ śrīdakṣiṇāmūrtaye ॥7॥
+viśvaṃ paśyati kāryakāraṇatayā svasvāmisambandhataḥ śiṣyācāryatayā tathaiva pitṛputrādyātmanā bhedataḥ।
+svapne jāgrati vā ya eṣa puruṣo māyāparibhrāmitaḥ tasmai śrīgurumūrtaye nama idaṃ śrīdakṣiṇāmūrtaye ॥8॥
+bhūrambhāṃsyanalo'nilo'mbaramaharnātho himāṃśuḥ pumān ityābhāti carācarātmakamidaṃ yasyaiva mūrtyaṣṭakam।
+nānyatkiñcana vidyate vimṛśatāṃ yasmātparasmādvibhostasmai śrīgurumūrtaye nama idaṃ śrīdakṣiṇāmūrtaye ॥9॥
+sarvātmatvamiti sphuṭikṛtamidaṃ yasmādamuṣmin stave tenāsya śravaṇāttadarthamananāddhayānācca saṃkīrtanāt।
+sarvātmatvamahāvibhūtisahitaṃ syādīśvaratvaṃ svataḥ siddhyettatpunaraṣṭadhā pariṇatam caiśvaryamavyāhatam॥10॥
+    </body>
+  </text>
+</TEI>
