@@ -1,8 +1,32 @@
-###########################################################################
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Ekāmranāthāṣṭataka and Ekāmranāthaśataka</title>
+        <respStmt>
+          <resp>Original digitization and data entry</resp>
+          <name>Muktabodha Indological Research Institute</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Muktabodha Indological Research Institute</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">
+            Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+          </licence>
+          <p>
+            The etext is provided by the Muktabodha Indological Research Institute 
+            under a CC BY-NC 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
 MUKTABODHA INDOLOGICAL RESEARCH INSTITUTE and INSTITUT FRANCAIS DE PONDICHERYCatalog number : I00029
 Uniform title: ekāmranāthāṣṭatakam and ekāmranāthaśatakam
 Manuscript : IFP manuscript bundle 30753
-Description: Description by Deviprasad Misra. This bundle consist of ekāmranāthāṣṭakam & ekāmranāthaśatakam. Śrī-ekāmranāthar temple is in Kanchipuram, Tamilnadu. One of the temples associated with the five elements, the Pañcabhūtasthalas, and specifically the element of earth, or Pṛthivī. Both of the stotras are with the word by word translation in Tamil (in Grantha Script itself). Ekāmranāthāṣṭakam is completed and Ekāmranāthaśatakam is not completed.
+Description: Description by Deviprasad Misra. This bundle consist of ekāmranāthāṣṭakam &amp; ekāmranāthaśatakam. Śrī-ekāmranāthar temple is in Kanchipuram, Tamilnadu. One of the temples associated with the five elements, the Pañcabhūtasthalas, and specifically the element of earth, or Pṛthivī. Both of the stotras are with the word by word translation in Tamil (in Grantha Script itself). Ekāmranāthāṣṭakam is completed and Ekāmranāthaśatakam is not completed.
 The bundle contains 75 folios and there are 4 to 6 lines in each folio. The size of this bundle is 13 cm / 2cm. The condition of the folio is a little bit damaged but the letters are very clean.
 Notes: This e text was produced under an agreement between the IFP (Institut Francais de Pondichery)  and The Muktabodha Indological Research Institute, India.
 
@@ -18,14 +42,21 @@ Revision 0: 2024/08/18
 Internet publisher : Internet publisher IFP and Muktabodha
 Publication year : 2024
 Publication country : No place, unknown or undetermined
-
-###########################################################################
-
-
-  
-          
-
-
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <idno type="muktabodha_catalog">I00029</idno>
+          <ptr target="https://muktabodha-digital-library.org/texts/IAST/I00029"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Mass converted to basic TEI encoding standards by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
 உ 
 ऒṃ śrīgurubhyo namaḥ 
 śrīsundaragaṇapataye namaḥ 
@@ -1070,8 +1101,7 @@ he sāmbaśivaśaṅkarā, vibho	- sarvavyā….yāna (5)
 
 i. 74b blank
 
-completed 
-
-
-     
-
+completed
+    </body>
+  </text>
+</TEI>

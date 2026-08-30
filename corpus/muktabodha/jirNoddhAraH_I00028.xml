@@ -1,4 +1,28 @@
-###########################################################################
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Jirṇoddhāra</title>
+        <respStmt>
+          <resp>Original digitization and data entry</resp>
+          <name>Muktabodha Indological Research Institute</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Muktabodha Indological Research Institute</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">
+            Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+          </licence>
+          <p>
+            The etext is provided by the Muktabodha Indological Research Institute 
+            under a CC BY-NC 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
 MUKTABODHA INDOLOGICAL RESEARCH INSTITUTE and INSTITUT FRANCAIS DE PONDICHERYCatalog number : I00028
 Uniform title: jirṇoddhāraḥ
 Secondary title: kāmikānusāri
@@ -19,12 +43,21 @@ Revision 0: 2024/08/18
 Internet publisher : Internet publisher IFP and Muktabodha
 Publication year : 2024
 Publication country : No place, unknown or undetermined
-
-###########################################################################
-
-
-  
-          
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <idno type="muktabodha_catalog">I00028</idno>
+          <ptr target="https://muktabodha-digital-library.org/texts/IAST/I00028"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Mass converted to basic TEI encoding standards by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
 de pondichery) 
 (research associate)
 (project co-ordinator).
@@ -8752,8 +8785,6 @@ dhanādhipaśritā(l2)
 mapi cottarāśā ślokapāṭhayute narte samāpte sati ācāryaḥ vikrameṇa hetipūrvakaṃ naṭeśvaraṃ visṛjya parāṅmukhārtha..... 
 (l3)
  utva| āśīrvādaprārthanāpūrvakamabhīṣṭa(ṣṭaṃ) cintayet| iti kāmikāgamoktanṛttavidhiḥ|| manuscript end.
-
-
-
-     
-
+    </body>
+  </text>
+</TEI>

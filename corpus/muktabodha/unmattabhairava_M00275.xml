@@ -1,4 +1,28 @@
-###########################################################################
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Unmattabhairava</title>
+        <respStmt>
+          <resp>Original digitization and data entry</resp>
+          <name>Muktabodha Indological Research Institute</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Muktabodha Indological Research Institute</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">
+            Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+          </licence>
+          <p>
+            The etext is provided by the Muktabodha Indological Research Institute 
+            under a CC BY-NC 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
 MUKTABODHA INDOLOGICAL RESEARCH INSTITUTEUse of this material (e-texts) is covered by Creative Commons license BY-NC 4.0. Catalog number : M00275
 Uniform title: unmattabhairava
 Manuscript : IFP/EFEO transcript T1020
@@ -10,12 +34,21 @@ Notes: Data entered by the staff of Muktabodha under the supervision of Mark S.G
 
 Revision 0: April 8, 2012
 Publication country : India
-
-###########################################################################
-
-
-
-
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <idno type="muktabodha_catalog">M00275</idno>
+          <ptr target="https://muktabodha-digital-library.org/texts/IAST/M00275"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Mass converted to basic TEI encoding standards by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
 {unmattabhairavahṛdayam}
 
 || śrīgaṇeśāya namaḥ ||
@@ -530,3 +563,6 @@ gururudrasaṃvāde śrī(-)unmatta bhairavahṛdayaṃ samāptam] | śubham ||
 (saṃ 2972 śā 2836 vaiśākha 2 gate 2 vāsare śrī unmattabhairavadāsa la0 pra0 a0) 
 (śarmaṇā lekhī || 023 sāla vaiśākha 23 gate pratilipi)
 (###########   END OF FILE  #######)
+    </body>
+  </text>
+</TEI>

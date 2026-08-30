@@ -1,4 +1,29 @@
-###########################################################################
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Tattvaratnāvalī</title>
+        <author ref="mbP0037">Vimalaśiva</author>
+        <respStmt>
+          <resp>Original digitization and data entry</resp>
+          <name>Muktabodha Indological Research Institute</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Muktabodha Indological Research Institute</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">
+            Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+          </licence>
+          <p>
+            The etext is provided by the Muktabodha Indological Research Institute 
+            under a CC BY-NC 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
 MUKTABODHA INDOLOGICAL RESEARCH INSTITUTEUse of this material (e-texts) is covered by Creative Commons license BY-NC 4.0. Catalog number : M00290
 Uniform title: tattvaratnāvalī
 Author : vimalaśiva
@@ -6,11 +31,21 @@ Manuscript : NGMCP 1-1697-7/6 reel number: B 26/16
 Description: Tattvaratnāvalī by Vimalaśiva a South Indian Siddhāntin. This is a brief liturgical manual for the basic rites of Siddhānta śaivism. The first chapter deals with the regular daily rite (nitya) and the second with occasional rite (naimittika) performed on special festive occasions. The third chapter deals with the worship of the basic Navanābhamaṇḍala with nine sections, eight arranged around the central one each containing nine parts of the 81 parts (pada) of the Vyomavyāpin mantra which is the standard mantra of Siddhānta śaivism which begins with invocation of Sadāśiva as Vyomavyapin, that is, as -the one who pervades the sky-(written out fully on fl. 10)
 Notes: Revision 0: December 17, 2013
 Publication country : India
-
-###########################################################################
-
-
-
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <idno type="muktabodha_catalog">M00290</idno>
+          <ptr target="https://muktabodha-digital-library.org/texts/IAST/M00290"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Mass converted to basic TEI encoding standards by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
 {tattvaratnāvalī}
 
 <1>  (unclear)
@@ -1237,3 +1272,6 @@ icchaṃ sāmānya dīkṣāto bhavedyogyo (****)(?) ||
 
 
 (###########   END OF FILE  #######)
+    </body>
+  </text>
+</TEI>

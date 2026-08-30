@@ -1,4 +1,28 @@
-###########################################################################
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Dhyānaśloka, Navatriṃśatkalaśakrama, Nītisāra</title>
+        <respStmt>
+          <resp>Original digitization and data entry</resp>
+          <name>Muktabodha Indological Research Institute</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Muktabodha Indological Research Institute</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">
+            Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+          </licence>
+          <p>
+            The etext is provided by the Muktabodha Indological Research Institute 
+            under a CC BY-NC 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
 MUKTABODHA INDOLOGICAL RESEARCH INSTITUTE and INSTITUT FRANCAIS DE PONDICHERYUse of this material (e-texts) is covered by Creative Commons license BY-NC 4.0.
 Catalog number : I00059
 Uniform title: Dhyānaśloka, Navatriṃśatkalaśakrama, Nītisāra
@@ -11,12 +35,21 @@ Publication country : No place, unknown or undetermined
 File Size : 39 KB
 Traditions : Late Śaiva Siddhānta
 Genre : Paddhati
-
-###########################################################################
-
-
-  
-          
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <idno type="muktabodha_catalog">I00059</idno>
+          <ptr target="https://muktabodha-digital-library.org/texts/IAST/I00059"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Mass converted to basic TEI encoding standards by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
 re-32583
 dhyānaślokāḥ navatriṃśatkalaśakrama & nītisāra
 
@@ -542,9 +575,6 @@ pañcāvaraṇe..(l.6).... śaktiñca daṇḍañca khaḍgaṃ ca pāśaṃ tat
 ... mohinī caiva bhaktanugrahakāriṇi sākṣiṇaṃ viśvarakṣā catvacalāpadmasamsthitā śrī..(l.2) loka mātre ca siddhidevīṃ prapūjayet । (l.3)
 .....varaṇaṃ anantādi dvitīyavaraṇaṃ nandyādi tṛtīyavaraṇaṃ indrādi vajra...
 ****
-
-
-
-
-     
-
+    </body>
+  </text>
+</TEI>

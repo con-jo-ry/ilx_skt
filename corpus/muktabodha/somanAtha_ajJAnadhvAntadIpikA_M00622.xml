@@ -1,4 +1,29 @@
-###########################################################################
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Ajñānadhvāntadīpikā</title>
+        <author ref="mbP0003">Somanātha</author>
+        <respStmt>
+          <resp>Original digitization and data entry</resp>
+          <name>Muktabodha Indological Research Institute</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Muktabodha Indological Research Institute</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">
+            Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+          </licence>
+          <p>
+            The etext is provided by the Muktabodha Indological Research Institute 
+            under a CC BY-NC 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
 MUKTABODHA INDOLOGICAL RESEARCH INSTITUTEUse of this material (e-texts) is covered by Creative Commons license BY-NC 4.0. Catalog number : M00622
 Uniform title: ajñānadhvāntadīpikā
 Author : somanātha
@@ -9,8 +34,21 @@ Notes: Data entered by the staff of Muktabodha under the direction of Anirban Da
 Revision 0: May 20, 2023     
 Revision 1: Nov. 29, 2023
 Publication country : India
-
-###########################################################################
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <idno type="muktabodha_catalog">M00622</idno>
+          <ptr target="https://muktabodha-digital-library.org/texts/IAST/M00622"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Mass converted to basic TEI encoding standards by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
 (na0 - 4966)
 (pu. nāmaḥ ajñānadhvāntadīpikā)
 (kartāḥ śrīsomanāthaḥ)
@@ -1531,3 +1569,6 @@ yaṃtracitra(....)
 <pṛ0 38> (ṭḥīṣ FOḻīO īṣ BḻāṇK.......)
 
 (###########   END OF FILE  #######)
+    </body>
+  </text>
+</TEI>

@@ -1,18 +1,51 @@
-###########################################################################
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Jayadrathayāmala Ṣaṭka 4</title>
+        <respStmt>
+          <resp>Original digitization and data entry</resp>
+          <name>Muktabodha Indological Research Institute</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Muktabodha Indological Research Institute</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">
+            Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+          </licence>
+          <p>
+            The etext is provided by the Muktabodha Indological Research Institute 
+            under a CC BY-NC 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
 MUKTABODHA INDOLOGICAL RESEARCH INSTITUTEUse of this material (e-texts) is covered by Creative Commons license BY-NC 4.0.
 Catalog number : M00681
 Uniform title: Jayadrathayāmala Ṣaṭka 4
 Manuscript : NAK 1.1468, NGMPP b122/4; paper; Newari script; 237 folios; scribed in A.D. 1626/7
-Notes: Data-entered by the staff of Muktabodha under the supervision of Anirban Dash.Varanasi team metadata:NATIONAL ARCHIVES NEPALSubject : "saivatantraJayadrathayaamalaManuscript No. 1-1468Reel No. : B122/4No. of leaves: 239Remarks: Paper, NewaariiscriptSize: 33x8cmRevision 0: Apr 9, 2026
+Notes: Data-entered by the staff of Muktabodha under the supervision of Anirban Dash.Varanasi team metadata:NATIONAL ARCHIVES NEPALSubject : &quot;saivatantraJayadrathayaamalaManuscript No. 1-1468Reel No. : B122/4No. of leaves: 239Remarks: Paper, NewaariiscriptSize: 33x8cmRevision 0: Apr 9, 2026
 Publication year : 2026
 Publication country : India
 Traditions : Kālīkulakrama, Trika, Bhairava Tantras, Śākta General, Kaula General
-
-###########################################################################
-
-
-  
-          
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <idno type="muktabodha_catalog">M00681</idno>
+          <ptr target="https://muktabodha-digital-library.org/texts/IAST/M00681"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Mass converted to basic TEI encoding standards by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
 (1a)
 oṃ namaḥ śivādigurubhyaḥ ।
 
@@ -18242,9 +18275,6 @@ anena puṇyayogena - - - - - yo'stume ।। ।।
 1patra mahālakṣmīsiddhi ।।
 1patra mahālakṣmīvidhi  ।।
 1patra mahālakṣmīvidhirasasiddhi ।।
-
-
-
-
-     
-
+    </body>
+  </text>
+</TEI>

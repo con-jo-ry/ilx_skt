@@ -1,4 +1,29 @@
-###########################################################################
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Āścaryayogamālā Laghuvṛtti</title>
+        <author ref="mbP0130">Guṇākara</author>
+        <respStmt>
+          <resp>Original digitization and data entry</resp>
+          <name>Muktabodha Indological Research Institute</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Muktabodha Indological Research Institute</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">
+            Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+          </licence>
+          <p>
+            The etext is provided by the Muktabodha Indological Research Institute 
+            under a CC BY-NC 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
 MUKTABODHA INDOLOGICAL RESEARCH INSTITUTEUse of this material (e-texts) is covered by Creative Commons license BY-NC 4.0. Catalog number : M00286
 Uniform title: āścaryayogamālā
 Main title: āścaryayogamālā with commentary  laghuvṛtti
@@ -10,12 +35,21 @@ Manuscript : NGMCP 1-33 reel number B-114/19
 Description: āścaryayogamālā (also called Yogaratnāvalī or Yogaratnamālā) (the Rosary of Astonishing Yogas) by Nāgārjuna with a short commentary (laghuvṛtti) by Guṇākara who is a Jaina (śvetāmbara) scholar. This Nāgārjuna is famous as the author (or the namesake of various authors) of works on magic (ṣaṭkarma). A manuscript in the Asiatic Society in Bombay dates the composition of the work as 1240 CE. It was written, the text tells us, to serve people needs and delight them. It deals with standard matters of magic beginning with control of others (vaśīkaraṇa), then the checking of an enemies army (stambhana), killing of enemies (śatrumāraṇa), attraction of women (akarṣaṇa) and ways of attaining various magical powers (siddhi) through the preparation of potions, which the text describes in detail, and mantras.
 Notes: Revision 0: December 17,  2013
 Publication country : India
-
-###########################################################################
-
-
-
-
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <idno type="muktabodha_catalog">M00286</idno>
+          <ptr target="https://muktabodha-digital-library.org/texts/IAST/M00286"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Mass converted to basic TEI encoding standards by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
 oṃ śrīgaṇeśāya namaḥ ||
 
 gurvabhiprāyasamudrāt vividhāni dṛṣṭapratyayāni yogaratnānuciṃtyocintya 
@@ -1235,3 +1269,6 @@ bhaktamaṃḍe śuddhatailaṃ tilasya nikṣpya pīyate vīryastaṃbhaḥ sy�
 
 
 (###########   END OF FILE  #######)
+    </body>
+  </text>
+</TEI>

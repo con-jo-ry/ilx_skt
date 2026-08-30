@@ -1,15 +1,49 @@
-###########################################################################
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kākacaṇḍeśvarīmata</title>
+        <respStmt>
+          <resp>Original digitization and data entry</resp>
+          <name>Muktabodha Indological Research Institute</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Muktabodha Indological Research Institute</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">
+            Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+          </licence>
+          <p>
+            The etext is provided by the Muktabodha Indological Research Institute 
+            under a CC BY-NC 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
 MUKTABODHA INDOLOGICAL RESEARCH INSTITUTEUse of this material (e-texts) is covered by Creative Commons license BY-NC 4.0. Catalog number : M00287
 Uniform title: kākacaṇḍeśvarīmata
 Manuscript : NGMCP 3 - 118 reel number: A 211/8
 Description: Kākacaṇḍeśvarīmata (the Teaching for the Fierce Crow Goddess). The text is framed as a dialogue between Kākacaṇḍeśvarī (also called Kākacāmuṇḍā) who is equated with Kaṃkālī (the Skeleton) and Kālarātrī (Dark Night), both forms of Kālī. She is the consort (Umādevī) of the five headed Bhairava, who is probably with Svacchandabhairava, who is in some of his aspects a medicine god. They are seated on mount Kailāsa. After imploring him for the knowledge that leads to liberation, the god promising to do so, teaches the preparation of herbs for healing and magic most especially he focuses on the magical preparation of alchemical mercury making this an important unpublished work on Indian alchemy.
 Notes: Revision 0: December 17, 2013
 Publication country : India
-
-###########################################################################
-
-
-
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <idno type="muktabodha_catalog">M00287</idno>
+          <ptr target="https://muktabodha-digital-library.org/texts/IAST/M00287"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Mass converted to basic TEI encoding standards by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
 śrīgaṇeśāya namaḥ || 
 
 bhṛgvādi devadeveśaṃ ahaṃ pṛcchāmiśaṃkaraṃ | 
@@ -2310,3 +2344,6 @@ mudgamāṣavaṭī kṛtvāḥ | jvaraṃ haṃtyaṣṭabhiḥ yāmehyaṣṭa
 
 
 (###########   END OF FILE  #######)
+    </body>
+  </text>
+</TEI>

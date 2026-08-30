@@ -1,4 +1,29 @@
-###########################################################################
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Gorakṣayogaśāstram</title>
+        <author ref="mbP0031">Gorakṣanātha</author>
+        <respStmt>
+          <resp>Original digitization and data entry</resp>
+          <name>Muktabodha Indological Research Institute</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Muktabodha Indological Research Institute</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">
+            Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+          </licence>
+          <p>
+            The etext is provided by the Muktabodha Indological Research Institute 
+            under a CC BY-NC 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
 MUKTABODHA INDOLOGICAL RESEARCH INSTITUTEUse of this material (e-texts) is covered by Creative Commons license BY-NC 4.0. Catalog number : M00288
 Uniform title: gorakṣayogaśāstram
 Secondary title: mūlasāra
@@ -7,11 +32,21 @@ Manuscript : NGMCP 5-332 reel number: B24/44
 Description: Gorakṣayogaśāstram also called Mūlasāra the Essence of the Root this is a work on Yoga written in the manner of a stotra so that by reading and repeating it daily, one accfrues countless benefits. It opens with a summary of the contents of the subtle body, the vital channels, Sun, Moon and Fire, the Cakras and sacred Kaula sites, the Self that resides there, the 14 worlds, oceans, rivers  all that is in the Egg of Brahmā is in the body. The Moon on the peak of the inner Mount Meru raisn down nectar throughout the body and so it goes on describing the activity and function of the inner contents of the body listed at the beginning. The treatise (śāstra) as its very name suggests is attributed to Gorakṣanātha, the founder of Haṭhayoga.
 Notes: December 17, 2013
 Publication country : India
-
-###########################################################################
-
-
-
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <idno type="muktabodha_catalog">M00288</idno>
+          <ptr target="https://muktabodha-digital-library.org/texts/IAST/M00288"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Mass converted to basic TEI encoding standards by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
 namo ādināthāya ||
 
 īśvara uvāca ||
@@ -270,3 +305,6 @@ ataḥ puṇyataraṃ śāstraṃ nocātra vidyate kvacit ||65||
 
 
 (###########   END OF FILE  #######)
+    </body>
+  </text>
+</TEI>

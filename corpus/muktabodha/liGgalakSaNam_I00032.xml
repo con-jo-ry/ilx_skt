@@ -1,4 +1,28 @@
-###########################################################################
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Liṅgalakṣaṇa</title>
+        <respStmt>
+          <resp>Original digitization and data entry</resp>
+          <name>Muktabodha Indological Research Institute</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Muktabodha Indological Research Institute</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">
+            Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+          </licence>
+          <p>
+            The etext is provided by the Muktabodha Indological Research Institute 
+            under a CC BY-NC 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
 MUKTABODHA INDOLOGICAL RESEARCH INSTITUTE and INSTITUT FRANCAIS DE PONDICHERYCatalog number : I00032
 Uniform title: liṅgalakṣaṇam
 Manuscript : IFP manuscript bundle 10980
@@ -19,15 +43,21 @@ Revision 0: 2024/10/27
 Internet publisher : Internet publisher IFP and Muktabodha
 Publication year : 2024
 Publication country : No place, unknown or undetermined
-
-###########################################################################
-
-
-  
-          
-
-
-
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <idno type="muktabodha_catalog">I00032</idno>
+          <ptr target="https://muktabodha-digital-library.org/texts/IAST/I00032"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Mass converted to basic TEI encoding standards by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
 re 10980, liṅgalakṣaṇam|
 p= picture/image of the folio.
 f = number in the folio.
@@ -209,7 +239,6 @@ pāpātmatāpatrayataptadehaṃ parāṅgati(tiṃ) gantumupāyavarji| (l5.)
 paravamāne narātma bhāvanarādhavaṃ māṃ śiva pāhi śambho || 8 ||
 || śivapāhi aṣṭakaṃ saṃpūrṇam || (p. 20a to 22b)
 full blank page. manuscript end.
-
-
-     
-
+    </body>
+  </text>
+</TEI>

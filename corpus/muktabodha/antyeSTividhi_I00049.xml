@@ -1,21 +1,54 @@
-###########################################################################
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Antyeṣṭividhi</title>
+        <respStmt>
+          <resp>Original digitization and data entry</resp>
+          <name>Muktabodha Indological Research Institute</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Muktabodha Indological Research Institute</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">
+            Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+          </licence>
+          <p>
+            The etext is provided by the Muktabodha Indological Research Institute 
+            under a CC BY-NC 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
 MUKTABODHA INDOLOGICAL RESEARCH INSTITUTE and INSTITUT FRANCAIS DE PONDICHERYUse of this material (e-texts) is covered by Creative Commons license BY-NC 4.0.
 Catalog number : I00049
 Uniform title: Antyeṣṭividhi
 Manuscript : IFP manuscript bundle RE30578
-Description: RE30578 Antyesthividhi. This palm-leaf manuscript bundle is a rare and well-preserved ceremonial text focusing on Viśeṣāntyeṣṭi. It specialises in final rites intended exclusively for those who have received Dīkṣā (initiation). It also addresses the second stage of initiation, known as Viśeṣadīkṣā, following the Putra-kannaku (the spiritual lineage/sonship) tradition.The text is remarkable for its procedural clarity, providing a "direct-facing" (Ner-ethira) methodology for conducting the pūjā. It serves as a comprehensive guide to Adhvaśuddhi, meticulously mapping out the four Kalās: Śānti, Vidya, Pratiṣṭha, and Nivritti. For each Kalā, the manuscript provides a granular breakdown of its constituent Tattvas, Bhuvanas, Varṇas, Padas, and Mantras. Furthermore, it serves as a manual for the 12-day post-mortuary cycle, ensuring that every ritualistic requirement for the initiated soul is met with precision.The codex is in excellent condition, showing no signs of decay or damage. Each folio is densely packed with information, containing between 6 and 11 lines of clearly inscribed script. The size is 3.8 cm x 18.5 cm.
+Description: RE30578 Antyesthividhi. This palm-leaf manuscript bundle is a rare and well-preserved ceremonial text focusing on Viśeṣāntyeṣṭi. It specialises in final rites intended exclusively for those who have received Dīkṣā (initiation). It also addresses the second stage of initiation, known as Viśeṣadīkṣā, following the Putra-kannaku (the spiritual lineage/sonship) tradition.The text is remarkable for its procedural clarity, providing a &quot;direct-facing&quot; (Ner-ethira) methodology for conducting the pūjā. It serves as a comprehensive guide to Adhvaśuddhi, meticulously mapping out the four Kalās: Śānti, Vidya, Pratiṣṭha, and Nivritti. For each Kalā, the manuscript provides a granular breakdown of its constituent Tattvas, Bhuvanas, Varṇas, Padas, and Mantras. Furthermore, it serves as a manual for the 12-day post-mortuary cycle, ensuring that every ritualistic requirement for the initiated soul is met with precision.The codex is in excellent condition, showing no signs of decay or damage. Each folio is densely packed with information, containing between 6 and 11 lines of clearly inscribed script. The size is 3.8 cm x 18.5 cm.
 Notes: This e-text was produced under an agreement between the IFP (Institut Francais de Pondichery) and The Muktabodha Indological Research Institute, India.The e-text was prepared by the team of Indology scholars at the IFP, under the supervision of Dr. Deviprasad Mishra (Project Co-ordinator).The project was funded by the Muktabodha Indological Research Institute, India.©2023 Institut Francais de Pondichery and Muktabodha Indological Research Institute. Released under Creative Commons BY-NC 4.0; please give appropriate credit to both the IFP and Muktabodha Indological Research Institute when using this e-text.Revision 0: Jan 20, 2026
 Internet publisher : Internet publisher IFP and Muktabodha
 Publication year : 2026
 Publication country : No place, unknown or undetermined
 Traditions : Late Śaiva Siddhānta
 Genre : Paddhati
-
-###########################################################################
-
-
-  
-          
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <idno type="muktabodha_catalog">I00049</idno>
+          <ptr target="https://muktabodha-digital-library.org/texts/IAST/I00049"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Mass converted to basic TEI encoding standards by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
 re - 30578
 antyeṣṭividhiḥ
 
@@ -1089,8 +1122,6 @@ tatdakṣaraṇāṃ layaṃ datvā । iti caturthaṃ (l.2) vṛśaku...śakti
 tata unmanyante vidyamānanityabhūtaśivasthāna ātma (l.3) vyaktikaraṇatvāt । tatvavividhaṃ saptaṃ iti bhāvanāṃ datvā । (l.4) ātmānaṃ sṛgantare vyāpta iti datvā । (l.5) unmanāyukteḥ pareniṣkale śiṣyātmānaṃ rudrapade (l.6) yojayet ।
 puñcasthairyārtham । (p.88a, l.1) pūrṇā...kṣipet । prāyaścittārthaṃ astreṇā()ṣṭāhutiḥ hutvā ।
 ॥ śubhamastu ॥
-
-
-
-     
-
+    </body>
+  </text>
+</TEI>

@@ -1,4 +1,28 @@
-###########################################################################
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Parārthapūjā</title>
+        <respStmt>
+          <resp>Original digitization and data entry</resp>
+          <name>Muktabodha Indological Research Institute</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Muktabodha Indological Research Institute</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">
+            Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+          </licence>
+          <p>
+            The etext is provided by the Muktabodha Indological Research Institute 
+            under a CC BY-NC 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
 MUKTABODHA INDOLOGICAL RESEARCH INSTITUTE and INSTITUT FRANCAIS DE PONDICHERYUse of this material (e-texts) is covered by Creative Commons license BY-NC 4.0.
 Catalog number : I00058
 Uniform title: Parārthapūjā
@@ -11,12 +35,21 @@ Publication country : No place, unknown or undetermined
 File Size : 70 KB
 Traditions : Late Śaiva Siddhānta
 Genre : Paddhati
-
-###########################################################################
-
-
-  
-          
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <idno type="muktabodha_catalog">I00058</idno>
+          <ptr target="https://muktabodha-digital-library.org/texts/IAST/I00058"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Mass converted to basic TEI encoding standards by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
 re-31011 பரார்த்தபூஜை
 
 dots (...) are used to mention the missing parts/leaf damage/unidentified characters
@@ -615,8 +648,6 @@ karmadevimā... । dhūpadīpārātrikabhasmadarpaṇachatracāmaravyajanānyā
 (p.43b, l.1)
 niveditaṃ nivedyā । ācamanārghyau datvā । tadarghyamupasamharet । iti manonmani pūjāvidhiḥ । (l.2) śubhamastu । sarasvatikṛpākaṭākṣasiddhirastu śrīānandavallī sameta śrī agastayeśvarāya namaḥ । vallidevasenā sameta subrahmaṇyāya namaḥ । (l.3) īśvaranāmasaṃvatsaraṃ । sihmamāsam । guruvāram । śuklāṣṭamī viśākhānakṣatraṃ aparāhnapañcādaśaghaṭikātparam । sirukuṇḍraṃ (l.4)subrahmaṇyan kośapeṭṭai । subrahmaṇyagurū எழுதிக்கொடுத்த parārthapūjāviddhītī(ddhatīti) likhitvā ।
 । parisamāptam ।
-
-
-
-     
-
+    </body>
+  </text>
+</TEI>

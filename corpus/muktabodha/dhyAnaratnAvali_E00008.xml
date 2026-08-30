@@ -1,4 +1,28 @@
-###########################################################################
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Dhyānaratnāvali</title>
+        <respStmt>
+          <resp>Original digitization and data entry</resp>
+          <name>Muktabodha Indological Research Institute</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Muktabodha Indological Research Institute</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">
+            Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+          </licence>
+          <p>
+            The etext is provided by the Muktabodha Indological Research Institute 
+            under a CC BY-NC 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
 MUKTABODHA INDOLOGICAL RESEARCH INSTITUTEUse of this material (e-texts) is covered by Creative Commons license BY-NC 4.0. Catalog number : E0008
 Uniform title: dhyānaratnāvali
 Manuscript : IFP transcript T0232
@@ -19,12 +43,21 @@ Revision 0: Feb. 16, 2013
 Internet publisher : Muktabodha
 Publication year : 2013
 Publication country : United States
-
-###########################################################################
-
-
-
-
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <idno type="muktabodha_catalog">E00008</idno>
+          <ptr target="https://muktabodha-digital-library.org/texts/IAST/E00008"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Mass converted to basic TEI encoding standards by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
 (read khaḍga- for khaṭga-)
 
 || śubhamastu ||
@@ -6382,3 +6415,6 @@ kapālaśūlasaṃyuktāṃ pāśaṃ ḍamarukantathā |
 
 
 (###########   END OF FILE  #######)
+    </body>
+  </text>
+</TEI>

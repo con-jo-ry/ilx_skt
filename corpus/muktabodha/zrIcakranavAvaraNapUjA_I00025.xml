@@ -1,11 +1,33 @@
-
-
-###########################################################################
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Śrīcakranavāvaraṇapūjā</title>
+        <respStmt>
+          <resp>Original digitization and data entry</resp>
+          <name>Muktabodha Indological Research Institute</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Muktabodha Indological Research Institute</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">
+            Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+          </licence>
+          <p>
+            The etext is provided by the Muktabodha Indological Research Institute 
+            under a CC BY-NC 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
 MUKTABODHA INDOLOGICAL RESEARCH INSTITUTE and INSTITUT FRANCAIS DE PONDICHERYCatalog number : I00025
 Uniform title: śrīcakranavāvaraṇapūjā
 Manuscript : IFP manuscript 31226
 Description: Description by Deviprasad Misra.
- śrīīcakranavāvaraṇapūjā this text starts with Dīpapūja and then continued to the dhyānās to the devatas which are there in the circles of the nine ( śrīīcakranavāvaraṇa) also it recited the mūlamantrās and gurupūja in between, all that covers the Devī (Goddess) ( śrīīcakra). That&rsquo;s what it is known as navāvaraṇapūjā. 
+ śrīīcakranavāvaraṇapūjā this text starts with Dīpapūja and then continued to the dhyānās to the devatas which are there in the circles of the nine ( śrīīcakranavāvaraṇa) also it recited the mūlamantrās and gurupūja in between, all that covers the Devī (Goddess) ( śrīīcakra). That&amp;rsquo;s what it is known as navāvaraṇapūjā. 
 The bundle contains 50 folios and there are 8 to 9 lines in each folio. The size of this bundle is 26.5 cm /3.2cm. The condition of the folio is a little bit damaged but the letters are very clear.
 Notes: This e text was produced under an agreement between the IFP (Institut Francais de Pondichery)  and The Muktabodha Indological Research Institute, India.
 
@@ -13,16 +35,29 @@ The e-text was prepared by the staff of the IFP, Sambandhan Anandavardhana (Rese
 
 The project was funded by the Muktabodha Indological Research Institute, India
 
-&copy;2023 Institut Francais de Pondichery and Muktabodha Indological Research Institute. Released under Creative Commons BY-NC 4.0; please give appropriate credit to both the IFP and Muktabodha Indological Research Institute when using this e-text.               
+&amp;copy;2023 Institut Francais de Pondichery and Muktabodha Indological Research Institute. Released under Creative Commons BY-NC 4.0; please give appropriate credit to both the IFP and Muktabodha Indological Research Institute when using this e-text.               
 Words/letters within brackets are the suggestions of Dr. Deviprasad Mishra
-Dots (&hellip;.) are used to mention the missing parts/leaf damage/unidentified characters          
+Dots (&amp;hellip;.) are used to mention the missing parts/leaf damage/unidentified characters          
 
 Revision 0: 2024/07/09
 Internet publisher : Internet publisher IFP and Muktabodha
 Publication year : 2024
 Publication country : No place, unknown or undetermined
-
-###########################################################################
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <idno type="muktabodha_catalog">I00025</idno>
+          <ptr target="https://muktabodha-digital-library.org/texts/IAST/I00025"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Mass converted to basic TEI encoding standards by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
 <re 31226>
 
 (p. 4b, l1.) dīpapūjāvidhi(dhiḥ) (-) ādau saṅkalpya| durgācakraṃ vā padmaṃ vā likhe(t)| caturdalacakrāṇāṃ ca ta(thā) vilikhet| (l2.) tadanantaraṃ padmopari dhānyataṇḍulānyāpūrya| tanmadhye dīpaṃ (saṃ)sthāpya| pañcatrīvarttīn kṛ(tvā)| (l3.) gaṇapatidīpaṃ kṛtvā| ādau bhūśuddhibhūtaśuddhiñca śoṣaṇaplā(vana)dānādīñca prāṇapratiṣṭhāñca mātṛkā(l4.)nyāsañca dikbandhanādīñca kṛtvā| tadanantaram| gaṇapati(da)le gaṇapateḥ (śo)ḍaśopacāran (l5.) kṛtvā| tadanantaraṃ devīṃ vāchamaya iti mantreṇa (āpūrya)| unmīlya| (…) varṇāṃbuja iti (l6.) dhyānena durgāṃ dīpeṣu āvāhya| pañcamudrāṃ prada(rśya) (prā)ṇapratiṣṭhāvidhinā (l7.) prāṇapratiṣṭhāṃ kṛtvā| mūlena āvāhanādiṣoḍaśopacāra(pūjāṃ ca kṛ)tvā| datanantaraṃ (sa)ptaśatīṃ (l8.) paṭhet| paścāt dhūpadīpān kṛtvā| tadanantaraṃ naivedya tāmbūlāni(…)| tadanantaraṃ (l9.) mūlena puṣpāñjalīn aṣṭottaraśatavāraṃ kṛtvā| tataḥ pa(ñca)dīpa(durgāṃ) prārthya| 
@@ -433,5 +468,6 @@ dārāsāmandhāvati| ugrā(....)dhāvai| (l9.) dhvahriyo puruṣasyorāvihagrā
 
  
 <E-texts may be viewed only online or downloaded for private study.>
-          
-
+    </body>
+  </text>
+</TEI>

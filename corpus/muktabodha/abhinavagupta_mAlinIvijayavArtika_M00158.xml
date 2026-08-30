@@ -1,18 +1,53 @@
-###########################################################################
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mālinīvijayavārtika</title>
+        <author ref="mbP0017">Abhinavagupta</author>
+        <respStmt>
+          <resp>Original digitization and data entry</resp>
+          <name>Muktabodha Indological Research Institute</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Muktabodha Indological Research Institute</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">
+            Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+          </licence>
+          <p>
+            The etext is provided by the Muktabodha Indological Research Institute 
+            under a CC BY-NC 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
 MUKTABODHA INDOLOGICAL RESEARCH INSTITUTEUse of this material (e-texts) is covered by Creative Commons license BY-NC 4.0. Catalog number : M00158
 Uniform title: mālinīvijayavārtika
 Author : abhinavagupta
 Description: Photographed from volume 32 of the Kashmir Series of Texts and Studies.
-Notes: This volume is no. 32 of the K.S.T.S. series but it was incorrectly printed as volume 31 on both the english and sanskrit title pages. In one specimen examined the volume no. had been altered by hand (possibly by the printers or publishers) to the correct volume number (i.e. 32) but in another specimen examined it had not been corrected. This volume is erroneous listed as vol. 31 in many (but not all) library and other types of bibliographic records examined including the --Descriptive Analysis of The Kashmir Series of Texts &amp; Studie--, but the first volume of The Svacchanda Tantra is invariably correctly titled as vol. 31 of the K.S.T.S. series.
+Notes: This volume is no. 32 of the K.S.T.S. series but it was incorrectly printed as volume 31 on both the english and sanskrit title pages. In one specimen examined the volume no. had been altered by hand (possibly by the printers or publishers) to the correct volume number (i.e. 32) but in another specimen examined it had not been corrected. This volume is erroneous listed as vol. 31 in many (but not all) library and other types of bibliographic records examined including the --Descriptive Analysis of The Kashmir Series of Texts &amp;amp; Studie--, but the first volume of The Svacchanda Tantra is invariably correctly titled as vol. 31 of the K.S.T.S. series.
 Publisher : Research Department Jammu and Kashmir State
 Publication year : 1921
 Publication city : Srinagar
 Publication country : India
-
-###########################################################################
-
-
-
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <idno type="muktabodha_catalog">M00158</idno>
+          <ptr target="https://muktabodha-digital-library.org/texts/IAST/M00158"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Mass converted to basic TEI encoding standards by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
 <oṃ>
 <kāśmīrasaṃskṛtagranthāvaliḥ |>
 <granthāṅkaḥ 31>
@@ -5143,3 +5178,6 @@ madhusūdanakaulena saṃpādyedaṃ prakāśitam ||
 
 
 <###########   END OF FILE  #######>
+    </body>
+  </text>
+</TEI>

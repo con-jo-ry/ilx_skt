@@ -1,6 +1,29 @@
-
-
-###########################################################################
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Śatarudriyabhāṣya</title>
+        <author ref="mbP0169">Abhinavaśaṅkara ?</author>
+        <respStmt>
+          <resp>Original digitization and data entry</resp>
+          <name>Muktabodha Indological Research Institute</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Muktabodha Indological Research Institute</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">
+            Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+          </licence>
+          <p>
+            The etext is provided by the Muktabodha Indological Research Institute 
+            under a CC BY-NC 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
 MUKTABODHA INDOLOGICAL RESEARCH INSTITUTE and INSTITUT FRANCAIS DE PONDICHERYCatalog number : I00016
 Uniform title: śatarudriyabhāṣya
 Manuscript : IFP manuscript 12684
@@ -11,15 +34,28 @@ The e-text was prepared by the staff of the IFP, Sambandhan Anandavardhana (Rese
 
 The project was funded by the Muktabodha Indological Research Institute, India
 
-&copy;2023 Institut Francais de Pondichery and Muktabodha Indological Research Institute. Released under Creative Commons BY-NC 4.0; please give appropriate credit to both the IFP and Muktabodha Indological Research Institute when using this e-text.               
+&amp;copy;2023 Institut Francais de Pondichery and Muktabodha Indological Research Institute. Released under Creative Commons BY-NC 4.0; please give appropriate credit to both the IFP and Muktabodha Indological Research Institute when using this e-text.               
 
 Revision 0: 2023/09/29   
 
 Words/letters within brackets are the suggestions of Dr. Deviprasad Mishra
-Dots (&hellip;.) are used to mention the missing parts/leaf damage/unidentified characters
+Dots (&amp;hellip;.) are used to mention the missing parts/leaf damage/unidentified characters
 Publication country : India
-
-###########################################################################
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <idno type="muktabodha_catalog">I00016</idno>
+          <ptr target="https://muktabodha-digital-library.org/texts/IAST/I00016"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Mass converted to basic TEI encoding standards by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
 <re12684>
 <rudra(praśna)bhāṣyam>
 <śatarudriya vyākhyā>
@@ -1876,5 +1912,6 @@ kṛtaṃ śrī rudrabhāṣyaṃ sampūrṇam]| om sumīnākṣisundareśābhy�
 om śivārpaṇamastu śrī gurubhyo namaḥ| hariḥ om| śubhamastu| mahāgaṇapatisakā(hā)yam| śivāya namaḥ||
 
 <E-texts may be viewed only online or downloaded for private study.>
-          
-
+    </body>
+  </text>
+</TEI>

@@ -1,4 +1,29 @@
-###########################################################################
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Yogavāsiṣṭha Tātparyaprakāśa 1</title>
+        <author ref="mbP0147">Ānandabodhendra Sarasvatī</author>
+        <respStmt>
+          <resp>Original digitization and data entry</resp>
+          <name>Muktabodha Indological Research Institute</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Muktabodha Indological Research Institute</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">
+            Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+          </licence>
+          <p>
+            The etext is provided by the Muktabodha Indological Research Institute 
+            under a CC BY-NC 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
 MUKTABODHA INDOLOGICAL RESEARCH INSTITUTEUse of this material (e-texts) is covered by Creative Commons license BY-NC 4.0. Catalog number : M00335
 Uniform title: yogavāsiṣṭha part 1 with commentary tātparyaprakāśa
 Main title: yogavāsiṣṭha part 1 with commentary tātparyaprakāśa
@@ -11,11 +36,21 @@ Revision 0: Dec. 15, 2015
 Publication year : 1918
 Publication city : Delhi
 Publication country : India
-
-###########################################################################
-
-
-
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <idno type="muktabodha_catalog">M00335</idno>
+          <ptr target="https://muktabodha-digital-library.org/texts/IAST/M00335"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Mass converted to basic TEI encoding standards by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
 <yogavāsiṣṭha >
 <of >
 <vālmīki >
@@ -8056,3 +8091,6 @@ nabhaścaramahīcarasaṃmelanaṃ nāma trayastriṃśaḥ sargaḥ] || 33 ||
 
 
 <###########   END OF FILE  #######>
+    </body>
+  </text>
+</TEI>

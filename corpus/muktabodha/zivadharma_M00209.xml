@@ -1,4 +1,28 @@
-###########################################################################
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Śivadharma</title>
+        <respStmt>
+          <resp>Original digitization and data entry</resp>
+          <name>Muktabodha Indological Research Institute</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Muktabodha Indological Research Institute</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">
+            Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+          </licence>
+          <p>
+            The etext is provided by the Muktabodha Indological Research Institute 
+            under a CC BY-NC 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
 MUKTABODHA INDOLOGICAL RESEARCH INSTITUTEUse of this material (e-texts) is covered by Creative Commons license BY-NC 4.0. Catalog number : M00209
 Uniform title: śivadharma
 Manuscript : IFP/EFEO 860 copied from R2442 G.O.N.L., Madras
@@ -11,12 +35,21 @@ Revision 0: April 5, 2010
 Internet publisher : Web publisher Muktabodha
 Publication year : 2010
 Publication country : United States
-
-###########################################################################
-
-
-
-
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <idno type="muktabodha_catalog">M00209</idno>
+          <ptr target="https://muktabodha-digital-library.org/texts/IAST/M00209"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Mass converted to basic TEI encoding standards by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
 śivadharmaḥ
 
 oṃ mahāgaṇapataye namaḥ || hariḥ oṃ || avighnamastu | śrīgurubhyo namaḥ || 
@@ -4568,3 +4601,6 @@ oṃ śivāyagurave namaḥ | śivamastu | śrīśivāya namaḥ ||
 
 
 <###########   END OF FILE  #######>
+    </body>
+  </text>
+</TEI>

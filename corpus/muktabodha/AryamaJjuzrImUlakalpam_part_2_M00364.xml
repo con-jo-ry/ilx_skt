@@ -1,4 +1,28 @@
-###########################################################################
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Āryamañjuśrīmūlakalpam Part 2</title>
+        <respStmt>
+          <resp>Original digitization and data entry</resp>
+          <name>Muktabodha Indological Research Institute</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Muktabodha Indological Research Institute</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">
+            Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+          </licence>
+          <p>
+            The etext is provided by the Muktabodha Indological Research Institute 
+            under a CC BY-NC 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
 MUKTABODHA INDOLOGICAL RESEARCH INSTITUTEUse of this material (e-texts) is covered by Creative Commons license BY-NC 4.0. Catalog number : M00364
 Uniform title: āryamañjuśrīmūlakalpam Part 2
 Editor : T. Gaṇapatiśāstrī
@@ -10,12 +34,22 @@ Publisher : Government Press Travancore
 Publication year : 1922
 Publication city : Travancore
 Publication country : India
-
-###########################################################################
-
-
-
- <p. 253>
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <idno type="muktabodha_catalog">M00364</idno>
+          <ptr target="https://muktabodha-digital-library.org/texts/IAST/M00364"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Mass converted to basic TEI encoding standards by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<p. 253>
 
 || śrīḥ ||
 
@@ -11015,3 +11049,6 @@ oṣadhitantramantrasarvakarmapaṭalavisaraṃ parisamāpta iti] ||
 
 
 (###########   END OF FILE  #######)
+    </body>
+  </text>
+</TEI>

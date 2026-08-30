@@ -1,20 +1,54 @@
-###########################################################################
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Puraścaryārṇava Volume 1</title>
+        <author ref="mbP0114">Pratāpa Siṃha</author>
+        <respStmt>
+          <resp>Original digitization and data entry</resp>
+          <name>Muktabodha Indological Research Institute</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Muktabodha Indological Research Institute</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">
+            Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+          </licence>
+          <p>
+            The etext is provided by the Muktabodha Indological Research Institute 
+            under a CC BY-NC 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
 MUKTABODHA INDOLOGICAL RESEARCH INSTITUTEUse of this material (e-texts) is covered by Creative Commons license BY-NC 4.0. Catalog number : M00045
 Uniform title: puraścaryārṇava volume 1
 Main title: puraścaryārṇavaḥ volume 1
 Editor : muralidhara jhā
-Description: Compiled by H. H. The Maharaja pratapa &quot;Simha Saha Bahadur of Nepal.
+Description: Compiled by H. H. The Maharaja pratapa &amp;quot;Simha Saha Bahadur of Nepal.
 Notes: The texts have been transcribed by the staff of Muktabodha under the direction of Mark S. G. Dyczkowski .  Revision 0 Jan 28, 2007  
 Publisher : Prabhakari and Co
 Publication year : 1901
 Publication city : Benaras
 Publication country : India
-
-###########################################################################
-
-
-
-
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <idno type="muktabodha_catalog">M00045</idno>
+          <ptr target="https://muktabodha-digital-library.org/texts/IAST/M00045"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Mass converted to basic TEI encoding standards by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
 {atha puraścaryārṇavaḥ}
 
 śrīdakṣiṇāmūrtigurubhyo namaḥ |
@@ -13161,3 +13195,6 @@ sadyuktisphuṭamaukti(**?)kararucottuṅgastaraṅgo gataḥ || 4-534 ||
 
 [iti śrīmanmahārājādhirājaśrīpratāpasiṃhasāhaviracite puraścaryārṇave kriyāvatīdīkṣāvidhirnāma caturthastaraṅgaḥ] || 4 ||
 <###########   END OF FILE  #######>
+    </body>
+  </text>
+</TEI>

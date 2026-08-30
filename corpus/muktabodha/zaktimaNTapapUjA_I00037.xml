@@ -1,4 +1,28 @@
-###########################################################################
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Śaktimaṇṭapapūjā</title>
+        <respStmt>
+          <resp>Original digitization and data entry</resp>
+          <name>Muktabodha Indological Research Institute</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Muktabodha Indological Research Institute</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">
+            Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+          </licence>
+          <p>
+            The etext is provided by the Muktabodha Indological Research Institute 
+            under a CC BY-NC 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
 MUKTABODHA INDOLOGICAL RESEARCH INSTITUTE and INSTITUT FRANCAIS DE PONDICHERYUse of this material (e-texts) is covered by Creative Commons license BY-NC 4.0.
 Catalog number : I00037
 Uniform title: Śaktimaṇṭapapūjā
@@ -10,13 +34,21 @@ Publication year : 2024
 Publication country : No place, unknown or undetermined
 File Size : 89.4 KB
 Traditions : Late Śaiva Siddhānta
-
-###########################################################################
-
-
-  
-          
-
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <idno type="muktabodha_catalog">I00037</idno>
+          <ptr target="https://muktabodha-digital-library.org/texts/IAST/I00037"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Mass converted to basic TEI encoding standards by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
 notes:
 •	p = control number for folio ("picture")
 •	f = number found written on folio
@@ -1009,7 +1041,6 @@ vāma maṇibandhe oṃ śrīṃ
 
 (p.59b, p.60a, p.60b, p.61a, p.61b, p.62a, p.62b) - blank
 end of the document.
-
-
-     
-
+    </body>
+  </text>
+</TEI>

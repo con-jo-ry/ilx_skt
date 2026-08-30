@@ -1,4 +1,29 @@
-###########################################################################
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mantrakoṣa</title>
+        <author ref="mbP0058">Āśāditya Tripāṭhi</author>
+        <respStmt>
+          <resp>Original digitization and data entry</resp>
+          <name>Muktabodha Indological Research Institute</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Muktabodha Indological Research Institute</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">
+            Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+          </licence>
+          <p>
+            The etext is provided by the Muktabodha Indological Research Institute 
+            under a CC BY-NC 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
 MUKTABODHA INDOLOGICAL RESEARCH INSTITUTEUse of this material (e-texts) is covered by Creative Commons license BY-NC 4.0. Catalog number : M00292
 Uniform title: mantrakoṣa
 Author : āśāditya tripāṭhi
@@ -42,11 +67,21 @@ Description: The Mantrakoṣa - A Treasure Chest of Mantra - is as its name sugg
  16) atha devapūjādau upayuktā mudrā likhyante |
 Notes: Revision 0: December 17, 2013
 Publication country : India
-
-###########################################################################
-
-
-
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <idno type="muktabodha_catalog">M00292</idno>
+          <ptr target="https://muktabodha-digital-library.org/texts/IAST/M00292"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Mass converted to basic TEI encoding standards by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
 <1a>
 
 śrīgaṇeśāya namaḥ ||
@@ -7790,3 +7825,6 @@ kucauviracitau ced vettayasyāṣutaṃ ||
 
 
 <###########   END OF FILE  #######>
+    </body>
+  </text>
+</TEI>

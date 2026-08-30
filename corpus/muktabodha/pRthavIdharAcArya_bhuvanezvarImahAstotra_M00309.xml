@@ -1,4 +1,29 @@
-###########################################################################
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Bhuvaneśvarīmahāstotra</title>
+        <author ref="mbP0056 and mbP0142, mbP0056 and mbP0163">Pṛthvīdharācārya and Padmanābha Kavi, Unknown, Unknown, Unknown, Unknown, Unknown, Unknown, Unknown, Pṛthvīdharācārya and Anantadeva, Unknown</author>
+        <respStmt>
+          <resp>Original digitization and data entry</resp>
+          <name>Muktabodha Indological Research Institute</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Muktabodha Indological Research Institute</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">
+            Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+          </licence>
+          <p>
+            The etext is provided by the Muktabodha Indological Research Institute 
+            under a CC BY-NC 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
 MUKTABODHA INDOLOGICAL RESEARCH INSTITUTEUse of this material (e-texts) is covered by Creative Commons license BY-NC 4.0. Catalog number : M00309
 Uniform title: bhuvaneśvarīmahāstotra
 Author : pṛthavīdharācārya
@@ -77,11 +102,21 @@ Publisher : Rajasthan Oriental Research Institute
 Publication year : 1960
 Publication city : Jodhapur
 Publication country : India
-
-###########################################################################
-
-
-
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <idno type="muktabodha_catalog">M00309</idno>
+          <ptr target="https://muktabodha-digital-library.org/texts/IAST/M00309"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Mass converted to basic TEI encoding standards by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
 śrīḥ
 
 [sakalāgamācāryacakravarttiśrīpṛthvīdharācāryaviracitam
@@ -6467,3 +6502,6 @@ sarvānvitaṃ tannigamasya sāram (kh: pustake nāstyeṣa ślokaḥ) || 18 ||
 
 
 <###########   END OF FILE  #######>
+    </body>
+  </text>
+</TEI>

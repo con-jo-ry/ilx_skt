@@ -1,10 +1,34 @@
-###########################################################################
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Dakṣiṇāmūrtisaṃhitā</title>
+        <respStmt>
+          <resp>Original digitization and data entry</resp>
+          <name>Muktabodha Indological Research Institute</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Muktabodha Indological Research Institute</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">
+            Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+          </licence>
+          <p>
+            The etext is provided by the Muktabodha Indological Research Institute 
+            under a CC BY-NC 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
 MUKTABODHA INDOLOGICAL RESEARCH INSTITUTEUse of this material (e-texts) is covered by Creative Commons license BY-NC 4.0. Catalog number : M00625
 Uniform title: dakṣiṇāmūrtisaṃhitā
 Manuscript : manuscript 1633K  Dharmartha Trust at Raghunath Temple, Jammu, JandK
 Description: Title page:
 
-N0: 1633K dakSiNAmUrtisaMhitA&gt;
+N0: 1633K dakSiNAmUrtisaMhitA&amp;gt;
 Extent: 83 patra	Age:  saṃ 1950
 
 Subject: tantram
@@ -16,8 +40,21 @@ Notes: Data entered by the staff of Muktabodha under the direction of Anirban Da
 Revision 0:  June 9, 2023       
 Revision 1: Nov. 29, 2023     diplomatic transcription
 Publication country : India
-
-###########################################################################
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <idno type="muktabodha_catalog">M00625</idno>
+          <ptr target="https://muktabodha-digital-library.org/texts/IAST/M00625"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Mass converted to basic TEI encoding standards by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
 (6022)
 (ṇoḥ - 1633ka)
 (ṭitleḥ - dakṣiṇāmūrtisaṃhitā)
@@ -3479,3 +3516,6 @@ nāmatrayastriṃśatitamaḥpaṭalaḥ] <33>||
 jamvūmadhyeliptā1950caitre
 
 (###########   END OF FILE  #######)
+    </body>
+  </text>
+</TEI>

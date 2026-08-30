@@ -1,4 +1,29 @@
-###########################################################################
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Śaivāgamādimāhātmya</title>
+        <author ref="mbP0052">Jñānaprakāśa</author>
+        <respStmt>
+          <resp>Original digitization and data entry</resp>
+          <name>Muktabodha Indological Research Institute</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Muktabodha Indological Research Institute</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">
+            Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+          </licence>
+          <p>
+            The etext is provided by the Muktabodha Indological Research Institute 
+            under a CC BY-NC 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
 MUKTABODHA INDOLOGICAL RESEARCH INSTITUTEUse of this material (e-texts) is covered by Creative Commons license BY-NC 4.0. Catalog number : M00228
 Uniform title: śaivāgamādimāhātmya
 Author : jñānaprakāśa
@@ -6,22 +31,31 @@ Manuscript : IFP/EFEO transcript T00372 pages 1192-1261
 Description: jñānaprakāśa was a well known SiddhAntin who tells us in the 
 colophon of this text that he lived in śālīvāṭipura in Tamil Nadu. 
 He belonged to the 15th century and was a prolific writer. There are 
-several works by him in the IFP transcripts. In this hymn to the &#039;Glory 
-of the śaivāgama, jñānaprakāśa eulogises &quot;Siva as the source of 
+several works by him in the IFP transcripts. In this hymn to the &amp;#039;Glory 
+of the śaivāgama, jñānaprakāśa eulogises &amp;quot;Siva as the source of 
 the Agama and begins by describing how they originate as Sound from the 
-core of  Sadashiva&#039;s consciousness. He establishes that the authority of 
-the &quot;Saiva scriptures is equal or more to that of the Vedas. He also 
+core of  Sadashiva&amp;#039;s consciousness. He establishes that the authority of 
+the &amp;quot;Saiva scriptures is equal or more to that of the Vedas. He also 
 describes their extent number and contents.
 Notes: Data entered by the staff of Muktabodha under the supervision of Mark S. G. Dyczkowski.
 
 Revision 0: Sept. 18, 2011
 Publication country : India
-
-###########################################################################
-
-
-
-
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <idno type="muktabodha_catalog">M00228</idno>
+          <ptr target="https://muktabodha-digital-library.org/texts/IAST/M00228"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Mass converted to basic TEI encoding standards by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
 <śaivāgamādimāhātmyam >
 
 <śrīśālīvāṭipuranivāsi jñānaprakāśaguruviracita >
@@ -2467,3 +2501,6 @@ bhūyāṃsi vindantīti niścitam ||
 śivāgamādimāhātmya saṃgrahassamāptaḥ] || 
 
 <###########   END OF FILE  #######>
+    </body>
+  </text>
+</TEI>

@@ -1,4 +1,29 @@
-###########################################################################
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Gorakṣaśataka</title>
+        <author ref="mbP0031">Gorakṣanātha</author>
+        <respStmt>
+          <resp>Original digitization and data entry</resp>
+          <name>Muktabodha Indological Research Institute</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Muktabodha Indological Research Institute</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">
+            Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+          </licence>
+          <p>
+            The etext is provided by the Muktabodha Indological Research Institute 
+            under a CC BY-NC 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
 MUKTABODHA INDOLOGICAL RESEARCH INSTITUTEUse of this material (e-texts) is covered by Creative Commons license BY-NC 4.0. Catalog number : M00522
 Uniform title: gorakṣaśataka
 Author : gorakṣanātha attributed to
@@ -9,11 +34,21 @@ Revision 0: Sept. 12, 2021.
 Publisher : Oxford University Press
 Publication year : 1928
 Publication country : India
-
-###########################################################################
-
-
-
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <idno type="muktabodha_catalog">M00522</idno>
+          <ptr target="https://muktabodha-digital-library.org/texts/IAST/M00522"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Mass converted to basic TEI encoding standards by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
 {gorakṣaśatakam}
 
 oṃ [haṭhayogagorakṣaśatakaprārambhaḥ]
@@ -248,3 +283,6 @@ nādābhivyaktir ārogyaṃ jāyate nāḍiśodhanāt || 101 ||
 
 
 (###########   END OF FILE  #######)
+    </body>
+  </text>
+</TEI>

@@ -1,4 +1,28 @@
-###########################################################################
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Āgamagrantha</title>
+        <respStmt>
+          <resp>Original digitization and data entry</resp>
+          <name>Muktabodha Indological Research Institute</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Muktabodha Indological Research Institute</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">
+            Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+          </licence>
+          <p>
+            The etext is provided by the Muktabodha Indological Research Institute 
+            under a CC BY-NC 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
 MUKTABODHA INDOLOGICAL RESEARCH INSTITUTE and INSTITUT FRANCAIS DE PONDICHERYUse of this material (e-texts) is covered by Creative Commons license BY-NC 4.0.
 Catalog number : I00041
 Uniform title: Āgamagrantha
@@ -10,12 +34,21 @@ Publication year : 2024
 Publication country : No place, unknown or undetermined
 File Size : 259.0 KB
 Traditions : Late Śaiva Siddhānta
-
-###########################################################################
-
-
-  
-          
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <idno type="muktabodha_catalog">I00041</idno>
+          <ptr target="https://muktabodha-digital-library.org/texts/IAST/I00041"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Mass converted to basic TEI encoding standards by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
 re-30718 - āgamagranthaḥ – śivarātrividhiḥ – calaliṅgapratiṣṭhā – mahotsavavidhiḥ – kriyākramadyo – caryāpādaḥ ityādi
 
 
@@ -3031,8 +3064,6 @@ pañcākṣarasya māhātmyaṃ mayā vaktuṃ na śakyate ।
 namaḥpadaṃ tat khalu jīvayācī śivaḥ padam ॥
 tatparamārthavāciḥ āyeti tadarthyaparā caturthī । so'haṃ parabrahmaśivāsmyakhaṇḍaṃ śikāraṃ sukhamityuktam । yīkāraṃ śaktirucyate । vakāramamṛtam । prāhuḥ śiva ityakṣaradvayam । (p.118b, pravaram, l.1) paraśivaparameśvara parāpara paraṃ jyoti paramātmaka pañcārṣayapravarānvita । paraśivatotrodbhavasya varṇapadatattvamantra(l.2)bhuvanakalātmikaṣaḍadhvātītavigrahasya sakalabhuvanasṛṣṭisthitisaṃhāratirobhāvā-nugrahākhyapañcakṛtyasaṃpannasya sakalaniṣkala(l.3)svarūpasya nirañjanadevasya naptre paraśivagotrodbhasya siddhāntaprasiddheśvaraṃ tantrādhiṣṭhitasya (l.4) aṇimādyaṣṭaiśvaryaṃ pradhānaikaparāśaktiramaṇīramaṇasya nirāmayākhyasya pautrāyā(ya) paraśivagotrodbhavasya (l.5) sakalabhuvanasṛṣṭisthitisaṃhāratirobhāvānugrahākhyakārakasya yogijanahṛtsaroruhanilayasya trimūrti(l.6)guṇārmakasya ādiśaktiramaṇīramasya niṣkalaṅkasya putrāya paraśivagotrodbhava(vā)ya sarvalokaśaranyā(ṇyā)ya sarvaloka(l.7)sukhaṅkarāya śrīhariprasādeśvarasvāmine varāya paraśaktiparāśaktiparāparaśaktikriyā ṛṣayapravarānvitaparaśakti (p.119a, l.1)gotrodbhavasya bhūrādisamastalokānāṃ vaikuṇṭhanagarasyopari vartamāna-kailāsādupavāsasya brahmaviṣṇvādināmādijanakasya (l.2) sūryamaṇḍalāntarvartamānavedāntavedyasya parañjyotiśarmaṇo naptri । paraśaktigotrodbhavasya satyalokanivāsibhiḥ । sanakādibhiḥ । deva(l.3)ṛṣibhiḥ brahmaṛṣibhiḥ sevyamānasarasvatī ramaṇīramaṇasya caturmukhabrahmaśarmaṇaḥ pautrīṃ paraśaktigotrodbhavasya gandhamādinā-maṣṭakula(l.4)parvatānāmadhīśvarasya menakā ramaṇīramaṇasya bhagavato hivataśarmaṇaḥ putriṃ paraśaktigotrodbhavāṃ (l.5) sarvamaṅgalarūpiṇī sakalasāṃbrā(mrā)jyapradāyinīṃ girijāṃ dharmavardhanābhyāṃ kanyāṃ vṛṇīdhvaṃ dāsyāmi । 
 re-30718 bundle end.
-
-
-
-     
-
+    </body>
+  </text>
+</TEI>

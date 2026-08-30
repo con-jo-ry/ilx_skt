@@ -1,4 +1,28 @@
-###########################################################################
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sahasrāgama</title>
+        <respStmt>
+          <resp>Original digitization and data entry</resp>
+          <name>Muktabodha Indological Research Institute</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Muktabodha Indological Research Institute</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">
+            Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+          </licence>
+          <p>
+            The etext is provided by the Muktabodha Indological Research Institute 
+            under a CC BY-NC 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
 MUKTABODHA INDOLOGICAL RESEARCH INSTITUTE and INSTITUT FRANCAIS DE PONDICHERYUse of this material (e-texts) is covered by Creative Commons license BY-NC 4.0.
 Catalog number : I00042
 Uniform title: Sahasrāgama
@@ -10,12 +34,21 @@ Publication year : 2024
 Publication country : No place, unknown or undetermined
 File Size : 205.6 KB
 Traditions : Late Śaiva Siddhānta
-
-###########################################################################
-
-
-  
-          
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <idno type="muktabodha_catalog">I00042</idno>
+          <ptr target="https://muktabodha-digital-library.org/texts/IAST/I00042"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Mass converted to basic TEI encoding standards by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
 உ
 oṃ śrī gurubhyo namaḥ
 śrīsundaragaṇapataye namaḥ
@@ -3370,9 +3403,6 @@ pūjāgṛhṇādi liṅgastho vahnisthorhaviṣārhataṃ ॥ (2)
 eka yeva śivattasmād ubhayatra sadāśivaḥ ।
 iti sañcintya yatnenā luṅgagnau ca śivaṃ yajet ॥ (3)
 bahiḥ bali
-
-
-
-
-     
-
+    </body>
+  </text>
+</TEI>

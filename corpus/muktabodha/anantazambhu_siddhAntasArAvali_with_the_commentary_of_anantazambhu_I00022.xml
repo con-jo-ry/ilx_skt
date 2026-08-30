@@ -1,26 +1,62 @@
-
-
-###########################################################################
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Siddhāntasārāvali Vyākhyā</title>
+        <author ref="mbP0161">Anantaśambhu</author>
+        <respStmt>
+          <resp>Original digitization and data entry</resp>
+          <name>Muktabodha Indological Research Institute</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Muktabodha Indological Research Institute</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">
+            Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+          </licence>
+          <p>
+            The etext is provided by the Muktabodha Indological Research Institute 
+            under a CC BY-NC 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
 MUKTABODHA INDOLOGICAL RESEARCH INSTITUTE and INSTITUT FRANCAIS DE PONDICHERYCatalog number : I00022
 Uniform title: siddhāntasārāvali with the commentary of anantaśambhu
 Author : trilocanaśivācārya
 Author : anantaśambhu
 Manuscript : IFP manuscript 30687
-Description: Siddhāntasārāvali with the commentary of Anantaśambhu. The Siddhāntasārāvali authored by Trilocanaśivācārya in 12th-century Tamil Nadu, is a cornerstone in the realm of Śaiva philosophy. It offers a comprehensive overview of the intricate doctrines of the Śaiva Siddhānta tradition. Anantaśambhu&#039;s exposition (vyākhyā) written possibly around the 14th century quotes from a wide-range of sources and is structured into four sections, or Pādas&mdash;Kriyā, Caryā, Yōga, and Jñāna&mdash;mirroring the foundational texts of Śaiva-mūlāgama-s.  The incomplete bundle comprises 160 folios, measuring 42 cm in length and 4 cm in width. It provides invaluable insights into the nuanced philosophical discourse of Śaiva thought, with verse distribution as follows: Jñānapāda (27 verses), Kriyāpāda (90 verses out of 118), Yōgapāda (8 verses), and Caryāpāda (41 verses). This bundle is incomplete and some of the folios are not ordered in the right sequence.
+Description: Siddhāntasārāvali with the commentary of Anantaśambhu. The Siddhāntasārāvali authored by Trilocanaśivācārya in 12th-century Tamil Nadu, is a cornerstone in the realm of Śaiva philosophy. It offers a comprehensive overview of the intricate doctrines of the Śaiva Siddhānta tradition. Anantaśambhu&amp;#039;s exposition (vyākhyā) written possibly around the 14th century quotes from a wide-range of sources and is structured into four sections, or Pādas&amp;mdash;Kriyā, Caryā, Yōga, and Jñāna&amp;mdash;mirroring the foundational texts of Śaiva-mūlāgama-s.  The incomplete bundle comprises 160 folios, measuring 42 cm in length and 4 cm in width. It provides invaluable insights into the nuanced philosophical discourse of Śaiva thought, with verse distribution as follows: Jñānapāda (27 verses), Kriyāpāda (90 verses out of 118), Yōgapāda (8 verses), and Caryāpāda (41 verses). This bundle is incomplete and some of the folios are not ordered in the right sequence.
 Notes: This e text was produced under an agreement between the IFP (Institut Francais de Pondichery)  and The Muktabodha Indological Research Institute, India.
 
 The e-text was prepared by the staff of the IFP, Sambandhan Anandavardhana (Research Associate) and Arul Nandi (Research Assistant)  under the supervision of Dr. Deviprasad Mishra (Project Co-ordinator).
 
 The project was funded by the Muktabodha Indological Research Institute, India
 
-&copy;2023 Institut Francais de Pondichery and Muktabodha Indological Research Institute. Released under Creative Commons BY-NC 4.0; please give appropriate credit to both the IFP and Muktabodha Indological Research Institute when using this e-text.               
+&amp;copy;2023 Institut Francais de Pondichery and Muktabodha Indological Research Institute. Released under Creative Commons BY-NC 4.0; please give appropriate credit to both the IFP and Muktabodha Indological Research Institute when using this e-text.               
 Words/letters within brackets are the suggestions of Dr. Deviprasad Mishra
-Dots (&hellip;.) are used to mention the missing parts/leaf damage/unidentified characters          
+Dots (&amp;hellip;.) are used to mention the missing parts/leaf damage/unidentified characters          
 
 Revision 0: 2034/03/09
 Publication country : India
-
-###########################################################################
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <idno type="muktabodha_catalog">I00022</idno>
+          <ptr target="https://muktabodha-digital-library.org/texts/IAST/I00022"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Mass converted to basic TEI encoding standards by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
 <ṛE30687>
 <ṭitle   siddhāntasārāvali with the commentary of anantaśambhu>
 <author  trilocanaśivācārya>
@@ -5109,5 +5145,6 @@ kīrtitam| sūryakāntenabhava śreṣṭhaḥ| kāṣṭhajo madhyamo bhavet| �
 
 
 <E-texts may be viewed only online or downloaded for private study.>
-          
-
+    </body>
+  </text>
+</TEI>

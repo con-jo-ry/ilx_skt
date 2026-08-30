@@ -1,4 +1,29 @@
-###########################################################################
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Varuṇapaddhati Vyākhyāna</title>
+        <author ref="mbP0153">Bhaṭṭa Śivottama</author>
+        <respStmt>
+          <resp>Original digitization and data entry</resp>
+          <name>Muktabodha Indological Research Institute</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Muktabodha Indological Research Institute</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">
+            Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+          </licence>
+          <p>
+            The etext is provided by the Muktabodha Indological Research Institute 
+            under a CC BY-NC 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
 MUKTABODHA INDOLOGICAL RESEARCH INSTITUTEUse of this material (e-texts) is covered by Creative Commons license BY-NC 4.0. Catalog number : T00241
 Uniform title: vāruṇapaddhativyākhyānam
 Commentator : bhaṭṭā śivottama
@@ -8,12 +33,21 @@ Notes: Data entered by the staff of Muktabodha under the supervision of Mark S. 
 
 Revision 0: Sept. 18, 2011
 Publication country : India
-
-###########################################################################
-
-
-
-
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <idno type="muktabodha_catalog">M00241</idno>
+          <ptr target="https://muktabodha-digital-library.org/texts/IAST/M00241"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Mass converted to basic TEI encoding standards by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
 <vāruṇapaddhati vyākhyānam> 
 
 <ṭ.ṇo. - 143> 
@@ -1818,3 +1852,6 @@ kāle jhaṭityekataraṃ tattadbījadvayaṃ śrīvaruṇābhidhānaḥ |
 || hariḥ om | śubhamastu || 
 
 <###########   END OF FILE  #######
+    </body>
+  </text>
+</TEI>

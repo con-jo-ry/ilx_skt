@@ -1,4 +1,28 @@
-###########################################################################
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Śivagaṇapatisubrahmaṇyapratiṣṭhā</title>
+        <respStmt>
+          <resp>Original digitization and data entry</resp>
+          <name>Muktabodha Indological Research Institute</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Muktabodha Indological Research Institute</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">
+            Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+          </licence>
+          <p>
+            The etext is provided by the Muktabodha Indological Research Institute 
+            under a CC BY-NC 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
 MUKTABODHA INDOLOGICAL RESEARCH INSTITUTE and INSTITUT FRANCAIS DE PONDICHERYUse of this material (e-texts) is covered by Creative Commons license BY-NC 4.0.
 Catalog number : I00043
 Uniform title: Śivagaṇapatisubrahmaṇyapratiṣṭhā
@@ -10,13 +34,21 @@ Publication year : 2025
 Publication country : No place, unknown or undetermined
 File Size : 271.2 KB
 Traditions : Late Śaiva Siddhānta
-
-###########################################################################
-
-
-  
-          
-
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <idno type="muktabodha_catalog">I00043</idno>
+          <ptr target="https://muktabodha-digital-library.org/texts/IAST/I00043"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Mass converted to basic TEI encoding standards by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
 words/letters within brackets are my suggestions (as far as my understanding).
 dots (…) are used to mention the missing parts/leaf damage/unidentified characters.
 mostly 5–8 lines on each folio side
@@ -935,6 +967,7 @@ aṣādaśavidhānena mṛtsaṃgrahaṇapūrvake । (p.51b, f.76a, subrahmaṇ
 
 (subrahmaṇyamaṇṭapapūjai -)
 atha maṇṭapapūjāvidhirucyate –
-prāsādi(da)nirmāṇāya aṅkurārpaṇaṃ kṛtvā । vāstupūjāṃ vidhāya । maṇṭapādikuṇḍaveditoraṇasṛk(l.2)sṛvāṣṭamaṅgaladaśāyudha-vitānadhvajadarbhamālākadalīpūgamālikuśapuṣpadukūlabadarikeśagātraveṣṭanadarpaṇamuktāśūḍādiralaṅkṛtya (l.3) ghaṭakalaśavardhanyāṃ lakṣaṇoktavatra(ttri)tantunā tiladhāmya(dhānyā)ntarāṇi saṃveṣṭya । tasya kṣālanadhūmraśuddhi(ddhiḥ) syāvi(dvi)dhivacchāli-taṇḍulatila(l.4)lājapuṣpadarbhān saṃgrāhyā(hya) । salilaratnakūrcāmrapallavanālikeravastragandhākṣatadravyādīn samarpya । (l.5) varṇe yedyuttarapaścima(me) prastīrya । guruḥ pādau prakṣālyācamya । yāgaśālāyāṃ paścimadvāraṃ praviśya । naiṛtideśamāsādyā(dya) । (l.6) gaṇeśaṃ saṃpūjya । nālikerādi naivedya dhūpadīpārghyaṃ datvā । yāgarakṣārthaṃ prārthya । puṇyāhaṃ vācayitvā (l.7) gurupādaṃ namaskṛtya । tacchirasi dhṛtvā deśiko navavastropavītagandhamakuṭakuṇḍalahārakeyūrakaṭakabhasmarudrākṣa-mālādibhi(p.52a, sūryapūjai(jā), sāmimaṇṭapapūjaiலே இது வாசிக்க, l.1)रलङ्कृत्य मण्टपे तत्तत्स्थानेषु व्रीहितण्डुलानास्तीर्य । वेदिमध्ये । यवतण्डुललाजसप्तधान्याष्टपत्रमालिख्या(ख्य) । कुम्भेषु 
-     
-
+prāsādi(da)nirmāṇāya aṅkurārpaṇaṃ kṛtvā । vāstupūjāṃ vidhāya । maṇṭapādikuṇḍaveditoraṇasṛk(l.2)sṛvāṣṭamaṅgaladaśāyudha-vitānadhvajadarbhamālākadalīpūgamālikuśapuṣpadukūlabadarikeśagātraveṣṭanadarpaṇamuktāśūḍādiralaṅkṛtya (l.3) ghaṭakalaśavardhanyāṃ lakṣaṇoktavatra(ttri)tantunā tiladhāmya(dhānyā)ntarāṇi saṃveṣṭya । tasya kṣālanadhūmraśuddhi(ddhiḥ) syāvi(dvi)dhivacchāli-taṇḍulatila(l.4)lājapuṣpadarbhān saṃgrāhyā(hya) । salilaratnakūrcāmrapallavanālikeravastragandhākṣatadravyādīn samarpya । (l.5) varṇe yedyuttarapaścima(me) prastīrya । guruḥ pādau prakṣālyācamya । yāgaśālāyāṃ paścimadvāraṃ praviśya । naiṛtideśamāsādyā(dya) । (l.6) gaṇeśaṃ saṃpūjya । nālikerādi naivedya dhūpadīpārghyaṃ datvā । yāgarakṣārthaṃ prārthya । puṇyāhaṃ vācayitvā (l.7) gurupādaṃ namaskṛtya । tacchirasi dhṛtvā deśiko navavastropavītagandhamakuṭakuṇḍalahārakeyūrakaṭakabhasmarudrākṣa-mālādibhi(p.52a, sūryapūjai(jā), sāmimaṇṭapapūjaiலே இது வாசிக்க, l.1)रलङ्कृत्य मण्टपे तत्तत्स्थानेषु व्रीहितण्डुलानास्तीर्य । वेदिमध्ये । यवतण्डुललाजसप्तधान्याष्टपत्रमालिख्या(ख्य) । कुम्भेषु
+    </body>
+  </text>
+</TEI>

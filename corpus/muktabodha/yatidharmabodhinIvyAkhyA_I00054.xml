@@ -1,4 +1,28 @@
-###########################################################################
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Yatidharmabodhinīvyākhyā</title>
+        <respStmt>
+          <resp>Original digitization and data entry</resp>
+          <name>Muktabodha Indological Research Institute</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Muktabodha Indological Research Institute</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">
+            Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+          </licence>
+          <p>
+            The etext is provided by the Muktabodha Indological Research Institute 
+            under a CC BY-NC 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
 MUKTABODHA INDOLOGICAL RESEARCH INSTITUTE and INSTITUT FRANCAIS DE PONDICHERYUse of this material (e-texts) is covered by Creative Commons license BY-NC 4.0.
 Catalog number : I00054
 Uniform title: Yatidharmabodhinīvyākhyā
@@ -11,12 +35,21 @@ Publication country : No place, unknown or undetermined
 Traditions : Late Śaiva Siddhānta
 Genre : Scriptural Commentary
 File Size : 26 KB
-
-###########################################################################
-
-
-  
-          
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <idno type="muktabodha_catalog">I00054</idno>
+          <ptr target="https://muktabodha-digital-library.org/texts/IAST/I00054"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Mass converted to basic TEI encoding standards by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
 re-31344 ॥ yatidharmabodhinivyākhyā ॥
 
 உ
@@ -85,8 +118,6 @@ daṇḍantu vaiṇavaṃsaumyasitvacaṃ samavarṣakaṃ nāsādaghnaṃ śira
 (i.14a, l.1)
 ka...sūtrādikamavigra... hīyāt guruvākyataḥ । jagajajivananjīvanādhārabhūtaṃ māte māmantrayasva sarvadāsarvasaumyeti maṇḍulaṃ praṇavena (l.2) ka....trakaupīnāścādanayogapaṭṭādīn parigrahediti śrutiḥ evaṃ sādhanavānyogī brahmavidyāguruṃ vṛjet । mahāvākyārtha tatvajño brahmāṇa..tya (l.3) parobhavet । spaṣṭaḥ athāhi tāgniviṣayaḥ । āhitāgnirathāgneyaṃ paścāktedhātavimapi । iṣṭiṃ kuryāt praṇimāsatantreṇānyacca varjayet । (l.4) āhitāgniviṣaye āgneyūtredhātaviṣṭyoḥ karaṇaṃ praṇimāsatantreṇa pātraprayogakāle ...kavalāni anyāhāryasthāli.. varjaṃbhutarapātrārṇaprakṛtivat (l.5) niṣṭāpaṇetadedavatāyai juṣṭamiti kapālopadhāne dvitiye caturthaṣaṣṭhāṣṭamānānmantraṇāmāvṛktiḥ yajñohi ayaṃ yajñaḥ (l.6) mamāśe caturhotanya agnayenurbuhi agniṃ yaja agnaya idaṃ agnerahandeva yajyadhā na pārvaṇahomaḥ । nāriṣṭhān sviṣṭakṛtaṃ hutvāvirajya prāśitraṃ (l.7) caturdhākaraṇe svamātrabhāgasarvasva ikṣiṇāṃ datvā yajñobabhuva yajñaśañcameti varjaṃ iṣṭiṃ samāpyāhavanīye dāriprātrāṇi pu...dautaijasā.
 (incomplete)
-
-
-
-     
-
+    </body>
+  </text>
+</TEI>

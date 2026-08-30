@@ -1,4 +1,28 @@
-###########################################################################
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kaulajñānanirṇaya</title>
+        <respStmt>
+          <resp>Original digitization and data entry</resp>
+          <name>Muktabodha Indological Research Institute</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Muktabodha Indological Research Institute</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">
+            Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+          </licence>
+          <p>
+            The etext is provided by the Muktabodha Indological Research Institute 
+            under a CC BY-NC 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
 MUKTABODHA INDOLOGICAL RESEARCH INSTITUTEUse of this material (e-texts) is covered by Creative Commons license BY-NC 4.0. Catalog number : M00027
 Uniform title: kaulajñānanirṇaya
 Main title: kaulajñānanirṇaya and some minor texts of the school of matsyendrānātha
@@ -6,7 +30,7 @@ Author : matsyendrānātha
 Alternate name : matsyendra
 Alternate name : macchagnapāda
 Editor : Bagchi, P. C.
-Description: The source of this e-text is Calcutta Sanskrit Series 3 - kaulajñānanirṇaya and some minor texts of the school of matsyendrānātha -  where it is bundled along with akulavīratantra kulAnandatantra&gt;, and jñānakārikā .  The printed volume also contains introductory material and summaries in english.
+Description: The source of this e-text is Calcutta Sanskrit Series 3 - kaulajñānanirṇaya and some minor texts of the school of matsyendrānātha -  where it is bundled along with akulavīratantra kulAnandatantra&amp;gt;, and jñānakārikā .  The printed volume also contains introductory material and summaries in english.
 Notes: Data-entered by the staff of Muktabodha under the supervision of Mark S. G. Dyczkowski.
 
 Revision 0:  August 1, 2006
@@ -14,12 +38,21 @@ Publisher : Metropolitan Printing and Pub. House
 Publication year : 1934
 Publication city : Calcutta
 Publication country : India
-
-###########################################################################
-
-
-
-
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <idno type="muktabodha_catalog">M00027</idno>
+          <ptr target="https://muktabodha-digital-library.org/texts/IAST/M00027"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Mass converted to basic TEI encoding standards by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
 {kaulajñānanirṇayaḥ}
 
 
@@ -1881,3 +1914,6 @@ candradvīpavinirgate caturviṃśatitamaḥ paṭalaḥ] || 24/24 ||
 
 
 (###########   END OF FILE  #######)
+    </body>
+  </text>
+</TEI>

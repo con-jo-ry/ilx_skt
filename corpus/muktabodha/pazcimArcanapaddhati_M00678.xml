@@ -1,4 +1,29 @@
-###########################################################################
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Paścimārcanapaddhati</title>
+        <author>Vimalaprabodha</author>
+        <respStmt>
+          <resp>Original digitization and data entry</resp>
+          <name>Muktabodha Indological Research Institute</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Muktabodha Indological Research Institute</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">
+            Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+          </licence>
+          <p>
+            The etext is provided by the Muktabodha Indological Research Institute 
+            under a CC BY-NC 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
 MUKTABODHA INDOLOGICAL RESEARCH INSTITUTEUse of this material (e-texts) is covered by Creative Commons license BY-NC 4.0.
 Catalog number : M00678
 Uniform title: Paścimārcanapaddhati
@@ -9,12 +34,21 @@ Publication year : 2026
 Publication country : India
 Traditions : Śāmbhava, Kubjikā
 Genre : Paddhati
-
-###########################################################################
-
-
-  
-          
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <idno type="muktabodha_catalog">M00678</idno>
+          <ptr target="https://muktabodha-digital-library.org/texts/IAST/M00678"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Mass converted to basic TEI encoding standards by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
 paścimārccanapaddhati
 
 * * * jaya trailokyanāthāya navātmaparamātme ।
@@ -1216,8 +1250,6 @@ tatpaścime praṇavaiścaturasramadhye caturasraṃ tanmadhye । lamayrū̃ �
 tathaiva caturasraṃ trikoṇaṃ tanmadhye ramayrū̃ । pūrvve tathaiva caturasraṃ tanmadhye ṣaṭkoṇaṃ tanmadhye yamayrū̃ । mūlacatuṣṭābhyantare pūrvve
 kaṃ khaṃ gaṃ ghaṃ ṅaṃ caṃ । agnau chaṃ । dakṣiṇe jaṃ jhaṃ ñaṃ ṭaṃ ṭhaṃ ḍaṃ । naiṛtyai ḍhaṃ paścime ṇaṃ taṃ thaṃ daṃ dhaṃ naṃ । vāyau paṃ । uttare phaṃ baṃ bhaṃ
 maṃ yaṃ raṃ । iśe laṃ । ityaṣṭāviṃśatikramamaṇḍalādyakṣarāṇi vilikhya । vahnikoṇe chaṃkārādhaḥ । aĩ hsaũ aĩ । naiṛtye ṭãkārādhaḥ
-
-
-
-     
-
+    </body>
+  </text>
+</TEI>

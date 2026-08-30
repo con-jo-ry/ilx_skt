@@ -1,4 +1,29 @@
-###########################################################################
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mātṛkārṇanighaṇṭu</title>
+        <author ref="mbP0066">Bhānu Dīkṣitaḥ</author>
+        <respStmt>
+          <resp>Original digitization and data entry</resp>
+          <name>Muktabodha Indological Research Institute</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Muktabodha Indological Research Institute</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">
+            Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+          </licence>
+          <p>
+            The etext is provided by the Muktabodha Indological Research Institute 
+            under a CC BY-NC 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
 MUKTABODHA INDOLOGICAL RESEARCH INSTITUTEUse of this material (e-texts) is covered by Creative Commons license BY-NC 4.0. Catalog number : M00626
 Uniform title: mātṛkārṇanighaṇṭu
 Author : bhānudīkṣitaḥ nārāyaṇadīkṣita-putraḥ
@@ -20,8 +45,21 @@ https://archive.org/download/MatrikarnaNighantuBhanuDikshitSonOfNarayanDikshit48
 
 Revision 0:  June 15, 2023
 Publication country : India
-
-###########################################################################
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <idno type="muktabodha_catalog">M00626</idno>
+          <ptr target="https://muktabodha-digital-library.org/texts/IAST/M00626"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Mass converted to basic TEI encoding standards by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
 <naṃ0- 4858>
 <nāma- mātṛkārṇa nighaṇṭuḥ>
 <karttā- bhānudīkṣitaḥ nārāyaṇadīkṣita putraḥ>
@@ -145,3 +183,6 @@ kṣitanārāyaṇatanayadī(0)bhānunāviracitomātṛkārṇanighaṃṭaḥsa
 
 
 <###########   END OF FILE  #######>
+    </body>
+  </text>
+</TEI>

@@ -1,4 +1,28 @@
-###########################################################################
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mātṛkābhedatantra</title>
+        <respStmt>
+          <resp>Original digitization and data entry</resp>
+          <name>Muktabodha Indological Research Institute</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Muktabodha Indological Research Institute</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">
+            Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+          </licence>
+          <p>
+            The etext is provided by the Muktabodha Indological Research Institute 
+            under a CC BY-NC 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
 MUKTABODHA INDOLOGICAL RESEARCH INSTITUTEUse of this material (e-texts) is covered by Creative Commons license BY-NC 4.0. Catalog number : M00662
 Uniform title: mātṛkābhedatantra
 Description: Copied from Calcutta Sanskrit Series VII edited by Chintamani Bhattacharya, 1933
@@ -9,12 +33,21 @@ Publisher : Metropolitan Printing and Publishing House
 Publication year : 1933
 Publication city : Calcutta
 Publication country : India
-
-###########################################################################
-
-
-  
-          
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <idno type="muktabodha_catalog">M00662</idno>
+          <ptr target="https://muktabodha-digital-library.org/texts/IAST/M00662"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Mass converted to basic TEI encoding standards by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
 mātṛkābhedatantrasya viṣayasūcī 
 pṛ0 1) prathamapaṭalasya 1-4 pṛ0 
 
@@ -2497,9 +2530,7 @@ iti śrīmātṛkābhedatantre sarvatantrottamottame haragaurīsaṃvāde śrī�
 -------------
 1 | stotramidaṃ kulamūlāvatārakalpasūtraṭīkāyāmiti prāṇatoṣaṇyāmuktam | tatrādau śloko'yamadhiko varttateḥ- 
 ādi kādi kila thāditārakaṃ varṇamaṇḍalamakhaṇḍasiddhidam | 
-antarullasitahakṣalākṣaraṃ lakṣayanti paśavaḥ kathaṃ śive | 
-
-
-
-     
-
+antarullasitahakṣalākṣaraṃ lakṣayanti paśavaḥ kathaṃ śive |
+    </body>
+  </text>
+</TEI>

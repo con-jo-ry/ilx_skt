@@ -1,28 +1,62 @@
-
-
-###########################################################################
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Ṇatvabādhāvidhūnanam Tattvamālāvyākhyā</title>
+        <author ref="mbP0036">Seṣaśāstrī</author>
+        <respStmt>
+          <resp>Original digitization and data entry</resp>
+          <name>Muktabodha Indological Research Institute</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Muktabodha Indological Research Institute</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">
+            Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+          </licence>
+          <p>
+            The etext is provided by the Muktabodha Indological Research Institute 
+            under a CC BY-NC 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
 MUKTABODHA INDOLOGICAL RESEARCH INSTITUTE and INSTITUT FRANCAIS DE PONDICHERYCatalog number : I00019
 Uniform title: ṇatvabādhāvidhūnanam with commentary tat(t)vamālāvyākhyā
 Author : ṣeṣaśāstrī
 Manuscript : IFP manuscript 30989
 Description: This IFP manuscript 30989 comprises a significant work titled ṇatvabādhāvidhūnam accompanied by an explanatory commentary known as tat(v)vamālāvyākhyā both authored by ṣeṣaśastri.
-The primary focus of the text is to expound the 36 tattvas of creation as taught in the śivāgamas. Simultaneously it serves as an ode to Lord Nārāyaṇa. Notably the title underscores the significance of the letter &quot;ṇa&quot; which the author contends is derived from the name of Lord  Nārāyaṇa. His interpretation establishes that the name actually refers to God śiva and not viṣṇu as the name is commonly associated with. Furthermore the content explores the origin of creation and the Gods, asserting that the manifestation of deities is intricately connected with their names.
+The primary focus of the text is to expound the 36 tattvas of creation as taught in the śivāgamas. Simultaneously it serves as an ode to Lord Nārāyaṇa. Notably the title underscores the significance of the letter &amp;quot;ṇa&amp;quot; which the author contends is derived from the name of Lord  Nārāyaṇa. His interpretation establishes that the name actually refers to God śiva and not viṣṇu as the name is commonly associated with. Furthermore the content explores the origin of creation and the Gods, asserting that the manifestation of deities is intricately connected with their names.
 Notes: This e text was produced under an agreement between the IFP (Institut Francais de Pondichery)  and The Muktabodha Indological Research Institute, India.
 
 The e-text was prepared by the staff of the IFP, Sambandhan Anandavardhana (Research Associate) and Arul Nandi (Research Assistant)  under the supervision of Dr. Deviprasad Mishra (Project Co-ordinator).
 
 The project was funded by the Muktabodha Indological Research Institute, India
 
-&copy;2023 Institut Francais de Pondichery and Muktabodha Indological Research Institute. Released under Creative Commons BY-NC 4.0; please give appropriate credit to both the IFP and Muktabodha Indological Research Institute when using this e-text.               
+&amp;copy;2023 Institut Francais de Pondichery and Muktabodha Indological Research Institute. Released under Creative Commons BY-NC 4.0; please give appropriate credit to both the IFP and Muktabodha Indological Research Institute when using this e-text.               
 Words/letters within brackets are the suggestions of Dr. Deviprasad Mishra
-Dots (&hellip;.) are used to mention the missing parts/leaf damage/unidentified characters          
+Dots (&amp;hellip;.) are used to mention the missing parts/leaf damage/unidentified characters          
 
 Revision 0: 2034/01/18
 Publication country : India
-
-###########################################################################
-
-
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <idno type="muktabodha_catalog">I00019</idno>
+          <ptr target="https://muktabodha-digital-library.org/texts/IAST/I00019"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Mass converted to basic TEI encoding standards by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
 (ṛE-30989)
 (ṭotal pictures in the bundle - 34)
 (ḻines per one picture a and b siśe 15 to 18 lines.)
@@ -1186,5 +1220,6 @@ nārāyaṇapadabhūṣaṇarūpāsau tatvamālikā śambhoḥ|
 
 
 <E-texts may be viewed only online or downloaded for private study.>
-          
-
+    </body>
+  </text>
+</TEI>

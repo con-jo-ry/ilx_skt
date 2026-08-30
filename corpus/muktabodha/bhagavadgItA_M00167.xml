@@ -1,3 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Bhagavadgītā Sarvatobhadra</title>
+        <author ref="mbP0013">Ramakaṇṭha</author>
+        <respStmt>
+          <resp>Original digitization and data entry</resp>
+          <name>Muktabodha Indological Research Institute</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Muktabodha Indological Research Institute</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">
+            Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+          </licence>
+          <p>
+            The etext is provided by the Muktabodha Indological Research Institute 
+            under a CC BY-NC 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <idno type="muktabodha_catalog">M00167</idno>
+          <ptr target="https://muktabodha-digital-library.org/texts/IAST/M00167"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Mass converted to basic TEI encoding standards by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
 ####################################################)
 (MUKTABODHA INDOLOGICAL RESEARCH INSTITUTE
 (Use of this material (e-texts) is covered by Creative Commons license BY-NC 4.0>
@@ -10088,3 +10125,6 @@ sarvatobhadranāmni bhagavadgītāvivaraṇe caturdaśo'dhyāyaḥ] || 14 ||
 
 
 <###########   END OF FILE  #######>
+    </body>
+  </text>
+</TEI>

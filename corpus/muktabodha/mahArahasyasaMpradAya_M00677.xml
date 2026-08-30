@@ -1,20 +1,54 @@
-###########################################################################
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mahārahasyasaṃpradāya</title>
+        <author>Vimalaprabodha</author>
+        <respStmt>
+          <resp>Original digitization and data entry</resp>
+          <name>Muktabodha Indological Research Institute</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Muktabodha Indological Research Institute</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">
+            Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+          </licence>
+          <p>
+            The etext is provided by the Muktabodha Indological Research Institute 
+            under a CC BY-NC 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
 MUKTABODHA INDOLOGICAL RESEARCH INSTITUTEUse of this material (e-texts) is covered by Creative Commons license BY-NC 4.0.
 Catalog number : M00677
 Uniform title: Mahārahasyasaṃpradāya
 Author : Vimalaprabodha
 Manuscript : Kaiser Library ms # 79 (part 2), Uttara Licchavi script, 44 folios
-Notes: Data-entered by the staff of Muktabodha under the supervision of Anirban Dash.Varanasi team metadata:pa"scimardhana paddhati & mahaarahasya sa.mpradaayaMs. No. 79Reel No.: C-6/15Running No. 79No. of leaves: 44Size in cm: 5 x 20Script: NewariRemarks: palm leaf, damaged by worms – ratsRevision 0: Apr 9, 2026
+Notes: Data-entered by the staff of Muktabodha under the supervision of Anirban Dash.Varanasi team metadata:pa&quot;scimardhana paddhati &amp; mahaarahasya sa.mpradaayaMs. No. 79Reel No.: C-6/15Running No. 79No. of leaves: 44Size in cm: 5 x 20Script: NewariRemarks: palm leaf, damaged by worms – ratsRevision 0: Apr 9, 2026
 Publication year : 2026
 Publication country : India
 Traditions : Kubjikā
 Genre : Paddhati
-
-###########################################################################
-
-
-  
-          
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <idno type="muktabodha_catalog">M00677</idno>
+          <ptr target="https://muktabodha-digital-library.org/texts/IAST/M00677"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Mass converted to basic TEI encoding standards by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
 śrīmahārahasyasaṃpradāyaḥ
 
 (1a)
@@ -611,8 +645,6 @@ yasyāṃ guruścaraṇa paṃkajameva la(bdhaṃ) ।। ।।
 ।। iti śrīmahārahasye saṃpradāye śrīkramaṃ samāptam ।। śreyo'stu ।।
 
 rājādhirājaparameśvaraparamabhaṭṭārakaśrīmadarimalladevasya vijayeti ।। saṃ 331 śrāvaṇaśudi 7 ।।
-
-
-
-     
-
+    </body>
+  </text>
+</TEI>

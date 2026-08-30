@@ -1,4 +1,29 @@
-###########################################################################
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Tattvacintāmaṇi Prakāśa Chapters 11-15</title>
+        <author ref="mbP0134">Bhuvanmohan Saṃkhyatirtha</author>
+        <respStmt>
+          <resp>Original digitization and data entry</resp>
+          <name>Muktabodha Indological Research Institute</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Muktabodha Indological Research Institute</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">
+            Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+          </licence>
+          <p>
+            The etext is provided by the Muktabodha Indological Research Institute 
+            under a CC BY-NC 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
 MUKTABODHA INDOLOGICAL RESEARCH INSTITUTEUse of this material (e-texts) is covered by Creative Commons license BY-NC 4.0. Catalog number : M00087
 Uniform title: tattvacintāmaṇi chapters 11 thru 15
 Author : pūrṇānanda
@@ -12,11 +37,21 @@ Revision 1:      December 11, 2007
 Publication year : 1936
 Publication city : Calcutta
 Publication country : India
-
-###########################################################################
-
-
-
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <idno type="muktabodha_catalog">M00087</idno>
+          <ptr target="https://muktabodha-digital-library.org/texts/IAST/M00087"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Mass converted to basic TEI encoding standards by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
 [ekādaśaḥ prakāśaḥ]
 
 (śāktakāmarājavidyā, lopāmudrābhedanirūpaṇam, śāktapañcamībhedanirūpaṇañca)
@@ -9463,3 +9498,6 @@ spaṣṭam |
 
 
 (###########   END OF FILE  #######)
+    </body>
+  </text>
+</TEI>

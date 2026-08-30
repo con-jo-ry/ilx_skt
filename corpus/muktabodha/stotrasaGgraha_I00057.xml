@@ -1,9 +1,33 @@
-###########################################################################
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Stotrasaṅgraha</title>
+        <respStmt>
+          <resp>Original digitization and data entry</resp>
+          <name>Muktabodha Indological Research Institute</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Muktabodha Indological Research Institute</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">
+            Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+          </licence>
+          <p>
+            The etext is provided by the Muktabodha Indological Research Institute 
+            under a CC BY-NC 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
 MUKTABODHA INDOLOGICAL RESEARCH INSTITUTE and INSTITUT FRANCAIS DE PONDICHERYUse of this material (e-texts) is covered by Creative Commons license BY-NC 4.0.
 Catalog number : I00057
 Uniform title: Stotrasaṅgraha
 Manuscript : IFP manuscript bundle RE31139
-Description: Bundle RE31139, entitled "stotrasaṅgrahaḥ", comprises two main sections, combining ritual practice and devotional hymnology. The first section is devoted to Ātmārthapūjā and details preparatory and worship procedures, including Astrasandhi, Śivasandhi, and Śivasūryapūjā. It also provides the complete Ātmārthapūjā sequence, which reflects personal worship performed for one’s own spiritual benefit. The second section is a collection of stotras primarily dedicated to Lord Śiva. This includes Sadāśivāṣṭakam, Hālāsyanāthāṣṭakam, Liṅgāṣṭakam, Bhairavāṣṭakam, Śrīsthalīśvarāṣṭakam, Śivapañcākṣarastotram, Bhujaṅgapriyākalpakam, and Kṣetrapālavāṣṭakam, as well as several other hymns. These illustrate the rich devotional and theological dimensions of Śaiva worship.The manuscript consists of 55 folios, each measuring approximately 150 mm × 303 mm and containing 6–12 lines of text. By combining practical ritual manuals with a wide range of Śaivastotra literature, this collection is an important source for understanding the liturgical procedures and devotional expressions central to the Śaiva tradition.
+Description: Bundle RE31139, entitled &quot;stotrasaṅgrahaḥ&quot;, comprises two main sections, combining ritual practice and devotional hymnology. The first section is devoted to Ātmārthapūjā and details preparatory and worship procedures, including Astrasandhi, Śivasandhi, and Śivasūryapūjā. It also provides the complete Ātmārthapūjā sequence, which reflects personal worship performed for one’s own spiritual benefit. The second section is a collection of stotras primarily dedicated to Lord Śiva. This includes Sadāśivāṣṭakam, Hālāsyanāthāṣṭakam, Liṅgāṣṭakam, Bhairavāṣṭakam, Śrīsthalīśvarāṣṭakam, Śivapañcākṣarastotram, Bhujaṅgapriyākalpakam, and Kṣetrapālavāṣṭakam, as well as several other hymns. These illustrate the rich devotional and theological dimensions of Śaiva worship.The manuscript consists of 55 folios, each measuring approximately 150 mm × 303 mm and containing 6–12 lines of text. By combining practical ritual manuals with a wide range of Śaivastotra literature, this collection is an important source for understanding the liturgical procedures and devotional expressions central to the Śaiva tradition.
 Notes: This e-text was produced under an agreement between the IFP (Institut Francais de Pondichery) and The Muktabodha Indological Research Institute, India.The e-text was prepared by the team of Indology scholars at the IFP, under the supervision of Dr. Deviprasad Mishra (Project Co-ordinator).The project was funded by the Muktabodha Indological Research Institute, India.©2023 Institut Francais de Pondichery and Muktabodha Indological Research Institute. Released under Creative Commons BY-NC 4.0; please give appropriate credit to both the IFP and Muktabodha Indological Research Institute when using this e-text.Revision 0: May 8, 2026
 Internet publisher : Internet publisher IFP and Muktabodha
 Publication year : 2026
@@ -11,12 +35,21 @@ Publication country : No place, unknown or undetermined
 File Size : 51 KB
 Traditions : Smārta
 Genre : Stotra
-
-###########################################################################
-
-
-  
-          
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <idno type="muktabodha_catalog">I00057</idno>
+          <ptr target="https://muktabodha-digital-library.org/texts/IAST/I00057"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Mass converted to basic TEI encoding standards by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
 re-31193
 stotrasaṅgrahaḥ – [stotrasaṅgrahaḥ – vesper libre]
 
@@ -161,6 +194,6 @@ ta...tadantamekameva cintayāmi santatam ॥ 5? ॥
 (p.17b, f.इ, l.1)
 mahāgaṇeśapañcaratnamādareṇa yonvahaṃ *prajalpati prabhātake hṛdi smaran gaṇeśvaram ।* (l.2), (l.3)
 arogatāmadoṣatāṃ susāhitaṃ sarvatra *tāṃ samāyutāyāraṣṭabhīti ma...veti sucirāt ॥ ? ॥ * (l.4)(remaining position blank), (p.18a blank, f.ई, उ is missing),
-
-     
-
+    </body>
+  </text>
+</TEI>

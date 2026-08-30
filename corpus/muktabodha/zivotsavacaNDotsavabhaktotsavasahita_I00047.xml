@@ -1,4 +1,28 @@
-###########################################################################
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Śivotsavacaṇḍotsavabhaktotsavasahita</title>
+        <respStmt>
+          <resp>Original digitization and data entry</resp>
+          <name>Muktabodha Indological Research Institute</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Muktabodha Indological Research Institute</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">
+            Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+          </licence>
+          <p>
+            The etext is provided by the Muktabodha Indological Research Institute 
+            under a CC BY-NC 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
 MUKTABODHA INDOLOGICAL RESEARCH INSTITUTE and INSTITUT FRANCAIS DE PONDICHERYUse of this material (e-texts) is covered by Creative Commons license BY-NC 4.0.
 Catalog number : I00047
 Uniform title: Śivotsavacaṇḍotsavabhaktotsavasahita
@@ -11,12 +35,21 @@ Publication country : No place, unknown or undetermined
 File Size : 166.5 KB
 Traditions : Late Śaiva Siddhānta
 Genre : Paddhati
-
-###########################################################################
-
-
-  
-          
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <idno type="muktabodha_catalog">I00047</idno>
+          <ptr target="https://muktabodha-digital-library.org/texts/IAST/I00047"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Mass converted to basic TEI encoding standards by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
 re-32412 – śivotsava-caṇḍotsava-bhaktotsava
 
 p = pdf page number
@@ -399,8 +432,6 @@ mahādhvaja(jaṃ) *pūrvata(taḥ)sthāpya śchā?nave'rghyaṃ tu pūjayet ।
 kṣetreśaṃ(śam) mu(u)tsavānte ca mahāhaviṃ nivedayet ।
 ācāryaṃ pūjayettatra *vastraho(he)māṅgulīyakaiḥ । * (p.100a, l.1)
 iti raurave kriyāpāde kṣetrapālapriṣṭhāvidhipaṭalaḥ । śubhamastu ॥ (remaining portion blank, p.100b, p.101, 102a blank, 102b end frame picture)
-
-
-
-     
-
+    </body>
+  </text>
+</TEI>

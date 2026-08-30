@@ -1,7 +1,32 @@
-###########################################################################
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Nigamasāra Nirṇaya</title>
+        <author ref="mbP0044">Ramāramaṇa</author>
+        <respStmt>
+          <resp>Original digitization and data entry</resp>
+          <name>Muktabodha Indological Research Institute</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Muktabodha Indological Research Institute</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">
+            Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+          </licence>
+          <p>
+            The etext is provided by the Muktabodha Indological Research Institute 
+            under a CC BY-NC 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
 MUKTABODHA INDOLOGICAL RESEARCH INSTITUTEUse of this material (e-texts) is covered by Creative Commons license BY-NC 4.0. Catalog number : M00321
 Uniform title: nigamasāranirṇaya
-Author : &lt;ramAramaNadeva
+Author : &amp;lt;ramAramaNadeva
 Manuscript : NGMCP manuscript no.: 3-333 Reel No. B 129/5
 Description: Description by Mark S.G. Dyczkowski:
 The term - nigama - for Tantra in general, as opposed to - āgama - for Veda, is emerged in the later period of development of the śākta Tantra after the 13th century. It came to commonly denote more specifically, Kaula śākta tantra. Accordingly we find a good number of Kaula works, that incoprorate it in their names. Examples are, the Nigamalatātantra, Nigamakalpadruma, Nigamatattvasāra and this work, the Nigamasāranirṇaya is by Ramāramaṇadeva. It deals primarily with the worship of Kaula goddesses. The rituals are drawn from a number of sources which Ramāramaṇa first quotes and then comments. He thus attempts to present the teaching (nirṇaya) which is the essence (sāra) of the Nigama. He quotes the Tantrakaumudī which was written by Govinda Thakkur who was a court paṇḍit of the 16th century rājā of Kūcabihāra, Malladeva Naranārāyaṇa. Thus the Nigamasāranirṇaya could not have been written before that. Most of the Tantras he quotes mostly belong to a period between the 13th or 14th century to the 16th. An exception is the Vāmakeśvaratantra which probably belongs to the 11th century. They include:
@@ -15,11 +40,21 @@ Notes: Revision 0: Nov. 21, 2014
 
 Data-entered by the staff of Muktabodha under the direction of Mark S.G. Dyczkowski.
 Publication country : India
-
-###########################################################################
-
-
-
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <idno type="muktabodha_catalog">M00321</idno>
+          <ptr target="https://muktabodha-digital-library.org/texts/IAST/M00321"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Mass converted to basic TEI encoding standards by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
 oṃ namastasyai gaṇeśāya ca | 
 
 yadromavivare kīṭā iva brahmāṇḍakoṭayaḥ |
@@ -8702,3 +8737,6 @@ kālikāmanuvidhānapūjanadhyāna bhuvibhṛtakaḥ paṭaloyaṃ] ||
 
 
 (###########   END OF FILE  #######)
+    </body>
+  </text>
+</TEI>

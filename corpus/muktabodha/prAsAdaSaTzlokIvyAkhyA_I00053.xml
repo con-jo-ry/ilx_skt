@@ -1,4 +1,28 @@
-###########################################################################
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Prāsādaṣaṭślokīvyākhyā</title>
+        <respStmt>
+          <resp>Original digitization and data entry</resp>
+          <name>Muktabodha Indological Research Institute</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Muktabodha Indological Research Institute</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">
+            Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+          </licence>
+          <p>
+            The etext is provided by the Muktabodha Indological Research Institute 
+            under a CC BY-NC 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
 MUKTABODHA INDOLOGICAL RESEARCH INSTITUTE and INSTITUT FRANCAIS DE PONDICHERYUse of this material (e-texts) is covered by Creative Commons license BY-NC 4.0.
 Catalog number : I00053
 Uniform title: Prāsādaṣaṭślokīvyākhyā
@@ -10,12 +34,21 @@ Publication year : 2026
 Publication country : No place, unknown or undetermined
 File Size : 31 KB
 Traditions : Late Śaiva Siddhānta
-
-###########################################################################
-
-
-  
-          
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <idno type="muktabodha_catalog">I00053</idno>
+          <ptr target="https://muktabodha-digital-library.org/texts/IAST/I00053"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Mass converted to basic TEI encoding standards by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
 re-30592 ॥ prāsādaṣaṭślokī vyākhyā ॥
 
 dots (...) are used to mention the missing parts/leaf damage/unidentified characters
@@ -183,8 +216,6 @@ antastho yokhilabīja eṣaparamo mantraśśivāyāstuva ॥
 śubhamastu (l.4)
 caśavdaṃ பிறந்தத்இடதிலே சகலகலை உணர்ந்தோணும் அதை உணர்த்த அறியாயோமின் சொன்ன சப்தமே சப்தம் (l.5) சஞ்சலமில்லாத (l.6)மனமே சுத்தசிவம் ... தனது ஆல்லாம உயிராகும் பேத்தரப்பை அதை விடம் பெருகும்(l.7) கனக... சயினிவே வேண்டாம். பிறவி அத்துவைதம்ஆசைஅற நினைவிடமாம்.
 ॥ śubham ॥
-
-
-
-     
-
+    </body>
+  </text>
+</TEI>

@@ -1,4 +1,29 @@
-###########################################################################
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Vimalāvatītantra</title>
+        <author ref="self-reference (in middle of text)">Vimalaśiva</author>
+        <respStmt>
+          <resp>Original digitization and data entry</resp>
+          <name>Muktabodha Indological Research Institute</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Muktabodha Indological Research Institute</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">
+            Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+          </licence>
+          <p>
+            The etext is provided by the Muktabodha Indological Research Institute 
+            under a CC BY-NC 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
 MUKTABODHA INDOLOGICAL RESEARCH INSTITUTEUse of this material (e-texts) is covered by Creative Commons license BY-NC 4.0. Catalog number : M00295
 Uniform title: vimalāvatītantra
 Author : vimalaśiva
@@ -6,11 +31,21 @@ Manuscript : NGMCP 1-431 reel number: A186/10
 Description: This is a work on Siddhānta ritual written by Vimalaśiva who lived in the thirteenth century. He declares with pride that he had taken the vow of residing all his life in Benares (kāśīvāsa). The first chapter deals with the accomplishment and fruits of worship (pūjāsiddhi). Chapter two deals with the procedure for making the sacrificial; fire (vahnikārya) and three the offerings to it (homa). Four deals with the seasonal offering to the deity of a sacred thread (pavitra) and the next with the offering of garlands (dāmana). The fifth deals with the rites of initiation. The text continues to elaborate on the details concerning initiation. It includes several interesting inner purificatory practices linked with the movement of the vital breath and the movement of Kuṇḍalinī. The rules of  right conduct for initiate of various kinds are ennumerated and other matters taught concerning his duties and those of Shaivites in general both as householders and renouncers. Various initiatory rites are described for different types and levels of initiands.
 Notes: Revision 0: December 17, 2013
 Publication country : India
-
-###########################################################################
-
-
-
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <idno type="muktabodha_catalog">M00295</idno>
+          <ptr target="https://muktabodha-digital-library.org/texts/IAST/M00295"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Mass converted to basic TEI encoding standards by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
 oṃ namaḥ śivāya ||
 
 yo jantorjanenaṃ sthitiṃ sa vilayāṃ saṃrakṣaṇānugrahau |
@@ -7876,3 +7911,6 @@ haktomayeṣadvipamārthaṃ(?) saṃśrī (*****)
 
 
 <###########   END OF FILE  #######>
+    </body>
+  </text>
+</TEI>

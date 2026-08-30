@@ -1,8 +1,32 @@
-###########################################################################
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Śrīvidyāpūjākrama and Devīdhyāna</title>
+        <respStmt>
+          <resp>Original digitization and data entry</resp>
+          <name>Muktabodha Indological Research Institute</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Muktabodha Indological Research Institute</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0/">
+            Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+          </licence>
+          <p>
+            The etext is provided by the Muktabodha Indological Research Institute 
+            under a CC BY-NC 4.0 license.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
 MUKTABODHA INDOLOGICAL RESEARCH INSTITUTE and INSTITUT FRANCAIS DE PONDICHERYCatalog number : I00027
 Uniform title: śrīvidyāpūjākramaḥ and devīdhyānam
 Manuscript : IFP manuscript bundle 31062
-Description: Description by Deviprasad Misra. his bundle contains the Śrīvidyāpūjā & Devīdhyānam. Śrīvidyāpūjā is worshipping the Mother for nature and energy. Generally Vidyā means Knowledge. Śrīvidyā is one of forms of Goddess Sarasvatī, by praying under the lotus feet of the mother who is the giver for energy to all over the universe, to attain the divine knowledge and enlightenment, which interns helps us to attain “Mokṣa”. Kramam, means various ways that is Nyāsas, Lalitakramam, Āvaraṇapūjās have been explained. This pūjā connects humanity to divinity to gain enlightenment which is the ultimate knowledge.
+Description: Description by Deviprasad Misra. his bundle contains the Śrīvidyāpūjā &amp; Devīdhyānam. Śrīvidyāpūjā is worshipping the Mother for nature and energy. Generally Vidyā means Knowledge. Śrīvidyā is one of forms of Goddess Sarasvatī, by praying under the lotus feet of the mother who is the giver for energy to all over the universe, to attain the divine knowledge and enlightenment, which interns helps us to attain “Mokṣa”. Kramam, means various ways that is Nyāsas, Lalitakramam, Āvaraṇapūjās have been explained. This pūjā connects humanity to divinity to gain enlightenment which is the ultimate knowledge.
 Notes: This e text was produced under an agreement between the IFP (Institut Francais de Pondichery)  and The Muktabodha Indological Research Institute, India.
 
 The e-text was prepared by the staff of the IFP, Sambandhan Anandavardhana (Research Associate) and Arul Nandi (Research Assistant)  under the supervision of Dr. Deviprasad Mishra (Project Co-ordinator).
@@ -17,14 +41,21 @@ Revision 0: 2024/08/18
 Internet publisher : Internet publisher IFP and Muktabodha
 Publication year : 2024
 Publication country : No place, unknown or undetermined
-
-###########################################################################
-
-
-  
-          
-
-
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <idno type="muktabodha_catalog">I00027</idno>
+          <ptr target="https://muktabodha-digital-library.org/texts/IAST/I00027"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-30">Mass converted to basic TEI encoding standards by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
 re-31062, śrī vidyāpūjākramaḥ devīdhyānam|
 p= picture/image of the folio. length and breath of the manuscript 16 cm.x3 cm.
 f = number in the folio.
@@ -1103,8 +1134,6 @@ mahājña…….hā mahānando mahā mahā skando mahā mahāśayyeṃ mahā mah
 svāhā || 
 oṃ aiṃ hrīṃ śrīṃ ||
 (p. 57a, f.a) blank pages, (p. 57b, f.b) bundle picture.
-
-
-
-     
-
+    </body>
+  </text>
+</TEI>
