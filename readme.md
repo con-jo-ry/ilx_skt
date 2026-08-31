@@ -9,7 +9,7 @@ External collections are imported and standardized with TEI XML headers to recor
 * **CSV Files:** The repository's ground truth. They allow corpus-level analysis and tracking authors, categories, translations, URLs, and cross-collection duplicates.
 * **TEI Headers:** Ensure metadata remains permanently attached to individual files for independent extraction and web rendering.
 
-Utility scripts automate corpus management, including two-way metadata synchronization (CSV to TEI and vice versa), file auditing, and the generation of deduplicated plain-text subsets for targeted NLP research.
+Utility scripts automate corpus management, including two-way metadata synchronization (CSV to TEI and vice versa), file auditing, and the generation of deduplicated plain-text subsets for targeted NLP research. New additions to the source collections can be easily added here.
 
 *Ongoing Challenges:* Achieving consistent, complete metadata and enforcing uniform formatting standards across highly heterogeneous source texts. It's hoped that granular TEI-tagging can be achieved in due course.
 
