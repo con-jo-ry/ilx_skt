@@ -1,6 +1,19 @@
-
-
-
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Vīramitrodaya: Samayaprakāśa</title>
+        <author ref="P0AT0238">Mitramiśra</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>GRETIL / ERC-funded Intellexus project</publisher>
+        <availability>
+          <p>License and usage rights as noted in the legacy header.</p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
 Mitramisra: Viramitrodaya, Samayaprakasa
 Based on the ed. by Vishnu Prasada Bhandari, Benares 1935
 (Chowkhamba Sanskrit Series; 30, XIII)
@@ -11,10 +24,10 @@ http://sansknet.ac.in (now defunct)
 
 
 STRUCTURE OF REFERENCES (added):
-MV-S_nn = Mitramiśra'; Vīramitrodaya-Samayaprakāśa_pagination of CSS ed.
+MV-S_nn = Mitramiśra&#x27;; Vīramitrodaya-Samayaprakāśa_pagination of CSS ed.
 
 NOTES:
-- After p. 265 of the printed edition, the pagination jumps back to "257" - "264".
+- After p. 265 of the printed edition, the pagination jumps back to &quot;257&quot; - &quot;264&quot;.
 - Where page breaks cut through sentences, the pagination has been moved to the daṇḍa that is closest to the page break
 
 
@@ -26,7 +39,7 @@ THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!
 COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.
 
 Text converted to Unicode (UTF-8).
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration
+(This file is to be used with a UTF-8 font and your browser&#x27;s VIEW configuration
 set to UTF-8.)
 
 description:	multibyte sequence:
@@ -76,13 +89,20 @@ http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf
 
 For further information see:
 http://gretil.sub.uni-goettingen.de/gretil.htm
-
-
-
-
-
-
-
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="http://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/4_dharma/smrti/mvir_sau.htm"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-31">Mass converted to basic TEI encoding standards by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
 {MV-S_1}
 
 śrīgaṇeśāya namaḥ /
@@ -14618,6 +14638,6 @@ iti śrīmatsakalasāmantacakracūḍāmaṇimarīcimañjarīnīrājitacaraṇak
 vīramitrodayābhidhanibandhe samayaprakāśaḥ samāptaḥ /
 
 śubhaṃ bhūyāt /
-
-
-
+    </body>
+  </text>
+</TEI>

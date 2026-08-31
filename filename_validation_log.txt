@@ -1,0 +1,36 @@
+=== CORPUS FILE VALIDATION LOG ===
+
+--- Validating Collection: DSBC ---
+Files in CSV: 455
+Files in Dir: 455
+STATUS: Perfect Match.
+
+--- Validating Collection: GRETIL_EXTRA ---
+Files in CSV: 5
+Files in Dir: 5
+STATUS: Perfect Match.
+
+--- Validating Collection: GRETIL_SA ---
+Files in CSV: 799
+Files in Dir: 800
+
+  [!] Missing in CSV (1):
+      - ta-sa_periyavaccanpillai-perumaltiromolivyAkhyAnam.xml
+
+--- Validating Collection: HAMBURG ---
+Files in CSV: 63
+Files in Dir: 63
+STATUS: Perfect Match.
+
+--- Validating Collection: MUKTABODHA ---
+Files in CSV: 569
+Files in Dir: 569
+STATUS: Perfect Match.
+
+--- Validating Collection: WIKISOURCE ---
+Files in CSV: 1056
+Files in Dir: 1056
+STATUS: Perfect Match.
+
+--- Validating Duplication Logic ---
+STATUS: Duplication logic is perfectly synced across all collections.

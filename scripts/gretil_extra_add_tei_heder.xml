@@ -1,0 +1,138 @@
+#!/usr/bin/env python3
+import csv
+import os
+import re
+import html
+from datetime import date
+
+# Define paths relative to the ./scripts directory
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+CSV_PATH = os.path.join(SCRIPT_DIR, '../metadata/gretil_extra.csv')
+INPUT_DIR = os.path.join(SCRIPT_DIR, '../corpus/gretil_extra')
+OUTPUT_DIR = os.path.join(SCRIPT_DIR, '../corpus/gretil_extra_tei')
+
+def main():
+    # Ensure output directory exists
+    os.makedirs(OUTPUT_DIR, exist_ok=True)
+
+    if not os.path.exists(CSV_PATH):
+        print(f"Error: Could not find CSV at {CSV_PATH}")
+        return
+
+    # Load CSV metadata into a dictionary keyed by filename
+    metadata = {}
+    with open(CSV_PATH, mode='r', encoding='utf-8') as f:
+        reader = csv.DictReader(f)
+        for row in reader:
+            filename = row.get('file', '').strip()
+            if filename:
+                metadata[filename] = row
+
+    # Process each file in the input directory
+    for filename in os.listdir(INPUT_DIR):
+        input_filepath = os.path.join(INPUT_DIR, filename)
+        
+        # Skip directories
+        if not os.path.isfile(input_filepath):
+            continue
+            
+        with open(input_filepath, 'r', encoding='utf-8') as f:
+            content = f.read()
+
+        # Parse legacy header if it exists between --- marks
+        match = re.match(r'^\s*---\s*\n(.*?)\n\s*---\s*\n(.*)', content, re.DOTALL)
+        if match:
+            legacy_header = match.group(1).strip()
+            main_text = match.group(2).strip()
+        else:
+            legacy_header = ""
+            main_text = content.strip()
+
+        # Fetch metadata for this file
+        file_meta = metadata.get(filename, {})
+        if not file_meta:
+            print(f"Warning: No CSV metadata found for {filename}.")
+
+        # Safely escape text for XML
+        title = html.escape(file_meta.get('Full title of the text', '').strip() or filename)
+        author = html.escape(file_meta.get('Author', '').strip())
+        author_id = html.escape(file_meta.get('author_id', '').strip())
+        toh = html.escape(file_meta.get('tōh', '').strip())
+        cbeta = html.escape(file_meta.get('CBETA', '').strip())
+        url = html.escape(file_meta.get('url', '').strip())
+        legacy_header_escaped = html.escape(legacy_header)
+
+        # Build XML components
+        author_attr = f' ref="{author_id}"' if author_id else ""
+        author_xml = f"\n        <author{author_attr}>{author}</author>" if author else ""
+
+        notes_stmt_xml = ""
+        if legacy_header_escaped:
+            notes_stmt_xml = f"""
+      <notesStmt>
+        <note type="legacy_header">
+{legacy_header_escaped}
+        </note>
+      </notesStmt>"""
+
+        # Build bibliography components
+        bibl_items = []
+        if toh:
+            bibl_items.append(f'<idno type="tōhoku">{toh}</idno>')
+        if cbeta:
+            bibl_items.append(f'<idno type="cbeta">{cbeta}</idno>')
+        if url:
+            bibl_items.append(f'<ptr target="{url}"/>')
+        
+        bibl_content = "\n          ".join(bibl_items) if bibl_items else "Source details unavailable."
+
+        current_date = date.today().isoformat()
+
+        # Assemble the final TEI XML
+        tei_xml = f"""<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>{title}</title>{author_xml}
+      </titleStmt>
+      <publicationStmt>
+        <publisher>GRETIL / ERC-funded Intellexus project</publisher>
+        <availability>
+          <p>License and usage rights as noted in the legacy header.</p>
+        </availability>
+      </publicationStmt>{notes_stmt_xml}
+      <sourceDesc>
+        <bibl>
+          {bibl_content}
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="{current_date}">Mass converted to basic TEI encoding standards by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+{main_text}
+    </body>
+  </text>
+</TEI>
+"""
+        
+        # Write to the output directory
+        output_filepath = os.path.join(OUTPUT_DIR, filename)
+        
+        # Ensure it has an .xml extension if it didn't already
+        if not output_filepath.endswith('.xml'):
+            output_filepath += '.xml'
+            
+        with open(output_filepath, 'w', encoding='utf-8') as out_f:
+            out_f.write(tei_xml)
+            
+        print(f"Processed: {filename}")
+
+    print(f"\nConversion complete. Files saved to: {os.path.abspath(OUTPUT_DIR)}")
+
+if __name__ == '__main__':
+    main()

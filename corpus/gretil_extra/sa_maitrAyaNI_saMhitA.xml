@@ -1,3 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Maitrāyaṇī-Saṃhitā</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>GRETIL / ERC-funded Intellexus project</publisher>
+        <availability>
+          <p>License and usage rights as noted in the legacy header.</p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
 Maitrayani-Samhita
 
 
@@ -47,7 +62,7 @@ THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!
 COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.
 
 Text converted to Unicode (UTF-8).
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration
+(This file is to be used with a UTF-8 font and your browser&#x27;s VIEW configuration
 set to UTF-8.)
 
 description:	multibyte sequence:
@@ -97,14 +112,20 @@ http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf
 
 For further information see:
 http://gretil.sub.uni-goettingen.de/gretil.htm
-
-
-
-
-
-
-
-
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="http://gretil.sub.uni-goettingen.de/gretil/1_sanskr/1_veda/1_sam/maitrs_pu.htm"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-31">Mass converted to basic TEI encoding standards by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
 Maitrāyaṇī-Saṃhitā
 
 [Page I,1]
@@ -8818,3 +8839,6 @@ prasasāhiṣe puruhūta śatrūn //
 [Page IV,249]
      sa śevṛdham adhidhā dyumnam asme mahi kṣatraṃ janāṣāḍ indra tavyam /
      rakṣā ca no maghonaḥ pāhi sūrīn rāye ca naḥ svapatyā iṣe dhāḥ //MS_4,14.18//
+    </body>
+  </text>
+</TEI>

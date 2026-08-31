@@ -1,4 +1,4 @@
-file_name,catalogue_no,title,author,author_id,tōh.,CBETA number,Remarks Chinese translation,url,archive.org,reconstructed (y/n),best_text,duplicate_of_standard
+file,catalogue_no,title,author,author_pid,tōh,cbeta,Remarks Chinese translation,url,archive.org,reconstructed (y/n),best_text,duplicate_of_standard
 advayasiddhi_book_85.xml,book_85,Advayasiddhi,,,,,,https://www.dsbcproject.org/canon-text/book/85,,,,
 advayavajrasaṇgraha_book_82.xml,book_82,Advayavajrasaṇgraha,,,,,,https://www.dsbcproject.org/canon-text/book/82,,,,
 nānāsiddhopadeśa_book_79.xml,book_79,Nānāsiddhopadeśa,,,,,,https://www.dsbcproject.org/canon-text/book/79,,,,
@@ -211,7 +211,7 @@ aparimitāyuḥmahāyānasūtra_book_24.xml,book_24,Aparimitāyuḥmahāyānasū
 ṣaṇmukhīdhāraṇī_book_19.xml,book_19,Ṣaṇmukhīdhāraṇī,,,,T21n1360,,https://www.dsbcproject.org/canon-text/book/19,,,,
 nārāyaṇaparipṛcchā_āryamahāmāyāvijayavāhinī_nāma_dhāraṇī_book_18.xml,book_18,Nārāyaṇaparipṛcchā Āryamahāmāyāvijayavāhinī Nāma Dhāraṇī,,,,,Not found.,https://www.dsbcproject.org/canon-text/book/18,,,,
 āryābuddhabalādhānaprātihāryavikurvaṇanirdeśanāmamahāyānasūtra_book_63.xml,book_63,Āryābuddhabalādhānaprātihāryavikurvaṇanirdeśanāmamahāyānasūtra,,,,,Not found.,https://www.dsbcproject.org/canon-text/book/63,,,n,gretil_sa/sa_buddhabalAdhAnaprAtihAryavikurvANanirdezasUtra.xml
-sarvatathāgatādhiṣṭhānavyūhasūtra_book_57.xml,book_57,Sarvatathāgatādhiṣṭhānavyūhasūtra,,,,,Not found.,https://www.dsbcproject.org/canon-text/book/57,,,n,gretil_sa/sa_sAgaranAgarAjaparipRcchAmahAyAnasUtra.xml
+sarvatathāgatādhiṣṭhānavyūhasūtra_book_57.xml,book_57,Sarvatathāgatādhiṣṭhānavyūhasūtra,,,,,Not found.,https://www.dsbcproject.org/canon-text/book/57,,,n,gretil_sa/sa_sarvatathAgatAdhiSThAnavyUhasUtra.xml
 meghasūtra_book_50.xml,book_50,Meghasūtra,,,,,Not found.,https://www.dsbcproject.org/canon-text/book/50,,,,
 mahāmeghasūtra_book_47.xml,book_47,Mahāmeghasūtra,,,,"T12n0387, T19n0989, T19n0991, T19n0992, T19n0993",,https://www.dsbcproject.org/canon-text/book/47,,,,
 saddharmasmṛtyupasthānasūtra_book_813.xml,book_813,Saddharmasmṛtyupasthānasūtra,,,D0287,,Not found.,https://www.dsbcproject.org/canon-text/book/813,,,,
@@ -248,7 +248,7 @@ paramādyatantra_book_971.xml,book_971,Paramādyatantra,,,,,,https://www.dsbcpro
 madhyamakaśālistambasūtra_book_46.xml,book_46,Madhyamakaśālistambasūtra,,,,,,https://www.dsbcproject.org/canon-text/book/46,,,n,gretil_sa/sa_madhyamakazAlistambasUtra.xml
 santānāntarasiddhiṭīkā_book_304.xml,book_304,Santānāntarasiddhiṭīkā,,,,,,https://www.dsbcproject.org/canon-text/book/304,,,n,gretil_sa/sa_vinItadeva-saMtAnAntarasiddhiTIkA.xml
 āryaśālistambakakārikā_book_320.xml,book_320,Āryaśālistambakakārikā,,,,,,https://www.dsbcproject.org/canon-text/book/320,,,n,gretil_sa/sa_nAgArjuna-zAlistambakakArikA.xml
-mūlamadhyamakakārikā_book_931.xml,book_931,Mūlamadhyamakakārikā,,,,,,https://www.dsbcproject.org/canon-text/book/931,,,,
+mūlamadhyamakakārikā_book_931.xml,book_931,Mūlamadhyamakakārikā,,,,,,https://www.dsbcproject.org/canon-text/book/931,,,n,gretil_sa/sa_nAgArjuna-madhyamakazAstra.xml
 āryadharmadhātugarbhavivaraṇa_book_100.xml,book_100,Āryadharmadhātugarbhavivaraṇa,,,,,,https://www.dsbcproject.org/canon-text/book/100,,,n,gretil_sa/sa_nAgArjuna-dharmadhAtugarbhavivaraNa.xml
 mahāsāṃghikaprātimokṣasūtra_book_90.xml,book_90,Mahāsāṃghikaprātimokṣasūtra,,,,,,https://www.dsbcproject.org/canon-text/book/90,,,n,gretil_sa/sa_prAtimokSasUtra-of-the-mahAsAMghikas.xml
 sekoddeśa_book_105.xml,book_105,Sekoddeśa,,,,,,https://www.dsbcproject.org/canon-text/book/105,,,n,gretil_sa/sa_nAropa-sekoddeza.xml
@@ -299,7 +299,7 @@ suvarṇaprabhāsasūtra_book_60.xml,book_60,Suvarṇaprabhāsasūtra,,,,,,https
 sukhāvatīvyūha_vistaramātṛkā_book_59.xml,book_59,Sukhāvatīvyūha (Vistaramātṛkā),,,,,,https://www.dsbcproject.org/canon-text/book/59,,,n,gretil_sa/sa_sukhAvatIvyUhavistaramAtRkA.xml
 tarkabhāṣā_book_322.xml,book_322,Tarkabhāṣā,,,,,,https://www.dsbcproject.org/canon-text/book/322,,,n,gretil_sa/sa_tarkabhASA.xml
 garbhasaṅgraha_book_265.xml,book_265,Garbhasaṅgraha,,,,,,https://www.dsbcproject.org/canon-text/book/265,,,n,gretil_sa/sa_garbhasaMgrahaH.xml
-svalpākṣarā_prajñāpāramitā_book_75.xml,book_75,Svalpākṣarā Prajñāpāramitā,,,,,,https://www.dsbcproject.org/canon-text/book/75,,,n,gretil_sa/sa_maJjuzrImUlakalpa.xml
+svalpākṣarā_prajñāpāramitā_book_75.xml,book_75,Svalpākṣarā Prajñāpāramitā,,,,,,https://www.dsbcproject.org/canon-text/book/75,,,n,gretil_sa/sa_svalpAkSarA-prajJApAramitA.xml
 sarvadurgatipariśodhanatantra_book_730.xml,book_730,Sarvadurgatipariśodhanatantra,,,,,,https://www.dsbcproject.org/canon-text/book/730,,,,
 sambandhaparīkṣāvṛtti_book_921.xml,book_921,Sambandhaparīkṣāvṛtti,,,,,,https://www.dsbcproject.org/canon-text/book/921,,,,
 karuṇāpuṇḍarīkasūtra_book_43.xml,book_43,Karuṇāpuṇḍarīkasūtra,,,,,,https://www.dsbcproject.org/canon-text/book/43,,,n,gretil_sa/sa_karuNApuNDarIkasUtra.xml
@@ -307,7 +307,7 @@ karuṇāpuṇḍarīkasūtra_book_43.xml,book_43,Karuṇāpuṇḍarīkasūtra,
 prajñāpāramitāhṛdayasūtra_vistaramātṛkā_book_71.xml,book_71,Prajñāpāramitāhṛdayasūtra (vistaramātṛkā),,,,,,https://www.dsbcproject.org/canon-text/book/71,,,n,gretil_sa/sa_prajJApAramitAhRdayasUtravistaramAtRkA.xml
 mahāyānasūtrālaṃkāra_kārikā_book_332.xml,book_332,Mahāyānasūtrālaṃkāra (kārikā),,,,,,https://www.dsbcproject.org/canon-text/book/332,,,n,gretil_sa/sa_asaGga-mahAyAnasUtrAlaMkAra-alt.xml
 bodhicaryāvatāra_book_258.xml,book_258,Bodhicaryāvatāra,,,,,,https://www.dsbcproject.org/canon-text/book/258,,,n,gretil_sa/sa_zAntideva-bodhicaryAvatAra-alt.xml
-adhyardhaśatikā_prajñāpāramitā_book_66.xml,book_66,Adhyardhaśatikā Prajñāpāramitā,,,,,,https://www.dsbcproject.org/canon-text/book/66,,,n,gretil_not_in_repo/sa_adhyardhazatikA-prajJApAramitA-alt.xml
+adhyardhaśatikā_prajñāpāramitā_book_66.xml,book_66,Adhyardhaśatikā Prajñāpāramitā,,,,,,https://www.dsbcproject.org/canon-text/book/66,,,n,gretil_extra/sa_adhyardhazatikA-prajJApAramitA-alt.xml
 bhadracarīpraṇidhānastotra_book_191.xml,book_191,Bhadracarīpraṇidhānastotra,,,,,,https://www.dsbcproject.org/canon-text/book/191,,,,
 śikṣāsamuccaya_book_269.xml,book_269,Śikṣāsamuccaya,,,,,,https://www.dsbcproject.org/canon-text/book/269,,,,
 mahāpratisarāstotra_book_167.xml,book_167,Mahāpratisarāstotra,,,,,,https://www.dsbcproject.org/canon-text/book/167,,,,
@@ -349,7 +349,7 @@ hevajrasādhanopāyikā_book_953.xml,book_953,Hevajrasādhanopāyikā,Saroruhava
 deśanāstava_book_946.xml,book_946,Deśanāstava,,,,,,https://www.dsbcproject.org/canon-text/book/946,,,,
 śikṣāsamuccayakārikā_book_268.xml,book_268,Śikṣāsamuccayakārikā,,,,,,https://www.dsbcproject.org/canon-text/book/268,,,n,gretil_sa/sa_zikSAsamuccayakArikA.xml
 madhyamakāvatārabhāṣya_book_887.xml,book_887,Madhyamakāvatārabhāṣya,,,,,,https://www.dsbcproject.org/canon-text/book/887,,,n,gretil_sa/sa_madhyamakAvatAra-1-5.xml
-mahāsannipātaratnaketudhāraṇī_sūtraṃ_book_17.xml,book_17,Mahāsannipātaratnaketudhāraṇī sūtraṃ,,,,,,https://www.dsbcproject.org/canon-text/book/17,,,n,gretil_sa/sa_madhyamakazAlistambasUtra.xml
+mahāsannipātaratnaketudhāraṇī_sūtraṃ_book_17.xml,book_17,Mahāsannipātaratnaketudhāraṇī sūtraṃ,,,,,,https://www.dsbcproject.org/canon-text/book/17,,,n,gretil_sa/sa_mahAsaMnipAtaratnaketudhAraNIsUtra1-610-11.xml
 bhavasaṅkrāntiṭīkā_book_326.xml,book_326,Bhavasaṅkrāntiṭīkā,,,,,,https://www.dsbcproject.org/canon-text/book/326,,,n,gretil_sa/sa_maitreyanAtha-bhavasaMkrAntiTIkA.xml
 sāmānyadūṣaṇadikprasāritā_book_301.xml,book_301,Sāmānyadūṣaṇadikprasāritā,,,,,,https://www.dsbcproject.org/canon-text/book/301,,,n,gretil_sa/sa_paNDitAzoka-sAmAnyadUSaNadikprasAritA.xml
 satyasiddhiśāstra_book_311.xml,book_311,Satyasiddhiśāstra,,,,,,https://www.dsbcproject.org/canon-text/book/311,,,,
@@ -387,7 +387,7 @@ kriyāsaṃgrahakārikā_book_315.xml,book_315,Kriyāsaṃgrahakārikā,,,,,,htt
 piṇḍīkrama_book_356.xml,book_356,Piṇḍīkrama,,,,,,https://www.dsbcproject.org/canon-text/book/356,,,n,gretil_sa/sa_nAgArjuna-piNDIkrama.xml
 śrīhevajrasādhanavajrapradīpanāmaṭippaṇīviśuddhi_book_950.xml,book_950,Śrīhevajrasādhanavajrapradīpanāmaṭippaṇīviśuddhi,,,,,,https://www.dsbcproject.org/canon-text/book/950,,,,
 śrīhevajrabhaṭṭārakacakraviṃśatikāstotra_book_956.xml,book_956,Śrīhevajrabhaṭṭārakacakraviṃśatikāstotra,,,,,,https://www.dsbcproject.org/canon-text/book/956,,,,
-prasannapadā_book_247.xml,book_247,Prasannapadā,,,,,,https://www.dsbcproject.org/canon-text/book/247,,,y,gretil_sa/sa_candrakIrti-prasannapada.xml
+prasannapadā_book_247.xml,book_247,Prasannapadā,,,,,,https://www.dsbcproject.org/canon-text/book/247,,,n,gretil_sa/sa_candrakIrti-prasannapada.xml
 āryaṃaitreyavyākaraṇa_book_26.xml,book_26,Āryaṃaitreyavyākaraṇa,,,,,,https://www.dsbcproject.org/canon-text/book/26,,,,
 sitātapatrā_dhāraṇī_book_20.xml,book_20,Sitātapatrā dhāraṇī,,,,,,https://www.dsbcproject.org/canon-text/book/20,,,n,gretil_sa/sa_sitAtapatrA.xml
 ālambanaparīkṣāvṛtti_book_284.xml,book_284,Ālambanaparīkṣāvṛtti,,,,,,https://www.dsbcproject.org/canon-text/book/284,,,n,gretil_sa/sa_AlambanaparIkSA-comm.xml
@@ -428,7 +428,7 @@ pratītyasamutpādādivibhaṅganirdeśasūtra_book_65.xml,book_65,Pratītyasamu
 kāraṇḍavyūha_book_42.xml,book_42,Kāraṇḍavyūha,,,,,,https://www.dsbcproject.org/canon-text/book/42,,,n,gretil_sa/sa_kAraNDavyUha.xml
 hevajraprakāśa_book_960.xml,book_960,Hevajraprakāśa,,,,,,https://www.dsbcproject.org/canon-text/book/960,,,,
 bhavasaṅkrāntiparikathā_book_325.xml,book_325,Bhavasaṅkrāntiparikathā,,,,,,https://www.dsbcproject.org/canon-text/book/325,,,n,gretil_sa/sa_nAgArjuna-bhavasaGkrAntiparikathA.xml
-suhṛllekha_book_235.xml,book_235,Suhṛllekha,,,,,,https://www.dsbcproject.org/canon-text/book/235,,,,gretil_sa/sa_nAgArjuna-suhRllekha.xml
+suhṛllekha_book_235.xml,book_235,Suhṛllekha,,,,,,https://www.dsbcproject.org/canon-text/book/235,,,n,gretil_sa/sa_nAgArjuna-suhRllekha.xml
 śrīcakrasambarābhisamayavyākhyā_book_735.xml,book_735,Śrīcakrasambarābhisamayavyākhyā,,,,,,https://www.dsbcproject.org/canon-text/book/735,,,,
 ratnakīrtinibandhāvalī_book_300.xml,book_300,Ratnakīrtinibandhāvalī,,,,,,https://www.dsbcproject.org/canon-text/book/300,,,n,gretil_sa/sa_ratnakIrti-nibandhAvalI.xml
 bodhicittotpādasūtraśāstra_book_327.xml,book_327,Bodhicittotpādasūtraśāstra,,,,,,https://www.dsbcproject.org/canon-text/book/327,,,n,gretil_sa/sa_vasubandhu-bodhicittotpAdasUtrazAstra.xml

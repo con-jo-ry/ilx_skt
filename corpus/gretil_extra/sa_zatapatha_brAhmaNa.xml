@@ -1,3 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Śatapatha-Brāhmaṇa 1</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>GRETIL / ERC-funded Intellexus project</publisher>
+        <availability>
+          <p>License and usage rights as noted in the legacy header.</p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
 SATAPATHA-BRAHMANA 1
 
 Data input by H.S. Ananthanarayana and W. P. Lehman.
@@ -20,7 +35,7 @@ THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!
 COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.
 
 Text converted to Unicode (UTF-8).
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration
+(This file is to be used with a UTF-8 font and your browser&#x27;s VIEW configuration
 set to UTF-8.)
 
 description:	multibyte sequence:
@@ -70,15 +85,20 @@ http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf
 
 For further information see:
 http://gretil.sub.uni-goettingen.de/gretil.htm
-
-
-
-
-
-
-
-
-
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <ptr target="http://gretil.sub.uni-goettingen.de/gretil/1_sanskr/1_veda/2_bra/satapath/sb_01_u.htm"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-08-31">Mass converted to basic TEI encoding standards by the ERC-funded Intellexus project.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
 1.1.1.[1]
 
 vratamupaiṣyan | antareṇāhavanīyaṃ ca gārhapatyaṃ ca prāṅ tiṣṭhannapa upaspṛśati
@@ -59005,3 +59025,6 @@ evametadveda
 
 athaitadvai āyuretajjyotiḥ praviśati ya etamanu vā brūte bhakṣayati vā tasya
 vratacaryā yā sṛṣṭau
+    </body>
+  </text>
+</TEI>
