@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Catuṣpīṭhacatustattva</title>
+        <author>Jitāri</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Author: Jitāri
+Collection / category: BuddhistNon-Scriptures / T02
+Source: OCR / Dharmamitra
+Edition / witness: Tokyo ms.
+Tibetan: D 1620
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Unpublished manuscript transcription / working edition, based primarily on manuscripts in Tokyo University Library (Matsunami nos. 9143 and 9144).</note>
+          <idno type="dharmanexus">SA_T02_Jitāri_Catustattva</idno>
+          <ref target="https://dharmamitra.org/db/sa/SA_T02_Jitāri_Catustattva/text">https://dharmamitra.org/db/sa/SA_T02_Jitāri_Catustattva/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-12">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_T02_Jitāri_Catustattva:0"/>[9144 = 1 with duplicate text]
+<lb n="SA_T02_Jitāri_Catustattva:1"/>oṃ namaḥ śrīvajrasattvāya||
+<lb n="SA_T02_Jitāri_Catustattva:2"/>iḍāpiṅgāsūkṣmāvivaracaracakreśatilakas
+<lb n="SA_T02_Jitāri_Catustattva:3"/>tilānāṃ simvīkopamasugatanirmāṇacaturaḥ|
+<lb n="SA_T02_Jitāri_Catustattva:4"/>sadānandacāraḥ sahajagṛhaṇīvigrahadharaḥ
+<lb n="SA_T02_Jitāri_Catustattva:5"/>sphuranmūrtir yogāmbarar[!] avatu yuṣmān anudinam||
+<lb n="SA_T02_Jitāri_Catustattva:6"/>tridaśamārganiveṣitavigrahā
+<lb n="SA_T02_Jitāri_Catustattva:7"/>trividhamuktimukhāvacanākṣiṇī|
+<lb n="SA_T02_Jitāri_Catustattva:8"/>smṛtibhujāgrahanendriyasastrinī
+<lb n="SA_T02_Jitāri_Catustattva:9"/>vyavatu vaḥ satataṃ sumaneśvarī||
+<lb n="SA_T02_Jitāri_Catustattva:10"/>[9143 = 1]
+<lb n="SA_T02_Jitāri_Catustattva:11"/>oṃ namaḥ śrīvajrasattvāya||
+<lb n="SA_T02_Jitāri_Catustattva:12"/>iḍāpiṅgāsūkṣmāvivaracaracakreśatilakas
+<lb n="SA_T02_Jitāri_Catustattva:13"/>tilānāṃ simvīkopamasugatanirmāṇacatura[ḥ|]
+<lb n="SA_T02_Jitāri_Catustattva:14"/>sadānandacāraḥ sahajagṛhaṇīvigrahadharaḥ
+<lb n="SA_T02_Jitāri_Catustattva:15"/>sphuranmūrtir yogāmbarar[!] avatu yuṣman[!] anudinam||
+<lb n="SA_T02_Jitāri_Catustattva:16"/>tridaśamārganiveṣitavigrahā
+<lb n="SA_T02_Jitāri_Catustattva:17"/>trividhamuktimukhāvacanākṣiṇī|
+<lb n="SA_T02_Jitāri_Catustattva:18"/>smṛtibhujāgrahanendriyasastrinī
+<lb n="SA_T02_Jitāri_Catustattva:19"/>vyavatu vaḥ satataṃ sumaneśvarī||
+<lb n="SA_T02_Jitāri_Catustattva:20"/>śrīmatvyomāṅganāsaṅgaṃ caturānandadarśinam|
+<lb n="SA_T02_Jitāri_Catustattva:21"/>trailokyajanakaṃ nāthaṃ taṃ vande viśvarūpinam|| 0.1
+<lb n="SA_T02_Jitāri_Catustattva:22"/>catuṣpīṭhakramāyātaṃ catuścakre vyavasthitam|
+<lb n="SA_T02_Jitāri_Catustattva:23"/>catustattvaṃ yad ākhyātaṃ tan mayā likhyate sphuṭam|| 0.2
+<lb n="SA_T02_Jitāri_Catustattva:24"/>[2] śuciḥ sukhāsanārūḍhaḥ saṃpūjya sugatān punaḥ|
+<lb n="SA_T02_Jitāri_Catustattva:25"/>vibhāvya sakalaṃ śūnyaṃ tantroktaṃ cintayet sudhīḥ|| 1.1
+<lb n="SA_T02_Jitāri_Catustattva:26"/>kūṭāgāre manoramye merumūrdhni suśobhite|
+<lb n="SA_T02_Jitāri_Catustattva:27"/>bhāvayet maṇḍalaṃ tatra bodhicittavikurvaṇam|| 1.2
+<lb n="SA_T02_Jitāri_Catustattva:28"/>sthitaḥ pādatale vāyuḥ kodaṇḍākāramaṇḍalaḥ|
+<lb n="SA_T02_Jitāri_Catustattva:29"/>gacched ūrdhvaṃ tataḥ kramād yāvannābhisaroruham|| 1.3
+<lb n="SA_T02_Jitāri_Catustattva:30"/>tejo[&#x27;]kṣarasamudbhūtaṃ tryasrākṛtyagnimaṇḍalam|
+<lb n="SA_T02_Jitāri_Catustattva:31"/>dagdham anena sarvātmam āśīd[?] viśvaṃ nabhasamam|| 1.4
+<lb n="SA_T02_Jitāri_Catustattva:32"/>cintayed vigrahaṃ paścāc cihnamantravidhikramāt|
+<lb n="SA_T02_Jitāri_Catustattva:33"/>sphuratsiṃhāsanāsīnaṃ śaśāṅkadyutidhāriṇam|| 1.5
+<lb n="SA_T02_Jitāri_Catustattva:34"/>bhāvayet satataṃ yogī jñānaḍākinirūpakam|
+<lb n="SA_T02_Jitāri_Catustattva:35"/>vahnivaruṇamadhyasthaṃ viśvapadmaṃ manoramam|| 1.6
+<lb n="SA_T02_Jitāri_Catustattva:36"/>vargādyaṃ cintayen tatra visphurantaṃ samantataḥ|
+<lb n="SA_T02_Jitāri_Catustattva:37"/>himakundendusaṃkāśaṃ śāntaṃ marīciśītalam|
+<lb n="SA_T02_Jitāri_Catustattva:38"/>sphuradbuddhamahāmeghaṃ viśvarūpamaṇiprabham|| 1.7
+<lb n="SA_T02_Jitāri_Catustattva:39"/>jñānadevīmayaṃ svacchaṃ dharmadhātusurūpakam|
+<lb n="SA_T02_Jitāri_Catustattva:40"/>svāsarpavanam ārūḍhaṃ sravantāmṛtaplāvakam|| 1.8
+<lb n="SA_T02_Jitāri_Catustattva:41"/>rūpaṃ śabdo raso gandhaḥ sparśaṃ tu dharmadhātukam|
+<lb n="SA_T02_Jitāri_Catustattva:42"/>cakṣuḥśrotaghrāṇaṃ caiva jihvā kāyo manas tathā|| 1.9
+<lb n="SA_T02_Jitāri_Catustattva:43"/>ṣaṭ vijñānāni bhūtāni pañcaskandhāś ca bhautikā|
+<lb n="SA_T02_Jitāri_Catustattva:44"/>tadbhavā hi sarva evaite jagat sthāvaraja[ṅ]gamāḥ|| 1.10
+<lb n="SA_T02_Jitāri_Catustattva:45"/>pūrvasyāṃ diśi kauveryāṃ svarādyaṃ tu dvitīyakam|
+<lb n="SA_T02_Jitāri_Catustattva:46"/>paścime daśamāṃtaṃ tu tasyāṃtaṃ dakṣiṇe dale|| 1.11
+<lb n="SA_T02_Jitāri_Catustattva:47"/>ḍākinī ghorarūpāṃ ca vetālīṃ śvapacāṃ diśi|
+<lb n="SA_T02_Jitāri_Catustattva:48"/>siṃhī vyāghrī jambukī ca vidiśi vinyasya pecikām|| 1.12
+<lb n="SA_T02_Jitāri_Catustattva:49"/>śuklāṃ pītāṃ tathā raktāṃ kṛṣṇaśyāmāṃ caturthikām|
+<lb n="SA_T02_Jitāri_Catustattva:50"/>koṇe napuṃsakair jātyaṃ[?] miśravarṇāṃ vibhāvayet|| 1.13
+<lb n="SA_T02_Jitāri_Catustattva:51"/>ekāsyā dvibhujā raudrā divyābharaṇabhūṣitāḥ|
+<lb n="SA_T02_Jitāri_Catustattva:52"/>trinetrā hasitakrodhāḥ khaṭvāṅganarakānvitāḥ|| 1.14
+<lb n="SA_T02_Jitāri_Catustattva:53"/>vāme vidikṣu devyas tu tarjanīpāśabhṛtkarāḥ|
+<lb n="SA_T02_Jitāri_Catustattva:54"/>khaṭvāṅgaśakuṭhārābhedyadaṇḍā dakṣiṇe kare|| 1.15
+<lb n="SA_T02_Jitāri_Catustattva:55"/>vajramauliparāṃ devyo gajacarmasuvāsasaḥ|
+<lb n="SA_T02_Jitāri_Catustattva:56"/>naracarmottarīyāś ca śṛṅgārarasarañjitāḥ|| 1.16
+<lb n="SA_T02_Jitāri_Catustattva:57"/>catu[r]dikṣv āsanaṃ dantī śikhī haṃsaś ca kiṅkaraḥ|
+<lb n="SA_T02_Jitāri_Catustattva:58"/>siṃho vajramukhaś caṇḍī vidikṣu jambukas tathā|| 1.17
+<lb n="SA_T02_Jitāri_Catustattva:59"/>ḍākinīdīpinīcūṣiṇīkambojyaḥ svamudrikāḥ|
+<lb n="SA_T02_Jitāri_Catustattva:60"/>śavasūryāsanārūḍhā dhyeyāḥ svabhūmivarṇikāḥ|| 1.18
+<lb n="SA_T02_Jitāri_Catustattva:61"/>ādarśasamatāvīkṣyākṛtyānuṣṭhānaśuddhibhiḥ|
+<lb n="SA_T02_Jitāri_Catustattva:62"/>niṣpannā buddhabimbaiś ca svakuleśaiś ca mudritāḥ ||   || 1.19
+<lb n="SA_T02_Jitāri_Catustattva:63"/>bāhye tu yo maṇḍalabhāvane tsus[?]
+<lb n="SA_T02_Jitāri_Catustattva:64"/>tadbhāvanāvigraharūpam etat| [3]
+<lb n="SA_T02_Jitāri_Catustattva:65"/>pūrvaṃ yad uktaṃ tu tad eva bījam
+<lb n="SA_T02_Jitāri_Catustattva:66"/>ādisvaraṃ dhyāyati bindurūpam ||   || 1.20
+<lb n="SA_T02_Jitāri_Catustattva:67"/>etadbhāvitayogātmā sarvasiddhiṃ prasādhayet|
+<lb n="SA_T02_Jitāri_Catustattva:68"/>anārādhitamantrātmā karma kartuṃ kṣamo na saḥ|| 1.21
+<lb n="SA_T02_Jitāri_Catustattva:69"/>tāvat tad bhāvayed yogī yāvac chubhrāvalokanam|
+<lb n="SA_T02_Jitāri_Catustattva:70"/>prāptacihnas tataḥ kṣipraṃ siddhiṃ muktiṃ vrajet sadā|| 1.22
+<lb n="SA_T02_Jitāri_Catustattva:71"/>nāsāsyaśrotranetrāṇi svakarābhyāṃ ruṇaddhi yaḥ|
+<lb n="SA_T02_Jitāri_Catustattva:72"/>samāhitamatiḥ samyag yogabinduṃ sa paśyati|| 1.23
+<lb n="SA_T02_Jitāri_Catustattva:73"/>anilānalagotoyaś cakreṣu bindubhāvitaḥ|
+<lb n="SA_T02_Jitāri_Catustattva:74"/>vijñāya lakṣaṇaṃ tasya yathākarma niyojayet|| 1.24
+<lb n="SA_T02_Jitāri_Catustattva:75"/>śuklena kriyate śāntiṃ pītaraktena pauṣṭikam|
+<lb n="SA_T02_Jitāri_Catustattva:76"/>kṛṣṇena kriyate vyādhiṃ dhūsreṇoccāṭanamāraṇam|| 1.25
+<lb n="SA_T02_Jitāri_Catustattva:77"/>karau guhye samāropya stūpanimneṣv apānake|
+<lb n="SA_T02_Jitāri_Catustattva:78"/>dṛṣṭvā kaṣākṣaraṃ tatra pīḍayet susamāhitaḥ|| 1.26
+<lb n="SA_T02_Jitāri_Catustattva:79"/>dṛṣṭyā paśyati nāsāgre nābhisthaṃ vāyudevatam|
+<lb n="SA_T02_Jitāri_Catustattva:80"/>rūpaśūnyaṃ dṛḍhīkṛtya manobandhanam uttamam|| 1.27
+<lb n="SA_T02_Jitāri_Catustattva:81"/>vairocanaṃ svarādyaṃ ca pañcabuddhānvitaṃ tathā|
+<lb n="SA_T02_Jitāri_Catustattva:82"/>svādhidevatayogena hārādolena saṃcayet|| 1.28
+<lb n="SA_T02_Jitāri_Catustattva:83"/>sabindudvayam ūṣmāntaṃ tan navamena bhūṣitam|
+<lb n="SA_T02_Jitāri_Catustattva:84"/>punar vahnistham īkāram ebhir dravāṇy adhiṣṭhayet|| 1.29
+<lb n="SA_T02_Jitāri_Catustattva:85"/>oṃ aṃ hūṃ svāhā|| japyaḥ|| 1.30-31
+<lb n="SA_T02_Jitāri_Catustattva:86"/>haḥ hoḥ hrīḥ| adhiṣṭhānam|| 1.32-33
+<lb n="SA_T02_Jitāri_Catustattva:87"/>a āṃ āṃ āḥ|
+<lb n="SA_T02_Jitāri_Catustattva:88"/>ṛṃ =ṛṃ ḷṃ =ḷṃ[|]
+<lb n="SA_T02_Jitāri_Catustattva:89"/>phuṃ pheṃ phoṃ phriṃ| 1.34
+<lb n="SA_T02_Jitāri_Catustattva:90"/>maṇḍalacakrasya bījam ||   || 1.35
+<lb n="SA_T02_Jitāri_Catustattva:91"/>samīraṇe pāvakamaṇḍalasthaṃ
+<lb n="SA_T02_Jitāri_Catustattva:92"/>karoṭake sarvaśarīrajāni|
+<lb n="SA_T02_Jitāri_Catustattva:93"/>vicintya candradravarūpakāni
+<lb n="SA_T02_Jitāri_Catustattva:94"/>tato [&#x27;]ntarīkṣe galadabjabimbam|| 1.36
+<lb n="SA_T02_Jitāri_Catustattva:95"/>padmeśvaraś cārusuvarṇakānti[r]
+<lb n="SA_T02_Jitāri_Catustattva:96"/>vairocano gandhapayobhidhānaḥ|
+<lb n="SA_T02_Jitāri_Catustattva:97"/>āsvādavajreśvaravajrapāṇis
+<lb n="SA_T02_Jitāri_Catustattva:98"/>trayo [&#x27;]pi devās trividhena dhāryāḥ|| 1.37
+<lb n="SA_T02_Jitāri_Catustattva:99"/>vahnisurūpaṃ tu vicintya nābhau
+<lb n="SA_T02_Jitāri_Catustattva:100"/>prabhāsvaraṃ yaḥ sphuradaṃśujālam|
+<lb n="SA_T02_Jitāri_Catustattva:101"/>divākarasthaṃ manasā viśuddhaṃ
+<lb n="SA_T02_Jitāri_Catustattva:102"/>juhoti havyaṃ na lipyate saḥ ||   || 1.38
+<lb n="SA_T02_Jitāri_Catustattva:103"/>ity ādhyātmācihnanirmitātmapīṭhabhāvanāmantrabindutattvaṃ prathamaḥ paricchedaḥ ||   ||
+<lb n="SA_T02_Jitāri_Catustattva:104"/>apānavāyum āpīḍya vivadhyordhaṃ vidhā((kṛ))taḥ|
+<lb n="SA_T02_Jitāri_Catustattva:105"/>hārādolaṃ sthirīkṛtya vibhāvya jñānavigraham|| 2.1
+<lb n="SA_T02_Jitāri_Catustattva:106"/>rambhāpuṣpākṛtir nāḍīm adhomukhīṃ hṛdi sthitām|
+<lb n="SA_T02_Jitāri_Catustattva:107"/>utkṣipya bījasaṃyuktāṃ viśvapadme purojitā|| 2.2
+<lb n="SA_T02_Jitāri_Catustattva:108"/>tatra madhyamataṃ bījaṃ sarvabuddhātmakaṃ param|
+<lb n="SA_T02_Jitāri_Catustattva:109"/>daṇḍaṃ lokeśvaro nāthaḥ kuṭilaṃ vajrabhṛt prabhuḥ|| 2.3
+<lb n="SA_T02_Jitāri_Catustattva:110"/>aṅgaṃ samayavajras tu ratnarāja[ḥ] śirogataḥ|
+<lb n="SA_T02_Jitāri_Catustattva:111"/>buddhavajradharau dvau tu bindunādau prakīrtitau|| 2.4
+<lb n="SA_T02_Jitāri_Catustattva:112"/>sphuradraśmikulacchannaṃ śaraccandrāṃśunirmalam|
+<lb n="SA_T02_Jitāri_Catustattva:113"/>iti saṃcintayet prā- [prob. *-jño yadicched viśvasiddhayaḥ] 2.5
+<lb n="SA_T02_Jitāri_Catustattva:114"/>[9128 = 7]
+<lb n="SA_T02_Jitāri_Catustattva:115"/>+ ((tma))paravikalpena bādhituṃ naiva śakyate ||   || 4.14
+<lb n="SA_T02_Jitāri_Catustattva:116"/>mantrānusārī sudṛḍhopadeśī
+<lb n="SA_T02_Jitāri_Catustattva:117"/>akopamatyas tu samīkṣya bhāvam|
+<lb n="SA_T02_Jitāri_Catustattva:118"/>nirvartate vai ṣi&lt;ka&gt;[?]yābhilāśāt
+<lb n="SA_T02_Jitāri_Catustattva:119"/>munīndramārgaṃ tu samīhate saḥ ||   || 4.15
+<lb n="SA_T02_Jitāri_Catustattva:120"/>svacittād eva māraḥ syāt tasmāc cittaṃ vaśīkuru|
+<lb n="SA_T02_Jitāri_Catustattva:121"/>svavaśīkṛtacittasya na māro na ca śatravaḥ|| 4.16
+<lb n="SA_T02_Jitāri_Catustattva:122"/>yathā padmodare bhṛṅgaḥ keśarāmodalampaṭaḥ|
+<lb n="SA_T02_Jitāri_Catustattva:123"/>ravāv astaṃgate baddho bhuṅkte duḥkham anekadhā ||   || 4.17
+<lb n="SA_T02_Jitāri_Catustattva:124"/>astaṃgate guruvarastaraṇau ca sattvāḥ
+<lb n="SA_T02_Jitāri_Catustattva:125"/>saṃsāraghoratimire sukhapāśabaddhāḥ|
+<lb n="SA_T02_Jitāri_Catustattva:126"/>tasyodaye samayalakṣitatattvamārgā
+<lb n="SA_T02_Jitāri_Catustattva:127"/>mārgānugāḥ paramasaivapadaṃ prayānti ||   || 4.18
+<lb n="SA_T02_Jitāri_Catustattva:128"/>bhuñjāno bhogam evecched yathākāmābhilāṣukaḥ|
+<lb n="SA_T02_Jitāri_Catustattva:129"/>tathaiva bhāvyamānaṃ tu bhavaṃ paśyati śūnyatāḥ|| 4.19
+<lb n="SA_T02_Jitāri_Catustattva:130"/>Catuṣpīṭhasya yat tattvaṃ catuścakre vyavasthitam|
+<lb n="SA_T02_Jitāri_Catustattva:131"/>likhitaṃ tu svasaṃvedyam ācāryeṇa Jitāriṇā ||   || 4.20
+<lb n="SA_T02_Jitāri_Catustattva:132"/>iti Catuṣpīṭhasya Prajñājñānābhisaṃbodhinirṇayaś caturthaḥ paricchedaḥ samāptaḥ ||   ||
+<lb n="SA_T02_Jitāri_Catustattva:133"/>oṃ namo bhagavate rudrāya, yasvini, ha ha, vihari, huru huru svāhā|| anena mantreṇa mṛtakadantaṃ haste badhvā sthālīpākam api bhuṅkte yatrecchati, tatra saṃkrāmati| abhyāsād dṛṣṭapratyayaḥ||
+<lb n="SA_T02_Jitāri_Catustattva:134"/>aṅguṣṭhe *a*| jaṅghāyāḥ *ā*| uroḥ *i*| &lt;guhye *ī*&gt;| nābhau *u*| udare *ū*| stanayuge *ṛ*| karayuge *=ṛ*| gale *ḷ*| mūrdhni *=ḷ*| gaṇḍayuge *e*| cakṣu[r]dvaye *ai*| karṇayugale *o*| punar((mūrṇe)) *o*| sarvāṅgadeśe aṃ a| ṣoḍaśīkalāvyākhyā|
+    </body>
+  </text>
+</TEI>

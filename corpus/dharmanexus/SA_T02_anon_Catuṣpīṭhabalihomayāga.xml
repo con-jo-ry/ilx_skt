@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Catuṣpīṭhasādhanasaṃkṣepa (fragment)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Collection / category: BuddhistNon-Scriptures / T02
+Source: OCR / Dharmamitra
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Unpublished transcription of the two folia in NAK 3-359 vi. bauddhadarśana (NGMPP A 38/8), read from b/w photographs of the microfilm. The text is described and discussed, Selected Chapters from the Catuṣpīṭhatantra, DPhil thesis, University of Oxford, 2012, vol. 1, §3.4.1 &#x27;The Catuṣpīṭhasādhanasaṃkṣepa (anonymous)&#x27;.</note>
+          <idno type="dharmanexus">SA_T02_anon_Catuṣpīṭhabalihomayāga</idno>
+          <ref target="https://dharmamitra.org/db/sa/SA_T02_anon_Catuṣpīṭhabalihomayāga/text">https://dharmamitra.org/db/sa/SA_T02_anon_Catuṣpīṭhabalihomayāga/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-12">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:0"/>NGMPP A 38/8 = the notorious NAK 3/359
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:1"/>Some Catuṣpīṭha materials on 2 misc. folia
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:2"/>with some more folia of the CaPīNibandha
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:3"/>9 folia as follows:
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:4"/>3 = SRS (other recension)
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:5"/>4 = SRS
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:6"/>4 = SRS
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:7"/>5 = SRS
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:8"/>5 = SRS
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:9"/>6 = SRS end Manaḥsamvaraparivartaḥ
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:10"/>6 = SRS
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:11"/>7 = SRS
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:12"/>7 = SRS
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:13"/>8 = SRS
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:14"/>8 = balihomayāga
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:15"/>9 = balihomayāga
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:16"/>11 = balihomayāga
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:17"/>12 = balihomayāga
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:18"/>9 = CaPīNi S *9
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:19"/>10 = CaPīNi S *9
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:20"/>10 = CaPīNi S *7
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:21"/>11 = CaPīNi S *7
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:22"/>[9 (or 7?)]puṭam ānane sthāpayitvā hūṃ hūm iti paṭhet| [2.3.76]
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:23"/>hastadvayam āvartyāṅgulīñ cumbayitvā guhye sthāpayed iti [2.3.77]
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:24"/>pūrvoktapañcopahāramudrāmantrai[r] bāhyapūjāprasaraiś ca pūjayet|
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:25"/>pūrvoktamudrāmantre&lt;ṇa&gt; vajraghaṇṭaṃ gṛhītvā vajram ullālayet| imāṃ gāthā[ṃ] paṭhet|
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:26"/>sohaï vajram ullālu|
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:27"/>tāria sattavimokhu|
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:28"/>dhammavimokhkha kajja|
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:29"/>vajja ho sāa dharaṃtu [3.1.34]
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:30"/>iti vajraghaṇṭaṃ gṛhītvā| kanyasā[ṃ] śṛṅkhalīkṛtya pṛṣṭhapṛṣṭhaṃ yojayitvā tarjanīdvayam utthāpya|
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:31"/>oṃ vajraghaṇṭe raṇitapraraṇite sarvabuddhapracalite prajñāpāramitānādasvabhāve sarvahṛdayāvatoṣiṇi hūṃ 3 ho 3 svāhā [3.1.35]
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:32"/>tato ghaṇṭāṃ vādayan| hūṃkāragītikākāreṇa
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:33"/>vajra hu suraa samattha|
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:34"/>loaṇadansanae|
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:35"/>akhkharu bhāvasabhāvu
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:36"/>suṇṇuvilāṣiṇae| [2.3.108]
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:37"/>bhāvābhāva vimuccia|
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:38"/>ajjavijāṇiae|
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:39"/>bhañjia akṣaru sattvu|
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:40"/>sesu vicintiae| [2.3.109]
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:41"/>dondāliṅgaṇajovu|
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:42"/>salilā kajjiae|
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:43"/>dhamma adaitta supāvia|
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:44"/>mokhkhu vipāviae| [2.3.110]
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:45"/>suü saṃsāra vimohia|
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:46"/>mokhkhu vikajjiae|
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:47"/>savvasahāveṃ joiṇi[|]
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:48"/>matta viṇacciae| [2.3.111]
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:49"/>pañca vi joiṇi buddhu|
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:50"/>tatta ulakhkhiae|
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:51"/>māeṃ bahuviharūvu|
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:52"/>satta pāciae| [2.3.112]
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:53"/>vajja susāria kajju|
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:54"/>dhamma vimokhkhiae|
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:55"/>ṇa saha sansāra sudhamma|
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:56"/>joiṇi mokhkhiae||   o   || [2.3.113]
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:57"/>namo [&#x27;]stu yogādhipa sattvamocaka|
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:58"/>namo [&#x27;]stu sarvātmaja ekabhāvataḥ| [2.3.114]
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:59"/>namo [&#x27;]stu saṃsārārṇavamohacchedaka|
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:60"/>namo [&#x27;]stu tattvaika namāmy ahaṃ sadā|| [2.3.115]
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:61"/>tadanu balibhāṇḍaṃ samastakhādyasamanvitam| āmamīnamāṃsayuktaṃ pañcāṅkuśāmṛtasahitaṃ puro ṇidhāya| vajrahastenālabhya| pratyekaṃ sarvadevīnāṃ| mūlamantreṇa sāntikā| dauśatādisaṃkhyayā &#x27;dhitiṣṭhet| tato nyathā savidyamānapūjayā pūjayitvā| [~comm. ad 2.3.87]
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:62"/>oṃ guṃ svāheti mūlamantra[9 (or 7?)]sahitena balimudrayā bali ḍhaukayet|
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:63"/>tato &#x27;liṃ ḍhaukayet| tatrāyaṃ kramaḥ[|] kamalāvartapūrvakena dakṣiṇe padmasthapadmabhāṇḍaṃ cintayitvā| vāmavajram uddhṛtya| oṃ haḥ hoḥ hrī svāheti mahāmudrādarśanapūrvakeṇa| dakṣiṇe &#x27;libharitayogapātraṃ gṛhītvā| vāmakaratale sakāraṃ śuklaṃ| akārādiṣoḍaśavarṇapariveṣṭitaṃ dhyātvā| pātraṃ chādayitvā &#x27;mṛtam aliṃ paśyet|| [2.3.123-125]
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:64"/>tadanu aṅguṣṭhaṃ sahūṃkāraṃ kṣitiṃ kṛtvā &#x27;nāmakāṃ hūṃkārayuktāṃ meruṃ dhyātvā mathanaṃ kuryāt| kaṇṭhe stūpaṃ vibhāvya cchiḍiṅgiṃ tribhir dadyāt| kāyavākcittaṃ trir evaṃ datvā| sarvayoginīnāṃ trir eva cchiḍiṅgaṃ datvā|| [~2.3.134]
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:65"/>pecchia sohia dhammu|
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:66"/>ṇa hi saṃbhāvaṇa mellu|
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:67"/>bahmaṇakukkuracaṇḍālu|
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:68"/>ekkasabhāve khaddu| [2.3.135]
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:69"/>iti paṭhitvā| oṃ haḥ hoḥ hrī svāheti ḍhaukayet|
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:70"/>oṃ bhakṣa 3 sarvayogeśvari hūṃ 3 jaṃ svāhā|| [2.3.158]
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:71"/>vajramuṣṭidvayaṃ kṛtvā pṛṣṭhapṛṣṭhaṃ yojayitvā &#x27;nāmādvayakrodhadvayaṃ ca śṛṅkhalīkṛtya| [2.3.157]
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:72"/>balādipūrvaṃ pratigrāhayet| yathāsukham iti vaktavyaṃ sarvapūjāprasaraṃ datvā stutvā ca| [cf. 2.3.140]
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:73"/>oṃ svabhāvaśuddhāḥ sarvadharmāḥ svabhāvaśuddho [&#x27;]ham|
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:74"/>vajraśuddhāḥ sarvadharmā vajraśuddho [&#x27;]ham|
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:75"/>yogaśuddhāḥ sarvadharmā yogaśuddho [&#x27;]ham iti|
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:76"/>vajrāñjaliṃ hṛdiṃ kṛtvā paṭhet| [2.3.119-122]
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:77"/>tato maṇḍalasya bahis trikoṇaraktamaṇḍalaprāptapañcapañcabāhye devatā aṣṭasu dikṣu bhāvayet|| śavāsanasthāḥ pañcaḍākinīvarṇakās triśūlapātradharāḥ| kṛṣṇarudrādayaḥ| cāmuṇḍiprabhṛtikāś ca vāmapātrapāṇikā vibhāvya| [~2.3.141ff.]
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:78"/>vajramuṣṭidvayaṃ badhvā pṛṣṭhapṛṣṭheṇa yojayet kaniṣṭhādvayaṃ śṛṅkhalīkṛtya tarjanīdvayamuktitaṃ dakṣiṇatarjanīm ākuñcyāvāhayet|| oṃ kuru 2 samayādhipati hūṃ jaḥ svāhety anena| cakropacāreṇārcayet|| [~2.3.141-144]
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:79"/>viṃśatipūjayā ca hūṃkāragītikayā ca||
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:80"/>pañcakamalāntaritaṃ kṛtvā lāsyā| vīṇā vaṃśā| hāsā vādyā| paṭahā maujyā| tālā nṛtyā|| vyajanā| [~2.3.88ff.]
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:81"/>[8]((y))ya visarjayet|
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:82"/>tadanu pūrvoktabalividhānavidhi[ṃ] maṇḍalacakraṃ ca kṛtvā samastayathoktamudrāmantrair baliṃ dadyā&lt;t&gt;||
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:83"/>oṃ kuru 2 mahābaliṃ hūṃ svāheti hastadvayaṃ prasārya madhyaṅguṣṭha[dva]yaṃ cālayitvā homakāle balimantramudrā[|]
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:84"/>hutāśanahomavelāyāṃ vahniparīkṣaṇaṃ[|] yadi durnimittaṃ sūcayati| tadā + + vajra((su))kṣa hūṃ svāheti| yatra pradeśe durnimittaṃ trantrāṣṭottaraśataṃ ghṛ[taṃ] homayed utpādapraśamanodakena tris paryukṣaṇaṃpūrvakena homayitvā mūladevatāhomaḥ kāryaḥ| pūrvoktakrameṇaiva|
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:85"/>śvāsenākṛṣya svadehe svāpayitvā visarjya samuttiṣṭhed iti homavidhiḥ||   [floral ornament]   ||
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:86"/>yāgavidhāna((pa)) + te vitānavitataṃ nānāvastrap[r]alambitaṃ kṛtvā| sitasugandhena ca&lt;xkṣux&gt;turasraṃ maṇḍalakaṃ kuryāt| sitadravyeṇa kalaśān| madhyabhāṇḍaṃ ca vilipya| kṣīrodakasugandhena pūrayitvā pallavādinā maṇḍayitvā dṛṣṭipatrarūpakālakṣakādiṃkaṃ kṛtvā datvā||
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:87"/>hūṃ suṃ kṣuṃ yuṃ huṃ smṛyūṃ hmryūṃ ymryūṃ kṣmryūṃ iti praṇavādisvāhāntena| pratyekam aṣṭottaravāraṃ japtvā| yathāsthāne &#x27;ṣṭakalaśān sthāpayet||
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:88"/>madhye ca bṛhat|bhāṇḍaṃ sthāpayitvā pūrvoktakramenātmayogasamastaṃ nivartyātmānaṃ pūjayitvā tato bāhye samārabhet|
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:89"/>oṃ kamalābhe svāheti padmākāreṇa karapuṭaṃ nikāśayet|| tena madhyabhāṇḍe padmaṃ paśyet| sacandramaṇḍalaśvetachatrasaṃchannaṃ|
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:90"/>tatra hūṃkāreṇa vajrahūṃkārādhiṣṭhitaṃ tena Jñānaḍākinīṃ bhāvayet| dvibhujāṃ dhavalavarṇāṃ sattvaparyaṅkenopaviṣṭāṃ| vajraṃ daṇḍa[ṃ] ca vāmadakṣiṇayor bhāvayet| tatpūrvato Vajrī| uttare Ghorī| paścime Vetālī| dakṣiṇe Caṇḍālī|| iśānyāṃ Siṃhinī|| āgneyāṃ Vyāghrī| nairityāṃ Jambukī| vāyavyām Ulūkī| pūrvoktacihnābharaṇā dhyātavyāḥ|
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:91"/>yathoktamudrāmantreṇa samayaḥ kāryaḥ oṃ samaye tiṣṭha hūṃ phaṭ| vajrabandhaṃ kṛtvā tarjanīdvayaṃ prasārya &lt;x((kuṃca))x&gt; [ā]kuñcya granthiṃ kṛtvā samayaṃ darśayet|| pūrvavat pūjayet|
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:92"/>oṃ hūṃ svāhā| vajramuṣṭidvayaṃ kṛtvā vāmaṃ hṛdaye| dakṣiṇam ūrdhvataḥ sthāpayed iti mūlamudrāmantraḥ|
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:93"/>mūlamantre &#x27;tra|| [8] yathābhilasitacodakaṃ datvā dūrvāṅkuraṃ saṃyojitakundādikusumāni sakṛd ekaikaṃ mantraṃm uccārya bhāvanāyuktaṃ kṛtvā devyāḥ kirīṭivajram āhanet| ayutāpūrvaṃ dūrvaṃ homayet| yathāmanīṣitasiddhir āyurārogyavardhanaṃ ca bhavati[|] homānte ca yathoktānusāreṇa baliṃ dadyāt|
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:94"/>sarvatra ((tu)) kriyāyāṃ śāntike śuklavidhānaṃ pūrvānanaṃ śāntiṃ kuru sarvāpadam apanayetyādi codakaṃ| śataikākṣamālā tarjanī śāntamanāḥ śāntiṃ kuryāt|
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:95"/>pauṣṭike ca samantapītopakāreṇottarānanaṃ puṣṭiṃ kuru| sarvasaṃpadam āvāhayetyādi codakaṃ| &lt;x śataikākṣamālā x&gt; aṣṭottaraśatākṣamālāyā madhyamāsthitayā| pramuditamanāḥ puṣṭiṃ kuryāt|
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:96"/>vaśye sakalaraktopacāreṇa paścimānanaṃ vaśam ānaya diṣam ākarṣayetyādi codakaṃ viṃśatyakṣaramālām anāmikāyāṃ sthāpayitvā saṃraktamanā śattiṃ[?!] kuryāt||
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:97"/>abhicāre ca samastamevako[!?]pacāreṇa yāmyānanaṃ mārayoccāṭayetyādi codakaṃ ṣaṣṭhisaṃkhyātā &#x27;kṣamālayā kanyayāsthitayā krodhaviṣṭamanā abhicārayed iti||      ||
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:98"/>saṃkṣepato balihomayāgavidhayaḥ śrīcatuṣpīṭhatantrāmnāyena likhitā iti||      ||
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:99"/>catuṣpīṭhasādhanaṃ saṃ&lt;x ((ṅkha)) x&gt;kṣe + + + samāpteti||
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:100"/>samvat a cu hya śrāvaṇaśukladaśamyāṃ śukradine|| rājñe śrībhāskaradevasya| śrīguṇakāmadevakāritaśrīdharmacakramahāvihāre sthitaḥ śākyabhikṣukumāracandreṇa likhitam iti| mātāpitāguropādhyāyakalyāṇamistrasarvasattvam anuttarājñānaphaprāptaya iti||
+<lb n="SA_T02_anon_Catuṣpīṭhabalihomayāga:101"/>śrīgāṅkulaṅge kulaputra [nothing further]
+    </body>
+  </text>
+</TEI>

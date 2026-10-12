@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Nandikaparipṛcchāsūtra</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Collection / category: BuddhistScriptures / K10
+Source: OCR / Dharmamitra
+Edition / witness: Vinītā 2010, no. 3, I:100–140
+Tibetan: D 334
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Bhikṣuṇī Vinītā (Vinītā Tseng) (ed.), A Unique Collection of Buddhist Sanskrit Manuscripts in the Potala, Vol. I, Sanskrit Texts from the Tibetan Autonomous Region (STTAR) 7/1, Beijing: China Tibetology Publishing House / Vienna: Austrian Academy of Sciences Press, 2010, pp. 100–140 (Text no. 3).</note>
+          <idno type="dharmanexus">SA_K10_Āgama_Nandikaparipṛcchāsūtra_Vinītā_2010</idno>
+          <ref target="https://dharmamitra.org/db/sa/SA_K10_Āgama_Nandikaparipṛcchāsūtra_Vinītā_2010/text">https://dharmamitra.org/db/sa/SA_K10_Āgama_Nandikaparipṛcchāsūtra_Vinītā_2010/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-12">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_K10_Āgama_Nandikaparipṛcchāsūtra_Vinītā_2010:0"/>§1 evaṃ mayā śrutam ekasmin samaye bhagavān rājagṛhe viharati sma gṛdhrakūṭe parvate mahatā bhikṣusaṃghena sārdham ardhatrayodaśabhir bhikṣuśataiḥ parivṛtaḥ puraskṛto dharmaṃ deśayati sma |
+<lb n="SA_K10_Āgama_Nandikaparipṛcchāsūtra_Vinītā_2010:1"/>§2 tena khalu punaḥ samayena nandiko nāmopāsakaḥ pañcopāsakaśataparivāro rājagṛhān nagarān niṣkramya yena bhagavāṃs tenopasaṃkrāntaḥ | upasaṃkramya bhagavataḥ pādau śirasā vanditvā bhagavantaṃ tripradakṣiṇīkṛtyaikānte nyaṣīdat | tāny api pañcopāsakaśatāni bhagavataḥ pādau śirasā vanditvaikānte niṣadanti sma |
+<lb n="SA_K10_Āgama_Nandikaparipṛcchāsūtra_Vinītā_2010:2"/>ekānte niṣaṇṇaś ca nandikopāsako bhagavantam idam avocat |
+<lb n="SA_K10_Āgama_Nandikaparipṛcchāsūtra_Vinītā_2010:3"/>§3 yānīmāni bhagavatā jānatā paśyatā tathāgatenārthatā samyaksaṃbuddhenopāsakasya pañcaśikṣāpadāni prajñaptāni, tāni tasya vyatikrāmataḥ kiṃ vipākāni bhavantīti |
+<lb n="SA_K10_Āgama_Nandikaparipṛcchāsūtra_Vinītā_2010:4"/>§4 evam ukte bhagavān nandikopāsakam idam avocat | sādhu sādhu nandika, udārā te buddhiḥ, bhadrikā te mīmāṃsā, kalyāṇaṃ te pratibhānam, yas tvaṃ tathāgatam etam arthaṃ paripraṣṭavyaṃ manyase | tena hi nandika daśādīnavaṃ nāma dharmaparyāyaṃ deśayiṣyāmi | tac chṛṇu sādhu ca suṣṭhu ca manasikuru, bhāṣiṣye &#x27;haṃ te |
+<lb n="SA_K10_Āgama_Nandikaparipṛcchāsūtra_Vinītā_2010:5"/>sādhu bhagavann iti nandikopāsako bhagavataḥ pratyaśrauṣīt |
+<lb n="SA_K10_Āgama_Nandikaparipṛcchāsūtra_Vinītā_2010:6"/>§5 bhagavān etad avocat | daśeme nandikādīnavāḥ prāṇātipāte veditavyāḥ | katame daśa | tadyathā sādṛṣṭikaṃ vairaṃ prasravati, anyāsu jātiṣu ca vairānubandho bhavati | amanaāpadarśano bhavati | pāpakān svapnān paśyati | svayaṃ saṃtrāsam āpadyate | duḥkhaṃ ca svapiti, duḥkhaṃ ca pratibudhyate | pāpakaṃ ca vicintayati | saṃmūḍhaś ca kālaṃ karoti |
+<lb n="SA_K10_Āgama_Nandikaparipṛcchāsūtra_Vinītā_2010:7"/>alpāyuḥsaṃvartanīyaṃ ca karma karoty upacinoti | kāyasya bhedāt paraṃ maraṇād apāyadurgatinarakeṣūpapadyate | sacet punas tataś cyuta itthatvam āgacchati manuṣyāṇāṃ sabhāgatāyai, sa yatra yatropapadyate, tatra tatrālpāyur bhavati bahuglāniś ca | ime nandika daśādīnavāḥ prāṇātipāte veditavyāḥ |
+<lb n="SA_K10_Āgama_Nandikaparipṛcchāsūtra_Vinītā_2010:8"/>§6 daśeme nandikādīnavā adattādāne veditavyāḥ | guruvairī ca bhavati | gurvāśaṅkī ca bhavati | akālacārī ca bhavati | pāpamitragṛhītaś ca bhavati | kalyāṇamitravivarjitaś ca bhavati | duḥśīlaś ca bhavati | rājopasargī ca bhavati, duṣṭopasargī ca bhavati, daṇḍopasargī ca bhavati | bhogavyasanasaṃvartanīyaṃ ca karma karoty upacinoti |
+<lb n="SA_K10_Āgama_Nandikaparipṛcchāsūtra_Vinītā_2010:9"/>kāyasya bhedāt paraṃ maraṇād apāyadurgativinipātanarakeṣūpapadyate | sacet punas tataś cyuta itthatvam āgacchati manuṣyāṇāṃ sabhāgatāyai, sa yatra yatropapadyate, tatra tatra daridro bhavati, alpabhogaś ca | ye ca tasya bhogā bhavanty utthānavīryāvigatā jaṅghābāhubalopārjitāḥ svedamalāvakṣiptās te pañcabhir upakleśair upakliṣṭā bhavanti |
+<lb n="SA_K10_Āgama_Nandikaparipṛcchāsūtra_Vinītā_2010:10"/>katamaiḥ pañcabhiḥ | rājato vā, caurato vā, agnito vā, udakato vā, apriyadāyādebhyo vā nihitāś cāsya vinaśyanti | ime nandika daśādīnavā adattādāne veditavyāḥ |
+<lb n="SA_K10_Āgama_Nandikaparipṛcchāsūtra_Vinītā_2010:11"/>§7 daśeme nandikādīnavāḥ kāmamithyācāre veditavyāḥ | katame daśa | yeṣāṃ dārān abhimardayati taiś cāsya saha vairaṃ bhavati | bhāryayā saha vivādo bhavati | akuśalāś cāsya dharmā vivardhayanti, kuśalāś cāsya dharmāḥ parihīyante | ātmā cāsyāgupto bhavaty arakṣitaḥ, jīvitaṃ cāsyāguptaṃ bhavaty arakṣitam | putradāraṃ cāsyāguptaṃ bhavaty arakṣitam |
+<lb n="SA_K10_Āgama_Nandikaparipṛcchāsūtra_Vinītā_2010:12"/>dhanaṃ cāsyāguptaṃ bhavaty arakṣitam, gṛhaṃ cāsyāguptaṃ bhavaty arakṣitam | mitrāmātyajñātisālohitāś cāsya viśvāsaṃ na gacchanti | sasāpatnyasaṃvartanīyaṃ ca karma karoty upacinoti | kāyasya bhedāt paraṃ maraṇād apāyadurgativinipātanarakeṣūpapadyate |
+<lb n="SA_K10_Āgama_Nandikaparipṛcchāsūtra_Vinītā_2010:13"/>sacet punas tataś cyuta itthatvam āgacchati manuṣyāṇāṃ sabhāgatāyai, sa yadi strī bhavati, sasāpatnyaṃ bhartāraṃ pratilabhate, atha puruṣo bhavati, putradāram asyārakṣitaṃ bhavati | ime nandika daśādīnavāḥ kāmamithyācāre veditavyāḥ |
+<lb n="SA_K10_Āgama_Nandikaparipṛcchāsūtra_Vinītā_2010:14"/>§8 daśeme nandikādīnavā mṛṣāvāde veditavyāḥ | katame daśa | pūtikaṃ cāsya mukhaṃ bhavati | devatāś cāsya kāyād apakrāmanty amanuṣyāś cāsyāvatāraṃ labhante | satyam api bhāṣyamāṇasyāśraddheyaṃ vacanaṃ bhavati | utpanneṣu kāryeṣu nainaṃ vidvāṃsaḥ paripraṣṭavyaṃ manyante | abhūtaś cāsyāvarṇo vaistāriko bhavati | apratyutthānārhaś ca bhavati |
+<lb n="SA_K10_Āgama_Nandikaparipṛcchāsūtra_Vinītā_2010:15"/>bahuduḥkhadaurmanasyo bhavati | abhyākhyānabahulasaṃvartanīyaṃ ca karma karoty upacinoti | kāyasya bhedāt paraṃ maraṇād apāyadurgativinipātanarakeṣūpapadyate | sacet punas tataś cyuta itthatvam āgacchati manuṣyāṇāṃ sabhāgatāyai, sa yatra yatropapadyate, tatra tatrābhyākhyānabahulo bhavati | ime nandika daśādīnavā mṛṣāvāde veditavyāḥ |
+<lb n="SA_K10_Āgama_Nandikaparipṛcchāsūtra_Vinītā_2010:16"/>§9 pañcatriṃśad ime nandikādīnavāḥ surāmaireyamadyapramādasthāne veditavyāḥ | katame pañcatriṃśat | sāṃdṛṣṭikaṃ kośakṣayaḥ | rogānām āyatanam | kalahavigrahavivardhanam | kaupīnasaṃdarśanam | akīrtisaṃjananam | prajñādaurbalyakaraṇam | anadhigatāś ca bhogā nādhigacchanti, adhigatāś ca bhogāḥ parikṣayaṃ paryādānaṃ gacchanti | guhyaṃ ca vivṛṇoti |
+<lb n="SA_K10_Āgama_Nandikaparipṛcchāsūtra_Vinītā_2010:17"/>karmāntāś cāsya parihīyante | daurbalyakaraṇaṃ ca bhavati | amātṛjñaś ca bhavati | apitṛjñaś ca bhavati | aśrāmaṇyaś ca bhavati | abrāhmaṇyaś ca bhavati | na kulajyeṣṭhāpacāyako bhavati | buddhe &#x27;gauravo bhavati | dharme &#x27;gauravo bhavati | saṃghe &#x27;gauravo bhavati | śikṣāsamādāne cāgauravo bhavati | indriyeṣv aguptadvāro bhavati |
+<lb n="SA_K10_Āgama_Nandikaparipṛcchāsūtra_Vinītā_2010:18"/>strīṣu cātyarthaṃ pramādam āpadyate | mitrāmātyajñātisālohitānāṃ cāgrāhyo bhavati | bahulāmanaāpaś ca bhavati | bahujanapratikūlaś ca bhavati | adharmacārī bhavati | akarmapratigrāhakaś ca bhavati | saddharmaparivarjitaś ca bhavati | apatrāpyaparivarjitaś ca bhavati | na cainaṃ vidvāṃsaḥ pratyayeṣu sthāneṣu paripraṣṭavyaṃ manyante |
+<lb n="SA_K10_Āgama_Nandikaparipṛcchāsūtra_Vinītā_2010:19"/>pramādaṃ ca kṛtvopekṣako bhavati | tathāgatavacane na saṃtiṣṭhati | dūrībhavati nirvāṇāt | unmattasaṃvartanīyaṃ ca karma karoty upacinoti | kāyasya bhedāt paraṃ maraṇād apāyadurgativinipātanarakeṣūpapadyate | sacet punas tataś cyuta itthatvam āgacchati manuṣyāṇāṃ sabhāgatāyai, sa yatra yatropapadyate, tatra tatra unmatto bhavati mūḍhasmṛtiḥ |
+<lb n="SA_K10_Āgama_Nandikaparipṛcchāsūtra_Vinītā_2010:20"/>ime nandika pañcatriṃśad ādīnavāḥ surāmaireyamadyapramādasthāne veditavyāḥ |
+<lb n="SA_K10_Āgama_Nandikaparipṛcchāsūtra_Vinītā_2010:21"/>% for the difference between surā etc., see AKBh(P) 219,6-10.
+<lb n="SA_K10_Āgama_Nandikaparipṛcchāsūtra_Vinītā_2010:22"/>§10 idam avocad bhagavān | idam uktvā sugato hy athāparam etad uvāca śāstā |
+<lb n="SA_K10_Āgama_Nandikaparipṛcchāsūtra_Vinītā_2010:23"/>prāṇātipātaṃ vadhabandhanaṃ ca
+<lb n="SA_K10_Āgama_Nandikaparipṛcchāsūtra_Vinītā_2010:24"/>vivarjayed bhūtahitānukampī |
+<lb n="SA_K10_Āgama_Nandikaparipṛcchāsūtra_Vinītā_2010:25"/>yathātmano rakṣasi jīvitaṃ priyaṃ
+<lb n="SA_K10_Āgama_Nandikaparipṛcchāsūtra_Vinītā_2010:26"/>tathā pareṣām api rakṣa jīvitam || [1]
+<lb n="SA_K10_Āgama_Nandikaparipṛcchāsūtra_Vinītā_2010:27"/>parasya vittaṃ bahuduḥkhasaṃcitaṃ
+<lb n="SA_K10_Āgama_Nandikaparipṛcchāsūtra_Vinītā_2010:28"/>na cāpy adattaṃ manasāpi saṃspṛśet |
+<lb n="SA_K10_Āgama_Nandikaparipṛcchāsūtra_Vinītā_2010:29"/>dṛṣṭvāpi loke priyaviprayogaṃ
+<lb n="SA_K10_Āgama_Nandikaparipṛcchāsūtra_Vinītā_2010:30"/>tathaiva cānyeṣu hitāya tiṣṭhet || [2]
+<lb n="SA_K10_Āgama_Nandikaparipṛcchāsūtra_Vinītā_2010:31"/>parastriyaṃ cābharaṇair alaṃkṛtāṃ
+<lb n="SA_K10_Āgama_Nandikaparipṛcchāsūtra_Vinītā_2010:32"/>vivarjayet prajvalitām ivoktām |
+<lb n="SA_K10_Āgama_Nandikaparipṛcchāsūtra_Vinītā_2010:33"/>svakeṣu dāreṣu labheta tuṣṭiṃ
+<lb n="SA_K10_Āgama_Nandikaparipṛcchāsūtra_Vinītā_2010:34"/>na kāmahetor viṣatulyam ācaret || [3]
+<lb n="SA_K10_Āgama_Nandikaparipṛcchāsūtra_Vinītā_2010:35"/>na cātmahetor na parasya kāraṇāt
+<lb n="SA_K10_Āgama_Nandikaparipṛcchāsūtra_Vinītā_2010:36"/>sasaṃprajanyo hi mṛṣā na bhāṣet |
+<lb n="SA_K10_Āgama_Nandikaparipṛcchāsūtra_Vinītā_2010:37"/>aparopaghātī aparopatāpī
+<lb n="SA_K10_Āgama_Nandikaparipṛcchāsūtra_Vinītā_2010:38"/>samīkṣya vācāṃ madhurām udīrayet || [4]
+<lb n="SA_K10_Āgama_Nandikaparipṛcchāsūtra_Vinītā_2010:39"/>na madyapānābhiratena jantunā
+<lb n="SA_K10_Āgama_Nandikaparipṛcchāsūtra_Vinītā_2010:40"/>kāryaṃ sukham ātmahitaṃ parasya vā |
+<lb n="SA_K10_Āgama_Nandikaparipṛcchāsūtra_Vinītā_2010:41"/>vyāmohavaivarṇyakarīṃ ca vāruṇīṃ
+<lb n="SA_K10_Āgama_Nandikaparipṛcchāsūtra_Vinītā_2010:42"/>na tāṃ pibed dhālahalaṃ yathā viṣam || [5]
+<lb n="SA_K10_Āgama_Nandikaparipṛcchāsūtra_Vinītā_2010:43"/>prāṇaṃ na hanyān na haret parasvaṃ
+<lb n="SA_K10_Āgama_Nandikaparipṛcchāsūtra_Vinītā_2010:44"/>mṛṣā na bhāṣen na pibec ca madyam |
+<lb n="SA_K10_Āgama_Nandikaparipṛcchāsūtra_Vinītā_2010:45"/>parasya bhāryāṃ manasāpi necchet
+<lb n="SA_K10_Āgama_Nandikaparipṛcchāsūtra_Vinītā_2010:46"/>svargaṃ ya icchet gṛhavat praviṣṭum || [6]
+<lb n="SA_K10_Āgama_Nandikaparipṛcchāsūtra_Vinītā_2010:47"/>% anne prāṇiṃ
+<lb n="SA_K10_Āgama_Nandikaparipṛcchāsūtra_Vinītā_2010:48"/>gṛhīṇa tāvac chitavastradhāriṇām
+<lb n="SA_K10_Āgama_Nandikaparipṛcchāsūtra_Vinītā_2010:49"/>agāram adhyāvasatām ime &#x27;naghāḥ |
+<lb n="SA_K10_Āgama_Nandikaparipṛcchāsūtra_Vinītā_2010:50"/>ato bhuyo pravrajitasya deśitā
+<lb n="SA_K10_Āgama_Nandikaparipṛcchāsūtra_Vinītā_2010:51"/>jinena śikṣāpadadharmadeśanā || [7]
+<lb n="SA_K10_Āgama_Nandikaparipṛcchāsūtra_Vinītā_2010:52"/>§11 atha nandikopāsaka imaṃ dharmaparyāyaṃ bhagavato &#x27;ntikāc chrutvā hṛṣṭas tuṣṭa udagrāttamanāḥ pramuditaprītisaumanasyajātaḥ, utthāyāsanād bhagavataḥ pādau śirasā vanditvā bhagavantaṃ tripradakṣiṇīkṛtya bhagavato bhāṣitam abhinandyānumodya bhagavato &#x27;ntikāt prakrāntaḥ |
+<lb n="SA_K10_Āgama_Nandikaparipṛcchāsūtra_Vinītā_2010:53"/>idam avocad bhagavān āttamanāḥ, te ca bhikṣavo bhagavato bhāṣitam abhyanandann iti |
+<lb n="SA_K10_Āgama_Nandikaparipṛcchāsūtra_Vinītā_2010:54"/>āryanandikaparipṛcchāsūtraṃ tṛtīyaṃ samāptam |
+    </body>
+  </text>
+</TEI>

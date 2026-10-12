@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Catuḥṣaṣṭidaṇḍabheda</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Collection / category: BuddhistNon-Scriptures / T01
+Source: OCR / Dharmamitra
+Edition / witness: HSS 24, 204v2–204v4; transcribed in full in Isaacson 2009
+Tibetan: D1210
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Harunaga Isaacson (2009), unpublished transcript of manuscript HSS 24, fols. 204v2–204v4.</note>
+          <idno type="dharmanexus">SA_T01_anon_Catuḥṣaṣṭidaṇḍabheda_Isaacson_2009</idno>
+          <ref target="https://dharmamitra.org/db/sa/SA_T01_anon_Catuḥṣaṣṭidaṇḍabheda_Isaacson_2009/text">https://dharmamitra.org/db/sa/SA_T01_anon_Catuḥṣaṣṭidaṇḍabheda_Isaacson_2009/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-12">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_T01_anon_Catuḥṣaṣṭidaṇḍabheda_Isaacson_2009:0"/>catuṣṣaṣṭidaṇḍasya lakṣaṇa (sic for lakṣaṇam) divārddhena prāṇasaṃkhyā pañcasahasra 540 || evaṃ saṃkhyā gaṇitena ahorātreṇa ṣaṭśatādhika (sic) ekaviṃśatisahasrañ ca yathāsaṃkhyena gaṇitvā jñātavya ghaṭi ekena prāṇa 360 | catuḥṣaṣṭidaṇḍasya bhedaḥ samāptaḥ ||
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kriyāsamuccaya (Balividhi)</title>
+        <author>Jagaddarpaṇa</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Author: Jagaddarpaṇa
+Collection / category: BuddhistNon-Scriptures / T14
+Source: OCR / Dharmamitra
+Edition / witness: Kaiser Library no. 110, if lacunose, supplied from Lokesh Chandra&#x27;s facsimile
+Tibetan: D 3305
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Unpublished working edition / diplomatic transcript, based primarily on MS Kaiser Library no. 110 (Kathmandu) and supplemented from Lokesh Chandra&#x27;s facsimile edition (Kriyāsamuccaya, Śata-Piṭaka Series 237, 1977), collated with the Tibetan Tanjur translation (D 3305).</note>
+          <idno type="dharmanexus">SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali</idno>
+          <ref target="https://dharmamitra.org/db/sa/SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali/text">https://dharmamitra.org/db/sa/SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-12">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:0"/>[\L417] atroktavidhiṣu kāryāntareṣu vā
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:1"/>ādāv ante baliṃ dadyāt sarvavighnopaśāntaye |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:2"/>% &#x27;dir brjod pa&#x27;i cho ga rnams kyang bya ba gzhan rnams la yang dang po dang mthar bgegs thams cad nye bar zhi ba&#x27;i ched du gtor ma sbyin par bya&#x27;o ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:3"/>atrānena vidhinā | prathamaṃ tāvad ācāryo yatholabdhamukuṭādivibhūṣitaḥ | śrīvajrasattvamūrtipurataḥ śakaṭapiṭakādimahāpātreṣu bhaktāpūpayarpaṭa(?)laḍḍukajambuḍikādimatsyamāṃsapalāṇdulasonamadyapāṇīyakṣīrādikaṃ puṣpādibhir yuktaṃ vitānādimaṇḍitaṃ vāditrādipuraskṛtaṃ bhaktapāṇīyādimātrakaṃ vā yathālābhaṃ saṃsthāpya bhakṣyabhojyalehyapeyādīni prāg
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:4"/>gaṇacakroktāmṛtasādhanavidhinā amṛtaṃ niṣpādya tataḥ piṇḍīkramavidhinā caturaṅgavidhinā bījādinā jhaṭiti vā vajradhararūpapurataḥ sugandhādinā kṛtamaṇḍale svacakreśādinā sarvathāgatādīn saṃpūjyākṣobhyavajretyādibhir ghaṇṭāvādanapūrvakaṃ stutvā
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:5"/>% de la &#x27;di ni cho ga ste re zhig dang por slob dpon ji ltar rnyed pa&#x27;i {220b5} cod pan la sogs pas rnam par brgyan pa dpal rdo rje sems dpa&#x27;i mdun du sha ka Ta dang pi Ta ka la sogs pa&#x27;i snod chen po rnams su zan dang khur ba dang la du dang dzambu ti la sogs pa dang nya sha dang bcod dang sgog skya dang chang dang chu dang &#x27;o ma la sogs pa dang
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:6"/>me tog dang ldan pa | bla re la sogs pas {220b6} brgyan cing rol mo mkhan gyi mdun du bstar ba &#x27;am zan dang chu la sogs pa tsam yang rung ji ltar rnyed pa yang dag par bkod nas bza&#x27; ba dang bca&#x27; ba dang bldag pa dang btung ba la sogs pa rnams sngar tshogs kyi &#x27;khor lor bshad pa&#x27;i bdud rtsi bsgrub pa&#x27;i cho gas bdud rtsir bskyed par bya&#x27;o ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:7"/>de {220b7} nas bsdus pa&#x27;i rim pa&#x27;i cho ga&#x27;am yan lag bzhi pa&#x27;i cho ga &#x27;am sa bon la sogs pa las sam skad cig gis kyang rdo rje sems dpa&#x27;i gzugs kyi mdun du dri bzangs la sogs pas maNDal byas par rang gi &#x27;khor lo&#x27;i dbang phyug la sogs pa&#x27;i de bzhin gshegs pa la sogs pa thams cad yang dag {221a1} || par mchod nas |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:8"/>mi bskyod rdo rje zhes pa la sogs pa&#x27;i tshigs su bcad pa dril bu &#x27;khrol ba sngon du &#x27;gro bas bstod de |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:9"/>svahṛ[\C275\recto]dbījamayūkhaiḥ sakrodhadaśārarakṣācakranābhisthitakūṭāgārāntaḥsthamaṇḍalam indrādīn saparivārān nāgān sarvasattvāṃś cākṛṣyendrādīn jhaṭiti prabhāsvarapraveśānantaraṃ saprajñasāmājikadevatārūpān vicintya purataḥ pādyādidānapuraḥsaraṃ ghaṇṭāṃ vādayan vajram ullālayan śūnyatākaruṇābhinnabodhicittādhimokṣeṇa trimaṇḍalaviśuddhyā baliṃ
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:10"/>oṃ āḥ amukavajreti svacakreśādisumbhāntadevatāḥ pratyekaṃ nāma saṃbodhya tadbījaṃ coccārya sarvaduṣṭasamayamudrāprabhañjaka mama śāntiṃ rakṣāṃ ca kuru svāhā hūṃ ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:11"/>% rang gi snying ga&#x27;i sa bon gyi &#x27;od zer gyis khro bo dang bcas pa&#x27;i srung ba&#x27;i &#x27;khor lo rtsibs bcu pa&#x27;i lte ba la gnas pa&#x27;i gzhal yas khang gi nang na bzhugs pa&#x27;i {221a2} dkyil &#x27;khor dang dbang po la sogs pa &#x27;khor dang bcas pa dang klu rnams dang sems can thams cad kyang bkug nas dbang po la sogs pa skad cig gis &#x27;od gsal bar rab tu zhugs pa&#x27;i
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:12"/>rjes la &#x27;dus pa&#x27;i lha shes rab dang bcas pa&#x27;i ngo bor rnam par bsams te | mdun du zhabs bsil la {221a3} sogs pa sngon du &#x27;gro bas dril bu dkrol zhing rdo rje gser te stong pa nyid dang snying rje dbyer med pa&#x27;i byang chub kyi sems su lhag par mos pa dang &#x27;khor gsum yongs su dag pas gtor ma rnams |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:13"/>aoM a&#x27;a:h&#x27;uM che ge mo badzra zhes rang gi &#x27;khor lo&#x27;i dbang po la sogs pa nas gnod mdzes kyi bar {221a4} gyi lha rnams re re nas ming nas spros shing de dag gi sa bon yang brjod de | sarba du SHTa sa ma ya mu dra pra bha nydza ka ma ma sh&#x27;antiM rakSHanytsa ku ru sv&#x27;a h&#x27;a h&#x27;uM |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:14"/>oṃ āḥ sarvatryadhvajadaśadiglokadhātvanantagaganasamudrameghavyūhaprasaraparamāṇurajomaṇḍalaparamparāntargatasamāpattyavasthitā dharmadhātusamavasaraṇā ākāśadhātuparyavasānāḥ sarvatryadhvajadaśadiglokadhātvanantameghavyūhaprasaragaganasamāḥ sarvalokapālāḥ sarvasattvāś ca tadyathā
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:15"/>vajrāyudhamāyāvajravajrānalavajrakā[\C275\verso]lavajramuṣalanāgavajravajrānilavajrabhairavavajraśauṇḍavajrakrodhavajrakuṇḍalivajraprabhamaunavajravemacitripṛthivīdevatāḥ saparivārāḥ imaṃ puṣpadhūpadīpagandhanaivedyādisaṃyutabalyupahāraṃ pratīcchyopabhujya mama hiraṇyasuvarṇadhanadhānyāyuryauvanārogyasatsukhāpahārakān sarvavighnavināyakān
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:16"/>sarvaduṣṭapraduṣṭān manuṣyāmanuṣyān jambhayata stambhayata bandhayata vidhvaṃsayata mama hiraṇyasuvarṇadhanadhānyāyuryauvanārogyasatsukhāni mahāsukhapravṛddhaye yāvad ābodhimaṇḍaparyantaṃ ḍhaukayata satsahāyatāṃ śāntiṃ rakṣāṃ ca kuruta hūṃ
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:17"/>% aoM sarba tya dhva dza da sha di ka | lo ka dh&#x27;a tva nantag ga na | sa mu dra me gha by&#x27;u ha pra sa ra | pa ra m&#x27;a nu ra dzo maNDa la | pa raM pa ra aa nanta rga ta | sa m&#x27;a pattya pa sthi t&#x27;a | {221a5} dharma dh&#x27;a tu sa ma ba sa ra N&#x27;a | a&#x27;a k&#x27;a sha dh&#x27;a tu parya ba s&#x27;a naM | sarba tya dhva dza da sha di ka |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:18"/>lo ka dh&#x27;a tu aa nanta me gha bhy&#x27;u ha | pra sa ra ga ga na sa m&#x27;a | sarba lo ka p&#x27;a l&#x27;a: sarba satvanytsa | tdya th&#x27;a | badzra yu dha m&#x27;a ya badzra | badzr&#x27;a na la badzra k&#x27;a la badzra mu sa la n&#x27;a ga badzra | badzr&#x27;a ni la | badzra bhee ra wa | badzra shooNDa badzra kro dha | badzra {221a6} kuNDa li badzra pra bh&#x27;a | mon badzra be ma tsi tri ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:19"/>prI thi b&#x27;i de wa t&#x27;a sa pa ri w&#x27;a r&#x27;a: | ai maM pu SHpaM dh&#x27;u pa d&#x27;i pa gandha nee wi dyaM a&#x27;a di saM yu kta ba li au pa ha raM | pra t&#x27;i tstsha au pa bhu dzya | ma ma hi ra Nya su wa rNa | dha na dhya na a&#x27;a yu: yoo waN aa ro gya satshu kha | pr&#x27;a h&#x27;a ra k&#x27;a na sarba bi ghn&#x27;aM bi n&#x27;a ya k&#x27;a na | sarba du SHT&#x27;a na pra du SHT&#x27;a na |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:20"/>ma nu {221a7} SHya aa ma nu SHy&#x27;a | dzambha ya stambha ya bandha ya bi dhvansa ya | ma ma hi ra Nya s&#x27;u warNa dha na dh&#x27;a nya a&#x27;a yu: yoo ba na | aa ro gya satshu kh&#x27;a ni | ma h&#x27;a su kha pra brIddha ye | b&#x27;a yad a&#x27;a bo dha maNDa parya ntaM | Dhoo ka ya ti sa d&#x27;a sa h&#x27;a yi ka sha&#x27; ntiM ra kSHa nytsa ku ru h&#x27;uM |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:21"/>iti mantrābhyāṃ dadyāt || nāgabalimantreṇa ca tāṃś ca svamaṇḍalādhipabhṛtīn sumbhāntāṃs tadanv indrādīn saparivārāṃs tadanu nāgāṃs tadanu sarvasattvān hūṃjāraktaikaśūkavajrajihvāṃs tadraśminalībhir manasā vākṛṣṭam amṛtam upabhuñjānān mahāsukhamayān śūnyataikarasā[\C276\recto]n yāvadicchaṃ vicintayet |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:22"/>% zhes pa&#x27;i sngags rnams dang klu gtor gyi sngags gyi sngags kyis kyang dbul bar {221b1} bya&#x27;o || de rnams kyang rang gi dkyil &#x27;khor gyi bdag po nas brtsams te gnod mdzes kyi mthar thug pa rnams dang | de nas dbang po la sogs pa &#x27;khor dang bcas pa rnams dang de&#x27;i rjes su klu rnams dang |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:23"/>de nas sems can thams cad kyi lce h&#x27;uM las byung ba&#x27;i rdo rje rtse gcig pa dmar po rnams kyi {221b2} &#x27;od zer gyi sbu gus sam | yid kyis bdud rtsi bkug pa rnams nye bar gsol bas bde ba chen po&#x27;i rang bzhin stong pa nyid dang ro gcig pa ji srid &#x27;dod kyi bar du bsam par bya&#x27;o ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:24"/>ācamanasugandhicandanatāmbhūlādikaṃ dattvā saṃpūjya kāryasaṃpādanaparān kṣamayitvā śatākṣaramantraṃ prāguktam āvartya oṃ yogaśuddhāḥ sarvadharmā yogaśuddho &#x27;haṃ iti paṭhan kamalāvartāliṅganamudrāṃ kurvan svadevatācakram ātmani praveśya rakṣācakrasthadaśakrodhān indrādīṃś ca maṇḍalagṛhasya bahir daśasu dikṣu rakṣādikābhimataniṣpādanapravaṇān
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:25"/>vyavasthāpayet ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:26"/>% zhal bsil dang dri bzang po can gyi tsandan dang so rtsi la sogs pa rnams phul nas yang dag par mchod de | bya ba {221b3} bsgrub pa lhur byed pa rnams la bzod par gsol zhing sngar bshad pa&#x27;i yi ge brgya pa&#x27;i sngags bzlas la | aoM yo ga shuddha:sarba dharm&#x27;a:yo ga shuddho nyahaM |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:27"/>zhes brjod nas pad kor dang &#x27;khyud pa&#x27;i phyag rgya byas te rang gi lha&#x27;i &#x27;khor lo bdag nyid la rab tu gzhug go || bsrung ba&#x27;i &#x27;khor lo la {221b4} gnas pa&#x27;i khro bo bcu dang | dbang po la sogs pa bsrung zhing &#x27;dod pa bsgrub pa la mkhas pa rnams dkyil &#x27;khor gyi khang pa&#x27;i phyi rol gyi phyogs bcur rnam par dgod par bya ste |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:28"/>maṇḍalakarmaṇa ārambhāt prabhṛti yāvad avasānaṃ rajomaṇḍalavisarjanānantaraṃ tv evaṃ balidānādikaṃ kṛtvā krodhān apy ātmani praveśya cchoṭītrayaṃ dadad indrādīn yathāsthānaṃ visṛjet ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:29"/>% dkyil &#x27;khor gyi las rtsom pa nas gzung ste ji srid mthar thug pa&#x27;i bar ro || rdul tshon gyi dkyil &#x27;khor {221b5} gshegs su gsol ba&#x27;i rjes su ni gtor ma sbyin pa la sogs pa byas nas khro bo rnams bdag nyid la rab tu gzhug cing se gol gsum byas nas dbang po la sogs pa rnams gnas ji lta bar gshegs su gsol |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:30"/>anyatrāpi pratyahaṃ pratisandhyaṃ balidānam evam |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:31"/>% gzhan yang nyi ma so so la gtor ma dbul ba ni de lta nyid do ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:32"/>imaṃ visarjanamantram |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:33"/>kṛto vaḥ sarvasattvārthaḥ siddhir dattā yathānugā |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:34"/>gacchadhvaṃ buddhaviṣayaṃ punarāgamanāya mur iti |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:35"/>oṃ āḥ hūṃ akāro mukhaṃ sarvadharmāṇām ādyanutpannatvāt hūṃ mur iti vā |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:36"/>oṃ āḥ hūṃ [\C276\verso] vajra mur iti vā paṭhan visarjayed iti ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:37"/>% &#x27;di ni {221b6} gshegs su gsol ba&#x27;i sngags te || khyed gyis sems can don kun mdzad || rjes su mthun pa&#x27;i dngos grub gnang || sangs rgyas yul du gshegs nas kyang || slar yang &#x27;byon par mdzad du gsol | aoM a&#x27;a:h&#x27;uM aa k&#x27;a ro mu khaM sarba dha rm&#x27;a N&#x27;aM aa dy&#x27;a nu hpanna tv&#x27;a ta h&#x27;uM mu: zhes pa&#x27;am | {221b7} aoM a&#x27;a:h&#x27;uM badzra mu:
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:38"/>zhes brjod pas gshegs su gsol lo ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:39"/>atra śāntyādimukhyakāryabhedataḥ kāladigvarṇabhedo boddhavyaḥ |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:40"/>% &#x27;dir zhi ba la sogs pa&#x27;i bya ba gtso che ba&#x27;i dbye ba dus dang phyogs dang kha dog gi dbye ba rtogs par bya&#x27;o ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:41"/>maṇḍalagṛhād bahiḥ pūrvādidikṣu daśakrodhānāṃ mṛtpiṇḍīsamīpe purato balibhaktādikaṃ bhārapiṭakādibhiḥ śarāvair añjalibhir vā dāpayet |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:42"/>% dkyil &#x27;khor gyi khang pa&#x27;i phyi rol shar la sogs pa&#x27;i phyogs rnams su khro bo bcu&#x27;i gong bu rnams dang nye bar zan {222a1} || la sogs pa&#x27;i gtor mas sen thi la sogs pa bkang ba &#x27;am kham phor rnams sam snyim pas dbul bar bya&#x27;o ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:43"/>mṛtpiṇḍībhyo bahiḥ pañcadaśamṛtpiṇḍīnāṃ tadabhāve maṇḍalānām uparīndrādīnāṃ pañcadaśānām aṣṭadikṣu dāpayet |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:44"/>% sa&#x27;i gong bu rnams las phyi rol du sa&#x27;i gong bu bco lnga dang | de dag med na maNDal rnams kyi steng du dbang po la sogs pa bco lnga po rnams la sbyin par bya&#x27;o ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:45"/>indrasya savyapārśve māyāvajrasya viṣṇoḥ | vajrabhairavaḥ kuveraḥ | tasya savyapārśve vināyakasya | vajrakrodha īśānaḥ | īśānopendrayor madhye sūryacandrabrahmaṇām | varuṇanairṛtyor antare vemacitripṛthivīdevatayoḥ | iti pañcadaśapatākāś cendrādīnāṃ svasvavarṇāḥ svasvadiśi |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:46"/>% {222a2} dbang po&#x27;i g-yas phyogs su sgyu ma rdo rje ste khyab &#x27;jug dang rdo rje &#x27;jigs byed ni lus ngan te | de&#x27;i g-yas phyogs su log &#x27;dren dang |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:47"/>rdo rje khro bo ni dbang ldan te dbang ldan dang nye ba&#x27;i dbang ldan dag gi dbus su nyi ma dang zla ba dang tshangs pa rnams dang chu lta dang bden bral gyi bar du thag bzangs ris {222a3} dang sa&#x27;i lha mo dag la&#x27;o || de ltar dbang po la sogs pa&#x27;i ba dan bco lnga ni rang rang gi phyogs su&#x27;o ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:48"/>indrādimṛtpiṇḍībhyo bahir aṣṭamṛtpiṇḍīṣu gomayakṛtamaṇḍaleṣu vā nāgānāṃ kṣīraśarāvādīn dāpayet |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:49"/>% dbang po la sogs pa&#x27;i gong bu las phyi rol du sa&#x27;i gong bu brgyad dam ba byung gi maNDal byas pa rnams su klu rnams la kham phor du&#x27;o thug la sogs pa sbyin par bya&#x27;o ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:50"/>bahiś ca balibhaktādikaṃ pañca ca ghṛtamadhūdaka[\C277\recto]madyadugdhadhārāḥ pradakṣiṇataḥ prakiret |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:51"/>% phyi rol du gtor ma&#x27;i {222a4} zan la sogs pa la mar dang sbrang rtsi dang chu dang chang dang &#x27;o ma ste rgyun pa lngas g-yas skor du gtor bar bya&#x27;o ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:52"/>anyārtham api balipradāne mantre yathāsaṃbhavaṃ me mameti vā yathāvasthitam eva paṭhanīyam | sa cātmatvenādhimoktavyaḥ | asyaivopakāre mamaivopakāro bhavatīty āśayato hi tatkāryasiddhir bhavati | antare ca tadarthaṃ vijñāpayet |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:53"/>% gzhan gyi don du gtor ma sbyin pa na yang sngags la ji ltar yod pa&#x27;i bdag gam la &#x27;am bdag gi zhes pa ni ji ltar gnas pa bzhin du bklag par bya ste | de yang bdag nyid du lhag par mos par {222a5} bya&#x27;o || &#x27;di la phan btags pa na bdag nyid la phan btags par &#x27;gyur te | bar dag tu yang don rnam par shes par bya&#x27;o
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:54"/>iti sāmājikaḥ sārvabhautikabalividhiḥ ||   ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:55"/>% zhes pa &#x27;dus pa&#x27;i &#x27;byung po thams cad pa&#x27;i gtor ma&#x27;i cho ga&#x27;o || ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:56"/>dharmadhātusamavasaraṇā ityādiśūnyataikarasāḥ śūnyatāparyavasānāś cety arthaḥ |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:57"/>% dharma dha tu sa ma ba sa ra N&#x27;a zhes pa ni stong pa nyid dang snying rje ro gcig pa dang stong pa nyid kyi mthar thug pa {222a6} zhes pa&#x27;i don to ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:58"/>atra balividhau daśakrodhādīnāṃ baliḥ prātisvikamantrais tantroktair dīyamānaḥ sutarāṃ praśasto bhavati | te ca mantrā vistarabhayād atra noktāḥ ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:59"/>% gtor ma&#x27;i cho ga la khro bo bcu po rnams kyi gtor ma rnams so so&#x27;i sngags rgyud du gsungs pa rnams kyis &#x27;bul ba ni shin tu khyad par du sngags par &#x27;gyur te | sngags de rnams kyang mang bas &#x27;jigs nas &#x27;dir ma brjod do ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:60"/>yad vā śrīsamvarayogavān sugandhādikṛtamaṇḍale svacakraṃ saṃpūjyāṣṭapadamantraiś ca stutvā svahṛdisthahūṃkāraraśmibhiḥ sakrodhadaśārarakṣācakranābhyantargatakūṭāgārodarasthamaṇḍalaṃ rakṣācakrabahirdikṣu indrādīn saparivārān aparimitasattvāṃś cākṛṣṭyābhyantare lalāṭopari jālāmudrāṃ [\C277\verso] baddhvā phed iti sāṭopaṃ trir uccāryāvāhayen maṇḍalaṃ
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:61"/>purataḥ |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:62"/>% anne jvālāmudrāṃ? pheḍ?
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:63"/>% gang yang dpal &#x27;khor lo sdom pa&#x27;i {222a7} rnal &#x27;byor dang ldan pas dri bzangs la sogs pa&#x27;i maNDal byas par rang gi &#x27;khor lo yang dag par mchod cing rkang pa brgyad pa&#x27;i sngags kyis bstod de rang gi snying gar gnas pa&#x27;i h&#x27;uM yig gi &#x27;od zer rnams kyis khro bo dang bcas pa&#x27;i srung ba&#x27;i &#x27;khor lo rtsibs bcu pa&#x27;i lte bar chud pa&#x27;i {222b1} gzhal yas
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:64"/>khang gi nang na gnas pa&#x27;i dkyil &#x27;khor dang srung ba&#x27;i &#x27;khor lo&#x27;i phyi rol gyi phyi phyogs rnams su dbang po la sogs pa &#x27;khor dang bcas pa dang sems can dpag tu med pa rnams kyang nang du bkug nas dpral ba&#x27;i dbyings su &#x27;bar ba&#x27;i phyag rgya bcings te &#x27;gying ba dang bcas pas pheM {222b2} zhes pa lan gsum brjod cing mdun du dkyil &#x27;khor spyan drang
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:65"/>ngo ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:66"/>oṃ kakka kahana baddha bandhana khakkha khādana sarvaduṣṭānāṃ hana hana ghaggha ghātaya amukasya śāntiṃ kuru hūṃ hūṃ phaṭ phaṭ jaḥ svāhā
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:67"/>% aoM kkak Dha na | bandha na kha ka kha&#x27; dan sarba du SHT&#x27;a n&#x27;aM | ha na ha na gha gha gha ta ya che ge mo&#x27;i sh&#x27;i ntaM ku ru h&#x27;uM h&#x27;uM phaT phaT dza:sv&#x27;a h&#x27;a |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:68"/>ity anenāvāhyendrādīn jhaṭiti śūnyatāpraveśānanantaraṃ savidyasāmvarikadevatāmūrtīn vibhāvya pādyādidānapūrvakaṃ pūrvavat trimaṇḍalaviśuddhyā vāmakaratale candrasthahūṃjaviśvavajranābhau amṛtabhāṇḍam āropya dhyātvā vā vajramuṣṭīkṛtasavyakaraprasṛtatarjanyā tad darśayan bhagavatas tatprajñāyā ḍākinyādīnāṃ kākāsyādīnāṃ ca yathāyogaṃ dikṣu
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:69"/>vāmāvartena vidikṣv agnikoṇam ārabhya dakṣiṇāvartena bhrāmayan
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:70"/>% zhes pa &#x27;dis dbang po la sogs pa bkug nas skang cig gis stong pa nyid la rab tu zhugs pa&#x27;i rjes {222b3} la rig pa dang bcas pa&#x27;i bde mchog gi lha&#x27;i skur rnam par bsgoms te zhal bsil la sogs pa dngul pa sngon du &#x27;gro zhing snga ma bzhin du &#x27;khor gsum yongs su dag pas lag pa g-yon pa&#x27;i mthil du zla ba la gnas pa&#x27;i h&#x27;uM las skyes pa&#x27;i sna tshogs
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:71"/>rdo rje&#x27;i lte bar bdud rtsi&#x27;i snod bkod pa&#x27;am {222b4} bsgom pa lag pa g-yas pa rdo rje khu tshur byas pa&#x27;i sdigs mdzub brkyang pas de ston cing |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:72"/>bcom ldan &#x27;das dang de&#x27;i shes rab ma dang mkha&#x27; &#x27;gro ma la sogs pa dang khva gdong ma la sogs pa la ji ltar rigs par phyogs su g-yon skor dang me&#x27;i zur nas brtsams te phyogs bral rnams {222b5} su g-yas skor gyis te |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:73"/>oṃ vajraḍāka imaṃ baliṃ grihna 2 hūṃ phaṭ oṃ jaḥ hūṃ vaṃ hoḥ samayas tvaṃ dṛśya hor
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:74"/>% aoM badzra D&#x27;a ka ai maM ba liM grI hNa grI hNa h&#x27;uM phaT | aoM dza: h&#x27;uM baM ho: sa ma ya stvaM dri shya ho:
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:75"/>iti mantreṇa ekadvitricatuḥpañcavāroccāritena ḍhaukayitvā tricakradevatānām
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:76"/>% zhes pa&#x27;i sngags lan gcig dang gnyis dang gsum dang bzhi dang lnga brjod pas phul nas &#x27;khor lo gsum gyi lha rnams la |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:77"/>oṃ kara 2 kuru 2 bandha 2 trāsaya 2 kṣobhaya 2 hrauṃ 2 hraḥ 2 pheṃ 2 phaṭ 2 daha 2 paca 2 bhakṣa 2 vasarudhirāntramālāvalambine grihna 2 saptapātālagatabhuja[\C]ṅgāṃ sarpaṃ vā tarjaya 2 ākaḍha 2 hrīṃ 2 jñauṃ 2 kṣmāṃ 2 hāṃ 2 hīṃ 2 hūṃ 2 kili 2 sili 2 hili 2 dhili 2 huṃ 2 phaṭ 2 svāhā ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:78"/>% aoM ka ra ka ra ku ru ku ru bandha bandha tr&#x27;a sa ya tr&#x27;a sa ya {222b6} kro bha ya kSHo bha ya hrooM hrooM hra:hra pheeM pheeM phaT phaT da ha da ha pa tsa ba tsa bhakSHa bhakSHa ba sa ru dhi ra aanta m&#x27;a la ba la mbi ne grIhNa grIhNa sapta p&#x27;a t&#x27;a la ga ta bhu dzangag sarbaM b&#x27;a tadza ya ta dza ya a&#x27;a ka DDhya a&#x27;a kaDDhya hriM hriM dzNooM
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:79"/>dzNooM kSHmM kSHmM h&#x27;M h&#x27;M hiM hiM h&#x27;uM h&#x27;uM ki li ki li si li si li hi li hi li dhi li dhi li h&#x27;uM h&#x27;uM phaT sva h&#x27;a |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:80"/>iti mantreṇaikavāroccāritena nivedayet ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:81"/>% zhes {222b7} pa&#x27;i sngags lan cig brjod pas dbul bar bya&#x27;o ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:82"/>tadanu rakṣācakrārasthadaśakrodhānāṃ |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:83"/>% de&#x27;i rjes su srung ba&#x27;i &#x27;khor lo&#x27;i rtsibs la gnas pa&#x27;i khro bo bcu po rnams la
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:84"/>oṃ kha vajradhṛk vajrahūṃkāravajra hūṃ phaṭ | oṃ vajradaṇḍa vajra hūṃ phaṭ | oṃ vajrānalārka vajra hūṃ phaṭ | oṃ vajrakuṇḍali vajra hūṃ phaṭ | oṃ vajrayakṣa vajra hūṃ phaṭ | oṃ vajrakāla vajra hūṃ phaṭ | oṃ vajramahābala vajra hūṃ phaṭ | oṃ vajrabhīṣaṇa vajra hūṃ phaṭ | oṃ vajroṣṇīṣacakravarti vajra hūṃ phaṭ | oṃ vajrapātāla vajra hūṃ phaṭ |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:85"/>% aoM kha: badzra dhrika badzra h&#x27;uM ka ra badzra h&#x27;uM phaT | aoM badzra daNDa badzra h&#x27;uM phaT | aoM badzra aa n&#x27;a l&#x27;arka badzra h&#x27;uM phaT | aoM badzra kuNDa li badzra h&#x27;uM phaT | aoM badzra {223a1} || yakSHa badzra h&#x27;uM phaT | aoM badzra k&#x27;a la badzra h&#x27;uM phaT | aoM badzra ma h&#x27;a ba la badzra h&#x27;uM phaT | aoM badzra bhi SHa Na badzra h&#x27;uM phaT |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:86"/>aoM badzra auSHN&#x27;i SHa tsa kra brti badzra h&#x27;uM phaT | aoM badzra p&#x27;a ta la badzra h&#x27;uM phaT |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:87"/>iti daśamantraiḥ hūṃ phaḍ ity asya pūrvaṃ imaṃ baliṃ gṛhna 2 amukasya śāntiṃ kuru rakṣāṃ ca kurv iti vidarbhya ekavāroccāritair dadyād vāmadakṣiṇāvatābhyām ūrdhvam adhaś ca [||]
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:88"/>% ces ba&#x27;i sngags bcu&#x27;i h&#x27;uM phaT ces pa&#x27;i sngon du ai maM ba liM grI hNa grIhNa grIhN che ge mo&#x27;i sh&#x27;nti ku ru rakSHa ku ru {223a2} zhes pa bcug la | lan re brjod pa rnams kyis g-yon dang g-yas su bskor ba dag dang steng dang &#x27;og tu dbul bar bya&#x27; ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:89"/>tatas tadbahir indrādīnāṃ |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:90"/>% phyi rol du dbang po la sogs pa rnams la
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:91"/>oṃ kha kha khāhi khāhi sarvadevanāgayakṣarākṣasabhūtapretapiśāconmādāpasmāraḍākaḍākinyādaya imaṃ baliṃ gṛhnantu samayaṃ rakṣantu sarvasiddhiṃ me prayacchantu yathaivaṃ yatheṣṭaṃ bhuñjatha pibatha jighratha mātikrama[\C278\verso]tha mama sarvākāratayā satsukhavivṛddhaye sahāyakā bhavantu hūṃ 2 phaṭ 2 svāhā ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:92"/>% aoM kha kha kh&#x27;a hi kh&#x27;a h sarba de ba n&#x27;a ga yakSHa rakSHa sa bh&#x27;u ta pre ta pi sh&#x27;a tsa aunma da aa pa sm&#x27;a ra D;a ka D&#x27;a ki nya d&#x27;a ya ai maM ba liM grIhNa ntu sa ma ya {223a3} rakSHantu | sarba siddhi mme pra ya tstshantu ya thee baM | ya theeSHTaM | bhunydza tha | pi pa tha | dzi gha tha | m&#x27;a ti kra ma tha |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:93"/>ma ma sarb&#x27;a k&#x27;a rta y&#x27;a sa tshu khaM bi brIddha ye | sa h&#x27;a yi k&#x27;a bha wantu h&#x27;uM h&#x27;uM phaT phaT sv&#x27;a h&#x27;a |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:94"/>ity anenāvartābhyām ūrdhvam adhaś caturvāroccāritena nivedayet |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:95"/>% zhes pa &#x27;di lan bzhi brjod pas bskor phyogs gnyis dang steng &#x27;og tu dbul bar bya&#x27;o ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:96"/>tāṃś ca maṇḍalādhipaprabhṛtīn sumbhāntān ityādikaṃ prāg uktam atrāpi vijñeyam |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:97"/>% &#x27;dir yang {223a4} de rnams dang dkyil &#x27;khor gyi bdag bo nas brtsams te gnod mdzes kyi mthar thug pa zhes pa la sogs pa dang sngags gzhan rnams kyang shes par bya&#x27;o ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:98"/>śatākṣaraṃ tv ihānyat |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:99"/>% yi ge brgya pa ni &#x27;dir gzhan yin te |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:100"/>oṃ vajraheruka samayam anupālaya herukatvenopatiṣṭha dṛḍho me bhava sutoṣyo me bhava anurakto me bhava supoṣyo me bhava sarvasiddhiṃ me prayaccha sarvakarmasu ca me cittaṃ śreyaḥ kuru hūṃ ha ha ha ha hoḥ bhagavan vajraheruka mā me muñca heruko bhava mahāsamayasattva āḥ hūṃ phaḍ iti ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:101"/>% aoM badzra he ru ka sa ma ya ma nu p&#x27;a la ya | he ru ka tve no pa tiSHtha drI Dho me bha wa | su to SHyo me bha wa | {223a5} aa nu rakto me bha wa | su po SHyo me bha wa | sarba siddhi mme pra yatstsha sarba karma su tsa me tsittaM shre ya: ku ru h&#x27;uM ha ha ha ha ho:
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:102"/>bha ga wa&#x27;an badzra he ru ka m&#x27;a me munytsa he ru ka bha wa ma h&#x27;a sa ma ya sadva a&#x27;a: h&#x27;uM phaT sv&#x27;a h&#x27;a | zhes pa&#x27;o ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:103"/>atroktadaśakrodhānām abhidhānottaroktānāṃ varṇabhujādikaṃ saṃkṣiptaṃ prāguktaśrīsamvaramaṇḍale jñātavyam ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:104"/>% R Abhidhānottara!
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:105"/>% &#x27;dir brjod pa&#x27;i khro bo bcu mngon par brjod pa bla mar gsungs pa rnams kyi {223a6} sku mdog dang phyag mtshan la sogs pa ni yang dag par bsdus te sngar brjod pa&#x27;i dpal bde mchog gi dkyil &#x27;khor du shes par bya&#x27;o ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:106"/>iti sāmvarikaḥ sārvabhautikabalividhiḥ ||   ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:107"/>% bde mchog gi &#x27;byung po thams cad pa&#x27;i gtor ma&#x27;o || ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:108"/>atha vā śrīhevajrarūpo hṛdisthahūṃkārakiraṇaiḥ sakrodhadaśārarakṣācaranābhyantargatakūṭāgārodarasthamaṇḍalarakṣācakrabahirdikṣv indrādīn saparivārān aparimitasattvāṃś cākṛṣyendrādīn prabhāsvaraṃ praveśyāvirbhūtasapra[\C279\recto]jñaherukarūpān vicintya pādyādidānapūrvakaṃ pūrvavacchuddyā baliṃ oṃ deva picuvajra imaṃ baliṃ grihna 2 amukasya śāntiṃ
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:109"/>rakṣāṃ ca kuru hūṃ 3 phaṭ svāhā || iti mantreṇa bhagavate nivedayet |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:110"/>% yang na dpal kye&#x27;i rdo rje&#x27;i gzugs kyis snying gar gnas pa&#x27;i h&#x27;uM yig gi &#x27;od zer rnams {223a7} kyis khro bo dang bcas pa&#x27;i srung ba&#x27;i &#x27;khor lo rtsibs bcu pa&#x27;i lte bar chud pa&#x27;i gzhal yas khang na bzhugs pa&#x27;i dkyil &#x27;khor dang srung ba&#x27;i &#x27;khor lo&#x27;i phyi rol gyi phyogs rnams su dbang po la sogs pa &#x27;khor dang bcas pa dang |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:111"/>sems can dpag tu med pa rnams kyang bkug {223b1} nas dbang po la sogs pa &#x27;od gsal bar rab tu zhugs pa rnams shes rab dang bcas pa&#x27;i he ru ka&#x27;i gzugs su gyur par rnam par bsams la | zhabs bsil la sogs pa dbul ba sngon du &#x27;gro bas snga ma bzhin du sbyangs pa&#x27;i gtor ma rnams ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:112"/>aoM de ba pi tsu badzra ai maM ba liM grI hNa grI hNa che ge mo&#x27;i {223b2} sh&#x27;antiM rakSHanytsa ku ru ku ru h&#x27;uM h&#x27;uM h&#x27;uM phaT sv&#x27;a h&#x27;a | zhes pa&#x27;i sngags kyis bcom ldan &#x27;das la dbul bar bya ste |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:113"/>oṃ āḥ nairātmyetyādināma saṃbodhya tadbījaṃ coccārya imaṃ baliṃ grihna 2 amukasya śāntiṃ rakṣāṃ ca kuru svāhā hūṃ ity anena nairātmyādīnām ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:114"/>% aoM a&#x27;a: nee r&#x27;atma zhes pa la sogs pas mtshan pa brjod cing sa bon yang smos nas ai maM ba liM grI hNa grihNa che ge mo&#x27;i sh&#x27;intaM rakSHa nytsa ku ru sv&#x27;ah&#x27;a | zhes pa &#x27;dis bdag med ma la sogs pa rnams {223b3} la&#x27;o ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:115"/>namaḥ samantabuddhebhyo namo vajramudgarahastāya caṇḍamaṇḍalākṣepakarāya hūṃ phaṭ ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:116"/>% na ma: sa manta bu ddhe bhyo | na mo badzra mungag ra ha st&#x27;a ya | tsantra l&#x27;akSHe pa k&#x27;a r&#x27;a ya h&#x27;uM phaT |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:117"/>namaḥ samantabuddhebhyo mahādaṇḍadhara vividhasurāsuramardanabhūtān nirmatha hūṃ phaṭ ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:118"/>% na ma: sa manta buddhe bhyo | ma h&#x27;a daNaDa dh&#x27;a ra bi bi dha su ra aa su ra marda na bh&#x27;u tanni ra ma than h&#x27;uM phaT |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:119"/>namaḥ samantabuddhebhyo hulu 2 mahāpadma amṛtīkuru mahāviṣān āḥ ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:120"/>% na ma: sa mnta bu ddhe bhyo | hu lu hu lu ma h&#x27;a padma aa mrI t&#x27;i ku ru ma h&#x27;a bi SH&#x27;M aa:
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:121"/>namaḥ samantabuddhebhyo namo vajrakrodhāya mahādaṃṣṭroṭkaṭabhairavāya vajrasaṃdohadarpāya amṛtakuṇḍali hūṃ ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:122"/>% na ma: sa mnta bu ddho bhyo | na mo badzra kro dh&#x27;a ya ma h&#x27;a daM SHTota {223b4} ka Ta bhee raM b&#x27;a ya badzra saM do ha darp&#x27;a ya aa mrI ta kuNDa li h&#x27;uM phaT |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:123"/>namaḥ samantabuddhebhyo namo &#x27;cala kāṇa ceṭṭa 2 moṭṭa 2 tuṭṭa 2 ghātaya 2 hūṃ phaṭ ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:124"/>% na ma:sa manta buddhe bhyo | na mo aa tsa la k&#x27;anytse ta mo Ta mo Ta tu Ta tu Ta gha gha gh&#x27;a ta ya gh&#x27;a ta ya h&#x27;uM phaT |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:125"/>namaḥ samantabuddhebhyo ṭakki hūṃ jaḥ ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:126"/>% na ma: sa manta buddhe bhyo | Takki h&#x27;uM dza:
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:127"/>namaḥ samantabuddhebhyo oṃ ya[\C279\verso]madaṇḍāya nīlāya nīladaṇḍāya turu 2 muru 2 sarvaduṣṭān māraya hūṃ phaṭ |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:128"/>% na ma: sa ma nta bu ddhe bhyo | aoM ya ma daNDa ya n&#x27;i la da NDa ya tu ru tu ru mu ru mu ru sarba du SHT&#x27;a na m&#x27;a ra ya h&#x27;uM {223b5} phaT |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:129"/>namaḥ samantabuddhebhyo namo mahābalāya ucchuṣmakrodharājāya sarvanāgānāṃ hṛdayaṃ tāḍaya hūṃ phaṭ ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:130"/>% na ma: sa manta buddhe bhyo | na mo ma h&#x27;a b&#x27;a la au tsu SHm kro dha r&#x27;a dz&#x27;a ya sarba n&#x27;a ga n&#x27;aM hrI ya t&#x27;a Da ya h&#x27;uM phaT |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:131"/>namaḥ samantabuddhānāṃ namaḥ samantadharmāṇāṃ namaḥ samantasaṅghānāṃ oṃ sitātapatra oṃ vimala oṃ śaṅkara oṃ pratyaṅgiravajra uṣṇīṣacakravarti sarvayantramantramūlakarma ca bandhanatāḍanakīlanaṃ vā mama kṛte yena kenacit kṛtaṃ tat sarvaṃ cchinda 2 bhinda 2 ciri 2 miri 2 sara 2  hūṃ 10 phaṭ 2 ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:132"/>% na ma: sa manta buddh&#x27;a n&#x27;aM | na ma: sa manta dha rm&#x27;a N&#x27;aM | na ma: sa manta saM gh&#x27;a n&#x27;aM | aoM si t&#x27;a ta pa tre | aoM bi ma la | aoM shangkar | aoM pra dyaM gi ra | badzra auSHN&#x27;i SHa tsakra barti sarba yanta mantra m&#x27;u la karma bandha naM | t&#x27;a Da naM k&#x27;i la na mpa ma {223b6} makrI te | ye na ke na tsi ta krI taM |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:133"/>sarbantu tshinda tshinda bhi nbha bhindha tsi ri tsi ri gi ri gi ri ma ra ma h&#x27;uM h&#x27;uM h&#x27;uM h&#x27;uM h&#x27;uM h&#x27;uM h&#x27;uM h&#x27;uM h&#x27;uM h&#x27;uM h&#x27;uM h&#x27;uM phaT phaT phaT |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:134"/>oṃ sumbha nisumbha hūṃ grihna 2 hūṃ grihnāpaya 2 hūṃ ānaya ho bhagavan vidyārāja hūṃ phaṭ |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:135"/>% aoM sumbha ni sumbha h&#x27;uM | grIhNa grI hNa h&#x27;uM | grI hN&#x27;a pa ya grI hN&#x27;a pa ya h&#x27;uM | a&#x27;a na ya ho bha ga wa&#x27;a na bi dy&#x27;a r&#x27;a dza h&#x27;uM phaT |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:136"/>iti daśamantraiḥ pūrvādiṣv aiśānādiṣu ca dakṣiṇāvartenordhvam adhaś ca yamāryādidaśakrodhānām ḍākinīvajrapañjaroktānām |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:137"/>% R Ḍākinīvajrapañjara
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:138"/>% ces pa&#x27;i sngags bcus shar la sogs pa dang dbang ldan la {223b7} sogs par g-yas skor dang steng dang &#x27;og tu gshin rje gshed la sogs pa&#x27;i khro bo bcu mkha&#x27; &#x27;gro ma rdo rje gur du gsungs pa rnams la&#x27;o ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:139"/>oṃ inda yama jala yakkha bhuda vanhi vāyu rakkha cānda suja māda vappa tala patāleṃ aṭṭha sappa sāhā | edaṃ bali bhuñja jiṅgha phulla dhuppa mānsa viṃghu amha kājja savva sādha khanti khuṇi pheḍaṃ gāda | oṃ akāro mukhaṃ sa[\C280\recto]rvadharmāṇām ādyanutpannatvāt oṃ āḥ hūṃ phaṭ svāhā || iti mantreṇendrādīnām |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:140"/>% aoM ainda dza ma dza la dzakkha bh&#x27;uM ta bahni b&#x27;a au rakkha tsanda suddza | m&#x27;a da pappa ta la pa ta la aaTTa sappa s&#x27;a ta | ai daM ba liM bhunydza | dzigha phulla dh&#x27;u pa maM sa {224a1} || singgha aaM bha kadzja sappa | s&#x27;a da khanti khu Ni phe Da ga da | aoM aa k&#x27;a ro mu khaM sarba dharm&#x27;a N&#x27;aM a&#x27;a dy&#x27;a nutpanna tv&#x27;a ta aoM a&#x27;a:
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:141"/>h&#x27;uM phaT sv&#x27;a h&#x27;a | zhes pa&#x27;i sngags kyis dbang po la sogs pa rnams la&#x27;o ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:142"/>oṃ indetyādināmasaṃbodhanāni svasvadigaparimitasattvopalakṣaṇāni | gādeti gātre |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:143"/>% aoM ainda zhes pa la sogs pa ming nas &#x27;bod pa rnams ni rang rang gi phyogs kyi sems can {224a2} dpag tu med pa mtshon par byed pa&#x27;o || g&#x27;a dang zhes pa ni lus la&#x27;o ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:144"/>tāṃś ca maṇḍalādhipaprabhṛtīn sumbhāntān ityādikaṃ sāmājikabalividhāv uktam atrāpi jñātavyam |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:145"/>% &#x27;di yang de rnams kyi mnga&#x27; bdag nas brtsams te gnod mdzes kyi mthar thug pa zhes pa la sogs pa ni &#x27;dus pa&#x27;i gtor ma&#x27;i cho ga bzhin du shes par bya&#x27;o ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:146"/>atratyakrodhamantrāṇāṃ hūṃkārebhya āḥkārāc ca pūrva imaṃ baliṃ grihna grihnety uccārayet |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:147"/>% &#x27;dir yang khro bo&#x27;i sngags rnams kyi h&#x27;uM yig rnams dang | {224a3} aa: yig sngon du ai maM ba liM grI hNa grI hNa zhes brjod par bya ste |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:148"/>varṇabhujādikaṃ tu krodhānāṃ prāguktamañjuvajramaṇḍalavat ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:149"/>% khro bo rnams kyi sku mdog dang phyag mtshan la sogs pa ni sngar bshad pa&#x27;i &#x27;jam pa&#x27;i rdo rje&#x27;i dkyil &#x27;khor bzhin no
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:150"/>iti haivajrikaḥ sārvabhautikabalividhiḥ ||   ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:151"/>% zhes pa ni | kye&#x27;i rdo rje&#x27;i &#x27;byung po thams cad pa&#x27;i gtor ma&#x27;i cho ga&#x27;o || ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:152"/>ekagṛhavihārādirakṣāsvastyayanārthaṃ śrīmatsubāhuparipṛcchāmahāyogatantroktamantragāthābhir vidhivad baliṃ dadyāt |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:153"/>% NB R Subāhuparipṛcchā as yogatantra
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:154"/>% de bzhin du khyim dang gtsug {224a4} lag khang la sogs pa bsrung ba dang bde legs su bya ba&#x27;i don du dpal ldan dpung pa bzang pos yongs su zhus pa rnal &#x27;byor gyi rgyud chen por gsungs pa&#x27;i sngags kyi tshigs su bcad pa rnams kyis cho ga bzhin du gtor ma sbyin par bya&#x27;o ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:155"/>tatrāyaṃ vidhiḥ ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:156"/>% de la &#x27;di ni cho ga ste |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:157"/>dadhidugdhaghṛtamadhuśarkaranirāmiṣavyañjanānnasugandhipānīyasurabhisitakusumaśekharaśiraḥsragdāmamuktakusumasitacandanādisugandhidravya-agarugugguludaśāṅgādidhūpadīpādisāmagrīṃ yathālābhaṃ yathāśakti svastyayanārtham upanāmaye[\C280\verso]t |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:158"/>% zho dang &#x27;o ma dang mar {224a5} dang sbrang rtsi dang ka ra dang sha med pa&#x27;i tshod ma dang bza&#x27; pa dang dri bzang po&#x27;i chu dang dri bzang po can gyi me tog dkar po dang | rtse mor me tog gi phreng ba dang me tog sil ma dang | tsandnan dkar po la sogs pa dri bzang po&#x27;i rdzas rnams dang | aa ka ru dang gu gu la dang |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:159"/>yan lag bcu pa&#x27;i bdug spos {224a6} dang snang gsal la sogs pa ji ltar rnyed pa dang ji ltar nus pas bde legs su &#x27;gyur ba&#x27;i don rnams nye bar gsog par byed do ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:160"/>nagarādivighnaśāntaye śakaṭādimahāpātre tv iti vistarām eva | kṛṣṇatilān lājābhaktāni sūtsvinnājambuḍikāś cāvaśyam eva | vibhavānurūpato dānapatinopahartavyāḥ | etat sarvaṃ bhāgadvayaṃ parikalpya sugandhiviliptakadalīdalādau nūtanapiṭakādau vā pṛthak pṛthak sthāpayitvā | ācāryaḥ snātaḥ śuciḥ sugandhāṅgaḥ śucivastraprāvṛtaśarīraḥ |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:161"/>yathāptamukuṭādimaṇḍitaḥ | kṛpāmaitrīparigatamānasaḥ pṛthivīpṛthuluṭhitadakṣiṇajānumaṇḍalaḥ kṛtakarapuṭāñjaliḥ pūrvāsya uttarāsyo vā ekasmin bhāge grahāṇāṃ pūjanāya imā gāthāḥ paṭhet |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:162"/>% grong khyer la sogs pa&#x27;i bgegs zhi ba&#x27;i ched du sha ka Ta la sogs pa&#x27;i snod chen po zhes pa ni rnam par rgyas pa nyid de | khur ba dang til dang &#x27;bras yos dang | srid sinna dang | {224a7} dzambu ti ka dang |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:163"/>nges pa nyid du &#x27;byor pa dang rjes su mthun pa rnams sbyin bdag las nye bar blang bar bya zhing &#x27;di rnams thams cad cha gnyis su yongs su brtags pa dri bzang pos rnam par bsgos pa rnams chu shing gi &#x27;dab ma &#x27;am zhib ma sar ba la sogs par so sor gzhag par bya&#x27;o ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:164"/>slob dpon {224b1} gyis khrus dang gtsang sbra dang yan lag dri zhim po dang ldan pas lus la gos gtsang ma bgos te ji ltar rnyed pa&#x27;i cod pan la sogs pas brgyan nas snying rje dang byams pa la yongs su gnas pa&#x27;i yid kyis pus mo g-yas pa&#x27;i lha nga sa&#x27;i gzhi la btsugs te lag pa thal mo sbyar ba byas la |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:165"/>shar ram byang {224b2} du kha bltas nas cha gcig gis gdon rnams mchod pa&#x27;i ched du tshigs su bcad pa &#x27;di rnams brjod par bya&#x27;o ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:166"/>devāsurāḥ sarvabhujaṅgasiddhās tārkṣāḥ suparṇāḥ kaṭapūtanāś ca [|]
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:167"/>gandharvayakṣā grahajātayaś ca ye kecid bhūmau nivasanti divyāḥ |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:168"/>nyastaikajānuḥ pṛthivītale &#x27;haṃ kṛtāñjalir vijñapayāmi tāṃs tu |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:169"/>saputradāraiḥ saha bhṛtyasaṃghaiḥ śrutvā ihāyāntu anugrahārtham |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:170"/>ye [\C281\recto] merupṛṣṭhe nivasanti bhūtā ye nandane ye ca surālayeṣu [|]
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:171"/>ye codayāste ravimandire ca nageṣu sarveṣu ca ye vasanti |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:172"/>saritsu sarvāsu ca saṅgameṣu ratnālaye cāpi kṛtādhivāsāḥ |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:173"/>vāpītaḍāgeṣu ca palvaleṣu kūpeṣu vapreṣu ca nirjhareṣu |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:174"/>ye grāmaghoṣeṣu ca kānane vā surālaye devagṛheṣu ye ca |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:175"/>vīhāracaityāvasathāśrameṣu maṭheṣu śālāsu ca kuñjarāṇām [|]
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:176"/>bhūbhṛtāś ca ye citraguhā vasanti rathyāsu vīthīṣu ca catvareṣu &lt;|&gt;
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:177"/>ye caikavṛkṣeṣu mahāpatheṣu mahāśmaśāneṣu mahāvaneṣu |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:178"/>siṃhebhaṛkṣādhyuṣitāsu ye ca vasanti ghorāsu mahāṭavīṣu [|]
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:179"/>dvīpeṣu divyeṣu kṛtālayāś ca marau śmaśāneṣu nivasanti ye ca |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:180"/>te suprasannāḥ srajagandhamālyaṃ dhūpaṃ baliṃ dīpavidhiṃ ca bhaktyā ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:181"/>gṛhnantu bhuñjantu pibantu cedam idaṃ ca karmaṃ saphalaṃ puṣantu ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:182"/>% lha dang lha min klu dang grub pa kun || &#x27;dab bzangs nam mkha&#x27; lding dang lus srul po || dri za gnod sbyin gdon gyi rigs rnams dang || gang yang sa la gnas pa&#x27;i lha rnams ni || {224b3} bu smad bcas shing g-yog &#x27;khor bcas pa la || bdag gi pus mo sa la btsugs nas ni || thal mo sbyar te khyed la gsol &#x27;debs kyis ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:183"/>gsan nas phan gdags slang du &#x27;dir gshegs shig || &#x27;byung po gang dag ri rab steng gnas dang || dga&#x27; ba&#x27;i tshal dang lha yi gnas khang {224b4} dang || shar nub ri dang nyi zla&#x27;i khyim rnams dang || ri bo kun la gang dag gnas pa dang || chu bo kun dang chu bo &#x27;dus rnams dang || rin chen gnas na lhag par gang gnas dang ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:184"/>mtsho dang rdzing bu lteng ka khrin pa dang || khrus kyi chu dang ri yi chu rnams dang || grong dang phyugs lhas rnams dang bas {224b5} mtha&#x27; dang || khang stong dag dang lha yi khyim rnams dang || dka&#x27; thub gnas dang tshogs khang glang chen bres || &#x27;byung po sna tshogs phug gnas gang dag dang || lam srang rnams dang tshong &#x27;dus gzhi mdo dang ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:185"/>gang dag shing gcig drung dang lam bo che || dung khrod chen po nags tshal chen po dang || {224b6} seng ge dreng dang glang chen gnas rnams dang || &#x27;brog chen &#x27;jigs su rung bar gang gnas dang || gang dag gling mchog dag na gnas pa dang || lhun po dur khrod dag na gnas pa rnams || de rnams rab tu dge bar gyur nas su ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:186"/>me tog dri dang phreng ba bdug spos dang || gtor ma snang {224b7} gsal chogs gus &#x27;bul gyis || &#x27;di rnams bzhes nas gsol zhing btung bar mdzod || &#x27;dir yang las kyi &#x27;bras bu ldan par mdzod ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:187"/>evaṃ ca kṛtvā grahapūjanaṃ ca digarcanaṃ tv ekamanāḥ prakuryāt [|] ity aparasmin bhāge dikpatīnāṃ pūjanāyemā gāthāḥ paṭhet ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:188"/>% de ltar gdon rnams la mchod pa byas nas phyogs kyi mchod pa gcig pa&#x27;i yid kyis rab tu bya&#x27;o zhes pa | cha gzhan gyis phyogs kyi bdag {225a1} || po rnams mchod pa&#x27;i ched du tshigs su bcad pa &#x27;di rnams brjod par bya&#x27;o ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:189"/>aindryāṃ tu vajrī saha devasaṃghair idaṃ [\C281\verso] ca gṛhnantu baliṃ viśiṣṭam |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:190"/>agnir yamo nai[r]ṛti[r] bhūpatiś ca apāṃ patir vāyu dhanādhipaś ca |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:191"/>īśānabhūtādhipatiś ca devā ūrdhvaṃ ca candrārka pitāmahāś ca |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:192"/>devāḥ samastā bhuvi ye ca nāgā dharādharā guhyagaṇaiḥ sametāḥ |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:193"/>pratipratitvekanivedanaṃ tu svakasvakā{ḥ}sv eva diśāsu bhūtvā [|]
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:194"/>gṛhnantu tuṣṭāḥ sabalāḥ sasainyāḥ saputramitrasvajanaiḥ sametāḥ |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:195"/>dhūpaṃ baliṃ puṣpa nivedanaṃ ca bhuñjantu jighrantu pibandu cedaṃ
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:196"/>idaṃ ca karma saphalaṃ juṣantu ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:197"/>% dbang po can gyi lta tshogs &#x27;khor dang bcas || khyad &#x27;phags gtor ma &#x27;di ni bzhes su gsol || me dang gshin rje bden bral sa yi bdag || chu bdag rlung dang nor gyi bdag po dang || dbang dang ldan pa {225a2} &#x27;byung po&#x27;i lha rnams dang || steng gi nyi zla tshangs pa chen po dang || lha rnams kun dang gang dag sa steng klu ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:198"/>sa &#x27;dzin lha dang gtsang ba&#x27;i tshogs bcas la || so so so sor re res phul ba rnams || tshim zhing thob pas bzhes par mdzad nas su || rang rang phyogs su legs par bzhugs {225a3} nas kyang || rang rigs sde dang sras bcas grogs su bcas || spos dang gtor ma me tog zhal zas rnams || &#x27;di dag gsol zhing bsnams te btung mdzad nas ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:199"/>&#x27;dir yang las kyi &#x27;bras bu ldan par mdzod ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:200"/>tato gṛhavīhāranagarāder īśānakoṇe sarvām eva tāṃ sāmagrīm upasthāpya dadhibhaktajambuḍikā ekatra bhāṇḍe miśrīkṛtya piṭakādau nidhāya tilān lājāś ca bhinnabhājane kṛtvā dakṣiṇāvartena gṛhāder bāhye pariveṣṭya baliṃ dadyāt ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:201"/>% de nas khyim dang gtsug lag khang dang grong khyer la sogs pa&#x27;i dbang {225a4} ldan gyi mtshams su yo byad de rnams thams cad nyid gzhag par bya&#x27;o || zho dang zan dang dzambu ti ka rnams snod gcig tu bsres nas pi Da ka la sogs par bya zhing |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:202"/>til dang &#x27;bras yos ni snod so sor byas nas g-yas skor gyis khyim la sogs pa&#x27;i phyi rol nas zhugs te gtor ma {225a5} sbyin par bya&#x27;o ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:203"/>anyāṃ pradīpādisāmagrīm īśānakoṇa eva sthāpayet dhūpapānīye ca vihāya | tathā ca baliṃ dadyād yathā bhaktādikam īśānakoṇaṃ yāvad aṇṭati |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:204"/>% snang gsal la sogs pa&#x27;i yo byad gzhan rnams ni dbang ldan gyi mtshams nyid du gzhag par bya zhing spos dang chu ni dor bar bya&#x27;o || de ltar yang gtor ma byin pa&#x27;i zan la sogs pa ji ltar dbang ldan gyi mtshams ji srid par ro zhes so |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:205"/>pratyūṣe vikālavelāyāṃ vā balir deyaḥ | pūrvāhne bali[\C282 deest]
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:206"/>snga dro&#x27;am dus khyad {225a6} par can gyi dus su gtor ma dbul bar bya zhing snga dro&#x27;i nyi ma la gtor ma byin pa&#x27;i phyi nas slob dpon gyis kha na ma tho pa med pa&#x27;i bza&#x27; ba rnams chu tshod bdun na bza&#x27; bar bya ste | nyi ma nub pa na yang gtor ma mang du dbul ba nyid do || slob dpon la yang ji ltar nus pa&#x27;i yon dbul {225a7} par bya ste |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:207"/>eṣa vighno[\L427]śamārthibhir anyakāryam icchadbhiḥ puṇyābhiś cānuṣṭheyam || iti subāhuparipṛcchāmahātantroktabalividhiḥ ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:208"/>% &#x27;di dag ni bgegs nye bar zhi ba&#x27;i don dang gzhan yang &#x27;dod pa&#x27;i bya ba&#x27;i don dang bsod nams kyi ngon du yang rjes su gnas pa&#x27;o zhes pa ni dpung pa bzang pos yongs su zhus pa&#x27;i mdo rgyud chen por gsungs pa&#x27;i gtor ma&#x27;i cho ga&#x27;o || ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:209"/>% there seems to be an unnumerated omission in \L as well!!!
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:210"/>etac cotpattikrame balicatuṣṭayam | utpannakrame tu prajñopāyānuccalitena cetasā samanvāhāramātrānītebhyaḥ prajñopāyarūpebhya eva sveṣṭamaṇḍaleśādidevatāsahitendrādibhyo jñānarasāvyatiriktasya baler upaḍhaukanam ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:211"/>% gtor ma bzhi po &#x27;di dag ni bskyed pa&#x27;i {225b1} rim pa la&#x27;o || rdzogs pa&#x27;i rim pa la ni shes rab dang thabs las g-yo ba med pa&#x27;i sems kyis dgongs par gsol ba tsam gyis spyan drangs pa&#x27;i shes rab dang thabs kyi rang bzhin nyid dang &#x27;dod pa&#x27;i dkyil &#x27;khor gyi dbang phyug la sogs pa&#x27;i lha dang bcas pa&#x27;i dbang po la sogs pa rnams la ye {225b2} shes
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:212"/>kyi ro dang tha mi dad pa&#x27;i gtor ma dbul ba ni
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:213"/>balividhiḥ ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Bali:214"/>% gtor ma&#x27;i cho ga&#x27;o || ||
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Vāsiṣṭhasūtra (fragment)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Collection / category: BuddhistScriptures / K10
+Source: OCR / Dharmamitra
+Edition / witness: CUL Or. 131.3 (and 131.5) fols. 16r4-16v+17,18
+Tibetan: D 333
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Diplomatic transcription from Cambridge University Library manuscripts Or. 131.3 and Or. 131.5, fols. 16r4–16v and 17r–18v.</note>
+          <idno type="dharmanexus">SA_K10_Āgama_Vasiṣṭhasūtra-incomplete</idno>
+          <ref target="https://dharmamitra.org/db/sa/SA_K10_Āgama_Vasiṣṭhasūtra-incomplete/text">https://dharmamitra.org/db/sa/SA_K10_Āgama_Vasiṣṭhasūtra-incomplete/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-12">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_K10_Āgama_Vasiṣṭhasūtra-incomplete:0"/>evaṃ mayā śrutam ekasmin samaye bhagavān kapilavastuni mahānagare viharati sma nyagrodhārāme |
+<lb n="SA_K10_Āgama_Vasiṣṭhasūtra-incomplete:1"/>atha vāsiṣṭho mahābrāhmaṇo bhagavataḥ purāṇo gṛhasakho divā vihāram anucaṅkramann anuvicaran yena bhagavāṃs tenopasaṃkrānta upasaṃkramya bhagavatā sārdhaṃ [16\verso] saṃmukhaṃ saṃrañjanīṃ saṃmodanīṃ vividhāṃ kathāṃ vyatisāryaikānte niṣaṇṇaḥ | ekāntaniṣaṇṇaṃ vāsiṣṭhaṃ brāhmaṇaṃ viditvā bhagavān idam avocat |
+<lb n="SA_K10_Āgama_Vasiṣṭhasūtra-incomplete:2"/>kena tvaṃ vāsiṣṭha evaṃkṛśo vivarṇo dīrghaśmaśrukeśanakharomārūkṣakāyaḥ kṣāmasvarabhāṣī |
+<lb n="SA_K10_Āgama_Vasiṣṭhasūtra-incomplete:3"/>vāsiṣṭha āha | māsopavāsair ahaṃ bho gautama evaṃkṛśo vivarṇo dīrghaśmaśrukeśanakharomārūkṣakāyaḥ kṣāmasvarabhāṣī |
+<lb n="SA_K10_Āgama_Vasiṣṭhasūtra-incomplete:4"/>atha khalu bhagavān jānann eva vāsiṣṭhaṃ brāhmaṇaṃ paryapṛcchata | upavasasi tvaṃ vāsiṣṭhāryāṣṭāsamanvāgatam upavāsaṃ prati jāgarṣi prātihārakaṃ pakṣam |
+<lb n="SA_K10_Āgama_Vasiṣṭhasūtra-incomplete:5"/>vāsiṣṭha āha | kiṃ tasya bho gautama bhavati ya āryāṣṭāṅgasamanvāgatam upavāsam upavasati pratijāgarti prātihārakaṃ pakṣam |
+<lb n="SA_K10_Āgama_Vasiṣṭhasūtra-incomplete:6"/>bhagavān āha | bhuṅkte sa vāsiṣṭha kāmān divyān mānuṣyakāṃś ca |
+<lb n="SA_K10_Āgama_Vasiṣṭhasūtra-incomplete:7"/>vāsiṣṭha āha | sa ced gautama ime śā[17\recto from CUL 131.5]lā āryāṣṭāṅgasamanvāgatam upavāsam upavāseyuḥ pratijāgṛyuḥ prātihārakapakṣam | ete &#x27;pi bhuñjīran kāmān divyān mānuṣyakāṃś ca |
+<lb n="SA_K10_Āgama_Vasiṣṭhasūtra-incomplete:8"/>bhagavān āha | asthānam etad vāsiṣṭha anavakāśo yad ime śālā bhāṣitasyārtham ājñāsyanti nedaṃ sthānaṃ vidyate | api tu māṇaka asthānaṃ nigamayyasya parikalpam upādāya vakṣyāmi | ime cen mama śālā bhāṣitasyārtham ajānīyur ete &#x27;pi bhuñjīran kāmān divyān mānuṣyakāṃś ca |
+<lb n="SA_K10_Āgama_Vasiṣṭhasūtra-incomplete:9"/>vāsiṣṭha āha | katham upoṣite bho gautama āryāṣṭāṅgasamanvāgata upavāse bhuṅkte kāmān divyān mānuṣyakāṃś ca |
+<lb n="SA_K10_Āgama_Vasiṣṭhasūtra-incomplete:10"/>bhagavān āha | iha vāsiṣṭha śrāddhaḥ kulaputro vā kuladuhitā vā | āryāṣṭāṅgasamanvāgatam upavāsam upavasitukāmaḥ kalyam evotthāya śravaṇaṃ brāhmaṇaṃ vā anyatamaṃ vā vijñapuruṣam upasaṃkramya ekāṃ samuttarāsaṅgaṃ kṛtvā [17\verso] dakṣiṇaṃ jānumaṇḍalaṃ pṛthivyāṃ pratiṣṭhāpya kṛtāñjalipuṭa evaṃ bhāṣate |
+<lb n="SA_K10_Āgama_Vasiṣṭhasūtra-incomplete:11"/>yathā te āryā arhanto yāvajjīvaṃ prāṇātipātaṃ prahāya prāṇātipātāt prativiratā nihatadaṇḍā nihataśastrā lajjino dayāvantaḥ sarvasattvaprāṇibhūteṣv antaśaḥ kuntapippalikām api prāṇinam upādāya | evam evāham evaṃnāmā imāṃ velām upādāya yāvac ca rātrir āgāminī yāvac ca śvaḥ sūryodayo &#x27;trāntare prāṇātipātaṃ prahāya prāṇātipātāt prativiramāmi |
+<lb n="SA_K10_Āgama_Vasiṣṭhasūtra-incomplete:12"/>anenāhaṃ prathamenāṅgena teṣām āryāṇām arhatāṃ śikṣām anuśikṣe anuvidhīye anukaromi ||
+<lb n="SA_K10_Āgama_Vasiṣṭhasūtra-incomplete:13"/>yathā te āryā arhanto yāvajjīvam adattādānam abrahmacaryaṃ mṛṣāvādaṃ surāmaireyamadyapramādasthānaṃ nṛtyagītavāditamālāgandhavilepanabhūṣaṇavarṇaka[18\recto]dhāraṇam uccaśayanamahāśayanam akālabhojanaṃ prahāyākālabhojanāt prativiratā evam evāham evaṃnāma imāṃ velām upādāya yāvac ca rātrir āgāminī yāvac ca śvaḥ sūryodayo &#x27;trāntare &#x27;dattādānam
+<lb n="SA_K10_Āgama_Vasiṣṭhasūtra-incomplete:14"/>abrahmacaryaṃ mṛṣāvādaṃ surāmaireyamadyapramādasthānaṃ nṛttagītavāditamālāgandhavilepanavibhūṣaṇavarṇakadhāraṇam uccaśayanamahāśayanam akālabhojanaṃ ca prahāyākālabhojanāt prativiramāmi | anenāham aṣṭamenāṅgena teṣām āryāṇām arhatāṃ śikṣām anuśikṣe &#x27;nuvidhīye anukaromi |
+<lb n="SA_K10_Āgama_Vasiṣṭhasūtra-incomplete:15"/>evaṃ dvir api trir api |
+<lb n="SA_K10_Āgama_Vasiṣṭhasūtra-incomplete:16"/>ayam ucyate māṇava āryāṣṭāṅgasamanvāgata upavāsaḥ | evam upoṣita āryāṣṭāṅgasamanvāgata upavāso mahāphalo bhavati mahānuśaṃsaḥ | amṛtaṅgamo &#x27;mṛtaparyavasāno &#x27;mṛtaphalasākṣātkriyāyai samvartate | eva[18\verso]m āryāṣṭāṅgopavāsam upoṣya bhuṅkte kāmān divyān mānuṣyakāṃś ca |
+<lb n="SA_K10_Āgama_Vasiṣṭhasūtra-incomplete:17"/>evaṃ vāsiṣṭha āryāṣṭāṅgasamanvāgatam upavāsam upavasitasya śrāddhasya kulaputrasya vā kuladuhitur vā na śakyaṃ puṇyasya pramāṇam udgrahītum | etāvat puṇyaphalaṃ vā puṇyaphalavipāko vā | api tu bahutvāt puṇyasya mahān puṇyaskandha iti saṃkhyāṃ gacchati |
+<lb n="SA_K10_Āgama_Vasiṣṭhasūtra-incomplete:18"/>tadyathāpi nāma vāsiṣṭha yatremāḥ pañca mahānadyaḥ sambhedasamavasaraṇaṃ gacchati | tadyathā gaṅgā yamunā sarayūḥ sindhur vakṣuś ca | tatra na śakyam udakasya pramāṇam udgrahītuṃ etāvad udakaṃ vā udakakumbhaṃ vā udakakumbhaśatāni vā udakakumbhaśatasahasrāṇi vā | api tu bahutvād udakasya mahān udakaskandha iti saṃkhyāṃ gacchati |
+<lb n="SA_K10_Āgama_Vasiṣṭhasūtra-incomplete:19"/>tat kiṃ manyase vāsiṣṭha kaścit śaknuyān mahāsamudrodakasya pramāṇam udgrahītum | etāvad udakaṃ vā u-
+<lb n="SA_K10_Āgama_Vasiṣṭhasūtra-incomplete:20"/>% end of fragment
+    </body>
+  </text>
+</TEI>

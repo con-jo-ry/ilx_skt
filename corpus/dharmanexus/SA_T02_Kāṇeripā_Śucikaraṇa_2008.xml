@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Śucikaraṇa</title>
+        <author>Kāṇeripā</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Author: Kāṇeripā
+Collection / category: BuddhistNon-Scriptures / T02
+Source: OCR / Dharmamitra
+Edition / witness: Dhīḥ 46, 2008, pp. 131-141 based on MS no. 13267, Gaekwad Oriental Institute, Baṅauda  (Baroda), Devanāgarī, 5 fols.,
+Tibetan: Ø
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Péter-Dániel Szántó, &quot;Śucikaraṇa of Kāṇeripā&quot;, Dhīḥ: Journal of Rare Buddhist Texts Research Unit 46 (2008), pp. 131–141 (text pp. 133–141). Based on MS no. 13267, Oriental Institute, Baroda.</note>
+          <idno type="dharmanexus">SA_T02_Kāṇeripā_Śucikaraṇa_2008</idno>
+          <ref target="https://dharmamitra.org/db/sa/SA_T02_Kāṇeripā_Śucikaraṇa_2008/text">https://dharmamitra.org/db/sa/SA_T02_Kāṇeripā_Śucikaraṇa_2008/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-12">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:0"/>[p. 133]
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:1"/>[1B] namas tārāyai |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:2"/>snānaśaucaratā ye ca bhikṣūpāsakadūṣakāḥ |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:3"/>teṣāṃ mohopaśāntyarthaṃ yuktir eṣocyate &#x27;dhunā || 1 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:4"/>malamūtrādibhir vyāptaṃ medhyād eva hi jāyate |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:5"/>ato malamayaṃ piṇḍaṃ nirmalīkriyate katham || 2 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:6"/>yady api ślāghyate nityaṃ [spṛ]śyate ca punaḥ punaḥ |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:7"/>tathāpi kiṃ bhaved dehe viṣṭhāpūrṇo yathā ghaṭaḥ || 3 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:8"/>pīyate pañcagavyaṃ ca khādyate ca nirāmiṣam |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:9"/>tad apy abhyantarībhūtaṃ viṣṭhatāṃ yāti mūtratām || 4 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:10"/>yaddehasya viśuddhyarthaṃ mukhe prakṣipyate jalam |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:11"/>tad apy ucchiṣṭatāṃ yāti viśuddhi(śuddhi)r ācamanena kim || 5 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:12"/>ya evāparaspṛṣṭo viṣṭhāmūtrādivastunā |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:13"/>tatraiva parisaṃparkād viśuddhi(śuddhi)r ācamanena kim || 6 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:14"/>kiṃ na gacchanti viṣṭhatattva(ṣṭhātva)m ucchiṣṭā ghaṭakharparāḥ |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:15"/>snāpitā vāriṇā santaḥ kukkurāś cāpi śūkarāḥ || 7 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:16"/>viṣṭhāmūtramalaśleṣmanakhalomādikaṃ tathā |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:17"/>svapiṇḍasaṃbhavaṃ sarvaṃ kathaṃ yāti pavitratām || 8 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:18"/>malaṃ palāyate dhūlīgharmagandho vinaśyati |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:19"/>etad eva paraṃ sādhyaṃ snānasya karaṇe sati || 9 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:20"/>ekam eva jalaṃ sarvaṃ gaṅgākhālakajālake |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:21"/>pṛthvī caikasvabhāvo &#x27;pi (?) na tu tīrthaṃ bhaviṣyati || 10 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:22"/>[p.134]
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:23"/>mṛttikā na jalaṃ tīrthaṃ gaṅgākhālakajālake |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:24"/>cittam eva mahātīrthaṃ yatra snātvā śucir bhavet || 11 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:25"/>yadi vā śakyate puṇyaṃ kiñcid eva na tiṣṭhati |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:26"/>yasmāt pradhā[2A]nadevo &#x27;yaṃ bhaved vyākulam ātmani || 12 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:27"/>na mantrasmaraṇaṃ pūjāṃ japaṃ dhyānaṃ na saṃyamaḥ |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:28"/>sarvam evākulaṃ tasya yojanā kuṭilāśayaḥ(ye) || 13 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:29"/>bhuktā(ktvā) devārcanaṃ kartum udayāt tad asaṅgatam |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:30"/>bhojanaṃ [cāpi śuddhaṃ syād] yadi gātraṃ sunirmalam || 14 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:31"/>abhojanād yathā piṇḍaṃ bhojanād api tādṛśam |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:32"/>kṛṣṇasvabhāvo &#x27;ṅgāraḥ śuklaḥ prakṣālito &#x27;pi kim || 15 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:33"/>sarvam eva bhaved bhakṣam abhakṣaṃ sarvam eva hi |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:34"/>% anne bhakṣyam abhakṣyaṃ
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:35"/>malamūtrādiparyantaṃ yāvad vastu tad auṣadham || 16 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:36"/>viṣaṃ pītvā bhaven mṛtyuḥ jīvitaṃ bha x x x x x |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:37"/>iti doṣaguṇaḥ sarvavarṇadharmo na tiṣṭhati || 17 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:38"/>yadi pāpasya śūdrasya viprasyāpi kutas tadā |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:39"/>yataḥ svabhāvaṃ yad dravyaṃ ca sarvata[ś ca tat] tathā || 18 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:40"/>jagad bhramati ti(vi)ṣṭārthaṃ bhakṣābhakṣaṃ na vi(ni)ndati |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:41"/>so [&#x27;]pavitrā kathaṃ dhenur aspṛśyaḥ kukkurā(raḥ) katham || 19 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:42"/>ātmasva[rū]pam āla[mbya] sarvam eva tathāmaya(?) |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:43"/>% anne tathāmayam
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:44"/>candanasya yathā rāśiḥ viṣṭhārāśiś ca tādṛśaḥ || 20 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:45"/>anyo&#x27;nyamatisaṃparkān na doṣaḥ śakyate yadi |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:46"/>aviśuddhis tathā vipro viśuddhaḥ kukkuro bhavet || 21 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:47"/>% anne aviśuddhas
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:48"/>yadi viprā bhaveḍ ḍombā ḍombinīkṛtasaṅgrahaḥ(?) |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:49"/>% anne °saṃśrayāḥ?
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:50"/>tathā kiṃ na bhavet śūdraḥ śūdrīsaṃparkataḥ punaḥ || 22 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:51"/>[p.135]
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:52"/>uttamasya paraṃ doṣo nīcasya saṃparkato bhavet |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:53"/>dvayor uttamasaṃyogāt kathaṃ doṣo bhavet punaḥ || 23 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:54"/>dvayor api [ca] saṃyogād yadi [2B] doṣo &#x27;sti tattvataḥ |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:55"/>haridrāyogasaṃyogāt kim ekaṃ lohitaṃ bhavet || 24 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:56"/>aṅkurasya bhaved doṣo bījasya dūṣaṇe sati |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:57"/>na tu bījasya doṣeṇa bhūmer bhavati dūṣaṇam || 25 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:58"/>bādhā bhavati lokānāṃ prāṇināṃ [ca bhaved] yadi |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:59"/>prāṇināṃ prāṇasaṃbandhaḥ sarveṣāṃs tulyam āgataḥ || 26 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:60"/>yathā nyūnādhiko nāsti govadho goviśeṣa[taḥ] |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:61"/>x x x nirviśeṣeṇa tadvadho nāpi tiṣṭhati || 27 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:62"/>yathāmbunādhikaṃ nāsti gocaro goviśeṣataḥ |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:63"/>tathā prāṇiviśeṣeṇa ucya x x x x x ti || 28 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:64"/>yāvanmātraṃ kṛtaṃ pāpaṃ tāvanmātraṃ kṛtaṃ param |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:65"/>na ca tasya bhaved vṛddhir na hāni[s] tasya jāyate || 29 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:66"/>na pāpaṃ bādhyate puṃsāṃ puṇyaṃ pāpena bādhyate |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:67"/>sukhaduḥkhātmakaṃ sarvaṃ yenedam avagamyate || 30 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:68"/>vilībhūtā ca yā bhūmir vācaṃ yad asti sañcitam |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:69"/>tatra nāsti malaṃ kiñcil laukikaṃ kriyate param || 31 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:70"/>svābhāvikam idaṃ sarvaṃ nidrābhojanamaithunam |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:71"/>kim evaṃ śakyate kartuṃ maṇḍitvā(tve &#x27;)pi na muṇḍakam || 32 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:72"/>bhakṣa(kṣya)te kvāpi gomāṃsaṃ śūdrāṇāṃ kvāpi khādyate |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:73"/>% anne śvāpi?
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:74"/>ato lokaviśeṣeṇa lokayātrā pravartate || 33 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:75"/>ya eva kriyate vipraḥ sa eva brāhmaṇo bhavet |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:76"/>kāyarūpā(po) yadi vipro jātirūpā(po) na tiṣṭhati || 34 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:77"/>[p.136]
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:78"/>athavā jātirūpaṃ ced garbhād eva bhavet tadā |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:79"/>śūdrānnabhakṣaṇenāpi na tasyā[yā]ti sūtra(śūdra)tām || 35 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:80"/>śūdratvāc chūdrikāputro vrataṃ nāharate yadi |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:81"/>brāhmaṇasyāpi yaḥ putro so &#x27;pi kiṃ brāhmaṇo bhavet || 36 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:82"/>viprabījasamutpanna(nnāḥ) śūdriṇīgarbhasambhavāḥ |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:83"/>ādye na brāhmaṇāḥ śūdrā na śūdrāḥ sakalā bhavet || 37 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:84"/>brāhmaṇaś ca kriyāhīnaḥ śūdrāt pratyaparo bhavet |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:85"/>śūdro&#x27;pi [ca] kriyāyukto brāhmaṇād adhiko bhavet || 38 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:86"/>gavāṃ madhye yathā dhenuḥ pūjyate kapilākṛtiḥ |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:87"/>narāṇām api tanmadhye guṇavān pūjyate naraḥ || 39 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:88"/>brāhmaṇo &#x27;sāv asau śūdraś caṇḍālāsāv asau naṭaḥ |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:89"/>% anne caṇḍālo &#x27;sāv
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:90"/>nāmamātraṃ paraṃ bhinnaḥ svabhāvo nānyathā punaḥ || 40 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:91"/>yayā(thā) śudrī yathā ḍombī cāṇḍālī ca tathā satī |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:92"/>ekākāraṃ bhavaṃ(gaṃ) sarvaṃ na bheda[ḥ] kvāpi darśitaḥ || 41 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:93"/>ekākāraṃ bhagaṃ sarvaṃ liṅgam apy eka eva(kam eva) hi |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:94"/>bhagaliṅgāṅgitaṃ sarvaṃ āliṅgā(ṅgaṃ) nāsti nirbhagam || 42 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:95"/>asvamātmā na bhaved sva(aśvasyātmā bhaven nāśvaḥ) śūkarātmā na śūkaraḥ |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:96"/>sarveṣām eva ekātmā buddhimātraṃ paraṃ pṛthak || 43 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:97"/>sarveṣām eva jītvā(vo &#x27;)sti sarva eva śarīriṇaḥ |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:98"/>sukhaduḥkhātmakaṃ sarve(rvaṃ) sarveṣām eva tādṛśam || 44 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:99"/>matsyakacchapasantānaṃ hastiśūkarayor yathā |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:100"/>sarveṣām eva santānaṃ tathā evāsti nānyathā || 45 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:101"/>dravyaṃ prāpya bhaved dravyaṃ jñānaṃ ca jñānayogataḥ |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:102"/>saṃyogāj jāyate sarvaṃ yathā vādyādhikā(?) ghaṭaḥ || 46 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:103"/>[p.137]
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:104"/>abhakṣabhakṣaṇād yogā[3B]j jāyate ca sukhaṃ yadi |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:105"/>saṃyogāj jāyate sarvaṃ yathā vādā(dyā)dhikā(?) ghaṭaḥ || 47 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:106"/>māyāmātram idaṃ sarvaṃ svam anya(yaṃ) paramārthataḥ |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:107"/>kriyate lokayātrārthaṃ vyavahāro &#x27;nyathā bhavet || 48 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:108"/>ye (ya)d evādriyate lokais tad evaiti pramāṇatām |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:109"/>na ca tatra vicāro &#x27;sti barbaraḥ paṇḍito yathā || 49 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:110"/>abhūtaṃ yad bhūtapūrvaṃ tan na lokaṃ(ke) pravartate |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:111"/>na ca loka(ke) svayaṃ kartā svayaṃ jñātā na tiṣṭhati || 50 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:112"/>yathā tatra kṛtaṃ pūrvaṃ sa mayā jagatādinā(?) |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:113"/>tathā tadandhakāreṇa pravṛttiṃ kurute naraḥ || 51 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:114"/>yac citra(traṃ) likhitaṃ kṛtyaṃ nānāvarṇavibhūṣitam |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:115"/>tad yathā bhadrakaṃ dṛṣṭaṃ kiṃ tathā sarvalohitam || 52 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:116"/>sarvatra vāsanādoṣā na doṣaḥ paramārthataḥ |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:117"/>vāsanā śucidātānāṃ(?) na doṣaḥ kvāpi tiṣṭhati || 53 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:118"/>aprasannaṃ jagat tasya yasya bodho na vidyate |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:119"/>bodhanaṃ yuktacittasya prasannaṃ sarvam eva hi || 54 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:120"/>yasya nāsti svayaṃ bodho bodhanaṃ yasya tasya hi |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:121"/>na dīpaṃ cakṣuhīnasya jvalito &#x27;pi karoti kim || 55 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:122"/>kadalīgarbhavad yatra vicāre(ro) nāsti sajjanaḥ |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:123"/>tatra mithyā pariśramo vidher apy asti kiṃ phalam || 56 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:124"/>svayaṃ yatra parāmṛśya na kṛto(?) cittasaṃjñatā |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:125"/>tatra kiṃ parabodhena pratītis tattvato bhavet || 57 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:126"/>yāvad ātmā svayaṃ gatvā cakṣuṣān api labhyate |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:127"/>yāvad arthaṃ(rtha)pratītibhiḥ śabdaṃ śrutvāpi vidyate || 58 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:128"/>[p.138]
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:129"/>[4A] kopārimathane svārthe kaḥ svārthaḥ śuṣkacarmaṇe |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:130"/>tatra kleśo bhaved yukto yatra lobhaḥ pratīyate || 59 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:131"/>puṣpakoṭisahasrāṇi vicārya bhramaro yathā |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:132"/>tat puṣpaṃ sevate gatvā yat puṣpaṃ rasabhājanam || 60 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:133"/>mānaṃ gṛhṇāti kaivartyā vyādyāsti(?) tadu(taṇḍu)laṃ yathā |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:134"/>tattvajñe &#x27;pi yathā tattvaṃ vadho(?) vādena rakṣati || 61 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:135"/>abhakṣabhakṣaṇāt siddhir agamyagamanād yadi |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:136"/>tadā kiṃ na bhavet siddhiḥ śūkarī kukkurā(rī) punaḥ || 62 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:137"/>% anne siddhāḥ?
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:138"/>kāyikaṃ vidyate kiñcit kiñcit tiṣṭhati vācikam |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:139"/>pāpaṃ puṇyavidhā sarvaṃ kevalaṃ mānasaṃhitam || 63 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:140"/>ārādhyamāno &#x27;pi yo devas tāvat tuṣṭiṃ na gacchati |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:141"/>sattvasyopāttikā yasya yāvat kleśaṃ na paśyati || 64 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:142"/>puṇyam api na tasyāsti yasya pāpaṃ na vidyate |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:143"/>pāpapuṇyavinirmuktaḥ paśuke kaḥ paraṃ bhavet || 65 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:144"/>jñānaśaktihataṃ sarvam ekam api na tiṣṭhati |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:145"/>akriyaiva kriyā kvāpi sarvatraiva kriyākriyā || 66 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:146"/>sayogī yogatā(tāṃ) yāti yasya tiṣṭhati yogyatā |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:147"/>yogyatāṃ ca jito yogī nāmamātropajīvinaḥ || 67 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:148"/>te te doṣā te te guṇā ye sarvasya na gocarāḥ |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:149"/>ghaṭamadhyasthito dīpo guṇavān api nirguṇaḥ || 68 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:150"/>pūti(tī) gandhāyate dravyaṃ prabhinnaḥ khañjano naraḥ |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:151"/>tattvena kathyate &#x27;vaśyaṃ rūpasya [ca] yadātmanaḥ || 69 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:152"/>yatra tiṣṭhati yad vastu tatra yena bhaved bhave |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:153"/>apūrvam api tat sarvaṃ kiṃ [4B] na jānanti yoginaḥ || 70 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:154"/>[p.139]
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:155"/>auṣadhīnāṃ viśeṣeṇa saṃskṛtaṃ yena locanam |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:156"/>prapaśyaty andhakāro &#x27;pi divābhāve yathā tathā || 71 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:157"/>jñānaṃ prajāyate sarvaṃ maṇimantrabale sati |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:158"/>auṣadhīmaṇimantrāṇāṃ su(a)pramāṇā hi śaktayaḥ || 72 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:159"/>mantrasāmarthyam asty eva jñānam asty eva jantuni |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:160"/>parakṛn na bhaved vyaktaṃ yāvac cittaṃ na śuddhyati || 73 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:161"/>tuṣe tuṣāgnir asty eva sa kiṃ jvalati sarvadā |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:162"/>yadā vāyur bhūtṛṇas tu tadā tasyottarakriyā || 74 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:163"/>mandindamā(mandaminda)(?)m agnimandaśaktimatī yathā tathā |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:164"/>asti kas taṃ ca yad dravyaṃ tac cāpi na prakāśayet || 75 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:165"/>maṇimantrauṣadhisiddhir agamyagamanaṃ tadā |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:166"/>kiṃ na bhavet siddhās te ca śūkarī kukkarī punaḥ || 76 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:167"/>maṇimantrauṣadhiśaktinidhir bhāradarśanaḥ(?) |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:168"/>tasya svaṃ padyate(?) sarvaṃ yo viśuddhāśayo janaḥ || 77 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:169"/>āśayo yādṛśo yasya tathā tasya phalaṃ bhavet |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:170"/>āśayataḥ phalaṃ sarvaṃ viphalaṃ bahurāśibhiḥ || 78 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:171"/>yena tena prakāreṇa cittaṃ nirmalatāṃ nayet |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:172"/>citte nirmalatāṃ nīte sarvam eva sunirmalam || 79 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:173"/>mano devo mano daityo manaḥ sarvapratiṣṭhitam |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:174"/>mano vyāpāraśūnyatvād ekam api na tiṣṭhati || 80 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:175"/>yatra caikaṃ manaḥ kuryād yā(jā)yate paramaṃ padam |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:176"/>tatraiva labhate siddhiḥ rājajālena(?) kiṃ phalam || 81 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:177"/>ihaiva tiṣṭhate devo mantro &#x27;pīhaiva [5A] tiṣṭhati |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:178"/>atraiva sidhyate sarvaṃ kim atra [ca] pariśramaḥ || 82 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:179"/>[p.140]
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:180"/>sarvam eva parāmṛśya yasya śraddhā na tiṣṭhati |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:181"/>śraddhāsaṃpannacittānāṃ sarvatraiva phalaṃ bhavet || 83 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:182"/>pāragāmī sa sarvatra yo niṣṭhātmā bhaveśvaraḥ |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:183"/>na kiñcit sidhyate tasya yasya niṣṭhā na tiṣṭhati || 84 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:184"/>niḥsvabhāvaṃ nirālambaṃ cittaṃ yeṣāṃ nirāvilam |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:185"/>teṣāṃ mārava(ṇa)karmāṇi niṣpadyante na saṃśayaḥ || 85 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:186"/>asthiraḥ sarvasaṃsāraḥ padmapatrajalomayaḥ(pamaḥ) |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:187"/>kṣaṇam apy a(pyā)sthitā(taḥ) śvāsaḥ kadā mṛtyur bhaviṣyati || 86 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:188"/>khadyotasya yathā jyotsnā yādṛśā jalabudbudāḥ |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:189"/>etad api tathā sarvaṃ na kasyāpy asti nityatā || 87 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:190"/>asthirabodhād yathā svapnam atyantam avadhāryate |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:191"/>etad api tathā sarvaṃ na kasya parikalpate || 88 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:192"/>karṇi(kṣaṇe) dṛṣṭaṃ yathā vastu na tathā dṛśyate punaḥ |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:193"/>ataḥ sarvam idaṃ vākyaṃ kṣaṇikaṃ na sthiraṃ bhavet || 89 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:194"/>satataṃ kriyate yatra gṛhe chādanalopanam |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:195"/>daddura(darduro)māryate(?) yatra tad gṛhaṃ vartate ciram || 90 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:196"/>vyomabalaḥ svabhāvo&#x27;yaṃ jñānaś ca(naṃ ca) nirvikalpakam |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:197"/>ekam api tasyāsti bandhanaṃ chedabhedanam || 91 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:198"/>buddhaḥ sarvajñalokeśatri(śas tri)diveśaś ca yo(yaḥ) prabhuḥ |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:199"/>sarvaśūnyamahāntaś ca lokātītaḥ sa laukikam || 92 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:200"/>yathā buddhas tathā viṣṇur yathā viṣṇus tathā śivaḥ |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:201"/>sarvam eva tathā teṣāṃ na bhedaḥ kvāpi darśitaḥ || 93 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:202"/>aguptaṃ sidhya[5B]te sarvaṃ maṇimantrauṣadhādikam |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:203"/>aguptaṃ kriyate sarvaṃ nopavāso na sañcayaḥ || 94 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:204"/>[p.141]
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:205"/>anyasya sarvaśāstrāṇi vedavedāntam āgamam |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:206"/>taulayitvā vrataṃ bṛhāṃ sūdrā ? &#x27;sanamastikam || 95 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:207"/>na kriyā na vrataṃ tīrthaṃ na ca snānadevārcanam |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:208"/>advayajñānayuktānāṃ ekam api na tiṣṭhati || 96 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:209"/>nāsti doṣaḥ surāṃ pītvā kiñcid api phalaṃ na ca |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:210"/>taṃ bhogaṃ cintayed yogī yena mokṣopa[go] bhavet || 97 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:211"/>jñānena labhate mokṣaṃ jñānaṃ puṇyena labhyate |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:212"/>% anne labhyate?
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:213"/>puṇyacittaviśuddhyarthaṃ jñānam apy ātmapratyayaḥ || 98 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:214"/>na ca tad dṛśyate puṣpaṃ na tad gandho na tadrasaḥ |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:215"/>aprameyaṃ hi taj jñānaṃ svayam eva svakhādivat || 99 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:216"/>kramād anyasya mānatvād ātmanaivopalabhyate |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:217"/>sarvadharmeṣu x x x x hetuvādiparaṃ guruḥ || 100 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:218"/>etad api yathā sarvaṃ yad yat [ca] parikīrtitam |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:219"/>kṣaṇe dṛṣṭaṃ yathā vastus tathā na dṛśyate punaḥ || 101 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:220"/>tāvad vahati pānīyaṃ ghaṭo tā(yā)van na jarjaraḥ |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:221"/>jarjaratvaṃ yadā yāti vahati (sa ghaṭo) kiṃ vahetyapaḥ || 102 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:222"/>% anne vahet payaḥ?
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:223"/>dehamadhye sthito &#x27;py ātmā pradeśe kutra tiṣṭhati |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:224"/>kiṃ surūpaṃ kim ākāram iti ko &#x27;pi na paśyati || 103 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:225"/>ko vṛddhaḥ ko &#x27;thavā bālaḥ sukhā duḥkhā ca kā bhavet |
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:226"/>kathaṃ janma kathaṃ mṛtyuḥ kiṃ ko &#x27;pi na paśyati || 104 ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:227"/>|| iti Kāne(ṇe)ripāviracitaṃ śucikaraṇaṃ samāptam ||
+<lb n="SA_T02_Kāṇeripā_Śucikaraṇa_2008:228"/>|| śubhaṃ bhūyāt ||
+    </body>
+  </text>
+</TEI>

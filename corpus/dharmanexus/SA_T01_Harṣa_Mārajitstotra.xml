@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mārajitstotra</title>
+        <author>Harṣa</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Author: Harṣa
+Collection / category: BuddhistNon-Scriptures / T01 (Stotra / hymns of praise)
+Source: OCR / Dharmamitra
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Michael Hahn, &#x27;The *Mārajitstotra by Harṣadeva, a Third Version of the Nāndī of the Nāgānanda?&#x27;, in: Festschrift Dieter Schlingloff, ed. Friedrich Wilhelm, Reinbek: Dr. Inge Wezler Verlag für Orientalistische Fachpublikationen, 1996, pp. 109–126.</note>
+          <idno type="dharmanexus">SA_T01_Harṣa_Mārajitstotra</idno>
+          <ref target="https://dharmamitra.org/db/sa/SA_T01_Harṣa_Mārajitstotra/text">https://dharmamitra.org/db/sa/SA_T01_Harṣa_Mārajitstotra/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-12">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_T01_Harṣa_Mārajitstotra:0"/>Title: *Mārajitstotra
+<lb n="SA_T01_Harṣa_Mārajitstotra:1"/>Author: Harṣa
+<lb n="SA_T01_Harṣa_Mārajitstotra:2"/>Source: Hahn 1996 (basically 2vs. from the Nāgānanda)
+<lb n="SA_T01_Harṣa_Mārajitstotra:3"/>Tibetan: D 1117
+<lb n="SA_T01_Harṣa_Mārajitstotra:4"/>|| bdud btul ba la bstod pa bzhugs | # || dkon mchog gsum la phyag &#x27;tshal lo ||
+<lb n="SA_T01_Harṣa_Mārajitstotra:5"/>dhyānavyājam upetya cintayasi kām unmīlya cakṣuḥ kṣaṇam
+<lb n="SA_T01_Harṣa_Mārajitstotra:6"/>paśyānaṅgaśarāturaṃ janam imaṃ trātāpi no rakṣasi |
+<lb n="SA_T01_Harṣa_Mārajitstotra:7"/>mithyākāruṇiko &#x27;si nirghṛṇataras tvattaḥ kuto &#x27;nyaḥ pumān
+<lb n="SA_T01_Harṣa_Mārajitstotra:8"/>serṣyaṃ māravadhūbhir ity abhihito bodhau jinaḥ pātu vaḥ || 1
+<lb n="SA_T01_Harṣa_Mārajitstotra:9"/>bsam gtan phyin ci log gis ci zhig dgongs mdzad skad cig {63b1} legs par spyan dbye gzigs ||
+<lb n="SA_T01_Harṣa_Mārajitstotra:10"/>lus med mda&#x27; yis gzir ba&#x27;i skye bo bdag cag skyob pas kyang ni bsrung bar mi mdzad na ||
+<lb n="SA_T01_Harṣa_Mārajitstotra:11"/>thugs rje ldan pa phyin ci log gyur khyod las mchog tu ma rung skyes bu gzhan ma mchis ||
+<lb n="SA_T01_Harṣa_Mārajitstotra:12"/>phrag dog ldan pa bdud kyi bud med de skad smra yang rgyal {63b2} ba skyob pa byang chub gyur ||
+<lb n="SA_T01_Harṣa_Mārajitstotra:13"/>api ca |
+<lb n="SA_T01_Harṣa_Mārajitstotra:14"/>gzhan yang
+<lb n="SA_T01_Harṣa_Mārajitstotra:15"/>kāmenākṛṣya cāpaṃ hatapaṭupaṭahāvalgibhir māravīrair
+<lb n="SA_T01_Harṣa_Mārajitstotra:16"/>bhrūbhaṅgotkampajṛmbhāsmitavalitadṛśā divyanārījanena |
+<lb n="SA_T01_Harṣa_Mārajitstotra:17"/>siddhaiḥ prahvottamāṅgaiḥ pulakitavapuṣā vismayād vāsavena
+<lb n="SA_T01_Harṣa_Mārajitstotra:18"/>dhyāyan bodher avāptāv acalita iti vaḥ pātu dṛṣṭo munīndraḥ || 2
+<lb n="SA_T01_Harṣa_Mārajitstotra:19"/>&#x27;dod dbang gis ni kun du gzhu bkang bdud gzhan lag par myur pa pa Ta ha sgra &#x27;jebs dang ldan ||
+<lb n="SA_T01_Harṣa_Mārajitstotra:20"/>dpa&#x27; bo smin ma bskyod dang nyer g-yo lta bur sgeg dang &#x27;dzum dang rol pa med rnams kyis ||
+<lb n="SA_T01_Harṣa_Mārajitstotra:21"/>thub dbang skyob pa byang chub ma brnyes par {63b3} du bsam gtan las ni bskyod ma nus pa mthong gyur nas ||
+<lb n="SA_T01_Harṣa_Mārajitstotra:22"/>ngo mtshar gyur pas pa spu langs pa&#x27;i lus kyis grub pa rnams dang yan lag mchog rnams &#x27;dud ||
+<lb n="SA_T01_Harṣa_Mārajitstotra:23"/>[?]
+<lb n="SA_T01_Harṣa_Mārajitstotra:24"/>ral pa &#x27;khrugs shing lce rnams g-yogs la kun du bltams pas gang gi thugs rnams &#x27;khrul par ma gyur cing ||
+<lb n="SA_T01_Harṣa_Mārajitstotra:25"/>rab {63b4} gsal &#x27;dod lha&#x27;i bdud rnams rtse mo mchog dag lag thogs glang po rta rnams gdong ldan seng ge dang ||
+<lb n="SA_T01_Harṣa_Mārajitstotra:26"/>stag gi gdong rnams rtsva bzhin grangs med gyur pa &#x27;khor ba yis ni gang zhig bsnyengs par ma gyur pa ||
+<lb n="SA_T01_Harṣa_Mārajitstotra:27"/>de ni kun la gnod pa&#x27;i rnam pa &#x27;dres pa med par skyob pa sangs rgyas thub {63b5} dbang &#x27;jig rten mgon ||
+<lb n="SA_T01_Harṣa_Mārajitstotra:28"/>bdud btul ba la bstod pa | rab dga&#x27;i lha&#x27;i zhal snga nas mdzad pa rdzogs so ||
+    </body>
+  </text>
+</TEI>

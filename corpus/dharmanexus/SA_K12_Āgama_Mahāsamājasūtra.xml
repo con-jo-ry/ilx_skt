@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mahāsamājasūtra</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Collection / category: BuddhistScriptures / K12 (categorised here as Scripture/Tantra)
+Source: OCR / Dharmamitra
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Ernst Waldschmidt, &#x27;Central Asian Sūtra Fragments and their Relations to the Chinese Āgamas&#x27;, in Heinz Bechert (ed.), Die Sprache der ältesten buddhistischen Überlieferung / The Language of the Earliest Buddhist Tradition (Symposien zur Buddhismusforschung, II), Abhandlungen der Akademie der Wissenschaften in Göttingen, Phil.-Hist. Kl., 3. Folge, Nr. 117, Göttingen: Vandenhoeck &amp; Ruprecht, 1980, pp. 136–162 (text edition on pp. 149–162).</note>
+          <idno type="dharmanexus">SA_K12_Āgama_Mahāsamājasūtra</idno>
+          <ref target="https://dharmamitra.org/db/sa/SA_K12_Āgama_Mahāsamājasūtra/text">https://dharmamitra.org/db/sa/SA_K12_Āgama_Mahāsamājasūtra/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-12">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:0"/>Title: Mahāsamājasūtra
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:1"/>Source: Waldschmidt 1980 (rev. ed.) with standardisations
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:2"/>Input: Péter-Dániel Szántó (3 Jul 2023, Budapest)
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:3"/>% NB Vāgīśvarakīrti&#x27;s Mṛtyuvañcanopadeśa (ed. Schneider 146–147, vv. 3.23–24):
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:4"/>% mahāsamājakaṃ sūtram āṭānāṭīyakaṃ tathā |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:5"/>% sakṣudrakaṃ mahāmeghaṃ gāthāḥ susvastisaṃjñitāḥ  ||
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:6"/>% satkṛtya vācayed bhikṣūn svayaṃ vā saṃpravartayet |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:7"/>% dīrgham āyus tathā prāpya mṛtyor bhavati vañcakaḥ  ||
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:8"/>% i.e., this sūtra was still popular and recited for long life
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:9"/>% NB Schøyen MS 2382/272, a fragment of a commentary
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:10"/>[1] evaṃ mayā śrutam | ekasmin samaye bhagavān śākyeṣu viharati vane kāpilavāstave sārdhaṃ pañcabhir bhikṣuśataiḥ sarvair arhadbhiḥ kṣīṇāsravaiḥ kṛtakṛtyaiḥ kṛtakaraṇīyair avahṛtabhārair anuprāptasvakārthaiḥ parikṣīṇabhavasaṃyojanaiḥ samyagājñayā suvimuktacittaiḥ | tatra bhagavān bhikṣusaṅghasya nirvāṇapratisaṃyuktāṃ dharmikathāṃ (!) kathayati sma | api tatra daśamahālokadhātumahāśākyamahāśākyā devatā saṃnipatitā bhagavantam upāsate bhikṣusaṅghaṃ ca |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:11"/>[2] atha khalu catasṛṇāṃ brahmalokanivāsikānāṃ devatānāṃ brahmakāyikānām etad abhavat | adya khalu bhagavān śākyeṣu viharati vane kāpilavastave sārdhaṃ pañcabhir bhikṣuśataiḥ sarvair arhadbhiḥ pūrvavad yāvad bhikṣusaṅghaṃ ca | yan nu vayaṃ gatvā pratyekapratīkṣā bhagavantaṃ bhikṣusaṅghaṃ ca gāthābhir abhiṣṭaveyāma |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:12"/>[3] atha catasro brahmakāyikā devatās tadyathā balavān puruṣaḥ saṃmiñjitaṃ vā bāhuṃ prasārayet prasāritaṃ vā saṃmiñjayed evam eva catasro brahmakāyikā devatā brahmaloke &#x27;ntarhitā bhagavataḥ purataḥ pratitasthuḥ | ekāntasthitā ekā brahmakāyikā devatā tasyāṃ velāyāṃ gāthāṃ babhāṣe |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:13"/>mahāsamājaḥ pravaṇe devakāyāḥ samāgatāḥ |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:14"/>aparājitasaṅghaṃ hi draṣṭum abhyāgatā vayam ||
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:15"/>dvitīyā brahmakāyikā devatā gāthāṃ babhāṣe |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:16"/>ṛjubhūtena cittena pradadhaty atra bhikṣavaḥ |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:17"/>rathīva netrāṇy ādāya saṃrakṣantīndriyāṇi hi ||
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:18"/>tṛtīyā brahmakāyikā devatā gāthāṃ babhāṣe |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:19"/>saṃpradālya khalu kīlam aneyā
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:20"/>indrakīlaṃ parighaṃ parikhaṃ ca |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:21"/>te caranti śuddhā vimalāś ca
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:22"/>nāyakena dāntāḥ śiśunāgāḥ ||
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:23"/>caturthī brahmakāyikā devatā gāthāṃ babhāṣe |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:24"/>ye buddhaṃ śaraṇaṃ yānti na te gacchanti durgatim |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:25"/>prahāya mānuṣān kāyān divyān kāyān upāsate ||
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:26"/>ity uktvā catasro brahmakāyikā devatās tatraiva sthāne &#x27;ntarhitāḥ ||
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:27"/>[4] atha bhagavān sarvāṃ devapariṣadam avalokya bhikṣūn āmantrayati sma | sumahān batāyaṃ bhikṣavo devatāsaṃnipātaḥ sumahān batāyaṃ bhikṣavo devatāsaṃnipāto mam pariṣady etarhi | ye &#x27;pi te &#x27;tīte &#x27;dhvani tathāgatā arhantaḥ samyaksaṃbuddhās teṣām api buddhānāṃ bhagavatām etāvad devatānāṃ saṃnipāto babhūva tadyathā mama pariṣady etarhi | vakṣyāmi vo bhikṣavo devatānāṃ nāmāni kīrtayiṣyāmi devatānāṃ nāmāni | śṛṇuta mama bhāṣitam |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:28"/>[5] – – – – . – – – hitātmanaḥ samāhitāḥ |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:29"/>pṛthaksiṃhā iva – – – – – – pratāpinaḥ |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:30"/>avadātamanasaḥ śuddhā viprasannā anāvilāḥ |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:31"/>śritā devamanuṣyeṣu yāvad brahm. + mṛtyuhāyinaḥ ||
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:32"/>śaikṣā dvipañcaśatakaṃ śataṃ ca daśa cāpare |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:33"/>anekāni sahasrāṇi daivatāni nyavedayan |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:34"/>anantam api nāmaike sphuṭāḥ sarvadiśo &#x27;bhavan ||
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:35"/>[6] tāṃś ca buddho hy abhijñāya vyavalokya tathāgataḥ |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:36"/>athāmantrayati śāstā śrāvakāñ chāsane ratān ||
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:37"/>devakāyā abhikrāntā niśamayata bhikṣavaḥ |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:38"/>teṣāṃ nāmāni vakṣyāmi gāthābhir anupūrvaśaḥ |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:39"/>ekāgramanaso bhūtvā śṛṇuta mama bhāṣitam ||
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:40"/>[7] yakṣāṇāṃ saptasāhasrā vane kāpilavastave |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:41"/>avabhāsayitvā tiṣṭhanti vanaṃ kāpilavastavam ||
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:42"/>te cāpi samitim āyātā ye caiṣāṃ sahagocarāḥ |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:43"/>ṛddhimanto dyutimanto varṇavanto yaśasvinaḥ |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:44"/>vandamānā abhikrāntā bhikṣūṇāṃ samitiṃ vane ||
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:45"/>[8] sātāgiris trisāhasraḥ – – – – . – . – |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:46"/>avabhāsayitvā tiṣṭhati vanaṃ kāpilavastavam ||
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:47"/>sa cāpi samitim āyāto ye cāsya sahagocarāḥ pūrvavat |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:48"/>[9] ṣaṭsāhasrā haimavatāḥ sarve nānātvavarṇinaḥ |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:49"/>avabhāsayitvā tiṣṭhanti vanaṃ kāpilavastavam ||
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:50"/>te cāpi samitim āyātā ye caiṣāṃ sahagocarāḥ pūrvavat |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:51"/>[10] ity ete ṣoḍaśa yakṣasāhasrāḥ sarve nānātvavarṇinaḥ |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:52"/>avabhāsayitvā tiṣṭhanti vanaṃ kāpilavastavam ||
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:53"/>te cāpi samitim āyātā ye caiṣāṃ sahagocarāḥ pūrvavat |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:54"/>[11] viśvamitraḥ pañcaśato viśvadevo maharddhikaḥ |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:55"/>avabhāsayitvā tiṣṭhanti vanaṃ kāpilavastavam ||
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:56"/>te cāpi samitim āyātā ye caiṣāṃ sahagocarāḥ pūrvavat |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:57"/>[12] kumbhīro yakṣo rājagṛhe vipule &#x27;smin nivāsikaḥ |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:58"/>bhūyaḥ śatasahasreṇa yakṣāṇāṃ paryupāsyate |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:59"/>te cāpi samitim āyātāḥ pūrvavat |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:60"/>[13] pūrvāṃ diśam abhipālayati rājā mahārājā |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:61"/>gandharvādhipati rājā dhṛtirāṣṭra iti nāma sa |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:62"/>ramate &#x27;sau nṛttagītena jñātibhiḥ sahitaḥ sadā |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:63"/>sa cāpi samitim āyātaḥ pūrvavat |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:64"/>[14] dakṣiṇāṃ diśam abhipālayati rājā mahārājā |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:65"/>kumbhāṇḍādhipatī rājā virūḍhaka iti nāma sa |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:66"/>ramate &#x27;sau nṛttagītena jñātibhiḥ sahitaḥ sadā |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:67"/>sa cāpi samitim āyātaḥ pūrvavat |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:68"/>[15] paścimāṃ diśam abhipālayati rājā mahārājā |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:69"/>nāgānām adhipatī rājā virūpākṣa iti nāma sa |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:70"/>ramate &#x27;sau nṛttagītena jñātibhiḥ sahitaḥ sadā |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:71"/>sa cāpi samitim āyātaḥ pūrvavat |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:72"/>[16] uttarāṃ diśam abhipālayati rājā mahārājā |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:73"/>yakṣāṇām adhipatī rājā kubera iti nāma sa |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:74"/>ramate &#x27;sau nṛttagītena jñātibhiḥ sahitaḥ sadā |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:75"/>sa cāpi samitim āyātaḥ pūrvavat |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:76"/>[17] purastimeti dhṛtirāṣṭro dakṣiṇe ti virūḍhakaḥ |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:77"/>paścime ti virūpākṣaḥ kuberaś cottaraṃ diśi ||
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:78"/>catvāra ete mahārājā lokapālā yaśasvinaḥ |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:79"/>diśaś catasraḥ pālayanti maharddhikā mahābalāḥ ||
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:80"/>te cāpi samitim āyātāḥ pūrvavat |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:81"/>[18] teṣāṃ māyāvino dāsāḥ prāptā vañcakāḥ śaṭhāḥ |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:82"/>māyā kiṭiś ca vikiṭiś ca bhṛguś ca bhṛkuṭinyā saha |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:83"/>ṛddhiguṇān darśayantas tadā saṃbahucaitrike |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:84"/>te cāpi samitim āyātāḥ pūrvavat |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:85"/>[19] ime &#x27;py atra samabhikrāntā yakṣā mahāyakṣāḥ yakṣasenāpatayaḥ senāyā ye pariṇāyakās tadyathā indraḥ somo varuṇaḥ prajāpatiḥ pūrvavad yathāṭānāṭike yāvat triphalī ca trikaṇṭhakī | te cāpi samitim āyātāḥ pūrvavat |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:86"/>% NB sūtra crossref!
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:87"/>[20] āgataḥ sahabhūr nāgo vaiśālaś cāpi takṣakaḥ |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:88"/>kambalāśvataraḥ prāptaḥ prajāguś ca guṇā saha |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:89"/>saudāsako dhṛtirāṣṭro – – – pati kuñjarāḥ |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:90"/>airāvaṇo mahābhīṣmaḥ prāpto nāgo yaśasvī mamā .. ..
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:91"/>te cāpi samitim āyātāḥ pūrvavat |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:92"/>[21] yo nāgarājaṃ harati prasahya
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:93"/>balavān dvijaḥ pakṣī viśuddhacakṣuḥ |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:94"/>vaihāyasena vanam abhyupāgataś
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:95"/>citraṃ suvaṇī iti tasya nāma ||
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:96"/>% = suparṇī
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:97"/>abhayaṃ tatra nāgarājñām adāt sa suparṇitaḥ |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:98"/>kṣemam akārṣīc chāstā ślakṣāsu vācāsu muditāsu |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:99"/>tatraiva buddhaṃ śaraṇam upāgataḥ ||
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:100"/>sa cāpi samitim āyātaḥ pūrvavat |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:101"/>[22] vijitā vajrahastena samudram asurāḥ śritāḥ |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:102"/>– – – – . – – – – – – – . – . – ||
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:103"/>sucitro vemacitraś ca prahlādo mucilas tathā |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:104"/>śataṃ ca baḍiputrāṇāṃ sarve vairocanāmakāḥ ||
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:105"/>– – – hi baḍisenāṃ rāhur bhadram upāgataḥ |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:106"/>samayas te mahāvīra bhikṣūṇāṃ samitiṃ vane ||
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:107"/>te cāpi samitim āyātāḥ pūrvavat |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:108"/>[23] varuṇā vāruṇī cāpi kṣaumātho pṛṣṭhato gatā |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:109"/>maitrī varuṇikā cāpi prāptā devī yaśasvinī ||
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:110"/>pṛthivī ca devā āpaś ca vāyur devaś ca pāvakaḥ |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:111"/>daśaite daśakāḥ kāyāḥ sarve nānātvavarṇinaḥ |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:112"/>avabhāsayitvā tiṣṭhanti vanaṃ kāpilavastavam ||
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:113"/>te cāpi samitim āyātāḥ pūrvavat |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:114"/>[24] viṣṇuś ca devaḥ sahalī ca deva āgataś ca yama . – |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:115"/>candropaniṣado devāś candram eva puraskṛtya ||
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:116"/>sūryopaniṣado devāḥ sūryam eva puraskṛtya |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:117"/>nakṣatrāṇi puraskṛtya prāptā mandavalāhakāḥ |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:118"/>maghavān sarva – – – prāptaḥ śaktaḥ purandaraḥ |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:119"/>daśaite daśakāḥ kāyāḥ pūrvavat |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:120"/>[25] āgatā sabhikā devī jvaladarciḥśikhopamā |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:121"/>ariṣṭikā ca romā ca umā puṣpanivāsinī ||
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:122"/>carakā subaddhakakṣā acyutāś cāpy anekaśaḥ |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:123"/>pradyumnaḥ svātikā prāptā yā diśo hy abhivarṣati ||
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:124"/>daśaite daśakāḥ kāyāḥ pūrvavat |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:125"/>[26] śuklā kaḍambā karuṇā prāptā nīlakavāsinī |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:126"/>avadātakeśā pramukhī prāptā pītakavāsinī |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:127"/>sadāmattā hāritakā miśrikāś cāpy anekaśaḥ |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:128"/>śuddhakā rucikā caiva prāptā devā yaśasvinaḥ ||
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:129"/>daśaite daśakāḥ kāyāḥ pūrvavat |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:130"/>[27] ø
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:131"/>[28] kṣemakās tuṣitā yāmāḥ kṛṣṇuktāś cāpy anekaśaḥ |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:132"/>lumbinī lumbinīśreṣṭhā jyotirnāmā ca svāśiṣā |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:133"/>nirmāṇaratayaḥ prāptā athāpi vaśavartinaḥ |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:134"/>daśaite daśakāḥ kāyāḥ pūrvavat |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:135"/>[29] daśa vai tv īśvarāḥ prāptāḥ pratyekaṃ vaśavartinaḥ |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:136"/>sahasrabrahmalokānāṃ mahābrahmā nirucyate |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:137"/>sanatkumāras tiṣyaś ca ṛddhimadbhiḥ sutaiḥ saha |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:138"/>te cāpi samitim āyātāḥ pūrvavat |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:139"/>[30] teṣāṃ ca pṛṣṭhataḥ prāptā hāritī vaśavartinī |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:140"/>uttamā varṇarūpeṇa putrebhiḥ parivāritā ||
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:141"/>sā cāpi samitim āyātā pūrvavat |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:142"/>ime ca sarve &#x27;bhikrāntāḥ sendrā devāḥ seśānāḥ saprajāpataḥ |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:143"/>[31] bhikṣavo &#x27;py atrābhikrāntāḥ paśya kṛṣṇasya mantritam |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:144"/>idaṃ gṛhṇīta bandhadhvaṃ rāgeṇa bhadram astu vaḥ |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:145"/>parivārya samantāc ca maitraṃ jīvantam utsṛjata ||
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:146"/>iti tatra mahāsenaḥ kṛṣṇaḥ senām acūcudat |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:147"/>svayaṃ cāpy abhyudāvṛttaḥ saṃkruddho &#x27;py asvayaṃvaśaḥ ||
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:148"/>pāṇinā pṛthivīṃ hatvā kṛtvā śabdaṃ subhairavam |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:149"/>atha prāvarṣayad devam abhramāliṃ savidyutam ||
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:150"/>[32] tāṃś ca buddho hy abhijñāya vyavalokya tathāgataḥ |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:151"/>athāmantrayati śāstā śrāvakāñ chāsane ratān ||
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:152"/>mārasainyam abhikrāntaṃ niśamayata bhikṣavaḥ |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:153"/>ātaptakāriṇas te &#x27;pi śrutvā buddhasya bhāṣitam |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:154"/>vītarāgaṃ hi taṃ matvā tasya romāṇi neñjanti ||
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:155"/>te cāpi vijitasaṃgrāmā bhayābhītā yaśasvinaḥ |
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:156"/>modante saha śiṣyebhiḥ śrāvakās te jinātmajāḥ ||
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:157"/>[33] idam avocad bhagavān āptamanasas te bhikṣavo bhagavato bhāṣitam abhyanandan ||
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:158"/>antaroddānam || varūṇā viṣṇu sabhikā śuklā śyāmā ca kṣemakāḥ ||
+<lb n="SA_K12_Āgama_Mahāsamājasūtra:159"/>mahāsamājasūtraṃ samāptaḥ samāptaṃ ca iti | sādhū ||   ||
+    </body>
+  </text>
+</TEI>

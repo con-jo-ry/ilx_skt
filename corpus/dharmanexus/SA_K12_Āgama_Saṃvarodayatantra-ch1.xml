@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Saṃvarodayatantra (chapter 1)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Collection / category: BuddhistScriptures / K12 (Tantra)
+Source: OCR / Dharmamitra
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Unpublished critical transcription/edition of Chapter 1 based on Nepalese manuscripts.</note>
+          <idno type="dharmanexus">SA_K12_Āgama_Saṃvarodayatantra-ch1</idno>
+          <ref target="https://dharmamitra.org/db/sa/SA_K12_Āgama_Saṃvarodayatantra-ch1/text">https://dharmamitra.org/db/sa/SA_K12_Āgama_Saṃvarodayatantra-ch1/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-12">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch1:0"/>Samvarodayatantra ch.1.  % adhyeṣaṇāpaṭalaḥ % \L = RAS Hodgson 38.  % \A = Matsunaga 404. 1595 AD. % first folio of \L belongs to a ms. of the HeTa.   %(\L title page) oṃ namaḥ herukavajrāya|| tadyathā|| %(\L 1v śrī) oṃ namaḥ śrīvajrasattvāya|| oṃ namo śrīhevajrāya||   % evaṃ mayā śrutam ekasmin samaye bhagavān sarvatathāgatakāyavākcittavajrayoṣidbhageṣu vijahāra|| % 1.1. = HeTa I.i.1. % samaye \emend] samaya \L % yoṣid \emend] yo{ṭhita} \L  % tatra bhagavān āha|| sarvatathāgatakāyasarvatathāgatavāksarvatathāgatacittahṛdayaṃ bhaṭṭārakaṃ guhyātiguhyataram|| aho vajragarbha sādhu sādhu mahākṛpā mahābodhisattvā vajrasattvasya mahāsattvasya mahāsamayasattvasya hṛdayaṃ hevajrākhyaṃ śṛ(\L 2r)ṇu|| % 1.2. || HeTa I.i.2.  % vajragarbha uvāca||  % vajrasattvo bhavet kasmāt mahāsattvo bhavet kathaṃ | % samayasattvo bhavet kena kathayatu bhagavān mayi || % 1.3. = HeTa I.i.3. % vajrasattvo \emend] vajrasatva \L % mahāsattvo \emend] mahāsatva \L % samayasattvo \emend] samayasatva \L % kathayatu \emend] kathaṃyatta \L  %bhagavān āha ||  %abhedyaṃ vajram ity uktaṃ sattvaṃ tribhavasyaikatā | %anayā prajñayā yuktau vajrasattva iti [smṛtaḥ ||] % 1.4. = HeTa I.i.4. % abhedyaṃ \emend] abhidya \L % prajñayā \emend] prajñāyā \L % yuktau : yuktyā HeTa  [§1. adhyeṣaṇāpaṭalaḥ]  \L = lost \A - 1v1ff.  [\A namaḥ śrīherukāya]  evaṃ mayā śrutam ekasmin samaye bhagavān sarvatathāgatakāyavākcittavajrayoginībhageṣu vijahāra |  	% citta \emend] cirtta \A 	% bhageṣu \emend] bhaveṣu \A 	% vijahāra \emend] vijahara \A  āryānandaprabhṛtivītarāgapramukhaiḥ| āryāvalokiteśvarādyaśītikoṭiyogīśvaramadhye vajrapāṇim avalokya smitam akārṣīt |  	% koṭi \emend] koti \A 	% madhye \emend] madhyeḥ \A 	% vajrapāṇim avalokya \emend] vajrapāṇi vyavalokya \A 	% akārṣīt \emend] akāṣīt \A 	 vajrapāṇir utthāyāsanāt samuttarāsaṅgaṃ kṛtvā dakṣiṇaṃ jānumaṇḍalaṃ pṛthivyāṃ pratiṣṭhāpya kṛtakarapuṭo bhūtvā bhagavantam adhyeṣayām āsa || 	% samuttarāsaṅgaṃ \emend] samuttarāsagā \A 	% pratiṣṭhāpya \emend] pratisthāpye \A 	% karapuṭo \emend] karapūṭo \A 	% adhyeṣayām \emend] adheyaryām \A  śrotum icchāmi he bhagavann utpattiḥ yogalakṣaṇam|  utpannaṃ ca kathaṃ deva sarvākāraikasamvaram || 1.1 || 	% kye | 	% rnam pa kun mchog sdom pa yi | bskyed pa&#x27;i rnal &#x27;byor mtshan nyid dang |  	% rdzogs pa yang ni ji ltar lags | bcom ldan &#x27;das la nyan par &#x27;tshal ||  kathaṃ vāyv-agni-āpasya pṛthivy ākāśam eva ca |  pañcākāra kathaṃ deva ṣaḍviṣayās tataḥ prabho || 1.2 || 	% pṛthivyā \emend] vṛthivyā \A 	% paṃ(\A 2r)cākāra; testimony of \L begins 	% viṣayās \emend] viṣaryās \A 	% rlung dang me dang chu dang sa | de bzhin nam mkha&#x27; ji ltar lags |&gt;&gt;&gt;   kathaṃ trikāya-m-adhiṣṭhānaṃ bāhya vābhyantare sthitaḥ|  kathaṃ devatārūpaṃ kathayasva devatī prabho || 1.3 ||  	% vā˚ \L] cā˚ \A  candrasūrya kathaṃ deva pathapañca kathaṃ bhavet |  katha te śārīrasvabhāvas tu nāḍīrūpaṃ kathaṃ kam evaṃ ca || 1.4 ||  	% bhavet \A] bhave \L  kathaṃ bhūmyādilābhasya kathaṃ nimittadarśanam |  kathaṃ te dvādaśakarma mantrajāpa kathaṃ bhavet || 1.5 || 	% darśanam \A] darśana \L  akṣamālā kathaṃ yuktiḥ ke te jāpasya lakṣaṇam |   ke te maṇḍala-m-āvartta devatākārayogataḥ || 1.6 ||  	% yuktiḥ \L] yūktiḥ \A 	% maṇḍa(\L 2v)lam  samayaṃ saṅketacchommasya kathayasva mahāprabho | kathaṃ pīṭhādisaṃkeṭaṃ bāhyādhyātmakam eva ca || 1.7 || 	% saṅketacchommasya \emend] sanketacchoṣmasya \L 	% kathayasva \emend]  kathayastva \L 	% mahāprabho \emend] mahāprabhyaḥ \L 	% v.7.] \om \A  siddhimantraṃ kathaṃ deva kaumārītarpaṇaṃ katham |  ke te divasena varttavyaṃ alibali kathaṃ prabho || 1.8 ||  	% mantraṃ \L] mantra \A 	% ke te \A] kena \L 	% divasena \L] divasya na \A 	% prabho \emend] tprabho \A, prabhoḥ \L  pañcāmṛtādi kathaṃ deva pañcāṅkuśaṃ kathaṃ bhavet |  kathayasva maṇḍalālekhyaṃ sūtrapātaṃ kathaṃ bhavet || 1.9 || 	% pañcāṅkuśaṃ \L] pañcākūśaṃ \A 	% kathayasva \L] kathaṃ yasva \A 	% kathayasva (\A 2v) 	% sūtrapātaṃ \emend] sūtrapātraḥ \A, sūtrapātraṃ \L  kathaṃ te bhūmi saṃśodhau rakṣācakraṃ kathaṃ bhavet |  ācāryaṃ kena kartavyaṃ kathaṃ śiṣyasya saṃgrahaḥ || 1.10 ||   	% saṃśodhau \A] saṃśodhya \L 	% ācāryaṃ \L] ācārya \A 	% kartavyaṃ \L] kartavyaiḥ \A 	% kathaṃ śiṣyasya \emend] kathaṃ śaṣyasya \A, katha śiṣyañca \L 	% saṃgrahaḥ \A] saṃgraham \L  ke te sekapramāṇaṃ ca caturthaṃ ca kathaṃ bhavet |  kathaṃ kālasya niyamaṃ mṛtyuvañcanam eva ca || 1.11 || 	% ke te seka˚ \A] abhiṣeka˚ \L 	% niyamaṃ \emend] niyama \A, niyaṃmaṃ \L 	% ˚vañcanam eva ca \A] ˚vañcana vacaḥ \L  ke te caturyugāṅ kasya caturdvīpaḥ kathaṃ bhavet |   yuge yuge kathaṃ siddhiś caryācārī kathaṃ bhavet || 1.12 ||   	% caturdvīpaḥ kathaṃ bhavet \A] catuddīpaṃkam bhavet \L 	% kathaṃ \A] kam \L 	% siddhiś caryācārī \A] siddhi varṣācārī \L  ke te yoginītantrasya yogatantraṃ kathaṃ bhavet |  kathaṃ sūtrāntapramāṇaṃ ke te pāramitās tathā || 1.13 ||  	% yoginītantrasya \A] yoginimantrasya \L 	% yogatantraṃ \L] yogatantra \A 	% ka(\L 3r)thaṃ  	% pramāṇaṃ \A] pramāṇaṃ ca \L 	% pāramitās \L] pāmitās \A  pratiṣṭhāhomayāgasya siddhimantraḥ kathaṃ bhavet |  rasāyanaṃ kathaṃ deva madyapānaṃ kathaṃ bhavet || 1.14 ||  	% yāgasya \A] yajñasya \L 	% mantraḥ kathaṃ \emend] mantraḥ|| katha \A, mantraṃ kathaṃ \L 	% rasāyanaṃ \L] rasāyanaṃ ca \A 	% madyapānaṃ kathaṃ \emend] madyapānaṃ ka \A, madyamāṃsa kathaṃ \L  mantrodayaḥ kathaṃ deva mantroddhāraḥ kathaṃ bhavet |  nigrahaś ca kathaṃ deva anugrahaś ca kathaṃ prabho || 1.15 || 	% mantrodayaḥ \A] mantrodayaṃ \L 	% mantroddhāraḥ \A] mantroddhāra \L 	% nigrahaś \A] nigrahaṃ \L 	% anugra(\A 3r)haṃ 	% anugrahaś ca kathaṃ prabho \A] anugrahaṃ ca kathaṃ bhavet \L   tattvānāṃ ca kathaṃ bhagavan śūnyatākaruṇā katham |  kathaṃ śūnyasvabhāvatvaṃ kathaṃ tathatasvarūpakam || 1.16 || 	% a] tattvāganāñ ca kathaṃ bhavyat gavan \A  devarūpaṃ kathaṃ nāma yoginīlakṣaṇaṃ baliḥ |  sarvadharmaparijñānaṃ bhāvanā kathaya prabho || 1.17 ||  	% devarūpaṃ \L] devarūpa \A 	% kathaṃ \L] kaṃthaṃ \A 	% lakṣaṇaṃ baliḥ \A] lakṣaṇa balim \L 	% sarvadharma \L] sarvakarmā \A 	% bhāvanā kathaya prabho \A] bhagavān kathyata prabhoḥ \L  	 iti śrīsamvarodayatantrasyādhyeṣaṇāpaṭalaḥ prathamaḥ || % col.1.	 	% tantrasya \A] mahātantre sya \L 	% paṭalaḥ prathamaḥ \L] pathamaḥ paṭalaḥ \A
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kriyāsamuccaya (Devatādhivāsanavidhi)</title>
+        <author>Jagaddarpaṇa</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Author: Jagaddarpaṇa
+Collection / category: BuddhistNon-Scriptures / T14
+Source: OCR / Dharmamitra
+Edition / witness: Kaiser Library no. 110 is lacunose, here supplied from Lokesh Chandra&#x27;s facsimile and the Vajrāvalī
+Tibetan: D 3305
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Unpublished critical transcription (Kolozsvár, 1 July 2025), based on Kaiser Library Ms. 110, supplemented from Lokesh Chandra&#x27;s facsimile edition (1977) and Abhayākaragupta&#x27;s Vajrāvalī, collated with the Tibetan translation (Degé Tanjur D 3305, rgyud, ki, 83a3–83b2).</note>
+          <idno type="dharmanexus">SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Devatādhivāsana</idno>
+          <ref target="https://dharmamitra.org/db/sa/SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Devatādhivāsana/text">https://dharmamitra.org/db/sa/SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Devatādhivāsana/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-12">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Devatādhivāsana:0"/>tato maṇḍalabhūmiṃ sugandhādiliptāṃ sapuṣpaprakarāṃ ca kārayitvā tatra yathāsambhavaṃ pañcādhipatīnāṃ koṣṭheṣu caturasraṃ maṇḍalakaṃ kṛtvā |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Devatādhivāsana:1"/>anyadevatānāṃ ca vartulaṃ sapañcāmṛtasugandhaiḥ kṛtvā paścimāsyas teṣu maṇḍaleṣu svahṛdbījamayūkhānītaṃ likhanīyamaṇḍalacakraṃ yathāyogam abjastheṣu candreṣu sūryeṣu vopaveśya pādyādipuraḥsaraṃ saṃpūjya stutvāmṛtam āsvādya dakṣiṇaṃ jānu bhūmau nipātya hūṃjaikaśūcikavajrajihvāyāṃ hūṃ nyasya sadhūpakaṭacchusavyakaro vāmena vajraghaṇṭāṃ vādayan |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Devatādhivāsana:2"/>gāthā | oṃ
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Devatādhivāsana:3"/>% de nas dkyil &#x27;khor gyis {83a3} gzhi dri bzangs la sogs pas byugs shing me tog gcal du &#x27;grems su bcug ste | der ji ltar &#x27;byung ba&#x27;i bdag po lnga&#x27;i le tshe rnams su maNDal gru bzhi pa bya zhing lha gzhan rnams la zlum po ste | bdud rtsi lnga dang bcas pa&#x27;i dri bzang po rnams kyis bya&#x27;o ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Devatādhivāsana:4"/>nub tu phyogs pas {83a4} maNDal de rnams su rang gi snying ga&#x27;i sa bon gyi &#x27;od zer gyis &#x27;dri bar &#x27;gyur ba&#x27;i dkyil &#x27;khor gyi &#x27;khor lo ji ltar rigs par chu skyes la gnas pa&#x27;i zla ba&#x27;am nyi ma la bzhugs su gsol la | zhabs bsil la sogs pa sngon du &#x27;gro ba&#x27;i mchod pa dang | bstod pa dang bdud rtsi myang {83a5} ba byas te |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Devatādhivāsana:5"/>bus mo g-yas pa sa la btsugs shing lce h&#x27;uM las skyes pa&#x27;i rdo rje rtse gcig par byas pa h&#x27;uM bkod nas lag pa g-yas pas sbos phor thogs te | g-yon pas rdo rje dril bu dkrol zhing |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Devatādhivāsana:6"/>bhagavann amukasa[\L87]dvajra vidyārāja namo &#x27;stu te |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Devatādhivāsana:7"/>icchāmi likhituṃ nātha maṇḍalaṃ karuṇātmakam ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Devatādhivāsana:8"/>śiṣyāṇām anukampārthaṃ yuṣmākaṃ pūjanāya ca |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Devatādhivāsana:9"/>sattvānāṃ puṇyavṛddhyarthaṃ bodhicittodayāya ca ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Devatādhivāsana:10"/>tan me bhaktasya bhagavan prasādaṃ kartum arhasi |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Devatādhivāsana:11"/>samanvāharantu māṃ buddhā jagaccakrakriyārthadāḥ ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Devatādhivāsana:12"/>phalasthā bodhisattvāś ca yāś cānyā mantradevatāḥ |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Devatādhivāsana:13"/>devatā lokapālāś ca bhūtāḥ saṃbodhiśāsitāḥ ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Devatādhivāsana:14"/>śāsanābhiratāḥ sattvā ye kecid vajracakṣuṣaḥ |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Devatādhivāsana:15"/>amuko &#x27;haṃ mahāvajrī amukodayamaṇḍalam ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Devatādhivāsana:16"/>likhiṣyāmi jagacchuddhyai yathāśaktyupacārataḥ |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Devatādhivāsana:17"/>anukampām upādāya saśiṣyasya tu tan mama |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Devatādhivāsana:18"/>maṇḍale sahitāḥ sarve sāṃnidhyaṃ kartum arhatha ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Devatādhivāsana:19"/>% bcom ldan rdo rje che ge mchog | rig pa&#x27;i rgyal po khyod la &#x27;dud || mgon po {83a6} thugs rje&#x27;i bdag nyid can || dkyil &#x27;khor bri bar bdag &#x27;tshal lo || slob ma rnams la brtse don dang || khyed rnams la yang mchod phyir dang || sems can bsod nams spel don dang || byang chub sems ni bskyed pa&#x27;i phyir || de pas bcom ldan bdag gus la ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Devatādhivāsana:20"/>bka&#x27; {83a7} drin gnang bar mdzad pa&#x27;i rigs || sangs rgyas &#x27;gro &#x27;khor bya don stsol || byang chub sems dpa&#x27; &#x27;bras gnas dang || gzhan yang gang dag gsang sngags lha || lha dang &#x27;jig rten skyong ba dang || &#x27;byung po byang chub bstan gnas dang || sems can bstan la mngon dga&#x27; dang || {83b1} gang su rdo rje&#x27;i spyan ldan rnams ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Devatādhivāsana:21"/>bdag la yang dag dgongs su gsol || bdag ni che ge rdo rje che || cho ga &#x27;byung ba&#x27;i dkyil &#x27;khor ni || ji ltar nus par nyer spyod pas || &#x27;gro ba sbyang phyir bri bar bya ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Devatādhivāsana:22"/>iti vāratrayam arthapratītyā paṭhann abhyarthayet |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Devatādhivāsana:23"/>% zhes don mngon du byed cing lan gsum brjod pas gsol ba gdab par bya&#x27;o ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Devatādhivāsana:24"/>iti devatādhivāsanavidhiḥ ||   ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Devatādhivāsana:25"/>% {83b2} zhes pa lha lhag par gnas pa&#x27;i cho ga&#x27;o || ||
+    </body>
+  </text>
+</TEI>

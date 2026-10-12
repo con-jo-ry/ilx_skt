@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Śakrapraśnasūtra (fragments)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Collection / category: BuddhistScriptures / K10 (Sūtra)
+Source: SuttaCentral
+Link: https://suttacentral.net/sf241/san/waldschmidt
+Edition: Ernst Waldschmidt, Bruchstücke buddhistischer Sūtras aus dem zentralasiatischen Sanskritkanon, Kleine Sanskrit-Texte 4, Leipzig 1932 (Turfan editions); SuttaCentral &#x27;Other Fragments&#x27; corpus.
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Ernst Waldschmidt, Bruchstücke buddhistischer Sūtras aus dem zentralasiatischen Sanskritkanon I, herausgegeben und im Zusammenhang mit ihren Parallelversionen bearbeitet, Leipzig: Deutsche Morgenländische Gesellschaft, 1932 (Kleinere Sanskrit-Texte IV; repr. Wiesbaden: Franz Steiner, 1979), pp. 58–113 (Śakrapraśnasūtra).</note>
+          <idno type="dharmanexus">SA_K10_sf241_sc</idno>
+          <ref target="https://dharmamitra.org/db/sa/SA_K10_sf241_sc/text">https://dharmamitra.org/db/sa/SA_K10_sf241_sc/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-12">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_K10_sf241_sc:0"/>Śakrapraśnasūtra
+<lb n="SA_K10_sf241_sc:1"/>… magadheṣu viharati pūrvavad yāvac chailaguhāyām / ehy enaṁ gatvā paryupāsiṣyāmahe /
+<lb n="SA_K10_sf241_sc:2"/>paramaṁ bhadraṁ te kauśika / iti paṁcaśikho gandharvaputraḥ śakrasya devendrasya
+<lb n="SA_K10_sf241_sc:3"/>pratiśrutya vaiḍūryadaṇḍāṁ vīṇām aṁsenādāya śakrasya devendrasya paricaryām upaga
+<lb n="SA_K10_sf241_sc:4"/>… aśauṣur anye ’pi devās trayastriṁśāḥ / śakro devendraḥ paṁcaśikhaś ca gandharvaputra
+<lb n="SA_K10_sf241_sc:5"/>udyuktau bhagavato ’ntikenopadarśanāya bhagavantaṁ paryupāsanāyai / tatas te py udyuktā
+<lb n="SA_K10_sf241_sc:6"/>bhagavato ’ntikenopadarśanāya bhagavantaṁ paryupāsanāyai /
+<lb n="SA_K10_sf241_sc:7"/>atha śakro devendraḥ paṁcaśikhaś ca gandharvaputro … … tadyathā balavān puruṣaḥ saṁmiñjitaṁ
+<lb n="SA_K10_sf241_sc:8"/>vā bāhuṁ prasārayet prasāritaṁ vā saṁmiñjayed evam eva śakro devendraḥ paṁcaśīkhaś
+<lb n="SA_K10_sf241_sc:9"/>ca gandharvaputraḥ … devās trayastriṁśā deveṣu trayastriṁśeṣv antarhitā… vaidekadasya
+<lb n="SA_K10_sf241_sc:10"/>parvatasya nātidūre /
+<lb n="SA_K10_sf241_sc:11"/>tena khalu samayena vaidehaka … atīvāvabhāsajāta ivāgnyā … khalu vaidehakasya parvatasya / dā … ādahyate bata vaidehakaḥ parvataḥ … parvataḥ
+<lb n="SA_K10_sf241_sc:12"/>/ bata hi vaidehaka …
+<lb n="SA_K10_sf241_sc:13"/>… śakro devendraḥ paṁcaśikhaṁ gandharvaputraṁ … rūpāṇi tāni tāta paṁcaśikha sa bhagavān
+<lb n="SA_K10_sf241_sc:14"/>araṇyavanapra … vigatajanapadaka … ḥsevitāni pratisaṁlayanasārūpyāṇi / sacet tarhi
+<lb n="SA_K10_sf241_sc:15"/>mahāśakyamahāśaky … r na sukaram upasaṁkrāntuṁ yathāpi tat pūrvam apratisaṁveditaṁ /
+<lb n="SA_K10_sf241_sc:16"/>sacet tvaṁ tāta paṁcaśikha … bhagavato darśanāyopasaṁkrāntuṁ
+<lb n="SA_K10_sf241_sc:17"/>paramaṁ bhadraṁ tava kauśika / iti paṁcaśikho …
+<lb n="SA_K10_sf241_sc:18"/>… nātyāsanne bhāṣitasya ca śabdaṁ śroṣyate / iti viditvā
+<lb n="SA_K10_sf241_sc:19"/>vaiḍūryadaṇḍāṁ vīṇāṁ …
+<lb n="SA_K10_sf241_sc:20"/>… arhadupasaṁhitāṁ gāthāṁ babhāṣe /
+<lb n="SA_K10_sf241_sc:21"/>vande te pitaraṁ bhadre
+<lb n="SA_K10_sf241_sc:22"/>tumburaṁ sūryavarcase / … … //
+<lb n="SA_K10_sf241_sc:23"/>sakyaputto va jhānena
+<lb n="SA_K10_sf241_sc:24"/>ekodi nipako sato /
+<lb n="SA_K10_sf241_sc:25"/>amataṁmuni jigiṁsāno
+<lb n="SA_K10_sf241_sc:26"/>tam ahaṁsuriyavaccase //
+<lb n="SA_K10_sf241_sc:27"/>yathā pi muni nandeyya
+<lb n="SA_K10_sf241_sc:28"/>patvāsambodhimuttamaṁ /
+<lb n="SA_K10_sf241_sc:29"/>evaṁ nandeyya kalyāṇi
+<lb n="SA_K10_sf241_sc:30"/>missībhāvaṁ gato tayā //
+<lb n="SA_K10_sf241_sc:31"/>āturass’ eva bhesajjaṁ
+<lb n="SA_K10_sf241_sc:32"/>bhojanaṁ va jighacchato /
+<lb n="SA_K10_sf241_sc:33"/>parinibbāpaya bhadde
+<lb n="SA_K10_sf241_sc:34"/>jalatam iva vārinā //
+<lb n="SA_K10_sf241_sc:35"/>sakko ca me varaṁ dajjā
+<lb n="SA_K10_sf241_sc:36"/>tāvatiṁsānam issaro /
+<lb n="SA_K10_sf241_sc:37"/>tāhaṁ bhadde vareyyāhe
+<lb n="SA_K10_sf241_sc:38"/>evaṁ kāmo dalho mama //
+<lb n="SA_K10_sf241_sc:39"/>sālaṁ va na ciraṁ phullaṁ
+<lb n="SA_K10_sf241_sc:40"/>pitaraṁ te sumedhase /
+<lb n="SA_K10_sf241_sc:41"/>vandamāno namassāmi
+<lb n="SA_K10_sf241_sc:42"/>yassa s’etādisī pajā //
+<lb n="SA_K10_sf241_sc:43"/>… mātalisaṁgrāha …
+<lb n="SA_K10_sf241_sc:44"/>samāgamaḥ
+<lb n="SA_K10_sf241_sc:45"/>sa eva me bhadanta tayā bhagi …
+<lb n="SA_K10_sf241_sc:46"/>… bhūd ant …
+<lb n="SA_K10_sf241_sc:47"/>tataḥ parato na samanusmarāmi /
+<lb n="SA_K10_sf241_sc:48"/>atha śakrasya devendrasyaitad abhavat / … bhagavāṁ paṁcaśikhena gandharvaputreṇa pratisaṁmodati bhagavāṁ …
+<lb n="SA_K10_sf241_sc:49"/>idam avocat …
+<lb n="SA_K10_sf241_sc:50"/>asmākaṁ vacanena …
+<lb n="SA_K10_sf241_sc:51"/>… alpātaṁkatāṁ ca laghūtthānatāṁ
+<lb n="SA_K10_sf241_sc:52"/>para maṁ bhadraṁ tava kauśika / iti paṁcaśikho gandharvaputraḥ śakrasya devendrasya
+<lb n="SA_K10_sf241_sc:53"/>pratiśrutya yena bhagavāṁs tenopajāma / upetya bhagavatpādau śirasā vanditvaikānte
+<lb n="SA_K10_sf241_sc:54"/>’sthād ekānte sthit … … …
+<lb n="SA_K10_sf241_sc:55"/>… traiva virāga …
+<lb n="SA_K10_sf241_sc:56"/>kāmeṣu vādīnavam …//
+<lb n="SA_K10_sf241_sc:57"/>…nāni
+<lb n="SA_K10_sf241_sc:58"/>mārasya yogāṁ duratikramāṁś ca /
+<lb n="SA_K10_sf241_sc:59"/>ārya …
+<lb n="SA_K10_sf241_sc:60"/>… trataudevakāyān //
+<lb n="SA_K10_sf241_sc:61"/>sendrā devāś ca sapra …
+<lb n="SA_K10_sf241_sc:62"/>… sabhāyām /
+<lb n="SA_K10_sf241_sc:63"/>tau prekṣamāṇau sama … … //
+<lb n="SA_K10_sf241_sc:64"/>tau prelṣya saṁvegam agāc ca śakro
+<lb n="SA_K10_sf241_sc:65"/>devādhipo …/
+<lb n="SA_K10_sf241_sc:66"/>… kāyopapannau
+<lb n="SA_K10_sf241_sc:67"/>trayastriṁśadevam atikramete // …
+<lb n="SA_K10_sf241_sc:68"/>…gopako vāsavaṁ pratyabhāṣāt /
+<lb n="SA_K10_sf241_sc:69"/>buddho jin …
+<lb n="SA_K10_sf241_sc:70"/>… kāma āhuḥ //
+<lb n="SA_K10_sf241_sc:71"/>putrās tasyaite smṛti … … /
+<lb n="SA_K10_sf241_sc:72"/>… teṣāṁ … …
+<lb n="SA_K10_sf241_sc:73"/>moham anyat / yasmān nānā …
+<lb n="SA_K10_sf241_sc:74"/>…dhātu … lokaś ca / khalu tasmāt satvā yam eva dhātuṁ saṁjānaṁti tam eva dhātuṁ sthāmaśaḥ parāmṛśyābhiniviśyānuvyavaharanti / idam eva satyaṁ
+<lb n="SA_K10_sf241_sc:75"/>moham anyat /
+<lb n="SA_K10_sf241_sc:76"/>evam etan māriṣa / evam etan māriṣa / na haiva sarvasatvā ekakāmā ekacchandāḥ pūrvavad yāvad
+<lb n="SA_K10_sf241_sc:77"/>idam eva satyaṁ moham anyat /
+<lb n="SA_K10_sf241_sc:78"/>imañ ca me bhagavato ’ntikād
+<lb n="SA_K10_sf241_sc:79"/>artham ājñāya
+<lb n="SA_K10_sf241_sc:80"/>pūrvavad yāvad …m
+<lb n="SA_K10_sf241_sc:81"/>iha … vāṁ /
+<lb n="SA_K10_sf241_sc:82"/>kiṁ nu māriṣa sarve te śramaṇabrāmaṇā atyantamoṣṭhā atyantavimalā atyantabrahmacaryaparyavasānāḥ /
+<lb n="SA_K10_sf241_sc:83"/>na haiva kauśika / sarve śramaṇabrāhmaṇā atyantaniṣṭhā atyantavimalā atyantabrahmacaryaparyavasānāḥ /
+<lb n="SA_K10_sf241_sc:84"/>kasmān na kauśika sarve śramaṇabrāhmaṇā atyantaniṣṭhā atyantavimalā atyantabrahmacaryaparyavasānāḥ /
+<lb n="SA_K10_sf241_sc:85"/>api tu ye kecic chramaṇā vā brāhmaṇā vātyanta … tṛṣṇāsaṁkṣayavimuktau sa … …
+<lb n="SA_K10_sf241_sc:86"/>… … lokeṣu
+<lb n="SA_K10_sf241_sc:87"/>nāsti te pratipudgalaḥ //
+<lb n="SA_K10_sf241_sc:88"/>taṁ tvāṁ vande mahāvīra
+<lb n="SA_K10_sf241_sc:89"/>vande tvāṁ puruṣottama /
+<lb n="SA_K10_sf241_sc:90"/>tṛṣṇāśalyasya hantāraṁ
+<lb n="SA_K10_sf241_sc:91"/>buddham ādityabāndhavam //
+<lb n="SA_K10_sf241_sc:92"/>abhijānāsitvāṁ kauśika / itaḥ pūrvam evam aparo ’ pi vivekapratilābhaḥ saumanasyapratilābhaḥ saṁjanitum /
+<lb n="SA_K10_sf241_sc:93"/>abhijānāmi bhadanta /
+<lb n="SA_K10_sf241_sc:94"/>eko bhūtapūrvaṁ devāsura … devā jayaṁty asurāḥ parājayaṁte ta …
+<lb n="SA_K10_sf241_sc:95"/>… bhadanta etad abhavad …
+<lb n="SA_K10_sf241_sc:96"/>… vāyaṁ yad vā divyam ojo yad vāsuram ojastad ubha … samagraṁ … tvā paribhokṣyāmaḥ /
+<lb n="SA_K10_sf241_sc:97"/>sa khalu me saumanasyapratilābho vivekapratilābhaḥ kalahaparyavasāno bhaṇḍanaparyavasāno vigrahaparyavasāno vivādaparyavasānaḥ /
+<lb n="SA_K10_sf241_sc:98"/>ayaṁ me saumanasyapratilābho vivekapratilābho ’kalahaparyavasāno ’bhaṇḍanaparyavasāno ’vigrahaparyavasāno ’vivādaparyavasāno yo me bhagavato
+<lb n="SA_K10_sf241_sc:99"/>’ntike /
+<lb n="SA_K10_sf241_sc:100"/>kutas tv ayaṁ prasādaḥ /
+<lb n="SA_K10_sf241_sc:101"/>tasya mama bhadanta etad abhavad ito ’haṁ cyutvā manuṣyāṇāṁ svabhāvatāyām upapatsyāmi
+<lb n="SA_K10_sf241_sc:102"/>tatra yāni tāni kulāny āḍhyāni mahādhanāni mahābhogāni prabhūtavittopakaraṇāni
+<lb n="SA_K10_sf241_sc:103"/>prabhūtasvāpadeyāni prabhūtadhanadhānyakośakoṣṭhāgārasaṁnicayāni prabhūtamitrāmātyajñātisālohitāni prabhūtadāsīdāsakarmakarapauruṣeyāṇi
+<lb n="SA_K10_sf241_sc:104"/>tadrūpāṇi kulāni svabhāvatāyām upapadya vṛddhim anvayād indriyāṇāṁ paripākāt keśaśmaśrūṇy avatārya kāṣyāṇi vastrāṇy ācchādya samyag eva śraddhayāgārād
+<lb n="SA_K10_sf241_sc:105"/>anagārikām pravrajiṣyāmi /
+<lb n="SA_K10_sf241_sc:106"/>nyāyena me bhadanta carataḥ
+<lb n="SA_K10_sf241_sc:107"/>saced ājñā bhaviṣyati /
+<lb n="SA_K10_sf241_sc:108"/>ājñātāro bhaviṣyāma
+<lb n="SA_K10_sf241_sc:109"/>eṣa evānto duḥkhasya //
+<lb n="SA_K10_sf241_sc:110"/>nayāyena me carataḥ
+<lb n="SA_K10_sf241_sc:111"/>saced ājñā na bhaviṣyati
+<lb n="SA_K10_sf241_sc:112"/>… ye te devā rūpino manomayā avikalā ahīnendryāḥ sarvāṅgapratyaṅgapūrṇāḥ śubhavarṇasthāyinaḥ
+<lb n="SA_K10_sf241_sc:113"/>prītbhakṣāḥ prītyahārakāḥ svayaṁprabhā vaihāyasagamā dirghāyuṣo dirgh … upapattir bhaviṣyati /
+<lb n="SA_K10_sf241_sc:114"/>cyuto ’haṁ divyakāyebhyaḥ … …
+<lb n="SA_K10_sf241_sc:115"/>… garbham eṣyāmi
+<lb n="SA_K10_sf241_sc:116"/>… raṁsyate manaḥ //
+<lb n="SA_K10_sf241_sc:117"/>atū …
+<lb n="SA_K10_sf241_sc:118"/>ṛju …
+<lb n="SA_K10_sf241_sc:119"/>bhikṣācaryācari …
+<lb n="SA_K10_sf241_sc:120"/>brahmacaryaparāyaṇaḥ //
+<lb n="SA_K10_sf241_sc:121"/>nyāyena carato me
+<lb n="SA_K10_sf241_sc:122"/>saced ājñā bhaviṣyati /
+<lb n="SA_K10_sf241_sc:123"/>ājñātāro bhaviṣyāma
+<lb n="SA_K10_sf241_sc:124"/>eṣa evānto duḥkhasya //
+<lb n="SA_K10_sf241_sc:125"/>nyāyena me bhadanta carataḥ
+<lb n="SA_K10_sf241_sc:126"/>saced ājñā na bhaviṣyati
+<lb n="SA_K10_sf241_sc:127"/>ye te devā bramāyuṣyā
+<lb n="SA_K10_sf241_sc:128"/>ayaniṣṭhā ime śrutāḥ /
+<lb n="SA_K10_sf241_sc:129"/>antime hīyamā …
+<lb n="SA_K10_sf241_sc:130"/>sa nivāso bhaviṣyati //
+<lb n="SA_K10_sf241_sc:131"/>srotāpanno ’smi bhagavaṁ / srotāpanno ’smi tathāgata /
+<lb n="SA_K10_sf241_sc:132"/>āgatam asa … sakṛdāgāmināyā … ā …kauśika ki … //
+<lb n="SA_K10_sf241_sc:133"/>va au … taṁ pra … sa … ulamadhyāgā…r …
+<lb n="SA_K10_sf241_sc:134"/>śakraḥ pratyabhāṣat /
+<lb n="SA_K10_sf241_sc:135"/>yatra bhagavāṁ … ṣ … nno
+<lb n="SA_K10_sf241_sc:136"/>nānyatra na … …
+<lb n="SA_K10_sf241_sc:137"/>…tra tādṛśaṁ purā //
+<lb n="SA_K10_sf241_sc:138"/>i … niṣaṇṇena
+<lb n="SA_K10_sf241_sc:139"/>devabhūtena māriṣa /
+<lb n="SA_K10_sf241_sc:140"/>punar āyur mayā labdham
+<lb n="SA_K10_sf241_sc:141"/>evaṁ śaraṇa buddhi … //
+<lb n="SA_K10_sf241_sc:142"/>asmiṁ khalu dharmaparyāye bhāṣyamāṇe śakrasya devendrasya virajo vigatamalaṁ dharmeṣu dharmacakṣur utpannam aśītīnāṁ ca devatāsahasrāṇām /
+<lb n="SA_K10_sf241_sc:143"/>atha śakro devendro
+<lb n="SA_K10_sf241_sc:144"/>dṛṣṭadharmaḥ prāptadharmo viditadharmaḥ paryavagāḍhadharmas tīrṇakāṁkṣas tīrṇavicikitso ’parapratyayo ’nanyaneyaḥ śāstuḥ śāsane dharmeṣu vaiśāradyaprāptaḥ
+<lb n="SA_K10_sf241_sc:145"/>uttāyāsanād ekāṁsam uttarāsaṁgaṁ kṛtvā yena bhagavāṁs tenāṁjaliṁ praṇamya bhagavantam idam avocat /
+<lb n="SA_K10_sf241_sc:146"/>abhikrānto ’haṁ bhadanta abhikrānta eṣo ’haṁ bhagavantaṁ śaraṇaṁ gacchāmi dharmaṁ
+<lb n="SA_K10_sf241_sc:147"/>bhikṣusaṁghaṁ ca / upāsakaṁ ca mān dhārayādyāgreṇa yāvajjīvaṁ prāṇopetaṁ śaraṇagatam abhiprasannam /
+<lb n="SA_K10_sf241_sc:148"/>atha śakro devendraḥ paṁcaśikhaṁ gandharvaputram āmantrayati / upakaras tvaṁ tāta paṁcaśikhāsmākam upakaraś ca yo hi nāma tvaṁ bhagavantam //
+    </body>
+  </text>
+</TEI>

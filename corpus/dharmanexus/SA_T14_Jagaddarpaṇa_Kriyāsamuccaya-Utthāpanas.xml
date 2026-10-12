@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kriyāsamuccaya (utthāpana sections)</title>
+        <author>Jagaddarpaṇa</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Author: Jagaddarpaṇa
+Collection / category: BuddhistNon-Scriptures / T14
+Source: OCR / Dharmamitra
+Edition / witness: Kaiser Library no. 110
+Tibetan: D 3305
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Diplomatic transcription/edition based on Kaiser Library (Kathmandu) MS no. 110 (with foliation markers \C309\recto, \C310\recto) collated with the Tibetan translation in the Derge Tanjur (D 3305, fols. 242b6–243b5).</note>
+          <idno type="dharmanexus">SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Utthāpanas</idno>
+          <ref target="https://dharmamitra.org/db/sa/SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Utthāpanas/text">https://dharmamitra.org/db/sa/SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Utthāpanas/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-12">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Utthāpanas:0"/>oṃ sūkṣme 2 śānte 2 dānte 2 asamārope nirālambe nirākule nirvāṇe yaśovati mahāteje sarvabuddhādhiṣṭhānādhiṣṭhite svāhā || iti vairocanadhāraṇīmantreṇa caityādau yaṣṭyutthāpanam ||   ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Utthāpanas:1"/>% aoM sukSHme sukSHme sh&#x27;ante sh&#x27;ante d&#x27;ante d&#x27;ante aa pa ma ro pe ni ra lambhe | ni r&#x27;a ku le | ni rba Ne | ya sho ba ti | ma h&#x27;a te dza sarba buddha {242b6} aa dhiSHSHa na aa dhi SHthi te sv&#x27;a h&#x27;a | zhes pa ni rnam par snang mdzad kyi gzungs te sngags &#x27;dis mchod rten la sogs pa rnams la srog shing gzugs par bya&#x27;o ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Utthāpanas:2"/>%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Utthāpanas:3"/>prāsādāṣṭadaśāṃśo vyāyāmo dvāramadhyabhāgasya |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Utthāpanas:4"/>tanmānā pallavitā dviguṇadvārocchrayaṃ śastam ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Utthāpanas:5"/>% khang bzangs rnams kyi brgyad dang bcu&#x27;i cha shas kyi zheng ni sgo&#x27;i dbus kyi cha ste de&#x27;i tshad kyis yal &#x27;dab dang | de&#x27;i nyis &#x27;gyur ni sgo&#x27;i {242b7} dpangs su bstan cing
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Utthāpanas:6"/>niryūhabāhudehalir āsāṃ tatpañcam uddiṣṭam |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Utthāpanas:7"/>suśliṣṭasandhibandhanaratnābjavibhāgarūpasaṃsthānam ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Utthāpanas:8"/>% sgo khyud dang dpung pa dang re bzhi rnams ni de&#x27;i cha lnga par bshad do || legs par &#x27;byor zhing mtshams rnams &#x27;brel ba | rin po che dang chu skyes rnam par phye ba&#x27;i gzugs yang dag par gnas pa&#x27;o ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Utthāpanas:9"/>vimalasamādhyādisthaṃ hūṃkārasamutthitaṃ mahādvāram |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Utthāpanas:10"/>śraddhendriyādiśuddhyā dhyānāgrasutoraṇopetam ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Utthāpanas:11"/>% dri ma dang bral ba&#x27;i bsam gtan la gnas pas h&#x27;uM yig la {243a1} || yang dag par bskyed pa ni sgro chen po ste dad pa&#x27;i dbang po la sogs pa dang | dag pa&#x27;i bsam gtan ni mdzes pa&#x27;i rta babs dang ldan pa&#x27;o ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Utthāpanas:12"/>aṣṭottaraśatavāraṃ pratyekaṃ saṃjapec ca dvārāṇi |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Utthāpanas:13"/>pūrvasyāṃ diśi saṃsthānaṃ yamadviṭmantreṇa pūrvavan mantrī ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Utthāpanas:14"/>% metre?
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Utthāpanas:15"/>% sngags pas snga ma bzhin du sgo rnams la so sor lan brgya dang rtsa brgyad kyis yang dag par bzlas pa ste | shar la sogs pa&#x27;i phyogs {243a2} su yang dag par gnas pa rnams gshin rje gshed kyi sngags dang |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Utthāpanas:16"/>dakṣiṇadiksaṃsthānaṃ prajñāntakavīrarājamantreṇa |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Utthāpanas:17"/>paścimadigbhāgasthānaṃ padmāntakahṛdayamantreṇa ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Utthāpanas:18"/>% lho&#x27;i phyogs su yang dag par gnas pa ni dpa&#x27; bo&#x27;i rgyal po shes rab mthar byed kyi sngags dang | nub kyi phyogs kyi char gnas pa ni padma mthar byed kyi snying po&#x27;i sngags dang |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Utthāpanas:19"/>uttaradigbhāgasthānaṃ [\C309\recto] vighnāntakavīrarājamantreṇa |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Utthāpanas:20"/>suvibhāgamānatotthitadvārāṇi supūjayed vidhinā ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Utthāpanas:21"/>% byang gi phyogs kyi char gnas pa ni dpa&#x27; {243a3} po&#x27;i rgyal po bgegs mthar byed kyi sngags kyis so || legs par rnam par phye ba&#x27;i tshad du bslang ba&#x27;i sgo rnams chog bzhin du legs par mchod par bya&#x27;o
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Utthāpanas:22"/>iti dvārotthāpanavidhiḥ ||   ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Utthāpanas:23"/>% zhes pa sgo glegs bslang ba&#x27;i cho ga&#x27;o || ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Utthāpanas:24"/>%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Utthāpanas:25"/>ratnaśiloparisaṃsthāḥ pariṇāhārohamānasaṃpannāḥ |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Utthāpanas:26"/>caturasrādiguṇāḍhyā dṛḍhasārāvaṅkasaṃsthānāḥ ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Utthāpanas:27"/>% rin chen dang bcas rdo rje&#x27;i steng du gnas || zlum dang srid kyi tshad rnams yang {243a4} dag ldan || gru bzhi la sogs yon tan mang ldan zhing || snying po brtan cing mi &#x27;khyog legs gnas pa&#x27;i ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Utthāpanas:28"/>stambhāḥ sarvasamāgrāḥ siṃhādisamādhivedikāsaṃsthāḥ |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Utthāpanas:29"/>śūnyavimokṣaviśuddhyā hūṃkārasamutthitā vajrāḥ ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Utthāpanas:30"/>% ka ba thams cad rtse mnyam seng ge la || sogs pa&#x27;i ting &#x27;dzin stegs bur yang dag gnas || stong nyid rnam par thar pa rnam dag pas | h&#x27;uM gi yi ge las {243a5} skyes rdo rje ste ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Utthāpanas:31"/>dikṣu vidikṣu susaṃsthāḥ svasvadikkrodharājahṛnmantraiḥ |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Utthāpanas:32"/>aṣṭottaraśatavāraṃ pratyekaṃ saṃjapet kramaśaḥ ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Utthāpanas:33"/>% phyogs dang phyogs bral rnams su legs par gzugs || rang rang phyogs kyi khro rgyal snying po&#x27;i sngags || lan ni brgya dang rtsa brgyad rnams su yang || so sor rim pas yang dag bzlas par bya ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Utthāpanas:34"/>stambhotthāpanavidhiḥ ||   ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Utthāpanas:35"/>% zhes pa ni ka ba gzugs pa&#x27;i cho ga&#x27;o || ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Utthāpanas:36"/>%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Utthāpanas:37"/>vīhārādiśirogatam abhidhātuṃ yuktam āśu dārūṇām |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Utthāpanas:38"/>amlānaparṇasamaye mṛgaśiratārādike śastam ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Utthāpanas:39"/>sauvarṇatārakamale kurukullādhāraṇīsamāyukte ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Utthāpanas:40"/>% gtsug lag khang sogs {243a6} pa yi steng gnas par || myur ldan pas ni shing rnams mngon par gzung || &#x27;dab ma ma rnying pa yi dus dag tu || skar ma mgo la sogs pa bsngags pa yin || gser dang dngul rnams dag gis padmar ni || rig byed ma yi gzugs ni mnyam par ldan ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Utthāpanas:41"/>namo ratnatrayāya namo buddhabodhisattvebhyo namo &#x27;ṣṭamahāryapudgalāya namaḥ saptabhyo buddhakoṭibhyaḥ | tadyathā oṃ hrīḥ hrīḥ hrīḥ sarvanāgānām anantakulānāṃ vāsukikulānāṃ takṣakaku[\C309\verso]lānāṃ śaṅkhapālakulānāṃ karkoṭakakulānāṃ padmakulānāṃ mahāpadmakulānāṃ balāhakakulānāṃ puṇḍarīkakulānāṃ ghanakulānāṃ meghakulānāṃ jaladharakulānāṃ
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Utthāpanas:42"/>jīmūtakulānāṃ saṃvartakulānām airāvatakulānāṃ kumudakulānāṃ kahmārakulānāṃ saugandhikulānāṃ phana phana śareṇa bandha bandha cāpena tāḍaya tāḍaya utpalena bhītānām abhayaṃ dehi pralayakāla iva jaladharam avatāraya varṣantāṃ nāgān vaśīkuru phuḥ kuru 2 phuḥ kārāpaya 2 phuḥ phuḥ oṃ kurukulle hrīḥ hūṃ phaṭ svāhā ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Utthāpanas:43"/>% na mo ratna tra y&#x27;a {243a7} ya | na mo buddha bo dhi satve bhya:na mo nySHTa ma h&#x27;a a&#x27;arya pungga l&#x27;a ya | na ma:sapta bhyo pungghako Ti bhya:ta dya th&#x27;a | aoM hr&#x27;i:hr&#x27;i:hr&#x27;i:sarba n&#x27;a ga n&#x27;aM | aa nanta ku l&#x27;a n&#x27;aM | ba su ki ku l&#x27;a n&#x27;aM | takSHa ka ku l&#x27;a n&#x27;aM | shangkha ka ku l&#x27;a n&#x27;aM | shangkha p&#x27;a la ku l&#x27;a n&#x27;aM | karko Ta ku l&#x27;a n&#x27;aM |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Utthāpanas:44"/>padma ku l&#x27;a n&#x27;aM | ma h&#x27;a padma ku l&#x27;a n&#x27;aM | ba la h&#x27;a ku l&#x27;a n&#x27;aM | {243b1} puNDa r&#x27;i ka ku l&#x27;a n&#x27;aM | gha na ku l&#x27;a n&#x27;aM | me gha ku l&#x27;a n&#x27;aM | dza la dha r&#x27;a ku l&#x27;a n&#x27;aM | dzi m&#x27;u ta ku l&#x27;a n&#x27;aM | saM barta ku l&#x27;a n&#x27;aM | ae ra ba ku l&#x27;a n&#x27;aM | ku mu da ku l&#x27;a n&#x27;aM | kahma ha ra ku l&#x27;a n&#x27;aM | soo gandhi ka ku l&#x27;a n&#x27;aM | ha na ha ne sha re Na |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Utthāpanas:45"/>bandha bandha ts&#x27;a pe na | h&#x27;a Ta ya t&#x27;a Ta ya | au pa le na | bhi t&#x27;a n&#x27;aM | aa pa yaM de hi pra l&#x27;a ya | {243b2} k&#x27;a la ai ba dza la dha raM aa be ta ra ya barSHa na n&#x27;a g&#x27;a na ba shi ku ru ku ru pha:k&#x27;a r&#x27;a pa ya k&#x27;a r&#x27;a pa ya phu:phu: aoM ku ru kulle h&#x27;uM phaT sv&#x27;a h&#x27;a |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Utthāpanas:46"/>saṃrabhita(?)sudṛḍhapaṭalaṃ vitānabahugaṇamaṇḍale ravyuṃ (!?) |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Utthāpanas:47"/>vedīmānatriguṇaṃ pralambamānaṃ mahāpaṭalam ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Utthāpanas:48"/>% shin tu brtan pa&#x27;i bya &#x27;dab rgyan dang bcas || bla re mang po&#x27;i tshogs kyis dkyil &#x27;khor bkram || stegs bu&#x27;i tshad kyi nyis &#x27;gyur rab &#x27;phyang ba || tshad dang {243b3} ldan pa bya &#x27;dab chen po&#x27;o ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Utthāpanas:49"/>aṣṭottaraśatavāraṃ śrīmaduṣṇīṣacakravartimantreṇa |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Utthāpanas:50"/>saṃjapya pūjayitvā balihomavidhānato mahādhīmān ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Utthāpanas:51"/>kalaśāmbunābhiṣiktaṃ chattrāmbarapallavair alaṃkuryāt ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Utthāpanas:52"/>% lan ni brgya dang rtsa brgyad rnams su yang || dpal ldan gtsug tor &#x27;khor los sgyur ba&#x27;i sngags || yang dag bzlas shing mchod bya gtor ma dang || sbyin sreg cho ga rgya chen ldan pas bya | bum pa&#x27;i chu yis mngon par dbang bskur zhing || gdugs dang gos {243b4} dang &#x27;dab mas brgyan par bya ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Utthāpanas:53"/>iti mantraḥ || namaḥ samantabuddhebhyaḥ oṃ pratyaṅgiroṣṇīṣacakravarti sarvaya[\C310\recto]ntramantraṃ bandha indrabhuvanaṃ bandha mahābhuvanaṃ bandha mahāvṛṣṭiṃ bandha vṛkṣadevatāṃ bandha dhāraya ihavāsināṃ yena kenacit kṛdbhayādikaṃ cchinda 2 bhinda 2 ciri 2 śiri 2 miri 2 hūṃ phaṭ svāhā ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Utthāpanas:54"/>% kṛdbhayādikaṃ !?
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Utthāpanas:55"/>% zhes pa&#x27;i sngags ni | na ma:sa manta buddhe bhya:aoM pra hyaM gi ra auSHN&#x27;i SHa tsa kra barti sarba yantra bandha | aindra bhu ba naM bandha | ma h&#x27;a bhu ba naM bandha | ma h&#x27;a brISHTi bandha | brIkSHa de ba t&#x27;aM bandha | r&#x27;a ya ai h&#x27;a b&#x27;a si n&#x27;aM ye na ke na tsi ta krI ta bha ya a&#x27;a dhi kaM | tshindha tshindha | bindha bindhya | tsi ri tsi ri |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Utthāpanas:56"/>gi ri gi ri | mi ri {243b5} mi ri h&#x27;uM h&#x27;uM phaT phaT sv&#x27;a h&#x27;a |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Utthāpanas:57"/>vīhārādau śirodārūtthāpanavidhiḥ ||   ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Utthāpanas:58"/>% gtsug lag khang la sogs pa&#x27;i steng du shing dgod pa&#x27;i cho ga&#x27;o || ||
+    </body>
+  </text>
+</TEI>

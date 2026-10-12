@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Tattvārthā Abhidharmakośaṭīkā (on Abhidharmakośabhāṣya 4.34–4.37)</title>
+        <author>Sthiramati</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Author: Sthiramati
+Collection / category: BuddhistNon-Scriptures / T07 (Abhidharma)
+Source: Aggregated by Sebastian Nehrdich (Dharmamitra) from the published critical editions of Kazuo Kano and collaborators (2020–2022). Only Sthiramati&#x27;s constituted Sanskrit is reproduced here.
+Editions used (one per Abhidharmakośa verse): - *AK 4.34* — Kazuo Kano and Jowita Kramer, &quot;The Fourth Chapter of the Tattvārthā Abhidharmakośaṭīkā: On Forbidding Intoxicating Liquor,&quot; in *Sanskrit Manuscripts from China III* (Proceedings of a panel at the 2016 Beijing International Seminar on Tibetan Studies), Beijing: China Tibetology Publishing House, 2020 (critical edition and diplomatic transcription at pp. 122–128).
+Textual basis: Constituted Sanskrit reading text of Sthiramati&#x27;s Tattvārthā commentary on Abhidharmakośabhāṣya 4.34–4.37 (within the fourth chapter, Karmanirdeśa), covering folios 1r1–2r6 of the Sanskrit manuscript from Tibet (Ms. &quot;A,&quot; copies of which are kept at the China Tibetology Research Center, Beijing). The text was aggregated across the four editions above and ordered by Abhidharmakośa verse (4.34 → 4.35 → 4.36ab → 4.36cd → 4.37). Where a verse was edited in more than one paper (4.35 and 4.36ab), the later Japanese editions&#x27; corrected Sanskrit was preferred. This etext contains only Sthiramati&#x27;s constituted Sanskrit: the Abhidharmakośa kārikā/bhāṣya, Saṃghabhadra&#x27;s *Nyāyānusāra* parallels, the Tibetan translation, the critical apparatus (variant readings), and the Japanese/English translations given in the source papers are not included. Bold AKBh lemmata are not separately marked. Segments are split at the daṇḍa; the manuscript folio side (1r/1v/2r) is recorded in the folio field.
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Aggregated from four published critical editions by Kazuo Kano and collaborators based on the Sanskrit manuscript preserved in Tibet: (1) AK 4.34 in Kano &amp; Kramer, &#x27;The Fourth Chapter of the Tattvārthā Abhidharmakośaṭīkā: On Forbidding Intoxicating Liquor&#x27;, in Sanskrit Manuscripts in China III, ed. B. Kellner et al., Beijing: China Tibetology Publishing House, 2020, pp. 107–136; (2) AK 4.35 in Kano et al., Taihō zasshi 2 (2021): 63–98; (3) AK 4.36ab in Kano et al., Taihō zasshi 3 (2022): 43–95; (4) AK 4.36cd–4.37 in Kano &amp; Kramer, China Tibetology 36.1 (2021): 81–99.</note>
+          <idno type="dharmanexus">SA_T07_sthtattva4</idno>
+          <ref target="https://dharmamitra.org/db/sa/SA_T07_sthtattva4/text">https://dharmamitra.org/db/sa/SA_T07_sthtattva4/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-12">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_T07_sthtattva4:0"/>punar aviśeṣeṇa madyapānasya duścaritatvaprasādhanārtham āha – prakṛtisāvadyaṃ madyam iti vinayadharāḥ |
+<lb n="SA_T07_sthtattva4:1"/>yadi hi prakṛtisāvadyaṃ na syāt, madyociteṣu śākyeṣu glāneṣv abhyanujñātaṃ syāt, na cābhyanujñātam |
+<lb n="SA_T07_sthtattva4:2"/>tasmāt prakṛtisāvadyaṃ prāṇivadhādivad iti |
+<lb n="SA_T07_sthtattva4:3"/>yasyāryā janmāntareṣv akaraṇasaṃvaraṃ pratilabhante tat prakṛtisāvadyam, tadyathā prāṇātipātādattādānādaya iti |
+<lb n="SA_T07_sthtattva4:4"/>kāyaduścaritavacanāc ca prakṛtisāvadyam, tadanyakāyaduścaritavat |
+<lb n="SA_T07_sthtattva4:5"/>caturvidhaṃ hi kāyaduścaritam uktaṃ prāṇātipāto ’dattādānaṃ kāmamithyācāro madyapānam iti |
+<lb n="SA_T07_sthtattva4:6"/>utsargavihitasyāpīti sāmānyavihitasya |
+<lb n="SA_T07_sthtattva4:7"/>kathaṃ bhadanta glāna upasthātavyaḥ |
+<lb n="SA_T07_sthtattva4:8"/>sthāpayitvā prakṛtisāvadyam ity ayam utsargaḥ |
+<lb n="SA_T07_sthtattva4:9"/>śākyeṣu punar glāneṣv apavādaḥ prasaṅgaparihārārtham iti sakṛtpītam api madyaṃ vyasanībhavati |
+<lb n="SA_T07_sthtattva4:10"/>uktaṃ hi bhagavatā – trīṇi sthānāni pratisevato nāsti tṛptiḥ, madyam abrahmacaryaṃ styānamiddhaṃ ceti |
+<lb n="SA_T07_sthtattva4:11"/>santi hi kecit pratisaṃkhyānabahulā ye pratikārārtham amadanīyām eva mātrāṃ pibanti, teṣāṃ kimarthaṃ nānujñātam ity ata āha – madanīyamātrāniyamād iti |
+<lb n="SA_T07_sthtattva4:12"/>dravyakālaprakṛtiśarīrāvasthāpekṣā hi saiva mātrā madanīyā cāmadanīyā ca bhavatīti |
+<lb n="SA_T07_sthtattva4:13"/>pūrvavākyavyākhyānānusaṃdhinā cedam uktaṃ – madanīyamātrāniyamād iti |
+<lb n="SA_T07_sthtattva4:14"/>ata eva kuśāgrapānapratiṣedha iti prasaṃgaparihārārtham |
+<lb n="SA_T07_sthtattva4:15"/>katham |
+<lb n="SA_T07_sthtattva4:16"/>prajñaptisāvadyam ity avetya, alpadoṣatvāt taratamābhivṛddhikrameṇāsya viśeṣaṇād yāvanmadanīyamātrāpānam api syād iti prasaṅgaparihārārthaṃ kuśāgrapratiṣedhaḥ |
+<lb n="SA_T07_sthtattva4:17"/>eṣāṃ hi prasaṅga eva vicchidyate |
+<lb n="SA_T07_sthtattva4:18"/>āryair anadhyācaraṇaṃ hrīmattvād iti pañca śaikṣabalāni sūtre paṭhyante – śraddhābalaṃ vīryabalaṃ hrībalam apatrāpyabalaṃ prajñābalaṃ ca |
+<lb n="SA_T07_sthtattva4:19"/>ato hrīmattvān na pibanti |
+<lb n="SA_T07_sthtattva4:20"/>hrīmadbhir na pātavyam ity atra kiṃ kāraṇam ity ata āha – tena ca smṛtināśād iti |
+<lb n="SA_T07_sthtattva4:21"/>madyaṃ hi pibataḥ kāryākāryasmṛtir naśyati |
+<lb n="SA_T07_sthtattva4:22"/>yady evam alpakaṃ yāvatyā smṛtir na naśyati, tat kimarthaṃ na pibatīty ata āha – alpakasyāpy apānam aniyamād viṣavat |
+<lb n="SA_T07_sthtattva4:23"/>yathā kālaprakṛtiśaktiyogād alpam api viṣaṃ kadācin mārayati, evaṃ madyam api madayatīti |
+<lb n="SA_T07_sthtattva4:24"/>arhadbhir anadhyācaritatvāt pratikṣepaṇasāvadyaṃ vikālabhojanādivan madyam ity ācāryasaṅghabhadraḥ |
+<lb n="SA_T07_sthtattva4:25"/>etan nānavadyam ity ājñāyānadhyācaraṇāt |
+<lb n="SA_T07_sthtattva4:26"/>duścaritavacanaṃ pramādasthānatvāt, na prakṛtisāvadyatvād ity abhiprāyaḥ |
+<lb n="SA_T07_sthtattva4:27"/>ata evātrety atra śikṣāpade – surāmaireyamadyapramādasthānaṃ prahāyeti |
+<lb n="SA_T07_sthtattva4:28"/>nānyeṣv iti prāṇātipātādiviratiṣu |
+<lb n="SA_T07_sthtattva4:29"/>agrahaṇe kāraṇam āha – prakṛtisāvadyatvād iti |
+<lb n="SA_T07_sthtattva4:30"/>atyāseviteneti vistaraḥ |
+<lb n="SA_T07_sthtattva4:31"/>uktaṃ hi sūtre – surāmaireyamadyapramādasthānenāsevitena bhāvitena bahulīkṛtena kāyasya bhedān narakeṣūpapadyata iti, ākṣepād apūrvasya, vṛttilābhād vā pūrvopacitasya maraṇāvasthāyāṃ |
+<lb n="SA_T07_sthtattva4:32"/>sarvapramādāspādatvād iti sarvasmṛtisaṃpramoṣapramādānāṃ prāṇātipātādihetubhūtānāṃ madyapānam āspadabhūtaṃ punaḥ pramādasthānam iti |
+<lb n="SA_T07_sthtattva4:33"/>kṛtyanirapekṣasyākṛtyapravaṇatā pramādaḥ |
+<lb n="SA_T07_sthtattva4:34"/>tannimittaṃ pramādasthānaṃ |
+<lb n="SA_T07_sthtattva4:35"/>madyapītas tadajīrṇe na saṃvaram ādadyāt, pramādasthānagatatvāt |
+<lb n="SA_T07_sthtattva4:36"/>yata eko labhyata iti |
+<lb n="SA_T07_sthtattva4:37"/>karmabhyo maulaprayogapṛṣṭhebhyo vastubhyaḥ sattvāsattvākhyebhyaḥ prakṛtipratikṣepaṇasāvadyebhyaś ceti praśnārthaḥ |
+<lb n="SA_T07_sthtattva4:38"/>maulaprayogapṛṣṭhebhya iti |
+<lb n="SA_T07_sthtattva4:39"/>karmapathānām ity abhisaṃbandhanīyam |
+<lb n="SA_T07_sthtattva4:40"/>akuśalānāṃ karmapathānāṃ maulaprayogapṛṣṭhebhyaḥ tatpratipakṣabhūtāḥ prātimokṣasaṃvarākhyā avijñaptaya utpadyante yathāyogam |
+<lb n="SA_T07_sthtattva4:41"/>sattvāsattvākhyebhya iti vastubhyaḥ |
+<lb n="SA_T07_sthtattva4:42"/>prakṛtipratikṣepaṇasāvadyebhyaś ceti karmabhyaḥ |
+<lb n="SA_T07_sthtattva4:43"/>etac ca pratyekam abhisaṃbadhyate |
+<lb n="SA_T07_sthtattva4:44"/>sattvāsattvākhyebhya iti |
+<lb n="SA_T07_sthtattva4:45"/>katham asattvākhyaprakṛtisāvadyam |
+<lb n="SA_T07_sthtattva4:46"/>jātarūpādyapaharaṇe, strīpratirūpair vābrahmacaryakaraṇe |
+<lb n="SA_T07_sthtattva4:47"/>kathaṃ sattvākhyapratikṣepaṇasāvadyam |
+<lb n="SA_T07_sthtattva4:48"/>sahāgāraśayyādiṣu |
+<lb n="SA_T07_sthtattva4:49"/>śeṣaṃ tu prakṛtisāvadyaṃ prāṇātipātādi sattvādhiṣṭhānam, pratikṣepaṇasāvadyaṃ tṛṇacchedādy asattvādhiṣṭhānam |
+<lb n="SA_T07_sthtattva4:50"/>tatpravṛttatvād iti |
+<lb n="SA_T07_sthtattva4:51"/>yady atītānāgatebhyo ’pi labhyeta, evaṃ sati yo ’pi sattvākhyebhyo labhyate prāṇātipātādiviratisvabhāvaḥ, sa evāsattvākhyebhyo ’pi syād iti |
+<lb n="SA_T07_sthtattva4:52"/>yady apy asattvādhiṣṭhāno ’pi prātimokṣasaṃvaro ’sti, sa tu sattvādhiṣṭhānavad vartamānebhya eva skandhadhātvāyatanebhyo labhyata iti sattvādhiṣṭhāna ity uktam, nāsattvādhiṣṭhānatvam asya pratiṣidhyate |
+<lb n="SA_T07_sthtattva4:53"/>prādhānyād vā sattvādhiṣṭhānasyetarasya ca tadaṅgatvenopāttatvāt sattvādhiṣṭhāna ity uktam |
+<lb n="SA_T07_sthtattva4:54"/>na prayogapṛṣṭhebhya iti samāhitāvasthāyām ekāntamaulatvād asamāhitāyāṃ ca saṃvarābhāvāt |
+<lb n="SA_T07_sthtattva4:55"/>kuta eva prajñaptisāvadyebhya iti |
+<lb n="SA_T07_sthtattva4:56"/>abhyupagamābhāvād ity abhiprāyaḥ |
+<lb n="SA_T07_sthtattva4:57"/>sarvakālebhyaś ceti vistaraḥ |
+<lb n="SA_T07_sthtattva4:58"/>atītānāgatayor api saṃvarayor lābhāt, tatsahabhūcittavat |
+<lb n="SA_T07_sthtattva4:59"/>ata eva catuṣkoṭikaṃ kriyata iti vistaraḥ |
+<lb n="SA_T07_sthtattva4:60"/>yataḥ prātimokṣasaṃvaro vartamānebhya eva maulavat prayogapṛṣṭhebhyo ’pi prakṛtisāvadyavat pratikṣepaṇasāvadyebhyo ’pi labhyate, dhyānānāsravasaṃvarau tu vartamānavad atītānāgatabhyo ’pi labhyete, maulebhya eva na prayogapṛṣṭhebhyo nāpi pratikṣepaṇasāvadyebhya iti |
+<lb n="SA_T07_sthtattva4:61"/>anye tu na saṃvaralābhakāle pratyutpannāḥ karmapathāḥ saṃbhavantīti pāṭhavikalpaṃ syur dharmāḥ, prātimokṣasaṃvara upalabhyante, na dhyānānāsravasaṃvare |
+<lb n="SA_T07_sthtattva4:62"/>prathamā kotiḥ, yāḥ pratyutpannāḥ prayogapṛṣṭhaviratayaḥ prajñaptisāvadyaviratayaś ca labhyante |
+<lb n="SA_T07_sthtattva4:63"/>dhyānānāsravasaṃvara evopalabhyante, na prātimokṣasaṃvare, atītānāgatebhyo maulebhyaḥ karmapathebhyo viratayaḥ |
+<lb n="SA_T07_sthtattva4:64"/>tṛtīyā pratyutpannebhyo maulebhyaḥ karmapathebhyo viratayaḥ |
+<lb n="SA_T07_sthtattva4:65"/>caturthy atītānāgatebhyaḥ sāmantakapṛṣṭhebhyo virataya iti |
+<lb n="SA_T07_sthtattva4:66"/>atra ca sarvatra— karmapathādhiṣṭhāne karmapathaśabdaṃ saṃniveśya pūrvo ’pi catuṣko na duṣṭa iti manyante |
+<lb n="SA_T07_sthtattva4:67"/>evaṃ ca kṛtvā vartamānātītānām api karmapathānāṃ saṃvaraṇaṃ yujyate |
+<lb n="SA_T07_sthtattva4:68"/>nānāgatānām eva |
+<lb n="SA_T07_sthtattva4:69"/>karmapathādhiṣṭhāne tacchabdasaṃniveśāt |
+<lb n="SA_T07_sthtattva4:70"/>anyathānāgatānām eva saṃvaraṇaṃ yujyate |
+<lb n="SA_T07_sthtattva4:71"/>saṃvarasāmarthyenānāgatāniṣṭakarmapathānutpatter nātītapratyutpannānām iti |
+<lb n="SA_T07_sthtattva4:72"/>tadanya iti bhikṣusaṃvarād anyas trividho &#x27;pi gṛhyate |
+<lb n="SA_T07_sthtattva4:73"/>tatra hi trividhe &#x27;py aviśeṣeṇa kāyikāt prāṇātipātādes trividhād vācikāc ca mṛṣāvādād eva viratir aṅgaṃ vyavasthāpyate |
+<lb n="SA_T07_sthtattva4:74"/>alobhādveṣāmohā hi sarvasmin kuśale citte saha saṃbhavantīti mṛdumadhyādhimātrāṇi punaś cittāni paryāyeṇa bhavanti, na yugapad ity ata āha — kāraṇair apīti vistaraḥ |
+<lb n="SA_T07_sthtattva4:75"/>asti saṃvarasthāyīti sarvādhikṛtaṃ veditavyaṃ |
+<lb n="SA_T07_sthtattva4:76"/>na sarvāṅgair iti, upavāsopāsakaśrāmaṇerasaṃvareṣu paiśunyapāruṣyasambhinnapralāpaviratīnām abhāvāt |
+<lb n="SA_T07_sthtattva4:77"/>na sarvakāraṇair iti yo mṛdvādinām cittānām anyatamena cittenopāsakasaṃvaraṃ samādatte, upavāsasaṃvaraṃ śrāmaṇerasaṃvaraṃ vā |
+<lb n="SA_T07_sthtattva4:78"/>sarvasattvānugataḥ sarvasattvālaṃbanaḥ kalyāṇo &#x27;nupaghātāśayo &#x27;nugrahāśayo vā, avipratipannatvāt kalyāṇa ucyate |
+<lb n="SA_T07_sthtattva4:79"/>pāpāśayasyānuparatatvād ity upaghātāśayasyānuparatatvāt |
+<lb n="SA_T07_sthtattva4:80"/>katham aśakyebhya iti vistaraḥ |
+<lb n="SA_T07_sthtattva4:81"/>yo hi yeṣāṃ jīvitasvadāravyavacchedam aśaktaḥ kartuṃ tasya tadviṣayaprāṇātipātādyasaṃbhavāt, tebhyaḥ prāṇātipātādiviratyātmakasaṃvaro na yujyata iti manyate |
+<lb n="SA_T07_sthtattva4:82"/>sarvasattvajīvitānupaghātādhyāśayenābhyupagamād iti |
+<lb n="SA_T07_sthtattva4:83"/>sarvasattveṣv anupaghātāśayasyāviśeṣāc chakyebhya ivāśakyebhyo ’pi labhyate |
+<lb n="SA_T07_sthtattva4:84"/>anyathā vā suptamattamūrchitānāṃ sarvāśakyatvāt saṃvaratyāga eva syāt |
+<lb n="SA_T07_sthtattva4:85"/>atha pratibaddhasya pratilabdhasaṃjñasya vāsti tadupaghāte śaktir iti |
+<lb n="SA_T07_sthtattva4:86"/>aśakyeṣv api śakyabhāvāpanneṣv asti śaktir iti tulyam etat |
+<lb n="SA_T07_sthtattva4:87"/>cayāpacayayuktaḥ syād iti |
+<lb n="SA_T07_sthtattva4:88"/>aśakyānāṃ śakyeṣu manuṣyādiṣu saṃcārāc cayayuktaḥ syāt, apūrvasaṃvaralābhāt |
+<lb n="SA_T07_sthtattva4:89"/>śakyādīnāṃ manuṣyādīnām aśakyeṣu devādiṣu saṃcārād apacayayuktaḥ syāt, pūrvapratilabdhasaṃvarāpagamāt |
+<lb n="SA_T07_sthtattva4:90"/>evaṃ ca vināpi paravijñapanādibhir lābhakāraṇaiḥ śikṣānikṣepaṇādibhiś ca parityāgakāraṇaiḥ saṃvarasya lābhatyāgau syātām iti |
+<lb n="SA_T07_sthtattva4:91"/>na |
+<lb n="SA_T07_sthtattva4:92"/>sattvānāṃ pūrvaṃ paścāc ca bhāvād iti |
+<lb n="SA_T07_sthtattva4:93"/>yathā pariśeṣa evam anyo &#x27;pi bhaviṣyatīti manyate |
+<lb n="SA_T07_sthtattva4:94"/>tad idaṃ vaidharmyamātreṇa pratyavasthānam asamartham |
+<lb n="SA_T07_sthtattva4:95"/>atha tṛṇādīnāṃ sarvam abhāva eveṣyate, evam ihāpi saṃvarasya cayāpacayayogena sarvebhyas tṛṇādibhyaḥ saṃvara iti prasajyate |
+<lb n="SA_T07_sthtattva4:96"/>kathaṃ saṃvarahrāso na syād iti viṣayābhāvād ity abhiprāyaḥ |
+<lb n="SA_T07_sthtattva4:97"/>yadi parinirvṛtebhyaḥ saṃvarābhāvaḥ evaṃ tarhīti vistaraḥ |
+<lb n="SA_T07_sthtattva4:98"/>atrācāryaḥ parihāram āha — sarveṣāṃ sarvasattvebhyo lābhād ityādi |
+<lb n="SA_T07_sthtattva4:99"/>evam idānīṃ vaktavyam — buddhasantānāt pipīlikāsantānāc ca prāṇātipātādivirateḥ kim asti viśeṣo &#x27;tha na |
+<lb n="SA_T07_sthtattva4:100"/>kiṃ cātaḥ |
+<lb n="SA_T07_sthtattva4:101"/>yady asti, gatyaniyatatvāt sattvānāṃ saṃvarasya cayāpacayaprasaṅgaḥ |
+<lb n="SA_T07_sthtattva4:102"/>atha nāsti, kathaṃ manuṣyabadhāt pārajayikā, amanuṣyabadhāt sthūlātyayaḥ, tiryagyonibadhāt pāyattikā |
+<lb n="SA_T07_sthtattva4:103"/>nāsti santānataḥ saṃvaraviśeṣa iti manyante |
+<lb n="SA_T07_sthtattva4:104"/>daṇḍakarmaviśeṣas tu prayogaviśeṣād ity āhuḥ |
+<lb n="SA_T07_sthtattva4:105"/>anyo hi manuṣye prayogo &#x27;nyo yāvat pipīlike |
+<lb n="SA_T07_sthtattva4:106"/>tulyāyām api tāvad gatau tulyāyām utpattau prayogataḥ karmanāṃ viśeṣo bhavati |
+<lb n="SA_T07_sthtattva4:107"/>yathā hastinaṃ hatvā prabhūtataram apuṇyaṃ bhavati, alpataraṃ pipīlikam |
+<lb n="SA_T07_sthtattva4:108"/>prāg evātulyāyām |
+<lb n="SA_T07_sthtattva4:109"/>saṃvaras tv āśayato vyavasthāpyate, sarvasattvānugatakalyāṇāśaye vyavasthitasya tatprāpter iti |
+<lb n="SA_T07_sthtattva4:110"/>na ca svasantānān maulakarmapathasaṃgṛhītaḥ saṃvaro labhyate |
+<lb n="SA_T07_sthtattva4:111"/>mā bhūc cetanādharmādīnāṃ svavadhād ānantaryādiprasaṅgaḥ |
+<lb n="SA_T07_sthtattva4:112"/>sāmantakasaṃgṛhītas tu na vāryate śukravisargaviratyādinaḥ |
+<lb n="SA_T07_sthtattva4:113"/>asaṃvaras tu sarvebhya iti |
+<lb n="SA_T07_sthtattva4:114"/>sarvakarmapathadvārabhūtaṃ duścaritam asaṃvara ucyate |
+<lb n="SA_T07_sthtattva4:115"/>yadā tu labdhe ’saṃvare saṃcintya prāṇinaṃ jīvitād vyaparopayati so ’sya bhavati karmapatha iti vistareṇa sarvatra vācyaṃ |
+<lb n="SA_T07_sthtattva4:116"/>yugapan mṛdvādicintāsaṃbhavād iti |
+<lb n="SA_T07_sthtattva4:117"/>nanu yugapad rāgadveṣayor asaṃprayogād akuśalamūlānām api yugapad asaṃbhavaḥ, kimarthaṃ cittānām evocyate |
+<lb n="SA_T07_sthtattva4:118"/>paścimaṃ paryāyaṃ niyamayya vacanād adoṣaḥ |
+<lb n="SA_T07_sthtattva4:119"/>kim punar eka evaurabhrikaḥ kaukkuṭikaḥ saukarikaś ca syāt |
+<lb n="SA_T07_sthtattva4:120"/>syād ity āha |
+<lb n="SA_T07_sthtattva4:121"/>na tv evaṃ sarvakāraṇair asaṃvaro ’pi saṃvaraval labhyeta |
+<lb n="SA_T07_sthtattva4:122"/>nāsāv apūrvam asaṃvaraṃ pratilabhate, prāṇātipātavijñaptayas tu tās tasya bhavantīty āhuḥ |
+<lb n="SA_T07_sthtattva4:123"/>pūrvam evāsau sarvasattveṣv asaṃvṛtaḥ |
+<lb n="SA_T07_sthtattva4:124"/>tadupaghātena jīvikābhyupagamāt |
+<lb n="SA_T07_sthtattva4:125"/>kuta idānīm apūrvam asaṃvaraṃ pratilabhate |
+<lb n="SA_T07_sthtattva4:126"/>upāsakasya tu śrāmaṇerasaṃvaraḥ śrāmaṇerasya ca bhikṣusaṃvaro ‘pūrva utpadyate |
+<lb n="SA_T07_sthtattva4:127"/>samādānakarmapathatatparivāraviśeṣād iti |
+<lb n="SA_T07_sthtattva4:128"/>adhimātraṃ prāṇātipātavijñaptyetiavijñaptyā .. .. .. .. ceti coccāryam |
+<lb n="SA_T07_sthtattva4:129"/>nāgabandhāḥ hastipakāḥ |
+<lb n="SA_T07_sthtattva4:130"/>daṇḍanetāro ye daṇḍaṃ hiraṇyaṃ cārinaṃ vā niyamayanti, dharmapāṭhakādayo mantriṇo vā daṇḍanetāraḥ |
+<lb n="SA_T07_sthtattva4:131"/>arthata iti prakṛtitulyatvād apaṭhitā api āsaṃvarikā boddhavyāḥ |
+<lb n="SA_T07_sthtattva4:132"/>tatrasthatayeti, naite asaṃvare saṃbhūtā iti asaṃvare bhavāḥ, kiṃ tarhi asaṃvarasthitatayeti |
+<lb n="SA_T07_sthtattva4:133"/>vidvāṃsa iti jānānāḥ |
+<lb n="SA_T07_sthtattva4:134"/>āryībhūtānāṃ ceti vistaraḥ |
+<lb n="SA_T07_sthtattva4:135"/>na hi dṛṣṭasatyasyāpāyopapattir astīti |
+<lb n="SA_T07_sthtattva4:136"/>urabhrān api te putrībhūtān iti vistaraḥ |
+<lb n="SA_T07_sthtattva4:137"/>atrācāryasaṃghabhadraḥ parihāram āha |
+<lb n="SA_T07_sthtattva4:138"/>yathā parasvam adattam asvīkurvataḥ svadārasaṃtuṣṭasya ekasyacid aurabhrikasyāśayasya vipannatvāt sarvāṅgebhyo ’saṃvaralābho bhavati, evaṃ sarvasatvebhyo ’pi bhaviṣyaty āśayasyaiva vipannatvād iti |
+<lb n="SA_T07_sthtattva4:139"/>atra ca vṛttikāreṇaiva dattam uttaram iti nātrādaraṃ kriyate |
+<lb n="SA_T07_sthtattva4:140"/>nāsti vikalaḥ prādesikāś cāsaṃvara iti |
+<lb n="SA_T07_sthtattva4:141"/>vikalaḥ karmapathāṅgavaikalyāt |
+<lb n="SA_T07_sthtattva4:142"/>prādeśikaḥ sattvadeśakālasamayaniyamayuktaḥ ||
+<lb n="SA_T07_sthtattva4:143"/>anyatrāṣṭavidhād iti prātimokṣasaṃvaram aṣṭavidhaṃ varjjayitvā prādeśiko vikalo ’pi syāt |
+<lb n="SA_T07_sthtattva4:144"/>tanmātraśīladauḥśīlyapratibandhanāt tanmātreṇa śīlena tanmātrasya dauḥśīlyasya pratibandhanāt, tanmātreṇa ca dauḥśīlyena tanmātrasya śīlasya pratibandhanād iti |
+<lb n="SA_T07_sthtattva4:145"/>sa evāha |
+<lb n="SA_T07_sthtattva4:146"/>evaṃ hy āsaṃvariko ’py upāsakaḥ, upāsakaś cāsaṃvarika iti prasajyate |
+<lb n="SA_T07_sthtattva4:147"/>etac cābādhakaṃ sautrāntikasya |
+<lb n="SA_T07_sthtattva4:148"/>tasya hi śaraṇagamanamātraḥ saṃvaram antareṇāpy upāsakaḥ, sa idānīṃ yasmāt prāṇātipātāder nivartate yatra ca pravartate, tatra yadi saṃvṛto ’saṃvṛtaś ca bhavati, kim atra bādhyate |
+<lb n="SA_T07_sthtattva4:149"/>tatkulīnair ity aurabhrikādyāsaṃvarikakulīnaiḥ |
+<lb n="SA_T07_sthtattva4:150"/>kṣetrādānādarehanād iti |
+<lb n="SA_T07_sthtattva4:151"/>īhanam iti pratyekam abhisaṃbadhyate |
+<lb n="SA_T07_sthtattva4:152"/>kṣetrehanam ādānehanam ādarehanaṃ ca kṣetrādānādarehanaṃ |
+<lb n="SA_T07_sthtattva4:153"/>atra ca ādānam evehanam iti samāsaḥ |
+<lb n="SA_T07_sthtattva4:154"/>īhanaṃ punaś ceṣṭā |
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Tridaṇḍamālā (section 21.2: Śivapathikāsūtra)</title>
+        <author>Aśvaghoṣa</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Author: Aśvaghoṣa
+Collection / category: BuddhistNon-Scriptures / T10
+Source: OCR / Dharmamitra
+Edition / witness: Matsuda 2022
+Tibetan: Ø
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Matsuda, Kazunobu. 2022. Edition of the Tridaṇḍamālā / Śivapathikāsūtra.</note>
+          <idno type="dharmanexus">SA_T10_Aśvaghoṣa_Tridaṇḍamālā-21-2</idno>
+          <ref target="https://dharmamitra.org/db/sa/SA_T10_Aśvaghoṣa_Tridaṇḍamālā-21-2/text">https://dharmamitra.org/db/sa/SA_T10_Aśvaghoṣa_Tridaṇḍamālā-21-2/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-12">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_T10_Aśvaghoṣa_Tridaṇḍamālā-21-2:0"/>evaṃ mayā śrutam ekasmin samaye bhagavāñ chrāvastyāṃ viharati sma jetavane &#x27;nāthapiṇḍadasyārāme | tatra bhagavān bhikṣūn āmantrayate sma | navakena bhikṣavo bhikṣuṇā śīlavatādisaṃpannena kṣipraṃ rāgadveṣamohān samavahantukāmenābhīkṣṇaṃ śivapathikā gantavyā | śivapathikāṃ gatvā śarīrāṇy upasaṃkramitavyāni |
+<lb n="SA_T10_Aśvaghoṣa_Tridaṇḍamālā-21-2:1"/>śarīrāṇy upasaṃkramya nimittam udgṛhītavyam | tadyathā vinīlakam iti vā vipūyakam iti vā vipaḍumakam iti vā vyādhmātakam iti vā vikhāditakam iti vā vilohitakam iti vā vikṣiptakam iti vā asthīti vā saṃkaliketi vā asthisaṃkaleketi vā nimittam udgṛhītavyam | nimittam udgṛhya tvaritatvaritaṃ śayanāsanam āgantavyam |
+<lb n="SA_T10_Aśvaghoṣa_Tridaṇḍamālā-21-2:2"/>śayanāsanam āgatvā bahir vihārasya pādau prakṣālya vihāre praviśya mañcake niṣattavyaṃ bṛsyāṃ vā pīṭhake &#x27;tha vā | mañcake saṃniṣadya bṛsyāṃ vā pīṭhake &#x27;tha vā tām eva ca sa bhikṣuḥ saṃjñāṃ bhāvayet |
+<lb n="SA_T10_Aśvaghoṣa_Tridaṇḍamālā-21-2:3"/>tadyathā vinīlakam iti vā vipūyakam iti vā vipaḍumakam iti vā vyādhmātakam iti vā vikhāditakam iti vā vilohitakam iti vā vikṣiptakam iti vā asthīti vā saṃkaliketi vā asthisaṃkaliketi vā nimittam udgṛhya tām eva sa bhikṣuḥ saṃjñāṃ bhāvayet | kṣipraṃ rāgaṃ ca dveṣaṃ cāvidyāṃ ca virāgayan vidyām utpādayan bhikṣur duḥkhakṣayam avāpnuyāt |
+<lb n="SA_T10_Aśvaghoṣa_Tridaṇḍamālā-21-2:4"/>idam avocad bhagavān idam uktvā sugato hy athāparam etad uvāca śāstā |
+<lb n="SA_T10_Aśvaghoṣa_Tridaṇḍamālā-21-2:5"/>yo bhaven navako bhikṣuḥ śaikṣo &#x27;saṃprāptamānasaḥ |
+<lb n="SA_T10_Aśvaghoṣa_Tridaṇḍamālā-21-2:6"/>gacched asau śivapathikāṃ hantuṃ rāgaṃ yadīcchati || 1 ||
+<lb n="SA_T10_Aśvaghoṣa_Tridaṇḍamālā-21-2:7"/>avyāpannena cittena sarvabhūtānukampinā |
+<lb n="SA_T10_Aśvaghoṣa_Tridaṇḍamālā-21-2:8"/>diśaḥ sarvāḥ spharitvāsau śarīrāṇy upasaṃkramet || 2 ||
+<lb n="SA_T10_Aśvaghoṣa_Tridaṇḍamālā-21-2:9"/>saced vinīlakaṃ paśyet sacet paśyed vipūyakam |
+<lb n="SA_T10_Aśvaghoṣa_Tridaṇḍamālā-21-2:10"/>saced vyādhmātakaṃ paśyed asthisaṃkalikām api || 3 ||
+<lb n="SA_T10_Aśvaghoṣa_Tridaṇḍamālā-21-2:11"/>tām eva bhāvayan saṃjñāṃ gacchet sa śayanāsanam |
+<lb n="SA_T10_Aśvaghoṣa_Tridaṇḍamālā-21-2:12"/>śayanāsanam āgamya pādau prakṣālya ca smṛtaḥ |
+<lb n="SA_T10_Aśvaghoṣa_Tridaṇḍamālā-21-2:13"/>mañcake saṃniṣīded vā bṛsyāṃ vā pīṭhake &#x27;tha vā || 4 ||
+<lb n="SA_T10_Aśvaghoṣa_Tridaṇḍamālā-21-2:14"/>mañcake saṃniṣadyātha bṛsyāṃ vā pīṭhake &#x27;tha vā |
+<lb n="SA_T10_Aśvaghoṣa_Tridaṇḍamālā-21-2:15"/>svakaṃ kāyam avekṣeta ūrdhvam antar bahis tathā || 5 ||
+<lb n="SA_T10_Aśvaghoṣa_Tridaṇḍamālā-21-2:16"/>pūrṇaṃ gūthasya mūtrasya vṛkkāyā hṛdayasya ca ||
+<lb n="SA_T10_Aśvaghoṣa_Tridaṇḍamālā-21-2:17"/>yakṛnmedomalādīnāṃ antrāntraguṇayor api || 6 ||
+<lb n="SA_T10_Aśvaghoṣa_Tridaṇḍamālā-21-2:18"/>saced bhaktāya gaccheta grāmaṃ piṇḍāya vā vrajet |
+<lb n="SA_T10_Aśvaghoṣa_Tridaṇḍamālā-21-2:19"/>yathā yodhaḥ susaṃnaddho nityaṃ smṛtipuraḥsaraḥ || 7 ||
+<lb n="SA_T10_Aśvaghoṣa_Tridaṇḍamālā-21-2:20"/>dṛṣṭvā rūpaṃ rañjanīyaṃ śubhaṃ rāgopasaṃhitam |
+<lb n="SA_T10_Aśvaghoṣa_Tridaṇḍamālā-21-2:21"/>aśubhāṃ bhāvayet tatra ekāgraḥ susamāhitaḥ || 8 ||
+<lb n="SA_T10_Aśvaghoṣa_Tridaṇḍamālā-21-2:22"/>naivāto &#x27;sthi samādeyaṃ na māṃsaṃ nāpi śoṇitam |
+<lb n="SA_T10_Aśvaghoṣa_Tridaṇḍamālā-21-2:23"/>na yakṛt phupphusaṃ vāpi majjā klomakamastakam || 9 ||
+<lb n="SA_T10_Aśvaghoṣa_Tridaṇḍamālā-21-2:24"/>nirarthakaḥ pṛthivīdhātur abdhātuś ca nirarthakaḥ |
+<lb n="SA_T10_Aśvaghoṣa_Tridaṇḍamālā-21-2:25"/>nirarthakas tejodhātur vāyudhātur nirarthakaḥ || 10 ||
+<lb n="SA_T10_Aśvaghoṣa_Tridaṇḍamālā-21-2:26"/>yāś cātra vedanāḥ santi śubhā rāgopasaṃhitāḥ |
+<lb n="SA_T10_Aśvaghoṣa_Tridaṇḍamālā-21-2:27"/>tāsām upaśamo bhavati paśyati prajñayā yadā || 11 ||
+<lb n="SA_T10_Aśvaghoṣa_Tridaṇḍamālā-21-2:28"/>evaṃvihārī ātāpī ahorātram atandritaḥ |
+<lb n="SA_T10_Aśvaghoṣa_Tridaṇḍamālā-21-2:29"/>kṣipraṃ rāgam atho dveṣam avidyāṃ ca virāgayan |
+<lb n="SA_T10_Aśvaghoṣa_Tridaṇḍamālā-21-2:30"/>vidyām utpādayan bhikṣuḥ duḥkhakṣayam avāpnuyāt || 12 ||
+<lb n="SA_T10_Aśvaghoṣa_Tridaṇḍamālā-21-2:31"/>idam avocad bhagavān ||
+    </body>
+  </text>
+</TEI>

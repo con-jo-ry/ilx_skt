@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Pratipattisāraśataka (second half)</title>
+        <author>Āryadeva</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Author: Āryadeva
+Collection / category: BuddhistNon-Scriptures / T02
+Source: OCR / Dharmamitra
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Diplomatic transcription and working edition from Kathmandu, National Archives of Nepal (NAK) ms. 1-1697 (vi bauddhastotra 14) / NGMPP reel B 24/27 (palm-leaf, 3 ff. [4–6], Gauḍīya script).</note>
+          <idno type="dharmanexus">SA_T02_anon_Pratipattisāraśataka</idno>
+          <ref target="https://dharmamitra.org/db/sa/SA_T02_anon_Pratipattisāraśataka/text">https://dharmamitra.org/db/sa/SA_T02_anon_Pratipattisāraśataka/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-12">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_T02_anon_Pratipattisāraśataka:0"/>A minimalist&#x27;s Pratipattisāraśataka (second half)
+<lb n="SA_T02_anon_Pratipattisāraśataka:1"/>cf. Tōh. 2334, for a commentary see Tōh. 2335
+<lb n="SA_T02_anon_Pratipattisāraśataka:2"/>NAK I-1697 vi bauddhastotra 14 = NGMPP B 24/27
+<lb n="SA_T02_anon_Pratipattisāraśataka:3"/>ff. 3 (numbered 4-6), 30 x 6 cm, palm-leaf, Gauḍīya (12-13th c.?)
+<lb n="SA_T02_anon_Pratipattisāraśataka:4"/>[ ] - presumably missing
+<lb n="SA_T02_anon_Pratipattisāraśataka:5"/>- to be deleted
+<lb n="SA_T02_anon_Pratipattisāraśataka:6"/>&lt; &gt; - addition in ms.
+<lb n="SA_T02_anon_Pratipattisāraśataka:7"/>&lt;| |&gt; cancellation in ms.
+<lb n="SA_T02_anon_Pratipattisāraśataka:8"/>x = number of missing verses / illegible akṣara
+<lb n="SA_T02_anon_Pratipattisāraśataka:9"/>gemination, homorganic nasals standardized
+<lb n="SA_T02_anon_Pratipattisāraśataka:10"/>[ya](4recto1)t prajñopā[ya]yor aik[y]aṃ sarvākāraikasamvaram|
+<lb n="SA_T02_anon_Pratipattisāraśataka:11"/>sāvadhūtī vidhūtātmā madhyamā pratipat [= pratipan] matā|| x+1
+<lb n="SA_T02_anon_Pratipattisāraśataka:12"/>ādimadhyāntasaṃkalpasambandhānavadhonataḥ|
+<lb n="SA_T02_anon_Pratipattisāraśataka:13"/>śuddhasphaṭikasaṃkāśaḥ prakā(4recto2)śaḥ sāvadhūtikā|| x+2
+<lb n="SA_T02_anon_Pratipattisāraśataka:14"/>sarvākārasamākārapratyavekṣāvilakṣaṇā|
+<lb n="SA_T02_anon_Pratipattisāraśataka:15"/>lakṣ[y]alakṣaṇasaṃkṣiptākāraikam avadhūtikā|| x+3
+<lb n="SA_T02_anon_Pratipattisāraśataka:16"/>yatrānando gaganamahimādhīnasambodhaśuddhaḥ
+<lb n="SA_T02_anon_Pratipattisāraśataka:17"/>sa(4recto3)rvākāropacitasakalābhogasambhogagamyaḥ|
+<lb n="SA_T02_anon_Pratipattisāraśataka:18"/>bhāvagrāmaḥ samarasatayā svapnanirmāṇatulyaḥ
+<lb n="SA_T02_anon_Pratipattisāraśataka:19"/>śāntājñānāvaraṇavi[´]sadā sāvadhūtī viśuddhāḥ|| x+4
+<lb n="SA_T02_anon_Pratipattisāraśataka:20"/>dha(4recto4)rmasambhoganirmāṇamahāsukham iti kramaḥ|
+<lb n="SA_T02_anon_Pratipattisāraśataka:21"/>mahāsukhasvabhāvena samaṃ cakracatuṣṭayam|| x+5
+<lb n="SA_T02_anon_Pratipattisāraśataka:22"/>saṃkhyāpi kalpanārūḍhā saṃkhyeyānavadhonataḥ|
+<lb n="SA_T02_anon_Pratipattisāraśataka:23"/>dvayor e(4recto5)va viyogātmā samarasyā&#x27;mbaropamaḥ|| x+6
+<lb n="SA_T02_anon_Pratipattisāraśataka:24"/>vyomny upādhibhedo [&#x27;]pi nirvikāratayā na hi|
+<lb n="SA_T02_anon_Pratipattisāraśataka:25"/>nānātṛṇatarau dagdhe vane kiṃ bhedalakṣaṇam|| x+7
+<lb n="SA_T02_anon_Pratipattisāraśataka:26"/>tattvāsadṛśa(4recto6)rūpatvaṃ saṃvṛto bhedadarśanam|
+<lb n="SA_T02_anon_Pratipattisāraśataka:27"/>saṃvṛttir yatra naivāsti tatra kā paramārthatā|| x+8
+<lb n="SA_T02_anon_Pratipattisāraśataka:28"/>bhāvā eva svarūpeṇa niḥsvabhāvā iti sthiti[ḥ]|
+<lb n="SA_T02_anon_Pratipattisāraśataka:29"/>na hi vandhyāsutādīnā[ṃ] svarūpasya vicāra(4recto7)ṇā|| x+9
+<lb n="SA_T02_anon_Pratipattisāraśataka:30"/>aparam api ya&lt;d a&gt;troddiśyate sūkṣmarūpaṃ
+<lb n="SA_T02_anon_Pratipattisāraśataka:31"/>na bhavati khalu tattvaṃ deśanāmātram etat|
+<lb n="SA_T02_anon_Pratipattisāraśataka:32"/>paramasukha&lt;|ka|&gt;rasaikasvacchasantānabhāsaṃ
+<lb n="SA_T02_anon_Pratipattisāraśataka:33"/>sphuradanubhavasāraṃ tattvam ālambya (4verso1) śūnyam|| x+10
+<lb n="SA_T02_anon_Pratipattisāraśataka:34"/>ni[ḥ]svabhāvāḥ svarūpeṇa bhāvāḥ kalpitarūpakāḥ|
+<lb n="SA_T02_anon_Pratipattisāraśataka:35"/>prakṛtiḥ sarvadharmāṇāṃ ye cāsau niḥsvabhāvatā|| x+11
+<lb n="SA_T02_anon_Pratipattisāraśataka:36"/>svecchāyattasamāveśavāsanābalaviplutāḥ|
+<lb n="SA_T02_anon_Pratipattisāraśataka:37"/>vi(4verso2)kalpyate tu jāyante bāhya[¯]rthaphalitā iva|| x+12
+<lb n="SA_T02_anon_Pratipattisāraśataka:38"/>aho viṣayavaicitryam ekakālam anekadhā|
+<lb n="SA_T02_anon_Pratipattisāraśataka:39"/>kadambavādyadhvanivat kalpanām anugacchati|| x+13
+<lb n="SA_T02_anon_Pratipattisāraśataka:40"/>ekasminn eva bhāve (4verso3) ca nānākārārthakalpanā|
+<lb n="SA_T02_anon_Pratipattisāraśataka:41"/>na tasyāsti tadātmatvam icchā[mā]tropakalpit&lt;|e|&gt;am|| x+14
+<lb n="SA_T02_anon_Pratipattisāraśataka:42"/>icchāpi bhrāntacittānām avastuny api jāyate|
+<lb n="SA_T02_anon_Pratipattisāraśataka:43"/>pūrvapūrvamanaskārasaṃ(4verso4)skāraphalitātmikā|| x+15
+<lb n="SA_T02_anon_Pratipattisāraśataka:44"/>svarūpānavabodhena cittaṃ bāhyeṣu dhāvati|
+<lb n="SA_T02_anon_Pratipattisāraśataka:45"/>bālakasyaiva duṣparśa [= duḥsparśaḥ] svayaṃ spṛṣṭāni duṣyati|| x+16
+<lb n="SA_T02_anon_Pratipattisāraśataka:46"/>tac cittaṃ kalpitākāraṃ bahi(4verso5)rarthaś ca kalpitaḥ|
+<lb n="SA_T02_anon_Pratipattisāraśataka:47"/>anayoḥ kalpanāhānā[t] kalpitā gaganātmikā|| x+17
+<lb n="SA_T02_anon_Pratipattisāraśataka:48"/>ajñānena hi bhāvānāṃ svarūpaṃ bimbabhāvatā|
+<lb n="SA_T02_anon_Pratipattisāraśataka:49"/>[s]a[j]jñānena hi bhāvānāṃ svarū(4verso6)paṃ niḥsvabhāvatā|| x+18
+<lb n="SA_T02_anon_Pratipattisāraśataka:50"/>niḥsvabhāveṣu dharmeṣu svacchandaṃ kriyate &#x27;khilam|
+<lb n="SA_T02_anon_Pratipattisāraśataka:51"/>kriyāptās tu vibhajyante kārak&lt;|au|&gt;opamatādṛśam|| x+19
+<lb n="SA_T02_anon_Pratipattisāraśataka:52"/>kriyākārakasambandhaḥ kalpanāveśabhedi(4verso7)taḥ|
+<lb n="SA_T02_anon_Pratipattisāraśataka:53"/>na kriyā kārako nāpi svarūpasyāvabodhataḥ|| x+20
+<lb n="SA_T02_anon_Pratipattisāraśataka:54"/>na kāryaṃ vidyate kiṃcit kārako [&#x27;]pi sa tādṛśaḥ
+<lb n="SA_T02_anon_Pratipattisāraśataka:55"/>saṃketamātralabdho &#x27;yaṃ karotīti [sa] kārakaḥ|| x+21
+<lb n="SA_T02_anon_Pratipattisāraśataka:56"/>niḥsva(5recto1)bhāveṣu dharmeṣu heyopādeyatā kutaḥ|
+<lb n="SA_T02_anon_Pratipattisāraśataka:57"/>svapneṣu se[!]mastadharmeṣu heyopādeyatā yathā|| x+22
+<lb n="SA_T02_anon_Pratipattisāraśataka:58"/>sarvāḥ pāramitās tasmāt sevitavyā[ḥ] samantataḥ|
+<lb n="SA_T02_anon_Pratipattisāraśataka:59"/>sarvā[!]pāramitājñānaṃ prajñā(5recto2)pāramitā nanu|| x+23
+<lb n="SA_T02_anon_Pratipattisāraśataka:60"/>saiva cittam anābhogaṃ nirupādhi nirañjanam|
+<lb n="SA_T02_anon_Pratipattisāraśataka:61"/>nirindriya[ṃ] nirādhāraṃ nirākāraṃ nirākulam|| x+24
+<lb n="SA_T02_anon_Pratipattisāraśataka:62"/>pañca pāramitā etā ānande[=ai]karasātmikāḥ|
+<lb n="SA_T02_anon_Pratipattisāraśataka:63"/>ānanda(5recto3)sya parijñānaṃ prajñāpāramitottamā|| x+25
+<lb n="SA_T02_anon_Pratipattisāraśataka:64"/>ānanda[ṃ] phalam āsāṃ tu bodho [&#x27;]sau niḥsvabhāvatā|
+<lb n="SA_T02_anon_Pratipattisāraśataka:65"/>dvayo[r] nirbharanirbhinnaṃ ratir eva mahāsukham|| x+26
+<lb n="SA_T02_anon_Pratipattisāraśataka:66"/>prajñākaruṇayo(5recto4)r aikyaṃ pradīpālokayor iva|
+<lb n="SA_T02_anon_Pratipattisāraśataka:67"/>prajñākaruṇayor bhedaḥ pradīpālokayor ivaḥ|| x+27
+<lb n="SA_T02_anon_Pratipattisāraśataka:68"/>idaṃ dvayam abhinnātmā cittasyaikarūpakam|
+<lb n="SA_T02_anon_Pratipattisāraśataka:69"/>prajñopāyātmakaṃ tena cittaṃ (5recto5) Hevajrarūpakam|| x+28
+<lb n="SA_T02_anon_Pratipattisāraśataka:70"/>ānando [&#x27;]pi nirālambas tadbodho [&#x27;]pi sa tādṛśaḥ|
+<lb n="SA_T02_anon_Pratipattisāraśataka:71"/>evaṃ Hevajrarūpeṇa niḥśeṣam avibhāvitaḥ|| x+29
+<lb n="SA_T02_anon_Pratipattisāraśataka:72"/>yoginyaḥ kalpanāḥ sarvā maṇḍalaṃ bhu(5recto6)vanatrayam|
+<lb n="SA_T02_anon_Pratipattisāraśataka:73"/>tatra krīḍati Hevajro mahāsukharasotsavaiḥ|| x+30
+<lb n="SA_T02_anon_Pratipattisāraśataka:74"/>bhuñja[¯]no ramamāno [&#x27;]pi śayāno [&#x27;]pi &lt;| | |&gt; hasann api|
+<lb n="SA_T02_anon_Pratipattisāraśataka:75"/>[tat?]tadyogasamāyogād yogī Hevajrapūjakaḥ|| x+31
+<lb n="SA_T02_anon_Pratipattisāraśataka:76"/>niḥśaṅke[=śaṅko] (5recto7) vicared yogī sarvabhāveṣu sarvadā|
+<lb n="SA_T02_anon_Pratipattisāraśataka:77"/>nirlepaḥ paṅkamadhye [&#x27;]pi saṃsāre nirvṛtāyate|| x+32
+<lb n="SA_T02_anon_Pratipattisāraśataka:78"/>māyāvinirmitaśateṣu yathaiva tajjñaḥ
+<lb n="SA_T02_anon_Pratipattisāraśataka:79"/>khedapramodasamatāsakalapracā(5verso1)raḥ|
+<lb n="SA_T02_anon_Pratipattisāraśataka:80"/>nirbhī bhayaṃkaraśate [&#x27;]pi sukhodaye [&#x27;]pi
+<lb n="SA_T02_anon_Pratipattisāraśataka:81"/>yogī tathaiva tathatānugatasvabhāvaḥ|| x+33
+<lb n="SA_T02_anon_Pratipattisāraśataka:82"/>na bhāvyaṃ yūthagatrāsti[?] bhāv&lt;|o|&gt;ako [&#x27;]pi na kaścana|
+<lb n="SA_T02_anon_Pratipattisāraśataka:83"/>bhāvanāpi dvayā&lt;|bhyā|&gt;bhāvāt kevalaṃ sa(5verso2)matā gatiḥ|| x+34
+<lb n="SA_T02_anon_Pratipattisāraśataka:84"/>dvayākāraparityāgabhā&lt;| | |&gt;gābhāgavibhā&lt;| x |&gt;gitam|
+<lb n="SA_T02_anon_Pratipattisāraśataka:85"/>sattāmātraparijñānaṃ bhāvanā naiva duṣyati|| x+35
+<lb n="SA_T02_anon_Pratipattisāraśataka:86"/>mantrajāpādayo ye te samataikasvarūpiṇaḥ|
+<lb n="SA_T02_anon_Pratipattisāraśataka:87"/>atas te (5verso3) [&#x27;]pi na bādhyante sahajaṃ hi jagat [=jagan] matam|| x+36
+<lb n="SA_T02_anon_Pratipattisāraśataka:88"/>deho dbhantir[?] manaś ceti hūṃkāratritayātmakaḥ|
+<lb n="SA_T02_anon_Pratipattisāraśataka:89"/>dhvanat[?]saṃkalpa[saṃ]mūḍhān niḥsaṅgo Herukopamaḥ|| x+37
+<lb n="SA_T02_anon_Pratipattisāraśataka:90"/>kalpanāvṛ(5verso4)ttim āskandya yad a[ka]lpitadarśanam|
+<lb n="SA_T02_anon_Pratipattisāraśataka:91"/>rahasas tad eva te mantrāḥ sarvasiddhipradāyakāḥ|| x+38
+<lb n="SA_T02_anon_Pratipattisāraśataka:92"/>svapnopameṣu dharmeṣu yathā vāco [&#x27;]pi pe[´]salā|
+<lb n="SA_T02_anon_Pratipattisāraśataka:93"/>mukhayanti tathā (5verso5) mantrāḥ śāntikādau niyojitāḥ|| x+39
+<lb n="SA_T02_anon_Pratipattisāraśataka:94"/>vastuśaktisvabhāvo [&#x27;]yaṃ saṃvṛttāv api dṛśyate|
+<lb n="SA_T02_anon_Pratipattisāraśataka:95"/>saṃvṛttivyatirekena kā nāma paramārthatā|| x+40
+<lb n="SA_T02_anon_Pratipattisāraśataka:96"/>na kāṣṭhādima(5verso6)yatvena buddhabimbeṣu heyatā|
+<lb n="SA_T02_anon_Pratipattisāraśataka:97"/>svabhāvaṃ budhyamānasya tatpraṇāmo na duṣyati|| x+41
+<lb n="SA_T02_anon_Pratipattisāraśataka:98"/>mṛdādimayabimbāni na name[t] sahajātmakaḥ|
+<lb n="SA_T02_anon_Pratipattisāraśataka:99"/>sahajasyāvabodhe hi tatpraṇāmo (5verso7) niruttaraḥ|| x+42
+<lb n="SA_T02_anon_Pratipattisāraśataka:100"/>dharmadhātusvarūpatvaṃ trayā[.]nām api tanmayam|
+<lb n="SA_T02_anon_Pratipattisāraśataka:101"/>tathāpi svapnanirmāṇasamāno [&#x27;]sau balikramaḥ|| x+43
+<lb n="SA_T02_anon_Pratipattisāraśataka:102"/>tathatārūpanirbhinnatraidhātukaikasaṃvidām|
+<lb n="SA_T02_anon_Pratipattisāraśataka:103"/>sa&lt;|ṃ|&gt; yo(6recto1)ginām avacchinna ānande [&#x27;]pi mahābaliḥ|| x+44
+<lb n="SA_T02_anon_Pratipattisāraśataka:104"/>yāvanto bodhisambhārās tāvanto [&#x27;]traiva nirmalāḥ|
+<lb n="SA_T02_anon_Pratipattisāraśataka:105"/>prajñāpāramitā śuddhir anuttaraphalaṃ yataḥ|| x+45
+<lb n="SA_T02_anon_Pratipattisāraśataka:106"/>pratiṣṭhāhomayāgādi(6recto2)kriyāḥ sarvāś ca nirmalāḥ|
+<lb n="SA_T02_anon_Pratipattisāraśataka:107"/>prajñopāya¯samāyogāt kṛtaṃ sambodhisādhanam|| x+46
+<lb n="SA_T02_anon_Pratipattisāraśataka:108"/>saiva samastabuddhānā[ṃ] pratiṣṭhāpi niruttarāḥ|
+<lb n="SA_T02_anon_Pratipattisāraśataka:109"/>nirbhinnākārasamvittau Vajrasattva(6recto3)sya yā sthitiḥ|| x+47
+<lb n="SA_T02_anon_Pratipattisāraśataka:110"/>yāvantaḥ sukhasambhārāḥ krīḍāsaṃbhūtahetavaḥ|
+<lb n="SA_T02_anon_Pratipattisāraśataka:111"/>tāvanto &#x27;nubhavann evaṃ yogī sambhārapūrakaḥ|| x+48
+<lb n="SA_T02_anon_Pratipattisāraśataka:112"/>ullasannasanno rambhā[?] j[val]atkeśa(6recto4)racāruṇā|
+<lb n="SA_T02_anon_Pratipattisāraśataka:113"/>padmenācintyayogātmā pūjayet kuliśeśvaram|| x+49
+<lb n="SA_T02_anon_Pratipattisāraśataka:114"/>rūpādipañcakāpoya[=āropa?]bhakṣaṇaṃ samayo mahān|
+<lb n="SA_T02_anon_Pratipattisāraśataka:115"/>tadviśuddhyā viśuddhaṃ hi sarvaṃ sambo(6recto5)dhisādhanam|| x+50
+<lb n="SA_T02_anon_Pratipattisāraśataka:116"/>kalpanāyā nirāsena nādhimokṣasya saṃbhava[ḥ |]
+<lb n="SA_T02_anon_Pratipattisāraśataka:117"/>svasamvedyam idaṃ tena [s]phuṭābhaṃ ca mahāsukham|| x+51
+<lb n="SA_T02_anon_Pratipattisāraśataka:118"/>pīyūṣeṇaiva tṛpyante kecit tatkatha(6recto6)ne[na] ca|
+<lb n="SA_T02_anon_Pratipattisāraśataka:119"/>rasavīryavipākas tu pratyakṣānubhavātmakaḥ|| x+52
+<lb n="SA_T02_anon_Pratipattisāraśataka:120"/>sālambe kena rajyante rūpāḍambarasa[ṃ]vare|
+<lb n="SA_T02_anon_Pratipattisāraśataka:121"/>nirālambe nimajjante&lt;|o|&gt; viralās te tu sattamā[ḥ]|| x+53
+<lb n="SA_T02_anon_Pratipattisāraśataka:122"/>kecit śūnyata(6recto7)yā [= kecic chūnya˚] mugdhāḥ kecin nītiparākramāḥ|
+<lb n="SA_T02_anon_Pratipattisāraśataka:123"/>kecit mahā[=kecin mahā˚]sukhollāsabhāsino &#x27;traiva yoginaḥ|| x+54
+<lb n="SA_T02_anon_Pratipattisāraśataka:124"/>kṛtvā prasādasaralaṃ pratipat[t]isāra[ṃ]
+<lb n="SA_T02_anon_Pratipattisāraśataka:125"/>labdho mayā ya iha puṇyavi(6verso1)śuddharā[´]siḥ|
+<lb n="SA_T02_anon_Pratipattisāraśataka:126"/>loko [&#x27;]stu tena paridhūya vikalpajālaṃ
+<lb n="SA_T02_anon_Pratipattisāraśataka:127"/>saṃbodhisaṃbhūtiparaḥ pratipattisāram&lt;|ḥ|&gt; [?]|| x+55
+<lb n="SA_T02_anon_Pratipattisāraśataka:128"/>dṛṣṭāntaikarasātimūḍhamanasāṃ dārṣṭāntikadyotane
+<lb n="SA_T02_anon_Pratipattisāraśataka:129"/>[?] vidye (6verso2) sphuṭam uttarottaragatau prajñānayo yady api|
+<lb n="SA_T02_anon_Pratipattisāraśataka:130"/>labdho[d]deśam ananyabodhakalitaṃ tantrāntarā vajriṇas
+<lb n="SA_T02_anon_Pratipattisāraśataka:131"/>tadvittipratipattisāraśatakaṃ śrīHerukenoditam ||   @   || x+56
+<lb n="SA_T02_anon_Pratipattisāraśataka:132"/>(6verso3) pratipattisāraśatakaṃ samāptam||   @   ||
+<lb n="SA_T02_anon_Pratipattisāraśataka:133"/>kṛtir iyaṃ Āryadevapādānām iti||
+    </body>
+  </text>
+</TEI>

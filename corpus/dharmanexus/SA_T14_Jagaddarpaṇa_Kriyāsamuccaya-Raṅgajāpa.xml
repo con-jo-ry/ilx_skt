@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kriyāsamuccaya (Raṅgajāpavidhi)</title>
+        <author>Jagaddarpaṇa</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Author: Jagaddarpaṇa
+Collection / category: BuddhistNon-Scriptures / T14
+Source: OCR / Dharmamitra
+Edition / witness: Kaiser Library no. 110 is lacunose, here supplied from Lokesh Chandra&#x27;s facsimile and the Vajrāvalī
+Tibetan: D 3305
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Diplomatic/reconstructed edition (Kolozsvár, 2025), based on Kathmandu Kaiser Library MS 110, supplemented from Lokesh Chandra&#x27;s facsimile edition (1977), Abhayākaragupta&#x27;s Vajrāvalī, and the Tibetan Tengyur (D 3305).</note>
+          <idno type="dharmanexus">SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Raṅgajāpa</idno>
+          <ref target="https://dharmamitra.org/db/sa/SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Raṅgajāpa/text">https://dharmamitra.org/db/sa/SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Raṅgajāpa/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-12">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Raṅgajāpa:0"/>[\L114.3&#x27;] tato baliṃ dattvā vaṃlaṃraṃyaṃhaṃpañcabījair niṣpannān sitapītaraktaharitakṛṣṇaraṅgān yathākramaṃ candrakāntakarketanapadmarāgamarakatendranīlajān muktākanakapravālamiśrarājāvartajān vā miśram iha muktādicaturbhiḥ | dhātujān vā | śālijān vā |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Raṅgajāpa:1"/>puṣpajān vā yathāyogaṃ pakveṣṭakāṅgārajaṅgamacūrṇādibhir vā saṃskṛtān śubhān vuṃ-āṃ-hrīḥ-khaṃ-hūṃ-niṣpannavairocanādisvarūpān dhyātvā nabhoniveśitasarvatathāgatahṛtsu vuṃ-ādiniṣpannajñānaraṅgaiḥ sūtrasaṃskāroktadīptadṛṣṭyākṛṣṭapraviṣṭaiḥ sahaikarasībhāvena jñānaraṅgatāṃ nītān vuṃ-ityādinābhimantrya oṃ vajracitra samaya hūṃ iti mantreṇa sāṣṭaśataṃ
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Raṅgajāpa:2"/>mantrayet | tathā dīptadṛṣṭyā samuttejayan pratyekaṃ hīkāraṃ nyasya rajobahulā yena satyena sattvā buddhāś ca bhagavantaḥ sattvarāgānuraktās tena satyena rajo jvalatv iti satyādhiṣṭhānato jvā[\L115]layet |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Raṅgajāpa:3"/>% de nas gtor ma byin la | baM laM raM yaM haM rnams kyis bon las grub pa&#x27;i dkar po dang ser po dang dmar bo dang ljang gu dang nag po&#x27;o tshon rnams rim pa ji {95a5} lta ba bzhin du zla ba chu shel dang | ka rke Ta Na dang | padma r&#x27;a ga dang |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Raṅgajāpa:4"/>aindra n&#x27;i la las byung ba rnams sam yang na mu tig dang gser dang byi ru dang bsres pa mu men las byung ba rnams sam | bsres pa ni &#x27;dir mu tig la sogs pa bzhi po rnams so || yang na khams las byung ba&#x27;am | &#x27;bras {95a6} las byung ba &#x27;am | me tog las byung ba &#x27;am | ji ltar rigs par sol ba dang so phag dang rus ba&#x27;i phye ma la sogs pas kyang rung |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Raṅgajāpa:5"/>legs par &#x27;dus byas pa&#x27;i bzung bo rnams bhr&#x27;uM aaM hr&#x27;iM khaM h&#x27;uM rnams las grub pa&#x27;i rnam bar snad mdzad la sogs pa&#x27;i ngo bor bsams nas |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Raṅgajāpa:6"/>nam mkha&#x27; la bkod {95a7} pa&#x27;i de bzhin gshegs pa thams cad thugs kar bhr&#x27;uM la sogs pa las grub pa&#x27;i ye shes kyi tshon rnams thig skud &#x27;du bya bar brjod pa&#x27;i &#x27;bar ba&#x27;i lta stangs kyis bkug ste bcugs bas ye shes kyi tshon dang lhan cig ro gcig tu gyur pa rnams la phr&#x27;uM zhes pa la sogs pas {95b1} mngon par bsngags shing |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Raṅgajāpa:7"/>aoM badzra tsi tra sa ma ya h&#x27;uM zhes ba&#x27;i sngags kyis brgya rtsa brgyad du bsngags so || de bzhin du &#x27;bar ba&#x27;i lta bas yang dag par gzi brjid bskyed cing | re re la h&#x27;i: yig bkod nas |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Raṅgajāpa:8"/>bden pa gang gis sems can rnams rdul tshon mang zing sangs rgyas bcom ldan &#x27;das {95b2} rnams mi sems can rnams la chags pas rjes su chags par gyur pa&#x27;i bden ba des rdul tshon rnams &#x27;bar bar gyur cig | ces bden pa&#x27;i byin kyi rlabs kyis sbar bar bya ste |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Raṅgajāpa:9"/>devatābhyāsātiśayāj jvalati | gandhapuṣpādinābhyarcya sthāpayen navabhājane ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Raṅgajāpa:10"/>% lha sgom pa phul du byung ba la ni &#x27;bar bar &#x27;gyur ro || dri dang me tog la sogs pas mchod na {95b3} snod gsar par gzhag par bya&#x27;o
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Raṅgajāpa:11"/>iti raṅgajāpavidhiḥ || o ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Raṅgajāpa:12"/>% zhes pa rdul tshon gyi bzlas pa&#x27;i cho ga&#x27;o || ||
+    </body>
+  </text>
+</TEI>

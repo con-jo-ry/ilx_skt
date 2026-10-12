@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Abhidharmasamuccayakārikā (chapter 1: Āyatanasamuccaya)</title>
+        <author>Saṅghatrāta</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Author: Saṅghatrāta
+Collection / category: BuddhistNon-Scriptures / T07
+Source: OCR / Dharmamitra
+Edition / witness: Sferra 2020
+Tibetan: Ø
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Francesco Sferra (ed.), 2020. Based on Sanskrit manuscript materials.</note>
+          <idno type="dharmanexus">SA_T07_Saṅghatrāta_Abhidharmasamuccayakārikā-1</idno>
+          <ref target="https://dharmamitra.org/db/sa/SA_T07_Saṅghatrāta_Abhidharmasamuccayakārikā-1/text">https://dharmamitra.org/db/sa/SA_T07_Saṅghatrāta_Abhidharmasamuccayakārikā-1/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-12">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_T07_Saṅghatrāta_Abhidharmasamuccayakārikā-1:0"/>[siddham] namo buddhāya ||
+<lb n="SA_T07_Saṅghatrāta_Abhidharmasamuccayakārikā-1:1"/>sattvadharmagaṇāgratvaṃ buddhiśuddhiśamāptibhiḥ |
+<lb n="SA_T07_Saṅghatrāta_Abhidharmasamuccayakārikā-1:2"/>prāptān saṃbuddhadharmāryasaṃghān abhyarcya sarvathā || 1
+<lb n="SA_T07_Saṅghatrāta_Abhidharmasamuccayakārikā-1:3"/>abhidharme prasiddhānāṃ saddharmāṇāṃ samuccayaḥ |
+<lb n="SA_T07_Saṅghatrāta_Abhidharmasamuccayakārikā-1:4"/>kariṣyate yato &#x27;nyeṣāṃ bhavaty āyatanādayaḥ || 2
+<lb n="SA_T07_Saṅghatrāta_Abhidharmasamuccayakārikā-1:5"/>dvidhā cakṣuḥśrutighrāṇajihvākāyamanāṃsi ṣaṭ |
+<lb n="SA_T07_Saṅghatrāta_Abhidharmasamuccayakārikā-1:6"/>ādhyātmikāny āśrayatvāc cetaso &#x27;nyatvam ātmanaḥ || 3
+<lb n="SA_T07_Saṅghatrāta_Abhidharmasamuccayakārikā-1:7"/>rūpadhvanighreyarasaspṛśyadharmās tu gocarāḥ |
+<lb n="SA_T07_Saṅghatrāta_Abhidharmasamuccayakārikā-1:8"/>bāhyāḥ sādhāraṇatvāc ca prādhānyād rūpadharmayoḥ || 4
+<lb n="SA_T07_Saṅghatrāta_Abhidharmasamuccayakārikā-1:9"/>rūpālocanam atrākṣi śrotrādīni yathākramam |
+<lb n="SA_T07_Saṅghatrāta_Abhidharmasamuccayakārikā-1:10"/>vijñānādhyuṣitāny ebhiḥ sama mantṛ manas tridhā || 5
+<lb n="SA_T07_Saṅghatrāta_Abhidharmasamuccayakārikā-1:11"/>cakṣuṣo viṣayo rūpaṃ śabdādīni yathendriyam |
+<lb n="SA_T07_Saṅghatrāta_Abhidharmasamuccayakārikā-1:12"/>manasaḥ sarvam ekasya svakalāpam apāsya vā || 6
+<lb n="SA_T07_Saṅghatrāta_Abhidharmasamuccayakārikā-1:13"/>rūpaṃ viṃśatidhā śabdas tridhā gandhaś ca ṣaḍ rasāḥ |
+<lb n="SA_T07_Saṅghatrāta_Abhidharmasamuccayakārikā-1:14"/>saptadhehāṣṭadhā spṛśyaṃ kecid ekādaśātmakam || 7
+<lb n="SA_T07_Saṅghatrāta_Abhidharmasamuccayakārikā-1:15"/>arūpiṇo manovarjyā dharmāyatanam anyathā |
+<lb n="SA_T07_Saṅghatrāta_Abhidharmasamuccayakārikā-1:16"/>vānye ca pudgalo &#x27;vācyaḥ sarvam evānyad anyathā || 8
+<lb n="SA_T07_Saṅghatrāta_Abhidharmasamuccayakārikā-1:17"/>samutthānaṃ yad ākṣeptṛ janako hetur eva ca |
+<lb n="SA_T07_Saṅghatrāta_Abhidharmasamuccayakārikā-1:18"/>āntantaryaṃ vinaśyad yad avibandhāya kalpate || 9
+<lb n="SA_T07_Saṅghatrāta_Abhidharmasamuccayakārikā-1:19"/>ālambanam abhipretaṃ yad ārabhya samudbhavaḥ |
+<lb n="SA_T07_Saṅghatrāta_Abhidharmasamuccayakārikā-1:20"/>ādhipatyaṃ tu janyasya sarve &#x27;nye vighnatāṃ prati || 10
+<lb n="SA_T07_Saṅghatrāta_Abhidharmasamuccayakārikā-1:21"/>utthānaṃ prāksahotpannaṃ virūpe &#x27;pi pravartakam |
+<lb n="SA_T07_Saṅghatrāta_Abhidharmasamuccayakārikā-1:22"/>sabhāgahetuḥ prāgjāto bhūnikāyasadṛk sa vā || 11
+<lb n="SA_T07_Saṅghatrāta_Abhidharmasamuccayakārikā-1:23"/>sarvatragaḥ saṃprayukto vipākas sahabhūs tathā |
+<lb n="SA_T07_Saṅghatrāta_Abhidharmasamuccayakārikā-1:24"/>sarvatragāḥ sānuvṛttadvividhānāṃ sadhātukāḥ || 12
+<lb n="SA_T07_Saṅghatrāta_Abhidharmasamuccayakārikā-1:25"/>yatra ye saṃprayuktās te sarve &#x27;nyonyaṃ vipacyate |
+<lb n="SA_T07_Saṅghatrāta_Abhidharmasamuccayakārikā-1:26"/>yato &#x27;taḥ paktir ity anyas tatphalas sahabhūr iti || 13
+<lb n="SA_T07_Saṅghatrāta_Abhidharmasamuccayakārikā-1:27"/>jāyamānasya yo yasya sthānadātārthato bhavet |
+<lb n="SA_T07_Saṅghatrāta_Abhidharmasamuccayakārikā-1:28"/>ānantaryaṃ sa tasyānye cittacittikayor manaḥ || 14
+<lb n="SA_T07_Saṅghatrāta_Abhidharmasamuccayakārikā-1:29"/>vijñaptisaṃprayuktānām ālambanam idaṃ dvidhā |
+<lb n="SA_T07_Saṅghatrāta_Abhidharmasamuccayakārikā-1:30"/>kevalaṃ saṃprayuktānām icchanti nikhilaṃ ca tat || 15
+<lb n="SA_T07_Saṅghatrāta_Abhidharmasamuccayakārikā-1:31"/>niṣyandaḥ sadṛśo hetoḥ vipākaḥ karmaṇaḥ kila |
+<lb n="SA_T07_Saṅghatrāta_Abhidharmasamuccayakārikā-1:32"/>sattvākhyo &#x27;vyākṛtaḥ kecid balāj jātaṃ tu pauruṣam || 16
+<lb n="SA_T07_Saṅghatrāta_Abhidharmasamuccayakārikā-1:33"/>avighnabhāvādhigatam ādhipatyaphalaṃ dvidhā |
+<lb n="SA_T07_Saṅghatrāta_Abhidharmasamuccayakārikā-1:34"/>prahāṇaṃ yo visaṃyogo dhiyā prāptiḥ kvacit phalam || 17
+<lb n="SA_T07_Saṅghatrāta_Abhidharmasamuccayakārikā-1:35"/>dvayor niṣyanda ekasya vipākaḥ pauruṣaṃ dvayoḥ |
+<lb n="SA_T07_Saṅghatrāta_Abhidharmasamuccayakārikā-1:36"/>ādhipatyaṃ tu sarveṣāṃ prahāṇaṃ mokṣavartmanaḥ || 18
+<lb n="SA_T07_Saṅghatrāta_Abhidharmasamuccayakārikā-1:37"/>adhvadvaye dvau triṣv anye hetavaḥ phaladās tv amī |
+<lb n="SA_T07_Saṅghatrāta_Abhidharmasamuccayakārikā-1:38"/>dvau vartamānau bhagnāś ca śeṣā bhagnā kriyāpare || 19
+<lb n="SA_T07_Saṅghatrāta_Abhidharmasamuccayakārikā-1:39"/>sarva eva tu gṛhṇanti vartamānāḥ phalaṃ kila |
+<lb n="SA_T07_Saṅghatrāta_Abhidharmasamuccayakārikā-1:40"/>dvyekādhvakā jāyamānajātayoḥ karma kurvate || dha || 20
+<lb n="SA_T07_Saṅghatrāta_Abhidharmasamuccayakārikā-1:41"/>anyeṣām api hetūnāṃ phalānāṃ cātra saṃgrahaḥ |
+<lb n="SA_T07_Saṅghatrāta_Abhidharmasamuccayakārikā-1:42"/>etad evānuśaṃsaś ca guṇaś cādīnavo &#x27;thavā || 21
+<lb n="SA_T07_Saṅghatrāta_Abhidharmasamuccayakārikā-1:43"/>bhūtabhautikavijñānadharmāṇāṃ hi parasparam |
+<lb n="SA_T07_Saṅghatrāta_Abhidharmasamuccayakārikā-1:44"/>catustridvyekakaraṇaṃ svajāteś caikadheha saḥ || 22
+<lb n="SA_T07_Saṅghatrāta_Abhidharmasamuccayakārikā-1:45"/>bhūtāni bhūtasādṛśyāt pṛthivyambvagnimārutāḥ |
+<lb n="SA_T07_Saṅghatrāta_Abhidharmasamuccayakārikā-1:46"/>dhṛtyādikaṭhinatvādikṛtyāṅkāni sahaiva vā || 23
+<lb n="SA_T07_Saṅghatrāta_Abhidharmasamuccayakārikā-1:47"/>rūpaśabdamanodharmāḥ pañcadhāvyākṛtāny adaḥ |
+<lb n="SA_T07_Saṅghatrāta_Abhidharmasamuccayakārikā-1:48"/>sarvāṇi kāme rūpeṣu daśāntye dve arūpiṣu || 24
+<lb n="SA_T07_Saṅghatrāta_Abhidharmasamuccayakārikā-1:49"/>anāsrave ca caittās tu dharmā anuśayādayaḥ |
+<lb n="SA_T07_Saṅghatrāta_Abhidharmasamuccayakārikā-1:50"/>vidādyāḥ saṃprayuktāś ca tathānuparivartinaḥ || 25
+<lb n="SA_T07_Saṅghatrāta_Abhidharmasamuccayakārikā-1:51"/>sahabhūni tu sarvāṇi vā na dve manasī saha |
+<lb n="SA_T07_Saṅghatrāta_Abhidharmasamuccayakārikā-1:52"/>daśa rūpīṇi vaikaṃ tu triṣu vijñaptisaṃbhavaḥ || 26
+<lb n="SA_T07_Saṅghatrāta_Abhidharmasamuccayakārikā-1:53"/>sālambanaṃ manaḥ kiṃcit trayāṇāṃ trīṇi karma vā |
+<lb n="SA_T07_Saṅghatrāta_Abhidharmasamuccayakārikā-1:54"/>dve vipāko &#x27;pare śabdavarjyāni sa tu yatnajaḥ || 27
+<lb n="SA_T07_Saṅghatrāta_Abhidharmasamuccayakārikā-1:55"/>nava bhāvayitavyāni vā guptiguṇasaṃbhavāt |
+<lb n="SA_T07_Saṅghatrāta_Abhidharmasamuccayakārikā-1:56"/>abhijñeyāni sarvāṇi sākṣātkāryāṇi ṣaṭ tu vā || 28
+<lb n="SA_T07_Saṅghatrāta_Abhidharmasamuccayakārikā-1:57"/>daśa dvayoḥ pradeśaś ca prahātavyāni vartmanā |
+<lb n="SA_T07_Saṅghatrāta_Abhidharmasamuccayakārikā-1:58"/>parijñeyāni sarvāṇi sāsravatvāc ca duḥkhavat || 29
+<lb n="SA_T07_Saṅghatrāta_Abhidharmasamuccayakārikā-1:59"/>vā rūpaśabdau pañcāptau mano dharmāś ca ṣaḍvidhāḥ |
+<lb n="SA_T07_Saṅghatrāta_Abhidharmasamuccayakārikā-1:60"/>nābhiprāyo yato &#x27;to &#x27;nyad bhāvanāheyam aṣṭakam || 30
+<lb n="SA_T07_Saṅghatrāta_Abhidharmasamuccayakārikā-1:61"/>vitarkaś ca vicāraś ca kāme dhyāne vivekaje |
+<lb n="SA_T07_Saṅghatrāta_Abhidharmasamuccayakārikā-1:62"/>dhyānāntare vicāras tu parastād dvayam apy asat || 31
+<lb n="SA_T07_Saṅghatrāta_Abhidharmasamuccayakārikā-1:63"/>dvitīyād ā smṛtā prītis tṛtīyād ā sukhodayaḥ |
+<lb n="SA_T07_Saṅghatrāta_Abhidharmasamuccayakārikā-1:64"/>prāmodyaijāniruddhatvād antare dve kilāpare || 32
+<lb n="SA_T07_Saṅghatrāta_Abhidharmasamuccayakārikā-1:65"/>aduḥkhāsukhaniṣpattir ā bhavāgrāt prayogataḥ |
+<lb n="SA_T07_Saṅghatrāta_Abhidharmasamuccayakārikā-1:66"/>saṃjñāsaṃlekhavaiśeṣyāc catasro &#x27;rūpabhūmayaḥ || 33
+<lb n="SA_T07_Saṅghatrāta_Abhidharmasamuccayakārikā-1:67"/>saṃbhavāt saṃprayogād vā savitarkādideśanā |
+<lb n="SA_T07_Saṅghatrāta_Abhidharmasamuccayakārikā-1:68"/>saṃbhavād bhūmiṣu jñeyā saṃprayukteṣv ato &#x27;nyathā || 34
+<lb n="SA_T07_Saṅghatrāta_Abhidharmasamuccayakārikā-1:69"/>abhidharmasamuccaye āyatanasamuccayaḥ prathamaḥ samāptaḥ ||
+    </body>
+  </text>
+</TEI>

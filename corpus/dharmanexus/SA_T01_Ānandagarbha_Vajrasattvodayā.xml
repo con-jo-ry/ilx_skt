@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Vajrasattvodayā (fragment)</title>
+        <author>Ānandagarbha</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Author: Ānandagarbha
+Collection / category: BuddhistNon-Scriptures / T01
+Source: OCR / Dharmamitra
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Unpublished diplomatic transcription based on Kathmandu, National Archives MS NAK 5-86 (NGMPP reel B 24/34), folios 1v–2r.</note>
+          <idno type="dharmanexus">SA_T01_Ānandagarbha_Vajrasattvodayā</idno>
+          <ref target="https://dharmamitra.org/db/sa/SA_T01_Ānandagarbha_Vajrasattvodayā/text">https://dharmamitra.org/db/sa/SA_T01_Ānandagarbha_Vajrasattvodayā/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-12">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_T01_Ānandagarbha_Vajrasattvodayā:0"/>NAK 5-86 = NGMPP B 24/34
+<lb n="SA_T01_Ānandagarbha_Vajrasattvodayā:1"/>&#x27;Parikramapadopāmikāpadmaprasaraśca&#x27;
+<lb n="SA_T01_Ānandagarbha_Vajrasattvodayā:2"/>misread for Parikramapadopāyikā karmaprasaraś ca
+<lb n="SA_T01_Ānandagarbha_Vajrasattvodayā:3"/>% most likely the first folio of a Vajrasattvodayā ms. [= Tōh. 2517]
+<lb n="SA_T01_Ānandagarbha_Vajrasattvodayā:4"/>% a rare work of Ānandagarbha!
+<lb n="SA_T01_Ānandagarbha_Vajrasattvodayā:5"/>[1\verso] \siddham namaḥ śrīvajrasattvāya||
+<lb n="SA_T01_Ānandagarbha_Vajrasattvodayā:6"/>vajrasattvaṃ jagannāthaṃ praṇipatya punaḥ punaḥ||
+<lb n="SA_T01_Ānandagarbha_Vajrasattvodayā:7"/>% vajrasattvaṃ] \emend, vajrasattva˚ \ms
+<lb n="SA_T01_Ānandagarbha_Vajrasattvodayā:8"/>% praṇipatya] \corr, pranipatya \ms
+<lb n="SA_T01_Ānandagarbha_Vajrasattvodayā:9"/>sādhanopāyikāṃ vakṣye vajrasattvodayāṃ śubhām||
+<lb n="SA_T01_Ānandagarbha_Vajrasattvodayā:10"/>% śubhām] \emend, śubhaṃ \ms
+<lb n="SA_T01_Ānandagarbha_Vajrasattvodayā:11"/>tatrāryatattvasaṅgrahamahātantravidhinā vajradhātumahāmaṇḍale labdhasamayādikasya yogina āryavajrasattvārādhanavidhiḥ samuccīyate||
+<lb n="SA_T01_Ānandagarbha_Vajrasattvodayā:12"/>% labdha˚] \emend, labda˚ \ms
+<lb n="SA_T01_Ānandagarbha_Vajrasattvodayā:13"/>% ˚samayādikasya] \emend, ˚samayādhikasya \ms
+<lb n="SA_T01_Ānandagarbha_Vajrasattvodayā:14"/>% yogina] \corr, yoginaḥ|| \ms
+<lb n="SA_T01_Ānandagarbha_Vajrasattvodayā:15"/>% ˚vidhiḥ] \emend, ˚vidhi \ms
+<lb n="SA_T01_Ānandagarbha_Vajrasattvodayā:16"/>prathamaṃ tāvan nairātmyādhimuktyādhyātmikasnānaṃ kṛtvā hrīḥkāreṇa kaṇṭhadeśe aṣṭadalaṃ padmaṃ jihvāpadmadale ca hūṃkāreṇa śuklaṃ pañcasūcikaṃ vajraṃ niṣpādyānenādhitiṣṭhet[–] vajrajihveti||
+<lb n="SA_T01_Ānandagarbha_Vajrasattvodayā:17"/>% kṛtvā] \corr, kṛtvā| \ms
+<lb n="SA_T01_Ānandagarbha_Vajrasattvodayā:18"/>% hrīḥkāreṇa] \emend, hrīkārena \ms
+<lb n="SA_T01_Ānandagarbha_Vajrasattvodayā:19"/>% ˚dale ca] \emend, ˚dale \ms
+<lb n="SA_T01_Ānandagarbha_Vajrasattvodayā:20"/>% śuklaṃ] \emend, śukla˚ \ms
+<lb n="SA_T01_Ānandagarbha_Vajrasattvodayā:21"/>karadvaye tv akārābhyāṃ candramaṇḍaladvayaṃ tayor upari hūṃkārābhyāṃ ca pañcasūcikaṃ vajradvayaṃ vicintya karasākhya[!?] caiva sūciṃ[!] vighnaghātādikaṃ kuryāt||
+<lb n="SA_T01_Ānandagarbha_Vajrasattvodayā:22"/>% karasākhya] \ms\pcorr, karasākhyā \ms\acorr
+<lb n="SA_T01_Ānandagarbha_Vajrasattvodayā:23"/>tatra hūṃkāreṇa vajrajvālānalārkam ātmānaṃ nirmāya\{||\} oṃ gṛhṇa vajra samaya hūṃ vam ity udīrayan\{|\} krodhaterintirīṃ badhnīyāt|
+<lb n="SA_T01_Ānandagarbha_Vajrasattvodayā:24"/>vajrabandhaṃ tale kṛtvā chādayet kruddhamānasaḥ[|]
+<lb n="SA_T01_Ānandagarbha_Vajrasattvodayā:25"/>% chādayet] \emend, cchādaye \ms
+<lb n="SA_T01_Ānandagarbha_Vajrasattvodayā:26"/>% kruddha˚] \emend, krurddha˚ \ms
+<lb n="SA_T01_Ānandagarbha_Vajrasattvodayā:27"/>gādham aṅguṣṭhavajreṇa krodhaterintirī smṛtā||
+<lb n="SA_T01_Ānandagarbha_Vajrasattvodayā:28"/>% Q STTS 1,438,1052
+<lb n="SA_T01_Ānandagarbha_Vajrasattvodayā:29"/>tato vajrārdhāsanaṃ niṣaṇṇo vajraterintirīṃ badhvā vajramālābhiṣekaṃ gṛhṇīyāt|| oṃ vajrajvālānalārka hūṃ abhiśiñca mām iti vajrabandhe &#x27;ṅguṣṭhadvayaṃ saṃhatotthitaṃ vajrabandhasyopari śliṣṭaṃ dhārayet| vajraterintirī||
+<lb n="SA_T01_Ānandagarbha_Vajrasattvodayā:30"/>% &#x27;ṅgu[2\recto]ṣṭhadvayaṃ
+<lb n="SA_T01_Ānandagarbha_Vajrasattvodayā:31"/>% saṃhatotthitaṃ] \emend, saṃhatotsthitaṃ \ms
+<lb n="SA_T01_Ānandagarbha_Vajrasattvodayā:32"/>oṃ ṭum ity anena dvyakṣarakavacena kavacayitvā\{||\} oṃ vajrajvālānalārka hūm ity udīrayet| vāmavajramuṣṭiṃ hṛdaye kṛtvā dakṣiṇena vajramuṣṭim ullālayan sarvavighnān hanyāt||
+<lb n="SA_T01_Ānandagarbha_Vajrasattvodayā:33"/>% hūm ity] \corr, hūṃ mity
+<lb n="SA_T01_Ānandagarbha_Vajrasattvodayā:34"/>% ullālayan] \corr, ullālayaṃ \ms
+<lb n="SA_T01_Ānandagarbha_Vajrasattvodayā:35"/>tato vajrānalena mudrāsahitena vighnadahanādikaṃ kuryāt| oṃ vajrānala daha paca matha bhañja raṇa phaḍ iti udīrayan| abhyantaravajrabandhe &#x27;ṅgulijvālāgarbhe &#x27;ṅguṣṭhavajram utthitam iyaṃ vajrānalasamayamudrā||
+<lb n="SA_T01_Ānandagarbha_Vajrasattvodayā:36"/>tadanu|
+<lb n="SA_T01_Ānandagarbha_Vajrasattvodayā:37"/>vajranetrī bandha sarvavighnān iti mudrāyuktayā sarvavighnabandhaṃ kuryāt|| vajrabandhaṃ badhvā aṅguṣṭhadvayaṃ prasārya samaṃ dhārayet|| vajranetrīmudrā||
+<lb n="SA_T01_Ānandagarbha_Vajrasattvodayā:38"/>prasāritavajrabandhaṃ bhūmau pratiṣṭhāpyādhobandhaṃ kuryāt| oṃ vajra dṛḍho me bhava rakṣa sarva[ṃ?] svāheti||
+<lb n="SA_T01_Ānandagarbha_Vajrasattvodayā:39"/>% ˚ṣṭhāpyādho˚] \corr, ˚sthāpya &#x27;dho˚ \ms
+<lb n="SA_T01_Ānandagarbha_Vajrasattvodayā:40"/>vajrabhairavanetreṇa mudrāsahitenordhvabandhaṃ kuryāt|| oṃ hulu 2 hūṃ phaḍ iti| vajramuṣṭidvayaṃ badhvālātacakravad bhramayitvā śirasa upari tarjanyaṅkuśākāreṇa dhārayet| vajrabhairavanetramudrā||
+<lb n="SA_T01_Ānandagarbha_Vajrasattvodayā:41"/>% badhvālātacakravad] \emend, badhvā &#x27;lātacakra \ms
+<lb n="SA_T01_Ānandagarbha_Vajrasattvodayā:42"/>% tarjanyaṅkuśākāreṇa] \emend, tarjanyāṃkyaśākāreṇa \ms
+<lb n="SA_T01_Ānandagarbha_Vajrasattvodayā:43"/>tasyādhastāt vajrayakṣeṇa mudrāsahitena punaḥ tatraiva bandhaṃ kuryāt| oṃ vajrayakṣa hūm iti| vajrāñjalir aṅguṣṭhadvayaṃ prasāritatarjanīdvayaṃ daṃṣṭravajrayakṣasya mudrā||
+<lb n="SA_T01_Ānandagarbha_Vajrasattvodayā:44"/>% ˚yakṣeṇa [2\verso] mudrā˚
+<lb n="SA_T01_Ānandagarbha_Vajrasattvodayā:45"/>% hūm iti] \corr, hūṃ miti \ms
+<lb n="SA_T01_Ānandagarbha_Vajrasattvodayā:46"/>% ˚tarjanīdvayaṃ] \emend, ˚tarjanīdvaya \ms
+<lb n="SA_T01_Ānandagarbha_Vajrasattvodayā:47"/>% daṃṣṭra˚] \emend, draṃṣṭra˚ \ms
+<lb n="SA_T01_Ānandagarbha_Vajrasattvodayā:48"/>vajroṣṇīṣeṇa mudrāyuktena pūrvaṃ diśaṃ bandhayet| oṃ druṃ bandham iti drum iti vā| vajramuṣṭidvayaṃ kanyasā[!] śṛṅkhalabandhena tarjanīdvayasūcīmukhaṃ parivarttyoṣṇīṣe sthāpayet| vajroṣṇīṣamudrā||
+<lb n="SA_T01_Ānandagarbha_Vajrasattvodayā:49"/>% iti drum] \ms\pcorr, iti vā drum \ms\acorr
+<lb n="SA_T01_Ānandagarbha_Vajrasattvodayā:50"/>punar vajrapāśena tām eva bandhayet| hūṃ vajrapāśa hrīḥ iti| vajramuṣṭidvayena bāhyagranthiṃ kuryāt| vajrapāśamudrā||
+<lb n="SA_T01_Ānandagarbha_Vajrasattvodayā:51"/>% punar] \emend, punaḥ \ms\pcorr, puna \ms\acorr
+<lb n="SA_T01_Ānandagarbha_Vajrasattvodayā:52"/>vajrapatākayā paścimāṃ| oṃ vajrapatāke pataṅgiri raṭ| iti vajrabandhe &#x27;ṅguṣṭhasattvaparyaṅkaṃ sūcīkṛtāgrā samānāmā vidāritābhyāṃ paṭṭāgrī| vajrapatākāyāḥ||
+<lb n="SA_T01_Ānandagarbha_Vajrasattvodayā:53"/>% paścimāṃ] \emend, paścimāyāṃ \ms
+<lb n="SA_T01_Ānandagarbha_Vajrasattvodayā:54"/>% ˚vidāritābhyāṃ] \emend, vidāritāṃ bhyā \ms\pcorr, vidāritābhyā \ms\acorr
+<lb n="SA_T01_Ānandagarbha_Vajrasattvodayā:55"/>% ˚patākāyāḥ] \emend, vajrapatākayāḥ \ms
+<lb n="SA_T01_Ānandagarbha_Vajrasattvodayā:56"/>vajrakālyottarāṃ| oṃ hrīḥ vajrakāli raṭ maḍ iti|| vajrayakṣamudraiva mukhe dṛḍhīkṛtā[|] vajrakālyāḥ||
+<lb n="SA_T01_Ānandagarbha_Vajrasattvodayā:57"/>% ottarāṃ|] \emend, ˚ottarā \ms
+<lb n="SA_T01_Ānandagarbha_Vajrasattvodayā:58"/>vajraśikharayā dakṣiṇāṃ| oṃ vajraśikhare ruṭ maḍ iti| vajramuṣṭidvayena parvatotkarṣābhinayā| vajraśikharayāḥ||
+<lb n="SA_T01_Ānandagarbha_Vajrasattvodayā:59"/>% ˚śikhārāyāḥ] \emend, ˚śikharayāḥ \ms
+<lb n="SA_T01_Ānandagarbha_Vajrasattvodayā:60"/>vajrakarmaṇā maṇḍalabandhaṃ kṛtvā prākāraṃ dadyāt| oṃ vajrakarmeti||
+<lb n="SA_T01_Ānandagarbha_Vajrasattvodayā:61"/>punar abhyantaraprā-
+<lb n="SA_T01_Ānandagarbha_Vajrasattvodayā:62"/>%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    </body>
+  </text>
+</TEI>

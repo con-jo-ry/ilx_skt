@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kumārīkārcananimittoddeśa</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Collection / category: BuddhistNon-Scriptures / T02
+Source: OCR / Dharmamitra
+Edition / witness: NAK 1-1697 vi bauddhakarmakāṇḍa  = NGMPP B 24/22, palm-leaf, ff. 3, quite corrupt; cf. CUL Add. 1697.3! (now: https://cudl.lib.cam.ac.uk/view/MS-ADD-01697-00003/12)
+Tibetan: Ø/?
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Diplomatic transcription / working edition based on National Archives Kathmandu (NAK) MS 1-1697 vi (Bauddhakarmakāṇḍa, NGMPP reel B 24/22, palm-leaf, ff. 3r–5v; cf. Cambridge University Library MS Add. 1697.3).</note>
+          <idno type="dharmanexus">SA_T02_anon_Kumārīkārcananimittoddeśa</idno>
+          <ref target="https://dharmamitra.org/db/sa/SA_T02_anon_Kumārīkārcananimittoddeśa/text">https://dharmamitra.org/db/sa/SA_T02_anon_Kumārīkārcananimittoddeśa/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-12">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:0"/>kaumārikānayanabāṇa[incipit 3\recto]munigraheṇa
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:1"/>kandarpayakṣagaṇanāntaritā yatheccham |
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:2"/>sarvāgamānugatarūpavidhāyinī śrīḥ
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:3"/>sarvārthasiddhim avanaṃ bhavatāṃ karotu ||
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:4"/>% vasantatilakā
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:5"/>bhogādhikāralayagocaracārucāra-
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:6"/>saṃcāriṇī kulakalākulitātmabhāvā |
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:7"/>vairocanī sudhipaṇojjvalayā jvalantī
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:8"/>jñānaprabhāvajananī jagatāṃ name tām ||
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:9"/>nānādhimuktijanatām avalokya buddhaiḥ
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:10"/>śrīsamvarādiṣu kumārakumārikāṇām |
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:11"/>pūjā śubhāśubhanimittaphalārthasiddhiḥ
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:12"/>saṃvarṇitātra vilikhāmi tato &#x27;vatārya ||
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:13"/>tatpāṇipallavagatā hi samastasiddhir
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:14"/>āsādituṃ yadi mano vidhinārcanīyā |
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:15"/>śukletarāṣṭamacaturdaśavāsare vā
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:16"/>karmocitāhni pariśastatithau daśamyām ||
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:17"/>śāntau śvetavapuṣmatī dvijasutā śuklāṃśukālaṅkṛtā
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:18"/>puṣṭau kṣatriyajātha hemasadṛśā pītāmbarābhūṣitā |
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:19"/>vaśye vaiśyasuraṅgakarminaṭajā raktāpi raktāmbarā
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:20"/>vidveṣe &#x27;ntajaśūdramiśratanayā śyāmā ca nīlāmbarā ||
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:21"/>nānāvaṃśasamudbhavā tv avikalā cintāmbarodbhāṣiṇī
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:22"/>sālaṃkāravatī sucittavadanā sarvatra karmānvaye |
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:23"/>% anne citrāmbarodbhāsinī?
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:24"/>pañ[3\verso]cābdāt parato &#x27;ntarā ca vayasā yāvad rajodarśanāt
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:25"/>kaumārīti śatam muner atha yathādevānnarūpātmikā ||
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:26"/>ārāmagoṣṭhapathapattanasīmakāli-
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:27"/>devāryamaṇḍapagṛhāśramamandirādau |
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:28"/>sauvarṇadaṇḍasitacāmaracarcarīka-
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:29"/>candrātapatravividhāṃśukalambamāne ||
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:30"/>saṃliptagomayasugandhitabhūmibhāge
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:31"/>saṃstīrṇapuṣpakuśakomalaviṣṭarādau |
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:32"/>saddhūpadhūpitamahotsavaramyacihne
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:33"/>saṃgopya durdurujanān apasārya yatnāt ||
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:34"/>snānīyadānavidhinābhinimantrya paścād
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:35"/>ānīya gauravatayāṅghriyugaṃ ca tāsām |
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:36"/>prakṣālya dānapatinārghayutā krameṇa
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:37"/>pūrvādigādyabhimukhaṃ karaṇīyayuktyā ||
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:38"/>aṣṭottaraṃ yāvad ayugmam ekāt
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:39"/>svamaṇḍalānukramasaṃkhyayā vā |
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:40"/>oṃkārapīṭhe kuliśe &#x27;mbuje vā
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:41"/>saṃsthāpya saṃbhuktasamāhitās tāḥ ||
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:42"/>śrīsamvarāditantrayogaviśuddhamantrī
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:43"/>jñānārciṣā sphuritabījabhavāḥ kumārīḥ |
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:44"/>vajrāṅgaṇādigaṇavarṇasurūpadehāḥ
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:45"/>kāyatrayādi pariśodhya dhiyā svamantraiḥ ||
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:46"/>hastāṃghrigaṇḍayugale vipanair vicarcya
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:47"/>puṣpasrajābharaṇarū[4\recto]patayā viracya |
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:48"/>sindūrakajjalakucandanakuṅkumādyair
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:49"/>yajñopavītavasanābharaṇapradānaiḥ ||
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:50"/>aśokamandāraturaṅgamāra-
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:51"/>taraṅgabandhūkakuruṇḍakārkaiḥ |
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:52"/>palāśabhīrodrakacurjilālā-
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:53"/>śirīśaṭāḍimbajakiṃśukādyaiḥ ||
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:54"/>sakundajātīnavamallikādyaiḥ
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:55"/>sthalaprajātaiḥ kusumaiḥ sugandhaiḥ |
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:56"/>jalapraphullaiḥ kumudāmbujanma-
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:57"/>sahasrapattrotpalakaprakāraiḥ ||
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:58"/>pūjāmaṇḍapato bahiḥsthitajanaiḥ saṃnṛtya vādyakriyaiḥ
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:59"/>ḍhakkādundubhijhallarīḍamarukaiḥ stotrair mahāmaṅgalaiḥ |
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:60"/>vīṇāveṇumṛdaṅgavalliriravaiḥ mañjīragītānujaiḥ
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:61"/>saṃrañjyo jinasundarīvaragaṇo gambhīradhīrasvaraiḥ ||
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:62"/>vividhamadanadugdhaiḥ pañcapīyūṣamiśraiḥ
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:63"/>pracuracarubhujiṣyair mīnamāṃsaprakāraiḥ |
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:64"/>kaṭakacamasasūpair vyañjanair jambuḍīkaiḥ
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:65"/>dadhighṛtamahusihlāphāṇikair laḍḍukādyaiḥ || o ||
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:66"/>dātuḥ śubhāśubhanimittam atandritātmā
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:67"/>mantraṃ japan sakalam iṅgitarāvabhāvam |
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:68"/>saṃlakṣayet pratimukhena kumārikāṇāṃ
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:69"/>pūjānnapānaparibhogasukhāptakāle ||
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:70"/>hastau pramardayati cet sahasā suruṣṭā
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:71"/>rogārtivardhi[4\verso]m asukhaṃ prativedayantī |
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:72"/>chardiṃ karoti yadi sundarikātha vīro
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:73"/>rogāgamasya yajamānajaneṣu cihnam ||
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:74"/>tṛptiṃ na yāti bahumadyarasaprapānād
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:75"/>dātur bhaviṣyati mahāmaharogapīḍā |
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:76"/>saṃharṣ[y]a muñcati yadi pratiraudrarāvam
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:77"/>āvedayaty atitarāṃ na hi sādhyam atra ||
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:78"/>netradvayaṃ ca parimardi viroti devī
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:79"/>dātā kṣaṇena maraṇam iyād acitram |
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:80"/>pādau vigharṣya nayanāmbu nabho vilokya
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:81"/>mātāpituḥ sujanavṛddhavināśahetuḥ ||
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:82"/>pṛṣṭhaṃ nirīkṣya nakharaṃ vadane kṣipantī
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:83"/>māṃsādinā na paritoṣavatīti dadyāt |
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:84"/>vyālokayaty aparapātragabhakṣabhojyam
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:85"/>ātmodare spṛśati yā tṛptiṃ na me syāt ||
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:86"/>anyonyasaṃmukhatayā pratilokayantī
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:87"/>dātuḥ parasparatayā kalaho &#x27;tra sūcyet |
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:88"/>āveśayaty atitaraṃ svaparaspareṇa
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:89"/>yuddhaṃ bhaviṣyati kaliṃ ca samādiśantī ||
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:90"/>nānāvidhānnabahubhakṣaṇato na tuṣṭo [=tuṣṭā]
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:91"/>rogādayaś ca sahasā vyasano &#x27;pi śastrāt ||
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:92"/>saṃgītivādyahasanaṃ vidadhī muhuś ca
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:93"/>bhūpālataskaradhanañjayato bhayaṃ syāt |
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:94"/>pādaṃ nigharṣayati bhūmitale &#x27;tiruṣṭā
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:95"/>susthānavittabalavatsavināśahetu ||
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:96"/>[5\recto] bhaktaprakāram akhilaṃ parikṣipya bhuñjīt
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:97"/>sthāneṣṭadaivatagaṇaḥ kupito &#x27;ṅganāryāt |
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:98"/>saṃhasya cāntarakathākathanaṃ pralāpāt
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:99"/>saṃpūrṇatā bhavati na prakṛtikriyāyāḥ ||
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:100"/>pṛṣṭhaṃ vilokya bhavanād yadi yāti kanyā
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:101"/>bhūyo &#x27;pi karmagadavṛddhir iha prajānām |
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:102"/>evaṃ vikāram aśubhā sa vivecya liṅgaṃ
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:103"/>tasmāt samāhitatayā śubham atra kuryāt || o ||
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:104"/>ghaṇṭāvādapuro gurunnatiravo gambhīradhīrāśayo
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:105"/>mudrāmantrapuraḥsareṇa vidhinā saṃtoṣya devīgaṇam |
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:106"/>dattvā cācamanaṃ hiraṇyamadanair nānāphalair dakṣiṇāṃ
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:107"/>dātāraṃ prati dāpayed abhimatāṃ satsiddhim āśīrvacaḥ ||
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:108"/>evaṃ yo vidadhāti bhaktahṛdayaḥ saddevatārādhanaṃ
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:109"/>sarvaṃ tulyavipākam eti sahasā ceto&#x27;bhivāñchāphalam |
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:110"/>saubhāgyāyurarogatāguṇagaṇaprābandhyasattvārthatā
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:111"/>dānādyair api siddhisādhanamahāmokṣakṣamāśālitā ||
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:112"/>siṃhāmbho&#x27;nalavāyuvāraṇaniśāsaṃcāribandhoragāḥ
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:113"/>śokopadravarogataskarakalivyāghātatārāgrahā[t |]
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:114"/>śāntiṃ pāpaviṣāśaniprayatanāvidyāvipatmṛtyavaḥ
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:115"/>sarvaṃ yānti divākarasya kiraṇān nīhārabandhyaṃ yathā ||
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:116"/>nānāvrīhihiraṇyapūrṇadharaṇīprajñāmahā + + [5\verso]ye
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:117"/>rājyaśrībalayūthanāgaturagaprāvīṇyam indrānugāḥ |
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:118"/>dhītānandaṅga(?)rūpayūvanakalāsaṃpannarāmājanāḥ
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:119"/>sacchrarmopakarāvakīrṇadhanavad dharmātvayāḥ (?) pauṣṭikaṃ ||
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:120"/>jvālāṃkanasa + + ṣṭāḥ padmābhena sucoṣitāḥ |
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:121"/>triḥ choṭikayā paścāt ksāntiṃ kṛtvā visarjayet ||
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:122"/>vidhāya kanyāgaṇapādapūjanaṃ
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:123"/>yad alpamātraṃ kuśalāsavaṃ mama |
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:124"/>cirāya daivīmadubinduvaṃdharaṃ (?)
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:125"/>dadhātu hṛtpaṅkajagarbhato janaḥ || o ||
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:126"/>kumārīkārcananimittoddeśaḥ samāptaḥ || o ||
+<lb n="SA_T02_anon_Kumārīkārcananimittoddeśa:127"/>\etc\etc\etc
+    </body>
+  </text>
+</TEI>

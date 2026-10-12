@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kriyāsamuccaya (Vighnanivāraṇavidhi)</title>
+        <author>Jagaddarpaṇa</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Author: Jagaddarpaṇa
+Collection / category: BuddhistNon-Scriptures / T14
+Source: OCR / Dharmamitra
+Edition / witness: Kaiser Library no. 110
+Tibetan: D 3305
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Diplomatic transcription and parallel Tibetan alignment based on Kathmandu, Kaiser Library MS 110 (fol. 290r) and Derge Tanjur D 3305 (fol. 230b3–230b6). Unpublished e-text, Kolozsvár, 2025.</note>
+          <idno type="dharmanexus">SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Vighnanivāraṇa</idno>
+          <ref target="https://dharmamitra.org/db/sa/SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Vighnanivāraṇa/text">https://dharmamitra.org/db/sa/SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Vighnanivāraṇa/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-12">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Vighnanivāraṇa:0"/>iha yadi rajomaṇḍalalikhanādau pātālotthajalānalānilajaladāśaninarāsurasainyagajādivighnopadravo daivakṛto manuṣyādikṛto vā saṃbhāvyate tadā yathāvidhi vajramayāvaniprākārapañjaraśarajālavitānāntaḥkuharasthārāgrasthitātibhīṣaṇadaśakrodhādhiṣṭhitadakṣiṇāvartabhramatpītadaśāracakranābhimadhyasthitakūṭāgārākāraṃ maṇḍalagṛhaṃ sudṛḍham adhimuñcet
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Vighnanivāraṇa:1"/>pratimuhuḥ | vajramayatvādibhiḥ sarvavighnā nivāryanta iti ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Vighnanivāraṇa:2"/>% &#x27;dir rdul tshon gyi dkyil &#x27;khor bris pa la sogs pa na gal te sa &#x27;og nas chu rdol ba dang me dang rlung dang | sprin dang thog dang mi dang lha&#x27;i sde dang {230b3} glang po la sogs pa bgegs kyi nye bar &#x27;tshe ba lhas byas pa&#x27;am | mi la sogs pas byas pa &#x27;byung ba srid de | de&#x27;i tshe chog ga ji lta ba bzhin du rdo rje&#x27;i rang bzhin gyi sa gzhi dang |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Vighnanivāraṇa:3"/>ra ba dang | gur dang mda&#x27;i dra ba dang | bla re rnams kyi nang gi bar snang la gnas pa&#x27;i rtsibs kyi rtse mo la brtan {230b4} par bzhugs pa&#x27;i shin tu &#x27;jigs su rung ba&#x27;i khro bo bcur byin gyis brlabs pa&#x27;i rtsibs bcu pa&#x27;i &#x27;khor lo ser po g-yas su bskor ba&#x27;i lte ba&#x27;i dbus su gnas pa&#x27;i gzhal yas khang gi rnam par dkyil &#x27;khor khang par shin tu brtan
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Vighnanivāraṇa:4"/>par skad cig gis lhag par mos par {230b5} bya ste | rdo rje&#x27;i rang bzhin nyid la sogs pas bgegs thams cad bzlog par &#x27;gyur ro zhes so ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Vighnanivāraṇa:5"/>yaḥ punar aviratam urukaruṇaikarasaśūnya[\C290\recto]tāsamādhim abhyasyati | tasyāparimitā api vighnāḥ praśāmyantīti taṃ prati naiṣa kramaḥ || yo &#x27;pi maṇḍalacakraṃ śūnyataikarasaṃ sudṛḍhaṃ bhāvayati tasya sarve vighnāḥ | anye ca doṣāḥ pralayaṃ yānty ayatnataḥ svapne &#x27;pi nābhāsanta iti | tam api prati nāyaṃ kramaḥ ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Vighnanivāraṇa:6"/>% gang yang rgyun mi &#x27;chad par snying rje chen po dang ro gcig pa&#x27;i stong pa nyid kyi ting nge &#x27;dzin goms par byed pa de la ni dpag tu med pa&#x27;i bgegs rnams kyang rab tu zhi bar &#x27;gyur te {230b6} de&#x27;i phyed du ni rim pa &#x27;di dag ma yin no
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Vighnanivāraṇa:7"/>% smth missing?
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Vighnanivāraṇa:8"/>iti vighnanivāraṇavidhiḥ ||   ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Vighnanivāraṇa:9"/>% zhes pa bgegs bzlog pa&#x27;i cho ga&#x27;o || ||
+    </body>
+  </text>
+</TEI>

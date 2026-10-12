@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Maṇḍalopāyikā (chapter 6: Homavidhi)</title>
+        <author>Padmaśrīmitra</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Author: Padmaśrīmitra
+Collection / category: BuddhistNon-Scriptures / T02
+Source: OCR / Dharmamitra
+Edition / witness: Tokyo University Library ms. 280
+Tibetan: Ø
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Diplomatic transcription / working edition of Tokyo University Library ms. 280 (Matsunami No. 280) (Kolozsvár, July 9–10, 2025; unpublished).</note>
+          <idno type="dharmanexus">SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms</idno>
+          <ref target="https://dharmamitra.org/db/sa/SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms/text">https://dharmamitra.org/db/sa/SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-12">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:0"/>tathāto homavidhir ucyate ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:1"/>nyūnātiriktā ye mantrāḥ pūjyante homataḥ sadā |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:2"/>tasmād homaṃ praśaṃśanti trikāyavaravajriṇa iti ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:3"/>na tathā sarvakarmāṇi vidyāḥ kurvanti sarvadā |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:4"/>yathā homāḥ prakurvanti siddhikarmam anuttaram ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:5"/>homā bahuvidhā proktāḥ saṃkṣepeṇa tu pañcadhā |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:6"/>vistareṇa mahāyogaguhyatantre pravakṣyate ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:7"/>% NB ref. to Guhyatantra as a mahāyogatantra!
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:8"/>saṃkṣiptaṃ tu pravakṣyāmi vidyādharavikurvaṇam |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:9"/>yathā homavidhānena sādhyate kulamaṇḍalam ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:10"/>pañcadhā homakarmāṇi tenaikekaṃ tu vistaram |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:11"/>śāntikaṃ pauṣṭikaṃ caiva tṛtīyaṃ cābhicārukam ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:12"/>ākarṣaṇaṃ caturthaṃ vai pañcamaṃ vaśyasaṃsthitam |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:13"/>etāni pañca karmāṇi tadeśā (?) vaśyam uttamam ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:14"/>ucyate te yathāmnāyaṃ kuṇḍalakṣaṇam eva hi |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:15"/>hastam ekaṃ samārabhya yāvad dhastasahasrakam ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:16"/>kuṇḍamānaṃ tu sarveṣāṃ karmaṇām etad eva hi |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:17"/>aṣṭāṅgulādhikaṃ kuryād dhastāde (?) ripukarmaṇi ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:18"/>daśāṅgulādikaṃ puṣṭau dvādaśādhikaṃ vaśyakam |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:19"/>caturdaśānvitaṃ śāntaṃ kulavṛddhau tu ṣoḍaśa ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:20"/>aṣṭādaśāṅgulādhikyaṃ sthānagokulavardhanam |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:21"/>viṃśatyaṅgulayogena rāṣṭraśāntir vidhīyate ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:22"/>etan mānaṃ tribhāvaṃ vai kṛtvā bhāgadvayaṃ khanet |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:23"/>khanitasyāṣṭamo bhāgaḥ kuṇḍoṣṭhaḥ parikīrtitaḥ ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:24"/>oṣṭhasyārdhabhāgena nemībhāgaṃ tu kārayet |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:25"/>aṣṭāṅgulena mānena padmam aṣṭadalaṃ sṛjet ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:26"/>tadbāhye vajraprākāram ekāṅgulakaṃ diśet |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:27"/>madhyacakre aṣṭāṅgule padmam aṣṭadalaṃ sṛjet ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:28"/>tanmadhye vajram ālikhya tac caikāṅgulamānakam |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:29"/>trikoṇakuṇḍamadhye tu cakrikāṃ sthāpayed budhaḥ ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:30"/>abhicāre tu kuṇḍaṃ vai trikoṇaṃ homakarmaṇi |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:31"/>yatpramāṇaṃ tu kuṇḍaṃ vai adhas tadardhakaṃ khanet ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:32"/>śāntike caturāsrākṣaṃ (?) vartulaṃ vaśyakarmaṇi |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:33"/>pauṣṭike kuṇḍam ākhyātaṃ tad eva homakovidaiḥ ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:34"/>uccāṭane ardhacandrākhyam aṣṭāṃśaḥ stambhakarmaṇaḥ |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:35"/>oṣṭhasya tu catuḥsthāne vajracihnair alaṃkṛtam ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:36"/>candravajreṇa śobhā tu koṇeṣu ca vinyaset |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:37"/>ācāryakuṇḍayor madhye kuryāt kailāsam ucchritam ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:38"/>āyāmaparināhābhyāṃ hastamānaṃ vinirdiśet |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:39"/>vitasti tu prasāreṇa sopānatrayasaṃyutam ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:40"/>tadūrdhvam aṣṭapatraṃ ca padmaṃ saṃlikhya yatnataḥ |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:41"/>padmordhvaṃ pātrikā sthāpyā sopānacaturaṅgulam ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:42"/>tatra caikatra sopāne sruvaṃ sthāne tu kārayet |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:43"/>uktapadmadale vidvān aṣṭau cihnāni kārayet ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:44"/>maitreyanāgapuṣpaṃ tu kṣitigarbhasya cakrakam |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:45"/>vajrapāṇeḥ sṛjed vajraṃ ratnaṃ tu khagarbhasya ca ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:46"/>padmaṃ tu lokanāthasya vajraṃ mañjuśriyaḥ punaḥ |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:47"/>khaḍgaṃ bhiṣkaṃbhiṇaś cihnaṃ vajraṃ bhadrasya saṃlikhet |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:48"/>cihnāni bodhisattvānāṃ pūrvādikramato likhet ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:49"/>iti nirdeśaḥ ||   ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:50"/>% anne kuṇḍanirdeśaḥ?
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:51"/>palāśodumbarāśvatthakāśmaryāmrakadambakāḥ |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:52"/>śamīplakṣavaṭākṣīraraṣoruhasaṃbhavā (?) ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:53"/>% °plakṣa° ] \emend, °pūkṣa° \ms
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:54"/>svasvayugmaikalagnāgrāḥ sārdrā dvipatrikātmikāḥ |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:55"/>ghṛtamākṣikadadhyājyakṣīrikhaṇḍakamiśritaiḥ ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:56"/>% °ājya° ] \emend, °ākhya° \ms
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:57"/>pañcāmṛtasugandhibhiḥ mrakṣitāḥ snāpitāḥ punaḥ |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:58"/>kaniṣṭhāṅgulimānena sthūlāḥ samanthidā (?) punaḥ ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:59"/>% anne samacchidā?
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:60"/>dvādaśāṅgulavikhyātā agrabhāgāṃś ca tā matāḥ |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:61"/>śīrṇāgurukṛśadīrghavaktratvadoṣavarjitāḥ ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:62"/>% °doṣavarjitāḥ ] \conj, °varjitāḥ \ms
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:63"/>jantubhir bhakṣitā naiva sapatrāḥ satvacaḥ śubhāḥ |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:64"/>hrasvā vidyāvināśāya vidalā rogakṛt subhā (?) ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:65"/>% anne smṛtā?
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:66"/>śīrṇā āpakṣayaṃ kuryād daurbhāgyaṃ kurvate †...† |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:67"/>†...† vaktrāḥ sthānabhraṃśaṃ dvidhāgrikāḥ ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:68"/>kalahaṃ kurvate sthūlā kṛśā sarvavināśikā |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:69"/>śuṣkā lakṣmīvināśāya tasmād etā vivarjayet ||   ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:70"/>aparair vastubhis tāvat pravakṣyāmi samāsataḥ |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:71"/>śālitaṇḍuladhānyākhyatilatūlakabījakam ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:72"/>% anne °ājya°?
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:73"/>siddhārthayavagodhūmamāṣadadhyaktabhaktakam |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:74"/>dadhikṣīramadhūśaktulājakas tu viśeṣataḥ ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:75"/>pañcakṣīrāny uttamākhyaṃ caturdaśāṅgulakaṃ sṛjet |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:76"/>śāntikarmaṇi kāṣṭhaṃ tu kītataimibhya(?)varjitam ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:77"/>pauṣṭike śyāmatilākhyā māṣāśāliyavodanam |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:78"/>gandhaṃ kuṅkumaṃ kṣīraṃ ghṛtaṃ māṣikam eva ca ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:79"/>ghṛtakṣīrāktaṃ yejīnāṃ (?) āhutyā tu viśeṣataḥ |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:80"/>tataḥ pañcakṣīrakaṃ kāṣṭhaṃ caturdaśāṅgulaṃ tv iha ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:81"/>tiktaraktakuṇṭānāṃ priyaṅgunāgapuṣpayoḥ |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:82"/>phalaṃ saṃgṛhya vaśyākhye āsurīnatapuṣpikā ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:83"/>madhunā sarpiṣā yuktā vāsako devadārukaḥ |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:84"/>puṃnāgo vaṭaś caiva pūrvoktakāṣṭham eva ca ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:85"/>dvādaśāṅgulamānena hotavyaṃ mantriṇā punaḥ |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:86"/>kṛṣṇatilasya māṣānāṃ bhallāṭakaphalakālakam ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:87"/>kaṭutailena cāloḍya raktamiśraṃ viśeṣataḥ |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:88"/>kaṭubhallāṭakayogaś caiva phalaṃ malūram (?) eva ca ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:89"/>śuṣkakāṣṭhaṃ tayoś caiva tad aṣṭāṅgulamānakam |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:90"/>†...† abhicārakarmaṇi ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:91"/>sarṣapamuṅgamāṣasya pāyadhūlī tu miśritam |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:92"/>raktākṣatīkṣṇatailena āloḍyaṃ tatra karmaṇi ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:93"/>kāṣṭhaṃ kāñcanavṛkṣasya vāsakasya viśeṣataḥ |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:94"/>uccāṭane sadāvaśyaṃ hotavyaṃ mantriṇā punaḥ ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:95"/>matsyamāṃsāni dravyāṇi kaṇikāyavamāṣakāḥ |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:96"/>sarve &#x27;pi vrīhayo &#x27;vaśyaṃ manuraktavilohitāḥ ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:97"/>kākapakṣaś ca tadvāsaḥ kāṣṭhaṃ ca danukāṣṭhakam |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:98"/>% ca [\ms13\recto] danu°
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:99"/>utsṛṣṭakāṣṭhakenāpi juhuyāt stambhakarmaṇi ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:100"/>samidho bodhivṛkṣasya phalapañcaśatāni ca |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:101"/>śrīphalasyaiva dadhnā ca ghṛtena madhunā tathā ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:102"/>āloḍya cāhutiṃ dadyāc ciraṃ naṣṭāśriyaṃ sṛjet |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:103"/>karoti yasya cārthāya purasthaṃ taṃ vibhāvayet |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:104"/>siktaṃ rājyaśriyā saṃyak labhec ca sarvasaṃpadam ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:105"/>% cf. Catuṣpīṭha?
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:106"/>guhyahomaṃ pravakṣyāmi yena saṃpadyate sukham |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:107"/>gomāṃsaṃ śāntir uddiṣṭaṃ stambhanaṃ gajamāṃsakaiḥ ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:108"/>preraṇe coṣṭramāṃsaṃ ca vidveṣe māhiṣaṃ tathā |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:109"/>nṛmāṃsaṃ māraṇe proktaṃ mūke cchāgalameṣavadbha (?) ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:110"/>% anne °meṣavat?
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:111"/>unmāde kharamāṃsaṃ ca śaśamāṃsaṃ kharakarmaṇi |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:112"/>ākṛṣṭau ṭiṭṭibhaṃ māṃsaṃ juhuyāt siddhidaṃ tathā ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:113"/>pūrvāmukhena śāntyarthaṃ pauṣṭike cottarāmukham |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:114"/>dakṣiṇābhimukho bhūtvā abhicārakakarmaṇi ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:115"/>ūrdhvāsyī karṣaṇaṃ kuryāt sarvadikṣu nirīkṣaṇāt |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:116"/>paścimābhimukho vaśye juhuyād vidhikovidaḥ ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:117"/>śāntike cakracihnaṃ tu puṣṭau maṇimudrayā |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:118"/>vaśye tu padmavikhyātaṃ vajrakrodhā ca māraṇe ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:119"/>vajrāṅkuśī tathākṛṣṭau jñātavyaṃ phalakāṅkṣibhiḥ |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:120"/>pañcayogena caitena homakarmaprasādhanam ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:121"/>śāntike śānticittena pauṣṭike pauṣṭacetasā |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:122"/>vaśye cotkaṇṭhacittena preraṇe duḥkhacittataḥ ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:123"/>māraṇe krūracittas tu karkaṣāsanasaṃsthitaḥ |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:124"/>rukṣakṣatajasadbolacailācchāditavigrahaḥ ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:125"/>svakroḍaliṅgakārūḍhapādo &#x27;py utkuṭako &#x27;tha vā |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:126"/>pādena pādam ākramya dantair dantān vighāṭayan ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:127"/>krūraṃ kruddho bhṛkuṭyāsyaś caturdaśy aṣṭamī punaḥ |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:128"/>kṛṣṇayor ekadine kuryāt krodhaparyaṅkasaṃsthitaḥ ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:129"/>kaṭhorakrodhayogena kuryād yadā tadāpi vā |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:130"/>ucce sukhāsanāsīnaḥ paryaṅkī raktamānasaḥ |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:131"/>vaśye puṣṭau samākarṣe uktaṃ digmukhalakṣaṇam ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:132"/>iti samidhadiśonirdeśaḥ ||   ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:133"/>hematāmramayī pātrī yajñakāṣṭhair athāpi vā |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:134"/>nimbakāṣṭhamayī cāpi sā ca padmadalākṛtiḥ ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:135"/>dairghyeṇāṣṭāṅgulā khyātā tiryak caturaṅgulā punaḥ |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:136"/>dvyaṅgulanimnamadhyāpi tatrāpy aṅgulavajrikā ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:137"/>supramāṇanarāṅguṣṭhaiḥ caturviṃśatibhiḥ punaḥ |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:138"/>tasyāś cāmuṣṭidaṇḍā syān muṣṭis tu caturaṅgulā ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:139"/>ūrdhvaṃ triśūlavajrālī kaṇiṣṭhā rasanālikā |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:140"/>jyeṣṭhāṅgulapramāṇo vā caturasrā suśobhanā ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:141"/>vajraratnānudaṇḍādha tacchatraṃ gulamānakam | (?)
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:142"/>utkīryāṣṭadalaṃ padmaṃ padmordhvaṃ ratnam eva ca ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:143"/>makaraṃ vā prakurvīta pātryadhaḥ padmaśobhitā |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:144"/>muṣṭisthūlakadaṇḍā tu daṇḍamūlakapadmikā ||   ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:145"/>evaṃbhūtā tu pātrī syāc chruvālakṣaṇam ucyate |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:146"/>hemādyuktamayanāt syāt tādṛkvasupramānikam (?) ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:147"/>dvyaṅguṣṭhaṃ pātrikāvat sarvaṃ tuḍujya(?)lakṣaṇam ucyate |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:148"/>pātrīsrūvor abhāve tu tat sarvāṅguliyogataḥ ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:149"/>dadyāt pūrṇāhutiṃ samyak tryaṅgulenaitatrāṃ gatim |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:150"/>atha vā bodhivṛkṣādipāṭhorṇikayā kṛtī |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:151"/>dadyād āhutam ity āhur ācāryā nītikovidāḥ ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:152"/>pātrīsruvānirdeśaḥ ||   ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:153"/>pratiṣṭhādyaṅgabhūtatvād vajraghaṇṭākhyayor iha |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:154"/>pīṭhatantrānusāreṇa tayor lakṣaṇam ucyate ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:155"/>% NB Catuṣpīṭha as source
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:156"/>svarṇatāmrakarauyyākhya(?)pittalair ghaṭitaṃ punaḥ |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:157"/>āyāmapariṇāhābhyāṃ śamaṃ śaktyanurūpataḥ ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:158"/>tatra tribhāgikaṃ vajraṃ daśāraṃ ca dvibhāgataḥ |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:159"/>madhyabhāgas tu muṣṭiḥ syāt tad viśeṣeṇa ucyate ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:160"/>pañcārāḥ pañca buddhāḥ syur madhye vairocano mataḥ |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:161"/>pūrvādiṣv api cārāsu akṣobhyāditathāgatāḥ ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:162"/>makarāsyanirgatāḥ sūcyaś catustryasādiphallikā |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:163"/>kuḍmalotpalākāra (?) candramaṇḍalasaṃsthitaḥ ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:164"/>tadadhaś cāṣṭadalaṃ padmaṃ tatrāṣṭau jinasūnavaḥ |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:165"/>tatra teṣāṃ tu cihnāni bījaṃ vā tad ihocyate ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:166"/>padmapāṇeḥ sarojākhyaṃ maitreya nāgapuṣpakam |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:167"/>gaganagañjīyacihnaṃ tu gaganopari ratnakam ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:168"/>bhadrasya yakṣanāthasya vajraṃ mañjusvarasya ca |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:169"/>khaḍgaṃ bhiṣkambhinaś cihnaṃ cakraṃ kṣmāgarbhasaṃmatam ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:170"/>praṇavaḥ padmapāṇes tu maiṃbījam ajitasya ca |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:171"/>oṃkṛtir gaganagañjasya nāmādyaṃ bhadrabījakam ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:172"/>praṇavo vajrapāṇes tu hūṃ mañjuśriyaḥ sṛjet |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:173"/>bhiṣkambhino &#x27;pi praṇavaḥ kṣāṃkāraṃ kṣitigarbhake ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:174"/>pūrvādidale sthāpyaṃ bījaṃ vā cihnam eva vā |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:175"/>aṣṭāṅgāni dalāni syur madhye tatrāṇḍakākṛtiḥ ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:176"/>tatra vairocanam ālīnaṃ tridaśālayaveśmani |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:177"/>tadadho &#x27;ṣṭadale padme vidyādevyo yathākramam ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:178"/>vajrāṅkuśī ca pāśī ca sphoṭī tārā ca dikṣu ca |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:179"/>cuṇdā vidikṣu ratnolkā śṛṅkhalā tv aparājitā ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:180"/>cihnam āsāṃ prasiddhaṃ vā nāmādyam akṣaram eva vā |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:181"/>tad uktaṃ kramaśūkeṣu vakṣyate vajrayoṣitaḥ ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:182"/>pūrvato vajraḍākī syād uttare ghoraḍākinī |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:183"/>paścimena tu vettālī caṇḍālī dakṣiṇe smṛtā ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:184"/>madhyaśūke tu vijñeyā jñānaḍākinikā punaḥ |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:185"/>sthūlasthūlāś catuḥ śūcyaḥ kṣīṇāgrāḥ kramaśo matāḥ ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:186"/>tīkṣṇā kramanamanmukhāḥ (?) śuddhamadhyayavodarāḥ |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:187"/>anyonyasadṛśākṛtiḥ hrasvā madhyamikā punaḥ ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:188"/>caturasrā kramakṣīṇā tīkṣṇānāmikā matā |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:189"/>vajralakṣaṇavinyāsaḥ ||   ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:190"/>tribhāgikā bhaved ghaṇṭā tatrakāsmaikabhāgikā (?) |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:191"/>bherī tanmadhyam ākāśaṃ tiryagmāyāmataṃ mukham ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:192"/>tanmadhye jñānadaṇḍākhyaṃ sṛṣṭisaṃhārakāraṇam |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:193"/>ghaṇṭā digādibhāge ca devatāś cintayed imāḥ ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:194"/>tārā pūrvadiśe cintyā pāṇḍarā cottare bhavet |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:195"/>vāruṇyāṃ māmakī khyātā dakṣiṇe locanā matā ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:196"/>vasudhārā ca cundā ca bhṛkuṭī vajramālikā |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:197"/>devyaḥ koṇe ca vijñeyā cihnāṃ vāśānu(?)bījakam ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:198"/>hārārdhahāracandrārkavajrālīdvayabhūṣaṇam |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:199"/>madhyaṃ tac chūnyamadhyaṃ vai rūpadhātusvabhāvakam ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:200"/>ārūpyadhātuśuddhaṃ tu sphuṭitaṃ śuddham utpalam |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:201"/>% śuddha[\ms13\verso]m
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:202"/>tadūrdhvaṃ candramadhyasthaṃ hemādikalaśaṃ nyaset ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:203"/>pīyūṣadravasaṃpūrṇaṃ sadhūtaphalapallavam |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:204"/>tataḥ prajñāmukhaṃ śuddhaṃ prajñāpāramitodayam ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:205"/>rūpaśobhā
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:206"/>pūrvoktadevatācihnabījavinyāsasaddalam (?) |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:207"/>tato dvibhāgato vajraṃ pūrvavat sarvarūpakam ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:208"/>kuḍmalāmbhoruhamukhī syād ghaṇṭā kvāpi ca gomukhī |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:209"/>pañcadhā kamalāvartaṃ kṛtvā cāṣṭasu dikṣu ca ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:210"/>ghaṇṭāvādaṃ prakurvīta nādena pūrayan nabhaḥ |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:211"/>candraṃ vā makaraṃ bījaṃ sūryaṃ dakṣiṇam eva ca ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:212"/>sveṣṭadaivatayogātmā hūṃkāragītikārakaḥ |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:213"/>uttare vajram ullālya sarvabuddhāṃs tu rañjayet |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:214"/>prajñopāyavidhānena ghaṇṭāvajraprayogataḥ ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:215"/>sohia vajjam ullālu tāria sattavimokkhu |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:216"/>dhammu vimokkhe kājjavaru vajja hu cchāya dharantu |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:217"/>oṃ vajraghaṇṭe hūṃ hoḥ | oṃ vajraghaṇṭe raṇite praraṇite sarvabuddhapracālite prajñāpāramitānādasvabhāve vajradharahṛdayāvatoṣaṇi hūṃ hūṃ hūṃ hoḥ hoḥ hoḥ aḥ aḥ aḥ svāhā ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:218"/>vajraṃ tattvena gṛhṇīyād ghaṇṭāṃ dharmeṇa vādayet |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:219"/>prajñopāyasamāyogāt sattvārthaṃ kurute vratī ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:220"/>atattvena tu yogena ghaṇṭāvādanatatparaḥ |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:221"/>na tasyeṣṭārthasiddhiḥ syād dhastighaṇṭeva nādati ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:222"/>ghaṇṭoddeśaḥ ||   ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:223"/>homa ucyate ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:224"/>agnihotrādim ādāya śāntau dvijasattamāt |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:225"/>āhitānāṃ ca homāgniṃ manthanād araṇer api ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:226"/>puṣṭau sāṃghikavahni mahānasād araṇer api |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:227"/>rājarājanyaveśmasthaṃ gṛhṇīyād atha māraṇe ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:228"/>narāsthicitikā smaukhyā (?) caṇḍālāgārajo &#x27;nalaḥ |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:229"/>vaśye veśyāgṛhasthāyī pāvakaḥ pānthajaḥ punaḥ ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:230"/>ākṛṣṭau naṭajaś cāpi niścayo vahnikarmasu |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:231"/>vijñātavyaṃ prayatnena mantriṇā tantrasaṃsthitaḥ ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:232"/>agnyuddeśaḥ ||   ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:233"/>tataḥ kuṇḍe samāropya śuṣkakakṣe tu pāvakam |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:234"/>ghṛtenābhyukṣitaṃ kṛtvā jvālayed vyajanādibhiḥ ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:235"/>oṃ jvala 2 hūṃ phaṭ ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:236"/>siddhārthān atha saṃgṛhya śatadhā cāṣṭaviṃśakena vā |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:237"/>vighnāntakasya mantreṇa parijapya diśo daśa ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:238"/>% parijapya ] \emend, parija \ms
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:239"/>prakṣipya kuṇḍamadhye tu vighnān utsārya mantravit |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:240"/>prasārya savyahastaṃ ca sālayed (?) bhāvanānvitaḥ ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:241"/>oṃ hana 2 vajrakrodhe hūṃ ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:242"/>vahniśodhanamantraḥ ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:243"/>kuṇḍe tu bhāvayed vahniṃ sarojāsanasaṃsthitam |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:244"/>kapilavarṇajaṭājūṭaṃ guḍābhaṃ cākṣamālinam ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:245"/>rūṃkārabījasaṃbhūtaṃ śubhravastravibhūṣitam |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:246"/>jvālāmālāprabhādīptaṃ pūjayet pūjyavastubhiḥ ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:247"/>yathā saṃbhāvyate tatra juhuyād vidhivat tathā |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:248"/>vahnau jihvāṃ vibhāvyaivaṃ svamudrāṃ tasya darśayet |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:249"/>dvau hastāv añjaliṃ kṛtvā padmākāraṃ vikāsayet ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:250"/>oṃ kamalābhe svāhā |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:251"/>mudrāmantraḥ ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:252"/>madhyam ucchritam aṅgulyāḥ sarvasyās (?) tu viśeṣataḥ |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:253"/>vahner hṛdayamudrā syān mantro &#x27;py asyās tu kathyate ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:254"/>oṃ kuru 2 sva svāhā ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:255"/>vahner hṛdayamudrāmantraḥ |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:256"/>kuśadvayaṃ tu saṃgṛhya na hrasvaṃ nātidīrghakam |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:257"/>pūrvādidikṣu tad dadyāt vidikṣu prāṅmukhaṃ tataḥ ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:258"/>kuśanyāsaḥ ||   ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:259"/>tadagnirūpam ādhṛtya karmānurūpabhedataḥ |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:260"/>kuṇḍābhayadaṇḍākṣajāpyamālākaraḥ paraḥ ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:261"/>kharvalambodaraḥ śrīmān bhujacatuṣṭayabhūṣitaḥ |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:262"/>śāntikādiprabhedena śubhrādivarṇakojjvalaḥ ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:263"/>śāntādirasasaṃpūrṇas tanur vastrādibhūṣitaḥ |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:264"/>jaṭājūṭavibhūṣākhyamaṇḍitottarasadvapuḥ ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:265"/>evaṃbhūtaṃ tu vajrāgniṃ saṃvīkṣya bhāvanānvitam |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:266"/>nabhaso jñānasattvaṃ ca samākṛṣyaiva taddhṛdi ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:267"/>praveśya mantramudrādyais tato brūyād idaṃ vacaḥ |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:268"/>ehi ehi mahābhūta devarṣi dvijasattama ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:269"/>saṃgṛhyāhutim etāṃ vai asmin saṃnihito bhava |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:270"/>itim (?) arghapādyādyācamanaprokṣaṇādikam ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:271"/>dattvā pātrīṃ sruvāṃ caiva ghṛtasaṃpūrṇakāhutim |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:272"/>prasādya ca vaded evaṃ mantraṃ dṛḍhaṃ samāhitaḥ ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:273"/>oṃ agnaye ādīpya 2 āviśa 2 samayaśriye havyabhug havyavāhanāya arghaṃ pratīccha svāhā ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:274"/>tato dūrvādvayaṃ tailāktaṃ juhuyāt ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:275"/>oṃ vajrapuṣpe svāhā ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:276"/>sarpiṣaḥ | [oṃ] agnaye svāhā |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:277"/>oṃ sarvapāpadahanavajrāya sarvapāpaṃ daha svāhā | tilānām |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:278"/>oṃ vajrapuṣṭaye svāhā | akhaṇḍasitataṇḍulānām ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:279"/>oṃ mraṃ (?) svāhā | dadhibhaktasya ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:280"/>oṃ vajrabījāya svāhā | dhānyānām ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:281"/>oṃ mahāvegāya svāhā | yavānām ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:282"/>oṃ mahābalāya svāhā | māṣāṇām ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:283"/>oṃ vajraghasmare svāhā | godhūmānām ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:284"/>oṃ apratihatavajrāya svāhā | kuśānām ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:285"/>oṃ vajrayajñāya svāhā | audumbarasya ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:286"/>oṃ bodhivṛkṣāya svāhā | aśvatthasya ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:287"/>oṃ vajralatāya svāhā | plakṣasya ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:288"/>oṃ vajrakuverāya svāhā | nyagrodhasya ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:289"/>oṃ sahakārāya svāhā | cūtasya ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:290"/>atha vā campakāśokaṃ puṃnāgaṃ ca kadambakam |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:291"/>arjunaṃ vā yathāvāptyā japtvā puṣpāṇi homayet ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:292"/>drākṣādyaṃ ca palāśaṃ kharjuraṃ nārikelakam |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:293"/>phalāni homayet prāptyā pañcacakravidhikramaiḥ ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:294"/>pañcāmṛtaṃ pañcamāṃsaṃ pañcamaṇḍalabhāvanaiḥ |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:295"/>anena tuṣyate mantrī jñānavahnipratoṣaṇāt ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:296"/>pūrṇāhutiṃ tato dattvā srakcandanavastrakaiḥ |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:297"/>pūjayitvā lābhiḥrllāpate (?) pāvakas tathā ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:298"/>% [\ms14\recto] pāvakas
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:299"/>kuṇḍamadhye tato dhyāyāt sveṣṭadevatāmaṇḍalam |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:300"/>candravajrādiyogena karmānurūpataḥ kṛtī ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:301"/>niṣpādyārghapādyādi prāgvad dadyād vidhānataḥ |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:302"/>sarveṣāṃ havyadravyānāṃ dadyād āhutikān tridhān ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:303"/>vajrajihvāmukhadvāre haste vācamanaṃ tataḥ |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:304"/>pādayoḥ pādyakaṃ dadyāt śirasi puṣpaṃ viśeṣataḥ ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:305"/>dhūpaṃ ca purato caiva prabhāyāṃ samitaṃ (?) tathā |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:306"/>candanaṃ mastake deyaṃ saṃpūjya kusumādibhiḥ ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:307"/>pātṝn tu sarpiṣāpūrya gṛhītvā ca mahāśruvā |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:308"/>sveṣṭadaivatayogena dadyāt pūrṇāhutiṃ sudhī ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:309"/>oṃ samantabuddhānām agnaye svāhā ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:310"/>śrīvatsacāmarapatākādhvajacchattrābjasaṃnibhaḥ |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:311"/>ghaṇṭākhaḍgatriśūlākhyo līlābhogāpasaṃnibhaḥ ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:312"/>prabhātādityasaṃkāśasvastikendradhanuḥprabhaḥ |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:313"/>dakṣiṇāvartakasnigdhavidrumasvarṇasaṃnibhaḥ ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:314"/>kusumbharūpyavaidūryadīptiśuddhanirmalaḥ |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:315"/>nirdhūmasurabhir veṇumṛdaṅgadhvanir uttamaḥ ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:316"/>pāvakaś caikaśikhaḥ śreṣṭhaḥ śāntikādau praśasyate |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:317"/>dviśikho madhyamaḥ prokto hīnas triśikham eva ca ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:318"/>bahudhūmo &#x27;śubho mandavṛttiś chinnaśikhaprabhaḥ |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:319"/>rukṣaḥ kṛṣṇapalāśābhaḥ sthūlagośīrṣasaṃnibhaḥ ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:320"/>visphuliṅgakharadhvānaḥ śmaśānagandham āvahet |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:321"/>nimittair aśubhaiḥ proktai rakṣākuṇḍalināv ubhau ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:322"/>vahnilakṣaṇanirdeśaḥ ||   ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:323"/>adhunā tu śāntikādau mantroccāraṇam ucyate |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:324"/>śāntau svāhākṛtiṃ dadyād oṃkāraḥ pauṣṭike mataḥ ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:325"/>phaṭkāro abhicāre syāj jaḥkārākarṣaṇe mataḥ |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:326"/>baṃkāro bandhane khyāto hūṃkāro rakṣaṇe mataḥ ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:327"/>hūṃkāro māraṇe jñeyaḥ śrīkāro dhanakarṣaṇe |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:328"/>ārāgaṇe ca hoḥkāro bhrūṃkāras tarjane smṛtaḥ ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:329"/>nirdhāraṇe ca hīṃkāro hrīḥkṛtir viśvarūpikā |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:330"/>% anne nivāraṇe?
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:331"/>adṛśyatve ca aṃkāraṃ āḥ sādhane haḥ plāvane ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:332"/>maṇḍalasādhane dhīś ca hūṃkāro dharmajñāpane |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:333"/>vidarbhya tāni bījāni tataḥ karmānurūpataḥ ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:334"/>ācāryo homayen nityaṃ tatas tuṣyanti vajriṇaḥ |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:335"/>śāśvato hi jinas tuṣṭas taptacāmīkaraprabhaḥ ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:336"/>% jinastastu \ms
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:337"/>padmanarteśvaras tuṣṭas tuṣṭo vājivarāṃ patiḥ |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:338"/>brahmā śakro maheśaś ca viṣṇur vāyur mahābalaḥ ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:339"/>kāmadevo halīś caiva candrasūryau tathā grahāḥ |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:340"/>pṛthvī ca pāśadhārī ca cakravairaḥ kuṇapas tathā ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:341"/>dharmarājaś ca nāgāś ca gandharvāsurakiṃnarāḥ |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:342"/>trāyastriṃśasthitā devā akaṇiṣṭhānivāsinaḥ ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:343"/>mahārājasthitā ye ca paranirmitavartinaḥ |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:344"/>nirmāṇaratidevāś ca śuddhāvāsopagāś ca yet ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:345"/>mārīcī lokadhātusthā mahādhātunivāsinaḥ |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:346"/>caturdvīpasthitāḥ sattvāḥ sthitā ye ca tridhātuṣu ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:347"/>bhājanāḥ sattvalokās tu latāgulmatṛṇādayaḥ |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:348"/>muditābhūsthitā ye ca vimalāyāṃ ye &#x27;pi pāragāḥ ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:349"/>arciṣmatīnivāsāś ca acalāyāṃ kṛtāspadāḥ |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:350"/>dharmameghāsthitā ye ca ye ca durjayavāsinaḥ ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:351"/>dūraṃgamāyāṃ ye prāptāḥ prabhākaryāṃ nivāsinaḥ |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:352"/>daśabhūmīśvarā nāthā āryāṣṭamahāpudgalāḥ ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:353"/>buddhāḥ śrāvakāś caiva khaḍgaviṣāṇarūpiṇaḥ |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:354"/>pretanarakatiryañcadevāsuramanuṣyakāḥ ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:355"/>prītā homavidhānena tathaiva gaṇamaṇḍale |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:356"/>devatā brahmakāyātmāḥ paśyen nityam atandritaḥ ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:357"/>tataḥ puṣpādipūjāṃ ca kṛtvā ghaṇṭāhvaniṃ punaḥ |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:358"/>śatākṣaraṃ samuccārya visṛjed dhomakaṃ punaḥ ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms:359"/>homavidhiḥ ||   ||
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Herukasādhana</title>
+        <author>Bodhigarbha</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Author: Bodhigarbha
+Collection / category: BuddhistNon-Scriptures / T02
+Source: OCR / Dharmamitra
+Edition / witness: HSS 14, 155v5--160r7
+Tibetan: D 1227 (Q 2356) [paraphrase?]
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Unpublished diplomatic transcription, based on manuscript HSS 14, ff. 155v5–160r7, intercalated with the Tibetan canonical translation (Degé Tengyur, D 1227, rgyud, zha, ff. 31b–34a).</note>
+          <idno type="dharmanexus">SA_T02_BodhigarbhaGarbhapāda_Herukasādhana</idno>
+          <ref target="https://dharmamitra.org/db/sa/SA_T02_BodhigarbhaGarbhapāda_Herukasādhana/text">https://dharmamitra.org/db/sa/SA_T02_BodhigarbhaGarbhapāda_Herukasādhana/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-12">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:0"/>namaḥ śrīvajraḍākāya ||
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:1"/>% @##/ /rgya gar skad du/ shrI he badzra nA ma sA d+ha naM/ bod skad du/ dpal kye rdo rje zhes bya ba&#x27;i sgrub pa&#x27;i thabs/ /dgyes pa&#x27;i rdo rje la phyag &#x27;tshal lo/ /
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:2"/>evaṃkāre samāsīnaṃ caturānandajaṃ vibhum |
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:3"/>ādimadhyāntanirmuktaṃ taṃ name vajradhāriṇam ||
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:4"/>% e waM nyid bzhugs rje bo mgon po bzhi//dang po tha ma dbus las rnam par grol/ /rdo rje &#x27;dzin pa khyod la phyag &#x27;tshal lo/ /
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:5"/>gurubuddhān namaskṛtya dharmaṃ saṅghaṃ ca bhaktitaḥ |
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:6"/>caryāvajrānyavṛddhāṃś ca vakṣye hevajrasādhanam ||
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:7"/>% bla ma dang sangs rgyas dang chos dang dge &#x27;dun rgan pa rnams kyi rkang pa la/ dad pa spyod pas phyag btsal nas bri/
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:8"/>prathamābhyāsakālasya sthānaṃ ca kalpitaṃ śubha |
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:9"/>yatrasthaḥ sidhyante mantrī ekacittaḥ samādhitaḥ ||
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:10"/>% dang por gnas bstan par bya ba ni/
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:11"/>ekavṛkṣe śmaśāne vā bhāvanā kathyate śubhā |
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:12"/>mātṛgṛhe tathā rātrau vijane prāntare &#x27;tha vā ||
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:13"/>% shing gcig [D31b] gam ni dur khrod du//de bzhin ma mo&#x27;i khyim dag gam/ /yang na dben pa&#x27;am bas mtha&#x27; ru/ /der ni bsgom pa bzang bar gsungs/ /
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:14"/>svahṛdi bhāvayed rephaṃ tadbhavaṃ ravimaṇḍalam |
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:15"/>tatraiva hūṃkṛtiṃ caiva prajñopāyasvarūpakam ||
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:16"/>% zhes &#x27;byung bas na gnas der ram/ rang nyams dga&#x27; ba&#x27;i gnas su &#x27;dug nas/ sems rtse gcig pa&#x27;i ting nge &#x27;dzin la rnal &#x27;byor mnyam pa nyid du byas nas//nub mo rang gi snying gar &#x27;dug nas/ /raM las nyi ma&#x27;i dkyil &#x27;khor/ /de&#x27;i steng du thabs dang shes rab kyi bdag nyid can yi ge hUM/
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:17"/>% wow, what a mess
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:18"/>vyomni bhaṭṭārakaṃ dṛṣṭvā gurukuliśeśvaram prabhum |
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:19"/>pūjayed aṣṭadevībhiḥ sarvālaṃkāradhāribhiḥ ||
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:20"/>% nam mkha&#x27; la bla ma dang sangs rgyas dang byang chub sems dpa&#x27; rnams mthong nas/ lha mo brgyad rgyan gyis brgyan pa spros nas mchod pa/
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:21"/>gaurī mṛgalāñchanaṃ dharti caurī mārtaṇḍabhājanam |
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:22"/>vetālī vārihastā ca bheṣajaṃ dharti ghasmarī ||
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:23"/>% gau rI zla ba&#x27;i snod can/ tsau rI nyi ma&#x27;i snod can/ bet+tA lI dri chu&#x27;i snod can/ g+hasma rI sman gyi snod can/ /
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:24"/>pukkasī vajrahastā ca savarī rasadharī tathā |
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:25"/>caṇḍālī ḍamarukaṃ vāded etābhiḥ pūjayet prabhum ||
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:26"/>% puk+ka sI rdo rje &#x27;dzin pa/ sa pa rI bdud rtsi&#x27;i snod can/ /tsaN+Da lI rnge&#x27;u chung &#x27;dzin ma/ de rnams kyis mchod pa/
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:27"/>ḍombyāliṅgitakandharaṃ mahārāgānurāgataḥ |
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:28"/>iti sampūjya bāhyaiś ca prakuryād deśanādikam ||
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:29"/>% Dom+bi nI reg bya dbyer med pa&#x27;i chags pa chen po dang rjes su chags par byed/de nas phyi&#x27;i mchod pa dang / sdig pa bshags pa dang /
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:30"/>ratnatrayaṃ me śaraṇaṃ sarvaṃ pratidiśāmy aham |
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:31"/>anumode jagatpuṇyaṃ buddhabodhau dadhe manaḥ ||
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:32"/>% dkon mchog gsum la skyabs su &#x27;gro ba la sogs pa bya&#x27;o/ /
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:33"/>prathamaṃ bhāvayen maitrīṃ tadanu karuṇāṃ vibhāvayet |
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:34"/>tṛtīye bhāvayen muditām upekṣāṃ sarvaśeṣataḥ ||
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:35"/>% de nas dang po byams pa dang / gnyis pa snying rje dang / gsum pa dga&#x27; ba dang / bzhi pa btang snyoms su bya&#x27;o/ /
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:36"/>cittaṃ śūnyaṃ punaḥ kuryāt prākṛtāhaṃkārahānaye |
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:37"/>% de nas sems stong pa nyid du byed pa//&#x27;khor ba bdag tu &#x27;dzin pa med par bya/
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:38"/>oṃ śūnyatājñānavajrasvabhāvātmako &#x27;ham ||
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:39"/>% oM shU n+ya tA dz+nyA na badzra swa b+hA ba At+ma kou0f85haM/
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:40"/>repheṇa sūryaṃ purato vibhāvya tasminn adho hūṃbhavaviśvajram |
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:41"/>tenaiva vajreṇa vibhāvayec ca prākārakaṃ pañjarabandhanaṃ ca ||
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:42"/>% de nas yi ge raM las sngon du nyi ma&#x27;i dkyil &#x27;khor bsgom/ de&#x27;i steng du yi ge hUM las rdo rje/ de&#x27;i lte ba la hUM/ de las &#x27;od zer &#x27;phros pas bla re dang / sa gzhi dang / rtsig par gyur/
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:43"/>khadhātau bhagaṃ dhyātvā madhye kurvīta bhāvanām |
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:44"/>cakraṃ kṣoṇīṃ jalaṃ pūrvaṃ yathānyāyaṃ hutāśanam ||
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:45"/>devatānāṃ mahāvāyur bhāvakaś ca yathodayam |
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:46"/>dharmodayodbhavaṃ cakraṃ hārārdhahāraśobhitam ||
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:47"/>catuṣkoṇaṃ caturdvāraṃ vajrasūtrair alaṃkṛtam |
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:48"/>vajrasūtraṃ samāyuktaṃ nānāpuṣpoghaśobhitam ||
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:49"/>% de&#x27;i dbus su nam mkha&#x27;i dbyings kyi &#x27;byung gnas su bsgom pa ni rlung gi dkyil &#x27;khor me&#x27;i dkyil &#x27;khor/ chu&#x27;i dkyil &#x27;khor/ sa&#x27;i dkyil &#x27;khor/
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:50"/>de&#x27;i steng du b+h+rUM las &#x27;khor lo lte ba la b+h+rUM b+h+rUM dang &#x27;khor lo gnyis dbyer med pa las rnam par snang mdzad de dang &#x27;byung bzhi&#x27;i dkyil &#x27;khor gcig tu &#x27;dres nas/chos kyi &#x27;byung gnas kyi dbus su gzhal yas khang du gyur/ gzhal yas khang thog gcig pa/ /sgo bzhi pa twa ran bzhis mdzes pa/ me tog sna tshogs pa&#x27;i gzugs can/
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:51"/>candrālikālimārtaṇḍabījaṃ madhyagataṃ bhavet |
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:52"/>vajravaraṭakamadhyasthaṃ hūṃtattvaṃ vibhāvayet ||
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:53"/>punar ādarśajñānavāṃś candraḥ samatāvān saptasaptikaḥ |
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:54"/>bījaiś cihnaiś ca devasya pratyavekṣaṇam ucyate ||
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:55"/>sarvair aikyam anuṣṭhānaṃ bimbaniṣpattiśuddhitaḥ |
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:56"/>ākāraṃ bhāvayet pañca vidhānaiḥ kathitair budhaḥ ||
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:57"/>sattvabimbasamudbhūtaṃ maṇḍaleśaṃ vibhāvayet |
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:58"/>putravad vajracihnādyaiś candrakāntimaṇiprabham ||
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:59"/>aṣṭāsyaṃ catuścaraṇaṃ bhujaṣoḍaśabhūṣitam |
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:60"/>ratidvandvasamāpannaṃ nairātmyā saha sampuṭam ||
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:61"/>tvayā mayā pure ramye krīḍāratinirbharair nisṛtā |
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:62"/>indre gaurī pūrvadvāreṣu sthitā
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:63"/>manthyamanthānayogena niḥsṛtā caurikā punaḥ ||
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:64"/>niḥsṛtya dakṣiṇe dvāre caurī sadvārapālikā |
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:65"/>bolakakkolayogena vetālī niḥsṛtā punaḥ ||
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:66"/>niḥsṛtya paścime dvāre niṣaṇṇā morabhañjanī |
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:67"/>mahādvandvasamāpattau niḥsṛtā ghasmarī punaḥ ||
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:68"/>niḥsṛtya uttare dvāre niṣaṇṇā ghorarūpiṇī |
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:69"/>dvayor gharṣaṇasaṃyogān niḥsṛtā pukkasī punaḥ ||
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:70"/>niḥsṛtya īśānakoṇe niṣaṇṇā ghorarūpiṇī |
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:71"/>punar manthānayogena śavarī pāvakakoṇake ||
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:72"/>caṇḍālī rākṣasāśāyāṃ ḍombī mārutakoṇake |
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:73"/>% de&#x27;i dbus su A li las zla ba&#x27;i dkyil &#x27;khor/ kA li las [\D32a] nyi ma&#x27;i dkyil &#x27;khor dang /zla ba me long lta bu&#x27;i ye shes nyi ma mnyam pa nyid kyi ye shes dbus su hUM las rdo rje so sor rtog pa&#x27;i ye shes/ gcig tu &#x27;dres pa&#x27;i ngo bo bya ba grub pa&#x27;i ye shes/ rdo rje sems dpa&#x27;i gzugs su gyur pa chos kyi dbyings rnam par dag pa&#x27;i ye shes te/
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:74"/>&#x27;dres pa yi ge hU~M las rdo rje sems dpa&#x27; de mngon par byang chub pa lngas sku bskyed pa&#x27;o/ /zhal dang phyag mtshan yab dang sras su mthun pa/ rdo rje sems dpa&#x27; rin chen zla ba&#x27;i gzugs can/ phyag bcu drug zhal brgyad zhabs bzhi dga&#x27; bar byed pa phyag dang po gnyis kyis bdag med ma la &#x27;khyud pa/
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:75"/>thabs dang shes rab gnyis su med pa&#x27;i byang chub kyi sems zla ba/ gau rI brgya byin phyogs su gnas/ tsau rI yi dags phyogs su gnas/ bet+tA lI chu bdag phyogs su gnas/ g+hasma rI gnod sbyin phyogs su gnas/ bdud bzhi &#x27;joms pa&#x27;i tshul du&#x27;o/ /gtsigs pa&#x27;i gzugs can sgor gnas pa&#x27;o/ /puk+ka sI &#x27;joms pa&#x27;i gzugs can dbang ldan grwar gnas/
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:76"/>sa ba rI me&#x27;i grwar gnas/ tsaN+Da lI bden bral gyi grwar gnas/ Dom+bi nI rlung gi grwar gnas pa&#x27;o/ /
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:77"/>gaṃ caṃ vaṃ ghaṃ puṃ śaṃ saṃ caṃ ṭaṃ iti bījair utsṛjed āsām |
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:78"/>gaM tsaM baM g+haM baM saM laM DaM sa bon las sku rdzogs nas dbyung bar bya/ /
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:79"/>gau rI phyag g.yas na gri gug g.yon na nya/ tsau rI g.yas na rde&#x27;u chung / g.yon na phag /g+ha sma rI g.yas na sbrul/ g.yon pad+ma&#x27;i snod/ pu k+ka sI g.yas seng ge/ g.yon dgra sta/ sa ba rI g.yas na dge slong / g.yon na gseg shad/ tsaN+Da lI g.yas na &#x27;khor lo/ g.yon na thod pa/ Dom+bi nI g.yas rdo rje/ g.yon sdigs mdzug gau rI kha dog nag mo/
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:80"/>tsau rI mdog dmar/ bet+tA lI mdog ser/ g+hasma rI mdog ljang / puk+ka sI mdog sngo/ sa ba rI mdog dkar/ tsaN+Da lI nam mkha&#x27;i mdog /Dom+bi nI kha dog sna tshogs thams cad spyan gsum pa/ skra grol ba/ [\D32b] phyag rgya bzhi dang ldan pa thams cad bzhengs nas/ brkyang bskum du bzhugs pa/ thams cad kyang phyag gnyis pa/ tshangs pa dang /
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:81"/>khyab &#x27;jug dang / drag po dang / gshin rje dang / gnod sbyin dang / srin po dang / lha ma yin rnams/ gau rI la sogs pa rnams kyi gdan no/ / de nas rdo rje sems dpa&#x27; yab yum dang bcas pa &#x27;dod chags chen pos zhu nas/ de nas lha mo bzhis bskul ba/ sna tshogs glu yis rab tu mchod/ /dgyes pa&#x27;i rdo rje&#x27;i thugs rje&#x27;i yid/ /puk+ka sI ni bdag la skyobs/
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:82"/>/bde ba chen po sbyor &#x27;dod pas/ /stong pa&#x27;i rang bzhin bsal te bzhengs/ /stong pa&#x27;i rang bzhin bsal nas ni/ /sa ba rI la dngos grub stsol/ /gal te gson par mchi bzhed na/ /dgyes pa&#x27;i rdo rje bzhengs su gsol/ /tsaN+Da lI ni bdag gis su/ /mthong ba med nas gsol ba yi/ /ci yi phyir na stong par bzhugs//sngon smon bzhin du dpa&#x27; bo rol/
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:83"/>/bdag ni Do m+bi&#x27;i mtshan ma med/ /khyod kyi sems ni shes pa ste/ /thugs rje med pa de mi rung / /sgyu &#x27;phrul lta bur bzhengs su gsol/ /dang po stong pa&#x27;i byang chub sems/ /gnyis pa la ni sa bon &#x27;byung / /gsum pa la ni gzugs rdzogs te//bzhi pa la ni yig &#x27;bru dgod/ /bdag po dga&#x27; ma sa bon gnyis/ /bar ma &#x27;jigs pa sngon po gnyis/
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:84"/>/aM hUM gnyis kyi &#x27;od zer las/ /rdo rje chen po bzhengs pa&#x27;o/ /lha yi gzugs su &#x27;phros nas ni/ /nam mkha&#x27;i khams ni yongs gang pa&#x27;o//snying gar aM hUM la bsdus nas/ /rnal &#x27;byor badzra d+ha ra zhes/ /zhe sdang chen po&#x27;i rang bzhin gyur/ /zhabs bzhi sa la mnan pa yis/ /lha dang lha min &#x27;jigs par byed/ /kha dog nag po &#x27;jigs par byed/
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:85"/>/bdag med ma la bde ba ster/ /rtog pa med pa&#x27;i bde ba rnyed//rtog pa med pa&#x27;i rang bzhin gzugs/ /bdud bzhi rim par zhabs kyis mnan/ /&#x27;jigs pa thams cad &#x27;jigs par byed/ /mgo bo&#x27;i phreng ba rdzogs par bya/ /nyi ma&#x27;i gdan la gar thabs byed/ /sna tshogs rdo rje spyi bor gnas/ /kha dog nag po &#x27;jigs par byed//dang po zhal ni nag po che/
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:86"/>/g.yas kyi zhal ni zla ltar dkar/ /g.yon gyi zhal ni dmar po &#x27;jigs/ /steng gi sngon po gtsigs pa&#x27;i zhal/ /nyi shu rtsa bzhi spyan dang ldan/ /zhal rnams gzhan ni nag po&#x27;o/ /hU~M zhes bya ba&#x27;i sgra &#x27;byin cing / /thal
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:87"/>33a
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:88"/>bas lus kyang byugs pa&#x27;o//smin ma skra yengs ser po yin/ /phyag rgya lnga yis sku la brgyan/ /spyan ni lta stangs khro bor blta/ /lo ni bcu drug tsam gyi tshad/ /glang po rta dang bong bu dang / /ba lang rnga mo mi dag dang / /byi la dang ni seng ge dang /
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:89"/>/g.yas kyi phyag na thod pa brgyad//de rnams rim pa bzhin du gzhag /sa yi lha dang chu yi lha/ /me yi lha dang rlung gi lha/ /zla ba&#x27;i lha dang nyi ma&#x27;i lha/ /gshin rje lha dang nor sbyin no/ /g.yon pa&#x27;i phyag na ban+d+ha brgyad/ /de rnams rim par dgod pa&#x27;o/ /sgeg pa dpa&#x27; ba &#x27;jigs su rung ba dang /rgod dang gshe dang &#x27;jigs par byed pa dang /
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:90"/>/snying rje rngam dang zhi ba la sogs pa/ /&#x27;bar ba&#x27;i gar dgu ro dang ldan/ /shrI ni ye shes mi gnyis pa/ /he ni rgyu sogs rnam par spangs/ /ru ni tshogs dang bral ba ste/ /ka ni gang du&#x27;ang mi gnas pa&#x27;o/ /oM d+harma d+hA tu swa b+hA ba At+ma kou0f85haM/mig gnyis la ni gti mug rdo rje&#x27;o/ /rna ba la zhe sdang rdo rje&#x27;o/ /sna la ser sna rdo rje&#x27;o/
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:91"/>kha la &#x27;dod chags rdo rje&#x27;o/ /reg bya la phrag dog rdo rje&#x27;o/ /yid la bdag med rnal &#x27;byor ma&#x27;o/ /sa la spyod ma lus rdo rje ma/ /mkha&#x27; la spyod ma gsung rdo rje ma//snying gi dbus na gnas pa ni bdag med ma&#x27;o/ /rang gi snying ga&#x27;i sa bon las/ /&#x27;od nag po lcags kyu &#x27;dra ba &#x27;phros pas/ /khams gsum gyi sangs rgyas spyan drangs nas/
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:92"/>/mchod pa lha mo brgyad dag gis bya&#x27;o/ /de nas gsol ba gdab par bya&#x27;o/ /oM a b+hi Shiny+tsa tu mAM sarba badzra ta thA ga ta/ rdzogs nas thams cad he ru ka /sangs rgyas kun gyis dbang bskur mdzad/ /sangs rgyas kun gyi rang bzhin chu/ /bdud rtsi bum pas dbang bskur ro/ /de nas me tog gi char dang / ras dang tsan+dan gyi phye ma dang /
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:93"/>gur gum char du phab pas/nam mkha&#x27;i khams sna tshogs pa&#x27;i sgras gang nas/ sna tshogs pa&#x27;i gzugs kyis mchod pa byas nas/ lo tsa na la sogs pa yis/ /rdo rje&#x27;i glus kyang stod par byed/ /de ltar dbang bskur zin nas/ mi bskyed pa &#x27;khor lo&#x27;i gzugs can/ rna ba snang ba mtha&#x27; yas kyi
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:94"/>33b
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:95"/>bdag nyid//mgul du rin chen &#x27;byung ldan/ /ska rags don yod grub pa/ gdu bu rnam par snang mdzad kyi rang bzhin du dran par bya&#x27;o/ /phyag rgya lnga rnam par dag pa rigs lnga&#x27;o/ /snying rje rnam par dag pa spyan dmar po/ byams pa rnam par dag pa mdog nag po/
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:96"/>byang chub kyi yan lag rnam par dag pa pags pa/&#x27;phags pa&#x27;i bden pa bzhi rnam par dag pa rus pa/ phyag rgya rnam par dag pa sangs rgyas lnga&#x27;o/ /gdug pa&#x27;i sems can gdul ba&#x27;i phyir/ /khro bo&#x27;i gzugs so/ /sha rnam par dag pa puk+ka sI&#x27;o/ /khrag rnam par dag pa sa ba rI&#x27;o/ /byang chub rnam par dag pa tsaN+Da lI&#x27;o/ /rkang rnam par dag pa Dom+bi nI&#x27;o/
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:97"/>/rnam par thar pa brgyad rnam par dag pa zhal brgyad/ lus ngag yid gsum rnam par dag pa spyan gsum/ stong pa bcu drug rnam par dag pa phyag bcu drug /bdud bzhi rnam par dag pa zhabs bzhi/de bzhin gshegs pa mi bskyod pa dang / rnam par snang mdzad dang / rin chen &#x27;byung ldan dang / snang ba mtha&#x27; yas dang / gau rI la sogs pa phyag rgya bzhi&#x27;o/
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:98"/>/sa rnam par dag pa puk+ka sI&#x27;o/ /chu rnam par dag pas ba rI&#x27;o/ /me rnam par dag pa tsaN+Da lI&#x27;o/ /rlung rnam par dag pa Dom+bi nI ru gsungs so//dus gsum du gnas pa las langs nas lha&#x27;i gzugs su bya&#x27;o/ /nyon mongs pa med na sngags kyi bzlas pa bya ste/ oM de ba pi tsu badzra hUM hUM hUM phaT swA hA/ /bya ba thams cad he ru ka&#x27;i gzugs su bya ste/
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:99"/>dngos grub gang &#x27;dod kyang rung ste/ he ru ka&#x27;i gzugs su bya&#x27;o//zla ba drug tu &#x27;dug na dngos grub &#x27;byung ste/ &#x27;khrul pa&#x27;i bsam pa med na/ sangs rgyas kyi rdzu &#x27;phrul thob par &#x27;gyur ro/ /bsgul bskyod thams cad phyag rgya yin/ /brjod pa thams cad sngags yin te/ he ru ka ni gnas pa ni/
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:100"/>/rnam shes yang dag shes pa yin//rgyud las sgrub thabs bsdus pa&#x27;o/ /shes dang mi shes mi dpogs pas/ /zab mo tshul ni gsal byed pa/ /shes rab &#x27;o ma&#x27;i rgya mtsho las/ /skad cig man ngag srubs shing gis/ /slob dpon bde ba&#x27;i man ngag gis/ /bsdus pas bdud rtsi za ba ltar/ /de yi blo yi
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:101"/>34a
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:102"/>shes pa yin//he ru ka yi sgrub thabs &#x27;di/ /legs par gsal bar byas pa ni/ /dgyes pa&#x27;i rdo rje&#x27;i rgyud las brtsams/ /de bzhin gsungs pa&#x27;i rim pa yis/ /bdag gi bsod nams &#x27;di dang ni/ /dpal gyi sngags kyi rim brjod pas/ /yin pa&#x27;i byang chub man dge bas//myur bar sems can grol gyur cig /bla ma dang ni pha ma dang / /&#x27;khor mi rnams kyis thos dga&#x27; ba/
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:103"/>/byang chub snying por byas pa &#x27;di/ /sngon du dran pa&#x27;i ye shes kyis/ /de nyid brjod par byas pa &#x27;dis/ /dpal gyi yid ni rnyed par shog /he badzra&#x27;i sgrub thabs slob dpon byang chub snying pos mdzad pa rdzogs so// //rgya gar gyi mkhan po dAM paM ka ra tsan+d+ra dang / bod kyi lo tsA ba lha btsan po mu ni rA dzas bsgyur te gtan la phab pa&#x27;o//
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:104"/>kṛtvā herukasādhanaṃ sphuṭataraṃ hevajratantroditaṃ tadbhāṣākramasaṅgataṃ padamitaṃ puṇyam mayāsāditaṃ | tenāśeṣakudṛṣṭidoṣavisaravyāmohasukhāśayāḥ (sic for °vyāpohasukhāśayāḥ) sattvāḥ santu sukhaikanimnamanasaḥ śrībodhigarbhātmakāḥ || āryabhāṣoktaṃ śrīherukasādhanaṃ samāptaṃm (sic for samāptam) iti || ||
+<lb n="SA_T02_BodhigarbhaGarbhapāda_Herukasādhana:105"/>kṛtir iyam ācāryagarbbhapāpādānām (sic for ācāryagarbhapādānām or ācāryabodhigarbhapādānām) || (f. 160r5–7).
+    </body>
+  </text>
+</TEI>

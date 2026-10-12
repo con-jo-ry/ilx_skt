@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Padminī (chapter 15: Pātralakṣaṇa)</title>
+        <author>Ratnarakṣita</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Author: Ratnarakṣita
+Collection / category: BuddhistNon-Scriptures / T02
+Source: OCR / Dharmamitra
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Unpublished working edition and transcription, based on Cambridge University Library MS Add. 1698 (CA17, ff. 24v6–25r3), Oriental Institute Baroda MS 13426 (ff. 43v10–44v3), and National Archives Kathmandu MS 5-203 (NGMPP reel B 113/8, pp. 105.13–107.10).</note>
+          <idno type="dharmanexus">SA_T02_Ratnarakṣita_Padminī-Ch15_CA17-corrs</idno>
+          <ref target="https://dharmamitra.org/db/sa/SA_T02_Ratnarakṣita_Padminī-Ch15_CA17-corrs/text">https://dharmamitra.org/db/sa/SA_T02_Ratnarakṣita_Padminī-Ch15_CA17-corrs/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-12">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch15_CA17-corrs:0"/>Padminī Ratnarakṣita
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch15_CA17-corrs:1"/>% some corrections by PDSz
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch15_CA17-corrs:2"/>Ch.15 Pātralakṣaṇa
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch15_CA17-corrs:3"/>% \cod = CA17: 24v6-25r3
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch15_CA17-corrs:4"/>% Baroda 43v10-44v3
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch15_CA17-corrs:5"/>% NAK 5-203 = NGMPP B 113/8, pp. 105.13-107.10
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch15_CA17-corrs:6"/>iha kumārīpūjāyāṃ gaṇacakrādau ca padmabhājanam upasaṃyujyata ity anadhīṣṭam api sāmarthyād adhīṣṭhaṃ vā pātralakṣaṇaṃ nirdiśati | \textbf{athe}tyādi | evam anyatrāpi jñeyam |
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch15_CA17-corrs:7"/>% sāmarthyād adhīṣṭhaṃ] \eme, sāmarthyādhīṣṭaṃ \cod
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch15_CA17-corrs:8"/>% vā] \eme, | vā \cod
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch15_CA17-corrs:9"/>\Tib{&#x27;dir gzhon nu ma&#x27;i mchod pa dang | tshogs kyi &#x27;khor lo la sogs par yang | padma&#x27;i snod {48b2} nye bar sbyar bar bya&#x27;o zhes ba ma zhus pa&#x27;am | shugs kyis zhus pa&#x27;i snod kyi mtshan nyid ston pa de nas zhes pa la sogs pa ste | de ltar gzhan du yang shes par bya&#x27;o ||}
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch15_CA17-corrs:10"/>mṛdādīnām api padmabhājanākāreṇa kṛtatvāt padmabhājanatvam | \textbf{brāhmaṇe}tyādi | na manuṣyajātyā kiṃ tarhi kapālajātyaiva | etad eva darśayati | \textbf{śvete}tyādi | śvetaṃ brāhmaṇajātiḥ | raktasitaṃ kṣatriyaḥ | pītapiṅgalaṃ vaiśyaḥ | śyāmaṃ śūdraḥ | vyatyayas tu chando&#x27;nurodhāt | bhasmādivarṇam antyajaḥ |
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch15_CA17-corrs:11"/>% mṛdādīnām] \eme, mṛdīdīnām \cod
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch15_CA17-corrs:12"/>% padmabhā[24v7]janatvam
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch15_CA17-corrs:13"/>% Baroda reads pītapitapiṅgalaṃ!?
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch15_CA17-corrs:14"/>% vyatyayas] \eme, vyatayas \cod
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch15_CA17-corrs:15"/>% bha[24v8]smādivarṇam
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch15_CA17-corrs:16"/>% antyajaḥ] tya and ja seem to be cancelled but we need them
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch15_CA17-corrs:17"/>\Tib{&#x27;jim pa la sogs pa rnams kyi yang padma&#x27;i snod kyi rnam par byas pa nyid kyi phyi padma&#x27;i snod nyid do {48b3} bram ze zhes pa la sogs pa mi&#x27;i rigs ma yin gyi &#x27;on kyang thod pa&#x27;i rigs nyid do || de dag nyid ston pa dkar po zhes pa la sogs pa ste | dkar po ni bram ze&#x27;i rigs so || dmar po dang dkar po rgyal rigs so ||
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch15_CA17-corrs:18"/>ser po dang dmar ser rje&#x27;u rigs so || ljang khu {48b4} dmangs rigs so || &#x27;khrugs pa ni sdeb sbyor gyi dbang gis so || thal ba la sogs pa&#x27;i mdog ni dman pa&#x27;i rigs so ||}
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch15_CA17-corrs:19"/>\textbf{hīna} iti | dalata[dalato?]visaṃsthānatayā vā [ca| ?, ca Baroda] evam \textbf{adhikaṃ ca} | ārdraḥ (ḥ cancelled?, kept in Baroda) snigdhaṃ ca | athavā padatrayena ca (?) hīnamadhyotkṛṣṭatvam uddiṣṭam | \textbf{rūpām} ityādi subodham |
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch15_CA17-corrs:20"/>% dara = cleaving, breaking; but has to be smth with teeth?
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch15_CA17-corrs:21"/>% -tvam uddiṣṭam] \eme, tvamaddiṣṭaṃ \cod
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch15_CA17-corrs:22"/>\Tib{dman pa zhes pa srab pa dang dbyibs ngan pa ste de bzhin du lhag pa yang ngo || gsher ba ni snum pa&#x27;o || yang na tshig gsum gyis dman pa dang bar {48b5} ma dang mchog bstan to || gzugs zhes pa la sogs pa go sla&#x27;o ||}
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch15_CA17-corrs:23"/>\textbf{parīkṣām} iti nirūpaṇam | \textbf{mantriṇe}ti | mantrī | \textbf{sādhayed} iti gṛhnīyāt | \textbf{brahmaghnam} iti | brāhmaṇebhyo yogino bhayadaṃ | evaṃ goghnaṃ | \textbf{varṇahīnam} iti | aya[śa?]skaraṃ [|] \textbf{mantrabhedanam} iti | mantrasiddher bhedakaṃ | \textbf{aghātī}ti | anupaghātakam |
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch15_CA17-corrs:24"/>% mantrī | [24v9] sādhayed
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch15_CA17-corrs:25"/>% mantrabhedanam] \eme, mantrabhedenam \cod
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch15_CA17-corrs:26"/>\Tib{yongs su brtag ces pa nges par byed pa&#x27;o || sngags pas zhes pa sngags pa&#x27;o || bsgrub par bya&#x27;o zhes pa blang bar bya&#x27;o || bram ze &#x27;joms zhes pa bram ze rnams la rnal &#x27;byor pa&#x27;i &#x27;jigs pa &#x27;byung {48b6} ngo; | de ltar ba lang &#x27;joms pa&#x27;o || sngags pa dman zhes pa grags pa med par byed pa&#x27;o ||
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch15_CA17-corrs:27"/>sngags ni &#x27;jig ces pa sngags kyi dngos grub &#x27;jig pa&#x27;o || ma nyams pa&#x27;i zhes pa nye bar nyams pa med pa&#x27;o ||}
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch15_CA17-corrs:28"/>\textbf{vrataśrāvī}ti | vrataṃ śravituṃ prabandhenotpādayituṃ śīlam asyeti kṛtvā | \textbf{āgneyāsye}ti | agneyīmukhaṃ [|] \textbf{caura} iti | caurākarṣakaḥ | \textbf{strīghātī}ti | dhāra&lt;ka&gt;sya strīvināśakṛt | \textbf{caṇḍālam} iti | dāsyādighātikaṃ [-ghāṭakaṃ in Baroda, -ghātakam in NAK] |
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch15_CA17-corrs:29"/>% -otpā[24v10]dayituṃ
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch15_CA17-corrs:30"/>\Tib{brtul zhugs rgyun zhes pa rgyun gyis skyed par byed pa ste tshul khrims {48b7} kyi zhes pa&#x27;o || me dang ldan pa zhes pa mer kha bltas pa&#x27;o || chom rkun zhes pa rkun po &#x27;gugs par byed do || bud med &#x27;joms zhes pa &#x27;chang ba po&#x27;i bud med nyams par byed pa&#x27;o || gtum po zhes pa bran la sogs pa &#x27;joms par byed pa&#x27;o ||}
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch15_CA17-corrs:31"/>\textbf{pīṭhaḥ syād} iti | pīṭhādibhramaṇe &#x27;khinnaḥ syāt | \textbf{maṇḍaleśvara} iti bahupūjyaḥ | \textbf{sādhakasiddhim} iti | sādhakasyeṣṭasiddhikṛt | yām eva siddhiṃ sādhayitum īhate tāṃ sampādayatīti bhāvaḥ |
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch15_CA17-corrs:32"/>% &#x27;khinnaḥ] khi spelt out again between the lines
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch15_CA17-corrs:33"/>% maṇḍaleśva[24v11]ra
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch15_CA17-corrs:34"/>\Tib{gnas su &#x27;gyur zhes pa {49a1} || gnas la sogs par &#x27;gro ba la mi skyo bar &#x27;gyur ro || dkyil &#x27;khor dbang phyug ces pa mang po&#x27;i mchod pa bya&#x27;o || sgrub pa po&#x27;i dngos grub ste || zhes pa sgrub pa po&#x27;i &#x27;dod pa sgrub par byed pa ste | dngos grub gang sgrub par &#x27;dod pa ste phun {49a2} sum tshogs par byed do zhes dgongs pa&#x27;o ||}
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch15_CA17-corrs:35"/>\textbf{catuṣkalam} iti | catuḥkhaṇḍaṃ | \textbf{bhaikṣakam} iti | bhikṣālābhakṛt | \textbf{siddhisādhananiṣphalam} iti | śāntyādisiddhisādhane niṣphalaṃ | krūre tu yujyata ity abhiprāyaḥ | śrotovaśād api jātir nirūpaṇīyety āha | \textbf{eke}tyādi | etac ca jalaṃ bhṛtvā jñeyam |
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch15_CA17-corrs:36"/>% śā[25r1]ntyādi-
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch15_CA17-corrs:37"/>% -niṣphalam] \corr, nisphalam \cod
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch15_CA17-corrs:38"/>% niṣphalam] \corr, nisphalaṃ \cod
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch15_CA17-corrs:39"/>% api] \eme, api | \cod
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch15_CA17-corrs:40"/>% jātir] \eme, jāti° \cod
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch15_CA17-corrs:41"/>\Tib{cha bzhi pa zhes pa dum bu bzhi pa&#x27;o || slong mo pa zhes pa slong mo rnyed par byed pa&#x27;o || dngos grub sgrub pa&#x27;i &#x27;bras bu med || ces pa zhi ba la sogs pa&#x27;i dngos grub sgrub pa la &#x27;bras bu med de | drag po la ni sbyar {49a3} bar bya&#x27;o zhes dgongs pa&#x27;o ||
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch15_CA17-corrs:42"/>bu ga&#x27;i dbang gis kyang rigs la sogs pa nges par bya&#x27;o zhes gsungs pa bu ga zhes pa la sogs pa&#x27;o || &#x27;di dag kyang chu blugs te shes par bya&#x27;o ||}
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch15_CA17-corrs:43"/>\textbf{padmābhaṃ padmalāñchanam} iti | vikacapadmavat suvṛttaṃ saṃsthānatayā tadvarṇatayā vā [= ca |?] \textbf{śuktijam} iti | muktāmāleva śvetabinduvittatvāt |
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch15_CA17-corrs:44"/>% padmābhaṃ] \eme, padmābhe \cod
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch15_CA17-corrs:45"/>% tadvarṇa[25r2]tayā
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch15_CA17-corrs:46"/>\Tib{padma lta bu padmas mtshan || zhes pa padma rgyas pa ltar dbyibs shin tu zlum pa nyid {49a4} dang de&#x27;i kha dog nyid kyis so || mu tig bcas zhes pa mu tig gi phreng ba lta bu&#x27;i thig le dkar po&#x27;i phreng ba dang ldan pa nyid las so ||}
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch15_CA17-corrs:47"/>etad uktaṃ | saṅgrāmabhūmau saṅgrāmasama[ya?]patitānāṃ mahāśmaśānā{ṃ}dyutsṛṣṭānām vā kapālāni nirūpyoktadoṣarahitaṃ | yathoktaguṇayuktaṃ | yoginaikam avaśyaṃ dhāryam iti || pañcadaśapaṭalavyākhyā || o ||
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch15_CA17-corrs:48"/>% avaśya[25r3]dhāryam
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch15_CA17-corrs:49"/>% avaśyaṃ] \eme, avaśya° \cod
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch15_CA17-corrs:50"/>\Tib{&#x27;di ltar gsungs te &#x27;khrug pa&#x27;i sar g-yul sprad de shi ba&#x27;am | yang na dur khrod chen po la sogs par bor ba rnams kyi thod pa {49a5} brtags nas gnas pa&#x27;i skyon spangs te | ji ltar gsungs pa&#x27;i yon tan dang ldan pa gcig gdon mi za bar rnal &#x27;byor pas bcang bar bya&#x27;o zhes pa&#x27;o || le&#x27;u bco lnga pa&#x27;i rnal par bshad pa&#x27;o || ||
+    </body>
+  </text>
+</TEI>

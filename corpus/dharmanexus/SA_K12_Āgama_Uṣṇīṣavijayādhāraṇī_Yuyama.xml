@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Uṣṇīṣavijayādhāraṇī (dhāraṇī proper only)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Collection / category: BuddhistScriptures / K12 (Tantra / dhāraṇī)
+Source: Sanskrit edition by Akira Yuyama (from Nepalese manuscripts)
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Akira Yuyama, &#x27;Amoghavajra&#x27;s Uṣṇīṣa-Vijayā Dhāraṇī from Tunhuang&#x27;, Annual Report of the International Research Institute for Advanced Buddhology at Soka University (ARIRIAB) [vol. IX, for the academic year 2005], 2006, pp. 231–276; e-text = Text IB (p. 244) and Text IIIB (pp. 262–266).</note>
+          <idno type="dharmanexus">SA_K12_Āgama_Uṣṇīṣavijayādhāraṇī_Yuyama</idno>
+          <ref target="https://dharmamitra.org/db/sa/SA_K12_Āgama_Uṣṇīṣavijayādhāraṇī_Yuyama/text">https://dharmamitra.org/db/sa/SA_K12_Āgama_Uṣṇīṣavijayādhāraṇī_Yuyama/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-12">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_K12_Āgama_Uṣṇīṣavijayādhāraṇī_Yuyama:0"/>% Akira Yuyama. &#x27;Amoghavajra&#x27;s UṣṇīṣaVijayā Dhāraṇī from Tunhuang. % Annual Report of the International Research Institute for Advanced BUddhology at Soka University, 2006. % pp.231  276.  % IB. Amoghavajra&#x27;s UṣṇīṣaVijayā Dhāraṇī from Tunhuang  Text Reconstructed % p.244  namo bhagavate || trailokyaprativiśiṣṭāya buddhāya bhagavate || tadyathā || 	oṁ viśodhaya viśodhaya  samaṃ samasamantāvabhāsaspharaṇagatigahanasvabhāvaviśuddhe | abhiśiṅcatu māṃ sugatavaravacanāamṛtābhiṣekaiḥ || āhara āhara | āyuḥ saṃdhārṇi | śodhaya śodhaya | gaganaviśuddhe | uṣṇīṣavijayaviśuddhe ||  sahasraraśmisaṃcodite | sarvatathāgatāvalokani | ṣaṭpāramitāparipūraṇi | sarvatathāgatahṛdayādhiṣṭhānādhiṣṭhitamahāmudri | vajrakāyasaṃhatanaviśuddhe ||  sarvāvaraṇāpayadurgatipariviśuddhe || pratinivartaya || āyuḥśuddhe || samayādhiṣṭhite ||  maṇi maṇi mahāmaṇi | tathatābhūtakoṭipariśuddhe || visphuṭabuddhiśuddhe || jaya vijaya vijaya | smara smara | sarvabuddhādhiṣṭhitaśuddhe || vajri vajragarbhe | vajraṃ bhavatu mama śarīraṃ sarvasattvānāṃ ca ||  kāyapariviśuddhe || sarvagatipariśuddhe || sarvatathāgataś ca me samāśvāsayantu || sarvatathāgatasamāśvādhiṣṭhite | budhya bodhaya bodhaya || samantapariśuddhe || sarvatathāgatahṛdayādhiṣṭhitamahāmudrī || || svāhā ||   % IIIB. In Siddhaṃ Script Attributed to Kūkai % p.262  siddhaṃ namo bhagavate trailokya prativiśiṣṭāya buddhāya bhagavate  tadyathā  	oṁ viśodhaya viśodhaya sama sama samantāvabhāsasparaṇagati gahanasvabhāvaviśuddhe abhisiñcatu māṃ sugatavaravacanaamṛtābhiṣekaiḥ mahāmantrapādaiḥ āhara āhara āyuḥsaṃdhārṇi śodhaya śodhaya gaganaviśuddhe uṣṇīṣavijayaviśuddhesahasraraśmisaṃcodite sarvatathāgatāvalokani ṣaṭpāramitāparipūraṇi sarvatathāgatahṛdayādhiṣṭhānādhiṣṭhita mahāmudri vajrakāyasaṃhatanaviśuddhe sarvāvaraṇāpayadurgatipariviśuddhe pratinivartya āyuḥśuddhe [p.264] samayādhiṣṭhite maṇi maṇi mahāmaṇi tathatābhūtakoṭipariśuddhe visphuṭabuddhiśuddhe jaya jaya vijaya vijaya smara smara sarvabuddhādhiṣṭhitaśuddhe 	namo Vipaśyine tathāgatāya 	namo Śikhine tathāgatāya 	namo Viśvabhūve tathāgatāya 	namo Krakasaṃdhāya [=Krakucchandāya] tathāgatāya 	namo Kanakamuniye tathāgatāya 	namo Kāśyapāya tathāgatāya 	namo Śākyamuniye tathāgatāya 	namo Āryāvalokiteśvarāya bodhisattvāya [p.266] dhiṣṭhitaśuddhe vajri vajragarbhe vajraṃ bhavatu mama śarīraṃ sarvasatvānāṃ ca kāyapariśuddhe sarvagatipariśuddhe sarvatathāgatāś ca me samaśvāsayantu sarvatathāgata samāśvādhiṣṭhite budhya budhya vibudhya vibudhya bodhaya bodhaya vibodhaya vibodhaya samantapariśuddhe sarvatathāgatahṛdayādhiṣṭhānādhiṣṭhita mahāmudri svāhā * samāptā   BREAK
+    </body>
+  </text>
+</TEI>

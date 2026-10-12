@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Candropamasūtra (fragment)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Collection / category: BuddhistScriptures / K10 (Sūtra)
+Source: SuttaCentral
+Link: https://suttacentral.net/sf74/san/hoernle
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): A. F. Rudolf Hoernle, Manuscript Remains of Buddhist Literature found in Eastern Turkestan, Vol. 1, Oxford: Clarendon Press, 1916, pp. 40–46.</note>
+          <idno type="dharmanexus">SA_K10_sf74_sc</idno>
+          <ref target="https://dharmamitra.org/db/sa/SA_K10_sf74_sc/text">https://dharmamitra.org/db/sa/SA_K10_sf74_sc/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-12">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_K10_sf74_sc:0"/>Candropama
+<lb n="SA_K10_sf74_sc:1"/>evaṁ mayā śrutam ekasmiṁ samaye bhagavāṁ rājagṛhe viharati devadattaṁ lābha satkāra
+<lb n="SA_K10_sf74_sc:2"/>ślokam ārabhya bhikṣūn āmantrayati / candropamā bhikṣavo viharata / nityaṁ navakā
+<lb n="SA_K10_sf74_sc:3"/>iva hrīmantaḥ kuleṣv apragalbhā avakṛṣya kāyam avakṛṣya cittaṁ kulāny upasaṁkramata /
+<lb n="SA_K10_sf74_sc:4"/>tad yathā cakṣuṣmāṁ puruṣo jarodapānaṁ vā nadīdurgaṁ vā parvata viṣamaṁ vā avakṛṣya
+<lb n="SA_K10_sf74_sc:5"/>kāyam avakṛṣya cittaṁ vyavalokayed evam eva candropamā viharata nityaṁ navakā iva
+<lb n="SA_K10_sf74_sc:6"/>hrīmantaḥ kuleṣv apragalbhā avakṛṣya kāyam avakṛṣya cittaṁ kulāny upasaṁkramata /
+<lb n="SA_K10_sf74_sc:7"/>kāśyapo hi bhikṣuś candropamo viharati nityaṁ navaka iva hrīmān kuleṣv apragalbho
+<lb n="SA_K10_sf74_sc:8"/>’vakṛṣya kāyam avakṛṣya cittaṁ kulāny upasaṁkramati / tad yathā cakṣuṣmāṁ puruṣo
+<lb n="SA_K10_sf74_sc:9"/>jarodapānaṁ vā nadī durgaṁ vā parvata viṣamaṁ vā avakṛṣya kāyam avakṛṣya cittaṁ vyavalokayed
+<lb n="SA_K10_sf74_sc:10"/>evam eva kāśyapo hi bhikṣuś candropamo viharati nityaṁ navaka iva hrīmāṁ kuleṣv apragalbhaḥ
+<lb n="SA_K10_sf74_sc:11"/>avakṛṣya kāyam avakṛṣya cittaṁ kulāny upasaṁkrāmati / kiṁ manyatha …
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Parāśaradharmasaṃhitā (selected verses and collation notes)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Collection / category: Treatises / GSD36 (GSD36 Dharmaśāstra Smṛti (Śāstra 4))
+Source: GRETIL (Göttingen Register of Electronic Texts in Indian Languages)
+Link: https://gretil.sub.uni-goettingen.de/
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Collated from: (1) Parāśara Dharma Saṃhitā or Parāśara Smṛti, with the Commentary of Sāyaṇa-Mādhavācārya, edited with various readings, critical notes, an index, etc. by Vāman Śāstrī Islāmapurkar, Bombay: Government Central Book Depôt, 1893 (Bombay Sanskrit Series, No. 47); and (2) The Parāśara-Smṛti: with the Commentary of Mādhavācārya, edited by Chandrakanta Tarkalankara, Calcutta: Asiatic Society of Bengal, 1890–1892 (Bibliotheca Indica, work no. 94; repr. 1973–1974).</note>
+          <idno type="dharmanexus">SA_GSD36_pars1__u</idno>
+          <ref target="https://dharmamitra.org/db/sa/SA_GSD36_pars1__u/text">https://dharmamitra.org/db/sa/SA_GSD36_pars1__u/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-12">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_GSD36_pars1__u:0"/>=ācāra.kāṇḍam=
+<lb n="SA_GSD36_pars1__u:1"/>=cāturvarṇya.ācāram=
+<lb n="SA_GSD36_pars1__u:2"/>.kalau.pārāśarāh(parāśara).smṛtāḥ.//
+<lb n="SA_GSD36_pars1__u:3"/>.śrutaṃ.tathā./
+<lb n="SA_GSD36_pars1__u:4"/>Par1.57ab/ vaiśvadeva.vihīnā ye ātithyena bahiṣkṛtāḥ /
+<lb n="SA_GSD36_pars1__u:5"/>Par1.57cd/ sarve te narakaṃ yānti kāka.yoniṃ vrajanti ca //
+<lb n="SA_GSD36_pars1__u:6"/>Par1.58ab/ pāpo vā yadi caṇḍālo vipraghnaḥ pitṛg.ghātakaḥ /
+<lb n="SA_GSD36_pars1__u:7"/>Par1.58cd/ vaiśvadeve tu samprāptaḥ so;
+<lb n="SA_GSD36_pars1__u:8"/>atithiḥ svarga.saṃkramaḥ //
+<lb n="SA_GSD36_pars1__u:9"/>Par1.59ab/ yo veṣṭita.śirā bhuṅkte yo bhuṅkte dakṣiṇā.mukhaḥ /
+<lb n="SA_GSD36_pars1__u:10"/>Par1.59cd/ vāma.pāde karaṃ nyasya tad vai rakṣāṃsi bhuñjate //
+<lb n="SA_GSD36_pars1__u:11"/>Prāyaścitta.kāṇḍam
+<lb n="SA_GSD36_pars1__u:12"/>=dravya.śuddhih=
+<lb n="SA_GSD36_pars1__u:13"/>.agni.kāryayoḥ./
+<lb n="SA_GSD36_pars1__u:14"/>.vinirdiśet./
+<lb n="SA_GSD36_pars1__u:15"/>(BI:tarpitās tena te sarve rudhireṇa malena ca //
+<lb n="SA_GSD36_pars1__u:16"/>(BI:avadhūnoti)
+<lb n="SA_GSD36_pars1__u:17"/>(snātvā prasnavatodvijah)
+<lb n="SA_GSD36_pars1__u:18"/>Par12.20ab/.prabhāsa.ādīni.tīrthāni.gaṅgā.ādyāḥ.saritas.tathā./(not in BI ed.)
+<lb n="SA_GSD36_pars1__u:19"/>Par12.20cd/.viprasya.dakṣiṇe.karṇe.santi.iti.manur.abravīt.// (not in BI ed.)
+<lb n="SA_GSD36_pars1__u:20"/>Par12.24ab(23ab)/.maruto.vasavo.rudrā.ādityāś.caiva.devatāḥ./ (māruto)
+<lb n="SA_GSD36_pars1__u:21"/>Par12.77ab(76ab)/.sa.pāvayed.atha.ātmānaṃ.iha.loke.paratra.ca./(BI: sa tāpayed)
+<lb n="SA_GSD36_pars1__u:22"/>(pārāśaram) (BI.p.534)
+<lb n="SA_GSD36_pars1__u:23"/>no sūtra on vyavahāra (only Parāśaramādhava).....................
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Aṣṭaśmaśānāni</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Collection / category: BuddhistNon-Scriptures / T01
+Source: OCR / Dharmamitra
+Edition / witness: Ryan Conlon&#x27;s blog from Niedersächsische Staats- und Universitätsbibliothek Göttingen, Cod. ms. sansc. 257: fol. 5r1–5v4.
+Tibetan: D 1216. Dur khrod brgyad kyi bshad pa zhes bya ba. rGyud, Ja: fols 323v6-325r1. Colophon: slob dpon rnal &#x27;byor pas mdzad pa&#x27;i dur khrod brgyad kyi bshad pa rdzogs so// //rgya gar gyi mkhan po buddha ka ra badzra dang/ bod kyi lo ts&#x27;a ba &#x27;gos kyis bsgyur ba&#x27;o/ /
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Diplomatic transcription from manuscript Niedersächsische Staats- und Universitätsbibliothek Göttingen, Cod. ms. sansc. 257, fols. 5r1–5v4, transcribed by Ryan Conlon and included.</note>
+          <idno type="dharmanexus">SA_T01_anon_Aṣṭaśmaśānāni</idno>
+          <ref target="https://dharmamitra.org/db/sa/SA_T01_anon_Aṣṭaśmaśānāni/text">https://dharmamitra.org/db/sa/SA_T01_anon_Aṣṭaśmaśānāni/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-12">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_T01_anon_Aṣṭaśmaśānāni:0"/>aṣṭau smasāni kathyante || pūrve caṇḍo nāma smasānaḥ | tatra harītakīvṛkṣe maharddhika&lt;add position=&quot;above line&quot;&gt;ḥ&lt;/add&gt; caṇḍogro nāmaḥ hastimukhaḥ suklaḥ | vṛkṣādhasi dikpatir indraḥ pītavarṇṇaḥ savyetarabhujābhyāṃ vajratarjanīdharaḥ | śuklaairāvatārūḍhaḥ | nāgo tra vāsu&lt;lb n=&quot;2&quot;/&gt;kiḥ pīyūṣavarṇṇaḥ | megho garjitākhyaḥ || 1 ||
+<lb n="SA_T01_anon_Aṣṭaśmaśānāni:1"/>uttare gahvaro nāma sma&lt;del rend=&quot;rubbed out&quot;&gt;ā&lt;/del&gt;sānaḥ | tatra bodhivṛkṣe maharddhiko gahvaro nāma manuṣyamukhaḥ pītaḥ | vṛkṣādhasi dikpatiḥ kuberaḥ pītaḥ savyetarabhujābhyām abhayagadādharaḥ | nidhyārūḍhaḥ kharvvaḥ | nāgo tra takṣako raktaḥ | megho pūrṇṇatākhyaḥ || 2 ||
+<lb n="SA_T01_anon_Aṣṭaśmaśānāni:2"/>paścime jvālākulakaraṅko nāma smasānaḥ | tatrāsokavṛkṣe maharddhiko jvalākula&lt;lb n=&quot;3&quot;/&gt;karaṅko nāmaḥ | makaramukho raktaḥ | vṛkṣādhasi dikpatir &lt;unclear reason=&quot;may be corrected to vva&quot;&gt;vvā&lt;/unclear&gt;ruṇo nāgāsanaḥ &lt;del rend=&quot;cancelled&quot;&gt;|&lt;/del&gt; suklaḥ | savyetarabhujābhyāṃ &lt;cb n=&quot;1&quot;/&gt;tarjanīnāgapāśadharaḥ | nāgo tra karkkoṭakaḥ syāmaḥ |
+<lb n="SA_T01_anon_Aṣṭaśmaśānāni:3"/>megho ghorākhyaḥ || 3 ||
+<lb n="SA_T01_anon_Aṣṭaśmaśānāni:4"/>dakṣiṇe vibhīṣaṇo nāma śmaśānaḥ | &lt;cb n=&quot;2&quot;/&gt;tatra vibhītakīvṛkṣe vibhīṣaṇo nāma maharddhiko mahiṣamukhaḥ kṛṣṇaḥ | vṛkṣādhasi dikpatir yamaḥ kṛṣṇaḥ | &lt;lb n=&quot;4&quot;/&gt;savyetarabhujābhyāṃ daṇḍapāśadharaḥ | mahiṣārūḍhaḥ | nāgo tra padmaḥ suklaḥ | megha āvarttākhyaḥ || 4 || &lt;cb n=&quot;1&quot;/&gt;
+<lb n="SA_T01_anon_Aṣṭaśmaśānāni:5"/>agneyyāṃ lakṣmīvano nāma smasānaḥ | tatra karañjavṛkṣe maharddhiko lakṣmīvano nāma cchāgalamukho raktaḥ | vṛkṣādhasi di&lt;cb n=&quot;2&quot;/&gt;kpati raktavarṇṇo vahniḥ savyetarabhujābhyāṃ akṣamālākamaṇḍaludharaḥ | cchāgāsanaḥ | nāgo tra mahāpa&lt;lb n=&quot;5&quot;/&gt;dmo mṛṇāladhavalaḥ || megho ghanākhyaḥ || 5 ||
+<lb n="SA_T01_anon_Aṣṭaśmaśānāni:6"/>nairṛtyāṃ ghoro nāma smasānaḥ | tatra parkaṭivṛkṣe maharddhiko ghoro nāma manuṣyamukhaḥ | kṛṣṇavarṇṇaḥ | vṛkṣādhasi dikpati rākṣaso nairṛtiḥ kṛṣṇaḥ savyetarabhujābhyāṃ tarjanīmuṇḍadharaḥ savāsanaḥ | nāgo tra ananto nīlaḥ | megho tṛpurāṇākhyaḥ || 6 ||
+<lb n="SA_T01_anon_Aṣṭaśmaśānāni:7"/>vāyavyāṃ kilakilāravo nāma smasānaḥ | tatrājuna&lt;unclear reason=&quot;partially damage&quot;&gt;vṛ&lt;/unclear&gt;&lt;lb n=&quot;6&quot;/&gt;kṣe maharddhikaḥ kilikilāravo nāma iti kāmukhaḥ dhūmravarṇṇaḥ | vṛkṣādhasi dikpatiḥ pavano mṛgārūḍhaḥ savyetarabhujābhyāṃ vātapaṭṭadharaḥ suklaḥ | nāgo tra kulikaḥ karbburaḥ | megho varṣākhyaḥ || 7 ||
+<lb n="SA_T01_anon_Aṣṭaśmaśānāni:8"/>aisānyāṃ aṭṭaṭṭahāso nāma smasānaḥ | tatra vaṭavṛkṣe maharddhike aṭaṭṭahāso nāma vṛṣabhamukhaḥ subhraḥ | vṛkṣādhasi dikpatir bhūteso dhūmradhūṣa&lt;unclear reason=&quot;damage&quot;&gt;ṃ| vṛṣa&lt;/unclear&gt;&lt;pb n=&quot;5r&quot;/&gt;bhārūḍhaḥ | savyetarabhujābhyāṃ triśūlakapāladharaḥ | nāgo tra saṃkhyapā&lt;add rend=&quot;over writing&quot;&gt;la&lt;/add&gt;&lt;add position=&quot;above line&quot;&gt;ḥ&lt;/add&gt; pītaḥ |
+<lb n="SA_T01_anon_Aṣṭaśmaśānāni:9"/>meghaś caṇḍākhyaḥ || 8 ||
+<lb n="SA_T01_anon_Aṣṭaśmaśānāni:10"/>sarvve dikpatayo manuṣyamukhā dvibhujāḥ | nāgāḥ saptaphalāḥ | daṃṣṭrākarālamālinaḥ | icchārūpadhāriṇaḥ meghāś ca viśvavarṇṇā iti || &lt;metamark rend=&quot;swirl&quot; function=&quot;section break&quot;/&gt; ||
+<lb n="SA_T01_anon_Aṣṭaśmaśānāni:11"/>harir abhayāyāṃ bhūte &lt;!-- bhūte is probably sic for cūte --&gt; &lt;unclear number=&quot;2&quot; unit=&quot;akṣara&quot; reason=&quot;unidentified akṣaras; look like space fillers or lacuna markers&quot;/&gt; niḥkaruṇaḥ &lt;!-- name for yama? --&gt; syāt |
+<lb n="SA_T01_anon_Aṣṭaśmaśānāni:12"/>aśokato varuṇaḥ bodhisikhariṇi kuberaḥ sikhi kara&lt;unclear reason=&quot;damage&quot;&gt;ñje latā&lt;/unclear&gt;&lt;lb n=&quot;2&quot;/&gt;parkaṭyāṃ rātrimaṭaḥ kakubhākhye pavano nyagrodhasthas tu bhūtesaḥ ||
+<lb n="SA_T01_anon_Aṣṭaśmaśānāni:13"/>caṇḍogro gahvaraś caiva jvālākula karaṅkakaḥ
+<lb n="SA_T01_anon_Aṣṭaśmaśānāni:14"/>vibhīṣaṇaś ca pūrvvādidikṣu vāme vyavasthitāḥ | &lt;!-- Tib. yongs su bskor ba --&gt;
+<lb n="SA_T01_anon_Aṣṭaśmaśānāni:15"/>aṭaṭṭahāsa aisānyāṃ lakṣmīvano hutāsane &lt;!-- metri causa for hautāśane? --&gt; |
+<lb n="SA_T01_anon_Aṣṭaśmaśānāni:16"/>ghorāndhakāro nairṛtyāṃ vāyavyāṃ kilikilāravaḥ |
+<lb n="SA_T01_anon_Aṣṭaśmaśānāni:17"/>imāny aṣṭa smasānāni vajrapañjaramadhyataḥ |
+<lb n="SA_T01_anon_Aṣṭaśmaśānāni:18"/>dhyātavyāni prayatnena | srīmadhevajrayogibhiḥ || &lt;metamark rend=&quot;swirl&quot; function=&quot;section break&quot;/&gt; ||
+<lb n="SA_T01_anon_Aṣṭaśmaśānāni:19"/>si&lt;lb n=&quot;3&quot;/&gt;rīśāśvatthakaṅkeli&lt;del rend=&quot;cancelled&quot;&gt;cū&lt;/del&gt;bhūtavṛkṣāś ca pūrvvataḥ |
+<lb n="SA_T01_anon_Aṣṭaśmaśānāni:20"/>vaṭakarañjakaś caiva latāparkaṭipārthivaḥ |
+<lb n="SA_T01_anon_Aṣṭaśmaśānāni:21"/>indro dhanada&lt;cb n=&quot;1&quot;/&gt;ś caiva nāgendro &#x27;tha yamādhipaḥ |
+<lb n="SA_T01_anon_Aṣṭaśmaśānāni:22"/>isāno &#x27;tha hutāsaś ca rākṣasendro &#x27;nilādhipaḥ |
+<lb n="SA_T01_anon_Aṣṭaśmaśānāni:23"/>vāsukis takṣakaś caiva karkko&lt;cb n=&quot;2&quot;/&gt;ṭaḥ padma eva ca |
+<lb n="SA_T01_anon_Aṣṭaśmaśānāni:24"/>mahāpadmo huluhulu kulikaḥ saṃkhapālaḥ ||
+<lb n="SA_T01_anon_Aṣṭaśmaśānāni:25"/>garjito ghurṇṇito ghora āvartto ghana &lt;lb n=&quot;3&quot;/&gt;eva ca &lt;add&gt;|&lt;/add&gt;
+<lb n="SA_T01_anon_Aṣṭaśmaśānāni:26"/>nūpuraṇās tathā varṣaś caṇḍo meghādhipā ime || &lt;metamark rend=&quot;swirl&quot; function=&quot;section break&quot;/&gt; ||
+<lb n="SA_T01_anon_Aṣṭaśmaśānāni:27"/>vṛkṣādidikapālanāgendrameghendrāḥ &lt;cb n=&quot;1&quot;/&gt;mecakaśuklasitipāṇḍuraktapītaharitaviśvavarṇṇāś cintanīyā meghāḥ || &lt;metamark rend=&quot;swirl&quot; function=&quot;section break&quot;/&gt; ||
+    </body>
+  </text>
+</TEI>

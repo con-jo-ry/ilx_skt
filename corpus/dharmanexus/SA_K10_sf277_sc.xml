@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Agrajñasūtra (fragments)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Collection / category: BuddhistScriptures / K10 (Sūtra)
+Source: SuttaCentral
+Link: https://suttacentral.net/sf277/san/waldschmidt
+Edition: Ernst Waldschmidt, Bruchstücke buddhistischer Sūtras aus dem zentralasiatischen Sanskritkanon, Kleine Sanskrit-Texte 4, Leipzig 1932 (Turfan editions); SuttaCentral &#x27;Other Fragments&#x27; corpus.
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Ernst Waldschmidt, Bruchstücke buddhistischer Sūtras aus dem zentralasiatischen Sanskritkanon I, Kleine Sanskrit-Texte, Heft 4 (Leipzig: F. A. Brockhaus, 1932).</note>
+          <idno type="dharmanexus">SA_K10_sf277_sc</idno>
+          <ref target="https://dharmamitra.org/db/sa/SA_K10_sf277_sc/text">https://dharmamitra.org/db/sa/SA_K10_sf277_sc/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-12">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_K10_sf277_sc:0"/>Agrajñasūtra
+<lb n="SA_K10_sf277_sc:1"/>Wal_1 bhavati sa samayo yad ayaṁ lokaḥ saṁvartate / saṁvartamāne loke yadbhūyasā satvā
+<lb n="SA_K10_sf277_sc:2"/>ābhāsvare devanikāye upapadyante / te tatra bhavanti rūpiṇo manomayā avikalā ahīnendriyāḥ
+<lb n="SA_K10_sf277_sc:3"/>sarvāṅgapratyaṁ gopetāḥ śubhā varṇasthāyinaḥ svayaṁprabhā vaihāyasagāminaḥ prītibhakṣāḥ
+<lb n="SA_K10_sf277_sc:4"/>prītyāhārā dīrghāyuṣo dīrgham adhvānaṁ tiṣṭhanti /
+<lb n="SA_K10_sf277_sc:5"/>Wal_2 tena khalu samayena mahāpṛthivī ekodikā bhavati ekārṇavā / tasyāṁ ekodikāyāṁ mahāpṛthivyāṁ
+<lb n="SA_K10_sf277_sc:6"/>ekārṇavāyāṁ vāyunā śaraḥ saṁmūrcchitaḥ saṁtanoti tadyathā pakvasya kṣīrasya śaraḥ
+<lb n="SA_K10_sf277_sc:7"/>saṁmūrcchitaḥ saṁtanoty evam eva tasyāṁ ekodikāyāṁ mahāpṛthivyāṁ ekārṇavāyāṁ vayunā
+<lb n="SA_K10_sf277_sc:8"/>śaraḥ saṁmūrcchitaḥ saṁtanoti / sa bhavati pṛthivīraso varṇasaṁpanno gandhasaṁpanno
+<lb n="SA_K10_sf277_sc:9"/>rasasaṁpannaḥ / tadyathā navanītam evaṁvarṇaḥ / tadyathā kṣaudraṁ madhv aneḍakam evamāsvādaḥ /
+<lb n="SA_K10_sf277_sc:10"/>Wal_3 bhavati sa samayo yad ayaṁ loko vivartate / vivartamāne loke satvā āyuḥkṣayāt karmakṣayāt
+<lb n="SA_K10_sf277_sc:11"/>puṇyakṣayād ābhāsvarād devanikāyāc cavitvā ihatye manuṣyasabhāgatām āgaccanti / te
+<lb n="SA_K10_sf277_sc:12"/>’pi rūpiṇo pūrvavad yāvad dīrgham adhvānam tiṣṭhanti /
+<lb n="SA_K10_sf277_sc:13"/>Wal_4 tena khalu samayena na sūryacandramasau prajñāyete na rātridivasaṁ na māsaṁ ardhamāsaṁ
+<lb n="SA_K10_sf277_sc:14"/>na ṛtuṁ na kṣaṇalavamuhūrtaṁ prajñāyante … na strī na pumān / satvaḥ satva ity ekasaṁkhyāṁ gacchati /
+<lb n="SA_K10_sf277_sc:15"/>Wal_5 athānyatamo lolupajātīyaḥ satvaḥ aṁgulyagreṇa pṛthivīrasam āsvādayati / yathā yathāsvādayati
+<lb n="SA_K10_sf277_sc:16"/>tathā tathā pratikāṁkṣati / yathā yathā pratikāṁkṣati tathā tathā kabaḍiṁkāropakrameṇa praparibhuktaḥ /
+<lb n="SA_K10_sf277_sc:17"/>Wal_6 adrākṣur anyatame satvās taṁ satvaṁ kabaḍiṅkāropakrameṇa pṛthivīrasaṁ paribhuñjānam /
+<lb n="SA_K10_sf277_sc:18"/>dṛṣṭvā ca te ’pi satvā aṁgulyāgreṇa pṛthivīrasam āsvādayanti / yathā yathāsvādayanti
+<lb n="SA_K10_sf277_sc:19"/>pūrvavad yāvad kabaḍiṅkāropakrameṇa praparibhuktāḥ / yataś ca te satvā taṁ pṛthivīrasaṁ
+<lb n="SA_K10_sf277_sc:20"/>kabaḍiṅkāropakrameṇa praparibhuktās teṣāṁ kāye dṛḍhatvaṁ gurutvaṁ prajñāyete śubhavarṇo
+<lb n="SA_K10_sf277_sc:21"/>’ntarhitaḥ / andhakāro loke prādurbhūtaḥ /
+<lb n="SA_K10_sf277_sc:22"/>Wal_7 dharmatā khalu vāsiṣṭha andhakārasya loke prādurbhāvāt sūryacandramasau prajñāyete etc. as in 4.
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Buddhabhaṭṭārakasya daṇḍakavṛttena stotram</title>
+        <author>Nāgārjuna</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Author: Nāgārjuna
+Collection / category: BuddhistNon-Scriptures / T01
+Source: OCR / Dharmamitra
+Edition / witness: Hahn 1987 revised in 2014
+Tibetan: P4604
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Michael Hahn, edition of the Buddhabhaṭṭārakastotra (1987), revised 2014.</note>
+          <idno type="dharmanexus">SA_T01_Nāgārjuna_Buddhabhaṭṭārakasya-Daṇḍakavṛttena-Stotram_Hahn_1987</idno>
+          <ref target="https://dharmamitra.org/db/sa/SA_T01_Nāgārjuna_Buddhabhaṭṭārakasya-Daṇḍakavṛttena-Stotram_Hahn_1987/text">https://dharmamitra.org/db/sa/SA_T01_Nāgārjuna_Buddhabhaṭṭārakasya-Daṇḍakavṛttena-Stotram_Hahn_1987/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-12">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_T01_Nāgārjuna_Buddhabhaṭṭārakasya-Daṇḍakavṛttena-Stotram_Hahn_1987:0"/>namo ratnatrayāya |
+<lb n="SA_T01_Nāgārjuna_Buddhabhaṭṭārakasya-Daṇḍakavṛttena-Stotram_Hahn_1987:1"/>daśabalabaline namaḥ sarvadā sarvathā vāṅmanaskāya(meṣṭhā) viśeṣeṇa gatyūrmimālākulānekarogaughanakrollasajjātinānāprakārādhimṛtyūragavrātayogograsaṃsāraratnākarāntargatāśeṣasaṃbādhakāraikatārāya nairātmyavaktre caturmārajetre jagadduḥkhajālāpahartre bhavagranthibhettre kṛtāntāpakartre kutaḥkāmahartre mahārājavaṃśasthitānugrahītre jagat sarvam
+<lb n="SA_T01_Nāgārjuna_Buddhabhaṭṭārakasya-Daṇḍakavṛttena-Stotram_Hahn_1987:2"/>ālokayitre sadāṣṭāṅgamārgopadeṣṭre kṛtajñāya nānārutajñāya sarvāśayajñāya vijñāya saddharmadhātre mahāvādine &#x27;nāvṛtajñānaśāstroddhṛtakleśaśalyāya kandarpanārīvilāsair anākṣiptacittāya kāruṇyamaitrībhujāliṅgitāśeṣasattvāya dhīrāya vīrāya śāntāya dāntāya kāntāya nāthāya bhadrāya rudrendraviṣṇvādibhir devasaṅghaiḥ sadā pūjitāyāprameyaprabhāvāya
+<lb n="SA_T01_Nāgārjuna_Buddhabhaṭṭārakasya-Daṇḍakavṛttena-Stotram_Hahn_1987:3"/>śāntātmane valguvispaṣṭagambhīradhīrasvarāyāsamāyottamāyāprameyāya nindāpraśaṃsāsv anutsiktacittāya vicchinnasarvāsravasrotase janmine |
+<lb n="SA_T01_Nāgārjuna_Buddhabhaṭṭārakasya-Daṇḍakavṛttena-Stotram_Hahn_1987:4"/>kalaśakuliśacakraśaṅkhāṅkuśāmbhojamīnadhvajacchattramaṅgalyalekhāṅkatāmrodarāvartahaṃseśajālāvanaddhāṅghripāṇyambujāyātmakāyaśriyā cāṭucāmīkarastambhaśobhāpahartre sthiraiṇeyajaṅghāya saptotsadāṅgāya kośasthitālakṣyaguhyāya vistīrṇapīnorase siṃhapūrvārdhakāyāya sūkṣmacchavitvād anirvarṇyavarṇāya
+<lb n="SA_T01_Nāgārjuna_Buddhabhaṭṭārakasya-Daṇḍakavṛttena-Stotram_Hahn_1987:5"/>pīnasthirālambabāhudvayāyeṣadunnidrabandhūkapuṣpāruṇālakṣyalekhāya dīrghaprabhūtāghanāraktajihvāya suśliṣṭaśuklāyatasnigdhadaṃṣṭrāya karṇāntasaṃsaktagopakṣmatāmrāntasaumyānimeṣāprasannākṣiyugmāya sorṇāyatāsaktanīlabhruve kuñcitasnigdhasūkṣmāsitaikaikasaṃrūḍhakeśāya soṣṇīṣamūrdhne mṛgendrebhavikrāntayātāya tejasvine
+<lb n="SA_T01_Nāgārjuna_Buddhabhaṭṭārakasya-Daṇḍakavṛttena-Stotram_Hahn_1987:6"/>dakṣiṇāvartacāṭūrdhvasaṃjātaromṇe mahākalpakoṭīsahasrārjitodārapuṇyobhasaṃbhāranirjātasaumyādbhutācintyarūporjitadvyuttaratriṃśaduttaptasallakṣaṇāśītyanuvyañjanālaṃkṛtānanyatulyātmabhāvāya tattvārthadhātre namas tāyine |
+<lb n="SA_T01_Nāgārjuna_Buddhabhaṭṭārakasya-Daṇḍakavṛttena-Stotram_Hahn_1987:7"/>adhigataparamārthadharmāya sarvāryadharmeṇa saṃpṛktacittāya samyaksamākhyānadharmadhvajocchrāyine pātitājñānasārādraye svarthasuvyañjanākhaṇḍaniśchidraniṣkalmaṣakhyāpitabrahmacaryāya sarvādhikāyānavadyasthitisthāpayitre sadā sarvalokāntarālokakṛdvyāmasāndraprabhājvāline svāmine vāgmine tyāgine yogine jñānine dhīmate hrīmate śrīmate
+<lb n="SA_T01_Nāgārjuna_Buddhabhaṭṭārakasya-Daṇḍakavṛttena-Stotram_Hahn_1987:8"/>tulyamitrārimadhyāya nistīrṇasaṃsārakāntāraduḥkhāya siddhāya śuddhāya siddhyojase dakṣiṇīyāya nirdvandvine sārthavāhāya lokatrayākhyātikīrtipratānāya durbhāṣitatyāgine sūktasaṃsevine nirmadāyopaśāntāya tṛṣṇāsaricchoṣayitre nirācāryamuṣṭyā samākhyātadharmāya meruprabhṛtyadrirājādhikasthairyayuktārṇavāgādhagambhīracittāya pṛthvīvadagrakṣamāya
+<lb n="SA_T01_Nāgārjuna_Buddhabhaṭṭārakasya-Daṇḍakavṛttena-Stotram_Hahn_1987:9"/>kṣamāvādine putradārātmacittapradānādinānyārthinām icchayā pūritāśāya śaśvan namaḥ sādhave |
+<lb n="SA_T01_Nāgārjuna_Buddhabhaṭṭārakasya-Daṇḍakavṛttena-Stotram_Hahn_1987:10"/>pravikasitakṛpāpalāśaṃ kṣamākarṇikaṃ śīlanālaṃ samādhisphuratkesaraṃ dhyānabodhyaṅgakiñjalkam ātmaprabhābodhitaṃ kīrtigandhānuṣiktaṃ bhramatsādhuviddhasvirāḍhāvalīpītasaddharmareṇūtkaraṃ buddhapadmaṃ svabhiṣṭutya yat puṇyam āptaṃ mayā tena sarve janāḥ santu vicchinnaduḥkhodayāḥ sarvalokasya ca syām ahaṃ sarvadā sarvathā copakārāya dṛṣṭaḥ śruto
+<lb n="SA_T01_Nāgārjuna_Buddhabhaṭṭārakasya-Daṇḍakavṛttena-Stotram_Hahn_1987:11"/>&#x27;nusmṛtaḥ saṃkathāmātram apy āgataḥ spṛṣṭamātro &#x27;thavā rūpavān īśvaraś cākṣayandhīḥ pradhānapriyaḥ sarvasattvapriyāvyaṅgamūrtiḥ kulīnaḥ kalāpārago &#x27;śeṣaśāstrārthavettā ca sūkṣmacchaviḥ sūrataḥ susvaraḥ praśrutaḥ ślāghanīyo yaśasvī prahīṇāmayaḥ kāmavaimukhyayuktaḥ kṛpāsvīkṛtādhyāśayaḥ pūrvajātismaro sā ca mā bhūt priyair viprayogo &#x27;priyaiḥ
+<lb n="SA_T01_Nāgārjuna_Buddhabhaṭṭārakasya-Daṇḍakavṛttena-Stotram_Hahn_1987:12"/>saṃprayogaḥ kadā cit sadā sajjanām āśrayo dharmanimnasmṛtir dānaśīlakṣamāvīryavān dhyānasaṃyuktasatprajñayānyaiś ca saṃbodhicaryānayaiḥ samyagāpūryasaṃbodhimūlakriyaḥ sarvasaṃbādhakāraikatāro jinaḥ syām aham ||
+<lb n="SA_T01_Nāgārjuna_Buddhabhaṭṭārakasya-Daṇḍakavṛttena-Stotram_Hahn_1987:13"/>iti buddhabhaṭṭārakasya daṇdakavṛttena stotraṃ samāptam ||
+<lb n="SA_T01_Nāgārjuna_Buddhabhaṭṭārakasya-Daṇḍakavṛttena-Stotram_Hahn_1987:14"/>kaṭacchubhadantaratnamaṅgalena likhitam ||
+    </body>
+  </text>
+</TEI>

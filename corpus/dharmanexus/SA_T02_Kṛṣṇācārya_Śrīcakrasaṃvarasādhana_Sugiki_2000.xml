@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Śrīcakrasaṃvarasādhana</title>
+        <author>Kṛṣṇācārya</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Author: Kṛṣṇācārya
+Collection / category: BuddhistNon-Scriptures / T02
+Source: OCR / Dharmamitra
+Edition / witness: Sugiki, Tsunehiko. 2000. “Kṛṣṇācārya&#x27;s Śrīcakrasaṃvarasādhana—Critical Edition with Notes—” Chisan Gakuho 49: 45–62. From NGMPP D 34/41 (15\verso–22\recto, following the Vasantatilakā), devanāgarī, most likely undated. Tib. D 1445 = P 2162 = N 956.
+Note: There seems to be some exegesis on this text by Sa skya Kun dga’ snying po, Bu ston, and Tsong kha pa.
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Sugiki, Tsunehiko. 2000. “Kṛṣṇācārya&#x27;s Śrīcakrasaṃvarasādhana—Critical Edition with Notes—.” Chizan Gakuhō [智山学報] 49: 45–62.</note>
+          <idno type="dharmanexus">SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000</idno>
+          <ref target="https://dharmamitra.org/db/sa/SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000/text">https://dharmamitra.org/db/sa/SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-12">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:0"/>oṃ namo buddhāya ||
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:1"/>natvā pretāsanasthaṃ trinayanaṃ abhitovaktram āraktagātrīṃ
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:2"/>vārāhīṃ mūladorbhyāṃ sapadi vidalitaṃ nāganāthaṃ parābhyām |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:3"/>śeṣaiḥ khaṭvāṅgapāśau narakam ajaśiro vāmadorbhiś caturbhiḥ
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:4"/>savyaiḥ karttṛtriśūlaṃ paraśuḍamarukaṃ bibhrataṃ herukākhyam || 1
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:5"/>% not noticed by Sugiki, but this verse seems to be Lūyi&#x27;s!
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:6"/>tatsādhanam ahaṃ vakṣye gopitaṃ mlecchabhāṣayā |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:7"/>cakrasaṃvaraguhyārthaṃ siddhimantrasamuccayam || 2
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:8"/>% NB mlecchabhāṣā on purpose!
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:9"/>hṛdīndubījabhāvyūhair āhṛtān sugatān puraḥ |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:10"/>saṃpūjya sarvapūjābhiḥ paṭhed ratnatrayādikām || 3
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:11"/>vibhāvya sakalaṃ śūnyaṃ viśvābjasūryavajrahūṃ |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:12"/>nirgatya ḍākinīvṛndaiḥ kuryāt kīlādikaṃ sudhīḥ || 4
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:13"/>khadhātau cintayed dhīmāṃś caturbhūtavibhāvanām |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:14"/>sarvabhūtasamājena yato viśvāśrayo bhavet || 5
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:15"/>tasyāyaṃ kramaḥ |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:16"/>goṣṭhotpalikā caiva śeṣāśuṣkaśirāstrataḥ |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:17"/>mahāśaṅkhamayaṃ kuryād abhedyaṃ kacchapasya tu || 6
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:18"/>caturbhujaṃ caturvaktraṃ yāval lakṣabhujaṃ tathā |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:19"/>sitadehamahākrodhaṃ vajraghaṇṭāṅgaliṅgitam || 7
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:20"/>kapālamālinaṃ vīraṃ bhasmagātrānulepanam |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:21"/>īṣaddaṃṣṭrakarālāsyaṃ mahāpretakṛtāsanam || 8
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:22"/>jinaraśmimahāmeghaṃ visphurantaṃ samantataḥ |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:23"/>ṣaṇmudrālaṃkṛtaṃ dehaṃ jaṭāmakuṭamaulinam || 9
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:24"/>asitaṃ dakṣiṇaṃ vaktraṃ vāmaṃ raktaṃ bhayānakam |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:25"/>mūlamukhaṃ mahāśvetaṃ paścimaṃ kanakojjvalam || 10
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:26"/>kālamṛtyujayaṃ caiva aṅge khaṭvāṅgayojitam |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:27"/>kapālaṃ cārthapātraṃ ca vaktre astraniyojitam || 11
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:28"/>tasya prajñā mahāghorā khaṇḍamaṇḍitamekhalā |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:29"/>kapālaṃ tv antrasaṃpūrṇaṃ tadvarṇāyudhadhāriṇī || 12
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:30"/>girigahvarakuñjeṣu mahodadhitaṭeṣu vā |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:31"/>ādisiddhiśmaśāne ca tatra maṇḍalam ālikhet || 13
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:32"/>saṃpuṭaṃ saṃpuṭībhāvaṃ vajraśṛṅkhalam ucyate |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:33"/>vajreṇa bhedayet padmaṃ picchakavad bhrāmayet tataḥ || 14
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:34"/>ākarṣayed aṅkuśenaiva kṣobhaṇe muṣalena tu |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:35"/>grasane vajram evākhyaṃ vidhinā sphārayet tataḥ || 15
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:36"/>āvedhaśara saṃyojya dravībhūtaṃ savidyayā |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:37"/>manthyamanthānasaṃyogād dharmakāyaṃ yathā tathā || 16
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:38"/>sarvabuddhāḥ samājena codayām āsu māṃ laghu |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:39"/>oṃ mahāsukhavajrasattva jaḥ hūṃ vaṃ hoḥ suratas tvaṃ dṛśya ho iti
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:40"/>saṃcoditamātre tu-m api lokadhātusukhaprade | % tu mayi
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:41"/>nijamantrāt svayaṃ bhūyād yathodayavidhikramaiḥ || 17
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:42"/>aṃhūṃbhyāṃ tato vajrī utthito dravamūrtitaḥ |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:43"/>nīlavarṇo mahāghoro raktajvālābhamaṇḍalaḥ || 18
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:44"/>caturvaktro mahābhīmo dviṣaḍbhujavirājitaḥ |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:45"/>umāpatiṃ samākramya divaseśvaraviṣṭaraḥ || 19
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:46"/>mūlamukhaṃ mahākṛṣṇaṃ dakṣiṇaṃ kundasannibham |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:47"/>vāmaṃ raktaṃ mahābhīmaṃ paścimaṃ kanakojjvalam || 20
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:48"/>pūrvāyudhasamāyuktas trinetrais tu virājitaḥ |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:49"/>pratyālīḍhapadasthas tu saroṣahasitānanaḥ || 21
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:50"/>tasya prajñā vārāhī raktavarṇā mahojjvalā |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:51"/>dvibhujaikānanā divyā vajranārakapālinī || 22
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:52"/>bhagavataś caturmukhād adhiṣṭhānam |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:53"/>oṃ sumbha nisumbha huṃ hūṃ phaṭ
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:54"/>oṃ gṛhna 2 huṃ hūṃ phaṭ
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:55"/>oṃ gṛhnāpaya 2 huṃ hūṃ phaṭ
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:56"/>oṃ ānaya ho bhagavan vidyārāja huṃ hūṃ phaṭ % bhagabāṃ
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:57"/>vilomataḥ ||
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:58"/>oṃ dharmadhātusvabhāvātmako &#x27;ham ||
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:59"/>iti sevā || 23
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:60"/>oṃ ha | vajrasattvo hṛdaye |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:61"/>oṃ nama hi | vairocanaḥ śirasi | % namaḥ
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:62"/>oṃ svāhā hu | padmanarteśvaraḥ śikhāyām |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:63"/>oṃ vauṣaṭ he | śrīherukaḥ kakṣadvaye |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:64"/>oṃ hūṃ hūṃ ho | vajrasūryaś cakṣurdvaye |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:65"/>oṃ phaṭ haṃ | hayagrīvaḥ sarvāṅgeṣu | astram ||
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:66"/>oṃ vaṃ | vajravārāhī nābhau |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:67"/>oṃ hāṃ yoṃ | yāminī hṛdaye |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:68"/>oṃ hrīṃ moṃ | mohinī lalāṭe |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:69"/>oṃ hreṃ hrīṃ | saṃcāriṇī śirasi |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:70"/>oṃ hūṃ hūṃ | saṃtrāsinī śikhāyām |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:71"/>oṃ phaṭ phaṭ | devyāḥ sarvāṅgeṣu ||
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:72"/>ity upasādhanam || 24
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:73"/>hṛdi hūṃkāreṇa candrasthaṃ cittavajram |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:74"/>oṃ hrīḥ ha ha hūṃ hūṃ phaṭ | vāgvajraṃ kaṇṭhe |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:75"/>oṃ śrīvajra he he ru ru kaṃ hūṃ hūṃ phaṭ ḍākinījālasamvaraṃ svāhā | lalāṭe kāyavajram ||
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:76"/>oṃ sarvabuddhaḍākinīye vajravarṇanīye hūṃ hūṃ phaṭ | devyā hṛdaye |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:77"/>oṃ caurī hūṃ hūṃ phaṭ | kaṇṭhe |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:78"/>oṃ vajravairocanīye svāhā | lalāṭe ||
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:79"/>śirasi oṃkāram, hṛdaye hūṃkāram, kiñjalke āḥkāram, kaṭibandhe svākāram, ūruyugme hākāram ||
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:80"/>iti sādhanam || 25
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:81"/>jñānasamayasaṃbhūtas tato vajrī ihocyate |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:82"/>abhiṣekapadaṃ dhyātvā paścāt pūjāṃ samārabhet || 26
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:83"/>mantraṃ saṃyojya dvau liṅge, akāraṃ nyasya naranāsikāyāṃ vaṃkāraṃ saṃyojya tathā liṅgavaraṭake,
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:84"/>yoginīṃ manthayed dhīmān śuddhakāyo nirāmayaḥ || 27
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:85"/>ity ādiyogo nāma samādhiḥ || 28
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:86"/>oṃ sarvatathāgatānurāgavajrasvabhāvātmako &#x27;ham |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:87"/>hṛdbījabhābhir ākṛṣya sugatān
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:88"/>nikṣipya bhruvor madhye avadhūtapadaṃ tathā |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:89"/>ādisvareṇa saṃyuktaṃ dhyātvā jvalati tatkṣaṇāt || 29
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:90"/>alātacakrārūḍhaṃ bhramantaṃ ḍākinīnāṃ tathā |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:91"/>jvālāmālārṇavacakraṃ sarvatomukham || 30
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:92"/>caturvaktraṃ vīreśaṃ vīraḍākinīparivṛtam |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:93"/>bheditās tattvabhedena nāḍīmārgeṣu sarvataḥ || 31
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:94"/>vibhajya svecchayā mantrī viparītāni yojayet |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:95"/>prasādhayet prayogārthaṃ mahāsuratamaṇḍalam || 32
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:96"/>sarvottareṣu ḍākinyo bhuvanāni vijṛmbhayanti || pūrve sitanīlābhā ḍākinī | uttare maraktagaurābhā lāmā | paścime raktagaurābhā khaṇḍarohā tu ḍākinī | dakṣiṇe sitapītābhā rūpiṇī || sarvā etāḥ śavopari karttṛkapālahastā jvaladūrdhvakeśāḥ sarvālaṃkārabhūṣitā nṛtyamānasthitās trinetrā ekavaktrāḥ | kapāleṣu hastiśṛgālamanujago vidhinā || 33
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:97"/>vidiśena tu catvāraḥ pañcānūnakaroṭakāḥ |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:98"/>buddhabimbopaśobhitāḥ śekhareṇa samanvitāḥ || 34
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:99"/>pullīramalaye śirasi khaṇḍakapālinaḥ pracaṇḍā nakhadantāvahā |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:100"/>jālandhare śikhāyāṃ mahākaṅkālacaṇḍākṣī keśaromāvahā |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:101"/>oḍyāyane dakṣiṇakarṇe kaṅkālaprabhāvatī tvaṅmalāvahā |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:102"/>arbude pṛṣṭhavaṃśe tu vikaṭadaṃṣṭriṇamahānāsā piśitāvahā |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:103"/>pūrvādidikṣu vilomataḥ ||
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:104"/>godāvaryāṃ vāmakarṇe surāvairiṇavīramatī naharuṃ vahati sarvadā |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:105"/>rāmeśvare bhrūmadhye amitābhakharvarī asthimālāvahā |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:106"/>devīkoṭe cakṣurdvaye vajraprabhaṃ laṅkeśvarī bukkaṃ vahati |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:107"/>mālave bāhumūle vajradehadrumacchāyā hṛnmaṇḍajāvahā |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:108"/>aiśānyādau vidikṣu | cittacakrasya khecaryaḥ samāpattyā vyavasthitāḥ || 35
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:109"/>kāmarūpe tathā kakṣau aṅkulikaairāvatī cakṣur vahati sā nityam |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:110"/>oḍre stanayugale vajrajaṭilamahābhairavā pittāvahā |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:111"/>nābhau triśakunau mahāvīravāyuvegā phupphusāvahā |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:112"/>kosale nāsikāyāṃ vajrahūṃkārasurābhakṣī antramālāvahā |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:113"/>pūrvādidikṣu |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:114"/>kaliṅge mukhe subhadraśyāmādevī pārśvatantusamākhyātā |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:115"/>lampāke kaṇṭhe vajrabhadrasubhadrā udaraṃ vahati gardabhī |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:116"/>kāñcīhṛdaye mahābhairavahayakarṇā viṣṭhāvahā |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:117"/>himālaye meḍhre virūpākṣakhagānanā sīmantamadhyagā |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:118"/>pūrvavad vidikṣu | vākcakrasya bhūcaryaḥ samāpattyā vyavasthitāḥ || 36
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:119"/>pretādhivāsinīliṅge mahābalacakravegā śleṣmaṃ vahati sarvadā |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:120"/>gṛhadevatāgude tu ratnavajrakhaṇḍarohā pūyaṃ vahati nityaśaḥ |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:121"/>ūrusaurāṣṭre tu hayagrīvaśauṇḍinī raktavahā prakīrtitā |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:122"/>jaṅghadvaye tu suvarṇadvīpe ākāśagarbhacakravarmiṇī prasvedāvahā |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:123"/>pūrvādidikṣu |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:124"/>aṅgulyāṃ nagare mārārisuvīrā medāvahā |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:125"/>pādapṛṣṭhe tu sindhudeśe padmanarteśvaramahābalā aśru vahati nityam |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:126"/>aṅguṣṭhe tu marau vairocanacakravartinī kheṭāvahā |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:127"/>jānau kulatāyāṃ vajrasattvamahāvīryā bālasiṃhānavāhinī |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:128"/>pūrvavad vidikṣu | kāyacakrasya pātālavāsinyaḥ samāpattyā vyavasthitāḥ || 37
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:129"/>pūrvadvāre kākāsyā |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:130"/>uttare ulūkāsyā |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:131"/>paścime śvānāsyā |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:132"/>śūkarāsyā dakṣiṇe ||
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:133"/>ḍākinyādivarṇacihnānvitāḥ |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:134"/>śavārūḍhā jvaladīptāḥ sarvā vikṛtānanāḥ |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:135"/>anulomavilomena dūtayaḥ saṃvyavasthitāḥ || 38
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:136"/>pāvake yamadāḍhī ca |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:137"/>naiṛte yamadūtī ca |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:138"/>vāyavye yamadaṃṣṭriṇī ca |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:139"/>aiśānyāṃ yamamathanī caiva ||
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:140"/>dvau dvau varṇau manoharau |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:141"/>pūrvavac chavārūḍhāḥ || 39
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:142"/>śrīherukādayo vīrā vajraghaṇṭāliṅganakarāḥ |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:143"/>sarvadevyaḥ karttṛkapālahastāḥ śṛṅgārādirasānvitāḥ || 40
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:144"/>śavārūḍhā jvaladīptāḥ sūryasthās tāṇḍavānvitāḥ |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:145"/>trinetrā daṃṣṭrakarālāḥ kapālamālāvibhūṣitāḥ || 41
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:146"/>anekaraśmiharāvahā bhrukuṭītaraṅgakuṭilakarākṣadṛṣṭāḥ |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:147"/>kākāsyādayaḥ samākhyātā vyāghrājināmbaradhāriṇyaḥ || 42
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:148"/>kaṇṭhikācūḍakeyūraṃ vajrasūtraṃ ca kuṇḍalam |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:149"/>kaṇṭhālaṃkṛtaśiromālāṃ pādayor ghurghurās tathā |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:150"/>pratyālīḍhapadasthāś ca || 43
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:151"/>caturviṃśaty ūrdhvavīrāḥ śrīherukasyāṅgasaṃbhavāḥ |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:152"/>caturviṃśati ḍākinyo vārāhyāṃ garbhasaṃbhavāḥ || 44
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:153"/>jñānasamayasaṃbhūtas tato vajrī ihocyate |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:154"/>abhiṣekapadaṃ dhyātvā paścāt pūjāṃ samārabhet || 45
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:155"/>iti pūrvavat sarvaṃ kartavyam || 46
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:156"/>idānīṃ saptatriṃśad bodhipākṣikā dharmā devatāyogena sthāpanīyāḥ ||
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:157"/>kāyānusmṛtyupasthānaṃ ḍākinī |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:158"/>vedanānusmṛtyupasthānaṃ lāmā |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:159"/>dharmānusmṛtyupasthānaṃ khaṇḍarohā |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:160"/>cittānusmṛtyupasthānaṃ rūpiṇī |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:161"/>chandaṛddhyutpādaḥ pracaṇḍā |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:162"/>vīryaṛddhyutpādaś caṇḍākṣī |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:163"/>mīmāṃsāṛddhyutpādaḥ prabhāvatī |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:164"/>cittaṛddhyutpādo mahānāsā |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:165"/>śraddhendriyaṃ vīramatī |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:166"/>vīryendriyaṃ kharvarī |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:167"/>smṛtīndriyaṃ laṅkeśvarī |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:168"/>samādhīndriyaṃ drumacchāyā |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:169"/>prajñendriyaṃ airāvatī |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:170"/>śraddhābalaṃ mahābhairavā |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:171"/>vīryabalaṃ vāyuvegā |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:172"/>smṛtibalaṃ surābhakṣī |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:173"/>samādhibalaṃ śyāmādevī |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:174"/>prajñābalaṃ subhadrā |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:175"/>samādhisaṃbodhyaṅgaṃ hayakarṇā |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:176"/>vīryasaṃbodhyaṅgaṃ khagānanā |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:177"/>prītisaṃbodhyaṅgaṃ cakravegā |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:178"/>praśrabdhisaṃbodhyaṅgaṃ khaṇḍarohā |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:179"/>dharmapravicayasaṃbodhyaṅgaṃ śauṇḍinī |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:180"/>smṛtisaṃbodhyaṅgaṃ cakravarmiṇī |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:181"/>upekṣāsaṃbodhyaṅgaṃ suvīrā |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:182"/>samyagdṛṣṭir mahābalā |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:183"/>samyaksaṃkalpaś cakravartinī |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:184"/>samyagvāg mahāvīryā |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:185"/>samyakkarmāntaḥ kākāsyā |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:186"/>samyagājīva ulūkāsyā |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:187"/>samyagvyāyāmaḥ śvānāsyā |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:188"/>samyaksmṛtiḥ śūkarāsyā |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:189"/>[samyaksamādhir bhagavān śrīherukah |] % ex conj.
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:190"/>anutpannānāṃ kuśalānāṃ dharmāṇām utpādanaṃ yamadāḍhī |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:191"/>utpannānāṃ kuśalānāṃ dharmāṇāṃ saṃrakṣaṇaṃ yamadūtī |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:192"/>utpannānām akuśalānāṃ dharmāṇāṃ prahāṇaṃ yamadaṃṣṭriṇī |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:193"/>anutpannānām akuśalānāṃ dharmāṇām anutpādanaṃ yamamathanī ceti ||
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:194"/>% utpādanaṃ yamadāḍhī ... utpannānām akuśalānāṃ dharmāṇāṃ ex conj.
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:195"/>ity āha bhagavān vajrī saptatriṃśadbodhipākṣikadharmāṇāṃ devatāviśuddhim || 47
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:196"/>svahṛnmadhyagataṃ padmam aṣṭapatraṃ sakarṇikam |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:197"/>tasya madhye sthitā nāḍī tailavahnisvarūpikā || 48
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:198"/>kadalīpuṣpasaṃkāśaṃ lambamānā tv adhomukhī |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:199"/>tasya madhye sthito vīraḥ sarṣapasthūlamātrakaḥ || 49
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:200"/>hūṃkāro &#x27;nāhato bījaṃ sravantaṃ tuṣārasannibham |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:201"/>vasanta iti vikhyāto dehināṃ hṛdi nandanaḥ || 50
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:202"/>vaḍavānalarūpā tu vārāhī tilakā matā |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:203"/>karmamārutanirdhūtā jvalantī nābhimaṇḍale || 51
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:204"/>vasantaṃ prāpya saṃtuṣṭā samāpattyā vyavasthitā |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:205"/>eṣa śrīheruko vīro vasantatilakā matā || 52
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:206"/>śūnyatārūpam ādāya saṃsthitā sacarācare |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:207"/>kāyavākcittabhedena trividhadvāranirgame || 53
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:208"/>gatyāgati karoty eṣa sarvadehavyavasthitaḥ |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:209"/>nābhāv akārarūpeṇa hrasvas tu prakīrtitaḥ || 54
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:210"/>hṛdaye &#x27;pi hūṃkāro dīrghamātradvayaḥ smṛtaḥ |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:211"/>kaṇṭhe oṃkārarūpeṇa trimātrapluta ucyate || 55
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:212"/>lalāṭe tu haṃkāro &#x27;sau nādo bindur anāhataḥ |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:213"/>pṛthivyādimahābhūtaṃ catuścakraprabhedataḥ || 56
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:214"/>catuḥsandhyām adhiṣṭhāya catuḥpadmasamudbhavaḥ | % padma = kṣaṇa?
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:215"/>caturānandarūpeṇa caturyogaparāyaṇaḥ || 57
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:216"/>paramānandarūpeṇa kriyākārakabhāvataḥ |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:217"/>śrīvajrasattvarūpeṇa krīḍatīha yathāsukham || 58
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:218"/>dalānāṃ catuṣkeṣu caturdikṣu vyavasthitāḥ |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:219"/>catasro bhūtanāḍyas tu tailavahnisvarūpam āśritāḥ || 59
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:220"/>vidikṣu vyavasthitā nāḍyaś catasras tadgatā api |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:221"/>pañcāmṛtavahās tās tu tatpūjārūpatāṃ gatāḥ || 60
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:222"/>catuḥpūjeti vikhyātās tadrūpā eva bhāvataḥ |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:223"/>iti dehasya hṛnmadhye aṣṭa nāḍyo vyavasthitāḥ || 61
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:224"/>% 60 \&amp; 61 ex conj.
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:225"/>aparāḥ kāyavākcittabhedena caturviṃśatiḥ samudāhṛtāḥ |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:226"/>pīṭhādibhedam āśritya sthāne sthāne samāśritāḥ |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:227"/>kākāsyādi yathā pūrvāḥ pātanyādi viśuddhikāḥ || 62
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:228"/>ity āha bhagavān vajrī mudraṇahetum || 63
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:229"/>daśadravyaṃ vicintyādau akārajakaroṭake |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:230"/>jvalanaṃ tāpanaṃ kuryād anilānalamaṇḍalam || 64
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:231"/>ādyakṣarasaṃyuktaṃ dhyātvā jvalati tatkṣaṇāt |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:232"/>viparītākṣarasaṃyogaṃ tantramantraṃ vibhāvayet || 65
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:233"/>oṃkāradīpitaṃ sarvaṃ tritattvaṃ samudāhṛtam |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:234"/>evaṃ bhāvayed devi dravyasiddhiphalapradaḥ |
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:235"/>anena yogasiddhiḥ syāt pratyayaḥ pravartate || 66
+<lb n="SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000:236"/>% Sugiki notes that the Tib. continues with a ‘mantra collection’
+    </body>
+  </text>
+</TEI>

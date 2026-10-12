@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Legend of Śāntideva</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Collection / category: BuddhistNon-Scriptures / T01
+Source: OCR / Dharmamitra
+Edition / witness: de Jong 1975
+Tibetan: similar to Vibhūticandra&#x27;s intro in D 3880
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): J. W. de Jong, &#x27;La légende de Śāntideva&#x27;, Indo-Iranian Journal 16, no. 3 (1975), pp. 161–182 (text on pp. 178–182). Reprinted in: Buddhist Studies by J.W. de Jong, ed. Gregory Schopen, Berkeley: Asian Humanities Press, 1979, pp. 251–272.</note>
+          <idno type="dharmanexus">SA_T01_anon_Legend-of-Śāntideva_Jong_1975</idno>
+          <ref target="https://dharmamitra.org/db/sa/SA_T01_anon_Legend-of-Śāntideva_Jong_1975/text">https://dharmamitra.org/db/sa/SA_T01_anon_Legend-of-Śāntideva_Jong_1975/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-12">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_T01_anon_Legend-of-Śāntideva_Jong_1975:0"/>I. + + + + + + nagare śrīmañjuvarmanāmno rājñaḥ putraḥ pūrvajinakṛtādhikāraḥ prāptamokṣabhāgīyakuśalamūlaḥ samyaṅmahāyānagotraḥ sarvakalākuśalo yauvarājyābhiṣekasamaye kuliśayoṣinnirmāṇarūpayā jananyā rājamahiṣyā abhitaptodakais tapyamānas tāpam asahamāna uktaḥ |
+<lb n="SA_T01_anon_Legend-of-Śāntideva_Jong_1975:1"/>II. putra trayaḥ svargaṃ na gacchanti rājā citrakaraḥ kavir iti | nareśvarībhūya pāpaṃ kṛtvā mṛtasya nirayagatasya ato &#x27;pi tīvrataraṃ duḥkhaṃ te bhaviṣyaty alam anena rājyena | gaccha vatsa buddhabodhisattvadeśaṃ (anne: bhaṅgāladeśaṃ) śrīmañjuvajrādhiṣṭhānaṃ tava bhadraṃ bhaviṣyatīty
+<lb n="SA_T01_anon_Legend-of-Śāntideva_Jong_1975:2"/>III. ataḥ sa mātur ādeśaṃ śirasi nidhāyākuṭilahṛdayo haridaśvavaram abhiruhya calitaḥ | sa cānekadināny aniśaṃ gacchan bhojanapānādikaṃ manasy akurvan tadādeśaikatānamānasaḥ kvacid araṇye kanyāratnam apaśyat tayā vājinaṃ vivṛtyāsau (anne: vidhṛtyāsau) bhuvam avatāritaḥ ||
+<lb n="SA_T01_anon_Legend-of-Śāntideva_Jong_1975:3"/>IV. sa tṛṣārto jalaṃ dṛṣṭvā pātum udyataḥ | tayā viṣodakam etad ity uktvā nivāryānyad amṛtodakaṃ pāyito māṃsaṃ cāgninā dagdhvā bhojitaḥ |
+<lb n="SA_T01_anon_Legend-of-Śāntideva_Jong_1975:4"/>V. svasthaḥ sa tām āha | kutas tvam āgatāsīti | sā prāha | ihāvaste sa mahākaruṇāruṇavipaṇaḥ sadguṇagaṇābharaṇaḥ siddhaśrīmañjuvajrasamādhir asmadguruḥ tatsakāśād aham āgatāsmīty ukto labdharatna iva duḥkhito janaḥ paramapramodaprāptaḥ
+<lb n="SA_T01_anon_Legend-of-Śāntideva_Jong_1975:5"/>VI. tam eva darśyayety uktvā tayādṛto ghoṭakam ādāya gato guruguṇagaṇādhāradhīragambhīraṃ śamadamathaprāptaṃ gurum ālokya turaṅgamam ātmānaṃ ca namaskṛtya gurave nityānitya durantabhaduḥkhābdher upadeśadānena māṃ ... ty adhīṣṭavān
+<lb n="SA_T01_anon_Legend-of-Śāntideva_Jong_1975:6"/>VII. tena ca paripāṭīkramād upadiṣṭo dvādaśavarṣās tatraiva samādhārya mañjuvajram adhyakṣīkṛtya mañjuśrījñānaṃ labdhvā gaccha madhyadeśam iti guruṇā samādiṣṭo gatvā magadharājānaṃ sevate sma | rāututvena (anne: rāuṭatvena) acalasenanāmā devadārukhaḍgena koṣagatena rāutucaryayaḥ (anne: rāuṭacaryayā) dharmārāmo viharati sma |
+<lb n="SA_T01_anon_Legend-of-Śāntideva_Jong_1975:7"/>VIII. kālāntareṇa tatsampattim asahamānair anyai rāutvai (anne: rāuṭai) rājānaṃ vijñapya deva devadārukhaḍgena acalasya seveti yuddhakāle katham asau yudhyeta |
+<lb n="SA_T01_anon_Legend-of-Śāntideva_Jong_1975:8"/>tad deva nirūpayāsya khaḍgam iti adhṛṣyo &#x27;sau na śakyate niyoktuṃ itīrṣyāśalyacittapīḍyamānamarmabhis tair militvā sarveṣāṃ khaḍgo draṣṭavya iti rājājñayā vyājena sarveṣāṃ karavālam ālokyācalasenasya nistriṃśadarśanam upajātam |
+<lb n="SA_T01_anon_Legend-of-Śāntideva_Jong_1975:9"/>IX. acalasena āha na me khaḍgo draṣṭuṃ yujyate tridhā nivāraṇe &#x27;pi niścalāt (anne: nirbandhāt) nṛpate cakṣur ekaṃ pidhāya tam eva paśyeti vijane darśite tatkhaḍgajvālayā rājñaś cakṣur ekaṃ bhūmau patitaṃ | prabhāvadarśanād āvarjitaṃ nṛpaṃ vicintya ... ... praśastaśilake nikṣipya (?) nirvā&#x27;rthīkṛtya (anne:
+<lb n="SA_T01_anon_Legend-of-Śāntideva_Jong_1975:10"/>nirvraṇīkṛtya) śrīnālandamahāvihāraṃ gatvā veśāntareṇa pravrajitaḥ |
+<lb n="SA_T01_anon_Legend-of-Śāntideva_Jong_1975:11"/>X. śāntidevanāmā praśāntatvāt piṭakatrayaṃ śrutvā dhyāyati sma | bhuñjāno &#x27;pi prabhāsvaraṃ supto &#x27;pi kuṭiṃ gato &#x27;pi tad eveti bhusukusamādhisamāpannatvāt bhusukunāmākhyātaṃ |
+<lb n="SA_T01_anon_Legend-of-Śāntideva_Jong_1975:12"/>XI. saṃghe &#x27;pi kālāntareṇa kaiścid bālaiḥ kutūhalibhir ālocitaṃ | kim ayaṃ kiṃcij jānāti na veti nirūpyatāṃ tāvat | tatra ca pratyabdaṃ jyeṣṭhamāsi śuklapakṣe ṛddhiprātihāryaiḥ pūraṇaprabhṛtayaḥ śāstrā pūrvaṃ nirākṛtā iti tadanukārāya pāṭhaḥ kriyate tatraivāyaṃ nirūpyatām ity ayam ādiṣṭaḥ nāhaṃ kiṃcij jānāmīti tena punaḥ punaḥ parihāre syadhīṣṭa
+<lb n="SA_T01_anon_Legend-of-Śāntideva_Jong_1975:13"/>(?) tair vihārād bahiḥ pūrvottarasyāṃ vistīrṇāyāṃ dharmaśālāyāṃ mahāpaṇḍitamaṇḍalamadhye sa ca svayaṃ cintayati sma
+<lb n="SA_T01_anon_Legend-of-Śāntideva_Jong_1975:14"/>XII. pūrvakṛtaṃ sūtrasamuccayaṃ śikṣāsamuccayaṃ bodhicaryāvatārākhyaṃ granthatrayam astīti cetasi kṛtvā siṃhāsanagataḥ prāha kim ārṣaṃ paṭhāmi arthārṣaṃ vā |
+<lb n="SA_T01_anon_Legend-of-Śāntideva_Jong_1975:15"/>XIII. tatra ṛṣiḥ paramārthajñānavān ṛṣa gatāv ity atra auṇādikaḥ kviḥ ṛṣiṇā jinena proktam ārṣaṃ nanu prajñāpāramitādau subhūtyādideśitaṃ katham ārṣaṃ ity atrocyate yuvarājāryamaitreyeṇa ||
+<lb n="SA_T01_anon_Legend-of-Śāntideva_Jong_1975:16"/>yad arthavad dharmapadopasaṃhitaṃ
+<lb n="SA_T01_anon_Legend-of-Śāntideva_Jong_1975:17"/>tridhātusaṃkleśanibarhaṇaṃ vacaḥ |
+<lb n="SA_T01_anon_Legend-of-Śāntideva_Jong_1975:18"/>bhavec ca yac chāntyanuśaṃsadarśakaṃ
+<lb n="SA_T01_anon_Legend-of-Śāntideva_Jong_1975:19"/>tad uktam ārṣaṃ viparītam anyathā ||
+<lb n="SA_T01_anon_Legend-of-Śāntideva_Jong_1975:20"/>% Ratnagotravibhāga 5.18
+<lb n="SA_T01_anon_Legend-of-Śāntideva_Jong_1975:21"/>XIV. tadākṛṣṭam āryādyair arthārṣaṃ subhūtyādideśanā tu bhagavadadhiṣṭhānād ity adoṣaḥ ||
+<lb n="SA_T01_anon_Legend-of-Śāntideva_Jong_1975:22"/>XV. kutūhalāt tair uktaṃ arthārṣam eva tāvat paṭhyatām iti caryāvatāraṃ paṭhati sma || tatra ca pāṭhe |
+<lb n="SA_T01_anon_Legend-of-Śāntideva_Jong_1975:23"/>yadā na bhāvo nābhāvo mateḥ santiṣṭhate puraḥ |
+<lb n="SA_T01_anon_Legend-of-Śāntideva_Jong_1975:24"/>tadānyagatyabhāvena nirālambaḥ praśāmyati ||
+<lb n="SA_T01_anon_Legend-of-Śāntideva_Jong_1975:25"/>ity atra śloke bhagavān mañjuśrīḥ pura āvirbhūtaḥ sa ca tenaiva sārdham antarīkṣagataḥ kramād antarhitaḥ ||
+<lb n="SA_T01_anon_Legend-of-Śāntideva_Jong_1975:26"/>XVI. tataḥ bhadradarśanasaṃvignais tallayanavicāre poḍhukuṭyāṃ tatpustakatrayaṃ sūtrasamuccayādi labdhvā paṇḍitair loke pracāritam | tatra sugatetyādivṛtteḥ |
+<lb n="SA_T01_anon_Legend-of-Śāntideva_Jong_1975:27"/>[kāṣṭhamaṇḍapīyena bhikṣuśrīkīrtipaṇḍitena likhitam idaṃ pustakam |]
+    </body>
+  </text>
+</TEI>

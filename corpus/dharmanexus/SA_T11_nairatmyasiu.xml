@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Nairātmyasiddhi</title>
+        <author>Jitāri</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Author: Jitāri
+Collection / category: BuddhistNon-Scriptures / T11 (Pramāṇa)
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Gudrun Bühnemann, Jitāri: Kleine Texte [Description of a manuscript from the Bihar Research Society with 10 small texts of Jitāri, and the edition of the following texts in Sanskrit: Vedāprāmāṇyasiddhi, Sarvajñasiddhi, Nairātmyasiddhi, Jātinirākṛti, *Īśvaravādimataparīkṣā], Wiener Studien zur Tibetologie und Buddhismuskunde 8, Wien: Arbeitskreis für tibetische und buddhistische Studien Universität Wien, 1982.</note>
+          <idno type="dharmanexus">SA_T11_nairatmyasiu</idno>
+          <ref target="https://dharmamitra.org/db/sa/SA_T11_nairatmyasiu/text">https://dharmamitra.org/db/sa/SA_T11_nairatmyasiu/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-12">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_T11_nairatmyasiu:0"/>Nairātmyasiddhi
+<lb n="SA_T11_nairatmyasiu:1"/>namo buddhāya
+<lb n="SA_T11_nairatmyasiu:2"/>yasya yena saha kaścit pratibandho nāsti na sa tena tadvān
+<lb n="SA_T11_nairatmyasiu:3"/>tad yathā himālayo malayena
+<lb n="SA_T11_nairatmyasiu:4"/>na sthirātmanā saha kaścit saṃbandho jīvaccharīrasya iti vyāpakānupalabdhiḥ nāyam asiddho hetuḥ
+<lb n="SA_T11_nairatmyasiu:5"/>yataḥ saṃbandho bhavan tādātmyaṃ tadutpattir vā bhāvet
+<lb n="SA_T11_nairatmyasiu:6"/>na ca tādātmyam ātmaśarīrayoḥ
+<lb n="SA_T11_nairatmyasiu:7"/>śarīrasyānityādirūpatvāt
+<lb n="SA_T11_nairatmyasiu:8"/>tadviparītasyātmano abhyupetatvāt
+<lb n="SA_T11_nairatmyasiu:9"/>nāpi tadutpattir nityasyātmanaḥ śarīra-utpattyayogāt
+<lb n="SA_T11_nairatmyasiu:10"/>nityātmano vā śarīrasya
+<lb n="SA_T11_nairatmyasiu:11"/>Lies śarīrād ut°
+<lb n="SA_T11_nairatmyasiu:12"/>saṃyogalakṣaṇas tayoḥ saṃbandha iti cet
+<lb n="SA_T11_nairatmyasiu:13"/>tenaiva saha tayoḥ kaḥ saṃbandhaḥ
+<lb n="SA_T11_nairatmyasiu:14"/>samavāya iti cet
+<lb n="SA_T11_nairatmyasiu:15"/>tenāpi saha teṣāṃ kaḥ saṃbandhaḥ
+<lb n="SA_T11_nairatmyasiu:16"/>saṃbandhāntaropagame anavasthā
+<lb n="SA_T11_nairatmyasiu:17"/>anabhyupagame na teṣāṃ samavāyaḥ
+<lb n="SA_T11_nairatmyasiu:18"/>tathā cātmaśarīrayoḥ saṃbandhāntaraparikalpane &#x27;py ayam eva dṛṣṭānta iti nāsya hetor asiddhiḥ
+<lb n="SA_T11_nairatmyasiu:19"/>viruddhatāpy asya nāsti
+<lb n="SA_T11_nairatmyasiu:20"/>sapakṣe bhāvāt
+<lb n="SA_T11_nairatmyasiu:21"/>anaikāntikatāpi nopadṛśyate
+<lb n="SA_T11_nairatmyasiu:22"/>tadvattvavyavahārasya naimittikasya saṃbandhanibandhanatvena vyāptatvāt
+<lb n="SA_T11_nairatmyasiu:23"/>saṃbandhābhāve &#x27;pi tadvattvavyavahāre niyataviṣayatvābhāvaprasaṅgād iti sthitam
+<lb n="SA_T11_nairatmyasiu:24"/>anaikantikātayāpi MS
+<lb n="SA_T11_nairatmyasiu:25"/>naimitta° MS
+<lb n="SA_T11_nairatmyasiu:26"/>nairātmyasiddhiḥ samāpta
+    </body>
+  </text>
+</TEI>

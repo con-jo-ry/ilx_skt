@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Deśīnāmamālā with Svopajñavṛtti (fragment)</title>
+        <author>Hemacandra</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Author: Hemacandra
+Language: Prakrit
+Collection / category: Treatises / GS25 (GS25 Lexicography (Śāstra 2))
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): The Deśînâmamâlâ of Hemachandra: Part I: Text and Critical Notes, ed. Richard Pischel, Bombay: Government Central Book Depôt, 1880 (Bombay Sanskrit Series, 17).</note>
+          <idno type="dharmanexus">SA_GS25_desinamamalu</idno>
+          <ref target="https://dharmamitra.org/db/sa/SA_GS25_desinamamalu/text">https://dharmamitra.org/db/sa/SA_GS25_desinamamalu/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-12">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_GS25_desinamamalu:0"/>dēśī duḥsandarbhā prāyaḥ sandarbhitāpi durbōdhā |
+<lb n="SA_GS25_desinamamalu:1"/>ācāryahēmacandras tat tāṁ sandr̥bhati vibhajati ca ||
+<lb n="SA_GS25_desinamamalu:2"/>samagraśabdānāmanuśāsanē cikīrṣitē saṁskr̥tādibhāṣāṇāṁ ṣaṇṇāṁ śabdānuśāsanē siddhahēmacandranāmni siddhirūpanibaddhā. idānīṁ lōpāgamavarṇavikārādinā kramēṇa pūrvairasādhitapūrvā dēśyāḥ śabdā avaśiṣyantē. tatsaṅgrahārthamayam ārambhaḥ. tatrādau śiṣṭa-samaya ity adhikr̥ta-dēvatā namaskriyatē.
+<lb n="SA_GS25_desinamamalu:3"/>gamaṇayapamāṇagahirā sahiayahiayahiayaṅgamarahassā |
+<lb n="SA_GS25_desinamamalu:4"/>jayaï jiṇindāṇa asēsabhāsapariṇāmiṇī vāṇī || 1 || // DēNāMā.1
+<lb n="SA_GS25_desinamamalu:5"/>gamāstātparyabhēdinaḥ sadr̥śapāṭhāḥ. nayā vastvēkadēśagrāhiṇaḥ syādvādāvirōdhinō &#x27;bhiprāyaviśēṣāḥ. naigamasaṅgrahavyavahārarjūsūtraśabdasamabhirūḍhaivambhūtābhidhānāḥ. sapta pramāṇāni syādvādagōcarāṇi pratyakṣādīni. tairgambhīrā mandabuddhīnāmastāghāḥ. atha ca sahr̥dayaṁ sacētanaṁ hr̥dayaṁ yēṣāṁ tēṣāṁ hr̥dayaṅgamarahasyā. ata ēva jayati niḥśēṣatīrthikabhāṣōtkarṣēṇa vartatē. jayantarthēna ca namaskāra ākṣipyatē. ayamapara utkarṣō yadaśēṣabhāṣārūpatvēna pariṇamatē. yad āha—dēvā daivīṁ narā nārīṁ śabarāścāpi śābarīm |
+<lb n="SA_GS25_desinamamalu:6"/>tiryañcō ’pi hi tairaścīṁ mēnirē bhagavadgiram ||
+<lb n="SA_GS25_desinamamalu:7"/>saivambhūtā jinēndrāṇām arhatāṁ vāṇī jayatīti sambandhaḥ || [1].
+<lb n="SA_GS25_desinamamalu:8"/>vyutpitsu-pravr̥ttayē ’bhidhēyaprayōjanē āha.
+<lb n="SA_GS25_desinamamalu:9"/>ṇīsēsadēsiparimalapallaviakuūhalāulattēṇa |
+<lb n="SA_GS25_desinamamalu:10"/>viraïjjaï dēsīsaddasaṅgahō vaṇṇakamasuhaō || 2 || // DēNāMā.2
+<lb n="SA_GS25_desinamamalu:11"/>dēśīśabdēna dēśīśāstrāṇyucyantē. niḥśēṣadēśīśāstrāṇāṁ parimalēna pariśīlanēna pallavitaṁ prādurbhūtaṁ kvacidarthāsamarpakatvēna kvacidvarṇānupūrvīniścayābhāvēna kvacitpūrvadēśīvisaṁvādēna kvacidgatānugatikatānibaddhaśabdārthatayā yatkutūhalaṁ tēna yadākulatvamāḥ kathamayamapabhraṣṭaśabdapaṅkamagrō janaḥ samuddharaṇīya iti parōpacikīrṣārabhasastēna hatēunā dēśīrūpāṇāṁ śabdānāṁ saṅgrahō viracyatē. asmābhir iti śēṣaḥ. pādaliptācāryādiviracitadēśīśāstrēṣu satsvapyasyārambhē prayōjanaṁ viśēṣaṇadvārēṇāha vaṇṇēti. varṇā akārādayō hakārāvasānāḥ prākr̥taprayōgayōgyāḥ. tēṣāṁ padādibhūtānāṁ sukhagrahaṇadhāraṇanimittaṁ kramaḥ paripāṭiḥ. tēna varṇakramēṇa dvyakṣaratryakṣaracaturakṣarādipadakramēṇa ca sukhadaḥ subhagō vā. varṇakramēṇa hi nirdiṣṭāḥ śabdā arthaviśēṣasaṁśayē sati sukhēnaiva smaryantē &#x27;vadhāryantē ca. varṇakramātikramēṇa ca nirdiśyamānā na sukhēnāvadhārayituṁ śakyanta ity arthavān varṇakramanirdēśaḥ || [2].
+<lb n="SA_GS25_desinamamalu:12"/>punaritaradēśībhyō vailakṣaṇyamāha.
+<lb n="SA_GS25_desinamamalu:13"/>jē lakkhaṇē ṇa siddhā ṇa pasiddhā sakkayāhihāṇēsu |
+<lb n="SA_GS25_desinamamalu:14"/>ṇa ya gaüṇalakkhaṇāsattisambhavā tē iha ṇibaddhā || 3 || // DēNāMā.3
+<lb n="SA_GS25_desinamamalu:15"/>lakṣaṇē śabdaśāstrē siddhahēmacandranāmni yē na siddhāḥ prakr̥tipratyayādivibhāgēna na niṣpannāstē &#x27;tra nibaddhāḥ. yē tu bajjara-pajjara-upphāla-pisuṇa-saṅgha-bōlla-cava-jampa-sīsa-sāhādayaḥ kathyādīnāmādēśatvēna sādhitas [siddhahēmacandram, 4, 2] tē &#x27;nyairdēśīṣu parigr̥hītā apyasmābhirna nibaddhāḥ. yē ca satyāmapi prakr̥tipratyayādivibhāgēna siddhau saṁskr̥tābhidhānakōśēṣu na prasiddhāstē’py atra nibaddhāḥ. yathā–. amr̥tanirgama-cchinnōdbhavā-prahānaṭādayaścandra-dūrvā-harādiṣvarthēṣu. yē ca saṁskr̥tābhidhāna-kōśēṣv aprasiddhā api gauṇyā lakṣaṇayā vālaṅkāra-cūḍāmaṇi-pratipāditayā śaktyā sambhavanti. yathā–mūrkhē baïllō, gaṅgātaṭē gaṅgā-śabdas. ta iha dēśīśabdasaṅgrahē na nibaddhāḥ || [3].
+<lb n="SA_GS25_desinamamalu:16"/>idānīṁ nānādēśaprasiddhabhāṣāsvativyāptiparihārārthaṁ dēśīlakṣaṇ
+    </body>
+  </text>
+</TEI>

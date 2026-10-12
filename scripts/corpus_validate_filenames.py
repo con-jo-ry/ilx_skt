@@ -8,6 +8,7 @@ def validate_corpus():
     log_file_path = base_dir / "filename_validation_log.txt"
     
     collections = [
+        "dharmanexus",
         "dsbc",
         "gretil_extra",
         "gretil_sa",

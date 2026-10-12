@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mahāvākyopaniṣad with Mahāvākyopaniṣadvivaraṇa</title>
+        <author>Upaniṣadbrahmayogin</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Author: Upaniṣadbrahmayogin
+Collection / category: Muktabodha / MB (Muktabodha)
+Source: Muktabodha Indological Research Institute
+Link: muktabodha.org (https://www.muktabodha.org) (Digital Library, search by title)
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): The Yoga Upaniṣads with the Commentary of Śrī Upaniṣad-Brahma-Yogin, edited by A. Mahadeva Sastri, Madras: The Adyar Library (Theosophical Society), 1920 (Adyar Library Series, no. 6), pp. 301–305.</note>
+          <idno type="dharmanexus">SA_MB_mahaavaakyopanisatCSX</idno>
+          <ref target="https://dharmamitra.org/db/sa/SA_MB_mahaavaakyopanisatCSX/text">https://dharmamitra.org/db/sa/SA_MB_mahaavaakyopanisatCSX/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-12">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_MB_mahaavaakyopanisatCSX:0"/>Muktabodha E-text in UTF-8
+<lb n="SA_MB_mahaavaakyopanisatCSX:1"/>MUKTABODHA INDOLOGICAL RESEARCH INSTITUTEwww.muktabodha.org©2011 Muktabodha Indological Research Institute  All Rights Reserved.E-texts may be viewed only online or downloaded for private study.E-texts may not, under any circumstances, be copied, republished,reproduced, distributed or sold, either in original or altered form, withoutthe express permission of Muktabodha Indological Research Institute in writing.Data-entered by the staff of Muktabodha under the direction of Mark S. G. Dyczkowski.Catalog number : M00109
+<lb n="SA_MB_mahaavaakyopanisatCSX:2"/>Uniform title: mahāvākyopaniṣat
+<lb n="SA_MB_mahaavaakyopanisatCSX:3"/>Main title: yoga upaniṣads with the commentary of śrī upaniṣad brahmayogin
+<lb n="SA_MB_mahaavaakyopanisatCSX:4"/>Secondary title: mahāvākya upaniṣat
+<lb n="SA_MB_mahaavaakyopanisatCSX:5"/>Commentator : brahmayogin
+<lb n="SA_MB_mahaavaakyopanisatCSX:6"/>Alternate name : śrī upaniṣad brahmayogin
+<lb n="SA_MB_mahaavaakyopanisatCSX:7"/>Editor : śāstrī mahādeva
+<lb n="SA_MB_mahaavaakyopanisatCSX:8"/>Notes: Transcribed by the staff of Muktabodha under the supervision of Mark S. G. Dyczkowski.
+<lb n="SA_MB_mahaavaakyopanisatCSX:9"/>Revision 0: June 14, 2007
+<lb n="SA_MB_mahaavaakyopanisatCSX:10"/>Publisher : Adyar library and research centre
+<lb n="SA_MB_mahaavaakyopanisatCSX:11"/>Publication year : 1920
+<lb n="SA_MB_mahaavaakyopanisatCSX:12"/>Publication city : Madras
+<lb n="SA_MB_mahaavaakyopanisatCSX:13"/>Publication country : India
+<lb n="SA_MB_mahaavaakyopanisatCSX:14"/>mahàvàkyopaniùat
+<lb n="SA_MB_mahaavaakyopanisatCSX:15"/>bhadra§ karõebhiþ- iti ÷àntiþ
+<lb n="SA_MB_mahaavaakyopanisatCSX:16"/>aparokùànubhavopade÷àdhikàrã
+<lb n="SA_MB_mahaavaakyopanisatCSX:17"/>atha hovàca bhagavàn brahmàparokùànubhavaparopaniùada§
+<lb n="SA_MB_mahaavaakyopanisatCSX:18"/>vyàkhyàsyàmaþ || 1 || guhyàdguhyatarameùà na prakçtàyopadeùñavyà |
+<lb n="SA_MB_mahaavaakyopanisatCSX:19"/>sàttvikàyàntarmukhàya pari÷u÷råùave || 2 ||
+<lb n="SA_MB_mahaavaakyopanisatCSX:20"/>vivaraõam
+<lb n="SA_MB_mahaavaakyopanisatCSX:21"/>yanmahàvàkyasiddhàntamahàvidyàkalebaram |
+<lb n="SA_MB_mahaavaakyopanisatCSX:22"/>vikalebarakaivalyaràmacandrapada§ bhaje ||
+<lb n="SA_MB_mahaavaakyopanisatCSX:23"/>iha khalu atharvaõavedapravibhakteya§ mahàvàkyopaniùat
+<lb n="SA_MB_mahaavaakyopanisatCSX:24"/>svàtiriktaprapa¤catadasa§bhavaprabodhasiddhabrahmamàtraprapa¤cana-
+<lb n="SA_MB_mahaavaakyopanisatCSX:25"/>pårvaka§ vijayate | asyàþ svalpagranthato vivaraõamàrabhyate |
+<lb n="SA_MB_mahaavaakyopanisatCSX:26"/>uttamàdhikàripuruùànupalabhya brahmà svànubhava§ prakañayatãtyàha-
+<lb n="SA_MB_mahaavaakyopanisatCSX:27"/>atheti | kimiti ? aparokùeti || 1 || àdau vakùyamàõopaniùado rahasyàrthatayà
+<lb n="SA_MB_mahaavaakyopanisatCSX:28"/>gopyatàmàha- guhyàditi | pràkçtàya yathoktasàdhanavikalàya | kasmà
+<lb n="SA_MB_mahaavaakyopanisatCSX:29"/>upadeùñavyetyatra sàttvikàyeti | kevalasattvavçttimatpratyaïmukhàya
+<lb n="SA_MB_mahaavaakyopanisatCSX:30"/>svàcàrya÷u÷råùàdisàdhanasa§pannàya upadeùñavyetyarthaþ || 2 ||
+<lb n="SA_MB_mahaavaakyopanisatCSX:31"/>p. 302) 		vidyàvidyayoþ svaråpa§ kàrya§ ca
+<lb n="SA_MB_mahaavaakyopanisatCSX:32"/>atha sa§sçtibandhamokùayorvidyàvidye cakùuùã upasa§hçtya
+<lb n="SA_MB_mahaavaakyopanisatCSX:33"/>vij¤àyàvidyàlokàõóastamodçk || 3 || tamo hi
+<lb n="SA_MB_mahaavaakyopanisatCSX:34"/>÷arãraprapa¤camàbrahmasthàvaràntamanantàkhilàjàõóabhåtam |
+<lb n="SA_MB_mahaavaakyopanisatCSX:35"/>nikhilanigamoditasakàmakarmavyavahàro lokaþ || 4 ||
+<lb n="SA_MB_mahaavaakyopanisatCSX:36"/>keyamupaniùadityatra tàmeva vi÷inaùñi- atheti | atha
+<lb n="SA_MB_mahaavaakyopanisatCSX:37"/>yathoktasàdhanasa§pattyanantara§ mumukùuþ svàtiriktàstitàråpeya§
+<lb n="SA_MB_mahaavaakyopanisatCSX:38"/>sa§sçtiþ tadastãti pravçttimàrgo bandhaþ tannàstãti nivçttimàrgo mokùaþ |
+<lb n="SA_MB_mahaavaakyopanisatCSX:39"/>tayoþ sa§sçtimokùabandhayoþ hetå kàvityatra- vidyàcakùuþ
+<lb n="SA_MB_mahaavaakyopanisatCSX:40"/>sa§sàranivartakatayà mokùahetuþ | avidyàcakùustu sa§sàro&#x27;stãti
+<lb n="SA_MB_mahaavaakyopanisatCSX:41"/>pravartakatayà bandhahetuþ | te ubhe sa§sàro nàstyastãti vedanaråpe
+<lb n="SA_MB_mahaavaakyopanisatCSX:42"/>vidyàvidye cakùuùã brahmàtiriktavastusàmànyàsa§bhavaprabodhataþ
+<lb n="SA_MB_mahaavaakyopanisatCSX:43"/>upasa§hçtya apahnava§ kçtvà tadapahnavasiddha§ brahma
+<lb n="SA_MB_mahaavaakyopanisatCSX:44"/>niùpratiyogikasvamàtramiti vij¤àya | samyagj¤ànasamakàla§ vidvàn
+<lb n="SA_MB_mahaavaakyopanisatCSX:45"/>videhamukto bhavatãti vàkya÷eùaþ | avidyàcakùuþ kãdç÷amityatràha-
+<lb n="SA_MB_mahaavaakyopanisatCSX:46"/>avidyeti | brahmàtirekeõa kàlatraye&#x27;pi yà avidyamànà seyamavidyà tayà
+<lb n="SA_MB_mahaavaakyopanisatCSX:47"/>satyavallokyate ityavidyàlokaþ sa evàõóaþ aõóamavidyàpada§ tadeva
+<lb n="SA_MB_mahaavaakyopanisatCSX:48"/>tamodçùñiþ svamàtràvàrakatvàt || 3 || ki§ tat svàvàraka§ tama ityata
+<lb n="SA_MB_mahaavaakyopanisatCSX:49"/>àha- tamo hãti | tamo hi ÷arãraprapa¤ca§ prapa¤caþ svaj¤ànataþ kàlato
+<lb n="SA_MB_mahaavaakyopanisatCSX:50"/>và ÷ãryata iti ÷arãra§ tadeva ÷àrãram avidyàpada§ tatkàrya§
+<lb n="SA_MB_mahaavaakyopanisatCSX:51"/>àbrahmasthàvarànta§, tasya niùpratiyogikabrahmamàtràvaraõatayà
+<lb n="SA_MB_mahaavaakyopanisatCSX:52"/>prapa¤canàt prapa¤ca iti vyavaharaõàt pratãtikàlamàtrasthàyivat
+<lb n="SA_MB_mahaavaakyopanisatCSX:53"/>bhànàdvà vyàvahàrikatva§ pràtibhàsikatva§ ca j¤eyam | ki§
+<lb n="SA_MB_mahaavaakyopanisatCSX:54"/>tadvyàvahàrikatva§ pratibhàsikatva§ ca arhatãtyatra- yàvat svàj¤àna§
+<lb n="SA_MB_mahaavaakyopanisatCSX:55"/>tàvadanantatayà akhilàõóavat anantakoñibrahmàõóavat
+<lb n="SA_MB_mahaavaakyopanisatCSX:56"/>bhavatãtyanantàkhilàjàõóabhåtam | svàj¤alokastu vàyavya§
+<lb n="SA_MB_mahaavaakyopanisatCSX:57"/>÷vetamàlabheta bhåtikàmaþ citrayà
+<lb n="SA_MB_mahaavaakyopanisatCSX:58"/>p. 303) yajet pa÷ukàmaþ apàma somamamçtà abhåma
+<lb n="SA_MB_mahaavaakyopanisatCSX:59"/>ityàdinikhilanigamoditasakàmakarmavyavahàro vyavahàravàn bhavati || 4 ||
+<lb n="SA_MB_mahaavaakyopanisatCSX:60"/>ha§savidyàbhyàsena paramàtmàvirbhàvaþ
+<lb n="SA_MB_mahaavaakyopanisatCSX:61"/>naiùo&#x27;ndhakàro&#x27;yamàtmà | vidyà hi kàõóàntaràdityo
+<lb n="SA_MB_mahaavaakyopanisatCSX:62"/>jyotirmaõóala§ gràhya§ nàparam || 5 || asàvàdityo
+<lb n="SA_MB_mahaavaakyopanisatCSX:63"/>brahmetyajapayopahita§ ha§saþ so&#x27;ham | pràõàpànàbhyà§
+<lb n="SA_MB_mahaavaakyopanisatCSX:64"/>pratilomànulomàbhyà§ samupalabhyaiva§ sà cira§ labdhvà
+<lb n="SA_MB_mahaavaakyopanisatCSX:65"/>trivçdàtmani brahmaõyabhidhyàyamàne saccidànandaþ
+<lb n="SA_MB_mahaavaakyopanisatCSX:66"/>paramàtmàvirbhavati || 6 ||
+<lb n="SA_MB_mahaavaakyopanisatCSX:67"/>svàtmàpyeva§ sa§sarãtyatra àha- naiùo&#x27;ndhakàro&#x27;yamàtmà |
+<lb n="SA_MB_mahaavaakyopanisatCSX:68"/>yo&#x27;nàtmaprapa¤càpahnavasiddha eùo&#x27;yamàtmà nàndhakàro bhavati,
+<lb n="SA_MB_mahaavaakyopanisatCSX:69"/>svasya pratyakprakà÷àbhinnaparaprakà÷amàtratvàt | yàvadeva§ svàtmà
+<lb n="SA_MB_mahaavaakyopanisatCSX:70"/>nopalabhyate tàvanmumukùuõà vidyàbhyàsaþ kartavya ityàha- vidyà hãti
+<lb n="SA_MB_mahaavaakyopanisatCSX:71"/>| svàtiriktagandhàsaha§ brahma niùpratiyogikasvamàtratayà vidyata iti
+<lb n="SA_MB_mahaavaakyopanisatCSX:72"/>j¤ànavij¤ànasamyagj¤ànatattvaj¤ànavçttiþ vidyà hi
+<lb n="SA_MB_mahaavaakyopanisatCSX:73"/>kàõóàntaràdityaþ
+<lb n="SA_MB_mahaavaakyopanisatCSX:74"/>kutsitasvàvidyàpadàõóàntarbàhyàvabhàsakacidàdityaparyavasanneti
+<lb n="SA_MB_mahaavaakyopanisatCSX:75"/>cidàditya ityuktà | saiva cinmàtrajyotirmaõóala§, tatprabhàpu¤ja§
+<lb n="SA_MB_mahaavaakyopanisatCSX:76"/>nirvi÷eùabrahmamàtragocaratattvaj¤ànameva gràhyam, tasya
+<lb n="SA_MB_mahaavaakyopanisatCSX:77"/>caramasàkùàtkàrahetutvàt brahmamàtraparyavasannatvàcca | tadeva
+<lb n="SA_MB_mahaavaakyopanisatCSX:78"/>gràhya§ nàparamaparabrahmagocara§ savi÷eùaj¤àna§,
+<lb n="SA_MB_mahaavaakyopanisatCSX:79"/>kàlavilambaphaladatvàt | tãvratamamumukùuõaitanna gràhyamityarthaþ || 5 ||
+<lb n="SA_MB_mahaavaakyopanisatCSX:80"/>tathàvidhatattvaj¤ànapràpyaparamàtmàvirbhàvopàyatattvaj¤ànàdhi-
+<lb n="SA_MB_mahaavaakyopanisatCSX:81"/>gamahetuj¤ànavij¤ànàdisàdhana§ kimityatra àha- asàviti | sa
+<lb n="SA_MB_mahaavaakyopanisatCSX:82"/>ya÷càya§ puruùe | ya÷càsàvàditye | sa ekaþ | sa ya eva§vit |
+<lb n="SA_MB_mahaavaakyopanisatCSX:83"/>ityàdi÷rutyanurodhena asmaddçùñigocaro&#x27;sàvàdityo brahma,
+<lb n="SA_MB_mahaavaakyopanisatCSX:84"/>svagatavi÷eùà§÷àpàye tasyaiva brahmatvàt | so&#x27;yamasàvàdityaþ
+<lb n="SA_MB_mahaavaakyopanisatCSX:85"/>nàóãdvàrà prati÷arãra§ samupalabhya ucchvàsani÷vàsavyàpàrataþ
+<lb n="SA_MB_mahaavaakyopanisatCSX:86"/>pratilomànulomàbhyà§ pràõàpànàbhyà§ ha§saþ såryaþ so&#x27;hamiti
+<lb n="SA_MB_mahaavaakyopanisatCSX:87"/>sahajayàprayatnaniùpannayàjapayopahitam |
+<lb n="SA_MB_mahaavaakyopanisatCSX:88"/>p. 304) evamajapànusa§dhànaniùpanna§ j¤àna§ vij¤àna§
+<lb n="SA_MB_mahaavaakyopanisatCSX:89"/>samyagj¤àna§ và cira§ cirakàlasàdhya§ asau vidvàn labdhvà atha
+<lb n="SA_MB_mahaavaakyopanisatCSX:90"/>vyaùñisamaùñitadaikyaprapa¤cànuvçttavi÷vaviràóotràdidvituryàvikalpa-
+<lb n="SA_MB_mahaavaakyopanisatCSX:91"/>bhedena trivçdàtmani brahmaõi vyaùñyàdivibhàgamålasvàj¤àna-
+<lb n="SA_MB_mahaavaakyopanisatCSX:92"/>tatkàryanàmaråpàpahnavasiddhaniùpratiyogikabrahmamàtrava÷eùatayà
+<lb n="SA_MB_mahaavaakyopanisatCSX:93"/>abhidhyàyamàne sati atha
+<lb n="SA_MB_mahaavaakyopanisatCSX:94"/>ançtajaóaduþkhàsa§bhavaprabodhasiddhasaccidànandaþ paramàtmà
+<lb n="SA_MB_mahaavaakyopanisatCSX:95"/>avirbhavati svamàtramava÷iùyata ityathaþ || 6 ||
+<lb n="SA_MB_mahaavaakyopanisatCSX:96"/>tattvaj¤ànavçttisvaråpam
+<lb n="SA_MB_mahaavaakyopanisatCSX:97"/>sahasrabhànumacchurità påritattvàdalãyà pàràvàrapåra iva |
+<lb n="SA_MB_mahaavaakyopanisatCSX:98"/>naiùà samàdhiþ | naiùà yogasiddhiþ | naiùà manolayaþ | brahmaikya§ tat ||
+<lb n="SA_MB_mahaavaakyopanisatCSX:99"/>7 || àdityavarõa§ tamasastu pàre sarvàõi råpàõi vicitya dhãraþ | nàmàni
+<lb n="SA_MB_mahaavaakyopanisatCSX:100"/>kçtvàbhivadan yadàste || 8 || dhàtà purastàdyamudàjahàra | ÷akraþ
+<lb n="SA_MB_mahaavaakyopanisatCSX:101"/>pravidvàn pradi÷a÷catasraþ | tameva§ vidvànamçta iha bhavati | nànyaþ
+<lb n="SA_MB_mahaavaakyopanisatCSX:102"/>panthà ayanàya vidyate || 9 || yaj¤ena yaj¤amayajanta devàþ | tàni
+<lb n="SA_MB_mahaavaakyopanisatCSX:103"/>dharmàõi prathamànyàsan | te ha nàka§ mahimànaþ sacante | yatra pårve
+<lb n="SA_MB_mahaavaakyopanisatCSX:104"/>sàdhyàþ santi devàþ || 10 ||
+<lb n="SA_MB_mahaavaakyopanisatCSX:105"/>ittha§ bhåtabrahmamàtraparyavasannatattvaj¤ànavçttistu
+<lb n="SA_MB_mahaavaakyopanisatCSX:106"/>yugapadåditasahasropalakùitànantakoñibhànumatpratyakprakà÷àbhinnapa-
+<lb n="SA_MB_mahaavaakyopanisatCSX:107"/>raprakà÷àtmanà churità sphurità | pàràvàrapåraka iva
+<lb n="SA_MB_mahaavaakyopanisatCSX:108"/>nistaraïgasamudravat brahmamàtrarasaråpeõa påritatvàt pårõatvàt na hi
+<lb n="SA_MB_mahaavaakyopanisatCSX:109"/>lãyate ityalãlà brahmaråpatvàt | nahyeùà vçttiþ samàdhi yogasiddhiþ
+<lb n="SA_MB_mahaavaakyopanisatCSX:110"/>manolayo và bhavitumarhati | ki§ tu pratyagbrahmaikya§ tat || 7 || ki§
+<lb n="SA_MB_mahaavaakyopanisatCSX:111"/>tatpratyagbrahmaikyamityata àha- àdityeti | yat
+<lb n="SA_MB_mahaavaakyopanisatCSX:112"/>paràksàpekùapratyakparacidaikyagatasavi÷eùàpahnavasiddha§
+<lb n="SA_MB_mahaavaakyopanisatCSX:113"/>p. 305) tat svàtiriktatamasastu pàre
+<lb n="SA_MB_mahaavaakyopanisatCSX:114"/>vidyotamànamudayàstamayakalanàviralacidàdityavarõa§ cidàdityaråpa§
+<lb n="SA_MB_mahaavaakyopanisatCSX:115"/>saccidànandaråpeõa sarvatra pårõamava÷iùyate | dhãro vidvàn
+<lb n="SA_MB_mahaavaakyopanisatCSX:116"/>svàtiriktàvidyàpadatatkàryagocararåpàõi nàmàni ca vicitya mithyeti
+<lb n="SA_MB_mahaavaakyopanisatCSX:117"/>vicintya apahnava§ kçtvà brahmàtirikta§ na ki§cidastãti
+<lb n="SA_MB_mahaavaakyopanisatCSX:118"/>yadabhivadannàste tanmàtramava÷iùyate, sa yo ha vai tat parama§ brahma
+<lb n="SA_MB_mahaavaakyopanisatCSX:119"/>veda brahmaiva bhavati, ya eva§ nirbãja§ veda nirbãja§ eva sa bhavati iti
+<lb n="SA_MB_mahaavaakyopanisatCSX:120"/>vedanasamakàlabrahmabhàvàpatti÷ruteþ || 8 || tathà ca dhàtà purastàdeva
+<lb n="SA_MB_mahaavaakyopanisatCSX:121"/>amumarthamudàjahàra, pårvàgneyàdicatasro di÷aþ pradi÷a÷ca
+<lb n="SA_MB_mahaavaakyopanisatCSX:122"/>brahmavittvena vikhyàtakãrtiþ pravidvàn ÷akro&#x27;pi pràõo&#x27;smi praj¤àtmà
+<lb n="SA_MB_mahaavaakyopanisatCSX:123"/>ta§ màmàyuramçtamityupàssva iti, vedanaphala§ tu vipàpo virajo
+<lb n="SA_MB_mahaavaakyopanisatCSX:124"/>brahmavidvàn brahmaivàbhipraiti iti yamarthamudàjahàra ta§
+<lb n="SA_MB_mahaavaakyopanisatCSX:125"/>paramàtmàna§ niùpratiyogikasvamàtramiti eva§ vidvàn
+<lb n="SA_MB_mahaavaakyopanisatCSX:126"/>vedanasamakàlam amçtaþ paramàtmeha bhavati, j¤ànasamakàlameva
+<lb n="SA_MB_mahaavaakyopanisatCSX:127"/>muktaþ kaivalya§ yàti iti ÷ruteþ | svàj¤ànaprabhavo&#x27;ya§ bandhaþ
+<lb n="SA_MB_mahaavaakyopanisatCSX:128"/>svaj¤ànànmokùaþ | ayamevàvyàhataþ panthàþ | ayanàya mokùàya
+<lb n="SA_MB_mahaavaakyopanisatCSX:129"/>brahmaj¤ànàdçte anyaþ panthà na vidyate || 9 || eva§ devàþ
+<lb n="SA_MB_mahaavaakyopanisatCSX:130"/>indràdayo&#x27;pi brahma niùpratiyogikasvamàtramava÷iùyate brahmàtirikta§
+<lb n="SA_MB_mahaavaakyopanisatCSX:131"/>na ki§cidastãti j¤ànayaj¤ena yaj¤a§ viùõvàkhya§ brahmàyajanta,
+<lb n="SA_MB_mahaavaakyopanisatCSX:132"/>brahmàhamasmãti bhàvayante jãvanmuktà mahãyante | teùà§
+<lb n="SA_MB_mahaavaakyopanisatCSX:133"/>jãvanmuktapadàråóhànà§ devànà§ tàni dharmàõi prathamànyàsan
+<lb n="SA_MB_mahaavaakyopanisatCSX:134"/>te jãvanmuktadharmàþ amànitvàdayaþ maitryàdaya÷ca prathamàþ
+<lb n="SA_MB_mahaavaakyopanisatCSX:135"/>pradhànà àsan babhåvuþ | eva§ mahimàno devà yatra pårve sàdhyà
+<lb n="SA_MB_mahaavaakyopanisatCSX:136"/>devavi÷eùà jãvanmuktàþ santi tannàka§ saca(ka)nte ta§ svarga§ pràpya
+<lb n="SA_MB_mahaavaakyopanisatCSX:137"/>prakà÷ante || 10 ||
+<lb n="SA_MB_mahaavaakyopanisatCSX:138"/>praõavaha§sajyotirdhyànam
+<lb n="SA_MB_mahaavaakyopanisatCSX:139"/>so&#x27;hamarkaþ para§ jyotirarkajyotiraha§ ÷ivaþ |
+<lb n="SA_MB_mahaavaakyopanisatCSX:140"/>àtmajyotiraha§ ÷ukraþ sarvajyotirasàvahom || 11 ||
+<lb n="SA_MB_mahaavaakyopanisatCSX:141"/>p. 306) tatra devàþ ki§ kurvanto ityatra pratyakparacitoraikyànusa§dhàna§
+<lb n="SA_MB_mahaavaakyopanisatCSX:142"/>kurvanto vartante ityàha- so&#x27;hamiti | yaþ para§jyotiþ so&#x27;ha§ cidarkaþ
+<lb n="SA_MB_mahaavaakyopanisatCSX:143"/>yo&#x27;rkajyotiraha§ ÷ivaþ yo&#x27;ha§ ÷ivàrkajyotiþ aha§ ÷ukraþ
+<lb n="SA_MB_mahaavaakyopanisatCSX:144"/>pratyagabhinnaparamàtmà sarvajyotirasàvahom | eva§ vyatihàreõa
+<lb n="SA_MB_mahaavaakyopanisatCSX:145"/>pratyakprakà÷àbhinnaparaprakà÷o&#x27;hamom
+<lb n="SA_MB_mahaavaakyopanisatCSX:146"/>o§kàràrthapratyakparavibhàgaikyasahaturãyaturãya§ brahma
+<lb n="SA_MB_mahaavaakyopanisatCSX:147"/>niùpratiyogikasvamàtramityeva§ dhyàyanto&#x27;dyàpi mahãyanta ityarthaþ || 11
+<lb n="SA_MB_mahaavaakyopanisatCSX:148"/>ha§sajyotirvidyàphalam
+<lb n="SA_MB_mahaavaakyopanisatCSX:149"/>etadatharva÷iro&#x27;dhãte | pràtaradhãyàno ràtrikçta§ pàpa§
+<lb n="SA_MB_mahaavaakyopanisatCSX:150"/>nà÷ayati | sàyamadhãyàno divasakçta§ pàpa§ nà÷ayati | tat sàya§
+<lb n="SA_MB_mahaavaakyopanisatCSX:151"/>pràtaþ prayu¤jànaþ pàpo&#x27;pàpo bhavati |
+<lb n="SA_MB_mahaavaakyopanisatCSX:152"/>màdhya§dinamàdityàbhimukho&#x27;dhãyànaþ
+<lb n="SA_MB_mahaavaakyopanisatCSX:153"/>pa¤camahàpàtakopapàtakàt pramucyate | sarvavedapàràyaõapuõya§
+<lb n="SA_MB_mahaavaakyopanisatCSX:154"/>labhate | ÷rãmahàviùõusàyujyamavàpnotãtyupaniùat || 12 ||
+<lb n="SA_MB_mahaavaakyopanisatCSX:155"/>vidyàphalamàha- etaditi | ki§ bahunà-
+<lb n="SA_MB_mahaavaakyopanisatCSX:156"/>÷rãmahàviùõusàyujyamavàpnoti | ityupaniùacchabdaþ
+<lb n="SA_MB_mahaavaakyopanisatCSX:157"/>mahàvàkyopaniùatsamàptyarthaþ || 12 ||
+<lb n="SA_MB_mahaavaakyopanisatCSX:158"/>÷rãvàsudevendra÷iùyopaniùadbrahmayoginà |
+<lb n="SA_MB_mahaavaakyopanisatCSX:159"/>mahàvàkyopaniùado vyàkhyàna§ likhita§ laghu |
+<lb n="SA_MB_mahaavaakyopanisatCSX:160"/>mahàvàkyavivçtistu dviùaùñiþ granthato bhavet ||
+<lb n="SA_MB_mahaavaakyopanisatCSX:161"/>iti ÷rãmadã÷àdyaùñottara÷atopaniùacchàstravivaraõe
+<lb n="SA_MB_mahaavaakyopanisatCSX:162"/>dvinavatisa§khyàpåraka§ mahàvàkyopaniùadvivaraõa§ sa§pårõam
+<lb n="SA_MB_mahaavaakyopanisatCSX:163"/>MUKTABODHA INDOLOGICAL RESEARCH INSTITUTE©2011 Muktabodha Indological Research Institute  All Rights Reserved.E-texts may be viewed only online or downloaded for private study.E-texts may not, under any circumstances, be copied, republished,reproduced, distributed or sold, either in original or altered form, withoutthe express permission of Muktabodha Indological Research Institute in writing.Data-entered by the staff of Muktabodha under the direction of Mark S. G. Dyczkowski.
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Saṃvarodayatantra (chapter 25)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Collection / category: BuddhistScriptures / K12 (Tantra)
+Source: Critical edition by Chizuko Yamano of a chapter not edited in Tsuda 1974
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Chieko Yamano, &#x27;Saṃvarodayatantra no Kenkyū (1): Dai 25 Shō Rasāyana&#x27; [A Study of the Saṃvarodayatantra (1): Chapter 25, Rasāyana], The Chisan Gakuho (Journal of Chisan Studies) 55, March 2006, pp. 73–86.</note>
+          <idno type="dharmanexus">SA_K12_Āgama_Saṃvarodayatantra-ch25_Yamano_2007</idno>
+          <ref target="https://dharmamitra.org/db/sa/SA_K12_Āgama_Saṃvarodayatantra-ch25_Yamano_2007/text">https://dharmamitra.org/db/sa/SA_K12_Āgama_Saṃvarodayatantra-ch25_Yamano_2007/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-12">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch25_Yamano_2007:0"/>Saṃvarodayatantra
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch25_Yamano_2007:1"/>chapter 25. on Rasāyana
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch25_Yamano_2007:2"/>ed. Chieko Yamano
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch25_Yamano_2007:3"/>The Chisan Gakuho/Journal of Chisan Studies
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch25_Yamano_2007:4"/>March 2006, pp. 73-86.
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch25_Yamano_2007:5"/>% input by Péter-Dániel Szántó
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch25_Yamano_2007:6"/>% Michaelmas 2008, Oxford
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch25_Yamano_2007:7"/>% eight mss. used, but not the commentary
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch25_Yamano_2007:8"/>% A = Matsunami 404, 1595 CE
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch25_Yamano_2007:9"/>% B = Matsunami 403
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch25_Yamano_2007:10"/>% C = Matsunami 401, 1751 CE
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch25_Yamano_2007:11"/>% I = ASB Shastri 59, 1828 CE
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch25_Yamano_2007:12"/>% D = Matsunami 402, 1852 CE
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch25_Yamano_2007:13"/>% E = Matsunami 405, 1912 CE
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch25_Yamano_2007:14"/>% P = BNP Cabaton 194.
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch25_Yamano_2007:15"/>% L = RAS no. 38.
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch25_Yamano_2007:16"/>^76
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch25_Yamano_2007:17"/>athānyatamaṃ vakṣyāmi rasāyanavidhottamam |
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch25_Yamano_2007:18"/>yena vijñātamātreṇa śarīropāyalakṣaṇam || 1 ||
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch25_Yamano_2007:19"/>somasihlakakastūrībhaiṣajyapītacandanam |
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch25_Yamano_2007:20"/>pṛthakpṛthak sametaṃ vā jarāmaraṇavañcakam || 2 ||
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch25_Yamano_2007:21"/>śreṣṭhaḥ pañcakulotpanno madhyamo jñātisaṃbhavaḥ |
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch25_Yamano_2007:22"/>sāmānyastrībhavo hīna vṛddhas taruṇaṃ vivarjayet || 3 ||
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch25_Yamano_2007:23"/>kṛṣṇavarṇā subhadrāṅgī kṛṣṇapakṣarajasvalā |
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch25_Yamano_2007:24"/>bālikā snigdhakeśī yā sugandhā kṛṣṇatārakā || 4 ||
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch25_Yamano_2007:25"/>^77
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch25_Yamano_2007:26"/>tasyāḥ puṣpaṃ praśasta syāt sarvābhimatasiddhidam |
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch25_Yamano_2007:27"/>śuklapakṣopasaryāyā apraśastaṃ jarādikṛt || 5 ||
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch25_Yamano_2007:28"/>ādyāntyavarjitā śuddhā śuddhasphaṭikasaṃnibhā |
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch25_Yamano_2007:29"/>praśastā mṛganābhiḥ syāt saṃgrahe kasturi śubham || 6 ||
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch25_Yamano_2007:30"/>hatasya tu rasaṃ śreṣṭhaṃ bhaiṣajyasaṃgrahaṃ varam |
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch25_Yamano_2007:31"/>kṣīrādibhojanotpannaṃ pītacandanasaṃgrahet || 7 ||
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch25_Yamano_2007:32"/>śīrṣajaṃ nalikājātaṃ māṃsajaṃ ca tridhāghṛtam |
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch25_Yamano_2007:33"/>uttamaṃ śīrṣajaṃ sarpi madhyamaṃ nalikābhavam |
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch25_Yamano_2007:34"/>^78
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch25_Yamano_2007:35"/>adhamaṃ māṃsasaṃbhūtaṃ rasāyanavidhottamam || 8 ||
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch25_Yamano_2007:36"/>vapuṣaḥ puṣṭikṛc candras turuṣkaḥ sarvarakṣakaḥ |
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch25_Yamano_2007:37"/>vyādhighnī mṛganābhiḥ syā bhaiṣajaṃ śāntikārakam |
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch25_Yamano_2007:38"/>catuḥsamo bhaven nityaṃ pratyūṣe sevayet sadā || 9 ||
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch25_Yamano_2007:39"/>candre carati pātavyaṃ candre carati tāyini |
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch25_Yamano_2007:40"/>sūryaḥ sūryeṇa pātavyaṃ sūryo vahati śāstari || 10 ||
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch25_Yamano_2007:41"/>etad vastu samāyojyaṃ nasyan dadhyāt nityaśaḥ |
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch25_Yamano_2007:42"/>ṣaṇmāsāt kṛtayogena āyur vṛddhati sarvadā || 11 ||
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch25_Yamano_2007:43"/>^79
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch25_Yamano_2007:44"/>vāmanasyapradānena pariśuddhena karmaṇā |
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch25_Yamano_2007:45"/>jīven nirujaṃ sarvaṃ śuklapakṣe śaśī yathā || 12 ||
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch25_Yamano_2007:46"/>nirañjanapītaharitaṃ malāmalavivarjitam |
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch25_Yamano_2007:47"/>śuddhaś cāmbu bhaved yatra caturdoṣavivarjitam || 13 ||
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch25_Yamano_2007:48"/>prasannanirmalaṃ svacchaṃ kiñcit sphaṭikasannibham |
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch25_Yamano_2007:49"/>śuddhasphaṭikaṃ bhaved evaṃ piṇḍabandhanam uttamam || 14 ||
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch25_Yamano_2007:50"/>matsamāṃsaṃ tathā pānaṃ strīsaṅgaṃ vivarjitam |
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch25_Yamano_2007:51"/>dhīro vinito guptaṃ svadehaṃ paripālayet || 15 ||
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch25_Yamano_2007:52"/>^80
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch25_Yamano_2007:53"/>śrāddhaṃ śiṣyaṃ samāyuktaṃ guhāntasya praveśayet |
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch25_Yamano_2007:54"/>devatārādhanaṃ kāryaṃ bali-alisamanvitam || 16 ||
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch25_Yamano_2007:55"/>svādhidevatayogena avicchinnaṃ mantrajāpitam |
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch25_Yamano_2007:56"/>dānapuṇyaṃ kṛtaṃ kāryaṃ śiṣyaṃ saṃtoṣa kārayet || 17 ||
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch25_Yamano_2007:57"/>nirvātasthānasaṃprāptaṃ tiṣṭhen nirvighnīkṛtam |
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch25_Yamano_2007:58"/>sukham āsanasaṃprāptaṃ maunaṃ kṛtvā tu buddhimān || 18 ||
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch25_Yamano_2007:59"/>svadehaṃ śodhayet samyak saptadivasāni yāvat |
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch25_Yamano_2007:60"/>tataḥ paścāt sevayet karma daśavarṣādi tāvat || 19 ||
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch25_Yamano_2007:61"/>^81
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch25_Yamano_2007:62"/>varṣadvayaṃ ca saṃrakṣāḥ siddhikāle sudhī sadā |
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch25_Yamano_2007:63"/>dvādaśavarṣa saṃprāpte valipalitavarjitam || 20 ||
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch25_Yamano_2007:64"/>nānārogavinirmuktaṃ jīved ācandratārakam |
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch25_Yamano_2007:65"/>devāsuramanuṣyāṇāṃ strīṇāṃ bhavati vallabhaḥ || 21 ||
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch25_Yamano_2007:66"/>pañca eva hi vastunāṃ nityaṃ bodha tu bhakṣayet sadā |
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch25_Yamano_2007:67"/>etat karma saṃpūrṇam icchāsiddhiḥ pravarttate |
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch25_Yamano_2007:68"/>kāmadhenusamaṃ dehaṃ khecarīsiddhim āpnuyāt || 22 ||
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch25_Yamano_2007:69"/>buddhāṅgāreṣṭakāreṇunirguṇḍī cātra valgujaiḥ |
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch25_Yamano_2007:70"/>dhūttūrapatraniryāsakasturīcandanānvitaiḥ || 23 ||
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch25_Yamano_2007:71"/>^82
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch25_Yamano_2007:72"/>udvarttayati yaḥ svāṅgaṃ coravālasamanvitaiḥ |
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch25_Yamano_2007:73"/>sarvarogavinirmukto nirviṣaḥ syāt sakāntimān || 24 ||
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch25_Yamano_2007:74"/>triphalācandanotpannaṃ cūrṇaśītalayā saha |
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch25_Yamano_2007:75"/>kastūryā yaḥ pibed varṣaṃ saṃbhaven nirjarārujam || 25 ||
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch25_Yamano_2007:76"/>triphalācandanacūrṇaṃ kastūrī saha sevayet |
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch25_Yamano_2007:77"/>ṣaṇmāsamātra saṃsevyaṃ dīrghāyuḥ syāt sarūpavān || 26 ||
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch25_Yamano_2007:78"/>kastūrītriphalāyuktaṃ pāṣāṇapātrasaṃsthitam |
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch25_Yamano_2007:79"/>yaḥ pibet satataṃ śītaṃ saṃbhaven nirjarārujam || 27 ||
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch25_Yamano_2007:80"/>^83
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch25_Yamano_2007:81"/>candanaṃ trikaṣāyād yaṃ ṣaṇmāsaṃ bhakṣayen naraḥ |
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch25_Yamano_2007:82"/>yas tasya jāyate siddhir īpsitā nātra saṃśayaḥ || 28 ||
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch25_Yamano_2007:83"/>iti rasāyanavidhipaṭalaḥ pañcaviṃśatitamaḥ |
+    </body>
+  </text>
+</TEI>

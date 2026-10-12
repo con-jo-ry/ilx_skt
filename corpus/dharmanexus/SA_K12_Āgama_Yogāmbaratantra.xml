@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Yogāmbaratantra (chapter 1)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Collection / category: BuddhistScriptures / K12 (Tantra)
+Source: OCR / Dharmamitra
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Diplomatic transcription, based on Nepalese manuscript MBB-II-120 (paper, ff. 56 [55]), with occasional variant readings from Nagoya University MS 09.4.</note>
+          <idno type="dharmanexus">SA_K12_Āgama_Yogāmbaratantra</idno>
+          <ref target="https://dharmamitra.org/db/sa/SA_K12_Āgama_Yogāmbaratantra/text">https://dharmamitra.org/db/sa/SA_K12_Āgama_Yogāmbaratantra/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-12">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_K12_Āgama_Yogāmbaratantra:0"/>MBB-II-120-61 on title page
+<lb n="SA_K12_Āgama_Yogāmbaratantra:1"/>MBB-II-120 otherwise
+<lb n="SA_K12_Āgama_Yogāmbaratantra:2"/>Yogāmbaramahātantra
+<lb n="SA_K12_Āgama_Yogāmbaratantra:3"/>% MBB description: ff. 56 (but in reality 55), 8x28 cm, 6 ll. per page, incomplete, paper``This is very important text dealing the subject Yoga. It is found under the chaitya when it was renovated.&#x27;&#x27;
+<lb n="SA_K12_Āgama_Yogāmbaratantra:4"/>% input by Péter-Dániel Szántó
+<lb n="SA_K12_Āgama_Yogāmbaratantra:5"/>% late June-July 1, 2010 Oxford
+<lb n="SA_K12_Āgama_Yogāmbaratantra:6"/>% numbering added
+<lb n="SA_K12_Āgama_Yogāmbaratantra:7"/>[2\recto but numbered `1&#x27;] vajrasattva āḥ ||   ||
+<lb n="SA_K12_Āgama_Yogāmbaratantra:8"/>prāptācāryaprasādo vimaladṛḍhamatiḥ sarvabhāvasvabhāvaṃ
+<lb n="SA_K12_Āgama_Yogāmbaratantra:9"/>svaccha śuddha susukṣmaṃ paramaśivamayaṃ buddhanirmāṇadhātum |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:10"/>nirvande nirvikalpaṃ satatasukhamayaṃ bhāvayet tasva yogī
+<lb n="SA_K12_Āgama_Yogāmbaratantra:11"/>puṇyāpuṇyād vimuktaḥ svayam api bhagavān jāyate vajrasattvaḥ || 1
+<lb n="SA_K12_Āgama_Yogāmbaratantra:12"/>% Pañcakrama 4.38
+<lb n="SA_K12_Āgama_Yogāmbaratantra:13"/>saṃvedanamayātaṃ vai vastusaṃjñāpi tādṛśī |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:14"/>vajrasattvasvarupa tu jagad eka jagau muniḥ || 2
+<lb n="SA_K12_Āgama_Yogāmbaratantra:15"/>% [q in] Pañcatathāgatamudrāvivaraṇa 13
+<lb n="SA_K12_Āgama_Yogāmbaratantra:16"/>svādhiṣṭhānakramā taṃ ca saṃvṛteḥ satyadarśanam |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:17"/>gurupādaḥprasādena labhyate tac ca nānyathā || 3
+<lb n="SA_K12_Āgama_Yogāmbaratantra:18"/>% Pañcakrama 3.10
+<lb n="SA_K12_Āgama_Yogāmbaratantra:19"/>svādhiṣṭhānam idaṃ prāpya sarvadṛṣṭividāraṇam |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:20"/>sarvaṃ kuryān na kuryād vā yathārucir avesthitāḥ || 4
+<lb n="SA_K12_Āgama_Yogāmbaratantra:21"/>% Svādhiṣṭhānakramaprabheda 47
+<lb n="SA_K12_Āgama_Yogāmbaratantra:22"/>jñātvā krameṇa tattvajñaḥ svādhiṣṭhānaprabhāsvarau |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:23"/>tayor eva [2\verso] samājaṃ ya yuganaddhakramo kṣ ayam || 5
+<lb n="SA_K12_Āgama_Yogāmbaratantra:24"/>% Pañcakrama 5.11
+<lb n="SA_K12_Āgama_Yogāmbaratantra:25"/>pratītya darpaṇa[ṃ] yadvat saṃkrānta[ṃ] mukhamaṇḍalam |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:26"/>na tat[r]a saṃkramot [=saṃkramas] tasya na ca tena vinā kvacit [=tu tat?] || 6
+<lb n="SA_K12_Āgama_Yogāmbaratantra:27"/>% Bodhicittavivaraṇa 61
+<lb n="SA_K12_Āgama_Yogāmbaratantra:28"/>tadva[t] skandhasya jāyante [=jāyeta] tan pratīsandhivāntare [=pratisandhir bhavāntare?] |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:29"/>asaṃkramaś ca vidvadbhi[r] na va dhāmo [=avadhāryo] &#x27;sya sarvatā [=sarvadā] || 7
+<lb n="SA_K12_Āgama_Yogāmbaratantra:30"/>% Bodhicittavivaraṇa 62
+<lb n="SA_K12_Āgama_Yogāmbaratantra:31"/>pṛthvī gagaṇaṃ vāyur āpo yobhiś ca pañcamam |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:32"/>raso gandhas tathā rūpo śabdasparśas tathaiva ca || 8
+<lb n="SA_K12_Āgama_Yogāmbaratantra:33"/>% c] -ndhas tathā `Nagoya&#x27; 09.4 available from here
+<lb n="SA_K12_Āgama_Yogāmbaratantra:34"/>buddhindriyāṇi sarvāni pañca karmendriyāni ca |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:35"/>mano buddhir ahaṃkāra cittam avyaktam eva ca || 9
+<lb n="SA_K12_Āgama_Yogāmbaratantra:36"/>% ?
+<lb n="SA_K12_Āgama_Yogāmbaratantra:37"/>etat sarvasamāyuktaṃ śarīram abhidhīyate |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:38"/>sukhaduḥkhopabhogārthaṃ mutpattir iha dṛśyate || 10
+<lb n="SA_K12_Āgama_Yogāmbaratantra:39"/>% ?
+<lb n="SA_K12_Āgama_Yogāmbaratantra:40"/>gandha sparśo raso rupa śabdo mano pi yatrasam |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:41"/>ṣaḍbhiḥ samarasaṃ jñānaṃ mahāmṛtarasāyanam || 11
+<lb n="SA_K12_Āgama_Yogāmbaratantra:42"/>% ?
+<lb n="SA_K12_Āgama_Yogāmbaratantra:43"/>tena tṛpto mahāyogī sadā saṃśuddhamāna[3\recto]sam |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:44"/>tasya pravartate siddhin aṇimādiguṇāṣṭakam || 12
+<lb n="SA_K12_Āgama_Yogāmbaratantra:45"/>% ?
+<lb n="SA_K12_Āgama_Yogāmbaratantra:46"/>saṃvṛt{t}iḥ śunyatā [=śūnyatā] proktā śūnyataiva hi saṃvṛtiḥ |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:47"/>% hoppá: b quote in Bhavabhaṭṭa ad 3.4.3!!!
+<lb n="SA_K12_Āgama_Yogāmbaratantra:48"/>avinābhāvaniyamāt kṛtakānityayor iva{ḥ} || 13
+<lb n="SA_K12_Āgama_Yogāmbaratantra:49"/>% Bodhicittavivaraṇa 68
+<lb n="SA_K12_Āgama_Yogāmbaratantra:50"/>loko yaṃ dvayasaṃbhūto viparyāsasamutthitaḥ |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:51"/>tato lokagati jñātvā gati gacchanti paṇḍitāḥ || 14
+<lb n="SA_K12_Āgama_Yogāmbaratantra:52"/>% ?
+<lb n="SA_K12_Āgama_Yogāmbaratantra:53"/>loke caranti te śūrā rājyaliptāmalopamāḥ |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:54"/>nāśayanti na lokaṃ ca dharmadhāto hi saṃsthitāḥ || 15
+<lb n="SA_K12_Āgama_Yogāmbaratantra:55"/>% ?
+<lb n="SA_K12_Āgama_Yogāmbaratantra:56"/>manapradhānadharmeṣu kalpākalpavivarjitaḥ |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:57"/>dharmānā niḥsvabhāvatvāt : dharmadhātu vibhāvyate ||   || 16
+<lb n="SA_K12_Āgama_Yogāmbaratantra:58"/>% ?
+<lb n="SA_K12_Āgama_Yogāmbaratantra:59"/>iyanta ye vetya sasnaṃ vyasamyak
+<lb n="SA_K12_Āgama_Yogāmbaratantra:60"/>% a] ye ve- `Nagoya&#x27; 09.4 breaks off here
+<lb n="SA_K12_Āgama_Yogāmbaratantra:61"/>skandhādibhedena vicārya śūnyā |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:62"/>pravartayet tatra mano yathāvad
+<lb n="SA_K12_Āgama_Yogāmbaratantra:63"/>yāvat samādhāram upeti tāvat || 17
+<lb n="SA_K12_Āgama_Yogāmbaratantra:64"/>% ?
+<lb n="SA_K12_Āgama_Yogāmbaratantra:65"/>yaḥ śīlarā duḥkhasahintu tā[3\verso]vad
+<lb n="SA_K12_Āgama_Yogāmbaratantra:66"/>yasyāsthi vīryaṃ dṛḍham apramādaḥ |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:67"/>samyak prayuktasya sadā satasya
+<lb n="SA_K12_Āgama_Yogāmbaratantra:68"/>sampadyate śrīghrataraṃ samādhiḥ ||   || 18
+<lb n="SA_K12_Āgama_Yogāmbaratantra:69"/>% ?
+<lb n="SA_K12_Āgama_Yogāmbaratantra:70"/>anityodham anutpādam anucchedam aśāśvataḥ |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:71"/>manekārtham amānārtha manāgamamanirgamaḥ || 19
+<lb n="SA_K12_Āgama_Yogāmbaratantra:72"/>% q several times in the Prasannapadā
+<lb n="SA_K12_Āgama_Yogāmbaratantra:73"/>yaḥ pratītyasamutpādaṃ prapañcopaśamaṃ śivam |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:74"/>deśayām āsa saṃbuddhaṃs taṃ vande vadatāṃ vanam || 20
+<lb n="SA_K12_Āgama_Yogāmbaratantra:75"/>% q in Prasannapadā
+<lb n="SA_K12_Āgama_Yogāmbaratantra:76"/>na duṣṭa naiva duṣyantiḥ sarvabuddhā samāsataḥ |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:77"/>asvabhāvasvabhāvasya darśanaṃ tādṛśaṃ bhavet || 21
+<lb n="SA_K12_Āgama_Yogāmbaratantra:78"/>% ?
+<lb n="SA_K12_Āgama_Yogāmbaratantra:79"/>bhāvo nāma vikalpo yaṃ nirvikalpā ca śūnyatā |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:80"/>kalpanāya tu dṛṣṭā ca tatra kā nāma śūnyatā ||   || 22
+<lb n="SA_K12_Āgama_Yogāmbaratantra:81"/>% ?
+<lb n="SA_K12_Āgama_Yogāmbaratantra:82"/>sasvabhāvaśūnyatāṅgākārehinaiḥ svabhāvarajaṇa
+<lb n="SA_K12_Āgama_Yogāmbaratantra:83"/>tathatā bhāvāneyāthaiva cittamātre deśane pi | 23
+<lb n="SA_K12_Āgama_Yogāmbaratantra:84"/>yadvapatyāvihīno svayamabhilasitaṃ naiva deśa[4\recto] prayānti
+<lb n="SA_K12_Āgama_Yogāmbaratantra:85"/>natrātyāṃ yo vihīno svayam abhilakhitaṃ mīlatodyo prayānti |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:86"/>% -yo prayānti] `Nagoya&#x27; 09.5 available from here
+<lb n="SA_K12_Āgama_Yogāmbaratantra:87"/>tadva bhutvā na mukti na bhavati karuṇā śūnyatābhinnayo yāt 24
+<lb n="SA_K12_Āgama_Yogāmbaratantra:88"/>% corrupt sragdharā
+<lb n="SA_K12_Āgama_Yogāmbaratantra:89"/>ye pratītyasamutpannā na te kiñcit vibhāvataḥ |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:90"/>ye svabhāvā na vidyante na teṣāṃ sambhava kvacit ||   || 25
+<lb n="SA_K12_Āgama_Yogāmbaratantra:91"/>yan pratyayai jāyati sa hy ajāto
+<lb n="SA_K12_Āgama_Yogāmbaratantra:92"/>na tasya utpāda svabhāvato sti |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:93"/>yat pratyayādhīna sa śūnyatakto
+<lb n="SA_K12_Āgama_Yogāmbaratantra:94"/>yaḥ śūnyatā jānati so pamattaḥ || 26
+<lb n="SA_K12_Āgama_Yogāmbaratantra:95"/>% Candrapradīpasūtra loc. class.
+<lb n="SA_K12_Āgama_Yogāmbaratantra:96"/>% q Prasannapadā v. 212 etc. as Anavataptahrādapasaṃkramaṇasūtra
+<lb n="SA_K12_Āgama_Yogāmbaratantra:97"/>% q by Prajñākaramati p. 355
+<lb n="SA_K12_Āgama_Yogāmbaratantra:98"/>% q/r in Pañcatathāgatamudrāvivaraṇa
+<lb n="SA_K12_Āgama_Yogāmbaratantra:99"/>% q Subhāṣitasaṃgraha
+<lb n="SA_K12_Āgama_Yogāmbaratantra:100"/>avibhāvitasaṃbodhi vikalpā so pratityajaḥ |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:101"/>taddveṣa eṣa nirvāṇām ākṛṣāś cittavibhramam ||   || 27
+<lb n="SA_K12_Āgama_Yogāmbaratantra:102"/>% Sekanirdeśa 35
+<lb n="SA_K12_Āgama_Yogāmbaratantra:103"/>pratītyajātāḥ parikalpaśūnyāḥ
+<lb n="SA_K12_Āgama_Yogāmbaratantra:104"/>śūnyaḥ svabhāvena vasantu saṃntaḥ |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:105"/>nocchedi naś cittaved ekarūpā
+<lb n="SA_K12_Āgama_Yogāmbaratantra:106"/>rūpādayaḥ pañcajinā jayanti || 28
+<lb n="SA_K12_Āgama_Yogāmbaratantra:107"/>% Pañcatathāgatamudrāvivaraṇa 1
+<lb n="SA_K12_Āgama_Yogāmbaratantra:108"/>svacittam madya[4\verso]nutpanna tadbhavanti samāsataḥ |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:109"/>svacittādhipate yatnāḥ yogācārau nigadyate || 29
+<lb n="SA_K12_Āgama_Yogāmbaratantra:110"/>% ?
+<lb n="SA_K12_Āgama_Yogāmbaratantra:111"/>pratītyasaṃbhavāḥ devā gandharvapurava sphuṭam |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:112"/>na svabhāvasthita viśva nākāśāmbhojasaṃnibham || 30
+<lb n="SA_K12_Āgama_Yogāmbaratantra:113"/>% ?
+<lb n="SA_K12_Āgama_Yogāmbaratantra:114"/>ato na bhāvanā bhāvo na bhāvo na ca nirvitaḥ |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:115"/>na sattvaṃ nāpi nāsattvaṃ nocchedo nāpi śāśvatam || 31
+<lb n="SA_K12_Āgama_Yogāmbaratantra:116"/>% ?
+<lb n="SA_K12_Āgama_Yogāmbaratantra:117"/>nirvāṇaṃ ca bhavaś caiva dvayam etan na vidyate |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:118"/>% b] etan na `Nagoya&#x27; 09.5 breaks off here
+<lb n="SA_K12_Āgama_Yogāmbaratantra:119"/>parijñānaṃ bhavaṃ bhaiva [= bhavasyaiva] nirvāṇam iti kathyate || 32
+<lb n="SA_K12_Āgama_Yogāmbaratantra:120"/>% Yuktiṣaṣṭikā 6
+<lb n="SA_K12_Āgama_Yogāmbaratantra:121"/>jñānajñeyāsamārope manyanā tatra nānyatā |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:122"/>sarvan tathā yathā pūrvaṃ yathā buddhis tathā na hi || 33
+<lb n="SA_K12_Āgama_Yogāmbaratantra:123"/>% Sekanirdeśa 33
+<lb n="SA_K12_Āgama_Yogāmbaratantra:124"/>yena jānaṃ nagadbuddha buddhaḥ śuddhi na bodhataḥ |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:125"/>nijan tasya jagat satyam anābhogena dhīmataḥ || 34
+<lb n="SA_K12_Āgama_Yogāmbaratantra:126"/>% Sekanirdeśa 34
+<lb n="SA_K12_Āgama_Yogāmbaratantra:127"/>saṃkleśā bodhito bhinnāḥ na bodhau kleśasambhavā |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:128"/>bhrāntitaḥ kleśa[5\recto]saṃkalpo bhrāntiḥ prakṛtiḥnirmalā || 35
+<lb n="SA_K12_Āgama_Yogāmbaratantra:129"/>% Mahāyānaviṃśikā 8
+<lb n="SA_K12_Āgama_Yogāmbaratantra:130"/>guḍe madhuratā cāgner usnatvaṃ [=uṣṇatvaṃ] prakṛti[r] yathā |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:131"/>śūnyatā sarvadharmāṇāṃ tathā prakṛtir iṣyate || 36
+<lb n="SA_K12_Āgama_Yogāmbaratantra:132"/>% Pañcākāra 4 &lt;= Bodhicittavivaraṇa 56
+<lb n="SA_K12_Āgama_Yogāmbaratantra:133"/>damyadīśajjitau tasmād guraur ūpasthitau puraḥ |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:134"/>nijaprītyā dayot tena sajaṃ prema kāritam || 37
+<lb n="SA_K12_Āgama_Yogāmbaratantra:135"/>% Premapañcaka 3
+<lb n="SA_K12_Āgama_Yogāmbaratantra:136"/>vāyu śad guru pāṇḍityam adokauśalam īdṛśam |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:137"/>nijabodhā nirālambāv ubhau jātān anuttanā || 38
+<lb n="SA_K12_Āgama_Yogāmbaratantra:138"/>% Premapañcaka 4
+<lb n="SA_K12_Āgama_Yogāmbaratantra:139"/>māyāgajā yathā neti kutaścit pāti na kvacit |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:140"/>cittamohanamātratvād bhāvate nama tiṣṭhati || 39
+<lb n="SA_K12_Āgama_Yogāmbaratantra:141"/>% Ratnāvalī 2.12
+<lb n="SA_K12_Āgama_Yogāmbaratantra:142"/>indriyāṇīndriyārthā ca pañcabhūtamayā matā |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:143"/>pratītya tunavaiyarthādeṣāṃ vyarthatvam arthataḥ || 40
+<lb n="SA_K12_Āgama_Yogāmbaratantra:144"/>% Ratnāvalī 4.58
+<lb n="SA_K12_Āgama_Yogāmbaratantra:145"/>atītānāgatā vyarthā viṣayā sārddham indriyaiḥ |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:146"/>% a] with vyarthā `Nagoya&#x27; is again available
+<lb n="SA_K12_Āgama_Yogāmbaratantra:147"/>tadvayān atiriktatvāt vyarthā ye pi ca sāmpratā || 41
+<lb n="SA_K12_Āgama_Yogāmbaratantra:148"/>% Ratnāvalī 4.56
+<lb n="SA_K12_Āgama_Yogāmbaratantra:149"/>pratītya mātāpitarau ya[5\verso]yoktaḥ putrasaṃbhavaḥ |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:150"/>cakṣurūpe pratītyaivam ukto vijñānasaṃbhavaḥ || 42
+<lb n="SA_K12_Āgama_Yogāmbaratantra:151"/>% Ratnāvalī 4.55
+<lb n="SA_K12_Āgama_Yogāmbaratantra:152"/>% I have collated only thus far
+<lb n="SA_K12_Āgama_Yogāmbaratantra:153"/>alātacakra gṛhnāti yathā cakṣuviparyayāt |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:154"/>tathendriyāṇi gṛhnāti viṣayā sāṃpratān iti || 43
+<lb n="SA_K12_Āgama_Yogāmbaratantra:155"/>% Ratnāvalī 4.57
+<lb n="SA_K12_Āgama_Yogāmbaratantra:156"/>hetupratyayasaṃbhūtā paratantrā ca saṃvṛti |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:157"/>paratantra iti proktaṃ paramārtha tv akṛtantrimaḥ || 44
+<lb n="SA_K12_Āgama_Yogāmbaratantra:158"/>% Acintyastava 44
+<lb n="SA_K12_Āgama_Yogāmbaratantra:159"/>śūnyataiva hitārthā ca cchūnyām evopalabhyate |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:160"/>śūnyatāyāṃ punas tasyā kim anya ca palabhyate ||   || 45
+<lb n="SA_K12_Āgama_Yogāmbaratantra:161"/>% ?
+<lb n="SA_K12_Āgama_Yogāmbaratantra:162"/>na rūpam eva tathānurūpaṃ
+<lb n="SA_K12_Āgama_Yogāmbaratantra:163"/>tathataiva ca manaye pravidyate |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:164"/>rūpaṃ tathatāyāṃ na tad vinātha
+<lb n="SA_K12_Āgama_Yogāmbaratantra:165"/>tāsyeti jñātavyaṃ saskṛte pi ca || 46
+<lb n="SA_K12_Āgama_Yogāmbaratantra:166"/>% ?
+<lb n="SA_K12_Āgama_Yogāmbaratantra:167"/>cintāmaṇir ivākampyaḥ sarvasaṃkalpavāyubhiḥ |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:168"/>tathāpi sarvasattvānām aśeṣāśāprapūrakaḥ || 47
+<lb n="SA_K12_Āgama_Yogāmbaratantra:169"/>% Kudṛṣṭinirghātana 4, Tattvaratnāvalī p. 22
+<lb n="SA_K12_Āgama_Yogāmbaratantra:170"/>cakrabhramaṇayogena nirvikalpa pi tāyinaḥ |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:171"/>saṃbhārā vedhasāmarthā deśanā saṃpravartate || 48
+<lb n="SA_K12_Āgama_Yogāmbaratantra:172"/>% Tattvaratnāvalī p. 22 following previous
+<lb n="SA_K12_Āgama_Yogāmbaratantra:173"/>evam anāsravā dharmā sattvārthaṃ tu pravartate |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:174"/>% 07.3 [= 08.3]
+<lb n="SA_K12_Āgama_Yogāmbaratantra:175"/>bhoganirmāṇakāyābhyāṃ pratityapraṇidhānataḥ || 49
+<lb n="SA_K12_Āgama_Yogāmbaratantra:176"/>% = Tattvaprakāśa 6
+<lb n="SA_K12_Āgama_Yogāmbaratantra:177"/>tau ca tasyā na bhinso ca tayos tu tattvabhāvitaḥ |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:178"/>tadātme nijasiddhaṃ syāt cchedaś citsaṃga hānayet || 50
+<lb n="SA_K12_Āgama_Yogāmbaratantra:179"/>% = Tattvaprakāśa 7
+<lb n="SA_K12_Āgama_Yogāmbaratantra:180"/>mahāyānasya mahimā sattvālambanacaryayā |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:181"/>jñānavīryamahopāya samudātamaṃ ca kṛtyamaḥ || 51
+<lb n="SA_K12_Āgama_Yogāmbaratantra:182"/>% ?
+<lb n="SA_K12_Āgama_Yogāmbaratantra:183"/>rūpam akṛtimasarva bhāvanāṃ tattvam ucyate |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:184"/>tasya samyakkari jñānā bhaved āvarṇa sahyate || 52
+<lb n="SA_K12_Āgama_Yogāmbaratantra:185"/>% ?
+<lb n="SA_K12_Āgama_Yogāmbaratantra:186"/>tasmāt sahaja tat sarvaṃ sahajaṃ svarūpam ucyate |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:187"/>svarūpam eva nirvāṇa viśuddhyākālacetasā || 53
+<lb n="SA_K12_Āgama_Yogāmbaratantra:188"/>% Hevajra II.ii.44
+<lb n="SA_K12_Āgama_Yogāmbaratantra:189"/>śuddhāśuddho jinānāṃ parata iha sadā viśvam ātā jinasya
+<lb n="SA_K12_Āgama_Yogāmbaratantra:190"/>jāta nādau niruddhaṃ svaparavigananā kalpakoṭiprahīnam |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:191"/>sātālīkaprakāśaṃ bhavahitasamato dvaitarūpaṃ hi nūnaṃ
+<lb n="SA_K12_Āgama_Yogāmbaratantra:192"/>cakro cakrādhipo sau jinagunanilayo vajraḍāko munindraḥ || 54
+<lb n="SA_K12_Āgama_Yogāmbaratantra:193"/>% Mahāsukhaprakāśa 17
+<lb n="SA_K12_Āgama_Yogāmbaratantra:194"/>ata eva hiṃ sāsarvajña buddhasya vacanaṃ nyathā |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:195"/>anāropavasā sarvaṃ dharmacakraṃ pravartate || 55
+<lb n="SA_K12_Āgama_Yogāmbaratantra:196"/>% Māyānirukti 6
+<lb n="SA_K12_Āgama_Yogāmbaratantra:197"/>calāś ca tyāvano dṛṣṭa mahāsukham anuttaram |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:198"/>tadbālenaiva pavanaṃ pratidaṃśaḥ pratikṛpā || 56
+<lb n="SA_K12_Āgama_Yogāmbaratantra:199"/>% ?
+<lb n="SA_K12_Āgama_Yogāmbaratantra:200"/>dharmamudrā
+<lb n="SA_K12_Āgama_Yogāmbaratantra:201"/>% 06.4
+<lb n="SA_K12_Āgama_Yogāmbaratantra:202"/>sukhaṃ yasmāt saṃvṛte satyadarśanam |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:203"/>satyasya bhūtakoṭitvaṃ mahāmudrārtha ucyate || 57
+<lb n="SA_K12_Āgama_Yogāmbaratantra:204"/>% ?
+<lb n="SA_K12_Āgama_Yogāmbaratantra:205"/>phalasamayamudrāyāṃ dvayor advayavedanam |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:206"/>kramānāṃ mīranaṃ divyaṃ kuddhatvaṃ phaladāyakam || 58
+<lb n="SA_K12_Āgama_Yogāmbaratantra:207"/>% ?
+<lb n="SA_K12_Āgama_Yogāmbaratantra:208"/>utpattikrama ādau syāt mantramūrtiprasādhakaḥ |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:209"/>cittanidhyastimātraṃ tu dvitica krama ucyate || 59
+<lb n="SA_K12_Āgama_Yogāmbaratantra:210"/>% Pradīpoddyotana initial verses 1.
+<lb n="SA_K12_Āgama_Yogāmbaratantra:211"/>tṛtīyaṃ kramo ramyaḥ saṃvṛte satyadarśanam |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:212"/>satyasya saṃvṛte śuddhiḥś caturthakrama ucyate || 60
+<lb n="SA_K12_Āgama_Yogāmbaratantra:213"/>% Pradīpoddyotana initial verses 2.
+<lb n="SA_K12_Āgama_Yogāmbaratantra:214"/>pañcamo yuganaddhākhyo yat satyadvayayojanam |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:215"/>sādhanāṅgam idaṃ śreṣṭha sarvatantrārthasaṃgraham || 61
+<lb n="SA_K12_Āgama_Yogāmbaratantra:216"/>% Pradīpoddyotana initial verses 3.
+<lb n="SA_K12_Āgama_Yogāmbaratantra:217"/>bhikṣāśīnā na japtavyaṃ na ca bhaikṣavato bhavet |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:218"/>japet mantram abhinānta sarvakāmopabhogakṛt || 62
+<lb n="SA_K12_Āgama_Yogāmbaratantra:219"/>% GST 7.4 = Pañcakrama 1.26 = Piṇḍīkrama 198
+<lb n="SA_K12_Āgama_Yogāmbaratantra:220"/>tasmād bhūtam abhūtatvā [=abhūtaṃ vā] padmad [=yad yad] evātibhāvyate |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:221"/>bhāvanāvaraniṣpatti [=-balaniṣpattau] vasthuṭākalpadhīmalam [=tat sphuṭākalpadhīphalam] || 63
+<lb n="SA_K12_Āgama_Yogāmbaratantra:222"/>% PV 3.285, q in Tattvaratnāvalokavivaraṇa, Padminī, etc.
+<lb n="SA_K12_Āgama_Yogāmbaratantra:223"/>pratītyotpādamātratvān naiva sattva na śūnyatā |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:224"/>bhūtīś ca devatākārā niḥsvabhāvā svabhāvataḥ || 64
+<lb n="SA_K12_Āgama_Yogāmbaratantra:225"/>% Mahāsukhaprakāśa 14
+<lb n="SA_K12_Āgama_Yogāmbaratantra:226"/>cchandā dveṣā bhayā mohā dharma nātipravartate |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:227"/>sa sārdha iti vijñeyoḥ śreyaso bhāñjanaḥ
+<lb n="SA_K12_Āgama_Yogāmbaratantra:228"/>% 07.4 [= 08.4]
+<lb n="SA_K12_Āgama_Yogāmbaratantra:229"/>paraḥ || 65
+<lb n="SA_K12_Āgama_Yogāmbaratantra:230"/>% Ratnāvalī 1.6
+<lb n="SA_K12_Āgama_Yogāmbaratantra:231"/>lobho dveṣaś ca mohaś ca tarja karmeti cāśubham |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:232"/>alobho dveṣamohaś ca tarja karmaṃcatac chubham || 66
+<lb n="SA_K12_Āgama_Yogāmbaratantra:233"/>% Ratnāvalī 1.20
+<lb n="SA_K12_Āgama_Yogāmbaratantra:234"/>aśubhā sarvaduḥkhāniḥ sarvadurgatiyas tathā |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:235"/>śubhā sugatayaḥ sarvāḥ sarvajanmasukhāni ca || 67
+<lb n="SA_K12_Āgama_Yogāmbaratantra:236"/>% Ratnāvalī 1.21
+<lb n="SA_K12_Āgama_Yogāmbaratantra:237"/>bhavitavyaṃ kṛtaṃjñena teṣu sattveṣu yo purā |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:238"/>mātṛpitṛsvahṛdbandhubhūtair upakṛtaṃ mahan || 68
+<lb n="SA_K12_Āgama_Yogāmbaratantra:239"/>% ?
+<lb n="SA_K12_Āgama_Yogāmbaratantra:240"/>visraṣṭitavyaṃ khalu nātra pūrṇaṃ prājñena saṃsāragatau sthitena |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:241"/>anityatāva jvalipāṭanena yatrāvabhagnau muniśilarājaḥ || 69
+<lb n="SA_K12_Āgama_Yogāmbaratantra:242"/>% ?
+<lb n="SA_K12_Āgama_Yogāmbaratantra:243"/>pracarita khalu saṃbhūtam adhūvaṃ pratibhayaiva duḥkhaśatahatam |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:244"/>sugatavattitaṃm ātmavivarjitaṃ pramama eva buddhaiḥ samavāpyate || 70
+<lb n="SA_K12_Āgama_Yogāmbaratantra:245"/>% ?
+<lb n="SA_K12_Āgama_Yogāmbaratantra:246"/>tadaprasādakriyatānmamebhiḥ śubheṣu dharmeṣu vicintyanikaiḥ |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:247"/>anekaduḥkhābhihataṃ calācalaṃ pravātadīpapratimohi jīvitam ||   || 71
+<lb n="SA_K12_Āgama_Yogāmbaratantra:248"/>% ?
+<lb n="SA_K12_Āgama_Yogāmbaratantra:249"/>śaśavaram anadhvaṃ praṇamya mūrdhā
+<lb n="SA_K12_Āgama_Yogāmbaratantra:250"/>sthaviragavāpatinivṛtiprayātaḥ |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:251"/>daśabalavihito gataḥ praśāntiṃ
+<lb n="SA_K12_Āgama_Yogāmbaratantra:252"/>gajakarabhairavapṛṣṭhato &#x27;nūvarddhaḥ || 72
+<lb n="SA_K12_Āgama_Yogāmbaratantra:253"/>% ?
+<lb n="SA_K12_Āgama_Yogāmbaratantra:254"/>śānte bhā---
+<lb n="SA_K12_Āgama_Yogāmbaratantra:255"/>% 06.5
+<lb n="SA_K12_Āgama_Yogāmbaratantra:256"/>---ve maratvaṃ bhavati narapate tāmrasenārakatvaṃ
+<lb n="SA_K12_Āgama_Yogāmbaratantra:257"/>tiryak svaṃ rājase ca pravarabhuvitare mānukhatvaṃ ca miśreḥ |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:258"/>bhūtatvaṃ tiprakārā rajasi tamasi vai śāntiṃ ko nyonyamiśrai
+<lb n="SA_K12_Āgama_Yogāmbaratantra:259"/>yad bhāvaṃ mṛtyukāle smarati ca manasā saṃbhavās tasya jantoḥ || 73
+<lb n="SA_K12_Āgama_Yogāmbaratantra:260"/>% KC 2.93
+<lb n="SA_K12_Āgama_Yogāmbaratantra:261"/>na kṣayaṃ yānti karmāṇi kalpakoṭiśatair api |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:262"/>sāmagrī prāpya kālaṃ ca phalanti khalu dehinām || 74
+<lb n="SA_K12_Āgama_Yogāmbaratantra:263"/>% Avadānaśataka, Divyāvadāna with praṇaśyanti
+<lb n="SA_K12_Āgama_Yogāmbaratantra:264"/>% often quoted
+<lb n="SA_K12_Āgama_Yogāmbaratantra:265"/>puṇyatā ye na jānanti na te mokṣasya bhāginaḥ |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:266"/>saṃsaranti hi te mūḍhā ṣaḍgatau bhavacārakam || 75
+<lb n="SA_K12_Āgama_Yogāmbaratantra:267"/>% cd] Hevajra II.iv.77cd
+<lb n="SA_K12_Āgama_Yogāmbaratantra:268"/>% Bodhicittavivaraṇa 72!
+<lb n="SA_K12_Āgama_Yogāmbaratantra:269"/>% śūnyatāṃ ye na jānanti ... bhavacārake
+<lb n="SA_K12_Āgama_Yogāmbaratantra:270"/>ya dullabhaṃ kalpaśatair anekair
+<lb n="SA_K12_Āgama_Yogāmbaratantra:271"/>manuṣyam aṣṭākṣaṇadoṣamuktam |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:272"/>tat sāmprataṃ prāptam ato bhavadbhiḥ
+<lb n="SA_K12_Āgama_Yogāmbaratantra:273"/>kāryo hi dharmaṃ śravaṇāya yatnaḥ ||   || 76
+<lb n="SA_K12_Āgama_Yogāmbaratantra:274"/>% Subhāṣitaratnakaraṇḍaka 9
+<lb n="SA_K12_Āgama_Yogāmbaratantra:275"/>nanu kṣaṇa eva kiṃ tathā &lt;ca ||
+<lb n="SA_K12_Āgama_Yogāmbaratantra:276"/>narakapretatīryañcamlecchādīrghāyuṣā narā |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:277"/>mithyādṛgbuddhakāntāro mūkatāsvāv ihākṣaṇāḥ ||&gt; 77
+<lb n="SA_K12_Āgama_Yogāmbaratantra:278"/>% quoted by Prajñākaramati ad 1.4, Ādikarmāvatāra of Mañjukīrti, etc.
+<lb n="SA_K12_Āgama_Yogāmbaratantra:279"/>kṣaṇasampad iyaṃ sudullabhā
+<lb n="SA_K12_Āgama_Yogāmbaratantra:280"/>pratilabdhvā puruṣārthasādhanī |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:281"/>yadi nātra vicintyate hitaṃ
+<lb n="SA_K12_Āgama_Yogāmbaratantra:282"/>punar apy a samāgama kutaḥ || 78
+<lb n="SA_K12_Āgama_Yogāmbaratantra:283"/>% Guṇakāraṇḍavyūha (96) = BCA 1.4, etc.
+<lb n="SA_K12_Āgama_Yogāmbaratantra:284"/>yāvayi indriya taruṇiya śakti
+<lb n="SA_K12_Āgama_Yogāmbaratantra:285"/>tāvat karahana dharmanūraktiḥ |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:286"/>jave janajo vanajāyi habhāṃ---
+<lb n="SA_K12_Āgama_Yogāmbaratantra:287"/>% 07.5 [= 08.5]
+<lb n="SA_K12_Āgama_Yogāmbaratantra:288"/>---gī
+<lb n="SA_K12_Āgama_Yogāmbaratantra:289"/>kiya kuyi svāni harāgī āgī || 79
+<lb n="SA_K12_Āgama_Yogāmbaratantra:290"/>% ?
+<lb n="SA_K12_Āgama_Yogāmbaratantra:291"/>yāvad vittaṃm upārjitaśaktaḥ
+<lb n="SA_K12_Āgama_Yogāmbaratantra:292"/>tāvan nijaparivāro raktaḥ |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:293"/>jarayā jaranijadehe
+<lb n="SA_K12_Āgama_Yogāmbaratantra:294"/>vārttā ko pi na pucchati dehe || 80
+<lb n="SA_K12_Āgama_Yogāmbaratantra:295"/>% ?
+<lb n="SA_K12_Āgama_Yogāmbaratantra:296"/>tato vinirvetam alaṃ bhavoddhā
+<lb n="SA_K12_Āgama_Yogāmbaratantra:297"/>gṛhāt pradikād iva sarvato syāt |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:298"/>nālyo pi yatrāsthiguṇe padoṣaḥ
+<lb n="SA_K12_Āgama_Yogāmbaratantra:299"/>kuryād rati tatraka eva vidvān ||   || 81
+<lb n="SA_K12_Āgama_Yogāmbaratantra:300"/>% ?
+<lb n="SA_K12_Āgama_Yogāmbaratantra:301"/>kas tu pho jalabimbitais taruphalaṃ rādarśakāntāreti
+<lb n="SA_K12_Āgama_Yogāmbaratantra:302"/>kenāsvāditamiśraraṃsam abhavāsvapnārtharābhena kaḥ |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:303"/>ity ālokya vivekinaḥ kṣaṇarasaḥ vyaktapranādodayaḥ
+<lb n="SA_K12_Āgama_Yogāmbaratantra:304"/>succhākhyaṃ pratibimbitāsu viṣayācchāyāsu vītarpihā || 82
+<lb n="SA_K12_Āgama_Yogāmbaratantra:305"/>% ?
+<lb n="SA_K12_Āgama_Yogāmbaratantra:306"/>na kāryaś caiva tīrtheṣu bhaktipūjānamaskṛyā |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:307"/>% Triśaraṇasaptati 35cd!
+<lb n="SA_K12_Āgama_Yogāmbaratantra:308"/>nābhūtapratyayābhaktiḥ sadoṣeṣv apajā&lt;na&gt;tā || 83
+<lb n="SA_K12_Āgama_Yogāmbaratantra:309"/>% ?
+<lb n="SA_K12_Āgama_Yogāmbaratantra:310"/>bodhena vedādakapuṣpadurvā
+<lb n="SA_K12_Āgama_Yogāmbaratantra:311"/>grāhyā na vā sūkti tadā ca nāmī |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:312"/>kutīrthadurvā na karoti vandyā
+<lb n="SA_K12_Āgama_Yogāmbaratantra:313"/>viśeṣamudrā samayasya bhaṅgaḥ || 84
+<lb n="SA_K12_Āgama_Yogāmbaratantra:314"/>% ?
+<lb n="SA_K12_Āgama_Yogāmbaratantra:315"/>sasrā daśādhivyaguṇo subhikṣa
+<lb n="SA_K12_Āgama_Yogāmbaratantra:316"/>bhikṣo daśādhikya guṇo sumantrī |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:317"/>śrībrahma---
+<lb n="SA_K12_Āgama_Yogāmbaratantra:318"/>% [08 = 07]
+<lb n="SA_K12_Āgama_Yogāmbaratantra:319"/>% 09.1 [= 10.1]
+<lb n="SA_K12_Āgama_Yogāmbaratantra:320"/>---caryeṇa samādhinā ca
+<lb n="SA_K12_Āgama_Yogāmbaratantra:321"/>mantrādinā tattvasu niścayena || 85
+<lb n="SA_K12_Āgama_Yogāmbaratantra:322"/>% Paramārthasevā 163
+<lb n="SA_K12_Āgama_Yogāmbaratantra:323"/>kiṃ ci grāhyādiśūnyaṃ ca cittam akṣobhyam ucyate |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:324"/>vādhā to gamano vajrasasramudrāviyogataḥ || 86
+<lb n="SA_K12_Āgama_Yogāmbaratantra:325"/>% Sekanirdeśa 19
+<lb n="SA_K12_Āgama_Yogāmbaratantra:326"/>vajragarbha ra sākāra nirākārān tadagrataḥ |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:327"/>madhyamā varṇayante ke neti no gurudarśanam || 87
+<lb n="SA_K12_Āgama_Yogāmbaratantra:328"/>% Sekanirdeśa 21
+<lb n="SA_K12_Āgama_Yogāmbaratantra:329"/>vajragarbha tadagre vā patitaṃm vā kapālake |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:330"/>na ceṣṭam antrarāle pi tattva bindu guro mukhā || 88
+<lb n="SA_K12_Āgama_Yogāmbaratantra:331"/>% Sekanirdeśa 22
+<lb n="SA_K12_Āgama_Yogāmbaratantra:332"/>iti devīparipṛcchātantre ||   ||
+<lb n="SA_K12_Āgama_Yogāmbaratantra:333"/>% NB: q/r Deviparipṛcchā
+<lb n="SA_K12_Āgama_Yogāmbaratantra:334"/>ratnapuram idaṃ devī kiñjalke jalatāṃ vraje |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:335"/>rudro yugma śivaḥ śraṣṭha śakti śiva parot parā || 89
+<lb n="SA_K12_Āgama_Yogāmbaratantra:336"/>lakṣalakṣaṇamuktaṃ vāgudāhāravarjitam |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:337"/>śivaśaktisamāyogā jāyate bhūtasatsukham || 90
+<lb n="SA_K12_Āgama_Yogāmbaratantra:338"/>na santi tattvato bhāvā śaktirūpeṇa bhāvitā |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:339"/>śaktis tu śūnyatādṛṣṭiḥ sarvaropavināśinī || 91
+<lb n="SA_K12_Āgama_Yogāmbaratantra:340"/>% as in Sekanirdeśa 7-9
+<lb n="SA_K12_Āgama_Yogāmbaratantra:341"/>uṣmatantre pi ||   ||
+<lb n="SA_K12_Āgama_Yogāmbaratantra:342"/>% NB q/r Ucchuṣmatantra
+<lb n="SA_K12_Āgama_Yogāmbaratantra:343"/>śivaḥ śaktisamāyogā satsukhaṃ paramādvayam |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:344"/>na śivo nāpi śaktiś ca ratnāntargatasaṃshitam || 92
+<lb n="SA_K12_Āgama_Yogāmbaratantra:345"/>% as in Sekanirdeśa 10
+<lb n="SA_K12_Āgama_Yogāmbaratantra:346"/>yogādhāye pi ||
+<lb n="SA_K12_Āgama_Yogāmbaratantra:347"/>% NB q/r Yogādhyāya
+<lb n="SA_K12_Āgama_Yogāmbaratantra:348"/>jñānāmṛtena tṛ---
+<lb n="SA_K12_Āgama_Yogāmbaratantra:349"/>% 11.1
+<lb n="SA_K12_Āgama_Yogāmbaratantra:350"/>---ptasya tvaṃtadvatasya yogiṇaḥ |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:351"/>naivāsti kiṃcit kartavyam astikena sa tattvavit || 93
+<lb n="SA_K12_Āgama_Yogāmbaratantra:352"/>% as in Sekanirdeśa 11
+<lb n="SA_K12_Āgama_Yogāmbaratantra:353"/>vedāntāv api ||
+<lb n="SA_K12_Āgama_Yogāmbaratantra:354"/>% NB q/r `vedānta&#x27;
+<lb n="SA_K12_Āgama_Yogāmbaratantra:355"/>atīndriyam acintyaś ca jñānaṃ Bhāskarasaṃmatā |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:356"/>cintic ānandamātraṃ ca bhagavadvādinasādhanam || 94
+<lb n="SA_K12_Āgama_Yogāmbaratantra:357"/>śaktisaṃgamatākṣobhya cchatrāveśāvasānikam |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:358"/>sat sukhaṃ brahmatattvasya tat sukhaṃ śākyam ucyate || 95
+<lb n="SA_K12_Āgama_Yogāmbaratantra:359"/>duḥkhānām āgamo nāsti sukhaṃ tatra nirantaram |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:360"/>ānanda brahmaṇo rūpaṃ tac ca mokṣo tyatyakṣato || 96
+<lb n="SA_K12_Āgama_Yogāmbaratantra:361"/>yad ya dṛśyate kiṃcit sa tatra brahmeti kalpayet |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:362"/>tato nānyagata citta brahmaṇaiva titiṣṭhati || 97
+<lb n="SA_K12_Āgama_Yogāmbaratantra:363"/>priyadarśanam evekaṃ kim anaiva sanāntaraiḥ |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:364"/>prāpyate yena nirvāṇaṃ sarāgeṇāpi cetasā || 98
+<lb n="SA_K12_Āgama_Yogāmbaratantra:365"/>teja dharmam adharmaṃ ca ubha satyānṛte tyaja |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:366"/>ubhe satyānṛte tyaktvā yena tenasi te tyaja || 99
+<lb n="SA_K12_Āgama_Yogāmbaratantra:367"/>% as in Sekanirdeśa 12-17
+<lb n="SA_K12_Āgama_Yogāmbaratantra:368"/>samastavedasiddhāntakṛlām īśvaravādiṣu |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:369"/>buddhānāṃ mantrāṇāṃ viśeṣa śūnyatā prati || 100
+<lb n="SA_K12_Āgama_Yogāmbaratantra:370"/>% Hevajrapiṇḍārthaṭīkā 1.59
+<lb n="SA_K12_Āgama_Yogāmbaratantra:371"/>sarvasamānapratibhajyāmāna
+<lb n="SA_K12_Āgama_Yogāmbaratantra:372"/>sūkṣmekṣikākṣāmadhiyā kṛpāntaḥ |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:373"/>% 09.2 [= 10.2]
+<lb n="SA_K12_Āgama_Yogāmbaratantra:374"/>bauddhasya vākyasya vibhāvakartā
+<lb n="SA_K12_Āgama_Yogāmbaratantra:375"/>na syād ikāyādinaṃ śūnyatoktiḥ || 101
+<lb n="SA_K12_Āgama_Yogāmbaratantra:376"/>% Ālokamālā 274
+<lb n="SA_K12_Āgama_Yogāmbaratantra:377"/>% quoted in Pañcatathāgatamudrāvivaraṇa
+<lb n="SA_K12_Āgama_Yogāmbaratantra:378"/>cittavajrasamudbhūtāḥ sattvānā nāsvabhāvitām |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:379"/>citta hy ātmavikalpena malīya saskṛtaṃ janaiḥ || 102
+<lb n="SA_K12_Āgama_Yogāmbaratantra:380"/>% Ḍākinīvajrapañjara 1.31
+<lb n="SA_K12_Āgama_Yogāmbaratantra:381"/>tasmāt sarvaprayatnena cittavajra viśodhayet |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:382"/>citta śuddha bhavet saukhyaṃ sarvakleśaviṣopaham || 103
+<lb n="SA_K12_Āgama_Yogāmbaratantra:383"/>% Ḍākinīvajrapañjara 1.32
+<lb n="SA_K12_Āgama_Yogāmbaratantra:384"/>yadi śūnyam upāya syād buddhatvaṃ na jadā bhavet |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:385"/>phalaṃ hetor ananyatvād upāyaṃ śūnyatā na ca || 104
+<lb n="SA_K12_Āgama_Yogāmbaratantra:386"/>% Ḍākinīvajrapañjara 1.33
+<lb n="SA_K12_Āgama_Yogāmbaratantra:387"/>kudṛṣṭi syād vipantānā nautmadṛṣṭigaveṣaṇā |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:388"/>ātmagravivarāsārthaṃ śūnyatā deśitā jinaiḥ || 105
+<lb n="SA_K12_Āgama_Yogāmbaratantra:389"/>% Ḍākinīvajrapañjara 1.34
+<lb n="SA_K12_Āgama_Yogāmbaratantra:390"/>mārgabhāvanayā śeṣa kleśreṣṭapagateṣv api |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:391"/>muktiśopariśeṣākhyā yāvat syā skandhamakaṭi || 106
+<lb n="SA_K12_Āgama_Yogāmbaratantra:392"/>% ?
+<lb n="SA_K12_Āgama_Yogāmbaratantra:393"/>pradīpanāśatailakṣa yā skandheṣu ca sarvataḥ |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:394"/>tyakteṣu syānti rūpe dhir aśeṣākhyāmuktir uttamā || 107
+<lb n="SA_K12_Āgama_Yogāmbaratantra:395"/>% ?
+<lb n="SA_K12_Āgama_Yogāmbaratantra:396"/>sopādhaskandhabhāvena kleśānā paridāhatā |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:397"/>nirūpavāsanābhāve nirmalagagaṇaṃ yathā || 108
+<lb n="SA_K12_Āgama_Yogāmbaratantra:398"/>% ?
+<lb n="SA_K12_Āgama_Yogāmbaratantra:399"/>śūnya bhāvasamūhā yaṃ kalpanārūpavarjitaḥ |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:400"/>dṛśyate pra---
+<lb n="SA_K12_Āgama_Yogāmbaratantra:401"/>% 11.2
+<lb n="SA_K12_Āgama_Yogāmbaratantra:402"/>---tiśenaiva kūmāryā darpaṇe yathā || 109
+<lb n="SA_K12_Āgama_Yogāmbaratantra:403"/>% q in Vimalaprabhā as from the ``Mūlatantra&#x27;&#x27;
+<lb n="SA_K12_Āgama_Yogāmbaratantra:404"/>% also quoted in Amṛtakaṇikā p. 98
+<lb n="SA_K12_Āgama_Yogāmbaratantra:405"/>nirvikalpā na buddhatvaṃ mavikalpā ca no tathā |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:406"/>suviśuddhaparijñānā bhavaveda maṇiṣiṣām || 110
+<lb n="SA_K12_Āgama_Yogāmbaratantra:407"/>% Vasantatilaka 1.12
+<lb n="SA_K12_Āgama_Yogāmbaratantra:408"/>sarvatrāṇapraliphāna rūpānāṃ bhogavādaya |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:409"/>vāhi saṃvedanaṃ siddhim asiddhaśurddhayāt ||   || 111
+<lb n="SA_K12_Āgama_Yogāmbaratantra:410"/>% ?
+<lb n="SA_K12_Āgama_Yogāmbaratantra:411"/>bhagavān āha || tathā subhūte nayadharmena prakṛti ekaiva subhūte dharmaprakṛtir yā ca dharmaprakṛtiḥ sā prakṛtiḥ || yā prakṛtiḥ sā prakṛtir yā prakṛtiḥ sā nabhisaṃskṛtiḥ || evaṃ hi subhūte bodhisattvena mahāsattvena ekā prakṛti na prakṛtim anabhisaṃskṛti || jānatā paśyatā sarvāḥ saṅgakoṭivivarjitā bhavanti || iti sarvasaṅgavajreṇa ||   || 112
+<lb n="SA_K12_Āgama_Yogāmbaratantra:412"/>% PP?
+<lb n="SA_K12_Āgama_Yogāmbaratantra:413"/>avikalpāvikārāya dharmaṇāṃ dharmatā parā |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:414"/>acittataiva sā jñeyā śūnyatā tathatāpi ca || 113
+<lb n="SA_K12_Āgama_Yogāmbaratantra:415"/>% ?
+<lb n="SA_K12_Āgama_Yogāmbaratantra:416"/>nirārambabhū&lt;ta&gt;koṭi dharmadhātuś ca nirvṛtiḥ |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:417"/>dharmaniryāmatā dharma sthititācintyadhātavaḥ || 114
+<lb n="SA_K12_Āgama_Yogāmbaratantra:418"/>% ?
+<lb n="SA_K12_Āgama_Yogāmbaratantra:419"/>teṣām anupalaṅghe tu saty avasthitito tha
+<lb n="SA_K12_Āgama_Yogāmbaratantra:420"/>% 09.3 [= 10.3]
+<lb n="SA_K12_Āgama_Yogāmbaratantra:421"/>vā |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:422"/>bhāvena śūnyatā śūnyā śūnyatāyān na labhyate || 115
+<lb n="SA_K12_Āgama_Yogāmbaratantra:423"/>% ?
+<lb n="SA_K12_Āgama_Yogāmbaratantra:424"/>kiṃ puna skandhadhātvādi tantrān evopalakṣyate |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:425"/>bhūtādibhūtakoṭīnāṃ lakṣaṇena vivarjitāḥ || 116
+<lb n="SA_K12_Āgama_Yogāmbaratantra:426"/>% ?
+<lb n="SA_K12_Āgama_Yogāmbaratantra:427"/>lakṣaṇasvabhāvenāpi lakṣaṇaṃ tu vivarjitāḥ |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:428"/>svabhāve lakṣaṇenāpi sasvabhāvo vivarjitā ||
+<lb n="SA_K12_Āgama_Yogāmbaratantra:429"/>kathaṃ sā manasy aṣṭasya svapnamāyomā amī || 117
+<lb n="SA_K12_Āgama_Yogāmbaratantra:430"/>% ?
+<lb n="SA_K12_Āgama_Yogāmbaratantra:431"/>rūpeṇa vidyate rūpaṃ na vā cakṣuṣi vidyate |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:432"/>na caiva tattvavijñānaṃ dāruvahnikathā yathā || 118
+<lb n="SA_K12_Āgama_Yogāmbaratantra:433"/>% Yuganaddhaprakāśa 2
+<lb n="SA_K12_Āgama_Yogāmbaratantra:434"/>yatra caikam anukuryāt dhyāyate paramaṃ padam |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:435"/>tatraiva labhyate siddhi rājajālena kiṃ phalam || 119
+<lb n="SA_K12_Āgama_Yogāmbaratantra:436"/>% Śucikaraṇa 81!!
+<lb n="SA_K12_Āgama_Yogāmbaratantra:437"/>rūpam akṛtimaṃ sarvaṃ bhāvanā tattvam ucyate |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:438"/>tasya samyakkari jñānā bhaved āvaraṇalakṣaṇam || 120
+<lb n="SA_K12_Āgama_Yogāmbaratantra:439"/>% ?, same verse before!
+<lb n="SA_K12_Āgama_Yogāmbaratantra:440"/>tasmāt sahaja gat sarvaṃ sahajaṃ svarūpam ucyate |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:441"/>svarūpam eva nirvāṇa viśuddhyā kālacetasā || 121
+<lb n="SA_K12_Āgama_Yogāmbaratantra:442"/>% Hevajra II.ii.44, same verse before!
+<lb n="SA_K12_Āgama_Yogāmbaratantra:443"/>yadi tattvavihīrā syu bhrāntyā teṣāṃ na kiṃcana |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:444"/>atha tattvayutānā syu bhāntyā teṣāṃ nna kiṃcanaḥ || 122
+<lb n="SA_K12_Āgama_Yogāmbaratantra:445"/>% Abhidhānottara ch. 65
+<lb n="SA_K12_Āgama_Yogāmbaratantra:446"/>kṣīyante dhātavas teṣāṃ bhramanād vā yoginī |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:447"/>ato bāhyanira---
+<lb n="SA_K12_Āgama_Yogāmbaratantra:448"/>% 11.3
+<lb n="SA_K12_Āgama_Yogāmbaratantra:449"/>---skṛtya sthātavyaṃ yoginīlayā || 123
+<lb n="SA_K12_Āgama_Yogāmbaratantra:450"/>% Abhidhānottara ch. 65
+<lb n="SA_K12_Āgama_Yogāmbaratantra:451"/>paśyanti vajrayoginyo viśuddhajñānalocanī |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:452"/>śrīmato vajrayoginyo karuṇākulacetasā || 124
+<lb n="SA_K12_Āgama_Yogāmbaratantra:453"/>% Abhidhānottara ch. 65
+<lb n="SA_K12_Āgama_Yogāmbaratantra:454"/>tato duṣṭā parā siddhi ḍhaukayanti yathepsitam |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:455"/>jñānabhaṭṭārakās tena sādhanīyaḥ prayatnataḥ || 125
+<lb n="SA_K12_Āgama_Yogāmbaratantra:456"/>% Abhidhānottara ch. 65
+<lb n="SA_K12_Āgama_Yogāmbaratantra:457"/>nānāprabhāsasaṃyuktaṃ caryāvratam adāhṛtam |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:458"/>caryāvratam ayāseha kuryāt tattvavraterati || 126
+<lb n="SA_K12_Āgama_Yogāmbaratantra:459"/>% Abhidhānottara ch. 65
+<lb n="SA_K12_Āgama_Yogāmbaratantra:460"/>yena tena prakāreṇa kṛtvā hārasthiti vratī |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:461"/>dhyānācāraparo bhūtvā tiṣṭhed unmattaceṣṭitaḥ || 127
+<lb n="SA_K12_Āgama_Yogāmbaratantra:462"/>% Abhidhānottara ch. 65
+<lb n="SA_K12_Āgama_Yogāmbaratantra:463"/>nagno vā yadi vānagno yatra tatra tathā tathā |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:464"/>svādhidaivatayogena yoginyaṃ tu mupāsate || 128
+<lb n="SA_K12_Āgama_Yogāmbaratantra:465"/>% Abhidhānottara ch. 65 % w eyeskip!
+<lb n="SA_K12_Āgama_Yogāmbaratantra:466"/>yadvat padmakāraṃ mya grāhate haṃsapaktayaḥ |
+<lb n="SA_K12_Āgama_Yogāmbaratantra:467"/>śrīmām vajradhara sākṣād bhavatīha na saṃśayaḥ ||   || 129
+<lb n="SA_K12_Āgama_Yogāmbaratantra:468"/>% Abhidhānottara ch. 65
+<lb n="SA_K12_Āgama_Yogāmbaratantra:469"/>iti yogāmbaramahātantre vajrasattva + +ṃ + gacittaparikṣāsūtrapatalaḥ prathamaḥ ||  \puspika\  ||   ||
+<lb n="SA_K12_Āgama_Yogāmbaratantra:470"/>% thus in Nagoya
+<lb n="SA_K12_Āgama_Yogāmbaratantra:471"/>% [13\recto3-4] in this ms: ... vajrasattvasya saṃvegacittaparikṣāsūtrapaṭalaḥ ...
+<lb n="SA_K12_Āgama_Yogāmbaratantra:472"/>%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+<lb n="SA_K12_Āgama_Yogāmbaratantra:473"/>Then Jagadānandajīvabhadra&#x27;s sādhana as in the Nagoya ms.
+<lb n="SA_K12_Āgama_Yogāmbaratantra:474"/>breaks off just before the end on [56\verso] with:
+<lb n="SA_K12_Āgama_Yogāmbaratantra:475"/>... svāyadu dharmma aṇaṃgghu
+    </body>
+  </text>
+</TEI>

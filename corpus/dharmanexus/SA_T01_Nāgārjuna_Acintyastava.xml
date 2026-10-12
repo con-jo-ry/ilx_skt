@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Acintyastava</title>
+        <author>Nāgārjuna</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Author: Nāgārjuna
+Collection / category: BuddhistNon-Scriptures / T01 (Stotra / hymns of praise)
+Source: OCR / Dharmamitra
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Fernando Tola and Carmen Dragonetti, &#x27;Nāgārjuna&#x27;s Acintyastava&#x27;, Journal of the International Association of Buddhist Studies 8.1 (1985), pp. 7–48.</note>
+          <idno type="dharmanexus">SA_T01_Nāgārjuna_Acintyastava</idno>
+          <ref target="https://dharmamitra.org/db/sa/SA_T01_Nāgārjuna_Acintyastava/text">https://dharmamitra.org/db/sa/SA_T01_Nāgārjuna_Acintyastava/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-12">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_T01_Nāgārjuna_Acintyastava:0"/>Title: Acintyastava
+<lb n="SA_T01_Nāgārjuna_Acintyastava:1"/>Author: Nāgārjuna
+<lb n="SA_T01_Nāgārjuna_Acintyastava:2"/>Source: Tola &amp; Dragonetti 1985
+<lb n="SA_T01_Nāgārjuna_Acintyastava:3"/>Tibetan: D1128
+<lb n="SA_T01_Nāgārjuna_Acintyastava:4"/># || rgya gar skad du | aa tsinta sta baM | bod skad du | bsam gyis mi khyab par bstod pa | &#x27;jam dpal gzhon nur gyur pa la phyag &#x27;tshal lo ||
+<lb n="SA_T01_Nāgārjuna_Acintyastava:5"/>pratītyajānāṃ bhāvānāṃ naiḥsvābhāvyaṃ jagāda yaḥ |
+<lb n="SA_T01_Nāgārjuna_Acintyastava:6"/>taṃ namāmy asamajñānam acintyam anidarśanam || 1
+<lb n="SA_T01_Nāgārjuna_Acintyastava:7"/>gang zhig dngos po rten &#x27;byung rnams || ngo bo med pa {77a1} || nyid du gsungs || ye shes mnyam med bsam mi khyab || dpe med de la phyag &#x27;tshal lo ||
+<lb n="SA_T01_Nāgārjuna_Acintyastava:8"/>yathā tvayā mahāyāne dharmanairātmyam ātmanā |
+<lb n="SA_T01_Nāgārjuna_Acintyastava:9"/>viditaṃ deśitaṃ tadvad dhīmadbhyaḥ karuṇāvaśāt || 2
+<lb n="SA_T01_Nāgārjuna_Acintyastava:10"/>ji ltar khyod kyis theg chen la || nyid kyis chos la bdag med rtogs || de bzhin blo dang ldan rnams la || thugs rje&#x27;i dbang gis bstan pa mdzad ||
+<lb n="SA_T01_Nāgārjuna_Acintyastava:11"/>pratyayebhyaḥ samutpannam anutpannaṃ tvayoditam |
+<lb n="SA_T01_Nāgārjuna_Acintyastava:12"/>svabhāvena na taj jātam iti śūnyaṃ prakāśitam || 3
+<lb n="SA_T01_Nāgārjuna_Acintyastava:13"/>rkyen rnams las ni {77a2} &#x27;brel &#x27;byung ba || ma skyes lags par khyod kyis gsungs || ngo bo nyid kyis de ma skyes || de phyir stong par rab tu bstan ||
+<lb n="SA_T01_Nāgārjuna_Acintyastava:14"/>yadvac chabdaṃ pratītyeha pratiśabdasamudbhavaḥ |
+<lb n="SA_T01_Nāgārjuna_Acintyastava:15"/>māyāmarīcivac cāpi tathā bhavasamudbhavaḥ || 4
+<lb n="SA_T01_Nāgārjuna_Acintyastava:16"/>ji ltar &#x27;di na sgra brten nas || brag ca gun du &#x27;byung ba ltar || sgyu ma smig rgyu bzhin du yang || de bzhin srid pa kun du &#x27;byung ||
+<lb n="SA_T01_Nāgārjuna_Acintyastava:17"/>māyāmarīcigandharvanagarapratibimbakāḥ |
+<lb n="SA_T01_Nāgārjuna_Acintyastava:18"/>yady ajātāḥ saha svapnair na syāt taddarśanādikam || 5
+<lb n="SA_T01_Nāgārjuna_Acintyastava:19"/>sgyu ma dang ni smig rgyu dang || {77a3} dri za&#x27;i grong khyer gzugs brnyan dang || rmi lam gal te ma skyes na || mthong ba la sogs pa dpe med &#x27;gyur ||
+<lb n="SA_T01_Nāgārjuna_Acintyastava:20"/>hetupratyayasaṃbhūtā yathaite kṛtakāḥ smṛtāḥ |
+<lb n="SA_T01_Nāgārjuna_Acintyastava:21"/>tadvat pratyayajaṃ viśvaṃ tvayoktaṃ nātha sāṃvṛtam || 6
+<lb n="SA_T01_Nāgārjuna_Acintyastava:22"/>ji ltar rgyu rkyen las byung ba || de dag byas pa can du bzhed || de bzhin rkyen las byung ba kum || mgon po khyod kyis de ltar gsungs ||
+<lb n="SA_T01_Nāgārjuna_Acintyastava:23"/>asty etat kṛtakaṃ sarvaṃ yat kiṃcid bālalāpanam |
+<lb n="SA_T01_Nāgārjuna_Acintyastava:24"/>riktamuṣṭipratīkāśaṃ ayathārthaprakāśitam || 7
+<lb n="SA_T01_Nāgārjuna_Acintyastava:25"/>byis pa gang dag ci brjod pa || bgyis {77a4} pa zhes bgyid de mchis te || chad pa stong pa &#x27;dra ba lags || don bzhin ma lags rab tu bstan ||
+<lb n="SA_T01_Nāgārjuna_Acintyastava:26"/>kṛtakaṃ vastu no jātaṃ tadā kiṃ vārtamānikam |
+<lb n="SA_T01_Nāgārjuna_Acintyastava:27"/>kasya nāśād atītaṃ syād utpitsuḥ kim apekṣate || 8
+<lb n="SA_T01_Nāgārjuna_Acintyastava:28"/>gang tshe byas pa&#x27;i dngos ma skyes || de tshe da ltar byung ba yi || gang zhig pas na &#x27;das par &#x27;gyur || ma &#x27;ongs pa yang ji ltar ltos ||
+<lb n="SA_T01_Nāgārjuna_Acintyastava:29"/>svasmān na jāyate bhāvaḥ parasmān nobhayād api |
+<lb n="SA_T01_Nāgārjuna_Acintyastava:30"/>na san nāsan na sadasan kutaḥ kasyodayas tadā || 9
+<lb n="SA_T01_Nāgārjuna_Acintyastava:31"/>rang las dngos po skye ba med || gzhan {77a5} dang gnyis ka las ma yin || yod min med min yod med min || de tshe gang las gzhan zhig &#x27;byung ||
+<lb n="SA_T01_Nāgārjuna_Acintyastava:32"/>ajāte na svabhāvo &#x27;sti kutaḥ svasmāt samudbhavaḥ |
+<lb n="SA_T01_Nāgārjuna_Acintyastava:33"/>svabhāvābhāvasiddhyaiva parasmād apy asaṃbhavaḥ || 10
+<lb n="SA_T01_Nāgārjuna_Acintyastava:34"/>ma skyes pa la rang bzhin med || de phyir gang las kun du &#x27;byung || rang bzhin dngos po med grub pas || gzhan las kyang ni &#x27;byung ba med ||
+<lb n="SA_T01_Nāgārjuna_Acintyastava:35"/>svatve sati paratvaṃ syāt paratve svatvam iṣyate |
+<lb n="SA_T01_Nāgārjuna_Acintyastava:36"/>āpekṣikī tayoḥ siddhiḥ pārāvāram ivoditā || 11
+<lb n="SA_T01_Nāgārjuna_Acintyastava:37"/>rang nyid yod na gzhan yod &#x27;gyur || {77a6} gzhan nyid yod na rang nyid yod || de dag ltos pa can du grub || pha rol tshu rol bzhin du gsungs ||
+<lb n="SA_T01_Nāgārjuna_Acintyastava:38"/>yadā nāpekṣate kiṃcit kutaṃ kiṃcit tadā bhavet |
+<lb n="SA_T01_Nāgārjuna_Acintyastava:39"/>yadā nāpekṣate dīrghaṃ kuto hrasvādikaṃ tadā || 12
+<lb n="SA_T01_Nāgārjuna_Acintyastava:40"/>astitve sati nāstitvaṃ dīrghe hrasvaṃ tathā sati |
+<lb n="SA_T01_Nāgārjuna_Acintyastava:41"/>nāstitve sati cāstitvaṃ yat tasmād ubhayaṃ na sat || 13
+<lb n="SA_T01_Nāgārjuna_Acintyastava:42"/>gang tshe ci la&#x27;ang mi ltos pa || de tshe gang la gang zhig &#x27;byung || gang tshe ring la mi ltos pa || de tshe thung sogs ga la mchis ||
+<lb n="SA_T01_Nāgārjuna_Acintyastava:43"/>% check print
+<lb n="SA_T01_Nāgārjuna_Acintyastava:44"/>ekatvaṃ ca tathānekam atītānāgatādi ca |
+<lb n="SA_T01_Nāgārjuna_Acintyastava:45"/>saṃkleśo vyavadānaṃ ca samyaṅmithyā svataḥ kutaḥ || 14
+<lb n="SA_T01_Nāgārjuna_Acintyastava:46"/>ji ltar gcig sogs ma mchis pa || &#x27;das dang ma &#x27;ongs {77a7} la sogs pa || nyon mongs rnams kyang de bzhin te || yang dag log pa&#x27;ang rang las ci ||
+<lb n="SA_T01_Nāgārjuna_Acintyastava:47"/>svata eva hi yo nāsti bhāvaḥ sarvo &#x27;sti kas tadā |
+<lb n="SA_T01_Nāgārjuna_Acintyastava:48"/>para ity ucyate yo &#x27;yaṃ na vinā svasvabhāvataḥ || 15
+<lb n="SA_T01_Nāgārjuna_Acintyastava:49"/>dngos gang rang las ma mchis na || de tshe thams cad ci zhig mchis || gzhan zhes brjod pa gang lags te || rang gi rang bzhin med na min ||
+<lb n="SA_T01_Nāgārjuna_Acintyastava:50"/>na svabhāvo &#x27;sti bhāvānāṃ parabhāvo &#x27;sti no yadā |
+<lb n="SA_T01_Nāgārjuna_Acintyastava:51"/>bhāvagrāhagrahāveśaḥ paratantro &#x27;sti kas tadā || 16
+<lb n="SA_T01_Nāgārjuna_Acintyastava:52"/>gang tshe gzhan gyi dngos med pa || de tshe {77b1} dngos rnams rang bzhin med || de tshe gzhan dngos dngos &#x27;dzin pa || don gyi theg pa ci zhig mchis ||
+<lb n="SA_T01_Nāgārjuna_Acintyastava:53"/>ādāv eva samaṃ jātāḥ svabhāvena ca nirvṛtāḥ |
+<lb n="SA_T01_Nāgārjuna_Acintyastava:54"/>anutpannāś ca tattvena tasmād dharmās tvayoditāḥ || 17
+<lb n="SA_T01_Nāgārjuna_Acintyastava:55"/>gdong ma nyid nas mnyam gyur pa || rang bzhin gis kyang mya ngan &#x27;das || yang dag par ni ma skyes lags || de slad chos rnams khyod kyis gsungs ||
+<lb n="SA_T01_Nāgārjuna_Acintyastava:56"/>niḥsvabhāvās tvayā dhīman rūpādyāḥ saṃprakāśitāḥ |
+<lb n="SA_T01_Nāgārjuna_Acintyastava:57"/>phenabudbudamāyābhramarīcikadalīsamāḥ || 18
+<lb n="SA_T01_Nāgārjuna_Acintyastava:58"/>blo ldan khyod kyis {77b2} gzugs la sogs || ngo bo nyid med par bstan pa || dbu ba chu bur sgyu la sogs || smig rgyu chu shing &#x27;dra ba lags ||
+<lb n="SA_T01_Nāgārjuna_Acintyastava:59"/>indriyair upalabdhaṃ yat tat tattvena bhaved yadi |
+<lb n="SA_T01_Nāgārjuna_Acintyastava:60"/>jātās tattvavido bālās tattvajñānena kiṃ tadā || 19
+<lb n="SA_T01_Nāgārjuna_Acintyastava:61"/>dbang po rnams kyis gang dmigs te | gal te yang dag mchis gyur na || byis pas yang dag rig par &#x27;gyur || gang tshe yang dag shes pas ci |
+<lb n="SA_T01_Nāgārjuna_Acintyastava:62"/>jaḍatvam apramāṇatvam athāvyākṛtatām api |
+<lb n="SA_T01_Nāgārjuna_Acintyastava:63"/>viparītaparijñānam indriyāṇāṃ tvam ūcivān || 20
+<lb n="SA_T01_Nāgārjuna_Acintyastava:64"/>{77b3} dbang po rnams ni bems po dang || tshad ma nyid kyang ma yin dang || lung ma bstan pa nyid dang ni || log par yongs shes khyod kyis gsungs ||
+<lb n="SA_T01_Nāgārjuna_Acintyastava:65"/>ajñānenāvṛto yena yathāvan na prapadyate |
+<lb n="SA_T01_Nāgārjuna_Acintyastava:66"/>lokas tena yathābhūtam iti matvā tvayoditam || 21
+<lb n="SA_T01_Nāgārjuna_Acintyastava:67"/>gang gis ci zhig ma rtogs pa || yang dag ji bzhin thugs chud nas || des na &#x27;jig rten mi shes pas || bsgribs pa zhes kyang {77b4} khyod kyis gsungs ||
+<lb n="SA_T01_Nāgārjuna_Acintyastava:68"/>astīti śāśvatī dṛṣṭir nāstīty ucchedadarśanam |
+<lb n="SA_T01_Nāgārjuna_Acintyastava:69"/>tenāntadvayanirmukto dharmo &#x27;yaṃ deśitas tvayā || 22
+<lb n="SA_T01_Nāgārjuna_Acintyastava:70"/>yod ces pa ni rtag par lta || med ces pa ni chad par lta || des na mtha&#x27; gnyis bral ba yi || chos de khyod kyis bstan pa mdzad ||
+<lb n="SA_T01_Nāgārjuna_Acintyastava:71"/>catuṣkoṭivinirmuktās tena dharmās tvayoditāḥ |
+<lb n="SA_T01_Nāgārjuna_Acintyastava:72"/>vijñānasyāpy avijñeyā vācāṃ kim uta gocarāḥ || 23
+<lb n="SA_T01_Nāgārjuna_Acintyastava:73"/>des na chos rnams mu bzhi dang || bral bar khyod kyis bka&#x27; stsal lags || rnam shes bya ba&#x27;ang ma lags la ||
+<lb n="SA_T01_Nāgārjuna_Acintyastava:74"/>% check print
+<lb n="SA_T01_Nāgārjuna_Acintyastava:75"/>svapnendrajālikodbhūtaṃ dvicandrodvīkṣaṇaṃ yathā |
+<lb n="SA_T01_Nāgārjuna_Acintyastava:76"/>bhūtaṃ tad vastu no bhūtaṃ tathā dṛṣṭaṃ jagat tvayā || 24
+<lb n="SA_T01_Nāgārjuna_Acintyastava:77"/>% \vvar{\vc tad vastu] \corr, tadvastu \ed}
+<lb n="SA_T01_Nāgārjuna_Acintyastava:78"/>rmi {77b5} lam mig &#x27;phrul las byung dang || zla gnyis la sogs mthong ba bzhin || &#x27;gro ba &#x27;byung ba de dngos su || ma byung de bzhin khyod kyis gzigs ||
+<lb n="SA_T01_Nāgārjuna_Acintyastava:79"/>utpannaś ca sthito naṣṭaḥ svapne yadvat sutas tathā |
+<lb n="SA_T01_Nāgārjuna_Acintyastava:80"/>na cotpannaḥ sthito naṣṭa ukto loko &#x27;rthatas tvayā || 25
+<lb n="SA_T01_Nāgārjuna_Acintyastava:81"/>kāraṇāt saṃbhavo dṛṣṭo yathā svapne tathetaraḥ |
+<lb n="SA_T01_Nāgārjuna_Acintyastava:82"/>saṃbhavaḥ sarvabhāvānāṃ vibhavo &#x27;pi matas tathā || 26
+<lb n="SA_T01_Nāgārjuna_Acintyastava:83"/>ji ltar rgyu las rmi lam na || &#x27;byung ba mthong ba de bzhin du || dngos po thams cad &#x27;byung ba bzhin || &#x27;jig pa&#x27;ang de bzhin bzhed {77b6} pa lags ||
+<lb n="SA_T01_Nāgārjuna_Acintyastava:84"/>% check print
+<lb n="SA_T01_Nāgārjuna_Acintyastava:85"/>rāgādijaṃ yathā duḥkhaṃ saṃkleśasaṃsṛtī tathā |
+<lb n="SA_T01_Nāgārjuna_Acintyastava:86"/>saṃbhārapūraṇān muktiḥ svapnavad bhāṣitā tvayā || 27
+<lb n="SA_T01_Nāgārjuna_Acintyastava:87"/>de bzhin chags sogs sdug bsngal dang || &#x27;khor ba sdug bsngal kun nyon mongs || tshogs rdzogs pa dang thar pa yang || rmi lam &#x27;dra bar khyod kyis gsungs ||
+<lb n="SA_T01_Nāgārjuna_Acintyastava:88"/>jātaṃ tathaiva no jātam āgataṃ gatam ity api |
+<lb n="SA_T01_Nāgārjuna_Acintyastava:89"/>baddho muktas tathā jñānī dvayam icchen na tattvavit || 28
+<lb n="SA_T01_Nāgārjuna_Acintyastava:90"/>de bzhin skyes dang ma skyes dang || &#x27;ongs pa dang ni song ba yang || de bzhin bcings grol ye shes {77b7} la; | gnyis &#x27;dod yang dag rig ma lags ||
+<lb n="SA_T01_Nāgārjuna_Acintyastava:91"/>utpattir yasya naivāsti tasya kā nirvṛtir bhavet |
+<lb n="SA_T01_Nāgārjuna_Acintyastava:92"/>māyāgajaprakāśatvād ādiśāntatvam arthataḥ || 29
+<lb n="SA_T01_Nāgārjuna_Acintyastava:93"/>gang las skyes pa yod ma lags || de la mya ngan &#x27;das gang yod || sgyu ma&#x27;i glang po &#x27;dra bas na || don du gzod nas zhi ba nyid ||
+<lb n="SA_T01_Nāgārjuna_Acintyastava:94"/>utpanno &#x27;pi na cotpanno yadvan māyāgajo mataḥ |
+<lb n="SA_T01_Nāgārjuna_Acintyastava:95"/>utpannaṃ ca tathā viśvam anutpannaṃ ca tattvataḥ || 30
+<lb n="SA_T01_Nāgārjuna_Acintyastava:96"/>skyes pa nyid na&#x27;ang ma skyes pa || sgyu ma&#x27;i glang po ji bzhin bzhed || de bzhin thams cad skyes {78a1} || pa&#x27;am; | yang dag par ni ma skyes lags ||
+<lb n="SA_T01_Nāgārjuna_Acintyastava:97"/>ameyair aprameyānāṃ pratyekaṃ nirvṛtiḥ kṛtā
+<lb n="SA_T01_Nāgārjuna_Acintyastava:98"/>lokanāthair hi sattvānāṃ na kaścin mocitaś ca taiḥ || 31
+<lb n="SA_T01_Nāgārjuna_Acintyastava:99"/>&#x27;jig rten mgon po dpag med kyis || sems can dpag tu ma mchis pa || so sor mya ngan &#x27;das mdzad kyang || de dag gis kyang gad ma bkrol ||
+<lb n="SA_T01_Nāgārjuna_Acintyastava:100"/>te ca sattvāś ca no jātā ye nirvānti na te sphuṭam |
+<lb n="SA_T01_Nāgārjuna_Acintyastava:101"/>na kaścin mocitaḥ kaiścid iti proktaṃ mahāmune || 32
+<lb n="SA_T01_Nāgārjuna_Acintyastava:102"/>thub chen gang phyir sems can rnams || rang las ma skyes de yi {78a2} phyir; (!)| gang yang gang gis ma bkrol zhes || de skad khyod kyis gsal bar gsungs ||
+<lb n="SA_T01_Nāgārjuna_Acintyastava:103"/>māyākārakṛtaṃ yadvad vastuśūnyaṃ tathetarat |
+<lb n="SA_T01_Nāgārjuna_Acintyastava:104"/>vastuśūnyaṃ jagat sarvaṃ tvayoktaṃ kārakas tathā || 33
+<lb n="SA_T01_Nāgārjuna_Acintyastava:105"/>ji ltar sgyu ma mkhan gyis byas || dngos po stong pa de bzhin du || byas pa thams cad dngos stong gzhan || khyod gsung de bzhin byed pa po ||
+<lb n="SA_T01_Nāgārjuna_Acintyastava:106"/>kārako &#x27;pi kṛto &#x27;nyena kṛtatvaṃ nātivartate |
+<lb n="SA_T01_Nāgārjuna_Acintyastava:107"/>athavā tatkriyākartṛ kārakasya prasajyate || 34
+<lb n="SA_T01_Nāgārjuna_Acintyastava:108"/>byed pa po yang gzhan gyis bgyis || byas {78a3} pa can du &#x27;gyur ba lags || yang na de yi bya ba byed || byed pa por ni thal bar &#x27;gyur ||
+<lb n="SA_T01_Nāgārjuna_Acintyastava:109"/>nāmamātraṃ jagat sarvam ity uccair bhāṣitaṃ tvayā |
+<lb n="SA_T01_Nāgārjuna_Acintyastava:110"/>abhidhānāt pṛthagbhūtam abhidheyaṃ na vidyate || 35
+<lb n="SA_T01_Nāgārjuna_Acintyastava:111"/>&#x27;di dag thams cad ming tsam zhes || khyod kyis gsang ni bstod de gsungs || brjod pa las ni gzhan gyur pa || brjod par bgyi ba yod ma mchis ||
+<lb n="SA_T01_Nāgārjuna_Acintyastava:112"/>kalpanāmātram ity asmāt sarvadharmāḥ prakāśitāḥ |
+<lb n="SA_T01_Nāgārjuna_Acintyastava:113"/>kalpanāpy asatī proktā yayā śūnyaṃ vikalpyate || 36
+<lb n="SA_T01_Nāgārjuna_Acintyastava:114"/>% \vvar{\vd śūnyaṃ] \corr, śūyaṃ \ed}
+<lb n="SA_T01_Nāgārjuna_Acintyastava:115"/>de phyir chos rnams thams cad ni || {78a4} rtog pa tsam zhes khyod kyis gsungs || gang gis stong par rnam rtog pa&#x27;i || rtog pa yang ni med ces gsungs ||
+<lb n="SA_T01_Nāgārjuna_Acintyastava:116"/>bhāvābhāvadvayātītam anatītaṃ ca kutracit |
+<lb n="SA_T01_Nāgārjuna_Acintyastava:117"/>na ca jñānaṃ na ca jñeyaṃ na cāsti na ca nāsti yat || 37
+<lb n="SA_T01_Nāgārjuna_Acintyastava:118"/>dngos dang dngos med gnyis &#x27;das pa || la lar ma &#x27;das pa yang lags || shes pa med cing shes bya&#x27;ang med || med min yod min gang lags dang ||
+<lb n="SA_T01_Nāgārjuna_Acintyastava:119"/>yan na caikaṃ na cānekaṃ nobhayaṃ na ca nobhayam |
+<lb n="SA_T01_Nāgārjuna_Acintyastava:120"/>anālayam athāvyaktam acintyam anidarśanam || 38
+<lb n="SA_T01_Nāgārjuna_Acintyastava:121"/>gang {78a5} yang gcig min du ma&#x27;ang min || gnyis ka ma yin ci yang med || gzhi med pa dang mi gsal dang || bsam mi khyab dang dpe med dang ||
+<lb n="SA_T01_Nāgārjuna_Acintyastava:122"/>yan nodeti na ca vyeti nocchedi na ca śāśvatam |
+<lb n="SA_T01_Nāgārjuna_Acintyastava:123"/>tad ākāśapratīkāśaṃ nākṣarajñānagocaram || 39
+<lb n="SA_T01_Nāgārjuna_Acintyastava:124"/>gang yang mi skye mi &#x27;gag dang || tshad pa med cing rtag med pa || de ni nam mkha&#x27; &#x27;dra ba lags || yi ge ye shes spyod yul min ||
+<lb n="SA_T01_Nāgārjuna_Acintyastava:125"/>yaḥ pratītyasamutpādaḥ śūnyatā saiva te matā |
+<lb n="SA_T01_Nāgārjuna_Acintyastava:126"/>tathāvidhaś ca saddharmas tatsamaś ca tathāgataḥ || 40
+<lb n="SA_T01_Nāgārjuna_Acintyastava:127"/>de ni rten {78a6} cing &#x27;brel par &#x27;byung || de ni stong par khyod bzhed lags || dam pa&#x27;i chos kyang de lta bu || de bzhin gshegs pa&#x27;ang de dang mtshungs ||
+<lb n="SA_T01_Nāgārjuna_Acintyastava:128"/>tat tattvaṃ paramārtho &#x27;pi tathatā dravyam iṣyate |
+<lb n="SA_T01_Nāgārjuna_Acintyastava:129"/>bhūtaṃ tad avisaṃvādi tadbodhād buddha ucyate || 41
+<lb n="SA_T01_Nāgārjuna_Acintyastava:130"/>% \vvar{\vc avisaṃvādi] \corr, avisaṃvadi \ed}
+<lb n="SA_T01_Nāgārjuna_Acintyastava:131"/>de ni de nyid don dang ni || de bzhin nyid dang rdzas su bzher || de ni yang dag mi slu ba || de rdzogs pas na sangs rgyas brjod ||
+<lb n="SA_T01_Nāgārjuna_Acintyastava:132"/>buddhānāṃ sattvadhātoś ca tenābhinnatvam arthataḥ |
+<lb n="SA_T01_Nāgārjuna_Acintyastava:133"/>ātmanaś ca pareṣāṃ ca samatā tena te matā || 42
+<lb n="SA_T01_Nāgārjuna_Acintyastava:134"/>sangs {78a7} rgyas rnams dang chos dbyings dang || des na don du tha mi dad || bdag nyid dang ni gzhan rnams dang || des na mnyam par khyod bzhed lags ||
+<lb n="SA_T01_Nāgārjuna_Acintyastava:135"/>bhāvebhyaḥ śūnyatā nānyā na ca bhāvo &#x27;sti tāṃ vinā |
+<lb n="SA_T01_Nāgārjuna_Acintyastava:136"/>tasmāt pratītyajā bhāvās tvayā śūnyāḥ prakāśitāḥ || 43
+<lb n="SA_T01_Nāgārjuna_Acintyastava:137"/>dngos po rnams las stong gzhan min || de med par yang dngos po med || de phyir rten cing &#x27;byung ba&#x27;i dngos || stong pa lags par {78b1} khyod kyis bstan ||
+<lb n="SA_T01_Nāgārjuna_Acintyastava:138"/>hetupratyayasaṃbhūtā paratantrā ca saṃvṛtiḥ |
+<lb n="SA_T01_Nāgārjuna_Acintyastava:139"/>paratantra iti proktaḥ paramārthas tv akṛtrimaḥ || 44
+<lb n="SA_T01_Nāgārjuna_Acintyastava:140"/>rgyu dang rkyen las byung ba&#x27;ang lags || gzhan gyi dbang las kun rdzob ste || gzhan gyi dbang zhes rab tu gsungs || dam pa&#x27;i don ni bcos ma yin ||
+<lb n="SA_T01_Nāgārjuna_Acintyastava:141"/>svabhāvaḥ prakṛtis tattvaṃ dravyaṃ vastu sad ity api |
+<lb n="SA_T01_Nāgārjuna_Acintyastava:142"/>nāsti vai kalpito bhāvo paratantro na vidyate || 45
+<lb n="SA_T01_Nāgārjuna_Acintyastava:143"/>% \vvar{\vd paratantro] \corr, paratantras \ed}
+<lb n="SA_T01_Nāgārjuna_Acintyastava:144"/>ngo bo nyid dang rang bzhin dang || yang dag rdzas dngos yod pa&#x27;ang lags || brtags pa&#x27;i dngos po med pa nyid || {78b2} gzhan gyi dbang ni yod ma lags ||
+<lb n="SA_T01_Nāgārjuna_Acintyastava:145"/>astīti kalpite bhāve samāropas tvayoditaḥ |
+<lb n="SA_T01_Nāgārjuna_Acintyastava:146"/>nāstīti kṛtakocchedād ucchedaś ca prakāśitaḥ || 46
+<lb n="SA_T01_Nāgārjuna_Acintyastava:147"/>brtags pa&#x27;i dngos po yod ces pa || sgro &#x27;dogs lags par khyod kyis gsungs || byas pa chad nas med ces pa || chad pa lags par khyod kyis gsungs ||
+<lb n="SA_T01_Nāgārjuna_Acintyastava:148"/>tattvajñānena nocchedo na ca śāśvatatā matā |
+<lb n="SA_T01_Nāgārjuna_Acintyastava:149"/>vastuśūnyaṃ jagat sarvaṃ marīcipratimaṃ matam || 47
+<lb n="SA_T01_Nāgārjuna_Acintyastava:150"/>yang dag shes pas chad pa med || rtag pa nyid kyang med par bshad || &#x27;gro ba {78b3} dngos pos stong pa lags || de slad smig rgyu &#x27;dra bar bzhed ||
+<lb n="SA_T01_Nāgārjuna_Acintyastava:151"/>mṛgatṛṣṇājalaṃ yadva nocchedi na ca śāśvatam |
+<lb n="SA_T01_Nāgārjuna_Acintyastava:152"/>tadvat sarvaṃ jagat proktaṃ nocchedi na ca śāśvatam || 48
+<lb n="SA_T01_Nāgārjuna_Acintyastava:153"/>ji ltar ri dags skom chu ni || chad med rtag pa yod ma yin || de bzhin &#x27;gro ba thams cad kyang || chad med rtag pa med par gsungs ||
+<lb n="SA_T01_Nāgārjuna_Acintyastava:154"/>dravyam utpadyate yasya tasyocchedādikaṃ bhavet |
+<lb n="SA_T01_Nāgārjuna_Acintyastava:155"/>antavān nāntavāṃś cāpi lokas tasya prasajyate || 49
+<lb n="SA_T01_Nāgārjuna_Acintyastava:156"/>gang la rdzas shig skye &#x27;gyur ba || de la chad sogs &#x27;jig pa &#x27;byung || de la {78b4} &#x27;jig rten mtha&#x27; yod dang || mtha&#x27; med par yang &#x27;gyur ba lags ||
+<lb n="SA_T01_Nāgārjuna_Acintyastava:157"/>jñāne sati yathā jñeyaṃ jñeye jñānaṃ tathā sati |
+<lb n="SA_T01_Nāgārjuna_Acintyastava:158"/>yatrobhayam anutpannam iti buddhaṃ tadāsti kim || 50
+<lb n="SA_T01_Nāgārjuna_Acintyastava:159"/>shes pa yod pas shes bya bzhin || shes bya yod pas de shes bzhin || gang tshe gnyis ka ma skyes par || rtogs pa de tshe ci zhig yod ||
+<lb n="SA_T01_Nāgārjuna_Acintyastava:160"/>iti māyādidṛṣṭāntair sphuṭam uktvā bhiṣagvaraḥ |
+<lb n="SA_T01_Nāgārjuna_Acintyastava:161"/>deśayām āsa saddharmaṃ sarvadṛṣṭicikitsakam || 51
+<lb n="SA_T01_Nāgārjuna_Acintyastava:162"/>de ltar sgyu ma la sogs dpe || sman pa&#x27;i mchog gis gsal bstan {78b5} nas; | lta ba thams cad &#x27;gog byed pa&#x27;i || dam pa&#x27;i chos ni bstan pa lags ||
+<lb n="SA_T01_Nāgārjuna_Acintyastava:163"/>etat tat paramaṃ tattvaṃ niḥsvabhāvārthadeśanā |
+<lb n="SA_T01_Nāgārjuna_Acintyastava:164"/>bhāvagrahagṛhītānāṃ cikitseyam anuttarā || 52
+<lb n="SA_T01_Nāgārjuna_Acintyastava:165"/>ngo bo med pa nyid bstan pa || de ni yang dag dam pa lags || dngos po&#x27;i gdon gyis zin rnams kyis || gso ba de ni bla na med ||
+<lb n="SA_T01_Nāgārjuna_Acintyastava:166"/>dharmayājñika tenaiva dharmayajño niruttaraḥ |
+<lb n="SA_T01_Nāgārjuna_Acintyastava:167"/>abhīkṣṇam iṣṭas trailokye niṣkapāṭo nirargalaḥ || 53
+<lb n="SA_T01_Nāgārjuna_Acintyastava:168"/>des na chos kyi mchod sbyin pa || mchod sbyin rim pas rtag rgyun du || {78b6} &#x27;jig rten gsum po sbyin sreg mdzad (!) ||
+<lb n="SA_T01_Nāgārjuna_Acintyastava:169"/>% check print
+<lb n="SA_T01_Nāgārjuna_Acintyastava:170"/>vastugrāhabhayocchedī kutīrthyamṛgabhīkaraḥ |
+<lb n="SA_T01_Nāgārjuna_Acintyastava:171"/>nairātmyasiṃhanādo &#x27;yam adbhuto naditas tvayā || 54
+<lb n="SA_T01_Nāgārjuna_Acintyastava:172"/>dngos &#x27;dzin &#x27;jigs pa gcod bgyid cing || mu stegs ri dags &#x27;jigs bgyid pa || bdag med seng ge&#x27;i nga ro&#x27;i sgra || rmad byung de ni khyod kyis gsungs ||
+<lb n="SA_T01_Nāgārjuna_Acintyastava:173"/>śūnyatādharmagambhīrā dharmabherī parāhatā |
+<lb n="SA_T01_Nāgārjuna_Acintyastava:174"/>naiḥsvābhāvyamahānādo dharmaśaṅkhaḥ prapūritaḥ || 55
+<lb n="SA_T01_Nāgārjuna_Acintyastava:175"/>% d sic?
+<lb n="SA_T01_Nāgārjuna_Acintyastava:176"/>stong pa nyid dang ches zab pa&#x27;i || chos kyi rnga chen brdungs pa lags || ngo bo {78b7} nyid med sgra bo che&#x27;i || chos kyi dung ni bus pa lags ||
+<lb n="SA_T01_Nāgārjuna_Acintyastava:177"/>dharmayautukam ākhyātaṃ buddhānāṃ śāsanāmṛtam |
+<lb n="SA_T01_Nāgārjuna_Acintyastava:178"/>nītārtham iti nirdiṣṭaṃ dharmāṇāṃ śūnyataiva hi || 56
+<lb n="SA_T01_Nāgārjuna_Acintyastava:179"/>sangs rgyas bstan pa bdud rtsi yi || chos kyi rdzas ni gsungs pa lags || chos rnams kun gyi ngo bo nyid || nges pa&#x27;i don to zhes kyang bstan ||
+<lb n="SA_T01_Nāgārjuna_Acintyastava:180"/>yā tūtpādanirodhādisattvajīvādideśanā |
+<lb n="SA_T01_Nāgārjuna_Acintyastava:181"/>neyārthā ca tvayā nātha bhāṣitā saṃvṛtiś ca sā || 57
+<lb n="SA_T01_Nāgārjuna_Acintyastava:182"/>gang yang skye dang &#x27;gag la sogs || sems can srog la sogs bstan pa ||  {79a1} || de ni bkri don kun rdzob tu || mgon po khyod kyis bstan pa lags ||
+<lb n="SA_T01_Nāgārjuna_Acintyastava:183"/>prajñāpāramitāmbhodher yo &#x27;tyantaṃ pāram āgataḥ |
+<lb n="SA_T01_Nāgārjuna_Acintyastava:184"/>sa puṇyaguṇaratnāḍhyas tvadguṇārṇavapāragaḥ || 58
+<lb n="SA_T01_Nāgārjuna_Acintyastava:185"/>shes rab pha rol phyin mtsho yi || pha rol gang gis rang phyin te || bsod nams yon tan rin chen phyug | mgon khyod yon tan pha rol phyin ||
+<lb n="SA_T01_Nāgārjuna_Acintyastava:186"/>iti stutvā jagannātham acintyam anidarśanam |
+<lb n="SA_T01_Nāgārjuna_Acintyastava:187"/>yad avāptaṃ mayā puṇyaṃ tenāstu tvatsamaṃ jagat || 59
+<lb n="SA_T01_Nāgārjuna_Acintyastava:188"/>de ltar dpe med bsam mi khyab || &#x27;gro ba&#x27;i mgon po bstod {79a2} pa yis || bdag gis bsod nams gang thob des || &#x27;gro ba khyod dang mtshungs par shog |
+<lb n="SA_T01_Nāgārjuna_Acintyastava:189"/>bsam gyis mi khyab par bstod pa slob dpon chen po klu sgrub kyi zhal snga nas mdzad pa rdzogs so || ||
+    </body>
+  </text>
+</TEI>

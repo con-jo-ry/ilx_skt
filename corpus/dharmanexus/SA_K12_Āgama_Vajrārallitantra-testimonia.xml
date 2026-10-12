@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Vajrāralimahātantra (testimonia)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Collection / category: BuddhistScriptures / K12 (Tantra)
+Source: OCR / Dharmamitra
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Unpublished working transcription and testimonia collection (Budapest, summer 2008), based on the Tibetan Derge Kanjur (Tōh. 426, rgyud, nga, fols. 171r2–176r2), collated with the Peking Kanjur (Ōtani 65, rgyud, nga, fols. 157a–162a), with sub-chapter headings from Bu-ston&#x27;s synopsis and Sanskrit testimonia added.</note>
+          <idno type="dharmanexus">SA_K12_Āgama_Vajrārallitantra-testimonia</idno>
+          <ref target="https://dharmamitra.org/db/sa/SA_K12_Āgama_Vajrārallitantra-testimonia/text">https://dharmamitra.org/db/sa/SA_K12_Āgama_Vajrārallitantra-testimonia/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-12">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:0"/>Vajrārali-mahātantrarājanāma
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:1"/>Rdo rje ā ra li zhes bya ba&#x27;i rgyud kyi rgyal po chen po
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:2"/>Tôh. no. 426. Derge Kanjur, vol. NGA, folios 171r.2-176r.2.
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:3"/>Tr. by Kāyasthapa Gayadhara and [&#x27;Brog mi] Shākya ye shes.
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:4"/>% rdo rje ā ra li zhes bya ba’i rgyud kyi rgyal po chen po. Ōtani 65. Peking Kangyur, vol. 3 (rgyud, nga), folios 157.a–162.a.
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:5"/>% input by Péter-Dániel Szántó
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:6"/>% 2008 summer vacation, Budapest
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:7"/>% some tacit corrections, mostly laps. xyl.
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:8"/>% sub-chapter headings mostly from Buston&#x27;s synopsis
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:9"/>% with available testimonia in Sanskrit added
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:10"/>[\D 171a2] rgya gar skad du | badzra ā ra li ma hā tantra rā dza nā ma |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:11"/>bod skad du | rdo rje ā ra li zhes bya ba&#x27;i rgyud kyi rgyal po chen po |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:12"/>kye rdo rje la phyag &#x27;tshal lo ||
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:13"/>%%%%%
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:14"/>%   1    %
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:15"/>%%%%%
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:16"/>&#x27;di skad bdag gis thos pa dus gcig na | bcom ldan &#x27;das de bzhin gshegs pa thams cad kyi shes rab kyi pha rol tu phyin pa&#x27;i bha ga la bzhugs so ||
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:17"/>bcom ldan &#x27;das kyis sangs rgyas dang | byang chub sems dpa&#x27; du ma dang | de bzhin gshegs pas gsol ba btab par rig cing byang chub sems dpa&#x27; rnams kyis yang mkhyen nas bde ba&#x27;i ting nge &#x27;dzin las bzhengs te | phyag na rdo rje la &#x27;di skad ces bka&#x27; stsal to ||
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:18"/>chu yis gdong ni bkrus nas ni | sman ni bza&#x27; bar byas nas su |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:19"/>bde ba&#x27;i stan la &#x27;dug nas ni | he ru ka ni rab bsgrub bya ||
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:20"/>rang gi snying gar re pha ni | bsreg pa&#x27;i bskal pa ltar &#x27;bar bsgom |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:21"/>de byung rdo rje nyi ma ni | &#x27;bar ba&#x27;i phreng bas yang dag byab ||
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:22"/>de yi steng du hūṃ nyid de | bskal pa&#x27;i me ni lta bu nyid |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:23"/>de ni rdo rjer yang bsams nas | rdo rje las byung he ru ka ||
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:24"/>bgegs ni chen po mnan nas ni | sku la thal bas phyugs pa dang |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:25"/>phyag rgya lnga dang yang dag ldan | &#x27;jigs pa yang ni &#x27;jigs par mdzad ||
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:26"/>indra nī la&#x27;i &#x27;od lta bu | dbu skra ser po stobs po che |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:27"/>gar dgu&#x27;i ro dang ldan par ni | rol pa&#x27;i gar gyis gar mdzad cing ||
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:28"/>ri rab ri rgyal mthon po yang | sa yi &#x27;og tu yang dag mnan |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:29"/>phyag tu rdo rje rnam bsgoms nas | g.yon pas skyes pa&#x27;i thod pa ni ||
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:30"/>bdud rtsi lnga dang yang dag ldan | sha lnga yang dag ldan par bsgom |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:31"/>kunda dang ni zla ba dang | chu skyes do shal lta bur ni |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:32"/>kha twāṃ ga yis phrag pa brgyan ||
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:33"/>rdo rje ā ra li las lha&#x27;i le&#x27;u ste dang po&#x27;o ||      ||
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:34"/>%%%%%
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:35"/>%   2    %
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:36"/>%%%%%
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:37"/>[\D 171b] de nas phyag na rdo rje la sogs pa byang chub sems dpa&#x27; thams cad dang | mi bskyod pa la sogs pa de bzhin gshegs pa thams cad dang | shes rab kyi pha rol tu phyin pa la sogs pa rdo rje btsun mo thams cad dang | dzam bha la la sogs pa&#x27;i rdo rje gnod sbyin thams cad dang | dpal ldan la sogs pa&#x27;i &#x27;byung po thams cad dang | dbang po la sogs pa&#x27;i rdo rje nam mkha&#x27; la gnas pa thams cad dang | glang po che&#x27;i rna ba la sogs pa zhing skyong ba thams cad dang | kun dar la sogs pa&#x27;i yi dags thams cad dang | de dag la sogs pa sems can thams cad kyi chos nyan pa&#x27;i sbyor des de bzhin gshegs pa thams cad kyi bdag po rdo rje ā ra li chen po la zhus pa ||
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:38"/>bcom ldan &#x27;das gtor ma&#x27;i sngags ji ltar lags |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:39"/>bcom ldan &#x27;das kyis bka&#x27; stsal pa |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:40"/>bde gshegs kun gyi ston pa yis | gtor ma&#x27;i las ni rab tu phye |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:41"/>phyag rgya yang ni khyad par du | &#x27;dod pa&#x27;i don kun sgrub pa&#x27;o ||
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:42"/>rdo rje thal mo gyen phye nas | oṃ dzwa la dzwa la bhyo hūṃ phaṭ swā hā ||
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:43"/>&#x27;di nyid sngags ni chen po nyid | de bzhin du ni gtor ma&#x27;i sngags |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:44"/>las ni thams cad pa yi sngags | yin pa nyid du the tshom med ||
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:45"/>rdo rje ā ra li las gtor ma&#x27;i bya ba&#x27;i le&#x27;u ste gnyis pa&#x27;o ||      ||
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:46"/>%%%%%
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:47"/>%    3   %
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:48"/>%%%%%
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:49"/>de nas bcom ldan &#x27;das kyis ming yang dag par rab tu phye ba |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:50"/>% dam tshig:
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:51"/>gdong ring na ni mtho ba dang | de bzhin dpag bsam shing nyid dang |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:52"/>tshangs par spyod pa mang ba nyid | dam tshig &#x27;dir ni dngos grub byin ||
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:53"/>glang po rta bong glang rnga mo | khyi las byung ba&#x27;i mar me dang |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:54"/>mar me chen po bsregs nas ni | tshangs spyod &#x27;dzin pa mchod par bya ||
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:55"/>% sdom pa:
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:56"/>de nas sdom pa bka&#x27; stsal pa |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:57"/>prāṇinaś ca tvayā ghātyā etc.
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:58"/>khyod kyis srog chags gsad par bya | brdzun gyi tshig kyang smra bar bya |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:59"/>khyod kyis ma byin par yang long | gzhan gyi bud med bsten par gyis ||
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:60"/>ma dang sring mo nyid dang yang | bu mo sring mo&#x27;i bu mo ni |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:61"/>thabs dang shes rab cho ga yis | rnal &#x27;byor rig pas rtag tu mchod ||
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:62"/>% dbang bskur:
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:63"/>de nas dbang bskur bka&#x27; stsal [\D 172a] pa |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:64"/>phyag rgya ldan pa&#x27;i slob dpon gyis | de la dbang bskur sbyin par bya |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:65"/>dbang bskur de yi phyi nas ni | de nyid &#x27;di ni rab tu dbye ||
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:66"/>de nyid bde ba chen po ste | thams cad lus la rnam par gnas |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:67"/>&#x27;di nyid ye shes chen po ste | mchog tu dga&#x27; ba&#x27;i rang bzhin can ||
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:68"/>% sbyin sreg:
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:69"/>de nas sbyin sreg bka&#x27; stsal pa |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:70"/>khru gang tsam pa&#x27;i tshad dang ni | khru phyed sa la brko bar bya |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:71"/>rdul tshon dkar po ldan par ni | rnam par mkhas pas thab khung bya ||
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:72"/>gsungs pa&#x27;i sngags kyis nges par ni | der ni sha sogs sbyin sreg bya |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:73"/>me ni lha yi spyan nyid de | &#x27;dod pa&#x27;i don kun sgrub pa&#x27;o ||
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:74"/>% Q/R T1410 by Śāśvatavajra: rdo rje {342b3} a&#x27;a rallir yang nges par bstan pa | khru gang ba yi tshad tsam la || sngags pas khru phyed brkos par bya || mkhas pas shin tu dkar ba yis || rdul tshon ldan pas thab khung bya || der ni sha la sogs pa dang || gsungs pa&#x27;i sngags kyis sbyin sreg bya || {342b4} rang gi lha yi gzugs || &#x27;dod don thams cad sgrub byed yin || zhes so ||
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:75"/>% dkyil &#x27;khor bri ba:
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:76"/>de nas dkyil &#x27;khor bka&#x27; stsal pa |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:77"/>gru bzhi pa la sgo bzhi pa | rta babs bzhi yis rnam par brgyan |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:78"/>ka ba brgyad dang yang dag ldan | mkhas pas dkyil &#x27;khor bri bar bya ||
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:79"/>dur khrod sol ba so phag dang | ldong ros phye ma nyid dang yang |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:80"/>ljang khu yi yang phye ma nyid | dkyil &#x27;khor la ni mkhas pas bsngags ||
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:81"/>dbus su gsum la rdo rje bri | shar gyi sgo ru mgo chen po |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:82"/>lho ru rdo rje dril bu nyid | de bzhin nub tu dgra sta ste ||
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:83"/>byang du gri gug dge ba nyid | rdo rje dkyil &#x27;khor du ni bri |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:84"/>chos don &#x27;dod dang thar pa la | dkyil &#x27;khor &#x27;di ni rab tu dbye ||
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:85"/>dkyil &#x27;khor bzhengs par byas nas ni | der ni slob ma gzhug par bya |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:86"/>ras kyis gdong ni bcings nas ni | bkrol nas dkyil &#x27;khor bstan par bya ||
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:87"/>rdo rje ā ra li las las thams cad pa&#x27;i le&#x27;u ste gsum pa&#x27;o ||      ||
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:88"/>%%%%%
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:89"/>%    4   %
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:90"/>%%%%%
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:91"/>mngon par shes pa bka&#x27; stsal pa |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:92"/>lha yi mig dang rna ba dang | de bzhin gzhan sems shes pa nyid |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:93"/>sngon gyi gnas rjes dran pa dang | de bzhin rdzu &#x27;phrul mngon shes nyid ||
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:94"/>he ru ka yi dbyibs bsgoms na | yo gi mngon shes lnga ru &#x27;gyur |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:95"/>shin tu goms pa&#x27;i rnal &#x27;byor gyis | he ru kar ni ngang gis &#x27;gyur ||
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:96"/>bsam gtan las ni nus skyes nas | phyis ni spyod pa yang dag brtsam |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:97"/>yid ni brtan nam g.yo &#x27;am [\D 172b] ci | rang gi sems ni bskul ba&#x27;i phyir ||
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:98"/>glu ni sna tshogs len pa dang | de bzhin gar ni sna tshogs nyid |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:99"/>sna tshogs rim gro byed pa dang | lus la rgyan ni sna tshogs dang ||
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:100"/>de bzhin sna tshogs dga&#x27; ba yi | gzugs sgra de bzhin dri dang ni |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:101"/>ro dang reg bya yang dag brtsam ||
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:102"/>de nas las rgyas bka&#x27; stsal pa |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:103"/>re&#x27;u mig brgyad ni bris nas ni | rgyud kyi sngags ni rgyas par bya |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:104"/>las kyi dbye ba&#x27;i rab dbye bas | de bzhin zhi rgyas la sogs kyis ||
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:105"/>oṃ ni dbang ldan la ni mer | de bzhin bden bral nyid du la |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:106"/>rlung gi mtshams su hūṃ nyid de | shar du dzwa ni rnam par gnas ||
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:107"/>lho ru dzwa yi rnam pa nyid | nub tu bhyo yi rnam pa ste |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:108"/>byang du phaṭ kyi rnam pa yis | dbus su swā hā rnam par gnas ||
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:109"/>ngos gsum du ni bsgrub bya&#x27;i ming |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:110"/>rdo rje ā ra li las spyod pa&#x27;i le&#x27;u ste bzhi pa&#x27;o ||      ||
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:111"/>%%%%%
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:112"/>%    5   %
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:113"/>%%%%%
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:114"/>% &#x27;khor lo dri tshul:
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:115"/>de nas &#x27;khor lo bri bar bka&#x27; stsal pa |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:116"/>che ge mo &#x27;di sod cig | che ge mo &#x27;di dbang du mdzod cig | che ge mo rengs par mdzod cig | che ge mo rmongs par mdzod cig | che ge mo ma lus par gyis shig | che ge mo lkugs par mdzod cig | che ge mo khug cig | che ge mo skrod cig | che ge mo la sdang bar mdzod cig | che ge mo chings shig | che ge mo ma ning du mdzod cig | che ge mo sgur por mdzod cig | ces sngags kyi rkang pa &#x27;di rnams kyi ngos gnyis su bris te | gro ga&#x27;i &#x27;dab mar gur gum gyis &#x27;dri bar bya zhing | &#x27;di dpung pa&#x27;i rtsa bar gdags par bya&#x27;o ||
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:117"/>dgug pa la ni zla mtshan zags pa&#x27;i ras la rgya skyegs kyi khu bas &#x27;dri bar bya&#x27;o ||
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:118"/>bsad pa la sogs pa&#x27;i las la dur khrod kyi sol ba dang | tsi tra ka&#x27;i khu ba dang | yungs mar dang | dug dang | ske tshe dang | lan tshwa dang | tsha ba gsum dang | ka na ka&#x27;i khu ba dang | rus pa&#x27;i smyu gus so ||
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:119"/>dgug pa la ni skyu ru ra&#x27;i tsher mas so ||
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:120"/>rmongs pa la ni dha ru ka&#x27;i shing gis so ||
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:121"/>rengs pa la ni ba ṭa&#x27;i smyu gus so ||
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:122"/>ma lus pa la ni bo de tse&#x27;i shing gi smyu gus [\D 173a] &#x27;dri bar bya&#x27;o ||
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:123"/>% rdo rje&#x27;i mchod pa/las kyi phyag rgya:
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:124"/>Q Āmnāyamañjarī:
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:125"/>athāha vajrapūjām |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:126"/>pracchanne vijane deśe ātmāgārāntareṣu ca |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:127"/>pūjayed dvādaśābdāṃ tu ṣoḍaśābdāṃ tathaiva ca |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:128"/>pañcaviṃśatikāṃ kanyāṃ gāvīṃ mahiṣīṃ tathaiva ca |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:129"/>markaṭīṃ kukkurīṃ cāpi gardabhīm uṣṭrajāṃ tathā |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:130"/>hariṇīṃ chāgalīṃ caiva śūkarīṃ gavayasambhavām |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:131"/>kāmayed dherukātmā vai sidhyate nātra saṃśayaḥ ||
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:132"/>de nas rdo rje&#x27;i mchod pa bka&#x27; stsal pa |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:133"/>khas mtha&#x27; dang ni dben pa dang | bdag gi khyim gyi nang du yang |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:134"/>lo ni bcu gsum de bzhin du | lo ni bcu drug bu mo dang |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:135"/>nyi shu rtsa lnga ma mchod bya | ba dang de bzhin ma he dang |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:136"/>ste&#x27;u mo dang khyi mo dang | bong mo de bzhin rnga mo dang |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:137"/>sha ba dang ni ra ma nyid | phag dang ba man las byung ba |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:138"/>gzhan yang he ru ka mchod na | &#x27;grub pa nyid du the tshom med |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:139"/>nya dang zla ba &#x27;pho ba yi | tshes ni mu stegs can gyis brtags |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:140"/>dri ma gzhig par bya ba&#x27;i phyir | rnal &#x27;byor pas ni myang bar bya |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:141"/>srog chags rnams ni gsad mi bya | brdzun gyi tshig ni smra mi bya |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:142"/>ma byin par ni blang mi bya | pha rol bud med bsten mi bya |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:143"/>nyin par nyal zhing mtshan mo langs | shin tu mnyam par bzhag pas &#x27;dug |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:144"/>sha chen dang ni rus pa dang | khrag ni chen po btung ba dang |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:145"/>khu chen yang dag bza&#x27; ba dang | de bzhin rnam snang chen po nyid |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:146"/>bram ze mo dang g.yung mo nyid | gar ma de bzhin btso blag ma |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:147"/>thod can ma dang ko lpags mkhan | gdol pa de bzhin phyag dar ma |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:148"/>rtswa &#x27;tshong ma dang shan ma nyid | de bzhin kla klo la sogs dang |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:149"/>smig mkhan dang ni chang &#x27;tshong ma | gzhan yang zla mtshan &#x27;dzag pa nyid |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:150"/>ma dang sring mo bu mo dang | srid mo las byung bu mo nyid |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:151"/>gzhan gyi bu mo spang mi bya | rje&#x27;u rigs mngon dga&#x27; mi bya ste |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:152"/>bgrod bya&#x27;i bu mo rtag spangs nas | bgrod min mkhas pas bsten par bya |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:153"/>rdo rje ā ra li las &#x27;khrul &#x27;khor dang | las kyi phyag rgya bstan pa&#x27;i le&#x27;u ste lnga pa&#x27;o ||      ||
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:154"/>%%%%%
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:155"/>%    6   %
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:156"/>%%%%%
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:157"/>% dam tshig gi bag dbab:
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:158"/>de nas dam tshig gi bag dbab pa bka&#x27; stsal pa |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:159"/>nyan thos skal pa ngan pa la | bag ni dbab par mi bya zhing |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:160"/>de bzhin gtser bu thod dum dang | ral pa can ni thams cad la |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:161"/>dam tshig bag ni dbab mi bya || snying rje yis ni bdag nyid can | % rje yi \L
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:162"/>gal te yin na bza&#x27; [\D 173b] bar bya | grub kyang lta ba dman pa ni |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:163"/>sems can don byed skyes pa nyid | skal ba ngan pa zhes byar brjod | % skyed pa \L
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:164"/>bram ze dam tshig rnam par sdang ||
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:165"/>% slob ma&#x27;i dam tshig:
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:166"/>de nas slob ma&#x27;i dam tshig bka&#x27; stsal pa |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:167"/>GP 8ab: dhīro vinīto matimān kṣamāvān ārjavo ’śaṭhaḥ |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:168"/>dul byed blo dang ldan pa dang | bzod ldan dal ba mi bslu ba | % bsla \D
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:169"/>bla mar gus shing snying rje ldan | rgyud ni &#x27;dir ni rab tu bsngags ||
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:170"/>% slob dpon gyi mtshan nyid:
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:171"/>de nas slob dpon gyi mtshan nyid bka&#x27; stsal pa |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:172"/>GP 8cd–9ab: mantratantraprayogajñaḥ kṛpāluḥ śāstrakovidaḥ ||
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:173"/>daśatattvaparijñātā maṇḍalālekhyakarmavit |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:174"/>sngags dang rgyud kyi sbyor ba shes | snying rje ldan zhing bstan bcos mkhas |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:175"/>de nyid bcu ni yongs su shes | dkyil &#x27;khor bri ba&#x27;i las la mkhas ||
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:176"/>% thun tshod bzhi byin gyis brlab pa:
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:177"/>de nas thun tshod bzhi byin gyis brlab pa bka&#x27; stsal pa |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:178"/>ji ltar bsgom pa&#x27;i sbyor ba des | dang po thun tshod byin gyis brlab |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:179"/>des ni ci srid nyi phyed na | nyi ma phyed na thun gsum pa |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:180"/>dus dang bral nas nam phyed na | thun tshod byin brlabs rab tu grags |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:181"/>thun tshod byin brlabs rnal &#x27;byor gyis | bdag gi rnal &#x27;byor ldan pas &#x27;grub |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:182"/>% bdag nyid kyi dkyil &#x27;khor:
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:183"/>de nas bdag nyid kyi dkyil &#x27;khor bka&#x27; stsal pa |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:184"/>&#x27;dod chags zhe sdang gti mug dang | phrag dog dang ni ser sna nyid |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:185"/>bcom ldan he ru ka la med | yod na rnam par dag pa nyid |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:186"/>% dam tshig sgrub pa:
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:187"/>de nas dam tshig bsgrub pa bka&#x27; stsal pa |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:188"/>bgegs dang btsugs pa&#x27;i shing la &#x27;am | ljon shing btags shing &#x27;phyang ba dang |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:189"/>g.yul du mtshon gyis bsnun pa nyid | bdag nyid rnal &#x27;byor ldan pas bsgrub |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:190"/>% nang du mdzad pa:
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:191"/>de nas nang du mdzad pa bka&#x27; stsal pa |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:192"/>btung ba rin po che yi chu | gang zhig bza&#x27; de don yod nyid |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:193"/>khrus ni dpag med rdo rje yis | dril sogs rim pa rnam snang mdzad |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:194"/>dam tshig chos kyi de bzhin spyad | btso ni gang zag mnyam pas ni |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:195"/>dam tshig ro ni &#x27;di yis ni | gang zhig glu yi rang bzhin nyid |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:196"/>mkha&#x27; &#x27;gro thams cad btsun mo ste | bu ni &#x27;jam dpal la sogs pa |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:197"/>khro bo yi ni bsnyen bkur ba | bdag nyid he ru ka ru &#x27;gyur |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:198"/>brjod pa bzlas pa [\D 174a] yang dag bshad | ya nal gnyed sogs phyag rgya ste |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:199"/>lha yi rnal &#x27;byor dmigs nas ni | gang zhig thams cad du ni gnas |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:200"/>mang du brjod pa ci zhig bya | gang zhig &#x27;jig rten bya gnas pa |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:201"/>rdo rje sems dpa&#x27;i gnas thob phyir | rnam par bzlog pas bya ba nyid |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:202"/>ri dags shor sogs bya ba ni | &#x27;jig rten du ni mi shes pas |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:203"/>mchog tu rab tu bsngags &#x27;gyur pa | rnam dag dag pa dam pa ni |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:204"/>de nyid thob pas rab tu spyod ||
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:205"/>% sdom pa:
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:206"/>de nas sdom pa bka&#x27; stsal pa |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:207"/>rdo rje dril bu gzung bya zhing | bdud rtsi mkhas pas bza&#x27; bar bya |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:208"/>rang gi phyag rgya rtag bsten cing | spyod pa &#x27;da&#x27; ba nyid mi bya |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:209"/>% lha&#x27;i mchod pa:
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:210"/>de nas lha&#x27;i mchod pa bka&#x27; stsal pa |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:211"/>chu klung tshal gyi gnas su ni | bdag nyid lha ni mchod par bya |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:212"/>bdag gi sngags ni brjod par bya | me tog la sogs byin gyis brlab |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:213"/>rdo rje ā ra li las las sna tshogs bstan pa&#x27;i le&#x27;u ste drug pa&#x27;o ||      ||
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:214"/>%%%%%
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:215"/>%    7   %
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:216"/>%%%%%
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:217"/>% spyod pa:
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:218"/>de nas bcom ldan &#x27;das kyis bsod snyoms kyi lhung bzed bka&#x27; stsal pa |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:219"/>Prakaraṇārthanirṇaya (Ms 6v1): uktaṃ ca Vajrāralau |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:220"/>caturvarṇe vihared bhikṣāṃ khaṇḍakarparake budhaḥ |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:221"/>bhakṣayec ca nadītīre
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:222"/>mkhas pas phru ba chag par ni | rigs bzhi ru ni slong mos rgyu |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:223"/>chu bo&#x27;i &#x27;gram du bza&#x27; bya zhing | gtsang sbra nyid ni rab tu dbye |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:224"/>byi ka&#x27;i rkang pa tsam gyi ni | kham ni blo dang ldan pas blang |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:225"/>bye btab bza&#x27; bar mi bya zhing | mi ster ba la rtag tu blangs |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:226"/>g.yas su rab mos skye bo ni | g.yon nas bskor ba ru ni bya |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:227"/>nges pa med par khyim du gnas | &#x27;grub &#x27;gyur &#x27;di la the tshom med |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:228"/>rdo rje shing gi stongs byas dang | de bzhin dril bu shing gi bdag |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:229"/>he ru ka ni rab grub phyir | bzung nas rtag tu rgyu bar bya |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:230"/>% rdo rje gnod sbyin mo&#x27;i bsgrub pa:
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:231"/>de nas rdo rje gnod sbyin mo&#x27;i bsgrub pa bka&#x27; stsal pa |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:232"/>ser skya&#x27;i phru ma blang nas ni | sngags ni &#x27;di ni bzla bar bya |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:233"/>bsrung bar byas shing bskams byas nas | de la gu gul bsre bar bya |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:234"/>mkhas pas gnod sbyin mo sngon du | des ni bdug pa [\D 174b] sbyin par bya |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:235"/>shin tu mdzes shing gos mdzes pa | bris skur gnas pa legs grub phyir |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:236"/>&#x27;di nyid kyi ni cho ga yis | gnod sbyin mo ni dgug par bya |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:237"/>bris sku nyid ni gnod sbyin mo | snga bar byin nas &#x27;gro bar &#x27;gyur |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:238"/>de yi rgyan rnams thams cad ni | gang zhig cung zad rgyan rnams kun |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:239"/>snga ba ru ni blang bar bya | gal te &#x27;dod na mtshan mo la |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:240"/>me tog gis ni mchod par bya |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:241"/>% rdo rje ro langs kyi bsgrub pa:
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:242"/>de nas rdo rje ro langs kyi bsgrub pa bka&#x27; stsal pa |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:243"/>ma chad rma med gang ba ni | legs par brtul zhugs can gyis bkru |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:244"/>mar khu chen pos byug pa dang | bdug pa chen pos bdug par bya |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:245"/>dkyil &#x27;khor chen po&#x27;i shar phyogs su | mar khu chen po&#x27;i mar me dbul |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:246"/>nga yis khyod la ci gsungs pa&#x27;i | de la dkyil &#x27;khor bzhengs par bya |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:247"/>yungs kar ro la brdeg bya zhing | sgra ni ri bor yang dag brjod |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:248"/>de las mkhas pas &#x27;jigs mi bya | oṃ dzwa la dzwa la bhyo hūṃ brjod par bya&#x27;o |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:249"/>des ni ci zhig sbyin zhes smra | sgrub pos de la blang bar bya |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:250"/>rkang byug dang ni mig sman nyid | ral gri dang ni sa &#x27;og dang |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:251"/>ril bu mkha&#x27; la spyod pa nyid | thams cad sbyin par the tshom med |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:252"/>% tshogs kyi dkyil &#x27;khor:
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:253"/>de nas tshogs kyi dkyil &#x27;khor bka&#x27; stsal pa |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:254"/>gong gi bsam gtan byas nas ni | de la sngags ni bzla bar bya |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:255"/>rang gis he ru ka yi ni | rnal &#x27;byor gyis ni bdag nyid du |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:256"/>tshogs kyi dkyil &#x27;khor &#x27;grub par &#x27;gyur | gtsang zhing dben pa&#x27;i sa phyogs dang |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:257"/>zhi zhing dge ba&#x27;i gnas su ni | rnal &#x27;byor pa yis bza&#x27; bar bya |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:258"/>tshogs kyi dkyil &#x27;khor &#x27;di nyid du | dpal ldan he ru ka yi ni |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:259"/>ā ra li zhes bya ba&#x27;i mtshan | za ba na ni gtam smra bya |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:260"/>ri yi rgyal po&#x27;i mgor gnas pa | tshogs kyis dag pa&#x27;i sems kyis bskor |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:261"/>de yang tshogs kyi dkyil &#x27;khor &#x27;dir | &#x27;grub &#x27;gyur gang phyir &#x27;di nyid du |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:262"/>mchod pas grub par shes mi &#x27;gyur | de yi [\D 175a] btsun mo bsrung ba ni |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:263"/>gshin rje mthar byed du ni &#x27;gyur | shes rab mthar byed dpung gi mgon |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:264"/>padma mthar byed sku bsrung bdag | de yi bgegs kyi mthar byed ni |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:265"/>dmag dpon du ni brjod pa yin | &#x27;dod pa&#x27;i rgyal po zhes bya ba |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:266"/>de yi gshed ma&#x27;i bdag po nyid | dpal ldan dbyig pa sngon po ni |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:267"/>sgo srung ba yi bdag po nyid | thams cad la ni dbang byed pa |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:268"/>zhar ba mi g.yo mgon po nyid | yi ge pa yi bdag po ni |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:269"/>de bzhin du ni stobs po che ||
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:270"/>rdo rje ā ra li las dngos grub bsgrub pa&#x27;i le&#x27;u ste bdun pa&#x27;o ||      ||
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:271"/>%%%%%
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:272"/>%    8   %
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:273"/>%%%%%
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:274"/>% &#x27;khor gyi mchog thob nas rol pa:
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:275"/>de nas byang chub sems dpa&#x27; phyag na rdo rje la sogs pa thams cad gtam &#x27;di thos nas srid pa&#x27;i sbyor ba kun tu bcad cing rnam par dag par gyur pa dang | srid pa zad cing nyon mongs pa bsregs par gyur to ||
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:276"/>de nas byang chub sems dpa&#x27; de dag gis tshig &#x27;di skad ces gsol to ||
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:277"/>rdo rje ā ra li brtson che | sna tshogs e ma rmad byung ba |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:278"/>gang zhig bdag cag nyon mongs khebs | gang zhig bdag cag grub &#x27;gyur pa ||
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:279"/>de nas byang chub sems dpa&#x27; de rnams rkang gnyis kyi mchog dam pa thob nas sangs rgyas rol pa ston par byed do ||
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:280"/>la lar rdzogs pa&#x27;i byang chub mdzad | kha cig tu ni dka&#x27; thub spyod |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:281"/>lha las babs pa&#x27;i sprul pa dang | de bzhin khab nas &#x27;byung ba dang |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:282"/>chos kyi &#x27;khor lo bskor ba dang | kha cig tu ni rab byung byed |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:283"/>&#x27;dul bar ston par byed pa dang | mngon pa&#x27;i sems ni lhag pa&#x27;i sems |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:284"/>la lar sngags kyi bdag nyid &#x27;chang | kha cig pha rol phyin pa&#x27;i tshul |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:285"/>kha cig bye brag smra ba&#x27;i lam | kha cig tu ni mdo sde pa |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:286"/>kha cig tu ni rnam shes nyid | kha cig tu ni dbu ma nyid |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:287"/>la lar dmyal ba chen por &#x27;gro | la lar sems can rjes su sbyong |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:288"/>sems can [\D 175b] &#x27;dul ba la bltas nas | snying rje&#x27;i bsam pas rol par bya ||
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:289"/>rdo rje ā ra li las phan yon gyi le&#x27;u ste brgyad pa&#x27;o ||      ||
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:290"/>%%%%%
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:291"/>%    9   %
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:292"/>%%%%%
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:293"/>% rgyud kyi yon tan bsngags pa:
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:294"/>de nas de bzhin gshegs pa thams cad dang | gang yang byang chub sems dpa&#x27; de dag gis las rnam par &#x27;byed pa bstan par bya&#x27;o ||
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:295"/>gang zhig rgyud gang du dam tshig byed pa des ni &#x27;jig rten gsum po kun gyis bstod par &#x27;gyur ro ||
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:296"/>gang zhig rgyud de yis gang gi tshe byed pa de ni srid par mdzes par &#x27;gyur ro ||
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:297"/>gang zhig glu yis mchod byed na | des ni rtag tu sgra snyan &#x27;gyur ||
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:298"/>gang phyir gang zhig mar me &#x27;bul | de ni mig dang ldan par &#x27;gyur ||
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:299"/>gang zhig gar gyis mchod byed pa | de ni rig &#x27;dzin chen po &#x27;gyur ||
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:300"/>gang zhig phyag &#x27;tshal byed pa ni | de la skye bo phyag &#x27;tshal &#x27;gyur ||
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:301"/>gang zhig dri zhim &#x27;bul ba ni | lus ni dri zhim ldan par &#x27;gyur ||
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:302"/>gang zhig phreng ba bzang &#x27;bul ba | de ni gser gyi phreng ldan &#x27;gyur ||
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:303"/>gang zhig gos ni &#x27;bul ba ni | des ni lha yi gos rnyed &#x27;gyur ||
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:304"/>gang zhig mtshan tsam &#x27;don pa dang | dad pa tsam yang rab byed pa | lhag par mos pa rab tu byed ||
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:305"/>gang zhig skye bo mchod byed pa | de rnams thams cad rnam dag pa&#x27;i | srid pa&#x27;i longs spyod rab tu bzang ||
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:306"/>rdo rje ā ra li las yon tan rjes su bsngags pa&#x27;i le&#x27;u ste dgu pa&#x27;o ||      ||
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:307"/>%%%%%
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:308"/>%   10  %
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:309"/>%%%%%
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:310"/>% rnal &#x27;byor ji ltar bya ba rnams:
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:311"/>de nas yang gang zhig de ltar rnam par dag pa&#x27;i sbyin pa byin pas de rkang gnyis kyi mchog tu &#x27;gyur ro ||
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:312"/>de nas byang chub sems dpa&#x27; de dag dga&#x27; bas the tshom skyes te | bcom ldan &#x27;das la lam [=lan?] gsum bskor ba byas te nye bar &#x27;dug ste zhus pa |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:313"/>ji lta bu yi rnal &#x27;byor bgyi |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:314"/>bcom ldan &#x27;das kyis bka&#x27; stsal pa |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:315"/>sbyin pa mtha&#x27; gsum yongs dag pa | he ru ka ni bsgom par bya |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:316"/>sbyin pa yang ni he ru ka | gang la sbyin pa&#x27;ang de lta bu |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:317"/>sbyin pa &#x27;di ni rab tu bsngags | [\D 176a] sbyin pa &#x27;di ni dpe tsam ste |
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:318"/>tshul khrims la sogs &#x27;di ltar spyad ||
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:319"/>rgyud kyi rgyal po chen po rdo rje ā ra li las de skad ces gsungs so ||
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:320"/>rdo rje ā ra li las rnal &#x27;byor ma&#x27;i gong na med pa zhes bya ba&#x27;i le&#x27;u ste bcu pa rdzogs so ||      ||
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:321"/>% translators&#x27; colophon:
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:322"/>rgya gar gyi mkhan po kā ya stha pa ga ya dha ra&#x27;i zhal snga nas dang | bod kyi lo tstsha ba dge slong shā kya ye shes kyis bsgyur cing zhus te gtan la phab pa ||      ||
+<lb n="SA_K12_Āgama_Vajrārallitantra-testimonia:323"/>\bye
+    </body>
+  </text>
+</TEI>

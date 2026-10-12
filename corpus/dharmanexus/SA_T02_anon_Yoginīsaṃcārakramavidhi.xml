@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Yoginīsaṃcārakramavidhi</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Collection / category: BuddhistNon-Scriptures / T02
+Source: OCR / Dharmamitra
+Edition / witness: Pandey 1998 (159–161), MS = NAK 4-20/vi. bauddhatantra 66 = NGMPP A 48/5
+Tibetan: Ø
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Janārdana Śāstrī Pāṇḍeya (ed.), Durlabha Bauddha Grantha Saṅgraha, vol. 2, Sarnath, Varanasi: Central Institute of Higher Tibetan Studies (CIHTS), 1998, pp. 159–161; collated and emended against MS NAK 4-20 / vi. bauddhatantra 66 (NGMPP reel A 48/5).</note>
+          <idno type="dharmanexus">SA_T02_anon_Yoginīsaṃcārakramavidhi</idno>
+          <ref target="https://dharmamitra.org/db/sa/SA_T02_anon_Yoginīsaṃcārakramavidhi/text">https://dharmamitra.org/db/sa/SA_T02_anon_Yoginīsaṃcārakramavidhi/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-12">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_T02_anon_Yoginīsaṃcārakramavidhi:0"/>prathamaṃ tāvad yogī ratnatrayaśaraṇam abhigacchet | tatra (tataḥ MS) pāpadeśanā puṇyānumodanā pariṇāmanā ātmabhāvaniryātanā karuṇācittotpādanaṃ mārgāśrayaṇaṃ bodhicittotpādaḥ |
+<lb n="SA_T02_anon_Yoginīsaṃcārakramavidhi:1"/>oṃ śūnyatājñānavajrasvabhāvātmako &#x27;ham |
+<lb n="SA_T02_anon_Yoginīsaṃcārakramavidhi:2"/>oṃ sumbha nisumbha (suṃbhanisuṃbhe MS) hūṃ phaṭ, oṃ gṛhṇa gṛhṇa (gṛhna 2 MS) hūṃ phaṭ, oṃ gṛhṇāpaya 2 (gṛhnāpaya 2 MS) hūṃ phaṭ, oṃ ānaya hoḥ bhagavan vidyārāja huṃ (ø MS) hūṃ phaṭ |
+<lb n="SA_T02_anon_Yoginīsaṃcārakramavidhi:3"/>spharaṇād vajraprākāraḥ vajrapañjaraṃ vajramaṇiḥ (vajram api MS, anne vajramayī) pṛthvī kṛṣṇa(&lt;+ +&gt; MS)dhanurābhavāyumaṇḍalaṃ raktatrikoṇam āgneyamaṇḍalaṃ (raktatrikoṇāgneyamaṇḍalaṃ MS) haritaṃ caturasraṃ (haritacaturasraṃ MS) pṛthvīmaṇḍalam aṣṭāṃśaṃ sumeruṃ (aṣṭāṃśasumeruṃ MS) viśvadalapadme ālikālipuñja ālidvayapariṇataṃ saṃbhūtaṃ
+<lb n="SA_T02_anon_Yoginīsaṃcārakramavidhi:4"/>candrasūryamaṇḍalaṃ hūṃkārapariṇataṃ bhairavakālarātrisaṃsthitapādayugmaṃ bhaṭṭārakaṃ śrīherukaṃ bhujadvaye[na] (bhujadvaya MS) vajravajraghaṇṭāsahitena āliṅgitāṃ vajravārāhīṃ raktavarṇāṃ nagnāṃ muktakeśām īṣaddaṃṣṭrābhayānakām (°bhayānikāṃ MS) ākrāntadakṣiṇoruṃ mahārāgaraktarucakakuṇḍalakaṇṭhikāśiromaṇiyajñopavītabhasmoddhūlitaṣaṇmudrāvibhūṣitām
+<lb n="SA_T02_anon_Yoginīsaṃcārakramavidhi:5"/>(ākrāntādakṣiṇorūpahārāgarakta | ... °bhaśmodhūlita° ... MS) | vāmakare rudhiraparipūrṇakapālam, dakṣiṇe vajram (vajra MS), ubhayakarayos tarjanīm (ubhayakaratarjanī MS), pāde asthinūpurāṇi, ghaghgharamālāvṛtakaṭim, bhaṭṭārakasya karadvayena gaṇa(ja;
+<lb n="SA_T02_anon_Yoginīsaṃcārakramavidhi:6"/>gana° MS)paticarmaprāvaraṇam, paraśutriśūlakartiḍamarukaṃ savye, avasavye khaṭvāṅgakapālapāśabrahmaśiraś ceti, caturmukhabhrūbhaṅgakuṭilānanalelihajjihvadhūmāndhakāravapuḥ, jaṭāmakuṭinam, śirasi kapālamālāvibhūṣitam, muṇḍamālāvṛtakaṭim, jaṭāmakuṭāgraviśvavajram, pañcāśan(pañcāśa° MS)muṇḍamālāntragrathitavibhūṣitagātram, ṣaṇmudrāvibhūṣitam |
+<lb n="SA_T02_anon_Yoginīsaṃcārakramavidhi:7"/>pūrvapadmadale ḍākinī | uttare lāmā | paścime khaṇḍarohā | dakṣiṇe rūpiṇī | pariśiṣṭeṣu caturṣu daleṣu vidikṣv avasthiteṣu pañcāmṛtaparipūrṇakapālāni | yoginīḥ(nyaḥ; yoginī MS) khaṭvāṅgakapālakartihastā raktavarṇā nagnā muktakeśāḥ ṣaṇmudrāvibhūṣitā īṣannartitapadāḥ (īṣannarttinapadā MS) |
+<lb n="SA_T02_anon_Yoginīsaṃcārakramavidhi:8"/>pūrvāre cakra[sya] mahāvīryā vairocanaḥ, uttarāre cakravarttinī padmanṛtyeśvaraḥ, paścimāre suvīrā śrīvajragarbhaḥ, dakṣiṇāre cakravarttinī herukaś caiva, aiśānyāre sau(śau)ṇḍinī ākāśagarbhaḥ, vāyavyāre khaṇḍarohā hayame(grī)vaḥ, nairṛtyāre cakravegā ratnanetrā(vajraḥ), āgneyāre [prabhāmatī?] mahābalaḥ | cittacakre |
+<lb n="SA_T02_anon_Yoginīsaṃcārakramavidhi:9"/>cakrasya pūrvāre hayakarṇā virūpākṣaḥ, uttarāre subhadrā bhairavaḥ, paścimāre śyāmādevī vajraprabhaḥ, dakṣiṇāre surābhakṣī vajrahūṃkāraḥ, aiśānyāre vāyugevā mahāvīraḥ, vāyavyāre mahābhayā vajrajaṭilaḥ, nairṛtyāre bhairavā aṅkurikaḥ, āgneyāre airāvatī vajradehaḥ | etā vākcakre |
+<lb n="SA_T02_anon_Yoginīsaṃcārakramavidhi:10"/>pūrvāre vajrasya (anne cakrasya) drumacchāyā vajraprabhaḥ, uttarāre laṅkeśvarī amitābhaḥ, paścimāre śaṅkarī surāvairiṇaḥ, dakṣiṇāre vīramatī vikaṭadaṃṣṭrin, aiśānyāre mahānāsā kaṅkālam(laḥ), vāyavyāre prabhāmatī mahākaṅkālaḥ, nairṛtyāre caṇḍākṣī ruṭaṅkaṭaḥ, agneyāre (anne āgneyāre) pracaṇḍā khaṇḍakapālaḥ | etāḥ kāyacakre |
+<lb n="SA_T02_anon_Yoginīsaṃcārakramavidhi:11"/>yoginīḥ(nyaḥ) kapālakartihastā raktavarṇā nagnā muktakeśāḥ ṣaṇmudrāvibhūṣitā vajravajraghaṇṭāhastāḥ | etāḥ samāpattisthāḥ sarvadevatāḥ śrīherukādyās trinetrāḥ pratyālīḍhapadasthā iti |
+<lb n="SA_T02_anon_Yoginīsaṃcārakramavidhi:12"/>pūrvadvāre kākāsyā, uttaradvāre ulūkāsyā, paścimadvāre śvānāsyā, dakṣiṇadvāre śūkarāsyā, aiśānyāṃ yamadāḍhī, vāyavyāṃ yamadūtī, nairṛtyāṃ yamadaṃṣṭrī, āgneyāṃ yamamathanī, etā yoginyaḥ kapālakartihastā raktavarṇā nagnā muktakeśāḥ ṣaṇmudrāvibhūṣitāḥ | (mṛnmantre kaṭa svātmanā?)
+<lb n="SA_T02_anon_Yoginīsaṃcārakramavidhi:13"/>[kāya]cakrasya pūrvāre pullīramalaye(yaḥ), uttarāre jālandharaḥ, paścimāre godāvarī, dakṣiṇāre rāmeśvaram, aiśānyāre devīkoṭaḥ, vāyavyāre mālavaḥ, aiśānyāre (anne nairṛtyāre) kāmarūpaḥ, āgneyāre oḍiyānaḥ |
+<lb n="SA_T02_anon_Yoginīsaṃcārakramavidhi:14"/>cittacakrasya pūrvāre triśakuniḥ, uttarāre kośalaḥ, paścimāre kaliṅgaḥ, dakṣiṇāre lampākaḥ, aiśānyāre kāñcī, vāyavyāre pretādhivāsinī, nairṛtyāre himālayaḥ, āgneyāre gṛhadevatā |
+<lb n="SA_T02_anon_Yoginīsaṃcārakramavidhi:15"/>vākcakrasya pūrvāre saurāṣṭraḥ, uttarāre sindhuḥ, paścimāre maruḥ, dakṣiṇāre kulatā, aiśānyāre nagaraḥ, vāyavyāre āraṇyaḥ, nairṛtyāre suvarṇadvīpaḥ, āgneyāre oḍraviṣayaḥ |
+<lb n="SA_T02_anon_Yoginīsaṃcārakramavidhi:16"/>ete pīṭhopapīṭhakṣetropakṣetrachandohopachandohamelāpakopamelāpakaśmaśānopaśmaśāna iti daśa viśuddhāḥ |
+<lb n="SA_T02_anon_Yoginīsaṃcārakramavidhi:17"/>oṃ haḥ hṛdi namaḥ | hi śiraḥ svāhā | oṃ hu śikhāyāṃ vaṣaṭ | oṃ he skandho(ndhayoḥ) hūṃ hūṃ | ho cakṣuṣoḥ vauṣaṭ | āḥ phaṭ phaṭ haṃ sarvāṅgeṣu kavacaḥ |
+<lb n="SA_T02_anon_Yoginīsaṃcārakramavidhi:18"/>% MS: oṃ haḥ hṛdi | namaḥ hi śira | svāhā hūṃ śikhāyāṃ | vauṣaṭ he skandhau | hūṃ hūṃ hoḥ cakṣuṣoḥ | phaṭ phaṭ haṃ sarvāṅgeṣu kavacaḥ |
+<lb n="SA_T02_anon_Yoginīsaṃcārakramavidhi:19"/>oṃ hrīḥ ha ha hūṃ hūṃ phaṭ | oṃ dharmadhātuvajrasvabhāvātmako &#x27;ham |
+<lb n="SA_T02_anon_Yoginīsaṃcārakramavidhi:20"/>iti yoginīsaṃcārakramavidhiḥ |
+<lb n="SA_T02_anon_Yoginīsaṃcārakramavidhi:21"/>gaganaśararase &#x27;bde caitrake (caitramāse MS) kṛṣṇapakṣe (kṛṣṇe MS)
+<lb n="SA_T02_anon_Yoginīsaṃcārakramavidhi:22"/>śatavṛṣabrahmayoge viśvatithyāṃ budhe &#x27;kṣo (&#x27;hne MS) |
+<lb n="SA_T02_anon_Yoginīsaṃcārakramavidhi:23"/>likhitāṃ (likhati MS) jinacaraṇena (jinacareṇa MS) herukasyāpi tantraṃ
+<lb n="SA_T02_anon_Yoginīsaṃcārakramavidhi:24"/>sakalakaluṣahartā (°hantā MS) bhuktimuktipradātrī (°pradātrīṃ MS) ||
+<lb n="SA_T02_anon_Yoginīsaṃcārakramavidhi:25"/>yoginīsaṃcāranāmedaṃ (°nāmeti MS) pustakaṃ likhitaṃ mayā |
+<lb n="SA_T02_anon_Yoginīsaṃcārakramavidhi:26"/>tena puṇyena lokānāṃ sarvasiddhiḥ (°siddhiṃ? MS) samāpnuyād iti || śubham ||
+    </body>
+  </text>
+</TEI>

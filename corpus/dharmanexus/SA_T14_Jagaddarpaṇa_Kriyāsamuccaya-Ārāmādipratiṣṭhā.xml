@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kriyāsamuccaya (Ārāmādipratiṣṭhā section)</title>
+        <author>Jagaddarpaṇa</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Author: Jagaddarpaṇa
+Collection / category: BuddhistNon-Scriptures / T14
+Source: OCR / Dharmamitra
+Edition / witness: Kaiser Library no. 110, Vajrāvalī
+Tibetan: D 3305
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Unpublished transcription and collation (Kolozsvár, 5 July 2025) based on Nepalese manuscript witness(es) (e.g. C = Kaiser Library MS 110 / Vajrāvalī-Kriyāsamuccaya materials) aligned with the Tibetan translation (Derge Tengyur D 3305).</note>
+          <idno type="dharmanexus">SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Ārāmādipratiṣṭhā</idno>
+          <ref target="https://dharmamitra.org/db/sa/SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Ārāmādipratiṣṭhā/text">https://dharmamitra.org/db/sa/SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Ārāmādipratiṣṭhā/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-12">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Ārāmādipratiṣṭhā:0"/>āmrārāmodyānādipratiṣṭhāyāṃ digbaliṃ dattvā vairocanātmā pradhānavṛkṣaṃ śūnyatānantaraṃ vairocanarūpaṃ dhyātvā tatra jñānasattvavairocanam arghādipūrvakaṃ praveśya kalaśajalenābhiṣicya tatpariṇataṃ vṛkṣaṃ tathaivānyāṃś ca tarūn tatpariṇatam adhimucya taṃ mukhyavṛkṣaṃ tadadhiṣṭhātṛdevatāś ca puṣpādibhiḥ saṃpūjya phalādibhiḥ parārthaṃ
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Ārāmādipratiṣṭhā:1"/>kurvāṇasyārāmādeḥ cira[\C209\verso]sthityartham anuyācya digbalīn dadyāt |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Ārāmādipratiṣṭhā:2"/>% aa mra&#x27;i skyed mos tshal la sogs pa&#x27;i rab tu gnas pa&#x27;i cho ga ni | phyogs kyi gtor ma phul nas rnam par snang mdzad kyi {181a2} bdag nyid kyis shing gi gtso bo stong pa nyid kyi rjes la rnam par snang mdzad kyi gzugs su bsams te | de las ye shes sems dpa&#x27; rnam par snang mdzad mchod yon la sogs pa sngon du &#x27;gro bas gzhug cing |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Ārāmādipratiṣṭhā:3"/>bum pa&#x27;i chus mngon par dbang bskur la de yongs su gyur pa&#x27;i shing de dang | de nyid kyi tshe shing {181a3} gzhan rnams kyang de yongs su gyur par lhag par mos par bya&#x27;o || shing gi gtso bo de dang de dag la byin gyis brlabs pa&#x27;i lha&#x27;i me tog la sogs pas yang dag par mchod de |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Ārāmādipratiṣṭhā:4"/>&#x27;bras bu la sogs pa rnams kyis gzhan gyi don byed pa&#x27;i skyed mos tshal la sogs pa yun ring du gnas par gsol ba {181a4} btab nas phyogs kyi gtor ma rnams dbul bar bya&#x27;o
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Ārāmādipratiṣṭhā:5"/>ity ārāmādipratiṣṭhāvidhiḥ ||   ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Ārāmādipratiṣṭhā:6"/>% zhes pa nags tshal la sogs pa rab tu gnas pa&#x27;i cho ga&#x27;o || ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Ārāmādipratiṣṭhā:7"/>%
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Ārāmādipratiṣṭhā:8"/>eteṣu sarveṣv evoktavidhiṣu yasmin karmaṇi mantro noktas tatra sārvakarmikamantraṃ japed iti paribhāṣā ||   ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Ārāmādipratiṣṭhā:9"/>% brjod pa&#x27;i cho ga &#x27;di rnams thams cad la las gang la sngags ma brjod pa der ni las thams cad pa&#x27;i sngags bzlas so zhes yongs su bshad par bya&#x27;o ||
+    </body>
+  </text>
+</TEI>

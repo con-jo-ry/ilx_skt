@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Abhisamayakrama (incomplete; end only in Tibetan)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Collection / category: BuddhistNon-Scriptures / T02
+Source: OCR / Dharmamitra
+Edition / witness: HSS 23, 202r4–204v2
+Tibetan: D1209
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Unpublished transcription of manuscript &#x27;HSS 23&#x27;, fols. 202r4–204v2 (siglum as given in Dharmamitra; repository not identified here), with the Tibetan translation D1209 (Degé fols. 309a–311b) interleaved.</note>
+          <idno type="dharmanexus">SA_T02_anon_Abhisamayakrama</idno>
+          <ref target="https://dharmamitra.org/db/sa/SA_T02_anon_Abhisamayakrama/text">https://dharmamitra.org/db/sa/SA_T02_anon_Abhisamayakrama/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-12">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_T02_anon_Abhisamayakrama:0"/>namaḥ śrīhevajrāya ||
+<lb n="SA_T02_anon_Abhisamayakrama:1"/>% @309A #, ,RGYA GAR SKAD DU, AA BHI SA MA YA KRA MA N&#x27;A MA, BOD SKAD DU, MNGON PAR RTOGS PA&#x27;I RIM PA ZHES BYA BA, DPAL KYE&#x27;I RDO RJE LA PHYAG &#x27;TSAL LO, ,
+<lb n="SA_T02_anon_Abhisamayakrama:2"/>śrīoḍiyānavinirgatahevajratantraratnasyābhisamayaḥ kathyate ||
+<lb n="SA_T02_anon_Abhisamayakrama:3"/>% DPAL AU dYAN NAS &#x27;ONGS PA&#x27;I KYE&#x27;I RDO RJE&#x27;I RGYUD KYI RIN PO CHE&#x27;I MNGON PAR RTOGS PA BSTAN PAR BYA STE,
+<lb n="SA_T02_anon_Abhisamayakrama:4"/>dvātriṃśad bodhicittavahā nāḍyaḥ samvṛtiparamārtharūpātmikāḥ | tāsāṃ tisraḥ pradhānāḥ— lalanā rasanā avadhūtī | lalanā prajñāsvabhāvā | [*rasanā upāyasvabhāvā |] avadhūtī advayatattvarūpā yonicakre |
+<lb n="SA_T02_anon_Abhisamayakrama:5"/>BYANG CHUB KYI SEMS SUM CU RTZA GNYIS &#x27;BAB PA&#x27;I RTZA RNAMS NI KUN RDZOB DANG DON DAM PA&#x27;I BDAG NYID CAN NO, ,DE RNAMS KYI GTZO MO NI GSUM STE, BRKYANG MA DANG, RO MA DANG, KUN &#x27;DAR MA&#x27;O, ,BRKYANG MA NI SHES RAB KYI RANG @309B BZHIN NO, ,RO MA NI THABS KYI RANG BZHIN NO, ,KUN &#x27;DAR MA NI SKYE GNAS KYI &#x27;KHOR LOR GNYIS SU MED PA&#x27;I DE KHO NA&#x27;I GZUGS
+<lb n="SA_T02_anon_Abhisamayakrama:6"/>SO, ,
+<lb n="SA_T02_anon_Abhisamayakrama:7"/>akṣobhyavahā lalanā | raktavahā rasanā | bodhicittavahā avadhūtī |
+<lb n="SA_T02_anon_Abhisamayakrama:8"/>MI BSKYOD &#x27;BAB PA NI BRKYANG MA&#x27;O, ,KHRAG &#x27;BAB PA NI RO MA&#x27;O, ,BYANG CHUB KYI SEMS &#x27;BAB PA NI KUN &#x27;DAR MA&#x27;O, ,
+<lb n="SA_T02_anon_Abhisamayakrama:9"/>sarvadharmāṇāṃ susūkṣmatā lalanā | sarvadharmāṇām aprapañcatā rasanā | abhedyātmikā avadhūtī |
+<lb n="SA_T02_anon_Abhisamayakrama:10"/>% (1) em. sarvakarmāṇā \ms
+<lb n="SA_T02_anon_Abhisamayakrama:11"/>CHOS RNAMS THAMS CAD KYI SHIN TU PHRA BA NYID NI BRKYANG MA&#x27;O, ,CHOS RNAMS THAMS CAD KYI SPROS PA MED PA NYID NI RO MA&#x27;O, ,MI PHYED PA&#x27;I BDAG NYID CAN NI KUN &#x27;DAR MA&#x27;O, ,
+<lb n="SA_T02_anon_Abhisamayakrama:12"/>tāsāṃ dvātriṃśannāḍīnāṃ sthānaṃ svabhāvaś ca kathyate ||
+<lb n="SA_T02_anon_Abhisamayakrama:13"/>RTZA SUM CU RTZA GNYIS PO DE RNAMS KYI GNAS DANG, RANG BZHIN BRJOD PAR BYA STE,
+<lb n="SA_T02_anon_Abhisamayakrama:14"/>vāmapādāṅguṣṭha abhedyā asvabhāvatvāt |
+<lb n="SA_T02_anon_Abhisamayakrama:15"/>RKANG PA G-YON PA&#x27;I MTHE BONG LA MI PHYED MA NI RANG BZHIN MED PA&#x27;I PHYIR RO, ,
+<lb n="SA_T02_anon_Abhisamayakrama:16"/>jaṅghāyāṃ sūkṣmarūpā ākāśadhātusvabhāvatvāt |
+<lb n="SA_T02_anon_Abhisamayakrama:17"/>% \ms 202\verso
+<lb n="SA_T02_anon_Abhisamayakrama:18"/>BYIN PA PHRA GZUGS MA NI NAM MKHA&#x27; DBYINGS KYI RANG BZHIN NO, ,
+<lb n="SA_T02_anon_Abhisamayakrama:19"/>vāmorau divyā pañcakāśikatvāt |
+<lb n="SA_T02_anon_Abhisamayakrama:20"/>% anne pañcakāmikatvāt?
+<lb n="SA_T02_anon_Abhisamayakrama:21"/>BRLA G-YON PAR BRTZE BA MA NI &#x27;DOD PA LNGA&#x27;I BDAG NYID CAN GYI PHYIR RO, ,
+<lb n="SA_T02_anon_Abhisamayakrama:22"/>yonivāmapārśve nāḍya vāmā vāmatattvābalaśvinī (?) prajñākaratvāt |
+<lb n="SA_T02_anon_Abhisamayakrama:23"/>SKYE GNAS KYI G-YON PA&#x27;I NGOS KYI RTZA LA G-YON PA MA NI BZANG PO&#x27;I DE KHO NA &#x27;DZIN PA SHES RAB KYI GNAS KYI PHYIR RO, ,
+<lb n="SA_T02_anon_Abhisamayakrama:24"/>nābhau vāminī mahāmudrāniṣyandātmikā |
+<lb n="SA_T02_anon_Abhisamayakrama:25"/>LTE BA RU THUNG DU MA NI RGYAL CHEN PO&#x27;I RGYU MTHUN PA&#x27;I BDAG NYID CAN NO, ,
+<lb n="SA_T02_anon_Abhisamayakrama:26"/>hṛtkarṇikāvāmabhāge kūrmajā bhavanirvāṇasampuṭarūpatvāt |
+<lb n="SA_T02_anon_Abhisamayakrama:27"/>SNYING GI ZE &#x27;BRU LA G-YON PA&#x27;I CHA LA RUS SBAL SKYES MA NI SRID PA DANG MYA NGAN LAS &#x27;DAS PA KHA SBYAR GZUGS KYI PHYIR RO, ,
+<lb n="SA_T02_anon_Abhisamayakrama:28"/>vāmastane bhāvakī mahāsukhabhāvanā |
+<lb n="SA_T02_anon_Abhisamayakrama:29"/>NU MA G-YON PAR BSGOM PA MA NI BDE BA CHEN PO&#x27;I BSGOM PA&#x27;O, ,
+<lb n="SA_T02_anon_Abhisamayakrama:30"/>kaṇṭhavāmabhāge sekā vimalatāpātanāt |
+<lb n="SA_T02_anon_Abhisamayakrama:31"/>MGUL BA G-YON PA&#x27;I CHA LA DBANG MA NI DRI MA MED PAR BYED PA&#x27;I PHYIR RO, ,
+<lb n="SA_T02_anon_Abhisamayakrama:32"/>vāmakaratale doṣā praharādinākṛtaghaṭanāt |
+<lb n="SA_T02_anon_Abhisamayakrama:33"/>LAG PA G-YON PA&#x27;I MTHIL DU SKYON MA NI THAL LCAG LA SOGS PAS &#x27;GYUR PAR BYED PA&#x27;I PHYIR RO, ,
+<lb n="SA_T02_anon_Abhisamayakrama:34"/>adhare viṣṭhāvahā sukhaveśata (?) |
+<lb n="SA_T02_anon_Abhisamayakrama:35"/>CHU LA &#x27;JUG MA NI BDE BA CHEN PO &#x27;JUG PA&#x27;I PHYIR RO, ,
+<lb n="SA_T02_anon_Abhisamayakrama:36"/>gaṇḍe mātarī ālayavidarśanāt |
+<lb n="SA_T02_anon_Abhisamayakrama:37"/>MKHUR TSOS SUM MO NI KUN BZHI MTHONG BAR BYED PA&#x27;I PHYIR RO, ,
+<lb n="SA_T02_anon_Abhisamayakrama:38"/>vāmacakṣuṣi sarvarī mahāsukhasnānātmikā |
+<lb n="SA_T02_anon_Abhisamayakrama:39"/>MIG G-YON PAR MTSAN MO NI BDE BA CHEN PO&#x27;I &#x27;KHRUS PA&#x27;I BDAG CAN NO, ,
+<lb n="SA_T02_anon_Abhisamayakrama:40"/>vāmakaṇṭhamūle śītadā vāyuprabhavatvāt |
+<lb n="SA_T02_anon_Abhisamayakrama:41"/>RNA BA G-YON PA&#x27;I RTZA BAR BSIL SBYIN MA NI RLUNG RAB TU &#x27;BYUNG BA&#x27;I PHYIR RO, ,
+<lb n="SA_T02_anon_Abhisamayakrama:42"/>mastakavāmapārśve uṣṇā tejasvinītvāt |
+<lb n="SA_T02_anon_Abhisamayakrama:43"/>KLAD PA G-YON PA&#x27;I NGOS SU TSA BA MA NI ME DANG LDAN PA&#x27;I PHYIR RO, ,
+<lb n="SA_T02_anon_Abhisamayakrama:44"/>mūrdhni mahāvajradharasya vāmapārśve lalanā vilasanaśīlatvāt |
+<lb n="SA_T02_anon_Abhisamayakrama:45"/>SPYI BOR RDO RJE &#x27;DZIN PA CHEN PO&#x27;I G-YON NGOS SU BRKYANG MA NI RNAM PAR RTZE BA&#x27;I RANG BZHIN GYI PHYIR RO, ,
+<lb n="SA_T02_anon_Abhisamayakrama:46"/>agrato &#x27;vadhūtī prapañcavirahāt |
+<lb n="SA_T02_anon_Abhisamayakrama:47"/>MDUN DU KUN &#x27;DAR MA NI SPROS PA DANG BRAL BA&#x27;I PHYIR RO, ,
+<lb n="SA_T02_anon_Abhisamayakrama:48"/>dakṣiṇe rasanā āsvādapriyatvāt |
+<lb n="SA_T02_anon_Abhisamayakrama:49"/>G-YAS PAR RO MA NI MYANG BAR &#x27;DOD PA&#x27;I PHYIR RO, ,
+<lb n="SA_T02_anon_Abhisamayakrama:50"/>pṛṣṭhataḥ pramāṇā kāyādipramāṇatā |
+<lb n="SA_T02_anon_Abhisamayakrama:51"/>RGYAB NAS TSAD MA NI SKU LA SOGS PA&#x27;I TSAD MA&#x27;I PHYIR RO, ,
+<lb n="SA_T02_anon_Abhisamayakrama:52"/>mastakadakṣiṇapārśve kṛṣṇavarṇā akṣobhyakṛṣṇatvāt |
+<lb n="SA_T02_anon_Abhisamayakrama:53"/>GLAD PA&#x27;I G-YAS NGOS SU MDOG NAG MA NI MI BSKYOD PA GNAG PA&#x27;I PHYIR RO, ,
+<lb n="SA_T02_anon_Abhisamayakrama:54"/>dakṣiṇakarṇamūle sāmānyā sarvatrānugā |
+<lb n="SA_T02_anon_Abhisamayakrama:55"/>RNA BA G-YAS @310A*, ,PA&#x27;I RTZA BAR SPYI MA NI THAMS CAD DU RJES SU &#x27;GRO BA&#x27;I PHYIR RO, ,
+<lb n="SA_T02_anon_Abhisamayakrama:56"/>dakṣiṇanetre hetudāyikā kāraṇabhūtatvāt |
+<lb n="SA_T02_anon_Abhisamayakrama:57"/>MIG G-YAS PA LA RGYU SBYIN MA NI BYED RGYUR GYUR PA&#x27;I PHYIR RO, ,
+<lb n="SA_T02_anon_Abhisamayakrama:58"/>kapole viyogā viramānandavirahāt |
+<lb n="SA_T02_anon_Abhisamayakrama:59"/>MKHUR BA LA SBYOR BRAL MA NI DGA&#x27; BA SPANGS PA&#x27;I PHYIR RO, ,
+<lb n="SA_T02_anon_Abhisamayakrama:60"/>uttare svapremaṇī sarvatrālayānubandhāt |
+<lb n="SA_T02_anon_Abhisamayakrama:61"/>YA MCHU LA SDU GU MA NI GNAS THAMS CAD PHANGS PAR BYED PA&#x27;I PHYIR RO, ,
+<lb n="SA_T02_anon_Abhisamayakrama:62"/>gale siddhā anādisvabhāva[tvāt] |
+<lb n="SA_T02_anon_Abhisamayakrama:63"/>LKOG MA LA GRUB MA NI THOG MA MED PA&#x27;I RANG BZHIN GYI PHYIR RO, ,
+<lb n="SA_T02_anon_Abhisamayakrama:64"/>dakṣiṇakare pāvakī śṛṅgārarasavipañcanāt |
+<lb n="SA_T02_anon_Abhisamayakrama:65"/>% \ms 203\recto
+<lb n="SA_T02_anon_Abhisamayakrama:66"/>LAG PA G-YAS PA &#x27;TSED MA NI SGEG PA&#x27;I RO RGYAS PAR BYED PA&#x27;I PHYIR RO, ,
+<lb n="SA_T02_anon_Abhisamayakrama:67"/>dakṣiṇastane sumanāsī dehaphalodaye prāptasumanā |
+<lb n="SA_T02_anon_Abhisamayakrama:68"/>NU MA G-YAS PA LA YID BZANG MA NI LUS KYI &#x27;BRAS BU &#x27;BYUNG BA YID BZANGS &#x27;THOB PA&#x27;I PHYIR RO, ,
+<lb n="SA_T02_anon_Abhisamayakrama:69"/>hṛddakṣiṇapārśve trivṛtā kāyavākcittātmikatvāt |
+<lb n="SA_T02_anon_Abhisamayakrama:70"/>SNYING GA G-YAS NGOS SU SUM SKOR MA DANG SKU DANG GSUNG DANG THUGS KYI BDAG NYID KYI PHYIR RO, ,
+<lb n="SA_T02_anon_Abhisamayakrama:71"/>nābhidakṣiṇadeśe kāminī kāmapriyatvāt |
+<lb n="SA_T02_anon_Abhisamayakrama:72"/>LTE BA G-YAS PA&#x27;I YUL DU &#x27;DOD MA NI &#x27;DOD PA LA SDUG PA&#x27;I PHYIR RO, ,
+<lb n="SA_T02_anon_Abhisamayakrama:73"/>yonau gehā sarvabhūtālayatvāt |
+<lb n="SA_T02_anon_Abhisamayakrama:74"/>SKYE GNAS SU KHYIM MA NI &#x27;BYUNG BA THAMS CAD KYI GNAS KYI PHYIR RO, ,
+<lb n="SA_T02_anon_Abhisamayakrama:75"/>urau caṇḍamā mahāsukhena sarvavyāpanāt |
+<lb n="SA_T02_anon_Abhisamayakrama:76"/>BRLA LA GTUM BDAG MA NI BDE BA CHEN POS THAMS CAD DU KHYAB PA&#x27;I PHYIR RO, ,
+<lb n="SA_T02_anon_Abhisamayakrama:77"/>jaṅghāyāṃ kātyāyanī sarvavighnanikṛntanāt |
+<lb n="SA_T02_anon_Abhisamayakrama:78"/>BYIN PA LA KA TA YA N&#x27;A NI BGEGS GCOD PAR BYED PA&#x27;I PHYIR RO, ,
+<lb n="SA_T02_anon_Abhisamayakrama:79"/>dakṣiṇāṅguṣṭhe māradāyikā sarvaduḥkhāpraveśāt |
+<lb n="SA_T02_anon_Abhisamayakrama:80"/>G-YAS PA&#x27;I MTHE BONG LA BDUD &#x27;DRAL MA NI SDUG BSNGAL THAMS CAD &#x27;JUG PA MED PA&#x27;I PHYIR RO, ,
+<lb n="SA_T02_anon_Abhisamayakrama:81"/>dvātriṃśannāḍikāyāṃ yathāsthānam anulomavilomato ṣoḍaśākṣarapratipadādidivasāś ca |
+<lb n="SA_T02_anon_Abhisamayakrama:82"/>RTZA SUM CU RTZA GNYIS PO LA GNAS JI LTA BAR YI GE BCU DRUG DANG, TSES GCIG LA SOGS PA NYIN MO YANG
+<lb n="SA_T02_anon_Abhisamayakrama:83"/>RIM PA DANG, RIM PA LAS BZLOG PA&#x27;I PHYIR RO, ,
+<lb n="SA_T02_anon_Abhisamayakrama:84"/>etā nāḍyas tribhavapariṇatā kāyādisvabhāvatvena mahāsukhena pariṇatāḥ |
+<lb n="SA_T02_anon_Abhisamayakrama:85"/>RTZA DE RNAMS NI SRID PA GSUM YONGS SU GYUR PA, SKU LA SOGS PA&#x27;I RANG BZHIN GYIS BDE BA CHEN POS YONGS SU GYUR PA&#x27;O, ,
+<lb n="SA_T02_anon_Abhisamayakrama:86"/>āli akārādi kāli kakārādi |
+<lb n="SA_T02_anon_Abhisamayakrama:87"/>A&#x27;A LI NI AA&#x27;I RNAM PA LA SOGS PA&#x27;O, ,K&#x27;A LI NI KA&#x27;I RNAM PA LA SOGS PA&#x27;O, ,
+<lb n="SA_T02_anon_Abhisamayakrama:88"/>vajrapadmaprajñopāyadharmasambhoganirmāṇāḥ sahajaparamaviramāś cittavākkāyāḥ |
+<lb n="SA_T02_anon_Abhisamayakrama:89"/>RDO RJE DANG PADMA DANG THABS SHES RAB BO, ,CHOS DANG LONGS SPYOD RDZOGS PA DANG, SPRUL BA DANG, LHAN CIG SKYES PA DANG, DGA&#x27; BRAL DANG MCHOG DANG, THUGS DANG GSUNG DANG, SKU&#x27;O, ,
+<lb n="SA_T02_anon_Abhisamayakrama:90"/>evaṃ mayā | ekāra dharmodayā śūnyatā ānanda locanādevī | vaṃkāra vajra animitta paramānanda māmakī | makāra ūṣma apraṇihitā viramānanda pāṇḍarā | yākāra dravatva anabhisaṃskāra sahaja tārā |
+<lb n="SA_T02_anon_Abhisamayakrama:91"/>AE WAm MA YA NI, AE&#x27;I RNAM PA NI CHOS KYI &#x27;BYUNG GNAS DANG, STONG PA NYID DANG, DGA&#x27; BA DANG LHA MO SPYAN NO, ,WAm GYI RNAM PAR RDO RJE DANG, MTSAN MA MED PA DANG, MCHOG TU DGA&#x27; BA DANG, M&#x27;A MA K&#x27;I&#x27;O, ,MA&#x27;I RNAM PA NI CHE BA DANG, SMON PA MED PA DANG, DGA&#x27; BRAL GYI DGA&#x27; BA DANG, GOS DKAR MO&#x27;O, ,Y&#x27;A&#x27;I RNAM PA NI GSHER BA NYID DANG, @310B MNGON BAR
+<lb n="SA_T02_anon_Abhisamayakrama:92"/>&#x27;DUS MA BYAS PA DANG, LHAN CIG SKYES PA DANG, SGROL MA&#x27;O, ,
+<lb n="SA_T02_anon_Abhisamayakrama:93"/>yonau nirmāṇacakraṃ catuḥṣaṣṭidala kakārādidvātriṃśadakṣarāṇy anulomavilomena catuḥṣaṣṭyakṣaraḥ |
+<lb n="SA_T02_anon_Abhisamayakrama:94"/>SKYE GNAS SU SBRUL PA&#x27;I &#x27;KHOR LO &#x27;DAB MA DRUG CU RTZA BZHI LA KA LA SOGS PA&#x27;I YI GE SUM CU GNYIS PO RNAMS NI RIM PA DANG RIM PA MA YIN PAS YI GE DRUG CU RTZA BZHI&#x27;O, ,PADMA &#x27;DAB MA BZHI PO RE RE LA SOGS PA RNAMS KYI STONG PA NYID BCU DRUG GI YI GE RNAM PAR DAG PA SPYAN LA SOGS PA RANG BZHIN GYIS YONGS SU GYUR PA &#x27;DAB MA DRUG CU RTZA BZHI&#x27;I RNAM
+<lb n="SA_T02_anon_Abhisamayakrama:95"/>PAR SKYES PA GNAS KYI &#x27;KHOR LO&#x27;O, ,SNYING GAR CHOS KYI &#x27;KHOR LO &#x27;DAB MA BRGYAD PAR YI GE BRGYAD DE AA KA TZA tA TA PA YA SHA &#x27;BYUNG BA DANG &#x27;BYUNG BA LAS GYUR PA, GZUGS SHIN TU PHRA BA&#x27;O, ,PADMA &#x27;DAB MA BRGYAD PA&#x27;O, ,LKOG MAR LONGS SPYOD RDZOGS PA&#x27;I &#x27;KHOR LO &#x27;DAB MA BCU DRUG LA AA A&#x27;A AI A&#x27;I AU A&#x27;U Ri R&#x27;i Li L&#x27;i AE AEE AO AOO AAm AA:, STONG PA
+<lb n="SA_T02_anon_Abhisamayakrama:96"/>NYID BCU DRUG RNAM PAR DAG PA NI LO BCU DRUG MA LONGS SPYOD RDZOGS PA&#x27;I RNAM PA&#x27;I SHES RAB BO, ,DE NYID LONGS SPYOD RDZOGS PA&#x27;I &#x27;KHOR LO &#x27;DAB MA BCU DRUG PA&#x27;O, ,SPYI BOR BDE BA CHEN PO&#x27;I &#x27;KHOR LO &#x27;DAB MA SUM CU RTZA GNYIS LA KA KHA GA GHA NGA, TZA TSA DZA DZNYA NYA, tA thA tA DHA nA, TA THA DA DHA NA, PA PHA BA BHA MA, YA RA LA WA, SHA shA SA,
+<lb n="SA_T02_anon_Abhisamayakrama:97"/>SKYES BU CHEN PO&#x27;I CHOS KYI MTSAN RNAM PAR DAG PA NI &#x27;DAB MA SUM RTZA GNYIS SO, ,&#x27;KHRO LO BZHI LA GRAGS JI LTA BAS SKAD CIG MA BZHI NI RNAM PA SNA TSOGS DANG, RNAM PAR SMIN PA DANG, RNAM PAR NYED PA DANG, MTSAN NYID DANG BRAL BA&#x27;O, ,BDEN PA BZHI NI SDUG BSNGAL BA DANG, KUN &#x27;BYUNG BA DANG, &#x27;GOG PA DANG, LAM MO, ,DE KHO NA BZHI NI BDAG GI DE KHO NA
+<lb n="SA_T02_anon_Abhisamayakrama:98"/>DANG, SNGAGS KYI DE KHO NA DANG, LHA&#x27;I DE KHO NA DANG, YE SHES KYI DE KHO NA&#x27;O, ,DGA&#x27; BA BZHIN NI DGA&#x27; BA DANG, MCHOG TU DGA&#x27; BA DANG, DGA&#x27; BRAL GYI DGA&#x27; BA DANG, LHAN CIG SKYES PA&#x27;I DGA&#x27; BA&#x27;O, ,SDE PA BZHI NI GNAS BRTAN PA DANG, THAMS CAD YOD PAR SMRA BA DANG, KUN GYIS BKUR BA DANG, DGE &#x27;DUN PHAL CHEN NO, ,DE RNAMS SKAD CIG MA DANG, BDEN PA DANG,
+<lb n="SA_T02_anon_Abhisamayakrama:99"/>DE KHO NA DBYE BA DANG, SDE&#x27;I RANG BZHIN GYI CHUNG DU DANG, &#x27;BRING DANG LHAG MA DANG, @311A*, ,CHES LHAG PA NYID KYIS GNAS BZHI LA RNAM PAR GNAS SO, ,ZLA BA G-YON PA, NYI MA G-YAS PA, A&#x27;A LI PHRA BA, K&#x27;A LI PHRA BA, K&#x27;A LI SBOM PO&#x27;O, ,&#x27;PHO BA BCU DRUG NI LUG DANG, BA GLANG DANG, &#x27;KHRIG PA DANG, KARKA tA DANG, SENG GE DANG, BU MO DANG, SRANG DANG,
+<lb n="SA_T02_anon_Abhisamayakrama:100"/>SDIG PA DANG, GZHU DANG, CHU SRIN DANG, BUM PA DANG, NYA DANG, ZLA BA GZAS ZIN PA DANG, NYI MA GZAS ZIN PA DANG, THIG LE &#x27;GOG PA DANG, NAM MKHA&#x27; &#x27;GOG PA STE, DE RNAMS NI &#x27;PHO BA BCU DRUG LA SOGS PA SPOM PO&#x27;O, ,YANG NA KHU BA&#x27;I G-YON SKOR DANG, G-YAS SKOR GYI DBYE BAS GNAS BCU DRUG TU &#x27;PHO BAR GYUR PA&#x27;O, ,MTHE BONG LA TSES GCIG LA AA&#x27;I RNAM PA
+<lb n="SA_T02_anon_Abhisamayakrama:101"/>DANG, BYIN PA LA GNYIS LA A&#x27;A&#x27;I RNAM PA, BRAL LA GSUM LA AI&#x27;I RNAM PA, SKYE GNAS SU BZHI LA A&#x27;A&#x27;I RNAM PA, LTE BAR LNGA LA AU&#x27;I RNAM PA, SNYING LA DRUG LA A&#x27;U&#x27;I RNAM PA, NU MA LA BDUN LA Ri&#x27;I RNAM PA, LKOG MA LA BRGYAD LA R&#x27;i&#x27;I RNAM PA, LAG PA&#x27;I RTZE MOR DGU LA Li&#x27;I RNAM PA, MKHUR TSOS LA BCU LA L&#x27;i&#x27;I RNAM PA, MIG TU BCU GCIG LA AE&#x27;I RNAM PA, RNA
+<lb n="SA_T02_anon_Abhisamayakrama:102"/>BA&#x27;I RTZA BAR BCU GNYIS LA AI&#x27;I RNAM PA, BCU GSUM LA DPRAL BAR AO&#x27;I RNAM PA, SPYI BOR BCU BZHI LA AOO&#x27;I RNAM PA, MCHAN GYI G-YON DANG G-YAS SU GANG BA LA AAm AA:
+<lb n="SA_T02_anon_Abhisamayakrama:103"/>DE DANG DE&#x27;I CHANG GI SHIN TU PHRA BA&#x27;I RNAM PAS &#x27;PHO BAR GYUR PA&#x27;O, ,DBYI GU DRUG CU RTZA BZHI NI DUS KYI RNAM PA&#x27;I CHA LA RGYU SKAR NYI SHU BRGYAD DANG, NYIN PAR BCO LNGA DANG, GZA&#x27; DGU DANG, CHA BCU GNYIS DUS KYI RNAM PA&#x27;I CHA YIS DBYI GU BLANG BAR BYA&#x27;O, ,MTSAN MO DANG, NYIN PAR DAG LA, SBU GU CAN DRUG CU DANG, DE DAG NYID LA ZAD PA DANG,
+<lb n="SA_T02_anon_Abhisamayakrama:104"/>&#x27;PHEL BAS BZHI&#x27;O, ,DE NYID KYI PHYIR DUS KYIS DBYI GU DRUG CU RTZA BZHI GZUNG BAR BYA&#x27;O, ,YANG NA SHES RAB DANG, THABS DAG LA DON DAM PA DANG, KUN RDZOB KYI DBYE BAS DE DANG DE LA GNAS NYID DU RNAM PAR DAG PA &#x27;PHO BA BCU DRUG GIS MYOS BYED KYI DBYE BAS DBYI GU GZUNG NGO, ,DE RNAMS NI RTZA SUM CU RTZA GNYIS RNAMS SO, ,DE RNAMS THAMS CAD NI &#x27;KHOR LO
+<lb n="SA_T02_anon_Abhisamayakrama:105"/>BZHI LA BSDU BA RNAMS SO, ,YANG @311B BZHI NI LTE BAR GTUM MO &#x27;BAR BA ZHES BYA BA PHYAG RGYA CHEN MOR THIM MO, ,
+<lb n="SA_T02_anon_Abhisamayakrama:106"/>MNGON PAR RTOGS PA&#x27;I RIM PA RDZOGS SO,,
+    </body>
+  </text>
+</TEI>

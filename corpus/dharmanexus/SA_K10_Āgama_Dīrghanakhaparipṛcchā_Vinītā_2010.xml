@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Dīrghanakhaparipṛcchā</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Collection / category: BuddhistScriptures / K10
+Source: OCR / Dharmamitra
+Edition / witness: Vinītā 2010, no. 11
+Tibetan: D 342
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Bhikṣuṇī Vinītā (Vinītā Tseng), ed., A Unique Collection of Twenty-Two Buddhist Sanskrit Sūtras from the Tibetan Autonomous Region, Sanskrit Texts from the Tibetan Autonomous Region (STTAR), vol. 8.1–8.2, Beijing: China Tibetology Publishing House / Vienna: Austrian Academy of Sciences Press, 2010, text no. 11.</note>
+          <idno type="dharmanexus">SA_K10_Āgama_Dīrghanakhaparipṛcchā_Vinītā_2010</idno>
+          <ref target="https://dharmamitra.org/db/sa/SA_K10_Āgama_Dīrghanakhaparipṛcchā_Vinītā_2010/text">https://dharmamitra.org/db/sa/SA_K10_Āgama_Dīrghanakhaparipṛcchā_Vinītā_2010/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-12">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_K10_Āgama_Dīrghanakhaparipṛcchā_Vinītā_2010:0"/>evaṃ mayā śrutam ekasmin samaye bhagavān rājagṛhe viharati sma veluvane kalandakanivāse |
+<lb n="SA_K10_Āgama_Dīrghanakhaparipṛcchā_Vinītā_2010:1"/>tena khalu punaḥ samayena dīrghanakhaparivrājako nāma brāhmaṇo yena bhagavāṃs tenopasaṃkrāntaḥ, upasaṃkramya bhagavataḥ purato daṇḍam avaṣṭabhya bhagavantam etad avocat |
+<lb n="SA_K10_Āgama_Dīrghanakhaparipṛcchā_Vinītā_2010:2"/>satyaṃ bho gautama evaṃ vadasi karmasvako lokaḥ karmadāyādaḥ karmayoniḥ karmabandhuḥ karmapratisaraṇa iti |
+<lb n="SA_K10_Āgama_Dīrghanakhaparipṛcchā_Vinītā_2010:3"/>bhagavān āha | evam eva mahābrāhmaṇa | evaṃ vadāmi karmasvako lokaḥ karmadāyādaḥ karmayoniḥ karmabandhuḥ karmapratiśaraṇa iti |
+<lb n="SA_K10_Āgama_Dīrghanakhaparipṛcchā_Vinītā_2010:4"/>brāhmaṇa āha | yad vadasi, kiṃ śramaṇena gautamena pūrvakarma kṛtopacitaṃ yena śramaṇo gautamo vajrakāyaśarīrasamanvāgataḥ |
+<lb n="SA_K10_Āgama_Dīrghanakhaparipṛcchā_Vinītā_2010:5"/>bhagavān āha | ahaṃ mahābrāhmaṇa pūrvajanmopapattau prāṇātipātaṃ prahāya prāṇātipātāt prativirataḥ | tasya karmaṇa etat phalam |
+<lb n="SA_K10_Āgama_Dīrghanakhaparipṛcchā_Vinītā_2010:6"/>brāhmaṇa āha | kiṃ śramaṇena gautamena pūrvakarma kṛtopacitaṃ yena śramaṇo gautamo dīrghāṅgulijālāvanaddhahastaḥ |
+<lb n="SA_K10_Āgama_Dīrghanakhaparipṛcchā_Vinītā_2010:7"/>bhagavān āha | ahaṃ mahābrāhmaṇa pūrvajanmopapattāv adattādānaṃ prahāyādattādānāt prativirataḥ | tasya karmaṇa etat phalam |
+<lb n="SA_K10_Āgama_Dīrghanakhaparipṛcchā_Vinītā_2010:8"/>brāhmaṇa āha | kiṃ śramaṇena gautamena pūrvakarma kṛtopacitaṃ yena śramaṇo gautamaḥ paripūrṇendriyaḥ paripūrṇagātraḥ |
+<lb n="SA_K10_Āgama_Dīrghanakhaparipṛcchā_Vinītā_2010:9"/>bhagavān āha | ahaṃ mahābrāhmaṇa pūrvajanmopapattau kāmamithyācāraṃ prahāya kāmamithyācārāt prativirataḥ | tasya karmaṇa etat phalam |
+<lb n="SA_K10_Āgama_Dīrghanakhaparipṛcchā_Vinītā_2010:10"/>brāhmaṇa āha | kiṃ śramaṇena gautamena pūrvakarma kṛtopacitaṃ yena śramaṇo gautamas trīṇy āsanāny upabhuṅkte &#x27;śeṣāsanāni pravarāsanāny uttamāsanāni |
+<lb n="SA_K10_Āgama_Dīrghanakhaparipṛcchā_Vinītā_2010:11"/>bhagavān āha | ahaṃ mahābrāhmaṇa pūrvajanmopapattāv uccaśayanamahāśayanaṃ prahāyoccaśayanamahāśayanāt prativirataḥ | tasya karmaṇa etat phalam |
+<lb n="SA_K10_Āgama_Dīrghanakhaparipṛcchā_Vinītā_2010:12"/>brāhmaṇa āha | kiṃ śramaṇena gautamena pūrvakarma kṛtopacitaṃ yena śramaṇo gautamo jihvayā sarvamukhamaṇḍalam ācchādayati yāvat keśaparyantam |
+<lb n="SA_K10_Āgama_Dīrghanakhaparipṛcchā_Vinītā_2010:13"/>bhagavān āha | ahaṃ mahābrāhmaṇa pūrvajanmopapattau mṛṣāvādaṃ prahāya mṛṣāvādāt prativirataḥ | tasya karmaṇa etat phalam |
+<lb n="SA_K10_Āgama_Dīrghanakhaparipṛcchā_Vinītā_2010:14"/>brāhmaṇa āha | kiṃ śramaṇena gautamena pūrvakarma kṛtopacitaṃ yena śramaṇo gautamaḥ siṃhavikrāntagāmī |
+<lb n="SA_K10_Āgama_Dīrghanakhaparipṛcchā_Vinītā_2010:15"/>bhagavān āha | ahaṃ mahābrāhmaṇa pūrvajanmopapattau surāmaireyamadyapramādasthānāt prativirataḥ | tasya karmaṇa etat phalam |
+<lb n="SA_K10_Āgama_Dīrghanakhaparipṛcchā_Vinītā_2010:16"/>brāhmaṇa āha | kiṃ śramaṇena gautamena pūrvakarma kṛtopacitaṃ yena śramaṇo gautamo dvātriṃśanmahāpuruṣalakṣaṇālaṃkṛtagātraḥ |
+<lb n="SA_K10_Āgama_Dīrghanakhaparipṛcchā_Vinītā_2010:17"/>bhagavān āha | ahaṃ mahābrāhmaṇa pūrvajanmopapattau nṛtyagītavāditralalitāt prativirataḥ | tasya karmaṇa etat phalam |
+<lb n="SA_K10_Āgama_Dīrghanakhaparipṛcchā_Vinītā_2010:18"/>brāhmaṇa āha | kiṃ śramaṇena gautamena pūrvakarma kṛtopacitaṃ yena śramaṇo gautamaḥ śīlagandhānuliptagātraḥ |
+<lb n="SA_K10_Āgama_Dīrghanakhaparipṛcchā_Vinītā_2010:19"/>bhagavān āha | ahaṃ mahābrāhmaṇa pūrvajanmopapattau gandhamālyavilepanavarṇakadhāraṇabhūṣaṇaṃ prahāya gandhamālyavilepanavarṇakadhāraṇabhūṣaṇāt prativirataḥ | tasya karmaṇa etat phalam |
+<lb n="SA_K10_Āgama_Dīrghanakhaparipṛcchā_Vinītā_2010:20"/>brāhmaṇa āha | kiṃ śramaṇena gautamena pūrvakarma kṛtopacitaṃ yena śramaṇo gautamaś catvāriṃśaddantasamanvāgataḥ suśukladantaḥ suśobhanadantaḥ sudīptadantaḥ | bhagavān āha | ahaṃ mahābrāhmaṇa pūrvajanmopapattau vikālabhojanaṃ prahāya vikālabhojanāt prativirataḥ | tasya karmaṇa etat phalam |
+<lb n="SA_K10_Āgama_Dīrghanakhaparipṛcchā_Vinītā_2010:21"/>kiṃ śramaṇena gautamena pūrvakarma kṛtopacitaṃ yena śramaṇo gautama uṣṇīṣonnataśirāḥ |
+<lb n="SA_K10_Āgama_Dīrghanakhaparipṛcchā_Vinītā_2010:22"/>bhagavān āha | ahaṃ mahābrāhmaṇa pūrvajanmopapattau buddhadharmasaṅghagurudakṣiṇīyācāryamātṛpitṛbhyaḥ pañcāṅgaṃ bhūmau nikṣipya namaskṛtavān | tasya karmaṇa etat phalam |
+<lb n="SA_K10_Āgama_Dīrghanakhaparipṛcchā_Vinītā_2010:23"/>atha khalu dīrghanakhaparivrājako daṇḍakamaṇḍalu bhūmau nikṣipya bhagavantam etad avocat | eṣo &#x27;haṃ bhadantaṃ śaraṇaṃ gacchāmi dharmaṃ bhikṣusaṃghaṃ ca | aham api bhagavann imāṃ velām upādāya yāvajjīvam āryāṣṭāṅgikapoṣadham upavasāmi | sarvaprāṇivadhāt parasvaharaṇād abrahmacaryāt tathā vāgbhedād anṛtān madopajananāt pānād vikālāśanāt |
+<lb n="SA_K10_Āgama_Dīrghanakhaparipṛcchā_Vinītā_2010:24"/>mālāvarṇakanṛtyagītalalitāc chayyāsanād ucchritād adyāhaṃ virataḥ karomy arhatāṃ vṛttaṃ guṇair aṣṭabhiḥ ||
+<lb n="SA_K10_Āgama_Dīrghanakhaparipṛcchā_Vinītā_2010:25"/>bhagavān āha | sādhu sādhu mahābrāhmaṇa etad eva karaṇīyam |
+<lb n="SA_K10_Āgama_Dīrghanakhaparipṛcchā_Vinītā_2010:26"/>atha khalu dīrghanakhaparivrājako mahābrāhmaṇaḥ sā ca sarvāvatī parṣat sadevamānuṣāsuragandharvaś ca loko bhagavato bhāṣitam abhyanandann iti |
+<lb n="SA_K10_Āgama_Dīrghanakhaparipṛcchā_Vinītā_2010:27"/>dīrghanakhaparipṛcchāsūtram ekādaśamaṃ samāptam |
+    </body>
+  </text>
+</TEI>

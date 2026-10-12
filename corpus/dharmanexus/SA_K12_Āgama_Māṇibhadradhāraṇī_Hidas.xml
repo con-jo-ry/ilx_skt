@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Māṇibhadradhāraṇī</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Collection / category: BuddhistScriptures / K12 (Tantra/dhāraṇī)
+Source: Critical edition by Gergely Hidas
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Gergely Hidas, Powers of Protection: The Buddhist Tradition of Spells in the Dhāraṇīsaṃgraha Collections (Beyond Boundaries, 9; Berlin/Boston: De Gruyter, 2021), p. 146 (text no. 73, based on Cambridge University Library Ms. Add. 1326).</note>
+          <idno type="dharmanexus">SA_K12_Āgama_Māṇibhadradhāraṇī_Hidas</idno>
+          <ref target="https://dharmamitra.org/db/sa/SA_K12_Āgama_Māṇibhadradhāraṇī_Hidas/text">https://dharmamitra.org/db/sa/SA_K12_Āgama_Māṇibhadradhāraṇī_Hidas/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-12">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_K12_Āgama_Māṇibhadradhāraṇī_Hidas:0"/>Title: Māṇibhadradhāraṇī
+<lb n="SA_K12_Āgama_Māṇibhadradhāraṇī_Hidas:1"/>Source: slightly updated from Hidas&#x27; 2021 edition (no. 73 in Cambridge University Library Ms. Add. 1326, p. 146)
+<lb n="SA_K12_Āgama_Māṇibhadradhāraṇī_Hidas:2"/>Tibetan: D 764 [=970]
+<lb n="SA_K12_Āgama_Māṇibhadradhāraṇī_Hidas:3"/>oṃ namo māṇibhadrāya | evaṃ mayā śrutam ekasmin samaye bhagavāñ śrāvastyāṃ viharati sma jetavane ’nāthapiṇḍadasyārāme | atha khalu māṇibhadro mahāyakṣasenāpatir yena bhagavāṃs tenopasaṃkrāntaḥ | upasaṃkramya bhagavataḥ pādau śirasā vanditvaikānte ’sthāt | ekānte sthito māṇibhadro mahāyakṣasenāpatir bhagavantam etad avocat | idaṃ bhadanta mama hṛdayaṃ yaḥ kaścid bhikṣur vā bhikṣuṇī vopāsako vopāsikā vā triṣkṛtvā divase vācayiṣyati tasyāhaṃ satatānubaddho bhaviṣyāmi | sarvakāryāṇi kariṣyāmi | bhojanavastrahiraṇyasuvarṇadhanadhānyarūpyaṃ ca dāsyāmi | sarvārthaṃ cāsya kārayiṣyāmi | sarvasattvānāṃ ca mānasīkariṣyāmi | sarvacittaṃ cāsya kariṣyāmi sthāpayitvā maithunopasaṃhitaṃ sāvadyam | namo ratnatrayāya | namo māṇibhadrāya mahāyakṣasenāpataye | hili māṇibhadra hili 2 māṇibhadra | cili māṇibhadra cili 2 māṇibhadra | culu māṇibhadra culu 2 māṇibhadra | turu māṇibhadra turu 2 māṇibhadra | kuru māṇibhadra kuru 2 māṇibhadra | suru māṇibhadra suru 2 māṇibhadra | sarvārthaṃ me sādhaya svāhā | tadyathā | pūtane supūtane surūpe susumate surate supuṣye hilike hili kāli pūrṇe siddhe bhadre hili 2 svāhā | ehi koniṣke ehi soniṣke ehi goniṣke svāhā | sapta vārān parijapya siddhir bhavati | asyopacāraḥ | śuklapañcadaśyāṃ triṣkālaṃ śucinā gugguludhūpaṃ dahamānenāṣṭasahasraṃ japet | suvarṇaghaṭo labhate || || āryamāṇibhadranāmadhāraṇī samāptā || ||
+    </body>
+  </text>
+</TEI>

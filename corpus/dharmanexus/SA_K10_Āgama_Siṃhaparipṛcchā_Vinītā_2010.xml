@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Siṃhaparipṛcchā</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Collection / category: BuddhistScriptures / K10
+Source: OCR / Dharmamitra
+Edition / witness: Vinītā 2010, no. 14
+Tibetan: D 81
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Bhikṣuṇī Vinītā (Vinītā Tseng) (ed.), A Unique Collection of Twenty-Two Sūtras in a Sanskrit Manuscript from the Potala, 2 vols., Beijing: China Tibetology Publishing House / Vienna: Austrian Academy of Sciences Press, 2010 (Sanskrit Texts from the Tibetan Autonomous Region, 7), vol. 2, pp. 493–513 (no. 14).</note>
+          <idno type="dharmanexus">SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010</idno>
+          <ref target="https://dharmamitra.org/db/sa/SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010/text">https://dharmamitra.org/db/sa/SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-12">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:0"/>evaṃ mayā śrutam ekasmin samaye bhagavān rājagṛhāt samuddhitaḥ |
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:1"/>vyavahared gṛdhrakūṭe jino hy apratipudgalaḥ || [1]
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:2"/>ajātaśatroḥ putro &#x27;bhūt siṃho nāmnātha viśrutaḥ |
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:3"/>śreṣṭhiputraśataiḥ so &#x27;tha pañcabhiḥ saṃpuraskṛtaḥ || [2]
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:4"/>rājagṛhād . niḥkramya mahatyā rājasampadā |
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:5"/>sauvarṇaṃ chattram ādāya buddhasyāntikam āyayau || [3]
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:6"/>. chattrāṇi dadus te maharṣiyataye . |
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:7"/>pādau śīrṣeṇa vanditvā sarva bodhau pratiṣṭhitāḥ || [4]
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:8"/>paryapṛcchata taṃ siṃhaḥ kṛtāñjalipuṭo munim |
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:9"/>yā caryā bodhisattvānāṃ tāṃ pṛṣṭām abhidhatsva me || [5]
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:10"/>bhavet prāsādikaḥ kena syāc ca kenopapādukaḥ |
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:11"/>jātismaro bhavet kena mām ācakṣva mahāmune || [6]
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:12"/>teṣām adhyāśayaṃ jñātvā buddho jñānena cābravīt |
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:13"/>yā caryā bodhisattvānāṃ tāṃ pṛṣṭāṃ kathayāmi te || [7]
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:14"/>bhavet prāsādikaḥ kṣāntyā brahmacaryopapādukaḥ |
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:15"/>jātismaro dharmadānāj jānīṣvaivaṃ kumāraka || [8]
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:16"/>dvātriṃśallakṣaṇānīha tathānuvyañjanāni ca |
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:17"/>āṅgīrasena kāyena kathaṃ sattvān sa toṣayet || [9]
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:18"/>lakṣaṇāny akhilair dānair maitryānuvyañjanāni ca |
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:19"/>sarvasattvasamatvena bhaved āṅgīraso jinaḥ || [10]
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:20"/>dhāraṇī labhyate kena samādhiḥ kena jñāyate |
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:21"/>ādeyavākyaś ca kathaṃ taṃ brūhi me mahāmune || [11]
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:22"/>dharmakṣāntyāṃ dhāraṇī hi samādhir dhyānacintayā |
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:23"/>% dharmakṣāntyā, surely
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:24"/>sattvapralāpasambarhād bhavaty ādeyavākyatā || [12]
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:25"/>smṛtimāñ jāyate kena matimāṃś ca kathaṃ bhavet |
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:26"/>gatimān buddhimāṃś caiva bhavet kena mahāmune || [13]
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:27"/>aśaṭhaḥ smṛtim āpnoti matimān arthacintakaḥ |
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:28"/>sagauravas tu gatimān paṇḍito dharmarakṣayā || [14]
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:29"/>saṃmukho lokanāthānāṃ karmaṇā kena jāyate |
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:30"/>praśnārthān pṛcchate tāṃ . bodhisattvo viśāradaḥ || [15]
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:31"/>na jātu dharmadānasya karoty āvaraṇaṃ yataḥ |
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:32"/>tenāsau labhate kṣipraṃ lokanāthaiḥ samāgamam || [16]
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:33"/>varjayaty akṣaṇaṃ kena kena gacchati sadgatim |
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:34"/>kenāpramatto bhavati yatra yatropapadyate || [17]
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:35"/>śrāddho &#x27;kṣaṇaṃ varjayati sadgatiṃ yāti śīlavān |
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:36"/>śūnyatāṃ bhāvayen nityam apramatto vidhīyate || [18]
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:37"/>karmaśuddhir bhavet kena mārapāśair na badhyate |
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:38"/>dharmavyasananirmukto bodhisattvaḥ kathaṃ bhavet || [19]
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:39"/>adhimokṣāt karmaśuddhir vīriyān māradharṣaṇam |
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:40"/>yathāvādi tathākārī dharmavyasanavarjakaḥ || [20]
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:41"/>brahmasvaro bhavet kena kalaviṅkarutasvaraḥ |
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:42"/>nānādhimuktikān sattvān kathaṃ toṣayate mune || [21]
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:43"/>brahmasvaraḥ satyavākyād apāruṣyeṇa sasvaraḥ |
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:44"/>nānādhimuktīṃs toṣeti saṃbhinnām api bhidyate || [22]
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:45"/>kathaṃ bhavati dīrghāyur alpābādhaḥ kathaṃ bhavet |
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:46"/>abhedyaparivāraś ca kathaṃ bhavati mahāmune || [23]
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:47"/>bhavaty ahiṃsro dīrghāyur alpābādho &#x27;vihiṃsayā |
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:48"/>abhedyaparivāraś ca bhinnānām apy abhedataḥ || [24]
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:49"/>arthāḥ kena samṛdhyanti kena bhogair na hīyate |
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:50"/>maheśākhyo bhavet kena yatra yatropapadyate || [25]
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:51"/>arthasiddhir alobhena bhogasiddhir amatsarāt |
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:52"/>anīrṣayā maheśatvaṃ nirmānāgragataḥ sadā || [26]
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:53"/>divyaṃ cakṣuḥ kathaṃ bhavati śrotraṃ divyaṃ tathaiva ca |
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:54"/>cittotpattiṃ ca sattvānāṃ jānīte kena nāyaka || [27]
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:55"/>dīpena labhate cakṣuḥ śrotraṃ vādyena śudhyati |
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:56"/>cittotpattijñatā jñānād evam eṣāṃ samudbhavaḥ || [28]
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:57"/>ṛddhiṃ ca labhate kena smaraṇaṃ pūrvajanmanām |
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:58"/>kṣīyante bodhisattvānāṃ cāsravāḥ kena nāyaka || [29]
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:59"/>ṛddhir yānapradānena smṛtyabhyāsād anusmṛtiḥ |
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:60"/>ubhāv antau varjayitvā saṃspṛśaty āsravakṣayam || [30]
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:61"/>saṃgrahaḥ sarvadharmāṇāṃ karmaṇā kena jāyate |
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:62"/>priyaś ca sarvasattvānāṃ kathaṃ bhavati nāyaka || [31]
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:63"/>sarvasattvapramokṣārthaṃ cittaṃ bodhāya nāmayet |
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:64"/>eṣa saṃgraho dharmāṇāṃ bhavate tena ca priyaḥ || [32]
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:65"/>śikṣitvā kīdṛśīṃ śikṣāṃ cittaṃ saṃbhāvya kīdṛśam |
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:66"/>sarvajño jāyate śāstā tādṛśo yādṛśo muniḥ || [33]
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:67"/>sarveṣv eva hi sattveṣu samacittaḥ sadā bhavet |
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:68"/>bhāvayitvā samaṃ cittaṃ bhavet sarvābhibhūr jinaḥ || [34]
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:69"/>kena jātiṣu sarvāsu bodhicittaṃ na riñcati |
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:70"/>svapnāntaragataś cāpi kiṃ punar yadi jāgrataḥ || [35]
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:71"/>yeṣu grāmeṣu deśeṣu nivāsanagareṣu vā |
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:72"/>samādāpayate bodhau tena cittaṃ na riñcati || [36]
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:73"/>mahābalo bhavet kena sadā sthāmnā samudgataḥ |
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:74"/>durdharṣo mārakoṭībhir yatra yatropapadyate || [37]
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:75"/>dattveha pañca sārāṇi bhītebhyo abhayaṃ tathā |
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:76"/>bhaven mahābalas tena sadā sthāmnā samudgataḥ |
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:77"/>durdharṣo mārakoṭībhir yatra yatropapadyate || [38]
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:78"/>kṣetrasya sampadā kena kena saṃghasya sampadā |
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:79"/>prabhāsampad bhavet kena yena bābhāsate diśaḥ || [39]
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:80"/>kṣetrasya sampat praṇidhānāt saṃgrahāt saṃghasampadā |
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:81"/>dattvā ratnavitānaṃ tu tena bābhāsate diśaḥ || [40]
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:82"/>śrutvaivaṃ bodhisattvānāṃ caryāvyākaraṇaṃ tathā |
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:83"/>saṃmukho lokanāthasya tuṣṭo &#x27;bhūt sa nṛpātmajaḥ || [41]
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:84"/>siṃhaḥ saha sahāyais taiḥ prāñjalir vākyam abravīt |
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:85"/>yā caryaiṣā vinirdiṣtāsyāṃ śikṣiṣyāmahe mune || [42]
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:86"/>smitaṃ prāviṣkarod buddho &#x27;nekakṣetrāvabhāsakam |
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:87"/>aprākṣīc cājito buddhaṃ smitaṃ kiṃ te vibho kṛtam || [43]
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:88"/>pṛṣṭaś caivaṃ samāno hi saṃbuddho &#x27;jitam abravīt |
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:89"/>mayājita nibodha tvaṃ yasyārthe &#x27;tra smitaṃ kṛtam || [44]
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:90"/>aśītikoṭyo buddhānāṃ niyutāni ca dvādaśa |
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:91"/>ebhiḥ samagrair bodhyarthaṃ sarve te pūjitāḥ purā || [45]
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:92"/>dīpaṃkaram upāharya maharṣiṃ dvipadottamam |
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:93"/>paripācitā mayā caite yadā siddhipradāyakāḥ || [46]
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:94"/>adhunānāgate &#x27;py ete ṣaṣṭikoṭī maharṣiṇām |
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:95"/>maitreyādīn samabhyarcya bhaviṣyanti vināyakāḥ || [47]
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:96"/>mahāprabhāsanāmnā vai bhāvī kalpaḥ suśobhanaḥ |
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:97"/>tatraikasminn amī kalpe bhāvino dvipadottamāḥ || [48]
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:98"/>jñānaketudhvajaś caiṣām ekaṃ nāma bhaviṣyati |
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:99"/>yo vyūhaś cāmitābhasya sa evaiṣāṃ bhaviṣyati || [49]
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:100"/>ye caiṣāṃ bodhisattvānāṃ nāmaṃ śroṣyanti kevalam |
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:101"/>na teṣāṃ saṃśayo bodher nāpi tadgatito bhayam || [50]
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:102"/>śrutvā vyākaraṇaṃ cedaṃ yo &#x27;dhimuktiṃ kariṣyati |
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:103"/>trailokye nāsti tat puṇyaṃ yat tasya sadṛśaṃ bhavet || [51]
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:104"/>buddhakṣetrasahasrāṇi kalpakoṭiśatāni yaḥ |
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:105"/>saṃpūrya ratnair buddhebhyo dadāti bodhilipsayā || [52]
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:106"/>yaś ca saṃśrutya saddharmaṃ śraddadhyād bodhikāraṇāt |
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:107"/>saṃkhyāṃ kalāṃ nopāyāti yat puṇyaṃ pūrvakīrtitam || [53]
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:108"/>puṣpāṇi vavṛṣur devās trisāhasraṃ ca kampitam |
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:109"/>koṭiyāśīti sattvānām agrabodhau pratasthire || [54]
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:110"/>labhitvā pañca so &#x27;bhijñāḥ siṃhaḥ śreṣṭhisutaiḥ saha |
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:111"/>buddhaṃ saṃpūjya saptāhaṃ pravrājitāḥ sarva eva te || [55]
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:112"/>samādhīn dhāraṇīś caiva sarve te lebhire kṣaṇāt |
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:113"/>sattvārthaṃ saṃpupūrṣanto buddhadharmanidarśanāt || [56]
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:114"/>idaṃ hy avocad bhagavāṃs tuṣṭaḥ siṃho nṛpātmajaḥ |
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:115"/>sarve sadevalokā hi abhyanandan muner vacaḥ || [57]
+<lb n="SA_K10_Āgama_Siṃhaparipṛcchā_Vinītā_2010:116"/>siṃhaparipṛcchāmahāyānasūtraṃ caturdaśamaṃ samāptam |
+    </body>
+  </text>
+</TEI>

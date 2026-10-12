@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Manasvināgarājasūtra (excerpts)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Collection / category: BuddhistScriptures / K12 (Tantra/dhāraṇī)
+Source: OCR / Dharmamitra
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Ingo Strauch, &#x27;The Writing of Buddhist Texts: An Early Mahāyāna Perspective&#x27; / study of the Bajaur Collection rakṣā texts (scroll BajC 3), 2014; digital excerpts compiled with analytical notes.</note>
+          <idno type="dharmanexus">SA_K12_Āgama_Manasvināgarājasūtra</idno>
+          <ref target="https://dharmamitra.org/db/sa/SA_K12_Āgama_Manasvināgarājasūtra/text">https://dharmamitra.org/db/sa/SA_K12_Āgama_Manasvināgarājasūtra/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-12">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_K12_Āgama_Manasvināgarājasūtra:0"/>Title: *Manasvināgarājasūtra
+<lb n="SA_K12_Āgama_Manasvināgarājasūtra:1"/>Published: Strauch 2014
+<lb n="SA_K12_Āgama_Manasvināgarājasūtra:2"/>Source: Bajaur ms.
+<lb n="SA_K12_Āgama_Manasvināgarājasūtra:3"/>This is the earliest hard evidence for any rakṣā text. The texts from the Bajaur Collection can be dated to the first two centuries of our era. The nāga-king Manasvin approaches the Buddha and hands him over a special mantra to be used in all kinds of calamities. Only five excerpts published in this article. Concludes that it is very close to the Mahāmāyūrī (for which a Gandhari origin is posited based on a linguistic argument).
+<lb n="SA_K12_Āgama_Manasvināgarājasūtra:4"/>Q1 (BajC 3, ll. 14-18)
+<lb n="SA_K12_Āgama_Manasvināgarājasūtra:5"/>ṇa teṇa manuśaṇa bhayidave [ṇa a](maṇuśaṇa ṇa vyaḍe)aṇa bhayidave ṇa drigheaṇa bhaidave ṇa jat[u]ṇa [bhayidav](e) [ṇa] + + + + + + ṇa yakṣaṇa bhayidave ṇa praduṭhacitaṇa bhayidave ṇa śa[str]eṣna [ka](le kaṭave) ṇa agiṇa dajidave ṇa udeami kale kaṭave ṇa viṣeṇa kale (kaṭave ...)
+<lb n="SA_K12_Āgama_Manasvināgarājasūtra:6"/>% i.e. no fear from the ~ten antarāyas: king, thieves, fire, water, humans, non-humans, wild beasts, snakes
+<lb n="SA_K12_Āgama_Manasvināgarājasūtra:7"/>Q2 (BajC 3, ll. 39-42)
+<lb n="SA_K12_Āgama_Manasvināgarājasūtra:8"/>aya khu maṇaspia vija pathaGadeṇa maṇaSikaṭave upaSa[Gadeṇa] (ma)[ṇa](si)kaṭave rañaGadeṇa maṇaSikaṭave rayaülamaKaGadeṇa maṇaSikaṭave + + + + + + midramaJaGadeṇa maṇaSikaṭave amidramaJaGadeṇa maṇaSikaṭave (śastrataragadeṇa) maṇaSikaṭave agiataraGadeṇa maṇaSikaṭave udeaataraga(deṇa maṇaSikaṭave) viṣapideṇa maṇaSikaṭave
+<lb n="SA_K12_Āgama_Manasvināgarājasūtra:9"/>% NB spell is called vidyā or vidyārāja, but also mantra (G. matra) later
+<lb n="SA_K12_Āgama_Manasvināgarājasūtra:10"/>Q3 (BajC 3, ll. 46-51)
+<lb n="SA_K12_Āgama_Manasvināgarājasūtra:11"/>ughiṇahi aṇade maṇaspia vijaraya payauṇehi aṇad(e) ma[ṇaspia vija]raya arañiaṇa bhikhuṇa hidae bheśadi suhae caduṇa pariṣaṇa bhikhuṇa bhikhuṇiṇa uaSeaṇa uaSiaṇa arthae bheśadi hidae suhae bheśadi [pha](ṣa)viharadae bheśadi eva bhate [bhaGava] [a]iṣpa aṇado ? ? + + ? [va ye] + + va aiṣpa aṇado maṇaspio ca ṇaGarayo sadevamaṇuṣaSaro ? + (bhagavado) bhaṣido abhiṇadi
+<lb n="SA_K12_Āgama_Manasvināgarājasūtra:12"/>% NB spell is fit for all four assemblies, especially forest monks
+<lb n="SA_K12_Āgama_Manasvināgarājasūtra:13"/>Q4 (BajC 3, ll. 34-38)
+<lb n="SA_K12_Āgama_Manasvināgarājasūtra:14"/>saṃyaSida paṃḍara karaḍa keyura [d]u[d]ura data davia bidumadi śirimadi teyavadi raSaGapa[di] (puruṣa k[a]ja[a]) vihatra taraGatriṭhi iṣimuha hili cili khili cili kha ? + + + + (vihala) raSagatriṭhi oruḍa uruḍa dadura daha utama suut[ta](ma) + + + utamatama
+<lb n="SA_K12_Āgama_Manasvināgarājasūtra:15"/>% NB mantra recited twice, once by the nāga, once by the Buddha
+<lb n="SA_K12_Āgama_Manasvināgarājasūtra:16"/>% names of mahāviṣas
+<lb n="SA_K12_Āgama_Manasvināgarājasūtra:17"/>Q5 (BajC 3, ll. 29-30)
+<lb n="SA_K12_Āgama_Manasvināgarājasūtra:18"/>evameva maṇaspia evameva maṇaspia (evameva ma)ṇaspi[a imeṣa] mahaviṣaṇa ṇamo jaṇea ṇa teṇa maṇuśaṇa bhayidave
+    </body>
+  </text>
+</TEI>

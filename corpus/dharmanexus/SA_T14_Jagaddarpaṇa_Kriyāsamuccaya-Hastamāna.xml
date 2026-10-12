@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kriyāsamuccaya (Vanayātrā and Hastamāna sections)</title>
+        <author>Jagaddarpaṇa</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Author: Jagaddarpaṇa
+Collection / category: BuddhistNon-Scriptures / T14
+Source: OCR / Dharmamitra
+Edition / witness: Kaiser Library no. 110 extra folio
+Tibetan: D 3305
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Diplomatic transcription of an unnumbered extra folio associated with Kathmandu, Kaiser Library, MS 110.</note>
+          <idno type="dharmanexus">SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Hastamāna</idno>
+          <ref target="https://dharmamitra.org/db/sa/SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Hastamāna/text">https://dharmamitra.org/db/sa/SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Hastamāna/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-12">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Hastamāna:0"/>[extra\recto]-nakulasaṃpradājavardhaṇī śastā ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Hastamāna:1"/>snātvāmbupañcagavyai[r] liptvā gandhādinā ca tā samābhyarcyaḥ |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Hastamāna:2"/>nipuṇasudhīrācāryo vṛkṣe &#x27;tra yathā tathā sarvam || [curl] ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Hastamāna:3"/>nagarapraveśasamaye vanato drumarājaśailakhaṇḍānām [|]
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Hastamāna:4"/>narapatipaurajaneṣu ca śubhavāratā[=°vārtāṃ] gocarīkuryāt ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Hastamāna:5"/>madanavalitalokair vāhayet puṣṭacittai[r]
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Hastamāna:6"/>gurur api jinamantrī tūryasaṃgītighoṣaiḥ |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Hastamāna:7"/>dadhijalaparipūrṇaṃ dvāri kumbhaṃ nidhāya
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Hastamāna:8"/>pramudamadakaṭākṣāsundarībhiḥ prapūjyaḥ ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Hastamāna:9"/>vasanakusumadāmauhāradīpyambuvarṣaiḥ {|}
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Hastamāna:10"/>paramamuditacittaiḥ svāmivargaiḥ praveśya |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Hastamāna:11"/>vipulasamasubhūmau piṣṭakāmbhojamadhye
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Hastamāna:12"/>gurukarajalasiktaṃ sthāpayet karmasiddhyai{ḥ} || [curl] ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Hastamāna:13"/>vanayātrādhikāraḥ saptamaḥ || 70 || [!]
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Hastamāna:14"/>% so it was copied over from a full version of the Karmādhikāravidhāna??
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Hastamāna:15"/>sthānādimānayuktaṃ lakṣaṇam atulaṃ śubhaṃ samādiṣṭam |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Hastamāna:16"/>nānāsvāgamakāṇḍe buddhaiḥ kāruṇyamānasair etat ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Hastamāna:17"/>saptaparamāṇuyogād aṇur ity a[ṇu]saptabhiś ca sūkṣmarajaḥ |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Hastamāna:18"/>saptarajobhiḥ atheṭakaraja ity abhidhīyate sadbhiḥ ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Hastamāna:19"/>saptaitaka(!)rajobhi[r] gauraja [extra\verso] iti saptabhiś ca yūkā syāt |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Hastamāna:20"/>yūkāsaptame yava iti saṃkhyānam āyāti ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Hastamāna:21"/>saptayavair aṅgulikā madhyāṣṭayavais tu sāṅgulī jyeṣṭhā |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Hastamāna:22"/>% papta° \ms
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Hastamāna:23"/>ṣaḍyavaguṇitāṅgulikā vikhyātā kanyasī bhadrāḥ ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Hastamāna:24"/>tābhir dvādaśabhir vārvistariti (!?) dviguṇitena hastaḥ syāt |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Hastamāna:25"/>kanyasamadhyamajyeṣṭhā trividhā hastās tu varṇabhedena ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Hastamāna:26"/>visamayavāṅgulihastāḥ kalyāṇāḥ sarvakāryakaradhoṇeṣu (?) |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Hastamāna:27"/>va[r]jyās te samāḥ śreyo&#x27;rthibhir atra kā[r]yeṣu ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Hastamāna:28"/>dhvajadhumasiṃhasvānaṃ vṛṣakharagajadhvāṅkalāmakācāṣṭau |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Hastamāna:29"/>ity ākrāntā nipuṇaiḥ saṃyojyāḥ sarvakāryeṣu ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Hastamāna:30"/>dhvajam iti yativiprāṇāṃ śātikathākṣā[r]thināṃ mahāśastaṃ
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Hastamāna:31"/>siṃhakṣatriyanṛpater bhūmījayavīryakāmānām ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Hastamāna:32"/>vṛṣabhaṃ śūdrajanānāṃ dhanadhānyasamṛddhipuṣṭikāmānā[m] |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Hastamāna:33"/>gajam iti va[=ca] vaiśyavaṇijāṃ paśuparijabhūtivaśyakānām || [curl] ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Hastamāna:34"/>hastamānasthāpanavidhiḥ || [curl] || [fleuron] ||
+    </body>
+  </text>
+</TEI>

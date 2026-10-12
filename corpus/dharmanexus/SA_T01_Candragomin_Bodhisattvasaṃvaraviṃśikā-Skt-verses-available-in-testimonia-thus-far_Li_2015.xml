@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Bodhisattvasaṃvaraviṃśikā (Sanskrit testimonia and Tibetan)</title>
+        <author>Candragomin</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Author: Candragomin
+Collection / category: BuddhistNon-Scriptures / T01
+Source: OCR / Dharmamitra
+Edition / witness: Kano, Li, Ye 2015
+Tibetan: D4081 (see ed. Fujita)
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Compiled from Kazuo Kano, Xuezhu Li, and Shaoyong Ye (2015) for the Sanskrit testimonia, and Takayuki Fujita&#x27;s edition of the Tibetan canonical version (Derge Tanjur D4081).</note>
+          <idno type="dharmanexus">SA_T01_Candragomin_Bodhisattvasaṃvaraviṃśikā-Skt-verses-available-in-testimonia-thus-far_Li_2015</idno>
+          <ref target="https://dharmamitra.org/db/sa/SA_T01_Candragomin_Bodhisattvasaṃvaraviṃśikā-Skt-verses-available-in-testimonia-thus-far_Li_2015/text">https://dharmamitra.org/db/sa/SA_T01_Candragomin_Bodhisattvasaṃvaraviṃśikā-Skt-verses-available-in-testimonia-thus-far_Li_2015/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-12">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_T01_Candragomin_Bodhisattvasaṃvaraviṃśikā-Skt-verses-available-in-testimonia-thus-far_Li_2015:0"/>praṇamya buddhān sasutān bhaktyā saṃpūjya śaktitaḥ |
+<lb n="SA_T01_Candragomin_Bodhisattvasaṃvaraviṃśikā-Skt-verses-available-in-testimonia-thus-far_Li_2015:1"/>yac chīlaṃ bodhisattvānāṃ sarvadikkālabhāvinām ||1||
+<lb n="SA_T01_Candragomin_Bodhisattvasaṃvaraviṃśikā-Skt-verses-available-in-testimonia-thus-far_Li_2015:2"/>nidhānaṃ sarvapuṇyānām āśayena pareṇa tat |
+<lb n="SA_T01_Candragomin_Bodhisattvasaṃvaraviṃśikā-Skt-verses-available-in-testimonia-thus-far_Li_2015:3"/>saṃvarasthāt samādeyaṃ vijñāt pratibalād guroḥ ||2||
+<lb n="SA_T01_Candragomin_Bodhisattvasaṃvaraviṃśikā-Skt-verses-available-in-testimonia-thus-far_Li_2015:4"/>tadā sadāpi sasutaiḥ samanvāhriyate jinaiḥ |
+<lb n="SA_T01_Candragomin_Bodhisattvasaṃvaraviṃśikā-Skt-verses-available-in-testimonia-thus-far_Li_2015:5"/>kalyāṇāyaiva kalyāṇair manobhiḥ priyaputravat ||3||
+<lb n="SA_T01_Candragomin_Bodhisattvasaṃvaraviṃśikā-Skt-verses-available-in-testimonia-thus-far_Li_2015:6"/>hitaṃ sukhañ ca kartavyaṃ duḥkham vā hitam eva yat |
+<lb n="SA_T01_Candragomin_Bodhisattvasaṃvaraviṃśikā-Skt-verses-available-in-testimonia-thus-far_Li_2015:7"/>sukham apy ahitaṃ naiva pareṣām ātmano &#x27;pi vā ||4||
+<lb n="SA_T01_Candragomin_Bodhisattvasaṃvaraviṃśikā-Skt-verses-available-in-testimonia-thus-far_Li_2015:8"/>āpattayaś catasro &#x27;sya pārājayikavan matāḥ |
+<lb n="SA_T01_Candragomin_Bodhisattvasaṃvaraviṃśikā-Skt-verses-available-in-testimonia-thus-far_Li_2015:9"/>tīvrakleśasamutthānād bhaidikāḥ saṃvarasya yāḥ ||5||
+<lb n="SA_T01_Candragomin_Bodhisattvasaṃvaraviṃśikā-Skt-verses-available-in-testimonia-thus-far_Li_2015:10"/>lābhasatkāragṛddhasya svotkarṣaparapaṃsane |
+<lb n="SA_T01_Candragomin_Bodhisattvasaṃvaraviṃśikā-Skt-verses-available-in-testimonia-thus-far_Li_2015:11"/>adānaṃ duḥkhyanāthebhyo mātsaryād dhanadharmayoḥ ||6||
+<lb n="SA_T01_Candragomin_Bodhisattvasaṃvaraviṃśikā-Skt-verses-available-in-testimonia-thus-far_Li_2015:12"/>parasya tāḍanaṃ krodhāt parato &#x27;nunayāgrahaḥ |
+<lb n="SA_T01_Candragomin_Bodhisattvasaṃvaraviṃśikā-Skt-verses-available-in-testimonia-thus-far_Li_2015:13"/>mahāyānapratikṣpepaḥ saddharmābhāsadīpanam ||7||
+<lb n="SA_T01_Candragomin_Bodhisattvasaṃvaraviṃśikā-Skt-verses-available-in-testimonia-thus-far_Li_2015:14"/>saṃvaraḥ punar ādeyo deśyā madhyāsravās triṣu |
+<lb n="SA_T01_Candragomin_Bodhisattvasaṃvaraviṃśikā-Skt-verses-available-in-testimonia-thus-far_Li_2015:15"/>ekasyāpi puraḥ śeṣāḥ kliṣṭākliṣṭāḥ svacittavat ||8||
+<lb n="SA_T01_Candragomin_Bodhisattvasaṃvaraviṃśikā-Skt-verses-available-in-testimonia-thus-far_Li_2015:16"/>tridhā ratnatraye &#x27;pūjā ... ...
+<lb n="SA_T01_Candragomin_Bodhisattvasaṃvaraviṃśikā-Skt-verses-available-in-testimonia-thus-far_Li_2015:17"/>... ... ... ||9||
+<lb n="SA_T01_Candragomin_Bodhisattvasaṃvaraviṃśikā-Skt-verses-available-in-testimonia-thus-far_Li_2015:18"/>dkon mchog gsum la gsum mi mchod ||
+<lb n="SA_T01_Candragomin_Bodhisattvasaṃvaraviṃśikā-Skt-verses-available-in-testimonia-thus-far_Li_2015:19"/>&#x27;dod pa&#x27;i sems kyi rjes su &#x27;jug |
+<lb n="SA_T01_Candragomin_Bodhisattvasaṃvaraviṃśikā-Skt-verses-available-in-testimonia-thus-far_Li_2015:20"/>rgan pa rnams la gus mi byed ||
+<lb n="SA_T01_Candragomin_Bodhisattvasaṃvaraviṃśikā-Skt-verses-available-in-testimonia-thus-far_Li_2015:21"/>dris pa la ni lan mi &#x27;debs ||9||
+<lb n="SA_T01_Candragomin_Bodhisattvasaṃvaraviṃśikā-Skt-verses-available-in-testimonia-thus-far_Li_2015:22"/>mgron por bdag gir mi byed cing ||
+<lb n="SA_T01_Candragomin_Bodhisattvasaṃvaraviṃśikā-Skt-verses-available-in-testimonia-thus-far_Li_2015:23"/>gser la sogs pa len mi byed ||
+<lb n="SA_T01_Candragomin_Bodhisattvasaṃvaraviṃśikā-Skt-verses-available-in-testimonia-thus-far_Li_2015:24"/>chos &#x27;dod pa la sbyin mi byed ||
+<lb n="SA_T01_Candragomin_Bodhisattvasaṃvaraviṃśikā-Skt-verses-available-in-testimonia-thus-far_Li_2015:25"/>tshul khrims &#x27;chal rnams yal bar &#x27;dor ||10||
+<lb n="SA_T01_Candragomin_Bodhisattvasaṃvaraviṃśikā-Skt-verses-available-in-testimonia-thus-far_Li_2015:26"/>... ... ... |
+<lb n="SA_T01_Candragomin_Bodhisattvasaṃvaraviṃśikā-Skt-verses-available-in-testimonia-thus-far_Li_2015:27"/>sadayasyāśubhaṃ nāsti ... ||11|
+<lb n="SA_T01_Candragomin_Bodhisattvasaṃvaraviṃśikā-Skt-verses-available-in-testimonia-thus-far_Li_2015:28"/>pha rol dad phyir slob mi byed ||
+<lb n="SA_T01_Candragomin_Bodhisattvasaṃvaraviṃśikā-Skt-verses-available-in-testimonia-thus-far_Li_2015:29"/>sems can don la bya ba chung ||
+<lb n="SA_T01_Candragomin_Bodhisattvasaṃvaraviṃśikā-Skt-verses-available-in-testimonia-thus-far_Li_2015:30"/>snying brtser bcas na mi dge med ||
+<lb n="SA_T01_Candragomin_Bodhisattvasaṃvaraviṃśikā-Skt-verses-available-in-testimonia-thus-far_Li_2015:31"/>&#x27;tsho ba log pa dang du len ||11||
+<lb n="SA_T01_Candragomin_Bodhisattvasaṃvaraviṃśikā-Skt-verses-available-in-testimonia-thus-far_Li_2015:32"/>&#x27;phyar nas rab tu rgod la sogs ||
+<lb n="SA_T01_Candragomin_Bodhisattvasaṃvaraviṃśikā-Skt-verses-available-in-testimonia-thus-far_Li_2015:33"/>&#x27;khor ba gcig (D167a) bu bgrod par sems ||
+<lb n="SA_T01_Candragomin_Bodhisattvasaṃvaraviṃśikā-Skt-verses-available-in-testimonia-thus-far_Li_2015:34"/>grags pa ma yin mi spong ba ||
+<lb n="SA_T01_Candragomin_Bodhisattvasaṃvaraviṃśikā-Skt-verses-available-in-testimonia-thus-far_Li_2015:35"/>nyon mongs bcas kyang chos mi byed ||12||
+<lb n="SA_T01_Candragomin_Bodhisattvasaṃvaraviṃśikā-Skt-verses-available-in-testimonia-thus-far_Li_2015:36"/>gshe la lan du gshe la sogs ||
+<lb n="SA_T01_Candragomin_Bodhisattvasaṃvaraviṃśikā-Skt-verses-available-in-testimonia-thus-far_Li_2015:37"/>khros ba rnams ni yal bar &#x27;jog |
+<lb n="SA_T01_Candragomin_Bodhisattvasaṃvaraviṃśikā-Skt-verses-available-in-testimonia-thus-far_Li_2015:38"/>pha rol shad kyis &#x27;chags pa spong ||
+<lb n="SA_T01_Candragomin_Bodhisattvasaṃvaraviṃśikā-Skt-verses-available-in-testimonia-thus-far_Li_2015:39"/>khro ba&#x27;i sems kyi rjes su &#x27;jug ||13||
+<lb n="SA_T01_Candragomin_Bodhisattvasaṃvaraviṃśikā-Skt-verses-available-in-testimonia-thus-far_Li_2015:40"/>(D167a2) bsnyen bkur &#x27;dod phyir &#x27;khor rnams sdud ||
+<lb n="SA_T01_Candragomin_Bodhisattvasaṃvaraviṃśikā-Skt-verses-available-in-testimonia-thus-far_Li_2015:41"/>le lo la sogs sel mi byed ||
+<lb n="SA_T01_Candragomin_Bodhisattvasaṃvaraviṃśikā-Skt-verses-available-in-testimonia-thus-far_Li_2015:42"/>chags pas bre mo&#x27;i gtam la brten ||
+<lb n="SA_T01_Candragomin_Bodhisattvasaṃvaraviṃśikā-Skt-verses-available-in-testimonia-thus-far_Li_2015:43"/>ting nge &#x27;dzin gyi don mi tshol ||14||
+<lb n="SA_T01_Candragomin_Bodhisattvasaṃvaraviṃśikā-Skt-verses-available-in-testimonia-thus-far_Li_2015:44"/>bsam gtan sgrib pa spong mi byed ||
+<lb n="SA_T01_Candragomin_Bodhisattvasaṃvaraviṃśikā-Skt-verses-available-in-testimonia-thus-far_Li_2015:45"/>bsam gtan ro la yon tan lta ||
+<lb n="SA_T01_Candragomin_Bodhisattvasaṃvaraviṃśikā-Skt-verses-available-in-testimonia-thus-far_Li_2015:46"/>nyan thos theg pa spong bar byed ||
+<lb n="SA_T01_Candragomin_Bodhisattvasaṃvaraviṃśikā-Skt-verses-available-in-testimonia-thus-far_Li_2015:47"/>rang tshul yod bzhin (D167a3) de la brtson ||15||
+<lb n="SA_T01_Candragomin_Bodhisattvasaṃvaraviṃśikā-Skt-verses-available-in-testimonia-thus-far_Li_2015:48"/>brtson min phyi rol bstan bcos brtson ||
+<lb n="SA_T01_Candragomin_Bodhisattvasaṃvaraviṃśikā-Skt-verses-available-in-testimonia-thus-far_Li_2015:49"/>brtson par byas kyang de la dga&#x27; ||
+<lb n="SA_T01_Candragomin_Bodhisattvasaṃvaraviṃśikā-Skt-verses-available-in-testimonia-thus-far_Li_2015:50"/>theg pa chen po spong bar byed ||
+<lb n="SA_T01_Candragomin_Bodhisattvasaṃvaraviṃśikā-Skt-verses-available-in-testimonia-thus-far_Li_2015:51"/>bdag la stod cing gzhan la smod ||16||
+<lb n="SA_T01_Candragomin_Bodhisattvasaṃvaraviṃśikā-Skt-verses-available-in-testimonia-thus-far_Li_2015:52"/>chos kyi don du &#x27;gro mi byed ||
+<lb n="SA_T01_Candragomin_Bodhisattvasaṃvaraviṃśikā-Skt-verses-available-in-testimonia-thus-far_Li_2015:53"/>de la smod cing yi ge brten ||
+<lb n="SA_T01_Candragomin_Bodhisattvasaṃvaraviṃśikā-Skt-verses-available-in-testimonia-thus-far_Li_2015:54"/>dgos pa&#x27;i grogs su &#x27;gro mi byed ||
+<lb n="SA_T01_Candragomin_Bodhisattvasaṃvaraviṃśikā-Skt-verses-available-in-testimonia-thus-far_Li_2015:55"/>nad pa&#x27;i (D167a4) rim gro bya ba spong ||17||
+<lb n="SA_T01_Candragomin_Bodhisattvasaṃvaraviṃśikā-Skt-verses-available-in-testimonia-thus-far_Li_2015:56"/>sdug bsngal sel bar mi byed pa ||
+<lb n="SA_T01_Candragomin_Bodhisattvasaṃvaraviṃśikā-Skt-verses-available-in-testimonia-thus-far_Li_2015:57"/>bag med rnams la rigs mi ston ||
+<lb n="SA_T01_Candragomin_Bodhisattvasaṃvaraviṃśikā-Skt-verses-available-in-testimonia-thus-far_Li_2015:58"/>byams la lan du phan mi &#x27;dogs ||
+<lb n="SA_T01_Candragomin_Bodhisattvasaṃvaraviṃśikā-Skt-verses-available-in-testimonia-thus-far_Li_2015:59"/>gzhan gyi mya ngan bsang mi byed ||18||
+<lb n="SA_T01_Candragomin_Bodhisattvasaṃvaraviṃśikā-Skt-verses-available-in-testimonia-thus-far_Li_2015:60"/>nor &#x27;dod pa la sbyin mi byed ||
+<lb n="SA_T01_Candragomin_Bodhisattvasaṃvaraviṃśikā-Skt-verses-available-in-testimonia-thus-far_Li_2015:61"/>&#x27;khor rnams kyi ni don mi byed ||
+<lb n="SA_T01_Candragomin_Bodhisattvasaṃvaraviṃśikā-Skt-verses-available-in-testimonia-thus-far_Li_2015:62"/>gzhan gyi blo dang mthun mi &#x27;jug ||
+<lb n="SA_T01_Candragomin_Bodhisattvasaṃvaraviṃśikā-Skt-verses-available-in-testimonia-thus-far_Li_2015:63"/>(D167a5) yon tan bsngags pa smra mi byed ||19||
+<lb n="SA_T01_Candragomin_Bodhisattvasaṃvaraviṃśikā-Skt-verses-available-in-testimonia-thus-far_Li_2015:64"/>... ... ... |
+<lb n="SA_T01_Candragomin_Bodhisattvasaṃvaraviṃśikā-Skt-verses-available-in-testimonia-thus-far_Li_2015:65"/>nāpattiḥ śubhacittasya snehāc caiva dayāvataḥ ||20||
+<lb n="SA_T01_Candragomin_Bodhisattvasaṃvaraviṃśikā-Skt-verses-available-in-testimonia-thus-far_Li_2015:66"/>rkyen du &#x27;tsham par tshar mi gcod ||
+<lb n="SA_T01_Candragomin_Bodhisattvasaṃvaraviṃśikā-Skt-verses-available-in-testimonia-thus-far_Li_2015:67"/>rdzu &#x27;phrul sdig la sogs pa mi byed ||
+<lb n="SA_T01_Candragomin_Bodhisattvasaṃvaraviṃśikā-Skt-verses-available-in-testimonia-thus-far_Li_2015:68"/>snying rjer ldan zhing byams phyir dang ||
+<lb n="SA_T01_Candragomin_Bodhisattvasaṃvaraviṃśikā-Skt-verses-available-in-testimonia-thus-far_Li_2015:69"/>sems dge ba la nyes pa med ||20||
+    </body>
+  </text>
+</TEI>

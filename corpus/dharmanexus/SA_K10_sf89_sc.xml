@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Śroṇasūtra (1)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Collection / category: BuddhistScriptures / K10 (Sūtra)
+Source: SuttaCentral
+Link: https://suttacentral.net/sf89/san/vallee
+Edition: H. Lüders, Bruchstücke buddhistischer Dramen (Kleinere Sanskrit-Texte 1). Berlin, 1911 (repr. Wiesbaden 1979).
+Archive scan: https://archive.org/details/bruchstckebudd00lduoft
+Tibetan translation: BOK10D0301 (https://dharmamitra.org/nexus/db/bo/BOK10D0301/text)
+Chinese translation: ZHT020099 (https://dharmamitra.org/nexus/db/zh/ZHT020099/text)
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Louis de La Vallée Poussin, &#x27;Documents sanscrits de la seconde collection M. A. Stein&#x27;, Journal of the Royal Asiatic Society of Great Britain and Ireland (1913), pp. 569–580 (text on pp. 570–574).</note>
+          <idno type="dharmanexus">SA_K10_sf89_sc</idno>
+          <ref target="https://dharmamitra.org/db/sa/SA_K10_sf89_sc/text">https://dharmamitra.org/db/sa/SA_K10_sf89_sc/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-12">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_K10_sf89_sc:0"/>Śroṇa (1st)
+<lb n="SA_K10_sf89_sc:1"/>śaripūtra idam avocat /
+<lb n="SA_K10_sf89_sc:2"/>ye ke cic chroṇa śramaṇā vā brāhamaṇā vā anityena rūpeṇādhruveṇānāśvāsikena vipariṇāmadharmaṇā
+<lb n="SA_K10_sf89_sc:3"/>śreyaṁsaḥ sma iti manyante sadṛśās sma iti manyante hīnāḥ sma iti manyante nānyatra
+<lb n="SA_K10_sf89_sc:4"/>te śroṇa śramaṇā vā brāhmaṇā vā evaṁ yathābhūtasyādarśanāt /
+<lb n="SA_K10_sf89_sc:5"/>ye ke cic chroṇa śramaṇā vā brāhmaṇā vā anityayā vedanayā saṁjñayā saṁskārair anityena
+<lb n="SA_K10_sf89_sc:6"/>vijñānenādhruveṇānāśvasikena vipariṇāmadharmaṇā vijñānena śreyāṁsaḥ sma iti manyante
+<lb n="SA_K10_sf89_sc:7"/>sadṛśāḥ sma iti manyante hīnāḥ sma iti manyante nānyatra te śroṇaśramaṇā vā brāhmaṇā
+<lb n="SA_K10_sf89_sc:8"/>vā evaṁ yathābhūtasyādarśanād /
+<lb n="SA_K10_sf89_sc:9"/>ye tu kecit śroṇa śramaṇā vā brāhmaṇā vā anityena rūpeṇādhruveṇānāśvāsikena vipariṇāmadharmaṇā
+<lb n="SA_K10_sf89_sc:10"/>rūpeṇa na śreyāmsaḥ sma iti manyante na sadṛśāḥ sma iti manyante na hīnāḥ sma iti
+<lb n="SA_K10_sf89_sc:11"/>manyante nānyatra te śroṇa śramaṇā vā brāhmaṇā vā anityayā vedanayā saṁjñayā saṁskārair
+<lb n="SA_K10_sf89_sc:12"/>anityena vijñānenādhruveṇānāśvāsikena vipariṇāmadharmaṇā vijñānena na śreyāṁsaḥ sma
+<lb n="SA_K10_sf89_sc:13"/>iti manyante na sadṛśaḥ sma iti manyante na hīnāḥ sma iti manyante nānyatra te śroṇa
+<lb n="SA_K10_sf89_sc:14"/>śramaṇā vā brāhmaṇā vā evaṁ yathābhūtasya darśanāt /
+<lb n="SA_K10_sf89_sc:15"/>tat kim manyase śroṇa rūpaṁ nityaṁ vā anityaṁ vā /
+<lb n="SA_K10_sf89_sc:16"/>anityam idaṁ bhoḥ śāriputra /
+<lb n="SA_K10_sf89_sc:17"/>yat punar anityaṁ duḥkhaṁ vā tan na vā duḥkhaṁ vipariṇāmadharma api nu tac chrutavān āryaśrāvaka ātmata upagacched / etan mama eṣo ’ham asmy
+<lb n="SA_K10_sf89_sc:18"/>eṣa me ātmeti /
+<lb n="SA_K10_sf89_sc:19"/>no bhoḥ śāriputra /
+<lb n="SA_K10_sf89_sc:20"/>kiṁ manyase śroṇa vedanā saṁjñā saṁskārā vijñānaṁ nityaṁ vā anityaṁ vā /
+<lb n="SA_K10_sf89_sc:21"/>anityam idaṁ bhoḥ śāriputra /
+<lb n="SA_K10_sf89_sc:22"/>yat punar anityaṁ duḥkhaṁ vipariṇāmadharma api nu tac chrutavān āryaśrāvaka ātmata upagacched / etan mama eṣo ’ham asmi eṣa me ātmeti /
+<lb n="SA_K10_sf89_sc:23"/>no bhadanta śāriputra /
+<lb n="SA_K10_sf89_sc:24"/>tasmāt tarhi śroṇa yat kiṁ cid rūpam atītānāgatapratyutpannam ādhyātmikaṁ vā bāhyaṁ
+<lb n="SA_K10_sf89_sc:25"/>vā audārikaṁ vā sūkṣmaṁ vā hīnaṁ vā praṇītaṁ vā yad vā dūre yad vā antike tat sarvaṁ /
+<lb n="SA_K10_sf89_sc:26"/>naitan mama naiṣo ’ham asmi naiṣa me ātmety evam etad yathābhūtaṁ samyakprajñayā draṣṭavyaṁ /
+<lb n="SA_K10_sf89_sc:27"/>tasmāt tarhi śroṇa yā kā cid vedanā saṁjñā saṁskārā yat kiṁ cid vijñānam atītānāgatapratyutpannam
+<lb n="SA_K10_sf89_sc:28"/>ādhyātmikaṁ vā bāhyaṁ vā audārikaṁ vā sūkṣmaṁ vā pūrvavad yāvat sa … vān āryaśrāvako
+<lb n="SA_K10_sf89_sc:29"/>rūpād api nirvidyate vedanāyāḥ saṁjñāyāḥ saṁskārebhyo vijñānād api nirvidyate nirviṇṇo
+<lb n="SA_K10_sf89_sc:30"/>virajyate virakto vimucyate vimuktasya vimuktam iti jñānaṁ bhavati kṣīṇā jātir uṣitaṁ
+<lb n="SA_K10_sf89_sc:31"/>brahmacaryaṁ kṛtaṁ karaṇīyaṁ nāparam asmād bhavaṁ prajānāmīty asmin khalu dharmaparyāye
+<lb n="SA_K10_sf89_sc:32"/>bhāṣyamāṇe śroṇasya gṛhapatiputrasya virajo vigatamalaṁ dharmeṣu dharmacakṣur utpannam /
+<lb n="SA_K10_sf89_sc:33"/>atha śroṇo gṛhapatiputro dṛṣṭadharmā prāptadharmā viditadharmā paryavagāḍhadharmā
+<lb n="SA_K10_sf89_sc:34"/>tīrṇṇa kāṁkṣas tīrṇavicikitso … ṣu vaiśāradyaprāpta utthāyāsanād ekāṁsam uttarāsaṅghaṁ
+<lb n="SA_K10_sf89_sc:35"/>kṛtvā yenāyusmāṁc chāriputras tenāñjaliṁ pranamayya āyusmantaṁ śāriputra idam avocat /
+<lb n="SA_K10_sf89_sc:36"/>abhikrānto ’haṁ bhadanta śāriputrābhikrāntaḥ yathāhaṁ bhagavantaṁ śaraṇaṁ gacchāmi
+<lb n="SA_K10_sf89_sc:37"/>dharmaṁ ca bhikṣusaṁghaṁ copāsakaṁ ca māṁ dhārayādyāgreṇa yāvaj jīv … śroṇo gṛhapatiputra
+<lb n="SA_K10_sf89_sc:38"/>āyuṣmanaḥ śāriputrasya bhāṣitam abhinandyānumodyāyuṣmanaḥ śāriputrasya pādau śirasā
+<lb n="SA_K10_sf89_sc:39"/>vanditvā āyuṣmanaḥ śāriputrasyāntikāt prakrāntaḥ //
+    </body>
+  </text>
+</TEI>

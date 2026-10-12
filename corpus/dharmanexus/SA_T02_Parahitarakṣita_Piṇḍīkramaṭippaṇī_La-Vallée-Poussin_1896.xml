@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Piṇḍīkramaṭippaṇī</title>
+        <author>Parahitarakṣita</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Author: Parahitarakṣita
+Collection / category: BuddhistNon-Scriptures / T02
+Source: OCR / Dharmamitra
+Edition / witness: La Valée Poussin in 1896 from Bibliothèque nationale Devanāgarī 82 (id. 81 is the Pañcakrama itself)
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Louis de La Vallée Poussin (ed.), Études et textes tantriques. I. Pañcakrama, Gand: H. Engelcke / Louvain: J.-B. Istas, 1896 (Recueil de travaux publiés par la Faculté de Philosophie et Lettres de l&#x27;Université de Gand, fasc. 16), pp. 15–17.</note>
+          <idno type="dharmanexus">SA_T02_Parahitarakṣita_Piṇḍīkramaṭippaṇī_La-Vallée-Poussin_1896</idno>
+          <ref target="https://dharmamitra.org/db/sa/SA_T02_Parahitarakṣita_Piṇḍīkramaṭippaṇī_La-Vallée-Poussin_1896/text">https://dharmamitra.org/db/sa/SA_T02_Parahitarakṣita_Piṇḍīkramaṭippaṇī_La-Vallée-Poussin_1896/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-12">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_T02_Parahitarakṣita_Piṇḍīkramaṭippaṇī_La-Vallée-Poussin_1896:0"/>% NB: ṭarkvi corrected to ṭakki throughout
+<lb n="SA_T02_Parahitarakṣita_Piṇḍīkramaṭippaṇī_La-Vallée-Poussin_1896:1"/>PiKraṬi: [p. 15] namo vajrasattvāya | āryanāgārjunapādakṛtapiṇḍīkramasya yathā bhāvanākramas tatheha sūcyate || prathamaṃ tāvad aṭavyādau manorame sthāne sukhāsanastho yogī | vikalpavāsanādoṣadūṣitān sarvasattvān samabhivīkṣya | taduddharaṇavāñchāsvabhāvāṃ mahākaruṇām āmukhīkṛtya |
+<lb n="SA_T02_Parahitarakṣita_Piṇḍīkramaṭippaṇī_La-Vallée-Poussin_1896:2"/>oṃ svabhāvaśuddhāḥ sarvadharmāḥ svabhāvaśuddho &#x27;ham ity uccārya śūnyatālambanena prākṛtāhaṃkāram apanīya | ātmānaṃ jhaṭiti vajrasattvarūpaṃ niṣpādya | vajradhṛg iti samuccārya | tenākṣobhyaṃ samutsṛjya | ātmani praveśya tryakṣareṇa kavacaṃ kṛtvā | anena krameṇa «dveṣavajrasamādhisthaḥ sthānarakṣāṃ samārabhed» (7cd) iti |
+<lb n="SA_T02_Parahitarakṣita_Piṇḍīkramaṭippaṇī_La-Vallée-Poussin_1896:3"/>tato akṣobhyahṛdbījād daśa krodhān saṃskārya [= saṃsphārya] | dvitīyaṃ śumbham ājñāpya mantreṇa | dvitīyamantreṇa punar ājñāṃ dattvā tenaiva ca mantreṇa sumbhena kīlayed vighnān | tataḥ kīlakād bahiḥ ṭakkir hūṃjaḥ | iti mantreṇa | loha [?] | jala | agni | vāyu | prākārāṃś cintayed ity āmnāyaḥ |
+<lb n="SA_T02_Parahitarakṣita_Piṇḍīkramaṭippaṇī_La-Vallée-Poussin_1896:4"/>tadanu bhrūṃkāram uccārya tatpariṇāmataś caityākāraṃ vajrapañjaraṃ dṛṣṭvā | tanmadhye svabhāvetyādinā gāthārthena śūnyatāṃ cintayed iti | tato mahākaruṇayā prabodhitaḥ san yaṃkārajaṃ vāyumaṇḍalaṃ dhanurākṛti | hūṃkāradvayena pārśvayor vajrāṅkitaṃ paśyet | evam agnivaruṇapṛthivīmaṇḍalāni | eṣāṃ pariṇāmena viśvavajramayabhūbhāgaṃ dṛṣṭvā |
+<lb n="SA_T02_Parahitarakṣita_Piṇḍīkramaṭippaṇī_La-Vallée-Poussin_1896:5"/>tadupari bhrūṃkārajaṃ kūṭāgāraṃ viśvapadmasthacandrārūḍhaṃ māṇḍaleyānāṃ cakrāsanādyanvitaṃ dhyātvā | madhye hūṃ oṃ āḥ || ity akṣaratrayeṇa sūryacandraviśvapadmakiñjalkacandre punas tryakṣaraṃ dṛṣṭvā etat sarvaṃ pariṇamya jhaṭiti dvātriṃśaddevatāparivṛtaṃ vajrasattvarūpam ātmānam abhinirmāya |
+<lb n="SA_T02_Parahitarakṣita_Piṇḍīkramaṭippaṇī_La-Vallée-Poussin_1896:6"/>tān māṇḍaleyān skandhādiṣu bhāvena skandhādiṣu līnān dṛṣṭvā paramārthamaṇḍale praveśayet | rūpaskandhetyādinā tad darśayati | ādarśasvabhāvo vairocanaḥ | bhūdhātur locanā | nayanendriyam iti kṣitigarbhaḥ | rūpaṃ ceti rūpavajrā | maitreyo &#x27;pi yamāntakācalābhyāṃ saha vajradhare &#x27;ntarbhavati | vedanāskandhasamatā ratnasaṃbhavaḥ | abdhātur māmakī |
+<lb n="SA_T02_Parahitarakṣita_Piṇḍīkramaṭippaṇī_La-Vallée-Poussin_1896:7"/>idānīṃ māmakī ratnakulī smṛtā | paścād akṣyobhyakulībhaviṣyati kuladvaye &#x27;py āvaraṇaṃ yatra | śravaṇendriyaṃ khagarbhaḥ | śabdavajrā ca | [p. 16] krodhadvayam iti prajñāntakaṭakkirājau | saṃjñā ca pratyavekṣaṇyam ity amitābhaḥ | hutabhuk pāṇḍaravāsinī | nāsikendriyaṃ lokeśaḥ | gandhavajrā ca | krodhadvayasamanvitam iti | padmāntakanīladaṇḍau |
+<lb n="SA_T02_Parahitarakṣita_Piṇḍīkramaṭippaṇī_La-Vallée-Poussin_1896:8"/>saṃskārāḥ kṛtyānuṣṭhānam amoghasiddhiḥ | māruta iti tārā | rasanendriyam iti sarvaṇīvaraṇaviṣkambhī | rasavajrā ca | krodhadvayasamanvitam iti | vighnāntakamahābalau | ūdhvādhaḥkrodhadvayasaṃyuktam iti | uṣṇīṣaśumbhau | jñānatrayasvabhāvamana-indriyasvabhāvo mañjughoṣaḥ | upalakṣaṇatvād vajrapāṇisamantabhadrāv api draṣṭavyau |
+<lb n="SA_T02_Parahitarakṣita_Piṇḍīkramaṭippaṇī_La-Vallée-Poussin_1896:9"/>tatra maitreyakṣitigarbhau vairocanakulinau bhavataḥ | ratnakulī khagarbhaḥ | amitābhakulī lokeśaḥ | amoghasiddhikulī sarvanivaraṇaviṣkambhī | śeṣās tu trayo &#x27;kṣobhyakulina ity evaṃ jñātavyam | tataḥ oṃ śūnyatājñānavajrasvabhāvātmako &#x27;ham ity uccārya vajrasattvam api darpaṇaśvāsakrameṇa prabhāsvare praveśayann anupalambham āviśati |
+<lb n="SA_T02_Parahitarakṣita_Piṇḍīkramaṭippaṇī_La-Vallée-Poussin_1896:10"/>tataḥ pūrvapraṇidhānākṣepād ṛgiti sūcitaṃ sūryamaṇḍalākāreṇa pariṇataṃ tadupari candraṃ padmaṃ tryakṣaraṃ ca | etat sarvaṃ pariṇamya candram | candrāt punas tryakṣarasaṃbhūtaṃ sitavajraṃ vajrān mahāvajradharam | akṣobhyānupraveśena nyāsaṃ vicintayed iti | tatra oṃ āḥ hūṃ svā hā kārān mastakādiṣu vinyasya |
+<lb n="SA_T02_Parahitarakṣita_Piṇḍīkramaṭippaṇī_La-Vallée-Poussin_1896:11"/>lāṃ māṃ yāṃ tāṃ brūṃ śaṃ gaṃ syaṃ pṛthivyādiṣu vinyasya | cakṣurādiṣu thīṃ oṃ oṃ oṃ hūṃ ūṃ maiṃ saṃ vinyasya | daśa hūṃkārān yamāntakādyān bhujādiṣu vinyasya | tatra dakṣiṇavāmabhujayor yamāntakāparājitau | mukhe hayagrīvam | guhye &#x27;mṛtakuṇḍalim | dakṣiṇavāmabāhvor acalaṭakkirājau | dakṣiṇavāmajānvor nīladaṇḍamahābalau |
+<lb n="SA_T02_Parahitarakṣita_Piṇḍīkramaṭippaṇī_La-Vallée-Poussin_1896:12"/>uṣṇīṣacakravartinaṃ mūrdhni | pādayoḥ sumbharājam | tadanu kāyavākcittādhiṣṭhānaṃ ca kṛtvā | samayasattvasya hṛdi jñānasattvaṃ dvibhujaṃ raktavarṇam | vajravajraghaṇṭādharam | samāpannam | tasya ca hṛdi samādhisattvasaṃjñakaṃ hūṃkāraṃ nyaset | tato bāhyāṅganāyā rajakakulātmikāyā jñānamudrāyā vā skandhādikaṃ saṃśodhya vajrapadmasaṃskāraṃ ca kṛtvā |
+<lb n="SA_T02_Parahitarakṣita_Piṇḍīkramaṭippaṇī_La-Vallée-Poussin_1896:13"/>tābhyāṃ samāpattiṃ kuryāt | tatra hūṃkāreṇa pañcasūcikaṃ vajram | madhyasūcau praṇavam | āḥkāreṇa dharmodayamadhya aṣṭadalapadmaṃ raktavarṇaṃ vicintayed iti | vajrapadmasaṃskāraḥ | cumbanāliṅganakrameṇa ratnasaṃbhavāhaṃkāreṇānurāgayet | bodhicittāvasthāyām [= bodhicittakṣarāvasthāyām?] amoghasiddher ahaṃkāraṃ kuryāt |
+<lb n="SA_T02_Parahitarakṣita_Piṇḍīkramaṭippaṇī_La-Vallée-Poussin_1896:14"/>tato bodhicittāt [...?] prajñāravinde jhaṭiti prajñābhavotpattikrameṇa [p. 17] maṇḍalacakram utsṛjed dvātriṃśaddevatātmakam | tadanu guhyamaṇḍalād bāhyotsargamaṇḍalaṃ vajradhṛg ityādimantreṇa pratyekaṃ saṃskārya [= saṃsphārya] sattvānāṃ dveṣādiviśuddhiṃ vidhāyālaṃkṛtya ca krameṇa yathoktamaṇḍalacakrākāreṇopaviṣṭaṃ cintayet |
+<lb n="SA_T02_Parahitarakṣita_Piṇḍīkramaṭippaṇī_La-Vallée-Poussin_1896:15"/>kiṃ tu madhye nāyakavajradharātmani dveṣavajraṃ praviṣṭaṃ cintayet | sparśavajrātmani sparśavajrāṃ praviṣṭāṃ cintayed iti | hūṃkārādibījākṣarasmaraṇena vā | tato jñānacakrapraveśābhiṣekānurāgaṇādikaṃ jhaṭiti cintayet |
+<lb n="SA_T02_Parahitarakṣita_Piṇḍīkramaṭippaṇī_La-Vallée-Poussin_1896:16"/>tato vajrajāpādikaṃ kṛtvā codanāstutyādipūrvakaṃ samādhisattvātmakaṃ hūṃkāroccāraṇena sattvān hūṃkāre praveśya māṇḍaleyān saṃharet | tatraiva | tanniṣpannaṃ viśvavajrasattvaṃ paśyaṃś ca vihared iti || samāptā piṇḍīkramaṭippaṇī
+    </body>
+  </text>
+</TEI>

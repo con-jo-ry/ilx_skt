@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Tathāgatamahākaruṇānirdeśa (fragment)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Collection / category: BuddhistScriptures / K10
+Source: OCR / Dharmamitra
+Tibetan: D 147/P 814
+Chinese: T398 (Dharmarakṣa), T397 (Dharmakṣema)
+Edition / witness: Ye, Shaoyong. 2021. A Preliminary Report on a Sanskrit Manuscript of the Tathāgatamahākaruṇānirdeśa or Dhāraṇīśvararāja. Journal of Indian and Buddhist Studies 69/3: (76)/1054–(81)/1059.
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Ye, Shaoyong. 2021. &#x27;A Preliminary Report on a Sanskrit Manuscript of the Tathāgatamahākaruṇānirdeśa or Dhāraṇīśvararāja.&#x27; Journal of Indian and Buddhist Studies (Indogaku Bukkyōgaku Kenkyū) 69 (3): (76)/1054–(81)/1059.</note>
+          <idno type="dharmanexus">SA_K10_Āgama_TathāgatamahākaruṇānirdeśaDhāraṇīśvararāja_Ye_2021</idno>
+          <ref target="https://dharmamitra.org/db/sa/SA_K10_Āgama_TathāgatamahākaruṇānirdeśaDhāraṇīśvararāja_Ye_2021/text">https://dharmamitra.org/db/sa/SA_K10_Āgama_TathāgatamahākaruṇānirdeśaDhāraṇīśvararāja_Ye_2021/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-12">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_K10_Āgama_TathāgatamahākaruṇānirdeśaDhāraṇīśvararāja_Ye_2021:0"/>oṃ namaḥ sarvabuddhabodhisattvebhyaḥ ||
+<lb n="SA_K10_Āgama_TathāgatamahākaruṇānirdeśaDhāraṇīśvararāja_Ye_2021:1"/>evaṃ mayā śrutam ekasmin samaye bhagavān rājagṛhe viharati sma | gṛddhrakūṭe parvate | pūrvajinādhyuṣite | mahācaitye | tathāgatādhiṣṭhānādhiṣṭhite dharaṇīmaṇḍe bodhisatvābhiṣṭute dharmāsane | devanāgayakṣagandharvanamaskṛte pṛthivīpradeśe | kuśalamūlasaṃcodane | tathāgataprabhave dharmamukhābhilapane | bodhisatvaprabhave |
+<lb n="SA_K10_Āgama_TathāgatamahākaruṇānirdeśaDhāraṇīśvararāja_Ye_2021:2"/>apramāṇaguṇasamudgate tathāgatagocare | bhagavān sarvadharmasamatābhisaṃbuddhaḥ supravartitadharmacakraḥ anantaśiṣyagaṇasuvinītaḥ sarvadharmavaśitāprāptaḥ sarvasattvāśayasuvidhijñaḥ indriyaparamapāramiprāptaḥ sarvasattvavāsanānusandhisamudghātanakuśalaḥ anābhogabuddhakāryāpratiprasrabdhaḥ mahatā bhikṣusaṅghena sārdham |
+<lb n="SA_K10_Āgama_TathāgatamahākaruṇānirdeśaDhāraṇīśvararāja_Ye_2021:3"/>ṣaṣṭābhikṣuśatasahasraiḥ sarvair ājāneyaiḥ saṃmyagājñāsuvimuktacittaiḥ sarvakleśavāsanānusandhisamudghātitaiḥ tathāgatadharmarājaputraiḥ gambhīradharmavihārakuśalaiḥ anupalambhadharmaniryātaiḥ prāsādikeryāpathasaṃpannaiḥ mahādakṣinīyabhūtaiḥ tathāgatājñāsupratipannaiḥ aprameyena ca bodhisattvasaṅghena sārdham asaṅgagocarasarvajñatāniryātair
+<lb n="SA_K10_Āgama_TathāgatamahākaruṇānirdeśaDhāraṇīśvararāja_Ye_2021:4"/>bodhisattvaiḥ mahāsattvaiḥ mahāmaitrīmahākaruṇādharmameghavipaśyanāvidyāvimuktividyotitaiḥ sudhājaladharābhipravarṣaṇasarvajagatsaṃtarpayitṛbhiḥ sarvasattvadharaṇisamacittaiḥ anunayapratighavigataiḥ vividhabodhipakṣyadharmaśasyasaṃpravardhayitṛbhiḥ
+<lb n="SA_K10_Āgama_TathāgatamahākaruṇānirdeśaDhāraṇīśvararāja_Ye_2021:5"/>sūryamaṇḍalātirekaprajñāraśmipramuktamohāndhakāravidhamanamārgālokaprāptasaṃdarśanasattvapadmavibodhanakuśalamūlaparipācanatṛṣṇāsalilocchoṣaṇajñānakarmāntaprasthāpanamahābhijñārāmapathacāribhiḥ candropamasarvajagatsamacittābhiśamanāśayasaṃtoṣaṇopāyakauśalyahānivṛddhisandarśakaiḥ
+<lb n="SA_K10_Āgama_TathāgatamahākaruṇānirdeśaDhāraṇīśvararāja_Ye_2021:6"/>sumerukalpādhyāśayasupratiṣṭhitacaturbrāhmavihāraratnacatuḥpārśvasarvaviṣayavātāprakampyalokadharmābhyudgatasarvabuddhakṣetrasaṃdarśanāvabhāsagataiḥ mahāsamudrakalpadhāraṇīsmṛtivipulabhājanadharmasalilaparipūrṇabodhisattvacaryāratnasarvajagadupajīvyaiḥ
+<lb n="SA_K10_Āgama_TathāgatamahākaruṇānirdeśaDhāraṇīśvararāja_Ye_2021:7"/>mṛgendravatsatyacaraṇapravṛddhamaitrīlāṅgūlaśamathavipaśyanālocanagambhīradharmānutrāsasarvaparapravādinirghātayatṛbhiḥ aparimitakalpaśatasahasrāparyantāpariniṣṭhitabodhisattvacaryāpratiprasrabdhasarvaguṇasamanvāgataiḥ |
+<lb n="SA_K10_Āgama_TathāgatamahākaruṇānirdeśaDhāraṇīśvararāja_Ye_2021:8"/>tadyathā samantāvabhāsānāvaraṇadarśinā ca nāma bodhisattvena mahāsattvena | sarvakṣetrālaṃkāravyūhasaṃdarśakena ca nāma bodhisattvena mahāsattvena | tathāgatagotrasambhavācāramatinā ca bodhisattvena mahāsattvena | sarveryāpathavinītāvikopanasaṃdarśakena ca nāma bodhisattvena mahāsattvena |
+<lb n="SA_K10_Āgama_TathāgatamahākaruṇānirdeśaDhāraṇīśvararāja_Ye_2021:9"/>anantapratibhānaketudhvajavikurvitaghoṣeṇa ca nāma bodhisattvena mahāsattvena | śubhakanakanicitaprabhātejoraśminā ca bodhisattvena mahāsattvena | prajñāviniścayapadapratibhānena ca nāma bodhisattvena mahāsattvena | aparimitapuṇyajñānasaṃbhāropastambhopacitena ca nāma bodhisattvena mahāsattvena |
+<lb n="SA_K10_Āgama_TathāgatamahākaruṇānirdeśaDhāraṇīśvararāja_Ye_2021:10"/>evaṃpramukhair aprameyair bodhisattvair mahāsattvaiḥ sārdham |
+<lb n="SA_K10_Āgama_TathāgatamahākaruṇānirdeśaDhāraṇīśvararāja_Ye_2021:11"/>tatra khalu bhagavān  bodhisattvacaryāprasthānaniryāṇānāvaraṇamukhaṃ nāma dharmaparyāyaṃ samprakāśayati sma |
+<lb n="SA_K10_Āgama_TathāgatamahākaruṇānirdeśaDhāraṇīśvararāja_Ye_2021:12"/>atha khalu bhagavataḥ ṣoḍaśavarṣābhisaṃbuddhasya brahmacaryavaistārikatāṃ viditvā taṃ ca mahāntaṃ bodhisattvasaṃnipātam viditvā tathāgatadharmagañjadharā bateme bodhisattvāḥ saṃnipatitāḥ iti viditvā etad abhavad yan nv ahaṃ bhūyasyā mātrayā bodhisattvānuparigrahāya |
+<lb n="SA_K10_Āgama_TathāgatamahākaruṇānirdeśaDhāraṇīśvararāja_Ye_2021:13"/>bodhisattvacaryāprasthānaniryāṇānāvaraṇamukhaṃ nāma dharmaparyāyaṃ saṃprakāśayeyaṃ mahatā tathāgatavikurvitena mahatā tathāgataprātihāryeṇa yaduta bodhisattvānāṃ mahāsattvānāṃ tathāgataviṣayāvatāraṇatām upādāyeti |
+<lb n="SA_K10_Āgama_TathāgatamahākaruṇānirdeśaDhāraṇīśvararāja_Ye_2021:14"/>atha khalu bhagavāṃs tasyāṃ velāyāṃ buddhaviṣayavikurvitayathāvatsandarśanaṃ (3r [missing]) nāma tathāgatasamādhiṃ samāpadyata |
+    </body>
+  </text>
+</TEI>

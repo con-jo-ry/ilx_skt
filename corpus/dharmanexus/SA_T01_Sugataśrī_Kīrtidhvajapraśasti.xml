@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kīrtidhvajapraśasti</title>
+        <author>Sugataśrī</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Author: Sugataśrī
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Unpublished diplomatic transcription based on the manuscript facsimile reproduced in Rāhula Sāṅkṛtyāyana, Dohā-kośa (Patna: Bihar Rashtrabhasha Parishad, 1957), plate 9.</note>
+          <idno type="dharmanexus">SA_T01_Sugataśrī_Kīrtidhvajapraśasti</idno>
+          <ref target="https://dharmamitra.org/db/sa/SA_T01_Sugataśrī_Kīrtidhvajapraśasti/text">https://dharmamitra.org/db/sa/SA_T01_Sugataśrī_Kīrtidhvajapraśasti/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-12">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_T01_Sugataśrī_Kīrtidhvajapraśasti:0"/>Title: Kīrtidhvajapraśasti (draft version?)
+<lb n="SA_T01_Sugataśrī_Kīrtidhvajapraśasti:1"/>Author: Sugataśrī
+<lb n="SA_T01_Sugataśrī_Kīrtidhvajapraśasti:2"/>Source: Sankrtyayan, Dohākoś, plate 9
+<lb n="SA_T01_Sugataśrī_Kīrtidhvajapraśasti:3"/>Tibetan: D 1171 (a tidied up version)
+<lb n="SA_T01_Sugataśrī_Kīrtidhvajapraśasti:4"/>Input: Péter-Dániel Szántó, some time ago
+<lb n="SA_T01_Sugataśrī_Kīrtidhvajapraśasti:5"/>yenāṣṭādaśaśāstradeśanatarair viśvaṃ samuttāritaṃ
+<lb n="SA_T01_Sugataśrī_Kīrtidhvajapraśasti:6"/>māyājālavimohitaṃ khalu bhavāmbodhau nimajjan muhuḥ |
+<lb n="SA_T01_Sugataśrī_Kīrtidhvajapraśasti:7"/>syāt pūjyo jagatāṃ sa durjayabahukleśādividhvaṃsanād
+<lb n="SA_T01_Sugataśrī_Kīrtidhvajapraśasti:8"/>ācāryaḥ priyavāg asaṃśayamatiḥ śrīkīrtidhvajaḥ kṛtī || 1
+<lb n="SA_T01_Sugataśrī_Kīrtidhvajapraśasti:9"/>yo &#x27;sau siddhair vyapagatamalaiḥ sevyate bhikṣusaṃghaiḥ
+<lb n="SA_T01_Sugataśrī_Kīrtidhvajapraśasti:10"/>tattvaṃ saṃjñātum (?) amalam abhrājā(?)prabhātulyamūrtiḥ |
+<lb n="SA_T01_Sugataśrī_Kīrtidhvajapraśasti:11"/>sarvajñatvādibhir iha guṇair bhūṣito vajradeho
+<lb n="SA_T01_Sugataśrī_Kīrtidhvajapraśasti:12"/>bhūyād ākhaṃ śamasukhamayo &#x27;śeṣasattvopakārī || 2
+<lb n="SA_T01_Sugataśrī_Kīrtidhvajapraśasti:13"/>yaḥ khyāto bhuvane sucaityavitatā ramyāticitrasthalī
+<lb n="SA_T01_Sugataśrī_Kīrtidhvajapraśasti:14"/>nānāratnamayī triratnavasatiḥ śrīmadvihārādibhiḥ |
+<lb n="SA_T01_Sugataśrī_Kīrtidhvajapraśasti:15"/>bhojyair maṇḍalavartanair gaṇamahācakrapradānair bhṛśaṃ
+<lb n="SA_T01_Sugataśrī_Kīrtidhvajapraśasti:16"/>dhyānākhyānagurūpadeśanasamādānaiḥ susattrair api || 3
+<lb n="SA_T01_Sugataśrī_Kīrtidhvajapraśasti:17"/>dīnānāthavipannabāndhavasuhṛnmitraiḥ kṛtārthīkṛtair
+<lb n="SA_T01_Sugataśrī_Kīrtidhvajapraśasti:18"/>nānādarśanasadvratiprabhṛtibhir yaiḥ kaiścid abhyāgataiḥ |
+<lb n="SA_T01_Sugataśrī_Kīrtidhvajapraśasti:19"/>tṛptir yasya na te .? saugatamate yāvat prabhedasthiti-
+<lb n="SA_T01_Sugataśrī_Kīrtidhvajapraśasti:20"/>dharmaṃ lekhayato guṇānukathanaṃ vaktuṃ na samartho &#x27;py aham (?) || 4
+<lb n="SA_T01_Sugataśrī_Kīrtidhvajapraśasti:21"/>jvālāmālikaliprabhāvavihato dharmaḥ svayaṃ tadbhayād
+<lb n="SA_T01_Sugataśrī_Kīrtidhvajapraśasti:22"/>āyātaḥ śaraṇaṃ samagraguṇitaḥ (?) kīrtiṃ samākarṇya te |
+<lb n="SA_T01_Sugataśrī_Kīrtidhvajapraśasti:23"/>taṃ jitvā &#x27;pratimallam apratibhayo digvyāpimaitrya[¯]divair (?)
+<lb n="SA_T01_Sugataśrī_Kīrtidhvajapraśasti:24"/>dharmaṃ yo yajati kva tena sadṛśaḥ ko vā &#x27;stu tasya stavaḥ || 5
+<lb n="SA_T01_Sugataśrī_Kīrtidhvajapraśasti:25"/>puṇyānaṅkaiḥ śaśikaranabhaḥspardhibhir vardhamānair
+<lb n="SA_T01_Sugataśrī_Kīrtidhvajapraśasti:26"/>lajjāṃ prāptaḥ kila jalatalaṃ veṣṭum icchec chaśāṅkaḥ |
+<lb n="SA_T01_Sugataśrī_Kīrtidhvajapraśasti:27"/>śrīmatsānvayākhya(?)sakalasattvāya (?) saukhyapravṛtter
+<lb n="SA_T01_Sugataśrī_Kīrtidhvajapraśasti:28"/>jāne te saugatamatasitā(?)khyānaratnāgrasindhoḥ || 6
+<lb n="SA_T01_Sugataśrī_Kīrtidhvajapraśasti:29"/>tvatsūnus tadaśeṣabodhananidhiḥ śrīmān sahānu CC . ī
+<lb n="SA_T01_Sugataśrī_Kīrtidhvajapraśasti:30"/>vyākhyātā &#x27;śrutaśāstra eva sukṛtī kartā prabandheṣv api |
+<lb n="SA_T01_Sugataśrī_Kīrtidhvajapraśasti:31"/>dṛpyadvajrakaṭhoramūrtivisarandā ? ? duḥkhānala-
+<lb n="SA_T01_Sugataśrī_Kīrtidhvajapraśasti:32"/>jvālājālakarālitākhilajanaḥ śrīgīḥsutoṣīkṛtaḥ || 7
+<lb n="SA_T01_Sugataśrī_Kīrtidhvajapraśasti:33"/>kiṃ cā . – bodhi bhave bhaved dhi
+<lb n="SA_T01_Sugataśrī_Kīrtidhvajapraśasti:34"/>susiddhavidyādharacakravartī |
+<lb n="SA_T01_Sugataśrī_Kīrtidhvajapraśasti:35"/>dayānidhiḥ sadga/u/ṇaratnakīrtiḥ
+<lb n="SA_T01_Sugataśrī_Kīrtidhvajapraśasti:36"/>praśastavistāritasādhuvṛttiḥ || 8
+<lb n="SA_T01_Sugataśrī_Kīrtidhvajapraśasti:37"/>stotrāsaṃkhyair bahuvidhabudhair varṇitas te svabhāvo
+<lb n="SA_T01_Sugataśrī_Kīrtidhvajapraśasti:38"/>yady apy āste katipayapadaiḥ stotum ājñām adān me |
+<lb n="SA_T01_Sugataśrī_Kīrtidhvajapraśasti:39"/>vidvān bhikṣur bahuyatiprabho buddhabodhiprabho &#x27;yaṃ
+<lb n="SA_T01_Sugataśrī_Kīrtidhvajapraśasti:40"/>tat kṣantavyaṃ svamatibalato vacmi kiṃcit suvijñāḥ || 9
+<lb n="SA_T01_Sugataśrī_Kīrtidhvajapraśasti:41"/>kīrtidhvajasya viduṣaḥ paramādbhutasya
+<lb n="SA_T01_Sugataśrī_Kīrtidhvajapraśasti:42"/>yasyālpapuṇyanaradurlabhadarśanasya |
+<lb n="SA_T01_Sugataśrī_Kīrtidhvajapraśasti:43"/>yat saṃstute[ḥ] sugataśrīkṛtino &#x27;tra puṇyaṃ
+<lb n="SA_T01_Sugataśrī_Kīrtidhvajapraśasti:44"/>syur (?) ?ī kṛ(?) tena santu/bhu(?)nā(?) gurubhaktiyuktāḥ || 10
+    </body>
+  </text>
+</TEI>

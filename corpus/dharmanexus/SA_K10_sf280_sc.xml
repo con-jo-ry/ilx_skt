@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Avasrutasūtra (fragment)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Collection / category: BuddhistScriptures / K10 (Sūtra)
+Source: SuttaCentral
+Link: https://suttacentral.net/sf280/san/waldschmidt
+Edition: H. Lueders, Bruchstuecke buddhistischer Dramen, Koeniglich Preussische Turfan-Expeditionen, Kleinere Sanskrit-Texte 1, Berlin 1911 (Sanskrithandschriften aus den Turfanfunden fragments)
+Chinese translation: ZHT020099 (https://dharmamitra.org/nexus/db/zh/ZHT020099/text)
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Ernst Waldschmidt, &#x27;Das Avasrutasūtra&#x27;, in: Asiatica: Festschrift Friedrich Weller zum 65. Geburtstag, Leipzig: Otto Harrassowitz, 1954, pp. 717–727 (reprinted in: Ernst Waldschmidt, Von Ceylon bis Turfan: Amtl. Schriften zur Geschichte, Kultur u. Kunst Zentral- u. Südasiens, Göttingen: Vandenhoeck &amp; Ruprecht, 1967, pp. 248–258).</note>
+          <idno type="dharmanexus">SA_K10_sf280_sc</idno>
+          <ref target="https://dharmamitra.org/db/sa/SA_K10_sf280_sc/text">https://dharmamitra.org/db/sa/SA_K10_sf280_sc/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-12">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_K10_sf280_sc:0"/>Avasrutasūtra
+<lb n="SA_K10_sf280_sc:1"/>Wal_1 dakṣiṇasyāḥ paścimasyāḥ uttarasyān diśaḥ tṛṇolkāṁ upasaṁhareta na labheta agnir avatāraṁ
+<lb n="SA_K10_sf280_sc:2"/>na labheta ālambanam / .. .. .. yāvaṁ manaso ’pi dharmeṣu māra upasaṁkrāmati avatāraprekṣī
+<lb n="SA_K10_sf280_sc:3"/>avarāragaveṣī na labhate māra avatāraṁ pūrvavat /
+<lb n="SA_K10_sf280_sc:4"/>Wal_2 evaṁ vihārī bhikṣu rūpam abhibhūr bhavati no tu rūpair abhibhūyate / ṣabdāṁ gandhāṁ
+<lb n="SA_K10_sf280_sc:5"/>rasāṁ spraṣṭavyāṁ dharmāṁ abhibhūr bhavati no tu dharmair abhibhūyate / rūpābhibhūḥ
+<lb n="SA_K10_sf280_sc:6"/>śabdābhibhūḥ gandhābhibhūḥ rasābhibhūḥ spraṣṭavyābhibhūḥ dharmābhibhūḥ / abhibhūr
+<lb n="SA_K10_sf280_sc:7"/>anabhibhūr bhavati pāpakair akuśalair dharmaiḥ sāṁkleśikaiḥ paunarbhavikaiḥ sajvarair
+<lb n="SA_K10_sf280_sc:8"/>duḥkhavipākyair āyatyām jātijarāmaraṇīyaiḥ /
+<lb n="SA_K10_sf280_sc:9"/>Wal_3 saṁmukhaṁ me āyuṣmantaḥ bhagavato ’ntikāc chrutaḥ saṁmukham udgṛhītaḥ yo ’yam avasrutānavasruto dharmaparyāyaḥ avasrutānavasrutaṁ vo dharmaparyāyaṁ
+<lb n="SA_K10_sf280_sc:10"/>deśayiṣye iti . .. .. ..
+<lb n="SA_K10_sf280_sc:11"/>Wal_4 atha bhagavāṁ āyusmato mahāmaudgalyāyanasya kathāparyavasānaṁ viditvā utthāya niṣīdati
+<lb n="SA_K10_sf280_sc:12"/>paryaṁkam ābhujya ṛjuṁ kāyaṁ praṇidhāya pratimukhaṁ smṛtim upasthāpya nivasya bhagavān
+<lb n="SA_K10_sf280_sc:13"/>āyuṣmantaṁ mahāmaudgalyāyanam āmantrayati / sādhu sādhu maudgalyāyana / sādhu khalu
+<lb n="SA_K10_sf280_sc:14"/>tvaṁ maudgalyāyana bhikṣūṇāṁ avasrutānavasrutaṁ dharmaparyāyaṁ deśayasi / punar api
+<lb n="SA_K10_sf280_sc:15"/>tvam abhīkṣṇam api bhikṣūṇām avasrutānavasrutaṁ dharmaparyāyaṁ deśaya / tad bhaviṣyati
+<lb n="SA_K10_sf280_sc:16"/>dīrgharātraṁ devamanuṣyāṇām arthāya hitāya sukhaya /
+<lb n="SA_K10_sf280_sc:17"/>Wal_5 tatra bhagavāṁ bhikṣūn āmaṁtrayati / udgṛhīdhvaṁ bhikṣavaḥ avasrutānavasrutaṁ dharmaparyāyaṁ
+<lb n="SA_K10_sf280_sc:18"/>dhārayata grāhayata vācayata avasrutānavasrutaṁ dharmaparyāyam / tat kasmād dhetoḥ /
+<lb n="SA_K10_sf280_sc:19"/>ayaṁ dharmaparyāyaḥ hitopasaṁhitaḥ arthopasaṁhitaḥ śīlopasaṁhitaḥ brahmacaryopsaṁhitaḥ
+<lb n="SA_K10_sf280_sc:20"/>abhijñāyai saṁbodhaye nirvāṇāya saṁvartate yāvac ca satpuruṣeṇa pravrajitena śraddhayā
+<lb n="SA_K10_sf280_sc:21"/>avasrutānavasruto dharmaparyāya udgṛhya paryavāpya tathā tathā dhārayitavyo grāhayitavyo vācayitavyaḥ /
+<lb n="SA_K10_sf280_sc:22"/>Wal_6 atha bhikṣavo bhagavato bhāṣitam abhinandyānumodya bhagavato ’ntikāt prakrāntāḥ /
+    </body>
+  </text>
+</TEI>

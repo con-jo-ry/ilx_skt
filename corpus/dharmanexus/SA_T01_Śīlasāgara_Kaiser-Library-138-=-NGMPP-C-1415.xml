@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Carpaṭistutiṭippaṇī</title>
+        <author>Śīlasāgara</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Author: Śīlasāgara
+Collection / category: BuddhistNon-Scriptures / T01
+Source: OCR / Dharmamitra
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Unpublished diplomatic manuscript transcription based on Kathmandu, Kaiser Library MS 138 (microfilmed as NGMPP reel C 14/15).</note>
+          <idno type="dharmanexus">SA_T01_Śīlasāgara_Kaiser-Library-138-=-NGMPP-C-1415</idno>
+          <ref target="https://dharmamitra.org/db/sa/SA_T01_Śīlasāgara_Kaiser-Library-138-=-NGMPP-C-1415/text">https://dharmamitra.org/db/sa/SA_T01_Śīlasāgara_Kaiser-Library-138-=-NGMPP-C-1415/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-12">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_T01_Śīlasāgara_Kaiser-Library-138-=-NGMPP-C-1415:0"/>Kaiser Library 138 = NGMPP C 14/15
+<lb n="SA_T01_Śīlasāgara_Kaiser-Library-138-=-NGMPP-C-1415:1"/>`Devamanuṣyamantra-Avalokiteśvarastotra-ṭīkā&#x27;
+<lb n="SA_T01_Śīlasāgara_Kaiser-Library-138-=-NGMPP-C-1415:2"/>% mentioned by Tucci in Animadversiones
+<lb n="SA_T01_Śīlasāgara_Kaiser-Library-138-=-NGMPP-C-1415:3"/>% text published by Minaev?; = Tib. Tōh. 2726
+<lb n="SA_T01_Śīlasāgara_Kaiser-Library-138-=-NGMPP-C-1415:4"/>% also see NGMPP A 1311-22(3) Carpaṭipādastotra
+<lb n="SA_T01_Śīlasāgara_Kaiser-Library-138-=-NGMPP-C-1415:5"/>% another work of this author A 936-11(8) Mantrasādhanāṅga
+<lb n="SA_T01_Śīlasāgara_Kaiser-Library-138-=-NGMPP-C-1415:6"/>[cover page:] devamanuṣyaṃ bhante avalokiteśvarasya stotra carapatipāda bhante levanāye kā stotra ko ṭikā
+<lb n="SA_T01_Śīlasāgara_Kaiser-Library-138-=-NGMPP-C-1415:7"/>[1v] # namo lok[e]śvarāya ||
+<lb n="SA_T01_Śīlasāgara_Kaiser-Library-138-=-NGMPP-C-1415:8"/>karuṇāśūnyatābhinnaṃ mūrtim advayam uttamam |
+<lb n="SA_T01_Śīlasāgara_Kaiser-Library-138-=-NGMPP-C-1415:9"/>trātāraṃ sarvalokānāṃ natvā lokeśvaraṃ gurum ||
+<lb n="SA_T01_Śīlasāgara_Kaiser-Library-138-=-NGMPP-C-1415:10"/>śrīmanmeghamahāpātrapreraṇād vihitā mayā |
+<lb n="SA_T01_Śīlasāgara_Kaiser-Library-138-=-NGMPP-C-1415:11"/>śrīśīlasāgareṇeyaṃ carpaṭistutiṭippaṇī ||
+<lb n="SA_T01_Śīlasāgara_Kaiser-Library-138-=-NGMPP-C-1415:12"/>% who is Meghamahāpātra? can&#x27;t identify!
+<lb n="SA_T01_Śīlasāgara_Kaiser-Library-138-=-NGMPP-C-1415:13"/>% NB: Śīlasāgara is known as Vanaratna&#x27;s teacher
+<lb n="SA_T01_Śīlasāgara_Kaiser-Library-138-=-NGMPP-C-1415:14"/>% neither of these names are mentioned by Tucci
+<lb n="SA_T01_Śīlasāgara_Kaiser-Library-138-=-NGMPP-C-1415:15"/>devetyādi | he deva manuṣyāsuranatacaraṇa he pratihatajanmajarārujamaraṇa he lokeśa aśaraṇyaṃ śaraṇahīnaṃ māṃ tvaṃ rakṣa pālaya + (pālayeti?) saṃbandhaḥ | he kṛpālo he dayālo tvaṃ kāruṇyaṃ karuṇābhāvaṃ kurv iti dvitīyaḥ saṃbandhaḥ |
+<lb n="SA_T01_Śīlasāgara_Kaiser-Library-138-=-NGMPP-C-1415:16"/>devāś ca manuṣyāś cāsurāś ca te devamanuṣyāsurās tair nataṃ caraṇaṃ yasya sa devamanuṣyāsuranatacaraṇas tasyāmantraṇaṃ he devamanuṣyāsuranatacaraṇa | etena devamanuṣyeṣu bha[2r]gavān śāsteti sūcitam | janma ca jarā ca rujaṃ maraṇaṃ ca taj janmajarārujamaraṇaṃ |
+<lb n="SA_T01_Śīlasāgara_Kaiser-Library-138-=-NGMPP-C-1415:17"/>pratihataṃ nirākṛtaṃ janmajarārujamaraṇaṃ yena sa pratihatajanmajarārujamaraṇas tasya saṃbodhanaṃ he pratihatajanmajarārujamaraṇa | anenāpi bhagavataḥ prahāṇasaṃpad udīritā | lokānām īśo lokeśas tasyābhimukhīkaraṇaṃ he lokeśa | anenāpi bhagavataḥ prāptisaṃpad udbhāvitā | rakṣety anena parārthasaṃpat kathitā |
+<lb n="SA_T01_Śīlasāgara_Kaiser-Library-138-=-NGMPP-C-1415:18"/>kāruṇyaṃ kurv ity anena karuṇāsaṃpat prakaṭitā || 1 ||
+<lb n="SA_T01_Śīlasāgara_Kaiser-Library-138-=-NGMPP-C-1415:19"/>saṃsāretyādi | he mahākṛpa he mahādayālo tvaṃ māṃ mā &#x27;vadhīrayeti saṃbandhaḥ | kathaṃbhūtaṃ saṃsārodadhimadhyanimagnam | punaḥ kathaṃbhūtam | kleśamahormisamāhitabhagnam | punaḥ [2v] kathaṃbhūtam | viruvantam | he mahākṛpa tvaṃ māṃ pāhi iti dvitīyaḥ saṃbandhaḥ | ahaṃ bhavantaṃ naumi | iti tṛtīyaḥ saṃbandhaḥ | mā&#x27;vadhīraya mā helāṃ kuru |
+<lb n="SA_T01_Śīlasāgara_Kaiser-Library-138-=-NGMPP-C-1415:20"/>saṃsāra eva udadhiḥ samudras tasya madhyaṃ tatra nimagnam adhogatam | kleśā eva mahormayaḥ kallolās taiḥ samāhitaṃ samyag āropitaṃ bhagnam | viruvantaṃ rudantam | evaṃviśiṣṭaṃ māṃ tvaṃ pāhi rakṣa | ahaṃ bhavantaṃ lokeśaṃ naumi namaskaromi trāṇāśayety arthaḥ || 2 ||
+<lb n="SA_T01_Śīlasāgara_Kaiser-Library-138-=-NGMPP-C-1415:21"/>tṛṣṇetyādi | he bhagavan he aiśvaryādiguṇavan | tvaṃ māṃ pālaya rakṣa | na kevalaṃ pālaya avalokaya paśya | kathaṃbhūtaṃ bhṛṣṇā timiropadrutanetram | punaḥ kathaṃbhūtam | maraṇamahābhayavihvalagātram | yāvad ahaṃ viṣamām avīciṃ na yāmi [3r] iti saṃbandhaḥ | tṛṣṇā eva timiram andhakāraḥ | tenopadrutaṃ vyākulaṃ netraṃ nayanaṃ yasya tam |
+<lb n="SA_T01_Śīlasāgara_Kaiser-Library-138-=-NGMPP-C-1415:22"/>maraṇam eva mahābhayaṃ tena vihvalaṃ samāyattaṃ (?) gātraṃ śarīraṃ yasya tam | evaṃvidhaṃ māṃ he bhagavan he bhagnamāra tvaṃ pālaya rakṣa | avalokaya paśya | yāvacchabdo &#x27;vadhau | viṣamāṃ dāruṇām avīciṃ narakaṃ yāvan na yāmi na prāpnomi tāvad eva rakṣāyā avasara iti sūcitam || 3 ||
+<lb n="SA_T01_Śīlasāgara_Kaiser-Library-138-=-NGMPP-C-1415:23"/>\etc\etc\etc
+<lb n="SA_T01_Śīlasāgara_Kaiser-Library-138-=-NGMPP-C-1415:24"/>% nātha kṛpā te vyomaviśālā sattveṣu yathāmbudajaladhārā |
+<lb n="SA_T01_Śīlasāgara_Kaiser-Library-138-=-NGMPP-C-1415:25"/>% sthalajalanimnonnatabahudeśe sarati nirantaram aniśam aśeṣe || 24 ||
+<lb n="SA_T01_Śīlasāgara_Kaiser-Library-138-=-NGMPP-C-1415:26"/>[12v5&#x27;] nāthetyādi | he nātha aśeṣe sthalajalanimnonnatabahudeśe nirantaram aniśaṃ yathā ambudhārā sarati tathā vyomaviśālā te kṛpā sattveṣu saratī[13r]ti saṃbandhaḥ | he nātha he lokeśvara | kṛpā karuṇā te tava lokeśvarasya vyoma iva viśālā vistīrṇā sattveṣu prāṇiṣu | ambudo meghas tasya jalaṃ tasya dhārā śrāvaḥ |
+<lb n="SA_T01_Śīlasāgara_Kaiser-Library-138-=-NGMPP-C-1415:27"/>bahuś cāsau deśaś ca sthalaś ca jalaṃ ca nimnaś ca unnataśca tat sthalajalanimnonnattaṃ sthalajalanimnonnataṃ cāsau bahudeśaś ceti sa tathā tasmin | sarati gacchati | nirantaram antarālarahitaṃ yathā bhavati aniśaṃ rātriṃdivaṃ yathā bhavati | aśeṣe na vidyate śeṣo yasya sa tathā tasmin || 24 ||
+<lb n="SA_T01_Śīlasāgara_Kaiser-Library-138-=-NGMPP-C-1415:28"/>% iti bhagavatsmaraṇād yat puṇyaṃ mama tenedaṃ jagad akṣuṇṇam |
+<lb n="SA_T01_Śīlasāgara_Kaiser-Library-138-=-NGMPP-C-1415:29"/>% labhatāṃ potalakācalavāsaṃ janayatu sundaravividhavilāsam || 25 ||
+<lb n="SA_T01_Śīlasāgara_Kaiser-Library-138-=-NGMPP-C-1415:30"/>itītyādi | iti bhagavatsmaraṇe[na] mama yat puṇyam asti | tenedaṃ jagad akṣuṇṇaṃ ya[13v]thā bhavati | śrīpotalakācalavāsaṃ labhatāṃ śrīpotalakācalavāsam eva labhatāṃ sundaravividhavilāsaṃ janayatv iti saṃbandhaḥ |
+<lb n="SA_T01_Śīlasāgara_Kaiser-Library-138-=-NGMPP-C-1415:31"/>ity anantaroktaprakāraiś caturviṃśatibhiḥ ślokaiḥ bhagavataḥ smaraṇaṃ bhagavatsmaraṇaṃ tena yat puṇyaṃ yat kuśalam asti tena kuśalena idaṃ jagad ayaṃ lokaḥ | akṣuṇṇaṃ avandhyaṃ yathā bhavati evaṃ śrīpotalakaś cāsāv acalaś ceti śrīpotalakācalaḥ tasmin vāsaḥ sthitiṃ labhatāṃ prāpnuvantu | vividhaś cāsau vilāsaś ceti vividhavilāsaḥ |
+<lb n="SA_T01_Śīlasāgara_Kaiser-Library-138-=-NGMPP-C-1415:32"/>sundaraś cāsau vividhavilāsaś ceti sundaravividhavilāsas taṃ janayatūtpādayatv iti || 25 ||
+<lb n="SA_T01_Śīlasāgara_Kaiser-Library-138-=-NGMPP-C-1415:33"/>[explicit]
+    </body>
+  </text>
+</TEI>

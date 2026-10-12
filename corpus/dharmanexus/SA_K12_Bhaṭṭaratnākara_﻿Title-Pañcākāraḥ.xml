@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Pañcākāra (verses 4–14)</title>
+        <author>Bhaṭṭaratnākara</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Author: Bhaṭṭaratnākara
+Collection / category: BuddhistScriptures / K12
+Source: OCR / Dharmamitra
+Edition / witness: ed. bauddhalaghugranthasaṃgraha p. 151 ff.; = first item in NAK 1-1697 5/0 vi. bauddhatantra 30 = NGMPP B 31/6 (2r1-3r3)
+Tibetan: Ø
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Bauddhalaghugranthasaṃgraha, ed. J. S. Negi, Sarnath: Central Institute of Higher Tibetan Studies, pp. 151–152; collated with manuscript NAK 1-1697 (NGMPP B 31/6, fols. 2r1–3r3).</note>
+          <idno type="dharmanexus">SA_K12_Bhaṭṭaratnākara_﻿Title-Pañcākāraḥ</idno>
+          <ref target="https://dharmamitra.org/db/sa/SA_K12_Bhaṭṭaratnākara_﻿Title-Pañcākāraḥ/text">https://dharmamitra.org/db/sa/SA_K12_Bhaṭṭaratnākara_﻿Title-Pañcākāraḥ/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-12">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_K12_Bhaṭṭaratnākara_﻿Title-Pañcākāraḥ:0"/>% p. 151
+<lb n="SA_K12_Bhaṭṭaratnākara_﻿Title-Pañcākāraḥ:1"/>[vss. 1-3 desunt]
+<lb n="SA_K12_Bhaṭṭaratnākara_﻿Title-Pañcākāraḥ:2"/>nāsāgandhaṭavargatoyalavaṇakaṇṭhāvalī śauṣvataḥ (?)
+<lb n="SA_K12_Bhaṭṭaratnākara_﻿Title-Pañcākāraḥ:3"/>% nāśāgandhaṭava+gatoyalavaṇaḥ kaṇṭhāvalī śauvata((ṃ))
+<lb n="SA_K12_Bhaṭṭaratnākara_﻿Title-Pañcākāraḥ:4"/>prāvṛḍ ratnakulaṃ ca rāgapiśuno maulābhiṣeko rajaḥ |
+<lb n="SA_K12_Bhaṭṭaratnākara_﻿Title-Pañcākāraḥ:5"/>% ((gṛ))vṛṭ ratnakulasama cepi piśuno maulābhiṣeko rajaḥ |
+<lb n="SA_K12_Bhaṭṭaratnākara_﻿Title-Pañcākāraḥ:6"/>rekhāvedanavedanācayacalaccāmīkarābhiściraṃ
+<lb n="SA_K12_Bhaṭṭaratnākara_﻿Title-Pañcākāraḥ:7"/>% rekhā vedanavedanā ca ya calaccāmīkarābhaś ciraṃ
+<lb n="SA_K12_Bhaṭṭaratnākara_﻿Title-Pañcākāraḥ:8"/>sūrye trāṃkṛtijo dadātu maṇbhṛdyātmatṛyo(trituryā)dharam || 4 ||
+<lb n="SA_K12_Bhaṭṭaratnākara_﻿Title-Pañcākāraḥ:9"/>% sūrye trāṃkṛtijo dadātu maṇibhṛd yātma tṛtīye varaṃ || 4 ||
+<lb n="SA_K12_Bhaṭṭaratnākara_﻿Title-Pañcākāraḥ:10"/>saṃjñākallolavaṃśo rasakuliśaraso rāgadambholisekaḥ
+<lb n="SA_K12_Bhaṭṭaratnākara_﻿Title-Pañcākāraḥ:11"/>saṃjñāskandhāmlajaḥ kusumasamayastādidantī hakāraḥ |
+<lb n="SA_K12_Bhaṭṭaratnākara_﻿Title-Pañcākāraḥ:12"/>jihvāvekṣāsarojadhvajakamalakulaṃ turyadhāmā&#x27;pradoṣaṃ
+<lb n="SA_K12_Bhaṭṭaratnākara_﻿Title-Pañcākāraḥ:13"/>rakto hīḥkārajanyĀmitaruciravatād branghadhāmā samādhim || 5 ||
+<lb n="SA_K12_Bhaṭṭaratnākara_﻿Title-Pañcākāraḥ:14"/>saṃskāraskandhakāyaḥ kuṭuharitahayagrīṣmasaṃksāra īrṣyā
+<lb n="SA_K12_Bhaṭṭaratnākara_﻿Title-Pañcākāraḥ:15"/>kṛtyānuṣṭhānakhaḍgadhvajarajakakulakravyakāñcīniśīthaḥ |
+<lb n="SA_K12_Bhaṭṭaratnākara_﻿Title-Pañcākāraḥ:16"/>sparśākāraḥ pavargaḥ ba(pa)vanarayaṇadvajraghaṇṭābhiṣekaḥ
+<lb n="SA_K12_Bhaṭṭaratnākara_﻿Title-Pañcākāraḥ:17"/>sūrye khaṁkārajanmā bhayamabhayakarO&#x27;moghasiddhirharītāt || 6 ||
+<lb n="SA_K12_Bhaṭṭaratnākara_﻿Title-Pañcākāraḥ:18"/>sadyaḥ karpūra[śubhra]dyutirasavilasadvajraghaṇṭābhirāmaḥ
+<lb n="SA_K12_Bhaṭṭaratnākara_﻿Title-Pañcākāraḥ:19"/>sopakleśapradeśaprabhavasusamayaḥ śeṣaṇāti(?) kaṣāyaḥ |
+<lb n="SA_K12_Bhaṭṭaratnākara_﻿Title-Pañcākāraḥ:20"/>āpratyūṣopadhānīmatiśiśiramiladbhūtiṣaṣṭhābhiṣeko
+<lb n="SA_K12_Bhaṭṭaratnākara_﻿Title-Pañcākāraḥ:21"/>vādaḥ śrīdharmadhātuḥ śriyamabhitanutāṃ hūṃbhavo vajrasattvaḥ || 7 ||
+<lb n="SA_K12_Bhaṭṭaratnākara_﻿Title-Pañcākāraḥ:22"/>% p. 152
+<lb n="SA_K12_Bhaṭṭaratnākara_﻿Title-Pañcākāraḥ:23"/>laṃkārabījodbhavacakracihnā pīyūṣarocirdharaṇīsvabhāvā |
+<lb n="SA_K12_Bhaṭṭaratnākara_﻿Title-Pañcākāraḥ:24"/>candrānumā mohanamohaśuddhā maitrīmayī tava hitāya ca locanā&#x27;stu || 8 ||
+<lb n="SA_K12_Bhaṭṭaratnākara_﻿Title-Pañcākāraḥ:25"/>abdhātuḥ karuṇādhiṣṭhā kṛṣṇā māṃkārajātakā |
+<lb n="SA_K12_Bhaṭṭaratnākara_﻿Title-Pañcākāraḥ:26"/>māmakī sādhayed dveṣakuliśesnāśu candramāḥ || 9 ||
+<lb n="SA_K12_Bhaṭṭaratnākara_﻿Title-Pañcākāraḥ:27"/>candrasthā padminī raktā tejodhātusvarūpiṇī |
+<lb n="SA_K12_Bhaṭṭaratnākara_﻿Title-Pañcākāraḥ:28"/>muditāsaṃbhavā śuddharāga[cihnā ca] pāṇḍarā || 10 ||
+<lb n="SA_K12_Bhaṭṭaratnākara_﻿Title-Pañcākāraḥ:29"/>śyāmā samīraśuddhā śuddherṣyā nīlnīrajaṃ dadhatī |
+<lb n="SA_K12_Bhaṭṭaratnākara_﻿Title-Pañcākāraḥ:30"/>hastapakṣā(padmā) ca paramā tārā tāṃkārajā mārabhañjanī || 11 ||
+<lb n="SA_K12_Bhaṭṭaratnākara_﻿Title-Pañcākāraḥ:31"/>śaśabṛdi[vaguṇaḍhyā ravimaṇḍalinīṁhārasaṃbhavā pītā |
+<lb n="SA_K12_Bhaṭṭaratnākara_﻿Title-Pañcākāraḥ:32"/>śuddhaṃ tu piśunabhāvaṃ diśatāt tvayi vajriṇī samaṇiḥ || 12 ||
+<lb n="SA_K12_Bhaṭṭaratnākara_﻿Title-Pañcākāraḥ:33"/>tādātmyena ca locanāprabṛtayo buddhādibhiḥ pañcabhi-
+<lb n="SA_K12_Bhaṭṭaratnākara_﻿Title-Pañcākāraḥ:34"/>rmudryante nijamudrayā punaramī dveṣeṇa buddhādayaḥ |
+<lb n="SA_K12_Bhaṭṭaratnākara_﻿Title-Pañcākāraḥ:35"/>dveṣo vajradhareṇa śāśvatabhidā tenāpyasau vajradhṛk
+<lb n="SA_K12_Bhaṭṭaratnākara_﻿Title-Pañcākāraḥ:36"/>tenedaṃ yuganaddhaśuddhamadhunā tadviddhi viśvaṃ guroḥ || 13 ||
+<lb n="SA_K12_Bhaṭṭaratnākara_﻿Title-Pañcākāraḥ:37"/>pañcākāramimaṃ kṛtvā bhaṭṭaratnākaraḥ kṛtī |
+<lb n="SA_K12_Bhaṭṭaratnākara_﻿Title-Pañcākāraḥ:38"/>saṃlebhe yatkṛtaṃ bhūri tena loko&#x27;stu vajradhṛk || 14 ||
+<lb n="SA_K12_Bhaṭṭaratnākara_﻿Title-Pañcākāraḥ:39"/>|| iti bhaṭṭaratnākarakṛtaḥ pañcākāraḥ samāptaḥ ||
+    </body>
+  </text>
+</TEI>

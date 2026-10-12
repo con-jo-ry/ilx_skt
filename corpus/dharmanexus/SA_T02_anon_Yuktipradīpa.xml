@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Yuktipradīpa</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Collection / category: BuddhistNon-Scriptures / T02
+Source: OCR / Dharmamitra
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Unpublished manuscript transcription (September 2012, Oxford), based on photographic reproductions of the unique Sanskrit palm-leaf manuscript from Giuseppe Tucci&#x27;s collection (originally located at Sa skya monastery; cf. Sāṅkṛtyāyana 1937: 27–28; Sferra 2008: 25).</note>
+          <idno type="dharmanexus">SA_T02_anon_Yuktipradīpa</idno>
+          <ref target="https://dharmamitra.org/db/sa/SA_T02_anon_Yuktipradīpa/text">https://dharmamitra.org/db/sa/SA_T02_anon_Yuktipradīpa/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-12">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_T02_anon_Yuktipradīpa:0"/>Yuktipradīpa (Tucci ms.)
+<lb n="SA_T02_anon_Yuktipradīpa:1"/>cf. Sankrtyayana 1937:27-28.
+<lb n="SA_T02_anon_Yuktipradīpa:2"/>Input by Péter-Dániel Szántó, September 2012, Oxford (proofread only once)
+<lb n="SA_T02_anon_Yuktipradīpa:3"/>Most of the text on the right side of the photoes is out of focus.
+<lb n="SA_T02_anon_Yuktipradīpa:4"/>[scribbles:] yuktipradīpa | śrīguhyasamājamaṇḍalopayikāpustakam idaṃ | bhramaharasādhanaṃ |
+<lb n="SA_T02_anon_Yuktipradīpa:5"/>@ namo buddhāya ||
+<lb n="SA_T02_anon_Yuktipradīpa:6"/>śrīmadguroś caraṇanīrajareṇuvṛndaṃ
+<lb n="SA_T02_anon_Yuktipradīpa:7"/>bhaktyā sadāmalaguṇaṃ śirasā praṇamya ||
+<lb n="SA_T02_anon_Yuktipradīpa:8"/>kalyāṇasakhyavarasātanasiddhyupāyaṃ
+<lb n="SA_T02_anon_Yuktipradīpa:9"/>vakṣye vipakṣatimirāpahayuktipradīpaṃ || ...
+<lb n="SA_T02_anon_Yuktipradīpa:10"/>ye tāvad vadanti bālāḥ sakalavikalpajālajaḍīkṛtā pi (?) samyaggurūpadeśaprāptimātra (?) eva hi buddhatvaṃ siddhaṃ bhavati |
+<lb n="SA_T02_anon_Yuktipradīpa:11"/>x x x x x x pūjāprayuktavya x nā x nityakarmādikarma na kāryam iti |
+<lb n="SA_T02_anon_Yuktipradīpa:12"/>idam e[2]va tāvad dhi mṛṣyate | dhyānādikriyāvyatirekeṇa buddhatvaṃ siddhaṃ bhavati na veti |
+<lb n="SA_T02_anon_Yuktipradīpa:13"/>nanu dhyānādikriyārahitasyāpi bodhir vidyate | kathaṃ |
+<lb n="SA_T02_anon_Yuktipradīpa:14"/>dheyadhāraṇamantroccāraṇa |
+<lb n="SA_T02_anon_Yuktipradīpa:15"/>sarvve e maṇavibbhamakāraṇa |
+<lb n="SA_T02_anon_Yuktipradīpa:16"/>asamala citta ma jhāṇe kharaddha |
+<lb n="SA_T02_anon_Yuktipradīpa:17"/>suhe acchanta ma appa jagagadaheti |
+<lb n="SA_T02_anon_Yuktipradīpa:18"/>asamalacittam eva x x x samalaṃ nirmalaṃ [5 akṣaras deleted] asamalaṃ nirmalaṃ sakalagrāhyagrāhakādi[3]traya[=bhaya?]lajjārāgadveṣalobhamohamātsaryerṣyāpaiśunyaśītoṣṇabubhukṣāpipāsānidrāmaithunāgnidāhodakapariplavaparvatādikāṭhinyavicarcā(?)tmātmīyavikalpajālakaluṣair varjitaṃ |
+<lb n="SA_T02_anon_Yuktipradīpa:19"/>prapāte (?) tamā x g eva x x x x x x x x x x x x x x bhūta x x x x x x x x x | etac caturthāvasthāvasthitayoginam adhikṛtyo[4]ktaṃ | na tv ādikarmikādikānāṃ |
+<lb n="SA_T02_anon_Yuktipradīpa:20"/>ebhiḥ punas tattvādhimuktimātreṇa sarvam eva śubhakarma kartavyaṃ | tathā coktaṃ Nāgārjunapādaiḥ |
+<lb n="SA_T02_anon_Yuktipradīpa:21"/>«viviktārtham ajānānāḥ| śrutimātrāvalambinaḥ |
+<lb n="SA_T02_anon_Yuktipradīpa:22"/>ye na kurvanti puṇyāni hatās te puruṣādhamā iti» (Yuktiṣaṣṭikā 31)
+<lb n="SA_T02_anon_Yuktipradīpa:23"/>kiṃ x x x x x x x x x x x x x x x x x daya x suvarṇavad iti | idam api na ... te | kathaṃ [|] yathai[5]va lohāvasthāṃ vidhāya [=vihāya] nirmalakanakapratibhāsaḥ syāt |
+<lb n="SA_T02_anon_Yuktipradīpa:24"/>tathaiva prākṛtasaṃtānaṃ nivartya kāyatrayātmakadvātriṃśanmahāpuruṣalakṣaṇāśītyanuvyañjanavirājitagātravyāmaprabhadivyadṛṣṭidivyaśrotraparacitta x pūrvanivāsānusmṛtidivyaṛddhi(?)balavaiśāradyādi(?)nikhila(?)su x x guṇanivahopetabhūtaḥ | grāhyagrāhakatvā[6]dyanutpatteḥ |
+<lb n="SA_T02_anon_Yuktipradīpa:25"/>atha kaṭakaphalapraveśāj jalasya nirmalatvam iveti vaktavyaṃ | tad apy asaṃgataṃ | pūrvoktamalāvagamāt | anena mṛtpiṇḍena ghaṭita x xm ādāyodakam ānīyata iti śrutimātreṇa tenaiva tad ānetuṃ kaḥ samarthaḥ | ā x x kadaṇḍakalā x x x salilasūtraśoṣaṇāt kā x x x x x x x x na syāt |
+<lb n="SA_T02_anon_Yuktipradīpa:26"/>x x bhaktabhakṣaṇād bubhukṣāśāntir bhavatīti śravaṇād eva bubhu[7]kṣāśāntyapratīter iva | anena mārgeṇaiva ratnadvīpādikaṃ gatvā mahāratnāni prāpyanta iti śrutāny eva na hi saṃpadyante | tatra yāvad yānapātrādikam āruhya gamanādyudyamo na bhavet | na hy auṣadhī x x x kena rogiṇaḥ ka x ka x re x x x māṇa x va rogāpahāriṇī syāt |
+<lb n="SA_T02_anon_Yuktipradīpa:27"/>tathā coktaṃ Bodhicaryāvatāre |
+<lb n="SA_T02_anon_Yuktipradīpa:28"/>«kāyenaiva paṭhiṣyāmi vākpāṭhena tu kiṃ bhavet |
+<lb n="SA_T02_anon_Yuktipradīpa:29"/>cikitsāpāṭhamātreṇa rogiṇaḥ kiṃ bhaviṣyatīti» | (BCA 5.109)
+<lb n="SA_T02_anon_Yuktipradīpa:30"/>kathaṃ punas tattvaprāptau vajradharagaṇanāṃ yogī gacchati | atrocyate | yoginau niyatāniyatagotriṇau bhavete/bhavataḥ (?) |
+<lb n="SA_T02_anon_Yuktipradīpa:31"/>tatra niyatagotrī avadhūtava(?)vyapadiṣṭo ... oktatvād bhagavatā | ... mahāsamudre ... tasmin tadyānapā[2]traṃ subandhanabaddhaṃ svākoṭitaṃ kṛtvā tadārūḍho muktapavanapaṭo vidhurapratyayopanipātābhāvād avaśyam eva pūrvoktaratna ? ? ? bhipretaṃ sthānaṃ gamiṣyatīti parikalpyate | tadvad bhavamahāsamudre ? ? ? ? ? ? yogī ... mahāyogaḥ | ka ... |
+<lb n="SA_T02_anon_Yuktipradīpa:32"/>sa eva saṃyagjñāna ? ? ? ? [3] samyaggurupādaprasādāt tadārūḍhaḥ sambodhiguṇaratnaprāptaye mahāsukharatnadvīpa[ṃ] yadi gurvavajñāsamayakṣatyādyapāyā na syus tadā gamiṣyatīti parikalpyate | ārohaṇaṃ sākṣādbhāvanādikriyākaraṇaṃ | na tu śrutimātram ārohaṇam? ? ? ? ? ?ḥ |
+<lb n="SA_T02_anon_Yuktipradīpa:33"/>nanu kalpatarunirvartitanaukā tadgamanakṣamā | tasmād aśubhakarmaparityaktapu[4]ṇye saṃlagno bhavet | prāpya saṃsārakāntārapāratīraṃ tad api parityajet | yad uktaṃ| śrīMāyājālamahātantre |
+<lb n="SA_T02_anon_Yuktipradīpa:34"/>«puṇyaṃ paramārthatas tyājyaṃ apuṇyasya tu ko grahaḥ |
+<lb n="SA_T02_anon_Yuktipradīpa:35"/>pāragāmī yathā sattvo nadyām udakapūritāṃ |
+<lb n="SA_T02_anon_Yuktipradīpa:36"/>kāṣṭhatṛṇāni saṃhṛtya udakāt (?) plavane kṛte |
+<lb n="SA_T02_anon_Yuktipradīpa:37"/>tatra lagnaḥ samuttīrya tyaktvā gacchet sukhena tu |
+<lb n="SA_T02_anon_Yuktipradīpa:38"/>evaṃ saṃsārapārasya dharmādharmavirodha[5]taḥ |
+<lb n="SA_T02_anon_Yuktipradīpa:39"/>sukhena prāpyate bodhiḥ| dharmādharmavivarjiteti» |
+<lb n="SA_T02_anon_Yuktipradīpa:40"/>bhavatāṃ pakṣe yat kiṃcit cetasy unmīlati | tat sarvaṃ sahajakrīḍā | tasyāṃ prāṇātipātādikam akāryam api karaṇīyam iti | etad apy apramāṇatvena pratibhāsate | yadi yad yad aśubhādikaṃ karma prati(?) ... te | ? ? ? ? sahajakrīḍayā sa ? ? ṃ/ḥ syāt | ...  [6] lātavyāḥ | gṛhyante ca mūḍhamatayaḥ | ata eva samyagjñānādhimokṣābhāvāt |
+<lb n="SA_T02_anon_Yuktipradīpa:41"/>yad yad asukṛtakarmāvaraṇaṃ tat sarvaṃ bhavāvāhakam eva | samyagyogayuktasya tu laukikalokottaraphaladāyakaṃ | prākṛtaṃ tad asukṛtaṃ kadalīva phalaṃ dattvā ? nivartate | ... bodhicittaṃ ca niruttaraṃ | ... raṇaṃ | ... [7] kāraṇeti | yad uktaṃ |
+<lb n="SA_T02_anon_Yuktipradīpa:42"/>«niyamavratopavāsair akṣaṇoccāraṇabhāvanaiḥ |
+<lb n="SA_T02_anon_Yuktipradīpa:43"/>atattvayogī na sidhyet kalpakoṭiśatair apīti» |
+<lb n="SA_T02_anon_Yuktipradīpa:44"/>tathā coktaṃ Nāgārjunapādaiḥ |
+<lb n="SA_T02_anon_Yuktipradīpa:45"/>«ye hy upādāya bhāvānāṃ siddhim icchanti tattvataḥ |
+<lb n="SA_T02_anon_Yuktipradīpa:46"/>teṣām api kathaṃ na syur doṣās ? ? ? daya» iti |
+<lb n="SA_T02_anon_Yuktipradīpa:47"/>... sāra ... nairātmyasama ...  kalpāsaṃkhyeyair vinā buddhatvaṃ na sidhyati | yad uktaṃ Samantabhadre |
+<lb n="SA_T02_anon_Yuktipradīpa:48"/>prākṛtanijarūpebhyo
+<lb n="SA_T02_anon_Yuktipradīpa:49"/>nairātmyasamanvito [&#x27;]pi dānādir (= dānādiḥ |)
+<lb n="SA_T02_anon_Yuktipradīpa:50"/>na virudhyate yato &#x27;smin
+<lb n="SA_T02_anon_Yuktipradīpa:51"/>... bhavair (?) na (?) vinivṛttiḥ (?) ||
+<lb n="SA_T02_anon_Yuktipradīpa:52"/>ity ... teṇa ghaṭenodakaṃ vahati | so abhipretaṃ sthānaṃ netuṃ kṣamo yadi mu[2]dgarādyabhighātāpāyo na bhavet | nāparipakvenaṇa ghaṭena vā baddhā netuṃ kṣamaḥ | atha caivaṃ bhavadbhir abhidhātavyaṃ |
+<lb n="SA_T02_anon_Yuktipradīpa:53"/>«viṇu jhāṇeṃ viṇu pāthājjeṃ
+<lb n="SA_T02_anon_Yuktipradīpa:54"/>gehavasante samaghara bhajjeṃ |
+<lb n="SA_T02_anon_Yuktipradīpa:55"/>jaï baḍha viṣaya ramante na muccaï |
+<lb n="SA_T02_anon_Yuktipradīpa:56"/>bhaṇaï saraha pariāṇa ko vuccaï ||»
+<lb n="SA_T02_anon_Yuktipradīpa:57"/>? ? ? ? ? ?
+<lb n="SA_T02_anon_Yuktipradīpa:58"/>«mahāṭavīpradeśeṣu (?) vijaneṣu mahatsu ca |
+<lb n="SA_T02_anon_Yuktipradīpa:59"/>girigahvarakuñjeṣu sadā siddhir avāpyata»
+<lb n="SA_T02_anon_Yuktipradīpa:60"/>ity uktaṃ bhagavatā | etaddhyānānu[3]kūlasthānāśrayeṇa vinā sadā samyagyogayukta eva gṛhe [&#x27;]pi vasan bhāryānvito [&#x27;]pi pañcakāmaguṇopabhogena sidhyati | [NB!]
+<lb n="SA_T02_anon_Yuktipradīpa:61"/>«sarvakāmopabhogais tu sevyamānair yathecchataḥ |
+<lb n="SA_T02_anon_Yuktipradīpa:62"/>[omitting: anena khalu yogena laghu buddhatvam āpnuyāt || ?]
+<lb n="SA_T02_anon_Yuktipradīpa:63"/>svādhidaivatayogena parāṅgaiś ca prapūjayet || (?)
+<lb n="SA_T02_anon_Yuktipradīpa:64"/>sarvakāmopabhogais tu sevyamānair yathecchataḥ |
+<lb n="SA_T02_anon_Yuktipradīpa:65"/>anena khalu yogena laghu buddhatvam āpnuyāt ||
+<lb n="SA_T02_anon_Yuktipradīpa:66"/>duṣkaraiḥ niyamaiḥ [4] kaṣṭaiḥ sevyamāno na sidhyati |
+<lb n="SA_T02_anon_Yuktipradīpa:67"/>sarvakāmopabhogais tu sevayaṃś cāśu sidhyatīti»
+<lb n="SA_T02_anon_Yuktipradīpa:68"/>sarvajñena viśeṣoktatvāt | śrī indrabhūtipādair ? ? | ... uktaṃ ca |
+<lb n="SA_T02_anon_Yuktipradīpa:69"/>«viṇu jhāṇe viṇu pāthājjeṃ
+<lb n="SA_T02_anon_Yuktipradīpa:70"/>geha vasanteṃ samaghare bhajjeṃ |
+<lb n="SA_T02_anon_Yuktipradīpa:71"/>eeṃ jaï puṇu ejjaṇu sacca[5]ï |
+<lb n="SA_T02_anon_Yuktipradīpa:72"/>aiaï sīmo jaḍi kāha na ruccaï |
+<lb n="SA_T02_anon_Yuktipradīpa:73"/>atha caivaṃ vaktavyaṃ viśuddhitvād yogina iti kiṃbhūtā sā viśuddhiḥ | dhyānajāpādivividhaprakāreṇa ... nirvāṇaṃ prāptāḥ prāpsyanti prāpnuvanti | na caivaṃ | sarva[6]thā saṃsārocchedādarśanāt | ata eva gambhīrodārarūpaprajñopāyātmakatvād asamāhitayogena nityam eva samāhitaḥ | punar mahāmahāyāne (?) | ihaiva janmani sidhyati | ...
+<lb n="SA_T02_anon_Yuktipradīpa:74"/>sphoṭana(?)dūlaka(?)pañjikā(?)varttana(?)bhukkura(?)phalā(?)masibhiḥ sūtratantrī(?)[7]nīrabhūlipaṭṭavemadaṇḍādi vividhadaṇḍadaṇḍikātuṇḍimaṇḍikādi sakalasamagrasāmagrīsamūham āsādya pustaka(?)niṣpattir na syāt | niṣpanne tu tatsāmagrī ...
+<lb n="SA_T02_anon_Yuktipradīpa:75"/>maitrīkaruṇāmuditopekṣādānaśīlakṣāntivīryadhyānaprajñopāyabalapraṇidhijñānātmikām etāṃ sarvasāmagrīṃ prāpya ihaiva janmani bodhir niṣpadyate | na śrutimātreṇa | nāpi śrāvakādiyānāśrayaṇāt | tathā coktaṃ Bhadrapādaiḥ |
+<lb n="SA_T02_anon_Yuktipradīpa:76"/>«vṛttamātrān na buddhatvaṃ śrutamātrāc ca no bhavet |
+<lb n="SA_T02_anon_Yuktipradīpa:77"/>cintayāpi na yāvac ca bhāvanāto nirucyata» iti ||
+<lb n="SA_T02_anon_Yuktipradīpa:78"/>yeṣāṃ paratīrthikānāṃ ? ? jīvādibhāvo vidyate | te tāvat turala(?)taraṅgabhaṅgacaitra ? ? ? gatvā ? ? ? ? ? yeṣāṃ | atyantā ? ? ? ? te [2] [&#x27;]pi tathaiva mithyādṛṣṭipatitā draṣṭavyāḥ |
+<lb n="SA_T02_anon_Yuktipradīpa:79"/>«nāsti dattaṃ nāsti hutaṃ na santi pravaṇā na santi brāhmaṇāḥ | na staḥ sukṛtaduṣkṛte nāsti karmaṇaḥ phalam»
+<lb n="SA_T02_anon_Yuktipradīpa:80"/>iti bruvataḥ | yad uktaṃ
+<lb n="SA_T02_anon_Yuktipradīpa:81"/>«śūnyatā sarvadṛṣṭīnāṃ proktā niḥśaraṇaṃ jinaiḥ |
+<lb n="SA_T02_anon_Yuktipradīpa:82"/>yeṣāṃ tu śūnyatā dṛṣṭis tān asādhyān babhāṣira» iti |
+<lb n="SA_T02_anon_Yuktipradīpa:83"/>grāhyagrāhakaikānekādisakalakalpanājālakalaṅke(?) vigataṃ (?) svapnamāyāmarīcigandharvanagaravat pratibhāsasya (?) ? ? ? ? [3] carabhāvaṃ maṇḍalacakrākāram ālocayann āgāre vasan vanitāsamanvito [&#x27;]pi pañcajñānasaṃśuddhabuddha(?)pañcakasvabhāvapañcakāmaguṇopabhogena niḥśeṣasugatapūjāḥ paritulayann ātmānam abhyarcayan parāṃś caiva (?)
+<lb n="SA_T02_anon_Yuktipradīpa:84"/>pustakavācanācaityakarmādikarma kurvan (?) yogī susamāhitaḥ | samyaksaṃbodhiṃ kāyatrayātmikāṃ (?) ? gat (?) kāryakaraṇakṣamā sākṣātkuryāt |
+<lb n="SA_T02_anon_Yuktipradīpa:85"/>[4] pāramitānaye punar anekakalpāpekṣayāpi trikāyalābho na samyaksaṃbodhi[r] vidyate | ādikarmiko [&#x27;]pi yadi sadaiva vijanagataḥ prajñopāyāmalasamādhyekaniṣṭho gurubhaktaḥ samayasamvaraparipālakaḥ tena pustakavācanādikarma na kāryam eva |
+<lb n="SA_T02_anon_Yuktipradīpa:86"/>kim etāvatā samādhitritayā(?)tmakamaṇḍalacakrabhāvanāvyatirekeṇa samyaksaṃbodhi[r] nna siddhiḥ [5] syād iti | ko &#x27;tra yathāyogayukto vaktuṃ śaktaḥ syāt | ye tāvad ajñā aśrutavanta&lt;ḥ&gt; kiṃcinmātrāṃ prāpyopadeśakhaṇḍikāṃ viphalapādapāgragataḥ payaḥ payodavat (?) śāntyugratā (?) bahuśrutā dharmadharā dhīdhanā vīrāḥ sakalaśīlaśālinaḥ |
+<lb n="SA_T02_anon_Yuktipradīpa:87"/>santo (?) vinī ? ? tātmotkarṣacitisiḥ (??) ... |
+<lb n="SA_T02_anon_Yuktipradīpa:88"/>viruddha[6]m api bālajanai&lt;|ḥ|&gt;r yad abhyastaṃ tad eva te bhadra kataram iti kṛtvā pravartante | karpūralatākathāyām iva | karpūralatāparirakṣaṇāya niyuktāḥ | sāmataṭikanauvaṭikajanās tadgandhena sthātum aśaktatvāt nāsikāgre siṣmalam (?) āropya tiṣṭhanti | ata eva carmaṇaś carmakārasya daurgandhyan nā bādhakam ity uktaṃ | karma ...
+<lb n="SA_T02_anon_Yuktipradīpa:89"/>bauddhe ? ? śāntikare rama[7]nte |
+<lb n="SA_T02_anon_Yuktipradīpa:90"/>sugandhini śrīmati kāntiramye
+<lb n="SA_T02_anon_Yuktipradīpa:91"/>na makṣikāḥ padmavane patantīti |
+<lb n="SA_T02_anon_Yuktipradīpa:92"/>asurapurapraveśapaddhatiprāptir api durlabhā | yadi keṣāṃcit kathaṃcit syāt | tadā kecid vimārgeṇa gatvopatiṣṭhante | kecid ? kālapa(?)lagnās tiṣṭhante | keṣāṃcid anekaprakāro māranikara&lt;ḥ&gt; prayāti | viralāḥ praviśanti visamvādataḥ | prajñopāyāmalaparamānandapurapraveśo pi tathaiva draṣṭavyaḥ |
+<lb n="SA_T02_anon_Yuktipradīpa:93"/>? ? ? ? ? ? ? ? ? ? ? ?  -dheyamātram api durlabham iti bhagavatoktaṃ | kiṃ punar mantracaryācāritvaṃ | yad uktaṃ |
+<lb n="SA_T02_anon_Yuktipradīpa:94"/>«sarvajñānāṃ kadā loke sambhavo jāyate na vā [|]
+<lb n="SA_T02_anon_Yuktipradīpa:95"/>udumbarasyaiva kusumaṃ kadācit karhicid bhavet |
+<lb n="SA_T02_anon_Yuktipradīpa:96"/>tato &#x27;pi durlabhotpādo mantracaryānayasya hi |
+<lb n="SA_T02_anon_Yuktipradīpa:97"/>yena sattvārtham atulaṃ kartuṃ śaktā hy anirvṛtā» iti |
+<lb n="SA_T02_anon_Yuktipradīpa:98"/>kṛtvā vimārgapatitān prati yuktidīpaṃ
+<lb n="SA_T02_anon_Yuktipradīpa:99"/>mithyābhimānatamasā vihitāndhakārān |
+<lb n="SA_T02_anon_Yuktipradīpa:100"/>prāptaṃ mayā yad ama + + + [2]taṃ samosot (!)
+<lb n="SA_T02_anon_Yuktipradīpa:101"/>sattvās tato &#x27;śanibhṛto nikhilā bhavantu || @ ||
+    </body>
+  </text>
+</TEI>

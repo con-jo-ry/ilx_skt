@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kriyāsamuccaya (mūlāpatti and sthūlāpatti section)</title>
+        <author>Jagaddarpaṇa</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Author: Jagaddarpaṇa
+Collection / category: BuddhistNon-Scriptures / T14
+Source: OCR / Dharmamitra
+Edition / witness: Kaiser Library 110
+Tibetan: D 3305
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Diplomatic transcription and edition based on Kathmandu Kaiser Library MS 110 (siglum C) alongside the Tibetan translation from the Derge Tengyur (D 3305, fol. 207b–208b).</note>
+          <idno type="dharmanexus">SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āpatti</idno>
+          <ref target="https://dharmamitra.org/db/sa/SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āpatti/text">https://dharmamitra.org/db/sa/SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āpatti/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-12">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āpatti:0"/>asya punar vajrasattvasamvariṇo dvāv āpattinikāyau mūlāpattisthūlāpattī | te yathā |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āpatti:1"/>% rdo rje sems dpa&#x27;i sdom pa dang ldan pa &#x27;di&#x27;i yang ltung ba ni rigs rnam pa gnyis te | {207b7} rtsa ba&#x27;i ltung ba dang spom po&#x27;i ltung ba&#x27;o || de rnams ji ltar na ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āpatti:2"/>mūlāpattiḥ prathamoktā sadguror apamānataḥ |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āpatti:3"/>dvitīyā kathitāpattiḥ sugatājñāvilaṅghanāt |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āpatti:4"/>% bla ma dam pa&#x27;i thugs dkrugs pa || rtsa ba&#x27;i ltung ba dang por gsungs || % bde gshegs bka&#x27; las &#x27;das pa ni || ltung ba gnyis par brjod pa yin ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āpatti:5"/>tṛtīyā vajrabhrātṝṇāṃ kopād doṣaprakāśane |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āpatti:6"/>maitrītyāgāc ca sattveṣu caturthī gaditā jinaiḥ ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āpatti:7"/>% rdo rje spun la khros pa yis || nyes pa gsal byas {208a1} gsum pa ste ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āpatti:8"/>% sems can rnams la byams pa spong || bzhi pa yin par rgyal bas gsungs ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āpatti:9"/>bodhicittaṃ dharmamūlaṃ tasya tyāgāc ca pañcamī |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āpatti:10"/>ṣaṣṭhī sve parakīye vā siddhānte dharmanindanāt ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āpatti:11"/>% chos kyi rtsa ba byang chub sems || de spong ba ni lnga pa ste ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āpatti:12"/>% rang dang gzhan gyi grub pa&#x27;i mtha&#x27;i || chos la smod pa drug pa yin ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āpatti:13"/>aparipācitasattveṣu guhyākhyānāc ca saptamī |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āpatti:14"/>% aparipācitasa[\C250\verso]ttveṣu
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āpatti:15"/>pañcabuddhātmakāḥ skandhās teṣām avajñayāṣṭamī ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āpatti:16"/>% yongs su ma smin sems can la || gsang ba sgrogs pa {208a2} bdun pa ste ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āpatti:17"/>% phung po lnga bdag sangs rgyas nyid || de la smod pa brgyad pa&#x27;o ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āpatti:18"/>svabhāvaśuddhadharmeṣu navamī vicikitsayā |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āpatti:19"/>duṣṭamaitrī sadā tyājyā daśamī tatkṛtau matā ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āpatti:20"/>% rang bzhin dag pa&#x27;i chos rnams la || som nyi za ba dgu pa ste ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āpatti:21"/>% gdug la rtag tu byams ldan par || byed pa de ni bcu pa&#x27;o ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āpatti:22"/>ādyantarahite dharma ekādaśī tatkalpanāt |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āpatti:23"/>% dharme \C
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āpatti:24"/>dvādaśī śrāddhasattveṣu proktā cittapradūṣaṇāt ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āpatti:25"/>% thog mtha&#x27; bral ba&#x27;i chos rnams la || der rtog pa ni bcu gcig pa ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āpatti:26"/>% sems can dad {208a3} dang ldan pa yi || sems sun &#x27;byin pa bcu gnyis pa ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āpatti:27"/>samayānāṃ yathālābham asevanāt trayodaśī |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āpatti:28"/>strīṇāṃ prajñāsvabhāvānāṃ jugupsayā caturdaśī ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āpatti:29"/>% dam tshig rdzas ni ji bzhin rnyed || mi bsten pa ni bcu gsum pa ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āpatti:30"/>% shes rab rang bzhin bud med la || smod par byed pa bcu bzhi pa ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āpatti:31"/>iti mūlāpattiḥ ||   ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āpatti:32"/>% zhes pa ni rtsa ba&#x27;i ltung ba&#x27;o ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āpatti:33"/>yo balād ramate yogī yoginīṃ yogasamvarām |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āpatti:34"/>sthūlāpattiḥ prathamoktā tasyā viheṭhanād api ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āpatti:35"/>% rnal &#x27;byor sdom ldan rnal &#x27;byor mar || rnal &#x27;byor pa gang {208a4} stobs kyis gtso ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āpatti:36"/>% sbom po&#x27;i ltung ba dang por bshad || de la mtho btsams pa yang ngo ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āpatti:37"/>tantroktānusāreṇa nādhiṣṭhed amṛtāni ca |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āpatti:38"/>dvitīyā gaditāpattiḥ sthūlā tasya prajāyate ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āpatti:39"/>% rgyud las gsungs pa&#x27;i rjes &#x27;brangs nas || byin rlabs med pa&#x27;i bdud rtsi yang ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āpatti:40"/>% de yi sbom po&#x27;i ltung pa ni || gnyis pa rab tu skye bar byed ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āpatti:41"/>gaṇacakre vivādena samayasya vinindanāt |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āpatti:42"/>tṛtīyā kathitāpattiḥ sthūlākhyā tasya yoginaḥ ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āpatti:43"/>% tshogs kyi &#x27;khor lor rtsod pa dang || dam tshig la ni {208a5} dmod pa dag |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āpatti:44"/>% rnal &#x27;byor pa de&#x27;i sbom po yi || ltung ba gsum par bshad pa yin ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āpatti:45"/>guhyadharmaṃ yadā dṛṣṭaṃ na gopayati naṣṭadhīḥ |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āpatti:46"/>sthūlāpattir bhavet tasya caturthī tatprakāśanāt ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āpatti:47"/>% gang cho [= tshe] gsang ba&#x27;i chos mthong la ||  g-yo sgyu&#x27;i blo yis mi sbed par ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āpatti:48"/>% rab tu gsal bar bya na de&#x27;i || sbom po&#x27;i ltung ba bzhi par &#x27;gyur ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āpatti:49"/>yaḥ śrāddheṣu ca sattveṣu guhyadharmarateṣu ca |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āpatti:50"/>viparītaṃ samākhyāti sthūlākhyā pañcamī bhavet ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āpatti:51"/>% gang zhig dad pa&#x27;i sems can ni || gsang ba&#x27;i chos la {208a6} dga&#x27; ba yi ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āpatti:52"/>% phyin ci log ni &#x27;chad byed pa || sbom po&#x27;i ltung ba lnga par &#x27;gyur ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āpatti:53"/>saptāhaṃ saṃvased yas tu sārdhaṃ śrāvakayānikaiḥ |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āpatti:54"/>ṣaṣṭhī prajāyate tasya sthūlāpattir garīyasī ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āpatti:55"/>% nyan thos theg pa dman pa rnams || zhag bdun lhan cig gnas pa dang ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āpatti:56"/>% de la sbom po&#x27;i ltung ba ni || shin tu lci ba drug pa skye ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āpatti:57"/>avijñāte tu vai yoge yogīśatvābhimānataḥ |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āpatti:58"/>saptamī tu bhavet tasya sthūlāpattir na saṃśayaḥ ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āpatti:59"/>% rnal &#x27;byor nges par mi shes par || rnal &#x27;byor mngon pa&#x27;i nga {208a7} rgyal sems ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āpatti:60"/>% de yi sbom po&#x27;i ltung ba ni || bdun par &#x27;gyur bar the tshom med ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āpatti:61"/>yo &#x27;bhājanasya sattvasya bāhyadharmaratasya ca |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āpatti:62"/>guhyadharmaṃ samākhyāti sthūlā tasyāṣṭamī bhavet ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āpatti:63"/>% snod du gyur pa&#x27;i sems can gang || phyi yi chos la dga&#x27; ba la ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āpatti:64"/>% gsang pa&#x27;i chos rnams yang dag &#x27;chad || de yi sbom po&#x27;i ltung ba ni ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āpatti:65"/>% brgyad pa nyid du &#x27;gyur ba yin ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āpatti:66"/>iti sthūlāpattiḥ ||   ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āpatti:67"/>% zhes pa ni sbom {208b1} po&#x27;i ltung ba&#x27;o ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āpatti:68"/>[\C251\recto] tasmād āpattidvayagrastena ca samayinā yathāśaktyā dānaṃ bhojyapuraḥsaraṃ dattvā sadguroḥ purataḥ pāpadeśanāpūrvakaṃ triśaraṇādikam ārabhya pūrvavad vajradharasaṃvaraṃ grahītavyaṃ |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āpatti:69"/>% de&#x27;i phyir ltung ba gnyis kyis gzung bas dam tshig med na ji ltar nus pa&#x27;i ston mo sbyin pa sngon du &#x27;gro ba&#x27;i &#x27;bul ba byas nas bla ma dam pa&#x27;i ma dun du sdig pa bshags pa dang sngar gyi gsum la skyabs su &#x27;gro ba la sogs pa brtsams te sngar bzhin du rdo rje &#x27;dzin pa&#x27;i sngom pa gzung bar {208b2} bya&#x27;o
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āpatti:70"/>iti sāmnāyaḥ saparikaro &#x27;bhiṣekavidhiḥ || o ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āpatti:71"/>% zhes pa | gdams pa dang bcas shing &#x27;khor dang bcas pa&#x27;i dbang gi cho ga&#x27;o || ||
+    </body>
+  </text>
+</TEI>

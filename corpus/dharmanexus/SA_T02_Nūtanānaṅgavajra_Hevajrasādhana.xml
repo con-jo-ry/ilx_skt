@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Hevajrasādhana</title>
+        <author>Nūtanānaṅgavajra</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Author: Nūtanānaṅgavajra
+Collection / category: BuddhistNon-Scriptures / T02
+Source: OCR / Dharmamitra
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Unpublished transcription of item HSS10 of the Hevajrasādhanasaṃgraha palm-leaf codex (codex unicus photographed by Rāhula Sāṅkṛtyāyana in Ngor), Göttingen, Niedersächsische Staats- und Universitätsbibliothek, Xc 14/39, fols. 114r3–123r7, checked against the Tibetan translation Tōh. 1264. No printed edition is known to us.</note>
+          <idno type="dharmanexus">SA_T02_Nūtanānaṅgavajra_Hevajrasādhana</idno>
+          <ref target="https://dharmamitra.org/db/sa/SA_T02_Nūtanānaṅgavajra_Hevajrasādhana/text">https://dharmamitra.org/db/sa/SA_T02_Nūtanānaṅgavajra_Hevajrasādhana/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-12">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:0"/>HSS10 NSUG Xc 14/39, 114r3-123r7 w/ Toh. 1264
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:1"/>oṃ namaḥ śrīhevajrāya ||
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:2"/>śrīmaddhekāravajraṃ paramasukhapadaṃ nirvikalpaikarūpaṃ
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:3"/>puṇyajñānoditaṃ sthiracalasakalāśeṣabhāvasvabhāvam |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:4"/>sarvānandair vibuddhaṃ paramuṣitamalaṃ ḍākinīcakranāthaṃ
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:5"/>tan natvā sarvabhāvaiḥ sphuṭaviṣadapadaṃ sādhanan tasya vakṣye ||
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:6"/>yac chrutaṃ sadguroḥ samyag āmnāyam atidurlabham |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:7"/>natvā taccaraṇāmbhojam ātmanaḥ smaraṇāya ca ||
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:8"/>api ca dustaraghoratarasaṃsāramahāprapātabhayādibhir viṣaṇṇasattvadhātum avalokya | gurutarakaruṇārasāveśavivaśaḥ | adhigatasaṃsārasāgarataraṇopāyaḥ | aśeṣagurvā[va]jñādikadoṣavigato dānādiguṇayukto jitendriyaḥ pañcāmṛtādisamayasevī śrīhevajroktamaṇḍale [&#x27;]py abhiṣiktaḥ samyag anujñāto yogī
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:9"/>kvacin manonukūle śmaśānādau raviśaśijalagandhabheṣajyaviśeṣaiḥ pavitrīkṛtabhūbhāge prātar utthāya
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:10"/>prathamaṃ bhāvayet mṛtakaṃ dharmadhātusvarūpakam |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:11"/>tasya vakṣasthale sthitvā bhāvayet paramaṃ padam |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:12"/>vajraparyaṅkeṇopaviśya dhyānamudrayā saṃyamitapāṇipallavaḥ |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:13"/>svahṛdi bhāvayed rephaṃ tadbhavaṃ sūryamaṇḍalam |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:14"/>tatraiva hūṃkṛtiṃ caiva prajñopāyasvabhāvakam ||
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:15"/>kṛṣṇavarṇaṃ mahāghoraṃ hūṃkārād vajram udbhavet |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:16"/>vajravaraṭakasthaṃ hūṃtattvaṃ bhāvayet | punaḥ | (!)
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:17"/>hūṃkārapariṇataṃ dṛṣṭvā dveṣātmānaṃ vibhāvayet |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:18"/>vajrajanmamahākṛṣṇaṃ nīlapaṅkajasannibham [|]
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:19"/>yathopadeśatas trividhaṃ bhāvidaivatarūpakam |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:20"/>trayasāṃ madhyato yogī yathādhimokṣabhāvanam |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:21"/>ekavīraṃ mahādīptaṃ bhāvayet śraddhayā khalu |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:22"/>tataś ca hṛtsūrye nyastanijabījaḥ | tatkiraṇākṛṣṭam abhimukham ākāśe bhagavantaṃ bhāvyarūpaṃ saparivāram avalokya hṛdbījanirgatābhiḥ | rakṣarakṣamalavimalābhir (!) vividhapūjāviśeṣair vilasatkarapallavābhir gauryādidevībhir aṣṭabhiḥ || bāhyapūjāviśeṣaiś ca pūjayed anupūrvakaḥ |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:23"/>tatra gaurī mṛgalāṃchanaṃ dhatte caurī raviṃ vettālī vāri ghasmarī balaṃ | pukkasī gandhaṃ śavarī rasaṃ | caṇḍālī ḍamarukaṃ vādayati | ḍomby āliṅganābhinayaṃ darśayati ||
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:24"/>tato asyaiva bhagavadagrato anādivāsanājanitapāpadeśanādikaṃ vidadhīta |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:25"/>sarvam ātmanaḥ kṛtakāritānumoditaṃ pāpaṃ pratideśayāmi |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:26"/>sarvabuddhabodhisattvapṛthagjanānāṃ sakalakuśalam anumode |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:27"/>yat kiṃcid ātmanaḥ kuśalaṃ tat sarva anuttarāyāṃ samyaksambodhau pariṇāmayāmi |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:28"/>eṣo &#x27;ham ā bodhiparyantaṃ buddhaṃ śaraṇaṃ gacchāmi | sarvabhāvasvabhāvaṃ mahāsukhākāraṃ hekāravajraṃ
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:29"/>dharmaṃ śaraṇaṃ gacchāmi taddeśitam utpattyutpannasvarūpakaṃ
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:30"/>saṃghaṃ śaraṇaṃ gacchāmi taccakrasthitaḍākinīgaṇam |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:31"/>amī sattvāḥ saṃsārajalanidhau nimagnā mayā śrīherukarūpeṇa vajranayadharmadeśanāyotapradānena (!) samuddhṛtya māyopamādvayaparamānandasandohamaye mahāmudrāsiddhilakṣaṇe pratiṣṭhāpayitavyā iti bodhau cittam utpādayet |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:32"/>ayam eva herukayogaḥ sarvayogād uttarottaralakṣaṇo &#x27;dvitīyo buddhatvasādhanāya paramopāyaḥ | samāśrito mayeti |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:33"/>tataḥ sarvasattveṣv ekaputrapremalakṣaṇāṃ mahāmaitrīṃ | duḥkhād duḥkhahetoḥ samuddharaṇakāmatāṃ mahākaruṇāṃ | sarvasattveṣu mahāmodapravṛttilakṣaṇāṃ mahāmuditāṃ | samastakalpitaviṣayādyupekṣālakṣaṇāṃ mahopekṣāṃ bhāvayet ||
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:34"/>tataś cittaviṭhapitāḥ sarvadharmā iti manasāvalambya cittam evedaṃ bhrāntaṃ tena tenākāreṇa pratibhāsate | yathā śokādivibhrame cittād anyad grāhyaṃ na vidyate grāhyabhāvāt tac cittaṃ grāhakam api na bhavati | tasmād viśvam idaṃ cittamayam iti viditvā tam evārthaṃ dṛḍhīkurvan niḥśeṣavastutattvasārasaṃgrāhakamantram uccārayet |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:35"/>prākṛtāhaṃkārahānaye || oṃ śūnyatājñānavajrasvabhāvātmako &#x27;ham ||
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:36"/>tato mantrārtham āmukhīkurvan niḥsvabhāva[ṃ] jagat sarvaṃ svapnādyupalambhavat sarvākāravirahalakṣaṇaṃ māyopamaṃ śaradamalamadhyāhnagaganopamaṃ paśyed iyam eva bhagavatī nairātmyeti ||
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:37"/>idānīṃ praṇidhānam anusmaran tasmin niṣyandabhūtam ākāravadrakṣācakraṃ śuddhalaukikavijñānasvabhāvaṃ bhāvayet || purato
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:38"/>viśvapadmāsanāsīnaṃ raṃbhavaṃ sūryamaṇḍalaṃ
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:39"/>hūṃkāraṃ cintayet tatra kṛṣṇavarṇaṃ bhayānakaṃ |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:40"/>tadbhavaṃ viśvavajraṃ ca pañcavarṇaṃ triśūcikaṃ
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:41"/>tasya garbhe punaḥ sūrya&lt;|hūṃkāraṃ tatra|&gt;hūṃkāraṃ tatra vinyaset |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:42"/>tasmāt krodham adhaḥśūlaṃ pralayānaladuḥsaham |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:43"/>hṛdvāmamuṣṭitarjanyā taj jayet māramaṇḍalam |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:44"/>dakṣiṇena jvaladvajrahūṃkārapūritānanaṃ |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:45"/>vyāghracarmāmbaraṃ vīraṃ pañcamudrair alaṃkṛta[m] |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:46"/>kṛṣṇavarṇaṃ mahāraudraṃ bhayād atibhayapradam |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:47"/>galadraktaśiromālaṃ sphurantaṃ bhīmabhīṣaṇaṃ |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:48"/>piṅgalordhvajvalatkeśaṃ lalitajihvakhalatadviṣaṃ |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:49"/>locanatrayasaṃyuktaṃ mīṣa X ddraṣṭrāṃ karālinaṃ |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:50"/>sphārayet krodhasaṃghātaṃ digvidikṣu samantataḥ |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:51"/>kīlayed ātmacihnena mantreṇānena yogavit ||
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:52"/>oṃ rakṣa rakṣa hūṃ 3 phaṭ svāheti |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:53"/>yāvadicchāparyantaṃ
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:54"/>tadabhyantare raviviśvavajrakiraṇaiḥ pralayaśikhisamānair ekībhūya diśi diśi spharitvā sīmābandhaṃ vajraprākāram upariṣṭād vajrapañjaraṃ || adhastāt tatpariṇāmena vajramayībhūmi[m ā]rasātalaparyantaṃ cintayet |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:55"/>tanmadhye hūṃkārapariṇataṃ dharmodayārūpaṃ śaracchaśadharakarākāraṃ mahāvajradharasvabhāvaṃ vicitrādbhutaraśminikaravinirgatam adhaḥ sūkṣmam upari viśālaṃ trikoṇam antaḥśūnyamadhyāvasthitaviśvakamalakarṇikānihitaviśvavajraṃ | tannābhau caturmahābhūtaṃ caturmaṇḍalasvabhāvaṃ nānākāraṃ pukkasyādicaturdevatīsvabhāvam uparyupari paśyet ||
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:56"/>tatrādau yaṃkāreṇa vāyumaṇḍalaṃ ardhacandrākāraṃ nīlam agradvayacalatpatākāṅkitaṃ | raṃkāreṇāgnimaṇḍalaṃ trikoṇam ūrdhvaśikhaṃ raktaṃ raktajvālāṅkaṃ tadupari vaṃkāreṇa vartulavaruṇamaṇḍalaṃ sitaṃ ghaṭāṅkaṃ | tato laṃkāreṇa kṣoṇīmaṇḍalaṃ caturasraṃ pītaṃ koṇeṣu triśukavajrāṅkitaṃ |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:57"/>tadupari vijñānaṃ māyopamatvena | samāropya |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:58"/>tadviśvavajranābhau tu caturmahābhūtapariṇāmena saṃkṣiptapariśuddhabuddhakṣetraṃ saptatriṃśadbodhipākṣikadharmaviśuddhaṃ mahāvairocanasvabhāvaṃ vividhamaṇivicitraṃ kūṭāgāram aṣṭabhiḥ śmaśānair anantāparyantalokadhātumāyopamasaṃsūcakaiḥ parivṛtaṃ dhyāyāt |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:59"/>caturasraṃ caturdvāram aṣṭastambhopaśobhitaṃ
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:60"/>divyaṃ vedikācatuṣṭayamaṇḍitaṃ catustoraṇabhūṣitaṃ
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:61"/>hārārdhahāradarpaṇakusumasrakvitānacāmarai ruciraṃ |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:62"/>vajrasūtrair alaṃkṛtaṃ sphuradbuddhaughaśobhitaṃ |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:63"/>caladrucirapatākāgraṃ ghaṇṭādhvanimukharadiṅmukhaṃ |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:64"/>pañcakāmaguṇaiḥ samyag upahāraiś ca harṣitaṃ |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:65"/>&lt;|a|&gt; tanmadhyāmbhoruhaṃ viśvam aṣṭapatraṃ sakeśara[ṃ] |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:66"/>digvidikṣu tathā padmaṃ karṇikāsv āsanāni ca
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:67"/>brahmendropendrarudrāś ca yamo yakṣādhipas tathā |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:68"/>nai[r]ṛtivemacitrī ca gauryādīnā[ṃ] tu viṣṭaraṃ |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:69"/>dakṣiṇottaram uttānaṃ madhye māracatuṣṭayaṃ |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:70"/>yādṛśaṃ varṇasaṃsthānaṃ tādṛgrūpeṇa vinyaset |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:71"/>sarveṣām api mārāṇāṃ hṛdaye sūryamaṇḍalaṃ [|]
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:72"/>tena te kātarodvignās trāṇādhyeṣaṇatatparāḥ ||
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:73"/>tatra madhyāsane dviguṇīkṛtair anulomavilomair akārādivarṇair dvātriṃśanmahāpuruṣalakṣaṇasaṃsūcakaiś candramaṇḍalam ādarśajñānasvabhāvaṃ | tadupari vigatakṣakārakakārādivarṇair ṭaḍadadhabhayalasahitair dviguṇīkṛtair anulomavilomair aśītyanuvyañjanasaṃsūcakaiḥ sūryamaṇḍalaṃ samatājñānasvabhāvaṃ |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:74"/>tayor madhye hūṃ-aṃ-bījadvayaṃ tatpariṇatau svāsananihitabījadvayaṃ garbhau viśvavajrakarttikau saṃlagnau karoṭasthau pratyavekṣaṇājñānasvabhāvau cintayet |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:75"/>tadraśmimukhanirgataḍākinyākārair munivaravṛndair anantalokadhātum avalokya tadgatasattvān abhisaṃbuddhīkṛtya āgatya sattvair ekībhūtaṃ kṛtyānuṣṭhānajñānaṃ |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:76"/>tataḥ śaśiravicihnabījaniṣpannaṃ bhagavantaṃ mahāvajrasattvaṃ nirupamajinavṛndaparamāṇuparighaṭitaṃ mahāsukhamayaṃ vakṣyamāṇabhujamukhavarṇasaṃsthānalakṣitaṃ hetubhūtaṃ | tathaiva nairātmyāśliṣṭakandharaṃ suviśuddhadharmadhātusvabhāvaṃ dhyāyāt ||
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:77"/>etena pañcākārābhisaṃbodhiḥ ||
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:78"/>taddhṛdayaraśminivahaiḥ sakalatathāgatavṛttaṃ herukarūpāpannam ākṛṣya praveśya dravīkṛtya || ūkārādyaṣṭabījaniṣpannaṃ gauryādiḍākinīvṛndaṃ sphārayet | smaraṇāya ca ||
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:79"/>tataś cākāśe gandharvasattvaṃ sūkṣmaṃ maṇḍalasvarūpaṃ raktavarṇaṃ raktahoḥkārapaṅktidvayapariveṣṭitam avalokya hṛdraśmibhir ākṛṣya praveśya gurūpadeśato yathāsthāne niveśya tato vajrī mahārāgāt dravībhūtaṃ savidyayā śaradamalacandradravopamaṃ mahāsukhaikaniṣṭhaṃ tiṣṭhet |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:80"/>tataḥ pukkasyādayaś catasro devyo atīvotkaṇṭhitā āgatya svadigvyavasthitāḥ | cittaprabodhakārikābhir vajragītikābhir bhagavantam utthāpayanti ||
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:81"/>uṭṭha bharāḍo karuṇamaṇu pukkasi mahuṃ paritāhi |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:82"/>mahāsuhajoeṃ kāma mahuṃ cchaḍḍahi suṇṇasamāhi ||
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:83"/>tojjhu vihuṇe marami haüṃ uṭṭhahi tuhuṃ o vajja |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:84"/>chaḍḍahi suṇṇasahāvaḍā savari ha sijjhāu kajja ||
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:85"/>loa ṇimantia suraapahu suṇṇe acchasi kīsa |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:86"/>haü caṇḍālī viṇumami taï viṇu uhami ṇa dīsa ||
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:87"/>indīālī uṭṭha tuhuṃ haü jāṇammi tuhu cia |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:88"/>amhe ḍombi&lt;ni&gt; ccheamaṇu mā karu karuṇavicchitti ||
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:89"/>tato gītikābhinurodhāt (!) svapnaprabodhitavat tadindudravasaṃhārajaṃ bījadvayaṃ tatpariṇataṃ cihnadvayaṃ tadgarbhe raviśaśinihitaṃ tad eva bījadvayaṃ sarvajñajñānasvabhāvaṃ  paśyet |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:90"/>&lt;tasmāt&gt; spharaṇayogena ḍākinyākāreṇa tathāgatān saṃsphārya saṃharaṇayogena sarvaṃ tan māyopamaṃ svapnopa&lt;|ma|&gt;maṃ nijacittādhīnam ākalayan | śaśiravicihnabījapariṇāmajaṃ | śrīherukaṃrūpaṃ nairātm[y]ayā saha samāpannam ātmānaṃ dhyāyāt |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:91"/>bhūmau caraṇān sphālayantaṃ tarjayantaṃ surāsurān caladvartularaktākṣaṃ kruddhaṃ lalitayauvanaṃ catuścaraṇam aṣṭāsyaṃ bhujaṣoḍaśabhūṣitaṃ | kāyakleśamṛtyudevaputra&lt;māra&gt;catuṣṭayasamākrāntam ardhaparyaṅkatāṇḍavaṃ galadrudhirapañcāśannaraśiromālaṃ sūryastham atibhīṣaṇaṃ viśvakuliśadharaṃ mūrdhni pralayānalajvalatprabhaṃ | hūṃkārasphāritavadanaṃ |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:92"/>bhasmoddhūlitakandharaṃ pralayaghanasamānaindranīlamūlamukhaśarīraṃ śaracchaśadharanavoditadinakarakarasannibhaṃ savyāvasavyamukhaṃ | ūrdhvamukhaṃ dhūmravarṇaṃ vikarālinaṃ bhramarāṅgasannibha[ṃ] śeṣamukhacatuṣṭaya[ṃ] daṃṣṭrākarālaṃ pratimukhaṃ netratrayavirājitaṃ |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:93"/>lalāṭopari pañcamuṇḍakhaṇḍavibhūṣitaṃ sabhrūbhaṅga[ṃ] piṅgalordhvajvalatkeśa[ṃ] nagnaṃ  navanāṭyarasair yutaṃ pañcamudrābhir alaṃkṛtaṃ |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:94"/>cakrī kuṇḍala kaṇṭhī ca haste rucakamekhalam |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:95"/>kāṇaśvāsa tathonmādā kṣayakuṣṭhavicarcikā jagriplīhāś ca rūpācce (!?) hastyaśvakharagāvoṣṭramanujaśarabhotukas tathā | dakṣiṇāṣṭakapāleṣu &lt;krame[ṇa]&gt; jñeyā dvipādayaḥ | pṛthivī vāyus tejaś candrārkapavaca antako dhanadaś caiva vāmāṣṭakapāle ||
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:96"/>sā tu nairātmikā devī bhujadvayavirājitā | caturmārarudhirapūritakaroṭau karavyagrā dakṣiṇena kleśakarttanakarttidhāriṇī piṅgalojvalatkeśā kṛṣṇavarṇā vivastrikā | bhagavatkaṇṭhasaṃlagnā netratrayavibhūṣitā pratyālīḍhapadākrāntā pañcamudrābhir alaṃkṛtā | lalāṭopari śuṣkanaraśirorājīvirājitā | nīrasaśiromālālaṃkṛtā siddhaḍākinī |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:97"/>tataś ca bhagavato hṛtpadmasthitasūrye hūṃkāraṃ bhagavatyā hṛtpadmasthitacandre aṃkāraṃ paśyet | cakṣuḥśrotraghrāṇajihvākāyamanaḥsaroje gataprāṇahṛdi candramaṇḍalopari || āṃ aṃ iṃ īṃ oṃ aṃ bījajanitāṅkitakarttiśaśiravisaṃpuṭīkṛtapariṇatāḥ | vajraḍākinyaḥ | sitakṛṣṇapītaraktaharitakṛṣṇavarṇāḥ |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:98"/>mohadveṣapiśunarāgerṣyā nairātmyaḍākinīsvabhāvāḥ karttikapāladhāriṇyaḥ | ardhaparyaṅkasaṃsthitā dhyeyāḥ |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:99"/>etā vajrādipañcaḍākinyo yathākramaṃ ve rūpavedanāsaṃjñāsaṃskāravijñānaskandheṣu cintanīyāḥ ||
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:100"/>tathā mohapiśunarāgerṣyādveṣeṣu rūpādiviṣayeṣu gaurīcaurīvettālīghasmarībhūcarīkhecarī | pṛthivyaptejovāyudhātu pukkasī śabarī caṇḍālī ḍombī ||
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:101"/>kāyavākcittapadmeṣu nihataprāṇahṛdi candramaṇḍalopari oṃ aṃ aṃ bījajāḥ sitaraktakṛṣṇavarṇā bhūcarīkhecarīnairātmyayoginyo vajr[y]ādivan niṣpannāḥ saṃsthitāḥ svānurūpataḥ |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:102"/>māṃse pukkasī khyātā rakte śavarī prakalpitā
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:103"/>caṇḍālī śukram ity uktṃ ḍombinī majjamedayoḥ ||
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:104"/>iyataiva devatāviśuddhiḥ ||
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:105"/>idānīm anyā viśuddhir adhimuñcanīyāḥ |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:106"/>carmaṇi sapta bodhyaṅgāni | asthiṣu satyacatuṣṭayaṃ |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:107"/>kṛpayā locane rakte | kṛṣṇāṅgo maitracittataḥ |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:108"/>saṃgrahavastucatuṣkeṇa catvāri caraṇāḥ smṛtāḥ |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:109"/>mukhāny aṣṭau vimokṣais tu bhujā ṣoḍaśa śūnyatāḥ |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:110"/>gātreṇa pañca buddhāḥ syuḥ kruddho duṣṭavineyataḥ |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:111"/>mantraśuddhis trivajreṇa siddhiḥ syād dṛḍhacittataḥ |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:112"/>catuḥṣaṣṭyaṣṭaṣoḍaśadvātriṃśaddalapaṅkajam |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:113"/>nirmāṇadharmasaṃbhogamahāsukham iti kramāt
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:114"/>nābhihṛtkaṇṭhamasteṣu dhyāyāc cakracatuṣṭayam |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:115"/>pañcaraśmikasitakṛṣṇaraktamānīlakaṃ tathā ||
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:116"/>aṃ hūṃ oṃ haṃ yathāyogaṃ ūrdhvādhomukhaṃ saṃsthitam |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:117"/>prajñopāyaviśuddhyā ca dvayadvayam udāhṛtam |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:118"/>tataś ca svahṛnnijabījaraśmibhir nivahair anādisaṃsiddhitraidhātukasthitajinavaravṛndam ākṛṣya nabhasi saṃsthāpya bāhyaguhyapūjāviśeṣaiś ca saṃpūjya ||
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:119"/>oṃ abhiṣiñcantu māṃ vajratathāgatā iti prārthayet | tais tathāgatair herukarūpāpannaiḥ | pañcāmṛtabhṛtapañcatathāgatasvabhāvapañcakalaśakarakamalanihitair abhiṣicyate |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:120"/>abhiṣicyamānā tā śirasi citteśaḥ syāt puṣpavṛṣṭiḥ kuṅkumavṛṣṭir api bhavati | dundubhiśabdocchalati | rūpavajrādibhiḥ pūjyate | vajragītyā locanādibhiḥ stūyate ||
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:121"/>tadanu svavidyāṃ bhagavadvad adhiṣṭhitacakṣurādilabdhābhiṣekāṃ dhyātvā | adhikasaṃskārārthaṃ pañcakulakalāpinīṃ kuryāt |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:122"/>tatrāyaṃ kramaḥ śirasi hṛdi nābhiguhyo[r ū]ruyugme ca || oṃ hūṃ svāhā āḥ hā bījaniṣpannavairocanākṣobhyaratnasaṃbhavāmitābhāmoghasiddhisvarūpaparamāṇuparighaṭitāṅgīṃ dhyāyāt |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:123"/>hūṃ-āḥ-kārabījaniṣpannāṣṭadalakamalakarṇikāṃ ca | hūṃ-oṃ-jātasadvajramaṇir yogī yathāyogaṃ mantradvayenādhiṣṭhāya || oṃ padma sukhādhāra mahārāgasukhaṃ[dada] caturānandabhāg viśva hūṃ 3 kāryaṃ kuruṣva me || oṃ vajra mahādveṣa caturānandadāyaka khagamukhaikaraso nātha hūṃ 3 kāryaṃ kuruṣva me || tayā saha ratim ārabhet ||
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:124"/>ity ādiyoganāmasamādhiḥ ||   ||
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:125"/>tadanu svahṛdbījakiraṇāṅkuśaiḥ| herukacakram ākṛṣyātmani praveśya | dravīkṛtya kamalodarapatitendudravajanitasvasvabījacihnaniṣpannamaṇḍaleśvaraṃ gauryādiḍākinīgaṇam utsṛjet | utsargamantreṇa || hūṃ aṃ gaṃ caṃ vaṃ ghaṃ puṃ śaṃ laṃ ḍaṃ ityādinā |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:126"/>tatra bhagavatyā saha bhagavantaṃ yathākathitabhujamukhavarṇādinā lakṣitaṃ svātmani praveśayet |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:127"/>gaurī kṛṣṇavarṇā | savyetarabhujābhyāṃ karttirohitadharaṃ | pūrvadvārāsanasūrye cintayet |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:128"/>tathaiva caurīṃ māñjiṣṭhavarṇāṃ kṛpīṭavādayantī sūkaradharāṃ dakṣiṇe dvārāsane
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:129"/>tathaiva vettālīṃ taptacāmīkarasannibhāṃ kūrmapadmabhājanadharāṃ paścimadvārāsane
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:130"/>tathaiva ghasmarī marakatamaṇisannibhāṃ bhujaṅgayogapātrikādharām
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:131"/>uttaradvārāsane tathaiva pukkasīm indranīlamaṇinibhāṃ siṃghaparaśudharām
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:132"/>aiśānakoṇāsane tathaiva śavarīṃ pariṇataśaśāṅkanibhāṃ bhikṣukhikkhirikādharām
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:133"/>āgneyakoṇāsane tathaiva caṇḍālīṃ nabhaḥśyāmāṃ cakralāṅgaladharāṃ
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:134"/>naiṛtikoṇāsane tathaiva ḍombīṃ karburavarṇāṃ vajratarjanikarāṃ vāyavyakoṇāsane saṃsthitāṃ dhyāyāt |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:135"/>sarvā vajraḍākinyo ardhaparyaṅkanāṭyasthāḥ pañcamudrāvibhūṣitāḥ | piṅgalordhvajvalatkeśā raktavartulatrinetrāḥ | nīraktanaraśiromālīvirājitā adhipatiparamasukhavilāsinyo nagnā iti ||
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:136"/>iti sarvato niṣpanne maṇḍalacakram avalokya acyutajñānalābhāya mudrādhiṣṭhānayogataḥ | randhre sarojavajrasya cintayet pītaphaṭkṛtiṃ
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:137"/>tataś ca hṛdbījaraśmyaṅkuśākṛṣṭaṃ jñānamaṇḍalaṃ pūrvadvārābhimukhaṃ dṛṣṭvā | arghādikaṃ dattvā oṃ vajragaurī ākarṣaya jaḥ || oṃ vajracaurī praveśaya hūṃ 2 | oṃ vajravettālī bandhaya baṃ || oṃ vajraghasmarī toṣaya hor ity ākarṣaṇapraveśanabandhanatoṣanaṃ ca kuryāt ||
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:138"/>samayajñānamaṇḍalayor ekībhūtaṃ vicintya hṛdbījakiraṇair jinavaranikaram ākṛṣya saṃpūjyābhiṣekārthaṃ yācayet ||
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:139"/>tair abhiṣicyate abhiṣekād abhiṣicyamānānām abhiṣekajināḥ śirasi jāyante |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:140"/>tatra citteśabuddharatneśavajradharmeśya (!?) mudrayet | gaurīṃ caurīṃ ca vettālīṃ ghasmarīm apy anukramāt | pukkasyādicaturdevī ebhir buddhair yathākramaṃ |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:141"/>tataś ca hṛdbījaraśmimukhanirgatābhir ḍākinībhir vividhavicitrapūjāvinyastakarapallavābhir māyopamādirūpeṇa samastavastudṛṣṭikuśalābhiḥ | tadanyaiś ca bāhya&lt;pūjā&gt;viśeṣair ātmānaṃ traidhātukātmakaṃ maṇḍalacakrasvabhāvaṃ saṃpūjya pūjyapūjakapūjābhedakabuddhim akṛtvā pratiśrutkopamaiḥ śabdagrāmaiḥ stutiṃ kuryāt ||
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:142"/>tuhu pariveḍhia joiṇisatheṃ tuhu varalabdho appaṇa citteṃ |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:143"/>taï jaga saala carācara sohia karuṇācitteṃ satta vibohia
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:144"/>māapapapañca satta vivohia tuṭṭha ho māṇaṃ siri &lt;heruka&gt; savararājja ||
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:145"/>atha purato yaṃbhavaṃ vāyumaṇḍalaṃ dhvajāṅkaṃ tadupari raṃbhavaṃ jvālāṅkamaṇḍigni(!)maṇḍalaṃ tadupari āḥkārajaṃ padmabhājanaṃ | tanmadhye pañcāmṛtapañcapradīpaṃ tathāgatabījāṅkitaṃ jvālanatāpanāt malāny ākṛṣya [s]phaṭikopamaṃ tadūrdhve hūṃbhavaṃ sarvatathāgatādhiṣṭhitaṃ vajraṃ | pākād dravībhūtaṃ |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:146"/>oṃkārādhiṣṭhitaṃ tataḥ kiraṇaiḥ sarvatathāgatānāṃ jñānāmṛtam ākṛṣya tatraiva samarasaṃ kuryāt |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:147"/>tritattvādhiṣṭhitaṃ nirupamarasavīryavipākasvabhāvaṃ hūṃvajrajihvo hṛtsūryavinyastamaṇḍalaṃ prīṇayet |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:148"/>tena ḍākinīcakramadhyasthaṃ bhāvayet| īdṛśaṃ prabhum iti | maṇḍalarājāgrī nāma samādhiḥ ||   ||
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:149"/>idānīṃ gauryādiḍākinīgaṇamaṇḍaleśvaraparyantam ekaikam anukrameṇa daśasu dikṣu saṃsphārya yathānurūpadeśanāṃ kārayitvā yathāsthāne saṃhṛtya kṛtakaraṇīyaṃ sakalamaṇḍalaṃ nirvikalpakasukhamayaṃ paśyet |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:150"/>tadanantaraṃ prathamaṃ nirmāṇacakre aṃkāraṃ kṛṣṇavarṇaṃ saraśmikaṃ tatpariṇataṃ bindurūpaṃ dedīpyamānaṃ tadraśmibhiḥ pratiromakūpato nirgatya gauryādidevīgaṇam avabhāsya maṇḍalaṃ maṇḍaleśvaraṃ ca mahākṛṣṇaṃ ca bhinnāñjana&lt;|ni|&gt;bhaḥ&lt;|||&gt;samaṃ [s]phuratsaṃhāravigrahaṃ dhyāyād anenaiva krameṇa dvitīye raktaṃ tṛtīye pītaṃ caturthe haritaṃ pañcame
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:151"/>nīlaṃ ṣaṣṭhame sitam iti ṣaḍaṅgaṃ bhāvayet ||
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:152"/>paścāt viramāntaṃ punas tathaiveti | gauryādy aṣṭau ḍākinyaḥ svakīyadiṅmukheṣv aṣṭasu praviṣṭāḥ | svahṛnnijabījaṃ dhyātavyāḥ ||
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:153"/>tataś ca bhagavatīṃ nairātmyāṃ bhagavaddhṛdaye praviṣṭāṃ cintayet |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:154"/>tato bhagavān api cakracatuṣṭayād raśmisamūhaṃ saṃsphārya svayam eva raśmimayo bhūtvā svahṛdi sūryasthitanijabīje praviṣṭaḥ | sūryas tu bīje bījam api bindau tad eva bindurūpaṃ sārdhatritayacakranādāṅkitaṃ mahāsukhamayaṃ sitaraśmipuñjākāraṃ dhyāyāt | krameṇa svātmani vilīyamānam anupalabdhikaṃ kuryāt |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:155"/>etena nijabījacittasvarūpaṃ viśvam eva mahāsukhākāraikarasaṃ syād iti ||
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:156"/>bhāvanāt khinno mantraṃ japet | cakram ātmānaṃ devatākāreṇāvirbhūtaṃ vicintya || oṃ deva picu vajra hūṃ hūṃ hūṃ phaṭ svāhā || mantra tantrasthitamūlamantraṃ vā hṛtsūryamantrākṣarāṇy ūdhvaśiraskāni maṇḍalākāreṇa saṃniviṣṭāni prajvalitāni manasābhilikhya manase (!) vāvalokayed iti vajrajāpaḥ ||
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:157"/>krodhavācāṃ vā japet | aṣṭamukhebhyo gauryādiḍākinīmukhebhyo mantram uccārayet | tam adhimuñced iti piṇḍajāpaḥ ||
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:158"/>jāpāt khinnaḥ praṇidhānaṃ ca kuryāt ||
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:159"/>kule janma anunmādī samayī hevajradeśakaḥ
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:160"/>kṛpāvān gurubhaktaś ca bhaveyaṃ janmajanmani |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:161"/>vajraghaṇṭāraṇatpāṇir gambhīradharmapāṭhakaḥ |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:162"/>yoṣicchukrasamāhārī bhaveyaṃ janmajanmani ||
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:163"/>atha sādhidevatamaṇḍalacakraṃ saṃpūjya pūrvavat| svahṛnnijabīje ḍākinīgaṇam antarbhāvya kūṭāgāram ativistaram adhimucya devatāhaṃkāragarvitamanasotthāya viharet |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:164"/>vyagraṃ prati aparasandhyādvaye &#x27;pi manonukūle sthāne upaviśya pūrvavat kūṭāgāram adhimucya tanmadhye cātmānaṃ nairātmyāsamāpannaṃ aṣṭāsyarūpaṃ | tritattvoccāraṇena jhaṭiti dṛṣṭvā svasvabījaniścāritaṃ ḍākinīgaṇaṃ yathāsthāne viniveśya samastamaṇḍalacakraṃ mahāsukhamayaṃ dhyātvā pūjāstutyādikaṃ kuryāt |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:165"/>śayanakāle viramāntayogaṃ cāmukhīkṛtya svapet |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:166"/>utthānakāle pukkasyādicaturdevīgītisaṃcoditaś cottiṣṭhet |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:167"/>utthāya tādṛśaṃ kuryāt | pratidinaṃ yāvad abhisaṃbodhilābhaḥ syād iti | karmarājāgrī nāma samādhiḥ ||   ||
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:168"/>yadi ṣoḍaśabhuje adhimuktir na syāt | tadāsminn eva kūṭāgāre ṣaḍbhujaṃ caturbhujaṃ vā bhāvayet |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:169"/>tatra bhagavantaṃ svacihnabījaniṣpannaṃ ṣaṭpāramitāviśuddhyā ṣaḍbhujaṃ śūnyānimittāpraṇihitaviśuddhyā trimukhaṃ nīlapaṅkajavac charīramūlamukhaṃ vāmaṃ raktaṃ dakṣiṇaṃ candrāruṇābhaṃ trinetram ardhaparyaṅkasaṃsthitaṃ |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:170"/>prathamadakṣiṇabhuje &lt;vajraṃ | detīyabhuje&gt; kartti | prathamavāmabhuje triśūlaṃ dvitīyabhuje ghaṇṭā | śeṣabhujābhyāṃ vajraśṛṅkhalayā saha samāpannaṃ traidhātukātmakamṛtakākrāntaṃ
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:171"/>vajraśṛṅkhalāṃ ca nīlavarṇāṃ nairātmikām i&lt;|ka|&gt;va nānābharaṇabhūṣitāṃ | karttikaroṭabhṛtadakṣiṇetaradorlatāliṅgitānijapatikandharā[m] | ekānanāṃ bhāvayet |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:172"/>tathaiva caturmāranirjitaviśuddhyā caturbhujaṃ nīlapaṅkajasaṃnibhaṃ trinetraṃ| śavākrāntaṃ| ardhaparyaṅkasaṃsthitaṃ prathamadakṣiṇabhuje vajraṃ | prathamavāmabhuje naraka&lt;ra&gt;ṅkaṃ devāsurāṇāṃ raktena pūritaṃ | śeṣabhujābhyāṃ vajravārāhyāliṅgitaṃ | bhagavatīṃ nīlavarṇā[ṃ] savyetarabhujābhyāṃ karttikapāladhāriṇīm
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:173"/>anayor hetuvajradharaphalavad vaktracihnādikaṃ viśeṣataś candrāsanacandraprabhaṃ dhyāyāt |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:174"/>ṣaḍbhujacaturbhujayor aṣṭa&lt;|bhu|&gt;mukhābhāvāt | ḍākinīgaṇaṃ svadigromakūpe praveśayet ||
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:175"/>oṃ kiṭi kiṭi vajra hūṃ hūṃ hūṃ phaṭ svāhā || ṣaḍbhujasya ||
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:176"/>oṃ jvala jvala bhyo hūṃ 3 phaṭ svāhā || caturbhujasya mantraḥ ||
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:177"/>śeṣaṃ pūrvavat boddhavyam ||
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:178"/>nūtanānaṅgavajreṇa acintyajñānalābhinā |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:179"/>ādeśāl likhitaṃ samyak śrutvā na tv abhimānataḥ |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:180"/>yoginaḥ kṣantum arhanti yan me [122] likhina dūṣaṇaṃ (!?) |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:181"/>śaraccandrakarākāraṃ mānasaṃ hi satāṃ yataḥ ||
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:182"/>kṛtvā herukasādhanaṃ yan mayāsāditaṃ śubham |
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:183"/>tenāstu nikhilo lokaḥ sarvajñajñānapāragaḥ ||
+<lb n="SA_T02_Nūtanānaṅgavajra_Hevajrasādhana:184"/>kṛtir iyaṃ yoginaḥ śrīmadanaṅgavajrasya ||   ||
+    </body>
+  </text>
+</TEI>

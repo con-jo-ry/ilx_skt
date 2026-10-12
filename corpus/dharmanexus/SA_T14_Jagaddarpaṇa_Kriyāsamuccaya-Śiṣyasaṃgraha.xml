@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kriyāsamuccaya (Śiṣyasaṃgrahavidhi)</title>
+        <author>Jagaddarpaṇa</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Author: Jagaddarpaṇa
+Collection / category: BuddhistNon-Scriptures / T14
+Source: OCR / Dharmamitra
+Edition / witness: Kaiser Library no. 110 is lacunose, here supplied from Lokesh Chandra&#x27;s facsimile and the Vajrāvalī
+Tibetan: D 3305
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Unpublished critical transcription / working edition (Kolozsvár, 2025), based on Kathmandu Kaiser Library MS 110, supplemented from Lokesh Chandra&#x27;s facsimile reproduction (1977) and Abhayākaragupta&#x27;s Vajrāvalī, aligned with Degé Tanjur D 3305.</note>
+          <idno type="dharmanexus">SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śiṣyasaṃgraha</idno>
+          <ref target="https://dharmamitra.org/db/sa/SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śiṣyasaṃgraha/text">https://dharmamitra.org/db/sa/SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śiṣyasaṃgraha/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-12">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śiṣyasaṃgraha:0"/>tadanu pratiṣṭhādyarthaṃ māsādikam āha ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śiṣyasaṃgraha:1"/>% de&#x27;i rjes la rab gnas kyi don du zla ba la sogs pa gsungs pa |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śiṣyasaṃgraha:2"/>māghaḥ phālguṇas tathaiva niyataṃ vaiśākhaśukrau śuci
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śiṣyasaṃgraha:3"/>mākraṣṭhāvadano śubhaikaphaladā māsās tu ṣaṭsaṃkhyatāṅkāḥ |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śiṣyasaṃgraha:4"/>catvāro grahapuṃgavā budhaguruśukrāś ca somānvitaḥ
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śiṣyasaṃgraha:5"/>vārāḥ sarvasukhānurāgadhanadāḥ khyātāḥ pratiṣṭhārthakāḥ ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śiṣyasaṃgraha:6"/>% faulty śārdūla
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śiṣyasaṃgraha:7"/>% mchu dang dbo yi zla ba de bzhin nges {60a5} par sa ga snron dang chu stod zla ba dang || mgo ste de srid &#x27;di rnams dge ba gcig pu&#x27;i &#x27;bras bu ster ba&#x27;i zla ba drug tu gsungs || gza&#x27; yi mchog gyur bzhi ste gza&#x27; lhag bla ma pas zla ba rnams dang ldan gyur na ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śiṣyasaṃgraha:8"/>gza&#x27; rnams thams cad bde dang rjes chags nor rnams ster bar gsungs {60a6} te rab gnas don du&#x27;o ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śiṣyasaṃgraha:9"/>ādau khyātā dvitīyā tadanu śubhaphalākhyāpitā yā tṛtīyā
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śiṣyasaṃgraha:10"/>tasmāt śrīpañcamīyā bhavati hi daśamī saptamī paurṇamāsī |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śiṣyasaṃgraha:11"/>proktā yā sarvadvidveti trayodaśī sarvasiddhā kaluṣaharā saptasaṃkhyā tithīnāṃ
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śiṣyasaṃgraha:12"/>khyātā sarvārthasiddhir munibhir anuditaṃ buddhavarvo(!?)tsavasya ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śiṣyasaṃgraha:13"/>% glossed sradharā
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śiṣyasaṃgraha:14"/>% dang por bshad pa&#x27;i gnyis pa la ni rjes su dge ba&#x27;i &#x27;bras bur gsungs te gang zhig gsum pa dang || de las dpal ldan lnga par &#x27;gyur ba gang yin nges par bcu pa bdun pa zla ba nya ba dang || gang zhig thams cad grub pa la ni &#x27;thab mo sdig pa nyams par {60a7} gsungs te tshes kyi grangs rnams bdun ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śiṣyasaṃgraha:15"/>bshad pa la ni don kun grub par thub pas bstan te sangs rgyas bya ba la ni spro bar bya ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śiṣyasaṃgraha:16"/>puṣpā hastānurādhā tadanu mṛgaśirā rohiṇī cottarārdhā
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śiṣyasaṃgraha:17"/>jyeṣṭhā mūlānukūlā śravaṇapadayuto [\L31] bhādra āṣāḍhanāmā |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śiṣyasaṃgraha:18"/>vṛddhiḥ putrādikānāṃ bhavati hi niyataṃ cottare kāmasiddhir
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śiṣyasaṃgraha:19"/>hastajñānasya lābho na bhāsa cavasatā cādrakāyā tathaiva ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śiṣyasaṃgraha:20"/>% corrupt sragdharā
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śiṣyasaṃgraha:21"/>% rgyal dang me bzhi lha mtshams de yi rjes su mgo dang snar ma dag dang dbo dang lag rnams dang || snron dang snrubs dang rjes mthun gro bzhin rkang {60b1} par ldan pa&#x27;i khrums dang chu stod chu smad ces bya ba || bu la sogs pa &#x27;phel bar &#x27;gyur te nges pa nyid du dbo la &#x27;dod pa&#x27;i dngos grub &#x27;gyur ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śiṣyasaṃgraha:22"/>me bzhi la ni ye shes &#x27;thob cing nam mkhar dbang du bya ba dag ste lag la de bzhin nyid ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śiṣyasaṃgraha:23"/>rohiṇyām arthavṛddhis tadanu mṛgaśilā śāntir āṣāḍharāje
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śiṣyasaṃgraha:24"/>dīrghaṃ jīvanti putrāḥ prakaṭapaṭudhiyo bhādrake siddhivṛddhiḥ |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śiṣyasaṃgraha:25"/>nityaṃ puṣye jayaḥ syāt sukham anubhavam anu bhavanaṃ (!) jyeṣṭhake svarthasiddhī
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śiṣyasaṃgraha:26"/>rāddhāstaikhyānukūle (!?) grahagaṇasakala yajñakārye vidheyam [||]
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śiṣyasaṃgraha:27"/>% corrupt sragdharā
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śiṣyasaṃgraha:28"/>% snar ma la ni nor rnams &#x27;phel zhing rjes su mgo la zhi ba&#x27;o {60b2} chu stod chu smad rgyal po la || tshe ring ba dang bu dang rab gsal mkhas pa dag dang blo ste khrums la dngos grub &#x27;phel || rgyal la rtag tu rgyal ba nyid du &#x27;gyur zhing bde ba dang ni mthu ste snon la don rnams &#x27;grub ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śiṣyasaṃgraha:29"/>lha mtshams la ni bde ba&#x27;o rjes su mthun pa&#x27;i gza&#x27; tshogs mtha&#x27; dag la ni mchod {60b3} sbyin bya ba bsgrub ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śiṣyasaṃgraha:30"/>sadyoniṣpannamātrāyāṃ pratiṣṭhā paramā bhavet |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śiṣyasaṃgraha:31"/>cakravartinṛpaiśvaryaṃ labhate nātra saṃśayaḥ ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śiṣyasaṃgraha:32"/>% myur du rdzogs pa tsam nyid la || rab tu gnas pa mchog tu &#x27;gyur || &#x27;khor los sgyur rgyal dbang phyug ni || thob pa &#x27;di la the tshom med ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śiṣyasaṃgraha:33"/>na tithidāra(!?)nakṣatraṃ nāpi vighnavināyakāḥ |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śiṣyasaṃgraha:34"/>anukūlā grahāḥ sarve vighnanakṣatradevatāḥ ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śiṣyasaṃgraha:35"/>% tshes dang gza&#x27; dang skar ma med || bgegs dang log par &#x27;dren pa&#x27;ang med || bgegs dang skar ma lha rnams dang || {60b4} gza&#x27; rnams thams cad rjes su mthun ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śiṣyasaṃgraha:36"/>iti yady apy uktaṃ tathāpi lokasaṃvṛttim āśritya kāḍhaka(!)syānukūlena śubhalagnādau sarvaṃ vidheyam ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śiṣyasaṃgraha:37"/>% zhes gal te yang gsungs pa de lta na&#x27;ang &#x27;jig rten pa&#x27;i kun rdzob la brten nas byed pa po la rjes su mthun zhing dge ba&#x27;i dus sbyor la sogs pa thams cad bsgrub par bya&#x27;o ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śiṣyasaṃgraha:38"/>atha vā dvādaśasv api māseṣu pratītyasamutpādakrameṇa śubhamuhūrtādau sarvakāryaṃ karaṇīyam iti |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śiṣyasaṃgraha:39"/>% de bas na zla ba bcu gnyis po rnams la yang rten cing &#x27;brel par {60b5} &#x27;byung ba&#x27;i rim pas yud tsam bzang po la sogs pa thams cad la bya ba rnams bya&#x27;o ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śiṣyasaṃgraha:40"/>tadanu | yadā śiṣyeṇa dvis trir vādhyeṣito maṇḍalalikhanārthaṃ sa yady asaṃbhṛtoparakaraṇaḥ tadā śiṣyaṃ purato &#x27;vasthāpya tannābhau sūryahūṃkāraṃ vibhāvya tadraśmibhir hṛdisthahūṃkārodbhūtaṃ kṛṣṇaṃ vikṛtarūpaṃ nagnaṃ lambavṛṣaṇam ūrdhvapiṅgalakeśaṃ tricaraṇaṃ [\L32] pāpaṃ nāsikāgreṇa niḥsārya taṃ ca hūṃkāraṃ hṛdi nītvā pariṇamayya
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śiṣyasaṃgraha:41"/>vakṣyamāṇavajrahūṃkāramahākrodhaṃ vibhāvya bahir niṣkāṣya | oṃ sumbha nisumbha hūṃ hūṃ phaṭ | oṃ gṛhna 2 hūṃ hūṃ phaṭ | oṃ gṛhnāpaya 2 hūṃ hūṃ phaṭ | oṃ ānaya ho bhagavan vidyārāja amukasya sarvapāpaṃ nāśaya hūṃ hūṃ phaṭ svāhā | ity uccārayan karasthajvaladvajreṇa niḥsāritapāpaṃ śūnyīkurvantaṃ vicintayed iti ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śiṣyasaṃgraha:42"/>% de&#x27;i rjes su gang gi tshe slob mas lan gsum du gsol ba btab par gyur pa dang | dkyil &#x27;khor bri ba&#x27;i don du gal te de la nye bar mkho ba&#x27;i yo byad rnams tshogs nas de&#x27;i tshe slob ma mdun du {60b6} bzhag la |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śiṣyasaṃgraha:43"/>de&#x27;i lte bar nyi ma la h&#x27;uM yig gi rnam par bsgoms te de&#x27;i &#x27;od zer gyis snying gar gnas pa&#x27;i kaM yig las byung ba&#x27;i sdig pa gnag cing rnam par &#x27;gyur ba&#x27;i gzugs can gcer bu &#x27;bras bu &#x27;phyang ba skra ser po gyen du bgreng ba rkang pa gsum pa sna rtse nas phyung la h&#x27;uM yig de yang {60b7} snying gar &#x27;ongs shing yongs su gyur pa las &#x27;chad par &#x27;gyur
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śiṣyasaṃgraha:44"/>ba&#x27;i khro bo chen po rdo rje h&#x27;uM mdzad du rnam par bsgoms nas phyir &#x27;thon te | aoM sumbha ni sumbha h&#x27;uM h&#x27;uM phaT | aoM grIhNa grIhNa h&#x27;uM h&#x27;uM phaT | aoM grIhNa pa ya grIhN&#x27;a pa ya h&#x27;uM h&#x27;uM phaT | aoM a&#x27;a na ya ho: bha ga w&#x27;a na bi dy&#x27;a r&#x27;a dza che ge mo&#x27;i sarba p&#x27;a paM n&#x27;a {61a1} || sha ya h&#x27;uM h&#x27;uM phaT sv&#x27;a h&#x27;a |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śiṣyasaṃgraha:45"/>zhes brjod cing phyag na gnas pa&#x27;i rdo rje &#x27;bar bas phyung ba&#x27;i sdig pa rnams stong par mdzad par bsam |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śiṣyasaṃgraha:46"/>śiṣyacittavighnāṃś cāmṛtakuṇḍalinā nābher adhaḥ kīlakākāreṇa oṃ vajrakīla kīlayāsya sarvavighnān bandha 2 hūṃ phaḍ iti vajrahūṃkārājñāpitena svayaṃ ca paṭhan kīlayitvā kīlaraśmibhir atiraudraiḥ sarvaduṣṭān nirdahya taṃ ca śiṣyaṃ saṃkāreṇa samantabhadrarūpaṃ vicintya hṛdi rakṣārtham akārajam indumaṇḍalam aḥkārajaviśvavajrādhiṣṭhitaṃ vibhāvya
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śiṣyasaṃgraha:47"/>mūrdhni candrasthahūṃjātam ūrdhvaśiraskaṃ māmakyākrāntamadhyaṃ pañcasūcikavajraṃ vibhāvya tajjñānadevīhṛdicandrasthavajravaraṭakāntargatamantramālotpannapītasūkṣmavajraraśmispharaṇaiḥ sarvāṅgaṃ kavacitaṃ dhyātvā oṃ āḥ śaṅkare śāntikare ghuṭa 2 ghuṭṭini ghātaya 2 ghuṭṭini amukaṃ rakṣa svāhā [hūṃ iti japan saṃrakṣayet] kuṇḍalimantraṃ cāsmai japituṃ
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śiṣyasaṃgraha:48"/>dadyāt |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śiṣyasaṃgraha:49"/>% slob ma&#x27;i sems kyi bgegs rnams bdud rtsi &#x27;khyil pa&#x27;i lte ba&#x27;i &#x27;og phur bu&#x27;i rnam pa can la aoM badzra k&#x27;i la ya aa sya sarba bighna na bandha bandha h&#x27;uM phaT | {61a2} ces brjod de h&#x27;uM mdzad kyis bka&#x27; bsgo ba dang rang gis kyang brjod cing phur bus gdab par bya ste | phur bu&#x27;i &#x27;od zer drag po rnams kyis gdug pa can rnams bsreg par yang bya&#x27;o ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śiṣyasaṃgraha:50"/>slob ma de yang paM yig las kun du bzang po&#x27;i gzugs su bsams te | srung ba&#x27;i don du snying gar aa {61a3} yig las skyes pa&#x27;i zla ba&#x27;i dkyil &#x27;khor dang aa:yig las skyes pa&#x27;i sna tshogs rdo rjes byin gyis brlab par bsgom zhing mgo bor zla ba la gnas pa&#x27;i h&#x27;uM las byung ba&#x27;i rdo rje rtse lnga pa gyen du &#x27;greng ba&#x27;i dbus su m&#x27;a ma k&#x27;i bzhugs par bsgoms
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śiṣyasaṃgraha:51"/>la ye shes kyi lha mo de&#x27;i thugs kar {61a4} zla ba la gnas pa&#x27;i rdo rje&#x27;i lte ba&#x27;i nang du chud pa&#x27;i sngags kyi phreng ba las byung ba rdo rje ser po phra mo&#x27;i &#x27;od zer &#x27;phros pas lus thams cad la go cha bgos par bsams te | aoM a&#x27;a:shaM ka re sh&#x27;anti ka re ghu Ta ghu Ta ghu Ti ni gh&#x27;a Ta ya gh&#x27;a Ta ya gh&#x27;u Ta ni che ge mo la rakSHa sv&#x27;a h&#x27;a |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śiṣyasaṃgraha:52"/>zhes brjod pa&#x27;i {61a5} sngags kyis bsrung bar bya&#x27;o || &#x27;khyil pa&#x27;i sngags kyang bzlas pa&#x27;i ched du &#x27;di la sbyin no ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śiṣyasaṃgraha:53"/>evaṃ kṛte &#x27;sya vi[\L33]ghnaśāntir bhavati | upakaraṇāni cāsya sukhena milantīti śiṣyasaṃgrahavidhiḥ ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śiṣyasaṃgraha:54"/>% de ltar byas na &#x27;di la bgegs rnams kyis ni mi tshugs shing nye bar mkho ba&#x27;i yo byad rnams kyang bde bar rnyed par &#x27;gyur ro zhes pa slob ma yang dag par bsdu ba&#x27;i cho ga&#x27;o || ||
+    </body>
+  </text>
+</TEI>

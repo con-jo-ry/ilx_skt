@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Nānopadeśa (fragment)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Collection / category: BuddhistScriptures / K10
+Source: OCR / Dharmamitra
+Edition / witness: MTM IASWR MBB 1971-91 second text
+Tibetan: Ø
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Unpublished critical transcription, based on IASWR manuscript MBB 1971-91 (Multiple Text Manuscript, second text, fols. 17v2ff.).</note>
+          <idno type="dharmanexus">SA_K10_anon_Nānopadeśa</idno>
+          <ref target="https://dharmamitra.org/db/sa/SA_K10_anon_Nānopadeśa/text">https://dharmamitra.org/db/sa/SA_K10_anon_Nānopadeśa/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-12">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_K10_anon_Nānopadeśa:0"/>[17v2] @ namaḥ śrīherukavajrāya ||
+<lb n="SA_K10_anon_Nānopadeśa:1"/>natvā mahāsukhaṃ nāthaṃ mahāsukhavivṛddhaye |
+<lb n="SA_K10_anon_Nānopadeśa:2"/>% °vivṛddhaye] \eme, °vivarddhaye \ms
+<lb n="SA_K10_anon_Nānopadeśa:3"/>nānopadeśaṃ vakṣyāmi nānācāryair nidarśitam || [1]
+<lb n="SA_K10_anon_Nānopadeśa:4"/>% °opadeśaṃ] \eme, °opadeśa \ms • vakṣyāmi] \eme, vahāmi (?) \ms
+<lb n="SA_K10_anon_Nānopadeśa:5"/>praṇavānāhatau mūrdhni dolayā maṇisūtrataḥ |
+<lb n="SA_K10_anon_Nānopadeśa:6"/>% °ānāhatau] \eme, °āṇāhato \ms
+<lb n="SA_K10_anon_Nānopadeśa:7"/>% °sūtrataḥ uncertain; °sūtravat?
+<lb n="SA_K10_anon_Nānopadeśa:8"/>mahāmudropadeśo &#x27;yaṃ Padmāṅkuravinirgataḥ || [2]
+<lb n="SA_K10_anon_Nānopadeśa:9"/>% cf. NSU 1
+<lb n="SA_K10_anon_Nānopadeśa:10"/>maṇināsāsamāyogāt sphuradbinduḥ śikhāgragaḥ |
+<lb n="SA_K10_anon_Nānopadeśa:11"/>% °nāsā°] \stand, °nāśā° \ms
+<lb n="SA_K10_anon_Nānopadeśa:12"/>mahāmudropadeśaḥ syāt kathitaṃ tattvapāragaiḥ || [3]
+<lb n="SA_K10_anon_Nānopadeśa:13"/>bisatantunibho vīra ekībhūtaś ca dolayā |
+<lb n="SA_K10_anon_Nānopadeśa:14"/>% bisa°] \stand, biśa° \ms
+<lb n="SA_K10_anon_Nānopadeśa:15"/>samyaksahajayogo &#x27;yaṃ Prajñārakṣitabhāvitaḥ || [4]
+<lb n="SA_K10_anon_Nānopadeśa:16"/>% cf. NSU 2
+<lb n="SA_K10_anon_Nānopadeśa:17"/>tiryaggatir maṇer madhye bindur eko hy anakṣaraḥ |
+<lb n="SA_K10_anon_Nānopadeśa:18"/>% tiryag°] \eme, tirya° \ms • maṇer] \eme, maṇe \ms
+<lb n="SA_K10_anon_Nānopadeśa:19"/>tattvaratnaviśeṣo &#x27;yaṃ Nelīpādena lakṣitaḥ || [5]
+<lb n="SA_K10_anon_Nānopadeśa:20"/>% cf. NSU 3
+<lb n="SA_K10_anon_Nānopadeśa:21"/>pradīpakalikākāro nirmāṇābjendumadhyagaḥ |
+<lb n="SA_K10_anon_Nānopadeśa:22"/>hūṃkāro drāvako vīro Raviguptena deśitaḥ || [6]
+<lb n="SA_K10_anon_Nānopadeśa:23"/>% cf. NSU 4
+<lb n="SA_K10_anon_Nānopadeśa:24"/>prajñārthaḥ ||
+<lb n="SA_K10_anon_Nānopadeśa:25"/>Kṛṣṇācāryasamākhyātā caṇḍālī nābhimadhyagā |
+<lb n="SA_K10_anon_Nānopadeśa:26"/>ādisvarasvabhāvā sā prajñānāhatavarṇabhāḥ (?) || [7]
+<lb n="SA_K10_anon_Nānopadeśa:27"/>nābhyabje tilakā khyātā vasanto dharmacakragaḥ |
+<lb n="SA_K10_anon_Nānopadeśa:28"/>% vasanto] \stand, vaśanto \ms
+<lb n="SA_K10_anon_Nānopadeśa:29"/>dvayor ekarasībhāvo Kṛṣṇācāryeṇa deśitaḥ || [8]
+<lb n="SA_K10_anon_Nānopadeśa:30"/>% cf. NSU 5
+<lb n="SA_K10_anon_Nānopadeśa:31"/>yonicakradvaye nābhau madhye oṃkārasūcitaḥ |
+<lb n="SA_K10_anon_Nānopadeśa:32"/>% °dvaye] \eme, °dvayo \ms
+<lb n="SA_K10_anon_Nānopadeśa:33"/>locanādicaturbījaṃ koṇeṣu Sarahena tu || [9]
+<lb n="SA_K10_anon_Nānopadeśa:34"/>% sarahena tu] \eme, śaheṇa tuḥ \ms
+<lb n="SA_K10_anon_Nānopadeśa:35"/>% cf. NSU 6
+<lb n="SA_K10_anon_Nānopadeśa:36"/>śūnyasaṅgavinirmuktaḥ padaṃ prāpnoty acintyakam |
+<lb n="SA_K10_anon_Nānopadeśa:37"/>% śūnya[18r]saṃga°
+<lb n="SA_K10_anon_Nānopadeśa:38"/>bhāvako guruparveṇa cittaṃ bhrūnāsikāntare |
+<lb n="SA_K10_anon_Nānopadeśa:39"/>% °parveṇa] \stand, °parvena \ms
+<lb n="SA_K10_anon_Nānopadeśa:40"/>cittācittavinirmuktaṃ tattvaṃ prāpnoty acintyakam || [10]
+<lb n="SA_K10_anon_Nānopadeśa:41"/>rigyrāṃ (?) ||
+<lb n="SA_K10_anon_Nānopadeśa:42"/>āviṣkarodbhavās tisraḥ pralayānalasaṃnibhāḥ |
+<lb n="SA_K10_anon_Nānopadeśa:43"/>mahāsukhaḥ priyāḥ sarvā (?) Nāradāryeṇa deśitā || [11]
+<lb n="SA_K10_anon_Nānopadeśa:44"/>nirabhraṃ ca sadālokaṃ Kuḍḍālamatam īdṛśam |
+<lb n="SA_K10_anon_Nānopadeśa:45"/>% kuḍḍāla°] \eme, kuḍmāla° \ms
+<lb n="SA_K10_anon_Nānopadeśa:46"/>prakṣepāya ca yair muktaṃ (?) sākṣātkurvanti yoginaḥ || [12]
+<lb n="SA_K10_anon_Nānopadeśa:47"/>nirbījaṃ ca sadālokac chātasya (?) matam ujjvalam |
+<lb n="SA_K10_anon_Nānopadeśa:48"/>bhāvanābalato dhīrāḥ pūra (?) paśyanti tārakān || [13]
+<lb n="SA_K10_anon_Nānopadeśa:49"/>ahaṃkārāspadaṃ cittaṃ tadbhavaṃ bhuvanatrayam |
+<lb n="SA_K10_anon_Nānopadeśa:50"/>tattvaṃ bhāvaparijñānāj jagad advayatāṃ vrajet || [14]
+<lb n="SA_K10_anon_Nānopadeśa:51"/>prabhāsvaram idaṃ cittaṃ trailokyaṃ sacarācaram |
+<lb n="SA_K10_anon_Nānopadeśa:52"/>bhāvanābalataḥ kaścit prabhāsvarapadaṃ vrajet || [15]
+<lb n="SA_K10_anon_Nānopadeśa:53"/>% °balataḥ] \eme, balata \ms
+<lb n="SA_K10_anon_Nānopadeśa:54"/>nābhyabjacandramadhyasthaṃ sphuṭalocala(?)vīkṣaṇāt |
+<lb n="SA_K10_anon_Nānopadeśa:55"/>% locana?
+<lb n="SA_K10_anon_Nānopadeśa:56"/>jñānacakṣur avāpnoti spandamānasutārakam || [16]
+<lb n="SA_K10_anon_Nānopadeśa:57"/>śubhadharmodayāramye bindunādaprabhāsvaraḥ |
+<lb n="SA_K10_anon_Nānopadeśa:58"/>syād anāhatanādena hṛdi Kṛṣṇena kīrtitaḥ || [17]
+<lb n="SA_K10_anon_Nānopadeśa:59"/>yonicandre ca aṃkāro nābhau hūṃ śūnyamadhyagaḥ |
+<lb n="SA_K10_anon_Nānopadeśa:60"/>hṛdi sūrya ca oṃkāraḥ śiraścandre ca haṃ sthitaḥ || [18]
+<lb n="SA_K10_anon_Nānopadeśa:61"/>% śiraś°] \eme, śira° \ms
+<lb n="SA_K10_anon_Nānopadeśa:62"/>ekānekaprabhedena ūrdhvādhaḥsaṃpuṭakramāt |
+<lb n="SA_K10_anon_Nānopadeśa:63"/>Bāṇena kathitaḥ sākṣād upadeśas tridhottamaḥ || [19]
+<lb n="SA_K10_anon_Nānopadeśa:64"/>% kathitaḥ] \eme, kathita \ms
+<lb n="SA_K10_anon_Nānopadeśa:65"/>% sākṣād] \stand, śākṣād \ms
+<lb n="SA_K10_anon_Nānopadeśa:66"/>digdale locanādīnāṃ madhye oṃbījam ujjvalam |
+<lb n="SA_K10_anon_Nānopadeśa:67"/>Śabaraiḥ Kambalaiś coktaṃ nābhāv aṣṭadalāmbuje || [20]
+<lb n="SA_K10_anon_Nānopadeśa:68"/>% śabaraiḥ] \eme, śaravaiḥ \ms
+<lb n="SA_K10_anon_Nānopadeśa:69"/>nābhau kamalacandre ca vajraṃ vajropari nyaset |
+<lb n="SA_K10_anon_Nānopadeśa:70"/>% nyaset] \stand, nyaśet \ms
+<lb n="SA_K10_anon_Nānopadeśa:71"/>sūryavajrā ? nādena kraman nāgā ? ty ambare || [21]
+<lb n="SA_K10_anon_Nānopadeśa:72"/>prakāśya mukhaṃ bhūri hūṃkāraṃ bhāvya śuṇḍake |
+<lb n="SA_K10_anon_Nānopadeśa:73"/>nābhipadme ca aṃkāraṃ raktaṃ hṛdi prabhāsvaram || [22]
+<lb n="SA_K10_anon_Nānopadeśa:74"/>% °kāraṃ] \eme, °kāra \ms
+<lb n="SA_K10_anon_Nānopadeśa:75"/>% raktaṃ] \eme, rakta \ms
+<lb n="SA_K10_anon_Nānopadeśa:76"/>Guṇḍārīyamate bindur muktābhaṅgulaśuṇḍike |
+<lb n="SA_K10_anon_Nānopadeśa:77"/>draṇa ? ? n nābhipadme ca bhāvayet suvicakṣaṇaḥ || [23]
+<lb n="SA_K10_anon_Nānopadeśa:78"/>nābhyabjacandrasūryaṃ ca śṛṅgaśṛṅgopari sphuṭam |
+<lb n="SA_K10_anon_Nānopadeśa:79"/>samīkṣaśṛṅganādena vajrabhairavatāṃ vrajet || [24]
+<lb n="SA_K10_anon_Nānopadeśa:80"/>athavā mastake śṛṅgaṃ sarvam etad yathoditam |
+<lb n="SA_K10_anon_Nānopadeśa:81"/>% mastake] \stand, maṣṭake \ms
+<lb n="SA_K10_anon_Nānopadeśa:82"/>bhāvanā ? ? dā vīrā jagad vajramayaṃ viduḥ || [25]
+<lb n="SA_K10_anon_Nānopadeśa:83"/>niṣpīḍya kamale vajraṃ bodhicittaṃ na cotsṛjet |
+<lb n="SA_K10_anon_Nānopadeśa:84"/>trailokyaṃ tanmayaṃ kartuṃ svedya(?)vākyaṃ na laṅghayet || [26]
+<lb n="SA_K10_anon_Nānopadeśa:85"/>% trailokyaṃ] \eme, trailokya \ms
+<lb n="SA_K10_anon_Nānopadeśa:86"/>cittamātram idaṃ sarvaṃ svapnamāyopamaṃ jagat |
+<lb n="SA_K10_anon_Nānopadeśa:87"/>bhāvanābalato dhīrāḥ sphuṭayanti kim adbhutam || [27]
+<lb n="SA_K10_anon_Nānopadeśa:88"/>pāramitā ||
+<lb n="SA_K10_anon_Nānopadeśa:89"/>na san nāsan na sadasan na cāpy anubhayātmakam |
+<lb n="SA_K10_anon_Nānopadeśa:90"/>catuṣkoṭivinirmuktaṃ tattvaṃ mādhyamikā viduḥ || [28]
+<lb n="SA_K10_anon_Nānopadeśa:91"/>% tattvaṃ] \stand, tatvaṃ \ms
+<lb n="SA_K10_anon_Nānopadeśa:92"/>% mādhyamikā] \eme, mādhyamikaṃ \ms
+<lb n="SA_K10_anon_Nānopadeśa:93"/>acintyam iti yā cintā sāpi yatra acintyata (?) |
+<lb n="SA_K10_anon_Nānopadeśa:94"/>saiva niścintyatā proktā bhala(?)kāṣṭhakuṭhārikā || [29]
+<lb n="SA_K10_anon_Nānopadeśa:95"/>vātulasya || (?)
+<lb n="SA_K10_anon_Nānopadeśa:96"/>ākāśe śaśisaṃkāśaṃ vīrabrahmāṇḍagocaram |
+<lb n="SA_K10_anon_Nānopadeśa:97"/>dhyāyād dharmodayodbhūtaṃ antetayadasavāte (?) || [30]
+<lb n="SA_K10_anon_Nānopadeśa:98"/>? ? nirmāṇacakre tu pralayānalasaṃnibhā |
+<lb n="SA_K10_anon_Nānopadeśa:99"/>% °saṃnibhā] \eme, °sannibhāḥ \ms
+<lb n="SA_K10_anon_Nānopadeśa:100"/>proktā Mahīdhareṇa yā caṇḍālī sukhacakragā || [31]
+<lb n="SA_K10_anon_Nānopadeśa:101"/>% °gā] \eme, °grā \ms
+<lb n="SA_K10_anon_Nānopadeśa:102"/>% cf. NSU 7
+<lb n="SA_K10_anon_Nānopadeśa:103"/>nābhau dharmodayāntaḥsthakarṇikāyām anāhataḥ |
+<lb n="SA_K10_anon_Nānopadeśa:104"/>% °āntaḥ°] \eme, °āṃta° \ms
+<lb n="SA_K10_anon_Nānopadeśa:105"/>drāvakāṃkārahūṃkārau proktau tattvakaśūriṇā || [32]
+<lb n="SA_K10_anon_Nānopadeśa:106"/>% °kārau] \eme, °kāro \ms
+<lb n="SA_K10_anon_Nānopadeśa:107"/>Vīṇāyātamate nābhau ravīndau bindurekhayā |
+<lb n="SA_K10_anon_Nānopadeśa:108"/>% °mate] \eme, °matai \ms
+<lb n="SA_K10_anon_Nānopadeśa:109"/>svaravarṇaviveṣṭyāgre rekhā śuklā parordhvagā || [33]
+<lb n="SA_K10_anon_Nānopadeśa:110"/>nirmāṇābjendumadhyastho jñānabindur anakṣaraḥ |
+<lb n="SA_K10_anon_Nānopadeśa:111"/>vam ity advayatām eti bhāvitas tattvapāragaiḥ || [34]
+<lb n="SA_K10_anon_Nānopadeśa:112"/>% cf. NSU 9
+<lb n="SA_K10_anon_Nānopadeśa:113"/>antarīkṣe tu nirmāṇe raktapraṇavo bhāvakaḥ |
+<lb n="SA_K10_anon_Nānopadeśa:114"/>% °endu°?
+<lb n="SA_K10_anon_Nānopadeśa:115"/>mukhena gaṇayed vāyūṃ śītkāradaśakena tu || [35]
+<lb n="SA_K10_anon_Nānopadeśa:116"/>% śīt°] \eme, śīta° \ms • tu] \eme, tuḥ \ms
+<lb n="SA_K10_anon_Nānopadeśa:117"/>% cf. NSU 10
+<lb n="SA_K10_anon_Nānopadeśa:118"/>vi ||
+<lb n="SA_K10_anon_Nānopadeśa:119"/>mukhena gholayet prājño yāvad advayatāṃ vrajet |
+<lb n="SA_K10_anon_Nānopadeśa:120"/>% mukhena] \ms\pcorr, mukhela \ms\acorr
+<lb n="SA_K10_anon_Nānopadeśa:121"/>aṃkārākṣarahūṃkārau Virūpācāryair deśitam || [36]
+<lb n="SA_K10_anon_Nānopadeśa:122"/>% cf. NSU 10 (almost verbatim)
+<lb n="SA_K10_anon_Nānopadeśa:123"/>Nāgabuddhimate rāgān nābhyabjayonikarṇikā |
+<lb n="SA_K10_anon_Nānopadeśa:124"/>jvalantī dharmacakrasthā saṃbhogānāhatādvayā || [37]
+<lb n="SA_K10_anon_Nānopadeśa:125"/>% saṃbhogānāhatādvayā] \conj, saṃbhoganāhatau dvayā \ms
+<lb n="SA_K10_anon_Nānopadeśa:126"/>% cf. NSU 11
+<lb n="SA_K10_anon_Nānopadeśa:127"/>aṃhūṃkārā samākrāmya gholayitvā ca jihvayā |
+<lb n="SA_K10_anon_Nānopadeśa:128"/>% samākramya] \eme, samākrāmya \ms
+<lb n="SA_K10_anon_Nānopadeśa:129"/>adho dantāntare sthāpya Dignāgo &#x27;dvayatāṃ gataḥ || [38]
+<lb n="SA_K10_anon_Nānopadeśa:130"/>kākatuṇḍīprasiddhyartham aṃkāraṃ gholayed budhaḥ |
+<lb n="SA_K10_anon_Nānopadeśa:131"/>raktaśuklaṃ hūṃkāra mukhapraveśanirgamaiḥ || [39]
+<lb n="SA_K10_anon_Nānopadeśa:132"/>muktābhaṃ bindu nāsāgre dhyātvā śabdāś ca Mātaliḥ |
+<lb n="SA_K10_anon_Nānopadeśa:133"/>karṇau pidhāya vīṇājaṃ nākalayed vicakṣaṇaḥ || [40]
+<lb n="SA_K10_anon_Nānopadeśa:134"/>% karṇau] \eme, karṇo \ms
+<lb n="SA_K10_anon_Nānopadeśa:135"/>saṃhṛtya sarvataś citta hṛdi cittaṃ nidhāpayet |
+<lb n="SA_K10_anon_Nānopadeśa:136"/>tato &#x27;sau mohatimiraṃ vidhvasyodayate vibhuḥ || [41]
+<lb n="SA_K10_anon_Nānopadeśa:137"/>% vidhvaṃsyo°] \eme, vidhvasyo° \ms
+<lb n="SA_K10_anon_Nānopadeśa:138"/>ghyaṃ (?) || mārgāmnāyaḥ ||
+<lb n="SA_K10_anon_Nānopadeśa:139"/>anuttaro hy anutpādo &#x27;nabhilāpyo niḥsvabhānakaḥ |
+<lb n="SA_K10_anon_Nānopadeśa:140"/>% &#x27;nabhilā[19v]pyo
+<lb n="SA_K10_anon_Nānopadeśa:141"/>acintyo &#x27;nupalambhaś ca samā nāvī (?) ime khilāḥ || [42]
+<lb n="SA_K10_anon_Nānopadeśa:142"/>apodvārakrameṇaivānuttara gholayed yadā |
+<lb n="SA_K10_anon_Nānopadeśa:143"/>nirakṣaraṃ padaṃ śāntaṃ tadā prāpnoti niścitam || [43]
+<lb n="SA_K10_anon_Nānopadeśa:144"/>akṣarabāḍhā saala jagu ṇāhi ṇirakhara kovi |
+<lb n="SA_K10_anon_Nānopadeśa:145"/>tāva se akhara gholiaï jāva ṇirakkhara hoi || [44]
+<lb n="SA_K10_anon_Nānopadeśa:146"/>% NB Saraha
+<lb n="SA_K10_anon_Nānopadeśa:147"/>nīlībhadrapṛṣṭhī(?)pādānām ||
+<lb n="SA_K10_anon_Nānopadeśa:148"/>layauddhatyastyānamiddhān dhyāne doṣān vivarjayet |
+<lb n="SA_K10_anon_Nānopadeśa:149"/>% °middhān] \stand, °middhāṃ \ms
+<lb n="SA_K10_anon_Nānopadeśa:150"/>doṣahīnaṃ yadā dhyānaṃ tadā mudropajāyate || [45]
+<lb n="SA_K10_anon_Nānopadeśa:151"/>cittaṃ niścitya yogena svabhyāsaṃ kurute yadā |
+<lb n="SA_K10_anon_Nānopadeśa:152"/>tadā cittaṃ na paśyāmi kva gataṃ kva sthitaṃ bhavet || [46]
+<lb n="SA_K10_anon_Nānopadeśa:153"/>nāpaneyam ataḥ kiṃcit prakṣeptavyaṃ na kiṃcana |
+<lb n="SA_K10_anon_Nānopadeśa:154"/>% kiṃcana] \eme, kiñcin \ms
+<lb n="SA_K10_anon_Nānopadeśa:155"/>draṣṭavyaṃ bhūtato bhūtaṃ bhūtadarśī vimucyate || [47]
+<lb n="SA_K10_anon_Nānopadeśa:156"/>avikalpavimokṣeṇa sarvam utpadyate svayam |
+<lb n="SA_K10_anon_Nānopadeśa:157"/>bhāvaṃ na bhāvayen mantrī naivābhāvaṃ vivarjayet || [48]
+<lb n="SA_K10_anon_Nānopadeśa:158"/>bisatantusamārūḍhaś caladbindusamaprabhaḥ |
+<lb n="SA_K10_anon_Nānopadeśa:159"/>ūrṇānābha ivābhāti bindur antaḥprakāśakaḥ || [49]
+<lb n="SA_K10_anon_Nānopadeśa:160"/>ity eke ||
+<lb n="SA_K10_anon_Nānopadeśa:161"/>antarbhāvya jagad dehe nābhau haṃkārabhāvakaḥ |
+<lb n="SA_K10_anon_Nānopadeśa:162"/>bindau tu dehahaṃkārau bindumātraṃ jvala ? ? || [50]
+<lb n="SA_K10_anon_Nānopadeśa:163"/>ity anye ||
+<lb n="SA_K10_anon_Nānopadeśa:164"/>% anye] \eme, ane \ms
+<lb n="SA_K10_anon_Nānopadeśa:165"/>vikalpo nāsti me kaścid iti saṃcintya bhāvakaḥ |
+<lb n="SA_K10_anon_Nānopadeśa:166"/>vikalpavāsanāmuktaṃ padaṃ prāpnoty anuttaram || [51]
+<lb n="SA_K10_anon_Nānopadeśa:167"/>ity apare ||
+<lb n="SA_K10_anon_Nānopadeśa:168"/>asaṅgo nāsti me kaścid iti saṃcintya yogavit |
+<lb n="SA_K10_anon_Nānopadeśa:169"/>sarva[explicit]
+    </body>
+  </text>
+</TEI>

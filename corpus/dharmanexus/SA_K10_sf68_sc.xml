@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Bodhasūtra (section on the five factors of striving)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Collection / category: BuddhistScriptures / K10 (Sūtra)
+Source: SuttaCentral
+Link: https://suttacentral.net/sf68/san/hartmann
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Jens-Uwe Hartmann, &#x27;Contents and Structure of the Dīrghāgama of the (Mūla-)Sarvāstivādins&#x27;, Annual Report of the International Research Institute for Advanced Buddhology at Soka University (ARIRIAB) 7 (2004), pp. 119–138, section &#x27;A specimen from the Bodhasūtra: The five qualities of a strenuous one&#x27; (transliteration of fol. 342v2–344r2, restoration, translation).</note>
+          <idno type="dharmanexus">SA_K10_sf68_sc</idno>
+          <ref target="https://dharmamitra.org/db/sa/SA_K10_sf68_sc/text">https://dharmamitra.org/db/sa/SA_K10_sf68_sc/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-12">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_K10_sf68_sc:0"/>Bodhasūtra
+<lb n="SA_K10_sf68_sc:1"/>Hart_1 “pṛccha Bodha d eva yad yad evākāṁkṣasi.”
+<lb n="SA_K10_sf68_sc:2"/>Hart_2 “katibhir bhadaṁtāṁgaiḥ samanvāgata āryaśrāvakaḥ kṣipram evāsmiṁ dharmavinaye āsravakṣayam anuprāpnoti?”
+<lb n="SA_K10_sf68_sc:3"/>Hart_3 “tena hi Bodha tvām eva pra + + yathā te kṣamate ’thainam vyākuru! kiṁ manyase Bodha
+<lb n="SA_K10_sf68_sc:4"/>kuśalas tvaṁ pitrye śilpasthānakarmasthāne tadyathāhastigrīvāyām aśvapṛṣṭhe rathe
+<lb n="SA_K10_sf68_sc:5"/>sarau dhanuṣy apayāne niryāṇe aṁkuśagrahepāśagrahe toramaragrahe lipigaṇananyasanasaṁkhyāmudrāyāṁ?”
+<lb n="SA_K10_sf68_sc:6"/>Hart_4 “tathyam ahaṁ bhadanta kuśalaḥ pitrye śilpasthānakarmasthāne tadyathāhasti-grīvāyām
+<lb n="SA_K10_sf68_sc:7"/>aśvapṛṣṭhe rathe sarau dhanuṣy apayāne niryāṇe aṁkuśagrahetomaragrahe lipigaṇananyasanasaṁkhyāmudrāyām.”
+<lb n="SA_K10_sf68_sc:8"/>Hart_5 “atha puruṣa āgacchet tasyaivaṁ syāt: kuśalo bata Bodho rājakumāraḥ pitryeśilpasthānakarmasthāne
+<lb n="SA_K10_sf68_sc:9"/>tadyathāhastigrīvāyām aśvapṛṣṭhe rathe saraudhanuṣy apayāne niryāṇe aṁkuśagrahe pāśagrahe
+<lb n="SA_K10_sf68_sc:10"/>tomaragrahe lipigaṇananyasanasaṁkhyāmudrāyāṁ. yanv aham asyāntikād anyatamānyatamaśilpasthānakarmasthānam anvāgamayeyam iti
+<lb n="SA_K10_sf68_sc:11"/>Hart_6 sa ca syād aśrāddhaḥ; kiṁ manyase Bodha: yat tac chrāddhena prāptavyaṁprāpnuyāt saḥ?”
+<lb n="SA_K10_sf68_sc:12"/>“no bhadaṁta.”
+<lb n="SA_K10_sf68_sc:13"/>Hart_7 “sa ca syāc chaṭhaḥ; kiṁ manyase Bodha: yat tadṛ śaṭhīna prāptavyanprāpnuyāt sa?”
+<lb n="SA_K10_sf68_sc:14"/>“no bhadanta.”
+<lb n="SA_K10_sf68_sc:15"/>Hart_8 “sa ca syād bahvābādhaḥ; kiṁ manyase Bodha: yat tad alpābādhena prāptavyaṁ prāpnuyāt saḥ?”
+<lb n="SA_K10_sf68_sc:16"/>“no bhadanta.”
+<lb n="SA_K10_sf68_sc:17"/>Hart_9 “sa ca syād anārabdhavīryaḥ; kiṁ manyase Bodha: yat tad ārabdhavīryeṇaprāptavyaṁ prāpnuyāt sa?”
+<lb n="SA_K10_sf68_sc:18"/>“no bhadanta.”
+<lb n="SA_K10_sf68_sc:19"/>Hart_10 “sa ca syād duṣprajñaḥ; kiṁ manyase Bodha: yat tat prājñena prāptavyaṁprāpnuyāt sa?”
+<lb n="SA_K10_sf68_sc:20"/>“no bhadanta; ekaikena tāvad bhadanta ito ’ṅgena samanvāgatena tena puruṣeṇa na sukaraṁ
+<lb n="SA_K10_sf68_sc:21"/>mamāntikād anyatamānyatamaṁ śilpasthāna-karmasthānam anvāgamayituṁ; kaḥ punar vādaḥ sarvaiḥ.”
+<lb n="SA_K10_sf68_sc:22"/>Hart_11 “dvitīyo .āpuruṣa āgacchet tasyaivaṁ syāt: kuśalo bata Bodho rāja-kumāraḥ pitrye
+<lb n="SA_K10_sf68_sc:23"/>śilpasthānakarmmasthāne tadyathāhastigrīvāyāṁ aśva-pṛṣṭhe rathe sarau dhanuṣy apayāne
+<lb n="SA_K10_sf68_sc:24"/>niryāṇe aṁkuśagrahe pāśagrahe tomaragrahelipigaṇananyasanaṁsaṁkhyāmudrāyāṁ. yanv
+<lb n="SA_K10_sf68_sc:25"/>aham asyāntikād anyata-mānyatamac chilpasthānakarmmasthānam anvāgamayeyam iti.
+<lb n="SA_K10_sf68_sc:26"/>Hart_12 sa ca syāc chrāddhaḥ; kiṁ manyase Bodha yat tac chrāddhena prāptavyaṁprāpnuyāt sa?”
+<lb n="SA_K10_sf68_sc:27"/>“evaṁ bhadanta.”
+<lb n="SA_K10_sf68_sc:28"/>Hart_13 “sa ca syād aśaṭhaḥ; kiṁ manyase Bodha:  yat tad aśaṭhena prāptavyaṁprāpnuyāt sa?”
+<lb n="SA_K10_sf68_sc:29"/>“evaṁ bhadanta.”
+<lb n="SA_K10_sf68_sc:30"/>Hart_14 “sa ca syād alpābādhaḥ; kim manyase Bodha: yat tad alpābādhena prāptavyaṁprāpnuyāt saḥ?”
+<lb n="SA_K10_sf68_sc:31"/>“evaṁ bhadanta.”
+<lb n="SA_K10_sf68_sc:32"/>Hart_15 “sa ca syād ārabdhavīryaḥ; kiṁ manyase  Bodha: yat tad ārabdhavīryeṇaprāptavyaṁ prāpnuyāt sa?” “evaṁ bhadanta.”
+<lb n="SA_K10_sf68_sc:33"/>Hart_16 “sa ca syāt prājñaḥ; kiṁ manyase Bodha: yat tat prājñena prāptavyaṁ prāpnuyātsa?”
+<lb n="SA_K10_sf68_sc:34"/>“evaṁ bhadanta; ekaikena tāvad bhadanta ito ’ṅgena samanvāgatena tenapuruṣeṇa sukaraṁ
+<lb n="SA_K10_sf68_sc:35"/>mamāntikād anyatamānyatamac chilpasthānakarmasthānasamanvāgamayituṁ; kaḥ punar vādaḥ sarvair.”
+<lb n="SA_K10_sf68_sc:36"/>Hart_17 “evam eva Bodha paṁcabhiḥ prādhānikāṁgais samanvāgata āryaśrāvakaḥkṣipram evāsmiṁ dharmavinaye āsravakṣayam anuprāpnoti; katamaiḥ paṁcabhir?
+<lb n="SA_K10_sf68_sc:37"/>Hart_18.1 iha Bodha āryaśrāvakasya tathāgatasyāntike śraddhābhiniviṣṭābhavatimū lajātāpratiṣṭhitāasaṁhāryāśramaṇena
+<lb n="SA_K10_sf68_sc:38"/>vā brāhmaṇena vā devena vā māreṇa vā brahmaṇā vā kenacid vā punar loke sahadharmatam;
+<lb n="SA_K10_sf68_sc:39"/>anena prathamenaprādhānikenāṁgena samanvāgato bhavaty āryaśrāvakaḥ.
+<lb n="SA_K10_sf68_sc:40"/>Hart_18.2 punar aparaṁ + Bodha āryaśrāvako ’śaṭhībhavaty amāyāvīṛjukoṛjukajātīyaḥ sa yathābhū
+<lb n="SA_K10_sf68_sc:41"/>tam ātmānam āviṣkaroti śāstur antike vijñānāṁ casabrahmacārīṇām anena dvitīyena prādhānikenāṁgena
+<lb n="SA_K10_sf68_sc:42"/>samanvāgatobhavaty āryaśrāvakaḥ.
+<lb n="SA_K10_sf68_sc:43"/>Hart_18.3 punar aparaṁ āryaśrāvaka alpābādho bhavaty arogajātīyaḥ samayāpācanyāgrahaṇyāsamanvāgato
+<lb n="SA_K10_sf68_sc:44"/>nātyuṣṇayā nātiśītayāavyābādhayāṛtusukhāyāyayāpy aśitapītakhaditāsvāditāni samyaksukhena
+<lb n="SA_K10_sf68_sc:45"/>paripākaṁ gacchanti; anenatṛtīyena prādhānikāṁgena samanvāgato bhavaty ābhavaty āryaśrāvakaḥ.
+<lb n="SA_K10_sf68_sc:46"/>Hart_18.4 punar aparaṁ Bodha āryaśrāvakaḥ ārabdhavīryo viharati sthāmavāṁ vīryavānutsāhīdṛḍhaparākramo
+<lb n="SA_K10_sf68_sc:47"/>’nikṣiptadhuraḥ kuśaleṣu dharmeṣu: kāmaṁ tvak snāyvasthi cāvatiṣṭhatāṁ, pariśuṣyatu
+<lb n="SA_K10_sf68_sc:48"/>śarīrān māṁsaśoṇitam. atha ca punar yattad ārabdhavīryeṇa prāptavyaṁ sthāmavatā vīryavatā
+<lb n="SA_K10_sf68_sc:49"/>utsāhinā dṛḍhaparākrameṇānikṣiptadhureṇa kuśaleṣu dharmeṣu tad vata nāprāpyāntarādvīryasya
+<lb n="SA_K10_sf68_sc:50"/>sraṁsanaṁ bhaviṣyaty; anena caturthena prādhānikenāṁgena samana-vāgato bhavaty āryaśrāvakaḥ.
+<lb n="SA_K10_sf68_sc:51"/>Hart_18.5 punar aparaṁ Bodhāryaśrāvakaḥ prajñāvān viharati lokasyodayāstaṁgaminyāprajñayāsamanvāgataḥ
+<lb n="SA_K10_sf68_sc:52"/>āryayānairyāṇikayānairvedhikayāniryātitatkaraḥ sya hetoḥ samyagduḥkhakṣayāya duḥkhasyāntakriyāyai;
+<lb n="SA_K10_sf68_sc:53"/>anena paṁcamena prādhānikenāṁgena samanvāgato bhavaty āryaśrāvakaḥ.
+<lb n="SA_K10_sf68_sc:54"/>Hart_19 ebhir Bodha paṁcabhiḥ prādhānikāṁgais samanvāgataḥ āryaśrāvakaḥ kṣipramevāsmiṁ dharmavinaye āsravakṣayam anuprāpnoti.”
+<lb n="SA_K10_sf68_sc:55"/>Hart_20 atha Bodho rājakumāraḥ pū rvaṁ kāyam abhyunnamayya dakṣiṇaṁ bāhumabhiprasāryāttamanāttamanāudānam
+<lb n="SA_K10_sf68_sc:56"/>udānayati: “aho buddha aho dharma ahosaṁgha aho dharmasya svākhyātatā, yatredānīṁ
+<lb n="SA_K10_sf68_sc:57"/>paṁcabhiḥ prādhāni-kāṁgenagaiḥ samanvāgata āryaśrāvakaḥ kṣipram evāsmiṁ dharmavinayeāsravakṣayam anuprāpnotīti!”
+    </body>
+  </text>
+</TEI>

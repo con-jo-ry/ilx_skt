@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Vajrāmṛtatantra (fragment)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Collection / category: BuddhistScriptures / K12 (Tantra)
+Source: OCR / Dharmamitra
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Francesco Sferra, &#x27;A Fragment of the Vajrāmṛtamahātantra: A Critical Edition of the Leaves Contained in Cambridge University Library Or.158.1. Material, Textual, and Historical Investigations&#x27;, in: Orna Almogi (ed.), Evolution of Scriptures, Formation of Canons: The Buddhist Case, Hamburg: Department of Indian and Tibetan Studies, Universität Hamburg, 2017.</note>
+          <idno type="dharmanexus">SA_K12_Āgama_Vajrāmṛtatantra</idno>
+          <ref target="https://dharmamitra.org/db/sa/SA_K12_Āgama_Vajrāmṛtatantra/text">https://dharmamitra.org/db/sa/SA_K12_Āgama_Vajrāmṛtatantra/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-12">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:0"/>Title: Vajrāmṛtatantra
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:1"/>Published: Sferra forthcoming 2017
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:2"/>Source: CUL ms., some lemmata from Śrībhānu
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:3"/>[Chapter 1: Guhyamaṇḍalakaraṇābhinayanirdeśa]
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:4"/>evaṃ mayā śrutam ekasmin samaye bhagavān sarvatathāgatakāyavākcittahṛdayavajrāmṛtaguhyapadmeṣu vijahāra ||
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:5"/>krīḍate bhagavān vajrī māmakyā sahitaḥ pure |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:6"/>pṛcchate tatra sā devī rahasye tivyavasthitā || 1.1
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:7"/>% Śrībhānu: rahasye tv ity anyabodhisattvādidevatāpagate sthitā satī | tuśabdaḥ satyarthe |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:8"/>uktaṃ deva tvayā pūrvaṃ tantraṃ vajrāmṛtaṃ param |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:9"/>amṛtaṃ sādhanopāyaṃ kathayasva mahāsukha || 1.2
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:10"/>ity āha bhagavān vajrī vajrāmṛtamahāsukhaḥ |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:11"/>acintyam avyayaṃ sūkṣmaṃ amoghaṃ ca nirindriyam |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:12"/>paraṃ śāntaṃ viśuddhaṃ tu vajrāmṛtam udāhṛtam || 1.3
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:13"/>tatas tu bhagavān vajrī vajrāmṛtasamādhibhiḥ |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:14"/>māmakyā rāgayuktena rahasyaṃ prakaṭīkṛtam || 1.4
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:15"/>% Śrībhānu: kim āhety āha | vajrāmṛtasamādhinetyādi [...] vajrāmṛtasamādhinā kartṛbhūtena hetubhūtena vā yad rahasyaṃ tattvaṃ tat prakaṭīkṛtam |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:16"/>gopitaṃ sarvatantreṣu jñānaṃ vajrāmṛtaṃ param |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:17"/>tad ahaṃ kathayiṣyāmi gāḍhāliṅganacumbanaiḥ || 1.5
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:18"/>ratikrīḍāsamāyogair gītavādyāvikurvaṇaiḥ |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:19"/>sidhyate acirād evaṃ tantraṃ vajrāmṛtaṃ param || 1.6
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:20"/>% Śrībhānu: sevyate | ebhiḥ kāraṇaiḥ niṣpadyate | pratibhāsagocaro bhaved ity arthaḥ | acirād iti cumbanādyanantaram | devīti sambodhane | kiṃ sevyata ity āha | tantram ityādi |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:21"/>tasyāhaṃ sādhanaṃ vakṣye tvatpriyārthaṃ varānane |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:22"/>kathayāmi samāsena tan me nigaditaṃ śṛṇu || 1.7
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:23"/>sarvasattvahitārthāya yogayogāmṛtaṃ varam |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:24"/>yaṃ jñātvā mucyate kṣipraṃ yogī saṃsārabandhanāt || 1.8
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:25"/>% Śrībhānu: yogeti devatāyogaḥ | tasminn api yogo bhāvanā tadartham amṛtaṃ sāram |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:26"/>aprakāśyaṃ mahājñānaṃ siddhitrailokyasādhanam |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:27"/>kāyavākcittasiddhyarthaṃ sādhakānāṃ sukhāvaham || 1.9
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:28"/>% Śrībhānu: siddham iti prakṛtasiddham | [= *siddhaṃ trailokyasādhanam]
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:29"/>vajrapadmasamāyogair vajrāmṛtasamudbhavam |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:30"/>cumbayed bhagapadmaṃ tu vajraṃ cumbayet māmakī || 1.10
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:31"/>ity āha bhagavān vajrī vajrāmṛtamahāsukhaḥ |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:32"/>tadā tu [fols. 2–5 desunt]
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:33"/>[Chapter 2: Tattvayogajñānanirdeśa]
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:34"/>[Chapter 3: Mantrotpattinirdeśa]
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:35"/>svāhākāras tu māmakyā sarvasiddhipradāyakaḥ | 3.20ab
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:36"/>[Chapter 4: Homavidhinirdeśa]
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:37"/>% vv. 13-18 restored from Sādhanamālā 180 [
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:38"/>tatas tu vilikhen mantrī homakuṇḍapramāṇataḥ |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:39"/>śāntikaṃ vartulaṃ kāryaṃ hastamātraṃ tu sūtrayet || 4.13
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:40"/>ardhahastaṃ khaned bhūmau śvetaraṅgaṃ tu dāpayet |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:41"/>pārśvayos tu samālikhya cakrākāraṃ samantataḥ || 4.14
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:42"/>pauṣṭikaṃ tu dvihastakam ekahastaṃ tataḥ khanet |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:43"/>caturasraṃ samantena lekhyaṃ ca pītagairikaiḥ || 4.15
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:44"/>abhicārukaṃ trikoṇaṃ tu viṃśatyaṅgulavistaram |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:45"/>khanitvā viṃśatyardhaṃ ca jvālāmālākulaṃ likhet || 4.16
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:46"/>ardhacandraṃ samālekhyaṃ vaśyākarṣaṇayos tathā |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:47"/>homakuṇḍaṃ samuddiṣṭaṃ diśābhagaṃ vinirdiśet || 4.17
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:48"/>uttarābhimukho bhūtvā mantrī śāntikam ārabhet |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:49"/>pauṣṭikaṃ tu sadā pūrve abhicāraṃ tu dakṣiṇe || 4.18
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:50"/>% dakṣi]ṇe
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:51"/>paścime vaśyam evoktaṃ ākarṣaṇoccāṭanaṃ tathā |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:52"/>abhicārukaṃ sadā kṛṣṇaṃ pañcaraṅgeṇa vaśyayoḥ || 4.19
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:53"/>tilataṇḍulakṣīreṇa ghṛtena madhunā saha |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:54"/>pañcāmṛtaniyuktena śāntike pauṣṭike juhet || 4.20
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:55"/>samidhāni ca sarvāṇi kṣīravṛkṣasugandhayoḥ |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:56"/>bhakṣyaṃ nānāvidhaṃ dadyād baliṃ vā sarvabhautikam || 4.21
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:57"/>dātavyaṃ herukāmudrair baliṃ yat kiṃcit sādhakaiḥ |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:58"/>sidhyate yogino nityaṃ yat kiṃcit manaīpsitam || 4.22
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:59"/>śāntikaṃ śaratkāle tu hemante pauṣṭikaṃ tathā |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:60"/>grīṣme &#x27;bhicārukarmāṇi kuryāt sarvāṇi sādhakaḥ || 4.23
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:61"/>pradoṣe śāntikaṃ proktaṃ pratyūṣe pauṣṭikaṃ tathā |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:62"/>madhyāhne ardharātre vā prakuryād abhicārukaṃ sadā || 4.24
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:63"/>hūṃkāreṇa tu niṣpādya kuṇḍamadhye svadevatām |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:64"/>vaktraṃ prasāritaṃ dhyātvā āhutiṃ tatra dāpayet || 4.25
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:65"/>lakṣyaṃ tu āhutiṃ dadyāt pratyakṣam agrataṃ bhavet |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:66"/>prathamam āvāhayed agniṃ sarvadevatapūjitam |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:67"/>divyamālākulaṃ raudraṃ buddhabodhiprasādhakam || 4.26
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:68"/>oṃ
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:69"/>ehy ehi tvayāvaśyāgnau pratyakṣaṃ siddhidāyakam |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:70"/>trailokyapūjitaṃ raudraṃ brahmāviṣṇunamaskṛtam |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:71"/>gṛhītvā tv idam arghaṃ ca pādyaṃ ca dravyaṃ savajriṇam || 4.27
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:72"/>oṃ hūṃ hūṃ phaṭ phaṭ svāhā ||
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:73"/>arghaṃ tu prathamaṃ dadyāt paścāt puṣpaṃ nivedayet || 4.28
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:74"/>oṃ
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:75"/>divyapuṣpaṃ suraktaṃ ca divyagandhasuśobhanam |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:76"/>pratīccha adya me puṣpa asmin saṃnihito bhava |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:77"/>puṣpamantraḥ || 4.29
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:78"/>oṃ
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:79"/>dīpanaṃ jvalanaṃ dīptaṃ durgatīnāṃ bhayāpaham |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:80"/>divyacakṣukarāṃ dhanyāṃ dīpam asmai pratīcchati |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:81"/>dīpamantraḥ || 4.30
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:82"/>oṃ
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:83"/>candanaṃ ca sakarpūraṃ dīpasaugandhikaṃ śubham |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:84"/>sāṃnidhyakaraṇaṃ dhūpaṃ asmai pratīcchatu saṃnihito bhava |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:85"/>dhūpamantraḥ || 4.31
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:86"/>oṃ
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:87"/>nānādivyasugandhaṃ ca nānākarpūrabhūṣitam |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:88"/>nānāhūṃkārasaṃbhūtam idaṃ gandhaṃ pratīcchatu || 4.32
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:89"/>ādau pūjāvidhānaṃ tu agnīkṛtasuniścayam |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:90"/>paścād uccārayed vidyāṃ jāpya mantrasvadevatām || 4.33
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:91"/>geyanṛtyopahāreṇa krīḍayantam anekadhā |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:92"/>gaṇaṃ saṃtoṣayet pūjā vidyāṃ sādhakam eva ca || 4.34
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:93"/>yadicchet siddhim ātmānaṃ kāyavākcittasādhanam |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:94"/>pūjya visarjaye devaṃ agniṃ vajradharaṃ gurum || 4.35
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:95"/>oṃ
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:96"/>agnaye sādhitaṃ karmaṃ sarvasattvasukhāvaham |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:97"/>kāyavākcittasiddhyarthaṃ devatānāṃ tu pālanam || 4.36
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:98"/>gaccha āgneya susaumyena śāntiṃ kuru mahīdhara |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:99"/>sādhakānāṃ tu sarveṣāṃ sthāvarāṇāṃ ca jaṅgamam |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:100"/>mama puṇyaphalaṃ bhotu mantrasiddhiprado bhavet || 4.37
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:101"/>a ā i ī u ū ṛ ṝ ḷ ḹ e ai o au aṃ aḥ hūṃ haḥ svāhā ||
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:102"/>ity āha bhagavān vajrī vajrāmṛtamahāsukhaḥ || 4.38
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:103"/>sarvatathāgatakāyavākcittavajrī vajrāmṛtamahāsukhaḥ || vajrāmṛtamahātantre homavidhinirdeśo nāma caturthaḥ ||
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:104"/>[Chapter 5: Karmaprasaranirdeśa]
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:105"/>uktaṃ homavidhānaṃ ca añjanaṃ kathayāmi te |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:106"/>mahāmedena vartiṃ ca kapāle gṛhna kajjalam || 5.1
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:107"/>ulūkasya śiraṃ dagdhvā mahāraktena bhāvayet |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:108"/>niśāyāṃ tu supiṣṭitvā sūkṣmacūrṇāni kārayet || 5.2
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:109"/>gṛdhrapādān atipūrya [fol. 7 deest]
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:110"/>[Chapter 6: Vajrahūṃkārasādhananirdeśa]
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:111"/>caturbāhuṃ samālekhyaṃ dvayor bāhoḥ kucagraham |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:112"/>vidyās tu trimukhā sarve dvārapālās tathāṅkuśaḥ || 6.6
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:113"/>puṣpadhūpaṃ tathā dīpaṃ gandhaṃ cāpi samālikhet |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:114"/>lāsyā mālyaṃ tathā gītaṃ nṛtyaṃ caiva tu ṣaḍbhujam || 6.7
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:115"/>vaṃśe caiva samālekhyaṃ sarvavīṇā makundayoḥ |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:116"/>muraja vādyaṃ tathā sarve samālekhyaṃ tu maṇḍale || 6.8
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:117"/>vajrāmṛtamahātantre sthāpayed bhadrakalpikān |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:118"/>dvibhujam ekavaktraṃ tu bhadrakalpikam eva ca || 6.9
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:119"/>agrataḥ sādhakaṃ likhet sarvālaṃkārabhūṣitam |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:120"/>akṣasūtraṃ tathā vajraṃ ghaṇṭāṃ cāpi samālikhet || 6.10
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:121"/>balibalyopahāreṇa madyapānarasotsavaiḥ |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:122"/>kṛṣṇāṣṭamyāṃ caturdaśyāṃ pātayec cūrṇi maṇḍale || 6.11
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:123"/>% why not pātaye[d] rajo?
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:124"/>caruṃ kṛtvā tu madhye tu yadicchet siddhim uttamām |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:125"/>sādhayed vajrahūṃkāraṃ mantram ekākṣaraṃ vibhum || 6.12
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:126"/>ācārye pūjayet paścād ātmānaṃ rājyam eva ca |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:127"/>mātṛṃ dadyā bhaginyā tu bhāryā duhitam eva ca || 6.13 ||
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:128"/>yadicche siddhim ātmānaṃ kāyavākcittasādhanaṃ |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:129"/>sādhanīyaṃ sadā mantrī trailokyā[dv]araṇaṃ sadā || 6.14 ||
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:130"/>maṇḍalaṃ vajrasatvasya vajrāmṛtavinirgataṃ |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:131"/>pañcāmṛtasamāyuktaṃ sarvadurgatināśanaṃ || 6.15 ||
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:132"/>vajracchoṭasamāyogaiḥ śrīvajrahūṃkārasādhanaṃ |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:133"/>kathitaṃ yogayoginyāṃ bodhicittavikurvaṇaṃ || 6.16 ||
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:134"/>kurvīta maṇḍale krīḍā vidyāyā cāpy anekadhā |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:135"/>bhagamadhye tu samāsvādya vīrāvayai mantrasaṃsthitā || 6.17 ||
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:136"/>vajreṇa cumbayet padmam amṛtaṃ śukram eva ca |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:137"/>na tatra muddharet sthāne ka[folio 8 recto]rābhyām aṅgulim eva ca || 6.18 ||
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:138"/>uddharitvā vināśye tu na vīryan na ca vai phalaṃ |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:139"/>uddhāritvā mahāvidyā cumbayitvā tu vajriṇaṃ || 6.19 ||
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:140"/>sidhyate tasya buddhatvaṃ mamṛtaṃ śukrarūpiṇaṃ ||
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:141"/>ity āha bhagavān vajrī vajrāmṛta mahāsukhaḥ || 6.20. ||
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:142"/>sarvatathāgatakāyavākcittavajrī vajrāmṛtamahāsukhaḥ |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:143"/>vajrāmṛtamahātantre vajrahūṃkārasādhananirdeśo nāma ṣaṣṭhaḥ ||      ||
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:144"/>% CHAPTER 7.
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:145"/>tatas tu māmakī devī ratikrīḍāvyavasthitā |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:146"/>kṛtāṃjali namaskārair idaṃ gītam udāharet || 7.1 ||
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:147"/>asitākṣavapur vīraṃ vīramanyaiḥ parivṛtaṃ |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:148"/>mudrāgaṇasamāyuktaṃ vajrāmṛta namāmy a || 7.2 ||
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:149"/>śaraṃgagaṇasaṃprāptaṃ kokilābhṛṅganāditaṃ
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:150"/>subhagaṃ suratārūḍhaṃ vajrāmṛta namāmy ahaṃ || 7.3 ||
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:151"/>sarvaṃ sarvā anārūpaṃ sarvajñaṃ sarvasauhṛdaṃ |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:152"/>samyagindriyamārgeṇa vajrāmṛta namāmy ahaṃ || 7.4 ||
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:153"/>traidhātukam aśeṣasya vajrāmṛtamanomayaṃ | % *anopamaṃ tib;
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:154"/>caturviṃśatmahāvidyā atirāgeṇa rāgayet || 7.5 ||
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:155"/>[++?]ullakitāṃrohi sarvabuddha kṛtālayet |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:156"/>sarvasiddhikaraḥ śrīmān vajrāmṛta namāmy ahaṃ || 7.6 ||
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:157"/>dalanī nuppa rasā mantraa tuhuṃ tavogatu vajja
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:158"/>muhuṃ aṇurāaï suratasubhajjo tuhu aśemāha[si] kajja ||
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:159"/>suṇṇanirañjaṇa paramapati tuhuṃ akṣaturu vajja
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:160"/>aṇāijjo pacche etti savarāe raga eti tuhuṃ kaü saṃsāra hoaï ||
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:161"/>anena gīyamānena vajranṛtyavikurvaṇaiḥ |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:162"/>bhāratī sāndhavī caiva nṛ [end of folio 8 recto]
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:163"/>% sātvatī surely!
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:164"/>[...]
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:165"/>% three verses in ch. 7 are quoted in the Guṇavatī !
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:166"/>% CHAPTER 8. ŚRĪHERUKOTPATTINIRDEŚA
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:167"/>[folio 10 verso] vṛtaṃ || 8.4 ||
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:168"/>mahāśmaśānanilayaṃ mantrapheṭkāranāditaṃ |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:169"/>bhūtavetāḍasaṃghaiśca krīḍamānaṃ śmaśānakaiḥ || 8.5 ||
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:170"/>tatas tu sendrakān devān brahmāviṣṇumaheśvarān |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:171"/>bhakṣyamānaṃ mahāvajrī śrīherukarūpam udvahet || 8.6 ||
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:172"/>% bhakṣ[y]amānaṃ] \eme, bhakṣāmānaṃ \ms
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:173"/>sotkaṭā prathamā vidyā vikaṭā cāṇḍāli ḍombikā |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:174"/>piṅgalā kulinī ugrā dāruṇī cāṣṭamī smṛtāḥ || 8.7 ||
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:175"/>japyamānam idaṃ mantraṃ nṛtyamānā tu gāpayet |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:176"/>daṃstrotkaṭamahābhīmaṃ antraśragdāmabhūṣitaṃ || 8.8 ||
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:177"/>bhakṣamānaṃ mahāmānsaṃ śrīheruka namāmy ahaṃ |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:178"/>japya mantraṃ pravakṣyāmi sādhakānāṃ hitāya vai || 8.9 ||
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:179"/>tṛtīyā ca tṛtīyan tu saptamī ca caturthake |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:180"/>saptamā ca tṛtīyan tu dvādvaupada niyojayet || 8.10 ||
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:181"/>sakalatatvasaṃyuktaṃ phaṭkāreṇa vibhūṣitaṃ |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:182"/>ṣaṣṭhyā caturthakoddhṛtya saptamādyena āsanaṃ || 8.11 ||
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:183"/>trayodaśasamākrāntam [atra?] svāhāntaṃ mantram uddharet |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:184"/>ādau vairocanaṃ dadyāt mūlamantraṃ tu heruke || 8.12 ||
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:185"/>asya ca mantrarājasya māhātmyaṃ śṛṇu māmakī |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:186"/>sakṛjjaptena mantreṇa trailokyan nāśayet kṣaṇāt || 8.13 ||
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:187"/>traidhātukam aśeṣan tu bhakṣayed aviśaṅkataḥ |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:188"/>sarvakāmaṃdadā hy eṣā śrīherukasamo bhavet || 8.14 ||
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:189"/>% not aluk but num/ṇum (increment)
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:190"/>ity āha bhagavān vajrī vajrāmṛtamahāsukhaḥ |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:191"/>sarvatathāgatakāyavākcittavajrī vajrāmṛtamahāsukhaḥ | vajrāmṛtamahātantre śrīherukotpatti[folio 10 recto]nirdeśo nāmāṣṭamaḥ ||   o   ||
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:192"/>% CHAPTER 9. AMṚTAKUṆḌALIN
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:193"/>athātaḥ sampravakṣyāmi rūpam amṛtakuṇḍalī |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:194"/>% understand: -kuṇḍaleḥ
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:195"/>trimukhaṃ ṣaḍbhujaṃ raudraṃ kṛṣṇabhinnāñjanaprabhaṃ || 9.1 ||
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:196"/>jvālāmālākulaṃ caṇḍaṃ piṅgalākṣiṃ piṅgalojvalaṃ
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:197"/>mahāvighnasamākrāntaṃ paraśūdyatapāṇinaṃ || 9.2 ||
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:198"/>% paraśūdyata-] \eme, paruśodyata- \ms
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:199"/>muṣalaṃ vajrapāśañ ca vāmahastena tarjanī |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:200"/>% muṣalaṃ] \eme, mūṣalaṃ \ms
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:201"/>% tarjanī] \eme, darjinī \ms
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:202"/>tarjayaṃ sarvaduṣṭānāṃ pāṇau khaḍgan tu bhāvayet || 9.3 ||
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:203"/>vidyāṣṭakamalāyuktaṃ dvārapālasamanvitaṃ |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:204"/>bhāvayed guhyapadmaṃ tu vidyāṃ cāṣṭau dale nyaset || 9.4 ||
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:205"/>amṛtā amṛtavajrā ca amṛtā amṛtalocanā |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:206"/>aprameyā ca surūpā ca vāruṇā sukhasādhanī || 9.5 ||
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:207"/>trimukhā ṣaḍbhujā sarve diśāsu vidiśāsu ca |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:208"/>paṃkajodyatapāṇinā nṛtyamānā ca te devyā viśvarūpadharapradā || 9.6 ||
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:209"/>hasante kilikilāyante mantrarājam anusmaret |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:210"/>punar vairocanan dadyāt tatpadaṃ paripūrayet || 9.7 ||
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:211"/>prathamā tu dvitīyaṃ tu śūnyamāśanasaṃyutaṃ |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:212"/>śūnyaṃ śūnyam ākrāntaṃ mantra svāhāntayojitaṃ || 9.8 ||
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:213"/>atyanta suratāyogaiḥ amṛtā amṛtamutthitaṃ |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:214"/>amṛtā amṛtayogena sādhayed amṛtakuṇḍaliṃ || 9.9 ||
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:215"/>sidhyate acirāt [tena] sarvārthā sarvasiddhibhiḥ |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:216"/>naro vā yadi vā nārī smarate amṛtakuṇḍaliṃ || 9.10 ||
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:217"/>tasya hastatale sarvaṃ trailokyaṃ sacarācaraṃ |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:218"/>dhyāyate nṛtyakāle tu vajrāmṛta mahāsukha || 9.11 ||
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:219"/>sarvatathāgatakāyavākcitta[folio 11 verso]vajrī vajrāmṛtamahāsukhaḥ | vajrāmṛtamahātantre śrī-amṛtakuṇḍali-utpattinirdeśo nāma navamaḥ ||   o   ||
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:220"/>%	 CHAPTER 10. VETĀLASĀDHANA
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:221"/>athānyaṃ saṃpravakṣyāmi mahāvetālasādhanaṃ |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:222"/>kṛṣṇāṣṭamyāṃ caturdaśyāṃ ekaliṃge [catu]ṣpathe
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:223"/>ekavṛkṣe śmaśāne vā nadītīre ca parvate |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:224"/>sādhayet sarvakāryāṇi vetālotthāpanan tathā |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:225"/>sarvalakṣaṇasaṃpūrṇṇā udbandhanamṛtā tu yā |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:226"/>mātaṃgī ḍombīkā śvapākī ca nirvaṇā cāruśobhanā | % nirvraṇā tib.
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:227"/>[ṣā?]tṛṃśaṃ ca saumyā pañcaviṃśatyā[d vā] prasūtā |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:228"/>bāleṣu gṛhyate mṛtakā striyā
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:229"/>snāpayet divyatoyena mantrauṣadhisasalilakaiḥ |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:230"/>svetacandanakarpūraiḥ kuryāt tasya vilepanaṃ |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:231"/>pūjayet puṣpadhūpaiś ca vicitrāṇi baliṃ dāpayet |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:232"/>mahātailenābhyajya sarṣapair mukha tāḍayet |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:233"/>maṇḍalam ālikhyet tatra śrīherukasya sādhakaḥ |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:234"/>ārddhacandraṃ kapālākhyam āpūrya dhanuṣākṛtiṃ |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:235"/>aṣṭavidyāsamāyuktaṃ kapālair upaśobhitaṃ |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:236"/>[asravā?]tukapālāni sarve khaṭvāṅgadhāriṇā |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:237"/>trimukhā raudrarūpās tu ṣaḍbhujākhaḍgapāṇayaḥ |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:238"/>bāhyato maṇḍalasyāsyā dvārapālān prakalpayet |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:239"/>gokarṇṇaṃ hastikarṇṇaś ca sumukhyo durmukhas tathā |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:240"/>pāṇāṃkuśadharā raudrā vikaṭotkaṭabhīṣaṇāḥ |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:241"/>dvibhujā ekavaktrās tu puṣpapūjā samālikhet |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:242"/>vidyā sā tu vicitrāṇi maṇḍalapūja samālikhet |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:243"/>tatas tu sādhako vīra herukarū[folio 11 recto]pam udvahet |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:244"/>mahāśaṃkhair alaṃkṛtya kapālamālaśekharaṃ |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:245"/>ḍamarukaṃ vāhayet tatra nṛtyamānā puraṃ viśet |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:246"/>mantraiḥ samudvahe [hastra?] phaṭkāraṃ tatra ṭāpayet |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:247"/>pūjayet maṇḍalaṃ divya mahāraktena prokṣayet |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:248"/>śrīherukamahāmantraṃ japamānas tu sādhakaḥ |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:249"/>krodhāviṣṭan tu garjantaṃ vetāḍarāvam uddharet |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:250"/>tasya na bhetavyaṃ tadā mantrī śrīherukam anusmaret
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:251"/>utthitatas vetālaṃ sādhakam idam abravīt |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:252"/>kiṃ karmaṃ tu mahāvīra dehi me ājñāñ ca vajriṇaḥ |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:253"/>khaḍgam añjana pātālaṃ khecaratvaṃ jīgīṣiṇa |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:254"/>yad icchet sādhakasyāpi tatkarmañ ca prasādhayet |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:255"/>tatas tu sādhako kuryāt yasya yat manepsitaṃ |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:256"/>prasādhayet sarvan tu mūlapadmā tu māmakī |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:257"/>vetālasādhanaṃ mukhyaṃ vajrāmṛtavinirgataṃ |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:258"/>kāyavākcittasādhya[r]the sādhakānāṃ sukhāvahaṃ ||
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:259"/>ity āha bhagavān vajrī vajrāmṛtamahāsukhaḥ [|]
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:260"/>sarvatathāgatakāyavākcittavajrāmṛtamahāsukhaḥ vajrāmṛtamahātantre vetālasādhano nāma nirdeśo daśamaḥ ||   o   ||
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:261"/>% CHAPTER 11. &#x27;PAÑCĀMṚTA&#x27;
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:262"/>tatas tu bhagavān vajrī vajrāmṛtamahāsukhaḥ |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:263"/>vajrapadmasamāyogais tuṣṇībhūtvā vyavasthitaḥ || 11.1
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:264"/>[yo?]śvasena ca kaṃpena nirīkṣen na ca bhāṣate |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:265"/>paramaṃ samādhisamāpanno māmakī puna[ḥ] pṛcchati || 11.2
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:266"/>bhagavān śūkṣmavajraṃ tu sarvasattvahṛdisthitaḥ |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:267"/>kathaṃ kena prakāreṇa tat tatvam upalabhyate || 11.3
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:268"/>tatas tu bhagavā[folio 12 verso]n vajrī vajrāmṛtamahāsukhaḥ |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:269"/>hasamānam idaṃ vākyaṃ netram udghāṭya cābravīt || 11.4
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:270"/>pūrvaṃ tu kathitaṃ tattvam amṛtaṃ śukrarūpiṇaṃ |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:271"/>svādayet sadā nityaṃ pañcāmṛtasamanvitaṃ || 11.5
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:272"/>ekaikasya tu māhātmyaṃ dravyāṇā[ṃ] śṛṇu māmakī |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:273"/>prathamaṃ prāśayec chukraṃ jñānajñeyaṃ prāsādhakaṃ || 11.6
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:274"/>kāyavākcittasiddhyarthe mahāraktaṃ prasādhayet |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:275"/>kanyāyā tu sadā gṛhya yasya tasya priyāpi vā || 11.7
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:276"/>sarvakāryakaro hy eṣa mahāraktaṃ tu māmakī |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:277"/>haṃ mṛtyutpan[n]aṃ prāpya mahāmāṃ{n}san tu āharet || 11.8
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:278"/>śūlam udbaddhakaṃ vāpi raṇe vā yas tu ghātitaḥ |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:279"/>bhakṣaye dṛḍhagāṃbhīraṃ āyurārogyavarddhanaṃ || 11.9
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:280"/>kāmadaṃ saukhyadaṃ caiva buddhabodhiprasādhakaṃ |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:281"/>vajrasa[ttva]m ivāpuṣyaṃ sarvakāmaphalapradaṃ || 11.10
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:282"/>vajrodakaṃ purīṣan tu ātmavidyā tu bhakṣayet |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:283"/>sūkṣmacūrṇan tu tataḥ kṛtvā mahāraktena bhāvayet || 11.11
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:284"/>pratyūṣe tu sadā kāryaṃ pradoṣe madhyāhne tathaiva ca |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:285"/>triskālaṃ bhakṣa[ye]d yogī pibed vajrodakan tataḥ || 11.12
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:286"/>dine dine tu māmakyā sādhayed yas tu sādhakaḥ |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:287"/>nirvyādhī tu bhavet kāyaṃ jarārogavināśanaṃ || 11.13
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:288"/>saubhāgyaṃ suvapus tejāṃ rājadvāre jayāvahaṃ |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:289"/>sarvakāmakṣayas teṣāṃ pravaratattvan tu prāpyate || 11.14
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:290"/>sa yogī sa ca sarvajña vajrasattvaguṇair yutaṃ |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:291"/>rāgadveṣavinirmukto lobha īrṣyā ca varjitaṃ || 11.15
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:292"/>sidhyate sādhanan tasya vajrāmṛtamahāsukhaṃ |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:293"/>idaṃ vajrāmṛtaṃ tantraṃ bahvātvaṃ[?] gūḍhavikraṣaṃ[?] |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:294"/>[folio 12 recto] nikhilaṃ vajrayānasya atra devīvinirgataṃ || 11.16
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:295"/>kathitan tatvan tu sadbhāvaṃ atirāgeṇa rāgitaṃ |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:296"/>na mayā kasyacid ākhyātaṃ sthūlapadmaṃ tu māmakī || 11.17
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:297"/>idaṃ rahasyaparamaṃ ramyaṃ sarvātmani sadā sthitaṃ |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:298"/>bodhisattvena na vijñātaṃ arūpyaṃ śūnyam akṣaraṃ || 11.18
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:299"/>eṣa tattva mahāvidye vajracūḍāmaṇismṛtaṃ |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:300"/>guptan tu dhārayed devī pitāputrair na viśvaset || 11.19
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:301"/>atyantagupte vīre ca gurubhakte dṛḍhavrate |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:302"/>deyaṃ tasya idaṃ tattvaṃ yadicched bodhim uttamaṃ || 11.20
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:303"/>idaṃ vajrāmṛtaṃ tantraṃ sukhasādhya[ṃ ]sudurlabhaṃ |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:304"/>sādhayet subhage saumyaṃ sārajñānasamuccayaṃ || 11.21
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:305"/>vajrāmṛtamahātantre yo[ &#x27;bhi]ṣiktas tu sādhakaḥ |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:306"/>buddhāś ca bodhisattvāś ca t[+ +] sarvo &#x27;bhivandati || 11.22
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:307"/>namaskṛtvā tu triṣkālam ācārya[ṃ ]subhagottamaṃ |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:308"/>tvam eva sarvasattvānāṃ saṃsāroddharaṇaṃ prabhuḥ || 11.23
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:309"/>idam avo[ca]d bhagavān vajrī vajrāmṛtamahāsukhaḥ |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:310"/>sarvatathāgatakāyavākcitta[va]jrī vajrāmṛtamahāsukhaḥ || 11.24
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:311"/>vajrāmṛtamahātantraṃ nikṣepaṃ kathitaṃ priye |
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:312"/>sūkṣmarūpaṃ tato vajrī bhagākāre vyavasthitaṃ || 11.25
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:313"/>vajrāmṛtamahātantre pañcāmṛtasādhanopāyo nāma nirdeśaṃ tantraikādaśamaṃ samāptaṃ || [floral ornament] || vajrāmṛtamahātatvaṃ buddhabodhiprasādhakam iti || o ||
+<lb n="SA_K12_Āgama_Vajrāmṛtatantra:314"/>samvat 282 aśvini śuklatrayodaśyāṃ || śaniścaradine ||
+    </body>
+  </text>
+</TEI>
