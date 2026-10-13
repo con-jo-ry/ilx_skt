@@ -46,7 +46,7 @@ have more than one row when DharmaNexus splits it into several texts.
 | `etext` | who produced the e-text |
 | `edition_evidence` | why the edition was identified (headers, page markers, catalogue entries, ...) |
 | `other_editions`, `translations` | further editions and translations (Tibetan translations with translators as given in the Derge colophons) |
-| `versions_tibetan`, `versions_chinese`, `versions_english` | DharmaNexus ids of the Tibetan (Derge), Chinese (Taishō) and English versions of the text; open as `https://dharmamitra.org/nexus/db/<bo,zh,en>/<id>/text` |
+| `versions_tibetan`, `versions_chinese` | DharmaNexus ids of the Tibetan (Derge) and Chinese (Taishō) versions of the text; open as `https://dharmamitra.org/nexus/db/<bo,zh>/<id>/text` |
 | `date_median`, `date_95` | date estimate of the DharmaNexus Sanskrit dating model ([chronology](https://dharmamitra.github.io/sanskrit-dating/sanskrit_chronology_interactive.html)): posterior median and 95% credible interval |
 | `summary` | short content summary |
 | `confidence` | high / medium / low |
