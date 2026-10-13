@@ -18,20 +18,20 @@
       </publicationStmt>
       <notesStmt>
         <note type="legacy_header">
-Language: Prakrit
 Collection / category: Rellit / GR12 (GR12 Jaina)
+Language: Prakrit
         </note>
       </notesStmt>
       <sourceDesc>
         <bibl>
-          <note type="edition">Based on edition (determined): Muni Dīparatnasāgara (Deepratnasagar), Aṇuōgadārāiṁ (Agam 45, bīyā cūliyā), mūla text, &#x27;Jain Aagam Online Series-45&#x27;, 2012; DOCX file Jain eLibrary ID 003789; romanized and TEI-encoded by Andrew Ollett for PDTP (2020).</note>
+          <note type="edition">Based on edition (not determined): Anuyōgadvārasūtram (2020), digital text prepared by Andrew Ollett for Prakrit Digital Text Project (PDTP).</note>
           <idno type="dharmanexus">SA_GR12_anuyogadvaru</idno>
-          <ref target="https://dharmamitra.org/db/sa/SA_GR12_anuyogadvaru/text">https://dharmamitra.org/db/sa/SA_GR12_anuyogadvaru/text</ref>
+          <ref target="https://dharmamitra.org/nexus/db/sa/SA_GR12_anuyogadvaru/text">https://dharmamitra.org/nexus/db/sa/SA_GR12_anuyogadvaru/text</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
-      <change when="2026-10-12">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+      <change when="2026-10-13">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
     </revisionDesc>
   </teiHeader>
   <text>

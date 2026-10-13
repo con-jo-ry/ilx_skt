@@ -20,22 +20,22 @@
         <note type="legacy_header">
 Collection / category: Treatises / GSD36 (GSD36 Dharmaśāstra Smṛti (Śāstra 4))
 Source: University of Texas at Austin — Resource Library for Dharmaśāstra Studies (South Asia Institute, Open Educational Resources; curated by Patrick Olivelle, Donald R. Davis Jr., Tim Lubin).
+Link: https://sites.utexas.edu/sanskrit/resources/dharmasastra/
 License: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).
 Attribution: UT Austin South Asia Institute Sanskrit OER; editor/transcriber per source text.
-Link: https://sites.utexas.edu/sanskrit/resources/dharmasastra/
 Note: source transcriptions are largely unproofread and may retain English editorial notes.
         </note>
       </notesStmt>
       <sourceDesc>
         <bibl>
-          <note type="edition">Based on edition (determined): Not a printed edition: the &#x27;List of Abbreviations&#x27; document belonging to the UT Austin e-text of Medhātithi&#x27;s Manubhāṣya (the abbreviations used in the source references such as &#x27;(MDh 2.168)&#x27;, &#x27;(TS 1.5.1.1; Nir 10.5)&#x27;).</note>
+          <note type="edition">Based on edition (not determined): Editorial list of abbreviations accompanying the UT Austin digital text of Medhātithi&#x27;s Manubhāṣya.</note>
           <idno type="dharmanexus">SA_GSD36_utaustin_medhatithi_manubhasya_abbreviations</idno>
-          <ref target="https://dharmamitra.org/db/sa/SA_GSD36_utaustin_medhatithi_manubhasya_abbreviations/text">https://dharmamitra.org/db/sa/SA_GSD36_utaustin_medhatithi_manubhasya_abbreviations/text</ref>
+          <ref target="https://dharmamitra.org/nexus/db/sa/SA_GSD36_utaustin_medhatithi_manubhasya_abbreviations/text">https://dharmamitra.org/nexus/db/sa/SA_GSD36_utaustin_medhatithi_manubhasya_abbreviations/text</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
-      <change when="2026-10-12">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+      <change when="2026-10-13">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
     </revisionDesc>
   </teiHeader>
   <text>

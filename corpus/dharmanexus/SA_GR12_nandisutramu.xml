@@ -18,20 +18,20 @@
       </publicationStmt>
       <notesStmt>
         <note type="legacy_header">
-Language: Prakrit
 Collection / category: Rellit / GR12 (GR12 Jaina)
+Language: Prakrit
         </note>
       </notesStmt>
       <sourceDesc>
         <bibl>
-          <note type="edition">Based on edition (determined): Muni Dīparatnasāgara (Deepratnasagar), Nandīsuyaṁ (Agam 44, paḍhamā cūliyā), mūla text with pariśiṣṭas, &#x27;Jain Aagam Online Series-44&#x27;, 2012; DOCX Jain eLibrary ID 003787; romanized and TEI-encoded by Andrew Ollett for PDTP (2020).</note>
+          <note type="edition">Based on edition (not determined): Nāndīsūtram, 2020.</note>
           <idno type="dharmanexus">SA_GR12_nandisutramu</idno>
-          <ref target="https://dharmamitra.org/db/sa/SA_GR12_nandisutramu/text">https://dharmamitra.org/db/sa/SA_GR12_nandisutramu/text</ref>
+          <ref target="https://dharmamitra.org/nexus/db/sa/SA_GR12_nandisutramu/text">https://dharmamitra.org/nexus/db/sa/SA_GR12_nandisutramu/text</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
-      <change when="2026-10-12">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+      <change when="2026-10-13">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
     </revisionDesc>
   </teiHeader>
   <text>

@@ -20,20 +20,20 @@
       <notesStmt>
         <note type="legacy_header">
 Author: Bhadrabāhu
-Language: Prakrit
 Collection / category: Rellit / GR12 (GR12 Jaina)
+Language: Prakrit
         </note>
       </notesStmt>
       <sourceDesc>
         <bibl>
-          <note type="edition">Based on edition (determined): Muni Deepratnasagar&#x27;s edition of the Śvetāmbara Āgamas (mūla text), supplied as DOCX files via Jain eLibrary (file ID 003781); romanized (ISO 15919) and converted to TEI by Andrew Ollett for the Prakrit Digital Text Project (TEI conversion 2021-08-29, header date 2022). Verse numbering PiṇḍNi.1–713 follows Deepratnasagar&#x27;s text; occasional inline &#x27;gāhā-N&#x27; markers reflect a variant (printed) gāthā count.</note>
+          <note type="edition">Based on edition (not determined): Prakrit Digital Text Project (PDTP), compiled &amp; edited by Andrew Ollett; text file txt/Śvētāmbarāgama/Agam41Mulsuttam02MoolamPindnijutti003781.txt, TEI source tei/Śvētāmbarāgama/Agam41Mulsuttam02MoolamPindnijutti003781.xml (2022).</note>
           <idno type="dharmanexus">SA_GR12_pindanijjutu</idno>
-          <ref target="https://dharmamitra.org/db/sa/SA_GR12_pindanijjutu/text">https://dharmamitra.org/db/sa/SA_GR12_pindanijjutu/text</ref>
+          <ref target="https://dharmamitra.org/nexus/db/sa/SA_GR12_pindanijjutu/text">https://dharmamitra.org/nexus/db/sa/SA_GR12_pindanijjutu/text</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
-      <change when="2026-10-12">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+      <change when="2026-10-13">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
     </revisionDesc>
   </teiHeader>
   <text>

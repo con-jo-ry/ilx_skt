@@ -26,14 +26,14 @@ Source: OCR / Dharmamitra
       </notesStmt>
       <sourceDesc>
         <bibl>
-          <note type="edition">Based on edition (determined): Unpublished diplomatic/working transcription of the unique manuscript NAK 5/139 (NGMPP B 24/4), with folio markers ([1\verso] etc.), emendation notes (\emend / \cod) and the Tibetan translation from the Derge Tanjur (wi 92r6–99v5) interleaved. The file is; it is not based on a printed edition.</note>
+          <note type="edition">Based on edition (not determined): Unpublished working transcription of manuscript NAK 5/139 = NGMPP B 24/4, with the Tibetan translation from the Derge Tanjur (wi 92r6–99v5) interleaved.</note>
           <idno type="dharmanexus">SA_T01_Sahajavajra_</idno>
-          <ref target="https://dharmamitra.org/db/sa/SA_T01_Sahajavajra_/text">https://dharmamitra.org/db/sa/SA_T01_Sahajavajra_/text</ref>
+          <ref target="https://dharmamitra.org/nexus/db/sa/SA_T01_Sahajavajra_/text">https://dharmamitra.org/nexus/db/sa/SA_T01_Sahajavajra_/text</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
-      <change when="2026-10-12">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+      <change when="2026-10-13">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
     </revisionDesc>
   </teiHeader>
   <text>

@@ -18,20 +18,20 @@
       </publicationStmt>
       <notesStmt>
         <note type="legacy_header">
-Language: Prakrit
 Collection / category: Rellit / GR12 (GR12 Jaina)
+Language: Prakrit
         </note>
       </notesStmt>
       <sourceDesc>
         <bibl>
-          <note type="edition">Based on edition (determined): Muni Deepratnasagar&#x27;s edition of the Śvetāmbara Āgamas (mūla text), based on the &#x27;Āgama Mañjūṣā&#x27; series (Jain eLibrary ID 003253); supplied as DOCX via Jain eLibrary (file ID 003705); romanized and TEI-encoded by Andrew Ollett for the Prakrit Digital Text Project (2020). Sutta numbering follows Deepratnasagar.</note>
+          <note type="edition">Based on edition (not determined): Ṭhāṇaṅgasuttaṁ, 2020.</note>
           <idno type="dharmanexus">SA_GR12_thanangasutu</idno>
-          <ref target="https://dharmamitra.org/db/sa/SA_GR12_thanangasutu/text">https://dharmamitra.org/db/sa/SA_GR12_thanangasutu/text</ref>
+          <ref target="https://dharmamitra.org/nexus/db/sa/SA_GR12_thanangasutu/text">https://dharmamitra.org/nexus/db/sa/SA_GR12_thanangasutu/text</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
-      <change when="2026-10-12">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+      <change when="2026-10-13">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
     </revisionDesc>
   </teiHeader>
   <text>

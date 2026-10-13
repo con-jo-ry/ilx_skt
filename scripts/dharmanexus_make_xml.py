@@ -68,7 +68,7 @@ def main():
         lic = next((v for k, v in f.items() if k.lower().startswith(('license', 'licence'))), '')
         status, ed = edition_used(raw)
         ed = ed or f.get('Edition', '')
-        url = f'https://dharmamitra.org/db/sa/{fn}/text'
+        url = f'https://dharmamitra.org/nexus/db/sa/{fn}/text'
         legacy = '\n'.join(f'{k}: {v}' for k, v in f.items() if k not in ('DharmaNexus ID',))
         x = lambda t: html.escape(xml_safe(t))
         author_xml = f'\n        <author>{x(author)}</author>' if author else ''
