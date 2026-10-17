@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Subhāsiyapajjasaṅgaho</title>
+        <author>Jineśvara</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Author: Jineśvara
+Collection / category: Poetry / GK22 (GK22 Subhāṣita (Poetry 5))
+Language: Prakrit
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Amritlal Mohanlal Bhojak, Nagin P. Shah (eds.), Jineśvarasūri’s Gāhārayaṇakosa, Ahmedabad: L.D. Institute of Indology, 1975.</note>
+          <idno type="dharmanexus">SA_GK22_subhasiyapau</idno>
+          <ref target="https://dharmamitra.org/nexus/db/sa/SA_GK22_subhasiyapau/text">https://dharmamitra.org/nexus/db/sa/SA_GK22_subhasiyapau/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-13">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_GK22_subhasiyapau:0"/>[subhāsiyapajjasaṅgahō]
+<lb n="SA_GK22_subhasiyapau:1"/>[p. 76]
+<lb n="SA_GK22_subhasiyapau:2"/>kiṁ bhaṇimō navajuvaīṇa tāṇa savvaṅgacaṅgimasuhassa
+<lb n="SA_GK22_subhasiyapau:3"/>diṭṭhītibhāyaphaṁsē vi jāṇamamayaṁ pi hu na kipi // SubhāPajjSaṁ.1
+<lb n="SA_GK22_subhasiyapau:4"/>gayanēvacchā vacchē! aïdusahā taṁ si taruṇanayaṇāṇa
+<lb n="SA_GK22_subhasiyapau:5"/>vammahakarasaṅgahiyā nippaḍiyāra vva khaggalayā // SubhāPajjSaṁ.2
+<lb n="SA_GK22_subhasiyapau:6"/>diṭṭhīē tassa sasaharakarasalilajjhalajhalāsalōṇāē
+<lb n="SA_GK22_subhasiyapau:7"/>vālā sasimaṇidhīulliya vva sēulliyā jāyā // SubhāPajjSaṁ.3
+<lb n="SA_GK22_subhasiyapau:8"/>navasaṅgaraṅganaṭṭāvaēṇa naccāviyā tahā ahayaṁ
+<lb n="SA_GK22_subhasiyapau:9"/>māmi! mahaṁ ciya hiyayaṁ na vimhayaṁ jēṇa pamhusaï // SubhāPajjSaṁ.4
+<lb n="SA_GK22_subhasiyapau:10"/>amayamaō vi hu dāhaṁ jaṇēi, sañjīvaṇō vi mōhēi
+<lb n="SA_GK22_subhasiyapau:11"/>maüō vi vindhaï maṇaṁ, diṭṭhicchōhō mayacchīṇaṁ // SubhāPajjSaṁ.5
+<lb n="SA_GK22_subhasiyapau:12"/>aïvaṅkadīharā jaṇamaṇāiṁ mōhanti kulavahukaḍakkhā
+<lb n="SA_GK22_subhasiyapau:13"/>aṇivāriyavisamavisā rōsāruṇakasiṇabhuyaga vva // SubhāPajjSaṁ.6
+<lb n="SA_GK22_subhasiyapau:14"/>annēsiṁ sōhaggaṁ na sahanti, na dinti kahavi ya suhacchiṁ
+<lb n="SA_GK22_subhasiyapau:15"/>jīyaṁ haranti virahē ahō! guṇā dujjaṇā tīē // SubhāPajjSaṁ.7
+<lb n="SA_GK22_subhasiyapau:16"/>kuppanti vallahatthē apahuppantassa niyayaaṅgassa
+<lb n="SA_GK22_subhasiyapau:17"/>annapahuppantassa ya puṇō asūyanti mihuṇāiṁ // SubhāPajjSaṁ.8
+<lb n="SA_GK22_subhasiyapau:18"/>aṭṭhāṇaṭṭhanilayaṇaṁ visamiyasayaṇaṁ khalantamiuvayaṇaṁ
+<lb n="SA_GK22_subhasiyapau:19"/>vārattanimiyanayaṇaṁ pacchannarayaṁ kahaṁ suhayaṁ? // SubhāPajjSaṁ.9
+<lb n="SA_GK22_subhasiyapau:20"/>vallahajaṇassa dukkhē nisuē virahammi jāyaē sukkhaṁ
+<lb n="SA_GK22_subhasiyapau:21"/>sukkhammi puṇō dukkhaṁ pimmassa gaī ahō! visamā // SubhāPajjSaṁ.10
+<lb n="SA_GK22_subhasiyapau:22"/>jassantarāvayāsō gaüravadakkhinnadujjaṇajaṇāṇa
+<lb n="SA_GK22_subhasiyapau:23"/>taṁ pi hu pemmaṁ ti bhaṇantayāṇa jīhā vi lajjēi // SubhāPajjSaṁ.11
+<lb n="SA_GK22_subhasiyapau:24"/>taṁ suyaṇā jaṁ vasiyā si takkhaṇa ccēya tassa hiyayammi
+<lb n="SA_GK22_subhasiyapau:25"/>sō dujjaṇō uṇa na jō ajja vi nivasēi tuha hiyaē // SubhāPajjSaṁ.12
+<lb n="SA_GK22_subhasiyapau:26"/>maṁ pariciyaṁ pi ujjhiya dullahalambhē jaṇammi saṅkanta!
+<lb n="SA_GK22_subhasiyapau:27"/>hā! hiyaya! hīṇasāhasa! lahasi tumaṁ dukkhalakkhāiṁ // SubhāPajjSaṁ.13
+<lb n="SA_GK22_subhasiyapau:28"/>vallahasayavāsayamandirēsu sañjhabbhasarisarāēsu
+<lb n="SA_GK22_subhasiyapau:29"/>purisahiyaēsu pemmāvandhō kō nāma vāmanayaṇāṇaṁ? // SubhāPajjSaṁ.14
+<lb n="SA_GK22_subhasiyapau:30"/>[p. 77]
+<lb n="SA_GK22_subhasiyapau:31"/>avarāhō vi hu vallahajaṇassa paramaṁ pamōyamappēi
+<lb n="SA_GK22_subhasiyapau:32"/>ahiyaṁ harēi hiyaya dhūmō vi hu surahivatthūṇaṁ // SubhāPajjSaṁ.15
+<lb n="SA_GK22_subhasiyapau:33"/>jaggirasōhaggāṇaṁ aviṇayavāṇī vi varisaē harisaṁ
+<lb n="SA_GK22_subhasiyapau:34"/>suhaḍanivakāyarō vi hu kiṁ na hu jayamajjaï jayammi? // SubhāPajjSaṁ.16
+<lb n="SA_GK22_subhasiyapau:35"/>sō atthō jō hatthē, taṁ mittaṁ jaṁ nirantaraṁ vasaṇē
+<lb n="SA_GK22_subhasiyapau:36"/>taṁ rūvaṁ jattha guṇā, ta vinnāṇaṁ jahiṁ dhammō // SubhāPajjSaṁ.17
+<lb n="SA_GK22_subhasiyapau:37"/>sō suhaō paramappuvvillanihāṇaṁ va naṭṭhasallaṁ va
+<lb n="SA_GK22_subhasiyapau:38"/>āsannō vi hu vihiō hayavihi! kaha nāma maha dūrē? // SubhāPajjSaṁ.18
+<lb n="SA_GK22_subhasiyapau:39"/>dūraṭṭhiō vi su cciya maha hiyaē jalaharō vva sarasīē
+<lb n="SA_GK22_subhasiyapau:40"/>sē vva ṇa naliṇīva ṇavaṇa[?]gaēhi kiṁ nāma annēhiṁ? // SubhāPajjSaṁ.19
+<lb n="SA_GK22_subhasiyapau:41"/>kuviēṇa kayantēṇaṁ parivārē vāriyamminisisamayē
+<lb n="SA_GK22_subhasiyapau:42"/>kulabāliyāē lajjā mahalliyā sahayarī hōi // SubhāPajjSaṁ.20
+<lb n="SA_GK22_subhasiyapau:43"/>aïmuddhamaüyacavalō valantanayaṇāi tīē jantīē
+<lb n="SA_GK22_subhasiyapau:44"/>diṭṭhicchōhō savisēsadūsahō vālabhuyagō vva // SubhāPajjSaṁ.21
+<lb n="SA_GK22_subhasiyapau:45"/>saccaṁ raī ciya imā jamimīi mamaṁmaṇaṁ pi gayanayaṇaṁ
+<lb n="SA_GK22_subhasiyapau:46"/>paharēi sō hayāsō visamēhiṁ sarēhi kusumasarō // SubhāPajjSaṁ.22
+<lb n="SA_GK22_subhasiyapau:47"/>kōdaṇḍakōsalēṇaṁ sō ajja vi lajjiro cciya aṇaṅgō
+<lb n="SA_GK22_subhasiyapau:48"/>jaṁ kira lakkhaṁ bhuyaṇāiṁ tinni, bāṇā puṇō pañca // SubhāPajjSaṁ.23
+<lb n="SA_GK22_subhasiyapau:49"/>amayarasasāramullañciūṇa candāō tuha muhaṁ vihiyaṁ
+<lb n="SA_GK22_subhasiyapau:50"/>tassa talaṁ jēṇa jaṇō suyaṇu! kalaṅko tti kittēi // SubhāPajjSaṁ.24
+<lb n="SA_GK22_subhasiyapau:51"/>āyannāṇa guṇāṇaṁ raṇaraṇaō, sumaraṇammi dāhajarō
+<lb n="SA_GK22_subhasiyapau:52"/>diṭṭhē hallapphalaō, miliyammi piyammi kimpi suhaṁ // SubhāPajjSaṁ.25
+<lb n="SA_GK22_subhasiyapau:53"/>diṭṭhaṁ siṇiddhanayaṇaṁ vayaṇaṁ viṇaōvarōhasōhillaṁ
+<lb n="SA_GK22_subhasiyapau:54"/>karakamalakēsabandhō ya haraï dhīraṁ hiyāhintō // SubhāPajjSaṁ.26
+<lb n="SA_GK22_subhasiyapau:55"/>ēsō aladdhadullahakāmō vāmēyarō karō phuriō
+<lb n="SA_GK22_subhasiyapau:56"/>dāhiṇanayaṇakayatthassa tujjha kaha nāma vāmattaṁ? // SubhāPajjSaṁ.27
+<lb n="SA_GK22_subhasiyapau:57"/>rūvaṁ nayaṇāṇa guṇā maṇassa avalōyaṇāiṁ caraṇāṇaṁ
+<lb n="SA_GK22_subhasiyapau:58"/>ālavaṇaṁ savvaṅgassa bandhaṇaṁ tassa kiṁ bhaṇimō? // SubhāPajjSaṁ.28
+<lb n="SA_GK22_subhasiyapau:59"/>[p. 78]
+<lb n="SA_GK22_subhasiyapau:60"/>‘sumarijjasu’ tti pimmassa bāhiraṁ, ‘maha suhē’ti na ghaḍēi
+<lb n="SA_GK22_subhasiyapau:61"/>‘mā khijjasu’ tti aṇuhavaviruddhamiha kiṁ bhaṇāmi ahaṁ? // SubhāPajjSaṁ.29
+<lb n="SA_GK22_subhasiyapau:62"/>nayaṇāṇa vandhaṇaṁ maṇaviāraṇaṁ vēyaṇāi sammōhō
+<lb n="SA_GK22_subhasiyapau:63"/>annāṇa dasaṇijjāṇa dujjaṇō tīya rūvasirī // SubhāPajjSaṁ.30
+<lb n="SA_GK22_subhasiyapau:64"/>amayamayavayaṇamavirāmaramiyamaviyāravajjariyakajjaṁ
+<lb n="SA_GK22_subhasiyapau:65"/>jayaï pahuttaṁ vālattaṇaṁ va pemma ca lōyammi // SubhāPajjSaṁ.31
+<lb n="SA_GK22_subhasiyapau:66"/>gaṅgāsaṅgēṇa viṇā vi jalanihī hōi jalanihisayā
+<lb n="SA_GK22_subhasiyapau:67"/>gaṅgā uṇa tēṇa viṇā bhaṇa kattha khaṇaṁ pi vīsamaü? // SubhāPajjSaṁ.32
+<lb n="SA_GK22_subhasiyapau:68"/>ghariṇī lacchi vva mahānihi vva amayaṁ va punnamutti vva
+<lb n="SA_GK22_subhasiyapau:69"/>jattha&#x27;tthi gharaṁ ta ciya, annaṁ rannaṁ ti mannanti // SubhāPajjSaṁ.33
+<lb n="SA_GK22_subhasiyapau:70"/>tāō guṇāṇa khāṇī mahimaḍalamaṇḍaṇaṁ sumahilāō
+<lb n="SA_GK22_subhasiyapau:71"/>dōsā vi jattha nihiyā guṇarūvēṇaṁ pariṇamanti // SubhāPajjSaṁ.34
+<lb n="SA_GK22_subhasiyapau:72"/>tāṇa kulavāliyāṇaṁ na lahaï saccaṁ sahāvamahimāṇaṁ
+<lb n="SA_GK22_subhasiyapau:73"/>jāṇa paḍivakkhacaḍiyā dōsā vi maṇaṁ na dūminti // SubhāPajjSaṁ.35
+<lb n="SA_GK22_subhasiyapau:74"/>tāṇa namō samaṇīṇaṁ ājammaṁ cariyavambhacērāṇaṁ
+<lb n="SA_GK22_subhasiyapau:75"/>pimmanaḍakavaḍanāḍayaviḍaṁvaṇā jāṇa na khaṇaṁ pi // SubhāPajjSaṁ.36
+<lb n="SA_GK22_subhasiyapau:76"/>tīē tijayaṁ pi kīraü niuñchaṇaṁ picchulucchujaṭṭhīē
+<lb n="SA_GK22_subhasiyapau:77"/>chittā vi pīliyā vi hu jā na hu mahurattaṇaṁ muaï // SubhāPajjSaṁ.37
+<lb n="SA_GK22_subhasiyapau:78"/>mahilā pasāyagahilā sayampabhā hōi, na uṇa sappurisō
+<lb n="SA_GK22_subhasiyapau:79"/>sasiṇā viṇā vi rayaṇī havaï, na divasō viṇā raviṇā // SubhāPajjSaṁ.38
+<lb n="SA_GK22_subhasiyapau:80"/>mannāmi māmi! ki vā majjha kaē tujjha dukkaraṁ annaṁ?
+<lb n="SA_GK22_subhasiyapau:81"/>suhayassamajjhajaṁ kira appā vi samappiō tumaē // SubhāPajjSaṁ.39
+<lb n="SA_GK22_subhasiyapau:82"/>taṁ dacchanti saharisaṁ kayāvarāhaṁ ahaṁ ti savilakkhaṁ
+<lb n="SA_GK22_subhasiyapau:83"/>puṇaravi caraṇaṁ disa rōsa māmi! nalamāṇasaṁ taïyā[?] // SubhāPajjSaṁ.40
+<lb n="SA_GK22_subhasiyapau:84"/>taṇhāē[?]taralanayaṇō parissamē, añcalammi valahatthō
+<lb n="SA_GK22_subhasiyapau:85"/>dukkhē sattō, dhammammi vimhiō, tuha suhē suhiō // SubhāPajjSaṁ.41
+<lb n="SA_GK22_subhasiyapau:86"/>jūyaṁ dhaṇāṇa, vasaṇaṁ guṇāṇa, paḍipatthaṇōvayārāṇa
+<lb n="SA_GK22_subhasiyapau:87"/>vatthuviyārō pimmāṇa māṇamummūlaï samūlaṁ // SubhāPajjSaṁ.42
+<lb n="SA_GK22_subhasiyapau:88"/>lajjā kulamajjāyā dunni kavāḍāiṁ jēhiṁ bhaggāiṁ
+<lb n="SA_GK22_subhasiyapau:89"/>hiyaēsu tēsu sahasa tti dukkhamakkhaliyamalliyaï // SubhāPajjSaṁ.43
+<lb n="SA_GK22_subhasiyapau:90"/>[p. 79]
+<lb n="SA_GK22_subhasiyapau:91"/>pimmassa pōḍhamahilājaṇassa vihavassa vārivāhassa
+<lb n="SA_GK22_subhasiyapau:92"/>paramappaṇō maṇassa ya muṇanti muṇiṇō viṇayarūvaṁ // SubhāPajjSaṁ.44
+<lb n="SA_GK22_subhasiyapau:93"/>titthāṇa supurisāṇaṁ maṇīṇa santāṇamōsahīṇaṁ ca
+<lb n="SA_GK22_subhasiyapau:94"/>mahimā mahāsaīṇaṁ ca kālakalusassa dūrēṇaṁ // SubhāPajjSaṁ.45
+<lb n="SA_GK22_subhasiyapau:95"/>nayaraṁ mahūsavamayaṁ, tucchā lacchī, maṇaṁ mahārambhaṁ
+<lb n="SA_GK22_subhasiyapau:96"/>vihinihiyaṁ maha hiyaē tisallayaṁ sallaē ēyaṁ // SubhāPajjSaṁ.46
+<lb n="SA_GK22_subhasiyapau:97"/>vittavivāhaṁ ca gihaṁ, payapabbhaṭṭhō ya naravaïniōī
+<lb n="SA_GK22_subhasiyapau:98"/>gayajovvaṇā ya mahilā na puvvasōhaṁ pi hu lahanti // SubhāPajjSaṁ.47
+<lb n="SA_GK22_subhasiyapau:99"/>vihavaṅgaṇāṇa gabbhō, niddhaṇavaṅgāṇa dāṇavasaṇāiṁ
+<lb n="SA_GK22_subhasiyapau:100"/>ja ca khavaṇāṇa kuccaṁ taṁ amayachalaṁ halāhalayaṁ // SubhāPajjSaṁ.48
+<lb n="SA_GK22_subhasiyapau:101"/>aïkiviṇō cēya tumaṁ jaṁ ikkammi vi guṇammi ghippantē
+<lb n="SA_GK22_subhasiyapau:102"/>apparimāṇaguṇō vi hu vahasi muhamahōmuhaṁ nāha! // SubhāPajjSaṁ.49
+<lb n="SA_GK22_subhasiyapau:103"/>na hu tuha guṇē gahissaṁ[?]duṇha pi jāṇa gahaṇammi
+<lb n="SA_GK22_subhasiyapau:104"/>tuha gahaṇāsahaṇēṇaṁ maha uṇa aïmucchagahaṇēṇaṁ // SubhāPajjSaṁ.50
+<lb n="SA_GK22_subhasiyapau:105"/>samaratimirammi sahalaṁ dūyaṁ piva pēsiūṇa pattavahaṁ
+<lb n="SA_GK22_subhasiyapau:106"/>ahisāraï riulacchiṁ mahalliyā jassa cāvalayā // SubhāPajjSaṁ.51
+<lb n="SA_GK22_subhasiyapau:107"/>taïṁ giṇhiya cāvalaē riūṇa lacchī ti gahiyacāvalayā
+<lb n="SA_GK22_subhasiyapau:108"/>rattā tumammi naravaï! darisaï sarisattaṇaṁ nūṇaṁ // SubhāPajjSaṁ.52
+<lb n="SA_GK22_subhasiyapau:109"/>unnamiūṇa nahayalē jalahara! tuha gajjiya pi chajjēi
+<lb n="SA_GK22_subhasiyapau:110"/>vajjēṇa dahiumamaēṇa siñciuṁ vayasi ja bhuyaṇaṁ // SubhāPajjSaṁ.53
+<lb n="SA_GK22_subhasiyapau:111"/>jaï vihavīṇa viṇīyaṁ diṭṭhipahē kahavi vaccaï avaccaṁ
+<lb n="SA_GK22_subhasiyapau:112"/>tā amaya-canda-candima-candaṇapaṅkēhiṁ na hu kipi // SubhāPajjSaṁ.54
+<lb n="SA_GK22_subhasiyapau:113"/>mannanti duhaṁ pi suhaṁ mahilāō avaccanēhagahilāō
+<lb n="SA_GK22_subhasiyapau:114"/>parabālalālaṇaṁ pi hu ja kira vajhāō jhāyati // SubhāPajjSaṁ.55
+<lb n="SA_GK22_subhasiyapau:115"/>dhannāō tāō kulavāliyāō nimmahiyamōhamahimāō
+<lb n="SA_GK22_subhasiyapau:116"/>diṭṭha na viyaḍabhiuḍīpuḍakiyaṁ jāhi paravayaṇa // SubhāPajjSaṁ.56
+<lb n="SA_GK22_subhasiyapau:117"/>muttu mālaïpamuhaṁ kusumasamūhaṁ mahūsavadiṇēsu
+<lb n="SA_GK22_subhasiyapau:118"/>ekka ciya gijjaï bāliyāhiṁ nōmāliyākusumaṁ // SubhāPajjSaṁ.57
+<lb n="SA_GK22_subhasiyapau:119"/>suhaḍanarindapayāvō sumantajāvō pasūṇasaracāvō
+<lb n="SA_GK22_subhasiyapau:120"/>taha ya mahāsaïsāvō mā kayamavvō! niyattēi // SubhāPajjSaṁ.58
+<lb n="SA_GK22_subhasiyapau:121"/>[p. 80]
+<lb n="SA_GK22_subhasiyapau:122"/>niccaṁ varisasu dāṇaṁ kuṇēsu gamaṇaṁ maṇōharagaīē
+<lb n="SA_GK22_subhasiyapau:123"/>daṁsasu dasaṇē cavalē! jaï si suhatthī-maṁ bhaddē! // SubhāPajjSaṁ.59
+<lb n="SA_GK22_subhasiyapau:124"/>vērīṇaṁ maraṇabhayaṁ, bandhūṇa maṇōrahō, suhaṁ haliṇō
+<lb n="SA_GK22_subhasiyapau:125"/>gōvīṇa vallaharasō, kaṇhēṇa sama vivaḍḍhanti // SubhāPajjSaṁ.60
+<lb n="SA_GK22_subhasiyapau:126"/>pīūsappamuhāṇa vi suyaṇō dippēvi dēi dōhaggaṁ
+<lb n="SA_GK22_subhasiyapau:127"/>ruṭṭhōvi dujjaṇō uṇa dahaṇāīṇaṁ pi sōhaggaṁ // SubhāPajjSaṁ.61
+<lb n="SA_GK22_subhasiyapau:128"/>mahimaṁ mahāsaīṇaṁ kiṁ bhaṇimō jāṇa pāṇimāhappā
+<lb n="SA_GK22_subhasiyapau:129"/>ārambhō mokkhaphalō jāyaï, lacchī vi kāmaduhā // SubhāPajjSaṁ.62
+<lb n="SA_GK22_subhasiyapau:130"/>uvajujjanti kayā vi hu na hi jē pattēsu kaha vi pattēsu
+<lb n="SA_GK22_subhasiyapau:131"/>caṇḍālakūvajalasacchahēhi kiṁ tēhi vihavēhiṁ? // SubhāPajjSaṁ.62
+<lb n="SA_GK22_subhasiyapau:132"/>vihaliyasāhārattaṁ ki bhaṇimō tāṇa dujjaṇajaṇāṇaṁ
+<lb n="SA_GK22_subhasiyapau:133"/>duhiya-suhiēhiṁ mukkē suha-dukkhē jēsu allīṇē // SubhāPajjSaṁ.63
+<lb n="SA_GK22_subhasiyapau:134"/>dāṇaṁ dīṇuddharaṇaṁ āgamasavaṇaṁ sutitthajattā ya
+<lb n="SA_GK22_subhasiyapau:135"/>pavayaṇabhattī a maṇussajammataruṇō phalasamiddhī // SubhāPajjSaṁ.64
+<lb n="SA_GK22_subhasiyapau:136"/>kiṁ tēṇāvi ghaḍijjaï jō na hu sabbhāvarasanisittō vi
+<lb n="SA_GK22_subhasiyapau:137"/>purisō ya puhaïpiṇḍō va bhijjiō appamappēi // SubhāPajjSaṁ.65
+<lb n="SA_GK22_subhasiyapau:138"/>viyaliyadhaṇāṇa dāṇaṁ, jarajajjarajuvvaṇāṇa pariṇayaṇaṁ
+<lb n="SA_GK22_subhasiyapau:139"/>maraṇasaraṇāṇa dhammō, kisikammaṁ sarayasamayammi // SubhāPajjSaṁ.66
+<lb n="SA_GK22_subhasiyapau:140"/>aviyali[ya]mappaṇu cciya sayalāō suhaṁ mahanti mahilāō
+<lb n="SA_GK22_subhasiyapau:141"/>niyapaïṇo cciya suhamahilasanti jā tāō puṇa viralā // SubhāPajjSaṁ.67
+<lb n="SA_GK22_subhasiyapau:142"/>jē varisantē vi ciraṁ pukkhalamēhē gurussa amiyarasaṁ
+<lb n="SA_GK22_subhasiyapau:143"/>bhijjanti kimpi na hu muggasēlasīlāṇa tāṇa namō // SubhāPajjSaṁ.68
+<lb n="SA_GK22_subhasiyapau:144"/>jaha sajalamēhalēhāē pāusō, māhavīē mahusamaō
+<lb n="SA_GK22_subhasiyapau:145"/>taha lahaï siriṁ purisō guṇavaṇadharaṇīē ghariṇīē // SubhāPajjSaṁ.69
+<lb n="SA_GK22_subhasiyapau:146"/>pimmaṁ ta ciya jāyanti jattha dōsā vi naṇu guṇa ccēya
+<lb n="SA_GK22_subhasiyapau:147"/>siddharasō sō kira jattha hunti lōhāiṁ vi suvannaṁ // SubhāPajjSaṁ.70
+<lb n="SA_GK22_subhasiyapau:148"/>tē kē vi kamaliṇīē vi havanti santāvadīharā diyahā
+<lb n="SA_GK22_subhasiyapau:149"/>mittō vi jēsu saha jīvaṇēṇa jīyaṁ pi saṁharaï // SubhāPajjSaṁ.71
+<lb n="SA_GK22_subhasiyapau:150"/>supurisabhariyāē vi niṭṭhiyāē vambhaṇḍabhaṇḍasālāē
+<lb n="SA_GK22_subhasiyapau:151"/>sampaï purisā kamasō avayaramiyaru vva uvvariyā[?] // SubhāPajjSaṁ.72
+<lb n="SA_GK22_subhasiyapau:152"/>[p. 81]
+<lb n="SA_GK22_subhasiyapau:153"/>virahēṇaṁ ciya piyasaṅgasāṇa sōhaggamahiyamullasaï
+<lb n="SA_GK22_subhasiyapau:154"/>gimhēṇaṁ ciya sīyalajalāṇa mahamahaï māhappaṁ // SubhāPajjSaṁ.74
+<lb n="SA_GK22_subhasiyapau:155"/>dappō guṇāṇa, niddā suyāṇa, vasaṇaṁ gurūvaēsāṇa
+<lb n="SA_GK22_subhasiyapau:156"/>paṇasundarī dhaṇāṇaṁ, lōhō sukkhāṇa khayavāhī // SubhāPajjSaṁ.75
+<lb n="SA_GK22_subhasiyapau:157"/>pūnantā dēsantarēhi suhu sāmuhaüṁ hasēi
+<lb n="SA_GK22_subhasiyapau:158"/>punnahīṇu puṇu niyagharaha bhittari bhuvakha bhamēi // SubhāPajjSaṁ.76
+<lb n="SA_GK22_subhasiyapau:159"/>baddhā gāḍhaṁ, gūḍhaṁ ca dhāriyā, nihaṇiyā ya khaḍḍāē
+<lb n="SA_GK22_subhasiyapau:160"/>khaṇḍīkayā ya kiviṇēṇa kaha va na vi mōciyā lacchī // SubhāPajjSaṁ.77
+<lb n="SA_GK22_subhasiyapau:161"/>īsā-visāya-bhaya-kōha-[lōha-]annāṇa-māṇa-mayaṇēhiṁ
+<lb n="SA_GK22_subhasiyapau:162"/>sasāranāḍayanaḍā naccāvijjanti jantugaṇā // SubhāPajjSaṁ.78
+<lb n="SA_GK22_subhasiyapau:163"/>annāyaguṇavisēsammi sāmiē kiṁ kuṇanti guṇavantā?
+<lb n="SA_GK22_subhasiyapau:164"/>putti! na muttiyamagghaï guñjāharaṇē pulindammi // SubhāPajjSaṁ.79
+<lb n="SA_GK22_subhasiyapau:165"/>kiṁ dullahamuvaēsō, kiṁ dūrē? jaṁ maṇassa uvviddhaṁ
+<lb n="SA_GK22_subhasiyapau:166"/>kiṁ rammaṁ? jattha raī, kimuvvasaṁ? jattha na hu suyaṇō // SubhāPajjSaṁ.80
+<lb n="SA_GK22_subhasiyapau:167"/>gāṇaṁ kaṇṭhapamāṇaṁ, māṇaṁ pimmāṇumāṇamiha suhayaṁ
+<lb n="SA_GK22_subhasiyapau:168"/>jāṇaṁ āsaṇanāṇaṁ[?], dāṇaṁ niyavibhavaparimāṇaṁ // SubhāPajjSaṁ.81
+<lb n="SA_GK22_subhasiyapau:169"/>tāva hu sīlaṁ lajjā gurūvaēsā vasanti hiyayammi
+<lb n="SA_GK22_subhasiyapau:170"/>lōyassa ē ṇa jaggaï jaṭharaggipalīvaṇaṁ jāva // SubhāPajjSaṁ.82
+<lb n="SA_GK22_subhasiyapau:171"/>sasiṇēhadēhadahaṇē kiṁ bhaṇimō tassa virahadahaṇassa?
+<lb n="SA_GK22_subhasiyapau:172"/>jassa paḍiyārakaraṇē vi ānalō candaṇarasō vva // SubhāPajjSaṁ.83
+<lb n="SA_GK22_subhasiyapau:173"/>candamuhi! amayavayaṇē! nīluppalanayaṇi! rambhakhambhōru!
+<lb n="SA_GK22_subhasiyapau:174"/>virahavihiyammi hiyaē nihiyā vi hu kaha ṇu taṁ tavasi? // SubhāPajjSaṁ.84
+<lb n="SA_GK22_subhasiyapau:175"/>viṇaēhi guṇēhintō vi nūṇa taṁ cēva sasimuhi! mahagghā
+<lb n="SA_GK22_subhasiyapau:176"/>jaṁ tē vi taē gahiyā amayaṁ visaṁ va puṇṇarahiyā[?] // SubhāPajjSaṁ.85
+<lb n="SA_GK22_subhasiyapau:177"/>ahaha! maha maṇuyajammō musiō mūḍhassa visayacōrēhiṁ
+<lb n="SA_GK22_subhasiyapau:178"/>andhassa va vaṇiṇō khajjamāvaṇā ḍimbharūēhiṁ // SubhāPajjSaṁ.86
+<lb n="SA_GK22_subhasiyapau:179"/>[p. 82]
+<lb n="SA_GK22_subhasiyapau:180"/>jā kuḍilanīyagamaṇā taṁ jālayaṁ pi muttumōsaraï[?]
+<lb n="SA_GK22_subhasiyapau:181"/>sā tumaē maïparihīṇa! mīṇa! sariyā kahaṁ mariyā[?] // SubhāPajjSaṁ.87
+<lb n="SA_GK22_subhasiyapau:182"/>vēhavvaniccadukkhaṁ va vīyaghariṇittaṇaṁ va dahiūṇa
+<lb n="SA_GK22_subhasiyapau:183"/>sampaï païmmi vihiē vahāmi sōyaṁ pamōyaṁ vā // SubhāPajjSaṁ.88
+<lb n="SA_GK22_subhasiyapau:184"/>īsarasiripattō vi hu tuha mahaṇijjō vi pa[a]mayamottī vi
+<lb n="SA_GK22_subhasiyapau:185"/>punnattaṇaṁ na pāvaï sasī jaḍāsaṅgadōsēṇa // SubhāPajjSaṁ.89
+<lb n="SA_GK22_subhasiyapau:186"/>ahaha! vihiṇō paüttaṁ jaṁ sayamavi nimmiyammi kammammi
+<lb n="SA_GK22_subhasiyapau:187"/>ciṭṭhantu samōvāyāvallahaparidēviyavvammi // SubhāPajjSaṁ.90
+<lb n="SA_GK22_subhasiyapau:188"/>jē nivvāsaviyā vi hu khaṇanti dūrē kayā dahanti jaṇaṁ
+<lb n="SA_GK22_subhasiyapau:189"/>tēsu visaēsu rāhava! nāha! vaṇaṁ jujjaï buhāṇaṁ // SubhāPajjSaṁ.91
+    </body>
+  </text>
+</TEI>

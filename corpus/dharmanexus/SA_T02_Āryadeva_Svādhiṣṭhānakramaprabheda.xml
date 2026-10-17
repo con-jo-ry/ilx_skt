@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Svādhiṣṭhānakramaprabheda</title>
+        <author>Āryadeva</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Author: Āryadeva
+Collection / category: BuddhistNon-Scriptures / T02
+Source: OCR / Dharmamitra
+Edition / witness: NAK [3/]366, described in Dhīḥ 4, 22-23
+Published in: Dhīḥ 10, 1990, 20--24
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): &#x27;s working collation of Janardan Pandey&#x27;s editio princeps (&#x27;Svādhiṣṭhānakramaprabhedaḥ&#x27;, Dhīḥ 10, 1990, based on National Archives Kathmandu MS 3/366) with Tokyo University Library MS 517.</note>
+          <idno type="dharmanexus">SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda</idno>
+          <ref target="https://dharmamitra.org/nexus/db/sa/SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda/text">https://dharmamitra.org/nexus/db/sa/SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-13">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:0"/>% collated with \msT = Tokyo University Library no. 517
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:1"/>jñānamūrtiṃ namaskṛtya sarvadṛṣṭividārakam |
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:2"/>svādhiṣṭhānaprabhedo &#x27;yaṃ vakṣyate kṛpayā mayā || 1 ||
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:3"/>astīti kalpanā yāvat tāvac chāśvatakalpanā |
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:4"/>śāśvatābhiniveśo &#x27;yaṃ nedaṃ māyāsvalakṣaṇam || 2 ||
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:5"/>nāstīti kalpanā yāvat tāvad ucchedakalpanā |
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:6"/>ucchedābhiniveśo &#x27;yaṃ nedaṃ māyāsvalakṣaṇam || 3 ||
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:7"/>astināstitvanirmuktā madhyamā yā tu kalpanā |
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:8"/>madhyamābhiniveśo &#x27;yaṃ nedaṃ māyāsvalakṣaṇam || 4 ||
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:9"/>yat satyaṃ samvṛtiḥ proktaṃ buddhānāṃ kāyalakṣaṇam |
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:10"/>seyaṃ māyā samuddiṣṭā svādhiṣṭhānam ihocyate || 5 ||
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:11"/>yena vyāptam idaṃ sarvaṃ trailokyaṃ sacarācaram |
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:12"/>yo nāpyate &#x27;lpapuṇyais tu vyākṛtair eva labhyate || 6 ||
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:13"/>% vyākṛtair] \ed\emend, vyākṛter \ms
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:14"/>nātra śaucaṃ na niyamo na tapo na ca duṣkaram |
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:15"/>aduṣkarair aniyamaiḥ sukhair harṣaiś ca sidhyati || 7 ||
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:16"/>% harṣaiś] \ed\emend, hasaiś \ms
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:17"/>evaṃ vijñāya tattvajño yaṃ smarec ca muhur muhuḥ |
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:18"/>sidhyate tasya buddhatvaṃ sarvaṃ māyāvikurvitaiḥ || 8 ||
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:19"/>% sarvamāyā°] \conj
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:20"/>māyāsthaṃ ca sadā devāḥ pālayantīha yoginaḥ |
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:21"/>sarvajñeyaṃ bhavaty eva māyopamasamādhinā || 9 ||
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:22"/>vajrāyudhaṃ mahāvīryaṃ sarvam ārogyasatsukham |
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:23"/>% vajrāyuṣaṃ] \conj
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:24"/>buddhaṛddhiṃ ca samprāpya yāty utpatati svecchayā || 10 ||
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:25"/>vaśam āyānti sattvāś ca darśanenaiva coditāḥ |
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:26"/>labhate vāñchitaṃ sarvaṃ māyopamasamādhinā || 11 ||
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:27"/>svapnamāyopamān dharmān bauddhāḥ sarve vadanty api |
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:28"/>satyaṃ te na prajānanti svādhiṣṭhānabahirmukhāḥ || 12 ||
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:29"/>vāyuvijñānasaṃyuktaṃ chāyākāraṃ manomayam |
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:30"/>% chāyākāraṃ] \ed\emend, chāyākāra° \ms
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:31"/>svajñānaṃ te na paśyanti māyādṛṣṭāntamohitāḥ || 13 ||
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:32"/>% māyā°] \ed\conj, ø \ms
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:33"/>ananteṣv api kalpeṣu śrutipāraṅgatair api |
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:34"/>guruvaktrād vinā māyā sākṣātkartuṃ na śakyate || 14 ||
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:35"/>tasmān mānaṃ parityajya buddhatvaphalakāṅkṣayā |
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:36"/>vajrayānaṃ samāruhya yatnenārādhayed gurum || 15 ||
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:37"/>% ... samāruhya] incipit Tokyo [\msT 2\recto]
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:38"/>idānīṃ ca pravakṣyāmi kramabhedaṃ sudurlabham |
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:39"/>yaṃ jñātvā vicared yogī sarvabuddhamayo bhavet || 16 ||
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:40"/>pṛthivyādīni catvāri tathā śūnyacatuṣṭayam |
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:41"/>aṣṭau padārthā vijñeyā vināśotpattihetavaḥ || 17 ||
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:42"/>% \footnote{aṣṭau padārthā vijñeyā] \msT, (lacuna) \ed}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:43"/>prabhāsvarān mahāśūnyaṃ tasmāc copāyasambhavaḥ |
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:44"/>tasmād utpadyate prajñā tasyāḥ pavanasambhavaḥ || 18 ||
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:45"/>pavanād agnisambhūtir agneś ca jalasambhavaḥ |
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:46"/>% \footnote{agner jalasamudbhavaḥ] \msT, agne[ś ca] jalasambhavaḥ \ed\emend, agne jalasambhavaḥ \ms}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:47"/>jalāc ca jāyate pṛthvī sattvānām eṣa sambhavaḥ || 19 ||
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:48"/>% \footnote{eva] \msT, eṣa \ed}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:49"/>bhūdhātur līyate toye toyas tejasi līyate |
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:50"/>tejaś ca sūkṣmadhātau ca vāyuś citte vilīyate || 20 ||
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:51"/>cittaṃ caitasike līyetāvidyāyāṃ tu caitasam |
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:52"/>% \footnote{līyed avidyāyāṃ] \emend, līyed aṃvidyāyāṃ \msT, līye vidyāyāṃ \ms}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:53"/>% \footnote{caitasam] \ed\emend\msT, cetasam \ms}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:54"/>sāpi prabhāsvaraṃ gacchen  nirodho &#x27;yaṃ bhavatraye || 21 ||
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:55"/>% \footnote{sāpi] \ed\emend\msT, so &#x27;pi \ms}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:56"/>% \footnote{°trayam] \msT, °traye \ed}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:57"/>anādikālikaṃ hy evaṃ bhavacakraṃ pravartate |
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:58"/>% \footnote{etad] \msT, evaṃ \ed}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:59"/>yāvan na paśyaty ātmānaṃ māyopamasamādhinā || 22 ||
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:60"/>svasamvedyā hi sā māyā tārkikāṇām agocarā |
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:61"/>% \footnote{svasamvedya] \ed\emend\msT, svasamvedyo \ms}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:62"/>% māyā [\msT 2\verso] tārkikāṇām
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:63"/>nijadehasthitau cāpi mandapuṇyair na labhyate || 23 ||
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:64"/>% \footnote{°sthitā] \msT, °sthitau \ed}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:65"/>% \footnote{°puṇyair] \ed\emend\msT, °puṇyo \ms}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:66"/>% \footnote{dṛśyate] \msT, labhyate \ed}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:67"/>jñāyate param ekena svadehe sāvikāriṇī |
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:68"/>% sā&#x27;vikāriṇī \ed
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:69"/>gurupādaprasādena dṛṣṭāntair upalakṣitā || 24 ||
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:70"/>nidhayo maṇayaś cāpi pṛthivyām udakaṃ tathā |
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:71"/>% \footnote{caiva] \msT, cāpi \ed}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:72"/>vidyamānā na dṛśyante tathā deheṣu sarvavit || 25 ||
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:73"/>māyāmarīcir gandharvanagaraḥ śakrakārmukam |
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:74"/>% \footnote{°marīci°] \msT, °marīcir \ed}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:75"/>% \footnote{°nagaraṃ] \msT, °nagaraḥ \ed}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:76"/>darpaṇapratibimbaś codakacandraḥ pratidhvaniḥ || 26 ||
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:77"/>% \footnote{darpaṇapratibimbaṃ] \msT, darpaṇapratibimbaś \ed\emend, darpaṇaḥ pratibimbaś \ms}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:78"/>% \footnote{ca udakacandra°] \msT, codakacandraḥ \ed\emend, codakacandra \ms}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:79"/>svapnamāyābhūpaṭalaṃ vidyudbudbudasaṃjñitā |
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:80"/>% \footnote{°cchāyābhra°] \corr, °cchāyā abhra° \msT, °māyābhū° \ed}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:81"/>% \footnote{°saṃjitā] \ed, °saṃjñitāḥ \msT}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:82"/>māyā dvādaśa dṛṣṭāntair vistarā caikalakṣaṇā || 27 ||
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:83"/>% \footnote{vistarāc] \msT, vistarā \ed}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:84"/>āsāṃ vispaṣṭatārūpaṃ yad devatālambanaṃ prati |
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:85"/>% \footnote{vispaṣṭa°] \msT, vispaṣṭatā° \ed}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:86"/>māyātrayaṃ samuddiṣṭaṃ yatnatas tat prakīrtyate || 28 ||
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:87"/>% \footnote{°trayaṃ] \msT\pcorr\ (\textit{secunda manu}) \ed, °yantraṃ \msT\acorr}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:88"/>% \footnote{parikīrtyate] \msT, prakīrtyate \ed}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:89"/>darpaṇapratibimbaṃ ca śakracāpam athāparam |
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:90"/>% \footnote{darpaṇa°] \ed, darpaṇaṃ \msT}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:91"/>tṛtīyaṃ jalacandraṃ ca mūrtim etair vibhāvayet || 29 ||
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:92"/>% \footnote{°candraś ca] \msT\pcorr\ (\textit{secunda manu}), °candra \msT\acorr, °candraṃ ca \ed}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:93"/>% \footnote{mūrtir] \msT, mūrtiṃ \ed}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:94"/>sūtake yat samuddiṣṭaṃ yac ca buddhakulaṃ mahat |
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:95"/>% \footnote{pañca°] \msT, yac ca \ed}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:96"/>tattatkulasamudbhūtā devatāś ca pṛthagvidhāḥ || 30 ||
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:97"/>% \footnote{tadvat tatkulasambhūtā] \msT, tattatkulasamudbhūtā \ed}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:98"/>% [\msT 3\recto]
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:99"/>dūtadūtyas tathā krodhāś ceṭaceṭyaś ca kiṃkarāḥ |
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:100"/>% \footnote{dūtā] \msT, dūta° \ed}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:101"/>% \footnote{ceṭyaś ceṭāś] \msT, ceṭaceṭyaś \ed}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:102"/>na te santi na tāḥ santi sattvārthaṃ prati darśitāḥ || 31 ||
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:103"/>% \footnote{tāḥ] \ed\emend\msT, bhāḥ \ms}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:104"/>etat sarvaṃ hared yogī saṃhared api cātmanā |
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:105"/>% \footnote{sphared] \msT, hared \ed}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:106"/>% \footnote{yogī] \ed\emend\msT, yogi \ms}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:107"/>māyopamasamādhistho maṇḍalādy api vistaram || 32 ||
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:108"/>% \footnote{maṇḍalād api] \msT, maṇḍalādy api \ed}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:109"/>varṇān nānāvidhāṃś cāpi svādhiṣṭhānena yojayet |
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:110"/>% \footnote{varṇān] \ed, varṇāṃ \msT}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:111"/>% \footnote{nānāvidhāṃś] \ed, nānāvidhāṃ \msT}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:112"/>śokaṃ bhayaṃ virāgaṃ ca saṃtrāsaṃ skhalitaṃ tathā || 33 ||
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:113"/>% \footnote{virāgaś] \msT, virāgaṃ \ed}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:114"/>% \footnote{saṃtrāsaḥ] \corr, saṃtrāsa \msT, saṃtrāsaṃ \ed}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:115"/>duṣṭaṃ ca daurmanasyaṃ ca durdṛṣṭaṃ duṣkṛtaṃ tathā |
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:116"/>% \footnote{This line is in \ed, but not the \msT.}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:117"/>durgandhaṃ dūrasaṃ cāpi duḥsparśaṃ caiva yad bhavet |
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:118"/>% \footnote{durgandhaṃ] \ed, durgandaṃ \msT}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:119"/>% \footnote{dūrasaṃ] \ed, durasaṃ \msT}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:120"/>% \footnote{caiva ... cāpi] \msT, cāpi ... caiva \ed}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:121"/>% \footnote{duḥsparśaṃ] \ed, dusparśaṃ \msT}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:122"/>tās tā virūpā prakṛtīḥ svādhiṣṭhānena śodhayet || 34 ||
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:123"/>% \footnote{prakṛtīḥ] \ed\emend\msT, prakṛtāṃ \ms}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:124"/>viṇmūtrādipravṛttiś ca jvarādyā vyādhayaś ca ye |
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:125"/>% \footnote{°mūtrādi°] \ed, °mutrādi° \msT}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:126"/>% \footnote{ye] \msT\pcorr, yo \msT\acorr}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:127"/>svābhāvikā jarādyāś ca teṣāṃ māyā cikitsakam || 35 ||
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:128"/>% \footnote{jarādyāś] \msT\pcorr\ \ed, jvarādyāś \msT\acorr}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:129"/>% \footnote{cikitsikā] \msT\pcorr\ (\textit{secunda manu}), cikittasikā \msT\acorr, cikitsitam \ed}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:130"/>yena dharmeṇa bālānāṃ saṃsāro bhuvi vardhate |
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:131"/>yoginas tena dharmeṇa saṃsāro na vivardhate || 36 ||
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:132"/>% \footnote{sambhāro bhuvi vardhate] \msT, saṃsāro na vivardhate \ed}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:133"/>% \ed points out that henceforth up to 55 are quoted in the 8th siddhi, 212-213
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:134"/>sukhāḥ kāmaguṇāḥ pañca bālānāṃ bandhane matāḥ |
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:135"/>yoginas tena dharmeṇa buddhatvaṃ sādhayet punaḥ || 37 ||
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:136"/>rāgo harṣas tathā prītir maitrī ca karuṇā tathā |
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:137"/>% \footnote{rāgaṃ] \conj, rāga \msT, rāgo \ed}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:138"/>% \footnote{harṣaṃ] \msT, harṣas \ed}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:139"/>% \footnote{tathā] \ed, sp?ṣā (?) \msT}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:140"/>% \footnote{prītir maitrī] \ed, prīti mautrīṃ \msT}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:141"/>% [\msT 3\verso]
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:142"/>upekṣā muditā caiva balam utsāha eva ca || 38 ||
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:143"/>śauryaṃ vīryaṃ tathā raudraṃ haṭhatvaṃ sāhasaṃ tathā |
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:144"/>% \footnote{raudryaṃ] \msT, raudraṃ \ed}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:145"/>svarūpāḥ prakṛtīś cānyāḥ svādhiṣṭhānena saṃharet || 39 ||
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:146"/>% \footnote{saṃcaret] \msT, saṃharet \ed\ \emend, saṃcaret \ms}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:147"/>ekamudrāsamāyuktaś caturmudrāyuto &#x27;thavā |
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:148"/>% \footnote{catur°] \ed, catu° \msT}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:149"/>antaḥpuragato vāpi svādhiṣṭhānam anusmaret || 40 ||
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:150"/>rūpaṃ śabdaṃ tathā gandhaṃ rasaṃ sparśaṃ ca śobhanam |
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:151"/>anubhūyāt sadā yogī mahāsukhapade sthitaḥ || 41 ||
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:152"/>% \footnote{°rāga°] \msT, °sukha° \ed}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:153"/>tataṃ caivāvanaddhaṃ ca ghaṇṭaṃ śuṣiram eva ca |
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:154"/>% \footnote{ātataṃ vitataṃ caiva] \msT, tataṃ caivāvanaddhaṃ ca \ed}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:155"/>% \footnote{ghanaṃ] \msT, ghaṇṭaṃ \ed}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:156"/>vādyaṃ caturvidhaṃ yogī svādhiṣṭhānena nirviśet || 42 ||
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:157"/>% \footnote{nirdiśet] \msT, nirviśet \ed}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:158"/>śṛṅgārādīn rasān sarvān nava navanāṭakasaṃjñakān |
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:159"/>% \footnote{rasān sarvān] \ed, rasān asasvan \msT}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:160"/>% \footnote{nava nāṭyasamudbhavān] \msT, navanāṭakasaṃjñakān \ed}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:161"/>anubhūyāt sadā yogī māyopamasamādhinā || 43 ||
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:162"/>% \footnote{anubhūyāt] \ed, anubhūyāt| \msT}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:163"/>yogatantre samuddiṣṭāś chomādyā ye ca vistarāḥ |
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:164"/>% \footnote{samuddiṣṭāś] \ed, samuddiṣṭā \msT}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:165"/>% \footnote{cchommādyā] \msT, chomādyā \ed}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:166"/>tāṃś ca pravartayed yogī māyayānupalambhataḥ || 44 ||
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:167"/>% māyayā&#x27;nupalambhataḥ
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:168"/>unmiṣan nimiṣan vāpi hasan jalpaṃs tathaiva ca |
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:169"/>% \footnote{unmiṣaṃ nimiṣaṃ cāpi] \msT, uniṣan nimiṣan vāpi \ed}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:170"/>% \footnote{jalpaṃs] \ed, jalpan \msT}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:171"/>% \footnote{hi] \msT, ca \ed}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:172"/>gacchaṃs tiṣṭhan svapan bhuñjan māyādeham anusmaret || 45 ||
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:173"/>% \footnote{gacchaṃs] \ed, gacchan \msT}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:174"/>% tiṣṭhan [\msT 4\recto] svapan
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:175"/>% \footnote{svapan] \msT\pcorr\ \ed, svasvapan \msT\acorr}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:176"/>jagaty anyāś ca yāḥ krīḍā nānāsaṃkalpakalpitāḥ |
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:177"/>% \footnote{yāḥ] \ed, yā \msT}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:178"/>vicaret tāś ca tattvajño mahārāganaye sthitaḥ || 46 ||
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:179"/>% \footnote{tāsu] \msT, tāś ca \ed}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:180"/>% \footnote{mahārāganaye] glossed \textit{secunda manu} in upper margin: \textit{sahaje}}; NB perhaps the term mahārāganaya was fading from fashion? also note variant mahāsukha° in 41d!
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:181"/>svādhiṣṭhānam idaṃ prāpya sarvadṛṣṭividāraṇam |
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:182"/>% \footnote{°vidālanam] \msT, °vidāraṇam \ed}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:183"/>sarvaṃ kuryān na kuryād vā yathārucitaceṣṭitaḥ || 47 ||
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:184"/>caityakarma na kurvīta na ca pustakavācanam |
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:185"/>% \footnote{Printed caitya karma in \ed}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:186"/>karotu vācayec cāpi svādhiṣṭhānakrameṇa tu || 48 ||
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:187"/>devān na vandayed evaṃ bhikśūṃś cāpi na vandayet |
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:188"/>athavā vandayet sarvān svādhiṣṭhānakrameṇa tu || 49 ||
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:189"/>mantranyāsaṃ na kurvīta mudrābandhaṃ tathaiva ca |
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:190"/>mantrajāpaṃ na kuryād vā kuryāc ca pratibimbavat || 50 ||
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:191"/>% \footnote{kuryāc ca kuryād vā] \msT, kuryād vā kuryāc ca \ed}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:192"/>% \footnote{pratibimbavat] \ed, pratibimbat \msT\pcorr, pratimabimbat \msT\acorr}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:193"/>madīyaṃ dṛśyate cittaṃ bāhyam arthaṃ na vidyate |
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:194"/>% \footnote{bāhyamañcā] \msT\pcorr\ (\textit{secunda manu}), °bāhyam atha \msT\acorr, bāhyam arthaṃ \ed} maybe artho after all...
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:195"/>evaṃ vai bhāvayen māyāṃ tathatām apy anusmaret || 51 ||
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:196"/>% \footnote{vai] \ed, ø \msT}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:197"/>% \footnote{cāpy] \msT, apy \ed}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:198"/>anantadhyānavidhinā mantramūrtisamādhinā |
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:199"/>yadi māyā na labdhā syāt sarvabhūmiphalāya vai || 52 ||
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:200"/>dehabhogapratiṣṭhā ca bhūmipāramitādayaḥ |
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:201"/>% \footnote{°pratiṣṭhāna°] \corr, °pratiṣṭāna° \msT, °pratiṣṭhā ca \ed}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:202"/>% [\msT 4\verso]
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:203"/>buddhaṛddhivikurvādi  sarvaṃ māyāviceṣṭitam || 53 ||
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:204"/>% \footnote{māyā°] \ed, māyāṃ \msT}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:205"/>ādarśabimbe sakalaṃ sasuyuktaṃ rūpaṃ yathā svacchataraṃ vibhāti |
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:206"/>% \footnote{sakalāṅgayuktaṃ] \msT, sakalaṃ sasuyuktaṃ \ed\emend, sakalaṃ sayuktaṃ \ms}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:207"/>aśītyanuvyañjanalakṣaṇāḍhyo dehas tathā vajradharaḥ sadaiva || 54 ||
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:208"/>% \footnote{°āḍhyo] \msT\pcorr\ (\textit{secunda manu}) \ed, °āgro \msT\acorr}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:209"/>indrāyudhaṃ viyati dṛṣṭam anekavarṇaṃ lokasya darśayati karma śubhāni yadvat |
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:210"/>% `here&#x27; the readings were completed from the Amṛtakaṇikā, says \ed, but it is not clear without consulting his \ms what he means
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:211"/>% \footnote{viyati] \msT\pcorr\ (\textit{secunda manu}) \ed, viśati \msT\acorr}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:212"/>% \footnote{śubhādi] \msT, śubhāni \ed}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:213"/>evaṃ ca vajradhṛg avāpya sitādivarṇaṃ sampādayaty avikalaṃ khalu karma tadvat || 55 ||
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:214"/>% \footnote{vajradhṛg avāpya] \ed, vajradhṛg vāpya \msT\pcorr, vajrag vāpya \msT\acorr}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:215"/>% \footnote{°varṇaṃ] \ed, °varṇa \msT}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:216"/>% \footnote{sampādayaty] \msT, [sampā]dayaty \ed}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:217"/>% \footnote{karma] \msT, [karma] \ed}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:218"/>% \footnote{tat tat] \conj, ntat \msT, tadvat \ed}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:219"/>yad dhemarūpyamaṇiśaṅkhaśilāpravālavaidūryatāmrarajatādiṣu saṃsthitaś ca |
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:220"/>% \footnote{ādiṣu saṃsthitaś] \ed, °ādisusaṃsthitaṃ \msT}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:221"/>tatraika eva hi śaśī gaganodarāntād āvartamānavapuṣā pratibhāti yadvat || 56 ||
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:222"/>% \footnote{tatraika] \ed\emend\msT, tatraiva \ms}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:223"/>% \footnote{hi] \ed, ø \msT}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:224"/>% \footnote{gaganodarāntād] \ed\emend, gaganodarāntādy \ms, gaganodarāntādyām \msT}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:225"/>evaṃ sa nāthaḥ khalu cittavajro nānāvidhas tiṣṭhati jantuvarge |
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:226"/>sa cāpy ayaṃ svātmani viśvarūpo māyāmayo vyāptasamastalokaḥ || 57 ||
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:227"/>% \footnote{cāvyayaḥ] \msT, cāpy ayaṃ \ed}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:228"/>rūpādipañcakam athāyatanāni yāni aṣṭādaśeti coditāḥ khalu dhātavaś ca |
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:229"/>% \footnote{°pañcakam athā°] \emend, °pañcakamaṃthā° \msT\pcorr, °pañcakamaṃkathā° \msT\acorr}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:230"/>% \footnote{yāni] \ed, ø \msT} % or my eye-skip&gt;
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:231"/>% \footnote{gaditāḥ] \msT, coditāḥ \ed}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:232"/>jñānāni pañca viṣayāś ca jagat samastaṃ māyāmayaḥ sa iha vajradharo &#x27;pi nānyat || 58 ||
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:233"/>% \footnote{vajradhṛg eva] \msT, vajradharo &#x27;pi \ed}
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:234"/>% [explicit \msT]
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:235"/>yaṃ parvatā aṣṭamahāsamudrā dvīpāś ca sarve narakādibhedāḥ |
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:236"/>yat sthāvaraṃ jaṅgamam eva dṛṣṭaṃ tat tat svayaṃ sarvavid eva nānyat || 59 ||
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:237"/>evaṃ svacittamayam eva jagat samastaṃ vijñāya mokṣabhavakalpanayā vimuktāḥ |
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:238"/>ye na bhramanti bhavakalpamahārṇaveṣu tebhyo namo &#x27;stv akhilasaṃskṛtapāragebhyaḥ || 60 ||
+<lb n="SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda:239"/>|| svādhiṣṭhānaprabhedaḥ samāptaḥ | kṛtir iyam āryadevapādānām ||
+    </body>
+  </text>
+</TEI>

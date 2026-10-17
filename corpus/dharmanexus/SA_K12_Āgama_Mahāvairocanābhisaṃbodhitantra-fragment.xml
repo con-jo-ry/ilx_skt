@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mahāvairocanābhisaṃbodhitantra (fragment)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Collection / category: BuddhistScriptures / K12 (Tantra)
+Source: OCR / Dharmamitra
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Junqi Wang, &#x27;A Preliminary Study of a Newly Discovered Sanskrit Manuscript of the Mahāvairocanābhisaṃbodhi&#x27;, Journal of Indian and Buddhist Studies 70/3 (2022): (64) 1102–(70) 1108.</note>
+          <idno type="dharmanexus">SA_K12_Āgama_Mahāvairocanābhisaṃbodhitantra-fragment</idno>
+          <ref target="https://dharmamitra.org/nexus/db/sa/SA_K12_Āgama_Mahāvairocanābhisaṃbodhitantra-fragment/text">https://dharmamitra.org/nexus/db/sa/SA_K12_Āgama_Mahāvairocanābhisaṃbodhitantra-fragment/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-13">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_K12_Āgama_Mahāvairocanābhisaṃbodhitantra-fragment:0"/>Title: Mahāvairocanābhisambodhi fragment
+<lb n="SA_K12_Āgama_Mahāvairocanābhisaṃbodhitantra-fragment:1"/>Source: \textsc{Wang}, Junqi. 2022. “A Preliminary Study of a Newly Discovered Sanskrit Manuscript of the \textit{Mahāvairocanābhisaṃbodhi}.” \textit{Journal of Indian and Buddhist Studies} 70/3: (64) 1102–(70) 1108.
+<lb n="SA_K12_Āgama_Mahāvairocanābhisaṃbodhitantra-fragment:2"/>Tibetan: D 494, P 126, N 447, C 129, H 462 (Uttaratantra section, ca. 711 CE apud Hodge), D 255b6–257b2 (ends on 260a7, so this might be the antepenultimate folio)
+<lb n="SA_K12_Āgama_Mahāvairocanābhisaṃbodhitantra-fragment:3"/>[23r]manvāharatv ācāryaḥ aham amukanāmā imāṃ velām upādāya yāvad ā bodhimaṇḍaniṣadanāt | dadātu me ācāryo mahāsamayāvatārasamvaraṃ mūrdhnā dhārayiṣye śāstur ājñām iti |
+<lb n="SA_K12_Āgama_Mahāvairocanābhisaṃbodhitantra-fragment:4"/>tata ācāryeṇāpi vaktavyam | samanvāhara kulaputra yāvad ā bodhimaṇḍaniṣadanāt | sarvabuddhabodhisattvebhyaḥ tvayā ātmā niryātayitavyaḥ | adhyāśayenānuttarāṃ samyaksaṃbodhim ākāṅkṣayeti |
+<lb n="SA_K12_Āgama_Mahāvairocanābhisaṃbodhitantra-fragment:5"/>etad guhyakādhipate mahāsamayāvatāro nāma samvaraḥ | asmin samvare vyavasthitā mantramukhabodhisattvacaryācāriṇo bodhisattvāḥ susaṃvṛtaśīlā bhavanti | anuttaratāthāgataśīlapratiṣṭhitā bhavanti | tasmā tarhi guhyakādhipate iha mantramukhabodhisattvacaryāmukhe śikṣitukāmena bodhisattvena iha mahāsamayāvatāre &#x27;bhiyogaḥ karaṇīya iti ||
+<lb n="SA_K12_Āgama_Mahāvairocanābhisaṃbodhitantra-fragment:6"/>śṛṇu guhyakādhipate bodhicittaṃ yena cittena samanvāgatā bodhisattvā jātā bhavanti tathāgatakule pratiṣṭhitā bhavanty atītānāgatapratyutpannānāṃ buddhānāṃ bhagavatāṃ jñāne |
+<lb n="SA_K12_Āgama_Mahāvairocanābhisaṃbodhitantra-fragment:7"/>atha vajrapāṇir bhagavantam etad avocat | deśayatu bhagavān asmākam anukampām upādāya tad bodhicittam |
+<lb n="SA_K12_Āgama_Mahāvairocanābhisaṃbodhitantra-fragment:8"/>evam ukte bhagavān vajrapāṇiguhyakādhipatim etad avocat | tatra guhyakādhipate bodhiḥ katamā | bodhir ākāśam ākāśaṃ cārūpyānidarśanam agrāhyaṃ yallakṣaṇā ca bodhiḥ tallakṣaṇaṃ ca cittam iti hi guhyakādhipate cittaṃ cākāśaṃ ca bodhiṃ cādvayam etat | yā cātra samatānubodhā dharmāṇāṃ dharmadhātor adhigamaḥ sānuttarā samyaksaṃbodhiḥ | tasmin yac cittam utpadyate &#x27;nutpādayogenānupalambhayogena idam ucyate guhyakādhipate bodhicittam |
+<lb n="SA_K12_Āgama_Mahāvairocanābhisaṃbodhitantra-fragment:9"/>api tu guhyakādhipate pañcabhir avasthānapadair bodhisattvā bodhim abhisaṃbudhyante | katamaiḥ pañcabhiḥ | iha guhyakādhipate bodhisattvāḥ sarvabhāvavigatam abhisaṃbudhyante | kecit punaḥ skandhadhātvāyatanagrāhyagrāhakavigataṃ śūnyaṃ māyopamam ity abhisaṃbudhyante | kecid dharmālambanatayā | api tu guhyakādhipate mantramukhabodhisattvacaryācāriṇā bodhisattvenaivam abhisambodhavyam | sarvabhāvavigataṃ skandhadhātvāyatanagrāhyagrāhavivarjitaṃ dharmanairātmyasamatayā svacittam ādyanutpannaṃ śūnyatāsvabhāvam iti ||
+<lb n="SA_K12_Āgama_Mahāvairocanābhisaṃbodhitantra-fragment:10"/>tatra guhyakādhipate sarvabhāvavigatam iti laukikamārgaparityāga eva tathāgatena saṃdarśitaḥ | na punar atrātmā sattvo jantur vā manujo vā saṃvidyate | api tu skandhadhātvāyatanādīni | skandhadhātvāyatanagrāhyagrāhavivarjitam iti | śrāvakamārgābhisamayaparijñāmukhena bodhisattvānāṃ mahāyānābhisamayo vyavasthāpitaḥ | dharmanairātmyasamatayā tu mantramukhabodhisattvacaryācāriṇo bodhisattvāḥ svacittam ādyanutpannaṃ paśyantaḥ śūnyatāsvabhāvam adravyam alakṣaṇam abhisaṃbudhyante | tasmā tarhi guhyakādhipate bodhisattvenālayānāvaraṇasarvaprapañcarahitaṃ cittam utpādayitavyam |
+<lb n="SA_K12_Āgama_Mahāvairocanābhisaṃbodhitantra-fragment:11"/>% °prapa[23v]ñca°
+<lb n="SA_K12_Āgama_Mahāvairocanābhisaṃbodhitantra-fragment:12"/>tad anenāpi paryāyeṇaiva veditavyam | yathā nāsti mahāyānābhisaṃprasthitānāṃ bodhisattvānāṃ mantracaryānayanirhāravimokṣamukhaṃ muktvā anuttarāyāḥ samyaksaṃbodher upakārī veditavyaḥ tat kasmād dhetoḥ yad anekān kalpān bodhisattvā ghaṭanto vyāyacchanto duṣkaraparityāgāni kurvanto na bodhim abhisaṃbudhyante | tad ihaiva janmani mantramukhabodhisattvacaryācāriṇo bodhisattvā anuttarāṃ samyaksaṃbodhim abhisaṃbudhyante | tat kasmād dhetor janma iti guhyakādhipate utpādasyaiṣā saṃjñā kṛtā tathāgatena | tan teṣāṃ bodhisattvānāṃ sā saṃjñā prathamataram eva niruddhā sarvadharmasvabhāven &#x27;dhigamāyāḥ samādheḥ pratilambhād iti ||
+<lb n="SA_K12_Āgama_Mahāvairocanābhisaṃbodhitantra-fragment:13"/>atha bhagavān vairocanaḥ punar api vajrapāṇiṃ guhyakādhipatim āmantrayate sma | iha guhyakādhipate guhyasāramudrāmaṇḍalasamayam avatartukāmena bodhisattvena pañca dharmāḥ dūrataḥ parivarjayitavyāḥ | katame pañca | mātsaryaṃ sattveṣv āghātaḥ vicikitsā ālasyam agauravatā mantrādiṣu | ete dharmā guhyakādhipate ihaiva janmani lokottarāṃ pratipadam avatartukāmair bodhisattvair ete dūrataḥ parivarjayitavyāḥ | nāhaṃ guhyakādhipate tasya bodhisattvasya eṣu dharmeṣu sthitasya svalpām api bodhisattvacaryāparipūriṃ vadāmi | tat kasmād dhetor ma-
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Saddharmaparikathā (chapter 12)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Collection / category: BuddhistNon-Scriptures / T10
+Source: OCR / Dharmamitra
+Edition / witness: Szántó 2022
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (not determined): Szántó 2022</note>
+          <idno type="dharmanexus">SA_T10_anon_Saddharmaparikathā-12</idno>
+          <ref target="https://dharmamitra.org/nexus/db/sa/SA_T10_anon_Saddharmaparikathā-12/text">https://dharmamitra.org/nexus/db/sa/SA_T10_anon_Saddharmaparikathā-12/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-13">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_T10_anon_Saddharmaparikathā-12:0"/>dyūtādīnavapradarśane vācyam |
+<lb n="SA_T10_anon_Saddharmaparikathā-12:1"/>anekadoṣāyatane praśrayaśrīpramāthini |
+<lb n="SA_T10_anon_Saddharmaparikathā-12:2"/>dyūte kiṃ nāma tad dṛṣṭvā matir yat syāt sacetasaḥ || 12.1 ||
+<lb n="SA_T10_anon_Saddharmaparikathā-12:3"/>tatra doṣagaṇaprabhavatvād anekadoṣāyatanaṃ dyūtaṃ pratyavagantavyam | tad dhi |
+<lb n="SA_T10_anon_Saddharmaparikathā-12:4"/>ānandaḥ śātravāṇāṃ paribhavabhavanaṃ vairakarmāntaśālā
+<lb n="SA_T10_anon_Saddharmaparikathā-12:5"/>māyāśāṭhyapratiṣṭhā kalikaluṣavidhiḥ pāpasaṃkāradhānam |
+<lb n="SA_T10_anon_Saddharmaparikathā-12:6"/>mohasyākrīḍabhūmir guṇadhanadahanaḥ praśrayaśrīpramāthi
+<lb n="SA_T10_anon_Saddharmaparikathā-12:7"/>dyūtaṃ kīrtipravāsaḥ paradhanaharaṇaprārthanānarthabījam || 12.2 ||
+<lb n="SA_T10_anon_Saddharmaparikathā-12:8"/>kiṃ ca bhūyaḥ |
+<lb n="SA_T10_anon_Saddharmaparikathā-12:9"/>dhairyasyāpanayaḥ śamasya vilayaḥ sadvṛttaśasyāśaniḥ
+<lb n="SA_T10_anon_Saddharmaparikathā-12:10"/>saṃrambhoddhavalobhadoṣarajasām utkarṣaṇo mārutaḥ |
+<lb n="SA_T10_anon_Saddharmaparikathā-12:11"/>dyūtaṃ nāma guṇoparāgasamayaḥ pāpānalasyendhanaṃ
+<lb n="SA_T10_anon_Saddharmaparikathā-12:12"/>pāruṣyādyaśubhapralāpamukharo ghoraḥ pramādagrahaḥ || 12.3 ||
+<lb n="SA_T10_anon_Saddharmaparikathā-12:13"/>api ca | kadā nāma tatprasaktamateḥ svasti syāt | dyūtaparo hi |
+<lb n="SA_T10_anon_Saddharmaparikathā-12:14"/>jitvoddhavākulamatir na śamaṃ paraiti
+<lb n="SA_T10_anon_Saddharmaparikathā-12:15"/>tṛṣṇāṃ vivardhayati caiva hi doṣadhātrīm |
+<lb n="SA_T10_anon_Saddharmaparikathā-12:16"/>duḥkhaṃ paraṃ samupayāti jitaś ca yasmān
+<lb n="SA_T10_anon_Saddharmaparikathā-12:17"/>na dyūtam arhati tato &#x27;pi budhaḥ prapattum || 12.4 ||
+<lb n="SA_T10_anon_Saddharmaparikathā-12:18"/>nindaty api svajana enaṃ
+<lb n="SA_T10_anon_Saddharmaparikathā-12:19"/>lāghavam abhyupaiti suhṛdāṃ ca |
+<lb n="SA_T10_anon_Saddharmaparikathā-12:20"/>na prārthyate svajanabhāve
+<lb n="SA_T10_anon_Saddharmaparikathā-12:21"/>yāti parikṣayaṃ ca dhanam asya || 12.5 ||
+<lb n="SA_T10_anon_Saddharmaparikathā-12:22"/>tatraitat syāt | anaikāntaḥ khalv atra yad uta dyūtaprasaktamateḥ dhanaparikṣayaḥ syāt | nalaṃ hi rājānaṃ dyūte parājitya tadrājyam avāpa puṣkaro rājā | śakunir yaudhiṣṭhiraṃ dhanaṃ viduram amātyaṃ ca lebhe | bhāryāṃ śulkārthaṃ pūrṇako yakṣaḥ prāptaḥ | vijayaśrīr dyūte | tasmād anekānta eṣa yad uta dyūtaprasaktamater dhanaparikṣayaḥ syāt |
+<lb n="SA_T10_anon_Saddharmaparikathā-12:23"/>ataś ca prārthanīya eva svajanabhāve syān na ca lāghavam upeyāt suhṛdāṃ svajananindālakṣatāṃ ca |
+<lb n="SA_T10_anon_Saddharmaparikathā-12:24"/>ity atra brūmahe | nālaṃ yadṛcchayā siddhyā vipadbhūyaskaram arthaṃ prapattum | yadṛcchayā hi kaścit kvacid dyūte kāṃcid arthalavamātrām anuprāpnoti |
+<lb n="SA_T10_anon_Saddharmaparikathā-12:25"/>prāyeṇa tu dyūte &#x27;nuraktamatayaḥ tatropayuktasarvasvāḥ kaupīnapracchādane &#x27;py aparyāptaprakṣīṇamalinavasanāḥ kṣutparikṣāmavivarṇadīnavapuṣaḥ śokavaktavyahṛdayā rajaḥsaṃpṛktā rūkṣadarśanāḥ suhṛdām apy aviśvāsyā jagadavajñābhājanabhūtās tattadakāryamatayaḥ paribhramantaḥ pṛthivīṃ dṛśyante, nalavad yudhiṣṭhiravac ca saṃrodhaduḥkhitāḥ,
+<lb n="SA_T10_anon_Saddharmaparikathā-12:26"/>pariluptakaracaraṇāṅguliparvāṇaś ca kecit | tasmād bāhulyatayā prasiddham etat | bhogāś cāsya parikṣayaṃ yāntīti | tataś cāśeṣadoṣotpattiḥ |
+<lb n="SA_T10_anon_Saddharmaparikathā-12:27"/>yo &#x27;pi ca dyūtāt kāṃcid dravyamātrām adhigacchati, kadācit so &#x27;pi tadāsvādadarśanāt samutthāpyamānaviṣamalobhaḥ pratāryamāṇo jayāśayā punar dyūte pravṛttas tāṃ ca dhanamātrāṃ taduttarāṃ ca nāśayatīty upapadyamānam evaitat |
+<lb n="SA_T10_anon_Saddharmaparikathā-12:28"/>aikāntikī yady api ca prasiddhir
+<lb n="SA_T10_anon_Saddharmaparikathā-12:29"/>dyūtaprasaṅgena bhaved dhanasya |
+<lb n="SA_T10_anon_Saddharmaparikathā-12:30"/>mīmāṃsyam etad viduṣā tathāpi
+<lb n="SA_T10_anon_Saddharmaparikathā-12:31"/>guṇānurakṣāpravaṇātmakaḥ syāt || 12.6 ||
+<lb n="SA_T10_anon_Saddharmaparikathā-12:32"/>dyūtād dhanaṃ nidhanam eva vinā ca tena
+<lb n="SA_T10_anon_Saddharmaparikathā-12:33"/>śreyo bhavet kim anayor iti cintyamāne |
+<lb n="SA_T10_anon_Saddharmaparikathā-12:34"/>śreyo bhaven nidhanam akṣatadharmabuddher
+<lb n="SA_T10_anon_Saddharmaparikathā-12:35"/>na dyūtadoṣamalinasya dhanasya rāśiḥ || 12.7 ||
+<lb n="SA_T10_anon_Saddharmaparikathā-12:36"/>api ca |
+<lb n="SA_T10_anon_Saddharmaparikathā-12:37"/>tyaktvā hriyaṃ viśadam eva sadharmacintāṃ
+<lb n="SA_T10_anon_Saddharmaparikathā-12:38"/>pāpaiḥ sametya nirayasya vivṛtya mārgam |
+<lb n="SA_T10_anon_Saddharmaparikathā-12:39"/>śocyatvam etya viduṣāṃ svayaśaḥ pramṛdya
+<lb n="SA_T10_anon_Saddharmaparikathā-12:40"/>dyūtād ya icchati dhanaṃ kim asau na kuryāt || 12.8 ||
+<lb n="SA_T10_anon_Saddharmaparikathā-12:41"/>tatraitat syāt | ratinimittā dyūte pravṛttir na dravyādānalobhāt |
+<lb n="SA_T10_anon_Saddharmaparikathā-12:42"/>ity atra brūmahe |
+<lb n="SA_T10_anon_Saddharmaparikathā-12:43"/>ratir api ca bhaved anena yā
+<lb n="SA_T10_anon_Saddharmaparikathā-12:44"/>bahuvidhadoṣamalīmasātmanām |
+<lb n="SA_T10_anon_Saddharmaparikathā-12:45"/>guṇagaṇasadayaḥ kathaṃ nu tāṃ
+<lb n="SA_T10_anon_Saddharmaparikathā-12:46"/>paravanitām iva cintayed api || 12.9 ||
+<lb n="SA_T10_anon_Saddharmaparikathā-12:47"/>ratiṃ ca dharmārthaguṇopasaṃhitām
+<lb n="SA_T10_anon_Saddharmaparikathā-12:48"/>uśanti santo na tu tadvirodhinīm |
+<lb n="SA_T10_anon_Saddharmaparikathā-12:49"/>ratiṃ hi pāpām anubhūya bhūyasīm
+<lb n="SA_T10_anon_Saddharmaparikathā-12:50"/>apāyadurgeṣu ratiṃ vigāhate || 12.10 ||
+<lb n="SA_T10_anon_Saddharmaparikathā-12:51"/>sthite tu mṛtyau hi jarorukārmuke
+<lb n="SA_T10_anon_Saddharmaparikathā-12:52"/>samudyatavyādhiśare kuto ratiḥ |
+<lb n="SA_T10_anon_Saddharmaparikathā-12:53"/>svakarmadoṣagrathite sthite &#x27;grataḥ
+<lb n="SA_T10_anon_Saddharmaparikathā-12:54"/>punarbhave ca vyasanaśramāśraye || 12.11 ||
+<lb n="SA_T10_anon_Saddharmaparikathā-12:55"/>yad api syāt kaleyam iti tatparijñānārtham atra pravartamānasya ka iva doṣaḥ syāt |
+<lb n="SA_T10_anon_Saddharmaparikathā-12:56"/>ity atra brūmahe |
+<lb n="SA_T10_anon_Saddharmaparikathā-12:57"/>anekadoṣodayasaṃkalā kalā
+<lb n="SA_T10_anon_Saddharmaparikathā-12:58"/>vimohitatvāc ca guṇakriyā na ca |
+<lb n="SA_T10_anon_Saddharmaparikathā-12:59"/>yad eva tu syād guṇapakṣasiddhaye
+<lb n="SA_T10_anon_Saddharmaparikathā-12:60"/>yateta tenaiva yaśo&#x27;rthasiddhaye || 12.12 ||
+<lb n="SA_T10_anon_Saddharmaparikathā-12:61"/>priyam api ca na tan niṣevitavyaṃ
+<lb n="SA_T10_anon_Saddharmaparikathā-12:62"/>svahitapathād apavṛttilakṣaṇaṃ yat |
+<lb n="SA_T10_anon_Saddharmaparikathā-12:63"/>nihitam iva hitaṃ tu yatra tasminn
+<lb n="SA_T10_anon_Saddharmaparikathā-12:64"/>arucim apāsya bhajed yathauṣadhaṃ tat || 12.13 ||
+<lb n="SA_T10_anon_Saddharmaparikathā-12:65"/>dharmāśrayaṃ svahitasādhanam uttamaṃ tu
+<lb n="SA_T10_anon_Saddharmaparikathā-12:66"/>pretyeha cārthasukhamānayaśaḥphalatvāt |
+<lb n="SA_T10_anon_Saddharmaparikathā-12:67"/>dyūtādikād iti mano vinivartya pāpān
+<lb n="SA_T10_anon_Saddharmaparikathā-12:68"/>maṅgalyadānadamasaṃyamabhūṣaṇaḥ syāt || 12.14 ||
+<lb n="SA_T10_anon_Saddharmaparikathā-12:69"/>iti |
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kūṭāgārasūtra</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Collection / category: BuddhistScriptures / K10
+Source: OCR / Dharmamitra
+Edition / witness: Vinītā 2010, no. 2, I:22–92
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Bhikṣuṇī Vinītā (Vinītā Tseng), A Unique Collection of Twenty Sūtras in a Sanskrit Manuscript from the Potala: Editions and Translation, Beijing: China Tibetology Publishing House / Vienna: Austrian Academy of Sciences, 2010, no. 2.</note>
+          <idno type="dharmanexus">SA_K10_Āgama_Kūṭāgārasūtra_Vinītā_2010</idno>
+          <ref target="https://dharmamitra.org/nexus/db/sa/SA_K10_Āgama_Kūṭāgārasūtra_Vinītā_2010/text">https://dharmamitra.org/nexus/db/sa/SA_K10_Āgama_Kūṭāgārasūtra_Vinītā_2010/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-13">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_K10_Āgama_Kūṭāgārasūtra_Vinītā_2010:0"/>§1 evaṃ mayā śrutam ekasmin samaye bhagavān śrāvastyāṃ viharati sma jetavane &#x27;nāthapiṇḍadasyārāme | athāyuṣmān ānando yena bhagavāṃs tenopasaṃkrāntaḥ, upasaṃkramya bhagavataḥ pādau śirasā vanditvaikānte &#x27;sthāt | ekānte sthita āyuṣmān ānando bhagavantam etad avocat |
+<lb n="SA_K10_Āgama_Kūṭāgārasūtra_Vinītā_2010:1"/>§2 1) kiṃ bhadanta bhagavan kuśalamūlaṃ saṃmārjanapradānasya | 2) kiṃ maṇḍalakapradānasya | 3) kiṃ triśaraṇagamanaśikṣāpadānām | 4) kiṃ tathāgatānām añjalikarmaṇaḥ | 5) kiṃ bhadanta bhagavan kuśalamūlaṃ saṃsāre na kṣīyate, na paryādīyate, akṣayaṃ ca nirvāṇam upanayati | 6) kiṃ tathāgatabimbakaraṇāt |
+<lb n="SA_K10_Āgama_Kūṭāgārasūtra_Vinītā_2010:2"/>§3 bhagavān āha | pañcānuśaṃsā ānanda saṃmārjanapradāne | katame pañca | yadutātmanaś cittaṃ prasīdati | pareṣāṃ ca cittaṃ prasīdati | devatāś cāttamanaso bhavati | prāsādikasaṃvartanīyaṃ karma kṛtaṃ bhavaty upacitam | kāyasya bhedāt sugatau svargaloke deveṣūpapadyate |
+<lb n="SA_K10_Āgama_Kūṭāgārasūtra_Vinītā_2010:3"/>§4 yaḥ kaścid ānanda prasannacittas tathāgatam uddiśya caturaśraṃ maṇḍalakaṃ kurute, tasyāham ānandottarakuruṃ dvīpaṃ vadāmy aiśvaryādhipatyāya | kāyasya bhedāt trāyastriṃśeṣu deveṣūpapadyate |
+<lb n="SA_K10_Āgama_Kūṭāgārasūtra_Vinītā_2010:4"/>§5 yaḥ kaścid ānanda prasannacitto buddhaṃ bhagavantam uddiśyārdhacandrākṛtiṃ maṇḍalakaṃ kurute, tasyāham ānanda pūrvavidehaṃ dvīpaṃ vadāmy aiśvaryādhipatyāya | kāyasya bhedād yāmeṣu deveṣūpapadyate |
+<lb n="SA_K10_Āgama_Kūṭāgārasūtra_Vinītā_2010:5"/>§6 yaḥ kaścid ānanda tathāgatam uddiśya vartulaṃ maṇḍalakaṃ kurute, tasyāham ānandāparagodānīyaṃ dvīpaṃ vadāmy aiśvaryādhipatyāya | kāyasya bhedāt tuṣiteṣu deveṣūpapadyate |
+<lb n="SA_K10_Āgama_Kūṭāgārasūtra_Vinītā_2010:6"/>§7 yaḥ kaścid ānanda buddham uddiśya śakaṭākṛtiṃ maṇḍalakaṃ kurute, tasyāham ānanda jambūdvīpaṃ dvīpaṃ vadāmy aiśvaryādhipatyāya | kāyasya bhedān nirmāṇaratiṣu deveṣūpapadyate |
+<lb n="SA_K10_Āgama_Kūṭāgārasūtra_Vinītā_2010:7"/>§8 yaḥ kaścid ānanda buddhaṃ śaraṇaṃ gacchati, dharmaṃ śaraṇaṃ gacchati, saṃghaṃ śaraṇaṃ gacchati, pañca śikṣāpadāni saṃgṛhya paripālayati, tasyāhaṃ kuśalamūlasyānandāprameyam asaṃkhyeyaṃ puṇyaṃ vadāmi | taṃ na śakyaṃ śrāvakapratyekabuddhaiḥ paryantam upagṛhītuṃ yāvannirvāṇaparyantaṃ vadāmi |
+<lb n="SA_K10_Āgama_Kūṭāgārasūtra_Vinītā_2010:8"/>§9 atha bhagavān āyuṣmata ānandasya cetasā cittaṃ vijñāya raktakamalavimalāmalakomaladalamalāpagatakiṃśukāśokapallavatanutāmrapaṭṭasadṛśaviśālāyatajihvayā sarvaṃ mukham ācchādya yāvat keśaparyantam upādāyānandam uvāca | dṛṣṭā tvayānanda kasyacin mṛṣāvādinaḥ piśunavacasaḥ paruṣavacasaḥ saṃbhinnapralāpikasyaivaṃvirājā jihvā | no bhadanta |
+<lb n="SA_K10_Āgama_Kūṭāgārasūtra_Vinītā_2010:9"/>satyavādino hy ānanda tathāgatā arhantaḥ samyaksaṃbuddhāḥ |
+<lb n="SA_K10_Āgama_Kūṭāgārasūtra_Vinītā_2010:10"/>§10 ye kecid ānanda prāñjaliṃ kṛtvā namo namas tasmai bhagavate tathāgatāyārhate samyaksaṃbuddhāyeti namaskāraṃ kariṣyanti, te mayā sattvāḥ parigṛhītāḥ parinirvāpitāḥ | alpotsuko &#x27;haṃ teṣāṃ sattvānām arthe | tat kasya hetoḥ | tathā hy ānanda tathāgatasya dharmadhātuḥ supratiṣṭhitaḥ |
+<lb n="SA_K10_Āgama_Kūṭāgārasūtra_Vinītā_2010:11"/>tasya supratiṣṭhitatvāt prāñjalikaraṇam api na praṇaśyati, prāg eva dānādikaraṇam | paśyānanda yad api tat puruṣasya svakaṃ bhaviṣyati darvīprakhyālanamātrakaṃ vā śarāvaprakhyālanamātrakaṃ vā kumbhīprakhyālanamātrakaṃ vā, yad api yady asāv evaṃcittaḥ pipīlikāsyandanikāyāṃ prakṣipet— ye &#x27;tra saṃniśritāḥ prāṇinas te &#x27;nena sukhitā bhavantv iti— tato
+<lb n="SA_K10_Āgama_Kūṭāgārasūtra_Vinītā_2010:12"/>&#x27;py aham ānanda puṇyasyāyadvāraṃ vadāmi, kaḥ punar vādo manuṣyabhūtāya |
+<lb n="SA_K10_Āgama_Kūṭāgārasūtra_Vinītā_2010:13"/>§11 traya ima ānandāntarakalpāḥ | katame trayaḥ | śastrāntarakalpo rogāntarakalpo durbhikṣāntarakalpaś ca | tatrānanda yenaikadivasam api prāṇātipātaprativiratiḥ samādāya vartitā bhavati, sa śastrāntarakalpe notpadyate | yenaikāpi harītakī saṃghe pratipāditā bhavati, sa rogāntarakalpe notpadyate |
+<lb n="SA_K10_Āgama_Kūṭāgārasūtra_Vinītā_2010:14"/>yenaikāpi kaṭacchubhikṣā saṃghāya dattā bhavati, sa durbhikṣāntarakalpe notpadyate |
+<lb n="SA_K10_Āgama_Kūṭāgārasūtra_Vinītā_2010:15"/>§12 trīṇīmāny ānanda kuśalamūlāni saṃsāre na kṣīyante, na paryādīyante, akṣayaṃ ca nirvāṇam upanayanti | katamāni trīṇi | buddhāvaropitam ānanda kuśalamūlaṃ saṃsāre na kṣīyate, na paryādīyate, akṣayaṃ ca nirvāṇam upanayati | dharmāvaropitaṃ saṃghāvaropitaṃ kuśalamūlaṃ saṃsāre na kṣīyate, na paryādīyate, akṣayaṃ ca nirvāṇam upanayati |
+<lb n="SA_K10_Āgama_Kūṭāgārasūtra_Vinītā_2010:16"/>§13 atha bhagavān tathāgataguṇodbhāvanārtham āha | dṛṣṭas te ānanda jambūdvīpo dvīpaḥ | ānanda āha | dṛṣṭo bhadanta jambūdvīpo dvīpaḥ | bhagavān āha | sapta yojanasaharāṇy āyāmena sapta yojanasahasrāṇi vistāreṇa, uttareṇa viśālo dakṣiṇena śakaṭākṛtiḥ |
+<lb n="SA_K10_Āgama_Kūṭāgārasūtra_Vinītā_2010:17"/>tam enaṃ kaścic chrāddhaḥ kulaputro vā kuladuhitā vā saptaratnamayaṃ kṛtvā srotaāpannebhyaḥ sakṛdāgāmibhyo &#x27;nāgāmibhyo &#x27;rhadbhyaḥ pratyekabuddhebhyaś cāturdiśāya bhikṣusaṃghāya niryātayet,
+<lb n="SA_K10_Āgama_Kūṭāgārasūtra_Vinītā_2010:18"/>% NB CUL ms&#x27;s reading °saṃghāya vihāraṃ niryātayet! also missing samantāt in Potala
+<lb n="SA_K10_Āgama_Kūṭāgārasūtra_Vinītā_2010:19"/>§14 yo vā tathāgatasyārhataḥ samyaksaṃbuddhasya parinirvṛtasya mṛtpiṇḍād āmalakaphalapramāṇaṃ stūpaṃ pratiṣṭhāpayet, sūcīmātrāṃ yaṣṭim āropayet, badarīpattramātraṃ chattram āropayet, yavaphalapramāṇāṃ pratimāṃ kārayet, sarṣapaphalapramāṇaṃ dhātuṃ prakṣipet, idam evāhaṃ tataḥ prabhūtataraṃ puṇyaṃ vadāmi |
+<lb n="SA_K10_Āgama_Kūṭāgārasūtra_Vinītā_2010:20"/>§15 tiṣṭhatv ānanda jambūdvīpo dvīpaḥ | asty ānanda pūrvavideho nāma dvīpaḥ, aṣṭau yojanasahasrāṇy āyāmena, aṣṭau yojanasahasrāṇi vistāreṇa, ardhacandrākārapariṇataḥ |
+<lb n="SA_K10_Āgama_Kūṭāgārasūtra_Vinītā_2010:21"/>tam enaṃ kaścic chrāddhaḥ kulaputro vā kuladuhitā vā saptaratmamayaṃ kṛtvā srotaāpannebhyaḥ sakṛdāgāmibhyo &#x27;nāgāmibhyo &#x27;rhadbhyaḥ pratyekabuddhebhyaś cāturdiśāya bhikṣusaṃghāya niryātayet,
+<lb n="SA_K10_Āgama_Kūṭāgārasūtra_Vinītā_2010:22"/>§16 yo vā tathāgatasyārhataḥ samyaksaṃbuddhasya parinirvṛtasya mṛtpiṇḍād āmalakaphalapramāṇaṃ stūpaṃ pratiṣṭhāpayet, sūcīmātrāṃ yaṣṭim āropayet, badarīpattramātraṃ chattram āropayet, yavaphalapramāṇāṃ pratimāṃ kārayet, sarṣapaphalapramāṇaṃ dhātuṃ prakṣipet, idam evāhaṃ tataḥ prabhūtataraṃ puṇyam vadāmi |
+<lb n="SA_K10_Āgama_Kūṭāgārasūtra_Vinītā_2010:23"/>§17 tiṣṭhatv ānanda jambūdvīpaḥ, tiṣṭhatu pūrvavideho dvīpaḥ | asty ānanda aparagodānīyo dvīpaḥ, nava yojanasahasrāṇy āyāmena, nava yojanasahasrāṇi vistāreṇa, paripūrṇacandrākārapariṇataḥ |
+<lb n="SA_K10_Āgama_Kūṭāgārasūtra_Vinītā_2010:24"/>tam enaṃ kaścic chrāddhaḥ kulaputro vā kuladuhitā vā saptaratmamayaṃ kṛtvā srotaāpannebhyaḥ sakṛdāgāmibhyo &#x27;nāgāmibhyo &#x27;rhadbhyaḥ pratyekabuddhebhyaś cāturdiśāya bhikṣusaṃghāya niryātayet,
+<lb n="SA_K10_Āgama_Kūṭāgārasūtra_Vinītā_2010:25"/>§18 yo vā tathāgatasyārhataḥ samyaksaṃbuddhasya parinirvṛtasya mṛtpiṇḍād āmalakaphalapramāṇaṃ stūpaṃ pratiṣṭhāpayet, sūcīmātrāṃ yaṣṭim āropayet, badarīpattramātraṃ chattram āropayet, yavaphalapramāṇāṃ pratimāṃ kārayet, sarṣapaphalapramāṇaṃ dhātuṃ prakṣipet, idam evāhaṃ tataḥ prabhūtataraṃ puṇyam vadāmi |
+<lb n="SA_K10_Āgama_Kūṭāgārasūtra_Vinītā_2010:26"/>§19 tiṣṭhatv ānanda jambūdvīpo dvīpaḥ, tiṣṭhatu pūrvavideho dvīpaḥ, tiṣṭhatv aparagodānīyo dvīpaḥ | asty ānanda uttarakurur nāma dvīpaḥ, daśa yojanasahasrāṇy āyāmena, daśa yojanasahasrāṇi vistāreṇa, samantataś caturaśraḥ |
+<lb n="SA_K10_Āgama_Kūṭāgārasūtra_Vinītā_2010:27"/>tam enaṃ kaścic chrāddhaḥ kulaputro vā kuladuhitā vā saptaratnamayaṃ kṛtvā srotaāpannebhyaḥ sakṛdāgāmibhyo &#x27;nāgāmibhyo &#x27;rhadbhyaḥ pratyekabuddhebhyaś cāturdiśāya bhikṣusaṃghāya niryātayet,
+<lb n="SA_K10_Āgama_Kūṭāgārasūtra_Vinītā_2010:28"/>§20 yo vā tathāgatasyārhataḥ samyaksaṃbuddhasya parinirvṛtasya mṛtpiṇḍād āmalakaphalapramāṇaṃ stūpaṃ pratiṣṭhāpayet, sūcīmātrāṃ yaṣṭim āropayet, badarīpattramātraṃ chattram āropayet, yavaphalapramāṇāṃ pratimāṃ kārayet, sarṣapaphalapramāṇaṃ dhātuṃ prakṣipet, idam evāhaṃ tataḥ prabhūtataraṃ puṇyaṃ vadāmi |
+<lb n="SA_K10_Āgama_Kūṭāgārasūtra_Vinītā_2010:29"/>§21 tiṣṭhatv ānanda jambūdvīpo dvīpaḥ, tiṣṭhatu pūrvavideho dvīpaḥ, tiṣṭhatv aparagodānīyo dvīpaḥ, tiṣṭhatūttarakurur dvīpaḥ | asty ānanda śakrasya devānām indrasya vaijayanto nāma prāsādaḥ |
+<lb n="SA_K10_Āgama_Kūṭāgārasūtra_Vinītā_2010:30"/>tam enaṃ kaścic chrāddhaḥ kulaputro vā kuladuhitā vā saptaratmamayaṃ kṛtvā srotaāpannebhyaḥ sakṛdāgāmibhyo &#x27;nāgāmibhyo &#x27;rhadbhyaḥ pratyekabuddhebhyaś cāturdiśāya bhikṣusaṃghāya niryātayet,
+<lb n="SA_K10_Āgama_Kūṭāgārasūtra_Vinītā_2010:31"/>§22 yo vā tathāgatasyārhataḥ samyaksaṃbuddhasya parinirvṛtasya mṛtpiṇḍād āmalakaphalapramāṇaṃ stūpaṃ pratiṣṭhāpayet sūcīmātrāṃ yaṣṭim āropayet, badarīpattramātraṃ chattram āropayet, yavaphalapramāṇāṃ pratimāṃ kārayet, sarṣapaphalapramāṇaṃ dhātuṃ prakṣipet, idam evāhaṃ tataḥ prabhūtataraṃ puṇyam vadāmi |
+<lb n="SA_K10_Āgama_Kūṭāgārasūtra_Vinītā_2010:32"/>§23 tiṣṭhatv ānanda jambūdvīpo dvīpaḥ, tiṣṭhatu pūrvavideho dvīpaḥ, tiṣṭhatv aparagodānīyo dvīpaḥ, tiṣṭhatūttarakurur dvīpaḥ, tiṣṭhatu śakrasya devānām indrasya vaijayanto nāma prāsādaḥ | asty ānanda trisāhasramahāsāhasro lokadhātuḥ |
+<lb n="SA_K10_Āgama_Kūṭāgārasūtra_Vinītā_2010:33"/>tam enaṃ kaścic chrāddhaḥ kulaputro vā kuladuhitā vā saptaratnamayaṃ kṛtvā srotaāpannebhyaḥ sakṛdāgāmibhyo &#x27;nāgāmibhyo &#x27;rhadbhyaḥ pratyekabuddhebhyaś cāturdiśāya bhikṣusaṃghāya niryātayet,
+<lb n="SA_K10_Āgama_Kūṭāgārasūtra_Vinītā_2010:34"/>§24 yo vā tathāgatasyārhataḥ samyaksaṃbuddhasya parinirvṛtasya mṛtpiṇḍād āmalakaphalapramāṇaṃ stūpaṃ pratiṣṭhāpayet, sūcīmātrāṃ yaṣṭim āropayet, badarīpattramātraṃ chattram āropayet, yavaphalapramāṇāṃ pratimāṃ kārayet, sarṣapaphalapramāṇaṃ dhātuṃ prakṣipet, idam evāhaṃ tataḥ prabhūtataraṃ puṇyam vadāmi ||
+<lb n="SA_K10_Āgama_Kūṭāgārasūtra_Vinītā_2010:35"/>% NB CUL Ms better: prabhūtataḥ prabhūtataraṃ
+<lb n="SA_K10_Āgama_Kūṭāgārasūtra_Vinītā_2010:36"/>§25 tat kasya hetoḥ | aprameya ānanda tathāgato dānena, aprameyaḥ śīlena, aprameyaḥ kṣāntyā, aprameyo vīryeṇa, aprameyo dhyānena, aprameyaḥ prajñayā |
+<lb n="SA_K10_Āgama_Kūṭāgārasūtra_Vinītā_2010:37"/>% CUL adds: aprameyo maitryā, aprameyaḥ karuṇayā, aprameyo muditayā, aprameya upekṣayā | aprameyo &#x27;ṣṭādaśāveṇikair buddhadharmaiḥ |
+<lb n="SA_K10_Āgama_Kūṭāgārasūtra_Vinītā_2010:38"/>aprameyo daśabhis tathāgatabalaiś caturbhir vaiśāradyais tribhir āveṇikaiḥ smṛtyupasthānair mahākaruṇayā ca: aprameyair eva guṇaiḥ samanvāgata ānanda tathāgato &#x27;rhan samyaksambuddhaḥ |
+<lb n="SA_K10_Āgama_Kūṭāgārasūtra_Vinītā_2010:39"/>% CUL: aprameyo &#x27;prameyo &#x27;prameyaguṇagaṇaiḥ, better?
+<lb n="SA_K10_Āgama_Kūṭāgārasūtra_Vinītā_2010:40"/>§26 asmin khalu dharmaparyāye bhāṣyamāne &#x27;yaṃ trisāhasramahāsāhasro lokadhātuḥ kampitaḥ prakampitaḥ saṃprakampitaḥ |
+<lb n="SA_K10_Āgama_Kūṭāgārasūtra_Vinītā_2010:41"/>athāyuṣmān ānando bhagavantam etad avocat | kiṃnāmāyaṃ bhagavan dharmaparyāyaḥ | kathaṃ cainaṃ dhārayāmi |
+<lb n="SA_K10_Āgama_Kūṭāgārasūtra_Vinītā_2010:42"/>bhagavān āha | tasmāt tvam ānandemaṃ dharmaparyāyam amṛtadundubhir ity api dhāraya, adbhutadharmaparyāya ity api dhāraya | tasmād asya dharmaparyāyasyādbhutadharmaparyāya ity api vacanam |
+<lb n="SA_K10_Āgama_Kūṭāgārasūtra_Vinītā_2010:43"/>% NB CUL has adhivacanam, better
+<lb n="SA_K10_Āgama_Kūṭāgārasūtra_Vinītā_2010:44"/>idam avocad bhagavān āttamanā āyuṣmān ānandas te ca bhikṣavo bhagavato bhāṣitam abhyanandann iti |
+<lb n="SA_K10_Āgama_Kūṭāgārasūtra_Vinītā_2010:45"/>kūṭāgārasūtraṃ dvitīyaṃ samāptam |
+    </body>
+  </text>
+</TEI>

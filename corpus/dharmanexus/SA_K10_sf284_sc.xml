@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Veṇukātyāyanasagotrīsūtra</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Collection / category: BuddhistScriptures / K10 (Sūtra)
+Source: SuttaCentral
+Link: https://suttacentral.net/sf284/san/waldschmidt
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (not determined): not determined</note>
+          <idno type="dharmanexus">SA_K10_sf284_sc</idno>
+          <ref target="https://dharmamitra.org/nexus/db/sa/SA_K10_sf284_sc/text">https://dharmamitra.org/nexus/db/sa/SA_K10_sf284_sc/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-13">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_K10_sf284_sc:0"/>Veṇukātyāyanasagotrīsūtra
+<lb n="SA_K10_sf284_sc:1"/>Wal_1 pṛccha bhagini śrutvā te vedayiṣyāmi /
+<lb n="SA_K10_sf284_sc:2"/>Wal_2 saṁti śramaṇa eke śramaṇa brāhmaṇāḥ ye svayaṁkṛtaṁ sukhaduḥkhaṁ prajñapayaṁti / saṁty
+<lb n="SA_K10_sf284_sc:3"/>eke parakṛtaṁ prajñapayaṁti saṁty eke svayaṁkṛtaṁ ca parakṛtaṁ ca / saṁty eke ’svayaṁkāra?aparakārahetusamutpannaṁ
+<lb n="SA_K10_sf284_sc:4"/>sukhaduḥkhaṁ prajñapayaṁti / yathā kathaṁ samutpannam arhantaḥ sukhaduḥkhaṁ prajñapayaṁti /
+<lb n="SA_K10_sf284_sc:5"/>Wal_3 anyathāsamutpannam arhantaḥ sukhaduḥkhaṁ prajñapayaṁti /
+<lb n="SA_K10_sf284_sc:6"/>Wal_4 yathā kathaṁ śramaṇa anyathāsamutpannam arhantaḥ sukhaduḥkhaṁ prajñapayaṁti /
+<lb n="SA_K10_sf284_sc:7"/>Wal_5 pratītyasamutpannaṁ bhagini arhantaḥ sukhaduḥkhaṁ prajñapayaṁti /
+<lb n="SA_K10_sf284_sc:8"/>Wal_6 yathā kathaṁ śramaṇa pratītyasamutpannaṁ arhantaḥ sukhaduḥkhaṁ prajñpayaṁti /
+<lb n="SA_K10_sf284_sc:9"/>Wal_7 tena hi bhagini tvām eva prakṣyāmi yathā te kṣamati tathaitaṁ vyākuru /
+<lb n="SA_K10_sf284_sc:10"/>Wal_8 kiṁ manyase bhagini / asti cakṣuḥ / asti śramaṇa / asti rūpam / asti śramaṇa /
+<lb n="SA_K10_sf284_sc:11"/>Wal_9 cakṣuś ced bhagini utpadyeta api nu asti cakṣuḥsaṁsparśapratyayam ādhyātmam utpadyate vedayitaṁ sukhaṁ vā duḥkhaṁ vā aduḥkhāsukhaṁ vā
+<lb n="SA_K10_sf284_sc:12"/>/ asti śramaṇa /
+<lb n="SA_K10_sf284_sc:13"/>Wal_10 asti śrotram asti ghāṇam asti jihvā asti kāyaḥ asti manaḥ /
+<lb n="SA_K10_sf284_sc:14"/>asti śramaṇa / saṁti dharmāḥ /
+<lb n="SA_K10_sf284_sc:15"/>Wal_11 asti śrotraṁ ghrāṇaṁ jihvā kāyo manaś ced utpadyeta api nu śrotraghrāṇajihvākāyamanaḥsaṁsparśapratyayam ādhyātmam utpadyate vedayitaṁ
+<lb n="SA_K10_sf284_sc:16"/>sukhaṁ vā duḥkhaṁ vā aduḥkhāsukhaṁ vā /
+<lb n="SA_K10_sf284_sc:17"/>asti śramaṇa /
+<lb n="SA_K10_sf284_sc:18"/>Wal_12 evaṁ hi bhagini pratīyasamutpannam arhantaḥ sukhaduḥkhaṁ prajñapayaṁti /
+<lb n="SA_K10_sf284_sc:19"/>Wal_13 evaṁ hi śramaṇa pratītyasamutpannam arhantaḥ sukhaṁ prajñapya yathā kathaṁ śramaṇa arhantaḥ sukhaduḥkhasya nirodhaṁ prajñapayaṁti /
+<lb n="SA_K10_sf284_sc:20"/>Wal_14 tena hi bhagini tvām eva prakṣyāmi yathā te kṣamati tathaitaṁ vyākuru /
+<lb n="SA_K10_sf284_sc:21"/>Wal_15 kiṁ manyase bhagini / cakṣuś ced bhagini sarveṇa sarvaṁ sarvathā apariśeṣaṁ nirudhyeta
+<lb n="SA_K10_sf284_sc:22"/>apariśeṣan adhyastaṁ parikṣayam paryādānaṁ gacched api nu cakṣuḥsaṁsparśapratyayam
+<lb n="SA_K10_sf284_sc:23"/>ādhyātmam utpadyate vedayitaṁ sukhaṁ vā duḥkhaṁ vā aduḥkhāsukhaṁ vā /
+<lb n="SA_K10_sf284_sc:24"/>no śramaṇa /
+<lb n="SA_K10_sf284_sc:25"/>Wal_16 śrotraṁ ghrāṇaṁ jihvā kāyo manaś ced bhagini sarveṇa sarvaṁ sarvathā apariśeṣaṁ nirudhyeta
+<lb n="SA_K10_sf284_sc:26"/>apariśeṣam adhyastaṁ parikṣayaṁ paryādānaṁ gacchet api nu manaḥsaṁsparśapratyayam
+<lb n="SA_K10_sf284_sc:27"/>ādhyātmam utpadyate vedayitaṁ sukhaṁ vā duḥkhaṁ vā aduḥkhāsukhaṁ vā /
+<lb n="SA_K10_sf284_sc:28"/>no śramaṇa /
+<lb n="SA_K10_sf284_sc:29"/>Wal_17 evaṁ hi bhagini ārhantaḥ pratītyasamutpannasya sukhaduḥkhasya nirodhaṁ prajñapayaṁti /
+<lb n="SA_K10_sf284_sc:30"/>Wal_18 asmiṁ khalu dharmaparyāye bhāṣyamāne veṇukātyāyanasagotryā virajo vigatamalaṁ dharmeṣu dharmacakṣur utpannam …
+<lb n="SA_K10_sf284_sc:31"/>Wal_19 atha veṇukātyāyanasagotrī dṛṣṭadharmā prāptadharmā viditadharmā paryavagāḍhadharmā
+<lb n="SA_K10_sf284_sc:32"/>tīrṇakāṁkṣā tīrṇavicikitsā aparapratyayā ananyaneyā śāstuḥ śāsane dharmeṣu vaiśaradyaprāptā
+<lb n="SA_K10_sf284_sc:33"/>utthāyāsanād ekāṁsam uttarāsaṁgaṁ kṛtvā yenāyuṣmān udāyī tenāṁjaliṁ praṇamya āyuṣmantam
+<lb n="SA_K10_sf284_sc:34"/>udāyinam idam avocat /
+<lb n="SA_K10_sf284_sc:35"/>Wal_20 abhikrāntāhaṁ śramaṇa abhikrāntā eṣāhaṁ bhagavantaṁ śaraṇaṁ gacchāmi dharmaṁ ca bhikṣusaṁghaṁ
+<lb n="SA_K10_sf284_sc:36"/>ca / upāsikāṁ ca mān dhāraya śramaṇa adyāgreṇa yāvajjīvaṁ prāṇopetaṁ śaraṇaṁgatām abhiprasannām /
+<lb n="SA_K10_sf284_sc:37"/>Wal_21 atha udāyī veṇukātyāyanasagotrīṁ brāhmaṇīṁ dhārmyā kathayāsaṁdarśayitvā samādapayitvā samuttejayitvā saṁpraharṣayitvā utthāyāsanāt prakrāntaḥ
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Cakrasaṃvarasādhana (fragment)</title>
+        <author>Śūnyasamādhivajra</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Author: Śūnyasamādhivajra
+Collection / category: BuddhistNon-Scriptures / T02
+Source: OCR / Dharmamitra
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Unpublished transcript and diplomatic edition (ELTE Budapest, version 2024.iv.28), based on manuscript NAK 1-1697 11/7 bauddhatantra (NGMPP Reel A 994/7, palm-leaf, hook-topped script).</note>
+          <idno type="dharmanexus">SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana</idno>
+          <ref target="https://dharmamitra.org/nexus/db/sa/SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana/text">https://dharmamitra.org/nexus/db/sa/SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-13">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:0"/>NAK 1-1697 11/7 bauddhatantra = NGMPP A 994/7 (palm-leaf, hook-topped)
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:1"/>fragment of a Cakrasaṃvarasādhana by a student of Ratnākaraśānti
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:2"/>(very likely Śūnyasamādhivajra/Divākaracandra)
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:3"/>NB: utpannakrama → Jñānodayatantra!
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:4"/>numerous parallels with the Bhramahara and the Bhugmalokeśvarasādhana
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:5"/>Péter-Dániel Szántó
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:6"/>ELTE Budapest
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:7"/>this version: 2024.iv.28
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:8"/>[1 deest] [2r] sugṛhītabodhicittas triratnaikaśaraṇaḥ śrāddhaḥ saṃprāptasakalābhiṣeko guruvaracaraṇāticirasevaḥ saṃprāptānujño guruherukayor abhinnabhaktir matimān mantrī prātar utthāya svahṛdi varṇāgrapariṇate mṛgāṅkamaṇḍale mārtaṇḍamaṇḍale vā mahānīlamaṇinibhaṃ trivimokṣamukhasvabhāvaṃ dedīpyamānaṃ hūm̐kāraṃ vibhāvya vadanādiśaucaṃ vidadhyāt.
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:9"/>tadanu hūm̐ phaḍ ity anena sthānātmayogarakṣāṃ vidhāya sugandhidigdhaṃ surabhikusumābhikīrṇaṃ dhyānālayaṃ praviśya sukumārāsane niṣadyāmṛtadraveṇa maṇḍalam upalipya sugandhipuṣpair avakiret.
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:10"/>tataḥ sati saṃbhave paṭādigatarūpaṃ bhagavantaṃ śrīherukam agrataḥ kṛtvā pañcabhir upahāraiḥ saṃpūjya purato yantrikādisthaśaṅkhādibhājanagataṃ surabhikusumāmṛtāvilam arghādisalilaṃ yathopadeśaṃ viśodhya tryakṣaravidarbhitena svahṛnmantreṇa sapta vārān abhimantrya pratīcchakapātraṃ tadagrato yathāvad vinyaset.
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:11"/>asaṃbhave tu tat sarvam adhimucya kuryāt.
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:12"/>% svahṛnmantre[2v]ṇa
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:13"/>tataḥ svahṛnmantramarīcimālāṅkuśākṛṣṭān daśadiggatān sarvatathāgatān sabodhisattvagaṇān purastād ākāśadeśe vilokya svahṛnmantramayūkhamukhanirgatābhiḥ pūjādevībhir bāhyaguhyapūjābhiḥ pūjayet.
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:14"/>tatas teṣāṃ purataḥ praṇatavigrahaṃ viracitāñjalim ātmānam adhimucya pāpadeśanādikam iti kuryāt.
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:15"/>saṃsārasantatiṣu mohamayīṣu pāpaṃ
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:16"/>yat saṃbhṛtaṃ vyasanadaṃ tanuvāṅmanobhiḥ |
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:17"/>tad deśayāmi nikhilaṃ praṇato ’tibhītaḥ
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:18"/>kāruṇyanighnamanasāṃ purato jinānām ||
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:19"/>saṃbuddhabuddhasutabuddhakulaprasūtair
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:20"/>anyaiś ca yad vimalam agram akāri puṇyam |
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:21"/>tat sarvabhāvam anumodya sujātaharṣo
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:22"/>bodhau mahāguṇanidhau pariṇāmayāmi ||
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:23"/>ā bodhito daśabalaṃ śaraṇaṃ prayāmi
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:24"/>% śa[3r]raṇaṃ
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:25"/>pradhvastadoṣanikaraṃ karuṇārdracittam |
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:26"/>dharmaṃ viśuddham uruyānam idaṃ samagraṃ
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:27"/>saṅghaṃ jinātmajagaṇaṃ guṇinaṃ mahāntam ||
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:28"/>niryātayāmi nibhṛtaṃ nijadeham etad
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:29"/>buddhāya sātmajagaṇāya kṛpātmakāya |
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:30"/>kṛtvātmano ’bhimatavastuniyojanārthaṃ
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:31"/>yatnaṃ karotu sahasaiva parigrahāya ||
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:32"/>aho batātyantavarām anuttarāṃ
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:33"/>labheya bodhiṃ jagadarthasiddhaye |
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:34"/>anuttaraṃ bodhipathaṃ mahārthadaṃ
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:35"/>samāśrayāmy eṣa suguhyayānakam ||
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:36"/>tato vyāpādavihiṃsāratikāmarāgānām anavakāśārthaṃ bodhicittādisarvakuśalamūlopastambhārthaṃ duḥkhadurgatimārebhyo hīnayānāc cātmano rakṣārthaṃ duḥkhitān sarvasattvān avalambya teṣu divyasukhopasaṃhārākārāṃ maitrīṃ bhāvayet. tatas teṣv eva sarvaduḥkhāpanayanākārāṃ karuṇām. teṣv eva yathopasaṃhṛtasya sukhasya yāvat saṃsārāvasthāpanayākārāṃ muditām.
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:37"/>teṣv eva kleśādisarvākuśalapakṣakṣayāya laukikalokottarāśeṣakuśalapakṣopasaṃhārākārām upekṣāṃ bhāvayet. iti puṇyasaṃbhāraḥ.
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:38"/>% °kṣayāya [3v] laukika°
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:39"/>tato jñānasaṃbhārārthaṃ nirābhāsaṃ cittam utpādayet. yad etan nīlapītādyākāreṇa svapna iva bhrāntaṃ pratibhāsate tad etac cittam eva. na hi cittagrāhyaṃ cittād bāhyam asti. tad api cittaṃ grāhakaṃ na bhavati, grāhyābhāve grāhakasyābhāvāt. ataś cittaśarīrāḥ sarvadharmāḥ. teṣāṃ dvayaśūnyatā paramārthaḥ.
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:40"/>ity ekāntena niścitya bhrāntinimittaṃ bhrāntisamāropitaṃ sarvadharmāṇām ākāraṃ vihāya kevalām advayavijñaptilakṣaṇāṃ śuddhasphaṭikasaṃkāśāṃ śaranmadhyāhnagaganopamām anantāṃ sarvadharmāṇāṃ prakṛtim eva paśyet. idaṃ tat pāramārthikaṃ bodhicittaṃ sarvamantrārthabhāvanāviśuddhiniṣpattinidānam.
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:41"/>idam eva lokottaraṃ śūnyatājñānaṃ niṣprapañcaṃ nirvikalpam. iyam asau mukhyā prajñāpāramitā. iyam eva paramā rakṣā. tad vibhāvya om̐ svabhāvaśuddhāḥ sarvadharmāḥ svabhāvaśuddho ’haṃ, om̐ śūnyatājñānavajrasvabhāvātmako ’ham ity anena mantreṇa tad adhitiṣṭhet.
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:42"/>% svabhā[4r]vaśuddho
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:43"/>tatas tanniṣyandabhūtām ākāravatīṃ rakṣāṃ śuddhalaukikajñānasvabhāvāṃ bhāvayet. tatra svahṛnmantrakiraṇād herukākārāṃś caturmukhāṃś caturbhujān mūlobhayabhujāliṅgitasvābhavidyān dvitīyasavyetarakaragṛhītavajramudgaravajrakīlakān sumbharājān saṃsphārya pratyekamantram udīrya pūrvādidikṣu niveśayet.
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:44"/>tatra om̐ sumbha nisumbha hum̐ 2 phaḍ ity anena pūrvasyāṃ diśi niveśayet, om̐ grihṇa 2 hum̐ 2 phaḍ ity anenottarasyām, om̐ grihṇāpaya 2 hūm̐ 2 phaḍ ity anena paścimāyām, om̐ ānaya ho bhagavan vajrarāja hum̐ 2 phaḍ ity anena dakṣiṇasyāṃ diśi niveśayet.
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:45"/>tatra om̐ gha gha ghātaya 2 sarvaduṣṭavighnān hum̐ phaṭ, om̐ kīlaya 2 sarvapāpān hum̐ 2 phaṭ, oṃ hum̐ 3 vajrakīla vajradhara ājñāpayati sarvaduṣṭavighnānāṃ kāyavākcittavajrān kīlaya 2 hum̐ 2 phaḍ ity anena tāñ codayet. tata evaṃ coditāṃs tān sarvadikṣu vyavasthitānāṃ vighnānāṃ śiraḥsu kīlakān āropayato vicintayet.
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:46"/>tata om̐ vajramudgara vajrakīlākoḍhaya hum̐ hum̐ phaḍ ity anena preṣitāṃs tān krodheśvarān vajramudgarair vajrakīlakān ākoḍhayato vicintayet.
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:47"/>tadanu purastān nīlam ūrdhvaśiraskaṃ jājvalamānaṃ hūm̐kārajaṃ vajraṃ vibhāvya tanmarīcimālā[…?]sūkṣmavajrair jvaladbhiḥ spharitvā caturdiggatair atyantaghanībhūtair viracitaṃ caturasraṃ vajraprākāram, uparigatair vajrapañjaraṃ śarajālaṃ ca, adhogatair vajramayīṃ bhūmim ārasātalaviracitām, vajrapañjarādibhyo ’pi diśi diśi spharadgabhastibhir
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:48"/>ghanībhāvād bahir dūre vajrāgnijvālāprākāraṃ hūm̐vajreṇāpi raśmībhūyordhvagatena vajravitānaṃ vicintya mantraiḥ sarvam adhitiṣṭhet. atra mantrapadam:
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:49"/>om̐ vajraprākāra hum̐ vam̐ hum̐, om̐ vajrapañjara hum̐ pam̐ hum̐, om̐ śarajāla trām̐ śam̐ bhrūm̐, om̐ medinī vajrībhava vajrabandha hūm̐, om̐ vajrajvālānalārka hūm̐ hūm̐ hūm̐, om̐ vajravitāna hūm̐ kham̐ hūm̐ iti dvividha[5r]rakṣāvidhānam. keṣāṃcin matena tu mantroccāraṇamātreṇaiva rakṣāvidhiḥ.
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:50"/>% tata [4v] evaṃ
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:51"/>tato vighnānām atyantāsaṃbhavam adhimucyākāśamahābhūtaṃ śaracchaśāṅkaśubhram adhaḥ sūkṣmam upari viśālaṃ trikoṇam antar gaganasvarūpaṃ mahāvajradharasvabhāvaṃ dharmodayākhyaṃ vibhāvya tadgarbhe sarvalokadhātunairātmyasūcakāni śivāvettālabhūtādigaṇākīrṇāny aṣṭau śmaśānāni vicintayet.
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:52"/>tatra pūrvasyāṃ diśi dagdhākulaṃ caṇḍograṃ nāma śmaśānam, uttarasyāṃ khaṇḍitākulaṃ gahvaram, paścimāyāṃ ujjhitākulaṃ jvālakaraṅkam, dakṣiṇasyāṃ śūlabiddhākulaṃ vibhīṣaṇam aṭṭahāsam, aiśānyām ardhadagdhākulam ekasthānam, agneyyām udbaddhākulaṃ kiṅkinīkam, nairṛtyāṃ gartāntarnikhātākulaṃ ghoram, vāyavyām akhaṇḍitākulaṃ jvālāviddhaṃ nāma śmaśānam.
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:53"/>pāṭalīsālayajñāṅgapippalān puṇḍarīkakam |
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:54"/>nāgavṛkṣaṃ vaṭaṃ tatra śirīṣaṃ ca vibhāvayet || [source?]
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:55"/>dvikaśakraśvakolākhyānamārjārapretagṛdhrakānnasaśārdūlamukhān aṣṭau vṛkṣeṣv eṣu vicintayet.
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:56"/>% dvikaśa[5v]kra°
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:57"/>kākolūkaśvakolākhyaḥ kroṣṭuvettālagṛdhrakaiḥ |
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:58"/>tarakṣukaiś ca baṭubhir vṛtās tān mukhyabhāvataḥ || [source?]
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:59"/>tato vṛkṣamūleṣu dikpālān sapatnīkān bhāvayet. tatrendraṃ pītavarṇaṃ sahasrākṣaṃ ratnamakuṭinaṃ vajradharaṃ divyāmbarābharaṇaṃ śuklairāvatavāhanaṃ devagaṇāvṛtam, dhanadaṃ suvarṇavarṇaṃ ratnamakuṭinam aṅkuśagadādharaṃ puṣpakavāhanaṃ yakṣagaṇāvṛtam, varuṇaṃ śuklavarṇaṃ saptaphaṇaṃ nāgapāśaśaṅkhadharaṃ makaravāhanaṃ nāgagaṇāvṛtam, yamaṃ kṛṣṇavarṇaṃ
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:60"/>raktākṣababhrūrdhvakeśaṃ daṇḍaśūladharaṃ mahiṣavāhanaṃ pretagaṇāvṛtam, īśānaṃ sitavarṇaṃ jaṭāmakuṭinaṃ śaśiśekharaṃ trinetraṃ kapālamālābharaṇaṃ caturbhujaṃ kṛpīṭakapālatriśūlakhaṭvāṅgadharaṃ vṛṣavāhanaṃ bhūtagaṇāvṛtam, agniṃ lohitavarṇaṃ jaṭāmakuṭinaṃ yajñopavītinaṃ caturbhujam akṣāvalīkuṇḍikāsruvadaṇḍakāṣṭhadharaṃ cchāgavāhanaṃ munigaṇāvṛtam,
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:61"/>nirṛtiṃ nīlavarṇaṃ kapilordhvakeśaṃ jaṭāmakuṭinaṃ kapālamālābharaṇaṃ kaṭṭārikākaroṭahastaṃ śavavāhanaṃ rākṣasagaṇāvṛtam, vāyuṃ dhūmavarṇaṃ vātapaṭadharaṃ ratnamakuṭiṇaṃ hariṇavāhanaṃ marudgaṇāvṛtaṃ bhāvayet.
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:62"/>% mu[6r]nigaṇāvṛtam
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:63"/>tatas tadvāmabhāgeṣv aṣṭau nāgarājān saphaṇāṃś cintayet. tatra vāsukiṃ śaśāṅkanibhaṃ nīlotpalāṅkamūrdhānam, takṣakaṃ bandhūkanibhaṃ svastikāṅkitaśīrṣam, karkoṭaṃ dūrvāśyāmaṃ rekhātrayāṅkitagrīvam, padmaṃ śaṅkhāvadātaṃ śrīvatsāṅkitaphaṇam, mahāpadmaṃ kundābhaṃ śūlalāñchanam, huluhuluṃ bhinnāñjanābhaṃ kamalāṅkitaśiraskam, kulikaṃ dhūmavarṇaṃ
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:64"/>candrārdhāṅkitakaṇṭham, śaṅkhapālaṃ kanakavarṇaṃ candrakalālāñchanagalaṃ paśyet.
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:65"/>tatpṛṣṭhabhāgeṣu meghān bhāvayet. tatra garjitaṃ kṛṣṇavarṇam, ghūrṇitaṃ viśvavarṇam, ghoraṃ kuṅkumavarṇam, āvarttaṃ nīlavarṇam, ghanaṃ śvetavarṇam, pūraṇaṃ pītavarṇam, varṣaṇaṃ dhūsaravarṇam, caṇḍaṃ kajjalavarṇaṃ bhāvayet.
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:66"/>yadi vā yathoktāni śmaśānādīni śivāvetālādīṃś cāpi muñcet.
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:67"/>% ya[6v]di vā
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:68"/>tatas tanmadhye vairambhādisaṃsthitāni catvāri mahābhūtāni caturmaṇḍalākārāṇi caturdevīsvabhāvāny upary upari bhāvayet. ādau yam̐kārabhavaṃ dhanurākāraṃ calatpatākāṅkaṃ dhūmākulaṃ sunīlaṃ paśyet. tadupari ram̐kārodbhavaṃ tryasraṃ rephāṅkakoṭikuṇḍāṅkaṃ jvālākulam atirohitam āgneyamaṇḍalaṃ dhyāyāt.
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:69"/>tadupari vam̐kārabhavaṃ vṛttaṃ kalaśāṅkitaṃ śaśāṅkanibhaṃ vāruṇamaṇḍalam amalaṃ saraśmikaṃ bhāvayet. tadupari lam̐kārabhavaṃ vajrāṅkitakoṭikāṃsu (?) caturasraṃ māhendramaṇḍalaṃ paśyet.
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:70"/>tataḥ pariśuddhabuddhakṣetrasaṃkṣeparūpaṃ mahāmokṣāvāsaṃ sumeruṃ cintayet.
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:71"/>tatra sum̐kārasaṃbhavaṃ caturasraṃ samunnatam |
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:72"/>catūratnamayaṃ divyam aṣṭaśṛṅgopaśobhitam ||
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:73"/>hemaratnadrumākīrṇaṃ bodhisattvagaṇālayam |
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:74"/>meruṃ vibhāvayed bhābhir dyotitāśeṣadhātukam || [source?]
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:75"/>tatas tatpṛṣṭhe viśvadalakamalakarṇikāvasthitahūm̐kāranirjātatrisūcikaviśvavajravedikāyāṃ pam̐kārapariṇataviśvāṣṭadalakamalavaraṭakāntargatasūryamaṇḍale prajñāsvabhāvaiḥ śuklair akārādibhiḥ svarair viracitam indumaṇḍalam ādarśajñānasvabhāvam, tadupary upāyasvabhāvai raktaiḥ kakārādibhir vyañjanaiḥ sūryamaṇḍalaṃ samatājñānasvabhāvam, tanmadhye
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:76"/>hūm̐kārapariṇataṃ hūm̐kāragarbhaṃ pañcasūcikaṃ vajraṃ pratyavekṣaṇājñānasvabhāvam, hūm̐kārakiraṇād vīravīreśvarīcakrākāreṇa sarvatathāgatān saṃsphārya tāṃs tathaiva saṃhṛtya taiḥ sahaikībhūtaṃ hūm̐kāraṃ kṛtyānuṣṭhānajñānasvabhāvaṃ vibhāvya candrārkavajrabījapariṇāmajaṃ navaśūlaṃ kuliśaṃ hūm̐kārādhiṣṭhitavaraṭakaṃ śrīmadvajrasattvasvabhāvaṃ
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:77"/>saṃspharasaṃhārarūpaṃ suviśuddhadharmadhātujñānasvabhāvaṃ bhāvayet.
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:78"/>% °nirjātatri[7r]sūcika°
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:79"/>iti pañcākārātmako mṛduyogaḥ.
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:80"/>tato hūm̐kārāt spharaṇayogena vīravīreśvarīcakrākārānantatathāgatamayaṃ cittādhīnaṃ ca viśvaṃ nirūpya saṃharaṇayogena sarvaṃ tan māyopamam ākāśopamaṃ ca parijñāya vajrabījapariṇāmajaṃ bhagavantaṃ śrīherukam ātmānaṃ bhāvayet.
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:81"/>% mā[7v]yopamam
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:82"/>bhinnāñjanendranīlābhaṃ caturaṃ caturānanam |
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:83"/>kṛṣṇaśyāmāruṇasvarṇavarṇāsyaṃ dvādaśāmbakam ||
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:84"/>bhujair dvādaśabhir yuktam ālīḍhāsanasaṃsthitam |
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:85"/>raudrīrudrastanāgrāṅgaviṣṭare kṛtatāṇḍavam ||
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:86"/>kṛtavārāhyāliṅganamūlobhayabhujagṛhītapavighaṇṭham |
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:87"/>bibhrāṇaṃ gajacarmāmbaram aparābhyāṃ ca bāhubhyām ||
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:88"/>savye tṛtīye ḍamaraṃ turye paraśum ujjvalam |
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:89"/>pañcame karttikāṃ haste ṣaṣṭhe triśūlam udyatam ||
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:90"/>vāme tṛtīye khaṭvāṅgaṃ patākākiṅkiṇīyutam |
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:91"/>pañcakaśūlavajrāṅkordhvādho ’ntar viśvavajravat ||
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:92"/>turye ’sṛkpūrṇanarakaṃ pañcame vajrapāśakam |
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:93"/>ṣaṣṭhe brahmaśiraḥ sāsraṃ dadhānaṃ caturānanam ||
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:94"/>ardhacandrakapālāṅkajaṭāmakuṭamaṇḍitam |
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:95"/>viśvavajrāṅkaśirasaṃ kapālāvaliśekharam ||
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:96"/>daṃṣṭrotkaṭaṃ mahābhīmaṃ navanāṭyarasānvitam |
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:97"/>pīnāṅgaṃ yauvanopetaṃ raktavartulalocanam ||
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:98"/>hūm̐kārasphārivadanaṃ sūryakoṭisamaprabham |
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:99"/>% sūryakoṭi[8r]samaprabham
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:100"/>sāsṛṅmuṇḍāvalīhāraṃ tarjayantaṃ surāsurān ||
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:101"/>yajñopavītinaṃ kruddhaṃ pañcamudrāvibhūṣitam |
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:102"/>vyāghracarmāmbaravṛtaṃ bhasmoddhūlitavigraham ||
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:103"/>bhāvayed vajravārāhīṃ tadā kiṃśukasaṃnibhām |
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:104"/>dvibhujām ekavadanāṃ trinetrāṃ muktamūrdhajām ||
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:105"/>digambarāṃ subhadrāṅgīṃ mekhalākhaṇḍamaṇḍitām |
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:106"/>raudrākṣayānalajvālāṃ sravadraktamukhāṃ varām ||
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:107"/>bibhrāṇāṃ vāmahastena raktāpūrṇakaroṭakam |
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:108"/>savyahastena dadhatīṃ vajraṃ duṣṭāntakārakam ||
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:109"/>jaṅghādvayena saṃveṣṭya dorbhyām āliṅganodyatām |
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:110"/>cumbantīṃ herukaṃ kāntaṃ sānandāṃ rudhirapriyām ||
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:111"/>ālikāliyogajahūm̐kārapariṇataṃ bhagavantaṃ bhāvayed iti kecit.
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:112"/>sumeruśikharagatāṣṭaśmaśānāvṛtakūṭāgārodarāsane vajrasattvaparāvṛttam ity anye vadanti.
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:113"/>ity anuyogaḥ.
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:114"/>atha hṛtsūrye hūm̐kāraṃ vibhāvya devīhṛccandre vam̐kāraṃ cintayet. tataḥ pañcaskandhāhaṃkāracittam utpādayet. tatra rūpaskandhe om̐kārapariṇataṃ sitaṃ vairocanam, vedanāskandhe ākāraparāvṛttaṃ pītaṃ vajrasūryam, saṃjñāskandhe hrīḥkārajaṃ raktaṃ padmanarteśvaram, saṃskāraskandhe hoḥkārajaṃ haritaṃ vajrarājam, vijñānaskandhe  hūm̐kārodbhūtaṃ sitaṃ
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:115"/>vajrasattvam, sarvatathāgatatve hrīkārapariṇataṃ kṛṣṇaṃ śrīherukavajram adhimuñcet.
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:116"/>% veda[8v]nāskandhe
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:117"/>cakraṃ ratnaṃ sarojanma viśvavajraṃ jvalatprabham |
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:118"/>hṛdvajraṃ sparśaṃ mudrāṃ ca dadhānā dakṣiṇaiḥ karaiḥ ||
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:119"/>vāme ghaṇṭā samarbhā vai (?) bibhrāṇās te trilocanāḥ |
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:120"/>pretopariṣṭhād viśvābjacandrārkamaṇḍalasthitāḥ ||
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:121"/>tata evam āyatanādyahaṃkāracittam utpādayet. cakṣuṣor bhrūm̐kārajaṃ śuklaṃ mohavavajram, śrotrayor hūm̐kārapariṇataṃ kṛṣṇaṃ dveṣavajram, ghrāṇe kham̐kārajaṃ pītam īrṣyāvajram, vaktre ākārajaṃ raktaṃ rāgavajram, sparśe hākārajaṃ haritaṃ mātsaryavajram, sarvāyataneṣu hūm̐kārajaṃ sitam aiśvaryavajram adhimuñcet. te punaḥ skandhāhaṃkāroktalakṣaṇāḥ.
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:122"/>tataḥ pṛthivīdhātau lām̐kārajāṃ pītāṃ pātanīm, abdhātau mām̐kārajāṃ kṛṣṇāṃ māraṇīm, tejodhātau yām̐kārajāṃ kanakābhām ākarṣaṇīm, vāyudhātau tām̐kārajāṃ raktāṃ padmanarteśvarīm, ākāśadhātau kham̐kārajāṃ lalitanīlāṃ padmajvālinīm adhimuñcet.
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:123"/>etāḥ punar yathāsvamaṇḍalasthitā ekānanāś caturbhujāḥ, prathamair dakṣiṇabhujaiś cakrāśanikamalakṛpāṇān dadhānāḥ, dvitīyaiḥ karttrīm, vāmaiḥ prathamabhujaiḥ kapālān, dvitīyabhujaiḥ khaṭvāṅgāni. padmajvālinī tu ṣaḍbhujā trimukhā, savyabhujair aṅkuśabrahmaśiraḥkarttrīdharā, vāmabhujaiḥ kapālakhaṭvāṅgapāśadharā.
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:124"/>yad vā bījākṣarāṇy eva devatāvarṇāni skandhādiṣv adhimuñcet.
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:125"/>% tejodhātau [9r] yām̐kārajāṃ
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:126"/>evaṃ skandhāyatanadhātudevatāśuddhim adhimucya tadapareṣv evāyataneṣu vakṣyamāṇarūpālaṃkāracihnān vīrān adhimuñcet. nakhadantayoḥ khaṇḍakapālinam, keśaromayor mahākaṅkālam, tvaṅmalayoḥ kaṅkālam, māṃse vikaṭadaṃṣṭriṇam, snāyau surāvairiṇam, asthiṣv amitābham, bukke vajraprabham, hṛdaye vajradeham, akṣṇor aṅkurikam, pitte vajrajaṭilam, phupphuse
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:127"/>mahāvīram, antre vajrahūṃkāram, guṇavartyoḥ subhadram, udare vajrabhadram, purīṣe mahābhairavam, sīmante virūpākṣam, śleṣmaṇi mahābalam, pūye ratnavajram, lohite hayagrīvam, prasvede ākāśagarbham, medasi śrīherukam, aśruṇi padmanarteśvaram, kheṭe vairocanam, siṃhānake vajrasattvam adhimuñcet.
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:128"/>% aṅku[9v]rikam
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:129"/>tataḥ samayacakraṃ tryakṣarotpannam uktakamalāṣṭadalasvarūpaṃ māhendramaṇḍalārūḍhaṃ viśvavarṇaṃ tricakraikarūpaṃ śrīkārādhiṣṭhitaṃ ratnāvalīparivṛtaṃ mahāsukhakāyātmakaṃ cittavākkāyasvabhāvaṃ bhāvayet. tatra pūrvapatre ḍākinīṃ nīlām, uttarapatre lāmāṃ haritām, paścimapatre khaṇḍarohāṃ raktām, dakṣiṇapatre rūpiṇīṃ pītām cintayet.
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:130"/>tās tu sarvāḥ śavārūḍhā ālīḍhāsanasaṃsthitāḥ |
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:131"/>muktakeśā mahānandā ekavaktrāś caturbhujāḥ ||
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:132"/>vāmahastāntakhaṭvāṅgakapālā mohanotsukāḥ |
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:133"/>savyahastāntaḍamarukarttrikā visphurattviṣaḥ ||
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:134"/>trinetrā muktavasanā raudrā daṃṣṭrotkaṭānanāḥ |
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:135"/>% [10r] trinetrā
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:136"/>śṛṅgārādirasopetāḥ pañcamudrāvibhūṣitāḥ ||
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:137"/>vidigdaleṣu pūjārthaṃ kalaśopari saṃsthitān |
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:138"/>tadā vibhāvayed yogī bodhicittakaroṭakān ||
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:139"/>tatas tadbahiś cittacakraṃ hūm̐kārajam aṣṭāraṃ varuṇamaṇḍalārūḍhaṃ kṛṣṇaṃ hekārādhiṣṭhitaṃ vajrāvalīparivṛtaṃ dharmakāyātmakaṃ svargarūpaṃ khecarīsvabhāvaṃ cintayet.
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:140"/>tatra tasya puje pūrvāre pullīramalaye khaṇḍakapālinam āliṅgya sthitāṃ pracaṇḍām, jāje uttarāre jālandhare mahākaṅkālaṃ caṇḍākṣīm, uje paścimāre uḍiyāne kaṅkālaṃ prabhāvatīm, aje dakṣiṇāre ’rbude vikaṭadaṃṣṭriṇaṃ mahānāsāṃ bhāvayet. iti pīṭhaṃ pramuditā bhūmir dānapāramitā duḥkhajñānam.
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:141"/>goje āgneye godāvaryāṃ surāvairocanaṃ vīramatīm, rāje nairṛtāre rāmeśvare amitābhaṃ kharvarīm, deje vāyavyāre devikoṭṭe vajraprabhaṃ laṅkeśvarīm, māje aiśānāre mālave vajradehaṃ drumacchāyāṃ bhāvayet. ity upapīṭhaṃ vimalā bhūmiḥ śīlapāramitā samudayajñānam. iti cittam.
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:142"/>% mālave [10v] vajradehaṃ
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:143"/>tatas tadbahir vākcakram āḥkāranirjñātam aṣṭāraṃ vāruṇamaṇḍalārūḍhaṃ rukārādhiṣṭhitaṃ raktaṃ padmāvalīparivṛtaṃ saṃbhogakāyātmakaṃ martyasvabhāvaṃ bhūcarīsvarūpaṃ vibhāvayet. tatra tasya kāje pūrvāre kāmarūpe aṅkurikaṃ airāvatīm, oje uttarāre oḍre vajrajaṭilaṃ mahābhairavīm, trije paścimāre triśakunau mahāvīraṃ vāyuvegām.
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:144"/>koje dakṣiṇāre kosalāyāṃ vajrahūṃkāraṃ surābhakṣīm. ity upakṣetram arciṣmatī bhūmir vīryapāramitā mārgajñānam. kaje āgneyāre kaliṅge subhadraṃ śyāmādevīm. laṃje nairṛtāre lampāke vajrabhadraṃ subhadrām. iti cchandoho ’bhimukhī bhūmir dhyānapāramitā kṣayajñānam.
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:145"/>kāje vāyavyāre kāñcyāṃ mahābhairavaṃ hayakarṇām, hije aiśānāre himālaye virūpākṣaṃ khagānanām. ity upacchandohaḥ sudurja[*yā bhūmiḥ prajñāpāramitā mārgajñānam]
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:146"/>[11–20 desunt] [with the possible exception of this next folio, ?r]
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:147"/>tataḥ svahṛdbījamayūkhamālāmukhāt pūjādevīḥ saṃsphārya tāsāṃ spharaṇameghair gaganamaṇḍalam āpūrya samāṇḍaleyaṃ maṇḍaleśvaraṃ paripūjayet. tato māyopamān svapnasaṃnibhān sarvadharmān adhimucya gītidvayena bhagavantam abhiṣṭūyāt.
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:148"/>śrīcakrasaṃvara susaṃvara vajraḍāka
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:149"/>vīreśvarīpravaravīra gaṇādhirāja |
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:150"/>kolānanālalitabāhuyugopagūḍha
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:151"/>kāruṇyanirbhara namāmi tavāṃhripadmam || [→ Saṃvarodaya 8.32’]
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:152"/>yogaikalabhya bhavabandhanabhedakārin
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:153"/>visphārivṛddhapariśuddhaśarīrasāra |
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:154"/>pradhvastadoṣaduritāmalabodharūpa
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:155"/>saṃpūjya naumi tava pādasarojareṇum ||
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:156"/>athāntarīkṣe yam̐kārajaṃ kṛṣṇaṃ dhanvābhaṃ calatpatākāṅkaṃ vāyumaṇḍalaṃ vicintya tadupari ram̐kārajaṃ tryasraṃ rephāṅkaṃ raktam āgneyamaṇḍalaṃ tadūrdhvato muṇḍatrayoparisthitam āḥkārajaṃ raktatrotraṃ (?) śuklam uttānaṃ padmapātraṃ tadgarbhe sapañcabalam amṛtapañcakaṃ hūm̐kārajapavipithitaṃ bhāvayet.
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:157"/>tato vātoddīpitena vahninā tasya tāpād dravīkaraṇam ādarśajñānam, vajreṇa samarasīkaraṇaṃ samatājñānam, tadupari sitapraṇavakiraṇair daśadiksarvatathāgatānāṃ rūpadarśanaṃ pratyavekṣaṇājñānam, tair eva kiraṇair jñānarūpiṇas tathāgatān ākṛṣyāmṛte saṃpātanaṃ kṛtyānuṣṭhānajñānam, taiḥ samarasīkṛtya paramāmṛtīkaraṇaṃ suviśuddhadharmadhātujñānam.
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:158"/>itthaṃ tat pañcajñānair viśodhya tryakṣareṇādhiṣṭhāya jihvāyāṃ hūm̐kāreṇa sitaṃ śubhravajraṃ vicintya hṛtsūrye ca maṇḍalam adhimucya tenātmānaṃ maṇḍalaṃ ca saṃtarpayet, om̐ samayaśuddhāḥ sarvadharmāḥ samayaśuddho ’ham iti codīrayet.
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:159"/>% hūm̐[?v]kārajapavipithitaṃ
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:160"/>tataḥ samāhito mantrī nirmāṇacakre ālikālipariṇatacandrasūryasaṃpuṭagarbhe ’mṛtabījaparāvṛttaṃ vajravārāhīsvabhāvaṃ dharmadhātvātmakaṃ saṃpū-
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:161"/>[21r] [*śraddhābalaṃ mahābhairavā,] vīryabalaṃ vāyuvegā, smṛtibalaṃ surābhakṣī, samādhibalaṃ śyāmādevī, prajñābalaṃ subhadrā. smṛtidharmapravicayavīryaprītiprasrabdhisamādhyupekṣākhyāni sapta bodhyaṅgāni. bodhir atra darśanamātras (?) tattvābhisaṃbodhāt, tasyāṅgāni. asya ca darśanaṃ mārgasya dharmapravicayaḥ śarīraṃ śeṣaparicchadaḥ.
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:162"/>(?) tathā hi dharmeṣu smṛter upasthānād dharmapravicayaṃ satyadarśanātmakam adhigacchati, taṃ ca vīryeṇa niḥśeṣaṃ ryāt, (?) tannirmāṇe ca prītiṃ labhate, prasrabdhyā ca samādhau sthitau na saṃkṣipyate, tayā kleśabījātmakasya dauṣṭhalyasyāpanayāt. sa + +ṃ + + + + pekṣety ucyate. + + sapta saṃbodhyaṅgāni bhavanti.
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:163"/>tatra samādhisaṃbodhyaṅgaṃ hayakarṇā, vīryasaṃbodhyaṅgaṃ khagānanā. iti vākcakradevatāviśuddhiḥ.
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:164"/>[prītisaṃbodhyaṅgaṃ cakravegā,] prasrabdhisaṃbodhyaṅgaṃ khaṇḍarohā, dharmapravicayasaṃbodhyaṅgaṃ śauṇḍinī, smṛtisaṃbodhyaṅgaṃ cakravarmiṇī, upekṣāsaṃbodhyaṅgaṃ [suvīrā.] [samyagdṛṣṭisaṃkalpa]vākkarmāntājīvavyāyāmasmṛtisamādhaya āryāṣṭāṅgikamārgāḥ. teṣāṃ samyagdṛṣṭiḥ śarīraṃ śeṣaparicchandaḥ.
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:165"/>(?) tatra + + + + + + paricch+dakada + + (anne °darśanaṃ) samyagdṛṣṭiḥ. yathādhigamaṃ vyavasthāpanaṃ deśanā ca yathākramaṃ samyaksaṃkalpaḥ. samyagvāk samyakkarmāntaḥ śīlaviśuddhyā. samyagājīvo dharmeṇa cīvarādiparyeṣaṇāt.
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:166"/>yena vīryeṇa yayā sṃrtyā yena ca samādhinā yathākramaṃ rāgādikleśāvaraṇaṃ layādyupakleśāvaraṇam abhijñādiguṇāvaraṇaṃ ca niḥśeṣaṃ prajahāti tad yathākramaṃ samyagvyāyāmaḥ samyaksmṛtiḥ samyaksamādhiś ca. tatra samyagdṛṣṭir mahābalā, samyaksaṃkalpaś cakravartinī, samyagvāg mahāvīryā. iti kāyacakradevatāviśuddhiḥ.
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:167"/>% °aṅgaṃ [21v] śauṇḍinī
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:168"/>samyakkarmāntaḥ kākāsyā, samyagājīva ulūkāsyā, samyagvyāyāmaḥ śvānāsyā, samyaksmṛtiḥ sūkarāsyā, samyaksamādhir bhagavān śrīherukaḥ.
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:169"/>% sa[22r]myagājīva
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:170"/>dharmasmṛtyupasthānena viparyāsātmanāṃ sāṃkleśikadharmāṃām aviparyāsātmanāṃ vyāvadānikadharmāṇāṃ parijñānād ūrdhvam anutpannānāṃ kuśalānāṃ dharmāṇām utpādane vīryaṃ yamadāḍhī, utpannānāṃ kuśalānāṃ sthitaye vīryaṃ yamadūtī, utpannānām akuśalānāṃ dharmāṇāṃ hānaye vīryaṃ yamadaṃṣṭriṇī, anutpannānām akuśalānām anutpattaye vīryaṃ yamamathanī ceti.
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:171"/>iti dvārakoṇadevatāviśuddhiḥ.
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:172"/>evaṃ saptatriṃśadbodhipākṣikair dharmair devatāviśuddhim anusmṛtya tadaparā viśuddhīr  adhimuñcet.
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:173"/>vajrasattvas tu makuṭo ’kṣobhyo vā jñānaśuddhitaḥ |
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:174"/>mūlamantreṇa vīrāṇāṃ brahmasūtraṃ prakalpitam ||
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:175"/>mantreṇa vajravārāhyāḥ kaṇṭhikā kaṇṭhabhūṣaṇam |
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:176"/>hṛnmantreṇa bhagavataḥ pañcāśanmuṇḍamālikā ||
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:177"/>% pañcāśanmu[22v]ṇḍamālikā
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:178"/>saptākṣareṇa mantreṇa kuṇḍalaṃ karṇabhūṣaṇam |
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:179"/>devyā upahṛnmantreṇa nāgacarmāmbaraṃ dhṛtam ||
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:180"/>devyā hṛdayamantreṇa śīrṣe kapālaśekharam |
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:181"/>ṣaḍyoginīnāṃ mantreṇa mekhalā kaṭibhūṣaṇam ||
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:182"/>ṣaḍvīramantraiḥ ṣaṭ mudrāḥ sarvagātravibhūṣaṇam |
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:183"/>mantraś cakrasthadevīnāṃ raktāpūrṇakaroṭakaḥ ||
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:184"/>caturviṃśativīrais tu śarīre dhātavo matāḥ |
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:185"/>nāthasyārcanamantreṇa brahmacaryaṃ bhavet sadā ||
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:186"/>tadanantaram abhimatārthasiddhaye praṇidhānāni dadhyāt, saṃkṣepato ’nena ślokatrayeṇa:
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:187"/>labheyaṃ herukākhyasya padaṃ paramaśāśvatam |
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:188"/>lambhayeyaṃ ca nikhilaṃ puṇyenānena taj jagat ||
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:189"/>caryayāptā yayā bodhir bodhisattvair anuttarā |
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:190"/>bhūyān mamāpi sā caryā sarvadā bodhikāṅkṣiṇaḥ ||
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:191"/>yathā caranti saṃbuddhāḥ sarvasattvārthahetunā |
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:192"/>tathaivāhaṃ cariṣyāmi śrīherukādirūpavān ||
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:193"/>tadanu pūrvavat pūjāstutyādikaṃ vidhāya sarvavīrayoginīḥ svahṛdbīje ’ntarbhāvayet. tato vajraprākārādikam ativistīrṇam adhimucya dharmodayam ākāśadhātau līnaṃ vāyavyādimaṇḍalāni bāhyeṣu vāyvādidhātuṣu sumeruṃ ca gṛhādau līnaṃ vibhāvya herukāhaṃkāreṇottiṣṭhet.
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:194"/>% [23r] tato
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:195"/>utthito ’py ātmanaḥ pratiṣṭhādehādikam ādhārādheyamaṇḍalarūpeṇādhimucya viharet. tatra yo ’yam ākāśadhātus tan mama dharmodayam, ya ete bāhyā vāyvādayo dhātavas tan me narteśvaryādidevīsvabhāvaṃ caturbhūtamaṇḍalam, yad etad gṛhādikam ayaṃ mama mokṣāvāsaḥ sumeruḥ, yan mama dehaṃ sā mameṣṭadevatā, ahaṃ ca maṇḍaleśvara ity aparaṃ ca
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:196"/>skandhādyahaṃkārān sāreṇa yojanīyam. (?)
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:197"/>sandhyāntare tu dhyānālayaṃ praviśyāsane niṣadya bhūtapañcāvirbhūtam ādhāramaṇḍalaṃ vilokya tanmadhyāsanāvasthitaṃ vārāhyāśliṣṭakaṃdharaṃ śrīherukam ātmānaṃ jhaṭiti vibhāvya svahṛdbījāt sarvavīrayoginīr utsṛjya yathāsthānaṃ niveśyātmanaḥ skandhādiviśuddhim adhimucya sarvaṃ cānandamayaṃ dhyātvā pūrvavad abhiṣekapūjāstutyamṛtāsvādajapādikaṃ
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:198"/>praṇidhānaparyantaṃ kṛtvā tathaiva maṇḍalam upasaṃhṛtya herukāhaṃkāram udvahann uttiṣṭhet. utthito ’pi pūrvavat sarvaṃ kuryāt. paścimasandhyāyām apy evam, kiṃ tv ayaṃ viśeṣaḥ: om̐
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:199"/>kṛto vaḥ sarvasattvārthaḥ siddhir dattā yathānugā |
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:200"/>gacchadhvaṃ buddhaviṣayaṃ punarāgamanāya tu ||
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:201"/>om̐ vajra mur iti paṭhitvārghādikaṃ dattvā jñānamaṇḍalam utsṛjet, samayamaṇḍalaṃ ca pūrvavad antarbhāvayet.
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:202"/>% sa[23v]rvaṃ cānanda°
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:203"/>śayanakāle sahajānandayogam abhimukhīkṛtya supyāt. prabhātakāle pūrvapraṇidhānāvedhasāmarthyavaśāt pratibuddham ātmānam adhimucya nidrāta uttiṣṭhet, utthāya sarvaṃ pūrvadinavat kuryāt.
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:204"/>evaṃ pratyahaṃ pratisandhyaṃ yathāvasaraṃ vā yāvat siddhinimittāni paśyet tāvat sarvam etad vidadhyāt. siddhinimittāni punaḥ:
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:205"/>ayatnajaprītilayānubandhanād
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:206"/>yadā bhaved bhāvitamaṇḍalaṃ sphuṭam |
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:207"/>kaśācapeṭādihater na vedanā
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:208"/>tadā bhavet siddhir adūravartinī || [cf. Tattvajñānasaṃsiddhi 2.8]
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:209"/>% kaśācapeṭā[24r]dihater
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:210"/>pratāḍitānām paṇavādikānāṃ
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:211"/>paṭudhvanir na śrutigocaraś cet |
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:212"/>yady āpyate bodhir anuttarāgrā
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:213"/>svapne ’cirād dhyānavato ’grasiddhiḥ || [cf. Tattvajñānasaṃsiddhi 2.9]
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:214"/>evaṃ siddhinimittāny avalokya samāhitaḥ śu[?]sahāyaḥ |
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:215"/>kuryād utpannakramayogenopāyam urusiddheḥ ||
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:216"/>abhimatārthasiddhaye vighnopaśamāya sarvasandhyāsu yathopadeśaṃ viśodhya mantreṇādhiṣṭhāya sarvabhūtebhyo baliṃ dadyāt. tatrākrāntapāda ālīḍhapadastho vordhvadṛṣṭikaḥ phetkāram uccārayan jvālāmudrāṃ baddhvā lalāṭadeśe saṃsthāpyāvartāvartena bhrāmayet.
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:217"/>tataḥ svahṛnmantramarīcimālāṅkuśair ākṛṣṭān purato ’vasthitān sarvadikpālān anyāṃś ca devādīn vīrayoginīrūpeṇa viśodhitān vibhāvyārghādidānapūrvakaṃ pañcabhir upahāraiḥ saṃpūjya samayamantraṃ paripaṭhet: om̐ vajrārali hoḥ jaḥ hūm̐ bam̐ hoḥ vakraḍākinyaḥ samayas tvaṃ hoḥ. evaṃ dvir api trir api.
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:218"/>tato hṛdayamudrāṃ dadyād (anne dadhyād) vāmadakṣiṇapāṇibhyāṃ bhramantīṅ kamalāvartena ḍākinījālasatsukhām. (?) tatas tajjihvāsu hūm̐kāraṃ vicintya śodhitam agrasthaṃ balim ūrdhvavikacayā vajrāñjalyā tebhyo dadyān mantram uddhīyan:
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:219"/>(?) om̐ kha kha khāhi khāhi sarvayakṣarākṣasabhūtapretapiśāconmādāpasmāraḍākaḍākinyādaya imaṃ bali gṛhṇantu samayaṃ rakṣantu sarvasiddhiṃ me prayacchantu yathaivaṃ yatheṣṭaṃ bhuñjatha pibatha [jighratha] mātikramatha mama sarvākāratayā satsukhaviśuddhaye sahāyakā bhavantu hum̐ hum̐ phaṭ svāhā.
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:220"/>ardharātre tu nagno muktaśikho bhūtvā dakṣiṇāṃ mūrtim āsthāyoccasthāne baliṃ dadyāt.
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:221"/>% vakraḍākinya[24v]ḥ samayas
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:222"/>tataḥ śatākṣaramantraṃ parijapyottiṣṭhet: om̐ vajraheruka samayam anupālaya herukatvenopatiṣṭha dṛḍho me bhava sutoṣyo me bhava supoṣyo me bhava anurakto me bhava sarvasiddhiṃ me prayaccha sarvakarmasu ca me cittaṃ śreyaḥkuru hūm̐ ha ha ha ha ho bhagavan vajraheruka mā me muñca heruko me bhava mahāsamayasattva āḥ hūm̐ phaṭ.
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:223"/>% ha [25r] ha ha ha
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:224"/>samāpto ’yam utpattikramayogaḥ.
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:225"/>ihādhikṛto mantrī saṃbhṛtasaṃbhāraḥ savidyo mahāmudrāsiddhim ākāṅkṣan asadvikalparahito giriguhāyāṃ mahodadhitaṭe sarastīre vṛkṣamūle mātṛgṛhe śivālaye udyāne śmaśāne catuṣpathe vihāre caityālaye gṛhe vā vijane nirupadrave ’nukūle kṛtanilayaḥ svabhāvaśūnyāḥ sarvadharmāḥ svabhāvaśūnyo ’haṃ, prakṛtipariśuddhāḥ sarvadharmāḥ prakṛtipariśuddho ’ham iti
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:226"/>niścitya svadeham evādhārādheyamaṇḍalam adhimuñcet. tatra romāṇi kīlakān, carma vajraprākāram, asthipañjaraṃ vajrapañjaram, kulyamālā (?) śarajālam, rasādikaṃ vajravitānam, peśyādikaṃ vajramayībhūmim adhimucyāntarālaṃ dharmodayam adhimuñcet.
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:227"/>tatra kabandhodbaddhaśāyitaśūlabhinnādisūcakaiś caṃkramasthānaśayananiṣadyādikārakair dvipuṭagatatvena dviguṇapṛthivyaptejovāyudhātvātmakaiḥ śvāsaiḥ parigatān aṣṭau dhātūn śvasatīty anayā yuktyāṣṭau śmaśānāny adhimuñcet.
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:228"/>tataḥ pādadvayaṃ dhanvābhaṃ vāyavyamaṇḍalam, nābhitalaṃ trikoṇam āgneyamaṇḍalam, jaṭharaṃ vartulaṃ vāruṇamaṇḍalam, vakṣaḥsthalaṃ caturasraṃ māhendramaṇḍalam adhimucyottamāṅgam aṣṭaśṛṅgaṃ sumerum adhimuñcet.
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:229"/>tatas tatpṛṣṭhe mastiṣkaṃ dvātriṃśaddalakamalaṃ tanmadhyaṃ candramaṇḍalaṃ tanmadhyaganāḍīmukhaṃ khagamukhākāram anāhatam ālikālijaṃ hūm̐kāraṃ vajrasattvasvarūpaṃ ṣaṭtriṃśannāḍījanakaṃ samadhimucya tadudbhavaṃ śaśāṅkasaṃkāśaṃ sahajaṃ saṃbhogakāyātmakaṃ kālisvabhāvam upāyarūpaṃ suviśuddhadharmadhātujñānātmakaṃ śrīherukaṃ sahajaṃ nirmalanabhonibhaṃ
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:230"/>sarvāṅgapratyaṅgasarvāśākāśavyāpakaṃ svābhāvikakāyātmakam ālisvabhāvaṃ prajñārūpaṃ suviśuddhadharmadhātusvabhāvaṃ vajravārāhīm adhimuñcet.
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:231"/>tataḥ samayacakrātmake tālukamale pūrvadale bhagavataḥ pūrvamūrtiśabdavahādarśajñānarūpā śaśī nāma nāḍī ḍākinī, uttaradale uttaramūrtigandhavahā samatājñānarūpā kṣīravahā nāma nāḍī lāmā, paścimadale paścimamūrtirasavahā pratyavekṣaṇājñānasvabhāvā snigdhā nāma nāḍī khaṇḍarohā, dakṣiṇadale dakṣiṇamūrtisparśavahā kṛtyānuṣṭhānarūpā madhurā nāma nāḍī
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:232"/>rūpiṇī. hṛtkamala ity apare. mukhacatuṣṭaya ity anye kathayanti. koṇapatreṣu catasraḥ praṇāḍikā bodhicittavahāḥ pūjārūpā bodhicittakaroṭakāḥ. iti mahāsukhacakraṃ buddhabhūmir vajravarma(?)tritattvam trilokaṃ trikāyam.
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:233"/>% sthāna[25v]śayana
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:234"/>% samayacakrā[26r]tmake
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:235"/>tataḥ pu jā o a go rā de mā kā o tri ko ka laṃ kāṃ hi pre gṛ sau su na si ma ku iti bījākṣarāṇi yathāsthānaṃ krameṇa bhāvayet. tataḥ pullīramalaye śirasi khaṇḍakapālinakhadantavahājā (?) nāḍī pracaṇḍā. jālandhare śikhāyāṃ mahākaṅkālakeśaromavahāhatā (?) nāḍī caṇḍākṣī. oḍiyāne [26v] dakṣiṇakarṇe kaṅkālatvaṅmalavahāmalā (?) nāḍī prabhāvatī.
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:236"/>mastakapṛṣṭhe ’rbude vikaṭadaṃṣṭrimāṃsavahābalā (?) nāḍī mahānāsā. iti pīṭhaṃ pramuditā dānaṃ duḥkhajñānam. godāvaryāṃ vāmakarṇe surāvairisnāyuvahārajā (?) nāḍī vīramatī. rāmeśvare bhrūmadhye ’mitābhāsthivahāpaṭā (?) nāḍī kharvarī. devikoṭe cakṣurdvaye vajraprabhabukkavahābhagā (?) nāḍī laṅkeśvarī.
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:237"/>mālave skandhadvaye vajradehahṛdayavahācchaṭā (?) nāḍī drumacchāyā. ity upapīṭhaṃ vimalā śīlaṃ samudayajñānam. cittacakraṃ dharmo hūm̐ khecarī svargo layaḥ. kāmarūpe kakṣadvaye ’ṅkurikākṣivahāmahā (?) nāḍī airāvatī. oḍre stanayugale vajrajaṭilapittavahāvahā (?) nāḍī mahābhairavā. iti kṣetraṃ prabhākarī kṣāntir nirodhajñānam.
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:238"/>triśakunau nābhau mahāvīraphupphusavahāprabhā (?) nāḍī vāyuvegā. kosale nāsikāgre vajrahūṃkārāntravahābalā (?) nāḍī surābhakṣī. ity upakṣetram arciṣmatī vīryaṃ mārgajñānam. kaliṅge mukhe subhadraguṇavartivahāmadā (?) nāḍī śyāmādevī. lampāke kaṇṭhe subhadrodaravahāsaukhyadā (?) nāḍī subhadrā. iti cchandoho ’bhimukhī dhyānaṃ kṣayajñānam.
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:239"/>kāñcyāṃ hṛdaye mahābhairavapurīṣavahāghanā (?) nāḍī hayakarṇā. himālaye meḍhre virūpākṣasīmantavahāsitā (?) nāḍī khagānanā. ity upacchandohaḥ sudurjayā prajñānutpādajñānam. iti vākcakraṃ saṃbhoga āḥ bhūcarī martyo bhogaḥ. pretapuryāṃ liṅge mahābalaśleṣmavahāvahā (?) nāḍī cakravegā. gṛhadevatāyāṃ gude ratnavajrapūyavahānaṭī (?) nāḍī khaṇḍarohā.
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:240"/>iti melāpakaṃ dūraṅgamopāyo dharmajñānam. saurāṣṭra urudvaye hayagrīvalohitavahāsphuṭā (?) nāḍī śauṇḍinī. suvarṇadvīpe jaṅghāyām ākāśagarbhasvedavahālatā (?) nāḍī cakravarmiṇī. ity upamelāpakam acalā praṇidhānam anvayajñānam. nagare ’ṅgulīṣu śrīherukamedovahācalā (?) nāḍī suvīrā. sindhau pādapṛṣṭhe padmanarteśvarāśruvahāśaṭhā (?) nāḍī mahābalā.
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:241"/>iti śmaśānaṃ sādhumatī balaṃ saṃvṛtijñānam. marāv aṅguṣṭhayor vairocanakheṭavahāgaṇā (?) nāḍī cakravartinī. kulatāyāṃ jānvor vajrasattvasiṃhānakavahāsamānā (?) nāḍī mahāvīryā. ity upaśmaśānaṃ dharmameghā jñānaṃ paracittajñānam. iti kāyacakraṃ nirmāṇaṃ om̐ pātālavāsinī pātālam adhikāraḥ. mukhadvāre ugrā nāḍī kākāsyā.
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:242"/>dakṣiṇanāsādvāre ghorā nāḍy ulūkāsyā. gudadvāre ’gnivadanā nāḍī śvānāsyā. vāmanāsādvāre tejinī nāḍī sūkarāsyā. vāmakarṇe khaḍgadhāraṇī nāḍī yamadāḍhī. dakṣiṇakarṇe cakrī nāḍī yamadūtī. dakṣiṇanetre sūcīmukhā nāḍī yamadaṃṣṭrī. vāmanetre kubjī nāḍī yamamathanī. atra kecid evaṃ vadanti:
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:243"/>vāmapādasyottaragulphapārṣṇidakṣiṇagulpheṣu sthitā nāḍyo dvārapālyo dakṣiṇapādasyāgradakṣiṇagulphapārṣṇivāmagulpheṣu sthitāḥ koṇavāsinyo yoginya iti. evam adhyātmam ādhārādheyamaṇḍalaṃ bhāvayet.
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:244"/>% oḍiyāne [26v] dakṣiṇakarṇe
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:245"/>% subhadraguṇavartiva[27r]hāmadā (?)
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:246"/>% sādhu[27v]matī
+<lb n="SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana:247"/>yadi [vā?] [explicit]
+    </body>
+  </text>
+</TEI>

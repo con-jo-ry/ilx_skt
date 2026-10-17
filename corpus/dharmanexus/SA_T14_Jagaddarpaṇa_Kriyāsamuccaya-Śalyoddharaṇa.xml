@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kriyāsamuccaya (Śalyoddharaṇa)</title>
+        <author>Jagaddarpaṇa</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Author: Jagaddarpaṇa
+Collection / category: BuddhistNon-Scriptures / T14
+Source: OCR / Dharmamitra
+Edition / witness: Kaiser Library 110
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Diplomatic transcription and synoptic Sanskrit-Tibetan edition based on Kathmandu, Kaiser Library MS 110 and the Derge Tanjur (D 3305).</note>
+          <idno type="dharmanexus">SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śalyoddharaṇa</idno>
+          <ref target="https://dharmamitra.org/nexus/db/sa/SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śalyoddharaṇa/text">https://dharmamitra.org/nexus/db/sa/SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śalyoddharaṇa/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-13">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śalyoddharaṇa:0"/>saśalyabhūmau vīhārādikaraṇe doṣo bhaved iti śalyoddharaṇam āha ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śalyoddharaṇa:1"/>%sel dang bcas pa&#x27;i {55a5} sa la gtsug lag khang la sogs pa byas na skyon du &#x27;gyur ba&#x27;i phyir sa sel dbyung ba brjod par bya&#x27;o ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śalyoddharaṇa:2"/>prathamaṃ tāvad ācāryo lakṣaṇavatīṃ kumārikāṃ pañcakulodbhavāṃ tadabhāve &#x27;nyakulodbhavāṃ vā navakoṣṭhakṛtabhūbhāgamadhye sukumārāsane niṣādya samāhitacetasā bhagavatīrūpāṃ tāṃ vibhāvya yatnataḥ saṃpūjya sā saṃtuṣṭā yad vacanaṃ praśnottarākṣaraṃ dadāti tan nirūpayet |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śalyoddharaṇa:3"/>%dang por re zhig slob dpon gyis mtshan nyid dang ldan pa&#x27;i gzhon nu ma rigs ldan las byung ba&#x27;am | de med na rigs gzhan las byung ba yang rung |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śalyoddharaṇa:4"/>re mig dgu byas pa&#x27;i dbus kyi cha la shin tu {55a6} &#x27;jam pa&#x27;i stan la bzhag nas mnyam par gzhag pa&#x27;i sems kyis de rnams bcom ldan &#x27;das kyi gzugs su &#x27;bad pas bsgoms te yang dag par mchod nas rim pa la tshig gang dris pa&#x27;i lan gyi yi ge byin pa rnams nges par brtag par bya&#x27;o ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śalyoddharaṇa:5"/>tadyathā ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śalyoddharaṇa:6"/>%&#x27;di lta ste |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śalyoddharaṇa:7"/>va ka ca ta e hā śa ya yā yatra praśne bhavanty amī varṇāḥ |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śalyoddharaṇa:8"/>navadhākṛtabhūbhā[\C12\recto]ge śalyaṃ pūrvāditas tatra ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śalyoddharaṇa:9"/>%ba ka tsa ta ae h&#x27;a sha ya y&#x27;a | {55a7} gang du dris par gyur pa na yi ge &#x27;di rnams so || sa gzhi cha dgur byas pa der shar la sogs pa&#x27;i sel rig par bya ste |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śalyoddharaṇa:10"/>viddhy aindryāṃ vapraśne mānuṣaśalyaṃ tu sārdhakaramātre |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śalyoddharaṇa:11"/>vidadhāti manujamaraṇaṃ tadbhavanasthaṃ na saṃdehaḥ ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śalyoddharaṇa:12"/>%dris pa&#x27;i tshe ba zhes pa na dbang po&#x27;i phyogs kyi khru phyed dang gnyis na mi&#x27;i sel yod pas der gnas pa&#x27;i mi rnams nges par &#x27;chi bar byed do ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śalyoddharaṇa:13"/>āgneyyāṃ kapraśne kharaśalyaṃ tatkaṭīmātre |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śalyoddharaṇa:14"/>kurute nṛpadaṇḍoragabhayam atulaṃ saṃsthitaṃ bhavane ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śalyoddharaṇa:15"/>%dris pa&#x27;i tshe ka {55b1} zhes pa na me&#x27;i phyogs kyi rked pa tsam na bong bu&#x27;i sel yod pas sa der gnas pa rnams la rgyal po&#x27;i chad pa dang brad &#x27;gro&#x27;i &#x27;jigs pa dang mi mnyam pa byed do ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śalyoddharaṇa:16"/>dakṣiṇadiśi naraśalyaṃ capraśne jāyate kaṭīmātre |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śalyoddharaṇa:17"/>janayati tadbhavanagataṃ mṛtyuṃ gṛhanāyakasyaiva ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śalyoddharaṇa:18"/>%dris pa&#x27;i tshe tsa zhes pa na lho phyogs kyi rked pa tsam na mi&#x27;i sel yod pas sa der gnas pa rnams kyi khyim bdag &#x27;chi ba des par {55b2} byed do ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śalyoddharaṇa:19"/>rākṣasadiśi tapraśne śvāsthi bhavet sārdhahastamātreṇa |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śalyoddharaṇa:20"/>tanmandiragatam acirāt karoti ḍimbhakṣayaṃ nūnam ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śalyoddharaṇa:21"/>%dris pa&#x27;i tshe ta zhes pa na srin po&#x27;i phyogs kyi khru phyed dang do tsam na rus pa yod pas khang pa der gnas pa rnams kyi byis pa zad par nges par byed do ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śalyoddharaṇa:22"/>epraśne vāruṇyāṃ śiśuśalyaṃ bhavati sārdhahastena |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śalyoddharaṇa:23"/>patyuḥ pravāsam aniśaṃ śūnyaṃ ca karoti tadgeham ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śalyoddharaṇa:24"/>%dris pa&#x27;i tshe ai zhes pa chu bdag gi phyogs kyi khru phyed dang don gyis pa&#x27;i sel yod pas bdag pos skrad nas rtag tu khang pa de stong bar {55b3} byed do ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śalyoddharaṇa:25"/>vāyavyāṃ hapraśne puruṣāṅgārāṃś catuḥkarair viddhi |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śalyoddharaṇa:26"/>duḥsvapnapradarśanaṃ tena mitravināśaṃ ca kurvanti ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śalyoddharaṇa:27"/>%dris pa&#x27;i tshe h&#x27;a zhes pa na rlung gi phyogs kyi khru bzhi na skyes pa&#x27;i sel yod par rig pas rmi lam ngan pa rab tu mthong ba dang de&#x27;i grogs po rnam par nyams par byed do ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śalyoddharaṇa:28"/>dvijaśalyaṃ kauveryāṃ śapraśne bhavati tatkaṭīmātre |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śalyoddharaṇa:29"/>dhanadam api tadgṛhasthaṃ kurute nanu nirdhanaṃ śīghram ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śalyoddharaṇa:30"/>% gloss: tadbhavanasthaṃ
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śalyoddharaṇa:31"/>%dris pa&#x27;i tshe sha zhes pa na lus dan po&#x27;i phyogs kyi rked pa tsam de na gnyis skyes kyis sel yod pas khyim der gnas pa {55b4} rnams ni nor sbyin lta bu&#x27;ang nges par myur du nor med par byed do ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śalyoddharaṇa:32"/>aiśānyāṃ yapraśne gośalyaṃ bhavati sārdhahastena |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śalyoddharaṇa:33"/>bhavanagataṃ tat [\C12\verso] kurute godhananāśaṃ na saṃdehaḥ ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śalyoddharaṇa:34"/>%dris pa&#x27;i tshe ya zhes pa na me&#x27;i mtshams kyi khru phyed dang do na ba lang gi sel yod pas sa der gnas pa rnams kyi ba lang dang nor nyams par byed par the tshom med do ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śalyoddharaṇa:35"/>viddhy āntaryeṇa śalyaṃ narabālakapālabhasmalohamayam |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śalyoddharaṇa:36"/>yā pratyekaṃ kurute kulakṣayaṃ tadgṛhāvasthe ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śalyoddharaṇa:37"/>%dris pa&#x27;i tshe na y&#x27;a zhes pa na | dbus na mi&#x27;i skra dang thod pa dang thal ba {55b5} dang lcags kyi sel te &#x27;di rnams yod pas gang khyim der gnas pa rnams kyi so so&#x27;i rigs zad par byed par shes par bya&#x27;o ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śalyoddharaṇa:38"/>evaṃ doṣāvahaṃ śalyaṃ jñātvoddhṛtya prayatnataḥ |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śalyoddharaṇa:39"/>śuddhe bhūmitale ratnaṃ kīlaṃ tatrārpayet punaḥ ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śalyoddharaṇa:40"/>%de ltar sel rnams skyon dang ldan par shes nas rab tu &#x27;bad pas bton te slar yang dag pa&#x27;i sa gzhi dga&#x27; ba der phur bus gdab par bya&#x27;o ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śalyoddharaṇa:41"/>tārārkatrapuraṅgalohaghaṭitā pāṣāṇakāṣṭhāsthi vā
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śalyoddharaṇa:42"/>śastā naiva kulaprabhāvadṛḍhatā saṃpatkṣayā rogadā |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śalyoddharaṇa:43"/>sauvarṇī tu śalākikā janabalakṣemārthasiddhipradā
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śalyoddharaṇa:44"/>kīlaṃ kāṣṭhamayaṃ dṛḍhaṃ madhurasaṃlauhena cākoṭanam ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śalyoddharaṇa:45"/>%dngul dang zangs dang zha {55b6} nye nag po dang zha nya dkar bo dang lcags rnams las brdungs pa dang rdo ba dang shing dang rus pa rnams kyis ni ma bstan te | rigs nges pa med pa dang | mthu dang brtan pa dang phun sum tshogs pa rnams zad pa dang nad ster bar byed pa&#x27;i phyir ro ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śalyoddharaṇa:46"/>gser gyi thur ma ni skye bo dang stobs dang bde ba dang {55b7} nor dang grub pa rab tu ster bar byed pa&#x27;o || phur bu ni rgun &#x27;brum gyi shing las byas pa ste lcags kyis brdung bar bya&#x27;o
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śalyoddharaṇa:47"/>iti śalyoddharaṇavidhiḥ || 4 ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Śalyoddharaṇa:48"/>% zhes pas sel dbyung ba&#x27;i cho ga&#x27;o || ||
+    </body>
+  </text>
+</TEI>

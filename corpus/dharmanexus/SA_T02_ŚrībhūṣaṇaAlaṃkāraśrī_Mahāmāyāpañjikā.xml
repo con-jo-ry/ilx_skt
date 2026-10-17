@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mahāmāyāpañjikā (incomplete)</title>
+        <author>Śrībhūṣaṇa</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Author: Śrībhūṣaṇa
+Collection / category: BuddhistNon-Scriptures / T02
+Source: OCR / Dharmamitra
+Edition / witness: TUL ms.
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Unpublished working transcription of the palm-leaf fragment in the Tokyo University Library (TUL) Sanskrit manuscript collection (6 folios, Māgadhī script, undated, perhaps 11th century; bundle not identified in the catalogue), aligned with the Tibetan translation Derge D 1625. No printed edition of the Sanskrit text used.</note>
+          <idno type="dharmanexus">SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā</idno>
+          <ref target="https://dharmamitra.org/nexus/db/sa/SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā/text">https://dharmamitra.org/nexus/db/sa/SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-13">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:0"/>[017.jpg-lower] = Mahāmāyāpañjikā of *Śrībhūṣaṇa
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:1"/>% almost from the beginning = *2\recto(?)
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:2"/>[\ldots] pratiṣṭhāḥ siddhayo vajraḍākinyaḥ |
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:3"/>RIN ME DANG DI PA ZHES BYA BA DAG GIS MKHA&#x27; &#x27;GRO MAR GRUB PA STE, DE NYID KYI PHYIR YE SHES MCHOG GI BDAG NYID CAN RDO RJE MKHA&#x27; &#x27;GRO MAR &#x27;GRUB PA RNAMS MI DMIGS PA NYID KYI PHYIR NAM MKHAR BZHUGS SO,
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:4"/>trividhaṃ kāyavākcittaṃ guhyam ity abhidhīyate |
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:5"/>% Q Samājottara 24ab
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:6"/>,GSANG BA ZHES BYA BAS NI SKU DANG GSUNG DANG THUGS GSUM DU MNGON PAR BRJOD DE;
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:7"/>pratyātmavedyatvenānyāgocaratvād guhyās tāḥ |
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:8"/>MNGON SUM DU BDAG NYID RIG PA NYID KYIS GZHAN DU NAM MKHA&#x27; SPYOD YUL MA YIN PA&#x27;I PHYIR GSANG BA&#x27;O,
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:9"/>svaparārthasampattiyuktatvād aiśvaryaś ca |
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:10"/>,RANG DANG GZHAN GYI DON DANG LDAN PA&#x27;I PHYIR DBANG PHYUG GO,
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:11"/>samājatantre nirdiṣṭaṃ paramaṃ śatadhā kulaṃ |
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:12"/>% b = Samājottara 37d
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:13"/>trividhaṃ kāyavākcittaṃ guhyam ity abhidhīyate |
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:14"/>% cd = Samājottara 24ab
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:15"/>% NB: REF to Guhyasamāja
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:16"/>,&#x27;DUS PA&#x27;I RGYUD LAS GSUNGS PA, LNGA DANG RIGS BRGYA RNAM GSUM NI, ,SKU DANG GSUNG THUGS KYI GSANG BAR BRJOD,
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:17"/>ataś ca śatakulakāyavākcittātmako bhagavān vajraḍāko [&#x27;]tra deśakaḥ | saṃgītikartrī tu buddhaḍākininī mahāmāyāparasaṃjñikā | yad vakṣ[y]ati \textbf{devi satyaṃ vadāmy aham} ityādi |
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:18"/>% ahaṃm \ms
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:19"/>,DE NYID KYI PHYIR RIGS BRGYA NI, ,SKU DANG GSUNG DANG THUGS KYI BDAG NYID CAN BCOM LDAN &#x27;DAS RDO RJE MKHA&#x27; &#x27;GRO NI &#x27;DIR STON PA PO DANG, SANGS RGYAS KYI MKHA&#x27; &#x27;GRO MA NI GZHAN SGYU MA CHEN MO ZHES BYA BA&#x27;I MTSAN DANG LDAN PA NI SDUD PAR BYED PA STE, GANG BSHAD PA, ,LHA MO NGA NI BDEN PAR GSUNGS, ,ZHES BYA BA LA SOGS PA&#x27;O,
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:20"/>sa eva bhagavān atrābhidheyaḥ | tatprāptaye yā cābhisamayānupurvī sāpi tacchabdavācyā | tatpratipādako [&#x27;]pi śabdasaṃdarbhaḥ | paramaguhyākṣaṃ(=khyaṃ) labhyate | sa eva \textbf{tantram} ucyate | tantryate pratipādyate bhagavān bhagavatprāptihetur abhisamayānupūrvī vā aneneti kṛtvā | \textbf{nāma}śabdaḥ prasiddhavacanaṃ |
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:21"/>,DE NYID KYI PHYIR BCOM LDAN &#x27;DAS &#x27;DIR BRJOD PAR BYA STE, DE THOB PAR BYA BA&#x27;I PHYIR MNGON PAR RTOGS PA&#x27;I RIM PA&#x27;I THEG PAS DE YANG DE&#x27;I SGRAS BRJOD PAR BYA STE, DE RTOGS PAR BYED PA&#x27;ANG SBYAR, SGRA&#x27;I TSOGS CHEN DAM PA&#x27;I GSANG BA YI, ,ZHES BYA BA RNYED PAR &#x27;GYUR TE, DE NYID KYI PHYIR RGYUD DU GSUNGS TE, BCOM LDAN &#x27;DAS KYIS RGYAS PAR MDZAD PA DANG
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:22"/>GO BAR MDZAD PA NI, BCOM LDAN &#x27;DAS THOB PA&#x27;I RGYUR MNGON PAR RTOGS PA&#x27;I RIM PA &#x27;DI BYAS SO ZHES BYA BA&#x27;I SGRA NI RAB TU GRUB PA&#x27;I TSIG GO,
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:23"/>[018.jpg-upper] = Mahāmāyāpañjikā *2\verso(?)
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:24"/>guhyaṃ vicaritukāma āha | \textbf{yaye}tyādi | \textbf{jayā} (=yayā!) dharmadhātusvabhāvayā vyāptās tanmayāḥ sattvabhājanalokāḥ | «dharmadhātuvinirmukto yasmād dharmo na vidyata» iti nyāyāt | «bhāvebhyaḥ śūnyatā nānyā na ca bhāvo &#x27;sti tāṃ vinā» iti vā |
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:25"/>% jayā dharmadhātu is a later correction!!!
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:26"/>% Q Mahāyānasūtrālaṃkāra 13.11ab
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:27"/>% Q Acintyastava 43ab
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:28"/>,GSANG @220A *, ,BA&#x27;I RNAM PAR &#x27;GREL PAR &#x27;DOD PAS BRJOD PAR BYA STE, \textbf{GANG GIS} ZHES BYA BA LA SOGS PA LA, \textbf{GANG GIS} ZHES BYA BA NI, CHOS KYI DBYINGS KYI RANG BZHIN GYIS SO, ,\textbf{KHYAB} CES BYA BA NI DE&#x27;I BDAG NYID DE, GANG GI PHYIR SEMS CAN DANG SNOD KYI &#x27;JIG RTEN CHOS KYI DBYINGS LAS RNAM PAR MI &#x27;BYUNG BA&#x27;I CHOS YOD PA MA YIN
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:29"/>NO ZHES RIG PAS DNGOS PO RNAMS LAS STONG PA NYID GZHAN YAN YANG MA YIN ZHING DNGOS PO YOD PA YANG MA YIN NO,
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:30"/>% oh dear, what a howler: tāṃ vinā iti vā = de &#x27;dul ba&#x27;am !?
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:31"/>tasyāś ca kāraṇatvam apy āha | \textbf{utpattir} ityādi | vajraḍākinyādicaturdevīnāṃ tata utpādaḥ |
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:32"/>,DE &#x27;DUL BA&#x27;AM DE&#x27;I RANG GI RGYU NYID KYANG BRJOD PAR BYA STE, RDO RJE MKHA&#x27; &#x27;GRO MA LA SOGS PA LHA MO BZHI PO DE RNAMS KYIS BSKYED PA&#x27;O,
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:33"/>brahmaṇo [&#x27;]dvayajñānātmakavajraḍākasya | ādiśabdād buddhaḍākinyādīnāṃ ca |
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:34"/>,\textbf{TSANGS PA} ZHES BYA BA NI GNYIS SU MED PA&#x27;I YE SHES KYI BDAG NYID CAN RDO RJE MKHA&#x27; &#x27;GRO MA&#x27;O, ,\textbf{SOGS PA}&#x27;I SGRAS NI SANGS RGYAS KYI MKHA&#x27; &#x27;GRO MA LA SOGS PA&#x27;O,
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:35"/>mahatī ṛddhiḥ svaparārthasampattir bhavaty asmād iti maharddhikā{ḥ} | katamat tat paramaguhyam ity āha || tāsāṃ vajraḍākinīnām iyam iti buddhisthā parāmṛṣati | mahāmāyā {´}sitasūkṣmabindurūpā |
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:36"/>,MTHU CHEN ZHES BYA BA NI, DNGOS GRUB DANG RDZU &#x27;PHRUL CHEN PO RANG DANG GZHAN GYI DNGOS GRUB YIN PA&#x27;I PHYIR RO, ,DE GANG ZHE NA DE&#x27;I DAM PA&#x27;I GSANG BA ZHES BYA BA BRJOD PA DE RNAMS KYIS ZHES BYA BA NI, RDO RJE MKHA&#x27; &#x27;GRO MA RNAMS KYI&#x27;O, ,\textbf{&#x27;DI} ZHES BYA BA NI BLO LA BZHAG NAS SGOM PA&#x27;O, ,SGYU MA CHEN PO ZHES BYA BA NI THIG LE&#x27;I GZUGS DKAR
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:37"/>ZHING PHRA BA&#x27;O,
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:38"/>mahaiśvaryahetutvāt \textbf{maheśvarī} | mahendrajālavat vastuśūnyacitrākārapratibhāsamayatvāt \textbf{mahāmāyā} |
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:39"/>,\textbf{DBANG PHYUG CHE} ZHES BYA BA NI DBANG PHYUG CHEN PO&#x27;I RGYU&#x27;I PHYIR RO, ,\textbf{SGYU MA CHEN PO} ZHES BYA BA NI MIG &#x27;PHRUL CHEN PO&#x27;I DNGOS PO LTAR STONG PA NYID LA RNAM PA SNA TSOGS PA SNANG BA&#x27;I SGYU MA&#x27;I PHYIR RO,
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:40"/>caturmāra-
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:41"/>,DRAG MO CHEN MO ZHES BYA BA NI BDUD BZHI &#x27;JOMS PA&#x27;I PHYIR RO, ,&#x27;BYUNG PO SDUD PAR MDZAD PA MO, ,ZHES BYA BA NI SPRO BA DANG SDUD PAR BYED PA&#x27;I PHYIR RO, ,KHYAB CES BYA BA NI PHYOGS THAMS CAD DU DUS GCIG TU SEMS CAN GYI DON MDZAD PA&#x27;I PHYIR RO, ,DE NYID GSUNGS PA, RGYA CHER RNAM PAR ROL PA LAS, ,SANGS RGYAS KYIS NI KHYAB PAR BRJOD, ,CE&#x27;O, , &#x27;JIG
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:42"/>RTEN GSUM ZHES BYA BA NI &#x27;DOD PA DANG GZUGS DANG GZUGS MED PA&#x27;I KHAMS NYID DE DE NYID GSAL BAR BYA BA RGYU DANG MI RGYU ZHES BYA BA&#x27;O,
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:43"/>%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:44"/>[018.jpg-lower] = Mahāmāyāpañjikā X\recto
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:45"/>-diśabdāt pāpadeśanāpuṇyānumodanātriśaraṇagamanabodhicittotpādaparigrahaḥ |
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:46"/>,LA SOGS PA ZHES BYA BA&#x27;I SGRAS NI, SDIG PA BSHAGS PA DANG, BSOD NAMS LA RJES SU YI RANG BA DANG, GSUM LA SKYABS SU &#x27;GRO BA DANG, BYANG CHUB TU SEMS BSKYED PA DANG, YONGS SU BZUNG BA&#x27;O,
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:47"/>mahāsamayasiddhiḥ | mahā((tantra?)) &#x27;narghanīyā siddhir mahāmudrāsiddhiḥ | \textbf{mahāmāyāprayogair} iti | māyopamabindubījabhāvanābhiḥ | \textbf{yogasamvaram} iti | prajñopāyātmakaṃ {|} sukhavaram anurāgaṇaṃ kuryāt | tac ca yogasaṃvaraṃ {|} gurūpadeśāt jñātavyaṃ | anenābhiṣeka[ḥ] {´}sūcitaḥ |
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:48"/>,\textbf{DAM TSIG CHEN PO&#x27;I GRUB PA DANG,} ,ZHES BYA BA NI RIN THANG MED PA&#x27;I DNGOS GRUB CHEN PO STE, PHYAG RGYA CHEN PO&#x27;I DNGOS GRUB PO, ,\textbf{SGYU MA CHEN MO&#x27;I RAB SBYOR BAS,} ,ZHES BYA BA NI, SGYU MA LTA BU&#x27;I THIG LE DANG, SA BON GYI BSGOM PA RNAMS KYIS SO, ,\textbf{RNAL &#x27;BYOR GYI NI SDOM PA} ZHES BYA BA NI, THABS DANG SHES RAB KYI BDAG NYID
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:49"/>CAN GYI BDE BA MCHOG LA RJES SU CHAGS PAR BYED PA STE, DE YANG RNAL &#x27;BYOR GYI SDOM PA BLA MA&#x27;I MAN NGAG LAS, YE SHES BDAG NYID CES BYA BA &#x27;DIS DBANG LA SNYEGS SO;
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:50"/>pañcopahārā nivedyādayaḥ | pañca kāmaguṇā rūpādayaḥ |
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:51"/>,\textbf{MCHOD PA LNGA} ZHES BYA BA NI, LHA BSHOS LA SOGS PA&#x27;O, ,\textbf{&#x27;DOD YON LNGA} ZHES BYA BA NI GZUGS DANG SGRA DANG DRI LA SOGS PA DAM PA&#x27;O,
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:52"/>uttamasādhakena sadguror jñātavyaṃ yuktyāgamābhyāṃ yena jñānenānantaroktena siddhena bhāvanābalāt spaṣṭābhena {|} atyantā atikrāntāntadvayā bhāvābhāvādiparāmaṛṣaṇalakṣaṇāntadvayarahitā apratiṣṭhitanirvāṇasvabhāvā siddhiḥ prāpyate | śāśvatī pravāhanityatayā | ārdhāṣṭaguṇaveṣṭitabindurūpā |
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:53"/>,\textbf{SGRUB PO&#x27;I DBANG POS} ZHES BYA BA LA SOGS PA NI, BLA MA DAM PA DANG, RIGS PA DANG LUNG DAG GIS SHES PAR BYA&#x27;O, ,\textbf{GANG GIS YE SHES} ZHES BYA BA NI, BDAG GIS DE MA THAG TU GSUNGS PA&#x27;O, ,\textbf{GRUB PA YIS} ZHES BYA BA NI BSGOM PA&#x27;I STOBS LAS GSAL BA LTA BU&#x27;O, ,\textbf{SHIN TU} ZHES BYA BA NI DNGOS PO DANG DNGOS PO MED PA LA SOGS
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:54"/>PA&#x27;I MTHA&#x27; GNYIS ZIL GYIS MNAN CING BSGOM PA&#x27;I MTSAN NYID DO, ,\textbf{DNGOS GRUB} CES BYA BA NI DMIGS PA DANG BRAL BA STE, MI GNAS PA&#x27;I MYA NGAN LAS &#x27;DAS PA&#x27;I RANG BZHIN NO, ,\textbf{RTAG PAR} ZHES BYA BA NI RGYUN BRTAG PAS &#x27;THOB PA&#x27;O,
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:55"/>[019.jpg-upper] = Mahāmāyāpañjikā X\verso
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:56"/>akṣarapaṅktibhir akārādibhiḥ | binduyogādinā sthirīkṛtacittaḥ {|} sarvaprakārasamartho bhavatīty āha | \textbf{darśayantī}tyādi | nānāprakārā ((ne?)) n++māṇā +ca (= nānāprakārās te nirmāṇāś ca?) | nirmāṇair yatr (= yat) kṛtyaṃ tad evāha | \textbf{siddhim} ity aṣṭamāhāsiddhyādikaṃ | abhilaṣitaṃ sattvānām arthaṃ | tathāgatī śrīḥ buddhatvaṃ |
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:57"/>cittotpādādikrameṇa | āveśananyāyena vā | \textbf{rasāyanaiḥ} siddhadravyaiḥ |
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:58"/>,YI GE DAM PA&#x27;I PHRENG BA YIS, ,ZHES BYA BA LA SOGS PA RNAMS KYIS TE, BRGYAD KYI PHYAD KYI &#x27;GYUR GYIS BSKOR BA&#x27;I THIG LE&#x27;I GZUGS SO, ,THIG @222A *, ,LE&#x27;I RNAL &#x27;BYOR LA SOGS PAS SEMS BRTAN PAR BYAS NA RNAM PA THAMS CAD DU NUS PAR &#x27;GYUR RO ZHES BRJOD DO, ,MTHONG BAR &#x27;GYUR ZHES BYA BA LA SOGS PA NI, SPRUL PA RNAM PA SNA TSOGS PA GANG ZHIG SPRUL PAS
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:59"/>BYAS TE BRJOD DO, ,DE BZHIN GSHEGS PAS ZHES BYA BA NI, SEMS BSKYED PA&#x27;I RIM PAS SAM DBAB PA&#x27;I RIM PAS SANGS RGYAS NYID &#x27;GRUB PA&#x27;O, ,DNGOS GRUB CES BYA BA NI DNGOS GRUB CHEN PO BRGYAD LA SOGS PAR MNGON PAR &#x27;DOD PAR SEMS CAN GYI DON TO, ,\textbf{BCUD KYIS LEN} ZHES BYA BA NI GRUB PA&#x27;I RDZAS KYIS SO,
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:60"/>karmaprasaroddeśam āha | \textbf{śukre}tyādi | piṇḍākarṣaṇe sādhyo antarīkṣeṇaṇāgacchati | padākṛṣṭyā[ṃ] padbhyāṃ | saptajanmādi nṛmāṃsaṃ | hīnasiddhisiddhānāṃ prabhāvam āha | mahā āyur mahākalpasthāyitā | prātihārya[ṃ] jvalanatapanādikaṃ | aśecanakaśarīram atṛptikaradarśanaṃ | rūpaparivarttanaṃ | vyāghrādirūpatā | cintitenecchāmātreṇa |
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:61"/>,LAS RGYAS BA MDOR BSTAN PA GSUNGS PA, \textbf{KHU BA} ZHES BYA BA LA SOGS PA&#x27;O, ,GONG DU DGUG PA ZHES BYA BA NI BSGRUB PAR BYA BAR SNANG NAS &#x27;OD BA&#x27;O, ,GANG GI TSE PHRENG BA SKYE BA BDUN PA LA SOGS PA DANG, SKYES PA&#x27;I SHA LA SOGS PA BKUG NAS GRUB PA&#x27;I GZI BRJID GSUNGS PA, TSE RING ZHES BYA BA NI BSKAL PA CHEN POR GNAS PA&#x27;O, KHRO BO YI NI LUS DANG
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:62"/>YANG, ,ZHES BYA BA NI MTHONG NA MI DGA&#x27; BAR BYED PA&#x27;O, ,CHO &#x27;PHRUL ZHES BYA BA NI &#x27;BAR BA DANG BSREG PA LA SOGS PA&#x27;O, ,BSAM PA ZHES BYA BA NI &#x27;DOD PA TZAM GYIS SO, ,GZUGS NI YONGS SU BSGYUR ZHES BYA BA NI, STAG LA SOGS PA&#x27;I GZUGS SU&#x27;O,
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:63"/>tantramāhātmyam āha | vidyānānām īśvarī pradhānaṃ |
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:64"/>vi-[019.jpg-lower]-gata-
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:65"/>mahāmāyā vigatakalmaṣasya paṭhitasiddhā | amoghinī saphalā | anayā tulyā vidyā &#x27;nyā nāsti manmatyāha vajraḍākaḥ | sarvalokeṣu yagatsu(=jagatsu) | sarvatantreṣu samvarādiṣu |
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:66"/>% R Samvara
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:67"/>,RIG MA CHEN MO ZHES BYA BA NI MTSAN TE, SHIN TU BDAG NYID CHEN MO&#x27;O, ,DBANG PHYUG CES BYA BA NI GTZO MO&#x27;O, ,SGYU Ma CHE ZHES BYA BA NI SDIG PA DANG BRAL BA&#x27;O, ,BKLAGS PAS &#x27;GRUB PA RMONGS MED MA, ,ZHES BYA BA NI &#x27;BRAS BU DANG BCAS PA&#x27;O, ,&#x27;DIS NI DA DANG MTSUNGS PA&#x27;I RIG MA NI YOD PA MA YIN ZHES PA&#x27;O,, NGA ZHES GSUNGS PA NI, RDO RJE MKHA&#x27; &#x27;GRO STE
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:68"/>&#x27;GRO BA RNAMS SU &#x27;JIG RTEN THAMS CAD KYI BDAG PO&#x27;O,
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:69"/>āgamaḥ ayam āgamaḥ kathitaṃ tava bu[ddha]ḍākinyā[ḥ |] he śobhane | sarvākāraramaṇīye |
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:70"/>,LUNG NI &#x27;DI DAG SHES PA&#x27;O, ,KHYOD LA BSHAD PA YIN ZHES BYA BA NI SANGS RGYAS KYIS MKHA&#x27; &#x27;GRO MA LA&#x27;O,
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:71"/>anantaroktayogeśvarīmahāvidyāsiddher vajradharatvasiddher nirmi[ta]ṃ tāni pañcābhijñādīni | tāni nirdiśyante {|} yena granthena sa tathoktaḥ [|]
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:72"/>,DE MA THAG TU GSUNGS PA, RNAL &#x27;BYOR GYI DBANG PHYUG RIG MA CHEN MO&#x27;I GRUB PA&#x27;I RDO RJE&#x27;I DNGOS GRUB PO, ,MTSAN MA ZHES BYA BA NI MNGON PAR SHES PA LNGA LA SOGS PA&#x27;O, ,DE RNAMS KYIS BSTAN PA ZHES BYA BA NI GZUNG GANG GIS DE DE BZHIN DU GSUNGS PA&#x27;O,
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:73"/>prathame dvitīyāpekṣaḥ || o ||
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:74"/>,DANG PO ZHES BYA BA NI GNYIS BA LA LTOS PA&#x27;O,
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:75"/>\textbf{athe}ti prathamanirdeśānantaraṃ |
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:76"/>,DE NAS ZHES BYA BA NI DANG POR BSTAN PA&#x27;I DE MA THAG PA&#x27;O,
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:77"/>nirvāṇādivibhavatvāt divyaṃ | kāyavākcittātmakatvāt guhyaṃ | dhamadhātor na kṣaratīty akṣaraṃ | oṃkārādi japyaṃ |
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:78"/>,GSANG BA ZHES BYA BA NI, @222B SKU DANG GSUNG DANG THUGS KYI BDAG NYID CAN GYI PHYIR RO, ,YI GE ZHES BYA BA NI, AOm LA SOGS PA BZLAS PA STE, CHOS KYI DBYINGS SU MI &#x27;GYUR BA&#x27;I PHYIR RO, ,DAM PA ZHES BYA BA NI, MYA NGAN LAS &#x27;DAS PA LA SOGS PA STE, SRID PA DANG BRAL BA&#x27;I PHYIR RO,
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:79"/>yogasiddhiḥ prajñopāyarūpānāśravānandamayātmaniṣpattiḥ [|]
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:80"/>,RNAL &#x27;BYOR DANG DNGOS GRUB CES BYA BA NI THABS DANG SHES RAB KYIS ZAG PA MED PA&#x27;I DGA&#x27; BA&#x27;I BDAG NYID KYI RANG BZHIN RDZOGS PA&#x27;O,
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:81"/>tad uktaṃ[—] prajñopāyasamāpattir yoga ity abhidhīyate | yā nisva&lt;x dha x&gt;bhāvatā prajñā upā+o + + + + + + + + + + + (= upāyo bhāvalakṣaṇam) ((pha))laṃ | saṃpannasvaparārthaprasiddhatvāt |
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:82"/>% Q Samājottara famous verse
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:83"/>svaparārtha[020.jpg-upper]prasiddhatvāt
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:84"/>tasya pradāyakaṃ tat |
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:85"/>,DE NYID GSUNGS PA, ,THABS DANG SHES RAB SNYOMS &#x27;JUG PA, ,RNAL &#x27;BYOR ZHES NI MNGON PAR BRJOD, ,THABS DANG SHES RAB DNGOS PO YIS, ,MTSAN NYID DANG RANG BZHIN MED PA GANG, ,ZHE&#x27;O, ,DE NYID &#x27;BRAS ZHES BYA BA NI, RANG DANG GZHAN GYI DON GYI DNGOS GRUB PHUN SUM TSOGS PA&#x27;I PHYIR RO, ,DE&#x27;I SEMS KYIS MTHO BA&#x27;ANG GSUNGS PA, ,GANG GIS ZHES BYA BA LA SOGS
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:86"/>PA&#x27;O,
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:87"/>taccintāpi śreyaśīty āha | \textbf{yene}tyādi | varam aṣṭa + + + + + + + + + + + + + +((bdāyikā)) bhavet | aparam (?) auṃkāraḥ | japakāle spharaṇaṃ | deśanārūpatvāt nirmāṇakāyasvabhāvaṃ | kāyākṣara + + + + + + + + + + + + nilaya dṛḍhībhāvā tu dharmakāyābhaṃ | cittavajrātmaka hūṃ |
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:88"/>,MCHOG CES BYA BA NI MNGON PAR &#x27;DOD PA STE, SANGS RGYAS KYI THABS DNGOS GRUB BRGYAD LA SOGS PA DE SBYIN PA DE YIN NO;
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:89"/>,DANG PO&#x27;I YI GE ZHES BYA BA NI AOm STE, BZLAS PA&#x27;I DUS SU SPRO BA&#x27;O, ,STON PAR BYED PA&#x27;I TSUL GYI PHYIR, ,SPRUL PA&#x27;I SKU YI RANG BZHIN TE, ,AOm NI SKU YI YI GE DANG, ,LONGS SPYOD RDZOGS PA&#x27;I SKU&#x27;I BDAG NYID CAN GYIS SO, ,H&#x27;Um NI THUGS KYI RDO RJE&#x27;I BDAG NYID CAN TE GNAS SU BSTAN PA&#x27;I DNGOS PO LA YANG CHOS KYI SKU&#x27;I, AOm NI SROG DANG RTZOL BA
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:90"/>KHYAB PAS BZLA BAR BYA&#x27;O,
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:91"/>prāṇāyāmair vyāpṛto japet | \textbf{uśvāsaṃ (=ucchvāsaṃ!) kurute yogī}ty asyārtho [&#x27;]ya[ṃ] | aṣṭānto aṣṭavargānto hakāra ūkāreṇādhoyuktaḥ | sabindukam ity ardhenduśiraskaṃ | bhāvābhāvaparāmarṣarahito jāpaṃ kuryād ity arthaḥ | na tasya vra&lt;|ū|&gt;tam ākhyātam iti | amṛtadhārāyāṃ | svaparavibhāgaḥ parāparaṃ | nivarttate upaśāmyati |
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:92"/>,DBUGS NI DBYUNG BAR BYA ZHES BYA BA NI RNAL &#x27;BYOR PA &#x27;DI&#x27;I DON TO, ,BRGYAD KYI MTHA&#x27; ZHES BYA BA NI SDE CHEN BRGYAD KYI MTHA&#x27; STE HA&#x27;I RNAM PA&#x27;O, ,AU ZHES BYA BA NI &#x27;OG TU LDAN PA&#x27;O, ,THIG LER BCAS PA ZHES BYA BA NI SPYI BOR ZLA BA PHYED PA&#x27;O, ,DNGOS DANG DNGOS MED CES BYA BA NI BSGOM PA DANG BRAL BA&#x27;I BZLAS PA BYA&#x27;O ZHES BYA BA&#x27;I DON TO, ,DE LA
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:93"/>BRTUL ZHUGS BSHAD PA MED, ,CES BYA BA NI, BDUD RTZI&#x27;I RGYUN GYIS RANG DANG GZHAN GYI CHA DANG BRAL BAS GZHAN NAS GZHAN DU BZLOG PAR &#x27;GYUR TE, DKA&#x27; THUB KYI BDAG POR &#x27;GYUR RO,
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:94"/>anantaroktayog&lt;|asy|&gt;ārtham āha | mantro hūṃkārādiḥ | saṃsthānaṃ devatākāraṃ | dharmo dharmadhātuḥ |
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:95"/>,DE MA THAG TU GSUNGS PA&#x27;I RNAL &#x27;BYOR GYI DON BRJOD PA, SNGAGS DANG ZHES BYA BA NI H&#x27;Um LA SOGS PA&#x27;O, ,DBYIBS ZHES BYA BA NI LHA&#x27;I RNAM PA&#x27;O, ,CHOS ZHES BYA BA NI CHOS KYI DBYINGS SO,
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:96"/>%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:97"/>[020.jpg-lower] = Mahāmāyāpañjikā X\recto
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:98"/>maṇḍale aṣṭapatram ity eke tatra sūryamaṇḍale pañca sitabindavaḥ | caturdigbindusaṃbhūtacaturdevīyuktaṃ | paścāt tadgītyā codanānantaraṃ madhyabindūdbhava{ṃ}hūṃjāto vajraḍāka iti |
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:99"/>,KHA CIG NA RE PADMA DMAR PO &#x27;DAB MA BZHI PA ZHES ZER RO, ,GZHAN DAG NA RE &#x27;DAB MA BRGYAD PA ZHES ZER RO, ,BSGOM PA&#x27;I DKYIL &#x27;KHOR DU &#x27;DAB MA BZHI PA&#x27;O, ,RI MO&#x27;I DKYIL &#x27;KHOR BZHI LA NI &#x27;DAB MA BRGYAD PA&#x27;O, ,DER NYI MA&#x27;I DKYIL &#x27;KHOR LA THIG LE DKAR PO LNGA&#x27;O, ,PHYOGS BZHIR ZLA BA LAS BYUNG BA&#x27;I LHA MO BZHI DANG LDAN PAS PHYIS GLU YIS BSKUL MA THAG
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:100"/>TU, DBUS SU THIG LE LAS BYUNG BA H&#x27;Um LAS SKYES PA&#x27;I RDO RJE MKHA&#x27; &#x27;GRO&#x27;O,
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:101"/>\textbf{buddhabimbopaśobhitaṃ} | bhagavataś caturvaktrāṇāṃ varṇam āha | \textbf{pūrve}tyādi | devyo [&#x27;]pi catur vaktrāḥ pītavarṇādimūlamukhāni | āṣān (=āsāṃ?) tatpītādisthāne {n}nīlaṃ draṣṭavyaṃ |
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:102"/>,SANGS RGYAS GZUGS BRNYAN NYE BAR MDZES, ,ZHES BYA BA NI, BCOM LDAN &#x27;DAS ZHAL BZHI PA&#x27;O, ,SKU MDOG GSUNGS PA, SHAR DU ZHES BYA BA LA SOGS PA NI, LHA MO RNAMS KYANG ZHAL BZHI PA DANG SKU MDOG SER PO LA SOGS PA&#x27;O, ,&#x27;DI RNAMS KYI RTZA BA&#x27;I ZHAL SER PO LA SOGS PA DE&#x27;I GNAS SU SNGON POR BLTA BAR BYA&#x27;O,
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:103"/>caturbhujās trinetrāṇīti sarveṣāṃ | devīnāṃ tāvac cihnāny āha | \textbf{vāme}tyādi | devīniṣpattyanantaraṃ bhagavān dhyeya iti spaṣṭayitum āha | \textbf{kāye}ti | tuśabdaḥ paścādarthe | madhye devīnāṃ | \textbf{tatre}ti raktapadme | bhagavata[ś] cihnāny āha | \textbf{kapāle}tyādi | etad uktaṃ bhavati |
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:104"/>devīnāṃ niṣpattyanantaraṃ bhagavato niṣpattiḥ | yaiḥ bhagavanniṣpattisamānakālam eva devīnāṃ niṣpattir uktā {|} teṣāṃ matam apāstaṃ bhavati |
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:105"/>caturde[021.jpg-upper]vī
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:106"/>yataś caturdevīsamāyukta(ṃ ?)buddhabimbopaśobhitam ity atra granthe caturdevīnāṃ ādāv eva pāṭhaṃ {|} bhagavataś ca paścāt | āyudhan[i]rdeśaś ca devīnām agrata uktaḥ paścād bhagavata ity ato lakṣ[y]ate | paścād bhagavata utpattiṃ devīsaṃcodanānantaraṃ | na cānyatantravad asyānurodhayuktaḥ |
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:107"/>,PHYAG BZHI PA @225A *, ,DANG SPYAN GSUM PA&#x27;O, ,LHA MO&#x27;I MTSAN NA RNAMS GSUNGS PA, G-YON NA ZHES BYA BA LA SOGS PA NI LHA MO BSKYED MA THAG TU BCOM LDAN &#x27;DAS BSKYED PA&#x27;O, ,GANG GIS BCOM LDAN &#x27;DAS BSKYED PA DANG DUS MNYAM PA NYID DU LHA MO RNAMS SKYED PAR BYED PA DE RNAMS KYI GZHUNG BDAG GIS SUN DBYUNG BAR BYA STE, GANG GI PHYIR, LHA MO BZHI DANG
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:108"/>MNYAM LDAN ZHING, ,SANGS RGYAS GZUGS BRNYAN NYE BAR MDZES, ,ZHES GZHUNG &#x27;DIR LHA MO BZHI DANG POR GSUNGS NAS, PHYIS KYANG BCOM LDAN &#x27;DAS SO, ,LHA MO RNAMS KYI MTSON CHA LA SOGS PA DANG, PHYOGS LA SOGS PA DANG POR GSUNGS NAS, PHYIS BCOM LDAN &#x27;DAS &#x27;DIS MTSON PA&#x27;I PHYIR, LHA MO&#x27;I GLUS YANG DAG PAR BSKUL MA THAG TU, PHYIS BCOM LDAN &#x27;DAS KYI BSKYED PA
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:109"/>STE, RGYUD GZHAN DANG MTSUNGS PA NI MA YIN NO,
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:110"/>pṛthagbhūtam evedaṃ yataḥ [|] atha caivam api mārīcyāditantreṣv api dṛśyate | anyadevīnām upanāyikānāṃ raśmicodanāyā[ḥ] paścāt madhyavarttinī bhagavatināyikā niṣpadyata iti |
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:111"/>% NB: R to Mārīcitantra &#x27;etc.&#x27;
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:112"/>,&#x27;DI&#x27;I GTAN TSIGS BRJOD PA GANG GI PHYIR THA DAD PAR GYUR PA &#x27;DI NYID DE NAS YANG &#x27;OD ZER CAN LA SOGS PA&#x27;I RGYUD DU BLTA BAR BYA STE, LHA MO GZHAN DAG NYI MA&#x27;I GTZO MO RNAMS BSKYED PA&#x27;I &#x27;OD ZER GYIS BSKUL BAS PHYIS DBUS SU BZHUGS PA&#x27;I BCOM LDAN &#x27;DAS GTZO MO BSKYED DO ZHE&#x27;O,
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:113"/>\textbf{ādimantreṇe}ti | oṃkārādiṣaḍakṣaraiḥ | ṣaṭsu sthāneṣu yuktaṃ bhāvayet | jvalatīti spharanasaṃharako bhavet |
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:114"/>,DANG PO&#x27;I SNGAGS DANG ZHES BYA BA NI AOm STE, YI GE DRUG PO RNAMS KYIS GNAS DRUG PO RNAMS SU LDAN PAR BSGOM PAR BYA&#x27;O, ,&#x27;BAR ZHES BYA BA NI SPRO BA DANG SDUD PAR BYED PA YIN NO,
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:115"/>evaṃbhūteṣṭadevatāyogī sarvasādhanasamartho bhavati | ity āha | \textbf{evam} iti |
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:116"/>,DE LTAR GYUR PA&#x27;I LHA&#x27;I RNAL &#x27;BYOR PAS GRUB PA THAMS CAD LA NUS
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:117"/>PAR &#x27;GYUR RO ZHES BRJOD DO,
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:118"/>\textbf{dravye}ti | guḍikādīni [|] siddhir mahāmudrāsiddhiḥ | tatphalaṃ parārthaḥ [|] sarvamāyāvikurvitaṃ | tatprado bha-
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:119"/>% NB: continues with [013.jpg-lower] = 10\recto
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:120"/>,DE LTAR ZHES BYA BA NI RDZAS TE RIL BU LA SOGS PA&#x27;O, ,GRUB CES BYA BA NI PHYAG RGYA CHEN PO&#x27;I DNGOS GRUB PO, ,DE&#x27;I &#x27;BRAS BU NI GZHAN GYI DON TE SGYU MA THAMS CAD RNAM PAR MDZAD PA&#x27;O,
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:121"/>[013.jpg-lower] = 10\recto
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:122"/>Mahāmāyāpañjikā of Rgyan pa *Vibhūṣita [Tōh. 1625.]
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:123"/>% perhaps more likely *Śrībhūṣaṇa
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:124"/>% this is also the author of the Daśatattva
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:125"/>% otherwise his original works unknown
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:126"/>-vati siddhaḥ | sa na | hīnasiddhānām anuśaṃsām āha | \textbf{antar} iti | amṛtaśodhanam āha | \textbf{viparītānāṃ} tryakṣarāṇāṃ saṃyogaṃ | \textbf{tatre}ti | madyavajrodakayuktaguḍikāhūṃkārādhiṣṭhitadravyam āḥkārajakapāle paścād o[ṃ]kāraṃ vibhāvayet |
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:127"/>,DE RAB SBYIN ZHES BYA BA NI DE GRUB PA&#x27;I PHYIR RO, ,DMAN PA MA YIN PA&#x27;I DNGOS GRUB SGRUB PA&#x27;I SNGAGS PA GSUNGS PA \textbf{MI SNANG} BA ZHES BYA BA NI MI MTHONG BAR GSUNGS SO, ,\textbf{BZLOG PA} ZHES BYA BA NI YI GE GSUM GYI RNAL &#x27;BYOR RO, ,\textbf{DE LA} ZHES BYA BA NI RDO RJE CHU DANG YANG DAG PAR LDAN PA&#x27;I RIL BU H&#x27;Um GIS BYIN GYIS BRLABS PA&#x27;I
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:128"/>AA LAS SKYES PA&#x27;I THOD PAR BZHAG LA PHYI NAS AOm BSGOM PAR BYA&#x27;O,
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:129"/>abhimantraṇārthamantroddhāram āha | \textbf{aṣṭe}ti avasānākṣaram idaṃ | \textbf{sarve}ti catu[r]devīcakravarttiyogena | ādyakṣaraṃ oṃkāraḥ āḥkāro [&#x27;]tra nokta[ṃ |] tadartham āha | \textbf{trīṇ[i} t]yādi | āḥkāre madhye prakṣipte trīṇi bhavantīty artha[ḥ] |
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:130"/>,MNGON PAR BSNGAGS PA&#x27;I DON DU SNGAGS @225B BTU BA GSUNGS PA, \textbf{BRGYAD} CES BYA BA &#x27;DI NI MTHA&#x27;I YI GE&#x27;O, ,\textbf{KUN} ZHES BYA BA &#x27;DI LHA MO BZHI&#x27;I &#x27;KHOR LOS SGYUR BA&#x27;I RNAL &#x27;BYOR GYIS DANG PO&#x27;I YI GE STE AOm MO, ,\textbf{AA} NI &#x27;DIR MA GSUNGS SO, ,DE&#x27;I DON GSUNGS PA \textbf{GSUM} ZHES BYA BA LA SOGS PA NI AA DBUS SU BCUG PA STE;
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:131"/>GSUM DU &#x27;GYUR ZHES BYA BA&#x27;I DON TO,
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:132"/>anena etad uktaṃ bhavati | vāyvāgni(=di)maṇḍalopapi(=ry) [a]kāra&lt;ja&gt;kapālapadmabhāṇḍasthadravyaṃ {|} sahūṃkāraṃ dhyātvā | adho vāyumaṇḍalajvālitāgnimaṇḍalajvālābhiḥ kaluṣaṃ dagdhvā jñānāmṛtasvabhāvīkṛtam [|] ūrdhvaṃ {|} oṃkāramarīcibhir ānītajinavṛndaṃ samarasīkṛtya | oṃ āḥ hūṃ guhyī bhakṣā bhakṣe [&#x27;]ham iti abhimantrya |
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:133"/>jihvāvajrāntryanalikayākṛṣya upabhuñjīteti |
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:134"/>a-[014.jpg-upper]-bhimantrya = 10\verso
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:135"/>,&#x27;DIS NI DE GSUNGS PA YIN NO, ,RLUNG GI DKYIL &#x27;KHOR LA SOGS PA&#x27;I STENG DU AA LAS SKYES PA&#x27;I PADMA&#x27;I SNOD DU BZHAG PA&#x27;I RDZAS H&#x27;Um DANG BCAS BSAMS NAS, ,&#x27;OG NAS RLUNG GI DKYIL &#x27;KHOR DANG, &#x27;BAR BAS SDIG PA BSREGS TE;
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:136"/>YE SHES KYI BDUD RTZI&#x27;I RANG BZHIN CAN DU BYAS NAS, STENG DU AOm GYI &#x27;OD ZER GYIS SPYAN DRANGS PA&#x27;I RGYAL BA&#x27;I TSOGS RO MNYAM PAR BYAS TE, AOm AA GUHYA BHA SHAS BHA SHES HAm ZHES MNGON PAR BSNGAGS NAS LCE LI RDO RJE&#x27;I SBU GU&#x27;I &#x27;OD ZER GYIS BKUG NAS BZA&#x27; BAR BYA&#x27;O,
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:137"/>yogasamvarayuktasya (!) spaṣṭayann āha | \textbf{aṣṭe}tyādi | anena hūṃkāranirmitaguhyavajraḥ | \textbf{ādyakṣarayogene}ti | oṃkāranirmitamaṇiḥ | \textbf{hrīḥkāreṇe}ti | hrīḥkārenirmitadevīkamalaḥ | \textbf{akṣarāntena saṃyojye}ti | phaṭkāravidarbhitavajrarandhraḥ [|] \textbf{pañcabījaprayojitam} iti | pañcakulakalāpinīṃ |
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:138"/>\textbf{akṣareṇa vibhāvayed} iti | bhrūṃkāranirmitapītakarṇikāṃ | \textbf{evaṃ saṃyogam āgamye}ti | samāpattīṃ(!) kṛtvā |
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:139"/>,RNAL &#x27;BYOR GYI SDOM PA GSUNGS PA GSAL BAR BKA&#x27; STZAL PA, \textbf{BRGYAD} CES BYA BA LA SOGS PA NI H&#x27;Um RNAM PAR SPRUL PA&#x27;I GSANG BA&#x27;I RDO RJE&#x27;O, ,\textbf{DANG PO&#x27;I YI GE SBYOR BA YIS,} ,ZHES BYA BA NI, AOm GYIS SPRUL PA&#x27;I NOR BU&#x27;O, ,\textbf{HRI&#x27;A DANG} ZHES BYA BA NI, HR&#x27;I:
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:140"/>YIS SPRUL PA&#x27;I LHA MO&#x27;I PADMA&#x27;O, ,\textbf{YI GE MTHA&#x27; RU SBYAR NAS NI}, ,ZHES BYA BA NI RDO RJE&#x27;I BU GAR PHAt NANG DU BCUG PA&#x27;O, ,\textbf{SA BON LNGA NI RAB TU SBYAR,} ,ZHES BYA BA NI RIGS LNGA&#x27;I CHA DANG LDAN PAR RO, ,\textbf{YI GE RNAM PAR BSGOM PAR BYA} BAS NI BRUm LAS BYUNG BA&#x27;I LTE BAR SER PO&#x27;O, ,\textbf{DE LTAR SBYOR BA SHES PAR BYA,} ,ZHES
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:141"/>BYA BA NI SNYOMS PAR &#x27;JUG PAR BYAS PA&#x27;O,,
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:142"/>anayā gītyā vajraḍākinīnṛtye sati vajrasattvaṃ herukatvaṃ niveśayet | varaṭakamadhye bhāvayet | \textit{prajñopāyasamāpattir yoga ity abhidhīyate |} yogasiddhiḥ prajñopāyātmikā siddhiḥ |
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:143"/>% Q Samājottara
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:144"/>GLU &#x27;DIS RDO RJE&#x27;I GAR NYID KYIS RDO RJE SEMS DPA&#x27; ZHES BYA BA NI HE RU KA&#x27;O, ,GZHUG PAR BYA BA NI RDO RJE&#x27;I LTA BA&#x27;I NGUBS SU BSGOM PAR BYA&#x27;O, \textit{,THABS DANG SHES RAB SNYOMS &#x27;JUG PAS, ,RNAL &#x27;BYOR ZHES BYAR MNGON PAR BRJOD,} ,RNAL &#x27;BYOR DNGOS GRUB CES BYA BA NI, THABS DANG SHES RAB KYI BDAG NYID CAN GYI DNGOS GRUB PO,
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:145"/>catu[ḥ]sandhyāprayogeṇottamabhāvanābhiḥ sa[t]kṛtya nirantaradīrghakālaprayuktabhāvanottamā | pañcakāmaguṇākīrṇāṃ pañcopacāramaṇḍitāṃ | siddhim anantaroktāṃ {|} labhate | tayā kiṃ syād ity āha | \textbf{trikāyavarado yathe}ti | dharmasaṃbhoganirmāṇakāyātmake varadaḥ | sarvasattvābhimatārthadātā yathā saṃbuddhas tathāsau bhaved ity arthaḥ [|]
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:146"/>,THUN TSOD BZHIR NI SBYOR BA YIS, ,BSGOM PA MCHOG GI ZHES BYA BA NI, DAM PAR BYAS PAS RGYUN DU YUN RING PO DANG RAB TU LDAN PA NI BSGOM PA&#x27;I MCHOG GO, ,&#x27;DOD PA&#x27;I YON TAN LDAS GANG ZHING, ,ZHES BYA BA NI MCHOD PA LNGA YIS BRGYAN PA STE GSUNGS MA @226A *, ,THAG PA&#x27;I DNGOS GRUB &#x27;THOB BO, ,DE CIR &#x27;GYUR ZHEN, \textbf{DE LTAR SKU GSUM MCHOG SBYIN PA,}
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:147"/>,ZHES GSUNGS TE, CHOS DANG LONGS SPYOD RDZOGS PA DANG SPRUL PA&#x27;I SKU&#x27;I BDAG NYID CAN MCHOG SBYIN PA NI SEMS CAN THAMS CAD LA MNGON PAR &#x27;DOD PA&#x27;I DON SBYIN PA STE, JI LTAR RDZOGS PA&#x27;I SANGS RGYAS GZHAN DU &#x27;DIR &#x27;GYUR RO ZHES BYA BA&#x27;I DON TO,
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:148"/>nirmāṇa-[014.jpg-lower]-kāyātmake  = 11\recto
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:149"/>siddhasya prabhāvam āha | \textbf{yojane}tyādi | saṃyogabhāvanānantara[ṃ] amṛtāsvādaṃ kuryād ity āha | \textbf{nave}tyādi | asyāpi phalam āha | \textbf{sidhyata} ityādi | anāśravamahāsukhasvabhāvatvād anuttaraṃ | māyopamasvaparasvādhidaivatākāratvāt tattvaṃ | śivaṃ trikalyāṇaṃ | nirupadravabhūtārthatvāt |
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:150"/>,DNGOS GRUB CES BYA BA NI &#x27;OD GSAL BAR GSUNGS SO, ,\textbf{DPAG TSAD} CES BYA BA LA SOGS PA NI MNYAM PAR SBYOR BA BSGOMS PA&#x27;I MTHAR BDUD RTZI MYANG BAR BYA&#x27;O ZHES GSUNGS PA&#x27;O, ,\textbf{SGO DGU} ZHES BYA BA &#x27;DI&#x27;I &#x27;BRAS BU GSUNGS SO, ,\textbf{DGE BA DE NYID} CES BYA BA NI DUS GSUM DU NYE BAR &#x27;TSE BA DANG BRAL BA STE YANG DAG PA&#x27;I DON GYI PHYIR RO,
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:151"/>,\textbf{BLA MED} CES BYA BA SGYU MA LTA BUR RANG DANG GZHAN GYI LHAG PA&#x27;I LHA&#x27;I RNAM PA&#x27;I PHYIR RO, ,\textbf{GRUB PAR} ZHES BYA BA LA SOGS PA NI, ZAG PA MED PA&#x27;I BDE BA CHEN PO&#x27;I RANG BZHIN GYI PHYIR RO,
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:152"/>tatra piṇḍārthaṃ sūcayati | \textbf{ru[¯]pāṇī}ti | indragopādivarṇā[ ] | \textbf{mudrāṇī}ti devatāyogaḥ | \textbf{cihnam} iti kapālādiḥ | \textbf{dravyāṇī}ti | pañcāmṛtādīni | \textbf{dhyānānī}ti | ākarṣaṇādikarmasu | \textbf{bhāvanānī}ti | abhisamayānupūrvīnānāvidhopāye |
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:153"/>\textbf{devī}ti devyaḥ [|] \textbf{manasepsitāni} khaḍgādīni mahāmudrāsiddhiparyantāni |
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:154"/>,RGYUD KYI BSDUS PA&#x27;I DON LA SNYEG PA&#x27;I PHYIR, \textbf{GZUGS DANG} ZHES BYA BA LA SOGS PA NI, DBANG PO SBAS PA LA SOGS PA&#x27;I KHA DOG GO, ,\textbf{PHYAG RGYA} ZHES BYA BA NI LHA&#x27;I RNAL &#x27;BYOR RO, ,\textbf{MTSAN MA} ZHES BYA BA NI, THOD PA LA SOGS PA&#x27;O, ,\textbf{RDZAS} ZHES BYA BA NI BDUD RTZI LNGA LA SOGS PA&#x27;O, ,\textbf{BSAM GTAN} NI DGUG PA LA SOGS
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:155"/>PA&#x27;I LAS RNAMS SO, ,\textbf{SGOM PA} ZHES BYA BA NI MNGON PAR RTOGS PA&#x27;I RIM PA&#x27;O, ,RNAM PA SNA TSOGS THABS ZHES PA DANG, \textbf{LHA MO} ZHES BYA BA NI LHA MO RNAMS SO, ,\textbf{YID LA &#x27;DOD PA} ZHES BYA BA NI, ,RAL GRI LA SOGS PA DANG PHYAG RGYA CHEN PO&#x27;I DNGOS GRUB KYI MTHAR THUG PA RNAMS SO,
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:156"/>tantramāhātmyam āha | \textbf{yasye}tyādi | ayaṃ pustakātsa(=tma?)kaḥ |
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:157"/>[015.jpg-upper] = 11\verso
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:158"/>\textbf{dhārayatī}ty urogatakaraṇāt | \textbf{vāce}ti | pustakadarśanāt | \textbf{bhāvayatī}ti | catuḥsandhyākrameṇa |
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:159"/>,RGYUD KYI CHE BA&#x27;I BDAG NYID GSUNGS PA, \textbf{GANG GIS} ZHES BYA BA LA SOGS PA &#x27;DI NI GLEGS BAM GYI BDAG NYID CAN NO, ,\textbf{&#x27;DZIN DANG} ZHES BYA BA NI, KHONG DU CHUD PAR BYED PA&#x27;O, ,\textbf{KLOG CING} ZHES BYA BA NI GLEGS BAM MTHONG BA LAS SO,  ,SGOM BYED CES BYA BA NI THUN TSOD BZHI&#x27;I RIM PAS SO,
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:160"/>atra bhagavān asamāpanna iti kecit | etad asamyak | samāpattisaṃsūcakāni yataḥ sākṣād evātra padāni vidyante | yad uktaṃ prāk | \textbf{prajñopāyādibhiḥ sade}ti | tathā evaṃ saṃyogam āgamyeti | pañcakulakalāpinītvaṃ pratipālyoktaṃ | tathā yogasiddhir bhaviṣyatīti |
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:161"/>prajñopāyātmake yoga uktaḥ [|] yad aparaṃ dvay[e]ndriyaprayogata ity uktam ityādidarśanāt {|} samāpanna eva | kiṃ cāsmābhiḥ paramānandātmikā bodhiḥ sādhyā | na ca samāpatti&lt;|sthāṃ|&gt;ṃ vinā asmābhiḥ paramānandātmikalakṣa[ṇā] siddhiḥ kartuṃ pāryate | hasitekṣaṇamaithunalakṣaṇaṃ ca paramānandam asmākaṃ | lakṣībhavituṃ nālaṃ |
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:162"/>yataḥ kim asmābhis tatra sthitvā rūpyate (?) dvandrya(=dvayendriya-?)sa- ...
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:163"/>,&#x27;DIR KHA CIG NA RE BCOM LDAN &#x27;DAS NI SNYOMS PAR &#x27;JUG PA MED PA ZHES ZER RO, ,&#x27;DI&#x27;I DON NI YANG DAG PA MA YIN PA&#x27;I SNYOMS PAR &#x27;JUG PA ZHES BYA BAR SNYEGS TE, &#x27;DIR NGES PAR MNGON SUM DU TSIG RKANG YOD DE, GANG @226B ZHIG GANG DU GSUNGS PA, THABS DANG SHES RAB SOGS SBYOR BAS, RTAG TU ZHES BYA BA NI DE BZHIN DU DE LTAR MNYAM PAR SBYOR BAR SHES PAR
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:164"/>BYA ZHING, RIGS LNGA&#x27;I CHA DANG LDAN PA NYID RTOGS PAR BYAS NAS GSUNGS PA STE, DE BZHIN DU RNAL &#x27;BYOR GYI DNGOS GRUB TU &#x27;GYUR BA&#x27;I PHYIR, THABS DANG SHES RAB KYI BDAG NYID CAN GYI RNAL &#x27;BYOR GSUNGS SO, ,DE NAS GZHAN YANG DBANG PO GNYIS RAB TU SBYOR BA GSUNGS PA ZHES BYA BA LA SOGS PA&#x27;ANG, MTHONG BA YIN MOD KYI SNYOMS PAR &#x27;JUG PA NYID NI, BDAG GIS
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:165"/>MCHOG TU DGA&#x27; BA&#x27;I BDAG NYID CAN GYI BYANG CHUB SGRUB PA DANG, SNYOMS PAR &#x27;JUG PA MA GTOGS PA&#x27;I MCHOG TU DGA&#x27; BA&#x27;I BDAG NYID CAN GYI MTSON PAR GRUB PAR BYED PAR NUS NA, DGOD PA DANG BLTA BA &#x27;DOD CHAGS KYI MTSAN NYID MCHOG TU DGA&#x27; BAS BDAG GIS MTSON PA YIN GYIS GZHAN DU
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:166"/>NI MA YIN NO, ,GANG GI PHYIR YIN MOD KYI DE LAS BDAG GIS DE LA GNAS NAS [[[RNAM PAR BSGOM PA GNYIS GNYIS SNYOMS PAR &#x27;JUG PA&#x27;I GNAS SU &#x27;JUG STE, BDAG GIS MTSON CHA RAB TU MNYAM PAR SBYOR BAS NGES PAR MTSON PAR BYA&#x27;O,
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:167"/>,DPAL SGYU MA CHEN MO ZHES BYA BA&#x27;I DKA&#x27; &#x27;GREL,
+<lb n="SA_T02_ŚrībhūṣaṇaAlaṃkāraśrī_Mahāmāyāpañjikā:168"/>,SLOB DPON MKHAS PA CHEN PO DPAL RGYAN GYI ZHAL SNGA NAS MDZAD PA RDZOGS SO,,
+    </body>
+  </text>
+</TEI>

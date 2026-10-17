@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Ekavṛkṣādipañjikā</title>
+        <author>Āryadeva</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Author: Āryadeva
+Collection / category: BuddhistNon-Scriptures / T02
+Source: OCR / Dharmamitra
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Transcription in &#x27;Selected Chapters from the Catuṣpīṭhatantra&#x27; (DPhil thesis, University of Oxford, 2012, section 3.4.2).</note>
+          <idno type="dharmanexus">SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā</idno>
+          <ref target="https://dharmamitra.org/nexus/db/sa/SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā/text">https://dharmamitra.org/nexus/db/sa/SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-13">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:0"/>Matsunami 312 [old no. 230]
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:1"/>in a &#x27;Yogāmbarīsādhanaratnamālā&#x27; collection
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:2"/>Not noted by the catalogue, and not identified elsewhere as far as I know
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:3"/>[first item in listed transcript]
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:4"/>Calcutta As.Soc. G 9993
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:5"/>&#x27;Yogayoginīmaṇḍalabalikarma&#x27;
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:6"/>check HP Sastri&#x27;s Catalogue!
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:7"/>&quot;1&quot; scribbled in a later hand
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:8"/>[second item in listed transcript]
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:9"/>Tōh. 1614
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:10"/>D Rgyud &#x27;grel Ya 138a1-142a3
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:11"/>Au. [pseudo-]Āryadeva
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:12"/>Tr. anon.
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:13"/>[third item in listed transcript]
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:14"/>[1] + + + + jrasattvāya ||
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:15"/>[&quot;1&quot;] oṃ namo śrīvajrasattvāya ||
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:16"/>[... these three verses missing from the Sanskrit ...]
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:17"/>samayī sādhakaś caiva yogiyoginimaṇḍale |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:18"/>avaśyam eva ka+tta + + likarma viśeṣataḥ ||
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:19"/>samayī sādhakī caiva yogayoginimaṇḍale |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:20"/>avaśyam eva kartavyaṃ balikarma viśeṣataḥ ||
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:21"/>a +ū + + + + + ri pūrṇamāśī caturdaśī |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:22"/>gṛhe yoginī pūjya paścād balim ārabhet ||
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:23"/>aṣṭamī śuklakṛṣṇe ca paurṇamāsī caturdaśī |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:24"/>svagṛhe yoginī pūjya paścād balim ārabhet |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:25"/>pūjayed dehalīdevaṃ svapārśve bāhyatas tathā |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:26"/>ekavṛkṣādisthāneṣu saṃpūjya balicālinā |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:27"/>pūjayed dehalīdevaṃ svapārśve bāhyatas tathā ||
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:28"/>ekavṛkṣādisthāneṣu saṃpūjya balicālinā | [2]
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:29"/>tenaiva mantrabhūtena pūjayet sarvayoginī |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:30"/>tanmantrārtham ajānanto paryaṭet mantriṇā ca hi |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:31"/>tenaiva mantrabhūtena pūjayet sarvayoginī |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:32"/>tanmantrārtham ajānanto (paṭyeṣṭam?) mantriṇā bahi ||
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:33"/>kalpakoṭiśatārādhya naiva tuṣyanti devatā |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:34"/>tasmāt sarveṣu tantreṣu gopitaṃ bhagavat sadā |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:35"/>kalpakoṭiśatārādhya naiva tuṣyanti devatā |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:36"/>tasmāt sarveṣu tantreṣu gopitaṃ bhagavat sadā ||
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:37"/>yogatantraratā satvā siddhi((prā))ptyarthahetunā |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:38"/>idānīṃ prakaṭī&lt;kṛtvā4&gt; śṛṇu bhadra vadāmy aham ||
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:39"/>yogatantraratā sattvā siddhiprāptyarthahetunā |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:40"/>idānī+ prakaṭīkṛtvā śṛṇu bhadra vadāmy aham ||
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:41"/>oṃkārapūjanāvākyaṃ ekavṛkṣādir agrataḥ |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:42"/>kośābhyantaratasthāne anyavṛkṣavivarjite |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:43"/>oṃkārapūjanā bāhyaṃ ekavṛkṣ(ā)[3]di-r-agrataḥ ||
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:44"/>kośābhyantarataḥ sthāne anyavṛkṣai vivarjitaḥ ||
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:45"/>ekavṛkṣe ((hi)) sarveṣāṃ kathyate na ca jñāyate |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:46"/>śarīra vṛkṣam ity uktaṃ karaśākhādi yojitam |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:47"/>ekavṛkṣeti sarveṣāṃ kathyate na ca jñāyate |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:48"/>śarīraṃ vṛkṣam ity uktaṃ karaśākhādi yojitam ||
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:49"/>vedānteṣu paṭhyante tantratantrāreṣu ca |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:50"/>ūrdhvaṃ mūlam adha śākhā aśvatthaṃ prāhur avyayam ||
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:51"/>vedānteṣu ca pathante tantratantrāntareṣu ca |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:52"/>ūrdhva mūlam adhaḥ śākham asvasthaṃ prāhur avyayaḥ ||
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:53"/>phalapuṣpair alaṃkṛtya vṛkṣanāmena cocyate |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:54"/>guptaṃ vṛkṣaṃ na jānīyād dehamadhye vyavasthitam |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:55"/>phalapuṣpa-r-alaṃkṛtya vṛkṣanāmena cocyate |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:56"/>guptavṛkṣam ajānīyā deha[4]madhye vyavasthitam ||
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:57"/>caturaṅgulam adho nābhes tatra skandha pratiṣṭhitaḥ |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:58"/>tenordhvagā trayaḥ śākhā bindukoṭarasaṃyutā ||
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:59"/>caturaṅgulam adho nābhe tantrakandu pratiṣṭhitā |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:60"/>tenordhvagā traya śākha bindukoṭarasaṃyutaiḥ ||
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:61"/>nābhihṛdbhruvam antasthā traya bindur udāhṛtā |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:62"/>ūrdhvagāmī adhogāmī daśaśākheti cocyate |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:63"/>nābhiguhyabhruvam antasthā traya bindur udāhṛtā |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:64"/>ūrdhvagāmī adhogāmī daśākheti cocyate ||
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:65"/>puṣpaṃ phalaṃ sadā kālaṃ aṣṭapatra suśobhaṇam |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:66"/>yadā nāśagate prā[2]ṇe vṛkṣabhagneti kathyate |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:67"/>puṣpaṃ phalaṃ sadākālaṃ aṣṭapatrasuśobhaṇam |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:68"/>yadā nāgate prāṇe vṛkṣa bhagneti kathyate ||
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:69"/>guhyavṛkṣaṃ mahāvṛkṣaṃ gopasthāne vyavasthitam |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:70"/>tīrthikaiḥ śrāvakādīnāṃ taṃ vṛkṣaṃ naiva jñāyate |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:71"/>guhya[5]vṛkṣaṃ mahāvṛkṣaṃ gopasthāne vyavasthayā |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:72"/>tīrthikai&lt;ḥ&gt; śrāvakādīnāṃ tad vṛkṣaṃ naiva jñāyate |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:73"/>dharmodayāmahodyāne tatmadhye saṃvyavasthitam |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:74"/>śu+la + + + ṣpena phalaprasavamaṇḍitam |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:75"/>dharmodayāmahodyāne tanmadhye saṃpratiṣṭhitam ||
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:76"/>śuklaraktādipuṣpeṇa phalaprasavamaṇḍitam [|]
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:77"/>tat samāsṛtya yogīnāṃ mokṣasiddhi prajāyate ||   o   ||
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:78"/>tan samāsṛtya yogīṇāṃ mokṣasiddhi prajāyate ||
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:79"/>gurupādaprasādena vivṛṇo mayādhunā |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:80"/>guruprasādena vivṛṇomi mayādhunā |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:81"/>śakāra śukram ity uktaṃ makāra raktasaṃjñakam |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:82"/>dvaya akṣarasaṃyuktaṃ śmaśāna parikalpitam |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:83"/>śakāraṃ śukram ity uktaṃ mak(ā)
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:84"/>śmaśānaṃ pitṛvanaṃ jñeyaṃ pretānāṃ sthānam ucyate |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:85"/>pitā vivṛṇute yena rūpalāvanyalīlayā |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:86"/>mātṛbhūtā trayā kārā pitṛbhūtā trayām api |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:87"/>ṣaṭkoṣikam idaṃ piṇḍaṃ śmaśāna parikīrtitam |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:88"/>tasmāt pitṛvanaṃ proktaṃ śarīram api dehinām |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:89"/>daśānām indriyādīnāṃ pralaye līyatāṃ vrajet |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:90"/>prāṇaṃ śmaśānam ity uktaṃ vināśādisvabhāvataḥ |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:91"/>āślokena yad yuktaṃ tam eva guhyarūpiṇam |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:92"/>prajñāpadmakhadhātau hi pretī graha&lt;ṇa5&gt;śālinī |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:93"/>sarvabhūtacyutisthānaṃ śmaśānaṃ parikalpyate ||   o   ||
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:94"/>parvataṃ girim ity uktaṃ devānāṃ sthānabhūdharam |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:95"/>parvataṃ deham ity uktaṃ tribhi parvena saṃyutam |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:96"/>indriyapakṣirākīrṇaṃ śvāpadair viṣayākulam |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:97"/>deha parvata devānāṃ pūjayed balicālinā |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:98"/>+ + + + + m āsṛtya pāryate sacarācaram |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:99"/>phalavṛkṣasamāyuktaṃ tṛṇaromāvalīvṛtam |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:100"/>sravadudakasaṃyuktaṃ si[2]ddhir yoginībhiḥ sevitam |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:101"/>pakāra padmam ity uktaṃ vak+ + + + + + m |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:102"/>takāraṃ tu mahāsaukhyaṃ tasmāt parvata((m))+ rvatam |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:103"/>giraikadeśaḥ yatra vai praśravam udakāvaham |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:104"/>tatra sthitaṃ tu devānāṃ pūjayīta vicakṣaṇam ||  o   ||
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:105"/>navaśrohādibhiḥ sthānaiḥ s+ ((r))van nānāvidhasrayā |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:106"/>tena kandaram ity uktaṃ dehānyaṃ naiva kandaram |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:107"/>kakāraṃ deham ākāraṃ dhāryate prāṇavāyunā |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:108"/>tena kandaram ity uktaṃ prāṇakandarakandaram |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:109"/>kandaraṃ bhagam ity āhu sravajjñānā&#x27;mṛtāskasā |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:110"/>sarvāṅga dravataidyas tu śukrarūpavyavasthayā |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:111"/>kakāraṃ madarūpeṇa dakāraṃ dāraṇātmakam |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:112"/>rakāraṃ rasibhāvena kandareti tathocyate ||   o   ||
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:113"/>guhyā ca vakṣyate yena sādhanāvāsam iṣyate |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:114"/>aśītikoṭiyogīnāṃ yatra vāsa parakalpitā |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:115"/>tatra guhyeti nāmena deham eva pragīyate |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:116"/>āpādamūrdhaniś cānte vyāptirūpeṇa gopitā |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:117"/>vāyurūpa sadāvasthā guhāvāsīti kathyate |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:118"/>guhyāguhya sthitā devā gopitā sacarācaraiḥ |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:119"/>tantratantreṣu sarveṣu gopitā guhyam ucyate ||   o   ||
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:120"/>grāmapārśve janasthāne pūjayed balicālinā |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:121"/>indriyagrāmasaṃkīrṇe pārśve deha vyavasthitā |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:122"/>pūjanīyā prayatnena svādhidevatabhāvanaiḥ |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:123"/>grāmadehajanāvāse pārśve ante vyavasthitā |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:124"/>pārśve sthitā ca yā nāḍī grāmapārśva prakathyate |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:125"/>gamyate yatra vai sthānaṃ janādhiṣṭhānasaṃbhavam |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:126"/>grāmanāmena yā coktā p+ajñā + + [3]va saṃbhavā |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:127"/>eka ś+ + dviśṛṅge vā tṛśṛṅge tu catuṣpathe |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:128"/>pūjayet patham āsṛtya devatā balipūrvakaiḥ |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:129"/>patha nāma śarīrasthaṃ daśakarmasamāsṛtam |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:130"/>ekakaivalyabhāvena dvidhā dvayavibhāgajā |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:131"/>tripathā ya + bhedena jñātavyaṃ yogināṃ sadā |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:132"/>prāṇa tripatham ity uktam iḍāpiṅgalasuṣumnakaiḥ |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:133"/>catuṣpatham iti jñeyaṃ + mbakādicaturvidhaiḥ |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:134"/>adha ūrdhvādibhedena tripathā parikīrtitā |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:135"/>ūrdhva brahmapatha jñeyaṃ adho viṣṇupathocyate |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:136"/>rudramadhyaṃ vijānīyā traye te mārgam iṣyate |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:137"/>caturasraguṇopetā guhyapadmavyavasthitam |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:138"/>tṛśṛṅga tṛpatha jñeyā dvayarūpā dvidhā gatā |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:139"/>yadā ekatrabhāvena bhāvanā gatim āsṛtā |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:140"/>tena ekapatho jñeyā mokṣarūpa+vyavasthayā ||   o   ||
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:141"/>kṣayante yatra saṃprāpta kṣetra aṣṭamasthānakam |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:142"/>a + hāsacaritraṃ tu kolāgiri tathaiva ca |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:143"/>jayantyā caiva ujjainyā prayāgāvaruṇās tathā |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:144"/>koṭivarṣa tathā cāṣṭau kṣetram etat prakīrtitā |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:145"/>eteṣāṃ sthānam āsādya + jayed balicālinā |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:146"/>upasamīpakṣetraṃ upakṣetra prakathyate |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:147"/>[&quot;2&quot;]mīpaṃ yat kṣetraṃ upakṣetra prakathyate |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:148"/>[... omitted: eyeskip aṣṭa/aṭṭa? ... ]
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:149"/>[... omitted: eyeskip aṣṭa/aṭṭa? ... ]
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:150"/>aṭṭahāsamukhasthāne caritraṃ tu bhruvo ntare |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:151"/>kolākarṇeṣu vikhyātā jayantyā paṇḍikā + +((ḥ)) |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:152"/>aṭṭahāsamukhasthāne caritraṃ tu bhruvottare ||
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:153"/>kollākarṇeṣu vikhyātā jayātā ghaṭitāgratāḥ ||
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:154"/>+ + + + + + śāntā nāsikāgre prayāgajā |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:155"/>varuṇā netrayor jñeyā koṭīvarṣaṃ tu mūrdhani |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:156"/>ekam bāhyadaye proktaṃ nāsi&lt;kā&gt;gre prayāgajā |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:157"/>varuṇā netrayo jñeyā koṭīvarṣaṃ tu mūrdhinā |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:158"/>sandoha saṃśayaḥ prokta guhyapadme vyavasthitā |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:159"/>karṇikāke((sa))[3]rotā dalā + + + + + +
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:160"/>saṃdoha saṃśaya proktā guhyapadme vyavasthitā ||
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:161"/>karṇikākeśaropetā dalāṣṭakavibhūṣi[2]tā ||
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:162"/>+ + ((pi)) aṣṭadhā jñeyā jñāneśvarisamanvitā |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:163"/>kṣetra śarīram ity uktaṃ kṣetrā prāṇā prakīrtitā ||   o   ||
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:164"/>tathāpi aṣṭadhā jñeyā jñāneśvarisamanvitā ||
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:165"/>kṣetra śarīram ity uktaṃ kṣetrī prāṇa prakīrtitā ||
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:166"/>aśeṣasarvamānuṣyaiḥ śūnyālayaḥ prakathyate |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:167"/>ta + vyavasthitā devā pūjayed vidhipūrvakaiḥ |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:168"/>asevya sarvamānuṣyaiḥ śūnyālaya prakathyate ||
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:169"/>teṣu vyavasthitā devā pūrvayed vidhipūrvakaiḥ ||
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:170"/>deha śūnyam iti proktaṃ sarvabhāvena varjitaḥ |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:171"/>śūnyāgāragṛhe dehe devatābhāvabhāvanaiḥ |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:172"/>deha śūnyam iti proktaṃ sarvabhāvena varjitām ||
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:173"/>śūnyāgāragṛhe deha devatābhāvabhāvanaiḥ ||
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:174"/>pūjayet sarvadā yogī nānāpūjād((i))ṣaḍvidhaiḥ |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:175"/>śūnyam adṛśyarūpatvān nāḍikādaśam eva ca |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:176"/>pūjayet sarvadā [3] yogī nānāpūjādiṣaḍvidhaiḥ ||
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:177"/>śūnyam adṛśyarūpatvān nāḍikādaśam eva ca ||
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:178"/>atra jñānaṃ pratiṣṭhāpya pūjayet manasambhavaiḥ |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:179"/>śūnyatājñānavajreṇa yatra sthāne pratiṣṭhitā |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:180"/>atra jñāna pratiṣṭhāpya pūjayen manassambhavaiḥ ||
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:181"/>śūnyatājñānavajreṇa yatra sthāne pratiṣṭhitā ||
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:182"/>dharmodayākhyām āgāre jñānavijñānasambhavaiḥ |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:183"/>tatra sthānasthitā devī pūjayet kusumāmbunā ||   o   ||
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:184"/>dharmodayākhya-m-āgāre jñānavijñānasambhavai ||
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:185"/>tata sthānasthitā devī pūjayet kusumāmbunā |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:186"/>sādhakais siddhiprāptyarthaṃ bhājane yatra yatra vaiḥ |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:187"/>tasmim bhā((ja))nam ity āhuḥ guhya bāhyaṃ tu madhyamā |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:188"/>sādhakaiḥ siddhiprāptyarthaṃ bhajate [4] yatra yatra vaiḥ ||
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:189"/>tasmiṃ bhājanam ity āhuḥ guhya bāhyaṃ tu madhyamāḥ ||
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:190"/>eteṣāṃ navabhi sthāna samāsṛtya parāṅ gatiṃ ||   o   ||
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:191"/>saṃsārasāgarāsthe sā sthalaprāpti sthalacchilā ||
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:192"/>eteṣāṃ navati sthānāṃ samāsṛtya parā gatiṃ ||
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:193"/>saṃsārasā&lt;&lt;gara cchāpā&gt;&gt; thalaprāpti sthale sthitaḥ |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:194"/>muditādyaṣṭa + sī sādhumatyānavānvitā ||
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:195"/>aṣṭadhā kṣetram ity uktaṃ navakṣetrādhiya smṛtam |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:196"/>muditādyāṣṭamībhūmi sādhumatyānavānvitā |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:197"/>aṣṭadhā kṣetram ity uktaṃ navakṣetrādipa (smataḥ?) ||
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:198"/>mantraprāṇa sa vijñeyaṃ bījākhyaṃ parameśvaram ||   o   ||
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:199"/>madodayam ahāṅkāra saiva vajradharo + hān |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:200"/>madaprāṇam avijñeyaṃ jīvākhyaṃ para[5]meśvaram ||
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:201"/>mado mada[dhya]m ahaṅkāra saiva vajradharo mahān ||
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:202"/>madano mūrdhni saṃsthā tu āpādamūrdhni vyāpakam |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:203"/>madāvahākaṭis+ + ((sa))na mohā jagatrayaṃ |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:204"/>madano mūrdhni saṃsthā tu āpādamūdhni vyāpakam |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:205"/>madāvahā ṭaṭisthāne sa((na)) mohā jagatrayaṃ [|]
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:206"/>pṛthvyādi tathā ṣaṇṇā madarūpeṇa saṃsthitā | [4]
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:207"/>...
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:208"/>pṛthvyādis tathā ṣarṇṇa medarūpeṇa saṃsthitā |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:209"/>pañcāmṛtaparair uktam aiśva+āṣṭakasiddhidaḥ |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:210"/>...
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:211"/>...
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:212"/>mṛdvādisādhanai pra((jña)) yena sādha + + + [&quot;2&quot;] ṇāṃ |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:213"/>madena matta((ga))dehaṃ tena mātaṃga cocyate |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:214"/>...
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:215"/>...
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:216"/>pūjayet satataṃ mantrī pañcapañcātmakaiḥ svakaiḥ ||
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:217"/>eteṣāṃ sthānam āsādya devatānāṃ prakathyate ||
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:218"/>...
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:219"/>...
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:220"/>aindrādi diśim ārabhyaḥ , yāvad īśānagocaraḥ |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:221"/>dakṣiṇavāmatta tena jñātavya kramavistaraiḥ |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:222"/>...
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:223"/>...
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:224"/>((pratha))maṃ kṛṣṇarudran tu pādāṅguṣṭā tu saṃsthitam |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:225"/>kālā((gnirudra)) + + + [2] devībhiḥ parikīrttitaṃ ||
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:226"/>...
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:227"/>...
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:228"/>kopasthāne mahārudra vyāpim avānavigraha ||
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:229"/>devada ntu nābhisthaḥ māyārūpavyavasthayā |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:230"/>...
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:231"/>...
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:232"/>kṛṣṇākhya hṛdi saṃsthāpya mahāmāyāparāparaṃ |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:233"/>karālavadanadeśe tu vajrāyudha mahāyudhā ||
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:234"/>...
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:235"/>...
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:236"/>bhībhacchoṣṭasthitā niṃtyaṃ jvalanāgnisamaprabhaṃ ||
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:237"/>nandātīta śirasthāne brahmarandhravini+gga((t))ā [|] [3]
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:238"/>...
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:239"/>...
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:240"/>((nāsa))tura sthitā nityaṃ nāyakan tu vināyakaṃ |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:241"/>eteṣāṃ vidiśe sthāpya īśānādi yathākramaṃ ||
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:242"/>...
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:243"/>...
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:244"/>cāmuṇḍī śirasthāne vaṭavṛkṣasamāsṛtā ||
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:245"/>agho tṛkasaṃbhūtā tṛtattvaṃ tṛpathālaye |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:246"/>...
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:247"/>...
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:248"/>ghora nāma mahānāma dvādaśānteṣu saṃsthitāḥ ||
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:249"/>aṭṭahāsa mahāhāna aghorī ghora nāsanī ||
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:250"/>...
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:251"/>...
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:252"/>bhībhatsī bhayadā de[4]vī hṛdi sthāne vyavasthayā ||
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:253"/>māyādevīti vikhyātā mohanī jagamohaṇī ||
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:254"/>...
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:255"/>...
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:256"/>umādevī madasthāne mandanātmaka kāminī ||
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:257"/>jayādyās tu mahādevī nāḍīrūpeṇa saṃsthitā |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:258"/>...
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:259"/>...
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:260"/>kālādyā jānajavyāyo caturo tu maharddhikā ||
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:261"/>indrādi devatī ṣaṇṇāṃ hṛdipadme vyavasthitā ||
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:262"/>...
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:263"/>...
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:264"/>rūpādi ṣaṭ prakārāṇi pa[5]parṣarūpeṇa saṃsthitā |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:265"/>arṇṇike alirūpeṇa vajrasattvavyavasthayā |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:266"/>...
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:267"/>...
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:268"/>kambojādi mahādevī umānādeś catur mmatā |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:269"/>kambojī guhyasaṃsthāne dīlī mūrdhni saṃsthitā ||
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:270"/>...
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:271"/>...
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:272"/>dahana pācana caiva tejarūpī maheśvarī [|]
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:273"/>cūśinī tāviryāśā? vāyurūḍheśvareśvarī |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:274"/>...
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:275"/>...
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:276"/>ghorarūpā tu yā devī ḍākinīti licchaya  [end of &quot;2&quot;]
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:277"/>[5] sarvavarṇī ca |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:278"/>māsaṃ kolāgiris tathā |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:279"/>jayantī alikaṃ caiva ekasvaka patākakaṃ ||
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:280"/>aṣṭakṣetrasya cihnakā ||
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:281"/>[...]
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:282"/>pūrveṇa aṭṭahāsa, saumyākṣī taptakanakavarṇaḥ | vajrahastaḥ kadambadrumaḥ ||
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:283"/>agneyyāṃ caritraṃ tu kṛṣṇavarṇaḥ śaktihastaḥ karañjavṛkṣaḥ ||
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:284"/>dakṣiṇe kolāgiri, parvatacihna, mahālakṣmīḥ | kṛṣṇavarṇaḥ daṇḍahastaḥ ||
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:285"/>nairityāṃ jayantī nimbavṛkṣaḥ khaḍgahasta, jālāmukhī dhūmavarṇaḥ ||
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:286"/>paścimadiśi, ujjayenī, mahāmāyā, aśvatthavṛkṣa, pāśahastaḥ ||
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:287"/>vāyavye prayāga vāyuvegā, dhvajahastas tad eva varṇa, udumbaravṛkṣaḥ ||
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:288"/>kauveryāṃ śaṅkarī gadāhastaḥ pītavarṇas tālavṛkṣasthaḥ ||
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:289"/>īśānyāṃ, koṭīvarṣaḥ, karṇamoṭī raktavarṇaḥ śūlahasta vaṭavṛkṣasthaḥ ||   o   ||
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:290"/>[...]
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:291"/>karka-raṇḍā ūrdhvanāśaḥ | makara-rohitā, adhonāśaḥ |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:292"/>viccha, svapnaḥ kṣuṃ dhūmā, agniḥ |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:293"/>siṃha, mikiraḥ, huṃ, padmaḥ pṛthivīḥ |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:294"/>kanya-bhidriḥ, śvetā, suṃ, āpaḥ |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:295"/>dhanu-kāmaḥ, śaṅkha, yuṃ, vāyu dakṣiṇanāśaḥ ||
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:296"/>vṛṣabha-kūrmaḥ, kṣmryuṃ rocanā, agniḥ |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:297"/>[!this comes after mīna-bhadraḥ etc.!] kumbha-mohitā, smryuṃ, āpaḥ bhūcchatrā |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:298"/>mīna-bhadraḥ, ymryuṃ, tṛmalā, pṛthivīḥ |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:299"/>mithuna-makaraḥ, smryuṃ, bhaṅgo, vāyuḥ, uttaranāśaḥ |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:300"/>aḥ vijñāna prajñā | [...]
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:301"/>guruvaktrakramo yaṃ yad yasmād gopanīyaṃ [9 fillout characters] [5] siddhikāṅkṣibhiḥ ||   o   ||
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:302"/>prathamaṃ artha dātavyaṃ | dvitīyaṃ arthasaṃgrahaṃ |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:303"/>tṛtīyaṃ kṣetra saṃgṛhya | caturthe saśyaropaṇaḥ |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:304"/>pañcame gṛhasthāyī ca | [10 fillout characters] ṣaṣṭhaṃ  || gṛhaśāntikā |
+<lb n="SA_T02_Āryadeva-tāntrika_Ekavṛkṣādipañjikā:305"/>saptame yadi vā vārtha gatasya na nivarttate ||   o   || [22x śrī] ||   o   || [end of 5]
+    </body>
+  </text>
+</TEI>

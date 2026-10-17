@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Śrīśākyasiṃhastotra</title>
+        <author>Cūḍā</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Author: Cūḍā
+Collection / category: BuddhistNon-Scriptures / T01
+Source: OCR / Dharmamitra
+Edition / witness: BDRC Nepalese Ms. I1NPL38
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Diplomatic transcription from Nepalese manuscript BDRC Nepalese Ms. I1NPL38.</note>
+          <idno type="dharmanexus">SA_T01_Cūḍā-bhikṣuṇī_Śrīśākyasiṃhastotra</idno>
+          <ref target="https://dharmamitra.org/nexus/db/sa/SA_T01_Cūḍā-bhikṣuṇī_Śrīśākyasiṃhastotra/text">https://dharmamitra.org/nexus/db/sa/SA_T01_Cūḍā-bhikṣuṇī_Śrīśākyasiṃhastotra/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-13">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_T01_Cūḍā-bhikṣuṇī_Śrīśākyasiṃhastotra:0"/>% [Preceded by Kṣmādevī&#x27;s stotra]
+<lb n="SA_T01_Cūḍā-bhikṣuṇī_Śrīśākyasiṃhastotra:1"/>śrīśākyamunaye namaḥ ||
+<lb n="SA_T01_Cūḍā-bhikṣuṇī_Śrīśākyasiṃhastotra:2"/>sadāhaṃ name śākyasiṃhaṃ munīśaṃ
+<lb n="SA_T01_Cūḍā-bhikṣuṇī_Śrīśākyasiṃhastotra:3"/>svayaṃbhūkṛte &#x27;trāgataṃ śiṣyasaṃghaiḥ |
+<lb n="SA_T01_Cūḍā-bhikṣuṇī_Śrīśākyasiṃhastotra:4"/>sunepālamāhātmyasamyakprakāśe
+<lb n="SA_T01_Cūḍā-bhikṣuṇī_Śrīśākyasiṃhastotra:5"/>tathā naiyapālān janān rakṣatuṃ ca || 1 ||
+<lb n="SA_T01_Cūḍā-bhikṣuṇī_Śrīśākyasiṃhastotra:6"/>sudāsātmajaṃ rakṣituṃ kāśirājaṃ
+<lb n="SA_T01_Cūḍā-bhikṣuṇī_Śrīśākyasiṃhastotra:7"/>nṛmāṃsāśinaṃ mātṛdoṣād bhramantam |
+<lb n="SA_T01_Cūḍā-bhikṣuṇī_Śrīśākyasiṃhastotra:8"/>tathā pañcabhūpātmajānāṃ śataṃ ca
+<lb n="SA_T01_Cūḍā-bhikṣuṇī_Śrīśākyasiṃhastotra:9"/>punar yoginaṃ somaputro babhūva || 2 ||
+<lb n="SA_T01_Cūḍā-bhikṣuṇī_Śrīśākyasiṃhastotra:10"/>priyaḥ supriyaḥ kāśijaḥ sārthavāho
+<lb n="SA_T01_Cūḍā-bhikṣuṇī_Śrīśākyasiṃhastotra:11"/>vadadvīpayātrāptacintāmaṇibhyaḥ |
+<lb n="SA_T01_Cūḍā-bhikṣuṇī_Śrīśākyasiṃhastotra:12"/>suvarṇādiratnāni varṣan dhanāḍhyāṃ
+<lb n="SA_T01_Cūḍā-bhikṣuṇī_Śrīśākyasiṃhastotra:13"/>cakārāśu kāśyān bhavāṃ yo name tvām || 3 ||
+<lb n="SA_T01_Cūḍā-bhikṣuṇī_Śrīśākyasiṃhastotra:14"/>kapotaṃ rarakṣātmamāṃsapradānair
+<lb n="SA_T01_Cūḍā-bhikṣuṇī_Śrīśākyasiṃhastotra:15"/>bhavan sarvadākhyo mahīpālavarya |
+<lb n="SA_T01_Cūḍā-bhikṣuṇī_Śrīśākyasiṃhastotra:16"/>mahāsattvanāmā nṛpālātmajo &#x27;sau
+<lb n="SA_T01_Cūḍā-bhikṣuṇī_Śrīśākyasiṃhastotra:17"/>saputrāṃ ca vyāghriṃ prasūtāṃ name tvām || 4 ||
+<lb n="SA_T01_Cūḍā-bhikṣuṇī_Śrīśākyasiṃhastotra:18"/>sa sarvārthasiddho &#x27;bhaval lokahetor
+<lb n="SA_T01_Cūḍā-bhikṣuṇī_Śrīśākyasiṃhastotra:19"/>gayāśīrṣam āsthāya kṛtvā sutāpam |
+<lb n="SA_T01_Cūḍā-bhikṣuṇī_Śrīśākyasiṃhastotra:20"/>sudurlabhyabodhiṃ samāsādya buddho
+<lb n="SA_T01_Cūḍā-bhikṣuṇī_Śrīśākyasiṃhastotra:21"/>bhave tvāṃ name pāhi sarvajña nātha || 5 ||
+<lb n="SA_T01_Cūḍā-bhikṣuṇī_Śrīśākyasiṃhastotra:22"/>stutvā natvā padāmbhoje śrotuṃ nepālavarṇanā |
+<lb n="SA_T01_Cūḍā-bhikṣuṇī_Śrīśākyasiṃhastotra:23"/>sābhilāṣā mudā cūḍātiṣṭhad ekāntam añjaliḥ || 6 ||
+<lb n="SA_T01_Cūḍā-bhikṣuṇī_Śrīśākyasiṃhastotra:24"/>iti cūḍābhikṣuṇīkṛtaṃ śrīśākyasiṃhastotraṃ samāptam || śubham ||
+<lb n="SA_T01_Cūḍā-bhikṣuṇī_Śrīśākyasiṃhastotra:25"/>% [Followed by this PP mantra coll.]
+<lb n="SA_T01_Cūḍā-bhikṣuṇī_Śrīśākyasiṃhastotra:26"/>oṃ namaḥ prajñāpāramitāyai ||
+<lb n="SA_T01_Cūḍā-bhikṣuṇī_Śrīśākyasiṃhastotra:27"/>oṃ dhīḥ śrutismṛtivijaye svāhā ||
+<lb n="SA_T01_Cūḍā-bhikṣuṇī_Śrīśākyasiṃhastotra:28"/>oṃ adhī huṃ phaṭ svāhā ||
+<lb n="SA_T01_Cūḍā-bhikṣuṇī_Śrīśākyasiṃhastotra:29"/>oṃ gate gate pāraṃgate svāhā ||
+<lb n="SA_T01_Cūḍā-bhikṣuṇī_Śrīśākyasiṃhastotra:30"/>oṃ prajñe 2 mahāprajñe śrutismṛtivijaye dhī svāhā ||
+<lb n="SA_T01_Cūḍā-bhikṣuṇī_Śrīśākyasiṃhastotra:31"/>āryaprajñāpāramitāmantradhāraṇī samāptā ||   || śubham ||
+<lb n="SA_T01_Cūḍā-bhikṣuṇī_Śrīśākyasiṃhastotra:32"/>% [and a hymn]
+<lb n="SA_T01_Cūḍā-bhikṣuṇī_Śrīśākyasiṃhastotra:33"/>namaḥ prajñāpāramitāyai ||
+<lb n="SA_T01_Cūḍā-bhikṣuṇī_Śrīśākyasiṃhastotra:34"/>nirvikalpe nirālambe niravadye nirañjane |
+<lb n="SA_T01_Cūḍā-bhikṣuṇī_Śrīśākyasiṃhastotra:35"/>nityānitye nirvikāre prajñe devi namo &#x27;stu te || 1 ||
+<lb n="SA_T01_Cūḍā-bhikṣuṇī_Śrīśākyasiṃhastotra:36"/>buddhānāṃ jananīśāni bodhisattvapitāmahi |
+<lb n="SA_T01_Cūḍā-bhikṣuṇī_Śrīśākyasiṃhastotra:37"/>prapitāmahi sattvānāṃ prajñe devi namo &#x27;stu te || 2 ||
+<lb n="SA_T01_Cūḍā-bhikṣuṇī_Śrīśākyasiṃhastotra:38"/>mātar mātar jaganmāta iti saṃjapatāṃ nṛṇām |
+<lb n="SA_T01_Cūḍā-bhikṣuṇī_Śrīśākyasiṃhastotra:39"/>manorathaprade śuddhe prajñe devi namo &#x27;stu te || 3 ||
+<lb n="SA_T01_Cūḍā-bhikṣuṇī_Śrīśākyasiṃhastotra:40"/>lakṣmīs tvam asi kalyāṇi śrīr dhīḥ śraddhā dhṛtiḥ smṛtiḥ |
+<lb n="SA_T01_Cūḍā-bhikṣuṇī_Śrīśākyasiṃhastotra:41"/>sarvasvarūpe sarveśe prajñe devi namo &#x27;stu te || 4 ||
+<lb n="SA_T01_Cūḍā-bhikṣuṇī_Śrīśākyasiṃhastotra:42"/>lokottare laukike ca prajñāpāramite &#x27;mite |
+<lb n="SA_T01_Cūḍā-bhikṣuṇī_Śrīśākyasiṃhastotra:43"/>daśapāramitākāre prajñe devi namo &#x27;stu te || 5 ||
+<lb n="SA_T01_Cūḍā-bhikṣuṇī_Śrīśākyasiṃhastotra:44"/>iti śrīprajñāpāramitāstutiḥ samāptā ||   ||
+<lb n="SA_T01_Cūḍā-bhikṣuṇī_Śrīśākyasiṃhastotra:45"/>% [Followed by the Devatāsūtra]
+    </body>
+  </text>
+</TEI>

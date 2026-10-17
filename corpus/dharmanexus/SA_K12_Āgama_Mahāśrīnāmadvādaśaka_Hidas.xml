@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mahāśrīnāmadvādaśaka</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Collection / category: BuddhistScriptures / K12 (Tantra/dhāraṇī)
+Source: Critical edition by Gergely Hidas
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (not determined): Hidas &amp; Szántó 84000; critical edition by Gergely Hidas</note>
+          <idno type="dharmanexus">SA_K12_Āgama_Mahāśrīnāmadvādaśaka_Hidas</idno>
+          <ref target="https://dharmamitra.org/nexus/db/sa/SA_K12_Āgama_Mahāśrīnāmadvādaśaka_Hidas/text">https://dharmamitra.org/nexus/db/sa/SA_K12_Āgama_Mahāśrīnāmadvādaśaka_Hidas/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-13">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_K12_Āgama_Mahāśrīnāmadvādaśaka_Hidas:0"/>Title: Mahāśrīnāmadvādaśa
+<lb n="SA_K12_Āgama_Mahāśrīnāmadvādaśaka_Hidas:1"/>Source: Hidas &amp; Szántó 84000
+<lb n="SA_K12_Āgama_Mahāśrīnāmadvādaśaka_Hidas:2"/>Tibetan: D 741 [=1006]
+<lb n="SA_K12_Āgama_Mahāśrīnāmadvādaśaka_Hidas:3"/>DS old1
+<lb n="SA_K12_Āgama_Mahāśrīnāmadvādaśaka_Hidas:4"/>[3] &lt;1v&gt; @ namas tārāyai || evaṃ mayā śrutam ekasmi[n samaye] bhagavān sukhāvatyāṃ viharati sma | atha khalu bhagavān mahāśriyaṃ dṛṣṭvā mañjuśriyam āryāvalokiteśvaraṃ ca bodhisattvaṃ mahāsattva[m e]tad avocat | yaḥ khalu punar mañjuśrīr mahāśriyo devatāyā nāmadvādaśakaṃ jñāsyati | bhikṣur vā bhikṣuṇī vā upāsako vā upāsikā vā | anyo vā yaḥ ka[ścid dhā]rayiṣyati vācayiṣyati likhiṣyati likhāpayiṣyati | na tasya dāridryabhayaṃ bhaviṣyati | dāridryaṃ prahāya āḍhyo bhaviṣyati | atha khalu bhagavān mahāśri[yo de]vatāyā nāmadvādaśakaṃ bhāṣate sma | tadyathā oṃ lakṣmīḥ śrīḥ padmamālinī dhanādhipatiḥ gaurī mahāyaśāḥ padmanetrī kartrī ma[hādyutiḥ | annadāyinī | ratna]prabhā | mahāśrīś ceti | atra mantrapadāni | jini 2 glini 2 kāyaviśodhani vāgviśodhani manaḥsaṃśodhani | sisi sisi | nimi 2 alakṣmīṃ [me nāśaya svāhā |] [the rest is lost] [Mahāśrī-nāma-dhāraṇī]
+<lb n="SA_K12_Āgama_Mahāśrīnāmadvādaśaka_Hidas:5"/>DS old2
+<lb n="SA_K12_Āgama_Mahāśrīnāmadvādaśaka_Hidas:6"/>[40] [siddham] evaṃ mayā śrutam ekasmin samaye bhagavān sukhāvatyāṃ viharati sma | a[tha] khalu bhagavān mahāśriyaṃ dṛṣṭvā mañjuśriyam āryāvalokiteśvaraṃ ca bodhisattvaṃ mahāsattvam etad avocat | yaḥ khalu punar mañjuśrīr mahāśriyo devatāyā nāmadvādaśakaṃ jñāsyati | bhikṣur vā | bhikṣuṇī vā | upāsako vā | upāsikā vā | anyo vā yaḥ kaścid dhārayiṣyati vācayiṣyati | likhiṣyati | likhā&lt;32v&gt;payiṣyati | na tasya dāridryabhayaṃ bhaviṣyati | dāridrya[ṃ] prahāya āḍhyo bhaviṣyati | atha khalu bhagavān mahāśriyo devatāyā nāmadvādaśakaṃ bhāṣate sma | tadyathā oṃ lakṣmīḥ | śrīḥ | padmamālinī dhanādhipatiḥ | gaurī mahāyaśā padmanetrī | karttrī mahādyutiḥ | annadāyinī | ratnaprabhā | mahāśrīś ceti | atra mantrapadā[ḥ/ni | jini 2 gli]ni 2 kāyaviśodhani | vāgviśodhani | manaḥsaṃśodhani | sisi sisi | nimi 2 alakṣmīṃ me nāśaya svāhā || trijaptā kartavyā || +++[=yaś co?]ccārayiṣyati | tasya sarve pratipakṣā vināśaṃ yāsyanti | subhagaś ca bhaviṣyati | rājadarśane vācayitavyaḥ | rājā tasya vaśo bhaviṣyati | putrasaṃjñāṃ ca dadāti yat kathayati tat karoti | satatajāpena mahābrahmā āgacchati | āgatya ca yam icchati taṃ varaṃ dadāti | idam avocad bhagavān [āttamanā ma]&lt;33r&gt;[ñju]śrīr āryāvalokiteśvaraś ca bodhisattvo mahāsattvaḥ sā ca sarvāvatī parṣat sadevamānuṣāsuragandharvaś ca loko bhagavato bhāṣitam abhyanandann iti || || āryamahāśrīnāmadhāraṇī samāptā || ||
+    </body>
+  </text>
+</TEI>

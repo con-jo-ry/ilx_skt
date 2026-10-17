@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Guhyasamājoddhṛtayāgavidhi (fragment)</title>
+        <author>Divākaracandra</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Author: Divākaracandra
+Collection / category: BuddhistNon-Scriptures / T02
+Source: OCR / Dharmamitra
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Diplomatic transcription based on Kathmandu, National Archives MS NAK 1697 2/31 (NGMPP reel A 48/19), 2 folios.</note>
+          <idno type="dharmanexus">SA_T02_Divākaracandra_Guhyasamājoddhṛtayāgavidhi</idno>
+          <ref target="https://dharmamitra.org/nexus/db/sa/SA_T02_Divākaracandra_Guhyasamājoddhṛtayāgavidhi/text">https://dharmamitra.org/nexus/db/sa/SA_T02_Divākaracandra_Guhyasamājoddhṛtayāgavidhi/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-13">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_T02_Divākaracandra_Guhyasamājoddhṛtayāgavidhi:0"/>NAK 1697 2/31 = NGMPP A 48/19 `vajrasaṃbhavanāmayogavidhi&#x27;
+<lb n="SA_T02_Divākaracandra_Guhyasamājoddhṛtayāgavidhi:1"/>% 2 f., end of a *Guhyasamājoddhṛtayāgavidhi, breaks off just before the end
+<lb n="SA_T02_Divākaracandra_Guhyasamājoddhṛtayāgavidhi:2"/>% first passage very interesting: magically defending a city; cf. GST ch. 13.72 ff.
+<lb n="SA_T02_Divākaracandra_Guhyasamājoddhṛtayāgavidhi:3"/>% some superficial resemblance to Tōh. 1847 (234a ff), *Jinadatta&#x27;s GST comm.
+<lb n="SA_T02_Divākaracandra_Guhyasamājoddhṛtayāgavidhi:4"/>% something has been written about this in Tanaka_Kimiaki_1990
+<lb n="SA_T02_Divākaracandra_Guhyasamājoddhṛtayāgavidhi:5"/>% nagare vā &#x27;tha vā grāme viṣaye vā prayojayet / anena nityaṃ bhavec chāntiḥ sarvarogavivarjitā / 72 /
+<lb n="SA_T02_Divākaracandra_Guhyasamājoddhṛtayāgavidhi:6"/>% antarikṣagataṃ vajraṃ pañcaśūlaṃ prabhāvayet / kalpoddāham iva dhyātvā punaḥ saṃhāram ādiśet / 73 /
+<lb n="SA_T02_Divākaracandra_Guhyasamājoddhṛtayāgavidhi:7"/>% sphuraṇaṃ ca punaḥ kāryaṃ ratnacintāmaṇiprabhaiḥ / bhāvayed dharmameghān vai abhiṣekaṃ samādiśet / 74 /
+<lb n="SA_T02_Divākaracandra_Guhyasamājoddhṛtayāgavidhi:8"/>% anena dhyānavajreṇa duṣpūro &#x27;pi prapūryate /	sa bhavec cintāmaṇiḥ śrīmān dānavajraprasādhakaḥ / 75 /
+<lb n="SA_T02_Divākaracandra_Guhyasamājoddhṛtayāgavidhi:9"/>% buddhameghair mahādharmair vajrasattvaiś ca tat sphuret / trikalpāsaṃkhyeyasthānaṃ sarvabuddhair adhiṣṭhyate / 76 /
+<lb n="SA_T02_Divākaracandra_Guhyasamājoddhṛtayāgavidhi:10"/>% idaṃ tat sarvabuddhānāṃ kāyaguhyam anāvilam / 77 /	sarvasattvarogāpanayanavajrasambhavo nāma samādhiḥ /
+<lb n="SA_T02_Divākaracandra_Guhyasamājoddhṛtayāgavidhi:11"/>[f. r] ta eva spharato mayūkhajvālāmeghān nagarādigatarogādimātram atyartham agniśaucavastranyāyena harato nagaranāgarādīnām anupaghātino dhyātvā punas tatraiva praviśantaḥ paśyet | iti prathamaḥ prayogaḥ ||
+<lb n="SA_T02_Divākaracandra_Guhyasamājoddhṛtayāgavidhi:12"/>% prayogaḥ] \ms\pcorr\secunda, yogaḥ \ms\acorr
+<lb n="SA_T02_Divākaracandra_Guhyasamājoddhṛtayāgavidhi:13"/>% praviśantaḥ] \conj, broken \ms
+<lb n="SA_T02_Divākaracandra_Guhyasamājoddhṛtayāgavidhi:14"/>tadanu tata eva vajrān nirgatān ratnasaṃbhavameghān sakalanabhomaṇḍalavyāpinaḥ sarvabuddhadharmam atha (?) pītaraśmijālarūpeṇābhiṣekayogena nagarādiṣu praviśataḥ paśyet | iti dvitīyaḥ prayogaḥ ||
+<lb n="SA_T02_Divākaracandra_Guhyasamājoddhṛtayāgavidhi:15"/>tatas tata eva vajrād vinirgatair vairocanāmitābhākṣobhyameghais tāni nagarādīni vyāptāni vibhāvayet | iti tṛtīyaḥ prayogaḥ ||
+<lb n="SA_T02_Divākaracandra_Guhyasamājoddhṛtayāgavidhi:16"/>tatra prathamena prayogeṇa sarvarogādyupaśamaḥ kriyate | dvitīyena pūrvam atyantaśoṣitāny api nagarādīni samyak plavyante | tṛtīyena sarvarogādyupadravarahitāni dhanadhānyādipūrṇāni tāni sarvatathāgatādhiṣṭhitāni kṛtvā kalpatrayaṃ sthāpyante |
+<lb n="SA_T02_Divākaracandra_Guhyasamājoddhṛtayāgavidhi:17"/>idaṃ punar ddyati(?)m antarikṣaga[f. v]taṃ vajraṃ dharmakāyasvarūpam anāvilaṃ śāntipuṣṭikaraṃ pratidinaṃ pratisandhyaṃ yathāvasaraṃ vā yāvad abhimatā siddhir bhavet tāvac chāntamanā bhāvayet ||
+<lb n="SA_T02_Divākaracandra_Guhyasamājoddhṛtayāgavidhi:18"/>iti sarvarogāpanayanavajrasaṃbhavo nāma yāgavidhiḥ || o ||
+<lb n="SA_T02_Divākaracandra_Guhyasamājoddhṛtayāgavidhi:19"/>% khadhātumadhygataṃ cintec chāntimaṇḍalam uttamam / bimbaṃ vairocanaṃ dhyātvā hṛdaye &#x27;tha pravinyaset / 80 /
+<lb n="SA_T02_Divākaracandra_Guhyasamājoddhṛtayāgavidhi:20"/>% khadhātuṃ locanāgraiś ca paripūrṇaṃ vibhāvayet / 81 /
+<lb n="SA_T02_Divākaracandra_Guhyasamājoddhṛtayāgavidhi:21"/>% saṃhṛtya raśmipiṇḍena ārambhasya nipātayet / romakūpāgravivare buddhameghān sphared vratī / 82 /
+<lb n="SA_T02_Divākaracandra_Guhyasamājoddhṛtayāgavidhi:22"/>% abhiṣekaṃ tadā tasya buddhameghā dadanti hi / anena vajrasamayaḥ śrīmān bhavati tatkṣaṇāt / 83 /
+<lb n="SA_T02_Divākaracandra_Guhyasamājoddhṛtayāgavidhi:23"/>% buddhasamayameghavyūho nāma samādhiḥ /
+<lb n="SA_T02_Divākaracandra_Guhyasamājoddhṛtayāgavidhi:24"/>athaikasya rogiṇo rogopaśamanaṃ vidhātum icchan mantrī prāguktalakṣaṇaḥ pūrvoktalakṣaṇe dhyānālaye praviśya sukumārāsane niṣadya purastān mahati tāmrādibhājane suvarṇādipatralikhitasādhyanāmākṣagarbhaṃ sadhātukaṃ caityabhaṭṭārakaṃ saṃsthāpyopariṣṭād vṛḍyantrikāyāṃ sitagandhāmṛtakṣīramiśreṇa tīrthodakenāpūrṇaṃ cūtādipallavācchāditānanaṃ sacchatraṃ
+<lb n="SA_T02_Divākaracandra_Guhyasamājoddhṛtayāgavidhi:25"/>kalaśam āropya tadadhobhāgacchidragatakuśāgragalitajvalabinduvisarān stūpoṣṇīṣe pātayet | tataḥ sitacandanādigandhena maṇḍalakaṃ kṛtvā sitakusumair avakīrya taṃ caityabhaṭṭārakaṃ pañcopahārair abhyarcya mantrī vāruṇamaṇḍale candrasthavairocanayogena samādhitrayaṃ kuryāt | tataḥ svahṛdi jñānasa[köv. f.
+<lb n="SA_T02_Divākaracandra_Guhyasamājoddhṛtayāgavidhi:26"/>r]ttvahṛccandre oṃ jinajik amukasya śāntiṃ kuru svāheti mantram uccārya svanāmādyakṣareṇa sādhyaṃ niṣpādya taddhṛccandre oṃ ruru sphuru jvala tiṣṭha siddha locane sarvārthasādhani svāheti mantrākṣaramālāṃ śuklavarṇāṃ jvalantīm ūrdhvaśiraskāṃ vinyasya tataḥ sphāritān locanāmeghān gaganatalavyāpinaḥ sitaśītaraśmipiṇḍarūpeṇa saṃhṛtyāturasya śarīre
+<lb n="SA_T02_Divākaracandra_Guhyasamājoddhṛtayāgavidhi:27"/>&#x27;bhiṣekayuktyā praveśayet | tadanv āturaśarīrād vairocanameghān pūrvavas (!) sa[ṃ]sphārya saṃhṛtyābhiṣekayogena tatraiva praveśayet ||
+<lb n="SA_T02_Divākaracandra_Guhyasamājoddhṛtayāgavidhi:28"/>abhedyakāntakāyaḥ syād āturo vidhināmunā |
+<lb n="SA_T02_Divākaracandra_Guhyasamājoddhṛtayāgavidhi:29"/>acireṇa bhavec chrīmān balī sukhasamanvitaḥ ||
+<lb n="SA_T02_Divākaracandra_Guhyasamājoddhṛtayāgavidhi:30"/>tasmād anudinaṃ mantrī vidadhyād bhāvanām imām |
+<lb n="SA_T02_Divākaracandra_Guhyasamājoddhṛtayāgavidhi:31"/>yāvad rogopaśāntiḥ syāt tāvat samyaksamāhitaḥ ||
+<lb n="SA_T02_Divākaracandra_Guhyasamājoddhṛtayāgavidhi:32"/>iti buddhasamayameghavyūho nāma yāgavidhiḥ || o ||
+<lb n="SA_T02_Divākaracandra_Guhyasamājoddhṛtayāgavidhi:33"/>athaivaṃ yathāvidhi yāgaṃ vidhāya yāgasamāptidivase homakārikoktena vidhānena śāntikaṃ homaṃ kṛtvā rā[köv. f. v]trau gaṇamaṇḍalapūjāṃ kuryāt ||
+<lb n="SA_T02_Divākaracandra_Guhyasamājoddhṛtayāgavidhi:34"/>tadā punar mantrī tatrasthair bhāvitasveṣṭadevatair yogibhiḥ sahāturasya śirasa upav[=r]iṣṭād vitastimātram atikramya candramaṇḍalasthaṃ pañcāmṛtadravaṃ sitapraṇavādhiṣṭhitaṃ tadraśmyākṛṣṭasarvatathāgatahṛjjñānāmṛtena samarasībhūtaṃ sarvajarāvyādhiharaṃ vibhāvya tataḥ sravadamṛtadhārayā prāṇāyāmākṛṣṭayā nāḍīsaṃcāreṇa purato bhāvitasya tasya
+<lb n="SA_T02_Divākaracandra_Guhyasamājoddhṛtayāgavidhi:35"/>śarīram ārpyārpyamānaṃ (!?) nīrogaṃ vajramayaṃ dhyāyāt | tata oṃ jinajik amukasya śāntiṃ kura[=ru] svāhā | iti mantreṇāṣṭottaraśataśaḥ parijaptāṃ sitakusumānvitāṃ dūrvām āśīrvādapūrvakam āturāya śirasi dadyāt | tadanu[¯]dāraṃ baliṃ dikpālebhyo yathopadeśaṃ dattvā gaṇamaṇḍalaṃ visarjayet |
+<lb n="SA_T02_Divākaracandra_Guhyasamājoddhṛtayāgavidhi:36"/>ya[ḥ] kārayati yathoktaṃ
+<lb n="SA_T02_Divākaracandra_Guhyasamājoddhṛtayāgavidhi:37"/>vidhim akhilaṃ śraddhayānvito rogī |
+<lb n="SA_T02_Divākaracandra_Guhyasamājoddhṛtayāgavidhi:38"/>āsannamṛtyur api sa
+<lb n="SA_T02_Divākaracandra_Guhyasamājoddhṛtayāgavidhi:39"/>prāpya[¯]rogyaṃ dṛḍhāṅgaḥ syāt ||
+<lb n="SA_T02_Divākaracandra_Guhyasamājoddhṛtayāgavidhi:40"/>śrīsamājāt samuddhṛ&lt;tya&gt; kṛtvā yāgavidhiṃ mama |
+<lb n="SA_T02_Divākaracandra_Guhyasamājoddhṛtayāgavidhi:41"/>kuśalaṃ yat samu[end]
+<lb n="SA_T02_Divākaracandra_Guhyasamājoddhṛtayāgavidhi:42"/>% rest is a folio of the PK, discovered by Tanaka, and edited by Tomabechi &amp; Mimaki
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Ṣaṭṣaṭkasūtra (fragment)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Collection / category: BuddhistScriptures / K10 (Sūtra)
+Source: SuttaCentral
+Link: https://suttacentral.net/sf18/san/enomoto
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (not determined): not determined</note>
+          <idno type="dharmanexus">SA_K10_sf18_sc</idno>
+          <ref target="https://dharmamitra.org/nexus/db/sa/SA_K10_sf18_sc/text">https://dharmamitra.org/nexus/db/sa/SA_K10_sf18_sc/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-13">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_K10_sf18_sc:0"/>Chachakkasūtra
+<lb n="SA_K10_sf18_sc:1"/>recto
+<lb n="SA_K10_sf18_sc:2"/>eno89_1 \\\+++pratyayam āddhyātmam utpadyate vedayitaṁ sukhaṁ +++\\\
+<lb n="SA_K10_sf18_sc:3"/>\\\anyatamo bhikṣus trīṇi sūtrāṇi // ? // āyusmān ānandastrīṇi +\\\
+<lb n="SA_K10_sf18_sc:4"/>\\\++ādhyātmikam āyatanaṁ tac ca bhagavatā uddiṣṭam avibhaktaṁ \\\
+<lb n="SA_K10_sf18_sc:5"/>\\\ ++++mana ādhyātmikam āyatanaṁ tac ca bhagavatā +\\\
+<lb n="SA_K10_sf18_sc:6"/>\\\ +++ arūpam anidarśanam apratighaṁ ++++\\\
+<lb n="SA_K10_sf18_sc:7"/>verso
+<lb n="SA_K10_sf18_sc:8"/>eno89_2 \\\+++āyatanaṁ catvāri ++++\\\
+<lb n="SA_K10_sf18_sc:9"/>\\\++ sapratighaṁ yathā śabdaḥ evaṁ ++++\\\
+<lb n="SA_K10_sf18_sc:10"/>\\\++ sapratighaṁ ucyate bhadaṁta dharmā bāhyam āyatanam ++\\\
+<lb n="SA_K10_sf18_sc:11"/>\\\sarvaṁ ca sarvam astīti sarvadharmāmś ca pṛcchati brahmaṇo bhikṣu \\\
+<lb n="SA_K10_sf18_sc:12"/>\\\+ / ṣaḍ bāhyāny āyatanāni katamāni ṣaṭ rūpaṁ bāhyam. ++\\\
+<lb n="SA_K10_sf18_sc:13"/>Catalogue No. 1879
+<lb n="SA_K10_sf18_sc:14"/>recto
+<lb n="SA_K10_sf18_sc:15"/>eno89_3 \\\ dharmāṁś ca pṛcchati brāhmaṇo bhikṣur ānandaḥ śāstā bhikṣu u +++
+<lb n="SA_K10_sf18_sc:16"/>\\\? ṭ cakṣur ādhyātmikam āyatanaṁ śrotraṁ ghrānaṁ jihvā kāyo +\\\
+<lb n="SA_K10_sf18_sc:17"/>\\\? bdo rasaḥ spraṣṭavyo dharmo bāhyam āyatanam // ṣaḍ vijñāṇa \\\
+<lb n="SA_K10_sf18_sc:18"/>\\\? tame ṣaṭ cakṣuḥsaṁsparśaḥ śrotraṁ ghāṇajihvākāyamanaḥ +\\\
+<lb n="SA_K10_sf18_sc:19"/>\\\ saṁsparśajā vedanā // ṣaḍ ime saṁjñākāyāḥ katame ṣaṭ cakṣu +\\\
+<lb n="SA_K10_sf18_sc:20"/>verso
+<lb n="SA_K10_sf18_sc:21"/>eno89_4 \\\ kṣuḥsaṁsparśajā cetanā śrotraghrāṇajihvākāyamanaḥ +\\\
+<lb n="SA_K10_sf18_sc:22"/>\\\? ṣṭavyāvekṣaḥ dharmāvekṣa // ṣaḍ imāni cetakhilaṁ mṛkṣa + \\\
+<lb n="SA_K10_sf18_sc:23"/>\\\? dharmāḥ sāsravāḥ sopādānīyāḥ cetaḥkhilaṁ mrakṣa vastu\\\
+<lb n="SA_K10_sf18_sc:24"/>\\\? stunā // cakṣur bhikṣavaḥ anityam atītam anāgataṁ kaḥ \\\
+<lb n="SA_K10_sf18_sc:25"/>\\\ nandati pratyupannasya cakṣuṣo nirvide virāgāya nirodhāya\\\
+    </body>
+  </text>
+</TEI>

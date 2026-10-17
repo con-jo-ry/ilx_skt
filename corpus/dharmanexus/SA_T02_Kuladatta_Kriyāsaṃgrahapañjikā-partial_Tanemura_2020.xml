@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kriyāsaṃgrahapañjikā (Śalyoddhārapaṭala)</title>
+        <author>Kuladatta</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Author: Kuladatta
+Collection / category: BuddhistNon-Scriptures / T02 (Tantra)
+Source: OCR / Dharmamitra
+Edition: Ryugen Tanemura, Kuladatta&#x27;s Kriyāsaṃgrahapañjikā: A Critical Edition and Annotated Translations of Selected Sections (Groningen Oriental Studies 19), Groningen: Egbert Forsten, 2004
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Ryugen Tanemura, Kuladatta&#x27;s Kriyāsaṃgrahapañjikā: A Critical Edition and Annotated Translation of Selected Sections (Groningen Oriental Studies 19), Groningen: Egbert Forsten, 2004.</note>
+          <idno type="dharmanexus">SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020</idno>
+          <ref target="https://dharmamitra.org/nexus/db/sa/SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020/text">https://dharmamitra.org/nexus/db/sa/SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-13">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:0"/>ataḥ paraṃ pravakṣyāmi yathoktaṃ śalyalakṣaṇam
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:1"/>sattvānāṃ apakārāya vāstumadhye vyavasthitam ||1||
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:2"/>caturasrīkṛte kṣetre sūtrite śakunādibhiḥ
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:3"/>vāstudehavibhāgajño vāstuśalyam nirūpayet ||2||
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:4"/>gṛhaprāsādayor vidvān ārambhe sūtrakarmaṇi
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:5"/>lakṣayec chakunaṃ samyag nimittaṃ copalakṣayet ||3||
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:6"/>darśanaṃ kīrtanaṃ śabdaṃ yajamānasya ceṣṭitam
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:7"/>vastudehe yathāvasthaṃ lakṣaye śalyam ādarāt ||4||
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:8"/>pāṣaṇḍidarśane neṣṭaṃ gṛhiṇāṃ asukhāvaham
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:9"/>hataṃ kṣataṃ mṛtaṃ bhagnaṃ śrutvā na sūtrayed gṛham ||5||
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:10"/>ye &#x27;pi ye &#x27;śastā neṣṭā sattvāś ca garhitāḥ
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:11"/>darśanaṃ kīrtanaṃ śabdaṃ teṣāṃ vivarjayet ||6||
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:12"/>vaśyaṃ tatpramāṇaṃ kanakam astīti niścīyate
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:13"/>jati vālakumārikā tadā tadadho &#x27;vaśyaṃ tatpramāṇaṃ rūpyaṃ bhavet || bhayam || naṃ kalyāṇāya bhavati || bhavati || ner arthāptiḥ || dhūmadarśane cittapīḍā || navyādhiparipīḍitajanadarśane rogaḥ || rāmbhojadadhīndravahnijvālāphalamīnayugarājāṅganādīnāṃ sandarśane śubhaṃ bha- vati || vidvadbrāhmaṇabhikṣusādhujanānāṃ sandarśane dharmaḥ syāt || sūtracchedena maraņam duḥkham vā maraņāntikam
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:14"/>evam jñātvā vidhānajñaḥ śāntihomam tu kārayet ||7||
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:15"/>sarvasukhāvaham yasmāt samam śriyānvitam grham
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:16"/>tasmāt susūtritam kṛtvā śalyam veśmani lakṣayet ||8||
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:17"/>sūtrasya langhanād vāpi darśanān nāmakīrtanāt
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:18"/>śabdasamśrāvaṇād vāpi lakṣaye śalyam ādarāt ||9||
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:19"/>langhanam darśanam yasya ruditam nāmakīrtitam
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:20"/>tasya sattvasya tac chalyam ādiśel langhanādibhiḥ ||10||
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:21"/>anyasya prāņino &#x27;py ańgam vidyād anyasya langhanāt
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:22"/>grhino &#x27;ńgavikāreņa vāstunaḥ śalyam ādiśet ||11||
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:23"/>dṛśyate śakuno vāpi sa yasya śrūyate svanaḥ
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:24"/>nāmasamkīrtanam yasya tasya śalyam vinirdiśet ||12||
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:25"/>sūtre prasāryamāņe tu mārjāro yadi langhanam
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:26"/>rāsabhāsthi vijānīyā tadańge vāstuno hy adhaḥ ||18||
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:27"/>yadi śvā langhate sūtram tasmin śvānāsthim ādiśet
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:28"/>mūșikālanghanenaiva ajāvikāsthim ādiśet ||19||
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:29"/>ajāvikāś ca gosthi syād gāva-m-aśvāsthim ādiśet
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:30"/>aśvasya langhanenaiva māhișam śalyam ādiśet ||20||
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:31"/>mahișalanghanenaiva asthi syāj jambukasya tu
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:32"/>jambukalanghanenaiva śūkarāsthi samādiśet ||21||
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:33"/>śūkarākramaņe vyāghram vyāghreņaiva tu kuñjaram
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:34"/>kuñjarākramaņe hy uștram stralanghanāt ||22||
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:35"/>nrlanghanān narāsthi syāt kharāsthi kharalanghaņāt
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:36"/>evam samlakṣayec chalyam langhanādarśanādibhiḥ ||23||
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:37"/>gavāṃ mūtreņa rūpyam syāt purīșeņaiva kāñcanam
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:38"/>loham mārjāramūtreņa purīșenāśam ādiśet ||32||
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:39"/>śāntāyām diśi śakuno madhuram ravate yadi
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:40"/>artham tatra vijānīyād ... ||34||
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:41"/>śiraḥkaņdūyamāne tu śirasi śalyam uddharet ||63||
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:42"/>asthiśalyam tu tam jñeyam puruṣārdhena tișthati
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:43"/>mukhe kandūyamānena kāṣṭhajam vā śirobhavaḥ ||64||
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:44"/>adhasthād dhastadvayenaiva tișthate nātra saṃśayaḥ
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:45"/>hanujaṃ dantasaṃsparśād uddhare tatpramāṇataḥ ||65||
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:46"/>yadangaṃ spṛśate hy artham tadange śalyam ādiśet
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:47"/>yadi kandūyate grīvā śṛṅkhalālohajam viduḥ ||66||
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:48"/>hastatrayeṇa sā jñeyā śṛṅkhalā nātra saṃśayaḥ
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:49"/>ange kandūyāmāne tu aṅgajaṃ śalyam ādiśet ||67||
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:50"/>adhastāt tatpramāṇe tu uddharec chalyam ādarāt
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:51"/>sphaṇake spṛśyamāne tu sphaṇajaṃ śalyam ādiśet ||68||
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:52"/>tișthate tatpramāṇe tu samyag jñātvā samuddharet
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:53"/>bāhukandūyamāne tu bāhuke kațakaḥ sthitaḥ ||69||
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:54"/>hastatrayeṇa sārdhena tișthate nātra saṃśayaḥ
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:55"/>haste kandūyamāne tu khaṭvāpādam vinirdiśet ||70||
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:56"/>jānumātre sthitam vidyāt karajāngulisparśanāt
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:57"/>haste kaņdūyamāne vā kațimātre sthitam viduḥ ||71||
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:58"/>śalyam śamuddhared vidvān kapālam vātha mẹnmayam
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:59"/>uraḥkaņdūyamāne tu paśuśalyam athāngajam ||72||
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:60"/>sārdhahastadvaye &#x27;dhastāc chalyam yatnāt samuddharet
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:61"/>hṛdaye hṛdayasparśāt tatpramāṇena tanmayam ||73||
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:62"/>prsthajam prsthasamsparśād udare tatpramāṇataḥ
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:63"/>pārśve samsparśanād vidyāc chalyam pāmsulikodbhavam ||74||
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:64"/>tatpramāņe sthitam śalyam uddharec chalyavittamaḥ
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:65"/>katijam kațisamsparśād athavā lohakaņțakam ||75||
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:66"/>hastadvayapramāņe tu śalyam tatra samuddharet
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:67"/>ūrukaņdūyamāne tu ūrujam vātha dārujam ||76||
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:68"/>sārdhahastapramāņena śalyam yatnāt samuddharet
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:69"/>jānukaņdūyato dṛṣṭvā sthāņujam vātha jānujam ||77||
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:70"/>hastamātre samuddharet
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:71"/>yadā samspṛśyate janghām janghāsthim tatra nirdiśet ||78||
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:72"/>ekādaśāngule &#x27;dhastāt tișthate nātra saṃśayaḥ
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:73"/>pāde kāņdūyamāņe tu kauñjaram śalyam ādiśet ||79||
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:74"/>dvādaśāngulamāne tu śalyam kantakam uddharet
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:75"/>anguștake yadā kandū khaṭikāśalyam ādiśet ||80||
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:76"/>rītikācitrasammiśram loham vā tatra nirdiśet
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:77"/>angulyām yadi kaņļūya aśvapādam vinirdiśet ||81||
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:78"/>sārdhavitastimātreṇa tișthate nātra saṃśayaḥ
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:79"/>kaniṣṭhikāyām kandūya kāṃsyam tatra vinirdiśet ||82||
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:80"/>tac cāstāngulamāne tu tișthate nātra saṃśayaḥ
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:81"/>adhopādasya kaņdūya carma śalyam samādiśet ||83||
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:82"/>astāṅgulapramāņe tu tișthate śalyakaṇțakam
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:83"/>iti śalyoddhārapațalah
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:84"/>astāṅgulapramāņe tu tișthate śalyakaṇțakam
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:85"/>iti śalyoddhārapațalah
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:86"/>site].
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:87"/>ground].
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:88"/>site].
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:89"/>site].
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:90"/>(=
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:91"/>site].
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:92"/>site].
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:93"/>site].
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:94"/>site].
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:95"/>site].
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:96"/>omens] respectively].
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:97"/>site,] treasure there.
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:98"/>underground.
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:99"/>ment ground].
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:100"/>remove it.
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:101"/>mayaṁ) back].
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:102"/>to the 75b) ground].
+<lb n="SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020:103"/>officiant] kauñjaram 5
+    </body>
+  </text>
+</TEI>

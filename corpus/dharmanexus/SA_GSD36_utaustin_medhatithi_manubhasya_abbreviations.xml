@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Manubhāṣya (editorial list of abbreviations, fragment)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Collection / category: Treatises / GSD36 (GSD36 Dharmaśāstra Smṛti (Śāstra 4))
+Source: University of Texas at Austin — Resource Library for Dharmaśāstra Studies (South Asia Institute, Open Educational Resources; curated by Patrick Olivelle, Donald R. Davis Jr., Tim Lubin).
+Link: https://sites.utexas.edu/sanskrit/resources/dharmasastra/
+License: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).
+Attribution: UT Austin South Asia Institute Sanskrit OER; editor/transcriber per source text.
+Note: source transcriptions are largely unproofread and may retain English editorial notes.
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (not determined): Editorial list of abbreviations accompanying the UT Austin digital text of Medhātithi&#x27;s Manubhāṣya.</note>
+          <idno type="dharmanexus">SA_GSD36_utaustin_medhatithi_manubhasya_abbreviations</idno>
+          <ref target="https://dharmamitra.org/nexus/db/sa/SA_GSD36_utaustin_medhatithi_manubhasya_abbreviations/text">https://dharmamitra.org/nexus/db/sa/SA_GSD36_utaustin_medhatithi_manubhasya_abbreviations/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-13">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_GSD36_utaustin_medhatithi_manubhasya_abbreviations:0"/>Nir        Yāska, Nirukta
+<lb n="SA_GSD36_utaustin_medhatithi_manubhasya_abbreviations:1"/>NyāS        Nyāyasūtra
+<lb n="SA_GSD36_utaustin_medhatithi_manubhasya_abbreviations:2"/>NSm        Nārada Smṛti
+<lb n="SA_GSD36_utaustin_medhatithi_manubhasya_abbreviations:3"/>NSū-V        Nyāya Sūtra, Vyāsa&#x27;s Bhāṣya
+<lb n="SA_GSD36_utaustin_medhatithi_manubhasya_abbreviations:4"/>Pāṇ        Pāṇini, Aṣṭādhyāyī
+<lb n="SA_GSD36_utaustin_medhatithi_manubhasya_abbreviations:5"/>Pāṇ Vār        Kātyāyana, Vārttika on Pāṇini
+<lb n="SA_GSD36_utaustin_medhatithi_manubhasya_abbreviations:6"/>PārG        Pāraskara Gṛhyasūtra
+<lb n="SA_GSD36_utaustin_medhatithi_manubhasya_abbreviations:7"/>Pat        Patañjali, Mahābhāṣya
+<lb n="SA_GSD36_utaustin_medhatithi_manubhasya_abbreviations:8"/>PB        Pañcaviṃśa Brāhmaṇa
+<lb n="SA_GSD36_utaustin_medhatithi_manubhasya_abbreviations:9"/>Pbh        Paribhāṣenduśekhara
+<lb n="SA_GSD36_utaustin_medhatithi_manubhasya_abbreviations:10"/>PiṅS        Piṅgala Sūtra (ed. Haridas Sinharay; Asiatic Society, 1977)
+<lb n="SA_GSD36_utaustin_medhatithi_manubhasya_abbreviations:11"/>PMS        Pūrva Mīmāṃsā Sūtra
+<lb n="SA_GSD36_utaustin_medhatithi_manubhasya_abbreviations:12"/>PraBh        Praśastapādabhāṣya
+<lb n="SA_GSD36_utaustin_medhatithi_manubhasya_abbreviations:13"/>PSm         Parāśara Smṛti
+<lb n="SA_GSD36_utaustin_medhatithi_manubhasya_abbreviations:14"/>Rām        Rāmāyaṇa
+<lb n="SA_GSD36_utaustin_medhatithi_manubhasya_abbreviations:15"/>RV        Ṛg Veda
+<lb n="SA_GSD36_utaustin_medhatithi_manubhasya_abbreviations:16"/>Śab        Śabara Bhāṣya on PMS
+<lb n="SA_GSD36_utaustin_medhatithi_manubhasya_abbreviations:17"/>ṢaḍB        Ṣaḍviṃśa Brāhmaṇa
+<lb n="SA_GSD36_utaustin_medhatithi_manubhasya_abbreviations:18"/>ŚāṅB        Śāṅkhāyana Brāhmaṇa
+<lb n="SA_GSD36_utaustin_medhatithi_manubhasya_abbreviations:19"/>ŚāṅG         Śāṅkhāyana Gṛhyasūtra
+<lb n="SA_GSD36_utaustin_medhatithi_manubhasya_abbreviations:20"/>SāṃK        Sāṃkhya Kārikā
+<lb n="SA_GSD36_utaustin_medhatithi_manubhasya_abbreviations:21"/>ŚloV        Kumārila, Ślokavārttika
+<lb n="SA_GSD36_utaustin_medhatithi_manubhasya_abbreviations:22"/>ŚSūktā        Śrī Sūktāvalī (ed. C. Lindtner, Indo-Iranian Journal 36(1993), pp. 211–233)
+<lb n="SA_GSD36_utaustin_medhatithi_manubhasya_abbreviations:23"/>SV        Sāma Veda
+<lb n="SA_GSD36_utaustin_medhatithi_manubhasya_abbreviations:24"/>ŚveU        Śvetāśvatara Upaniṣad
+<lb n="SA_GSD36_utaustin_medhatithi_manubhasya_abbreviations:25"/>TĀ        Taittirīya Āraṇyaka
+<lb n="SA_GSD36_utaustin_medhatithi_manubhasya_abbreviations:26"/>TāṇB        Tāṇḍya-Mahā-Brāhmaṇa
+<lb n="SA_GSD36_utaustin_medhatithi_manubhasya_abbreviations:27"/>TB        Taittirīya Brāhmaṇa
+<lb n="SA_GSD36_utaustin_medhatithi_manubhasya_abbreviations:28"/>TS        Taittirīya Saṃhitā
+<lb n="SA_GSD36_utaustin_medhatithi_manubhasya_abbreviations:29"/>TU        Taittirīya Upaniṣad
+<lb n="SA_GSD36_utaustin_medhatithi_manubhasya_abbreviations:30"/>VākP        Bhartṛhari, Vākyapadīya
+<lb n="SA_GSD36_utaustin_medhatithi_manubhasya_abbreviations:31"/>VārŚ        Vārāha Śrautasūtra
+<lb n="SA_GSD36_utaustin_medhatithi_manubhasya_abbreviations:32"/>VeSū        Vedānta (Brahma) Sūtra
+<lb n="SA_GSD36_utaustin_medhatithi_manubhasya_abbreviations:33"/>ViDh        Vaiṣṇava Dharmaśāśtra (Viṣṇu Smṛti)
+<lb n="SA_GSD36_utaustin_medhatithi_manubhasya_abbreviations:34"/>ViPu        Viṣṇu Purāṇa
+<lb n="SA_GSD36_utaustin_medhatithi_manubhasya_abbreviations:35"/>VS        Vājasaneyi Saṃhitā
+<lb n="SA_GSD36_utaustin_medhatithi_manubhasya_abbreviations:36"/>YSū        Patañjali, Yoga Sūtra
+    </body>
+  </text>
+</TEI>

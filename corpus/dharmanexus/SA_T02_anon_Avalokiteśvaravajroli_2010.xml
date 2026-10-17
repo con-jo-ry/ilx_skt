@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Avalokiteśvaravajroli</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Collection / category: BuddhistNon-Scriptures / T02
+Source: OCR / Dharmamitra
+Edition / witness: Kaiser Library 160 = NGMPP C 17/4, Bauddha Sāhitya, ff. 13, palm-leaf, Maithilī, one stray folio of a bauddha yogic text id. as Avalokiteśvaravajroli
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Diplomatic transcription from Kathmandu, Kaiser Library MS 160 (NGMPP reel C 17/4), palm-leaf, Maithilī script, folio 13r–v.</note>
+          <idno type="dharmanexus">SA_T02_anon_Avalokiteśvaravajroli_2010</idno>
+          <ref target="https://dharmamitra.org/nexus/db/sa/SA_T02_anon_Avalokiteśvaravajroli_2010/text">https://dharmamitra.org/nexus/db/sa/SA_T02_anon_Avalokiteśvaravajroli_2010/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-13">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_T02_anon_Avalokiteśvaravajroli_2010:0"/>Input by Péter-Dániel Szántó, 2010 July 7, Oxford
+<lb n="SA_T02_anon_Avalokiteśvaravajroli_2010:1"/>% NB: Tibskrit says — Avalokiteśvaravajrośi (?) — KCDS, p. 41.  A palmleaf Sanskrit manuscript belonging to the Potala.
+<lb n="SA_T02_anon_Avalokiteśvaravajroli_2010:2"/>% Title translated into Tibetan as Spyan ras gzigs kyi rdo rje&#x27;i smon pa.
+<lb n="SA_T02_anon_Avalokiteśvaravajroli_2010:3"/>% the first twelve folios are:
+<lb n="SA_T02_anon_Avalokiteśvaravajroli_2010:4"/>% ff. 25-26, 30-31, 36-41, 43-44 of Daṇḍin&#x27;s Kāvyādarśa
+<lb n="SA_T02_anon_Avalokiteśvaravajroli_2010:5"/>[1\recto] \siddham oṃ namo vajrasattvāya ||
+<lb n="SA_T02_anon_Avalokiteśvaravajroli_2010:6"/>candravakraṅgaṇḍāgramanthamanthānasvarasarasikaḥ
+<lb n="SA_T02_anon_Avalokiteśvaravajroli_2010:7"/>mahānandāruṇārāgayogaḥ sahajānandalakṣaṇaṃ ca |
+<lb n="SA_T02_anon_Avalokiteśvaravajroli_2010:8"/>kuliśamakarandaghṛṣṭivaraṭakamaṇisaṃsparśarasaḥ
+<lb n="SA_T02_anon_Avalokiteśvaravajroli_2010:9"/>hā hūṃkāramantraṃ japen mantrī suratākārayogibhiḥ ||
+<lb n="SA_T02_anon_Avalokiteśvaravajroli_2010:10"/>% somewhat garbled as well,
+<lb n="SA_T02_anon_Avalokiteśvaravajroli_2010:11"/>% but abc are paralelled in the Sādhanavidhi ms.
+<lb n="SA_T02_anon_Avalokiteśvaravajroli_2010:12"/>% the ``Vidyādharavinodatantra&#x27;&#x27; 10\recto
+<lb n="SA_T02_anon_Avalokiteśvaravajroli_2010:13"/>% ought to be thouroughly compared with that text
+<lb n="SA_T02_anon_Avalokiteśvaravajroli_2010:14"/>iti dhāraṇopadeśaḥ || 1 ||
+<lb n="SA_T02_anon_Avalokiteśvaravajroli_2010:15"/>kharapavananibodho &#x27;dhamanavātā+ bhidyate |
+<lb n="SA_T02_anon_Avalokiteśvaravajroli_2010:16"/>adhordhvaṃ śirasi kharaśṛṅgam ājñāgragatiḥ ||
+<lb n="SA_T02_anon_Avalokiteśvaravajroli_2010:17"/>iti māraṇopadeśaḥ || 2 ||
+<lb n="SA_T02_anon_Avalokiteśvaravajroli_2010:18"/>jvalati brahmāṇḍakhaṇḍaṃ tribhuvanabhuvanajvalana-
+<lb n="SA_T02_anon_Avalokiteśvaravajroli_2010:19"/>jvalitajvālāvanīmalayagiriśikharāvātasaṅgaprasaṅgate ||
+<lb n="SA_T02_anon_Avalokiteśvaravajroli_2010:20"/>iti jāraṇopadeśaḥ || 3 ||
+<lb n="SA_T02_anon_Avalokiteśvaravajroli_2010:21"/>nāḍī saṃpīḍyamāne amaramaraṇatyāgāt mūrcchitā skandhaprapātaḥ |
+<lb n="SA_T02_anon_Avalokiteśvaravajroli_2010:22"/>ghūrṇitamanāḥ sahajānandaikanandaḥ ||
+<lb n="SA_T02_anon_Avalokiteśvaravajroli_2010:23"/>iti ((kā))raṇopadeśaḥ || 4 ||
+<lb n="SA_T02_anon_Avalokiteśvaravajroli_2010:24"/>gaganamā[1\verso] + + + ḥ yatibhinolatelesonāyamānaḥ(?) |
+<lb n="SA_T02_anon_Avalokiteśvaravajroli_2010:25"/>haraharitaharalakṣmīsaṃpūrṇapūrṇaśaktiḥ ||
+<lb n="SA_T02_anon_Avalokiteśvaravajroli_2010:26"/>iti prastāraṇopadeśaḥ || 5 ||
+<lb n="SA_T02_anon_Avalokiteśvaravajroli_2010:27"/>kapūrabhraṣṭamākṛṣṭibahuneparakṣimānaḥ |
+<lb n="SA_T02_anon_Avalokiteśvaravajroli_2010:28"/>vidyādharā cinota yantrayantrācerajiḥ |
+<lb n="SA_T02_anon_Avalokiteśvaravajroli_2010:29"/>ardhānelordhvalabhir asakṛmāmāṇaḥ (what???)||
+<lb n="SA_T02_anon_Avalokiteśvaravajroli_2010:30"/>ity āryāvaloki + +varavajroliḥ samāptaḥ |
+    </body>
+  </text>
+</TEI>

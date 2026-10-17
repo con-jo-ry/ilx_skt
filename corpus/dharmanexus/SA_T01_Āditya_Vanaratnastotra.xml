@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Vanaratnastotra</title>
+        <author>Āditya</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Author: Āditya
+Collection / category: BuddhistNon-Scriptures / T01 (Stotra / hymns of praise)
+Source: OCR / Dharmamitra
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Hahn, Michael. &#x27;Das Vanaratnastotra des Āditya.&#x27; In Suhṛllekhāḥ: Festgabe für Helmut Eimer, Indica et Tibetica, 1996.</note>
+          <idno type="dharmanexus">SA_T01_Āditya_Vanaratnastotra</idno>
+          <ref target="https://dharmamitra.org/nexus/db/sa/SA_T01_Āditya_Vanaratnastotra/text">https://dharmamitra.org/nexus/db/sa/SA_T01_Āditya_Vanaratnastotra/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-13">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_T01_Āditya_Vanaratnastotra:0"/>Title: Vanaratnastotra
+<lb n="SA_T01_Āditya_Vanaratnastotra:1"/>Author: Āditya
+<lb n="SA_T01_Āditya_Vanaratnastotra:2"/>Source: Hahn 1996
+<lb n="SA_T01_Āditya_Vanaratnastotra:3"/>Tibetan: D1177
+<lb n="SA_T01_Āditya_Vanaratnastotra:4"/>Input: Péter-Dániel Szántó, some time ago
+<lb n="SA_T01_Āditya_Vanaratnastotra:5"/># || rgya gar skad du | shr&#x27;i gu ru ba na ratna sto tra sa bta kaM | bod skad du | dpal ldan bla ma nags kyi rin chen gyi bstod pa bdun pa || dpal ldan bla ma nags kyi rin {255a4} chen gyi zhabs la phyag &#x27;tshal lo ||
+<lb n="SA_T01_Āditya_Vanaratnastotra:6"/>nepāle deśarāje sugatamatasadācāraniṣṭhāpratiṣṭho
+<lb n="SA_T01_Āditya_Vanaratnastotra:7"/>vidvadgoṣṭhīgariṣṭho guṇagaṇagahano rājate bhikṣurājaḥ |
+<lb n="SA_T01_Āditya_Vanaratnastotra:8"/>vikhyātātulyakīrtir dhvajavitatapaṭodāragambhīrabuddhiḥ
+<lb n="SA_T01_Āditya_Vanaratnastotra:9"/>sattvatrāṇaikatānaḥ samadhigatamahāyānasiddhāntakoṣaḥ || 1
+<lb n="SA_T01_Āditya_Vanaratnastotra:10"/>bal po&#x27;i yul gyi rgyal po bde bar gshegs pa yi ||
+<lb n="SA_T01_Āditya_Vanaratnastotra:11"/>lugs la rtag tu rjes su brtson pa la bkod cing ||
+<lb n="SA_T01_Āditya_Vanaratnastotra:12"/>mkhas pa rnams kyi mdzod gyur mthar thug yon tan gyi ||
+<lb n="SA_T01_Āditya_Vanaratnastotra:13"/>tshogs kyi zab mo snang mdzad dge slong rgyal po ste ||
+<lb n="SA_T01_Āditya_Vanaratnastotra:14"/>rnam par grags shing ma chungs pa med pa&#x27;i {255a5} grags pa yi ||
+<lb n="SA_T01_Āditya_Vanaratnastotra:15"/>rgyal mtshan bla bre dar dpyangs zab cing rgya che&#x27;i blo ||
+<lb n="SA_T01_Āditya_Vanaratnastotra:16"/>sku yang sems can rnams kyi skyabs ni gcig pu ste ||
+<lb n="SA_T01_Āditya_Vanaratnastotra:17"/>theg chen yang dag rtogs pas grub pa&#x27;i mtha&#x27; yi mdzod ||
+<lb n="SA_T01_Āditya_Vanaratnastotra:18"/>yativaravanaratnanāmadheyaḥ
+<lb n="SA_T01_Āditya_Vanaratnastotra:19"/>sthavira ihādvayadharmatattvavettā |
+<lb n="SA_T01_Āditya_Vanaratnastotra:20"/>vinayaniyamasaṃyamābhiyuktaḥ
+<lb n="SA_T01_Āditya_Vanaratnastotra:21"/>paramatavādikarīndramṛgādhirājaḥ || 2
+<lb n="SA_T01_Āditya_Vanaratnastotra:22"/>nags kyi rin chen zhes bya sdom brtson mchog gi blo ||
+<lb n="SA_T01_Āditya_Vanaratnastotra:23"/>gnas brtan &#x27;di na gnyis med chos kyi de nyid rig |
+<lb n="SA_T01_Āditya_Vanaratnastotra:24"/>&#x27;dul ba&#x27;i sdom {255a6} pas yang dag sdom la mngon par brtson ||
+<lb n="SA_T01_Āditya_Vanaratnastotra:25"/>phas rgol glang po&#x27;i dbang la ri dags rgyal po lags ||
+<lb n="SA_T01_Āditya_Vanaratnastotra:26"/>praṇamāmi mahāyatirājavaraṃ
+<lb n="SA_T01_Āditya_Vanaratnastotra:27"/>varadharmanayapravinītajanam |
+<lb n="SA_T01_Āditya_Vanaratnastotra:28"/>janaduḥkhasauddharaṇaikaparaṃ
+<lb n="SA_T01_Āditya_Vanaratnastotra:29"/>paramaṃ vanaratnamahāsthaviram || 3
+<lb n="SA_T01_Āditya_Vanaratnastotra:30"/>phyag &#x27;tshal sdom brtson chen po&#x27;i rgyal po rnams kyi mchog |
+<lb n="SA_T01_Āditya_Vanaratnastotra:31"/>mchog gi tshul la rab tu rnam par nges pa skye ||
+<lb n="SA_T01_Āditya_Vanaratnastotra:32"/>skye ba sdug bsngal dag las &#x27;byin byed gcig pu mchog |
+<lb n="SA_T01_Āditya_Vanaratnastotra:33"/>mchog tu nags kyi rin chen gnas {255a7} brtan chen po lags ||
+<lb n="SA_T01_Āditya_Vanaratnastotra:34"/>viratākhilasattvavibodhakaraṃ
+<lb n="SA_T01_Āditya_Vanaratnastotra:35"/>karapaṅkajalakṣaṇacāpadharam |
+<lb n="SA_T01_Āditya_Vanaratnastotra:36"/>dharaṇītalabhūṣaṇakāyaruciṃ
+<lb n="SA_T01_Āditya_Vanaratnastotra:37"/>ruciraṃ vanaratnamahāsthaviram || 4
+<lb n="SA_T01_Āditya_Vanaratnastotra:38"/>chags bral sems can ma lus pa dag sad par mdzad ||
+<lb n="SA_T01_Āditya_Vanaratnastotra:39"/>phyag gi chu skyes dag gis mtshon gyi gzhu &#x27;chang ba ||
+<lb n="SA_T01_Āditya_Vanaratnastotra:40"/>&#x27;dzin pa&#x27;i mthil gyi rgyan du gyur pa mdzes pa&#x27;i sku ||
+<lb n="SA_T01_Āditya_Vanaratnastotra:41"/>gnas brten chen po nags kyi rin chen rab tu mdzes ||
+<lb n="SA_T01_Āditya_Vanaratnastotra:42"/>viratāviratāvaraṇādimalaṃ
+<lb n="SA_T01_Āditya_Vanaratnastotra:43"/>malatāmalatāpagamānubhavam |
+<lb n="SA_T01_Āditya_Vanaratnastotra:44"/>bhavatābhavatādvayalakṣaśaraṃ
+<lb n="SA_T01_Āditya_Vanaratnastotra:45"/>śaraṇaṃ vanaratnamahāsthaviram || 5
+<lb n="SA_T01_Āditya_Vanaratnastotra:46"/>dga&#x27; bral dga&#x27; ba&#x27;i glang po la sog dri ma yi ||
+<lb n="SA_T01_Āditya_Vanaratnastotra:47"/>dri ma dri ma {255b1} med cing bral ba nyams su myong ||
+<lb n="SA_T01_Āditya_Vanaratnastotra:48"/>srid dang srid pa ma yin gnyis kyi &#x27;ben la mnga&#x27; ||
+<lb n="SA_T01_Āditya_Vanaratnastotra:49"/>gnas brtan chen po nags kyi rin chen skyabs su gyur ||
+<lb n="SA_T01_Āditya_Vanaratnastotra:50"/>viramādisukhāmṛtapānarataṃ
+<lb n="SA_T01_Āditya_Vanaratnastotra:51"/>ratanītivinītavikalpaśatam |
+<lb n="SA_T01_Āditya_Vanaratnastotra:52"/>śataśaḥ paripācitasattvagaṇaṃ
+<lb n="SA_T01_Āditya_Vanaratnastotra:53"/>gaṇinaṃ vanaratnamahāsthaviram || 6
+<lb n="SA_T01_Āditya_Vanaratnastotra:54"/>dga&#x27; bral dang po&#x27;i bdud rtsi&#x27;i btud pa bdag la dgyes ||
+<lb n="SA_T01_Āditya_Vanaratnastotra:55"/>dgyes shing nges la dul ba&#x27;i yan lag brgya phrag gis ||
+<lb n="SA_T01_Āditya_Vanaratnastotra:56"/>sems can brgya phrag tshogs rnams yongs {255b2} su smin pa dag |
+<lb n="SA_T01_Āditya_Vanaratnastotra:57"/>rtsi mdzad gnas brtan chen po nags kyi rin chen no ||
+<lb n="SA_T01_Āditya_Vanaratnastotra:58"/>virasīkṛtamāragaṇādimukhaṃ
+<lb n="SA_T01_Āditya_Vanaratnastotra:59"/>mukhapaṅkajanirjitapūrṇavidhum |
+<lb n="SA_T01_Āditya_Vanaratnastotra:60"/>vidhurāparavādigirīndrapaviṃ
+<lb n="SA_T01_Āditya_Vanaratnastotra:61"/>pavinaṃ vanaratnamahāsthaviram || 7
+<lb n="SA_T01_Āditya_Vanaratnastotra:62"/>bdud sde la sogs rnams kyi kha la ro med mdzad ||
+<lb n="SA_T01_Āditya_Vanaratnastotra:63"/>kha yi chu skyes dag ni dgra yis gang ba &#x27;dzems ||
+<lb n="SA_T01_Āditya_Vanaratnastotra:64"/>skye mched &#x27;dar ba&#x27;i phas rgol ri yi dbang po &#x27;khru ||
+<lb n="SA_T01_Āditya_Vanaratnastotra:65"/>khrus mdzad nags kyi rin chen gnas brtan chen po&#x27;o ||
+<lb n="SA_T01_Āditya_Vanaratnastotra:66"/>samāptam idaṃ vanaratnastotrasaptakam |
+<lb n="SA_T01_Āditya_Vanaratnastotra:67"/>dpal ldan bla ma nags {255b3} kyi rin chen gyi bstod pa bdun pa &#x27;di ni rdzogs so || ||
+<lb n="SA_T01_Āditya_Vanaratnastotra:68"/>kṛtir magadhadeśīyādityānām iti ||
+<lb n="SA_T01_Āditya_Vanaratnastotra:69"/>yul ma ga dh&#x27;a nas byung ba&#x27;i dge bsnyen dam pa nyi ma pa zhes bya bas mdzad pa&#x27;o ||
+<lb n="SA_T01_Āditya_Vanaratnastotra:70"/>&#x27;di ni spyan mnga&#x27; chos kyi rgyal pos gser gyi me tog dang bcas pa&#x27;i bka&#x27; lung gis || rtse thang lo ts&#x27;a ba gzhon nu dpal gyis bsgyur ba&#x27;o || ||
+    </body>
+  </text>
+</TEI>

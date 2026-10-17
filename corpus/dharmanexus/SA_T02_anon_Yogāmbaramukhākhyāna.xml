@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Yogāmbaramukhākhyāna</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Collection / category: BuddhistNon-Scriptures / T02
+Source: OCR / Dharmamitra
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Diplomatic manuscript transcription of National Archives Kathmandu MS 4-258 (NGMPP reel 119/14), unpublished e-text.</note>
+          <idno type="dharmanexus">SA_T02_anon_Yogāmbaramukhākhyāna</idno>
+          <ref target="https://dharmamitra.org/nexus/db/sa/SA_T02_anon_Yogāmbaramukhākhyāna/text">https://dharmamitra.org/nexus/db/sa/SA_T02_anon_Yogāmbaramukhākhyāna/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-13">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_T02_anon_Yogāmbaramukhākhyāna:0"/>Yogāmbaramukhākhyāna
+<lb n="SA_T02_anon_Yogāmbaramukhākhyāna:1"/>NAK 4-258 = NGMPP 119/14
+<lb n="SA_T02_anon_Yogāmbaramukhākhyāna:2"/>[1r] [siddham] namaḥ śrīyogāmbarāya ||
+<lb n="SA_T02_anon_Yogāmbaramukhākhyāna:3"/>nāgārjunaṃ praṇamyādau, caturākṣarapūrvakaṃ |
+<lb n="SA_T02_anon_Yogāmbaramukhākhyāna:4"/>atyantaprakaṭodguhyaṃ, buddhavākyaṃ namāmy ahaṃ || 1 ||
+<lb n="SA_T02_anon_Yogāmbaramukhākhyāna:5"/>etat guhyapradeśan tu padmasya madhum ālayaṃ |
+<lb n="SA_T02_anon_Yogāmbaramukhākhyāna:6"/>sṛṣṭena jñānatattvasya, pūrvadharman namāmy ahaṃ || 2 ||
+<lb n="SA_T02_anon_Yogāmbaramukhākhyāna:7"/>tattvāya vajracetasya, alijñānena paṃkajā |
+<lb n="SA_T02_anon_Yogāmbaramukhākhyāna:8"/>madhum amṛtasvādasya, tribhi vākyaṃ nnamāmy ahaṃ || 3 ||
+<lb n="SA_T02_anon_Yogāmbaramukhākhyāna:9"/>sā khalu krodhāhaṃkāra, jñānañ codeti sarvasaḥ |
+<lb n="SA_T02_anon_Yogāmbaramukhākhyāna:10"/>tilakena tu mārggasya tribhi vākyam namāmy ahaṃ || 4 ||
+<lb n="SA_T02_anon_Yogāmbaramukhākhyāna:11"/>yā triyānapadaṃ śreṣṭhaṃ, jatmājatmaparamparā |
+<lb n="SA_T02_anon_Yogāmbaramukhākhyāna:12"/>praṇidhim asṛtasattvānāṃ, buddhavākyaṃ namāmy ahaṃ || 5 ||
+<lb n="SA_T02_anon_Yogāmbaramukhākhyāna:13"/>paṃcāpacārādipūjā dakṣiṇabhāge sthāpya,
+<lb n="SA_T02_anon_Yogāmbaramukhākhyāna:14"/>arghabhājanādikaṃ vāmabhāge, baliñ ca sthāpya ||
+<lb n="SA_T02_anon_Yogāmbaramukhākhyāna:15"/>yogī samāhitahṛdaye catumaṇḍalopari kṛṣṇavajraṃ | kaṇṭhe padmopari kṛṣṇahrīkāram vicintya ||      || oṃ jihvāsaṃvarttini hūṃ phaṭ ||
+<lb n="SA_T02_anon_Yogāmbaramukhākhyāna:16"/>tadanu karaśodhanaṃ || suṃ kṣuṃ yuṃ huṃ aḥ || yā dakṣiṇasū hastasū yya jñānaṃ ||      || smryuṃ hmryuṃ ymryuṃ kṣmryuṃ saḥ || vāmahaste vijñānaṃ ||
+<lb n="SA_T02_anon_Yogāmbaramukhākhyāna:17"/>jñānena padma saṃpīḍya triśūcyā karam aṃgulī | aṣṭāṃgakaraṇaṃ kuryyāt ||      || suṃ jihvāyāṃ || kṣuṃ mūrdhni || yuṃ karṇṇanāśayoḥ || hūṃ cakṣu || smryuṃ kaṇṭhe || hmryuṃ bāhudvaye || ymryuṃ hṛdi || kṣmryuṃ nābhau ||
+<lb n="SA_T02_anon_Yogāmbaramukhākhyāna:18"/>[1v] tadanu trikāyādhiṣṭhānaṃ || oṃ āḥ hūṃ ||
+<lb n="SA_T02_anon_Yogāmbaramukhākhyāna:19"/>tataḥ sattvavajrīmudrāṃ sarvavastu-adhiṣṭhānaṃ || oṃ smryuṃ sarvasaṃśodhanī hūṃ phaṭ ||
+<lb n="SA_T02_anon_Yogāmbaramukhākhyāna:20"/>jñānavijñānaveṣṭitahaṃsapakṣavat || oṃ vajrakavace hūṃ phaṭ || kīlanaprākārā digbandhapañjarañ ca yathākramaṃ ||   ||
+<lb n="SA_T02_anon_Yogāmbaramukhākhyāna:21"/>sattvavajrīmudrā hūṃkāradhvanipūritaṃ || bhūcchatrā padmaveṣṭitā, svetārocanam ucchritya parivarttyoṣṇīṣa ca || mūrdhni lalāṭakarṇābhyāṃ, śiraḥpṛṣṭhe vairocanādi yathākramaṃ paṃca || oṃ hūṃ aḥ svāhā || śvetārocanam ucchritya parivarttya granthiyogena oṃ ṭaṭ mantraḥ || samatālena vajra tuṣya hoḥ 3 ||      ||
+<lb n="SA_T02_anon_Yogāmbaramukhākhyāna:22"/>nāsāgrāvaropitayogī susamāhitaḥ maṇḍalacakraṃ vibhāvyaḥ || oṃ vajrāṃkuśa jaḥ oṃ ākarṣyani hūṃ || oṃ āḥ pratīcchārgha hūṃ || oṃ pravarasatkārārgha hūṃ svāhā || oṃ pravarapādyam pratīccha svāhā || oṃ pravarācamanam pratīcchaḥ svāhā ||      || vajrapāśa, vajrasphoṭa, vajrāveśa hoḥ ||   || oṃ supriye gandhe hūṃ svāhā || oṃ śriyajapuṣpe hūṃ svāhā ||
+<lb n="SA_T02_anon_Yogāmbaramukhākhyāna:23"/>oṃ aḥ vajradhūpe hūṃ svāhā || oṃ kṣuṃ vajradīpe hūṃ svāhā || oṃ guṃ svāhā || oṃ i svāhā || balinaivyadya || svasvamantreṇa ḍhaukayet lāśyādyaṣṭavidhā pūjā ||      ||
+<lb n="SA_T02_anon_Yogāmbaramukhākhyāna:24"/>[2r] svāgata dharmma anaghalā, amalāpagatena, gāhāgāhavivajia paṇamaha tattiae || pecchia sohia dharmma ṇa hi sambhāvaṇa meru, bamhaṇa kurkkuru caṇḍālu ekasahāve khajju || oṃ akāro mukhaṃ sarvvadharmāṇām ādyanutpannatvāt oṃ āḥ hūṃ ||   || paṇamaha bhāva vimuccaī || nāhaiha aṃga sucālu | doṃdāliṅgaṇa jou || māa vibhūsiae ||
+<lb n="SA_T02_anon_Yogāmbaramukhākhyāna:25"/>tenā hūṃ 2 tenā te te hūṃ ||   ||
+<lb n="SA_T02_anon_Yogāmbaramukhākhyāna:26"/>anādinidhanasattvo, vajrasattvo mahārate |
+<lb n="SA_T02_anon_Yogāmbaramukhākhyāna:27"/>samantabhadra sarvātmā, vajragarbhāpati mama || vajratattvaṃ ||
+<lb n="SA_T02_anon_Yogāmbaramukhākhyāna:28"/>ākāśalakṣaṇaṃ sarvva, mākāśañ cāpy alakṣaṇaṃ |
+<lb n="SA_T02_anon_Yogāmbaramukhākhyāna:29"/>ākāśasamatā yogā, sarvāgrāsamatā sphuṭāḥ ||
+<lb n="SA_T02_anon_Yogāmbaramukhākhyāna:30"/>oṃ vajra ghaṇṭā raṇita praṇita sarvvatathāgatacittasaṃcodani, vajrasattvahṛdayāvatāraṇi prajñāpāramitānādasvabhāve āḥ hūṃ hūṃ hūṃ hoḥ ṭarkki jaḥ hor iti || ghaṇṭātattvaḥ ||
+<lb n="SA_T02_anon_Yogāmbaramukhākhyāna:31"/>sohia vajjam ullālu || tāraï satta vimokkhu
+<lb n="SA_T02_anon_Yogāmbaramukhākhyāna:32"/>dharmmavimokkhuṃ kajja || ṭhajja susāa dharantu ||
+<lb n="SA_T02_anon_Yogāmbaramukhākhyāna:33"/>haraṇimakuṭetyādi ||      ||
+<lb n="SA_T02_anon_Yogāmbaramukhākhyāna:34"/>tataḥ kamalāvarttapūrvvakaṃ paṃcamaṇḍalake vandanātmakā || oṃ namas te hūṃ || oṃ namo nama hūṃ || oṃ namāmi hūṃ || tripraṇāmaṃ kṛtvā || samayas tvaṃ samaya ho 3 || sattvān sthāpayiṣyāmi nirvṛttāv iti ||   || [2v] ādiyoga ārambhaḥ ||      ||
+<lb n="SA_T02_anon_Yogāmbaramukhākhyāna:35"/>sattvaparyaṅkam ābhujya yogī samohitaḥ | svahṛdi kṣuṃkāraṃ agnisuprabham ātmadehadravībhūtaṃ | bālāgraśatasahasraikabhāgam avabhāṣya || oṃ svabhāvaśuddhā sarvadharmāḥ svabhāvaśuddho haṃ ||
+<lb n="SA_T02_anon_Yogāmbaramukhākhyāna:36"/>abhāve bhāvanābhāvo bhāvānā naiva bhāvanā |
+<lb n="SA_T02_anon_Yogāmbaramukhākhyāna:37"/>iti bhāvo na bhāveḥ syāt bhānanā nopalabhyate ||
+<lb n="SA_T02_anon_Yogāmbaramukhākhyāna:38"/>jñāno ham iti vadet ||
+<lb n="SA_T02_anon_Yogāmbaramukhākhyāna:39"/>oṃ vajraśuddhāḥ sarvadharmāḥ vajraśuddho &#x27;haṃ ||      ||
+<lb n="SA_T02_anon_Yogāmbaramukhākhyāna:40"/>ja ja ja jaḥ vajrasatva avatāraṇasiddhim ahaṃ ||
+<lb n="SA_T02_anon_Yogāmbaramukhākhyāna:41"/>ha ha ha ha hūṃkāranādasamayo &#x27;dbhavanātham ahaṃ ||
+<lb n="SA_T02_anon_Yogāmbaramukhākhyāna:42"/>va va va vaḥ vajrasphoṭaguhyodgatadehadharaṃ ||
+<lb n="SA_T02_anon_Yogāmbaramukhākhyāna:43"/>a a a a aḥ a ho suto sya alim eka sulīlayana hūṃ || varttamāno haṃ ||
+<lb n="SA_T02_anon_Yogāmbaramukhākhyāna:44"/>sarvalakṣaṇasaṃpūrṇa ṣaḍbhujaiḥ pariśobhitaṃ ||
+<lb n="SA_T02_anon_Yogāmbaramukhākhyāna:45"/>hasitakrodhaśṛṃgāra trinetravadana tribhiḥ ||
+<lb n="SA_T02_anon_Yogāmbaramukhākhyāna:46"/>vajrapayodharaṃ pāṇaṃ; ghaṇṭhākāmukabhājanaṃ |
+<lb n="SA_T02_anon_Yogāmbaramukhākhyāna:47"/>bibhrāṇam bhāvayan nātham buddhayogāmbaram vibhuṃ ||
+<lb n="SA_T02_anon_Yogāmbaramukhākhyāna:48"/>udbhavo &#x27;haṃ mahāmudrā mantra || a ā ā ā āṃ catuḥṣu hṛdgharṇṇākaṇṭhamūrdhniṣu || bhūcchatrā vijñānaṃ śṛṃkhalākāra | śvetādhūmāśaṃkhārocanātrimalābhaṃgāmadhyasūcī kārayet || oṃ samaya tiṣṭha svamī hūṃ svāhā || iti ||      || oṃ yogaśuddhāḥ sarvadharmā yoga[3r]śuddho &#x27;haṃ ||
+<lb n="SA_T02_anon_Yogāmbaramukhākhyāna:49"/>[ends 8v1]
+<lb n="SA_T02_anon_Yogāmbaramukhākhyāna:50"/>śrīyogāmbaramukhākhyāna devatāghorapajikā samāptaṃ ||   ||
+<lb n="SA_T02_anon_Yogāmbaramukhākhyāna:51"/>prakṛtyā pañca sāvadya prajñaptyāvadyam eva caḥ |
+<lb n="SA_T02_anon_Yogāmbaramukhākhyāna:52"/>ya kicit kāyakaṃ pāpaṃ ya kicit mānasaṃ tathā |
+<lb n="SA_T02_anon_Yogāmbaramukhākhyāna:53"/>ya kiñcid vācikaṃ pāpaṃ tat sarva kṣapayiṣyasiḥ ||
+<lb n="SA_T02_anon_Yogāmbaramukhākhyāna:54"/>deśayikṣāmi te nātha nāthānām agrata sthita |
+<lb n="SA_T02_anon_Yogāmbaramukhākhyāna:55"/>kṛtāñjalitaya sph((ī))taḥ pranipatya puna punaḥ ||
+<lb n="SA_T02_anon_Yogāmbaramukhākhyāna:56"/>atyeyam atyeye tena pratigṛgnantu nāyakaḥ |
+<lb n="SA_T02_anon_Yogāmbaramukhākhyāna:57"/>na bhadrakam idaṃ nātha na kartavya puna mayā ||
+<lb n="SA_T02_anon_Yogāmbaramukhākhyāna:58"/>mantrahīnaṃ kriyāhīnaṃ bhāvanāṃ ca tathaiva ca |
+<lb n="SA_T02_anon_Yogāmbaramukhākhyāna:59"/>bhaktahīnaṃ maśuddham vā tat sarva kṣapayiṣyasiḥ ||
+<lb n="SA_T02_anon_Yogāmbaramukhākhyāna:60"/>pṛṣṭhate na smṛtimārgato vā
+<lb n="SA_T02_anon_Yogāmbaramukhākhyāna:61"/>pṛṣṭhakathāyogam upāgato vā |
+<lb n="SA_T02_anon_Yogāmbaramukhākhyāna:62"/>sarvaprakāraṃtā gato hitāya
+<lb n="SA_T02_anon_Yogāmbaramukhākhyāna:63"/>kurmāmatasra sukhasaṃhitayaḥ ||   ||
+<lb n="SA_T02_anon_Yogāmbaramukhākhyāna:64"/>pañcavarṇasamācāraṃ nānāvarṇaviśeṣataḥ |
+<lb n="SA_T02_anon_Yogāmbaramukhākhyāna:65"/>nirvikalpa nilākāraṃ ekavarṇaṃ tu kalpayet || samaya ||   ||
+    </body>
+  </text>
+</TEI>

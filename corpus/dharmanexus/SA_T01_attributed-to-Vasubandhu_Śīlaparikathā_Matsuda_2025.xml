@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Śīlaparikathā</title>
+        <author>Vasubandhu</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Author: Vasubandhu
+Collection / category: BuddhistNon-Scriptures / T01
+Source: OCR / Dharmamitra
+Edition / witness: Matsuda et al. 2025
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (not determined): Matsuda et al. 2025</note>
+          <idno type="dharmanexus">SA_T01_attributed-to-Vasubandhu_Śīlaparikathā_Matsuda_2025</idno>
+          <ref target="https://dharmamitra.org/nexus/db/sa/SA_T01_attributed-to-Vasubandhu_Śīlaparikathā_Matsuda_2025/text">https://dharmamitra.org/nexus/db/sa/SA_T01_attributed-to-Vasubandhu_Śīlaparikathā_Matsuda_2025/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-13">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_T01_attributed-to-Vasubandhu_Śīlaparikathā_Matsuda_2025:0"/>% 1 = TDM 23.3.18
+<lb n="SA_T01_attributed-to-Vasubandhu_Śīlaparikathā_Matsuda_2025:1"/>% 2 = 23.3.19
+<lb n="SA_T01_attributed-to-Vasubandhu_Śīlaparikathā_Matsuda_2025:2"/>% 3 = 23.3.20
+<lb n="SA_T01_attributed-to-Vasubandhu_Śīlaparikathā_Matsuda_2025:3"/>% 4 = 23.3.22
+<lb n="SA_T01_attributed-to-Vasubandhu_Śīlaparikathā_Matsuda_2025:4"/>% 5 = 17.1.13
+<lb n="SA_T01_attributed-to-Vasubandhu_Śīlaparikathā_Matsuda_2025:5"/>% 6 = 17.1.15
+<lb n="SA_T01_attributed-to-Vasubandhu_Śīlaparikathā_Matsuda_2025:6"/>% 7 = 17.1.23
+<lb n="SA_T01_attributed-to-Vasubandhu_Śīlaparikathā_Matsuda_2025:7"/>% 8 = 17.1.24
+<lb n="SA_T01_attributed-to-Vasubandhu_Śīlaparikathā_Matsuda_2025:8"/>% 9 = 17.1.29
+<lb n="SA_T01_attributed-to-Vasubandhu_Śīlaparikathā_Matsuda_2025:9"/>% 10 = 17.3.5
+<lb n="SA_T01_attributed-to-Vasubandhu_Śīlaparikathā_Matsuda_2025:10"/>% 11 = 17.3.8
+<lb n="SA_T01_attributed-to-Vasubandhu_Śīlaparikathā_Matsuda_2025:11"/>yad antaraṃ samudrasya goṣpadasya yad antaram |
+<lb n="SA_T01_attributed-to-Vasubandhu_Śīlaparikathā_Matsuda_2025:12"/>tad antaraṃ hi dānasya śīlasya ca tad antaram || [1]
+<lb n="SA_T01_attributed-to-Vasubandhu_Śīlaparikathā_Matsuda_2025:13"/>yaś ca varṣaśataṃ dadyād dānaṃ prītena cetasā |
+<lb n="SA_T01_attributed-to-Vasubandhu_Śīlaparikathā_Matsuda_2025:14"/>yaś caikaṃ divasaṃ rakṣec chīlaṃ tasmād viśiṣyate || [2]
+<lb n="SA_T01_attributed-to-Vasubandhu_Śīlaparikathā_Matsuda_2025:15"/>dānam aurabhrikeṇāpi caṇḍālenāpi dīyate |
+<lb n="SA_T01_attributed-to-Vasubandhu_Śīlaparikathā_Matsuda_2025:16"/>yena vā tena vā śīlaṃ na śakyam abhirakṣitum || [3]
+<lb n="SA_T01_attributed-to-Vasubandhu_Śīlaparikathā_Matsuda_2025:17"/>samṛddho &#x27;pi pradānena mahādānapatir na saḥ |
+<lb n="SA_T01_attributed-to-Vasubandhu_Śīlaparikathā_Matsuda_2025:18"/>śīlena tu viśuddhena mahādānapatir smṛtaḥ || [4]
+<lb n="SA_T01_attributed-to-Vasubandhu_Śīlaparikathā_Matsuda_2025:19"/>bhavantu mauṇḍyena śikhābhir eva vā
+<lb n="SA_T01_attributed-to-Vasubandhu_Śīlaparikathā_Matsuda_2025:20"/>vahantu vā snānajalākulā jaṭāḥ |
+<lb n="SA_T01_attributed-to-Vasubandhu_Śīlaparikathā_Matsuda_2025:21"/>carantu vā naikavikalpavāsaso
+<lb n="SA_T01_attributed-to-Vasubandhu_Śīlaparikathā_Matsuda_2025:22"/>viḍambanaiṣā yadi śīlavarjitaḥ || [5]
+<lb n="SA_T01_attributed-to-Vasubandhu_Śīlaparikathā_Matsuda_2025:23"/>paretu gaṅgām upayātu vā hradān
+<lb n="SA_T01_attributed-to-Vasubandhu_Śīlaparikathā_Matsuda_2025:24"/>sarasvatīṃ gacchatu puṣkarāṇi vā |
+<lb n="SA_T01_attributed-to-Vasubandhu_Śīlaparikathā_Matsuda_2025:25"/>niṣevatāṃ naimiṣam etu vā gayāṃ
+<lb n="SA_T01_attributed-to-Vasubandhu_Śīlaparikathā_Matsuda_2025:26"/>vipannaśīlo yadi niṣphalaḥ śramaḥ || [6]
+<lb n="SA_T01_attributed-to-Vasubandhu_Śīlaparikathā_Matsuda_2025:27"/>na mālyagandho tathā hi vikīryate
+<lb n="SA_T01_attributed-to-Vasubandhu_Śīlaparikathā_Matsuda_2025:28"/>pravāti gandho na tathānulepanāt |
+<lb n="SA_T01_attributed-to-Vasubandhu_Śīlaparikathā_Matsuda_2025:29"/>anuttamaḥ śīlamayo yathā satāṃ
+<lb n="SA_T01_attributed-to-Vasubandhu_Śīlaparikathā_Matsuda_2025:30"/>pravāti gandho divi ceha cāvyayaḥ || [7]
+<lb n="SA_T01_attributed-to-Vasubandhu_Śīlaparikathā_Matsuda_2025:31"/>ihātmatuṣṭiḥ parataḥ śubhā gatir
+<lb n="SA_T01_attributed-to-Vasubandhu_Śīlaparikathā_Matsuda_2025:32"/>yaśaḥ priyatvaṃ bahumāna eva ca |
+<lb n="SA_T01_attributed-to-Vasubandhu_Śīlaparikathā_Matsuda_2025:33"/>sukhaṃ ca tat tad bahu dṛṣṭadhārmikaṃ
+<lb n="SA_T01_attributed-to-Vasubandhu_Śīlaparikathā_Matsuda_2025:34"/>phalaṃ hi śīlasya maharṣayo viduḥ || [8]
+<lb n="SA_T01_attributed-to-Vasubandhu_Śīlaparikathā_Matsuda_2025:35"/>rujāsu śīlaṃ paramaṃ hi bheṣajaṃ
+<lb n="SA_T01_attributed-to-Vasubandhu_Śīlaparikathā_Matsuda_2025:36"/>bhayeṣu rakṣā vyasaneṣu bāndhavaḥ |
+<lb n="SA_T01_attributed-to-Vasubandhu_Śīlaparikathā_Matsuda_2025:37"/>tamaḥsu dīpo viṣameṣu saṃkramo
+<lb n="SA_T01_attributed-to-Vasubandhu_Śīlaparikathā_Matsuda_2025:38"/>mahaty agādhe maraṇāmbhasi plavaḥ || [9]
+<lb n="SA_T01_attributed-to-Vasubandhu_Śīlaparikathā_Matsuda_2025:39"/>yo bhraṣṭaśīlavinayasya vināśakāle
+<lb n="SA_T01_attributed-to-Vasubandhu_Śīlaparikathā_Matsuda_2025:40"/>trāsaḥ samāviśati śīlavato na so &#x27;sti |
+<lb n="SA_T01_attributed-to-Vasubandhu_Śīlaparikathā_Matsuda_2025:41"/>tasmāt prahṛṣṭahṛdayaḥ paralokam ante
+<lb n="SA_T01_attributed-to-Vasubandhu_Śīlaparikathā_Matsuda_2025:42"/>yo gantum icchati sa rakṣatu śīlam eva || [10]
+<lb n="SA_T01_attributed-to-Vasubandhu_Śīlaparikathā_Matsuda_2025:43"/>āsthāya śīlam amalaṃ nikhilaṃ yathāvat
+<lb n="SA_T01_attributed-to-Vasubandhu_Śīlaparikathā_Matsuda_2025:44"/>prajñā śamaś ca manasaḥ paripākam eti |
+<lb n="SA_T01_attributed-to-Vasubandhu_Śīlaparikathā_Matsuda_2025:45"/>tasmāj jarāmaraṇarogabhayād vimokṣaṃ
+<lb n="SA_T01_attributed-to-Vasubandhu_Śīlaparikathā_Matsuda_2025:46"/>yaḥ prāptum icchati sa rakṣatu śīlam eva || [11]
+    </body>
+  </text>
+</TEI>

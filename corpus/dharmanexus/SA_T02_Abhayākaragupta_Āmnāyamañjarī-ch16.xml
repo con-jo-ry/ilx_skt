@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Āmnāyamañjarī (chapter 16)</title>
+        <author>Abhayākaragupta</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Author: Abhayākaragupta
+Collection / category: BuddhistNon-Scriptures / T02
+Source: OCR / Dharmamitra
+Edition / witness: facsimile ms.
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Diplomatic transcription / working edition from a facsimile manuscript (fols. 426r/855–426v/856).</note>
+          <idno type="dharmanexus">SA_T02_Abhayākaragupta_Āmnāyamañjarī-ch16</idno>
+          <ref target="https://dharmamitra.org/nexus/db/sa/SA_T02_Abhayākaragupta_Āmnāyamañjarī-ch16/text">https://dharmamitra.org/nexus/db/sa/SA_T02_Abhayākaragupta_Āmnāyamañjarī-ch16/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-13">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_T02_Abhayākaragupta_Āmnāyamañjarī-ch16:0"/>(426r/855) mudrāntaraṃ vaktum āha | athetyādi | aṅgamudreti | aṅgamudrāyāḥ | pulām iti sphicam | guhyaṃ yoginīm | aṅguṣṭhatarjanyau praguṇīkṛtyāgrāgre saṃyojya śeṣāṅgulisaṃkocād dharmodayamudrā | talam iti pādasya | hastasyeti kadācit | sūryam iti dakṣiṇāṅgam iti kecit | nadīm iti | hastenākāśe kuṭilarekhādānābhinayāt |
+<lb n="SA_T02_Abhayākaragupta_Āmnāyamañjarī-ch16:1"/>prasāritāṅgulikampamānahastadvayenormyabhinayenopadarśanāt sa(426v/856)mudrā mudrā | ekāṅguliṃ darśayed yā tv ity upalakṣaṇaṃ puṃsaḥ | uttaratrāpy evam | dvayor aṅgulim iti dve aṅgulī | iyaṃ pratimudrā | vāmabhrūtkṣepābhinayapradarśanaṃ pratimudrā |
+<lb n="SA_T02_Abhayākaragupta_Āmnāyamañjarī-ch16:2"/>ācāryayoḥ samayādyācārakuśalayor yogiyoginyor darśanam ekābhinayatādarśanaṃ sāmprataṃ prayojanam ity arthaḥ ||
+<lb n="SA_T02_Abhayākaragupta_Āmnāyamañjarī-ch16:3"/>āmnāyamañjaryāṃ ṣoḍaśī mañjarī ||
+    </body>
+  </text>
+</TEI>

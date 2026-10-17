@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Tridaṇḍamālā (chapters 27.1–2)</title>
+        <author>Aśvaghoṣa</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Author: Aśvaghoṣa
+Collection / category: BuddhistNon-Scriptures / T10
+Source: OCR / Dharmamitra
+Edition / witness: Hartmann &amp; Matsuda 2022
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Hartmann &amp; Matsuda 2022</note>
+          <idno type="dharmanexus">SA_T10_Aśvaghoṣa_Tridaṇḍamālā-27-1-2</idno>
+          <ref target="https://dharmamitra.org/nexus/db/sa/SA_T10_Aśvaghoṣa_Tridaṇḍamālā-27-1-2/text">https://dharmamitra.org/nexus/db/sa/SA_T10_Aśvaghoṣa_Tridaṇḍamālā-27-1-2/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-13">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_T10_Aśvaghoṣa_Tridaṇḍamālā-27-1-2:0"/>toyaughe maraṇaṃ bhavaty aniyataṃ naikāntato vidyate
+<lb n="SA_T10_Aśvaghoṣa_Tridaṇḍamālā-27-1-2:1"/>kleśaughe tu nṛṇām adāntamaraṇaṃ niḥsaṃśayaṃ vidyate |
+<lb n="SA_T10_Aśvaghoṣa_Tridaṇḍamālā-27-1-2:2"/>toyaughe patitasya cetasi bhaved duḥkhapravṛttir na vā
+<lb n="SA_T10_Aśvaghoṣa_Tridaṇḍamālā-27-1-2:3"/>kleśaughe patitasya duḥkham atulaṃ kāyasya cittasya ca || 27.1.4
+<lb n="SA_T10_Aśvaghoṣa_Tridaṇḍamālā-27-1-2:4"/>vegodbhrāntajalā nadī jalanidhiṃ kiṃcit kadācin nayet
+<lb n="SA_T10_Aśvaghoṣa_Tridaṇḍamālā-27-1-2:5"/>saṃsārārṇavam arṇavād api paraṃ tṛṣṇānadī karṣati |
+<lb n="SA_T10_Aśvaghoṣa_Tridaṇḍamālā-27-1-2:6"/>paryāptiṃ samupaiti parvatanadī meghāgame cāmbubhir
+<lb n="SA_T10_Aśvaghoṣa_Tridaṇḍamālā-27-1-2:7"/>vistīrṇair api tṛptim eti viṣayair na tv eva tṛṣṇānadī || 27.1.5
+<lb n="SA_T10_Aśvaghoṣa_Tridaṇḍamālā-27-1-2:8"/>[...]
+<lb n="SA_T10_Aśvaghoṣa_Tridaṇḍamālā-27-1-2:9"/>yasmin na janma na jarā na rujo na mṛtyuḥ
+<lb n="SA_T10_Aśvaghoṣa_Tridaṇḍamālā-27-1-2:10"/>śleṣo &#x27;priyair na ca na ca priyaviprayogaḥ |
+<lb n="SA_T10_Aśvaghoṣa_Tridaṇḍamālā-27-1-2:11"/>nāprāptir asti viṣayasya ca kāṅkṣitasya
+<lb n="SA_T10_Aśvaghoṣa_Tridaṇḍamālā-27-1-2:12"/>tan me sukhaṃ matam ato &#x27;nyad avaimi duḥkham || 27.1.7
+<lb n="SA_T10_Aśvaghoṣa_Tridaṇḍamālā-27-1-2:13"/>gatvāpi pāram udadher bahusaṃśayasya
+<lb n="SA_T10_Aśvaghoṣa_Tridaṇḍamālā-27-1-2:14"/>syāt śvāpadāgninṛpacauragataṃ hi duḥkham |
+<lb n="SA_T10_Aśvaghoṣa_Tridaṇḍamālā-27-1-2:15"/>saṃsārasāgarajalasya tu pāram etya
+<lb n="SA_T10_Aśvaghoṣa_Tridaṇḍamālā-27-1-2:16"/>duḥkhaṃ susūkṣmam api nāsti parā ca śāntiḥ || 27.1.8
+<lb n="SA_T10_Aśvaghoṣa_Tridaṇḍamālā-27-1-2:17"/>[...]
+<lb n="SA_T10_Aśvaghoṣa_Tridaṇḍamālā-27-1-2:18"/>yathā vaidyas samyak prakṛtim avagamyāturagatāṃ
+<lb n="SA_T10_Aśvaghoṣa_Tridaṇḍamālā-27-1-2:19"/>kṣayārthaṃ vyādhīnāṃ kathayati hitān auṣadhavidhīn |
+<lb n="SA_T10_Aśvaghoṣa_Tridaṇḍamālā-27-1-2:20"/>vicitrān sattvānāṃ prakṛtim avagamyāśayagatāṃ
+<lb n="SA_T10_Aśvaghoṣa_Tridaṇḍamālā-27-1-2:21"/>tathā buddho dharmaṃ sadṛśam avadad bheṣajam iveti || 27.1.13
+<lb n="SA_T10_Aśvaghoṣa_Tridaṇḍamālā-27-1-2:22"/>§1 evaṃ mayā śrutam ekasmin samaye bhagavāñ chrāvastyāṃ viharati jetavane &#x27;nāthapiṇḍadasyārāme | tatra bhagavān bhikṣūn āmantrayate sma |
+<lb n="SA_T10_Aśvaghoṣa_Tridaṇḍamālā-27-1-2:23"/>§2 tadyathā bhikṣavaḥ kṣāranadyāḥ kukūlakūlāyāḥ kaṇṭakopāstaraṇāyā andhāyās tamaso &#x27;ndhakāratamisrāyā mahājanakāyo &#x27;nusrota uhyate |
+<lb n="SA_T10_Aśvaghoṣa_Tridaṇḍamālā-27-1-2:24"/>§3 tatra syād ekaḥ sattvo &#x27;bālajātīyo &#x27;mūḍhajātīyaḥ saprajñājātīyaḥ sukhakāmo duḥkhapratikūlo jīvitukāmo na martukāmo maraṇapratikūlaḥ | tasyaivaṃ syāt | kiṃ punar aham anayā kṣāranadyā kukūlakūlayā kaṇḍakopāstaraṇāyā andhayā tamasā andhakāratamisrāyā anusrota uhye | yan nv ahaṃ hastābhyāṃ pādābhyāṃ pratisroto vyāyaccheya |
+<lb n="SA_T10_Aśvaghoṣa_Tridaṇḍamālā-27-1-2:25"/>sa idaṃ pratisaṃkhyāya bhūyasyā mātrayā hastābhyāṃ pādābhyāṃ pratisroto vyāyacchate |
+<lb n="SA_T10_Aśvaghoṣa_Tridaṇḍamālā-27-1-2:26"/>§4 sa tatra paśyed ālokam | tasyaivaṃ syāt | mahāndhatāyaṃ viśeṣo &#x27;dhigato yaduta ālokaḥ | yan nv ahaṃ bhūyasyā mātrayā hastābhyāṃ pādābhyāṃ pratisroto vyāyaccheya | sa idaṃ pratisaṃkhyāya bhūyasyā mātrayā hastābhyāṃ pādābhyāṃ pratisroto vyāyacchate |
+<lb n="SA_T10_Aśvaghoṣa_Tridaṇḍamālā-27-1-2:27"/>§5 sa tatra paśyet samaṃ pṛthivīpradeśam | sa tatra pratiṣṭhet | sa tatra pratiṣṭhāya caturdiśaṃ vyavalokayet | sa tatra paśyen mahāśailaṃ parvatam akhaṇḍam acchidram asuṣiraṃ saṃvṛttam ekaghanam | sa tam abhirohet |
+<lb n="SA_T10_Aśvaghoṣa_Tridaṇḍamālā-27-1-2:28"/>§6 sa tatra paśyed aṣṭāṅgopetaṃ pānīyaṃ śītalaṃ ca svādu ca laghu ca mṛdu ca svacchaṃ ca niḥpūtigandhikaṃ pibataś ca kaṇṭhaṃ na kṣiṇoti pītaṃ ca kukṣiṃ na vyābādhate | sa tatra snātvā ca pītvā ca vigatajvaro vigataparidāhas tam eva mahāśailaṃ parvatam abhirohet |
+<lb n="SA_T10_Aśvaghoṣa_Tridaṇḍamālā-27-1-2:29"/>§7 sa tatra paśyet sapta puṣpajātāni tadyathā utpalaṃ padmaṃ kumudaṃ puṇḍarīkaṃ saugandhikaṃ mṛdugandhikam atimuktam eva saptamam | sa tāny eva sapta puṣpajātāny upajighraṃs tam eva mahāśailaṃ parvatam abhirohet |
+<lb n="SA_T10_Aśvaghoṣa_Tridaṇḍamālā-27-1-2:30"/>§8 sa tatra paśyec catuṣkaḍevaraṃ sopānam | sa tad abhirohet | sa tatra paśyet pañcasthūṇaṃ vimānam | sa tatra praviśet | sa tatra paśyet paryaṅkaṃ paṭṭikopetaṃ goṇikāstṛtaṃ tūlikāstṛtaṃ bṛhatikāstṛtaṃ citrikāstṛtaṃ paṭalikāstṛtaṃ kācalindaprāvārapratyāstaraṇaṃ sottarocchadapaṭam ubhayatopahitalohitopadhānaṃ nānāpuṣpāvakīrṇaṃ ramaṇīyam |
+<lb n="SA_T10_Aśvaghoṣa_Tridaṇḍamālā-27-1-2:31"/>sa tatrābhiniṣīded vābhinipadyeta vā | tasya tatrābhiniṣaṇṇasya vābhinipannasya vā caturdiśaṃ śītalā vāyavo vāyeyuḥ |
+<lb n="SA_T10_Aśvaghoṣa_Tridaṇḍamālā-27-1-2:32"/>§9 sa tatra śabdam udīrayet | ghoṣam anuśrāvayet | anenāryā anena bhadramukhā asyāḥ kṣāranadyāḥ kukūlakūlāyāḥ kaṇṭakopāstaraṇāyās tamaso &#x27;ndhakāratamisrāyāḥ pratisroto niḥsaraṇam | apare evam āhuḥ | katamena āryāḥ katamena bhadramukhā asyāḥ kṣāranadyāḥ kukūlakūlayāḥ kaṇṭakopāstaraṇāyā andhāyās tamaso &#x27;ndhakāratamisrāyāḥ pratisroto niḥśaraṇam |
+<lb n="SA_T10_Aśvaghoṣa_Tridaṇḍamālā-27-1-2:33"/>anye evam āhuḥ | eṣo &#x27;pi mārṣā na jānāty eṣo &#x27;pi na paśyaty eṣo &#x27;py anayā kṣāranadyā kukūlakūlayā kaṇṭakopāstaraṇayā andhayā tamasā andhakāratamisrāyā &#x27;nusrota uhyate |
+<lb n="SA_T10_Aśvaghoṣa_Tridaṇḍamālā-27-1-2:34"/>§10 iti hi bhikṣava upameyaṃ kṛtā yāvad evārthasya vijñaptaye | ayaṃ ca punar atrārtho draṣṭavyaḥ | kṣāra iti bhikṣavas trayāṇāṃ pāpakānām akuśalānāṃ vitarkāṇāṃ etad adhivacanam | tadyathā kāmavitarkasya vyāpādavitarkasya vihiṃsāvitarkasya | nadīti bhikṣavas tisṛṇāṃ tṛṣṇānām etad adhivacanam | tadyathā kāmatṛṣṇāyā rūpatṛṣṇāyā ārūpyatṛṣṇāyāḥ |
+<lb n="SA_T10_Aśvaghoṣa_Tridaṇḍamālā-27-1-2:35"/>kukūlakūleti ṣaṇṇām adhyātmikānām āyatanānām etad adhivacanam | andhakāratamisrety avidyāndhakārasyaitad adhivacanam | mahājanakāya iti bālapṛthagjanānām etad adhivacanam |
+<lb n="SA_T10_Aśvaghoṣa_Tridaṇḍamālā-27-1-2:36"/>§11 ekaḥ sattvo &#x27;bālajātīyo &#x27;mūḍhajātīyaḥ saprajñajātīya iti bodhisattvasyaitad adhivacanam | srota iti saṃsārasrotasa etad adhivacanam | hastābhyāṃ pādābhyāṃ pratisroto vyāyaccheyeti vīryārambhasyaitad adhivacanam |
+<lb n="SA_T10_Aśvaghoṣa_Tridaṇḍamālā-27-1-2:37"/>§12 āloka iti dharmanidhyānakṣānter etad adhivacanam |
+<lb n="SA_T10_Aśvaghoṣa_Tridaṇḍamālā-27-1-2:38"/>§13 samaḥ pṛthivīpradeśa iti śīlānām etad adhivacanam | caturdiśaṃ vyavalokanam iti caturṇām āryasatyānām etad adhivacanam | mahāśailaḥ parvata iti samyagdṛṣṭer adhivacanam |
+<lb n="SA_T10_Aśvaghoṣa_Tridaṇḍamālā-27-1-2:39"/>§14 aṣṭāṅgopetaṃ pānīyam ity āryāṣṭāṅgasya mārgasyaitad adhivacanam | sapta puṣpajātānīti saptānāṃ bodhyaṅgānām etad adhivacanam | catuḥkaḍevaraṃ sopānam iti caturṇām ṛddhipādānām etad adhivacanam | pañcasthūṇaṃ vimānam iti pañcānām indriyāṇām etad adhivacanam |
+<lb n="SA_T10_Aśvaghoṣa_Tridaṇḍamālā-27-1-2:40"/>§15 paryaṅkam iti sopadhiśeṣanirvāṇadhātor etad adhivacanam | puṣpāvakīrṇaṃ ramaṇīyam iti dhyānavimokṣasamādhisamāpattīnām etad adhivacanam | sa tatrābhiniṣaṇṇo vābhinipaṇṇo veti tathāgatasyārhataḥ samyaksaṃbuddhasyaitad adhivacanam | caturdiśaṃ śītalā vāyavo vāntīti caturṇām ādhicaitasikānāṃ dṛṣṭadharmasukhavihārāṇām etad adhivacanam |
+<lb n="SA_T10_Aśvaghoṣa_Tridaṇḍamālā-27-1-2:41"/>§16 śabdam udīrayati ghoṣam anuśrāvayatīti dharmadeśanāyā etad adhivacanam |
+<lb n="SA_T10_Aśvaghoṣa_Tridaṇḍamālā-27-1-2:42"/>§17 tatra ye te evam āhuḥ | katamenāryāḥ katamena bhadramukhā asyāḥ kṣāranadyāḥ kukūlakūlāyāḥ kaṇṭakopāstaraṇāyā andhāyās tamaso &#x27;ndhakāratamisrāyāḥ pratisroto niḥsaraṇam iti śāriputramaudgalyāyanayor bhikṣvor etad adhivacanam | pañcakānām upapañcakānāṃ ṣaṣṭer bhadravargīyāṇāṃ pūgānām etad adhivacanam iti |
+<lb n="SA_T10_Aśvaghoṣa_Tridaṇḍamālā-27-1-2:43"/>ye vā punar anye &#x27;pi samyagdṛṣṭayaḥ samyakpratipannāḥ |
+<lb n="SA_T10_Aśvaghoṣa_Tridaṇḍamālā-27-1-2:44"/>§18 tatra ye te evam āhuḥ | eṣo &#x27;pi mārṣā na jānāty eṣo &#x27;pi na paśyaty eṣo &#x27;py anayā kṣāranadyā kukūlakūlayā kaṇṭakopāstaraṇayā andhayā tamasā andhakāratamisrayānusroto uhyata iti ṣaṇṇāṃ śāstṝṇām etad adhivacanam |
+<lb n="SA_T10_Aśvaghoṣa_Tridaṇḍamālā-27-1-2:45"/>tadyathā pūraṇasya kāśyapasya maskariṇo gośālīputrasya saṃjayino vairaṭṭīputrasya ajitasya keśakambalasya kakudasya kātyāyanīputrasya nirgranthasya jātiputrasyeti | ye vā punar anye ʼpi mithyādṛṣṭayo mithyāpratipannāḥ |
+<lb n="SA_T10_Aśvaghoṣa_Tridaṇḍamālā-27-1-2:46"/>§19 iti hi bhikṣavo yat tac chāstā śrāvakāṇāṃ karaṇīyam anukampakena kāruṇikenārthakāmena hitaiṣiṇā karuṇāyamānena kṛtaṃ vas tan mayā | yuṣmābhir idānīṃ karaṇīyam |
+<lb n="SA_T10_Aśvaghoṣa_Tridaṇḍamālā-27-1-2:47"/>etāni bhikṣavo &#x27;raṇyāni vṛkṣamūlāni śūnyāgārāṇi parvatakandarāṇi giriguhāpalālapuñjābhyavakāśaśmaśānavanaprasthāni prāntāni śayanāsanāni dhyāyata bhikṣavo mā pramādyata mā paścād vipratisāriṇo bhūta | idam asmākam anuśāsanam || idam avocat ||
+    </body>
+  </text>
+</TEI>

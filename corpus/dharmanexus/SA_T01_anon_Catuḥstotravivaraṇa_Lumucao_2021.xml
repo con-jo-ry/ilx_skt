@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Catuḥstotravivaraṇa (folios 1v1–23r1)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Collection / category: BuddhistNon-Scriptures / T01
+Source: OCR / Dharmamitra
+Edition / witness: Lumucao 2021, 2023, 2024 (covering 1v1–23r1)
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Lumucao (鲁木草), edition of the Sanskrit manuscript of the Catuḥstotravivaraṇa (2021 [pp. 112ff.], 2023, 2024), covering 1v1–23r1.</note>
+          <idno type="dharmanexus">SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021</idno>
+          <ref target="https://dharmamitra.org/nexus/db/sa/SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021/text">https://dharmamitra.org/nexus/db/sa/SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-13">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:0"/>[2021:112]
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:1"/>(1v1) (siddhaṃ sign) namo ratnatrayāya ||
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:2"/>lokāṣṭadharmmatā(tī)taṃ4 lokātītaṃ praṇamya tam | stutivṛttim karomy āryasammatāṃ śāstrasaṃmatām* ||
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:3"/>svābhāvikaḥ sakāritras trikāyātmā yato mu(1v2)niḥ | na te tena vinā yasmāt tena syād āditaḥ5 stutiḥ ||
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:4"/>sa hi dharmmadhātuniṣpanna6 iti vacanāt* sarvvākāraviśuddhānāśrava-buddha- dharmmaprakṛtya&lt;&lt;nu&gt;&gt;tpādala(1v3)kṣaṇa eveṣyate | ataḥ svābhāvikaḥ kāyaḥ svabhāvānutpādaśūnyatām7 ekatvāt |sarvvaṃ* sugatasādhāraṇam iti mahājānādi8- dharmmapāṭho (&#x27;)pi su ¦(1v4)nīto bhavati |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:5"/>[2021:113]
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:6"/>samuktistutyutpāghātāt9 stutiḥ svabhāvi¦kī matā | tadanyās tadaviśeṣāś ca tadukopasamāśritāḥ10 ||
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:7"/>catu(ḥ)stuti(ḥ) kṛtācāryair lla¦(1v5)kṣmīdhenuprabhedataḥ | saṃ{{khe}}&lt;&lt;kṣe&gt;&gt;pamukhabodhārthaṃ sātavāhanabhūbhujaḥ ||
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:8"/>[Commentary on Lokātītastava 1]
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:9"/>tatra lokātīta namas tubhyam ityādiprathamaślokaḥ | loka&lt;ḥ&gt; pañcopādānaskandhāḥ | tam atīto (2r1) lokātīto | yad āha abhidharmme bhavaḥ katamaḥ | pañcopādānaskandhāḥ sa ca lokaḥ11 | yadvā lokaśabdena sukhaduḥkhalābhālābhādi, aṣṭau lokadharmmā u¦(2r2)cyante | yathā {{pa}}&lt;&lt;ma&gt;&gt;ñcāḥ12 krośantīty āśraye āśritopacāraḥ | lokātīta tubhyaṃ namaḥ |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:10"/>kimviśiṣṭāya | viviktaṃ śūnyaṃ* | tato jñānavedine śū(2r3)nyatājñānaśākṣāt0kāriṇe | nanu bhavatu svabhāvānutpādaśūnyataiva sarvvabuddhadharmāṇāṃ svabhāvaḥ | tathāpi kathaṃ tad atra sākṣāt*kāritvena (2r4) vinopāśvāsāt* | buddhatvam iti cen naiṣa doṣaḥ | tathācāha “prajñāpāramitāyogo {{kṣur}}&lt;&lt;hy u&gt;&gt;pāyaḥ13 karuṇātmanam” iti pravacanāt* |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:11"/>ata ¦(2r5) evāha
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:12"/>yas tvaṃ jagaddhitāyaiva khinnaḥ karuṇayā14 ciram
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:13"/>iti | jagatyāṃ hitam āpatyāṃ* buddhatvaṃ tadartham eva khinnaḥ | “svacittam ādyanutpannam apaśya15 (2v1) duḥkhitaṃ jagad” iti hitānabhijñātam | paśyan jagataḥ karuṇayā taddhitakāmatayā khinno nārthataḥ | na hi khedotpādārthaṃ sukhaduḥkhaṃ kiñcil loke kāmyaṃ | kin ta(2v2)rhi paraduḥkhaduḥkhitayā | taddhitaṃ ciram āsaṃsāraṃ yāvat0  |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:14"/>yadvā khinna sthita&lt;&lt;ḥ&gt;&gt; pratisattvaṃ tadabhiprāyasaṃpādanopāyārthaiṣaṇaparatvāt* | {{tā}}(2v3) ata16 eva nirāśrayadayāmayamānasasya bhagavataḥ “karuṇāpūrvvakāḥ sarvve viṣyandā17 jñānanirmmalāḥ”18 iti ||
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:15"/>[Commentary on Lokātitastava 2]
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:16"/>nanu yaḥ skandhātitaḥ sa sattva ā{{mno}}&lt;&lt;tmā&gt;&gt;(2v4)dair vvā bhaved ity āha ||
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:17"/>skandhamātravinirmmukto na sattvo &#x27;stīti te matam
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:18"/>ityādi | skandhā eva skandhamātram | yad āha | dvādaśaiva bhavāṅgāni skandhāyata(2v5)na-
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:19"/>[2021:114]
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:20"/>dhātavaḥ | vicintyetāni19 sarvvāṇi pudgalo nopalabhyate ||20 iti pravacanāt* | tanmātram eva {{ya}}&lt;&lt;ja&gt;&gt;gat* | tadvinirmmukto vyatiriktas tebhyo | na satvaḥ pudgalo &#x27;stī(3r1)ti te mataṃ | atha ca asaty ātmany ahaṅ karttā bhokteti skandheṣv evāha21 kāratāpekṣayā sattva- vyapadeśas |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:21"/>tadarthaṃ22 ca &lt;&lt;paraṃ&gt;&gt;23 khedam āgamas24 tvaṃ mahāmune
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:22"/>iti | sattvā(3r2)rthaṃ ceti nirātmānaḥ sarvadharmmā ity āpādānārtham25 |  caśabdaḥ pūrvvoktakhinnaśabdārthaṃ | khedaśabdena sūcayati paraṃ khedam agamas tvaṃ (3r3) gatavān* | priyaputrārthaṃ punar durbhikṣakāntāradeśagatapuruṣavad vīryātīśayaṃ26 sūcayati | mahāmune | mahāṃś cāsau muniś ceti |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:23"/>mahatām vā (3r4) śrāvakādīnāṃ maunād asyatiśayitvāt*27 mahāmuniḥ | pṛṣodarāditvenā{{va}} tvaṃ* takārasya |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:24"/>[Commentary on Lokātitastava 3]
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:25"/>yady evaṃ skandhamātrāstitve bhagavato lokā(3r5)tīta namas tubhyam iti kathaṃ na virodha ity28 āha
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:26"/>te (&#x27;)pi skandhās tvayā dhīman* dhīmatyaḥ29 saṃprakāśitāḥ | māyāmarīcigandharvanagarasvapnasannibhā
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:27"/>iti samu(3v1)dāyārthaḥ | māyopamās te &#x27;bhūtārthapratibhāsena satvasammohanāt* | marīcisannibhā arthakriyāśūnyatayā pṛthagbhedābhāvāt* | gandharvanagaropamāḥ kasyaci(3v2)t* pudgalādevāśrayābhāvāt* | svapnopamāḥ śubhādivā¦sanāmātrabala- bhāvitvād iti || te niruttaradhīman nisvabhāva{s}30 | tvayā dhīmadbhyaḥ prajñāśāli(3v3)bhyaḥ saṃprakāśitāḥ |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:28"/>[Commentary on Lokātitastava 4]
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:29"/>nanu kathaṃ hetupratyayādhīnā31 sva¦lakṣaṇasiddhā niḥsvabhāvā ity āha ||
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:30"/>hetutaḥ sambhavau yeṣāṃ tad abhāvān* santi ye |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:31"/>kathaṃ (3v4)nāma na te spaṣṭaṃ pratibimba samā matāḥ ||
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:32"/>ye tu hetupra ¦tyayādhīnāḥ kathaṃ* svabhāvasiddhāḥ || kathaṃ svabhāvasiddhāḥ | kathaṃ
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:33"/>[2021:115]
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:34"/>tadadhīnā32 tasmāt te pratibi(3v5)mbasamāḥ sante niḥsvabhāvā eva matās tava | ata evāsvabhāvāḥ | satyāṃ hetupratyayasāgrayā bhāvanti | tasyām asatyān na bhavanti | pratibimbavad ekānekatvavimuktāḥ ¦ (4r1) santo vā na vañcakā ity āha | śrāvakasūtre (&#x27;)pi
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:35"/>rūpaṃ phenopamaṃ khyātaṃ | vedanā budabudopamā | marīcisadṛśī saṃjñā saṃskārāḥ kadalīnibhāḥ || māyo(4r2)pamañ ca vijñānam uktam ādityabandhunā |33
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:36"/>[Commentary on Lokātitastava 5]
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:37"/>punaḥ pratyekaṃ svarūpāsiddhaṃ darśayati |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:38"/>bhūtāny acakṣurgrāhyāṇi tanmayañ cākṣuṣaṃ kathaṃ
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:39"/>iti | cakṣu(4r3)ṣāṃ rūpavedanavirodhaṃ darśayati | yato na bhūtavi¦ṣayaṃ | cakṣus tanmayaṃ | bhautikaṃ rūpaṃ kathaṃ cākṣuṣaṃ cakṣurgrāhyam ato rūpaṃ* tvayaivaṃ (4r4) brūvatā | pṛthavyādimayam avytibhinnaṃ bruvatā satā rūpagrāhaś cakṣuṣā nivāritas tajñānenāpi34 ata āha || “rūpakāraṇanirmuktaṃ na rūpam u(4r5)palabhyata”35 ity arthata ity asmi36
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:40"/>[Commentary on Lokātitastava 6]
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:41"/>vedanīyam vinā nāsti vedanāto nirātmikā
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:42"/>niḥsvabhāvā | vedye sati bhaviṣyatīti cet | tac ca vedyam iti | co37 ya ¦ (4v1)smāt38 tad vedyaṃ svabhāvena siddhaṃ | vedanām apekṣya vedyaṃ bhaviṣyatīti cet* | svatarāṃ39 tatra vedyam itaretarāpekṣayā nāstīty abhimataṃ tava | ata āha | “yo &#x27;pekṣya sidhya ¦(4v2)te bhāvas tam evāpekṣya sidhyeti |”40
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:43"/>[Commentary on Lokātitastava 7]
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:44"/>yadi yo &#x27;pekṣitavyas sanidhyatāṃ kim apekṣakaḥ | saṃjñānārthayor ananyatvād abhinnatvād abhidhānābhidheyayo(4v3)r mmukhaṃ* dahyed vahninā | anyatve &#x27;dhigamābhāvaḥ | bhede ta¦yor abhidheyābhidhānayoḥ svātantrye tadrūpeṇārtha- bhāvābhāvas tvayoktaṃ | bhūtavādi(4v4)nā paramārthavādinā ||
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:45"/>[Commentary on Lokātitastava 8]
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:46"/>karttā svatantraḥ karmmāpi tvayoktaṃvyavahārataḥ |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:47"/>[2021:116]
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:48"/>itīśvarādyanadhiṣṭhitakarttā karmmāpy anadhiṣṭhitaṃ | etad api dvayo ¦(4v5)ktaṃ vyavahārataḥ | saṃ*vyavahāramātreṇa | kutaḥ parasparāpekṣikī tu | tuśabdo yasmān nāmataḥ siddhis te (&#x27;)bhimatānayoḥ kartṛkarmmaṇoḥ |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:49"/>[Commentary on Lokātitastava 9]
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:50"/>ata eva na karttāsti ¦(5r1) na bhoktā ca katha{ṃ}n tarhi vyavahāraḥ ity uktaṃ | yasmāt* puṇyāpuṇyaṃ pratītyajam iti | na tv idam eva paratantraṃ vastusat* | naivaṃ yato
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:51"/>yat* pratītya na taj jātaṃ proktaṃ vācaspate (5r2)tvayā {{sva}}bhāvataḥ | yad āha | ye pratītyasamutpannā na te kiṃcit* svabhāvata iti | [Commentary on Lokātitastava 10]
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:52"/>ajñānamānaṃ41 na jñeyam vijñānaṃ tad vinā na ca |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:53"/>yata evaṃ para¦(5r3)mparāpekṣikī siddhiḥ | tasmāt* svabhāvato na sto na vidyate |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:54"/>jñānajñeye tvam ūcivān iti |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:55"/>[Commentary on Lokātitastava 11]
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:56"/>yady evaṃ kathaṃ rūpaṇālakṣaṇam rūpam ity ā(5r4)dikaḥ skandhānāṃ lakṣaṇanirddeśa ity āha |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:57"/>lakṣyāl lakṣaṇam anyac cet syāt tal lakṣyam alakṣaṇam | tayor abhāvo &#x27;nanyatve vispaṣṭaṃ kathi(5r5)taṃ tvayā ||
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:58"/>yadi rūpaṇādilakṣaṇaṃ rūpādiskandhebhyo vyatiriktaṃ bhavet* | tadā rūpādikaṃ lakṣam42 alakṣaṇaṃ syāt* | atha tayor abhinnatvaṃ* tathā sati kiṃ (5v1) lakṣyaṃ lakṣaṇañ ca | svarūpānupalabdes tayor iti kathaṃ lakṣyalakṣaṇanirdeśāt* skandhāt* svabhāvasiddhiḥ |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:59"/>[Commentary on Lokātitastava 12]
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:60"/>ata eva dṛṣtaṃ jagad idaṃ tvayānutpādajñānacakṣu(5v2)ṣā |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:61"/>lakṣyalakṣaṇanirmmuktaṃ vāgudāhāravarjitaṃ |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:62"/>śāntam utpādādiprapāñcopaśamāt* | marīcijalavad yad āha | marīcis toyasa¦(5v3)dṛśī yathālāmbho na cānyat* iti marīciḥ | skandhās ta¦thātmasadṛśāḥ | nātmāno nāpi te &#x27;rthataḥ || marīcipratimaṃ lokam evam astī(5v4)ti gṛhataḥ | nāstīty api ca moho (&#x27;)yaṃ sati mohe na mucyata iti |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:63"/>[Commentary on Lokātitastava 13]
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:64"/>[2021:117]
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:65"/>upādāyaprajñapyamānaskandhātmakā bhāvābhiniveśanirāsaṃ pra(5v5)darśya saṃprati dharmmanairātmyadvāreṇa stutiṅ karoti |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:66"/>na san utpadyate bhāvo nāpy asan0 sadasan na ca
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:67"/>iti satkāryavādimataṃ niṣedhayati | sa (end of fol. 5v)
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:68"/>%
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:69"/>[Colophon: 47r4–v4] catu(ḥ)strotravivaraṇaṃ samāptaṃ || ||
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:70"/>ye dharmmā hetuprabhavā hetun teṣā(ṃ) tathāgato hy a(47v1)vadat | teṣāñ ca yo nirodha evamvādī mahāśramaṇa(ḥ) || ||
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:71"/>samvat* 38 nayapāle kolipattanāvasthite ṭeḍoguhāyāṃ bhoṭadeśīyaloca(47v2)vāpaṇḍita- bhikṣuśrīVajradhvajasya saugatāvadhūtaśrīBālabodhena likhita43 pustakam | yaiṣṭhakṛṣṇa- pratipādau44 somavāsare mahārājādhirā(47v3)jaraghuvatsodbhavaśrīJayabhīmadevasya rājye |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:72"/>śubham astusarvajagatparahitaniratā bhavantu bhūtagaṇāḥ | lokāprayā tu śāntīṃ sarvatra (47v4) sukhībhavatu lokaḥ || 45
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:73"/>%%%%%%%%%%%%%%%%%%%%%%%%%%%
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:74"/>[2023:116]
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:75"/>sa(6r1)n nirāsatmo2 bhāvas tāvan notpādyate vidyamānatvāt | kāraṇāpekṣā hi kāryatā | sato vidyamānasya kiṃ kāraṇāpekṣayā | yad āha –
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:76"/>saṃś ca sa¦(6r2)rvvanirāsaṃso3 bhāvaḥ katham apekṣate |4
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:77"/>nāpy asan |utpattir nāma sato dharmaḥ | sā katham asato &#x27;pekṣā &#x27;yogāt* | tathā cāha (6r3) –
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:78"/>hetoḥ sadasattāḥ śaktir na kārye saty asaty ataḥ | svabhāvāniṣṭir asmākaṃ bhāvābhāvo tayor api ||
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:79"/>iti | tatvatayathā nirhetuka¦(6r4)m eva kāryaṃ syāt* | nāpi sadasadbhāva utpadyate viruddhadharmadvayasvabhāvābhāvāt* | yad āha sac cāsac caikataḥ kuta iti 5 | kāryātmakabhāvaṃ* ¦ (6r5) nirākṛtya kāraṇaniṣedhaṃ karoti |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:80"/>[Commentary on Lokātītastava 13]
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:81"/>nanu kāryakāraṇayor anyataraniṣedha ubhayaniṣedhaḥ6 syāt* | tat kathaṃ pratyekam utthāpya niṣedhaḥ | naiṣa (6v1) doṣaḥ yato bhāvikāryāpekṣyā tadapratītāv api vastumātre &lt;&#x27;&gt;pi kāraṇatāṃ vyavaharābhiyogatām7 āropya lokaṃ sta&lt;ṃ&gt; praty āha –
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:82"/>na svato nāpi parato na dvābhyāṃ jā(6v2)yate katham ||
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:83"/>iti | kāryātmanaḥ kāraṇaṃ bhavata&lt;ḥ&gt; svarūpaṃ para ¦rūpam ubhayarūpaṃ* syāt* | svatas8 tāvan na bhavati | svasya tenātmanāvidyamanatvāt*9 | (6v3) punar utpādena kiñcit* prayojanaṃ | svarūpāt svarūpaṃ ¦jāyata iti kathaṃ na virodhaḥ | ajasrotpattipasaṃgaś10 ca
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:84"/>[2023:117]
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:85"/>| tataś ca svotpattivyagratayā (6v4) na kāryāntarotpādanāvasaraḥ | atha kāraṇam eva kāryībhavatīti abhivyaktimātreṇa jāyata iti vyapadeśaḥ | yady evaṃ rasavīryavipākapra(6v5)bhāvavarṇṇansaṃsthānato do(ṣo) na syāt* | tasmāt akāraṇam eva kāryībhavatīti svata utpattyartho na yujyate | nāpi parataḥ parābhavāt* | svatve paratvam iṣya ¦ (7r1)te |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:86"/>caitramaitrayor iva parasparāpekṣayā | āha ca–
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:87"/>svātmasiddhau paropādhir bhavaḥ para iti smṛtaḥ | svātmāsiddhau paratvaṃ kiṃ parasmād yady asiddhatā ||
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:88"/>iti | nāsti svapara(7r2)siddhiḥ | tadabhāvān na dvābhyāṃ kāryasaṃbhavaḥ | ato jāyate kathaṃnaiva kiñcita11 kutaś vijñāyate12 iti siddhaṃ ||
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:89"/>[Commentary on Lokātītastava 14]
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:90"/>nanv anityāḥ sarvvasaṃskārā iti vacanāt vinā(7r3)śas tāvad asti | tat*sadbhāvāddhatpādo13 &lt;&#x27;&gt;pi bhaviṣyati | ta ¦taḥ sthitir apīti sarvvaṃ svasthaṃ | naitat* | yato
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:91"/>na sataḥ sthitiyuktasya vināśa upapadyate |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:92"/>ityādi | sato vidyamānasya sthitidharmmiṇas tāvad vināśo nopapadyate | nāpy asato &#x27;vidyamānasyāpi asthitidharmmiṇaḥ kim bhūtasyāśvavi(7r5)ṣāṇina14 samasya śamatā vināśitā katham iti na kathañcid api | yadvā – aśvaviṣāṇena samasya sa vināśo mataḥ katham iti gāṇantaraḥ &lt;|&gt;
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:93"/>[Commentary on Lokātītastava 15]
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:94"/>kiñ ca nāśo (7v1)&lt;&#x27;&gt;pi bhavan* bhāvebhyo bhinno &#x27;bhinno vety ubhayathāpi na yujyate |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:95"/>bhāvān nā&lt;&lt;rthā&gt;&gt;ntaraṃ nāśo nāpy anarthāntaraṃ bhavet*15 | kutaḥ |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:96"/>arthāntare bhaven nityo
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:97"/>bhāvaḥ
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:98"/>nāpy a(7v2)narthāntare bhavet
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:99"/>bhāvo vi&lt;nā&gt;śo veti sambandhaḥ | atha dva ¦yaśūnyaṃ16 bhāvat tatvānyatvāvācyo17 bhaved iti | tad āha |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:100"/>[Commentary on Lokātītastava 16]
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:101"/>[2023:118]
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:102"/>ekatve na hi bhāvasya vināśa upa(7v3)padyate | pṛthaktve na hi bhāvasya vināśa upapadyate | ¦
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:103"/>ubhayathāpi bhāvena saha sa sambandhābhāvād evety abhiprāyaḥ | yas tu tatvānyatvena vā(7v4)cyo na bhavati nāsau kvacit* sambandhyate | tadyathā vandhyā ¦sūnaḥ {|} tattvāna{{tva}}vācyaś18 ca anityatālakṣaṇo vastudharmma iti vyāpakavirūddho &#x27;nu(7v5)&lt;t&gt;panadvivyavahāraḥ | na tasya kiñcid bhavati | kin tarhi bhāvo na bhavaty eva kevalam iti cet* |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:104"/>tat* kiṃ bhavan dharmmābhavo na bhavati | abhavan* 19dharmmā (8r1) vā | yadi bhavan dharmmābhāvo na bhavati kathaṃ | athābhavan dharmmā tathā na bhavati kathaṃ | na hy u&lt;pa&gt;lambasattā kasyānyathābhāvo bhavadbhir abhidhīyate | atha bhavan dharmā(8r2)bhāvo dvitīyakṣaṇānavasthāyitvena na bhavaty eva kecanam ity ucyate |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:105"/>yadi svahetor bhavan* svabhāvas tadārthabhāvasyānapāyitvāt* katham a(8r3)nyathā bhavati | varam bhāvāḥ svayāma na bhaveyur na punaḥ svaṃ*abhāvaṃ vijahyuḥ20 | kiñ ca –
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:106"/>svakṣaṇasthitidharmmā cet* kalpa sthāyī bhaven na kīṃ* | svakṣaṇā(8r4)sthitidharmmā cet* punar nāśo bhavet* kathaṃ |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:107"/>atha svahe¦tor dvitīyakṣaṇānavasthāyi svabhāvo bhāvo jāyata iti cet* | naivaṃ na hi vārttamāni(8r5)kasya bhāvasya tadā &#x27;samvidyamāno dharmmaḥ svabhāva iti yujyate |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:108"/>asti yadā svabhāvena tad ivāsan na yujyate |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:109"/>tat* kathaṃ* tatsvebhāvaḥ syāt tadā yaś ca ¦ (8v1) na vidyate |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:110"/>kiñ ca21 –
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:111"/>ājātasya22 svabhā{{ne}}&lt;&lt;ve&gt;&gt;na śāśvatocchedatā kutaḥ |23
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:112"/>iti pravacanān neyaṃ kalpanā sādhvī | ye tu manyante &#x27;ṅkurādyupakāriṇo jala(8v2)tvādayaḥ sahakāripratyayā bījasya vipariṇatim āpādayanto &#x27;ṅkuraṃ na jalayantīti tā praty āha |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:113"/>[Commentary on Lokātītastava 17]
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:114"/>vinaṣṭāt kāraṇāt tāvat* kā(8v3)ryotpattir na yujyate | {{na}} cavinaṣṭāt svapnena24 tulyotpattir mmatā tava ||
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:115"/>iti | ubhayor apy atītanāgatāvasthayoḥ śaśaviṣāṇayo(8v4)r iva na janyaja&lt;na&gt;kabhāvaḥ | nāpy
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:116"/>[2023:119]
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:117"/>avinaṣṭayoḥ savyena25 goviṣāṇatulyayor ataḥ supnena26 tulyā kumārīprasūtivad utpattir mma ¦(8v5)tā tava | tarhi katham utkaṃ —
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:118"/>catvāraḥ pratyayā hetur ārambanam27 anantaraṃ* | tathaivādhipateyañ ca pratyayo nāsti pañcamaḥ ||28
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:119"/>ity atra bījād evānantaravi(9r1)nāśo29 evanantara&#x27;ṅkurādeḥ pratyaya iti |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:120"/>[Commentary on Lokātītastava 18&amp;19]
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:121"/>ataḥ svakāraṇe bījena saha | avasthānavirodhād bijaṃ vināśayann aṅkuro jāyata iti cet* | tad āsate vināśa iti | (9r2)samānakāla bhavi bhavitvāt* kathaṃ30 vināśaḥ | atha | sataḥ sa eva doṣa ity uta yathāpi na yujyate | yato yad utpadyate sato &#x27;satovā | ta(9r3)syobhayat* utpādaprati ṣedhācchāś ca tocchedatā parikṛtā bhavati | ata eva
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:122"/>māyotpādavad utpādaḥ sarvva eva tvayedaṃ pratyayatāmā(9r4)travādinocyate | yato
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:123"/>na niruddhāddhā31 nāniruddhādbījād aṅkurasambhava32 iti |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:124"/>atas tvayā jagad idaṃ parikalpasamudbhavam ity avidyāmātrasa(9r5)mudbhavaṃ |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:125"/>parijñatam asadbhūtam alīkaṃ | ata evānutpannaṃ* na naśyati |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:126"/>svabhāvān utpannaṃ* marīcijalavan na naśyati | yathotkaṃ | ṇa viṇaṭuṃ ṇa upannaṃ* dha&lt;r&gt;mmadhāu(9v1)samaṃjanaṃ | sattadhātuṃ ca daṃsesi eṣālokyanuvarttaneti | idānīṃ* sarvvāstivādamatanirāśe na stutin darśayati | satyaṃ mābhūnnāśaḥ skandhānāṃ kin tarhi adhvatraya saṃkrā(9v2)nirastu | tāniṣedhayati
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:127"/>[Commentary on Lokātītastava 20]
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:128"/>nityasya samsṛtirn nāsti naivānityasya saṃsṛtiḥ |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:129"/>skandhapañca kasya saṃsara ṇātkila | atītāskandhā anāgatāvartta(9v3)mānā iti vyavadeśabhājo bhavanti | na tu vināśādadhvatraya saṃkrānti vādinaḥ sarvāsti vādāḥ | tatra bhāvanityasyājahat* svabhāvasya saṃsṛtir gatya(9v4)ntarapratisandhir nnāsti | yenātmanāvārttamānikāstenātmanā nābhītaḥ | yenātmanānātītās tenātmanānavā | tta mānikāḥ |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:130"/>tat kathaṃ* tenā(9v5)tmanā tasya saṃkrānti adhvatraya vyavasthā ca | nāpy anityasya gatyantaragamanāgamanaṃ | pūrvva kasya skandhapañca kasya niranvaya vināśāta
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:131"/>[2023:120]
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:132"/>| niranvayavināśāntaram apūrvva(10r1)syotpādābhyudayagamād iti dvayor api saṃsṛtiḥ saṃkrāntirn nāsti | na nua na varāgro hi bhikṣavaḥ saṃsāro gatyantaragamanāgamañ ceti | kathaṃ tatra saṃśaraṇam ity āha |(10r2)–
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:133"/>svapnavat* saṃsṛtiḥ proktā tvayā33 tattvavidām34 vara{{ā}} |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:134"/>śreṣṭhayad āha | pratītadarppaṇaṃ yadvat* saṃkrāntaṃ sukhamaṇulas iti vālajanolokaḥ nanu tatra (10r3) saṃkramastasya &lt;&lt;na&gt;&gt; ca tenavinātat tat || tadvat skandhasya jāyeta prati sandhibhavāntare | asaṃkramaṇu vidvadbhir avadhrāryo &#x27;sya sarvvathā svapneṣude | (10r4)hoyathā caṃkramanti deśānta regrāmagṛhāntare cetyādi | etad eva katham ity āha ||
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:135"/>[Commentary on Lokātītastava 21]
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:136"/>svayaṃ kṛtaṃ parakṛtaṃ dvābhyāṃ35 kṛtam ahetukaṃ |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:137"/>tārkkikair36 i(10r5)ṣyate duḥkaṃ tvayā tuktaṃ37 pratītyajam iti |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:138"/>prāpy edam utpādyata iti dharmma saṃketamātram avicāraprasiddhaṃ vyavahāramātram ity arthaḥ | tartri kasya kathaṃ kintatsvabhā(10v1)vānutpāda śūnyatety ucayate | etad eva katha pannāha |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:139"/>[Commentary on Lokātītastava 22]
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:140"/>yaḥ pratītya samutpādaḥ38 śūnyatā saiva te matā |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:141"/>bhāvaḥ svaṃtatro39 nāstīti siṃha nādas tavātula iti |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:142"/>satva dvayade(10v2)śanān darśaya nastutiṅ karoti | yaḥ pratītya samutpādaḥsvapara pratyayā cinte{|}daṃ pratyayaparāḥ śūnyatā saiva te mateti | pratītya samutpādam u(10v3)pādāya svabhāva śūnyatā prajñayti ste matā pratītyasamutpāda eva svabhāva śūnyatā || katham bhāvaḥ svatantro nāstīti |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:143"/>yasmād vetupratyayā na pekṣaḥ sva(10v4)bhā siddhobhāvo nāsti | nanu hetupratyayāpekṣaḥ svalakṣaṇa siddho bhaviṣyatīti cet* | naiva parāpekṣaḥ kṛta kaḥ kṛtrimaḥ kathaṃ svabhāvasiddhā (10v5) nāma | yad āha | svabhāvaḥ kṛtakonāma bhaviṣyati kathaṃ* punar iti | siṃha nādas tavātula iti | tulanārahitaḥ |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:144"/>asādhāraṇa pratītya samutpāda śūnyatā siṃhanā(11r1)daḥ | yadāha | yohetuḥ pratyayaḥ karmmavipākapratiṣevaṇā | svabhāva śūnyaṃ tat sarvvaṃ* siṃha nādas tavorjjita iti | ūrjjitovanavāna nabhibhavanīya iti | yadāha i(11r2)daṃ pratyayatāṃ* paśyan* jagato niḥsvabhāvatāṃ | paśyet idam apādāya prajñaptā śūnyatā mataḥ |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:145"/>hetuḥ phalañ ca sarvvajagadanyo nāsti kaścid iha satva ¦ (11r3)iti |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:146"/>[2023:121]
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:147"/>[Commentary on Lokātītastava 23]
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:148"/>yady evaṃ dvayaśūnyaṃ parataṃ trasvabhāvaṃ* jagad astu | natadityāha | sarvva saṃkalpa hānāya40 śūnyatāmṛta deśanā |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:149"/>yasya tasyām āpi grāhas tvayā ¦(11r4)sāv avasādita iti |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:150"/>yasyau iti dugṛhīta śūnyatāyadeśasya tasyām api grāhaśūnyatopalam bhādbhāvāti niveśaḥ | tvayāsau [du]ści kim tvatayāni(11r5)ndita iti | yadāha | ye hi kāśyapa śūnyatopalam tena śūnyatāṃ pratisaranti tān ahaṃ na ṣṭapranaṣtān iti vadāmītyataḥ pravacanāt* | sarvva sakalpa hānāya prahāṇāya (11v1)śūnyatā pravacana sāgarodvṛtā mṛta deśanā bhavataḥ |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:151"/>ataḥ śūnyatā svabhāvāti niviṣṭaḥ pudgalo &#x27;vasāditaḥ | tathā cāha | śūnyataiva bhavedbhāvo&lt;&lt;va&gt;&gt;sanā vasitāsatī | dvaya(11v2)śūnyatayā śūnyebodhamātretukā kathā |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:152"/>[Commentary on Lokātītastava 24]
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:153"/>ataḥ kāraṇaṃ |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:154"/>nirīhā vaśikāḥ śūnyā māyāvat* pratyayodbhavāḥ |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:155"/>sarvva dharmmās tvayā nātha niḥsvabhā(11v3)vāḥ prakāśitāḥ41 iti |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:156"/>īhāḥ kāyavādyaṃ novisyan dāna vidyante yeṣunādhyā[tn]ika sarvvadharmmeṣu te nirīhā ūhāpagamāt* vaśikāstucchāḥ prāśatā(11v4)vāt* nirīhā vaśikasvanāla svanā ity arthaḥ ata eva svabhāva viyośāt* śūnyāḥ | kathan tarhi paratantrā māyāvat apratyayodbhavāḥ | ataḥ tvayā (11v5) henātha nisvabhāvāḥ prakāśitā iti | tathā cāha |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:157"/>māyo[pa]mā janānānti sarvvadharmmā na yathāntarīkṣaṃ prakṛtīyaṃ śūnyaṃ* | prakṛtim yisojānanti teṣatā(12r1)dṛśīm eva taranto na kahiñci sajjatīti | sarvvadharmma samatā samādhiḥ kasya tarhi saṃkleśāpa gamādya vadānāpi gamaḥ | viśuddhānā śrava buddhadharmmotpādo (12r2) vā |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:158"/>[Commentary on Lokātītastava 25] yathā tathāha |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:159"/>na tvayotpāditaṃ kiñcin nāpi kiñcin42 nirodhitaṃ | vyavadāna saṃkleśo vā | kin tarhi
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:160"/>yathā pūrvvan43 tathā paścāt tathatāṃ* | buddha(12r3)vān asīti |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:161"/>yathā pūrvvaṃ* saṃ*kleśānāṃ* vigatāvitathātāsatayā tathatāsvabhāvāḥ | anutpādatā | tathā paścād api vyavadānā vasthāyāṃ(12r4)| dharmmadhātovasaṃ* tedāt* pūrvvāparāvi tathatāṃ* tathatām adhigatosi | henātha | nānyathā | ubhayor apy asvabhāvatvāt* | yadāha | tava(12r5)sa mo thesaṃ*kalponsyātu tvavidaḥ sadā | saṃkalpamātrakāvettau yasmāt
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:162"/>[2023:122]
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:163"/>bhavasamāv iti |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:164"/>[Commentary on Lokātītastava 26] tadāha |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:165"/>āryairn niṣevitām enām anāgamyāṃ44 hi bhā(12v1)vanā45 |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:166"/>nānimittaṃ hi vijñānaṃ bhavatīha ka※※※※※※※※※thañ cana46 |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:167"/>※※※※※※※※※※※
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:168"/>enāṃ jaganmāyopamaḥ niḥsvabhāvanāgamyānadhim ucyana vitāvyavā kiṃ bhūtām āryair nniṣevitāṃ sādarani(12v2) rantraradīrdya kālabhāritāṃ* nānimittaṃ hi vijñānaṃ* bhavatīheti | nimittam avidyāsaṃskaroḥ | bhavabījasya vijñānasya hetus tad viyogād animittaṃ vijñā(12v3)nam ihāryamākubhāvanā nirdeśe mahāyāne bhavati naiva kathaṃcana |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:169"/>ata āha | hetuviyogāt tathā nimittam iti ||
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:170"/>[Commentary on Lokātītastava 27] tataḥ kim ityāha |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:171"/>animittam anāgamya(12v4)mokṣo nāsti tvam uktavān* |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:172"/>yadāha bhagavān* | ekihi satyam anutpāda mamātmakam iti |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:173"/>atas tvyā mahāyāne tad iti | animittaṃ | sarvvadharmmā svabhāvā(12v5)n utpādātma kaṃ sākalyena vistareṇa deśitaṃ(27cd) prakaṭīkṛtam iti yāvata | tathā cotkaṃ jñeyasyasarvvathā &#x27;siddhe nirvvi kalpāpi yatradhīḥ | na yātātatranirālasvaṃ* ta(13r1)tvaṃ tadvidho viduḥ ||
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:174"/>[Commentary on Lokātītastava 28]
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:175"/>yad avāptaṃ47 mayā puṇyaṃ stutvā tvāṃ stutibhājanaṃ |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:176"/>stutipātraṃ sa vitāṃ sāgaram iva &lt;|&gt; nimittabandhanāpetaṃ {|}
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:177"/>kleśakarmmākhyabandhanāpetaṃ, yadvā ni(13r2)mittam ahaṃkāras, tadapagataṃ bhūyāt tenākhilaṃ jagad ||
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:178"/>iti || (28cd) || svābhāvikaḥ sarvvasugatasādhāraṇaḥ48 sarvvabuddhadharmmasvabhāvā- nutpādalakṣaṇo bhagavā(13r3)n* dharmmadhātvātmako lokātītas tasya stutir utpā{{dyā}}&lt;&lt;dvyā&gt;&gt;tanyayena sādhāraṇī49 || tadanantaraṃ viśeṣeṇa stūyante trikāyās tato
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:179"/>[2023:123]
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:180"/>munimāttaḥ kha(13r4)ṇuprabhedena pratipādyate | tatra nirmmāṇakāyaḥ | tadanantaraṃ sambhogakāyaḥ | tato dharmmakāyaḥ | atraiva vakṣyati |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:181"/>janmadharmmaśarīrābhyām acintya(13r5)s tvam mahāmune | tathā cāha –
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:182"/>vaiśākhamāsasya hipauntumāsyāni śāntavīpe praharemahiṣyājagrāhagartaṃ ttaṣitādhirāja iti || (End of the commentary of the Lokātītastava.)
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:183"/>%%%%%%%%%%%%%%%%%%%%%%%%%%%
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:184"/>[2024:106]
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:185"/>tathāha |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:186"/>anutpādadharmmā | (13v1) satataṃ tathāgataḥ | sarvve ca dharmāḥ sugate sādṛśāḥ | nimittagrāheṇa tu bālabuddhayo &#x27;satve dharmmaṣu caranti loke || tathāgato hi pratibimba- bhūtaḥ kuśalasya dharmmasya hy a(13v2)nāśravasya | na cātra tathā na tathāgate (&#x27;)sti bimbañ ca saṃdṛśyata sarvvaloka itīdaṃpratyayatāmātratvāt*|
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:187"/>tathāgataprati{{mbi}}mba- syeti bhāvaḥ || ||(13v3)
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:188"/>ata ācāryapṛthagjanagocaranirmmāṇakāyasya2 stutin darśayati || niraupamya namas tubhyaṃ niḥsvabhvāvārthavedine3 | (1ab)
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:189"/>yas tvaṃ dṛṣṭivipannasya lokasyā(13v4)sya hitodyata || (2cd)
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:190"/>iti | he upamātīta namas tubhyaṃ niḥsvabhāvānyavedina iti | niḥsvabhāvo mārggaḥ | arthyata ity artho buddhatvākhyaphalaṃ | tad u(13v5)bhayaṃ lokottarahetuphalabhāvaṃ veditaṃ śīlaṃ svabhāvo &#x27;syeti | tasmai niḥsvabhāvārthavedine namaḥ |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:191"/>kathaṃ tatsaṃvṛtyā yas tvaṃ dṛṣṭivipannasya yas tvaṃ dṛṣtivipannasya (14r1) lokasyāsya satkāyādidṛṣtyā kudarśanasaṃsvasāt* vipannasyārthībhūtasya punar asyety abuddhakabuddhakṣetrāva- sthitasya sanmārgānabhijñasya hitodyeta i(14r2)ti | sarvvadharmmaniḥsvabhāvamārga- deśahayā | māyāgajasyeva punaḥ svajanmādipradarśanena lokasya hitaṃ |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:192"/>āyatyāṃ buddhatvaṃ pratyudyatas tadatya [..](14r3)m uktaḥ |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:193"/>nanu kathaṃ niḥsvabhāvo mārga ity āha
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:194"/>na ca nāma tvayākiñcid dṛṣṭaṃ bauddhena cakṣurṣā (| 2ab) iti
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:195"/>co yasmāt* | abhisambodhikālena nāma tva¦(14r4)yā kiñcid vastu svabhāvasiddhaṃ dṛṣṭam upalabdhaṃ bauddhena cakṣu¦ṣeti | buddhatatvo buddhaḥ | yathā bhīmaseno bhīmaḥ | tasyedaṃ bauddhaṃ cakṣu&lt;&lt;va&gt;&gt;s tena bhā(14r5)vanāmayaprajñācakṣuśā |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:196"/>[2024:107]
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:197"/>anuttarā ca te nātha dṛṣṭis tattvā4rthadarśinī5 (|| 2cd) ti
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:198"/>atrāpi caśabdas tasmāt* | anuttrā na vidyate, uttaram adhikam asyā ity anuttrās te tava (14v1) dṛṣṭiḥ | tattvā6rthadaśinīti | bhūtārthadarśinī sākṣāt*kārīṇī | abhisambodhir uptāyad (sic) āha | bohicittasyānutpodo7 (&#x27;)nirodho (&#x27;)vabodhaḥ sa cānuttarā samy(14v2)ka- saṃbodhir iti | yady evaṃ bodhyabodhyakākārapravṛttābuddhiḥ katham anuttarety āha |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:199"/>na boddhā na ca bodhavyam astīha paramārthataḥ | (3ab)
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:200"/>co &#x27;va¦(14v3)dhāraṇe naiva boddhā kaścid ātmādir anyo vā | na ca nāpi boddhavyaṃ
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:201"/>bāhyādhyātmikaś cāstīha paramārthata iti | yathabhūtādhigame |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:202"/>aho pa(14v4)rama durbbodhāṃ dharmmatām buddhavān asīti (|| 3cd)
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:203"/>aho iti  vismaye | he nātha parama durbbodhāṃ8 dharmmatām iti | sarvvadharmma- svabhāvānutpādaśūnyatā(14v5)buddhavān asi | yad āha | śūnyam ādhyātmikaṃ paśya paśya śūnyaṃ bahirgataṃ | na kiñcid vidyate | sāpi yo bhāvayati śūnyatām iti | viśade9 py upalambhasambhave10 vrajati (15r1) kleśaśaravyatāṃ mana iti vacanāt11 |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:204"/>nobhaya śūnyopalambhamātraṃ kathaṃ tarhi nirāśravāveṇikabuddhadharmmotpādaḥ | saṃkleśa- nirodhaś cety āha |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:205"/>na tvayotpādita(15r2)ḥ kaścid dharmmo nāpi nirodhitaḥ | (4ab) kin tarhi
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:206"/>samatādarśanenaivaprāptaṃ padam anuttram (|| 4cd) iti |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:207"/>sarvvadharmmānutpādasamatādarśanena kleśavyavadā(15r3)nayor api samatā | atas tad darśanena prāptaṃ padam anuttaram iti | prāptam adhigataṃ padaṃ buddhatva(ṃ) niruttaram iti | apratiṣṭhitanirvvaṇarūpaṃ |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:208"/>hanta (15r4) kathaṃ saṃsāraviśeṣanirvvaṇasya buddhatvasya niruttaratvam iti | ced āha | na saṃsārāpakarṣeṇa tvayā nirvvaṇamīpsitaṃ | (5ab)
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:209"/>śāntis te &#x27;dhigatā(15r5)nātha saṃsārānupalabdhita (|| 5cd) iti |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:210"/>[2024:108]
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:211"/>na saṃsārāpakarṣeṇeti | kleśakarmmajanmasaṃkleśānāṃ dvādaśabhavāṅgānāṃ saṃsāra- vyapadeśaḥ | na caiṣām apakarṣanam a(15v1)panayanaṃ spheṭanaṃ tena tvayā nirvvaṇaṃ buddhatvam īpstaṃ samīhitaṃ jagad uttāraṇanimittaṃ | katham adhigataṃ nirvvāṇam dvayety āha --- śāntis te tvayādhigatā nātha saṃsārānupa(15v2)labdhita iti |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:212"/>saṃsārasya svabhāvānupalabdhitaḥ12 | yad āha | bhavaṃ māyāmayaṃ paśya na dvādaśāṅgātmakaṃ jagat* | anyonyahetukāj jātaṃ nāto vetti sa(15v3)maṃ param iti | tathāpi kathaṃ paraspara- virūddhayor aikya|m ity āha-
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:213"/>tvaṃ vivedaikarasatāṃ saṃkleśavyavadānayoḥ | (6ab)
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:214"/>tvaṃ vivedādhigato (&#x27;)si ekara(15v4)satāṃ | ekaṃ hi satyam anutpadanāmakam iti pravacanaṃ  | anutpādatathātvaikarasatāṃ saṃkleśavyavadānayor iti saṃsāra- nirvvaṇayoḥ |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:215"/>kathaṃ
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:216"/>(dharmmadhātvavinirbhedād viśuddhaś cāsi sarvvataḥ 6cd)
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:217"/>dha(15v5)rmmadhātvavinirbhedād iti |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:218"/>ubhayor api svabhāvānutpādavinirbhedād aviśeṣāt* | yathā nirvvaṇam asaṃsakṛtam evaṃ loko (&#x27;)pi | yad āha | dvayor apy agatigatī yataḥ (16r1) sthitiś ca na tadvataḥ | lokanirvvāṇayor evaṃ viśeṣaḥ ka ivārthata iti | ato viśuddhaś cāsi sarvvataḥ13(6ab) iti | ge14 yasmād yādā vera(?)viśuddho (&#x27;)si | ante ca sarvvata i(16r2)ti sarvvasmāt |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:219"/>saṃkleśavyavadāna- vāsanāmūlaparyyantāt*| yad āha --- dharmmadhātur aniṣpannaḥ svabhāvo &#x27;sya na vidyata iti | kathan tayor bhedena deśane(16r3)ti ced āha |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:220"/>(na tvayotpādita15 kiṃcid ekam apy akṣaraṃ vibho | 7ab kṛtsnaś ca vaineyajano dharmavarśeṇa tarpitaḥ || 7cd)
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:221"/>na tvayotpādita kiñcid ekam apy akṣaram vibho | bhedena dvayor ddharmmadhātu- svabhāvatvāt* | yad āha---dharmmadhātur aniṣpannaś cittaṃ tasmin jā(16r4)yate | akṣarāṇā(ṃ) kathaṃ tatra pracāro mṛgyate budhir iti | atha hi kṛtsnaś ca vaineyajano dharmmavarṣeṇa tarpita iti | kṛtsnaś ceti caśabdaṃ pur(16r5)naḥśabdārthaḥ |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:222"/>tena kṛtsnaḥ punar vaineyajano yathādhimokṣaṃ gotravaśād dharmmavarṣeṇa tarpitaḥ16 | mṛṣāvāda- virater abhedya vaineyajana17saṃgrahavacanatā(16v1)samyagbhavato yataḥ | nanu skandha- parigraham antareṇa kathaṃ dharmmavarṣeṇa vineyajana18tarpyaṇam atha svīkāraṃ kathaṃ lokātītavacanam ityāha --- |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:223"/>[2024:109]
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:224"/>na te &#x27;sti19 śakti(16v2)skandheṣu dhātusv āyataneṣuta | (8ab) (ākāśa sama citts tvaṃ sarvvadharmmeṣu niḥsṛta || 8cd)
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:225"/>skandhādiṣu pratibimbādisannibheṣu māyāpuruṣasyeva na te śaktir āsaṃgo (&#x27;)sti | satkāyadṛṣṭivi(16v3)gamāt* | ata ākāśasamacittas tvaṃ | ākāśam bodhicittaṃ ca bodhiś cādvayalakṣaṇeti vacanāt* | sarvvadharmmeṣu niḥsṛta20 iti | (16v4) bāhyādhyātmikeṣu dharmmeṣu | apratiṣṭhitaḥ kathaṃ bhagavato mṛdumadhyādhimātrasatvāpekṣayā deśanā |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:226"/>svādhimokṣavaśāt* | sa(16v5)rvaṃ kalpayanti | tathā tatheti darpyaṇapratibimbavat* |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:227"/>yad āha |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:228"/>sattva21 saṃjñā ca tenātha sarvvathā na pravarttate | (9ab)
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:229"/>sarvvathe22va tautin na krame &#x27;va(17r1)dhāraṇe ca | śeṣavikalpoparamāt tava | atha hi duḥkhārtteṣu ca sattveṣu tvam atīva kṛpātmakaḥ23 (9cd) iti |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:230"/>utpādanirodhaduḥkhājavaṃ javībhāvāt* | duḥkhaṃ saṃsāriṇaḥ (17r2) skandhās tair ārtteṣu sattveṣu24 dharmmanairātmadeśanārthaṃ tvam atīva kṛpātmakaḥ | kṛpāmayaḥ | duḥkhārtteṣu caśabdo &#x27;nuktasamuccayārthaḥ | tena sthita¦(17r3)sya dharmmātmaka eva kāye puṇyair jjanānāṃ praṇidher vviśeṣair ākṣepato &#x27;cintyatarāsya vṛttir iti na virodhaḥ |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:231"/>nanu duḥkhaṃ saṃsāriṇaḥ ska(17r4)ndhā ity ukte | śīlasamādhiprajñāvimuktivimukti- jñānadarśanā lokottarapañcaskandhā nirāśravasukhātmakā lakṣante | tathā cāha | tat sukhaṃ (17r5) yatra nirvṛtirataḥ tyāgopādāne laukikalokottarayor iti
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:232"/>ced āha -
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:233"/>sukhaduḥkhātma nairātmya nityānityadiṣu prabho | (10ab) iti nānāvikalpeṣu buddhis tava (17v1) na sajjata25 (|| 10cd) iti
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:234"/>duḥkhapratikriyāmātraṃ kāyikaṃ vedanāsukhaṃ | saṃjñāmayaṃ mānasan te kevalaṃ | kalpanākutam iti | sukhādinānāvikalpaṣu buddhis tava na sajja(17v2)te | nātrāśaṅkā bhavati | vastubhūtasukhādisvabhāvāsvabhavābhāvāt* | vedanāskandhanirākaraṇāc ca | ātmānātmakṛte dṛṣṭī vavārāsmā(17v3)n mahāmunir iti26 tad vikalpo pi nāsti |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:235"/>ata āha nirvvṛttam abhidhatuvāṃ nivṛttaś cittagocaraḥ | anutpannāniruddhā hi nirvvāṇanam i(17v4)va dharmmatā |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:236"/>yady evaṃ kathaṃ jagrāha garbhaṃ tuṣitādhirāja ity āha |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:237"/>[2024:110]
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:238"/>na gatir nāgatiḥ kācid dharmmāṇām iti te matiḥ27 (11ab)| (na kvacid rāśibhāvo &#x27;sti ato &#x27;sti paramārthavit || 11cd)
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:239"/>nātra tuṣitād āgamanaṃ (17v5) nāpi parinirvvāṇadarśanakalpayāpi lokasya kvacid [da? sa? la nta .. sa ta] eva na kvacid rāśibhāvo (&#x27;)stīha tu pi? te vā skandhabhāvo (&#x27;)sīti kecit pāṭhaḥ | iti (18r1)śabdo yasmāt* | na gatir nāgatiḥ kācid dharmmāṇām iti te matiḥ28 | tava prajñā bhūtārthaniścayātmikā |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:240"/>ato na kvacid sāṃkhyādiparikalpitapradhānādau rāśibhā(18r2)vo &#x27;sti dharmmānāṃ | atrāsi paramārthavit29 akṛtrimārthavit*  sarvvadharmmā- nutpādārthavid30 iti yāvat*31 | anutpādadharmmāḥ satataṃ tathāgata iti vacanā(18r3)t* |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:241"/>(sarvvatrānugataś cāsi na ca jāto &#x27;si kutracit | 12ab)
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:242"/>sarvvatrānugataś cāsi | anutpādasādharmmyāt* | na cajāto &#x27;si kutracit* | na punaḥ kutracid deśe kāle hetupratyayeṣu vā paramārthataḥ (18r4) samutpanno (&#x27;)si |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:243"/>yasmāj
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:244"/>janmadharmmaśarīrābhayām32 acintyas tvam mahānune (12cd)| |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:245"/>janmaśarīraṃ sambhoganirmmāṇakāyau | dharmmaśarīraṃ tathatābhyām aci|(18r5)ntyo
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:246"/>&#x27;gocaraḥ | kuto yasmād
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:247"/>ekatvānyatvarahitaṃ33 pratiśrutkopamaṃ jagat34 | (13ab) saṃkrāntināśāpagataṃ35 buddhavāṃs tvam aninditaḥ36 (13cd) iti |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:248"/>śaśvato37cchedarahitaṃ (18v1) lakṣyalakṣaṇa38varjjataṃ | (14ab) saṃsāram avabuddhas tvaṃ svapnamāyādivat prabho || (14cd)
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:249"/>nāstīdānīm abhūtapūrvvam ityevamādinā śāśvatocchedarahitaṃ | jagaṃmīti(?)39 jagat* | kṣaṇa(18v2)mātram apy anavasthānāt | ataḥ saṃkrāntināśāpagataṃ |na saṃsarttā nāpi saṃsaraḥ | notpādo nāpi nāśaḥ | ubhayor api karttṛkarmmavat* para¦(18v3)sparāpekṣitatvāt* dvayam api svabhāvāsiddhaṃ | buddhavāṃs tvam aninditeti |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:250"/>kleśajñāyo bhavāvaraṇa- prahāṇāt* | etad eva katham iti ced yataḥ | saṃsā(18v4)ram avabuddhas tvaṃ
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:251"/>[2024:111]
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:252"/>svapnamāyādivat* prabho svabhāvānutpannaṃjñātavān | ato &#x27;ninditas tvaṃ yad āha | svāpnaṣu dehāpatha(?) caṁkramanti deśāntare grāma(18v5)gṛhāntare ca | āyānti yāntī patham āyasatvās tathaiva loko gatipañcakeṣu |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:253"/>tad avabodhāt kiṃ kṛtaṃ | svabhāvānupalambhāt* | vāsanāmūlaparyantāḥ kle(19r1)śās te &#x27;nagha nirjjitāḥ | vāsanaiva mūlakāraṇaṃ paryanto &#x27;vadhir yeṣāṃ te
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:254"/>vāsanāmulaparyantās te tvayā kleśā anagha nirjjitā (15ab) nirākṛtāḥ | ata āśraye sati rā (19r2)gaś ca viragaś copajāyata iti | kathaṃ nirākṛtāḥ | coyasmāt* |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:255"/>kleśaprakṛtitaś caiva tvayāmṛtam upārjjitaṃ iti | (15cd)
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:256"/>kleśānā(ṃ) prakṛtir avidyā | (19r3) yad vā | kleśaśabdenāvidyā tatprakṛtir ayoniśo- manasikāraḥ | asyāpi prakṛtir avidyeti | parasya rāyāśrayaṇī(?) ca siddhir asiddhir e¦(19r4) veti vadanti santa iti vacanāt* | asiddhir aniṣpattir atra prakṛtiḥ | kleśaprakṛti40taś caivety ekasmin pakṣe | punar avidyamānatvād avidye(19r5)ti vacanāt* |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:257"/>prakṛtim avidyamāna- svabhāvām avidyāṃ sūcayati | cakāras tena kleśaprakṛtitaḥ | kleśakāraṇāvidyānutpattita eva tvayāmṛtam upārjji(19v1)taṃ | nirvvāṇam adhigataṃ atha vā kleśānāṃ prakṛtiḥ svabhāvānutpattis tata eva | na punaḥ kleśānāṃ svalakṣaṇasvabhāvanāśāt* | atha vā kleśaprakṛtitaś caiveti (19v2) kleśānāṃ prakṛtiḥ svabhāvas tataḥ |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:258"/>na kleśāviṣayeṣu nendriyagaṇenāpy antarāye sthita ity anavasthita eva | na tu pratisaṃkhyānirodha (19v3)taḥ | yad vā | tat prakṛtiḥ kāraṇam vikalpas tanmātra eveti yāvat* | yad āha --- kāma jānāmi te mulaṃ saṃklpāt* kila jāyasa ityādi |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:259"/>parijñāyata (19v4) iti | idānīn nirmmāṇakāyasya svarūpaṃ darśayati | alakṣaṇaṃ tvayā dhīra dṛṣṭaṃ rūpam arūpavat* | (16ab)
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:260"/>rūpaṇālakṣaṇaṃ rūpaṃ tvayā dṛṣṭam arūpavat* | (19v5) ākāśavat* | tatvānyatvāyogāl lakṣyalakṣaṇayoḥ | caturmmāravijayād vīraḥ | tathāpi mayāpuruṣaval
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:261"/>lakṣaṇojjvala41 gātraś ca dṛśyase rūpagocare42 || (16cd)
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:262"/>rūpamā(20r1)tram eva hi gocare viṣayo yasya tasmin vineyajane | yad āha | bālā sajjanti rūpeṣu vairāgyaṃ yan te madhyamāh | svabhāvajñā vimucyante rūpasya śuddhabuddhayaḥ | nanu (20r2) rūpadarśanam eva samyagdarśanam bhagavataḥ | tac cāryyāṇam api | na tu bālānām eva | param ityādi |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:263"/>[2024:112]
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:264"/>na ca rūpeṇa43 dṛṣṭena tvaṣṭa44 ity abhidhīya¦(20r3)se | (17ab)
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:265"/>caśabdo yasmādarthe | yasmān na rūpeṇa rūpamātreṇa samyag dṛṣṭa ity abhidhīyase |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:266"/>āryaiḥ svalakṣaṇāsiddhatvāt* rūpasya | āryai¦(20r4)r api katham ity āha |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:267"/>dharmme dṛṣṭe sudṛṣṭo &#x27;si45 dharmmatāna ca dṛśyate || (17cd)
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:268"/>idaṃpratyayatāṃ paśyan dharmmam evāṇupaśyati | dharmmaṃ paśyan tato nā(20r5)rthaṃ dharmmakāyā yato jinā iti vacanād āryair ddharmme dṛṣṭe sudṛṣṭo &#x27;si46 samyag dṛṣṭo &#x27;si47 | tato &#x27;paradṛṣṭavyābhāvāt | kathaṃ tarhi dharmmatā na ca dṛśyate (20v1) | satyaṃ | naiva dṛśyate svabhāvānutpādadharmatā | tat kathaṃ bhagavato darśanam iti cet |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:269"/>anutpāda- dharmmā satataṃ tathāgata iti vacanāt* | tadālambanāyābu(20v2)ddhes tadrūpānukārāt* | anutpannapadā buddhis tadā kiṃ ¦  kena dṛśyate | ity arthato &#x27;darśanam eva samyag darśanaṃ | yad āha|
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:270"/>tathāgato hi pratibi(20v3)mbabhūtaḥ kuśalasya dharmmasya nirāśravasya | na cātra tathatā na tathāgate (‘)sti bimbañ ca saṃdṛśyata sarvvaloke ||
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:271"/>svabhāvanutpādadarśannam48 eva (20v4) bhagavato darśanam iti sthitiḥ | ata āha |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:272"/>sausiryyaṃ49  nāsti te kāye māṃsāsthirūdhiraṃ na ca | (18ab) dṛśyāsajñānapuṇyābhyāṃ(?) darpaṇapratibimbavat* (20v5) | ata eva
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:273"/>indrāyudham ivākāśe kāyaṃ darśi tavān asi (|| 18cd) nāmayo nāṇuciḥ kāye kṣuttṛṣṇāsaṃbhavo na ca | (19ab)
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:274"/>tvayā lokānuvṛttyarthaṃ darśitā laukikī(21r1)kriya || (19cd) karmmāvaraṇadoṣāpi sarvvathānagha nāsti te | 50(20ab)
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:275"/>(tvayā lokānukampārthaṃ karmaplutiḥ pradarśitā || 20cd)
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:276"/>tvayā lokānukampāyai kathaṃ nāma karmmaphalasaṃpratyayo bhavatu lokasyeti |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:277"/>karmmastutiḥ pradarśitā (21r2) | khadiraśalākādiḥ |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:278"/>[2024:113]
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:279"/>tathā
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:280"/>dharmmadhātor asaṃbhedād yānābhedo &#x27;sti51 na prabho | (21ab)
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:281"/>yānaṃ parahitādhanam ekam evātra dhīmatām iti |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:282"/>yānatri(21r3)tayam ākhyātaṃ yattvayā sattvāvatārataḥ52 (21cd) iti |53
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:283"/>śrāvakagotrapudgalāvatārārthaṃ iti śrāvakapratyekabodhisatvayānam ākhyātaṃ de¦(21r4)śitaṃ yad āha- na keci buddhaṃ jāne yana ca buddhāna dha¦rmmatāṃ | yadi lokaṃ nānuvartteya loke lokavināya iti |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:284"/>nanu bhavatu (21r5) śrāvakādibhedād yānabhedaḥ dharmmadhātvavinirbhedāt kāyabheda(ḥ) punaḥ | satyaṃ | agam api vineyajanāpekṣayā vyāvṛttikṛto bhedo so(21v1)ttasvarūpatta
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:285"/>ity āha-
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:286"/>nityo dhruvaḥ śivaḥ kāyas tava dharmmamayo jinaḥ | (22ab)
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:287"/>nityo dāvāgnivad54 vineyajanakleśendanadāhāvicchedān nirmmāṇakāyena dhruvo ¦(21v2) &#x27;punarāvṛtyā sāmbhogikaḥ kāyo dṛśyate niḥprapañcakaiḥ śivaḥ śānto &#x27;śeṣadharmma- jñeyaśuṣkendhana dāhād dharmmakāyo &#x27;tra samya(21v3)taḥ | dharmmadhātor asaṃbhedāt* | sarvvaḥ kāyas tava dharmmamayo dharmmatāsvabhāvo he jina jittopalambha55 |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:288"/>atha hi tathāvidha-
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:289"/>vineyajana(21v4)hetoś ca darśitā nivṛttis tvayā | (22cd)
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:290"/>sammukhavineyajanābhavāt* | āgamavineyajanādhigamanimittañ ca punar darśitā nivṛttis tvayā (21v5) | no tu svarūpattaḥ56 | yad āha–
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:291"/>nanu tvam parinirvvāti57 sāṃbhogikanirmmaṇābhyāṃ | nāpi dharmmo (&#x27;)ntardhīyate, tathatātmadharmmatākāyaḥ satvānāpārapā(22r1)kāye(?) nirvvaṇañ ca pradarśayeta |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:292"/>ata eva
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:293"/>lokadhātuṣv asaṃkhyeṣu58 tvadbhaktaiḥ punar īkṣase | (23ab)
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:294"/>[2024:114]
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:295"/>cyutijanmābhisambodhicakranirvṛtilālaṣair59 (|| 23cd ) iti svādhimokṣa(22r2)lampaṭaiḥ | ataḥ svādhimokṣavaśāt | sarvvaṃ kalpayanti tathā tathā |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:296"/>sambuddhacaritam bālā na buddhā dharmmadhātugā iti | tad evāha |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:297"/>na (22r3) te &#x27;sti manyanā nātha na vikalpo na ceñjanā (24ab) iti |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:298"/>lokāśayamanyanā &#x27;nuvṛttiḥ | na vikalpo &#x27;yam anyāśayo na veti | na ceñja(22r4)neti |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:299"/>mū[ḍha]nirūpaṇānusmṛtiḥ | kathaṃ bhagavataḥ pa¦rārthasampādane deśanety āha- (anābhogena te lokebuddhakṛtyaṃ pravartate || 24cd)
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:300"/>anābhogena te lokebudhdha kṛtyaṃ vaineyagotrā(22r5)natikrame [śaravi?]raśmivad veganāsaṃ pravarttate | pūrvvapraṇidhānākṣepād anābhogas tena vineyeṣu | niścaranti yathākāmaṃ kuḍyādibhyo (&#x27;)pi deśā iti(22v1)vacanāt |60
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:301"/>sarvvaṃ susthitam eva virūddhālaṅkārasthatyāpi ||
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:302"/>iti sugatam acintyam aprameya61 guṇakusumair avakīryya yan mayāptaṃ62 (| 25ab)
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:303"/>kuśalam iha bhavantu tena(22v2)sattvāḥ63paramagambhīramunītra64dharmma bhāja (25cd) iti |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:304"/>nirmmaṇakāyasthitiḥ | trividhasugataśabdārthānvitaṃ sugataṃ svaparopabhaya- cintāvi(22v3)ṣayātītam65 acintya ity anumānagocaram66 aprameyaṃ | śunyatādharmma- gāmbhīryam audāryyam itare gaṇā67 iti vacanāt |
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:305"/>gambhīrodāra(22v4)guṇakusumair avakīrya saṃstuty ayan mayayaptaṃ68 śraddhāprajñākauśalopāttaṃ kuśalam iha jagati bhavantu tena sattvāḥ69paramagambhī(22v5)ramunīndradharmmabhājaḥ | parama- gambhīrasarvvadharmmasvabhāvānutpādaśū(nya)tā | śūnyatādarśanaṃ yeṣāṃ tena muhyanti paṇḍitāḥ | iti vacanāt | evaṃ (23r1) munīndradharmmas tadbhājo bhavantu ||
+<lb n="SA_T01_anon_Catuḥstotravivaraṇa_Lumucao_2021:306"/>nirmmāṇakāyastutivṛttiḥ || o ||
+    </body>
+  </text>
+</TEI>

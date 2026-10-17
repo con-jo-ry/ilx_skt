@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Jayamatiparipṛcchāsūtra</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Collection / category: BuddhistScriptures / K10
+Source: OCR / Dharmamitra
+Edition / witness: Vinītā 2010, no. 8
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Bhikṣuṇī Vinītā (Vinita Tseng), A Unique Collection of Twenty Sūtras in a Sanskrit Manuscript from the Potala: Editions and Translation, Beijing: China Tibetology Publishing House / Vienna: Austrian Academy of Sciences, 2010, Text no. 8.</note>
+          <idno type="dharmanexus">SA_K10_Āgama_Jayamatisūtra_Vinītā_2010</idno>
+          <ref target="https://dharmamitra.org/nexus/db/sa/SA_K10_Āgama_Jayamatisūtra_Vinītā_2010/text">https://dharmamitra.org/nexus/db/sa/SA_K10_Āgama_Jayamatisūtra_Vinītā_2010/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-13">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_K10_Āgama_Jayamatisūtra_Vinītā_2010:0"/>༄༅༅/  /rgya gar skad du/ ārya dza ya ma ti nā ma ma hā yā na sū tra/ bod skad du/ &#x27;phags pa rgyal ba&#x27;i blo gros zhes bya ba theg pa chen po&#x27;i mdo/ sangs rgyas dang byang chub sems dpa&#x27; thams cad la phyag &#x27;tshal lo/ /
+<lb n="SA_K10_Āgama_Jayamatisūtra_Vinītā_2010:1"/>evaṃ mayā śrutam ekasmin samaye bhagavān rājagṛhe viharati sma gṛdhrakūṭe parvate mahatā bhikṣusaṃghena sārdham ardhatrayodaśabhir bhikṣuśataiḥ |
+<lb n="SA_K10_Āgama_Jayamatisūtra_Vinītā_2010:2"/>&#x27;di skad bdag gis thos pa dus gcig na/ bcom ldan &#x27;das mnyan yod na rgyal bu rgyal byed kyi tshal mgon med zas sbyin gyi kun dga&#x27; ra ba na dge slong gi dge &#x27;dun chen po dang / byang chub sems dpa&#x27; rab tu mang po dag dang thabs cig tu bzhugs so/ /
+<lb n="SA_K10_Āgama_Jayamatisūtra_Vinītā_2010:3"/>% !
+<lb n="SA_K10_Āgama_Jayamatisūtra_Vinītā_2010:4"/>tatra khalu bhagavān jayamatiṃ bodhisattvam āmantrayate sma |
+<lb n="SA_K10_Āgama_Jayamatisūtra_Vinītā_2010:5"/>de nas bcom ldan &#x27;das kyis byang chub sems dpa&#x27; rgyal ba&#x27;i blo gros la bka&#x27; stsal pa/
+<lb n="SA_K10_Āgama_Jayamatisūtra_Vinītā_2010:6"/>puṇyārthikena jayamate kulaputreṇa kuladuhitrā vā tathāgatāḥ pūjayitavyāḥ |
+<lb n="SA_K10_Āgama_Jayamatisūtra_Vinītā_2010:7"/>rgyal ba&#x27;i blo gros rigs kyi bu&#x27;am/ rigs kyi bu mo bsod nams &#x27;dod pas de bzhin gshegs pa la mchod par bya&#x27;o/ /
+<lb n="SA_K10_Āgama_Jayamatisūtra_Vinītā_2010:8"/>prajñārthikena śrute &#x27;bhiyogaḥ karaṇīyaḥ
+<lb n="SA_K10_Āgama_Jayamatisūtra_Vinītā_2010:9"/>shes rab &#x27;dod pas thos pa la brtson par bya&#x27;o/ /
+<lb n="SA_K10_Āgama_Jayamatisūtra_Vinītā_2010:10"/>bhogārthikena tyāgo bṛhitavyaḥ |
+<lb n="SA_K10_Āgama_Jayamatisūtra_Vinītā_2010:11"/>% bṛṃhitavyaḥ, surely
+<lb n="SA_K10_Āgama_Jayamatisūtra_Vinītā_2010:12"/>% note the reversal with Tib.
+<lb n="SA_K10_Āgama_Jayamatisūtra_Vinītā_2010:13"/>mtho ris &#x27;dod pas tshul khrims bsrung bar bya&#x27;o/ /
+<lb n="SA_K10_Āgama_Jayamatisūtra_Vinītā_2010:14"/>svargārthikena śīlaṃ rakṣitavyam |
+<lb n="SA_K10_Āgama_Jayamatisūtra_Vinītā_2010:15"/>longs spyod &#x27;dod pas gtong ba sbel bar bya&#x27;o/ /
+<lb n="SA_K10_Āgama_Jayamatisūtra_Vinītā_2010:16"/>rūpārthikena kṣāntir bhāvayitavyā |
+<lb n="SA_K10_Āgama_Jayamatisūtra_Vinītā_2010:17"/>gzugs bzang ba &#x27;dod pas bzod pa bsgom par bya&#x27;o/ /
+<lb n="SA_K10_Āgama_Jayamatisūtra_Vinītā_2010:18"/>pratibhārthikena guruṣu gauravaṃ kartavyam |
+<lb n="SA_K10_Āgama_Jayamatisūtra_Vinītā_2010:19"/>spobs pa &#x27;dod pas bla ma la gus par bya&#x27;o/ /
+<lb n="SA_K10_Āgama_Jayamatisūtra_Vinītā_2010:20"/>[no Skt.]
+<lb n="SA_K10_Āgama_Jayamatisūtra_Vinītā_2010:21"/>gzungs &#x27;dod pas mngon pa&#x27;i nga rgyal med par bya&#x27;o/ /
+<lb n="SA_K10_Āgama_Jayamatisūtra_Vinītā_2010:22"/>sukhārthikena sarvapāpāni parivarjayitāni |
+<lb n="SA_K10_Āgama_Jayamatisūtra_Vinītā_2010:23"/>% parivarjayitavyāni, surely
+<lb n="SA_K10_Āgama_Jayamatisūtra_Vinītā_2010:24"/>ye shes &#x27;dod pas tshul bzhin yid la byed pa la gnas par bya&#x27;o/ /
+<lb n="SA_K10_Āgama_Jayamatisūtra_Vinītā_2010:25"/>% !
+<lb n="SA_K10_Āgama_Jayamatisūtra_Vinītā_2010:26"/>[61-1-251a] thar pa &#x27;dod pas sdig pa thams cad spang bar bya&#x27;o/ /
+<lb n="SA_K10_Āgama_Jayamatisūtra_Vinītā_2010:27"/>dhyānārthikena yoniśomanasikāro bahulena bhāvayitavyaḥ |
+<lb n="SA_K10_Āgama_Jayamatisūtra_Vinītā_2010:28"/>% !
+<lb n="SA_K10_Āgama_Jayamatisūtra_Vinītā_2010:29"/>[no Tib.]
+<lb n="SA_K10_Āgama_Jayamatisūtra_Vinītā_2010:30"/>sarvasattvānāṃ sukhārthikena bodhāya cittam utpādayitavyam |
+<lb n="SA_K10_Āgama_Jayamatisūtra_Vinītā_2010:31"/>sems can thams cad bde bar bya bar &#x27;dod pas byang chub tu sems bskyed par bya&#x27;o/ /
+<lb n="SA_K10_Āgama_Jayamatisūtra_Vinītā_2010:32"/>mañjusvarārthikena satyavāditā bhāvayitavyā |
+<lb n="SA_K10_Āgama_Jayamatisūtra_Vinītā_2010:33"/>skad snyan pa &#x27;dod pas bden par smra bar bya&#x27;o/ /
+<lb n="SA_K10_Āgama_Jayamatisūtra_Vinītā_2010:34"/>[no Skt.]
+<lb n="SA_K10_Āgama_Jayamatisūtra_Vinītā_2010:35"/>yon tan &#x27;dod pas rab tu dben pa la dga&#x27; bar bya&#x27;o/ /
+<lb n="SA_K10_Āgama_Jayamatisūtra_Vinītā_2010:36"/>dharmārthikena kalyāṇamitrāṇi sevitavyāni |
+<lb n="SA_K10_Āgama_Jayamatisūtra_Vinītā_2010:37"/>% sevayitavyāni?
+<lb n="SA_K10_Āgama_Jayamatisūtra_Vinītā_2010:38"/>chos &#x27;dod pas dge ba&#x27;i bshes gnyen la bsten par bya&#x27;o/ /
+<lb n="SA_K10_Āgama_Jayamatisūtra_Vinītā_2010:39"/>śamathārthikenāsaṃsargo bahulena bhāvayitavyaḥ |
+<lb n="SA_K10_Āgama_Jayamatisūtra_Vinītā_2010:40"/>zhi gnas &#x27;dod pas &#x27;du &#x27;dzi med pa mang du bya&#x27;o/ /
+<lb n="SA_K10_Āgama_Jayamatisūtra_Vinītā_2010:41"/>vipaśyanārthikena śūnyatāpratyavekṣaṇā bahulena bhāvayitavyā |
+<lb n="SA_K10_Āgama_Jayamatisūtra_Vinītā_2010:42"/>lhag mthong &#x27;dod pas chos stong par so sor brtag pa mang du bya&#x27;o/ /
+<lb n="SA_K10_Āgama_Jayamatisūtra_Vinītā_2010:43"/>[no Skt.]
+<lb n="SA_K10_Āgama_Jayamatisūtra_Vinītā_2010:44"/>tshangs pa&#x27;i &#x27;jig rten &#x27;dod pas byams pa dang / snying rje dang / dga&#x27; ba dang / btang snyoms bsgom par bya&#x27;o/ /
+<lb n="SA_K10_Āgama_Jayamatisūtra_Vinītā_2010:45"/>*devamanuṣyasampadarthikena daśakuśalakarmapathāḥ samādātavyāḥ.
+<lb n="SA_K10_Āgama_Jayamatisūtra_Vinītā_2010:46"/>% restored from Tatakaragupta
+<lb n="SA_K10_Āgama_Jayamatisūtra_Vinītā_2010:47"/>lha dang mi&#x27;i longs spyod phun sum tshogs pa &#x27;dod pas dge bcu&#x27;i las kyi lam yang dag par blangs te gnas par bya&#x27;o/ /
+<lb n="SA_K10_Āgama_Jayamatisūtra_Vinītā_2010:48"/>[no Skt.]
+<lb n="SA_K10_Āgama_Jayamatisūtra_Vinītā_2010:49"/>yongs su mya ngan &#x27;da&#x27; bar &#x27;dod pas stong pa&#x27;i chos la mngon par dga&#x27; bar bya&#x27;o/ /
+<lb n="SA_K10_Āgama_Jayamatisūtra_Vinītā_2010:50"/>sarvaguṇārthikena trīṇi ratnāni pūjayitavyāni |
+<lb n="SA_K10_Āgama_Jayamatisūtra_Vinītā_2010:51"/>yon tan thams cad thob par &#x27;dod pas dkon mchog gsum la mchod par bya&#x27;o/ /
+<lb n="SA_K10_Āgama_Jayamatisūtra_Vinītā_2010:52"/>idam avocad bhagavān āttamanā jayamatir bodhisattvo mahāsattvas te ca bhikṣavo bodhisattvāḥ sā ca sarvāvatī parṣat sadevamānuṣāsuragandharvaś ca loko bhagavato bhāṣitam abhyanandann iti |
+<lb n="SA_K10_Āgama_Jayamatisūtra_Vinītā_2010:53"/>bcom ldan &#x27;das kyis de skad ces bka&#x27; stsal nas/ byang chub sems dpa&#x27; sems dpa&#x27; chen po rgyal ba&#x27;i blo gros dang / thams cad dang ldan pa&#x27;i &#x27;khor de dang / lha dang / mi dang / lha ma yin dang / dri zar bcas pa&#x27;i &#x27;jig rten yi rangs te/ bcom ldan &#x27;das kyis gsungs pa la mngon par bstod do//
+<lb n="SA_K10_Āgama_Jayamatisūtra_Vinītā_2010:54"/>āryajayamatiparipṛcchāsūtram aṣṭamaṃ samāptam |
+<lb n="SA_K10_Āgama_Jayamatisūtra_Vinītā_2010:55"/>//&#x27;phags pa rgyal ba&#x27;i blo gros zhes bya ba theg pa chen po&#x27;i mdo rdzogs so// //
+    </body>
+  </text>
+</TEI>

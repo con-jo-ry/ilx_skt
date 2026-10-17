@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kriyāsamuccaya (svābhiṣeka section)</title>
+        <author>Jagaddarpaṇa</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Author: Jagaddarpaṇa
+Collection / category: BuddhistNon-Scriptures / T14
+Source: OCR / Dharmamitra
+Edition / witness: Kaiser Library 110
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Diplomatic transcription from Kathmandu, Kaiser Library MS 110, fol. 250r, collated with Degé Tengyur D 3305, fol. 207b.</note>
+          <idno type="dharmanexus">SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Svābhiṣeka</idno>
+          <ref target="https://dharmamitra.org/nexus/db/sa/SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Svābhiṣeka/text">https://dharmamitra.org/nexus/db/sa/SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Svābhiṣeka/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-13">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Svābhiṣeka:0"/>[\C250\recto1&#x27;-3&#x27;] svayam api samayakṣatāv īdṛśam evābhiṣekaṃ yathācāryapraveśavidhau grahaṇam uktaṃ tathā gṛhnīyāt | kiṃ tu yadi sadgurur atidūre durgamārgādyupadravair agamyapradeśe prativasati nānyathā ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Svābhiṣeka:1"/>sadā samādānatas tu prajñopāyaikarasasveṣṭadevatāyogena bhāvitamanomayamaṇḍale maṇḍaleśād udakābhiṣekādikaṃ guhyaprajñājñānacaturthaparyantam āśvāsasamayaparyantaṃ ca gṛhnīyād iti svasyābhiṣekavidhiḥ ||   ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Svābhiṣeka:2"/>% rang nyid kyang dam tshig nyams na &#x27;di lta bu&#x27;i dbang bskur ba nyid ji ltar slob dpon &#x27;jug pa&#x27;i tshog gar gzung zhing bshad pa de bzhin du blang bar bya&#x27;o || &#x27;on kyang gal te bla ma dam pa dang shin tu ring ba dang lam {207b5} bgrod dka&#x27; ba la sogs pa&#x27;i nye bar &#x27;tsho bas bgrod mi nus pa&#x27;i phyogs na gnas pa ste gzhan du ma yin no ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Svābhiṣeka:3"/>rtag tu yi dam byed pa ni shes rab dang thabs ro gcig par rang gi &#x27;dod pa&#x27;i lha&#x27;i rnal &#x27;byor gyi yid kyis rang bzhin gyi dkyil &#x27;khor bsgoms nas dkyil &#x27;khor gyi dbang phyug las {207b6} chu&#x27;i dbang la sogs pa dang gsang ba dang shes rab ye shes dang bzhi pa&#x27;i mthar thug pa rnams dang dbugs dbyung ba&#x27;i mthar thug pa blang bar bya&#x27;o zhes pa rang dbang
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Svābhiṣeka:4"/>bskur ba&#x27;i cho ga&#x27;o || ||
+    </body>
+  </text>
+</TEI>

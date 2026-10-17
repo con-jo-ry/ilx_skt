@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Saṃvarodayatantra (chapter 15)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Collection / category: BuddhistScriptures / K12 (Tantra)
+Source: OCR / Dharmamitra
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (not determined): Transcription; based ultimately on the published critical edition of Shinichi Tsuda (1974)</note>
+          <idno type="dharmanexus">SA_K12_Āgama_Saṃvarodayatantra-ch15</idno>
+          <ref target="https://dharmamitra.org/nexus/db/sa/SA_K12_Āgama_Saṃvarodayatantra-ch15/text">https://dharmamitra.org/nexus/db/sa/SA_K12_Āgama_Saṃvarodayatantra-ch15/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-13">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:0"/>Samvarodaya ch. 15
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:1"/>% ! cf. A 993/02 111\upper
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:2"/>% || Brahmayāmala 4, 32/33
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:3"/>\A = TUL Matsunami 404 (41\recto5-43\recto6)
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:4"/>\B = TUL 403
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:5"/>\C = TUL 401
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:6"/>\I = ASB 59 [not available]
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:7"/>\D = TUL 402
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:8"/>\E = TUL 405
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:9"/>\P = BNP 194 [not available]
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:10"/>\L = RAS Hodgson 38 (40\verso1-42\recto?)
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:11"/>\Ne = Nagoya A87 (75\verso7-77\recto2) [NB: accompanied by a Newar translation] paper, ff. 164, NS 974, copied at Mayūravarṇamahāvihāra, by vajrācārya paṇḍita Mohanarāja
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:12"/>\Nk = Nagoya CA30 (22\verso7-23\verso7) paper, ff. 56, undated
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:13"/>\Nh = Nagoya CA50-1 (30\verso4- ) paper, ff.
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:14"/>\Nn
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:15"/>%[dṛṣṭāni vastūni mahīsamudramahīdharādīni mahānti mohāt |
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:16"/>%apahṇuvānasya sutaḥ kathaṃ tvam alpaṃ na nihnotum alaṃ kapālam ||13||]
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:17"/>athātaḥ saṃpravakṣyāmi pātralakṣaṇam uttamam |
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:18"/>% atha] \padmini
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:19"/>% athātaḥ saṃpravakṣyāmi] \A\Ne\Nk, athānyaḥtama saṃvakṣye \L, athātaḥ saṃpravakṣāmi \Nh
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:20"/>mṛnmayaṃ kūrmajaṃ caiva kāṃsajaṃ tāmra lohajam || %1
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:21"/>% mṛnmayaṃ] \Ne, mṛtmayaṃ \A\L\Nk, mṛtamayaṃ \Nh • kūrmajaṃ] \A\L\Ne, kūtmajaṃ \Nk, kūrmaja \Nh • caiva] \A\L\Ne\Nh, caivaṃ \Nk
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:22"/>% kāṃsajaṃ] \Ne\Nk\Nh, kāṃsakaṃ \L, kāṃśyajaṃ \A • lohajam] \A\Ne\Nk\Nh, rohajam \L
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:23"/>%/de nas de phyir snod kyi ni/ /mtshan nyid mchog ni yang dag bshad/
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:24"/>%/&#x27;jim pa&#x27;am de bzhin rus sbal snod/ /&#x27;khar ba&#x27;am zangs sam lcags las byas/
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:25"/>% [D 283a5-284a5]
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:26"/>hemajaṃ rūpyajaṃ vāpi śuktijaṃ śaṅkhajaṃ tathā |
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:27"/>% rūpyajaṃ] \A\Ne, rūpajaṃ \L\Nk\Nh • vāpi] \A\L\Nh, cāpi \Ne, cāpi || \Nk
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:28"/>% śuktijaṃ] \A\L\Ne\Nk, muktiṃjaṃ \Nh • śaṅkhajaṃ] \L\Ne\Nk\Nh, \omit\A\eyeskip (due to folio change)
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:29"/>nārikelavaraṃ śreṣṭhaṃ tathānyat kācasaṃbhavam || %2
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:30"/>% nārikelavaraṃ] \stand, nālikelavaraṃ \A\L\Ne, nālikelavara \Nk, nārikeravaraṃ \Nh • śreṣṭhaṃ] \A\L, śreṣṭaṃ \Ne\Nk, śraṣṭheṃ [?] \Nh % cocoa-nut
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:31"/>% tathānyat kāñcasaṃbhavam] \eme, tathānya kācasaṃbhavam \A\Ne\Nk\Nh, tathā kāñcanasaṃnibham \L,
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:32"/>%/gser ram dngul las byas pa &#x27;am/ /dung ngam de bzhin nya phyis te/
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:33"/>%/bal po se&#x27;u yi &#x27;bras bu mchog /de bzhin gzhan yang gsar byung ba/
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:34"/>% pomegranate
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:35"/>śṛṅgodbhavaṃ ca kāṣṭhādyaṃ pāṣāṇaṃ ca viśeṣataḥ |
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:36"/>% kāṣṭhādyaṃ] \A\Ne\Nh, kāṣṭhāya \L, kāṣṭādyaṃ \Nk
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:37"/>% pāṣāṇaṃ] \L\Ne\Nh, pāṣānaṃ \A\Nk
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:38"/>ekakhaṇḍaṃ dvikhaṇḍaṃ ca tricatuḥpañcakhaṇḍakam || %3
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:39"/>% ekakhaṇḍaṃ] \A\L, ekakhaṇḍa \Ne\Nk\Nh
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:40"/>% -catuḥ-] \A\L\Ne\Nk, -catu- \Nh • -pañcakhaṇḍakam] \A\pcorr, -khaṇḍakam \A\acorr, -pañcam eva ca \L\Ne\Nk\Nh
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:41"/>%/rwa las byung dang shing snod sogs/ /gzhan yang rdo snod khyad par ro/
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:42"/>%/dum bu gcig dang dum bu gnyis/ /de bzhin gsum dang bzhi dang lnga/
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:43"/>ṣaṭkhaṇḍaṃ saptakhaṇḍaṃ ca aṣṭakhaṇḍaṃ prakīrtitam |
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:44"/>% ṣaṭkhaṇḍaṃ] \Ne\Nh, ṣaṭkhaṇḍa \A\Nk, khaṇḍakhaṇḍaṃ \L • saptakhaṇḍaṃ] \A\L\Ne\Nk\Nh\pcorr (by placing a squiggle at the top), saptaṣaṇḍaṃ \Nh\acorr
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:45"/>% aṣṭakhaṇḍaṃ] \A\L\Ne, aṣṭaṣaṇḍa \Nk, aṣṭakhaṇḍa \Nh • prakīrtitam] \A\L\Ne\Nk, prakīrtitā \Nh
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:46"/>brāhmaṇakṣatriyavaiśyaśūdrastrīvarṇasaṃkaram || %4
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:47"/>% brāhmaṇa-] \padmini\A\L\Nk\Nh, brāhmaṇā- \Ne • -kṣatriyavaiśya-] \eme, -kṣatriyavaiśyaṃ ca \A, -kṣatriyāvaiśya- \L, kṣatriyā vaiśyā \Ne, kṣatriyo vaiśyaṃ \Nk, kṣatriyo vaiśya- \Nh
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:48"/>% śūdrastrīvarṇasaṃkaram] \A (suspect), śūdrāstrīvarṇāntajā \L\Nh, śūdrā strī varṇāntujā \Ne, sūdrastrīvarṇantajā \Nk
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:49"/>%/dum bu drug dang dum bu bdun/ /dum bu brgyad par rab tu grags/
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:50"/>%/bram ze rgyal rigs rje&#x27;u rigs sam/ /dmangs rigs bud med rigs mthar skyes/
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:51"/>śvetaraktasitaśyāmapītapiṅgalam eva ca |
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:52"/>% śveta] \padmini, who understands: śveta = brāhmaṇa; raktasita = kṣatriya; pītapiṅgala = vaiśya; śyāma = śūdra, justifying the vyatyaya metri causa; bhasma etc. are all antyajas
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:53"/>% śveta-] \padmini\A\L\Ne\Nk, śuta- \Nh • -raktasita-] \L\Ne, -raktāśiti- \A, -raktāśita- \Nk\Nh\pcorr, raktā + śita- \Nh • -śyāma-] \A\Ne\Nh, -śyāmā- \L, -syāmaṃ \Nk
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:54"/>% -piṅgalam] \A\L\Ne\Nk, -pigalam \Nh
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:55"/>bhasmavarṇaṃ vivarṇaṃ ca nānāvarṇaṃ ca kīrtitāḥ || %5
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:56"/>% bhasmavarṇaṃ] \L, bhasmavarṇa \A\Ne\Nk\Nh • vivarṇaṃ ca] \L\Ne\Nh, vivarṇaṃ vā \A, vivarṇa ca \Nk
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:57"/>% nānāvarṇaṃ ca kīrtitāḥ] \L\Ne, nānāvarṇaprakīrtitam \A, nānāvarṇaprakīttitā \Nk, nānāvarṇaṃ ca kīrtitā \Nh
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:58"/>% kīrtitāḥ || [\L41\recto] hīnā-
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:59"/>%/ &quot;283b&quot; dkar dang dmar dang ljang skya dang / /ser dang de bzhin ser skya ste/
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:60"/>%/thal ba&#x27;i mdog dang mdog ngan dang / /sna tshogs mdog tu rab tu grags/
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:61"/>hīnādhikadantaś ca rūpaṃ nānāvidhas tathā |
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:62"/>% hīnādhikadantaś ca] \A, hīnādhikaṃ cāntaṃ \L, hīnādhikaṃ cāntaś ca \Ne, hīṇādhikaś cātra \Nk
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:63"/>% \padmini most likely has cārdraṃ ca for cāntaṃ ca!
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:64"/>% rūpāṃ \padmini
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:65"/>% rūpaṃ nānāvidhas] \L\Ne, rutpannādhividhas \A, svarūpakaṃ nānāvidhis \Nk
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:66"/>dvipuṭaṃ gajapṛṣṭhaṃ ca vajra kākapadaṃ tathā || %6
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:67"/>% dvipuṭaṃ] \A\L\Ne, dviputaṃ \Nk • gajapṛṣṭhaṃ] \L\Ne, jagapṛṣṭhaṃ \A, gajapṛṣṭaṃ \Nk
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:68"/>% -padaṃ] \L\Ne\Nk, -padas \A
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:69"/>%/lhag pa dman dang tha ma ste/ /de bzhin dbyibs ni sna tshogs dbye/
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:70"/>%/gshongs gnyis glang po&#x27;i rgyab lta bu/ /de bzhin rdo rje&#x27;am khwa yi rkang /
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:71"/>śyāmapītaṃ ca dantaṃ ca bhinnajarjaritaṃ tathā |
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:72"/>% śyāmapītaṃ ca dantaṃ ca] \L, śyāmadanta pītadantaṃ ca \A, śyāmadantaṃ ca pītaṃ ca \Ne, syāmadantaṃ ca pītaṃ caṃ \Nk
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:73"/>% -jarjaritaṃ] \Ne\Nk, -jarjaritaṃn \A, -jajjaritaṃ \L
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:74"/>etat sarvaṃ nirīkṣyaṃ tat parīkṣāṃ tatra kārayet ||
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:75"/>% etat] \L\Ne\Nk, evaṃ \A • nirīkṣyaṃ tat \L, nirīkṣata \A, nirīkṣātra \Ne, nirīkṣetaṃ \Nk
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:76"/>% nirīkṣyaivaṃ?
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:77"/>% parīkṣāṃ] \padmini
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:78"/>%/so ni ljang dang ser ba &#x27;am/ /lto ba&#x27;am srin bus zos de bzhin/
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:79"/>%/&#x27;di kun rnam par bltas nas ni/ /de la yongs su brtag par bya/
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:80"/>susamāvasudhādeśe śithile pāṃsule &#x27;pi vā |
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:81"/>% susamāvasudhādeśe] \A\Ne, susanāhūṃbandhādeśe \L, susamābahūdhādeśi \Nk
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:82"/>% śithile] \A\L\Ne, saithilye \Nk • pāṃsule] \A, khasumaye \L, pāṃśumaye \Ne\Nk • &#x27;pi] \L, pi \A\Ne\Nk
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:83"/>mantriṇā sādhayet tatra patanaṃ tasya lakṣayet ||
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:84"/>% mantriṇā] \padmini (corr. to Nom.) \A\L\Ne, mantrinā \Nk
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:85"/>% sādhayet = gṛhṇīyāt \padmini
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:86"/>% sādhaye[\A42\recto]t
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:87"/>% patanaṃ] \A\L\Ne, patranaṃ \Nk • tasya] \L\Ne\Nk, ta \A
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:88"/>%/sa gzhi mnyam pa&#x27;i yul rnams sam/ /thang ngam bye ma&#x27;i gshongs dag tu/
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:89"/>%/sngags pas der ni bsgrubs byas la/ /de yi lhung ba brtag par bya/
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:90"/>dakṣiṇābhimukhaṃ brahmaghnaṃ goghnaṃ patati nairṛte |
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:91"/>% brahmaghnaṃ goghnaṃ] \padmini
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:92"/>% -ābhimukhaṃ] \A\Ne\Nk, -ābhimukha \L • brahmaghnaṃ] \padmini\L\Ne\Nk, brahmaghna \A
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:93"/>% goghnaṃ] \A\Ne\Nk, \omit\L\eyeskip • patati] \Ne, patani \A\Nk, patatita \L • nairṛte] \Ne, naiṛte \A, naiṛtyām \L, naiṛtyam \Nk
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:94"/>vāruṇyāṃ varṇahīnaṃ ca vāyavyāṃ mantrabhedanam ||
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:95"/>% vāruṇyāṃ] \A, varurṇe \L, vāruṇaṃ \Ne, vāruṇyaṃ \Nk • varṇahīnaṃ] \padmini\A\Ne\Nk, hīnaṃ \L • ca] \A\L\Nk, tu \Ne
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:96"/>% varṇahīnaṃ] \padmini (understanding it as ayaśaskaram)
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:97"/>% vāyavyāṃ] \A\Ne, vāyuvye \L, vāyavyaṃ \Nk
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:98"/>% mantrabhedanam] \padmini
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:99"/>%/lhor bltas bram ze &#x27;jigs par &#x27;gyur/ /bden bral lhung bas ba lang dang /
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:100"/>%/rigs med pa dang rigs ngan &#x27;jigs/ /rlung bltas sngags ni &#x27;jigs pa ste/
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:101"/>uttarābhimukham aiśvaryam aiśānyāṃ mantrasiddhidam |
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:102"/>% -ābhimukham] \L\Ne\Nk, -ābhimukhaṃm \A • aiśvaryam] \A\Ne, aiśvarya \L\Nk
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:103"/>% aiśānyāṃ] \Nk, aiśānyā \A, īśānya \L, īśāne \Ne
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:104"/>pūrve &#x27;ghāti vrataśrāvi āgneyāsyopahārakam ||
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:105"/>% pūrve] \Ne, \omit\A\L\Nk
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:106"/>% &#x27;ghāti vrataśrāvi \padmini, ātmadhvāvī \A, ādyādinvataśrodhī \L, āghātī vrataścāvīrya \Ne, aghātī vrataśrāvī \Nk
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:107"/>% āgneyāsyo-] \padmini, āgneyīśyo- \A, āgnesyopaya- \L, āgneyasyo- \Ne, agneyīso- \Nk
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:108"/>%/byang du bltas na phyug por &#x27;gyur/ /dbang ldan sngags kyi dngos grub ste/
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:109"/>%/brtul zhugs rgyun ni nyams pa med/ /mer bltas nye bar &#x27;phrog pa ste/
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:110"/>cauraś cādhomukhaṃ caiva strīghātī unmukhasthitam |
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:111"/>% cauraś cādhomukhaṃ] \Ne, cauraśyādhomukhaṃ \A, cauraśvādhomukhaṃ \L, rauraś cādhomukhaṃ \Nk
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:112"/>% cauraś] \padmini
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:113"/>% strīghātī] \padmini
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:114"/>% unmukha-] \L\Ne\Nk, ūrdhvamukha- \A
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:115"/>pārśve patati caṇḍālaṃ vijñeyaṃ pātralakṣaṇam ||
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:116"/>% pārśve] \A\L\Nk, pāśve \Ne • caṇḍālaṃ] \padmini, caṇḍāro \A, cāṇḍālaṃ \L\Ne, varṇātaṃ \Nk
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:117"/>% vijñeyaṃ] \A, vijñeyā \L\Ne, vijñayā \Nk • -lakṣaṇam] \A\Ne\Nk, -lakṣaṇa \L
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:118"/>%/de bzhin &#x27;og bltas chom rkun ma&#x27;o/ /steng bltas gnas pas bud med &#x27;joms/
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:119"/>%/logs su lhung bas gtum mo ste/ /snod kyi mtshan nyid rnam shes bya/
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:120"/>ekakhaṇḍena pīṭhaḥ syād dvikhaṇḍaṃ maṇḍaleśvaraḥ |
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:121"/>% ekakhaṇḍena] \A\Ne\Nk, ekakhāṇḍana \L • pīṭhaḥ] \padmini, pīna \A, pīṭha \L\Ne\Nk • syād] \A\L\Ne, syāt \Nk
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:122"/>% pīṭhaḥ syād] \padmini (= pīṭhādibhramaṇe &#x27;khinnaḥ syāt)
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:123"/>% maṇḍaleśvaraḥ] \padmini, maṇḍaleśvaram \A\L\Ne\Nk
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:124"/>trikhaṇḍaṃ sādhakasiddhiṃ mantrasiddhiṃ catuṣkalam ||
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:125"/>% trikhaṇḍaṃ] \A\L\Ne, trikhaṇḍa \Nk • sādhakasiddhiṃ] \padmini\L\Nk, sādhakasiddhidaṃ \A, sādhakasiddhiḥ \Ne
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:126"/>% mantrasiddhiṃ] \L, mantrasiddhiś \A, mantrasiddhi \Ne, mantasiddhiś \Nk • catuṣkalam] \padmini\Ne, catuśkaram \A\L, caturthakam \Nk
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:127"/>%/dum bu gcig pa gnas la dbang / /dum bu gnyis pa dkyil &#x27;khor dbang /
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:128"/>%/dum gsum sgrub po&#x27;i dngos grub &#x27;gyur/ /dum bu bzhi pas sngags dngos grub/
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:129"/>śāntiḥ puṣṭiḥ pañcakhaṇḍaṃ [mantriṇā siddhir uttamā |]
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:130"/>% śāntiḥ puṣṭiḥ pañcakhaṇḍaṃ] \A, śāntipuṣṭiṃ tu pañcame \L\Ne, śāntipustiṃ tu paśvaṃma \Nk
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:131"/>% mantriṇā siddhir uttamā] \A, \omit\L\Ne\Nk
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:132"/>ṣaṭkhaṇḍaṃ bhaikṣakaṃ jñeyaṃ saptakhaṇḍaṃ tu vaśyake ||
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:133"/>% bhaikṣakaṃ] \padmini\A\L\Nk (=bhikṣālābhakṛt), bhaikṣaka \Ne • jñeyaṃ] \eme, jñayaṃ \A, jñeyam | \L\Ne, jñaṃyaṃ \Nk
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:134"/>% -khaṇḍaṃ tu] \L\Ne, -ṇḍaṃ tu \A, -khaṇḍagtu [?] \Nk • vaśyake] \L\Nk, vṛttivaśyake \A, vaiśyake \Ne
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:135"/>%/lnga pa yis ni zhi dang rgyas/
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:136"/>%/dum drug slong mo rnyed par shes/ /dum bu bdun pas dbang du byed/
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:137"/>aṣṭakhaṇḍaṃ tathā varjet siddhisādhananiṣphalam |
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:138"/>% varjet] \A\Ne, varja \L, varjaye 2 \Nk
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:139"/>% -sādhananiṣphalam] \padmini, -sādhananisphalam \A\Ne\Nk, -sādhakaniṣphalam \L
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:140"/>% siddhisādhananiṣphalam] \padmini (only for śāntyādi, for krūra it&#x27;s ok)
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:141"/>ekasrotraṃ bhaved brahmā dvisrotraṃ kṣatriyo bhavet ||
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:142"/>% eka-] \padmini
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:143"/>% ekaśrotraṃ] \A\L, ekasrotaṃ \Ne, ekaśrota \Nk • bhaved] \L\Ne\Nk, bhavyad \A • brahmā] \A\L\Ne, brahma \Nk
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:144"/>% ekaśro[\A42\verso]traṃ
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:145"/>% dvisrotraṃ] \A\L\Ne, dviśrotaṃ \Nk • kṣatriyo] \A\Ne\Nk, kṣatriyā \L
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:146"/>%/dngos grub sgrub pa &#x27;bras med phyir/ /de bzhin dum bu brgyad pa spang /
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:147"/>%/bu ga gcig pa bram zer &#x27;gyur/ /bu ga gnyis pa rgyal rigs &#x27;gyur/
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:148"/>trisrotraṃ vaiśya vijñeyaṃ catuḥsrotraṃ tu śūdrayoḥ |
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:149"/>% trisrotraṃ] \A\Ne, trisrotra \L, triśrotaṃ \Nk • vijñeyaṃ] \eme, vijñayaṃ \A, vijñeyā \L\Nk, vijñeyaḥ \Ne
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:150"/>% catuḥsrotraṃ] \L\Ne, catuḥśotra \A, catuśrotaṃ \Nk
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:151"/>% śūdrayoḥ] \A\L\Nk, śudrayoḥ \Ne
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:152"/>asrotraṃ bahusrotraṃ vā varjanīyaṃ vicakṣaṇaiḥ ||
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:153"/>% asrotraṃ] \A\L, asrotaṃ \Ne, aśrotaṃ \Nk • bahusrotraṃ] \L, \omit\A\eyeskip, bahusrotaṃ \Ne, bahūśrotaṃ \Nk
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:154"/>% varjanīyaṃ] \A, varjaṇīyā \L\Ne\Nk • vicakṣaṇaiḥ] \A, vicakṣaṇaḥ \L\Ne\Nk
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:155"/>%/bu ga gsum pa rje&#x27;u rigs shes/ /bu ga bzhi pa dmangs rigs rnams/
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:156"/>%/bu ga mang po&#x27;am bu ga med/ /mkhas pa yis ni spang bya/ %[sic!?]
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:157"/>[tanusva svalpakāyaṃ ca pītavarṇaṃ ca yad bhavet |]
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:158"/>% whole line] \A, \omit\L\Ne\Nk
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:159"/>strīkapālaṃ na gṛhṇīyād varṇabhraṣṭaṃ viśeṣataḥ |
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:160"/>% -kapālaṃ] \Ne\Nk, -kapāraṃ \A, -kapāle \L • gṛhṇīyād] \L, gṛhnīyāt \A\Ne, gṛṣṇīyād \Nk
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:161"/>% -bhraṣṭaṃ] \Ne, -bhaṣṭaṃ \A, -bhraṣṭa \L\Nk • viśeṣataḥ] \L\Ne, visyaṣataḥ \A, viśetaḥ \Nk
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:162"/>hīnadantā vidantāś ca agrāhyāś ca śubhotsave ||
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:163"/>% agrāhyāś ca] \L, āgrāhyāḥ \A\Ne\Nk • śubhotsave] \A\Ne, śubhātsave \L, sūbhotsahe \Nk
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:164"/>% śubhecchayā?
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:165"/>%/bud med thod pa&#x27;ang mi gzung ste/ /khyad par du ni mdog nyams dang /
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:166"/>%/so med pa&#x27;am so nyams pa/ /dge ba &#x27;dod pas bcang mi bya/
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:167"/>śyāmadanta bahukleśaḥ kalikākapadena ca |
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:168"/>% śyāmadanta] \A\L\Ne, śyāmadantā \Nk • bahukleśaḥ] \eme, bahukreśaḥ \A, bahūkleśa \L, bahukleśaṃ \Ne, bahūkeśaṃ \Nk
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:169"/>% kalikākapadena] \L\Ne, kākapadena \A, kāpadena \Nk
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:170"/>dvipuṭena bhaved dhiṃsā gajapṛṣṭhaṃ vyādhijaṃ tathā ||
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:171"/>% -puṭena] \L\Ne\Nk, -putena \A • bhaved dhiṃsā] \L\Ne, bhavet hiṃsā \A, bhavet hiṃsā || \Nk
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:172"/>% gajapṛṣṭhaṃ] \eme, gajapṛṣṭhe \A\Ne, gajapṛṣṭha \L, rājapṛṣṭa \Nk • vyādhijaṃ] \A\L\Ne, vyādhijas \Nk
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:173"/>%/so ljang bas ni sdug bsngal mang / /khwa yi rkang &#x27;dres rtsod par &#x27;gyur/
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:174"/>%/gshong bu gnyis pas rgud par &#x27;gyur/ /de bzhin &quot;284a&quot; glang po&#x27;i rgyab kyis nang / [=nad/ !!!]
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:175"/>kāmadhenuṃ caturnimna madhyadeśe tu dṛśyate |
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:176"/>% kāmadhenuṃ] \L, kāmadhenuś \A, kāmadhenu \Ne\Nk • caturnimna] \A\L, caturnimnaṃ \Ne, catunimnaṃ \Nk
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:177"/>% madhya-] \L\Ne, sadhe \A, madhye \Nk
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:178"/>puras tato dvayo nimnaṃ cintāmaṇir iti smṛtaḥ ||
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:179"/>% puras tato] \L\Ne\Nk, purastāc ca \A\pcorr, purastāc cā \A\acorr • nimnaṃ] \L\Ne, nimna \A\Nk
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:180"/>% cintāma[\L42\recto]ṇim
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:181"/>% cintāmaṇir iti] \A, cintāmaṇim i \L, cintāmaṇi iti \Ne, cintāmani iti \Nk • smṛtaḥ] \A, smṛtam \L\Ne\Nk
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:182"/>%/dbus kyi gnas su gshong bu bzhi/ /&#x27;dod &#x27;jo&#x27;i bar ni blta bar bya/
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:183"/>%/mdun phyogs su ni gshong bu gnyis/ /yid bzhin nor bu zhes byar bshad/
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:184"/>śaṅkhakundenduvarṇābhaṃ susnigdhaṃ cārudarśanam |
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:185"/>% -kundendu-] \A\Ne, -kuṇḍendu- \L, -kaśendū- [?] \Nk
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:186"/>% susnigdhaṃ] \A, susnigdha \L\Nk, sunigdhaṃ \Ne • cāru-] \A\L\Ne, cārū- \Nk
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:187"/>siddhidaṃ sarvamantrāṇāṃ sādhakasiddhim āpnuyāt ||
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:188"/>% siddhidaṃ] \A\L\Ne, siddhida \Nk • -mantrāṇāṃ] \A\L\Ne, -mantrāṇāṃ || \Nk
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:189"/>% sādhaka-] \L\Nk, sādhakaḥ \A, sādhakaṃ \Ne
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:190"/>%/dung dang kunda zla ba yi/ /mdog mtshungs snum par shis par blta/
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:191"/>%/sngags rnams kun gyi dngos grub ster/ /sgrub pos dngos grub thob par byed/
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:192"/>pītavarṇabṛhadrūpaṃ padmābhaṃ padmalāñchanam |
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:193"/>% bṛhadrūpaṃ] \A\L\Ne, bṛhṛdrūpaṃ \Nk
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:194"/>% padmābhaṃ] \padmini\A\Ne, padmasaṃ \L, padmābhe \Nk • padmalāñchanam] \padmini\L\Ne\Nk, padmarābhaṃñchanam \A
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:195"/>% padmā[\A43\recto]bhaṃ
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:196"/>praśastaṃ pauṣṭike proktaṃ dhasaṃpatti siddhyati ||
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:197"/>% praśastaṃ] \Ne, praśaṣṭe \A, praśastas tu \L, praśaste \Nk • pauṣṭike] \A\Ne\Nk, pauṣṭika \L • proktaṃ] \A\L\Ne, prāktaṃ \Nk
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:198"/>%/che zhing mdog ni ser po &#x27;am/ /padma lta bu padmas mtshan/
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:199"/>%/rgyas la bsngags par gsungs pa ste/ /nor ni phun sum tshogs pa &#x27;grub/
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:200"/>raktavarṇaṃ tu yat pātraṃ atha vā raktabindulāñchanam |
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:201"/>% yat] \A\L, yo \Ne, yā \Nk • pātraṃ] \L\Ne, prātraṃ \A, pātra \Nk •
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:202"/>% raktabindulāñchanam] \L, raktabindusaṃlāṃcchitam \A, raktabindusalāñchitam \Ne\Nk
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:203"/>vaśyākṛṣṭimahākāle siddhidaṃ pātralakṣaṇam ||
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:204"/>% vaśyākṛṣṭimahākāle] \L, kṛti yadā kāle \A, vaśyākṛṣṭi sadākāle \Ne\Nk
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:205"/>% pātra-] \L\Ne\Nk, prātra- \A
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:206"/>%/snod ni gang zhig kha dog dmar/ /gzhan yang thig le dmar pos mtshan/
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:207"/>%/rtag tu dbang dang dgug pa yi/ /dngos grub ster snod mtshan nyid do/
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:208"/>gomukhākhyānukāri ca sudṛḍhaṃ muktikā bhavet |
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:209"/>% gomukhākhyānukāri ca] \conj, gomukhāśyānukāliś ca \A, gomukhāsyāntukāriś ca \L\Ne, gomūkhāsyānukāriś ca \Nk
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:210"/>% sudṛḍhaṃ] \A\Ne\Nk, sadṛḍha- \L • muktikā] \A\L\Ne, sūktikā \Nk
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:211"/>% śuktijaṃ] ? \padmini
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:212"/>māraṇoccāṭavidveṣe praśastaṃ tu viśeṣataḥ ||
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:213"/>% māraṇoccāṭavidveṣe] \Ne, māraṇoccātavidveṣe \A, māraṇoccāṭane vidveṣe \L, māraṇoccāṭanavidveṣe \Nk
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:214"/>% viśeṣataḥ] \L\Ne\Nk, viśeṣāvaśyātaḥ \A
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:215"/>%/ba lang kha lta bu yi dbyibs/ /shin tu sra zhing mu tig bcas/
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:216"/>%/gsad dang bskrad dang dbye ba la/ /khyad par du ni rab tu bsngags/
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:217"/>praśastaṃ pātra saṃprāptaṃ sarvakāmaphalapradam |
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:218"/>% praśastaṃ] \L, prasasta \A\Ne, prasaṣṭa \Nk • pātra] \L\Ne\Nk, prāptaṃ \A • saṃprāptaṃ] \A\L\Ne, saṃpāptaṃ \Nk
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:219"/>% -pradam] \L\Ne, -paradam \A, -prada \Nk
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:220"/>sādhayet sādhako devi pīṭhakṣetraṃ ca paryaṭet |
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:221"/>% sādhayet sādhako devi] \conj, yat sādhakā devī \A, sādhayan sādhakaṃ devī \L, sādhayet sādhakaṃ devī \Ne, sādhayet sādhaka devi \Nk
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:222"/>% -kṣetraṃ ca] \L\Ne, -kṣatreṃ ca \A, -kṣatraṃ ca \Nk
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:223"/>etallakṣaṇasaṃpūrṇaṃ gṛhṇīyāt siddhim āpyate ||   ||
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:224"/>% whole line \omit\Ne
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:225"/>% -saṃpūrṇaṃ] \A\L\Ne, -saṃpūrṇa \Nk
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:226"/>% gṛhṇīyāt] \L, gṛhnīyāt \A\Nk • siddhim āpyate] \L, siddhi prāpyate \A\Nk
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:227"/>%/snod ni rab bsngags yang dag &#x27;thob/ /&#x27;dod pa&#x27;i &#x27;bras bu kun rab ster/
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:228"/>%/gnas dang zhing du bgrod nas ni/ /sgrub pos lha mo bsgrub par bya/
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:229"/>%/mtshan nyid &#x27;di dag yongs rdzogs pa/ /bcangs na dngos grub par &#x27;gyur/
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:230"/>iti śrīsamvarodayamahātantre pātralakṣaṇanirdeśapaṭalaḥ pañcadaśamaḥ ||   ||
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:231"/>% śrīsamvarodayamahātantre] \L, \omit\A\Ne\Nk
+<lb n="SA_K12_Āgama_Saṃvarodayatantra-ch15:232"/>%/&#x27;di ni snod kyi mtshan nges par bstan pa&#x27;i rim par phye ba ste/ /bcwa lnga ba&#x27;o/ /
+    </body>
+  </text>
+</TEI>

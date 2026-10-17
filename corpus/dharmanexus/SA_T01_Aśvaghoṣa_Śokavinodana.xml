@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Śokavinodana</title>
+        <author>Aśvaghoṣa</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Author: Aśvaghoṣa
+Collection / category: BuddhistNon-Scriptures / T01
+Source: OCR / Dharmamitra
+Edition / witness: Szántó Péter-Dániel. 2022. “Aśvaghoṣa. Gyászbeszéd.” Keletkutatás 2022. tavasz, 5–20.
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Szántó Péter-Dániel. 2022. “Aśvaghoṣa. Gyászbeszéd.” Keletkutatás 2022. tavasz, 5–20.</note>
+          <idno type="dharmanexus">SA_T01_Aśvaghoṣa_Śokavinodana</idno>
+          <ref target="https://dharmamitra.org/nexus/db/sa/SA_T01_Aśvaghoṣa_Śokavinodana/text">https://dharmamitra.org/nexus/db/sa/SA_T01_Aśvaghoṣa_Śokavinodana/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-13">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_T01_Aśvaghoṣa_Śokavinodana:0"/>kaścit priyaviyogārtaḥ pradīptaḥ śokavahninā |
+<lb n="SA_T01_Aśvaghoṣa_Śokavinodana:1"/>dhṛtim ālambya yatnena svacittaṃ paribhāṣate || 1 ||
+<lb n="SA_T01_Aśvaghoṣa_Śokavinodana:2"/>prāptakarmapathārūḍho vināhūtena yo janaḥ |
+<lb n="SA_T01_Aśvaghoṣa_Śokavinodana:3"/>gato vināparādhena tatra kiṃ paritapyase || 2 ||
+<lb n="SA_T01_Aśvaghoṣa_Śokavinodana:4"/>yadi tasyaiva maraṇaṃ bhaven nānyasya kasyacit |
+<lb n="SA_T01_Aśvaghoṣa_Śokavinodana:5"/>uccair ākrandituṃ yuktaṃ mahān paribhavo hy ayam || 3 ||
+<lb n="SA_T01_Aśvaghoṣa_Śokavinodana:6"/>atha sarvasya jātasya sthitaṃ maraṇam agrataḥ |
+<lb n="SA_T01_Aśvaghoṣa_Śokavinodana:7"/>sāmānyaṃ vyasanaṃ dṛṣṭvā na śokaṃ kartum arhasi || 4 ||
+<lb n="SA_T01_Aśvaghoṣa_Śokavinodana:8"/>priyasaṃgamalobhena janaḥ śokena dahyate |
+<lb n="SA_T01_Aśvaghoṣa_Śokavinodana:9"/>camarī vālalobhena dāveneva vanāntare || 5 ||
+<lb n="SA_T01_Aśvaghoṣa_Śokavinodana:10"/>yadā sarvaiḥ prayātavyaṃ yatra tatra gato hy asau |
+<lb n="SA_T01_Aśvaghoṣa_Śokavinodana:11"/>kimarthaṃ kriyate śokas tasmin pūrvataraṃ gate || 6 ||
+<lb n="SA_T01_Aśvaghoṣa_Śokavinodana:12"/>mṛtyor atyugradaṇḍasya pramattā khalv iyaṃ prajā |
+<lb n="SA_T01_Aśvaghoṣa_Śokavinodana:13"/>vane jighāṃsoḥ siṃhasya mṛgīvābhimukhī sthitā || 7 ||
+<lb n="SA_T01_Aśvaghoṣa_Śokavinodana:14"/>sarvopāyair yadā nāsti martavyasya pratikriyā |
+<lb n="SA_T01_Aśvaghoṣa_Śokavinodana:15"/>dhṛtim ālambase kasmāj jalān mīna ivoddhṛtaḥ || 8 ||
+<lb n="SA_T01_Aśvaghoṣa_Śokavinodana:16"/>kaścit tāvat tvayā dṛṣṭaḥ śruto vā śaṅkito &#x27;pi vā |
+<lb n="SA_T01_Aśvaghoṣa_Śokavinodana:17"/>kṣitau vā yadi vā svarge yo jāto na mariṣyati || 9 ||
+<lb n="SA_T01_Aśvaghoṣa_Śokavinodana:18"/>traidhātukam idaṃ kṛtsnaṃ dahyate &#x27;nityatāgninā |
+<lb n="SA_T01_Aśvaghoṣa_Śokavinodana:19"/>dāvāgninā pradīptena vanaṃ kusumitaṃ yathā || 10 ||
+<lb n="SA_T01_Aśvaghoṣa_Śokavinodana:20"/>nityasaṃjñāviparyastā bhavāgrād api jantavaḥ |
+<lb n="SA_T01_Aśvaghoṣa_Śokavinodana:21"/>kṛṣyante mṛtyupāśena pāśeneva mahāgajāḥ || 11 ||
+<lb n="SA_T01_Aśvaghoṣa_Śokavinodana:22"/>niṣevya dhyānajaṃ saukhyaṃ brahmā brahmālayāt punaḥ |
+<lb n="SA_T01_Aśvaghoṣa_Śokavinodana:23"/>nipātyate &#x27;nityatayā nadīkūlam ivāmbunā || 12 ||
+<lb n="SA_T01_Aśvaghoṣa_Śokavinodana:24"/>purandarasahasrāṇi cakravartiśatāni ca |
+<lb n="SA_T01_Aśvaghoṣa_Śokavinodana:25"/>nirvāpitāni kālena pradīpā iva vāyunā || 13 ||
+<lb n="SA_T01_Aśvaghoṣa_Śokavinodana:26"/>gatvāpi dūram ākāśaṃ pañcābhijñā maharṣayaḥ |
+<lb n="SA_T01_Aśvaghoṣa_Śokavinodana:27"/>tatra gantum aśaktās te yatra mṛtyor agocaraḥ || 14 ||
+<lb n="SA_T01_Aśvaghoṣa_Śokavinodana:28"/>pṛthivī dahyate yatra meruś cāpi viśīryate |
+<lb n="SA_T01_Aśvaghoṣa_Śokavinodana:29"/>śuṣyate sāgarajalaṃ śarīre tatra kā kathā || 15 ||
+<lb n="SA_T01_Aśvaghoṣa_Śokavinodana:30"/>vajrasāraśarīrāṇāṃ buddhānāṃ yady anityatā |
+<lb n="SA_T01_Aśvaghoṣa_Śokavinodana:31"/>kadalīgarbhatulyeṣu kā cintānyeṣu dehiṣu || 16 ||
+<lb n="SA_T01_Aśvaghoṣa_Śokavinodana:32"/>hriyate mṛtyunā jantuḥ pariṣvakto &#x27;pi bāndhavaiḥ |
+<lb n="SA_T01_Aśvaghoṣa_Śokavinodana:33"/>sāgarāntarjalagato garuḍeneva pannagaḥ || 17 ||
+<lb n="SA_T01_Aśvaghoṣa_Śokavinodana:34"/>hā jīvaloka hā kānte krandamānaṃ sudāruṇam |
+<lb n="SA_T01_Aśvaghoṣa_Śokavinodana:35"/>maṇḍūka iva sarpeṇa gīryate mṛtyunā jagat || 18 ||
+<lb n="SA_T01_Aśvaghoṣa_Śokavinodana:36"/>agatvā khalv ayaṃ lokaḥ kāryapāraṃ sudustaram |
+<lb n="SA_T01_Aśvaghoṣa_Śokavinodana:37"/>praviśaty ānanaṃ mṛtyoḥ poto vā makarālayam || 19 ||
+<lb n="SA_T01_Aśvaghoṣa_Śokavinodana:38"/>paralokaṃ yadā kaścid gacchantaṃ nānugacchati |
+<lb n="SA_T01_Aśvaghoṣa_Śokavinodana:39"/>nirviśeṣo bhavet tatra dveṣyo vā yadi vā priyaḥ || 20 ||
+<lb n="SA_T01_Aśvaghoṣa_Śokavinodana:40"/>kṛtvā parajane snehaṃ janaḥ svajanasaṃjñayā |
+<lb n="SA_T01_Aśvaghoṣa_Śokavinodana:41"/>majjaty āśāmaye paṅke mahāpaṅke yathā gajaḥ || 21 ||
+<lb n="SA_T01_Aśvaghoṣa_Śokavinodana:42"/>labdhās tyaktāś ca saṃsāre yāvanto bāndhavās tvayā |
+<lb n="SA_T01_Aśvaghoṣa_Śokavinodana:43"/>na santi khalu tāvantyo gaṅgāyām api bālukāḥ || 22 ||
+<lb n="SA_T01_Aśvaghoṣa_Śokavinodana:44"/>ya eva te prayatnena lālitaḥ putrasaṃjñayā |
+<lb n="SA_T01_Aśvaghoṣa_Śokavinodana:45"/>sa eva janmāntaritas tāḍitaḥ śatrusaṃjñayā || 23 ||
+<lb n="SA_T01_Aśvaghoṣa_Śokavinodana:46"/>yasyaiva te stanau pītau svajanasya bhavāntare |
+<lb n="SA_T01_Aśvaghoṣa_Śokavinodana:47"/>tasyaiva rudhiraṃ pītaṃ hatvā māṃsaṃ ca bhakṣitam || 24 ||
+<lb n="SA_T01_Aśvaghoṣa_Śokavinodana:48"/>ya eva te bhaved bhartā śataśaḥ śirasārcitaḥ |
+<lb n="SA_T01_Aśvaghoṣa_Śokavinodana:49"/>sa eva te bhavaddāsaḥ pādena śataśo hataḥ || 25 ||
+<lb n="SA_T01_Aśvaghoṣa_Śokavinodana:50"/>anyathā dṛśyate pūrvam anyathā parivartate |
+<lb n="SA_T01_Aśvaghoṣa_Śokavinodana:51"/>janaḥ kāraṇabhāvena saptarṣīṇāṃ yathā gaṇaḥ || 26 ||
+<lb n="SA_T01_Aśvaghoṣa_Śokavinodana:52"/>samāgamya viśīryante yathā khe varṣabindavaḥ |
+<lb n="SA_T01_Aśvaghoṣa_Śokavinodana:53"/>samāgamya vinaśyanti saṃsāre prāṇinas tathā || 27 ||
+<lb n="SA_T01_Aśvaghoṣa_Śokavinodana:54"/>saṃgamo vigamaś caiva muhūrtam iha dehinām |
+<lb n="SA_T01_Aśvaghoṣa_Śokavinodana:55"/>nadyām udbhrāntavelāyāṃ kāṣṭhānāṃ plavatām iva || 28 ||
+<lb n="SA_T01_Aśvaghoṣa_Śokavinodana:56"/>aho mohasya sāmarthyaṃ yena vyāmohitaṃ jagat |
+<lb n="SA_T01_Aśvaghoṣa_Śokavinodana:57"/>viyogaduḥkhaṃ vismṛtya saṃyoge praṇayaḥ kṛtaḥ || 29 ||
+<lb n="SA_T01_Aśvaghoṣa_Śokavinodana:58"/>raṅgabhūmir na sā kācic chuddhāvāsavivarjitā |
+<lb n="SA_T01_Aśvaghoṣa_Śokavinodana:59"/>vicitraiḥ karmanepathyair yatra sattvair na nāṭitam || 30 ||
+<lb n="SA_T01_Aśvaghoṣa_Śokavinodana:60"/>yat pītaṃ kvathitaṃ tāmraṃ narakeṣu punaḥ punaḥ |
+<lb n="SA_T01_Aśvaghoṣa_Śokavinodana:61"/>tatpramāṇaṃ jalaṃ naiva samudreṣv api vidyate || 31 ||
+<lb n="SA_T01_Aśvaghoṣa_Śokavinodana:62"/>purīṣabhakṣaṇaṃ yac ca śvavarāhagatau kṛtam |
+<lb n="SA_T01_Aśvaghoṣa_Śokavinodana:63"/>meroḥ parvatarājasya pramāṇād adhikaṃ bhavet || 32 ||
+<lb n="SA_T01_Aśvaghoṣa_Śokavinodana:64"/>ruditaṃ yac ca saṃsāre bandhūnāṃ viprayogataḥ |
+<lb n="SA_T01_Aśvaghoṣa_Śokavinodana:65"/>teṣāṃ netrāśrubindūnāṃ samudro &#x27;pi na bhājanam || 33 ||
+<lb n="SA_T01_Aśvaghoṣa_Śokavinodana:66"/>śirāṃsi yāni cchinnāni bhojanārthe parasparam |
+<lb n="SA_T01_Aśvaghoṣa_Śokavinodana:67"/>teṣām uccataro rāśir brahmalokād viśiṣyate || 34 ||
+<lb n="SA_T01_Aśvaghoṣa_Śokavinodana:68"/>bhakṣitāḥ pāṃsavo ye &#x27;tra kṛmibhūtair bubhukṣitaiḥ |
+<lb n="SA_T01_Aśvaghoṣa_Śokavinodana:69"/>pūraṇaṃ tat suparyāptaṃ kṣīrodasya mahodadheḥ || 35 ||
+<lb n="SA_T01_Aśvaghoṣa_Śokavinodana:70"/>kṣuttarṣaduḥkhaṃ yat prāptaṃ pretaloke sudāruṇam |
+<lb n="SA_T01_Aśvaghoṣa_Śokavinodana:71"/>tac chrutvā kaḥ sahṛdayaḥ svamāṃsāny api na tyajet || 36 ||
+<lb n="SA_T01_Aśvaghoṣa_Śokavinodana:72"/>nṛṣu dāridryadoṣeṇa yānubhūtā viḍambanā |
+<lb n="SA_T01_Aśvaghoṣa_Śokavinodana:73"/>tāṃ vaktum asamartho &#x27;smi jihvā lajjāvatīva me || 37 ||
+<lb n="SA_T01_Aśvaghoṣa_Śokavinodana:74"/>nākapṛṣṭhe ciraṃ saukhyam anubhūya divaukasaḥ |
+<lb n="SA_T01_Aśvaghoṣa_Śokavinodana:75"/>atṛptā viṣayair divyaiḥ śuṣkakāṣṭhair ivāgnayaḥ || 38 ||
+<lb n="SA_T01_Aśvaghoṣa_Śokavinodana:76"/>punas tripiṣṭapād bhraṣṭā gāṃ patanti gatāyuṣaḥ |
+<lb n="SA_T01_Aśvaghoṣa_Śokavinodana:77"/>śubhakarmaparikṣīṇāś chinnapakṣāḥ khagā iva || 39 ||
+<lb n="SA_T01_Aśvaghoṣa_Śokavinodana:78"/>karmāviddhaṃ jagad idaṃ yasmād bhramati cakravat |
+<lb n="SA_T01_Aśvaghoṣa_Śokavinodana:79"/>tasmāt saṅgaṃ parityajya mokṣe buddhir niveśyatām || 40 ||
+    </body>
+  </text>
+</TEI>

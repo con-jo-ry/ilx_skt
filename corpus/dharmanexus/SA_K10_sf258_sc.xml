@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Upasenasūtra</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Collection / category: BuddhistScriptures / K10 (Sūtra)
+Source: SuttaCentral
+Link: https://suttacentral.net/sf258/san/waldschmidt
+Edition: Klaus Wille, Sanskrit fragment edition (Turfan/SHT-type fragments), cf. Sanskrithandschriften aus den Turfanfunden (SHT), Wiesbaden: Franz Steiner.
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Ernst Waldschmidt, &#x27;Das Upasenasūtra, ein Zauber gegen Schlangenbiss aus dem Samyuktāgama&#x27;, Nachrichten der Akademie der Wissenschaften in Göttingen, Philologisch-historische Klasse, Jg. 1957, Nr. 2, Göttingen: Vandenhoeck &amp; Ruprecht, 1957, pp. 27–44 (reprinted in: Von Ceylon bis Turfan, Göttingen 1967, pp. 329–346).</note>
+          <idno type="dharmanexus">SA_K10_sf258_sc</idno>
+          <ref target="https://dharmamitra.org/nexus/db/sa/SA_K10_sf258_sc/text">https://dharmamitra.org/nexus/db/sa/SA_K10_sf258_sc/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-13">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_K10_sf258_sc:0"/>Upasenasūtra
+<lb n="SA_K10_sf258_sc:1"/>Wal_2_1 siddham / rājagṛhe nidānam /
+<lb n="SA_K10_sf258_sc:2"/>Wal_2_2 tena khalu samayenāyuṣmān upaseno rājagṛhe viharati śītavane śmaśāne sarpaśauṇḍikaprāgbhāre kaliṁkopavicārāntarikāyām /
+<lb n="SA_K10_sf258_sc:3"/>Wal_2_3 athāyuṣmata upasenasya ekākino rahasigatasya pratisaṁlīnasya āśīviṣaḥ kāye nipatita uggratejā ghoraviṣaḥ parittas tadyathā āṁjanaśalākā
+<lb n="SA_K10_sf258_sc:4"/>Wal_2_4 tatrāyuṣmān upaseno bhikṣūn āmaṁtrayati / āśīviṣo me kāye nipatitaḥ tadyathā āṁjanaśalākā /
+<lb n="SA_K10_sf258_sc:5"/>aṁga tāvan me āyuṣmantaḥ kāyaṁ samaṁtato ’nuparigṛhya bahir abhinirharata mā ihaiva
+<lb n="SA_K10_sf258_sc:6"/>viśariṣyati tadyathā busamuṣṭiḥ /
+<lb n="SA_K10_sf258_sc:7"/>Wal_2_5 tena khalu samayenāyuṣmāñ śāriputra āyuṣmata upasenasya nātidūre niṣaṇṇo ’bhūd anyataram vṛkṣamūlaṁ niśritya /
+<lb n="SA_K10_sf258_sc:8"/>Wal_2_6 aśrauṣīd āyuṣmāñ śāriputra āyuṣmata upasenasya vāgvyāhāram / śrutvā ca punar yenāyuṣmān upasenas tenopajagāma / upetyāyuṣmantam upasenam
+<lb n="SA_K10_sf258_sc:9"/>idam avocat /
+<lb n="SA_K10_sf258_sc:10"/>Wal_2_7 na khalu vayam āyuṣmata upasenasya paśyāmo mukhasya vā anyathātvam indriyāṇāṁ vā
+<lb n="SA_K10_sf258_sc:11"/>nānākaraṇam / atha ca punar āyuṣmān upasena evam āha / āśīviṣo me kāye nipatitaḥ
+<lb n="SA_K10_sf258_sc:12"/>pūrvavad yāvat tadyathā busamuṣṭiḥ /
+<lb n="SA_K10_sf258_sc:13"/>Wal_2_8 yasyāyuṣmāñ śariputra evaṁ syāt / ahaṁ cakṣur mama cakṣuḥ / ahaṁ śrottaṁ ghrāṇaṁ
+<lb n="SA_K10_sf258_sc:14"/>jihvā kāyaḥ / ahaṁ manaḥ / mama manaḥ / ahaṁ rūpaṁ mama rūpam / ahaṁ śabdagandharasaspṛṣṭavyadharmā
+<lb n="SA_K10_sf258_sc:15"/>mama dharmāḥ / ahaṁ pṛthivīdhātur mama pṛthivīdhātuḥ / aham abdhātus tejodhātur vāyudhātur
+<lb n="SA_K10_sf258_sc:16"/>ākāśadhātur vijñānadhātuḥ / ahaṁ rūpaskandho mama rūpaskandhaḥ / ahaṁ vedanāsaṁjñāsaṁskāravijñānaskandho
+<lb n="SA_K10_sf258_sc:17"/>mama vijñānaskandhaḥ / tasya syād mukhasya vā anyathātvam indriyāṇāṁ vā nānākaraṇam /
+<lb n="SA_K10_sf258_sc:18"/>Wal_2_9 mama tu naivaṁ bhavati / ahaṁ cakṣur mama cakṣuḥ / tadyathā ahaṁ vijñānaskandho mama vijñānaskandhaḥ / tasya me kiṁ bhaviṣyati mukhasya
+<lb n="SA_K10_sf258_sc:19"/>vā anyathātvam indriyāṇāṁ vā nānākaraṇam /
+<lb n="SA_K10_sf258_sc:20"/>Wal_10 dīragharāttraṁ khalv āyuṣmata upasenasya ahaṁkaramamaṁkarāsmimānābhiniveśānuśayaḥ
+<lb n="SA_K10_sf258_sc:21"/>prahīṇāḥ parijñātā ucchinnamūlās tālamastakavad anābhavagatikā āyatyām anutpādadharmāṇaḥ /
+<lb n="SA_K10_sf258_sc:22"/>tasya te kiṁ bhaviṣyati mukhasya vā anyathātvam indriyāṇāṁ vā nānākaraṇam /
+<lb n="SA_K10_sf258_sc:23"/>Wal_11 athāyuṣmāñ śariputtraḥ āyuṣmata upasenasya kāyaṁ sāmantakenānuparigṛhya bahir abhinirharati /
+<lb n="SA_K10_sf258_sc:24"/>Wal_12 samanantarābhinirhṛta āyuṣmata upasenasya kāyaḥ śataśo viśirṇas tadyathā busamuṣṭiḥ /
+<lb n="SA_K10_sf258_sc:25"/>Wal_13 athāyuṣmāñ śāriputro ’syāṁ velāyāṁ gāthā babhāse /
+<lb n="SA_K10_sf258_sc:26"/>Wal_14 sucīrṇe brahmacarye ’smin mārge caiva subhāvite /
+<lb n="SA_K10_sf258_sc:27"/>tuṣṭa āyukṣayād bhavati viṣapāttra ivojjhite //
+<lb n="SA_K10_sf258_sc:28"/>Wal_15 sucīrṇe brahmacarye ’smin mārge caiva subhāvite /
+<lb n="SA_K10_sf258_sc:29"/>tuṣṭa āyukṣayād bhavati rogasyāpagame yathā //
+<lb n="SA_K10_sf258_sc:30"/>Wal_16 sucīrṇe brahmacarye ’smin mārge caiva subhāvite /
+<lb n="SA_K10_sf258_sc:31"/>ādīptād vā gṛhād mukto maraṇānte na śocate //
+<lb n="SA_K10_sf258_sc:32"/>Wal_17 sucīrṇe brahmacarye ’smin mārge caiva subhāvite /
+<lb n="SA_K10_sf258_sc:33"/>tṛṣṇakāṣṭhasamaṁ lokaṁ paśyati prajñayā yadā //
+<lb n="SA_K10_sf258_sc:34"/>Wal_18 athāyuṣmāñ śāriputra āyuṣmata upasenasya śarīre śāripūjāṁ kṛtvā yena bhagavāṁs tenopajagāma upetya bhagavatpādau śirasā vanditvā ekāṁte
+<lb n="SA_K10_sf258_sc:35"/>nyaṣīdat /
+<lb n="SA_K10_sf258_sc:36"/>Wal_19 ekāṁtaniṣaṇṇa āyuṣmāñ śāriputtro bhagavaṁtam idam avocat /
+<lb n="SA_K10_sf258_sc:37"/>Wal_20 āyuṣmato bhadaṁta upasenasya āśīviṣaḥ kāye nipatita ugratejā ghoraviṣaḥ parittas tadyathāṁ janaśalākā pūrvavad yāvat tasya kāyo viśīrṇas
+<lb n="SA_K10_sf258_sc:38"/>tadyathā busamuṣṭiḥ /
+<lb n="SA_K10_sf258_sc:39"/>Wal_21 sacec chāriputra upasenasya kulaputtrasya tasmiṁ samaye imā gāthāḥ pratyabhāsyaṁta imāni ca maṁtrapadāni nāsyāśīviṣaḥ kāye ’kramiṣyan
+<lb n="SA_K10_sf258_sc:40"/>nāsya kāyo viśariṣyat tadyathā busamuṣṭiḥ /
+<lb n="SA_K10_sf258_sc:41"/>Wal_22 yā bhadaṁta katamā gāthāḥ katamāni maṁtrapadāni //
+<lb n="SA_K10_sf258_sc:42"/>Wal_23 maitrī me dhṛtirāṣṭreṣu maitrī airāvaṇeṣu ca /
+<lb n="SA_K10_sf258_sc:43"/>chibbāputtreṣu me maitrī kaṁbalāśvatareṣu ca //
+<lb n="SA_K10_sf258_sc:44"/>Wal_24 karkoṭakeṣu me maitrī kṛṣṇagautamakeṣu ca /
+<lb n="SA_K10_sf258_sc:45"/>nandopandau ye nāgā teṣu maitrī ca me sadā //
+<lb n="SA_K10_sf258_sc:46"/>Wal_25 apādakeṣu me maitrī maitrī me dvipadeṣu ca /
+<lb n="SA_K10_sf258_sc:47"/>catuṣpadeṣu me maitrī maitrī bahupadeṣu ca //
+<lb n="SA_K10_sf258_sc:48"/>Wal_26 sarvvanāgeṣu me maitrī ye nāgā udadhiniśritāḥ /
+<lb n="SA_K10_sf258_sc:49"/>sarvvasatveṣu me maitrī ye ttrasāḥ sthāvarāś ca ye //
+<lb n="SA_K10_sf258_sc:50"/>Wal_27 sukhinaḥ sarvve satvā hi sarvve satvā niramayāḥ /
+<lb n="SA_K10_sf258_sc:51"/>sarvve bhadrāṇi paśyaṁtu mā caiśāṁ pāpam āgamat //
+<lb n="SA_K10_sf258_sc:52"/>Wal_28 sarpaśauṇḍikaprāgbhāre nityaṁ viharato mama /
+<lb n="SA_K10_sf258_sc:53"/>āśīviṣo ghoraviṣo jīvitam uparundhati //
+<lb n="SA_K10_sf258_sc:54"/>Wal_29 yena me satyavākyena śāstā lokeṣv anuttaraḥ /
+<lb n="SA_K10_sf258_sc:55"/>tena me satyavākyena mā me kāye viṣaṁ kramet //
+<lb n="SA_K10_sf258_sc:56"/>Wal_30 rāgo dveṣaś ca mohaś ca ete loke viṣattrayam /
+<lb n="SA_K10_sf258_sc:57"/>nirvviṣo bhagavān buddhaḥ satyadharmahataṁ viṣam //
+<lb n="SA_K10_sf258_sc:58"/>Wal_31 hataṁ viṣaṁ ghoraviṣaṁ kṛto rakṣāparikaraḥ /
+<lb n="SA_K10_sf258_sc:59"/>sarvve hataviṣa biddhās tad uraga hataṁ viṣam //
+<lb n="SA_K10_sf258_sc:60"/>Wal_32 tatremāni mantrapadāni bhavaṁti tadyathā / otuṁbile / tuṁbile / tuṁbe / pratuṁbe / naṭṭe / sunaṭṭe / kevaṭṭe / munaye / samaye / datte
+<lb n="SA_K10_sf258_sc:61"/>/ nīlakeśe / vālakupe / ole / oṅko / svāhā //
+<lb n="SA_K10_sf258_sc:62"/>Wal_33 sacec chāriputtra upasenasya kulaputrasya tasmiṁ samaye imā gāthāḥ pratyabhāyaṁta imāni ca maṁtrapadāni nāsyāśīviṣaṁ kāye ’kramiṣyat
+<lb n="SA_K10_sf258_sc:63"/>/ nāsya kāyo vyaśariṣyat tadyathā busamuṣṭiḥ /
+<lb n="SA_K10_sf258_sc:64"/>Wal_34 tat kuta etad bhadaṁta labhyam āyuṣmata upasenena yat tasmiṁ samaye aśrutapūrvvā gāthāḥ pratibhāṣyaṁte aśrutapūrvvāṇi vā maṁtrapadāni
+<lb n="SA_K10_sf258_sc:65"/>tadyathā etarhi bhagavataḥ /
+<lb n="SA_K10_sf258_sc:66"/>Wal_35 athāyuṣmāñ śāriputtro bhagavato bhāṣitam abhinandyānumodya bhagavatpādau śirasā bhagavato ’ntikāt prakrāṁtaḥ //
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Tathāgatapratibimbapratiṣṭhānuśaṃsāvarṇanadharmaparyāya (fragment)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Collection / category: BuddhistScriptures / K10
+Source: OCR / Dharmamitra
+Edition / witness: Calcutta ASB G 4758, pl. ff. 8 (only 1 \&amp; 6-12 w/ add. secondary nos.)
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Unpublished diplomatic manuscript transcription from Asiatic Society of Bengal (Calcutta) MS G 4758, palm-leaf manuscript dated Nepāla Saṃvat 384/385 (ca. 1264–1265 CE), folios 1 and 6r–7v.</note>
+          <idno type="dharmanexus">SA_K10_Āgama_Tathāgatapratibimbapratiṣṭhānuśaṃsāvarṇanadharmaparyāya</idno>
+          <ref target="https://dharmamitra.org/nexus/db/sa/SA_K10_Āgama_Tathāgatapratibimbapratiṣṭhānuśaṃsāvarṇanadharmaparyāya/text">https://dharmamitra.org/nexus/db/sa/SA_K10_Āgama_Tathāgatapratibimbapratiṣṭhānuśaṃsāvarṇanadharmaparyāya/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-13">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_K10_Āgama_Tathāgatapratibimbapratiṣṭhānuśaṃsāvarṇanadharmaparyāya:0"/>Tathāgatapratibimbapratiṣṭhānuśaṃsāvarṇanadharmaparyāya
+<lb n="SA_K10_Āgama_Tathāgatapratibimbapratiṣṭhānuśaṃsāvarṇanadharmaparyāya:1"/>\&amp; Divyabhojanāvadāna acc. to Shāstrī item 81. dated NS 385 = 1265 CE
+<lb n="SA_K10_Āgama_Tathāgatapratibimbapratiṣṭhānuśaṃsāvarṇanadharmaparyāya:2"/>Tibetan: similar to D 320
+<lb n="SA_K10_Āgama_Tathāgatapratibimbapratiṣṭhānuśaṃsāvarṇanadharmaparyāya:3"/>Input: Péter-Dániel Szántó
+<lb n="SA_K10_Āgama_Tathāgatapratibimbapratiṣṭhānuśaṃsāvarṇanadharmaparyāya:4"/>% judging from the introductory questions by Ānanda, this cannot be a comprehensive title of the sūtra; the missing contents are rather predictable, also cf. Tôh. no. 320 vol. SA, folios 197r.1 -198v.4. \&amp; Taisho no. 692, which is translated by Robert H. Sharf in D. Lopez, ed., Religions of China in Practice, pp. 261-267. Kieschnick, Impact, p. 78.
+<lb n="SA_K10_Āgama_Tathāgatapratibimbapratiṣṭhānuśaṃsāvarṇanadharmaparyāya:5"/>[1r/`1r&#x27; scribbles] [1v/`1v&#x27;] @ namo &#x27;stu buddhāya ||
+<lb n="SA_K10_Āgama_Tathāgatapratibimbapratiṣṭhānuśaṃsāvarṇanadharmaparyāya:6"/>evaṃ mayā śrutam ekasmin samaye bhagavān śrāvastyāṃ viharati sma jetavane &#x27;nāthapiṇḍadasyārāme |
+<lb n="SA_K10_Āgama_Tathāgatapratibimbapratiṣṭhānuśaṃsāvarṇanadharmaparyāya:7"/>athāyuṣmān ānando yena bhagavāṃs tenopasaṃkrānta upasaṃkramya bhagavataḥ pādau śirasābhivandya ekānte &#x27;sthād ekānte sthita āyuṣmān ānando bhagavantam etad avocat ||
+<lb n="SA_K10_Āgama_Tathāgatapratibimbapratiṣṭhānuśaṃsāvarṇanadharmaparyāya:8"/>kaṃ bhagavan kuśalamūlaṃ saṃmārjanapradānasya kiṃ maṇḍalakapradānasya | kiṃ śaraṇagamanaśikṣāpadānām | kiṃ tathāgatapraṇāmāñjalikarmaṇaḥ | kiṃ bhagavanta (!) kuśalamūlaṃ vasāre (saṃsāre?) na kṣīyate na hīyate &#x27;kṣayaṃ ca nirvāṇam upanayati | kiṃ tathāgatabimbakaraṇe |
+<lb n="SA_K10_Āgama_Tathāgatapratibimbapratiṣṭhānuśaṃsāvarṇanadharmaparyāya:9"/>bhagavān āha ||
+<lb n="SA_K10_Āgama_Tathāgatapratibimbapratiṣṭhānuśaṃsāvarṇanadharmaparyāya:10"/>pañcānuśaṃsā saṃmārjanapradāne | katame pañca | yadutātmacittaṃ prasādati | devatāś cāttamanasā bhavanti | prāsādikaṃ saṃvarttanīyaṃ karma kṛtaṃ bhavaty upacitam | kāyasya ca bhedāt sugatau svargaloke deveṣūpapadyate | yaḥ kaścid ānanda prasannacittas tathāgatam uddiśya caturasraṃ maṇḍalakaṃ kurute |
+<lb n="SA_K10_Āgama_Tathāgatapratibimbapratiṣṭhānuśaṃsāvarṇanadharmaparyāya:11"/>tasyāham ānanda uttarakuruṃ dvīpaṃ vadāmy aiśvaryādhipatyāya | kāyasya ca bhedāt trāyastriṃśe-
+<lb n="SA_K10_Āgama_Tathāgatapratibimbapratiṣṭhānuśaṃsāvarṇanadharmaparyāya:12"/>[...]
+<lb n="SA_K10_Āgama_Tathāgatapratibimbapratiṣṭhānuśaṃsāvarṇanadharmaparyāya:13"/>[6r/`2r&#x27;]ṇa vyākariṣyāmaḥ | yan nu vayaṃ me tam evārthaṃ taṃ bhagavantaṃ tathāgatam arhantaṃ saṃyaksaṃbuddhaṃ sarvajñaṃ sarvadarśinaṃ sarvasaṃśayacchettāraṃ śāstāraṃ paripṛcchemaḥ | yathāsmākaṃ sa bhagavān vyākariṣyati tathā vayaṃ dhārayiṣyāmaḥ | śrāddhānāṃ ca brāhmaṇagṛhapatīnāṃ vistareṇa vibhajya vyākariṣyāmaḥ |
+<lb n="SA_K10_Āgama_Tathāgatapratibimbapratiṣṭhānuśaṃsāvarṇanadharmaparyāya:14"/>te vayaṃ bhadanta bhagavantam etam evārthaṃ paripṛcchāmaḥ | katy anuśaṃsā bhadanta dāpake pudgale tathāgatasya pratibimbakaraṇe veditavyāḥ |
+<lb n="SA_K10_Āgama_Tathāgatapratibimbapratiṣṭhānuśaṃsāvarṇanadharmaparyāya:15"/>bhagavān āha ||
+<lb n="SA_K10_Āgama_Tathāgatapratibimbapratiṣṭhānuśaṃsāvarṇanadharmaparyāya:16"/>sādhu sādhu bhikṣavo bahujanahitāya yūyaṃ pratipannā bahujanasukhāya lokānukampāyai arthāya hitāya sukhāya devamanuṣyāṇāṃ ye yūyam etam evārthaṃ tathāgatam arhantaṃ samyaksaṃbuddhaṃ paripraṣṭavyaṃ manyaṣe | tena hi bhikṣavaḥ śṛṇu sādhu ca suṣṭhu ca manasi kuru bhāṣiṣye |
+<lb n="SA_K10_Āgama_Tathāgatapratibimbapratiṣṭhānuśaṃsāvarṇanadharmaparyāya:17"/>pañca me bhikṣavo &#x27;nuśaṃsā dāpake pudgale tathāgatasya pratibimbakaraṇe | [6v/`2v&#x27;] katame pañca |
+<lb n="SA_K10_Āgama_Tathāgatapratibimbapratiṣṭhānuśaṃsāvarṇanadharmaparyāya:18"/>[§1] mahāvimāno bhavati maheśākhyo &#x27;pramāṇo mahābalo mahotsāhī dīrghāyur yaśasvī sukhabahulo &#x27;yaṃ bhikṣavaḥ prathamo &#x27;nuśaṃso dāpake pudgale tathāgatasya pratibimbakaraṇe |
+<lb n="SA_K10_Āgama_Tathāgatapratibimbapratiṣṭhānuśaṃsāvarṇanadharmaparyāya:19"/>[§2] punar aparaṃ bhikṣava āḍhyo bhavati mahādhano mahābhogaḥ | prabhūtavittopakaraṇaḥ prabhūtasvantaḥsvāpateyaḥ (?) prabhūtadhanadhānyasuvarṇakośakoṣṭhāgārasaṃnicayaḥ | prabhūtahastyaśvagadeuka(?)dāsīdāsakakarmakarapauruṣeyaḥ | prabhūtamitrāmātyajñātisālohitaḥ(?) | ayaṃ bhikṣavo dvitīyo &#x27;nuśaṃso dāpaye pudgale tathāgatasya pratibimbakaraṇe |
+<lb n="SA_K10_Āgama_Tathāgatapratibimbapratiṣṭhānuśaṃsāvarṇanadharmaparyāya:20"/>[§3] punar aparaṃ bhikṣavo &#x27;bhimayo (?) bhavati darśanīyaḥ | prāsādiko gauravarṇaḥ kanakavarṇacchatrākāraśirāḥ pralambabāhu vistīrṇalalāṭaḥ | saṅgatabhrūbhaṅganāśaḥ | sarvāṅgapratyaṅgopetaḥ sarvābharaṇavibhūṣito &#x27;yaṃ bhikṣavaḥ | tṛtīyo &#x27;nuśaṃso dāpake [7r/`3r&#x27;] pudgale tathāgatasya pratibimbakaraṇe |
+<lb n="SA_K10_Āgama_Tathāgatapratibimbapratiṣṭhānuśaṃsāvarṇanadharmaparyāya:21"/>[§4] punar aparaṃ bhikṣavaḥ | rājā bhavati suparivāraś cakravartī saptaratnasa[ma]nvāgataḥ putrahasraparivṛto ye cāsya bhavanti putrā vā dārā vā bhṛtyā vā | aupajīvino vā te sarve &#x27;sya śuśrūṣante ājñācittam upasthāpayanti | ayaṃ bhikṣavaś caturtho &#x27;nuśaṃsā (!) dāpake pudgale tathāgatasya pratibimbakaraṇe |
+<lb n="SA_K10_Āgama_Tathāgatapratibimbapratiṣṭhānuśaṃsāvarṇanadharmaparyāya:22"/>[§5] punar aparaṃ bhikṣavaḥ | kāyasya bhedāt sugatau svargaloke deveṣūpapadyate | sa tatropapanno &#x27;nyeṣā[ṃ] devānāṃ devaputrāṇāṃ devakanyānām asādhāraṇo bhavati prativiśiṣṭo devarājo daśabhiḥ sthānair atthirocate (!?) divyenāyuṣā divyena varṇena divyena balena divyena sukhena divyenaiśvaryādhipatyena divye rūparasagandhaspaṣṭavyeḥ (= divyai
+<lb n="SA_K10_Āgama_Tathāgatapratibimbapratiṣṭhānuśaṃsāvarṇanadharmaparyāya:23"/>rūparasagandhaspraṣṭavyaiḥ) | ayaṃ bhikṣavaḥ pañcamo &#x27;nuśaṃso dāpake pudgale tathāgatasya pratibimbakaraṇe veditavyaḥ ||
+<lb n="SA_K10_Āgama_Tathāgatapratibimbapratiṣṭhānuśaṃsāvarṇanadharmaparyāya:24"/>idam avocad bhagavān āttamanasas te [7v/`3v&#x27;] bhikṣavo bhagavato bhāṣitam abhyanandann iti ||
+<lb n="SA_K10_Āgama_Tathāgatapratibimbapratiṣṭhānuśaṃsāvarṇanadharmaparyāya:25"/>tathāgatapratibimbānuśaṃsavarṇano nāma dharmaparyāyaḥ | samāptaḥ || samvat 384 aśuni śuddhi 10 bṛhaspatidine
+    </body>
+  </text>
+</TEI>

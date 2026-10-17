@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Pravāraṇasūtra</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Collection / category: BuddhistScriptures / K10 (Sūtra)
+Source: SuttaCentral
+Link: https://suttacentral.net/sf73/san/hoernle
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): A. F. Rudolf Hoernle (ed.), Manuscript Remains of Buddhist Literature found in Eastern Turkestan, Oxford: Clarendon Press.</note>
+          <idno type="dharmanexus">SA_K10_sf73_sc</idno>
+          <ref target="https://dharmamitra.org/nexus/db/sa/SA_K10_sf73_sc/text">https://dharmamitra.org/nexus/db/sa/SA_K10_sf73_sc/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-13">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_K10_sf73_sc:0"/>Pravāraṇasūtra
+<lb n="SA_K10_sf73_sc:1"/>sugata pratibhātu te vāgīśa bhagavān avocat athāyuṣmāṁ vāgīśas tasyāṁ velāyāṁ gāthāṁ babhāṣe //
+<lb n="SA_K10_sf73_sc:2"/>Hoe_1 iha paṁcadaśī viśuddhikā samitā /
+<lb n="SA_K10_sf73_sc:3"/>paṁcaśatāś ca bhikṣavaḥ saṁyojana bandhana /
+<lb n="SA_K10_sf73_sc:4"/>cchidaḥ sarve kṣīṇabhavā maharṣayaḥ //
+<lb n="SA_K10_sf73_sc:5"/>Hoe_2 śuddhā upāsate śuddhaṁ vipramuktapunarbhavā /
+<lb n="SA_K10_sf73_sc:6"/>prahīṇa-jāti-maranāḥ kṛtakṛtyā nirāsravāḥ //
+<lb n="SA_K10_sf73_sc:7"/>Hoe_3 audhatyavicikitsecchā mānagranthabhavacchidaḥ
+<lb n="SA_K10_sf73_sc:8"/>tṛṣṇā-śalyasya hartāro ’cita-tṛṣṇā-punarbhavāḥ //
+<lb n="SA_K10_sf73_sc:9"/>Hoe_4 siṁho ’si nirupādānaṁ prahīṇa-bhaya-bhairava /
+<lb n="SA_K10_sf73_sc:10"/>upadhiṁ samatikrāntaḥ āsravā nihatas tvayā //
+<lb n="SA_K10_sf73_sc:11"/>Hoe_5 cakravarti yathā rājā sacivaiḥ parivāritaḥ /
+<lb n="SA_K10_sf73_sc:12"/>samaṁtād anuśāstīmāṁ sāgarāṁtāṁ vasundharām //
+<lb n="SA_K10_sf73_sc:13"/>Hoe_6 tathā vijīta saṁgrāmaṁ sārthavāham anuttaram /
+<lb n="SA_K10_sf73_sc:14"/>upāsate śravakāstvā traividyā-mṛtyu-hāyina //
+<lb n="SA_K10_sf73_sc:15"/>Hoe_7 putrās te sarva evaite plāvī hy atra na vidyate /
+<lb n="SA_K10_sf73_sc:16"/>hartāraṁ sarva śalyānāṁ vande tvāditya-bāndhavam //
+<lb n="SA_K10_sf73_sc:17"/>idam avocad bhagavān āptamanasas te bhikṣavo bhagavato bhāṣitam abhyanandaṁ //
+<lb n="SA_K10_sf73_sc:18"/>pravāraṇa sūtraṁ //
+    </body>
+  </text>
+</TEI>

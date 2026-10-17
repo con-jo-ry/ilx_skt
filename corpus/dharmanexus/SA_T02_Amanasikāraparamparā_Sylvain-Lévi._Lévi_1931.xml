@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Amanasikāraparamparā</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Collection / category: BuddhistNon-Scriptures / T02
+Source: OCR / Dharmamitra
+Edition: Lévi 1931
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Sylvain Lévi, &#x27;Un nouveau document sur le bouddhisme de basse époque dans l&#x27;Inde&#x27;, in: Bulletin of the School of Oriental Studies, University of London, Vol. 6, No. 2 (Edward James Rapson Felicitation Volume), 1931, pp. 417–429; collated with MS Kaiser Library 142 (NGMPP C 14/19).</note>
+          <idno type="dharmanexus">SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931</idno>
+          <ref target="https://dharmamitra.org/nexus/db/sa/SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931/text">https://dharmamitra.org/nexus/db/sa/SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-13">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:0"/>% Sylvain Lévi.
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:1"/>% Un nouveau document sur le bouddhisme de basse époque dans l&#x27;Inde.
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:2"/>% Bulletin of the School of Oriental Studies, University of London, Vol. 6, No. 2,
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:3"/>% A Volume of Indian Studies Presented by His Friends and Pupils to Edward James Rapson,
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:4"/>% Professor of Sanskrit in the University of Cambridge, on His Seventieth Birthday,
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:5"/>% 12th. May, 1931 (1931), 417-429.
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:6"/>% p.421
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:7"/>% \ms collated by PDSz, July 2010, Oxford
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:8"/>% \ms = Kaiser Library 142 = NGMPP C 14/19, palm-leaf, ff. 6
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:9"/>namo Mañjuvajrāya
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:10"/>Mañjuvajram praṇamyādau Nāthapādam anantaram
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:11"/>amanasikāramnāyaṃ vakṣyate sumahodayam (1)
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:12"/>Sambuddho Bodhisattvāś ca siddhās tair anuśāsitāḥ
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:13"/>% saṃbuddhā \ms
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:14"/>abhiṣiktās tathety eṣām āmnāyakrama iṣyate (2)
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:15"/>tatrādau dharmacakre &#x27;smin śrāvakaiḥ parivāritaḥ
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:16"/>% śrāvakai \ms
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:17"/>upatasthe sa Bhagavān diśan pāramitādikam (3)
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:18"/>tatas taṃ samparityajya gatavān dakṣiṇāpathe
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:19"/>% tāṃ sa \ms
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:20"/>nirmāya dharmadhātvākhyam maṇḍalaṃ sumanoramam (4)
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:21"/>% ˚dhātvākṣa \ms\acorr
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:22"/>Nāyakaḥ svayam evātra Bodhisattvāś ca ṣoḍaśa
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:23"/>% nāyaka \ms\acorr
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:24"/>nāyakāś cābhavann aṣṭau tathāṣṭāv upanāyakāḥ (5)
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:25"/>% p.422
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:26"/>nāmatas te nigadyante kramato maṇḍalasthitāh
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:27"/>maṇḍalam tu gurūddiṣṭam etad āmnāyasaṅgatam (6)
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:28"/>% etad āmanāmnāya˚ \ms
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:29"/>Maitreyaḥ Kṣitigarbhaś ca Vajrapāṇiḥ Khagarbhakaḥ
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:30"/>Lokeśvaraś ca Mañjuśrīḥ Sarvanivāraṇas tathā (7)
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:31"/>% mañjuśrī \ms
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:32"/>Samantabhadraś Candrābhaḥ Sūryābho &#x27;malakīrtinā
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:33"/>% samantabhadra˚ \ms; śūnyābho \ms
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:34"/>Vimalaprabhas tathā Dharmodgata Ratnamatis tathā
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:35"/>Vyomagañjaś ca Sudhano maṇḍalasthā yathākramam (8)
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:36"/>% sūdhano \ms
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:37"/>abhiṣekam tatas teṣāṃ datvā pāramitādikam
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:38"/>% pā[\ms 1\verso]ramitādikam
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:39"/>samarpya Śākyasiṃhena vyākṛtaḥ śāsane &#x27;munā (9)
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:40"/>ārya Nāgārjuna iti bhaviṣyati mahāmatiḥ
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:41"/>pravartavyam anenāpi dharmacakrapravartanam (10)
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:42"/>% dharmaṃ \ms
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:43"/>Dakṣiṇāpathadeśe &#x27;smin pattane Karahāṭake
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:44"/>% &#x27;smi \ms
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:45"/>brāhmaṇasya kule janma pitā cāsya Trivikramaḥ (11)
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:46"/>mātā Savittanāmā sā vyākṛtād aparam matam
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:47"/>% sāvitta nāmāsya \ms
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:48"/>Dāmodareti vikhyāto bhikṣutve Śākyamitrakam (12)
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:49"/>nāmāparaṃ Ratnamater anugrahavidhau sthitaḥ
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:50"/>% ratnamatir \ms
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:51"/>āṅkĀdvayavajreti Vajrayoginyadhiṣṭhitah (13)
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:52"/>sarahaḥ siddhibhāk tena tadanugrāhako &#x27;bhavat
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:53"/>asya cānugrahāt pūrddha tenākāri ca nāma tat (14)
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:54"/>% pūrvaṃ \ms; tenakāri ca \ms
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:55"/>tataḥ śrutaṃ Hayagrīvam pañcādarśanam
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:56"/>% paścādarśanam \ms
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:57"/>Ratnamatinā ca sārdhaṃ Varendryām prasthitaḥ punaḥ (15)
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:58"/>% sārdhaṃ] samaṃ \ms; pūnaḥ \ms
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:59"/>lekhayitvā praticchandaṃ (&#x27;bimbam ?) Bodhisattvasya dhīmataḥ
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:60"/>pūjām pratidinaṃ tasya kṛtvā Nāgārjuno &#x27;vasat (16)
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:61"/>% pūjā \ms
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:62"/>grāme deśe purākhye tu ekāntaḥ susamāhitaḥ
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:63"/>% deḍyapurākhye/deḍhyapurākhye/daiḍyapurākhye/daiḍhyapurākhye \ms
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:64"/>Loko nāma naṭas tasya Gaurā ca sahācariṇī (17)
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:65"/>% sahacāriṇī] \gloss\ms: naṭī
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:66"/>tayoḥ putras Triśarana āryamadhye sa tau param
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:67"/>% tayoḥ] \ms\pcorr; ārya˚] \gloss\ms: nāgārjuna; sate \ms
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:68"/>Ratnamatiṃ darśayati sa tam āha na paśyasi
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:69"/>% ratnamatiṃ] \gloss\ms: advayavajra nāma
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:70"/>% tam] \gloss\ms: naṭaputraṃ
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:71"/>jñānakṣaṇena vikalaḥ kathaṃ taṃ paśyasi kṣaṇāt (18)
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:72"/>% ˚kṣaṇena [\ms2\recto] vikalaḥ
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:73"/>taṃ pratyāha Triśaraṇas ta[to] me &#x27;nugrahaṃ kuru
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:74"/>% taṃ] \gloss\ms: nāgārjunaṃ
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:75"/>% triśaraṇas] \gloss\ms: naṭaputra
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:76"/>yathā paśyāmi taṃ Nāthaṃ jñānacakṣur atindriyaḥ (19)
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:77"/>% yathā] \ms\pcorr, āryamadhye yathā \ms\acorr
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:78"/>āryaNāgarjunānujñāṃ prāpya siddhas tadābhavat
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:79"/>% siddhas] \gloss\ms: triśaraṇaḥ
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:80"/>Bodhisattvena ca tato &#x27;nugṛhito yathārthataḥ (20)
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:81"/>% bodhisattvena] \gloss\ms: ratnamatinā
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:82"/>ManobhaṅgaCittaviśrāmau caryāsthānam vivecitam
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:83"/>% ˚viśrāmo? \ms
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:84"/>ākṛtiṃ savarasyāsau dadhan nivasati sma saḥ (21)
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:85"/>% śabarasyāsau!
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:86"/>iti BuddhaBodhisattvasiddhāmnā[ya]nāmāmnāyaḥ samāptaḥ ||   ||
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:87"/>Indrabhūtipā. Uḍinī Vajrayoginī. Tilopā. Nāropā. Advayavajrapā. Dhyāyīpā. mahāpaṇḍitĀmoghaśrī. athavā. Śabaranātha. Advayavajra. Vajrapāṇi. Paiṇḍapātika. panditĀbhayakaragupta. punar Advayavajrasyeti.
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:88"/>% nirukti/viśuddhi of Vajravārāhī
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:89"/>vaḥ karuṇā upāyacakram| jaḥ śūnyatā| tayor ekam rephaḥ|
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:90"/>% p.423
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:91"/>bāhyā vātītā vākāro rākārākāravarjitaḥ |
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:92"/>% vākyathātīta \ms
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:93"/>hetvanupalabdhi[r] hīkāro vārāhī vajrapūrviketi paramārthaviśuddhih |
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:94"/>kāyavākcittaviśuddhyā trikoṇam |
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:95"/>% triśu... \ms\acorr
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:96"/>hetuphalayor abhedatvāt trikoṇaṃ tulyatā dharmodayeti ||   ||
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:97"/>% ||  || [\ms2\verso]
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:98"/>% \ms checked thus far
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:99"/>Namaḥ śrī Vajrayoginyai
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:100"/>prathamam bāhyapūjā sindūreṇa| asambhave mantreṇa | svahṛdi sūryasthahūṃkāraraśmibhir ākṛṣya praveśya puṣpādibhiḥ sampūjya | tadanantaram jagac chūnyīkṛtya | śūnyatānantaraṃ jhaṭiti | ātmānaṃ Bhagavatīṃ bhāvayet | parvataśiropari nānāpuṣpopetām | sūryasthahūṃkāraraśmiṃ saṃsphārya svāsavāto yathādarśavad yogaḥ |
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:101"/>% parvataḥśiropari \ms; ˚kāraraśmi \ms
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:102"/>amṛtāsvādanaṃ vaśīkaraṇe parvatādikam pādarasadṛśaṃ bhāvayan vāmanāsāpūṭena pibet | triṣkālaṃ balibhāvanā kartavyā | yathādityabālataruṇādyanapekṣaṃ svakiraṇaiḥ parvatam ākrāmati | tathā Bhagavatīṃ parvatākrāntām bhāvayet | amṛtam āsvādayet | siddhyanugrahe jihvāyāṃ mantram abhilikhya | svahṛdraśminādam praveśya āveśayet |
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:103"/>% bhagavatī \ms; śiṣyānugrahe \ms
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:104"/>Vajrayoginīguruparamparā | Śavaranatha | Sāgaradatta | Vijayaghoṣa | Anaṅgavajra | Biso | Paiṇḍapātika | Paṇḍita Vinayagupta | Mahāpaṇḍita Vāgīśvara | Avadhūta Sudhanaśrī | Līlāvajra | Lalitavajra | Kovihārapaṇḍitapādāḥ |
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:105"/>Namaḥ Sarvajñāya
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:106"/>Namaḥ Śrī Savareśvarāya
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:107"/>iha khalu Madhyadeśe PadmaKapilavastumahānagarasamīpe
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:108"/>Jhātakaraṇī nāma palliko &#x27;sti | tasmin sthāne brāhmaṇajātir Nānukā
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:109"/>nāma brāhmaṇī ca Sādhvīti nāma prativasati sma | tadā ca kālāntareṇa
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:110"/>Dāmodaro nāma tatputro babhūva | sa caikādaśavarṣadeśīyah
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:111"/>kumāraḥ sāmārddhavedako gṛhān niṣkramya martabodho nāmaikadaṇḍo
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:112"/>&#x27;bhūt | tataḥ paścāl likatti sanna Pāṇinivyākaranaṃ śrutvā
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:113"/>saptavarṣaparyantena sarvaśāstram adhigamya viṃśativarṣaparyantaṃ
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:114"/>Nāropādasamīpe pramāṇam ādhyātmikapāramitānayādiśāstraṃ
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:115"/>śrutam | tadanu mantranayaśāstrajñena Rāgavajreṇa sahāvasthitaḥ
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:116"/>pañcavarṣaparyantam | paścān mahāpaṇḍitaRatnākaraśāntigurubhaṭṭārakapādanam
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:117"/>pārśve nirākāravyavasthām śrutvā varṣam ekaṃ
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:118"/>yāvat | paścād Vikramaśīlaṃ gatvā mahāpaṇḍitaJñānaśrīmitrapādanām
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:119"/>pārśve tatprakaraṇaṃ śrutaṃ varṣadvayaṃ yāvat | tato Vikramapuram
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:120"/>gatvā Sammatīyanikāya Maitrīguptanāma bhikṣur babhūva |
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:121"/>sūtrābhidharmavinayam ca śrutvā catuṣṭayaṃ yāvat Pañcakrama
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:122"/>% p.424
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:123"/>Tārāmnāyena mantrajāpam kṛtvā koṭim ekaṃ caturmudrārthasahitena
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:124"/>Bhaṭṭāraka svapne gaditam | gaccha tvaṃ Khasarpaṇam |
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:125"/>tatra vihāram parityajya Khasarpeṇa gatvā varṣam ekaṃ yāvan
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:126"/>nisidati | punar api svapne gaditam | gaccha tvaṃ kulaputra Daksiṇāpathe
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:127"/>ManobhaṅgaCittaviśrāmau parvatau tatra Śavareśvaras
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:128"/>tisthati | sa ca tatrānugrāhako bhaviṣyatīti | tatra ca mārge Sāgaranāmo
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:129"/>miliṣyati | sa ca Rāṭadeśavāsī rājaputras tenāpi sārdhaṃ gaccha |
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:130"/>paścād gate sati Sāgarena militam | uttaradeśaparyantena ManobhaṅgaCittaviśrāmayor
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:131"/>vārtām na śrutavān | śrīDhanyaṃ gatvā
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:132"/>varṣam ekaṃ sthitaḥ paścād vāyavya uttaradeśe so &#x27;dhiṣṭhānaTārāṃ sādhayitum ārabdhavān | māsaikena svapno &#x27;bhūt | gaccha tvaṃ
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:133"/>kulaputra vāyavyadeśe parvatau tiṣṭhantau | pañcadaśadinena
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:134"/>prāpyate | Bhattārikāya vākyena vāyavyāṃ diśaṃ saṃghātaiḥ
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:135"/>sārdhaṃ gacchati prāptiparyante puruṣeṇaikenoktaḥ | parame dine
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:136"/>ManobhaṅgaCittaviśrāmau prāpayete lagnau | tatra sukhena vāstavyam |
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:137"/>iti śrutvā paṇḍitapādo hṛṣṭo &#x27;bhūt | aparadinam prāptaḥ | tatra
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:138"/>parvate dine dine daśa daśa maṇḍalāni kṛtavān kandamūlaphalāhāraṃ
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:139"/>kṛtvā dinadaśaparyantam śīlatalaparyaṅkam āruhya ekāgracittena
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:140"/>upavāsam kartum ārabdhaḥ | saptame divase svapnadarśanam
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:141"/>bhavati | daśame divase grīvāṃ chettum ārabdhaḥ | tatkṣaṇe
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:142"/>sākṣāddarśanam bhavati | sevām dadāti | Advayavajra no &#x27;bhūt |
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:143"/>Pañcakramacaturmudrādivyākhyānaṃ kṛtaṃ dvādaśadinaparyantam |
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:144"/>punar apy upadeśena pañcadinam yāvat | sarvadharmadṛṣṭāntena
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:145"/>vīṇāṃ vādayati | tatra padmāvalī | jñānāvalī | Śavareśvareṇa
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:146"/>ājñāṃ datvā | prāṇātipātādimāyāṃ darśaya tvam | tadantaram
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:147"/>Sāgaraḥ kāyavyūhaṃ varṣayate paṇḍitapādenoktaḥ | bhagavan
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:148"/>kim ayye &#x27;haṃ kāyavyūhaṃ nirmāpitum aśakyaḥ |
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:149"/>Śavareśvara āha |
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:150"/>vikalpasambhūtatvāt |
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:151"/>paṇḍita āha | tarhi kiṃ kartavyam mamājñāpayantu pādāḥ |
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:152"/>Śavarādhipa āha | taveha janmani siddhir nāmni darśanāprakāśanāṃ kuru |
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:153"/>Advayavajra āha | aśakto &#x27;ham Bhagavan kartuṃ kathaṃ kariṣyāmy aham | āha | iha Vajrayoginyupadeśāt kariṣyasi tvam | phalaṃ ca phaliṣyatīti | ihopadeśam ity uktvā Bhaṭṭārakapādāntardhāno &#x27;bhūt |
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:154"/>nedaṃ van[as]ya ca mṛgo na varāhapotaḥ
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:155"/>sampūrṇacandravadanā vanasundarīyam |
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:156"/>nirmāṇanirmitatayārthijanasya hetoḥ
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:157"/>saṃtiṣṭhate giritale Śavarādhirājaḥ |
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:158"/>amanasikāra yathāśrutakramaḥ samāptah |
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:159"/>% p.425
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:160"/>pūrvavad akārādicakraṃ sampūjya vihitaBhagavatīyogaḥ
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:161"/>praṇavapīṭhād āgatavadanaḥ kāṇḍapaṭṭād bahir gatvā kṛtapañcamaṇḍalo
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:162"/>dattadakṣiṇaḥ praṇavapīṭhāgatavadana upāyacakraṃ
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:163"/>likhitvā tataḥ praveśya Nāthāṅkitaśiraṣke svahṛdi cakraṃ saṃsphārya
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:164"/>vaktreṇa ktraṃ[??] datvā taddhṛdi dhyānam mukham āpūrya
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:165"/>vajrabhṛto &#x27;stottaraśatamantrais taṃ kṛtvā muhe muhaṃ dāīmala
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:166"/>tataḥ upāyacakram atibhramantaṃ vicintya mantritapuṣpe tāḍanaṃ
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:167"/>ḍamaruṃ ghaṇṭaṃ vā saṃvādya sāṭopamantram uccārayet | dhūpaṃ
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:168"/>dadyād yadi tasya prakampādinimittam upajāyate tadaiva kathanīyam
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:169"/>anyathā naiva | tadanu cakrād uddhṛtya mantradānaguruparamparakathanaṃ
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:170"/>kartavyam iti sampradayavidhiḥ | etad abhisandhāya
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:171"/>guruparvakramāmnāyasampradāyaikagocaram iti | tatkathā
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:172"/>ca kathitavyā śraddhotpādanārthaṃ śiṣyajñānākṛṣṭir abhidhīyate |
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:173"/>iha janmani yadi na siddhyati tadā maraṇasamaye cakraṃ tanmukhe
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:174"/>svamukhe praviśya svasthāna eva līnam | iti Lūyīpādādeśāt Samvarārṇavatantram
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:175"/>ānetum Oḍiyānam gatau | tatra Yoginīpārśve
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:176"/>dinacatuṣṭayaṃ yāvat sthitau | cauryena tantram ānītam | nadīpāre
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:177"/>tayā dṛṣṭa etat sādhanaṃ sarvam api vāyunā nītaṃ Vajrāṅganāsakāśe |
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:178"/>Kukurīpādaiḥ śrutam Indrabhūtipādair LakṣmīkarāViruvāpādaiḥ
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:179"/>Paiṇḍapātika Ḍiṅgara Paiṇḍapātikāiḥ |
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:180"/>Namaḥ śrī Vajrayoginyai
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:181"/>prathamaṃ yathāsambhavaṃ pūjopakaraṇaṃ kuryāt  |
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:182"/>agre baliṃ sthāpya vāme madyapātram pañcapīyūṣaṃ saṃyuktam  |
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:183"/>vāmakare candraḥ dakṣiṇakare sūryaḥ  | hṛdraśminādena
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:184"/>nāsāpuṭena nīścārya kare vilīya karaśodhanam tatkare madyapātram
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:185"/>pidhāya mantraśnānam pūjādravyam ca prokṣayet  |
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:186"/>maṇḍalīkaraṇaṃ ca trikoṇākāreṇa madhye vaṃ upari yathāvidhiśodhitadivyodakasamāyuktasindūrapūjā  |
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:187"/>abhāve puṣpādibhir bījapūja | tadanantaraṃ
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:188"/>triviśuddhim anusmaret | ātmānaṃ traidhātukaviśuddhikūṭāgāraṃ
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:189"/>vicintayet | jhaṭiti nābhimandale Bhagavatīm bhāvayet | mudrādvayayogajo
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:190"/>vāgjāpah | tadanantaram agre niścārya pūjā stutir amṛtāsvādanam | sarvabhautikaṃ dikpālebhyaḥ śeṣāmṛTaḍhaukam |
+<lb n="SA_T02_Amanasikāraparamparā_Sylvain-Lévi._Lévi_1931:191"/>Bhagavatīṃ samhāryabhyomnāya ...
+    </body>
+  </text>
+</TEI>

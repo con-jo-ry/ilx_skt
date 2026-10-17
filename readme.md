@@ -20,6 +20,7 @@ Utility scripts automate corpus management, including two-way metadata synchroni
 * **DSBC:** Texts scraped from the [DSBC website](https://www.dsbcproject.org/), combined, stripped of HTML, and outfitted with TEI headers containing source and copyist information.
 * **Wikisource & Muktabodha:** Manually catalogued and marked up by student assistants, supplemented by cumulative bulk downloads where available.
 * **Hamburg:** Etexts provided by Indologists at the University of Hamburg. (Texts of unknown origin can be removed upon request).
+* **DharmaNexus:** Texts from the [DharmaNexus Sanskrit corpus](https://github.com/dharmamitra/dharmanexus-sanskrit) (Dharmamitra project) that are not in the other collections, mostly Dharmamitra OCR, plus UT Austin, SARIT, PDTP, SuttaCentral and further GRETIL texts. Generated with `scripts/dharmanexus_make_xml.py`; licences per text are in `metadata/dharmanexus.csv`.
 
 ### Repository Structure
 

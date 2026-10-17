@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Praṇidhāna</title>
+        <author>Candragomin</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Author: Candragomin
+Collection / category: BuddhistNon-Scriptures / T01
+Source: OCR / Dharmamitra
+Edition / witness: Szántó 2017b; Ye and Tshetan 2020
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (not determined): Szántó 2017b; Ye and Tshetan 2020</note>
+          <idno type="dharmanexus">SA_T01_Candragomin_Praṇidhāna_Ye_2020</idno>
+          <ref target="https://dharmamitra.org/nexus/db/sa/SA_T01_Candragomin_Praṇidhāna_Ye_2020/text">https://dharmamitra.org/nexus/db/sa/SA_T01_Candragomin_Praṇidhāna_Ye_2020/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-13">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_T01_Candragomin_Praṇidhāna_Ye_2020:0"/>namo buddhāya ||
+<lb n="SA_T01_Candragomin_Praṇidhāna_Ye_2020:1"/>bhagavan
+<lb n="SA_T01_Candragomin_Praṇidhāna_Ye_2020:2"/>yatra yatropapadye &#x27;haṃ karmabhir bhavasaṅkaṭe |
+<lb n="SA_T01_Candragomin_Praṇidhāna_Ye_2020:3"/>tatra tatra pumān bhūyāṃ śrāddhaś cāvikalendriyaḥ || 1
+<lb n="SA_T01_Candragomin_Praṇidhāna_Ye_2020:4"/>sarvaśilpakalābhijñaḥ sarvaśāstraviśāradaḥ |
+<lb n="SA_T01_Candragomin_Praṇidhāna_Ye_2020:5"/>sarvavastuparityāgī sarvakāmaparāṅmukhaḥ || 2
+<lb n="SA_T01_Candragomin_Praṇidhāna_Ye_2020:6"/>smṛtimān avisaṃvādī sattvānāṃ priyadarśanaḥ |
+<lb n="SA_T01_Candragomin_Praṇidhāna_Ye_2020:7"/>kalyāṇamitrasaṃsevī bodhicittavibhūṣitaḥ || 3
+<lb n="SA_T01_Candragomin_Praṇidhāna_Ye_2020:8"/>vinayācārasaṃpannaḥ śucir jātismaraḥ sudhīḥ |
+<lb n="SA_T01_Candragomin_Praṇidhāna_Ye_2020:9"/>pāpakarmakriyābhīruḥ kalyāṇācāragocaraḥ || 4
+<lb n="SA_T01_Candragomin_Praṇidhāna_Ye_2020:10"/>% vel: kalyāṇāśayagocaraḥ
+<lb n="SA_T01_Candragomin_Praṇidhāna_Ye_2020:11"/>ante cānuttarajñānadaśapāramitāśrayām |
+<lb n="SA_T01_Candragomin_Praṇidhāna_Ye_2020:12"/>% vel: ante cānuttarāṃ bodhiṃ
+<lb n="SA_T01_Candragomin_Praṇidhāna_Ye_2020:13"/>prāpnuyām acalāṃ nātha jagadekāntasaukhyadām || 5
+<lb n="SA_T01_Candragomin_Praṇidhāna_Ye_2020:14"/>mā me strītvaṃ mā ca me dāsabhāvo
+<lb n="SA_T01_Candragomin_Praṇidhāna_Ye_2020:15"/>mā mūrkhatvaṃ mā kudeśeṣu janma |
+<lb n="SA_T01_Candragomin_Praṇidhāna_Ye_2020:16"/>mithyādṛṣṭir mā kadācin na nīco
+<lb n="SA_T01_Candragomin_Praṇidhāna_Ye_2020:17"/>buddhotpādo mā ca me bhūt parokṣaḥ || 6
+<lb n="SA_T01_Candragomin_Praṇidhāna_Ye_2020:18"/>mā tac chīlaṃ yan na buddhatvahetor
+<lb n="SA_T01_Candragomin_Praṇidhāna_Ye_2020:19"/>mā tad dravyaṃ yat pareṣām abhogyam |
+<lb n="SA_T01_Candragomin_Praṇidhāna_Ye_2020:20"/>% vel: vittaṃ
+<lb n="SA_T01_Candragomin_Praṇidhāna_Ye_2020:21"/>kāmaṃ bhikṣāṃ dehi dehīty adeyaṃ
+<lb n="SA_T01_Candragomin_Praṇidhāna_Ye_2020:22"/>mā me bhogāḥ sattvapīḍākarāḥ syuḥ || 7
+<lb n="SA_T01_Candragomin_Praṇidhāna_Ye_2020:23"/>jātasya jāyamānasya garbhasthasyāpi dehinaḥ |
+<lb n="SA_T01_Candragomin_Praṇidhāna_Ye_2020:24"/>mā me tatra kule janma yatra buddho na devatā || 8
+<lb n="SA_T01_Candragomin_Praṇidhāna_Ye_2020:25"/>pañca dharmān na muñceyaṃ mama janmasu janmasu |
+<lb n="SA_T01_Candragomin_Praṇidhāna_Ye_2020:26"/>puṇyaṃ jñānaṃ balaṃ vīryaṃ bodhicittaṃ ca pañcamam || 9
+<lb n="SA_T01_Candragomin_Praṇidhāna_Ye_2020:27"/>yenopāyena sārvajñaṃ prāptaṃ nātha padaṃ tvayā |
+<lb n="SA_T01_Candragomin_Praṇidhāna_Ye_2020:28"/>tenāha apy upāyena maunīndraṃ padam āpnuyām || 10
+<lb n="SA_T01_Candragomin_Praṇidhāna_Ye_2020:29"/>+ + + + + + + + + + + + + + + +
+<lb n="SA_T01_Candragomin_Praṇidhāna_Ye_2020:30"/>+ + + + + + bhūyo bhūyo bhūyo &#x27;pi bhūyasī || 1o bis?
+<lb n="SA_T01_Candragomin_Praṇidhāna_Ye_2020:31"/>% Chin?
+<lb n="SA_T01_Candragomin_Praṇidhāna_Ye_2020:32"/>buddhe bhaktiḥ prakṛtir aśaṭhā sarvasattveṣu maitrī
+<lb n="SA_T01_Candragomin_Praṇidhāna_Ye_2020:33"/>tyāge &#x27;bhyāsaḥ phalavimukhatā saṃgamo bodhisattvaiḥ |
+<lb n="SA_T01_Candragomin_Praṇidhāna_Ye_2020:34"/>% vel: prakṛtir acalā sarvasattvānukampī
+<lb n="SA_T01_Candragomin_Praṇidhāna_Ye_2020:35"/>% vel: satatakaruṇā saṃgamo
+<lb n="SA_T01_Candragomin_Praṇidhāna_Ye_2020:36"/>prajñā tīkṣṇā sumahati kule janma kāntaṃ vapur me
+<lb n="SA_T01_Candragomin_Praṇidhāna_Ye_2020:37"/>jātau jātau sugatakavitā cāstv alaṃ vistareṇa || 11
+<lb n="SA_T01_Candragomin_Praṇidhāna_Ye_2020:38"/>% vel: cāturī vistareṇa
+<lb n="SA_T01_Candragomin_Praṇidhāna_Ye_2020:39"/>dīrghāyuḥ kulajaḥ pumān paṭumatir vidvān ahīnendriyas
+<lb n="SA_T01_Candragomin_Praṇidhāna_Ye_2020:40"/>tvadbhaktipravaṇaḥ sukhī sakaruṇaḥ prāsādikaḥ satkaviḥ |
+<lb n="SA_T01_Candragomin_Praṇidhāna_Ye_2020:41"/>mātṛjñaḥ pitṛbhaktir eva satataṃ jātismaraḥ śīlavān
+<lb n="SA_T01_Candragomin_Praṇidhāna_Ye_2020:42"/>dharmātmā dhanavān pradānanirataḥ kalyāṇamitrānvitaḥ || 12
+<lb n="SA_T01_Candragomin_Praṇidhāna_Ye_2020:43"/>utsāhī balavān priyo bahumataḥ sarvāmayair varjitaḥ
+<lb n="SA_T01_Candragomin_Praṇidhāna_Ye_2020:44"/>sattvānām anukampakaḥ śrutidharaḥ śuddhāśayaḥ kṣāntimān |
+<lb n="SA_T01_Candragomin_Praṇidhāna_Ye_2020:45"/>% vel: sarvāpadair varjitaḥ
+<lb n="SA_T01_Candragomin_Praṇidhāna_Ye_2020:46"/>% vel: kṣāntivān
+<lb n="SA_T01_Candragomin_Praṇidhāna_Ye_2020:47"/>yāval lokahitodayāya bhagavann āpnomi bauddhaṃ padaṃ
+<lb n="SA_T01_Candragomin_Praṇidhāna_Ye_2020:48"/>tāvat syām aham ebhir eva satataṃ sarvair guṇair bhūṣitaḥ || 13
+<lb n="SA_T01_Candragomin_Praṇidhāna_Ye_2020:49"/>Candragomipraṇidhānaṃ samāptam || o ||
+<lb n="SA_T01_Candragomin_Praṇidhāna_Ye_2020:50"/>% instead of col., new ms. reads
+<lb n="SA_T01_Candragomin_Praṇidhāna_Ye_2020:51"/>oṃ
+<lb n="SA_T01_Candragomin_Praṇidhāna_Ye_2020:52"/>dānāt pramudito yogī śīlena vimalo bhavet |
+<lb n="SA_T01_Candragomin_Praṇidhāna_Ye_2020:53"/>kṣāntyā prabhākaro vīryād arciṣmān puṇyavān asau || 14
+<lb n="SA_T01_Candragomin_Praṇidhāna_Ye_2020:54"/>dhyānād abhimukhotkṛṣṭaḥ prajñayā ca sudurjayaḥ |
+<lb n="SA_T01_Candragomin_Praṇidhāna_Ye_2020:55"/>duraṅgamo mahopāyo balavān acalo bhavet || 15
+<lb n="SA_T01_Candragomin_Praṇidhāna_Ye_2020:56"/>sādhuḥ syāt praṇidhānena dharmameghas tu jñānavān |
+<lb n="SA_T01_Candragomin_Praṇidhāna_Ye_2020:57"/>jinas tathāgataḥ pratyātmavedya ekādaśo bhavet || 16
+<lb n="SA_T01_Candragomin_Praṇidhāna_Ye_2020:58"/>śubham astu ||
+<lb n="SA_T01_Candragomin_Praṇidhāna_Ye_2020:59"/>% cf. D1395
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Vajraḍākastotradaṇḍaka</title>
+        <author>Dharmakīrti</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Author: Dharmakīrti
+Collection / category: BuddhistNon-Scriptures / T01
+Source: OCR / Dharmamitra
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Transcription from Cambridge University Library manuscripts: Or. 722.4 (single-folio fragment) and Add. 1697.7 (complete ms.). Collated with the Tibetan translation in the Derge Tanjur, Tôh. no. 1442, vol. WA, folios 242r.4-243v.6.</note>
+          <idno type="dharmanexus">SA_T01_Vajraḍākadaṇḍakastotra_CUL</idno>
+          <ref target="https://dharmamitra.org/nexus/db/sa/SA_T01_Vajraḍākadaṇḍakastotra_CUL/text">https://dharmamitra.org/nexus/db/sa/SA_T01_Vajraḍākadaṇḍakastotra_CUL/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-13">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_T01_Vajraḍākadaṇḍakastotra_CUL:0"/>CUL  Or. 722.4 single folio fragment, beginning of a sādhana
+<lb n="SA_T01_Vajraḍākadaṇḍakastotra_CUL:1"/>CUL Add. 1697.7 is a complete ms. input also from there
+<lb n="SA_T01_Vajraḍākadaṇḍakastotra_CUL:2"/>= —	* Vajraḍākastotradaṇḍaka (Dpal rdo rje mkha&#x27; &#x27;gro&#x27;i bstod pa rgyun chags). Tôh. no. 1442. Dergé Tanjur, vol. WA, folios 242r.4-243v.6. Tr. by Maṇikaśrījñāna and Dpal gyi mtha&#x27; can (i.e., Chos rje dpal).
+<lb n="SA_T01_Vajraḍākadaṇḍakastotra_CUL:3"/># || rgya gar skad du | shr&#x27;i badzra D&#x27;a ka sya sto tra daNDa ka n&#x27;a ma | bod skad du | dpal rdo rje mkha&#x27; &#x27;gro&#x27;i bstod pa rgyun chags zhes bya ba | dpal &#x27;khor lo sdom pa la {242a5} phyag &#x27;tshal lo ||
+<lb n="SA_T01_Vajraḍākadaṇḍakastotra_CUL:4"/>@ namaḥ śrīcakrasamvarāya ||
+<lb n="SA_T01_Vajraḍākadaṇḍakastotra_CUL:5"/>kuvalayadalanīlajīmūtamālātamālāmalavyomanīlaṃ mahāvāyuvaiśvānarāmbhomahāmedinīmaṇḍalordhvasthahemācalasyopari sphītapadmāsanāsīnam ākrānta|śarvottamāṅgaṃ samārūḍhagaurīstanadvandvam āndolitopendrasūryendracandrādidevā ? ? ? ? (=devotkaraṃ) satā(=trāsitā)nekadaityākaraṃ lokarakṣākaraṃ sarvaśaṅkāharaṃ vyāghracarmāmbaraṃ duḥkaraṃ dustaraṃ
+<lb n="SA_T01_Vajraḍākadaṇḍakastotra_CUL:6"/>dhīragambhīrahūṃkāraphetkārahāhāravāpūrṇasarvāmbaraṃ  viśvavajrārdhacandrāṅkasacchekharaṃ dhvastamohāndhakāraṃ sutāraṃ mahāśaṃkhahāraṃ jvaladvajraghaṇṭāsanātho(?)llasa [ṭha x 5 for string space] dbāhuyugmopagūḍhādvayā ? ? ? ? (=ādvayajñānaśūnya)svabhāva- [the rest is lost]
+<lb n="SA_T01_Vajraḍākadaṇḍakastotra_CUL:7"/>% cont&#x27;d in Add. 1697.7 thus: -svabhāvāṅganāliṅganaṃ mattamātaṅgacarmāmbara{ṃ}vyagrahastadvayaṃ visphuratparśuśūlograkarttijvaladvajrakhaṭvāṅgapāśolasadbrahmamuṇḍaiḥ kṛpīṭena patreṇa ca prasphuradbhi[r] bhujaiḥ śobhamānaṃ mahāmā[ṃ]samedosinaṃ dhyāyinaṃ molinaṃ jñāninaṃ dhīdhanaṃ ṣoḍaśārdhārdhavaktraṃ trinetraṃ pavitraṃ nṛmuṇḍāvalībhūṣaṇaṃ bhīṣaṇaṃ
+<lb n="SA_T01_Vajraḍākadaṇḍakastotra_CUL:8"/>ghorasaṃsārakāntārasantāraṇaṃ māravihāvanaṃ vajrasattva[ṃ] name || 1 ||
+<lb n="SA_T01_Vajraḍākadaṇḍakastotra_CUL:9"/>autpala mdog sngon char sprin phreng ba dri med nam mkha&#x27; sngon po&#x27;i mchog rlung chen me chu sa yi dkyil &#x27;khor steng du gnas pa&#x27;i gser gyi ri bo&#x27;i steng na padma rgyas pa&#x27;i gdan gnas dbang phyug mnan cing dkar mo&#x27;i nu ma gnyis po mnyam brdzis zil gyis dbang po nye dbang {242a6} nya mi zla ba la sogs lha rnams bsngags mdzad lha min du ma skrag par
+<lb n="SA_T01_Vajraḍākadaṇḍakastotra_CUL:10"/>mdzad cing &#x27;jig rten bsrung mdzad dogs pa kun &#x27;phrogs stag lpags na bzas bkab mdzad ngan bsgral brtan zhing zab pa&#x27;i yi ge h&#x27;uM dang phaT kyi rnam pa h&#x27;a h&#x27;a&#x27;i nga ro nam mkha&#x27; kun gang sna tshogs rdo rje zla phyed kyis {242a7} mtshan gtsug tor dam pa gti mug mun bcom legs bar sgrol ba dung chen phreng ba&#x27;i bar ba&#x27;i rdo rje sgrar bcas dril bu rab
+<lb n="SA_T01_Vajraḍākadaṇḍakastotra_CUL:11"/>gsal dam pa&#x27;i phyag rgya nye bar &#x27;khyud pa gnyis med ye shes chags pa&#x27;i yan lag rang bzhin \{{{\ btsun mo&#x27;i grogs dang ldan pa phyag gnyis glang chen myos pa chen {242b1} po&#x27;i pags pa&#x27;i na bza&#x27; bsnams pas brel zhing rnam par &#x27;phro ba&#x27;i dgra sta mdud rno gri gug &#x27;bar ba&#x27;i rdo rje kha Tv&#x27;aM ga dang zhags pa &#x27;phro ba tshangs ba&#x27;i mgo dang cang te&#x27;u
+<lb n="SA_T01_Vajraḍākadaṇḍakastotra_CUL:12"/>dang ni thod pa &#x27;phro ba&#x27;i phyag rnams kyis mdzes sha dang tshil bu chen po gsol ba bsam gtan ldan pa cod pan ldan pa ye {242b2} shes ldan pa blo nor ldan pa bcu drug phyed phyed zhal dang ldan pa spyan gsum dag par mdzad pa mi mgo&#x27;i phreng bas brgyan pa &#x27;jigs su rung ba drag po mi bzad &#x27;khor ba&#x27;i dgon pa yang dag sgrol ba bdud rnams &#x27;joms pa rdo
+<lb n="SA_T01_Vajraḍākadaṇḍakastotra_CUL:13"/>rje sems dpa&#x27; la phyag &#x27;tshal || ||
+<lb n="SA_T01_Vajraḍākadaṇḍakastotra_CUL:14"/>tadanu kamaladikcatuḥpatragābhir mahāḍākinīlāmikākhaṇḍarohāmanohāriṇīrūpiṇībhir yutaṃ koṇasaṃsthaiḥ karoṭaiḥ parītaṃ tataḥ kāyavākcittacakrasthapātālabhūsvargacāritritattvasphuradvīravīreśvarīcakrasaccakriṇaṃ kākatuṇḍādidevībhir aṣṭābhir abhyarcitaṃ digvidikṣu sthitābhi[ḥ] svadevīsamāśleṣaśṛṅgāriṇaṃ mārasenācamatkāravisphāraṇasattvasaṃrāgiṇaṃ
+<lb n="SA_T01_Vajraḍākadaṇḍakastotra_CUL:15"/>dveṣavidveṣiṇaṃ roṣasaṃroṣiṇaṃ kleśasaṃbhāriṇaṃ mṛtyumārādiraktāsavāpānamattasucittaṃ trailokaikakṛtye sthitaṃ buddhakāryonnataṃ vajradevīmukhasparśasaṃjātaromāñcasaṃchāditāṅgaṃ cala[n]netrapatraṃ kvanatkaṇṭharandhrasasītkārahāsaṃ priyābāhupāśāvabaddhonnatagrīvam uttuṅgapīnastanadvandvasarmma(?)saṃjātaromāgrasañcāridya(?)rmoda(?)bindūtkare racitaṃ
+<lb n="SA_T01_Vajraḍākadaṇḍakastotra_CUL:16"/>sūryakoṭiprabhārociṣā vyāptadigmaṇḍalaṃ kuṇḍalālaṃkṛtaṃ bālacandrāgradaṃṣṭrākuraṃ bhāsuraṃ śrīkaraṃ dhīkaraṃ puṣṭidaṃ tuṣṭidaṃ rājyadaṃ siddhidaṃ sarvasampatkaraṃ nāyakaṃ vajraḍākaṃ sadā ||
+<lb n="SA_T01_Vajraḍākadaṇḍakastotra_CUL:17"/>de yi rjes su phyogs kyi {242b3} padma&#x27;i &#x27;dab ma bzhir bzhugs mkha&#x27; &#x27;gro chen mo l&#x27;a ma dum skyes gzugs can ma ni yid &#x27;phrog byed ma rnams dang ldan zhing mtshams su kun gnas thod pas bskor cing de nas sku gsung thugs kyi &#x27;khor lor bzhugs shing sa &#x27;og sa steng mtho ris spyod pa de nyid gsum las khros pa dpa&#x27; bo dpa&#x27; {242b4} mo&#x27;i dbang phyug &#x27;khor
+<lb n="SA_T01_Vajraḍākadaṇḍakastotra_CUL:18"/>lo dam pa &#x27;khor lo can ni phyogs dang phyogs min dag na gnas pa&#x27;i khva gdong la sogs lha mo brgyad kyis mngon par mchod cing rang gi lha mos mnyam par sbyar ba&#x27;i sgeg pa dang ldan bdud kyi sde rnams sngangs par mdzad pa rnam par &#x27;phro ba sems can la ni yang dag chags can {242b5} sdang la rnam sdang khro la kun khro nyon mongs rnams &#x27;joms &#x27;chi bdag
+<lb n="SA_T01_Vajraḍākadaṇḍakastotra_CUL:19"/>bdud sogs khrag dron btung bas tshim pa&#x27;i thugs bde &#x27;jig rten gsum na mdzad pa gcig bzhugs sangs rgyas mdzad brtson rdo rje lha mo&#x27;i bde ba reg pa las skyes pa sbu langs pa&#x27;i tshogs kyis khyab pa&#x27;i sku can spyan gyi rdzi ma {242b6} g-yo zhing mgur gyi sbubs nas sid kyi sgrar bcas bzhad cing yid &#x27;ong phyag gi zhags pas mgul &#x27;khyud nu ma gnyis rgyas
+<lb n="SA_T01_Vajraḍākadaṇḍakastotra_CUL:20"/>mkhrang rten las byung rdul gyi thigs pa&#x27;i tshogs kyis mchod cing nyi ma bye ba&#x27;i &#x27;od kyi snang bas phyogs kyi dkyil &#x27;khor sna tshogs khyab cing snyan chas brgyan pa zla ba gzhon {242b7} nu phyed pa&#x27;i mche ba&#x27;i myu gu lham me dpal mdzad blo mdzad tshim pa ster zhing rgyas ba ster ba rgyal srid ster zhing dngos grub ster ba phun sum tshogs ba thams
+<lb n="SA_T01_Vajraḍākadaṇḍakastotra_CUL:21"/>cad rab ster &#x27;dren pa rdo rje mkha&#x27; &#x27;gro la ni rtag tu &#x27;dud || ||
+<lb n="SA_T01_Vajraḍākadaṇḍakastotra_CUL:22"/>anupamakaruṇāvaśāveśavisphāritāśeṣatāthāgatāvyūhavidhvastasaṃsāraghorārṇavārṇar(?)gatakleśakallolamālajvalajjātavedaḥ saha śrādhikoddīptavidyucchaṭābhāsuraṃ jñānarāśiprabhāvāt saṃdraśitā(!)nantavastusvabhāvaṃ bhavaṃ nirbhavaṃ bhāvam udbhu[¯]tabhāvaṃ tridhātusvabhāvaṃ svarūpaṃ virūpaṃ hatāśeṣarūpaṃ catu[r]brahmavīhāranaivāśikaṃ lakṣaṇālaṃkṛtaṃ
+<lb n="SA_T01_Vajraḍākadaṇḍakastotra_CUL:23"/>vyañjanaiḥ sa[ṃ]skṛtaṃ dharmasaṃbhoganirmāṇakāyavyāptasattvārthakṛte sthitaṃ oṃtritattvaṃ mahārāgaraktaṃ mahādveṣaduṣṭamahāmohamugdhaṃ mahālobhalubdhaṃ kṛpāśūnyatābhinnapūrvāparāntadvayatyaktalokatraye[=ai]kakṣaṇavyāpivijñānamābhirvaśrībhavacchrīmadānandasandohasatsundaraḥ dānaśīlādisaṃśuddhaṃ bāhyāntaraṃ bhīrṇaghorāndakāraṃ jagatkāraṇaṃ
+<lb n="SA_T01_Vajraḍākadaṇḍakastotra_CUL:24"/>kāraṇāhāriṇaṃ bhīmasaṃveṣiṇaṃ kleśasatāriṇaṃ rūpasaṃtāriṇaṃ sūkṣmakāyamahāsthūladehaṃ vibhuṃ vyāpinaṃ dhyāyinaṃ nityam ekākṣaṇaṃ sthāyinaṃ yāyinaṃ sthāvaraṃ bhāsvaraṃ vīravīreśvaraṃ sarvabhāvena lokeśvaram || 3 ||
+<lb n="SA_T01_Vajraḍākadaṇḍakastotra_CUL:25"/>dpe med thugs rje&#x27;i nyams kyis &#x27;jug pa de bzhin gshegs pa&#x27;i bkod pa ma lus rnam {243a1} || par &#x27;phro bas &#x27;khor ba&#x27;i rgya mtsho mi bzad nang song nyon mongs rba rlabs &#x27;phro ba&#x27;i phreng ba rnam par &#x27;joms mdzad me &#x27;bar stong pas lhag pa&#x27;i &#x27;od &#x27;bar glog &#x27;phro&#x27;i &#x27;od gsal ye shes phung po&#x27;i &#x27;od zer khyab par yang dag bstan cing mtha&#x27; yas dngos po&#x27;i rang
+<lb n="SA_T01_Vajraḍākadaṇḍakastotra_CUL:26"/>bzhin {243a2} dngos bral dngos med ngo bo yang dag las byung ngo bo khams gsum rang bzhin gzugs bzang gzugs bral ma lus gzugs bcom tshangs pa&#x27;i gnas bzhis nges par gnas pa mtshan gyis brgyan pa dpe byad rnams kyis legs par spras pa chos dang longs spyod rdzogs pa sprul pa&#x27;i {243a3} sku gsum po yis khyab pa&#x27;i sems can don gyi phrin las de nyid gsum
+<lb n="SA_T01_Vajraḍākadaṇḍakastotra_CUL:27"/>pa chags la chags che ma rungs pa la zhe sdang chen po rmongs la rmongs chen &#x27;ded la &#x27;dod chen brtse ba stong nyid tha dad med pa sngon dang phyi ma&#x27;i mtha&#x27; ni spangs shing &#x27;jig rten gsum po skad cig gis khyab rnam bar {243a4} shes pa mngon du gyur pa dga&#x27; ba chen po&#x27;i tshogs kyi mchog mdzes sbyin dang tshul khrims la sogs yongs dag phyi nang mun
+<lb n="SA_T01_Vajraḍākadaṇḍakastotra_CUL:28"/>pa mi bzad brgal zhing &#x27;gro ba&#x27;i mdzad pa byed pa &#x27;phrog byed &#x27;khor ba&#x27;i &#x27;jigs pa yang dag sgrol mdzad nyon mongs nyon mongs kun &#x27;phrog gzugs dang {243a5} ldan zhing gzugs kun sdud mdzad gdug pa kun nas skrag par mdzad cing phra mo&#x27;i sku chen spom po&#x27;i lus chen khyab bdag khyab pa rtag pa skad cig gnas pa brtan pa g-yo ba gsal ba dpa&#x27; bo dpa&#x27; mo&#x27;i
+<lb n="SA_T01_Vajraḍākadaṇḍakastotra_CUL:29"/>dbang phyug &#x27;jig rten dbang phyug la ni dngos po kun gyis &#x27;dud || ||
+<lb n="SA_T01_Vajraḍākadaṇḍakastotra_CUL:30"/>śavaśataracitānekabībhatsacetāgniraudre nṛmuṇḍe pracaṇḍāsthikhaṇḍāṇḍakeśādibhir maṇḍite dahyamānottamāṅgasphutatmajjamastivya(=ṣka)paṅkacchaṭāpicchile chinnakeśāntramālāvṛte ḍākinībhūtavetālahāhāravodbhāsite sādhakānekahuṃkārabhīme bhramatapheruphetkārakolāhale nṛtyadudbāhukaṅkālamālākule vīrapānotsravodbhūtam
+<lb n="SA_T01_Vajraḍākadaṇḍakastotra_CUL:31"/>ānandasaṃgītiramyatvenārahyanṛtyollasadyogiyogiīśvarīvṛndake gṛdhracañcvāhatacchinnagātrakṣaradraktadhārāndhakāre śivātuṇḍanirgacchadatyugravaṃhnisphurajjvālamālāvile kālasenākarāle mahākālavelākule didigvidikṣu śmaśānāṣṭake natuyantaṃ guruṃ herukaṃ vāgbhir abhyarcya yat puṇyam ākāśadhātvantarālaprasapriprasūta mamāyaṃ janas tena bhittvāṣilaṃ
+<lb n="SA_T01_Vajraḍākadaṇḍakastotra_CUL:32"/>kleśajālaṃ pracitvātulaṃ puṇyarāśiprasūyāmalajñānasaṃbhāram āvirbhavadbhāsim avṛttisajyotir udyotitāśeṣaviśvaḥ samucchāritānantamohandhakāraṃ kṣaṇād vajraḍākopamaṃ sarvasaṃbuddhakāryekakṛtyo stu niśeṣata[ḥ] sarvadā || 4 ||
+<lb n="SA_T01_Vajraḍākadaṇḍakastotra_CUL:33"/>ro brgyas {243a6} spras shing rmad byung &#x27;jigs rungs du ma&#x27;i gzugs can ro pa sregs me drag mi mgo rab gtum rus pa dum bu&#x27;i tshogs dang skra sogs kyis brgyan bsreg bzhin pa yi yan lag mchog gi klad pa lug cing rkang mar zhag &#x27;thor &#x27;dam ni &#x27;dred pa skra chad pa dang rgyu ma&#x27;i phreng ba lang long nar ba {243a7} mkha&#x27; &#x27;gro ma dang &#x27;byung po ro langs
+<lb n="SA_T01_Vajraḍākadaṇḍakastotra_CUL:34"/>ha ha&#x27;i nga ro mthon por sgrogs shing sgrub pa po ni du ma h&#x27;uM yig gis bsdigs rgyu zhing ce sbyang phaT kyi rnam pa&#x27;i ku co &#x27;don cing lag bteg gar byed keng rus phreng ba &#x27;khrigs pa dpa&#x27; bo&#x27;i btung ba&#x27;i spro ba las byung dga&#x27; ba dang bcas glu snyan len cing gar byed {243b1} g-yo zhing rol pa rnal &#x27;byor rnal &#x27;byor ma yi dbang phyug tshogs pa bya
+<lb n="SA_T01_Vajraḍākadaṇḍakastotra_CUL:35"/>rgod mchu yis gnon cing bcad pa&#x27;i lus kyi khrag gi rgyun &#x27;dzag mun nag can ni ce sbyang gdong las byung ba&#x27;i &#x27;bar ba drag po me &#x27;bar tshogs can bdud sde&#x27;i tshogs med nag po dus chen &#x27;khrigs pa&#x27;i lha rdzas dur khrod brgya da du gar {243b2} mdzad bla ma he ru ka la bdag gis ngag rnams kyis ni mngon par mchod pa&#x27;i bsod nams nam mkha&#x27;i khams kyi
+<lb n="SA_T01_Vajraḍākadaṇḍakastotra_CUL:36"/>khongs khyab rab skyes &#x27;di yis skye ba &#x27;di rnams nyon mongs dra ba ma lus spangs nas mnyam med bsod nams phung po bsags nas rab skyes dri med ye shes tshogs ni mngon gyur rang rig {243b3} yang dag gsal ba dam pa&#x27;i &#x27;od kyis gsal byas sna tshogs du ma&#x27;i ga&#x27;i mug mun nag mtha&#x27; yas kun nas bsal ba&#x27;i skad cig la ni rdo rje mkha&#x27; &#x27;gro rdzogs pa&#x27;i sangs
+<lb n="SA_T01_Vajraḍākadaṇḍakastotra_CUL:37"/>rgyas kun gyi sku bzhin kun nas rtag tu gyur || ||
+<lb n="SA_T01_Vajraḍākadaṇḍakastotra_CUL:38"/>śrīcakrasamvaradaṇḍakastuti samāpta ||   ||
+<lb n="SA_T01_Vajraḍākadaṇḍakastotra_CUL:39"/>dpal rdo rje mkha&#x27; &#x27;gro&#x27;i bstod pa rgyun chags zhes bya ba rtog ge ba&#x27;i {243b4} tshogs kyi gtsug gi nor bu slob dpon chen po dpal ldan chos kyi grags pa&#x27;i zhabs kyis mdzad pa rdzogs so || ||
+<lb n="SA_T01_Vajraḍākadaṇḍakastotra_CUL:40"/>rgya gar gyi mkhan po ma Ni ka shr&#x27;i dzny&#x27;a na&#x27;i zhal snga nas chag lo ts&#x27;a ba sh&#x27;akya&#x27;i dge slong dpal gyi mtha&#x27; can gyis bsgyur cing zhus te gtan la phab pa |
+<lb n="SA_T01_Vajraḍākadaṇḍakastotra_CUL:41"/>&#x27;di&#x27;i gzhung tshad ni bla ma&#x27;i {243b5} phyag dpe la tshig rkang pa bzhi&#x27;i re re zhing yi ge sum cu rtsa drug du gnas shing rkang pa bzhi ka bsdoms pas yi ge stong sum brgya bzhi bcu rtsa bzhi bzhugs so || bod kyi dpe la ni tshig rkang re re la tsheg par nyis brgya dgu bcu rtsa lnga yod cing |
+<lb n="SA_T01_Vajraḍākadaṇḍakastotra_CUL:42"/>bsdoms pas tsheg par stong brgya brgyad cu {243b6} yod do ||
+    </body>
+  </text>
+</TEI>

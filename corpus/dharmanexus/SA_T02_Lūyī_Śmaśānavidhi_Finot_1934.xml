@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Śmaśānavidhi</title>
+        <author>Lūyīpāda</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Author: Lūyīpāda
+Collection / category: BuddhistNon-Scriptures / T02
+Source: OCR / Dharmamitra
+Edition / witness: Louis Finot, “Manuscrits Sanskrits de Sādhana’s Retrouvés en Chine.” Journal Asiatique 225 (1934), pp. 1-86. (input by Conlon: http://rconlon.com/posts/2024/2024-05-09aṣṭaśmaśāna/)
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Louis Finot, “Manuscrits Sanskrits de Sādhana’s Retrouvés en Chine.” Journal Asiatique 225 (1934), pp. 1-86.</note>
+          <idno type="dharmanexus">SA_T02_Lūyī_Śmaśānavidhi_Finot_1934</idno>
+          <ref target="https://dharmamitra.org/nexus/db/sa/SA_T02_Lūyī_Śmaśānavidhi_Finot_1934/text">https://dharmamitra.org/nexus/db/sa/SA_T02_Lūyī_Śmaśānavidhi_Finot_1934/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-13">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_T02_Lūyī_Śmaśānavidhi_Finot_1934:0"/>[ed. p. 49] namaḥ śrīvajraḍākāya
+<lb n="SA_T02_Lūyī_Śmaśānavidhi_Finot_1934:1"/>natvā pretāsanasthaṃ trinayanaṃ abhitovaktram āraktagātrīṃ
+<lb n="SA_T02_Lūyī_Śmaśānavidhi_Finot_1934:2"/>vārāhīṃ mūladorbhyāṃ sapadividalitaṃ nāganāthaṃ parābhyām |
+<lb n="SA_T02_Lūyī_Śmaśānavidhi_Finot_1934:3"/>śeṣaiḥ kaṭvāṅgapāśau narakam ajaśiro vāmadorbhiś caturbhiḥ
+<lb n="SA_T02_Lūyī_Śmaśānavidhi_Finot_1934:4"/>savyaiḥ karttritriśūlaparaśuḍamarukaṃ bibhrataṃ samvarākhyam || 1 ||
+<lb n="SA_T02_Lūyī_Śmaśānavidhi_Finot_1934:5"/>yathokaṃ śākyasiṃhena tantre tantre padaṃ padaṃ |
+<lb n="SA_T02_Lūyī_Śmaśānavidhi_Finot_1934:6"/>tasmād ākṛṣya saṃpūrṇṇaṃ grathitañ cātmane mayā || 2 ||
+<lb n="SA_T02_Lūyī_Śmaśānavidhi_Finot_1934:7"/>pūrvvaiśānyau mukhīkṛtya sarvvadikṣu vidikṣu ca |
+<lb n="SA_T02_Lūyī_Śmaśānavidhi_Finot_1934:8"/>vāmadakṣiṇato jñeyaṃ śmaśānaṃ yoginīmate || 3 ||
+<lb n="SA_T02_Lūyī_Śmaśānavidhi_Finot_1934:9"/>[ed. p. 50] prācyāṃ śmaśāne caṇḍogre śirīṣaḥ syād bṛhaddrumaḥ |
+<lb n="SA_T02_Lūyī_Śmaśānavidhi_Finot_1934:10"/>śakro &#x27;py airāvatārūḍho gauro vajrī kapāladhṛk || 4 ||
+<lb n="SA_T02_Lūyī_Śmaśānavidhi_Finot_1934:11"/>vāsukir nāgarājo &#x27;pi śveto nīlotpalāṅkadhṛk |
+<lb n="SA_T02_Lūyī_Śmaśānavidhi_Finot_1934:12"/>kṛtāñjalipuṭībhūya naman nāthāgrasaṃsthitaḥ || 5 ||
+<lb n="SA_T02_Lūyī_Śmaśānavidhi_Finot_1934:13"/>udīcyāṃ gahvaro &#x27;śvatthaḥ kuvero naravāhanaḥ |
+<lb n="SA_T02_Lūyī_Śmaśānavidhi_Finot_1934:14"/>nakulam udgilad ratnaṃ dhatte gaurakaroṭakam || 6 ||
+<lb n="SA_T02_Lūyī_Śmaśānavidhi_Finot_1934:15"/>nāgeśaḥ takṣakas tatra bandhūkapuṣpasaṃnibhaḥ |
+<lb n="SA_T02_Lūyī_Śmaśānavidhi_Finot_1934:16"/>phaṇāyāṃ svastilakṣyo &#x27;pi kṛtāñjaliśirā nataḥ || 7 ||
+<lb n="SA_T02_Lūyī_Śmaśānavidhi_Finot_1934:17"/>pratīcyāṃ pādapo &#x27;śoko jvālākulakaraṅkako
+<lb n="SA_T02_Lūyī_Śmaśānavidhi_Finot_1934:18"/>śvetaḥ saptaphaṭa pāśī makarasthaḥ kapāladhṛk || 8 ||
+<lb n="SA_T02_Lūyī_Śmaśānavidhi_Finot_1934:19"/>pannageśaś ca karkoṭo dūrvvāśyāmasamadyutiḥ |
+<lb n="SA_T02_Lūyī_Śmaśānavidhi_Finot_1934:20"/>rekhātrayaṃ gale dhatte nato mūrdhni kṛtāñjaliḥ || 9 ||
+<lb n="SA_T02_Lūyī_Śmaśānavidhi_Finot_1934:21"/>cūto vibhīṣaṇo &#x27;pācyāṃ yamo pi mahiṣāruḍhaḥ |
+<lb n="SA_T02_Lūyī_Śmaśānavidhi_Finot_1934:22"/>kṛṣṇo raktekṣaṇaḥ pīno raudro daṇḍī kapāladhṛk || 10 ||
+<lb n="SA_T02_Lūyī_Śmaśānavidhi_Finot_1934:23"/>yācann ājñāñ ca śāstāraṃ padmanāmā phaṇīśvaraḥ |
+<lb n="SA_T02_Lūyī_Śmaśānavidhi_Finot_1934:24"/>kṛtāñjalipuṭaḥ śveto vaṅgabinduśiroṅkitaḥ || 11 ||
+<lb n="SA_T02_Lūyī_Śmaśānavidhi_Finot_1934:25"/>aṭaṭṭahāsa aiśānyāṃ nyagrodhaḥ syāt tarur mahān |
+<lb n="SA_T02_Lūyī_Śmaśānavidhi_Finot_1934:26"/>sitaḥ śūlī kapālīśo gostho vyāghrājināmbaraḥ || 12 ||
+<lb n="SA_T02_Lūyī_Śmaśānavidhi_Finot_1934:27"/>mahāpadmaphaṇīndro &#x27;pi candrakāntisamaprabhaḥ |
+<lb n="SA_T02_Lūyī_Śmaśānavidhi_Finot_1934:28"/>phaṇāyāñ ca triśūlāṅko vinyastāñjalimastakaḥ || 13 ||
+<lb n="SA_T02_Lūyī_Śmaśānavidhi_Finot_1934:29"/>lakṣmyā vane karañjo &#x27;gniḥ kharvo &#x27;stho &#x27;gnikoṇake |
+<lb n="SA_T02_Lūyī_Śmaśānavidhi_Finot_1934:30"/>rakto &#x27;sṛṅmuṇḍakapālī sākṣasūtrakamaṇḍaluḥ || 14 ||
+<lb n="SA_T02_Lūyī_Śmaśānavidhi_Finot_1934:31"/>śikhikaṇṭhanibho &#x27;nanto mastake padmalāñchanaḥ |
+<lb n="SA_T02_Lūyī_Śmaśānavidhi_Finot_1934:32"/>murddhāñjalipuṭībhūya naman nāthāṅghrisaṃsthitaḥ || 15 ||
+<lb n="SA_T02_Lūyī_Śmaśānavidhi_Finot_1934:33"/>nirṛtyāṃ nirṛtir nīlaḥ śavastho &#x27;sikapāladhṛk |
+<lb n="SA_T02_Lūyī_Śmaśānavidhi_Finot_1934:34"/>nagno ghorāndhakārākhyo nṛkapālāvaliśirāḥ || 16 ||
+<lb n="SA_T02_Lūyī_Śmaśānavidhi_Finot_1934:35"/>phaṇāyām arddhacandrāṅko dhūmrāṅkāṅguliko &#x27;hirāṭ |
+<lb n="SA_T02_Lūyī_Śmaśānavidhi_Finot_1934:36"/>kṛtāñjalipuṭo mūrddhni laṭājaṭyāṃ niṣīdati || 17 ||
+<lb n="SA_T02_Lūyī_Śmaśānavidhi_Finot_1934:37"/>vāyavyāṃ arjjunaḥ śākhī vāto dhūmro mṛgāsanaḥ |
+<lb n="SA_T02_Lūyī_Śmaśānavidhi_Finot_1934:38"/>pītadhvajaḥ kapālī ca kilakilārave sthitaḥ || 18 ||
+<lb n="SA_T02_Lūyī_Śmaśānavidhi_Finot_1934:39"/>śaṅkhaḥ kalaṅkito gauraḥ puṭāñjalimasaṣṭamaḥ |
+<lb n="SA_T02_Lūyī_Śmaśānavidhi_Finot_1934:40"/>aṣṭau te bhujagendrāś ca sthitālaṃkārabhūṣitāḥ || 19 ||
+<lb n="SA_T02_Lūyī_Śmaśānavidhi_Finot_1934:41"/>indrādayo &#x27;ṣṭādikālāḥ sapatnikāḥ caturbhujāḥ |
+<lb n="SA_T02_Lūyī_Śmaśānavidhi_Finot_1934:42"/>[ed. p. 51] kṛtāñjalipuṭā dvābhyāṃ śeṣābhyāṃ cihnadhārakāḥ || 20 ||
+<lb n="SA_T02_Lūyī_Śmaśānavidhi_Finot_1934:43"/>ghanāś ca jayabhadrākhyāḥ śrīnando vṛṣṭisupriyaḥ |
+<lb n="SA_T02_Lūyī_Śmaśānavidhi_Finot_1934:44"/>drutaghoṣo &#x27;pi caṇḍaḥ syād varṣaḥ purāṇacāpalau || 21 ||
+<lb n="SA_T02_Lūyī_Śmaśānavidhi_Finot_1934:45"/>aṣṭau te &#x27;ṣṭaśmaśāneṣu sthitā meghā bhayānakāḥ |
+<lb n="SA_T02_Lūyī_Śmaśānavidhi_Finot_1934:46"/>vidyunnādān nikurvanto dhārāvarṣañ ca ke &#x27;pi ca || 22 ||
+<lb n="SA_T02_Lūyī_Śmaśānavidhi_Finot_1934:47"/>svapikālyāsanāsyāś ca rākṣasāḥ krūrarūpiṇaḥ |
+<lb n="SA_T02_Lūyī_Śmaśānavidhi_Finot_1934:48"/>bhakṣayanto nṛṇāṃ māṃsaṃ sthitā vṛkṣeṣu naktagāḥ || 23 ||
+<lb n="SA_T02_Lūyī_Śmaśānavidhi_Finot_1934:49"/>eteṣām antavṛkṣāṇāṃ pārśve pārśve samantataḥ |
+<lb n="SA_T02_Lūyī_Śmaśānavidhi_Finot_1934:50"/>upavṛkṣāḥ sthitāramyā vaṅgapuṣpaphalānvitāḥ || 24 ||
+<lb n="SA_T02_Lūyī_Śmaśānavidhi_Finot_1934:51"/>śvaśṛgālarutaiḥ siṃhair vyāghracchāgalaśūkaraiḥ |
+<lb n="SA_T02_Lūyī_Śmaśānavidhi_Finot_1934:52"/>otveḍakavṛkaiḥ savyaiḥ kākolūkādipakṣibhiḥ || 25 ||
+<lb n="SA_T02_Lūyī_Śmaśānavidhi_Finot_1934:53"/>olambā śūlabhinnaiś ca kaṅkālārdhaśirosthibhiḥ |
+<lb n="SA_T02_Lūyī_Śmaśānavidhi_Finot_1934:54"/>citidandhārdhadandhaiś ca piśācaiḥ śavarādhakaiḥ || 26 ||
+<lb n="SA_T02_Lūyī_Śmaśānavidhi_Finot_1934:55"/>siddhair bbalipradair ddivyair yoginībhiś ca melakaiḥ |
+<lb n="SA_T02_Lūyī_Śmaśānavidhi_Finot_1934:56"/>karttrikapālakhaṭvāṅgaiḥ kṛpīṭair bhojyasaṃpuṭaiḥ || 27 ||
+<lb n="SA_T02_Lūyī_Śmaśānavidhi_Finot_1934:57"/>caityaiḥ śvetaiḥ śmaśānādimaṇḍitādyaṣṭasiddhibhiḥ  |
+<lb n="SA_T02_Lūyī_Śmaśānavidhi_Finot_1934:58"/>tatra madhye sthito ḍāko yoginībhir jagaddhite || 28 ||
+<lb n="SA_T02_Lūyī_Śmaśānavidhi_Finot_1934:59"/>.... (lacuna)
+<lb n="SA_T02_Lūyī_Śmaśānavidhi_Finot_1934:60"/>gaddhite ||
+<lb n="SA_T02_Lūyī_Śmaśānavidhi_Finot_1934:61"/>yac chmaśānavidhiṃ kṛtvā svātmano hitahetave |
+<lb n="SA_T02_Lūyī_Śmaśānavidhi_Finot_1934:62"/>puṇyaṃ prāptaṃ mayādyaiva tena loko &#x27;stu muktimān ||
+<lb n="SA_T02_Lūyī_Śmaśānavidhi_Finot_1934:63"/>śmaśānavidhiḥ samāptaḥ. kṛtir iyaṃ lūyīpādānām.
+    </body>
+  </text>
+</TEI>

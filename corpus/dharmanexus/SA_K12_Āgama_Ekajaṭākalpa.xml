@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Ekajaṭākalpa (beginning missing)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Collection / category: BuddhistScriptures / K12 (Tantra)
+Source: OCR / Dharmamitra
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Unpublished diplomatic transcription and working edition from Kathmandu, Kaiser Library MS 742 (NGMPP reel C 73/6; paper, Newari script, ff. 14, copied in NS 749 / 1629 CE by Vajrācārya Candradeva of Guṇadevavihāra).</note>
+          <idno type="dharmanexus">SA_K12_Āgama_Ekajaṭākalpa</idno>
+          <ref target="https://dharmamitra.org/nexus/db/sa/SA_K12_Āgama_Ekajaṭākalpa/text">https://dharmamitra.org/nexus/db/sa/SA_K12_Āgama_Ekajaṭākalpa/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-13">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:0"/>Ekajaṭākalpa
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:1"/>\ms Kaiser 742 = NGMPP C 73/6
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:2"/>% input by Péter-Dániel Szántó
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:3"/>% Budapest, 2014-02
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:4"/>% silent corrections, emendations
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:5"/>% paper, common Newar, ff. 14 of which the first is missing
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:6"/>% the first two folios in this bundle have a sketch of the Yogāmbara maṇḍala with the names of 104 deities
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:7"/>[\ms1\deest]
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:8"/>[\ms2\recto] tha pañcamyāṃ tathāṣṭamyāṃ caturdaśyāṃ pañcaraṅgikacūrṇena pātayet tato garbhamaṇḍalasya madhye buddhaṃ bhagavantam ālikhet | pauṇḍarīke padmaniṣaṇṇaṃ dharmaṃ deśayamānam |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:9"/>dakṣiṇe pārśve āryāvalokiteśvaraḥ śaratkāṇḍagauravarṇaḥ kṛṣṇājinottarāsaṅgaḥ śvetavastraḥ śvetayajñopavītaḥ dakṣiṇenābhayaprado vāme padmahasto likhāpayitavyāḥ (!) dvitīye padmam [=padme?] |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:10"/>kiṃcid adhastād bhagavatīm āryatārām acintyaguṇānvitām abhayapradāṃ sarvālaṃkārabhūṣitāṃ śuklāṃśukottarīyāṃ nīlotpalahastāṃ likhet |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:11"/>tasya dakṣiṇapārśve mayūrakopaviṣṭā kiṃcidvirūpā raudrā daṃṣṭrākarālā sarpābharaṇavibhūṣitā vyāghracarmanivasanā gajacarmottarīyā vyāḍayajñopavītā sarvasattvabhayaṃkarī kapālaviracitahastā jihvāṅgacitā(?)sṛggalitavadanā trinetrā caturbhujā | prathamahastena varadā dvitīye paraśuṃ tṛtīye [\ms2\verso] triśūlaṃ caturthe haste pāśaḥ | sādhake dattadṛṣṭiḥ | pratihārake ca dve praśaste jayā vijayā catvāro ceṭikā | bhadrā siddhā viśālā ca virajā ceti ceṭikā likhet |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:12"/>% conj. jihvākuñcitā asṛggalitavadanā
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:13"/>adhastāt padmanī kartavyāḥ |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:14"/>% padminī?
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:15"/>% this whole passage must be about Ekajaṭā
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:16"/>garbhamaṇḍalasya samantāt pūrvadvāreṇa indravajraṃ samālikhet | āgneyyām agniṃ vā kamaṇḍaluṃ vālikhet | yāmyāṃ daṇḍaṃ | nairṛtyāṃ taṣṭraṃ (!) | vāruṇi pāśaḥ | vāyavyāṃ jana (?) patākaṃ vā | uttare bījapūrakam | aiśānyāṃ triśūlaṃ likhet |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:17"/>% garbha˚] \emend, \_ bbha \cod; samantāt] \emend, mantāt \cod
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:18"/>% kamaṇḍaluṃ] \emend, madaṇḍalu \cod
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:19"/>tataḥ sarvaparipūrṇamaṇḍalam ālikhya tantroktena vidhānenaiva rājapūjāṃ kṛtvā argham ādāya namaskṛtvā āvāhanam ārabhet |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:20"/>oṃ namo &#x27;mitābhāya tathāgatāyārhate samyaksaṃbudhāya tara 2 vidhama 2 satya 2 tapa 2 dhama 2 jñāna 2 lokāloke vilokake dharmadhara jñānadhara{ḥ} ya (?) saṃsāravidhamanakara sarvasattvamocaka oṃ ihāgaccha bhagavan namo &#x27;stu te svāhā ||
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:21"/>bhagavato buddhasyāhvānamantraḥ | bhagavatīmudrā sahitā kartavyāḥ |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:22"/>oṃ namo bhagavato ratnatrayāya bodhisattvāya ma[\ms3\recto]hāsattvāya mahākāruṇikāya oṃ padma 2 mahāpadma padmavarāgrapāṇigatāya sara 2 ehy ehi svayam āpūraya idaṃ maṇḍalaṃ siddhi bhavatu hara 2 sara 2 paramārthakāruṇikāya namo &#x27;stu te svāhā ||
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:23"/>idam āryāvalokiteśvarasyāhvānamantraḥ ||
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:24"/>oṃ tāre tāravare ihāgaccha bhagavati svāhā ||
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:25"/>idaṃ bhagavatyāryatārāyā āhvānamantraḥ |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:26"/>pūrvaṃ namaskāraḥ |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:27"/>nama ekajaṭāyai mahārākṣasyai ehy ehi bodhisattvājñākarīye svāhā || anantrāya (?) svāhā || jayāya svāhā || vijayāya svāhā || jayavijayāya sarvārthaṃ me sādhaya svāhā ||
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:28"/>idam ekajaṭāhvānamantraḥ |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:29"/>namo ratnatrayāya ekajaṭāyai hrī āvāhaya 2 ekajaṭi mahārākṣasi tri-r-akṣini raudrabhīṣaṇarūpe sarvasattvabhayaṃkari ugre-r-ugraparākrame rudhirāśani mahāvege sarvasattvapraśamani dara 2 vikara 2 vidhvaṃsana 2 āhara 2 gandhapuṣpadhūpaṃ baliṃ pratigṛhna svāhā ||
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:30"/>oṃ namo ratnatrayāya nama āryāvalokite[\ms3\verso]śvarāya bodhisattvāya mahāsattvāya mahākāruṇikāya || oṃ ekajaṭi tri-r-akṣi gajacarmottarīye bhujaṅgabhūṣite kapālaviracite dehe samudrakūlanilaye nivasasi sadā tvaṃ laṅkāmadhye rāmaṇaṃ pūjya kaḥ kaḥ kampitamadhye sādhakasya vighnavināśani caḥ caḥ cālitaśire la la la māṃsapiṇḍāgrahaste khādasi māṃsapuruṣasahasraṃ hāhākāre raktapatāke maṇikaṇakavaidūryaviracitadehe kākabakacāṣacakoranāditarute | kavatvolkajvālāraudraṇivahe (?) ruṇḍavīranādite (?) tvara tvara āgaccha āgaccha svayam āpūraya mā vilamba 2 ehy ehi ho 3 hrī 3 he 2 tiṭi 2 miṭi 2 mama śatrūn sarvavighnān sarvakṛtyān sarvāṃ lakṣmīṃ pratihana(?)śriyam ākarṣaya ekajaṭi svāhā || tri-r-akṣi svāhā || triśaraṇagate svāhā ||
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:31"/>eṣā ekajaṭī upahṛdayaṃ sarvakarmakaraṇī śāntikapauṣṭikavaśyābhicārakakarmāṇi kurute | asyā ekajaṭyā hṛdaya yogadhyāna sadā kartavyā |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:32"/>katamā ca sā [\ms4\recto] paramahṛdayā |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:33"/>oṃ bhagavati ekajaṭi hrīṃ hūṃ hūṃ svāhā ||
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:34"/>eṣa bhagavatyāḥ paramahṛdayaḥ |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:35"/>ehy ehi ekajaṭi raṇa 2 vidhama 2 sarvavighnān vimarda 2 vidhvaṃsaya 2 khāda 2 unmādaya 2 mara 2 māraya 2 he bhagavati sarvārthasādhani svāhā ||
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:36"/>anena diśābandhena ūrdhvabandhe[na] śikhābandhe[na] śmaśānapraveśa[ḥ/-e] siṃhavyāghrayakṣaḍākinīvyāḍamūṣikādīnāṃ sarveṣāṃ bandhaṃ (rakṣā?) [||]
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:37"/>garbhamaṇḍalasamantavyavasthitānāṃ caturṇāṃ lokapālādīnāṃ āvāhamantrāṇi bhavanti |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:38"/>oṃ indrāya surāsurapataye svāhā | oṃ agnaye svāhā | oṃ namo yamāya svāhā | oṃ namo vaivasvatāya svāhā | oṃ namo bhīṣaṇarākṣasādhipataye svāhā | oṃ namo varuṇāya nāgādhipataye svāhā | oṃ vāyavyāṃ vāyave svāhā | oṃ namaḥ kuverāya dhanādhipataye svāhā | oṃ namaḥ īśānāya bhūtādhipataye svāhā |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:39"/>ete diśadevatāhvānamantraḥ | tatas tantroktena vidhinā udārāṃ pūjāṃ kṛtvā | udārā balyupahārāṇi dattvā śiṣyam adhivāsaye[\ms4\verso]t | abhiṣekādikaṃ kṛtvā sarvakarmāṇi kārayet ||   ||
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:40"/>atha bhagavatyā ekajaṭyāḥ paṭavidhānaṃ bhavati |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:41"/>śmaśānacīrakaṃ vīrakrayeṇa krītvā māṃsāhāro bhūtvā śucinā śucivastraprāvṛtenācca(?)lakṣaṇadhārakeṇa citrakareṇāśeṣakaiṇḍai(?) bhagavatī citrāyapayitavyā trimukhī nīlotpalavarṇā cipaṭanāsā ūrdhvakeśā bṛhannetrā trinayanā pralamboṣṭhā daṃṣṭrākarālavadanā caturbhujā kapālaviracitamālādharī sarpābharaṇavibhūṣitā bālakarālāgra(?)bhūṣitā | kapālamadhyamukhā jihvākucitāsṛgvari(?)galitā kapālāvasthitā lambodarā vyāghracarmanivasanā gajacarmottarīyā pāśāṅkuśaparśuhastā yathālakṣaṇato likhāpayitavyā |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:42"/>% vīrakrayeṇa krītvā] \emend, vīrakrameṇa kṛtvā \cod
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:43"/>% -vastra-] \emend, -vasta- \cod
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:44"/>% bhagavatī] \emend, bhavatī \cod
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:45"/>% citrāpayitavyā] \emend, citrāpayitravyā \cod
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:46"/>% kapālamadhyamukhā] \conj, kapolamadhyemukhe \cod
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:47"/>devyāḥ pārśvato dīrghabāhuni kharvarūpa svaskagātrā (?) gajacarmottarīyā vyāghracarmanivasanā | ubhābhyāṃ hastābhyāṃ ripruṣnunyāsantai (?) mandira(?) mṛgāsanasthā likhet | upariṣṭād devaputro meghasthā | dundubhiṃ vādayamānāḥ | meghāś ca savidyutāḥ [\ms5\recto] | tasyādhastāt sodhakaṃ dhūpakaṭacchukavyagrahastaṃ likhet |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:48"/>% gajacarmo-] \emend, rājacarmo- \cod
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:49"/>% upariṣṭād] \emend, upariṣṭā \cod
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:50"/>% dundubhiṃ vādayāmāḥ] \emend, dundubhisvādayamānāḥ \cod
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:51"/>% śuṣka-?
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:52"/>tato vidyādhareṇa yathālikhitapaṭaṃ paścād anavasthāpya yathāvibhavataḥ pūjāṃ kṛtvā nānābhakṣabhojyādikaṃ udārabalinaivedyasragdāmaṃ dattvā triṣkālaṃ snāyitvā tricailaparivartinā madyāmiṣaviratena śucivastraprāvṛtena prāṅmukho bhūtvā paramahṛdayaṃ tryakṣaraṃ japet | yāval lakṣam iti ||
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:53"/>% prāṅmukho] \emend, prāṅmukhye \cod
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:54"/>tato mahacchabdaṃ kṛtvā bhūmikampo bhavati | paṭakampo dāmakampaś caitāny amūla(?)nimittāni bhavanti || na bhetavyaṃ candanodakena sugandhapuṣpeṇa cārgho dātavyaḥ | anena mantreṇa ||
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:55"/>% bhūmikampo] \emend, bhūmikalpo \cod
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:56"/>% caitāny] \emend, citāny \cod
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:57"/>bho bhagavati ekajaṭi rākṣasamāyādhari triśaraṇagṛhītaśikṣāpade satyavādini dhuru 3 dhara 3 varade imam arghaṃ pratīccha bhagavati namo namaḥ svāhā ||
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:58"/>tataḥ prahasitavadanā divyarūpā bhavati | vadati ca bho vidyādhara tuṣṭāsmy ahaṃ sapta vārāṃ vṛṇohīti | rājyatvaṃ vidyādharatvaṃ sasuratom (!) ākāśagāmitvaṃ yakṣiṇīsiddhitvaṃ rasāyanasiddhitvaṃ ceti ||   ||
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:59"/>% tuṣṭāsmy ahaṃ] \emend, tuṣṭāmya&#x27;haṃ \cod
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:60"/>atha bhagava[\ms5\verso]tyā ekajaṭyāḥ karmāṇi bhavanti |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:61"/>śāntikartukāmaḥ | apāmārgasamidhānāṃ dadhimadhughṛtāktānām aṣṭasahasraṃ juhuyāt |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:62"/>gṛhaśāntikartukāmaḥ | sarvagṛhamaṇḍalaṃ liptopaliptaṃ kṛtvā bhūtabaliṃ dattvā devadārusamidbhir agniṃ prajvālya kṛṣṇatilānāṃ dadhimadhughṛtāktānām aṣṭasahasraṃ ca juhuyāt sarvopadravāc chāntir bhavati |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:63"/>gośāntikartukāmaḥ | vatsalaṇḍadadhimadhughṛtāktānām aṣṭasahasraṃ juhuyāt | gośāntir bhavati |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:64"/>puruṣaśāntikartukāmaḥ yavagodhūmanāgakesarāṇām aṣṭasahasraṃ juhuyāt | puruṣaśāntir bhavati |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:65"/>pauṣṭikakartukāmaḥ kṣīrayāvakāhāro bhūtvā jaṭāsamidbhir agniṃ prajvālya paramānnam aṣṭasahasraṃ juhuyāt | divasāni sapta mahānidhānaṃ paśyati |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:66"/>% -yāvakā-] \emend, -pācakā- \cod
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:67"/>% divasāni] \emend, divasān \cod
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:68"/>yavānāṃ dadhimadhughṛtāktānām aṣṭasahasraṃ juhuyāt | divasāni sapta suvarṇadaśapalāni labhate |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:69"/>nāgakesarapadmakesararaktakusumaṃ haridrāṃ ca ekatra kṛtvā tena śālitaṇḍulam āloḍya ghṛ[\ms6\recto]tamadhvāktānāṃ lakṣaṃ juhuyāt | suvarṇalakṣaṃ labhate |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:70"/>hariṣṭakabījasya majjakakaṭutailenāloḍya akākorttare (?) velāyāṃ dine dine kuryāt | suvarṇāni viṃśati palāni labhate |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:71"/>gomāṃsaguggulughṛtamiśraṃ juhuyāt | divasāni sapta pañca grāmavarāṇi labhate | asiddhe karmaṇi sahasrapiṇḍaṃ grāmaṃ labhate |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:72"/>% sahasrapiṇḍaṃ] \emend, sahasrapiṇḍa- \cod
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:73"/>mahiṣarudhiracchāgarudhirāṇy ekīkṛtvā kaṭutailāktānām araktapāṭalānām aṣṭasahasrāhutiṃ dadyād daśa divasāni tāmrakṛtabhāṇḍānām ayutaṃ dadāti |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:74"/>mālatīpuṣpāṇāṃ dadhimadhughṛtāktānām aṣṭasahasraṃ juhuyāt | dīnārasahasraṃ labhate |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:75"/>śatāvarīvibhītikaṃ majjaṃ caikataḥ kṛtvā dadhimadhvaktānām aṣṭasahasraṃ juhuyāt | alaṃkṛtāṃ kanyāṃ suśobhanāṃ labhate |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:76"/>śālipiṣṭakacūrṇaṃ kaṭutailāktaṃ juhuyāt | divasāni sapta raupyaṃ lakṣaṃ labhate |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:77"/>yavānāṃ dadhimadhughṛtāktānāṃ lakṣaṃ juhuyāt | na kaścit hute daridro bhavati |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:78"/>sarṣapam aṣṭasahasraṃ juhuyāt | satataṃ [\ms6\verso] parivyayaṃ dadāti |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:79"/>% sarṣapam] \corr, ṣarisapam \cod
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:80"/>atimuktakapuṣpāṇām aṣṭasahasraṃ juhuyāt | bhūrṇa(?)prāvaraṇaśataṃ dadāti |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:81"/>% perhaps tūrṇaṃ?
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:82"/>kundakalikām aṣṭasahasraṃ juhuyāt | vastrayugalakoṭiṃ labhate |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:83"/>% -koṭiṃ] \emend, -koṭī \cod
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:84"/>raktapuṣpāṇāṃ raktacandanānām aṣṭasahasraṃ juhuyāt | viṣayapatir bhavati |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:85"/>% bhavati] \emend, savati \cod
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:86"/>gomūtratilamadhughṛtāktānām aṣṭasahasraṃ juhuyāt | ekaviṃśatir vā sarvālaṃkāralābhī bhavati labhate ca |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:87"/>śvetatilagaulasarṣapatilakaṇḍulānāṃ dadhighṛtamadhvāktānām aṣṭasahasraṃ juhuyāt | divasāni sapta hasty eva (!) balo bhavati |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:88"/>% kaṇḍura - a type of reed
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:89"/>% gaula ~ guḍa/gauḍa
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:90"/>suvarṇapṛthikāsamidbhir agniṃ prajvālya suvarṇapṛthikāpuṣpāṇāṃ kaṭutailāktānāṃ daśa sahasraṃ juhuyāt | sāmantarājyaṃ dadāti |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:91"/>bhagavatyā ekajaṭyā mūlamantreṇa atasīpuṣpasahasreṇa āryāvalokiteśvarasya dakṣiṇapādaṃ tātrayet (!?) | ekaviṃśati divasāni sāmantarājyaṃ karoti |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:92"/>pāṭalipuṣpāṇāṃ sahasraṃ juhuyāt | paṭṭabandho bhavati |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:93"/>% paṭṭa-] \emend, paṭu- \cod
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:94"/>lājānāṃ dadhimadhughṛtāktānām a[\ms7\recto]ṣṭasahasraṃ juhuyāt | dhānyavṛddhir bhavati |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:95"/>% lājānāṃ] \emend, rājānā \cod
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:96"/>dhānyākapuṣpāṇāṃ tailāktānām aṣṭasahasraṃ juhuyāt | sarvopakaraṇavṛddhir bhavati |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:97"/>udumbarāṇāṃ samidbhir agniṃ prajvālya śālmalīpuṣpāṇām aṣṭasahasraṃ juhuyāt | gṛhamaṇḍalaṃ bhavati |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:98"/>karṇikākārapuṣpāṇām aṣṭasahasraṃ juhuyāt | mahāmāṃsena dhūpo deyaḥ vasudhārāpatati (!?) |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:99"/>ajāvasāṃ mahiṣarudhiraṃ caikataḥ kṛtvā khadirāṅgāreṇa juhuyāt | mahānidhānaṃ paśyati |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:100"/>ātmarudhiraṃ chāgarudhiraṃ kākarudhiraṃ caikataḥ kṛtvā juhuyāt | yaṃ yaṃ kāṅkṣati taṃ taṃ sidhyati |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:101"/>% NB: human flesh, one&#x27;s own blood, etc.
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:102"/>pauṣṭikapaṭalaḥ ||   ||
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:103"/>% pauṣṭikapaṭalaḥ] \emend, pauṣṭikaḥ paṭala \cod
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:104"/>oṃ bhagavati ekajaṭi samudrakūlanivāsini ugre ugraparākrame trailokyavijayapūjite apratihatabalaparākrame ihāgaccha [ā]gaccha imaṃ mānuṣadehaṃ praviśa avatara 2 stambha 2 moha 2 garja 2 maṭa 2 saṃcūrṇa 2 praviśaya apūraya (!?) 2 atītānāgatapratyutpannaṃ kathaya yathābhūtaṃ svāhā | svasthāveśanamantraḥ |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:105"/>% apratihata-] \emend, atiprahata- \cod
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:106"/>% atītā-] \emend, atitā- \cod
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:107"/>% NB: āveśa for divination
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:108"/>atha vā rājānaṃ vaśīkartukā[\ms7\verso]maḥ | rājadvāramṛttikāṃ gṛhya rājārkasamidbhir agniṃ prajvālya rājikāvalaṇaṃ caiva juhuyāt | rājā vaśo bhavati |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:109"/>% lavaṇaṃ?
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:110"/>rājāmātyaṃ vaśīkartukāmaḥ | lājāyavanāgakesarāṃ caikīkṛtya m-aṣṭasahasraṃ juhuyāt | vaśo bhavati |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:111"/>rājāmātyaṃ vaśīkartukāmaḥ | lājām aṣṭasahasraṃ juhuyāt | vaśo bhavati |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:112"/>rājapatniṃ vaśīkartukāmaḥ | dāḍimasamidbhir agniṃ prajvālya navanītapratikṛtiṃ kṛtvā tīkṣṇaśastreṇa cchittvā aṣṭasahasraṃ juhuyāt | vaśo bhavati |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:113"/>% -patniṃ] \emend, -patni \cod
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:114"/>% -pratikṛtiṃ] \emend, -prakṛtiṃ \cod
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:115"/>kṣatriyaṃ vaśīkartukāmaḥ | bhagavatyā ekajaṭyā nirmālyaṃ piṇyākasahitaṃ juhuyāt | vaśo bhavati |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:116"/>% kṣatriyaṃ] \emend\pt, triyaṃ \cod OR kṣatriyastriyaṃ?
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:117"/>caṇḍālīṃ vaśīkartukāmaḥ | tuṣagokeśakaṭutailāktānāṃ juhuyāt | vaśo bhavati |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:118"/>% caṇḍā \cod
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:119"/>brāhmaṇaṃ vaśīkartukāmaḥ | yavacūrṇakaṭutailāktānāṃ juhuyāt | vaśo bhavati |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:120"/>% -tailāktānāṃ] \emend, -tailāktaṃ \cod
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:121"/>śūdrābrahmaṇīṃ vaśīkartukāmaḥ | rajaḥpuṣpamayūraraktaśālidhānyam ekīkṛtya kaṭutailāktānām aṣṭasahasraṃ juhuyāt | vaśo bhavati |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:122"/>% -tailāktānām] \emend, tailānāktānāṃ \cod
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:123"/>vaiśyastri[\ms8\recto]yaṃ vaśīkartukāmaḥ | godhūmasarṣapalavaṇakaṭutailāktānām aṣṭasahasraṃ juhuyāt | dāsatvaṃ karoti |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:124"/>bhikṣuṇīṃ vaśīkartukāmaḥ | bhikṣuraṅgeṇa maṇḍalaṃ kṛtvā bhikṣucīvaramayīṃ vartiṃ kṛtvā ajāvasenāloḍya juhuyāt | vaśo bhavati |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:125"/>maharddhikā(!)bhikṣuṃ vaśīkartukāmaḥ | māṣamuṣevacānām (?) ekataḥ kṛtvā māhiṣaghṛtāktānām aṣṭasahasraṃ juhuyāt | vaśo bhavati |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:126"/>veśyāṃ vaśīkartukāmaḥ | gopāṃsukṛṣṇalavanāktānām aṣṭasahasraṃ juhuyāt | vaśo bhavati |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:127"/>śūdrīṃ vaśīkartukāmaḥ | piṣṭaśuṇṭhicūrṇalavanalājāktām aṣṭasahasraṃ juhuyāt | vaśo bhavati |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:128"/>% vaśīkartukāmaḥ] \emend, varntukāmaḥ \cod
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:129"/>kanyāṃ vaśīkartukāmaḥ | dvīpiśatruṃ juhuyāt | vaśo bhavati |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:130"/>nagaraṃ vaśīkartukāmaḥ | nagarasrotanadīṃ gatvā piṇyākakusumaṃ iṣṭakacūrṇaṃ ca nadyāṃ prakṣipya vidyāṃ cāṣṭaśataṃ japet | sarva (!) vaśo bhavanti | pradhānamantrijanāḥ sarve dhānyaśīrṣā iva natvā |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:131"/>% natvā] \conj, satvā \cod
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:132"/>hastinaṃ vaśīkartukāmaḥ | āmrapuṣpāṇām aṣṭasahasraṃ juhuyā[\ms8\verso]t | mattahastī vaśo bhavati |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:133"/>% mattahastī \conj, marttahastrī \cod
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:134"/>nāgaṃ vaśīkartukāmaḥ | nāgasamidbhir agniṃ prajvālya nāgakesaraharitālasamīraktaṃ kṛtvā nāgahradasamīpe juhuyāt | nāgakanyā sarvālaṃkārabhūṣitā niṣkramya gṛhītvā praveśayati | vaśo bhavati |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:135"/>bhagavatyā ekajaṭyā vaśapaṭalaḥ samāptaḥ ||   ||
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:136"/>atha bhagavatyā ekajaṭyā abhicārakarmāṇi bhavanti | nīlavastradharo bhūtvā pītayajñopavītakaḥ krodha eva pramāṇaṃ kṛtvā (?) śatroḥ pādapāṃsuṃ gṛhītvā pratikṛtiṃ kṛtvā suraktapaṭṭāṃsukenācchādya nāgahrade prakṣipya gandhināgena gṛhyate | sarvarogaṃ copapadyate |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:137"/>% śatroḥ] \emend, śatro \cod
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:138"/>% pratikṛtiṃ] \emend, pratihutiṃ \cod
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:139"/>% suraktapaṭṭāṃśukenācchādya] \conj, araktaparṭūsukenācchāda \cod
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:140"/>śatrūn nāśayitukāmena śmaśānāgniṃ prajvālya kulatthakaṭutailāktānām aṣṭasahasraṃ juhuyāt | sadyaḥ śatrūnnanna (!?) bhavati |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:141"/>% -nāśo?
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:142"/>kovidārasamidbhir agniṃ prajvālya rājikāviṣarudhirāktānāṃ juhuyāt | yakṣaheto (?) bhavati |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:143"/>apatitagomayena pratikṛtiṃ kṛtvā raktasarṣapeṇāloḍya nadītīre [\ms9\recto] nikhanet | sphoṭirogeṇa gṛhyate |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:144"/>śuṣkavṛkṣam āruhya ārdravastre ārdraśāṭake ārdrabhakṣamāṇa (?) ādityābhimukho japen nāma saṃgṛhya yathārdrapaṭaḥ śuṣyati | tatraiva mriyate |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:145"/>% śuṣka-] \emend, svaska- \cod
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:146"/>kaṇṭhakasamidbhir agniṃ prajvālya kaṇṭhakam aṣṭasahasraṃ juhuyāt | śeṣanāgena gṛhyate |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:147"/>sarpakañcukena saha mardayet | nāma gṛhya mantraṃ japet | khadirāṅgāreṇa pāpayet (!) | kuṣṭharogeṇa gṛhyate śatruḥ |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:148"/>% eddig olvastuk Ápr. 24-én, 2014-ben
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:149"/>śālmalīphalaṃ madhunāloḍya sarparudhiraśavanirmālyakusumāny ekataḥ kṛtvā katutailāktāṃ juhuyāt | raktaśrāvo vā śṛṅgavarantumbaru(?)phalaṃ viṣakarahalaṃ caikataḥ kṛtvā lavanāktānāṃ śatror nāma gṛhītvā juhuyāt | aśvalaṇḍalakadhutturaphalaṃ kaṭutailāktānāṃ śatror nāma gṛhītvā rātrau juhuyāt | unmatto bhavati |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:150"/>kākarudhirakṛkalāsarudhirakapotallaṇḍacitraṃ caikataḥ kṛtvā juhuyāt | raktātisārā bhavati |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:151"/>aśvarudhiram aśvamūtraṃ caikataḥ kṛtvā raktasarṣapaṃ bhāvaye[\ms9\verso]t | vidyāṃ cāṣṭaśataṃ japet | tena dhūpe cakṣuṣā (!?) vihītā bhavanti |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:152"/>mokarīṣahomena śatro vītarāgo bhavati ||
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:153"/>abhicārapaṭalaḥ samāptaḥ ||   ||
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:154"/>bhagavatyā antardhānapaṭalaṃ vyākhyāsyāmaḥ |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:155"/>oṃ namo ratnatrayāyāryāvalokiteśvarāya nama ekajaṭāyai mahārākṣasyai vidyujjihve lelihānāṣṛa(?)daṃṣṭre bhagavati gaganacāriṇi apratihataparākrame sarvatrāpratihatā gati | aṇimāṃ garimāṃ mahimāṃ laghimāṃ ṣaṭkasaṃhā (?) ca śarīraṃ gopaya śarīraṃ gopaya cchāyābhūmim aparākramaya adarśanaṃ kuru svāhā || buddhāya svāhā | dharmāya svāhā | saṃghāya svāhā | pratyekabuddhāya svāhā | nama āryāvalokiteśvarāya ekajaṭāyai ānaya 2 mahācaṇḍa hara 2 rakṣa 2 vijaye 2 viguṇi svāhā || māyāvati svāhā | raudre svāhā | mohe svāhā | ākāśagāminyai namaḥ svāhā | bhūcarebhyo namaḥ svāhā | khecarebhyo namaḥ svāhā | japacarebhyo namaḥ svāhā | pivaracarebhyo namaḥ svāhā | [\ms10\recto] vāyupathebhyo namaḥ svāhā || raṭa 2 bhaṭa 2 raṇa 2 vimarda 2 vikurva 2 viṣama 2 vihāraya 2 meghasthaṃ viśvabhuvanasthaṃ bhavati | ekajaṭi mahārākṣasi āgaccha antarttarddhāni (!?) namaḥ svāhā |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:156"/>eṣāntardhānavidyā | na putrāya pradātavyā | na kuśiṣyāya pradātavyā | paramaḥ siddhiḥ | ekajaṭā antardhānavidyā na prakāśayitavyā | kṛṣṇamārjārakapālaṃ gahakṛ(?)mṛttikayā pūrayitvā kucaṃ dāpayet | dvipatroṅkuracchāgarudhiraṃ gocanabrahmahaṇḍināgakesaraṃ caikataḥ kṛtvā bhagavatyā ekajaṭyā rudhirabaliṃ dattvā aṣṭasahasrābhimantritaṃ kṛtvā samārabhet divasāni ekaviṃśati adṛśyo bhavati |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:157"/>svayaṃ mṛtasya vā śavaḥ tasya hṛdaye añjanaṃ prakṣipya sapta rātraṃ sthāpayet | saptasu citrāgniṣu dahet | tenāñjitanayano divasāni sapta adṛśyo bhavati |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:158"/>araṇyamūṣikāṃ gṛhya tasya nayane añjanaṃ haritālena sahasraṃ prakṣipet | caṇḍālagṛhāgninā dahet | bhagavatyā e[\ms10\verso]kajaṭyā udārāṃ pūjāṃ kṛtvā tasyāgrato &#x27;ṣṭasahasreṇābhimantrya akṣiṇyaṃ japet | pañca rātram adṛśyo bhavati |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:159"/>kapilāyāḥ karṇaromaṃ gṛhya tasyā evāgrataḥ pañcaikataḥ kṛtvā pañcadaśa pākasuvarṇa veṣṭayitvā bhallātakasamūhake prakṣipya | bhagavatyāryatārāyāḥ pūjāṃ kṛtvā ekajaṭyāś ca bhikṣūṇāṃ  bhojanaṃ dattvā raktacandanena bhagavato buddhasyāgrataḥ sapta maṇḍalakaṃ kṛtvā karasaṃpuṭe sthāpya tasyāgrato &#x27;ṣṭasahasraṃ japet | ākāśagāmī bhavati |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:160"/>śmaśānaṃ gatvākṣatamayāvṛtamatakaṃ (?) gomayena maṇḍalam upalipya traśava (?) tatraiva sthāpyodārāṃ pūjāṃ kṛtvā balinaivedyasamidbhir agniṃ gaurasarṣapaṃ kāśa(?)rudhirāktaṃ juhuyāt | śava uttiṣṭhate | tato gandhadhūpabalinaivedyaṃ ca dattvā nānābharaṇair alaṃkṛtya kaṭakaiyūrāṅgadāṅgulīyaki (!) vibhūṣayet | catmākṣaṃ (?) tāḍayet | tato &#x27;nena mantreṇa diśābandhamaṇḍalabandhādhobandhordhvabandhaṃ ca kārayet || ekajaṭi mahāmāyādhari mahāvege ākāśacāriṇi jiṭi 2 vidya 2 [\ms11\recto] le 2 hī 2 ṭi 2 cara vidyādharamantreṇa | ardharātre guggulugulikānāṃ ghṛtāktānām aṣṭasahasraṃ juhuyāt | mūlamantreṇa | tataḥ khaḍga ujjvalati | ciṭi piṭi śuddhaṃ kurute | tataḥ siddho bhavati | tato pītaṃ (!) khaḍgaṃ gṛhītvā ākāśena gacchati | vidyādhararājo bhavati |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:161"/>cchāgamāṃsaṃ cūrṇayitvā tena māṃsena cchāgalīpratimāṃ kārayet | mayūrapakṣeṇācchādayet | bhagavatyāḥ pūjāṃ kṛtvā tasyāgratasyāgrataḥ sthāpya vidyāṃ daśa sahasrāṇi japet | tasyāś cchālalyadyā (?) samagrato deyaṃ taṃ bhakṣayati | tataḥ siddhir bhavati | tāṃ cchāgalīkukṣau śastreṇa vikartayet | tasyā garbhacchāgapotakaṃ ghṛtamadhunā saha bhakṣayet | uditādityavarṇaḥ yonigatā svāhā | taṃ śavamadhye mukhaṃ sthāpya tasyopari niṣaṇṇaḥ paramānnāhutisahasraṃ juhuyāt | sa śava uttiṣṭhati | garuḍasamo vāhano bhavati | viṃśatividyādharaparivāro bhavati | aṣṭau vidyādharakanyakāṃ labhate | taiḥ sārdhaṃ vicarati | kalpasthāyī bhavati |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:162"/>khaḍgavidyādharasādhayitukāmaḥ | puṣyanakṣatre puṣpa[\ms11\verso]lohamayaṃ khaḍgaṃ kārayet | aṅguṣṭhapramāṇasarvagandhaiḥ samārabhya sadhātuke caitye pratimāyā vāgrataḥ sthāpya balipūjaudārāṃ kṛtvā dine dine ubhayahastena gṛhya japed yāvan māsam ekam iti sata(!?)trirātrau valitapalitavarjitaḥ | ākuñcitakuṇḍalakeśaḥ | ākāśagāmīdaṃsa(!?) varṣasahasrāṇi jīvati |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:163"/>mayūracandrikā dvihastapramāṇaṃ dviśataṃ viṃśatyuttaraṃ gṛhya pañcagavyena saṃśodhya saptatīrthodakena prakṣālya sadhātuke caitye pratimāyā vāgrataḥ maṇḍalaṃ kṛtvā udārāṃ pūjāṃ kṛtvā gugguludhūpaṃ dattvā japed yāvad ekaviṃśati divasāni | tato hastidantena dvivitastimātraṃ vṛrtta (!?) kārayet | bhagavati ekajaṭyā mūlamantreṇa kārayet | raktacandanamaṇḍalam upalipya raktapuṣpo deyaḥ | udārāṃ pūjāṃ kṛtvā bhūtabaliṃ naivedyaṃ mūlavidyāṣṭasahasraṃ japet | tato picchakaṃ mayūravaramuñcati (?) dvihastamātram utpatati | tataḥ siddho bhavati | taṃ picchakaṃ bhrāmitamātreṇa grāsādigṛhyasarpā śayanopakaraṇadi[\ms12\recto]vyavastra (!) upanayati | gandhapuṣpacandanāgarudivyavastrālaṃkāraviśeṣaśarīropagaṃ dadāti | sarvadā bhūsvargaṃ vidyādharasukham anubhavati |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:164"/>kṛṣṇapakṣe śvaṇyālaye (!?) śmaśānaparvatanikuñje vā rātrau dakṣiṇābhimukhaḥ sthāpyodārāṃ pūjāṃ kṛtvā sarvabhūtikabalinaivedyaṃ ca || syāgrataḥ (!) strīkeśamayaṃ yajñopavītaṃ kṛtvāṣṭasahasraṃ japet | khaḍgahastasya vālambitasya vā puruṣasya māṃsaṃ guggulunā pīsayet | badarāsthipramaṇāṃ kṛtvāṣṭasahasraṃ japet | tataḥ paṭakampo bhavati | mahānādaṃ vā bhavati | jvālātkābhistaṃ (!?) pūrayet | na bhetavyam | tataḥ sarvasiddhir bhavati | bhagavati svayam āryāvalokiteśvarasamīpatayā bhavati | paścād āryasatyāni labhate | mantrarasya (!?) || oṃ vedmi ri 2 tasni ri 2 krama krāmati vikrame vahi 2 mavikuru 2 bhara 2 siddhe susiddhe oṃ bhūr bhuvaḥ svāhā || eṣa mantra siddhaḥ | apratihatā ekajaṭyā hṛdayaṃgamā paṭhitasiddhā ca |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:165"/>bhūrjapatreṇa vā kaṭu[\ms12\verso]kāṣṭhena vā cchatraṃ kārayet | mayūraṃ siddhikāṣṭhaḥ | pādukāyugmaṃ kārayet | tau cchatrapādukau sadhātuke caitye gṛhe sthāpyodārāṃ pūjāṃ kṛtvā pratidinam aṣṭasatikoṇayo (?) dātavyaḥ | yāvat sapta dināni | aṣṭame divase &#x27;rdharātrasamaye ekavṛkṣaṃ gatvā cchatraṃ gṛhītvā kāṣṭhapādukām avaṣṭabhyātmarudhiraṃ viṃśati bindukān dattvā mahābhūtabaliṃ dattvā japet | ākāśagāmī bhavati | anena mantreṇa | oṃ ciri 2 vicara 2 ekajaṭī samājñāpayati lu hūṃ svāhā | namo ratnatrayāya nama āryāvalokiteśvarāya bodhisattvāya mahākāruṇikāya | nama ekajaṭāyai mahārākṣasi triśaraṇaparigṛhītaśikṣāpade rākṣasayonyāmocito smi dharmasatyapravartini  bho bho ekajaṭi trirakṣi | sarvasattvabhayaṃkari indrāsani trāsaya 2 vimarda 2 vikurva 2 sambhañja 2 cūrṇaya moṭaya tātava 2 vijaye svāhā | tārā samājñāpa[\ms13\recto]yati svāhā |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:166"/>asyā hṛdayaṃgamā asyā vidyāyā ayam upacāra śāntikapāvakayayo (?) bhikṣubhikṣāhāro bhūtvā parvataśikharam āruhya hṛdayaṃ sahasraṃ japet | mātā stanapīto pi (?) puro bhavati | sarvadevī paśyati | pātālacchidraṃ paśyati | sarvakāryāṇi cāsya sidhyanti | sarvasādhaneṣv argho deyaḥ | satatam anusmartavyā putratvaṃ bhavati | saṃkṣepataḥ sarvakarmāṇi kurute |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:167"/>candragrahe maṇḍalakam upalipya pipālagaurasarṣapabhṛṅgarājaprasthaṃ caikataḥ kṛtvā lohamuhyake (?) sthāpya japed yāvad udakāvaśiṣṭaṃ bhavati | tāvatmavatārya (!) karañjacūrṇaṃ padmakesaracūrṇī caikataḥ kṛtvā tatraiva prakṣipet | bhagavadāryāvalokiteśvarasya pūjāṃ kṛtvā tāvad japen na mūṣikārāvaṃ śṛṇoti | tataḥ siddho bhavati | tenaiva oṣadhena pādaṃ mrakṣayitvā yojanaśataṃ gatvā āgacchati | asya pādapracāramantraṃ bhavati |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:168"/>oṃ nama ekajaṭi prasara 2 sara 2 lama 2 vātasanaroreṣa (?) maṭa hūṃ svāhā ||
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:169"/>pādapracāramantraḥ tṛtīyaḥ paṭalaḥ sa[\ms13\verso]māptaḥ ||   ||
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:170"/>atha bhagavatyā ekajaṭyāḥ pāṭālapaṭalaṃ vyākhyāsyāmaḥ |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:171"/>na tithir na ca nakṣatraṃ nopavāso vidhīyate |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:172"/>asuravivaradvāraṃ gatvā cchāgarudhirarājikālavaṇaṃ śṛṅgavaraṃ caikataḥ kṛtvā kaṭutailāktānām aṣṭasahasraṃ juhuyāt | asurakanyāda(!) hṛdayāni prakamya (!) praveśayanti | taiḥ sārdhaṃ krīḍate yāvat saṣṭhe māse vaiṣṇavaṃ ca kramā gacchati | tadaa hūṃkāraṃ moktavyam | tataḥ sacakro bhūya praviśati | asya mantraṃ bhavati |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:173"/>oṃ namo bhagavati ekajaṭi prahasa niyantathani oṃ ṭhari 2 ṭaṭṭā vikara 2 vimarda 2 bhañja 2 dhukṣa 2 pātaya sarvamantrān phaṭ svāhā ||
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:174"/>asya mantrasyopacāraḥ | asya haviṣyāhāreṇa daśasahasraṃ japet | tataḥ siddho bhavati | anena siddhena pātālasiddhir bhavati |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:175"/>oṃ nama āgaccha bhagavati ekajaṭi svayam āpūra paraṃ ca 2 raṇa 2 śrīkāmasamṛddhaye svāhā || śriyāyai svāhā | mahāśriyāyai svāhā | bāle svāhā | atibale svāhā | sarvadevāsurapramathani svāhā | oṃ namo bhagavati ekajaṭi trirakṣi tri[\ms14\recto]saṃkusphoṭaka piñcchakahaste parṇapraharaṇe dara 2 vidara 2 cchinda 2 bhinda 2 hama 2 śatrūn māraya 2 hūṃ 3 phaṭ 3 duru 2 hṛdaya |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:176"/>anayā vidyayā śatrūn mārayati | jalaṃ stambhayati agniṃ stambhayati |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:177"/>bhagavatyā ekajaṭyāḥ paramahṛdayāni bhavanti |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:178"/>oṃ hrīṃ hūṃ hrāṃ iti paramahṛdayam |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:179"/>oṃ jaṭa 2 vāmajaṭe hūṃ phaṭ śiraḥ |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:180"/>oṃ trijaṭe hūṃ phaṭ śikhā |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:181"/>oṃ jaṭāmakuṭadhāraṇi bhagavati hana 2 hūṃ phaṭ astram |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:182"/>oṃ bhagavati hūṃ jaṭi 2 svāhā kavacam |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:183"/>oṃ namo bhagavati ekajaṭi mahārākṣasi ehi imaṃ gandhapuṣpadhūpabaliṃ pratīccha bhagavati svāhā |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:184"/>oṃ ekajaṭi rararara raudraṃ cāriṇi tiṣṭha tiṣṭha samayam anusmara mama sarvakāryāṇi siddhaṃ kuru 2 svāhā |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:185"/>oṃ trāsani 2 trāsaya 2 bhṛkuṭi jaṭi vaijaṭi ṭha ṭha treṃ bhṛkuṭī phaṭ ṭha ṭha gṛhnāpayati duḥkhāpayati urddhāsayati (?) uccāṭayati sarvārthaṃ ceṭikarmāṇi sarvāṇi kurute |
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:186"/>bhojanāvasāne āpalopapiṇḍaṃ deyam | oṃ namo ratnatrayāya nama ekajaṭyā mahārākṣasyāḥ [\ms14\verso] ceṭīnāṃ hṛdayamantraḥ | oṃ cali rakṣatha māṃ ucchiṣṭasyānucchiṣṭaṃ vā śītalatvapratipannasya vā hara 2 mara 2 hara 2 bhrāmaya śatrūn troṭaya sphoṭaya mūrdhānaṃ hara jīvitaṃ śatrūṇāṃ mahārākṣasi ekajaṭī samājñāpayati svāhā ||   ||
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:187"/>eṣā ceṭī satatam ucchiṣṭapiṇḍaṃ deyam ||   ||
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:188"/>bhagavatyāryaikajaṭyāḥ kalpaḥ samāptam iti ||   ||   ||
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:189"/>śreyo &#x27;stu samvat 749 śrāvanamāsyaśuklapakṣe catrurthyāyān tithau utraphāgguṇanakṣatre siddhiyoge bṛhaspativāsare || thva ku hnu ekajaṭikalpaḥ sādhanasaṃpūrṇam iti || anyena puṇyena iti guṇadevavihārasthāyini vajrācāryaśrīcandradevakasya svārthahetunā likhitaḥm iti ||   || śubho &#x27;stu sarvajagatāṃ manorathapada bhavataḥ ||   ||   ||
+<lb n="SA_K12_Āgama_Ekajaṭākalpa:190"/>% NS 749 = 1629 CE
+    </body>
+  </text>
+</TEI>

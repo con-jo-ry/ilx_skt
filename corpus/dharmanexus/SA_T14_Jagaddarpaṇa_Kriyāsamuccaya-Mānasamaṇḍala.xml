@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kriyāsamuccaya (Mānasamaṇḍalavidhi)</title>
+        <author>Jagaddarpaṇa</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Author: Jagaddarpaṇa
+Collection / category: BuddhistNon-Scriptures / T14
+Source: OCR / Dharmamitra
+Edition / witness: Kaiser Library no. 110 is lacunose, supplied from Lokesh Chandra&#x27;s facsimile ed. and the Vajrāvalī
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Critical transcription / working edition, based on Kaiser Library MS 110, Lokesh Chandra&#x27;s facsimile ed., and the Vajrāvalī.</note>
+          <idno type="dharmanexus">SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Mānasamaṇḍala</idno>
+          <ref target="https://dharmamitra.org/nexus/db/sa/SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Mānasamaṇḍala/text">https://dharmamitra.org/nexus/db/sa/SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Mānasamaṇḍala/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-13">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Mānasamaṇḍala:0"/>[\L416.2&#x27;] evam ayaṃ lekhyamaṇḍalavidhiḥ | [ayaṃ ca lekhyavidhir] manasānuṣṭhitavidhinaiva phalavān iti mānasavidhir eva śreyān | ato maṇḍalādhiparūpo bhūmiparigrahādikaṃ pratimādipratiṣṭhāśiṣyābhiṣekavisarjanaśāntikahomaparyantaṃ sarvaṃ manasā kuryāt |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Mānasamaṇḍala:1"/>ata eva yadā sarvam idaṃ kutaścid vaiguṇyāt kartuṃ na śakyate na yujyate na prāpyate vā tadā dhyātvā sarvaṃ kartavyam | saty api hi bāhye vastuni dhyānam eva pradhānaṃ kevalaṃ lokasya darśanadānābhiprasādādinā puṇyavṛddhaye bāhyavidhir iṣṭaḥ | sāmagrīvaikalyāt tu dhyātvaiva sarvo vidhir vidheyaḥ |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Mānasamaṇḍala:2"/>% NB VĀ adds: ity uktaṃ prācīnācāryaiḥ
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Mānasamaṇḍala:3"/>% de ltar &#x27;di ni bris pa&#x27;i dkyil &#x27;khor gyi {220a6} cho ga ste || yid kyis rjes su bsgrub pa&#x27;i cho ga nyid &#x27;bras bu dang ldan no zhes pa yid kyi cho ga kho na mchog yin no || de&#x27;i phyir dkyil &#x27;khor gyi mnga&#x27; bdag gi gzugs kyis sa yongs su gzung ba la sogs pa dang sku gzugs la sogs pa&#x27;i rab gnas dang |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Mānasamaṇḍala:4"/>slob ma la mngon par dbang {220a7} bskur ba dang gshegs su gsol ba dang zhi ba&#x27;i sbyin sreg gi mthar thug pa thams cad yid kyis bya&#x27;o || de nyid kyi phyir &#x27;di ltar gang gi tshe &#x27;di dag thams cad yo byad &#x27;ga&#x27; zhig dang bral bas bya bar mi nus pa&#x27;am || mi rigs pa&#x27;am ma rnyed pa de&#x27;i tshe bsam pas thams cad bya&#x27;o ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Mānasamaṇḍala:5"/>{220b1} phyi rol gyi dngos po yod pa la yang bsam gtan kho na gtso bo yin no || &#x27;jig rten pas mthong bas na sbyin pa la mngon par dad pa la sogs pas bsod nams &#x27;phel bar bya ba&#x27;i chad &#x27;ba&#x27; zhig tu phyi&#x27;i cho ga &#x27;dod do || yo byad dang bral bas ni bsam pa kho nas cho ga thams cad bsgrub par bya&#x27;o ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Mānasamaṇḍala:6"/>tad uktam | abhāve sarvavastūnāṃ dhyātvaiva parikalpayet |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Mānasamaṇḍala:7"/>% Q source?
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Mānasamaṇḍala:8"/>% {220b2} de&#x27;ang | dngos po thams cad med gyur na || bsam pa nyid kyis yongs su brtag | ces gsungs so ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Mānasamaṇḍala:9"/>tasmād ādikarmiko &#x27;pi sthiracitto manasā nirmitamaṇḍale pratiṣṭhādikaṃ kuryāt | bhavyajanaṃ cābhiṣiñcet | tathā ca buddhakapālatantre |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Mānasamaṇḍala:10"/>prajñākamalodaramadhye koṭiyojanaṃ maṇḍalam |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Mānasamaṇḍala:11"/>tripuṭaṃ tasmin maṇḍalamadhye suśiṣyaṃ secayed budhaḥ || ity uktam || anyatrāpi |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Mānasamaṇḍala:12"/>manasā [\L417] kvacid eveṣṭā jinaiḥ sanmaṇḍalakriyā | ity uktam ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Mānasamaṇḍala:13"/>% de&#x27;i phyir las dang po pas kyang sems brtan pos yid kyis sprul pa&#x27;i dkyil &#x27;khor du rab tu gnas pa la sogs pa bya zhing skal ba dang ldan pa&#x27;i skye bo rnams kyang mngon par dbang bskur bar bya&#x27;o || {220b3} de ltar dpal ldan sangs rgyas thod pa&#x27;i rgyud du | shes rab padma&#x27;i nang du ni || dpag tshad bye ba&#x27;i dkyil &#x27;khor la ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Mānasamaṇḍala:14"/>rigs gsum dkyil &#x27;khor de dbus su || mkhas pas slob ma dbang bskur bya || zhes gsungs shing gzhan du&#x27;ang | yid kyis &#x27;ga&#x27; zhig nyid du ni || rgyal bas dkyil {220b4} &#x27;khor bya bar bzhed || zhes gsungs te
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Mānasamaṇḍala:15"/>mānaso maṇḍalavidhiḥ ||   ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Mānasamaṇḍala:16"/>% yid kyi dkyil &#x27;khor gyi cho ga&#x27;o || ||
+    </body>
+  </text>
+</TEI>

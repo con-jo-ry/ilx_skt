@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mahāparinirvāṇasūtra (excerpt)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Collection / category: BuddhistScriptures / K14 (Scriptures various)
+Source: SuttaCentral
+Link: https://suttacentral.net/sf273/san/waldschmidt
+Edition: Ernst Waldschmidt et al., Sanskrithandschriften aus den Turfanfunden (SHT) fragment SF 273 (Catuṣpariṣat-/Turfan corpus). Berlin: Akademie-Verlag.
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Ernst Waldschmidt, Das Mahāparinirvāṇasūtra: Text in Sanskrit und Tibetisch, verglichen mit dem Pāli nebst einer Übersetzung der chinesischen Entsprechung im Vinaya der Mūlasarvāstivādins, auf Grund von Turfan-Handschriften herausgegeben und bearbeitet, 3 Bde. (Abhandlungen der Deutschen Akademie der Wissenschaften zu Berlin, Klasse für Sprachen, Literatur und Kunst, Jg. 1949 Nr. 1, 1950 Nr. 2, 1950), Berlin: Akademie-Verlag, 1950–1951.</note>
+          <idno type="dharmanexus">SA_K14_sf273_sc</idno>
+          <ref target="https://dharmamitra.org/nexus/db/sa/SA_K14_sf273_sc/text">https://dharmamitra.org/nexus/db/sa/SA_K14_sf273_sc/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-13">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_K14_sf273_sc:0"/>Mahāparinirvāṇasūtra (2nd)
+<lb n="SA_K14_sf273_sc:1"/>Wal_1 vitarkā viditā utpadyaṁte viditās tiṣṭaṁti viditā adhyastaṁgacchaṁti /
+<lb n="SA_K14_sf273_sc:2"/>Wal_2 idam api yūyam ānanda tathāgatasyāścaryādbhutadharmaṁ dhārayata / evam āścaryādbhutadharmasamanvāgata ānanda tathāgataḥ /
+<lb n="SA_K14_sf273_sc:3"/>Wal_3 atha bhagavān āyuṣmantam ānandam āmaṁtrayāmāsa / āgamayānanda yena gandhamādanaṁ caityaṁ tenopasaṁkramiṣyāvaḥ /
+<lb n="SA_K14_sf273_sc:4"/>Wal_4 evaṁ bhadaṁta āyuṣmān ānando bhagavataḥ pratyaśrauṣīt /
+<lb n="SA_K14_sf273_sc:5"/>Wal_5 atha bhagavān utthāyāsanād yena gandhamādanaṁ caityaṁ tenopasaṁkramati / āyuṣmān ānando niṣīdanam aṁsenāropya bhagavaṁtaṁ pṛṣṭhataḥ pṛṣṭhataḥ
+<lb n="SA_K14_sf273_sc:6"/>samanubaddhaḥ … myānulomatayā /
+<lb n="SA_K14_sf273_sc:7"/>Wal_6 atha bhagavāṁ gandhamādanaṁ caityam abhyavagāhya yenānyatamaṁ vṛkṣamūlaṁ tenopasaṁkramati / upasaṁkramya āyuṣmaṁtam ānandam āmaṁtrayāmāsa
+<lb n="SA_K14_sf273_sc:8"/>Wal_7 prajñapayānandāsmiṁ vṛkṣamūle tathāgatasya niṣīdanaṁ pṛṣṭhī me āglāyati tāṁ tāvad āyāmayiṣye /
+<lb n="SA_K14_sf273_sc:9"/>Wal_8 evaṁ bhadaṁtāyuṣmān ānando bhagavataḥ pratiśrutya tasmiṁ vṛkṣamūle bhagavato niṣīdanaṁ prajñapayāmāsa /
+<lb n="SA_K14_sf273_sc:10"/>Wal_9 nyaṣīdad bhagavāṁ prajñapta evāsane /āyuṣmān apy ānando bhagavata ekāṁte nyaṣīdat /
+<lb n="SA_K14_sf273_sc:11"/>Wal_10 niṣadya bhagavāṁ āyuṣmaṁtam ānandam āmantrayāmāsa /
+<lb n="SA_K14_sf273_sc:12"/>Wal_11 yāvaṁta ānanda bhikṣavo gandhamādanaṁ caityam upaniḥśṛtya viharaṁti tān sarvān upasthānaśālāyāṁ saṁnipātaya /
+<lb n="SA_K14_sf273_sc:13"/>Wal_12 evaṁ bhadaṁtāyuṣmān ānanda bhagavataḥ pratiśrutya yāvaṁto bhikṣavo gandhamādanaṁ
+<lb n="SA_K14_sf273_sc:14"/>caityam upaniḥṣṛtya viharaṁti tān sarvān upasthānaśālāyāṁ saṁnipātayāmāsa / saṁnipātya
+<lb n="SA_K14_sf273_sc:15"/>śirasā bhagavataḥ pādau vaṁttvaikānte asthāt /
+<lb n="SA_K14_sf273_sc:16"/>Wal_13 ekāntasthita āyuṣmān ānando bhagavaṁtam idam avocat /
+<lb n="SA_K14_sf273_sc:17"/>Wal_14 yāvaṁto bhadanta bhikṣavo gandhamādanacaityam upaniḥśṛtya viharaṁti sarve te upasthānaśālāyāṁ saṁnipatitāḥ / yasyedānīṁ bhagavān kālaṁ
+<lb n="SA_K14_sf273_sc:18"/>manyate /
+<lb n="SA_K14_sf273_sc:19"/>Wal_15 atha bhagavān utthāyāsanād yenopasthānaśālā tenopasaṁkrānta upasaṁkramya prajñapta evāsane nyaṣīdat /
+<lb n="SA_K14_sf273_sc:20"/>Wal_16 niṣaṇṇo bhagavāṁ bhikṣūn āmaṁtrayāmāsa /
+<lb n="SA_K14_sf273_sc:21"/>Wal_17 tasmāt tarhi bhikṣavo ye mayā dharmāḥ svayam abhijñāya sākṣīkṛtvopasaṁpadya praveditās
+<lb n="SA_K14_sf273_sc:22"/>tadyathā catvāri smṛtyupasthānāni catvāri samyakprahāṇāni catvāro ṛddhipādāḥ pañcendriyāṇi
+<lb n="SA_K14_sf273_sc:23"/>pañca balāni sapta bodhyṅgāny āryāṣṭāṅgo mārgaḥ tatra vaḥ sarvaiḥ sahitaiḥ samagraiḥ
+<lb n="SA_K14_sf273_sc:24"/>saṁmodamānair avivadadbhir ekāgrair ekoddeśair ekakṣīrodakabhūtaiḥ … dīpayamānaiḥ
+<lb n="SA_K14_sf273_sc:25"/>sukhasparśaṁ vihartavyam /
+<lb n="SA_K14_sf273_sc:26"/>Wal_18 tasmāt tarhi bhikṣavo ye mayā dharmā ākhyātās tadyathā sūtraṁ geyaṁ vyākaraṇaṁ gāthodānā
+<lb n="SA_K14_sf273_sc:27"/>nidānāvadānā itivṛttakajātakavaipulyādbhutadharmopadeśās te dharmā bhavadbhiḥ sādhu
+<lb n="SA_K14_sf273_sc:28"/>ca suṣṭhu codgrahītavyā udgṛhya dhārayitavyā dhārayitvā tulayitavyāḥ tulayitvā niśāmayitavyā
+<lb n="SA_K14_sf273_sc:29"/>niśāmya tathā tathā pratipattavyam /
+<lb n="SA_K14_sf273_sc:30"/>Wal_19 tat kasmād dhetoḥ / acireṇa tathāgatasya parinirvāṇaṁ bhaviṣyati / trayāṇāṁ māsānām
+<lb n="SA_K14_sf273_sc:31"/>atyayena tathāgatasya parinirvāṇaṁ bhaviṣyati kuśinagaryupavartane mallānāṁ sālavane
+<lb n="SA_K14_sf273_sc:32"/>antare yamakasālayoḥ /
+<lb n="SA_K14_sf273_sc:33"/>Wal_20 atha te bhikṣavo bhagavatontikād idaṁ evaṁrūpaṁ vākyaṁ śrutvā ekatyā bhikṣavaḥ cchinnaprapāta … pṛthivyāṁ nipetuś cetobh samarpitāḥ atikṣipraṁ
+    </body>
+  </text>
+</TEI>

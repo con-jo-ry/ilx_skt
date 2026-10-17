@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Karmāntavibhāga (Sanskrit fragments and Tibetan text)</title>
+        <author>Nāgabuddhi</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Author: Nāgabuddhi
+Collection / category: BuddhistNon-Scriptures / T01
+Source: OCR / Dharmamitra
+Edition / witness: Tanaka 2021, appendix II, pp. 90–91 (extracts from the Vajrācāryanayottama)
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Tanaka, Kimiaki. 2021. Appendix II, pp. 90–91 (Sanskrit fragments of the Karmāntavibhāga from the Vajrācāryanayottama collated with Degé Tengyur D 1811); with emendations.</note>
+          <idno type="dharmanexus">SA_T01_Nāgabuddhi_Karmāntavibhāga_Tanaka_2021</idno>
+          <ref target="https://dharmamitra.org/nexus/db/sa/SA_T01_Nāgabuddhi_Karmāntavibhāga_Tanaka_2021/text">https://dharmamitra.org/nexus/db/sa/SA_T01_Nāgabuddhi_Karmāntavibhāga_Tanaka_2021/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-13">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_T01_Nāgabuddhi_Karmāntavibhāga_Tanaka_2021:0"/>% @##/ /rgya gar skad du/ karma an+ta bi b+ha ng+ga nA ma/ bod skad du/ las kyi mtha&#x27; rnam par &#x27;byed pa zhes bya ba/ dpal rdo rje sems dpa&#x27; la phyag &#x27;tshal lo/ /
+<lb n="SA_T01_Nāgabuddhi_Karmāntavibhāga_Tanaka_2021:1"/>thog ma dbus mtha&#x27; spangs pa yi/ /stong pa bzhi la phyag &#x27;tshal nas/ /thams cad dag cing rnam dag pa&#x27;i/ /rim pa&#x27;i dbye bas nges sbyar bya/ /ye shes rnam gsum las byung ba/ /khams bzhi dang ni dbang po drug / phung po lnga dang sgo dgu dang / /&#x27;gro ba gsum po phal cher ni/ /skye gnas rnam pa bzhi yin te/ /sgong skyes dang ni mngal skyes dang /
+<lb n="SA_T01_Nāgabuddhi_Karmāntavibhāga_Tanaka_2021:2"/>/drod gsher skyes ni gsum pa yin/ /bzhi pa yang ni rdzus skyes so/ /thog med sangs rgyas kyis gsungs pa/ /rnam shes gsum po bsgoms pas ni/ /dus gsum du ni spyad pa&#x27;i las/ /rnam shes gsum gyi rgyu can no/ /ye shes gsum po zhes brjod pa/ /de yang snang ba tsam nyid de/ /dang po ma rig shes par bya/ /gnyis pa de bzhin sems las byung /
+<lb n="SA_T01_Nāgabuddhi_Karmāntavibhāga_Tanaka_2021:3"/>/gsum pa sems zhes bya &#x27;di rnams/ / stong nyid gsum du brjod pa yin/ /stong nyid gsum las byung ba&#x27;i rlung / /de nyid dang ni kun du gnas/ /de yi bzhon pa nyid &#x27;gyur te/ /bdag nyid kyang ni stong pa&#x27;i phyir/ /rnam shes las ni rlung &#x27;byung ste/ /de las me ni yang dag &#x27;byung / /de las chu ni &#x27;byung bar &#x27;gyur/ /de las yang ni sa &#x27;byung ngo / /
+<lb n="SA_T01_Nāgabuddhi_Karmāntavibhāga_Tanaka_2021:4"/>146a
+<lb n="SA_T01_Nāgabuddhi_Karmāntavibhāga_Tanaka_2021:5"/>de rnams las ni phung po &#x27;byung / /de las yang ni skye mched &#x27;byung / /de las ye shes rang bzhin rnams/ /brgya ni drug cu dang bcas slar/ /skad cig &#x27;dod chags bral dang &#x27;jigs/ /la lar mya ngan zhi ba nyid/ /la lar byams dang snying rje dang / /so sor rtog dang yid gang dang / /la lar sred pa rnam rtog dang / /rig bya rig dang ngo tsha shes/
+<lb n="SA_T01_Nāgabuddhi_Karmāntavibhāga_Tanaka_2021:6"/>/dal dang mi dge rang bzhin med/ /nye bar len dang sogs pa dang / /la lar bkres skom ser sna dang / /la lar dogs dang tshor pa ste/ /sems kyi rang bzhin &#x27;di rnams ni/ /snang ba&#x27;i ye shes rgyu can no/ /skad cig &#x27;dod chags de bzhin dga&#x27;/ /la lar gdug pa nus pa dang / /la lar nga rgyal de bzhin spro/ /la lar rangs pa btsan thabs &#x27;gar/
+<lb n="SA_T01_Nāgabuddhi_Karmāntavibhāga_Tanaka_2021:7"/>/la lar brtan dang stobs can nyid/ /la lar ngag ni gsal bar &#x27;gyur/ /la lar bden dang mi bden dang / / la lar spro byed byed po yang / /la lar dpa&#x27; bo brtson &#x27;grus dang / /ngo tsha med dang bskul ba &#x27;gar/ /&#x27;gar yang ngo mtshar drag po dang / /zhe &#x27;gras sbyin pa po nyid dang / /mi srun pa nyid gya gyu nyid/ /rnam par sgeg pa&#x27;ang sems las byung /
+<lb n="SA_T01_Nāgabuddhi_Karmāntavibhāga_Tanaka_2021:8"/>/brjed ngas pa dang la lar &#x27;khrul/ /la lar rnam par g.yeng ba nyid/ /le lo nyid dang la lar ngal/ /la lar mi smra&#x27;i dngos por &#x27;gyur/ /la lar the tshom nyid shes bya/ /ma rig pa yi dus su &#x27;byung / /ye shes rang bzhin &#x27;di rnams ni/ /lnga bcu rtsa bzhi dag tu bshad/ /
+<lb n="SA_T01_Nāgabuddhi_Karmāntavibhāga_Tanaka_2021:9"/>pṛthagbhāve caturṇāṃ ca gate skandhe tathendriye ||
+<lb n="SA_T01_Nāgabuddhi_Karmāntavibhāga_Tanaka_2021:10"/>% mtshan mo nyin mo&#x27;i dbye ba yis/ /yang nas yang du rab tu &#x27;jug /bzhi rnams so so&#x27;i dor son pa/ de bzhin phung po dbang po la&#x27;o/ /
+<lb n="SA_T01_Nāgabuddhi_Karmāntavibhāga_Tanaka_2021:11"/>krameṇānena līyante yathaivāgamanaṃ purā |
+<lb n="SA_T01_Nāgabuddhi_Karmāntavibhāga_Tanaka_2021:12"/>prāṅ mahī salilaṃ gacchej jalaṃ gacchati pāvakam ||
+<lb n="SA_T01_Nāgabuddhi_Karmāntavibhāga_Tanaka_2021:13"/>% sngon ni ji ltar &#x27;ongs pa bzhin/ /rim pa &#x27;di yis thim &#x27;gyur te/ /dang po sa ni chu la &#x27;jug /chu ni me la thim &#x27;gyur zhing / /
+<lb n="SA_T01_Nāgabuddhi_Karmāntavibhāga_Tanaka_2021:14"/>pāvako vāyum anveti vāyur vijñānam āviśet |
+<lb n="SA_T01_Nāgabuddhi_Karmāntavibhāga_Tanaka_2021:15"/>vijñānaṃ dhāraṇaṃ gatvā prabhāsvaram athāviśet ||
+<lb n="SA_T01_Nāgabuddhi_Karmāntavibhāga_Tanaka_2021:16"/>% me ni rlung la thim par &#x27;gyur/ / rlung ni rnam par shes la &#x27;jug /rnam shes &#x27;dzin par gshegs nas su/ /&#x27;od gsal bar ni de nas zhugs/ /
+<lb n="SA_T01_Nāgabuddhi_Karmāntavibhāga_Tanaka_2021:17"/>tasmād gandharvatāṃ gatvā jāyate karmacoditaḥ |
+<lb n="SA_T01_Nāgabuddhi_Karmāntavibhāga_Tanaka_2021:18"/>% Tanaka: karmacoditam
+<lb n="SA_T01_Nāgabuddhi_Karmāntavibhāga_Tanaka_2021:19"/>evaṃ janmasamudreṣu bhūtvā bhūtvā punaḥ punaḥ ||
+<lb n="SA_T01_Nāgabuddhi_Karmāntavibhāga_Tanaka_2021:20"/>% Tib. *janmasahasreṣu
+<lb n="SA_T01_Nāgabuddhi_Karmāntavibhāga_Tanaka_2021:21"/>% de las dri za nyid gyur nas/ /las kyis bskul las skye bar &#x27;gyur/ /de ltar skye ba stong rnams su/ /skyes shing skyes nas yang dang yang / /
+<lb n="SA_T01_Nāgabuddhi_Karmāntavibhāga_Tanaka_2021:22"/>prakṛtyāvartasaṃbhrāmāt pāraṃ na labhate jagat |
+<lb n="SA_T01_Nāgabuddhi_Karmāntavibhāga_Tanaka_2021:23"/>ābhāsasya parijñānaṃ tārkikāṇām agocaram ||
+<lb n="SA_T01_Nāgabuddhi_Karmāntavibhāga_Tanaka_2021:24"/>% rang bzhin 146b bskor zhing kun du &#x27;khrul/ /rtog ge rnams kyi yul min la/ /snang ba yongs su shes pa ni/ /&#x27;gro bas ma rnyed bar du&#x27;o/ /
+<lb n="SA_T01_Nāgabuddhi_Karmāntavibhāga_Tanaka_2021:25"/>ābhāsamīlanaṃ cāpi punar atyantadurlabham |
+<lb n="SA_T01_Nāgabuddhi_Karmāntavibhāga_Tanaka_2021:26"/>rajas tamaś ca sattvaṃ cety evaṃ saṃkalpyate paraiḥ ||
+<lb n="SA_T01_Nāgabuddhi_Karmāntavibhāga_Tanaka_2021:27"/>% snang ba rnyed pa dag kyang ni/ /slar yang rnyed pa shin tu dka&#x27;/ /rdul dang mun pa snying stobs shes/ /&#x27;di ni gzhan gyis kun du brtags/ /
+<lb n="SA_T01_Nāgabuddhi_Karmāntavibhāga_Tanaka_2021:28"/>ābhāsatrayam evaitat svābhāvajñānahāṇitaḥ |
+<lb n="SA_T01_Nāgabuddhi_Karmāntavibhāga_Tanaka_2021:29"/>% anne svabhāva°
+<lb n="SA_T01_Nāgabuddhi_Karmāntavibhāga_Tanaka_2021:30"/>bhavanirvāṇahetuś ca jñānatrayam idaṃ matam ||
+<lb n="SA_T01_Nāgabuddhi_Karmāntavibhāga_Tanaka_2021:31"/>% snang ba gsum po &#x27;di nyid kyi/ /rang bzhin shes pa spangs pa&#x27;i phyir/ /srid dang mya ngan las &#x27;das pa&#x27;i rgyu/ /ye shes gsum po &#x27;di ru bzhed/ /
+<lb n="SA_T01_Nāgabuddhi_Karmāntavibhāga_Tanaka_2021:32"/>ābhāsaprakṛtīr yatra sthānaṃ tat puṇyapāpayoḥ |
+<lb n="SA_T01_Nāgabuddhi_Karmāntavibhāga_Tanaka_2021:33"/>% anne °prakṛtir?
+<lb n="SA_T01_Nāgabuddhi_Karmāntavibhāga_Tanaka_2021:34"/>% tat ] \emend, tatra Tanaka
+<lb n="SA_T01_Nāgabuddhi_Karmāntavibhāga_Tanaka_2021:35"/>ābhāsatrayaśuddhasya niyataṃ saugataṃ padam ||
+<lb n="SA_T01_Nāgabuddhi_Karmāntavibhāga_Tanaka_2021:36"/>% saugataṃ padam ] \emend, saugatapadaṃ Tanaka
+<lb n="SA_T01_Nāgabuddhi_Karmāntavibhāga_Tanaka_2021:37"/>% snang ba&#x27;i rang bzhin gang du gnas/ /de ru sdig dang bsod nams dag /snang ba gsum po dag pa ni/ /nges par bde bar gshegs pa&#x27;i gnas/ /
+<lb n="SA_T01_Nāgabuddhi_Karmāntavibhāga_Tanaka_2021:38"/>brahmā viṣṇuś ca rudraś ca ye cānye kapilādayaḥ |
+<lb n="SA_T01_Nāgabuddhi_Karmāntavibhāga_Tanaka_2021:39"/>prakṛtyābhāsasaṃmūḍhā viśuddhau cāpi sarvathā ||
+<lb n="SA_T01_Nāgabuddhi_Karmāntavibhāga_Tanaka_2021:40"/>% tshangs pa khyab &#x27;jug drag po dang / /gang gzhan ser skya la sogs rnams/ /rang bzhin snang ba kun du rmongs/ /rnam dag la yang rnam kun du/ /
+<lb n="SA_T01_Nāgabuddhi_Karmāntavibhāga_Tanaka_2021:41"/>bskal pa mtha&#x27; yas rnams su yang / /mgo dang rin chen sogs sbyin pas/ /snang ba rnam par ma dag na/ /byang chub &#x27;bras bu thob mi &#x27;gyur/ /mtha&#x27; yas bskal pa rnams su yang / /de bzhin tshul khrims bzod sogs kyis/ /snang ba rnam par ma dag na/ /byang chub &#x27;bras bu thob mi &#x27;gyur/ /mtha&#x27; yas bskal pa rnams su yang / /sngags kyi sku yi ting &#x27;dzin gyis/
+<lb n="SA_T01_Nāgabuddhi_Karmāntavibhāga_Tanaka_2021:42"/>/snang ba rnam par ma dag na/ /byang chub &#x27;bras bu thob mi &#x27;gyur/ /snang ba gsum po dag pa ni/ /thams cad mkhyen nyid the tshom med/ /bla ma brgyud pa&#x27;i rim nyid kyis/ /de ni thob &#x27;gyur gzhan gyis min/ /sprin ni &#x27;brug sgra&#x27;i rnam pa dang ldan nam/ /nam mkha&#x27;i khong nas kun du &#x27;byung ba rnams/ /phyogs bcu bskor nas gnas shing de nyid du/
+<lb n="SA_T01_Nāgabuddhi_Karmāntavibhāga_Tanaka_2021:43"/>/slar yang yal bar mthong ba ji lta ba/ /de ltar rnam shes rnams ni &#x27;od gsal gnas las &#x27;thon zhing slar yang zhig gyur nas/ /rang bzhin rnam pa sna tshogs rnams su gnas shing de nyid du ni yal bar &#x27;gyur/ /las kyi mtha&#x27; rnam par &#x27;byed pa zhes bya ba rje btsun &#x27;phags pa klu&#x27;i blo&#x27;i zhabs kyis mdzad pa rdzogs so// //
+<lb n="SA_T01_Nāgabuddhi_Karmāntavibhāga_Tanaka_2021:44"/>rgya gar gyi mkhan po bla ma rje btsun ma Ni ka shrI dz+nyA na dang / bla ma rje btsun chen po re ben+te&#x27;i zhal snga nas gus par mnyan nas chag lo tsA ba shAkya&#x27;i dge slong chos rje dpal gyis bsgyur cing zhus te 147a
+<lb n="SA_T01_Nāgabuddhi_Karmāntavibhāga_Tanaka_2021:45"/>gtan la phab pa&#x27;o/ /
+    </body>
+  </text>
+</TEI>

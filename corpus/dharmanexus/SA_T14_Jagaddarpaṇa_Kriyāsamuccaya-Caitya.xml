@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kriyāsamuccaya (Caityalakṣaṇavidhi)</title>
+        <author>Jagaddarpaṇa</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Author: Jagaddarpaṇa
+Collection / category: BuddhistNon-Scriptures / T14
+Source: OCR / Dharmamitra
+Edition / witness: Kaiser Library no. 110
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Diplomatic transcription and aligned Tibetan text based on Kathmandu, Kaiser Library MS 110 (siglum C, f. 298v) and D 3305 (ff. 236a4–236b1). Unpublished e-text, Kolozsvár, 6 July 2025.</note>
+          <idno type="dharmanexus">SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Caitya</idno>
+          <ref target="https://dharmamitra.org/nexus/db/sa/SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Caitya/text">https://dharmamitra.org/nexus/db/sa/SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Caitya/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-13">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Caitya:0"/>% 34 visarga-like deletion marks in \C, then:
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Caitya:1"/>caityaṃ tu kumbhakanakadhānyarāśilatākhyabhedāt yathāsaṃkhyaṃ ṭhakārākṛticūḍikābhakhagāṇḍatilasaṃnibham |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Caitya:2"/>% mchod rten gyi bum pa ni gser dang &#x27;bras kyi phung po dang &#x27;khri shing du grags pa&#x27;i dbye bas grangs ji lta ba bzhin du tha yig gi dbyibs dang gtsug tor lta bu {236a4} dang bya&#x27;i sgo nga lta bu dang tel lta bu&#x27;o ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Caitya:3"/>caturasre kṛte kṣetre dvādaśabhājite | ekasārdhadvisārdhadvikoṇayor bhāgaharaṇavartanāt bimbaṃ syāt |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Caitya:4"/>% gru bzhi pa&#x27;i sa cha la bcu gnyis su byas te phyed dang gnyis dang phyed dang gsum gyi cha zur gnyis su dor nas zlum pa la bum par &#x27;gyur ro ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Caitya:5"/>bimbārdhe nemikānvitaṃ | bimbārdhapīṭhaṃ | tadvad dharmimastakāntaṃ | bimbāyataṃ chattraṃ |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Caitya:6"/>% bum pa&#x27;i phyed kyis ni bang rim du &#x27;gyur zhing bum pa&#x27;i phyed kyis ni khri&#x27;o || de bzhin du bre dang rtse mo&#x27;i mthar te {236a5} sku gzugs kyi dbang gis gdugs so ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Caitya:7"/>tac caikatrayapañcatrayodaśaṃ saṃbuddhava[\C298\verso]jradharāṇāṃ | navasaptapratyekaśrāvakabuddhayoḥ |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Caitya:8"/>% de yang gcig dang gsum dang lnga dang bcu gsum ni rdzogs pa&#x27;i sangs rgyas dang rdo rje &#x27;dzin pa rnams kyi&#x27;o || dgu dang bdun ni nyan thos dang rang sangs rgyas kyi&#x27;o ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Caitya:9"/>avītarāgadhātucaitye padmakalikaiva paraṃ nānyat |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Caitya:10"/>% &#x27;dod chags kyi khams dang ma bral ba rnams kyi mchod rten la ni padma zlum pa lta bu ste gzhan {236a6} du ma yin no ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Caitya:11"/>tathā bimbābhedena yaṣṭyāropaṇaṃ kartavyaṃ |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Caitya:12"/>% de ltar na sku gzugs kyi dbye bas srog shing gzugs par bya&#x27;o ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Caitya:13"/>caturbuddhāsanaṃ punar vairocanapradhānīkṛtaṃ |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Caitya:14"/>bimbād bāhyacaturbhadre caturbuddhavirājitaṃ |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Caitya:15"/>% sangs rgyas bzhi&#x27;i khri dang slar yang rnam par snang mdzad ni gtso bor bya zhing bum pa&#x27;i phyi rol bzang po bzhi las sangs rgyas bzhis rnam par mdzes pa&#x27;o ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Caitya:16"/>koṇe stambhārpaṇaṃ kuryāt bodhisattvādibhūṣitaṃ |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Caitya:17"/>cchattrākāraṃ tu yaṣṭyūrdhvaṃ varṣāsthālakasaṃjñakaṃ |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Caitya:18"/>% zur la ka bas bteg pa bya zhing byang chub sems {236a7} dpa&#x27; la sogs pas brgyan pa&#x27;o || gdugs kyi rnam pa ni srog shing gi steng du ste char khebs kyi ming can no ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Caitya:19"/>hārārdhahāraghaṇṭādikiṅkiṇījālabhūṣitaṃ |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Caitya:20"/>tadūrdhvaṃ ca maṇiḥ kāryaṃ padmakalikā tu kecit |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Caitya:21"/>vidhinā lakṣaṇopetaṃ kārayed vidhikovidaḥ |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Caitya:22"/>% do shal dang do shal phyed pa dang dril bu la sogs pa dang g-yer kha&#x27;i drabs brgyan pa&#x27;o || de&#x27;i steng du nor bu bya ste padma zlum pa ni mthar ro zhes pa ni kha cig gi&#x27;o || cho ga mtshan {236b1} nyid dang ldan pa bya ste cho ga rim pa rnams kyis so
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Caitya:23"/>iti caityalakṣaṇavidhiḥ ||   ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Caitya:24"/>% zhes pa mchod rten gyi mtshan nyid kyi cho ga&#x27;o ||
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kriyāsamuccaya (Dhvajādyavaropaṇa section)</title>
+        <author>Jagaddarpaṇa</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Author: Jagaddarpaṇa
+Collection / category: BuddhistNon-Scriptures / T14
+Source: OCR / Dharmamitra
+Edition / witness: Kaiser Library no. 110, supplied with Lokesh Chandra&#x27;s facsimile and readings from the Karmādhikāravidhāna/Ācāryavidhi
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Working edition/transcript of the Dhvajādyavaropaṇa section of the Kriyāsamuccaya, based on Kaiser Library MS 110, Lokesh Chandra&#x27;s facsimile edition, collated with readings from the Karmādhikāravidhāna/Ācāryavidhi, Kolozsvár, 5 July 2025.</note>
+          <idno type="dharmanexus">SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa</idno>
+          <ref target="https://dharmamitra.org/nexus/db/sa/SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa/text">https://dharmamitra.org/nexus/db/sa/SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-13">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:0"/>% from the Karmādhikāravidhāna ms. 4\verso ff.
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:1"/>[\L306.1&#x27;] susiddhadevāyatanāśrameṣu vihāraharmyālayamaṇḍapeṣu |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:2"/>dhvajāvaropaḥ pratipādanīyaḥ samīkṣasadvārasumadhyatāgram ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:3"/>% anne with \L: samīkṣya saddvārasumadhyato &#x27;gram
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:4"/>% legs par grub pa lha {177b6} yi gnas dang spos khang dang || gtsug lag khang dang khang bzangs khang mig &#x27;dun khang rnams || mnyam par bltas nas dam pa&#x27;i sgo yi dbus kyi rtser || rgyal mtshan rnams ni nges par rab tu gzugs par bya ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:5"/>[suvarṇamāṇikyaśilārkarūpyasumṛttikākāṣṭhamayāni caiva |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:6"/>susaṃsthitarjjūṭi[?] dṛḍhojjvalāni tribhāgatulyāni susandhitāni ||]
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:7"/>% anne with \L: °rjūni
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:8"/>% gser dang nor bu nyi ma&#x27;i shel dang dngul dang ni || &#x27;jim pa mchog {177b7} dang shing las byas pa nyid kyang ste || legs par gnas pa drang zhing brtan pa rab &#x27;bar ba || cha gsum mnyam pa legs par dgod par bya ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:9"/>[\C203\recto] [jinendrakūṭālayama]ṇḍapeṣu pramāṇatā dvārasudīrghamānā |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:10"/>tadardhamānāśrayamandireṣu suveṣṭanenāpi tathaiva tiryak ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:11"/>% rgyal ba&#x27;i dbang po&#x27;i khang brtsegs rnams dang khang mig dang || &#x27;dun khang rnams kyi tshad la sgo ni ring ba&#x27;i tshad || de phyed tshad ni spob bang rnams {178a1} || dang khang chen la || legs par &#x27;jug ste rgyal la yang ni de bzhin nyid ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:12"/>dhvajāni yāvat kalaśopamāni munīndrajñānāmṛtapūritā[ni |]
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:13"/>[sudhāṃśusan]nmaṇḍalarūpakāṇi suṣiñcamānāni vihāradeham ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:14"/>% rgyal mtshan ji snyed bum pa dang ni mtshungs pa ste || thub pa&#x27;i dbang po&#x27;i ye shes bdud rtsis gang ba nyid || bdud rtsi&#x27;i &#x27;od can dam pa&#x27;i dkyil &#x27;khor rang bzhin gyis || legs par bkrus nas gtsug {178a2} lag khang gi lus su&#x27;o ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:15"/>tadutthitaṃ bhrūṃbhavacaityarūpaṃ vicintya cchattrāmbarabhūṣitāṅgam |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:16"/>nibadhya puṣpāmbarapañcasūtrair japet sa[māro]pya savajrahastaḥ ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:17"/>% de bslang ba ni bhr&#x27;uM las byung ba&#x27;i mchod rten gzugs || rnam par bsams nas gdugs dang gos dang rgyan gyis brgyan || me tog gos dang skud pa lngas bcings bzlas bya ste || mnyam par gzugs bya rdo rje dang ni bcas pas so ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:18"/>jinendramantreṇa puraḥsthitaḥ san dhvajāgramantreṇa tu dakṣiṇasthaḥ |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:19"/>sa paścimastho &#x27;py amitābhamantrair muner alaṃkāramanottarasyām ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:20"/>% shar du gnas pas {178a3} rgyal ba&#x27;i dbang po&#x27;i gsang sngags dang || lho ru gnas pas rgyal mtshan rtse mo&#x27;i gsang sngags ni || nub tu gnas byas &#x27;od dpag med pa&#x27;i gsang sngags dang || byang nas kyang ni thub pa rgyan gyi yid kyis te ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:21"/>pradakṣi[ṇā]vartatayā samantāt pragatya puṣpāmbarasūtrapāṇiḥ |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:22"/>pratiṣṭhya puṣpārghakalādibhir vā ghaṭābhiṣekaṃ vidadhīta yatnāt ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:23"/>% g-yas skor du ni kun nas rab tu bskor &#x27;gro zhing || me tog gos {178a4} dang skud par byas pa&#x27;i lag pa yis || rab tu gnas bya me tog mchod yon &#x27;bras sogs kyi || bum pas mngon par dbang bskur bya ste &#x27;bad pas so ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:24"/>sattūryaśaṅkhakāhala-
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:25"/>kolāhalaghaṇṭayā samāyuktaḥ |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:26"/>īriṇījanamaṅgala-
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:27"/>saṃgītikayā sahācāryaḥ ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:28"/>% gloss: airandrī
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:29"/>% KV evaṃ strī° metrical!
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:30"/>% rol mo dang bcas dud dang zangs dung rnams kyi ni || sgra dang bcas shing bum pa rnams dang mnyam ldan pas || bud med rnams kyi bkra {178a5} shis glu dbyangs dang || lhan cig pa yi rdo rje slob dpon rnams kyis so ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:31"/>jinavairocanamantraṃ | oṃ sūkṣme 2 samaye 2 śānte 2 dānte 2 asamārope nirālambe nirākule nirvāṇe yaśovati [\C203\verso] mahāteje sarvabuddhādhiṣṭhānādhiṣṭhite svāhā || pūrveṇaikaviṃśativāram ||   ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:32"/>% NB this is an āryā with the full mantras plugged in
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:33"/>% rgyal ba rnam par snang mdzad kyi sngags ni || aoM sukSHme sukSHme sa me sa ma ye sh&#x27;ante sh&#x27;ante | d&#x27;ante d&#x27;ante | aa sa m&#x27;a ro pe | ni r&#x27;a laM bhe ni r&#x27;a ku le ni rb&#x27;a ne | ya sho ba ti | ma h&#x27;a te dze sarba buddh&#x27;a dhiSHTH&#x27;a na aa dhiSHTHi te sv&#x27;a h&#x27;a | shar nas lan nyi {178a6} shu rtsa gcig go ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:34"/>dhvajāgrakeyūrikāmahāmantraḥ || oṃ dhvajāgrakeyūre jaya 2 vijaya 2 jayavāhini śaṅkari pra[bhākari prabha]ṅkari prabhañjani bhañja 2 mohaya 2 bhagavati jayavāhini jayottari matha 2 pramatha 2 hasa 2 grasa 2 hūṃ 2 he 2 laghu 2 lambodari trinetre caturvaktre catu[rdaṃṣṭre catur]bh[u]je asimuṣalacakratriśūlavajrakavacadhāriṇi rakṣa 2 māṃ bhagavati
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:35"/>hana 2 daha 2 paca 2 dhuna 2 vidhuna 2 hūṃ 2 phaṭ bhañja 2 vidhvaṃsaya 2  sarvaśatrūn | [truṭa 2 tṛṭa 2] ulkāmukhi ulkādhāriṇi trailokyamathani rakṣa 2 māṃ cala 2 cili 2 culu 2 kala 2 kili 2 kulu 2 muñca 2 aṭṭaṭṭahāsaṃ trāsaya 2 bhrāmaya 2 buddhasa[tyena dharmasatyena sa]ṃghasatyena satyavādināṃ satyena buddhasatyaṃ mātikrama [+dharmasatyaṃ
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:36"/>mātikrama / saṃghasatyaṃ mātikrama /?] satyavādināṃ satyaṃ mātikrama lambodari kuṭṭa 2 kuṭṭa 2 paya 2 rudram ānaya viṣṇum ānaya candrasūrya[\C204-205 desunt][\L307.8&#x27;]m ānaya trailokyādhipatim ānaya [+sarvadevatādhipatim ānaya /
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:37"/>sarvadevatān ānaya /?] sarvayakṣarākṣasakumbhāṇḍa[\L308]mahoragādīn ānaya māṃ rakṣa 2 rakṣāpaya 2 culu 2 puṣpamālini rundha 2 ṛni 2 ṛṭi 2 ciṭi 2 bhṛkuṭimukhi parasainyaṃ kulocchādanakari hala 2 hili 2 hulu 2 dhvaṃ 2 he 2 [+ṛṇi 2?] ṛṇamati jambha dhvaje buddhāvalokite rakṣa 2 māṃ sarvatathāgatāvalokite svāhā | guṇarājaprabhāsottame svāhā |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:38"/>[+sūryārkavimale svāhā /?] candrārkavimale svāhā | sarvagrahanakṣatradhyāmīkaraṇe svāhā | [+hūṃ hūṃ?] rakṣa 2 imaṃ sthānaṃ sarvabhayebhyaḥ svāhā ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:39"/>% rgyal mtshan rtse mo&#x27;i dpung rgyan gyi sngags chen po ni | aoM dhva dza aa gra ke y&#x27;u ri dza ya dza ya | bi dza ya bi dza ya | dza ya b&#x27;a hi ni | shangka ri pra bhanydza ni | bhanydza bhanydza | mo ha ya mo ya | bha ga wa ti dza ya b&#x27;a hi ni | dza yo ta ri | ma tha ma tha | pra ma tha pra ma tha | ha sa ha sa | {178a7} gra sa gra sa |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:40"/>h&#x27;uM h&#x27;uM | hee hee | lambo da ri | dri ni dre | tsa tur w&#x27;a kkre | tsa tu ra daMSHTe | tsa tur bhu dze | aa si mu kha la tsakra tri sh&#x27;u la badzra ka ba tsa dh&#x27;a ri Ni | rakSHa rakSHa m&#x27;aM | bha ga wa ti | ha na ha na | da ha da ha | pa tsa pa tsa | dhu na dhu na | bi dhu na bi dhu na | spho Ta ya spho Ta ya | h&#x27;uM h&#x27;uM phaT |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:41"/>{178b1} dhanydza bhanydza | bidh&#x27;ansa ya | bidhvansa ya | sarba sha tr&#x27;uM tru Ta tru Ta | tr&#x27;u Ta tr&#x27;u Ta | au pa ka mu khi | aulka dh&#x27;a ri N&#x27;i | tree lo kya ma tha ni | rakSHa rakSHa maM | tsa l tsa la | tsi li tsi li | tsu lu tsu lu | ka la ka la | ki li ki li | ku lu ku lu | bhanydza bhanydza | aa Ta Da h&#x27;a saM bhra ma ya saM bhra ma ya |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:42"/>tr&#x27;a sha {178b2} ya bu ddh&#x27;a sa tya na dharma sa tya na saM gha sa tya na | sa tya b&#x27;a di naM | sa tya na buddha sa tyaM na m&#x27;a ti kra ma satya b&#x27;a d&#x27;i naM satya m&#x27;a ti kra ma lambo da ri | ku Ta ku Ta | ru Ta ya ku Ta ya | ru Ta m&#x27;a na ya | biSHNu m&#x27;a na ya tsandha s&#x27;u rya m&#x27;a na ya tree lo kya aa dhi pa ti m&#x27;a na ya |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:43"/>sarba yakSHa rakSHa sa kuM bh&#x27;aNDa ma ho ra ga aa d&#x27;i n&#x27;aM ma na ya m&#x27;aM | {178b3} rakSHa rakSHa | rakSHa sa ya rakSHa sa ya | tsu lu tsu lu puSHpa m&#x27;i li ni | rundha rundha | ru ni ru ni | dzha Ti dzha Ti | tsi Ti tsi Ti | bhrI ku Ti mu khi pa ra see n+ye ku lo tstsha da na ka ri | ha la ha la | hi li hi li | hu lu hu lu | dhvaM dhvaM |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:44"/>kr&#x27;u na ma ti dzambu dhva dze buddha aa pa lo ki ti | rakSHa rakSHa saM sarba ta th&#x27;a ga ta aa ba {178b4} lo ki te sv&#x27;a h&#x27;a | gu Na r&#x27;a dzi pra bh&#x27;a sa au tta me sv&#x27;a h&#x27;a | tsandra aarka pi mi ne sv&#x27;a h&#x27;a | sarba gra ha na kSHa tra dh&#x27;a mi ka ra Ni sv&#x27;a h&#x27;a | rakSHa rakSHa ai maM stha naM sarba bha ye bhya:sv&#x27;a h&#x27;a |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:45"/>ekadhā dakṣiṇena
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:46"/>% lho nas lan cig go ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:47"/>amitābhamantrarājaṃ
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:48"/>% &#x27;od dpag med kyi sngags kyi rgyal po ni |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:49"/>oṃ amite 2 amitodbhave amitasaṃbhave amitavikrānte amitavikrāntagāmini {amitavikrāntagāmini} amitāyurdade dharmadhātujñānagaganaparikīrtite sarvakarmakleśakṣayaṃkariye svāhā ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:50"/>% aoM aa mi te aa mi ta aa mi to dbha we | aa mi ta {178b5} saM bha we aa mi ta bi kra&#x27;nte g&#x27;a mi ni aa mi ta a&#x27;a yurda te dharma dh&#x27;a tudzny&#x27;a na ga ga na pa ri k&#x27;irta te sarbba karma kle sha kSHa yaM ka r&#x27;i ye sv&#x27;a h&#x27;a |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:51"/>saptadhā paścimena
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:52"/>% nub nas lan bdun no ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:53"/>vajramaṇḍālaṃkāradhāraṇīmantram |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:54"/>% excise vajra° for metre!
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:55"/>% rdo rje snying po brgyan gyi gzungs kyi sngags ni |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:56"/>oṃ bodhi 2 sarvabodhisarvatathāgatagocare dhara 2 hara 2 prahara 2 mahābodhicittadhara culu 2 raśmisaṃcodite sarvatathāgatābhiṣikte guṇagagane śuddhaguṇāvabhāse mili 2 gaganatalapratiṣṭhite śama 2 praśama 2 sarvapāpapraśamane sarvapāpaviśodhani hulu 2 mahābodhimārga[\L309]saṃprasthite sarvatathāgatasamudre svāhā ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:57"/>% aoM bo dhi bo dhi sarbba bo dhi sarbba ta th&#x27;a ga ta go tsa ri dha ra tsa ri dha ra | ha ra ha ra | pra ha ra phra ha ra {178b6} ma h&#x27;a bo dhi tsitta dha ra | tsu lu tsu lu rasmi sanytso di te sarba ta th&#x27;a ga ta aa bhi SHi kte gu Na ga ga ne shuddha | gu Na aa ba bh&#x27;a se mi li mi li | ga ga na ta la pra tiSHTHi te sha ma sha ma |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:58"/>pra sha ma pra sha ma | sarba p&#x27;a pa pra sha ma ne sarba p&#x27;a pa bi sho dha ni hu lu hu lu | ma h&#x27;a bo dhi m&#x27;a rga saM prasthi te | sarba {178b7} ta th&#x27;a ga ta mu dre sv&#x27;a h&#x27;a |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:59"/>saptadhā uttareṇa |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:60"/>% byang nas lan bdun no ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:61"/>oṃ sarvatathāgatamaṇiśatadīpte jvala 2 dharmadhātugarbhe svāhā | ye dharmā hetuprabhavā hetuṃ teṣāṃ tathāgato hy avadat teṣāṃ ca yo nirodha evaṃvādī mahāśramaṇaḥ ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:62"/>% aoM sarba ta th&#x27;a ga ta ma ni shapta dipte dzv&#x27;a la dzv&#x27;a la dharma dh&#x27;a tu garbhe sv&#x27;a h&#x27;a | ye dharm&#x27;a he tu pra bha b&#x27;a he tunte SH&#x27;anta th&#x27;a ga to hye ba da ta | te SH&#x27;anytsa yo ni ro dha ae baM b&#x27;a d&#x27;i ma h&#x27;a shra ma Na:
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:63"/>pūrveṇaiva
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:64"/>% shar nyid nas so
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:65"/>iti dhvajocchrayaḥ ||   ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:66"/>% zhes pa rgyal mtshan gzugs pa&#x27;o ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:67"/>vajrāvadhūtīdṛḍhadaṇḍasaṃsthā dvātriṃśatā nāstekayā (!?) nibaddham |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:68"/>haṃkārasaṃjātaviśuddhapadmacchattraṃ samantād rucirojjvalantam ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:69"/>% {179a1} || rdo rje aa ba dhu t&#x27;i brtan pa&#x27;i yu bar gnas | sum cu rtsa gnyis &#x27;dab ma nges par &#x27;ching byed pa || haM yig las skyes padma rnam par dag pa&#x27;i gdugs || kun nas mdzes pa &#x27;bar ba&#x27;i mtha&#x27; dang ldan pa nyid ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:70"/>śrīdharmadhātvaṅkitacārurūpaṃ ratnārdhahārāvalijātaśobham |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:71"/>ceto&#x27;nutāpāpaharajayāṅkaṃ chattraṃ pratiṣṭhed iti yogayuktaḥ ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:72"/>% dpal ldan chos kyi dbyings kyis mtshan zhing mdzes pa&#x27;i gzugs || {179a2} rin chen dra ba phyed pa&#x27;i phreng ba skyes pas mdzes || sems kyi mthon po &#x27;phrog par byed pa&#x27;i rgyal bas mtshan || gdugs la gnas zhes sbyor ba rig pa yin ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:73"/>oṃ namaḥ samantabuddhabodhisattvānāṃ āḥ candracchattrāvali svāhā |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:74"/>% aoM na ma:samanta buddha bo dhi satv&#x27;a n&#x27;aM a&#x27;a tsandra tstsha tra a&#x27;a ba li sv&#x27;a h&#x27;a |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:75"/>aṣṭottaraśataṃ japet ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:76"/>% brgya dang rtsa brgyad bzlas par bya&#x27;o
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:77"/>iti chattram || o ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:78"/>% zhes pa gdugs kyi&#x27;o ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:79"/>jñānādarśamahojjvalavajrātmakacāru[\C206\recto][daṇḍasaṃsthānam |]
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:80"/>merupadmātmapīṭhe siṃhādimahādhvajaṃ mahānandam ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:81"/>% ye {179a3} shes me long chen po rab &#x27;bar zhing || rdo rje&#x27;i bdag nyid mdzes pa&#x27;i yu bar gnas || ri rab padma&#x27;i gdan dang seng ge la || sogs pa&#x27;i rgyal mtshan chen po dga&#x27; ba che ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:82"/>a-ka-ga-ma-si-bījanirmitam
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:83"/>aparājitakalaśagaruḍamakarādyam |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:84"/>% anne °āḍhyam?
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:85"/>matsyamayūramaṇīmṛga-
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:86"/>siṃhāṅkitam i[ndubindu][padma][sa]drūpam ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:87"/>% aa ga ma ga sa yi sa bon las byung ba&#x27;i || gzhan gyis mi thub bum pa mkha&#x27; lding chu srin sogs || nya dang {179a4} rma bya ri dags nor bu seng ges mtshan || zla ba&#x27;i thig le padma&#x27;i gzugs dang ldan pa nyid ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:88"/>oṃ āḥ vajradhvajavati jayottari svāhā ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:89"/>% rgyal mtshan Tib. gloss
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:90"/>% aoM a&#x27;a:badzra dhva dza ba ti tsa yo tta ri sv&#x27;a h&#x27;a |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:91"/>iti dhvajam ||   ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:92"/>% zhes pas te rgyal mtshan gyi&#x27;o ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:93"/>prajñāprabhāvasatkīrtiguṇāgralakṣmī yaṃbījasaṃbhavavicitravatī patākā |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:94"/>% metrical with the next!?
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:95"/>% anne paṃbīja°?
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:96"/>% shes rab las byung dam pa&#x27;i grags dang yon tan mchog gi phun tshogs can || paM gyi sa bon las byung rnam pa sna {179a5} tshogs ldan pa&#x27;i bdan rnams ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:97"/>oṃ āḥ vajra[ke]tu [\L310] vajrapatāke adhitiṣṭha yaṃ svāhā ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:98"/>% aoM a&#x27;a:badzra ke tu badzra pa t&#x27;a ke aa dhi tiSHTHa paM sv&#x27;a h&#x27;a |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:99"/>iti patākā ||   ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:100"/>% ba dan
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:101"/>% zhes pa ste ba dan gyi&#x27;o ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:102"/>saddhemaratnamuktojjvalacitradaṇḍaṃ śṛṅgāramaṅgalamahodayacāmaraṃ ca ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:103"/>% dam pa&#x27;i gser dang rin po che dang mu tig &#x27;bar ba sna tshogs pa&#x27;i || yu bar sgeg cing bkra shis chen po &#x27;byung ba&#x27;i rnga yab rnams kyang ngo ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:104"/>caṃbījaṃ cāmaram | oṃ curu cāmari svāhā ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:105"/>% tsaM gyi sa bon las rnga yab rnams su {179a6} ste | aoM tsu ru ts&#x27;a ma ri sv&#x27;a h&#x27;a |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:106"/>iti cāmaram ||   ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:107"/>% rnga yab
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:108"/>% zhes pa ni rnga yab kyi&#x27;o ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:109"/>balihomādividhānaiḥ
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:110"/>puṣṭimanāḥ sakaladevatāvṛndān |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:111"/>nagarāvalambikādīn
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:112"/>vanajātais tarpayec ca puṇyārthī ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:113"/>% gtor ma sbyin sreg la sogs cho ga yis || rgyas pa&#x27;i yid kyis mtha&#x27; dag lha yi tshogs || grong khyer gnas sogs nor las skyes rnams kyis || mnyes par bya ste bsod nams don du&#x27;o ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:114"/>dhvajādyavaropaṇapratiṣṭhāvidhiḥ ||   ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Dhvajādyavaropaṇa:115"/>% rgyal mtshan la sogs pa gzugs {179a7} pa&#x27;i rab tu gnas pa&#x27;i cho ga&#x27;o || ||
+    </body>
+  </text>
+</TEI>

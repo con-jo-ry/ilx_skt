@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Abhidhānottaratantra (chapter 25)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Collection / category: BuddhistScriptures / K12
+Source: OCR / Dharmamitra
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Lokesh Chandra facsimile ed. (1138 AD palm-leaf codex)</note>
+          <idno type="dharmanexus">SA_K12_Āgama_Abhidhānottaratantra-ch25-28</idno>
+          <ref target="https://dharmamitra.org/nexus/db/sa/SA_K12_Āgama_Abhidhānottaratantra-ch25-28/text">https://dharmamitra.org/nexus/db/sa/SA_K12_Āgama_Abhidhānottaratantra-ch25-28/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-13">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch25-28:0"/>Abhidhānottaratantra ch. 25 [Tib. &amp; Ś. 28]
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch25-28:1"/>= Lokesh Chandra facsimile ed.
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch25-28:2"/>= 1138 AD palm-leaf codex
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch25-28:3"/>[ 174.6] [ begins on *106 deest]
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch25-28:4"/>[ 107] utpalam akuśaś caiva jñānamūrtiṃ vibhāvayet |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch25-28:5"/>kāyavākittitiyaṃ (!) cakramadhye vibhāvayet ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch25-28:6"/>pūrvoktapīṭhayogena yathā vai vajrasattvayoḥ |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch25-28:7"/>mantram evam anusmṛtyaṃ mañjuvajrasya guhyajaṃ |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch25-28:8"/>triguhyajñānasamayaṃ vīrayoginisaṃyutaṃ ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch25-28:9"/>oṃ śrīmahāsukhamañjuvajra āḥ maṃ hūṃ ḍākinījālasamvara svāhā ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch25-28:10"/>prāṇāyāmaṃ suyantritvā japet mantraṃ mahāvratī |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch25-28:11"/>sphareti guhyacakraṃ sa[ṃ]harec ca tridhātukaṃ |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch25-28:12"/>etad rahasyaṃ paramaṃ na kathayed yasya kasyacit ||   ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch25-28:13"/>Abhidhānottarottare Mañjuvajrasādhanapaṭalaḥ pañcaviṃśatimaḥ ||   ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch25-28:14"/>[ 175.5] [ 1074&#x27;]
+    </body>
+  </text>
+</TEI>

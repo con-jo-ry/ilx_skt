@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sarvakarmāvaraṇaviśodhanīdhāraṇī</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Collection / category: BuddhistScriptures / K12 (Tantra)
+Source: OCR / Dharmamitra
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Unpublished diplomatic transcription based on Cambridge University Library Ms. Add. 1680.8.3.</note>
+          <idno type="dharmanexus">SA_K12_Āgama_Sarvakarmāvaraṇaviśodhanīdhāraṇī</idno>
+          <ref target="https://dharmamitra.org/nexus/db/sa/SA_K12_Āgama_Sarvakarmāvaraṇaviśodhanīdhāraṇī/text">https://dharmamitra.org/nexus/db/sa/SA_K12_Āgama_Sarvakarmāvaraṇaviśodhanīdhāraṇī/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-13">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_K12_Āgama_Sarvakarmāvaraṇaviśodhanīdhāraṇī:0"/>Title: Sarvakarmāvaraṇaviśodhanī
+<lb n="SA_K12_Āgama_Sarvakarmāvaraṇaviśodhanīdhāraṇī:1"/>Source: Cambridge University Library Ms. Add. 1680.8.3
+<lb n="SA_K12_Āgama_Sarvakarmāvaraṇaviśodhanīdhāraṇī:2"/>Tibetan: D 743 [=1009]
+<lb n="SA_K12_Āgama_Sarvakarmāvaraṇaviśodhanīdhāraṇī:3"/>namo bhagavate ’kṣobhyāya tathāgatāyārhate samyaksaṃbuddhāya | tadyathā oṃ hūṃ kakani kakani | vākani vākani | rocani rocani | troṭani | troṭani | saṃtrāsani | saṃtrāsani + + + 2 pratihana 2 sarvakarmaparamparāni me svāhā | ya imāṃ dhāraṇīm antaśaḥ kuḍyalikhitām api paśyet tasya pañcānantaryāṇi parikṣayaṃ [explicit]
+    </body>
+  </text>
+</TEI>

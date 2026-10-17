@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Padminī (chapter 27)</title>
+        <author>Ratnarakṣita</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Author: Ratnarakṣita
+Collection / category: BuddhistNon-Scriptures / T02
+Source: OCR / Dharmamitra
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Diplomatic manuscript transcription and parallel Tibetan alignment (Kolozsvár, 9 March 2025), based on manuscript Nagoya Takaoka CA17, fols. 41v2–42r2.</note>
+          <idno type="dharmanexus">SA_T02_Ratnarakṣita_Padminī-Ch27_CA17</idno>
+          <ref target="https://dharmamitra.org/nexus/db/sa/SA_T02_Ratnarakṣita_Padminī-Ch27_CA17/text">https://dharmamitra.org/nexus/db/sa/SA_T02_Ratnarakṣita_Padminī-Ch27_CA17/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-13">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch27_CA17:0"/>Padminī Ratnarakṣita
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch27_CA17:1"/>%%%%%
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch27_CA17:2"/>%%%%% Ch.27 Nagoya Takaoka CA17, 41\verso2–42\recto2 ; input PDSz, 9.iii.2025, Kolozsvár
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch27_CA17:3"/>%%%%%
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch27_CA17:4"/>mantroddhārapraśnavisarjanāyāha | \textbf{ata} ityādi | kāmeti trayodaśa | rudreti ekādaśa | randhreti nava | munīti sapta | bāṇeti pañca | rūpeti ekam | tutatyā(?)[=etad?]gneḥ paraṃ boddhavyam | agnim iti trayam | upadeśata iti trayodaśakoṣṭhātmikāyāḥ paṅkteḥ prathamakoṣṭham ārabhyety upadeśaḥ | prathamakoṣṭhasyeti | prathamakoṣṭhapaṅkteḥ |
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch27_CA17:5"/>pañcamam iti | pañcamakoṣṭhastham | tatraivādikoṣṭhakenordhva dāpayed iti | tatraiva prathamakoṣṭhapaṅktau yad ādikoṣṭhasthaṃ tad upari dadyād ity arthaḥ | tatraivaikakoṣṭhakeneti kvacit pāṭhe &#x27;pi tathā | tato guṇe kṛte oṃkāraḥ syāt |
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch27_CA17:6"/>sngags btu bzhus pa&#x27;i lan {85a6} gdab pa&#x27;i phyir gsungs pa | &#x27;di las zhes pa la sogs pa&#x27;o || &#x27;dod pa zhes pa bcu gsum pa&#x27;o || drag po zhes pa bcu gcig pa&#x27;o || bu ga zhes pa dgu&#x27;o || thub pa zhes pa bdun no || mda&#x27; zhes pa lnga pa&#x27;o || gzugs zhes pa gcig ste &#x27;di ni me&#x27;i pha rol du rtogs {85a7} par bya&#x27;o || me zhes pa gsum mo ||
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch27_CA17:7"/>man ngag las zhes pa re&#x27;u mig bcu gsum gyi bdag nyid kyi phreng ba&#x27;i re&#x27;u mig dang po nas brtsams te zhes pa gdams dag go || re&#x27;u mig dang po&#x27;i zhes pa re&#x27;u mig gi phreng ba dang po&#x27;i sde | lnga pa zhes pa re&#x27;u mig lnga pa na gnas pa&#x27;o ||
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch27_CA17:8"/>de la {85b1} re&#x27;u mig dang po nyid gong du yang dag sbyin par bya zhes pa de nyid la re&#x27;u mig gi phreng ba dang po&#x27;i re&#x27;u mig dang po na gang gnas pa de gong du sbyin par bya&#x27;i zhes pa&#x27;i don to || de la re&#x27;u mig gcig pa nyid ces kha cig rjod pa la&#x27;ang de bzhin no || de la yon tan du byas te aoM yig {85b2} tu &#x27;gyur ro ||
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch27_CA17:9"/>tatraikādaśeti pāṭhe tu | tatreti tasmāt koṣṭhāl likhanakrameṇa gam[=ṇ?]ya{nā}&lt;mā&gt;ṇa ekādaśastho aṃkāras tenopari sthāpitena saha guṇe kṛte ardhacandrayukta oṃkāraḥ syāt | sandhiḥ tvāsatvāt (?) | tato navasaṃkhyāyāḥ koṣṭhapaṅkteḥ tṛtīyaṃ makāraṃ bindurūpam ardhacandropari dadyāt | śeṣaṃ subodham |
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch27_CA17:10"/>de la re&#x27;u mig bcu gcig pas zhes brjod pa ni de las zhes pa de la ste | re&#x27;u mig las bri ba&#x27;i rim pas bgrangs pa&#x27;i bcu gcig pa na gnas pa&#x27;i aoM yig ste | de&#x27;i gong du bzhag pas lhan cig yon tan du byas te | zla ba phyed pa dang | lhan cig {85b3} pa&#x27;i aoM yig tu &#x27;gyur ro || mtshams sbyar ba nyid las so ||
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch27_CA17:11"/>des na dgu pa&#x27;i grangs kyi re&#x27;u mig gi phreng ba&#x27;i gsum pa ma yig thig le&#x27;i gzugs zla ba phyed pa&#x27;i steng du sbyin par bya&#x27;o || lhag ma ni go sla&#x27;o ||
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch27_CA17:12"/>atra prathamaṃ bhagavaddhṛdayamantraṃ daśākṣaram | tadupahṛdayamantraṃ saptākṣaram | tato devīhṛdayamantraṃ trayodaśākṣaram | tataś catuṣpadamantram | ity uddhāro guror jñeyaḥ |
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch27_CA17:13"/>&#x27;dir thog mar bcom ldan &#x27;das kyi snying po&#x27;i sngags yi ge bcu {85b4} pa&#x27;o; | de nas nye ba&#x27;i snying po&#x27;i sngags yi ge bdun pa&#x27;o || de nas lha mo&#x27;i snying po&#x27;i sngags yi ge bcu gsum pa&#x27;o || de nas rkang pa bzhi pa&#x27;i sngags te &#x27;di dag btu ba ni bla ma las shes par bya&#x27;o ||
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch27_CA17:14"/>itthaṃ pracchāditasya prayojayanam āha | \textbf{pustakād} ityādi | kadāyaṃ mantroddhāraḥ kartavya ity āha | \textbf{daśamī}tyādi | mantradevatayor bhedaḥ samayabhraṃśaḥ sa ca na kārya ity āha | \textbf{varam} ityādi | prajñānindā nirasyati | \textbf{vāmodbhavam} ityādi | \textbf{vāmatarpaṇabhakṣaṇam} iti | vāmahastena tarpaṇaṃ bhakṣaṇaṃ ca |
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch27_CA17:15"/>de ltar sbas pa&#x27;i dgongs pa gsungs pa | glegs pan zhes pa la {85b5} sogs pa&#x27;o || sngags btu ba &#x27;di dag gang gi tshe bya zhe na | gsungs pa | bcu pa zhes pa la sogs pa&#x27;o || sngags dang lha dag la dbye ba ni dam tshig nyams pa ste de&#x27;ang mi bya&#x27;o zhes gsungs pa | srog ni zhes pa la sogs pa&#x27;o ||
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch27_CA17:16"/>shes rab snod [=smod] pa spong pa &#x27;jig {85b6} rten pa la zhes pa la sogs pa&#x27;o || tshim dang bza&#x27; ba g-yon pa ste || zhes pa lag pa g-yon pas tshim pa dang bza&#x27; ba yang ngo ||
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch27_CA17:17"/>mahāmaitrīvarjanaṃ nivārayati | \textbf{pañce}tyādi | \textbf{sarvasaṅkalpavinirmukta} iti | ādimadhyāntaśūnyeṣu sarvadharmeṣv ity ādikalpanavihitaḥ | \textbf{sarvadvandvavivarjita} iti | skandhapañcakatathāgatapañcakayor bhedādarśī | gurvavajñānaṃ nirasyati | \textbf{gurur} ityādi | \textbf{sarve}tyādi guruviśeṣaṇam |
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch27_CA17:18"/>etena mūlāpattiṃ parityajeti sekapaṭale sūcitānāṃ caturdaśamūlāpattīnāṃ kiyatyo nirdiṣṭāḥ tantrāntaroktās tu sarvā jñātavyāḥ |
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch27_CA17:19"/>byams pa chen po spong ba dgag pa rigs lnga zhes pa la sogs pa&#x27;o || kun rtog thams cad nges grol zhing || zhes pa thog ma {85b7} dang bar dang tha ma dang stong pa&#x27;i chos rnams thams cad la thog ma la sogs par rtog pa dang bral lo || gnyis pa thams cad rnam par spangs ||
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch27_CA17:20"/>zhes pa phung po lnga dang de bzhin gshegs pa lnga po dag dbye bar mi bya&#x27;o || bla ma la mi gus pa dang smod pa spong ba | bla ma zhes {86a1} || pa la sogs pa ste thams cad ces pa la sogs pa bla ma&#x27;i khyad par ro || &#x27;di dag gis rtsa ba&#x27;i ltung ba yongs spangs shing ||
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch27_CA17:21"/>zhes pa dbang gi le&#x27;ur gsungs pa&#x27;i rtsa ba&#x27;i ltung ba bcu bzhi po rnams kyis ji tsam bstan pa dang | rgyud gzhan du gsungs pa {86a2} thams cad kyang shes par bya&#x27;o ||
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch27_CA17:22"/>tadyathā
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch27_CA17:23"/>sadgurūṇām avajñānaṃ sambuddhājñāvilaṅghanam |
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch27_CA17:24"/>ruṣā sadbhrātṛdoṣoktir mahāmaitrīvivarjitam ||
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch27_CA17:25"/>triyānānyatamākṣepo guhyākhyānam apācite |
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch27_CA17:26"/>buddhātmaskandha ? ? ca svabhāvaśuddhisaṃśayaḥ ||
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch27_CA17:27"/>duṣṭamaitryādimadhyāntaśūnye tu dvikalpanā |
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch27_CA17:28"/>% anne tattadvikalpanā vel tu tadvikalpanā
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch27_CA17:29"/>bodhicittaparityāgaḥ śrāddhacittavidūṣaṇam ||
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch27_CA17:30"/>yathāptasamayāsevā strīnindeti caturdaśaḥ |
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch27_CA17:31"/>āsām anyatarāpattau punaḥsekād viśuddhatā ||
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch27_CA17:32"/>[42r] mūlāpattiḥ |
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch27_CA17:33"/>&#x27;di lta ste | bla ma dam pa la brnyas shing || rdzogs sangs rgyas kyi bka&#x27; las &#x27;das || khros pas spun gyi nyes pa brjod || byams pa chen po rnam par spong || byang chub sems ni yongs spong dang || theg gsum gzhan la smod pa {86a3} dang; | ma smin pa la gsang ba sgrogs || sangs rgyas bdag nyid phung por smod || rang bzhin dag par som nyi dang ||
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch27_CA17:34"/>gdug la thog mtha&#x27; bar du byams || stong par de dang der rtog cing || dad dang ldan pa&#x27;i sems sun &#x27;byin || dam tshig ji bzhin rnyed mi brten || {86a4} bud med smod ces bcu bzhi&#x27;o || &#x27;di rnams gang rung ltung ba la || slar yang dbang bskur gyis dag bya || rtsa ba&#x27;i ltung ba&#x27;o ||
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch27_CA17:35"/>balāt prajñāgrahas tasyā bodhicittagrahas tathā |
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch27_CA17:36"/>guhyāguptir abhavyeṣu vivādo gaṇamaṇḍale ||
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch27_CA17:37"/>śrāddhe &#x27;nyathā dharmakathā saptāhaṃ śrāvakaiḥ sthitiḥ |
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch27_CA17:38"/>mithyaiva yogitāmāno aśrāddhe dharmadeśanā ||
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch27_CA17:39"/>ity aṣṭāpattayaḥ sthūlā deśanīyā vidhānataḥ |
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch27_CA17:40"/>āpanneneti vijñeyo mūlasthūlātyayakramaḥ ||
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch27_CA17:41"/>shes rab stobs kyis de bzung zhing || de bzhin byang chub sems kyang bzung || gsang ba skal med la mi sbed || tshogs kyi dkyil {86a5} &#x27;khor du rtsod cing || dad ldan las gzhan chos kyi gtam || nyan thos rnams kyi zhag bdun gnas || brdzun nyid rnal &#x27;byor pa nga rgyal || ma dad pa la chos ston pa || zhes pa spom po&#x27;i ltung ba brgyad ||
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch27_CA17:42"/>nyams par gyur na bshags bya ste || cho ga las ni shes {86a6} par bya; | rtsa ba sbom po&#x27;i ltung ba&#x27;i rim || zhes pa&#x27;o ||
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch27_CA17:43"/>iti saptaviṃśatitamapaṭalavyākhyā || [curl] ||
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch27_CA17:44"/>le&#x27;u nyi shu rtsa bdun pa&#x27;i rnam par bshad pa&#x27;o || ||
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Māratajjanīyasūtra (fragments)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Collection / category: BuddhistScriptures / K10 (Sūtra)
+Source: SuttaCentral
+Link: https://suttacentral.net/sf279/san/waldschmidt
+Edition: Ernst Waldschmidt, Bruchstücke buddhistischer Sūtras aus dem zentralasiatischen Sanskritkanon, Kleine Sanskrit-Texte 4, Leipzig 1932 (and related Turfan editions); SuttaCentral &#x27;Other Fragments&#x27; corpus.
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Ernst Waldschmidt, Bruchstücke buddhistischer Sūtras aus dem zentralasiatischen Sanskritkanon I, Kleinere Sanskrit-Texte IV, Leipzig: F. A. Brockhaus, 1932.</note>
+          <idno type="dharmanexus">SA_K10_sf279_sc</idno>
+          <ref target="https://dharmamitra.org/nexus/db/sa/SA_K10_sf279_sc/text">https://dharmamitra.org/nexus/db/sa/SA_K10_sf279_sc/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-13">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_K10_sf279_sc:0"/>Māratajjanīyasūtra
+<lb n="SA_K10_sf279_sc:1"/>WalA.1 śramaṇa anenāvavādenāvavaditā maitrāsahagatena cittena pūrvavad yāvad vyāhārṣuḥ yatraiṣāṁ dūṣī māraḥ avatāraprekṣī avatāragaveṣī na labhate
+<lb n="SA_K10_sf279_sc:2"/>avatāraṁ na labhate ālambanam /
+<lb n="SA_K10_sf279_sc:3"/>WalA.2 tena khalu samayena yaḥ kaścic chrāddho brāhamaṇagṛhapatiḥ kālaṁ karoti sa yadbhūyasā kāyasya bhedāt paraṁ maraṇād apāyadurgativivnipātaṁ
+<lb n="SA_K10_sf279_sc:4"/>narakeṣūpapadyate /
+<lb n="SA_K10_sf279_sc:5"/>WalA.3 atha dūṣino mārasyāvatāraprekṣino ’vatāragaveṣina etad abhavat / tathāhaṁ na labhe
+<lb n="SA_K10_sf279_sc:6"/>muṇḍakānāṁ śramaṇānāṁ avatāraṁ na labhe ālambanaṁ yannv ahaṁ śrāddhāṁ brāhmaṇagṛhapatīms
+<lb n="SA_K10_sf279_sc:7"/>tathā tathā anvāviśaṁ ye yathā śramaṇāṁ śīlavato guṇavato dṛṣṭvā satkurvaṁti gurukurvaṁti
+<lb n="SA_K10_sf279_sc:8"/>mānayaṁti pūjayaṁti / atra śramaṇānāṁ satkriyatām gurukriyatām pūjyatāṁ syāc cetasa
+<lb n="SA_K10_sf279_sc:9"/>anyathātvaṁ yathāhaṁ avatāraprekṣī avatāraragaveṣī labhe avatāraṁ labhe ālambanam /
+<lb n="SA_K10_sf279_sc:10"/>WalA.4 tena khalu samayena śraddhā brāhaṇagṛhapatayaḥ tathā tathā anvāviṣṭā yathā śramaṇāṁ śīlavato guṇavato dṛṣṭvā satkurvaṁti gurukurvaṁti
+<lb n="SA_K10_sf279_sc:11"/>mānayaṁti pūjayaṁti /
+<lb n="SA_K10_sf279_sc:12"/>WalA.5 apīdānīṁ śikṣodditā piṇḍapātā brāhmaṇagṛhapatibhiḥ prajñaptāḥ / evaṁ cāhuḥ / pratigṛhṇantv
+<lb n="SA_K10_sf279_sc:13"/>asmākaṁ śramaṇāḥ śīlavaṁto guṇavaṁtaḥ śikṣodditāṁ piṇḍapātāṁs tad asmākam bhaviṣyati
+<lb n="SA_K10_sf279_sc:14"/>dīrgharātram arthāya hitāya sukhāya /
+<lb n="SA_K10_sf279_sc:15"/>WalA.6 apīdānīṁ śramaṇānām ahatāni vastrāṇi navāni dīrghadaśāni rathyāmukheṣu prajñapya
+<lb n="SA_K10_sf279_sc:16"/>evam āhuḥ / ākramantv asmākaṁ śramaṇāḥ śīlavaṁto guṇavaṁtaḥ ahatāni vastrāṇi navāni
+<lb n="SA_K10_sf279_sc:17"/>dīrghadaśāni pādbhyāṁ tad asmākaṁ bhaviṣyati dīrgharātram arthāya hitāya sukhāya /
+<lb n="SA_K10_sf279_sc:18"/>WalA.7 apīdānīṁ śramaṇānām uttamāṅgaruhāṁ keśāṁ rathyāmukheṣu prajñapyaivam āhuḥ / ākramaṁtu
+<lb n="SA_K10_sf279_sc:19"/>guṇavaṁtaḥ uttamāṅgaruhān keśāṁ pādbhyāṁ tad asmākaṁ bhaviṣyati dīrgharātram arthāya hitāya sukhāya /
+<lb n="SA_K10_sf279_sc:20"/>WalA.8 apīdānīṁ śramaṇāṁ śīlavato gunavato dṛṣṭvā sarvāṅgair anupariṣvajya antargṛhe praviśya
+<lb n="SA_K10_sf279_sc:21"/>prajñapta evāsane niṣādayaṁti / evam cāhuḥ / nisīdantv asmākaṁ śramaṇāḥ śīlavaṁto
+<lb n="SA_K10_sf279_sc:22"/>guṇavaṁtaḥ prajñapta evāsane tad asmākaṁ bhaviṣyati dīrgharātram arthāya hitāya sukhāya /
+<lb n="SA_K10_sf279_sc:23"/>WalA.9 atha krakasundasya samyaksaṁbuddhasya śrāvakāḥ satkṛtā gurukṛtā mānitā pūjitā yena krakasundaḥ samyaksaṁbuddhas tenopajagmuḥ /
+<lb n="SA_K10_sf279_sc:24"/>WalB.1 śramaṇa krakasundena samyaksaṁbuddhena anenāvavādenāvavaditāḥ saṁskāreṣv anityānudarśino
+<lb n="SA_K10_sf279_sc:25"/>viharaṁti pūrvavad yāvat pratiniḥsargānudarśinaḥ / yatraiṣāṁ dūṣī māraḥ avatāraprekṣī
+<lb n="SA_K10_sf279_sc:26"/>avatāragaveṣī na labhate avatāraṁ na labhate ālambhanam /
+<lb n="SA_K10_sf279_sc:27"/>WalB.2 tena khalu samayena yaḥ kaścic chrāddho brāhamaṇagṛhapatiḥ kālaṁ karoti sa yadbhūyasā kāyasya bhedāt paraṁ maraṇāt sugatau svargaloke
+<lb n="SA_K10_sf279_sc:28"/>deveṣūpadyate /
+<lb n="SA_K10_sf279_sc:29"/>WalB.3 atha dūṣino mārasyāvatāraprekṣina etad abhavat / tathāpy ahaṁ tr … na labhe muṇḍakānāṁ
+<lb n="SA_K10_sf279_sc:30"/>śramaṇānāṁ evam anudarśinām avatāraṁ na labhe ālambanaṁ / yaṁnv ahaṁ kāyena āyuṣmantaṁ vidūram ākrameya /
+<lb n="SA_K10_sf279_sc:31"/>WalB.4 eko ’yaṁ samayaḥ krakasundastathāgato ’rhan samyaksaṁbuddhaḥ sālāyāṁ viharati brāhmaṇagrāmake āyuṣmatā vidūreṇa paścācchramaṇena /
+<lb n="SA_K10_sf279_sc:32"/>WalB.5 atha krakasundaḥ saṁyaksaṁbuddhas tasyā eva rātryā atyayāt pūrvāhṇe nivasya pātracīvaram ādāya brāhmaṇagrāmakaṁ piṇḍāya prāviśad āyuṣmatā
+<lb n="SA_K10_sf279_sc:33"/>vidūreṇa paścācchramaṇena /
+<lb n="SA_K10_sf279_sc:34"/>WalB.6 atha dūṣī māraḥ kumārarūpam anvāviśya śarkaram ādāya āyuṣmato vidūrasya śiro bhagnaṁ rudhiraṁ mukhe gālitam /
+<lb n="SA_K10_sf279_sc:35"/>WalB.7 tathāpy āyuṣmāṁ vidūraḥ śirasā bhagnena rudhireṇa mukhe galatā krakasundaṁ samyaksaṁbuddhaṁ pṛṣṭhataḥ pṛṣṭhataḥ samanubaddhaḥ /
+<lb n="SA_K10_sf279_sc:36"/>WalB.8 adrākṣīt pāpimaṁ krakasundaḥ samyaksaṁbuddho dakṣiṇena sarvakāyena nāgāvalokitena
+<lb n="SA_K10_sf279_sc:37"/>avalokayaṁn āyuṣmato vidūrasya śiro bhagnaṁ rudhiraṁ mukhe galat / dṛṣṭvā ca punar
+<lb n="SA_K10_sf279_sc:38"/>huntiṁ kṛtvā vivācayati / ayaṁ dūṣī māra ṛddhimān / ayam eva dūṣī māro mātrāṁ nājñāsīt /
+<lb n="SA_K10_sf279_sc:39"/>WalB.9 atra khalu pāpimaṁ yasya kasyacid ananvayāt tathāgatena hunti kṛtvā vivācitaṁ /
+<lb n="SA_K10_sf279_sc:40"/>WalB.10 atha sa dūṣī māras tasmāt sthānāt samantatareṇa avīcau mahānarake papitaḥ /
+<lb n="SA_K10_sf279_sc:41"/>WalB.11 tena khalu samayenāvīcer mahānarakasya catasraḥ saṁjñā āsaṁ avīcir avirala iti śataśaṅkur ity api pratyātmavedanīya ity api ṣaṭsparśāyatanīya
+<lb n="SA_K10_sf279_sc:42"/>ity api /
+    </body>
+  </text>
+</TEI>

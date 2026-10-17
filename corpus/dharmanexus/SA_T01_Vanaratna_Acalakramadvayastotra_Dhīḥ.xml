@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Acalakramadvayastotra</title>
+        <author>Vanaratna</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Author: Vanaratna
+Collection / category: BuddhistNon-Scriptures / T01
+Source: OCR / Dharmamitra
+Edition: Dhīḥ
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (not determined): Dhīḥ</note>
+          <idno type="dharmanexus">SA_T01_Vanaratna_Acalakramadvayastotra_Dhīḥ</idno>
+          <ref target="https://dharmamitra.org/nexus/db/sa/SA_T01_Vanaratna_Acalakramadvayastotra_Dhīḥ/text">https://dharmamitra.org/nexus/db/sa/SA_T01_Vanaratna_Acalakramadvayastotra_Dhīḥ/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-13">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_T01_Vanaratna_Acalakramadvayastotra_Dhīḥ:0"/>śrīmad ekallavīrāya sarvasattvopakāriṇe |
+<lb n="SA_T01_Vanaratna_Acalakramadvayastotra_Dhīḥ:1"/>namo vighnāntasaṃhārakāyatrayaikamūrttaye || 1 ||
+<lb n="SA_T01_Vanaratna_Acalakramadvayastotra_Dhīḥ:2"/>kareṇoddhṛtakhaḍgāya savyanopāyabhāvataḥ |
+<lb n="SA_T01_Vanaratna_Acalakramadvayastotra_Dhīḥ:3"/>vāme prajñāṅgabhāvāya tarjanīsaktapāśine || 2 ||
+<lb n="SA_T01_Vanaratna_Acalakramadvayastotra_Dhīḥ:4"/>saptapātālapālārtham adho vāmākṣadarśine |
+<lb n="SA_T01_Vanaratna_Acalakramadvayastotra_Dhīḥ:5"/>saptabrahmāṇḍapālatvān namaḥ savyordhvadarśine || 3 ||
+<lb n="SA_T01_Vanaratna_Acalakramadvayastotra_Dhīḥ:6"/>bhūmau tadrakṣaṇatvāc ca vinyastavāmajānave |
+<lb n="SA_T01_Vanaratna_Acalakramadvayastotra_Dhīḥ:7"/>māraprahāṇasaṃsthānasavyapādāya te namaḥ || 4 ||
+<lb n="SA_T01_Vanaratna_Acalakramadvayastotra_Dhīḥ:8"/>namas te &#x27;kṣobhyanāthāya tadaṅkaratnamauline |
+<lb n="SA_T01_Vanaratna_Acalakramadvayastotra_Dhīḥ:9"/>vicitrāmbarabhūṣāya samāpadvayavajriṇe || 5 ||
+<lb n="SA_T01_Vanaratna_Acalakramadvayastotra_Dhīḥ:10"/>vidhvastāmbhojajanmendradaityāriśūlapāṇaye |
+<lb n="SA_T01_Vanaratna_Acalakramadvayastotra_Dhīḥ:11"/>namaḥ śrīcaṇḍaroṣāya lakṣārkādhikaraśmaye || 6 ||
+<lb n="SA_T01_Vanaratna_Acalakramadvayastotra_Dhīḥ:12"/>śūnyatoktā&#x27;py akāreṇa cakāreṇa mahāsukham |
+<lb n="SA_T01_Vanaratna_Acalakramadvayastotra_Dhīḥ:13"/>lakāreṇānayor aikyaṃ tasmān namo &#x27;stu te &#x27;cala || 7 ||
+<lb n="SA_T01_Vanaratna_Acalakramadvayastotra_Dhīḥ:14"/>dviraṣṭakalasampūrṇa vilakṣakṣaṇasambhava |
+<lb n="SA_T01_Vanaratna_Acalakramadvayastotra_Dhīḥ:15"/>virāgeṇāpy acālatvāt tasmād api namo &#x27;stu te || 8 ||
+<lb n="SA_T01_Vanaratna_Acalakramadvayastotra_Dhīḥ:16"/>virāgaś caṇḍatādhyāto māraṇāt tasya roṣaṇam |
+<lb n="SA_T01_Vanaratna_Acalakramadvayastotra_Dhīḥ:17"/>saukhyarājodayas tasmāt namas te caṇḍaroṣaṇa || 9 ||
+<lb n="SA_T01_Vanaratna_Acalakramadvayastotra_Dhīḥ:18"/>astaṃ yasyodaye yānti viṣayāḥ sārdham indriyaiḥ |
+<lb n="SA_T01_Vanaratna_Acalakramadvayastotra_Dhīḥ:19"/>niṣpannānandarūpāya tat tubhyaṃ śirasā namaḥ || 10 ||
+<lb n="SA_T01_Vanaratna_Acalakramadvayastotra_Dhīḥ:20"/>sarvākāravaropetamahāmudrākṣarātmane |
+<lb n="SA_T01_Vanaratna_Acalakramadvayastotra_Dhīḥ:21"/>darpaṇapratisenāvadavabhāsāya te namaḥ || 11 ||
+<lb n="SA_T01_Vanaratna_Acalakramadvayastotra_Dhīḥ:22"/>stutvā tvām apy asaṃstutyaṃ durlakṣyaṃ ca nirañjanāt |
+<lb n="SA_T01_Vanaratna_Acalakramadvayastotra_Dhīḥ:23"/>prāptaṃ puṇyaṃ mayā yat tu bhūyāt tenācalo janaḥ || 12 ||
+<lb n="SA_T01_Vanaratna_Acalakramadvayastotra_Dhīḥ:24"/>ity acalasya kramadvayastotraṃ samāptam |
+<lb n="SA_T01_Vanaratna_Acalakramadvayastotra_Dhīḥ:25"/>kṛtir ācāryaśrīvanaratnapādānām iti |
+    </body>
+  </text>
+</TEI>

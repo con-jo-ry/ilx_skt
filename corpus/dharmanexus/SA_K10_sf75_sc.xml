@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Śaktisūtra (fragment)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Collection / category: BuddhistScriptures / K10 (Sūtra)
+Source: SuttaCentral
+Link: https://suttacentral.net/sf75/san/hoernle
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (not determined): not determined</note>
+          <idno type="dharmanexus">SA_K10_sf75_sc</idno>
+          <ref target="https://dharmamitra.org/nexus/db/sa/SA_K10_sf75_sc/text">https://dharmamitra.org/nexus/db/sa/SA_K10_sf75_sc/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-13">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_K10_sf75_sc:0"/>Śaktisūtra
+<lb n="SA_K10_sf75_sc:1"/>ye śramaṇā vā brāhmaṇā vā stoka stokaṁ muhūrta muhūrtaṁ sarva satva prāṇa bhūteṣu
+<lb n="SA_K10_sf75_sc:2"/>maitraṁ cittaṁ bhāvayeyuḥ … teṣāṁ sa cet kaścid upasaṁkramati vyāḍo vā yakṣo vā avatara
+<lb n="SA_K10_sf75_sc:3"/>prekṣī … raṁ na labhate ālaṁbanaṁ anyatra sa vyāḍo vā yakṣo vā amanuṣyo vā naivāsiko vā … syāt /
+<lb n="SA_K10_sf75_sc:4"/>tasmāt tarhi bhikṣava stoka stokaṁ muhūrta muhūrttaṁ pūrvavad yāvat godohana mātraṁ maitra-cittaṁ bhāvayitavyam //
+    </body>
+  </text>
+</TEI>

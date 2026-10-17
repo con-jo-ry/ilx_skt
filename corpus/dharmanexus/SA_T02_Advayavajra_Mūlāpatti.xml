@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mūlāpatti</title>
+        <author>Advayavajra</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Author: Advayavajra
+Collection / category: BuddhistNon-Scriptures / T02
+Source: OCR / Dharmamitra
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Collated edition based on Mikkyō-seiten-kenkyūkai (密教經典研究會), &#x27;Advayavajrasaṃgraha (1)&#x27;, Annual of the Institute for Comprehensive Studies of Buddhism, Taisho University (Taishō Daigaku Sōgō Bukkyō Kenkyūjo Nenpō) 10, 1988, pp. (42/193), and Haraprasad Shastri, Advayavajrasaṃgraha, Baroda: Oriental Institute (GOS), 1927, p. 13, with two Nepalese manuscripts: msT (Tokyo colour ms., fol. 12r-v) and msN (NGMPP B 22/24, fol. 8r-v).</note>
+          <idno type="dharmanexus">SA_T02_Advayavajra_Mūlāpatti</idno>
+          <ref target="https://dharmamitra.org/nexus/db/sa/SA_T02_Advayavajra_Mūlāpatti/text">https://dharmamitra.org/nexus/db/sa/SA_T02_Advayavajra_Mūlāpatti/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-13">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_T02_Advayavajra_Mūlāpatti:0"/>Advayavajra&#x27;s works
+<lb n="SA_T02_Advayavajra_Mūlāpatti:1"/>3. Mūlāpatti
+<lb n="SA_T02_Advayavajra_Mūlāpatti:2"/>edited by MM Hara Prasad Shastri {\S}
+<lb n="SA_T02_Advayavajra_Mūlāpatti:3"/>in Advayavajrasaṃgraha GOS 1927 Baroda
+<lb n="SA_T02_Advayavajra_Mūlāpatti:4"/>edited by Mikkyou-seiten-kenkyūkai {\M} 1.
+<lb n="SA_T02_Advayavajra_Mūlāpatti:5"/>in Taisho Daigaku Sougou Bukkyou Kenkyūjo Nenpou 10
+<lb n="SA_T02_Advayavajra_Mūlāpatti:6"/>Annual of The Institute for Comprehensive Studies of Buddhism
+<lb n="SA_T02_Advayavajra_Mūlāpatti:7"/>Taisho University 10, 1988, pp.(42/193)
+<lb n="SA_T02_Advayavajra_Mūlāpatti:8"/>^\S p.13.
+<lb n="SA_T02_Advayavajra_Mūlāpatti:9"/>^\M 42/193
+<lb n="SA_T02_Advayavajra_Mūlāpatti:10"/>% \msT (Tōkyō colour ms.) [12\recto3&#x27;]
+<lb n="SA_T02_Advayavajra_Mūlāpatti:11"/>% \msN (NGMPP B 22/24) [8\recto3&#x27;]
+<lb n="SA_T02_Advayavajra_Mūlāpatti:12"/>apratiṣṭhitanirvāṇaṃ jagadānandasundaram |
+<lb n="SA_T02_Advayavajra_Mūlāpatti:13"/>natvā mañjuśriyaṃ vakṣye mūlāpattīś caturdaśa || 1 ||
+<lb n="SA_T02_Advayavajra_Mūlāpatti:14"/>% vakṣye \M] vakṣāt \S, vakṣe \msN
+<lb n="SA_T02_Advayavajra_Mūlāpatti:15"/>ācāryeṣv avamānena sugatājñāvilaṅghane |
+<lb n="SA_T02_Advayavajra_Mūlāpatti:16"/>dveṣād gotraguṇākhyāne mahāmaitrīvivarjane || 2 ||
+<lb n="SA_T02_Advayavajra_Mūlāpatti:17"/>% IEB 323 ``the message of the Tathāgata&#x27;&#x27;
+<lb n="SA_T02_Advayavajra_Mūlāpatti:18"/>% dveṣād] \M\msN, dviṣṭa \S, gātra- \msT
+<lb n="SA_T02_Advayavajra_Mūlāpatti:19"/>% bhrātraguṇākhyāne \msN (IEB: gotragaṇa) [?] p. 323: ``anger at members of the feast family&#x27;&#x27;
+<lb n="SA_T02_Advayavajra_Mūlāpatti:20"/>bodhicittaparityāge yānatritayanindane |
+<lb n="SA_T02_Advayavajra_Mūlāpatti:21"/>guhyākhyāne jane pakṣe jinātmaskandhadūṣaṇe || 3 ||
+<lb n="SA_T02_Advayavajra_Mūlāpatti:22"/>% jane &#x27;pakṣe \msT, \&amp; (IEB 323) ``revealing secrets to unprepared people&#x27;&#x27;, jane| pakṣe \msN
+<lb n="SA_T02_Advayavajra_Mūlāpatti:23"/>% ibid. ``Disparaging the Victor&#x27;s body of instruction.&#x27;&#x27;
+<lb n="SA_T02_Advayavajra_Mūlāpatti:24"/>% ˚dūṣane \msT\msN
+<lb n="SA_T02_Advayavajra_Mūlāpatti:25"/>śuddhātmadharmasandehe duṣṭamaitrīvirāgataḥ |
+<lb n="SA_T02_Advayavajra_Mūlāpatti:26"/>dharmeṣv anadvayārope śrāddhacittapradūṣaṇe || 4 ||
+<lb n="SA_T02_Advayavajra_Mūlāpatti:27"/>% duṣṭa \M\msN (also \msT \&amp; IEB)] iṣṭa \S
+<lb n="SA_T02_Advayavajra_Mūlāpatti:28"/>% ˚maitryacirāgataḥ \msT
+<lb n="SA_T02_Advayavajra_Mūlāpatti:29"/>% śrārddha[\msT 12\verso]
+<lb n="SA_T02_Advayavajra_Mūlāpatti:30"/>samayāsevane &#x27;prāptau prajñātmastrīpradūṣaṇe |
+<lb n="SA_T02_Advayavajra_Mūlāpatti:31"/>mūlāpattir bhavet tena mantriṇaḥ samayakṣatiḥ || 5 ||
+<lb n="SA_T02_Advayavajra_Mūlāpatti:32"/>% āsevane \M] āśevane \S\msT\msN
+<lb n="SA_T02_Advayavajra_Mūlāpatti:33"/>% &#x27;prāptau \M] prāptau \S\msT (or prāpto?) \msN (IEB 323: ``Not relying on the sacraments and vows.&#x27;&#x27; ``Disparaging insight-filled women.&#x27;&#x27;)
+<lb n="SA_T02_Advayavajra_Mūlāpatti:34"/>% mūlāpatti[\msN8\verso]
+<lb n="SA_T02_Advayavajra_Mūlāpatti:35"/>% kṣatiḥ \M\msN] kṛtiḥ \S
+<lb n="SA_T02_Advayavajra_Mūlāpatti:36"/>tatkṛtau siddhayo na syur māro duḥkhasya sañcayaḥ |
+<lb n="SA_T02_Advayavajra_Mūlāpatti:37"/>nirayagatiṃ ca bhuṅkte &#x27;sau tīvrāṃ vividhavedanām || 6 ||
+<lb n="SA_T02_Advayavajra_Mūlāpatti:38"/>% syuḥ \msN
+<lb n="SA_T02_Advayavajra_Mūlāpatti:39"/>% nirayagatīñ ca \msT, tirayagatīñ ca \msN
+<lb n="SA_T02_Advayavajra_Mūlāpatti:40"/>% sau \msN
+<lb n="SA_T02_Advayavajra_Mūlāpatti:41"/>% tīvrāṃ ... vedanām \M] tīvrā vedanāḥ \S, tīvrā vividhavedanāḥ \msN
+<lb n="SA_T02_Advayavajra_Mūlāpatti:42"/>guror yathāptitaḥ pūjāṃ vidhāya maṇḍale tataḥ |
+<lb n="SA_T02_Advayavajra_Mūlāpatti:43"/>% yathā&#x27;ptitaḥ \msT\msN
+<lb n="SA_T02_Advayavajra_Mūlāpatti:44"/>gṛhṇīyād bodhicittaṃ ca ratnatrayādisaṃvaram || 7 ||
+<lb n="SA_T02_Advayavajra_Mūlāpatti:45"/>mūlāpattayaḥ samāptāḥ ||      ||
+<lb n="SA_T02_Advayavajra_Mūlāpatti:46"/>% samāptaḥ ||   || [\msT12\verso3] [\msN8\verso2&#x27;]
+<lb n="SA_T02_Advayavajra_Mūlāpatti:47"/>% Davidson IEB p. 414: A corrupt version of the Sanskrit of this list is found in the \textit{Mūlāpattayaḥ Sthūlāpattayaḥ} in the \textit{Advayavajrasaṃgraha}, Shastri 1927, p. 13; among the many problems in the text, gotraguṇa (l. 5) should read gotragaṇa, jane pakṣe (l. 7) should be jane &#x27;pakṣe, and iṣṭa- (l. 8) should be duṣṭa.
+<lb n="SA_T02_Advayavajra_Mūlāpatti:48"/>I have relied of [!] the various short texts covering these twenty-two, collectively To. 2478--2488, especially the \textit{Vajrayānamūlāpattiṭīkā--mārgapradīpa}, To. 2488, of Mañjuśrīkīrti.
+    </body>
+  </text>
+</TEI>

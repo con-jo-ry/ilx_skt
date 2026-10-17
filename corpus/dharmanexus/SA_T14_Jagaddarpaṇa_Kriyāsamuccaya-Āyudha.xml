@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kriyāsamuccaya (Āyudhalakṣaṇavidhi)</title>
+        <author>Jagaddarpaṇa</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Author: Jagaddarpaṇa
+Collection / category: BuddhistNon-Scriptures / T14
+Source: OCR / Dharmamitra
+Edition / witness: Kaiser Library 110
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Unpublished critical transcription and Tibetan collation, based on Kaiser Library (Kathmandu) MS 110, Kyoto University MS 7, and Degé Tanjur Toh 3305, fols. 238a4–239a5.</note>
+          <idno type="dharmanexus">SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āyudha</idno>
+          <ref target="https://dharmamitra.org/nexus/db/sa/SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āyudha/text">https://dharmamitra.org/nexus/db/sa/SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āyudha/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-13">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āyudha:0"/>ḍamarukaṃ tu caturasre mukhapramāṇakṣetre dvādaśabhāgike brahmasūtradvayaṃ dattvā brahmaṇi sūtraṃ dhṛtvā nābhau bhrāmite savyetarakoṇaṃ yāvat | bāhyabrahmakoṇasūtrāntarlopāt ḍamarukaṃ bhavati ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āyudha:1"/>% Da ma ru la ni kha&#x27;i tshad gru bzhi ba&#x27;i sa la cha bcu gnyis te tshangs thig gnyis btab nas tshangs pa&#x27;i thig {238a4} nas bzung ste lte ba nas g-yas dang g-yon gyi zur ji srid par bskor zhing tshangs pa dang zur gyi thig gi mtha&#x27; rnams phyis pa las Da ma rur &#x27;gyur ro ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āyudha:2"/>muṣṭigrāhocitastho &#x27;lpakarṇaparyantāya ca daṇḍaṃ mukhapramāṇā caturasrakṣetre pūrvavat triśūcikavajraikadeśavartanāt upari triśūlaṃ bhavati ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āyudha:3"/>% changs pas gzung bar rang pa&#x27;i sbom pa dang rna ba&#x27;i mthar thug par ring ba ni yu ba ste gdong gi tshad kyi grub zhi&#x27;i sa la snga ma bzhin du rtse {238a5} mo gsum pa&#x27;i rdo rje yul re rer steng du brkyang ba las rtse mo gsum du &#x27;gyur ro ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āyudha:4"/>% cf. [Kyoto 7, f. 46\verso7-47\recto2]
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āyudha:5"/>tataḥ khaṭvāṅgaṃ samayavajravad vajravirājitamastakam | tasyādhaḥ śuṣkamuṇḍatrayaśobhitaṃ viśvavajrāṅkitamadhyam ekaśūkakuliśaikadeśamūlam ity ekam |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āyudha:6"/>% de nas kha Tv&#x27;aM ga ni dam tshig gi rdo rje lta bu&#x27;i rdo rjes rtse mor rnam par mdzes pa ste de&#x27;i &#x27;og tu mi mog skam po gsum gyis mdzes shing sna tshogs rdo rje dbus su brgyan pa | rtse mo gcig pa&#x27;i rdo rje gcig {238a6} ni rtsa ba&#x27;i gnas su&#x27;o zhes kha cig go ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āyudha:7"/>daṇḍordhvaṃ śuṣkamukha[?]muṇḍadvayam | tacchirasi viśvavajraṃ tannābhau [\C302\recto] kalaśavṛtapallavādyalaṃkṛtamukham | mukhopari samayakuliśaṃ pralambitapañcapaṭākam iti dvitīyam ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āyudha:8"/>%dbyug pa&#x27;i steng du skam po dang rlon pa&#x27;i mi mgo gnyis dang de&#x27;i spyi bor sna tshogs rdo rje dang | de&#x27;i lte bar bum pa zlum po &#x27;dab ma la sogs pas kha brgyan pa dang | kha&#x27;i steng du dam tshig gi rdo rje ba dang ltar rab tu &#x27;phyang ba&#x27;o zhes pa ni gnyis {238a7} ba&#x27;o ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āyudha:9"/>ubhayor daṇḍam ūrdhvena sthūlam adhaḥ sūkṣmam | kṣudraghaṇṭikādimaṇḍitamuṇḍādikaṃ yathāśobhaṃ karaṇīyam iti ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āyudha:10"/>%gnyis ka yang yu ba&#x27;i steng sbom zhing dbus nas phra ba ste dril chung la sogs pas brgyan pa&#x27;o || mgo bo la sogs pa rnams ji ltar mdzes par bya&#x27;o zhes |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āyudha:11"/>caturasre tālapramāṇe dvādaśabhāgike kṣetre muṣṭir bhāgacatuṣkeṇa madhyaṃ tathā bhāgacatuṣkanāmitaṃ śūlākāram |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āyudha:12"/>%mtho&#x27;i tshad gru bzhi pa cha bcu gnyis kyis la chang gzungs cha bzhi ni dbus su&#x27;o || de bzhin du cha bzhi ni &#x27;khyog {238b1} pa ste rtse mo&#x27;i rnam pa&#x27;o ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āyudha:13"/>aṣṭamabhāgakoṇān navabhāgakoṇaṃ yāvan nāmite kartrī | muṣṭyupary ardhavajrāṅkā ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āyudha:14"/>%cha brgyad kyi zur nas cha dgu&#x27;i zur ji srid par &#x27;khyog pa ni gri gug ste chang gzugs kyi steng du rdo rje phyed pas brgyan pa&#x27;o ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āyudha:15"/>% [Kyoto 7, f. 47\recto2-5; Kaiser 110 right no. 402r3-v1, left no. 320]
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āyudha:16"/>kapālaṃ tu |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āyudha:17"/>%thod pa ni |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āyudha:18"/>kanakadvārasaṃyuktaṃ vijñeyaṃ naramastakam |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āyudha:19"/>brāhmaṇādikaraṅkaṃ tu ekaikaṃ śrotravardhitam |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āyudha:20"/>%gser gyi sgo dang yang dag ldan || rnam par shes bya mi yi mgo |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āyudha:21"/>%| bram ze la sogs las byas pa || re re&#x27;i thod pa &#x27;phel ba&#x27;o |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āyudha:22"/>hīnavarṇakapālaṃ syāt śravaṇopari cchidrakam |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āyudha:23"/>pṛṣṭhacchidraṃ tu ṣaṇḍānāṃ strīṇāṃ nirvraṇaṃ sadā |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āyudha:24"/>%| {238b2} kha dog dman gyur thod pa dang || rna ba&#x27;i steng du bug pa dang |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āyudha:25"/>%| rgyab tu bug pa dum bu can || bud med rnams kyi rtag tu yang |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āyudha:26"/>viduṣāṃ jñānināṃ jñeyaṃ mastakaṃ mantriṇāṃ tathā |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āyudha:27"/>muktāmālevā rekhā syāt lalāṭe karṇaśaṅkhayoḥ |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āyudha:28"/>%| mkhas pas rnam shes dang ldan pa&#x27;i || sngags pas de bzhin mgo zhes bya |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āyudha:29"/>%| dpral ba rna ba&#x27;i dung dag la | mu tig phreng &#x27;dra&#x27;i ri mor gyur |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āyudha:30"/>ekadvitricatuḥkhaṇḍaṃ ṣoḍaśadvādaśaḥ śaśī |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āyudha:31"/>gomukhaṃ sitaraktaṃ syāt kiṃciddīrghaṃ tu śobhanam |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āyudha:32"/>% kiṃciddī[\C302\verso]rghaṃ
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āyudha:33"/>%| gcig gnyis {238b3} gsum bzhi&#x27;i dum bu dang | bcu drug bcu gnyis ri bong can |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āyudha:34"/>%| ba lang gdong dang dkar dmar gyur || cung zad ring zhing mdzes pa dang |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āyudha:35"/>padmaṃ padmasamākāraṃ pītaraktasitaṃ tathā |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āyudha:36"/>praśastāni kapālāni śiṣṭāni tu vivarjayed iti ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āyudha:37"/>% tathā | praśastāni kapā- traced again in \kaiser
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āyudha:38"/>%| padma&#x27;am padma &#x27;dra ba&#x27;i dbyibs || ser dmar dkar po de lta bu&#x27;i |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āyudha:39"/>%| thod pa rab tu bstan pa ste || lhag ma rnams ni rab tu spang || zhes so ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āyudha:40"/>svāyataṃ kuṇḍalīkṛtaṃ dvyaṅgulasthūlam ubhayānte vajrāṅkitaṃ pāśam ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āyudha:41"/>% rang gi {238b4} &#x27;dod pas &#x27;khyil pa byas te sor gnyis su sbom pa mtha&#x27; gnyis la rdo rjes brgyan pa ni zhags pa&#x27;o ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āyudha:42"/>galadrudhiragalakaṃ caturmukhaṃ brahmamuṇḍam ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āyudha:43"/>% mgrin pa gnas khrag &#x27;dzag pa&#x27;i gdong bzhi pa ni tshang pa&#x27;i mgo bo&#x27;o ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āyudha:44"/>paraśur mukhapramāṇamukhaṃ ca | dvihastadaṇḍo veṣṭanena ṣaḍaṅgulaḥ upari vajrāṅkitaḥ ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āyudha:45"/>%dgra sta&#x27;i kha ni zhal gyi tshad de yu ba ni khu do pa mtha&#x27; skor du sor drug pa ste steng du rdo rjes brgyan pa&#x27;o |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āyudha:46"/>tadvad aṅkuśaṃ vitastikuśināmitam ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āyudha:47"/>% de dang {238b5} &#x27;dra pa la lcags kyu ni mtho gang pa&#x27;i rtse mo gug pa&#x27;o ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āyudha:48"/>karṇaparyantagajacarmadhāraṇam ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āyudha:49"/>% glang po che&#x27;i pags ba ni rna ba&#x27;i bar du &#x27;dzin pa&#x27;o ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āyudha:50"/>mudgaro viśvavajravat kiṃ tv ekadeśaikaśūkair vartuladaṇḍānvitam ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āyudha:51"/>% tho ba ni sna tshogs dang &#x27;dra ste &#x27;og kyang phyogs gcig gi rtse mo rnams gcig pa zlum po&#x27;i yu ba can no ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āyudha:52"/>daśatālasya dhanuṣaś caturaṅgulavistṛtasya ṣoḍaśāṅgulasukā(?)khāṭanena vajrasya madhyāṣṭāṅgulāyātanavāṅgulaveṣṭanena vṛttasya | korakarṇikāśaṅkhādilakṣaṇānvitasya |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āyudha:53"/>% gzhu ni mtho bcu pa ste zheng la sor bzhi pa chang gzungs kyi cha ring par {238b6} sor bcu drug pa &#x27;khyog po&#x27;i dbus la sor brgyad pa mtha&#x27; skor gyi zlum la sor dgu pa | mchog ma rnam par rgyas shing rgyud pa&#x27;i mtshan nyid dang ldan pa&#x27;o ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āyudha:54"/>khallīkṛtāṃsakapṛṣṭhavāmabāhumuṣṭinā madhyagṛhītasya |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āyudha:55"/>% phrag pa brtan par byas nas dbung pa g-yon pa brkyang ba&#x27;i khu tshur gyis dbus nas bzung ste |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āyudha:56"/>dakṣiṇacakṣuḥśarapathālokanatayā vaśye siṃhakarṇikapāredhe (?) vajramuṣṭinā dvihastasāyakanāśārusvanena (?) karṇāntāyatā[\C303\recto]karṣaṇasya kiṃcidbhramitakarpareṇa tiryagdhāraṇam ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āyudha:57"/>% g-yas pa&#x27;i mig mda&#x27; ji lta ba {238b7} bzhin du blta ba&#x27;i dbang gis mde&#x27;u&#x27;i bar du rdo rje khu tshur gyis khru do ba&#x27;i mda&#x27; sna dang mchu&#x27;i thad nas rna ba&#x27;i bar ji srid par &#x27;then nas cung zad g-yo ba dang bcas pas yongs su &#x27;dzin pa&#x27;o ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āyudha:58"/>ṣaṭtriṃśadaṅgulāyataṃ caturaṅgulavistīrṇapattraṃ caturaṅguladīrghasaṃdaṃśikāmadhyasthitam | catuścaturaṅgulaniḥsṛtapārśvayor nāgaphaṇākāraśobhitam | tanmadhyacipiṭam aṅgulavistāram | caturaṅgulaśobhāyamānāntardaṇḍikānvitam | karmānurūpato &#x27;ṣṭāṅgulapramāṇikāṅguladalacaturasracchattrārdhacandrākārapālikānvitam |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āyudha:59"/>dvyaṅgulagañjāvirājamānaṃ kārayet khaḍgam ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āyudha:60"/>% ring par sor sum cu sor drug pa &#x27;khrul &#x27;khor gyi zheng la sor bzhi pa sor bzhir ring ba&#x27;i skam {239a1} || pas dbus nas bzung ba | sor bzhi bzhi ngos su gyes pa || klu&#x27;i gdengs ka&#x27;i rnam pas mdzes pa de dag gi dbus su ko sko lta bu sor gang du rnam pa rgyas pa | dbang sa kyi mthar sor bzhi ba&#x27;i yu ba mdzes pa dang ldan pa |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āyudha:61"/>las dang rjes su mthun {239a2} par sor brgyad pa&#x27;i tshad la sor gcig pa&#x27;i &#x27;dab ma can gru bzhi dang gdugs dang zla ba phyed pa&#x27;i rnam pa can gyi sgo skyong byed dang ldan pa | sor gnyis pa&#x27;i snying pos rnam par mdzes par byas pa ni ral gri&#x27;o ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āyudha:62"/>cakraṃ bhāgaikena nābhivṛttaṃ tadbahir ardhabhāgena garbhanemivṛttaṃ punas tadbahiḥ sapādabhāgaikenārāvṛttaṃ tadbāhye cārdhabhāgena nemivṛttam iti caturārādisarvacakrāṇāṃ mānam ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āyudha:63"/>% &#x27;khor lo la ni cha gcig gis lte ba zlum bo dang de&#x27;i phyi rol du cha phyed gyis {239a3} snying po&#x27;i mu khyud zlum po dang | slar yang de&#x27;i phyi rol du rkang pa dang bcas pa&#x27;i cha gcig gis rtsibs kyi zlum po dang |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āyudha:64"/>de&#x27;i phyi rol du yang cha phyed kyis snying po&#x27;i mu khyud zlum po dang zhes pa ste rtsibs bzhi pa la sogs pa &#x27;khor lo thams cad kyi tshad do ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āyudha:65"/>śṛṅkhalikāgranibaddhaṃ kaṇayaṃ lauhabilvakaṃ |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āyudha:66"/>śarapakṣayutā sastrībhindipālaṃ mukhapramā ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āyudha:67"/>% lcags sgrog gis rtse mor {239a4} bcings pa&#x27;i lcags kyi bil ba can ni ka Na ya&#x27;o || mda&#x27; lta bu sgro gsum dang ldan zhing gdong gi tshad can ni &#x27;phang mdud ngo ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āyudha:68"/>tadvat pakṣayutaṃ dīrghaṃ khaḍgākāraṃ ca tomaram |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āyudha:69"/>kuntasellādimānaṃ ca prasiddhatvān na likhyate ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āyudha:70"/>% de dang &#x27;dra ba la sgro dang ldan zhing ring ba kha Tv&#x27;aM ga&#x27;i rnam pa can ni mda&#x27; bo che&#x27;o || mdung dang rdo rje la sogs pa rnams kyi tshad ni rab tu grags pa nyid kyi phyir ma bris so ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āyudha:71"/>sarvaśastrāṇāṃ dhāraṇaṃ karṇād ūrdhvam aśastam
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āyudha:72"/>% {239a5} mtshon cha thams cad &#x27;dzin pa na rna ba&#x27;i steng du bstan to
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āyudha:73"/>ity āyudhalakṣaṇavidhiḥ ||   ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Āyudha:74"/>% zhes pa mtshon cha&#x27;i mtshan nyid kyi cho ga&#x27;o || ||
+    </body>
+  </text>
+</TEI>

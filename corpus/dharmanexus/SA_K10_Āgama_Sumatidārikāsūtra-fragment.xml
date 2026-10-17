@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sumatidārikāsūtra (fragment)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Collection / category: BuddhistScriptures / K10
+Source: OCR / Dharmamitra
+Edition / witness: Cambridge University Library MS Or.131.1
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Cambridge University Library MS Or.131.1</note>
+          <idno type="dharmanexus">SA_K10_Āgama_Sumatidārikāsūtra-fragment</idno>
+          <ref target="https://dharmamitra.org/nexus/db/sa/SA_K10_Āgama_Sumatidārikāsūtra-fragment/text">https://dharmamitra.org/nexus/db/sa/SA_K10_Āgama_Sumatidārikāsūtra-fragment/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-13">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_K10_Āgama_Sumatidārikāsūtra-fragment:0"/>[incipit frag. CUL Or. 131.1 fol. 2]-tā | te ca &lt;sarve&gt; (perhaps deleted) bhagavatā vyākṛtā |
+<lb n="SA_K10_Āgama_Sumatidārikāsūtra-fragment:1"/>evam eva mañjuśrīr bhikṣavo daśabhiḥ kalpair vimalaprabhāṣe kalpe duṣprasahasya tathāgatasya buddhakṣetre ekānu [+ + +] myaksambodhim abhisambotsyante |
+<lb n="SA_K10_Āgama_Sumatidārikāsūtra-fragment:2"/>praṇidhānālaṃkāravyūharājanāmānas tathāgatā ekanāmadheyā bhaviṣyanti |
+<lb n="SA_K10_Āgama_Sumatidārikāsūtra-fragment:3"/>evam ma [+ + +] ñjuśrīr bodhisattvānām asya dharmaparyāyasya śravaḥ | yaś ca mañjuśrīḥ kalpasahasraṃ ṣaṭsu pāramitāsu careta upāyakauśalavi [+ + +] ś cemaṃ dharmaparyāyaṃ likhitvā&#x27;bhiśraddhadhāno &#x27;rdhamāsasyātyayena ekām api vārāṃ vācayet | sa pūrvakapuṇyaskandho &#x27;sya śatatamī [+ + +] nopaiti |
+<lb n="SA_K10_Āgama_Sumatidārikāsūtra-fragment:4"/>sahasratamīm api śatasahasratamīm api saṃkhyām api kalām api upamām api upaniśām api yāvad aupamyam api na kṣamaḥ [|]
+<lb n="SA_K10_Āgama_Sumatidārikāsūtra-fragment:5"/>tasmāt tarhi mañjuśrīḥ parindāmite imaṃ dharmaparyāyaṃ | imāni caivaṃrūpāṇi mama bodhisattvā dhārayantu paścātkāle cāyaṃ dharmaparyāyo dhā [+ +] tavyo deśayitavyaḥ |
+<lb n="SA_K10_Āgama_Sumatidārikāsūtra-fragment:6"/>tadyathāpi nāma mañjuśrī rājā cakravartī yāvat tiṣṭhati | tāvat saptaratnāni nānatardhīyante | kālagataś ca rājā cakravartī bhavati | antardhīyante [+ + +] pta ratnāni |
+<lb n="SA_K10_Āgama_Sumatidārikāsūtra-fragment:7"/>evam eva mañjuśrī yāvad idam evaṃrūpāḥ sūtrāntā loke pracariṣyanti tāvat tathāgatasya saptatriṃśadbodhipakṣā dharmā nāntardhās[+ + +] antarhiteṣu caivaṃvidheṣu sūtrānteṣu buddhadharmasyāntardhānaṃ bhaviṣyati |
+<lb n="SA_K10_Āgama_Sumatidārikāsūtra-fragment:8"/>tasmāt tarhi mañjuśrī imāny evaṃrūpāṇi sūtrāntaratnāni | u+i + kha dhāraya vācaya deśaya | nāsucārabdha(?) vīryair bhavitavyaṃ bodhisattvair mahāsattvai iyam asmākam anuśāsanām | mā paścād vipratisāri [+ + +] ṣyatheti ||
+<lb n="SA_K10_Āgama_Sumatidārikāsūtra-fragment:9"/>idam avocad bhagavān āttamanā sumatir bodhisattvo mañjuśrīś ca kumārabhūtas te ca bodhisattvās te ca bhikṣavaḥ sā ca sarv[+ + +] sadevamānuṣyāsuragandharvaś ca loko bhagavato bhāṣitam abhyanandann iti ||
+<lb n="SA_K10_Āgama_Sumatidārikāsūtra-fragment:10"/>sumati{r}dārikānāmamahāyānasūtraṃ samāptam || o || śubham astu [+ + +]
+    </body>
+  </text>
+</TEI>

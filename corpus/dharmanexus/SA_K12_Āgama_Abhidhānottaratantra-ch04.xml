@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Abhidhānottaratantra (chapter 4)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Collection / category: BuddhistScriptures / K12
+Source: OCR / Dharmamitra
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Unpublished working transcription/edition, collated from an unidentified palm-leaf manuscript and Lokesh Chandra&#x27;s facsimile reproduction of Raghu Vira&#x27;s manuscript.</note>
+          <idno type="dharmanexus">SA_K12_Āgama_Abhidhānottaratantra-ch04</idno>
+          <ref target="https://dharmamitra.org/nexus/db/sa/SA_K12_Āgama_Abhidhānottaratantra-ch04/text">https://dharmamitra.org/nexus/db/sa/SA_K12_Āgama_Abhidhānottaratantra-ch04/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-13">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:0"/>Abhidhānottara 4.
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:1"/>= palm leaf ms.
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:2"/>= Raghu Vīra&#x27;s ms. reproduction by Lokesh Chandra
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:3"/>[19.1] atha bhagavān vajra[2]ḍākatattvarahasyam udājahāra||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:4"/>athātaḥ saṃpravakṣyāmi abhidhānottarottaram |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:5"/>sādhakānāṃ hitārthāya spaṣṭaṃ ca guruparvakam [||]
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:6"/>bāhyavika[3]lparahitaṃ samatāsamayottamam |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:7"/>nirviśaṅkaṃ nirācāra sarvasaṃtrāsavarjitam ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:8"/>na tithi na ca nakṣatraṃ nopavāso vidhīyate |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:9"/>śucināpy aśuci[4]r vā na śaucaṃ nodakakriyā ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:10"/>kālavelāvinirmukto śaucācāravivarjanam |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:11"/>svatantramantraprayogajña sarvasattvārthatatparaḥ ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:12"/>girigahvarakuñje[5]ṣu nadītīreṣu saṃgame [|]
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:13"/>mahodadhitaṭe ramye || ekavṛkṣe śivālaye [||]
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:14"/>mātṛgṛhe śmaśāne vā | udyāne vividhottame |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:15"/>vihāre caityālaye layane gṛhe vātha [6] catu(*12v)ṣpathe ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:16"/>sādhayet sādhako yogaṃ sarvakāmaphalapradam |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:17"/>sthānam uddeśitaṃ kṛtvā ramate yatra vā manaḥ |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:18"/>tatra sādhanasaṃsiddhiḥ saṃvaraṃ vividhaṃ ma[7]tam ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:19"/>vineyāśayayogena bahubhedena bhāvanā |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:20"/>bhūmer ālepanaṃ kuryāt pañcajñānāmṛtena ca ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:21"/>kṣāntipāramitāpuṣpaprakaraṃ dātavya yatnataḥ | [20]
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:22"/>viśvamudrāsane ramye vistareṣu samāhitaḥ |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:23"/>dhyānapāramitālambya ekāgreṇa tu cetasā [||]
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:24"/>caturbrahmavihāreṇa catuḥsaṃgrahaṇaṃ kuru [|]
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:25"/>kuśalair daśabhi[2]r ālambya sarvasattvahitodayam ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:26"/>bāhyādhyātmikaṃ paśyeta sarvadharmaśūnyatām [|]
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:27"/>cittamātraṃ tu vai tiṣṭhed bodhisambhāram uttamam ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:28"/>hṛdakhadhātvabjamadhyasthāṃ [3] bhāvayec candramaṇḍalam [|]
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:29"/>taṃ dṛṣṭvā paramaṃ tattvaṃ pañcajñānamayaṃ śivam ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:30"/>nānāraśmimayaṃ divyaṃ visphurantaṃ samantataḥ |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:31"/>pūrvasiddhāś ca saṃcodya adhiṣṭhānaṃ ca [4] kārayet ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:32"/>khadhātubhavane ramye dṛṣṭvā maṇḍalam uttamam |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:33"/>tilabimbopamaṃ dṛ(*13r)ṣṭvā krodhadevī samantataḥ ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:34"/>buddhāś ca bodhisattvāś ca bodhicittaṃ guruṃ prabhum | [5]
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:35"/>dṛṣṭvā tu navadhā devī pūjayet pūjanātmakam ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:36"/>sphared buddhaughanirmāṇaṃ krodharājāṃs tu yoginī [|]
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:37"/>ṣaḍgateḥ sarvasattvāś ca buddhatve sthāpayec chatāṃ ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:38"/>dṛṣṭvā [6] praviṣṭās tatraiva khadhātvākhyeṣu madhyataḥ |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:39"/>sarve triśaraṇaṃ gacched yāvad ā bodhimaṇḍataḥ ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:40"/>tatra bodhipade sthāpyāḥ sarvasattvā bhavanti ca |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:41"/>adhyeṣya [7] sādhakāṃ tatra śaraṇaṃ gaccheyu nityaśaḥ ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:42"/>pañcaskandhādyahaṃkāracittam utpādayec chubham |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:43"/>rūpaṃ vedanā saṃjñā saṃskāravijñānam eva ca [||]
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:44"/>bhrūṃ āḥ hrīḥ hoḥ hūṃ iti |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:45"/>vairocanaṃ vajrasūryaṃ padmanarteśvaraṃ tathā |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:46"/>vajrarāja iti khyātaṃ vajrasattvas tathāparaḥ |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:47"/>sarvatathāgatatve śrīherukavajraḥ hrīḥ ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:48"/>cakṣuḥ śrotraṃ ca [2] ghrāṇaṃ ca vaktra sparśaṃ ca manas tathā |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:49"/>oṃ hūṃ trāṃ āḥ khaṃ haṃ|
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:50"/>moha dveṣas tathā īrṣyā rāga mātsaryam eva ca [|]
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:51"/>sarvāyataneṣv aiśvaryavajraḥ |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:52"/>pṛthivy āpa ta[3]thā tejo vāyur ākāśam eva ca |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:53"/>lāṃ māṃ pāṃ tāṃ kham iti [|]
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:54"/>pātanī māraṇī caiva ākarṣaṇī caiva nartanī |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:55"/>padmajvālinī devī khasamā gaganopamā |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:56"/>evaṃ ska[4]ndhadhātvāyataneṣu yogī prākṛtavasān ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:57"/>prakṛtipariśuddhāḥ sarvadharmāḥ prakṛtipariśuddho &#x27;ham || iti śuddhiṃ kārayet ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:58"/>paścāt triśaranaṃ gacchet mantramūrti bha[5]viṣyati |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:59"/>ahaṃ ca heruko bhūtvā sarvasattvārthakāraṇāt |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:60"/>sthāpayāmi tataḥ sarvān herukapadaṃ prāpnuyād anuttarapadam ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:61"/>oṃ svabhāvaśuddhāḥ sarvadharmāḥ [6] svabhāvaśuddho &#x27;ham iti trir uccārayet
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:62"/>sthāpayed gabhastim ālāmbā bhavāgrāṃ diśo daśa [|]
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:63"/>tāṃ gabhastiṃ tato dṛṣṭvā prākāraṃ pañjaraṃ tathā ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:64"/>vajrabhūmyāv adhiṣṭhaṃ [7] ca vitānaṃ śarajālayoḥ |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:65"/>vajrāgnijvalatprākāraṃ tadbāhye dūrato nyaset ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:66"/>oṃ medinī vajrībhava vajrabandha hūṃ ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:67"/>oṃ vajraprākāra hūṃ vaṃ hūṃ ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:68"/>oṃ vajrapañjara [22] (*14r) hūṃ paṃ hūṃ ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:69"/>oṃ vajravitāna hūṃ khaṃ hūṃ ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:70"/>oṃ vajraśarajāla trāṃ śaṃ trāṃ ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:71"/>oṃ vajrajvālānalārka hūṃ hūṃ hūṃ ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:72"/>herukājñānacakraṃ tato dṛṣṭvā aṣṭāraṃ suprabhaṃ [|]
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:73"/>sūryamaṇḍalamadhyasthaṃ vajrasattvaṃ vibhāvayet ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:74"/>trimukhaṃ ṣaḍbhujaṃ śāntaṃ śuddhasphaṭikendusuprabham |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:75"/>mahāmudrāsuprabhaṃ mahāmudrāsamāpannam |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:76"/>prajñāparyaṅkasusthitam | [3]
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:77"/>kapālamālāmakuṭaṃ akṣobhyakṛtaśekharam |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:78"/>sarvālaṃkārasaṃpūrṇaṃ sarvalakṣaṇalakṣitam |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:79"/>vyañjanaiḥ samalaṃkṛtam ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:80"/>kapālakhaṭvāṅgadharaṃ ghaṇṭāvajra ā[4]liṅgitam |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:81"/>pāśāṅkuśadharaṃ vīraṃ mahāsukhapade sthitam ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:82"/>sitaṃ pītaṃ ca haritaṃ mukhayo vikṛtānanaḥ |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:83"/>krodhāṣṭakaṃ tataḥ sphāryānulomavilomataḥ ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:84"/>vajracaṇḍā[5]nalārkaṃ ca vajroṣṇīṣaṃ tathaiva ca |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:85"/>kuṇḍalī vajrayakṣaṃ ca vajrakālaṃ mahābalam |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:86"/>vajrabhiṣaka nāma etā krodhāś ca vinyaset ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:87"/>nīlaṃ pītaṃ tathā raktaṃ haritaṃ [6] dhūmradhūsaram | (*14v)
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:88"/>sitaṃ kṛṣṇāruṇaṃ bhīmān sadaṃṣṭrotkaṭabhiṣaṇān ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:89"/>trimukhāṃ ṣaḍbhujāṃ sarvān narāsthyābharaṇojjvalān |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:90"/>āliḍhāpadam āsīnāṃ [7] viśvābjasūryamadhyamāṃ ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:91"/>aṣṭau ca lokapālāś ca pādākrāntaṃ vicintayet |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:92"/>kapālakhaṭvāṅgadharāṃ pāśāṅkuśadharāparān |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:93"/>ghaṇṭāḍamarukān sa[23]rvān ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:94"/>prajñāliṅganasaṃmukhāṃ piṅgordhvakeśavikṛtān [|]
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:95"/>sadaṃṣṭrotkaṭabhīṣaṇān vyāghracarmāmbaradharān [||]
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:96"/>tatparāvṛttam ātmānaṃ vajrahūṃkāraṃ vibhāva[2]yet |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:97"/>kruddhajvālākulaṃ raudraṃ vikaṭotkaṭabhīṣaṇam ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:98"/>sarvābharaṇeṣu saṃchannam ālīḍhapadasusthiram |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:99"/>aṅkuśapāśakhaṭvāṅgaṃ ghaṇṭāvajrakapāla[3]yoḥ ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:100"/>muṇḍasragdāmadehāgraṃ muṇḍabaddhograśekharam |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:101"/>sarvaduṣṭapadākrāntaṃ prajñāyā ca samanvitam [||]
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:102"/>vajrasattvas tu mukuṭe bhāvayed vajrabhairavam |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:103"/>adha ūrdhvagatiṃ [4] cintet krodhadvayaṃ vibhāvayet |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:104"/>uṣṇī(*15-16 missing)ṣe vajrakapālaṃ śītanīlāñjanaprabham [||]
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:105"/>kapālakhaṭvāṅgadharaṃ vajraśūlakalapalaṃ[?] |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:106"/>pāśāṅkuśavajraghaṇṭā [5] āliḍhāsanasaṃsthitam ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:107"/>kīlakālakrodhāś cā [?] sphuret tatra diśo daśam |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:108"/>ājñāṃ dattvā tu tatraiva nirvighnān kurute guruḥ ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:109"/>nāmaṃ tam evam anusmṛ[6]tya caturdikṣu samantataḥ [|]
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:110"/>tarjanyāṅguṣṭhato yojya choṭikācatur diśo daśaḥ ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:111"/>oṃ sumbha nisumbha hūṃ phaṭ || pūrva ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:112"/>oṃ gṛhna 2 hūṃ phaṭ || uttara ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:113"/>oṃ gṛ[7]nhāpaya 2 hū phaṭ || paścime ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:114"/>oṃ ānaya hoḥ bhagavan vidyārāja hūṃ phaṭ || dakṣiṇe ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:115"/>anena ca mantrarājena sarvavighnānām aṣṭadhā kilakaṃ nyase[24]t || anulomavilomataḥ ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:116"/>oṃ gha 2 ghāṭaya 2 sarvavighnān hūṃ phaṭ || oṃ kīlaya 2 sarvapāpān hūṃ phaṭ hūṃ hūṃ hūṃ vajrakīlaya vajradharo ājñā[2]payati sarvaduṣṭavighnakāyavākacittavajrāṃ kilaya hūṃ phaṭ ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:117"/>ākoṭaya vajrakīlena krodhadṛṣṭinirīkṣaṇāt |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:118"/>anulomavilomena āko[3]ṭya vajra sidhya dhīḥ ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:119"/>oṃ vajra hūṃ mudgara vajrakīlākoṭaya hūṃ hūṃ phaṭ
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:120"/>paścāt mantram idaṃ japyāṃ krodhavāsuvajradhīḥ
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:121"/>oṃ kha vajradhṛk vajrahūṃkāra vajra hūṃ [4] phaṭ ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:122"/>oṃ vajracaṇḍa vajra hūṃ phaṭ ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:123"/>oṃ vajranalārka vajra hūṃ hūṃ phaṭ ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:124"/>oṃ vajroṣṇīṣa vajra hūṃ phaṭ ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:125"/>oṃ vajrakuṇḍali vajra hūṃ phaṭ ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:126"/>oṃ vajrayakṣa vajra [5] hūṃ phaṭ ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:127"/>oṃ vajrakāla vajra hūṃ phaṭ ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:128"/>oṃ vajramahābala vajra hūṃ phaṭ ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:129"/>oṃ vajra hūṃ phaṭ oṃ vajrabhīṣaṇa vajra hūṃ phaṭ ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:130"/>oṃ vajra uṣṇīṣacakravarti hūṃ phaṭ | [6]
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:131"/>oṃ vajrapātāla vajra hūṃ phaṭ ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:132"/>evaṃ sidhyati ājñā vai vanir vighna bhavate kṣaṇāt |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:133"/>māṃsamarjjāvasāhārāśuklaraktasamanvitān ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:134"/>gulikāṃ kālaye [7] yogī bhakṣayen sidhyate dhruvam |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:135"/>nīlapītaṃ ca vajrahūṃkāramaddhahantaḥ |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:136"/>pītakṛṣṇaṃ ca haritaṃ dhumrapītaṃ ca
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:137"/>haritasitapītāṃ ca haritaṃ | raktapitaṃ ha[25]ritaṃ |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:138"/>anyeṣāṃ mapi pati yathāmakuṭa ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:139"/>akṣobhyasamayaṃ tvā tusyaṃti trivajradhṛk ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:140"/>eṣo hi sarvakrodhānāṃ samayo duritakramaḥ |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:141"/>evamādyā bahuvidhā[2] ājñā gṛhnanti nāyakaḥ ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:142"/>nirvighnaṃ sakaraṃ dṛṣṭvā yatra tiṣṭhanti yoginaḥ |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:143"/>nagnau vā yadi vānagno bhasmāṅgamuktakeśaṃ yaḥ ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:144"/>evam bhāvayej japec cakraṃ yadiṣado [3] prajāyate |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:145"/>śūnyatājñānavajraṃ ca smare bhakṣasamāhita ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:146"/>oṃ śūnyatājñānavajrasvabhāvātmako &#x27;haṃ ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:147"/>oṃ āḥ nimittajñānavajrasvabhāvātmako &#x27;haṃ || [4]
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:148"/>oṃ apraṇihitajñānavajrasvabhāvātmako &#x27;haṃ ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:149"/>pratibhīsamātravijñānacittamātravijñānaṃ cittamātra vikalpayet |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:150"/>svasamopamā ime dharmā na dharmā [5] na ca dharmatā ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:151"/>ākāśam iva nirlepaṃ niḥsvabhāvam anāvilam |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:152"/>yasmi nahya dakṣapuṭavartini dīpyamāne
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:153"/>mūkṣyevakṣi vā prasṛvahati cittavṛtte || [6]
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:154"/>traidhātukaṃ sakalam advayatām upeti
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:155"/>spaṣṭaṃ namāmi tamahasvaradharmadhātuḥ [||]
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:156"/>antanijogina carata sakarendriyoś
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:157"/>cājñānasamastajinasadatipā[7]cabhūtas
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:158"/>traidhātukaṃ prasamakāraṇatām upaiti|
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:159"/>yasya bhanbhavaty avitataḥ kham ivālayaḥ śrīḥ ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:160"/>buddhānusmṛtiyogena dharmānusmṛtibhāvanā
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:161"/>dharmā[26]nusmṛtiyogena dharmakāya svayaṃ bhavet ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:162"/>madhyādīkaṃ ya vijñāna paramavedināḥ |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:163"/>atyantabhānābhyāsāj janatīhe na saṃśayaḥ ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:164"/>hṛdaye vartate [2] nityaṃ bindureke hy anakṣaraḥ |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:165"/>taṃ ca bhāvayatāṃ puṃsā jñānam utpadyate
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:166"/>parasattvānusmṛtiyogena sattvānusmṛtiyogena bhāvanā |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:167"/>sattvānusmṛtidha[3]rmena sattvaṃ vibhāvayet ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:168"/>praṇidhānavasaṃ dṛṣṭvā hitāya karuṇātmakam |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:169"/>dṛṣṭvā rasāyanaṃ yāva cittayed vāyumaṇḍalam ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:170"/>yaṃkārākṣarasaṃbhūtaṃ dhanvābhaṃ [4] nīlavarṇajam [|]
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:171"/>dhvajāṅkitacarataṃ dhyāyāt || dhūmramālākulākulam ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:172"/>tasyopari raṃkāreṇa tejomaṇḍalam atumaṃ
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:173"/>trikoṇa raktavarṇaṃ tu jvālāmālā[5]kulaṃ vajrāṅkitaṃ dhyāyāt ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:174"/>sūryakoṭir ivāparam ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:175"/>tatopari vāruṇaṃ caiva vaṃkārodbhavam uttamam |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:176"/>tuṣārasadṛśaṃ caiva vartulaṃ raśmimālinam |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:177"/>ta[6]syopari pāthevaṃ dhyāyāt || laṃkārodbhavapītajam ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:178"/>caturasraṃ vajrālīchanaṃ ce pītaraśmyākulākulam |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:179"/>tatpṛṣṭhe bhāvayed yogī sumeruparvatottamam || [7]
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:180"/>caturasraṃ caturatnamayaṃ aṣṭaśṛṅgopaśobhitam |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:181"/>(*17r) suṃkārodbhavo ramyaṃ divyatejottamottamam ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:182"/>tatraiva pṛṣṭhatopaviṣṭaṃ bhruṃkārodbhavaśāśvatam |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:183"/>tatparā[27]vṛttasaccakraṃ kuṭāgāraṃ vibhāvayet ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:184"/>caturasraṃ catudvāraṃ catustoraṇamaṇḍitam |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:185"/>hārārdhahārasacihnaṃ paṭṭaśragdāmaśobhitam ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:186"/>koṇabhāgeṣu sarveṣu [2] dvāraniryūhasaṃdhiṣu [|]
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:187"/>khacitaṃ vajraratnais tu sūtrayed bāhyamaṇḍalam ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:188"/>tasyābhyantarataś cakram aṣṭāraṃ sitavarṇakam |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:189"/>tatra madhye mahāpadmaṃ viśvavarṇā[3]ṣṭadalaṃ
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:190"/>praphullaṃ sahajamālā karṇikākeśarākulaṃ
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:191"/>candramaṇḍalamadhye tu vajrasattvaṃ savidyajam ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:192"/>sitaṃ pītaṃ tathā raktaṃ haritaṃ ca caturmukham |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:193"/>śāntaṃ [4] ca haritaṃ raudraṃ vikaṭotkaṭabhīṣaṇam ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:194"/>vajraghaṇṭāsamāpannā śūlaparaśuḍamarukam |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:195"/>karttikapālakhaṭvāṅgaṃ brahmacarmapaṭāvṛtam ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:196"/>pāśaṃ brahmaśira[5]ś caiva bhujair dvādaśabhis tathā |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:197"/>sattvaparyaṅkam āsīnaṃ kapālamakuṭotkaṭam ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:198"/>sarvābharaṇasaṃpūrṇaṃ lakṣaṇair vyañjanair yutam |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:199"/>hṛda(*17v)ye jñānasamayaṃ makuṭe [6] vajradhāriṇam ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:200"/>yathopāyas tathā prajñā mudrāpañcakādhiṣṭhitāṃ |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:201"/>kulabhedena bheditvā vajradhātveśvarīr yottamāṃ ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:202"/>mahāsukhopāyayogena kāyadvaya[7]dravīkṛtām |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:203"/>samanantarotthitaḥ kāyaḍākaḥ saparivāro vīrayoginyā saha |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:204"/>ālīḍhapratyālīḍhasthaṃ sitapītaraktaharitānanam ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:205"/>vajraghaṇṭā[28]liṅganabhuje pūrvavajrasattvādikrameṇa [|]
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:206"/>bhujacihnadharaṃ kapālamālinaṃ muṇḍamālāśatārdhābharaṇam ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:207"/>ardhacandradharaṃ vikṛtadaṃṣṭrakarālavadanaṃ [|]
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:208"/>trinetraṃ [2] dvādaśabhujaṃ brahmakāyikādevānyākramyamānaṃ
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:209"/>narāsthvābharaṇaṃ vairocanamukuṭinaṃ
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:210"/>ṣaṇmudrāvibhūṣitaṃ vyāghracarmanivasanasāṃ |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:211"/>purato buddhaḍākinyāliṅgitadehāṃ |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:212"/>ā[3]liṅganakapālaṃ ca | duṣṭatarjanivajrikā |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:213"/>jaghādvayasamāśliṣṭā suratotsukavihvalā |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:214"/>dhātuskandhāyatanādidhiṣṭhitaṃ |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:215"/>pṛthivīdhātu lāṃ pātanī || [4]
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:216"/>apdhātu māṃ māraṇī ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:217"/>tejodhātu pāṃ ākarṣaṇī ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:218"/>vāyudhātu tāṃ nartteśvarī ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:219"/>ākāśadhātu khaṃ padmajālinī ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:220"/>pī(*18r)ta| nīla| kanaka| gaurā| raktā| [5] dhumra| nīlā ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:221"/>rūpaskandhe vairocana oṃ sitavarṇaḥ |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:222"/>vedanāyāṃ ratnavajra āṃ taptakāñcanavarṇaḥ |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:223"/>saṃjñā hrīḥ padmanarttaśvaro raktaḥ
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:224"/>saṃskāro vajrarājo [6] hoḥ haritavarṇaḥ |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:225"/>vijñāne vajrasattvo hūṃ sitavarṇaḥ |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:226"/>sarvatathāgatatve śrīheruka hrīḥ kṛṣṇavarṇaḥ ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:227"/>cakṣuṣor mohavajraḥ sitaḥ |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:228"/>śrotrayoḥ hūṃ dveṣavajraḥ kṛṣṇaḥ | [7]
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:229"/>ghrāṇe khaṃ īrṣyāvajraḥ pītaḥ |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:230"/>vaktre rāgavajra āḥ raktavarṇaḥ |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:231"/>sparśe mātsaryavajra hoṃ haritavarṇaḥ |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:232"/>sarvāyatane aiśvaryavajra haṃ sitaḥ ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:233"/>kāya hūṃ sitaḥ |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:234"/>vākye [29] āḥ raktavarṇaḥ |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:235"/>citte oṃ kṛṣṇavarṇaḥ ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:236"/>evaṃ kāyavākcittālambyādhitiṣṭhetu madhyataḥ ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:237"/>tatra pūrvapatre ḍākinī nīlavarṇā |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:238"/>uttarapatre lāmā haritavarṇā | [2]
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:239"/>paścime khaṇḍarohā raktavarṇā |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:240"/>dakṣiṇe rūpiṇī kanakagaurā ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:241"/>ekavaktrā caturbhujā trinetrā muktakeśā digambaradharā parā |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:242"/>ālīḍhapadasaṃsthā[3]nās vikaṭotkaṭabhīṣaṇā pañcamudrāvibhūṣitā
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:243"/>ka(*18v)pālakhaṭvāṅgaḍamarukarttikākarāḥ ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:244"/>vaktrānurāgayanti hoḥ rāgadṛṣṭyā nirīkṣaṇāt |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:245"/>vidi[4]śena tu catvāraḥ pañcāmṛtakalaśopari catvāro bodhicittakaroṭakāḥ ||      ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:246"/>kāyacakrasya
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:247"/>pūrvāre pretapuryāṃ mahābalacakravegā kṛṣṇā ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:248"/>uttare gṛhade[5]vatāyāṃ ratnavajrakhaṇḍarohā pītā ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:249"/>paścime saurāṣṭre hayagrīvaśauṇḍinī raktā ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:250"/>dakṣiṇe suvarṇadvīpe ākāśagarbhacakravarmiṇī hari[6]tā ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:251"/>agneyyāṃ nagare śrīherukasuvīrā raktā ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:252"/>naiṛtyāṃ sindhau padmanarteśvaramahābalā candragaurā ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:253"/>vāyavyāṃ marau vairocanacakravarti[7]nī dhūmradhūsarā ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:254"/>īśānyāṃ kulatāyāṃ vajrasattvamahāvīrā sitā ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:255"/>mahābalādayo vīrā ekavaktrā caturbhujā |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:256"/>jaṭāmakuṭāṅkapaṭṭakāḥ ā[30]liṅgaṇabhujādvayacakraghaṇṭā
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:257"/>aparabhujadvaye khaṭvāṅgaḍamarukam |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:258"/>pañcamudrādigātrālīḍhapadasthāḥ ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:259"/>cakravegādayo devyā ekavaktrā dvibhujās tathā [2]
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:260"/>āliṅgaṇakapālahastā duṣṭatarjanicakrikā ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:261"/>trinetrā raudrarūpiṇyo muktakeśo virājitā |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:262"/>advayayogasamāpannā diṃgabaradharāḥ parāḥ
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:263"/>kaṇḍikā[3]cūḍakeyūrakuṇḍalabrahmasūtrakaṃ
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:264"/>kaṇṭhālaṃkṛtaśiromālā mekhalāghurghurāravaiḥ ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:265"/>pūrvottarapaścimadakṣiṇadvāreṣu kākāsyā ulūkāsyā śvānā[4]syā sūkarāsyā
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:266"/>agneyīnaiṛtavāyuvye īśānyāṃ yamadāḍhī yamadūṭī yamadaṃṣṭrini yamamathanī ceti ||      ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:267"/>yathā ḍākinījanasya tathā kākāsyā[5]di tu bhedataḥ |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:268"/>vidiśesthā tathā devī dvau hi rūpau manoharau
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:269"/>pretāsanā mahāghorā sarvārthakaruṇodyatā |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:270"/>sarveṣāṃ meva vīrāṇā lalāṭe cakramā[6]lā ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:271"/>evaṃ kāyacakre pātālavāsinī bhagavantaṃ saṃstuvanti sta māṇḍaleyavīrayoginyā vividhavicitrakaṭākṣakaravikṣepanānārasaranyā[7]nmukhā ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:272"/>labdha sayaï suratā mahāsuha aṇḍaḥ alalala hoḥ |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:273"/>mahāsuha saalatathāgata ididartha
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:274"/>anena gīyamānenobhyantabhavani[31]rmitāḥ
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:275"/>tathāgatā mahāśuddhāḥ kalpayanti hi maṇḍalam |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:276"/>jalāyujasotaśītaṃ kecid icchanti yogiṇaḥ |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:277"/>kāyacakraṃ jarāyujaṃ jñānamaṇḍalākṛṣya[2]pujā stutyā praveśayet ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:278"/>spharatsaṃhārayogena bhāvābhāvavibhāvanā
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:279"/>jaye talpanayā yogi nīlakṣāyutavidhānataḥ
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:280"/>sidhyate jarāyujaṃ kāyaṃ [3] khecaratvaṃ na saṃśayaḥ ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:281"/>oṃ śrīkāyaḍāka rurulu bhruṃ hūṃ phaṭ ḍākinījālasamvara svāhā || hṛdaya ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:282"/>oṃ bhruṃ haṃ haṃ bhruṃ hūṃ phaṭ || upahṛdaya ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:283"/>oṃ bu[4]ddhaḍākinye bhruṃ vairocanīye hūṃ phaṭ || hṛdaya ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:284"/>oṃ bhruṃ sarvabuddhaḍākinīye hūṃ bhruṃ phaṭ svāhā || upahṛdaya ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:285"/>oṃ kṣmāṃ mahābala kṣmāṃ hūṃ hūṃ phaṭ || [5]
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:286"/>oṃ cakravege hūṃ hūṃ phaṭ ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:287"/>oṃ hāṃ ratnavajra hūṃ hūṃ phaṭ ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:288"/>oṃ khaṇḍarohe hūṃ hūṃ phaṭ ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:289"/>oṃ hrīḥ hayagrīva hrīḥ hūṃ hūṃ phaṭ ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:290"/>oṃ sauṇḍinīye hūṃ 2 phaṭ || [6]
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:291"/>oṃ hūṃ ākāśagarbha hūṃ hūṃ hūṃ phaṭ ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:292"/>oṃ cakravamminīye hūṃ 2 phaṭ ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:293"/>oṃ kili śrīheruka kili hūṃ hūṃ phaṭ ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:294"/>oṃ suvīre hūṃ hūṃ phaṭ ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:295"/>oṃ [7] siliya narteśvara sili hūṃ hūṃ phaṭ ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:296"/>oṃ mahābale hūṃ hūṃ phaṭ ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:297"/>oṃ hrīṃ vairocana hili hūṃ 2 phaṭ ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:298"/>oṃ cakravarttinīye hūṃ hūṃ phaṭ ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:299"/>oṃ dhi[32]ri vajrasattva dhiri hūṃ hūṃ phaṭ ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:300"/>oṃ mahāvīrya hūṃ hūṃ phaṭ ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:301"/>oṃ kākāsye hūṃ hūṃ phaṭ ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:302"/>oṃ ulukāsye hūṃ 2 phaṭ ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:303"/>oṃ śvānāsye hūṃ hūṃ phaṭ ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:304"/>oṃ śūka[2]rāsye hūṃ hūṃ phaṭ ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:305"/>oṃ yamadāḍhi hūṃ hūṃ phaṭ ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:306"/>oṃ yamadūṭi hūṃ hūṃ phaṭ ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:307"/>oṃ yamadaṃṣṭrini hūṃ hūṃ phaṭ ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:308"/>oṃ yamamathani hūṃ hūṃ phaṭ ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:309"/>oṃ ḍākinīye [3] hūṃ hūṃ phaṭ ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:310"/>oṃ rāme hūṃ hūṃ phaṭ ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:311"/>oṃ khaṇḍarohe hūṃ hūṃ phaṭ ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:312"/>oṃ rūpiṇīye hūṃ hūṃ phaṭ ||      ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:313"/>iti ḍākinyādinām ādau padmeṣu pūjayet ||      || [4]
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:314"/>pañcātmakaṃ sadā siddhi bhavati |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:315"/>nānyathā śāntikaṃ vaśyam evaṃ ca mohanaṃ stambhanaṃ tathā |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:316"/>kāyaḍākena kartavyaṃ siddhi sidhyati || śāsvatī || [5]
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:317"/>utthānakālasamaye ṣaḍaṅganyāsa samutavahet
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:318"/>paśyate vīrajoginyo viśuddhajñānarocanaiḥ ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:319"/>oṃ bhruṃ hṛdaye| namaḥ āṃ śiraḥ ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:320"/>svāhā ho śi[6]ṣāyāṃ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:321"/>vauṣaṭ heḥ kavacaḥ|
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:322"/>bhruṃ hūṃ ho netrau|
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:323"/>phaṭ haḥ| astraḥ
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:324"/>sitapītaraktanīlaharitādhūmradhusarāṃḥ |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:325"/>ṣaḍvarṇena vibhāvayet||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:326"/>oṃ haḥ &lt;ā&gt; nābhau [7] buddhaḍākinī
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:327"/>ho hūṃ hṛdaya yāminī ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:328"/>aṃ mau vaktro mohanī ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:329"/>oṃ hreṃ hrīṃ śirasi saṃcālani ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:330"/>ho hūṃ śikhāyāṃ saṃtrāsanī
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:331"/>phaṭ|| namaḥ caṇḍi[33]kā sarvāṅgeṣv astraḥ ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:332"/>sarvavīrayoginyā kāyaḍākeṣu vijahāra
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:333"/>iti svādhidevatayoge sarvam eva vikalpayet ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:334"/>pañcajñānāmṛtaṃ bhakṣeta vi[2]harec ca yathāsukham |
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:335"/>pūjāsamayavajreṇa catusaṃdhyāṃ ca sevayet ||      ||
+<lb n="SA_K12_Āgama_Abhidhānottaratantra-ch04:336"/>iti kāyasamvaravidhipaṭalaḥ prathamaḥ ||      ||
+    </body>
+  </text>
+</TEI>

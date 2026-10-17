@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalyāṇakāmadhenu with Kalyāṇakāmadhenuvivaraṇa</title>
+        <author>Nāgārjuna</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Author: Nāgārjuna
+Collection / category: BuddhistNon-Scriptures / T01
+Source: OCR / Dharmamitra
+Edition / witness: NAK 3-363 vi. jātaka I = NGMPP A 38/13 ff. 3-11r; dated 1104 CE (also see fol. 4 in NAK 5-20 = NGMPP A 47/17 and fol. 5 in Rome; Ms in TAR not accessible, perhaps the one seen by Sankrtyayan)
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Unpublished diplomatic transcription and critical reconstruction of the Kalyāṇakāmadhenu and its Vivaraṇa based on NAK 3-363 vi. jātaka I = NGMPP A 38/13 ff. 3–11r (dated 1104 CE), fol. 4 in NAK 5-20 = NGMPP A 47/17, fol. 5 in Rome, Sankrtyayan (1937) / Dhīḥ 26, and Tibetan D 3067 (completed 23.xii.2025).</note>
+          <idno type="dharmanexus">SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa</idno>
+          <ref target="https://dharmamitra.org/nexus/db/sa/SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa/text">https://dharmamitra.org/nexus/db/sa/SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-13">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:0"/>praṇipatyāmārgadurgatinivāraṇakāraṇaparaṃ buddham |
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:1"/>kalyāṇakāmadhenuṃ vivṛṇomi yathā samāmnāyaḥ ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:2"/>% first two stanzas from from Sankrtyayan 1937 / Dhīḥ 26
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:3"/>kalyāṇakāmadhenuṃ vakṣye siddhaikavīrāṅkām |
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:4"/>vidyāvidrumakoṣāṃ prapañcaratnāṅkurāṅkuritām ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:5"/>zhes bya ba la | mngon du bya bas rin chen de dngos grub bo || de nyid byi ru ste nor bu&#x27;i khyad par ro || mdzod ni de&#x27;i gnas su {131b6} gyur pa&#x27;i mdzod do || dpa&#x27; bo gcig sgrub sngags yan lag | ces bya ba la | dpa&#x27; bo gcig ces bya ba ni dkyil &#x27;khor dang phyag rgya la sogs pa la ltos pa med pa ste sngags so ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:6"/>sngags de&#x27;i sbyor ba las yon tan rnams &#x27;jo bas ni | yan lag ste nu sor lta bu&#x27;o || sbros pa {131b7} ni dngos grub kyi sgrub thabs kyi bye brag go || de nyid &#x27;dod pa&#x27;i don rdzogs par byed pas na rin po che&#x27;o || de&#x27;i myu gu ba&#x27;i yang myu gu dang &#x27;dra ba&#x27;i rva yod pa ste bstan bcos so || de nyid gang zhe na | dge ba&#x27;i &#x27;dod &#x27;jo zhes bya ba smos te |
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:7"/>de dge ba&#x27;i chos kyi rjes su &#x27;gro ba&#x27;i ye shes so || {132a1} || &#x27;dod pa ni der &#x27;dun pa&#x27;o || &#x27;dod pa de yongs su rdzogs par &#x27;jo bas na bzho ba ste | bstan bcos kyi ba las bzhi&#x27;i rkang lag bzhi dang ldan pa&#x27;o ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:8"/>sngags kun mang du phyag &#x27;tshal dang ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:9"/>sv&#x27;a h&#x27;a sbyar ba&#x27;i rang bzhin can ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:10"/>de bas lung du ma bstan yang ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:11"/>thog ma tha {132a2} mar sbyar bar bya ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:12"/>sngags kun zhes bya ba ni sbyar bar bya zhes bya ba dang &#x27;brel to || phyag &#x27;tshal dang sv&#x27;a h&#x27;a sbyar zhes bya ba ni dang por aoM dang tha mar sv&#x27;a h&#x27;a ldan par bya&#x27;o || lung du ma bstan kyang zhes bya ba ni dngos su bstan pa med kyang ngo || thog ma tha ma zhes bya ba la sogs pas ni gzhan {132a3} &#x27;di yang ston te |
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:13"/>sngags kyi de kho na nyid rig pa&#x27;i bla ma&#x27;i man ngag las sngags sbel pa dang | sngags sbar ba dang | sngags gzi byin bskyed pa dang | sngags tshim par bya ba dang | sngags nye bar bya ba shes pa dag go || de la sngags sbel ba ni | aoM satva che ge mo&#x27;i au pa sarba aa dhi {132a4} rakSHa zhes bya ba ni bsrung ba la&#x27;o ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:14"/>zhi ba la ni aoM aa mu ka sya sh&#x27;antiM ku ru sv&#x27;a h&#x27;a zhes so || nye bar bya ba ni | aoM sa dha sindha rda ba na me ku ru sv&#x27;a h&#x27;a zhes so || sngags sgrub pa la ni | aoM sv&#x27;a h&#x27;a mantra siddhiM me ku ru sv&#x27;a h&#x27;a | nad bsal ba la ni | aoM na mo na ma: by&#x27;a dhi me aa pa na ya sv&#x27;a h&#x27;a zhes so || rgyas pa {132a5} la ni |
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:15"/>booSHa Ta puSHTiM me ku ru sv&#x27;a h&#x27;a zhes so || bsad pa la ni | aoM phaT aa mu kaM ha na ha na h&#x27;uM phaT ces so || bskrad pa la ni | h&#x27;uM aa mu ka mutstsa | tarka ya h&#x27;uM zhes so || nyer gzhug pa ni | aoM aa mu ka sya aa mu gandha pa ya sv&#x27;a h&#x27;a |
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:16"/>zhi ba chen po la ni aoM sv&#x27;a h&#x27;a aa mu ka sya aa mu kaM au pa dra ba kSHa ye sv&#x27;a h&#x27;a {132a6} zhes so || phur bu gdab pa la ni | aoM k&#x27;i li k&#x27;i la ya sarbaM h&#x27;uM zhes so || de dag la sogs pa shes par bya&#x27;o || sbar ba la ni sngags thams cad la sbyi bor thig le sbyin no || gzi byin bskyed pa la ni n&#x27;a da sbyin no ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:17"/>tshim par bya ba la ni khaM ngo nye bar bya ba la ni dkyil &#x27;khor gyis te | sa dang {132a7} chu dang me dang rlung gi dkyil &#x27;khor rnams la go rims bzhin du shes par bya&#x27;o ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:18"/>nang stong gzi la dbyig goms pas ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:19"/>mngon par mtho &#x27;gyur the tshom med ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:20"/>rmugs &#x27;dzin chu dbang gis kyang ni ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:21"/>skyes bu gang yin de &#x27;drar &#x27;gyur ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:22"/>zhes bya ba la | nang zhes bya ba&#x27;i sgras ni lus {132b1} kyi nang gzung ngo || stong zhes bya ba ni bdag med pa&#x27;i stong pa&#x27;o || gzi zhes bya ba ni gzi brjid de me&#x27;i dkyil &#x27;khor ro || dbyig ces bya ba ni nor rgyun ma ste goms pa ni goms par bslabs pa&#x27;o || mngon par mtho ba ni mngon par mtho ba&#x27;i dpal lo || &#x27;gyur ba ni &#x27;thob pa&#x27;o ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:23"/>de {132b2} bzhin du rmugs &#x27;dzin chu dbang goms pas kyang | mtho can mtho ba &#x27;thob &#x27;gyur ro ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:24"/>&#x27;dir sbyor ba ni &#x27;di yin te | snying gar dkyil &#x27;khor gru gsum me&#x27;i mdog can bsams la de&#x27;i steng du padma dkar po &#x27;dab ma brgyad pa | de&#x27;i &#x27;dab ma rnams la aoM ba su dha ri ni sv&#x27;a h&#x27;a zhes bya ba {132b3} nor rgyun ma&#x27;i yi ge brgyad dgod do || lte ba la ni yi ge bhr&#x27;uM gsum bkod la yi ge re re zhing yaM raM gnyis dang spel lo ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:25"/>phyogs brgyud du ni gnod sbyin chen po brgyad kyi sa bon bris te | ma Ni bha dra dang | p&#x27;urNa bha dra dang | dha na da ya dang | bee shra ba Na rnams ni phyogs bzhir ro || ka li m&#x27;a li {132b4} dang; pi tsi kuNDa li dang | mu khandr&#x27;a ya dang | tsa randr&#x27;a ya rnams ni mtshams rnams su ste | thams cad kyang sv&#x27;a h&#x27;a&#x27;i mtha&#x27; can no ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:26"/>aoM dzaM bha la dza lendr&#x27;a ya zhes bya ba&#x27;i dzaM bha la&#x27;i yi ge brgyad ni yang padma &#x27;dab ma brgyad pa la dgod do || yang dbus kyi lte ba la dzaM mo ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:27"/>gal te bsam gtan {132b5} bya bar mi nus na ni gser la sogs pa&#x27;i byang bu la &#x27;khor lo gnyis ni ji lta ba bzhin du bris la kha sbyar te mar dang sbrang rtsi&#x27;i nang du bzhag la mchod pa byas nas ye shes kyi &#x27;khor lo spyan drangs te | der bstims nas nyin re zhing dri zhim pa&#x27;i me tog la sogs pas mchod par bya&#x27;o ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:28"/>yang na {132b6} gur gum gyi chu&#x27;i nang du bzhag ste mchod na mtho ris kyi dpal &#x27;thob par &#x27;gyur ro ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:29"/>aoM tshinda zhes bya bar bstan pa dang |
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:30"/>h&#x27;uM phaT ces bya ba&#x27;i sngags gang yin
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:31"/>&#x27;bru tshugs su na ma na ni ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:32"/>shes goms khrag dang sha &#x27;gugs &#x27;gyur ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:33"/>zhes bya ba la | sngags ni | aoM tshindha tshindha bas {132b7} aa mu kaM sya rakta m&#x27;aM sanytsa tshindha tshindha | a&#x27;a karSHa ya h&#x27;uM phaT | ces pa&#x27;i sngags &#x27;bru tshugs zhes ba ni | mig &#x27;bru tshugs su blta bas &#x27;bru tshugs su lta ba&#x27;o || su su ma zhes bya ba ni rtsa&#x27;o || shes pa ni de&#x27;i sbyor ba shes pa ste |
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:34"/>khro bo&#x27;i rgyal po gang yang rung ba&#x27;i ting nge &#x27;dzin la gnas nas snying gar {133a1} || h&#x27;uM phaT dmar zhing sngo ba &#x27;bar ba dang bcas pa bsams la srog gnyis gcig tu byas te | sna gung g-yas pa nas skud pa dang &#x27;dra bar phyung nas bsgrub bya mdun du bsams la | srog rtse mo lngar gyur pa des bsgrub bya&#x27;i dpral ba dang | kha dang snying ga dang |
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:35"/>dbung mgo {133a2} gnyis kyi rtsa rnams phug ste | bar bar du sngags bzlas nas dbugs rdub pas slar drangs te kha&#x27;am snod kyi nang du khrag dgug par bya&#x27;o || goms pa ni goms par bslabs pa ste |
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:36"/>[*pratha][incipit, 3\recto]maṃ kiṃcit phalaṃ haste kṛtvā pūrvoktanāḍīsūcyā vedhayet | sthirīkṛtya punar niśvāsavāyunākarṣet tāvad yāvat phalarasaṃ mukhe praviṣṭam | yadāsvāditaṃ bhavati tadā punar dūre sthitvābhyasya nimbavṛkṣādāv api sādhyam | asṛgādyākarṣaṇaṃ kāryam ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:37"/>nandini varade kiṇi 2
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:38"/>lakṣajapān mahiṣavāhinīhṛdayam |
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:39"/>guggulugulikāhavanād
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:40"/>duṣkṛtino &#x27;pi śriyaṃ sṛjati ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:41"/>mantraḥ | oṃ nandini varade kiṇi 2 śriyaṃ me dada vauṣaṭ svāhā || tatrāyaṃ prayogaḥ | vajrahūṃkārasamādhistho hṛdayāt ṭakkirājaṃ niścārya paramāstram aṅkuśapāśahastaṃ tena durgām ākṛṣya mahiṣavāhanām aṣṭabhujāṃ marakataśyāmāṃ purataḥ saṃsthāpyārghaṃ dattvā etad eva mantraṃ japet || jāpoparate bhūyaḥ saṃpūjya visarjayet |
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:42"/>evaṃ yāval lakṣaṃ pūrṇaṃ bhavati trisandhyaṃ tāvaj japet | evaṃ kṛtapūrvasevaḥ | tadanu guggulugulikāṃ karpāsāsthipramāṇāṃ ghṛtamadhuśarkarāsaṃyuktāṃ caturasrakuṇḍe palāśadāruprajvalite &#x27;gnau tāvaj juhuyād yāval lakṣaṃ pūrṇaṃ (em., pūrvaṃ) bhavati | tato mahatīṃ śriyaṃ prāpnoti || 4 ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:43"/>dūrvākāṇḍaśyāmāṃ
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:44"/>yāmyāṃ citrāpayet samāṃ yakṣīm |
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:45"/>% em. metri causa, yāminyāṃ
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:46"/>tārakitāvayavām iva
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:47"/>bhūṣaṇamaṇimañjarīspharaṇaiḥ ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:48"/>dūrvākāṇḍaśyāmām iti haritavarṇām ity arthaḥ | yā[3\verso]minyāṃ citrāpayitavyā na divā palāvadhūsvabhāvā lajjāyate | samām iti na viṣamāṅgām iti yāvat | saumyākārāṃ sarvāṅgalakṣaṇopetām ity arthaḥ | mukhakarṇanāsikākṣipakṣmadaśanauṣṭhādayo &#x27;vayavāḥ | tair avayavais tārakitāṃ śobhitām |
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:49"/>kiṃviśiṣṭais tair avayavair bhūṣaṇamaṇimañjarīspharaṇais teṣām avayavānāṃ yāni bhūṣaṇāni teṣāṃ yāvanto maṇayas teṣāṃ maṇīnāṃ mañjarīspharaṇaṃ tadākārā raśmayaḥ | tai raśmibhiḥ prakāśitā yā sā tathāvidhā yakṣiṇī vadhūr iti nāmnā prasiddhā | tasyā ayaṃ (em., tasyāyaṃ) mantraḥ |
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:50"/>guhye vara vara guhye
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:51"/>siddhāsīty evam ājapel lakṣam |
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:52"/>āmreḍitāpi naṣṭa-
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:53"/>praṇavānalasundarī sa vadhūḥ ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:54"/>āḥ guhye vara vara guhye siddhāsi māṃ svāhā || āmreḍitāpi nirbhartsitāpy anena nyāyena sidhyati | naṣṭapraṇavānaleti | oṃkārasthāne āḥkāraḥ | anena vaśyatāṃ yāti sidhyatīty arthaḥ || katham etāṃ sādhayatīty āha ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:55"/>maunī sthaṇḍilaśāyī
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:56"/>pakṣaṃ trisnātacelaparivartī |
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:57"/>aṣṭaśatajātikusumair
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:58"/>iṣṭair iṣṭaṃ varaṃ labhate ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:59"/>maunīti kevalaṃ (em., kevala°) sahāyena sahālāpī nānyenāsamayinā saha || sthaṇḍile abhyavakāśe gomayenopalepanaṃ (em., °opalepana) kṛtvā kuśāstaraṇe svapet | trikālasnāyī tricelaparivartī ca || sitaśucivastraṃ ca trisandhyāyām api parivartī |
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:60"/>pūrvavat tathaivāvāhya sugandhapuṣpādibhir a[*bhya]r[*cayan] + + + [4\recto] yathāval lakṣaṃ japtvā tadanu jātikusumāṣṭaśatena pratipratimantroccāraṇena tāḍayet | bhage bhāryārthaṃ stane bhaginyarthaṃ pāde mātrarthaṃ śirasi dāra + + + + ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:61"/>% some addition in the upper margin in a crude second hand: śvetāparājitā bhā 4 rudrajaṭā bhāga 10 kṛtāñjalibhāga 5 lajjālubhāga 9 hastam ālepanaṃ kṛtvā ghṛtenaiva yutā + + + +
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:62"/>aṅguṣṭhamitasitārkagaṇapatipratimāpavitritaśikhānām |
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:63"/>na bhavati durodaraṃ prati caramākṣarajāpināṃ bhaṅgaḥ ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:64"/>puṣpeṇa sitārkamūlaṃ saṃgṛhya gaṇapatipratimām aṅguṣṭhapramāṇāṃ kārayet | caturbhujāṃ pralambodarāṃ nāgayajñopavītikāṃ daṃṣṭrāparaśupāśagaḍikāhastām | tāṃ haste gṛhītvā tadyogena svadevatāyogena vā | evaṃ mantraṃ lakṣaṃ japet | paścāt tāṃ śikhāyāṃ baddhvā durodaraṃ dyūtakrīḍāṃ prati bhaṅgo na bhavatīty (em., bhatīty) arthaḥ ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:65"/>keṣāṃ caramākṣarajāpināṃ (em., °sāyināṃ |) narāṇām | caramam avasānam (em., avasāna) | asyaiva ślokasya caturthapādāntākṣaram | asyāyaṃ mantraḥ | oṃ gaḥ svāhā ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:66"/>amaraṇijīvantīye praṇavena svāhayā ca saṃpuṭitam |
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:67"/>japtaṃ mahāmayūryā hṛdayam idaṃ sarvakarmakaram ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:68"/>mantraḥ | oṃ amaraṇijīvantīye svāhā | eṣa mantrarājaḥ sujaptaḥ sarvakarmakaraḥ | nirguṇṭhīpicumardamalaṃ śikhipiñcham ekataḥ saṃyojyānena mantreṇāṣṭaśatajaptena sarvajvareṣu dhūpo deyaḥ | te sarve &#x27;pagacchanti | śiraḥśūle tailam abhimantrya śiro mrakṣayet | śiraḥśūlāni naśyanti | gaṇḍapiṭakādy avamārjanān (em., avamārjānān) nāśaya[4\verso]ti |
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:69"/>vyādhau sphoṭake candanodakaṃ suṣṭhu japtaṃ deyam | tataḥ śamayati | homakarmaṇā sarvagrahādyupadravaṃ nāśayati | yasya kasyacit keśaṃ gṛhītvā nagno muktaśikho dakṣiṇābhimukho gṛhadehalikopaviṣṭo yogī taṃ keśaṃ hastadvayena gṛhītvā mantram uccārayet | sandhyātraye kruddho mardayet | trirātreṇa śūro &#x27;pi mriyate ||   ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:70"/>arkārkimarkārki hrīḥ nāgamaṇi phaṭ kṛṣṇaśabarāṇām |
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:71"/>niyutaparipaṭhitasiddhā śābarikā nāgamaṇināmā ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:72"/>kukundvaroddeśagāḍhalambena |
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:73"/>vedhena khadiravikṛteḥ śaṅkunā śatāṣṭaṃ (em., śatāṣṭa) japet ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:74"/>oṃ namaḥ kṛṣṇaśabarāṇāṃ arkārkimarkārki hrīḥ nāgamaṇi phaṭ || asya mantrasya phalamūlāhāreṇa nagnena pracchanne lakṣaṃ japtvā paścāt prayogaḥ kāryaḥ | madanamayīṃ strīpratikṛtiṃ vitastimātrapramāṇāṃ kṛtvā sarvāvayavaparipūrṇāṃ tasyā lalāṭe janmanāma vinyasya hṛdaye mantraṃ gorocanayā svānāmikāraktagolitayā |
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:75"/>bhūrjapatre vidarbhaṇayogenābhilikhya prakṣipya ca | svayaṃ śabararūpadhārī bhūtvā raktalocanaḥ śikhipiñchāvabaddhakeśabhāraḥ karikalabhadantāgrakṛtakarṇaśobhaḥ | aśokataruparṇanāgrāruṇaveṣṭitakaṭibhāgaḥ (anne °pallavāgrā°) | aṅkuśapāśahastaḥ | grasann iva sādhyābhimukhasthaḥ | sādhyadikchiraḥsthāṃ pratimāṃ + + +i +ṃ k+ tv+ [5\recto] |
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:76"/>aṅguṣṭhaparvapramāṇakhadirakīlakena śatajaptena kīlayet | etad uktaṃ bhavati | khadiramayaṃ tryasraśūlaṃ lākṣārasapariplutam aṣṭaśataparijaptaṃ sādhyābhage kalann iva nikhanet | paścād raktopacāraṃ dattvā mantram āvartayed aṣṭādhikaṃ śataṃ | trisandhyaṃ saptāhād ākarṣayati |
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:77"/>śacīṃ śakrayoṣitam (em., śacīśaṃkrayoṣitam) api kiṃ punar anyāṃ nākarṣayati | krakrandura iti bhagam || 8 ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:78"/>cchavirali hūṃ phaṭ japtaṃ
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:79"/>bhūrjadale vadanavivaravinyastam |
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:80"/>ākarṣayati nabhaḥsthā (em., nabhaḥsthā)
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:81"/>śaśarudhirāṅkāṅkitotsaṅgaḥ ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:82"/>mantraḥ | oṃ cchavirali hūṃ phaṭ | asyāyaṃ prayogaḥ | prathamaṃ tāvad agrato vāyumaṇḍalam ākāśe yaṃkāreṇa vicintya tatropari sādhyāṃ viṭmayāṅkuśena hṛdi biddhāṃ pāśena galake baddhāṃ (em., buddhāṃ) raktaśyāmāṃ ca dhiyāṃ (anne dhiyā) cintayet | spaṣṭatare dhyāne jāte sati paścān mantram āvartayet pracchanne | lakṣajāpenākarṣayati | katham |
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:83"/>sādhyapratikṛtiṃ (em., °pratikṛti) bhūrjapatre śaśarudhireṇa sarvāvayavasaṃpūrṇām ālikhya janmanāma ca lalāṭe pralikhya saṃveṣṭya madanagulikāntaḥsthāṃ kṛtvā mukhe prakṣipya (corr., prakhipya) mantram āvartayen nākarṣayati (anne āvartayet tām ākarṣayati) |
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:84"/>aparo &#x27;pi prayogo &#x27;syaiva bhūrjapatre śaśarudhireṇa sādhyasādhakarūpadvayam abhilikhya sādhyanāma sādhakalalāṭe itaranāma sādhyalalāṭe &#x27;bhilikhya etaddvayaṃ saṃpuṭīkṛtya mukhena mukhaṃ lalā[5\verso]ṭena lalāṭaṃ guhyena guhyaṃ yathā milanaṃ bhavati tathā tat saṃpuṭīkuryāt | utsaṅge sthāpayed yathā kroḍabāṣpeṇa saṃtapyate |
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:85"/>pracchanne mantram āvartayet | trirātreṇākarṣayati || 9 ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:86"/>he tiṣṭha bandha dhāraya
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:87"/>nirundha punaruktam āditaḥ prabhṛti |
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:88"/>ūrṇāmaṇīti caramaṃ
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:89"/>% em., urṇā°
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:90"/>paramam idaṃ kaṇṭhabandhavidhau ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:91"/>asya prayogo bhavati | oṃ he he tiṣṭha 2 bandha 2 dhāraya 2 nirundha 2 ūrṇāmaṇi svāhā | anena bhasmābhimantrya tarjanyā kaṇṭhabandhaṃ kuryād balaprayogena | yasya kasyacit cchardiṃ nivārayati | tālapatre (em., tālapaṃtre) śatrunāmavidarbhitaṃ mantram abhilikhya karkaṭagarte sthāpayet | mukhabandhaṃ karoti |
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:92"/>evam anyasya grāmādikam api dīyamānaṃ stambhayati 10 |
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:93"/>ante dantili madhye
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:94"/>mohani mucilīti pūrvam uddiṣṭam (em., uddiṣṭa) |
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:95"/>sarvaṃ svāhāntaritaṃ
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:96"/>mantro &#x27;yaṃ svapnamāṇavakaḥ ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:97"/>asyāyaṃ vidhiḥ | oṃ mucili svāhā | mohani svāhā | dantili svāhā | iti mantraḥ | āryāvalokiteśvarasya guror agrato &#x27;patitagomayena maṇḍalakaṃ kṛtvā puṣpādibhiḥ pūjāṃ kṛtvā anena mantreṇa mukham abhimantrayet sapta vārān | tatraiva śucivastrāstaraṇena svapet | yac cintitam arthaṃ yathābhilaṣitaṃ bhūtaṃ (em., bhṛtaṃ) svapne paśyati |
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:98"/>tathodakapānena tailena vā mukhābhyañjanād yathābhūtaṃ (em., yathābhṛtaṃ) svapne paśyati 11 ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:99"/>oṃ [excise] cunde cute cale iti
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:100"/>vilomaparigṛh+amāṇapadapaṅkti[6\recto]ḥ |
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:101"/>ādarśasthā kathayati
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:102"/>trikālacaritāni vastūni ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:103"/>asyāyaṃ prayogaḥ || oṃ cale cule cunde darśaya 2 sarvaṃ svāhā | asya ca pūrvasevā vidhinā daśa sahasrāṇi japet | tadanu dārakadārikām anaṣṭāṃ grāmyadharmeṇa susnātāṃ śucivastrām arcitamaṇḍitām āryācala(em., āryābala°)mudrāmantreṇa rakṣitāṃ saṃpūjya | mantraḥ | oṃ caṇḍamahāroṣaṇa hūṃ phaṭ |
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:104"/>vajrabandhasya tāladvayaṃ raviyugalaṃ tāladvayaṃ cotsṛjet | āryācalamudrā | anayaiva mantramudrāsahitayā diksīmākāśabandhaṃ kṛtvā maṇḍalamadhye kalaśaṃ gandhodakapūrṇaṃ sitābhinavavastrānubaddhagrīvaṃ sragviṇaṃ sapallavānanaṃ (em., saparṇṇavānanaṃ) saṃsthāpya puṣpa(em., puṣpā°)dhūpādibhiś ca pūjāṃ kṛtvā dārakadārikayoḥ pūrvābhimukhayor akṣidvaye
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:105"/>(em., akṣirdvaye) oṃkāradvayaṃ nyasya hṛdaye cuṃkāraṃ oṃkāradvayamadhyagataṃ dedīpyamānaṃ (corr., daidīpyamānaṃ) dṛṣṭvā ākāśe ca bhagavatīṃ cuṃkārākṣarajāṃ candramaṇḍalasthāṃ śaśiprabhākarāṃ hastadvayena pātrahastām aparābhyāṃ padmakhaḍgadharāṃ vicintyārghādikaṃ tasyai (em., tasmai) dattvā saṃpūjya saṃstutyātmano mūlamudrayā svamantreṇa ca
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:106"/>kumārakumārikayor hṛdaye praveśayet | oṃ cale cule cunde praviśa praviśātra kumārakumārikayoḥ śarīre praviśya darśaya sarvaṃ yathābhūtaṃ (em., yathābhṛtaṃ) yathāsatyaṃ buddhadharmasaṅghasatyena bhagavati mā vilamba mama āśāṃ prapūraya svāhā |
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:107"/>tata [6\verso] ādarśaṃ khaḍgaṃ sunirmalam aṅguṣṭhaṃ pradīpam udakabhājanaṃ vā mantrajaptaṃ dārakadārikayor darśayet | yathāsatyam avalokayati visarjyottiṣṭhet |   ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:108"/>varada svāhā ṣaṭkaṃ
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:109"/>sapraṇavaṃ gaṇapatiṃ prasādayati |
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:110"/>caturasramaṇḍalasthā
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:111"/>pratimā ṣaḍmāsapūjanayā ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:112"/>mantraḥ | oṃ varada gaḥ svāhā || gomayena caturasraṃ maṇḍalakaṃ (em., maṇḍalaṃ) kṛtvā pracchanne ekākī tatra maṇḍalake gaṇapatipratimāṃ paṭaṃ vā saṃsthāpya vināyakākāreṇa saṃpūjya jāpaṃ kuryāt | asya mantrasyāṣṭādhikaśataṃ trisandhyaṃ ṣaḍmāsena (em., ṣaḍmāmāsena) manorathaṃ paripūrayati | digambaro bhūtvā sādhanīyam ||   ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:113"/>bhramakeśi bhramamāte
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:114"/>bhrama vibhrama muhya mohaya svāhā |
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:115"/>prathamabhramadviruktā (em., °dviraktā)
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:116"/>punar alivācakatāṃ ca sorṇeyam ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:117"/>mantraḥ | oṃ bhrama bhramakeśi bhramamāte bhrama vibhrama muhya mohaya ūrṇe (em., urṇṇe Ms) svāhā | prathamabhramaśabdo dvir uccāraṇīyaḥ (em., accāraṇīyaḥ) | alir iti paṅktiḥ | vācakatām iti yathāvasthitā paṭhanīyā | ūrṇayā (em., urṇṇayā) saha vartate yā paṅktiḥ sā sorṇā | asādhito &#x27;py eṣa sarvakarmakaraḥ ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:118"/>sapāṣaprasṛtam (anne sarṣapaṃ prasṛtam) antarīkṣe sthāpayitvā lakṣajāpo deyaḥ | paścāt stokasarṣapaṃ tato gṛhītvā muktakeśakacchako gṛhadehalīmūle pravikiret | sarṣapākramaṇamātreṇa sarve akālanidrayā abhibhūyante yāvat sūryodayam iti susvāpana(em., susnāpana° Ms)prayogaḥ ||   ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:119"/>kiṇi 2 gha[7\recto]ṇṭākarṇa (corr., ghaṇṭhākarṇṇa)
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:120"/>svapnaṃ me darśaya svāhā |
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:121"/>abhimantritāmbupānāt
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:122"/>satyaṃ svapneṣu vivṛṇoti ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:123"/>% em., satyeṃ
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:124"/>kiṃ tu svadevatāyogena vajrahūṃkārasamādhinā vā vajra +u + + + + + + + (anne vajrahūṃkārasamādhinā) karṇagaṇaṃ || ghaṇṭhāpraraṇitakaradvayaṃ śvetavarṇaṃ caturbhujaṃ triśūlaparaśupāśakapālahastaṃ dṛṣṭvā samayamudrāṃ baddhvā daśa sahasraṃ japet | pūjā kāryā | vāmahastena triśūlaṃ darśayet samayamudrā |
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:125"/>tato &#x27;bhimantritāmbupānāt satyaṃ svapne kathayati | na saṃdehaḥ | 15 ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:126"/>niyutaṃ jātīkusumaṃ
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:127"/>pravāhayet sāgarāṭagāsalile (em., sāgarāṭāgā°) |
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:128"/>oṃ vākyedaṃ nama iti
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:129"/>varadaṃ mañjuśriyo hṛdayam (em., hṛdaya) ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:130"/>niyutaṃ jātikusumakalikānāṃ (em., °kalikānā) samudragāminyāṃ (em., °gāminyā) nadyāṃ avatīrya kaṇṭhamātre (anne kaṭimātre) jale sthitvā ekaikāṃ kalikāṃ pravāhayet mantram uccārayet (anne uccārayan) | ekā ca kalikā tāsāṃ pravāhitānāṃ madhye sroto atikramyāyāti | sā tvaritam udakena sahitā dantenāspṛśya abhyavahāryā | śrutidhāritāṃ dadāti ||   ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:131"/>oṃ kurukulle svāhā
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:132"/>tribhuvanavaśakarmaṇi prathitam |
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:133"/>hṛdayam idaṃ tārāyāḥ
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:134"/>kathitaṃ maṇikaṇṭhabandhavidhau ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:135"/>halāhalasamādhinā tārāyāḥ kṛtapūrvasevaḥ | paścāt sutithinakṣatre pūjāṃ kṛtvā bhūrjapatre cakram utpalapatrākāraṃ ṣoḍaśāram abhilikhya | tatra ca ṣoḍaśa kalāḥ ṣoḍaśāre vinyasya nābhau sādhyaṃ kurukullety akṣara[7\verso]catuṣṭayayantritaṃ bahir oṃkāreṇa triguṇīkṛtaṃ | tadvad dvitīyacakram abhilikhya kiṃ tu sādhyanāmarahitaṃ |
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:136"/>anena ca pūrvacakram avaṣṭabhya bhagavatīṃ sākṣād ivāvāhya saṃpūjya tatra cakre praveśya sādhyaṃ ca bhagavatyāḥ pādayoś chinnamūlaṃ (em., °mūla°) drumam iva prapatitaṃ | samastākṣararaśmibhir ākṛṣyamāṇaṃ dṛṣṭvā mantram āvartayann aṣṭasahasraṃ trisandhyaṃ saptāhāc chakram api vaśam ānayati |
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:137"/>oṃ kurukulle phaḥ (?) amukaṃ me saha dhanaparivāreṇa vaśam ānaya phaḥ (?) svāhā | saptāhātyayāt dadhimadhughṛtamadhye nyasanīyaṃ cakram ||   ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:138"/>aviditaratisukhavanitāṃ
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:139"/>labhate ṣaṭtryādilakṣajāpena |
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:140"/>sitaḍaraṇikusumahavanād
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:141"/>athavā phalinīprasūtānām ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:142"/>aviditaṃ ratisukhaṃ yayā sā evaṃvidhā kanyā | tāṃ labhate | katham | asyā āryāyāḥ ṣaṭ tṛtīyaṃ cādisaṃ ca yad bhavati tad bhavati ṣaṭtryādiḥ | atas taṃ pūrvasevāvidhinā madya(em., maṭma°)māṃsādirahitabhojī snānārdravastraparidhāyī anālapan japaṃ kuryāt | oṃ aditi amukīṃ kanyāṃ me dehi dadāpaya svāhā | samāpte lakṣe |
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:143"/>ekaikākṣareṇa lakṣahomo vidheyaḥ | śvetārkaiḥ priyaṅgukusumena vā lakṣam ekam | kanyānāma svanāmnā saha saṃpuṭīkṛtya bhūrjapatrādiṣu likhyotsaṅge sthāpya juhuyāt | sarvathā sā kanyā nānyasya dīyate taṃ muktvā || 18 ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:144"/>oṃ [excise] dicce mohe svāhā
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:145"/>sārdhaṃ praṇavena sapta[8\recto]parigaṇitam |
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:146"/>raṇḍāyakṣīhṛdayaṃ
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:147"/>lakṣāṇāṃ saptakaṃ japyam ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:148"/>mṛtakatirodhānapaṭe
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:149"/>tadalaktakavilikhitaṃ nirābharaṇam |
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:150"/>vidhavārūpam upāsyaṃ
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:151"/>% em., vividhārūpam upāsya+
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:152"/>pītaiḥ kusumais tataḥ siddhiḥ ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:153"/>% em., p+t+ḥ kusum+s tavaḥ
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:154"/>tiṣṭhanti kiṃkaratve
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:155"/>sarvā raṇḍās trilokavartinyaḥ |
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:156"/>māsopayogasādhita-
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:157"/>raṇḍā hṛnmantrajāpena ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:158"/>asyāyaṃ mantraḥ | oṃ vicce mohe svāhā | pūrvasevā sapta lakṣāṇy asya japet | paścāt mṛtavidhavāyā brāhmaṇyāḥ pidhānapaṭakhaṇḍaṃ gṛhītvā hastamātreṇa caturasraṃ tasmin tasyā evālaktakena tam eva vidhavārūpaṃ likhen nirābharaṇam | tataḥ pracchanne paṭaṃ pratiṣṭhāpya ekākī pītasālakusumaiḥ pūjāṃ kṛtvā rātrāv andhakāre japaṃ kuryād aṣṭaśatam |
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:159"/>ṣaṭmāsena āgacchati | āgatā kāmayitavyā | śatasahasramūlyaṃ muktāhāraṃ śayanīye cchorayitvā gacchati dine dine | nālāpayitavyā | yāvat ṣaṭmāsapūrṇaṃ ṣaṭmāsena ca pūrṇena sarvārthān sādhayati | 19 ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:160"/>oṃ gauri rudradayite
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:161"/>yogeśvari [+mukhavi?] hūṃ phaṭ svāhā |
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:162"/>gaurīmukhanirmuktaṃ (anne mukhaviniyuktaṃ)
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:163"/>hṛdayaṃ śailendrakanyāyāḥ ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:164"/>ūrau vāme vilikhen
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:165"/>nāma pracchādya vāmahastena |
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:166"/>japataḥ striyam ākarṣayati (anne ākarṣati metri causa)
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:167"/>sadyo vāmetare puruṣam ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:168"/>oṃ gauri rudradayite yogeśvari hūṃ phaṭ svāhā | suvarṇagairikāṃ gorocanāṃ kunaṭīṃ vā candroparāge gauryāḥ pūjāṃ kṛtvā saptāśvatthapatreṣu saṃsthāpyāparaiḥ saptabhiḥ [8\verso] pracchādya tadupari vāmahastaṃ dattvā japed yāvac candro muktaḥ | tena vāmorumadhye striyā nāmābhilikhya vāmahastenāvaṣṭabhya tāvaj japed yāvad āgacchati |
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:169"/>yadi baddhā na bhavati | puruṣānayane dakṣiṇorumadhye tathaiva tannāma tayā pralikhya dakṣiṇahastenākramya japet | tathaivāsyāgamanam iti pādākṛṣṭiḥ 20 ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:170"/>mantraḥ praṇavaḥ prathame
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:171"/>vaidārīkuru (em., vidārīkuru) hūṃ phaḍ āptalipir (em., aptalipir) eṣaḥ |
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:172"/>grahanigrahakriyāyāṃ
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:173"/>parijapto mudritaḥ prahitaḥ ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:174"/>mantraḥ oṃ vaidārīkuru (em., vidārikuru) hūṃ phaṭ | vajrakrodhasamādhināryācalasya vā eṣa mantro lekhaparibhāṣayā pralikhya patre saṃvartya mudrayitvā preṣaṇīyo grahagṛhītahaste nītvā sthāpanīyo rudran muñcati (dub.) | 21 |
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:175"/>oṃ bhadravati vidāri
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:176"/>svāhety uktā daśākṣarā vidyā |
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:177"/>narapatimahiṣīṃ vaśayati
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:178"/>naiva mṛṣā japtamātreṇa 22 ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:179"/>oṃ (excise) mālini kiṇi 2 mantraḥ
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:180"/>prāg arkaḥ svāhayā yutaḥ paścāt |
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:181"/>sārasvato janānāṃ
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:182"/>vāṇīṃ sārasvatīṃ sṛjati ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:183"/>mantraḥ | oṃ arkamālini kiṇi 2 svāhā | sarasvatyā agrato mantrasya lakṣakṛtapūrvasevaḥ | paścāt sarasvatyā ghṛtaprasṛtamātraṃ saṃgṛhya (em., gṛhya) saptajaptaṃ pibataḥ | māsena sārasvatīṃ vāṇīṃ dadāti | tathodakapānān māsena | kevalaṃ (em., kevala°) ghṛtapānāt ṣaṇmāsena divyavāṇīṃ dadāti 2 ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:184"/>muṇḍe śravaṇapiśāciny
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:185"/>% m+ṇ+e ś+avaṇapiśā[9\recto]ciny
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:186"/>opaśrutikaḥ sadīpako mantraḥ |
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:187"/>varṇayati vāmakarṇe
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:188"/>sa eva viparītapadapaṅktiḥ ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:189"/>% em. °pa&lt;|ṃ|&gt;ktiḥ!
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:190"/>oṃ śravaṇapiśācini muṇḍe svāhā | anena kuṣṭhaṃ (conj., kuṣṭha+) + + + + + + + ṅghriyugalaṃ mukhaṃ śayyāyāṃ svapan svapnam upalabhate | śubham aśubhaṃ vā na saṃdehaḥ | 2 |
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:191"/>āhṛtya pakṣam ekaṃ
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:192"/>piṇyākaṃ girikumārikāmnātaḥ |
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:193"/>ājyāktabilvahavanād
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:194"/>rājyaṃ dadyān na saṃdehaḥ ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:195"/>mantraḥ | oṃ girikumārike māte rājyaṃ me sādhaya 25 ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:196"/>% gi[Ms V 4\verso]rikumārike
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:197"/>durge vidurgiṇīti
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:198"/>kṣīradrumasāmidhena (em., °sami) śatahomāt |
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:199"/>grāmaṃ dhruvaṃ prayacchati
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:200"/>pusāṃ niśāyāṃ puraścaraṇanirapekṣaḥ ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:201"/>mantraḥ | oṃ durge vidurgiṇi svāhā | vaṭāśvatthānāṃ samidhāṃ samānavatsāyāḥ (em., °vatsāyā) kṣīreṇa grāmanāmagraheṇa homānte grāmaṃ labhate 33 (!?) ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:202"/>megholkāya svāhā
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:203"/>sapraṇavaṃ kiraṇamālino hṛdayam |
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:204"/>hemno lakṣaṃ dadyāt
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:205"/>palāśasamidhāṃ tu niyutahomena ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:206"/>mantraḥ | oṃ megholkāya svāhā | gaṇapateḥ | oṃ khagolkāya svāhā | kiraṇamālinaḥ | (corr., °mālino) dvāv apy etau samānaphaladau 2 |
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:207"/>karṇāmoṭī japtā
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:208"/>hūṃphaṭkārānvitā caturlakṣam |
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:209"/>ākarṣaty ekadināt
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:210"/>tribhuvanam api rājikāhavanāt ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:211"/>mantraḥ | oṃ karṇāmoṭī amukam ākarṣaya hūṃ phaṭ | cāmuṇḍāyā agrataś (em., cāmuṇḍāyāgrataś) caturlakṣajapto &#x27;yaṃ mantraḥ | paścāt khadirāgnau rājikāhomāt striyaṃ vā puruṣam vā ākarṣayaty ekadine[9\verso]naiva 28 ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:212"/>rakte raktini japtaṃ
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:213"/>kajjalam amburuhavarttinirvṛttam (em., °nivṛttaṃ) |
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:214"/>subhagayati narakaraṅke
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:215"/>samupāttaṃ (em., samupāntaṃ) tad vasāsekaiḥ (corr., vaśāsekaiḥ) ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:216"/>mantraḥ | oṃ rakte raktini svāhā | sarvaraktopacāreṇa sādhyā || 29
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:217"/>candramukhi kāli japtaṃ
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:218"/>prathamāntimadīpakānusandhānāt |
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:219"/>akhilaṃ bhūmaṇḍalam ā-
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:220"/>jñākaratāṃ nayati sorṇeyam || 20 (!?)
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:221"/>oṃ candramukhi kāli ūrṇe (corr., urṇe) svāhā || 30
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:222"/>kandarpāya svāhety
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:223"/>añjanaparidagdham añjanakriyayā |
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:224"/>subhagayati karivarāṅgaja-
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:225"/>tamālanīlotpalonmiśram ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:226"/>oṃ kandarpāya svāheti mantraḥ | karivarāṅgajaṃ (em., karivarāṅgaṃ) hastimadaṃ tamālaṃ tamālapatraṃ nīlotpalapatraṃ ca | anupāttam añjanakriyayā raktamālyāmbaradharo raktacandanānuliptatanuḥ (em., °candranā°) sujaptamantreṇa kṛtarakṣāparikaraḥ |
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:227"/>kṛṣṇayor ekatare dine mātṛsthāne catuṣpathe śmaśāne vā rakṣādikaṃ kṛtvā nīlāñjanaṃ cūrṇīkṛtya tāmraghaṭikāyāṃ prakṣipya uparatasubhagastriyāyā (em., °striyā) bhage kṣiptvā gāḍhaṃ pidhānaṃ dattvā dahet |
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:228"/>dagdhe sati taṃ gṛhītvā gṛham ānīya kāmadevasya maṇḍalakaṃ likhitvā pūjāṃ ca kṛtvā tamālapatranīlotpalahastimadaiḥ (em., °dadaiḥ) saha saṃyojya rajate sauvarṇe vā bhājane kṛtvā maṇḍalake saṃsthāpyābhimantrayed aṣṭaśataṃ sahasraṃ vā tenāñjitanayano bhavati strīṇāṃ kāmadeva iti | puruṣahṛdaye (em., °hṛdaye) prakṣipya dagdhaṃ puruṣavaśīkaraṇam  31 ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:229"/>nayanamanoharisiddhaṃ
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:230"/>% conj., nayanamano + +i +i +ṃ
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:231"/>sugandhajaṭikādaśāparijvalitaṃ
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:232"/>% conj., s+ga + [10\recto]jaṭikā°
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:233"/>kapilagavāṃ ghṛtajātaṃ
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:234"/>kajjalam asamaṃ priyaṃ karaṇam ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:235"/>mantraḥ | oṃ nayanamanohari svāhā | śeṣaṃ sugamaṃ 32 ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:236"/>[+oṃ?] kāmasare svāhety
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:237"/>% kām+sar+ svāh+ty
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:238"/>ahivadanaparipluṣṭam añjanaṃ vaśakṛt (corr., vasakṛt) |
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:239"/>karinakhatagaraṃ kuṣṭhaṃ (em., kuṣṭha°)
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:240"/>bhramarāgurubhiḥ samaṃ piṣṭaṃ ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:241"/>% ka ma sa ra sv&#x27;a h&#x27;a | sbrul gyi khar bsregs mig sman ni || ru rta rgya spos aa kar gnag | glang chen seng btags dbang du {139a3} sdud; |
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:242"/>mantraḥ | oṃ kāmasare (em., kāme sare) svāhā | kṛtāyutapūrvasevo hastinakhaṃ nīlāñjanasahitaṃ kandarpavidhānadagdhaṃ paścāt tagarakuṣṭhabhramarāgurubhiḥ sahaikīkṛtya sūkṣmaṃ cūrṇayitvā pūrvavat pidhāyāṣṭasahasraṃ japet | sarvajagadvaśīkaraṇam añjanam | bhramarāguruḥ kṛṣṇāguruḥ | 33 ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:243"/>oṃ ṣṭroṃ bandhety añjanam
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:244"/>avaśavaśīkaraṇakajjalaṃ jñeyam |
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:245"/>kaṅguniṣekān nirbhara-
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:246"/>turagakhurasthātasamupāttam (em., samupāntaṃ) ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:247"/>mantraḥ | oṃ ṣṭroṃ bandha svāhā | turagakhura eva sthālakaṃ kṛtvā kaṅguniṣekenāpūrya turagakhurasthālakam aparasmin turagakhurasthālake kajjalaṃ gṛhnīyāt | uṣṇīṣacakravartibhagavato &#x27;grataḥ pūjāṃ kṛtvābhimantrayet | kaṅguniṣekaṃ (em., tkaṅgu°) jyotiṣmatītailam (em., jotismatītailaṃ) 34
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:248"/>oṃ mantravara itīmaṃ
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:249"/>prathamāntyavarṇasaṃyuktaṃ | (em., °āntyaṃ)
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:250"/>tiṣṭhati japatām aniśaṃ
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:251"/>trailokyaṃ dāsabhāvena ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:252"/>oṃ mantravare amukaṃ me ātmanā saha sadhanaparivāraṃ vaśam (corr., vasam) ānaya svāhā | yam icchati vaśīkartum (em., vasīkartuṃ) tam agrato manasā dhyātvā japaṃ kuryāt | dāsatvam anugacchati 35 ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:253"/>[10\verso] naraśirasi dvijarajjvā
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:254"/>caṇḍeśvaracaraṇagharṣaṇāracitam (em., °pyarthaṇā°) | (anne cāṇḍeśvara°)
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:255"/>jvarayati katipayadivasair
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:256"/>arātināmnā dhunaś caṇḍaḥ ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:257"/>oṃ dhunaś caṇḍa amukaṃ jvareṇa māraya hūṃ phaṭ | naraśirasi narakapāle | dvija iti brāhmaṇaḥ tasya keśena rajjuṃ kṛtvā | caṇḍeśvaro mahādevaḥ | tasyāpanītanirmālyam (anne tasyāpanītaṃ nirmālyam) | caraṇam iti sādhyapādadhūliḥ |
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:258"/>sarvam ekīkṛtya kapāle nyasya puruṣajaṅghāsthimanthanena dvijanmakeśarajjvā karṣitena mantram uccāryoccārya (em., uccāryocārya) mantrayataḥ | trirātreṇa mahāpuruṣam api jvarayati 36 ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:259"/>ādyāntasaṃprayuktā (em., adyā°)
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:260"/>yakṣī saptākṣarā parijñeyā |
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:261"/>subhagayati bhage bhuga iti
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:262"/>japtā catvāri lakṣāṇi ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:263"/>mantraḥ || oṃ bhage bhuge svāhā || eṣa hi mantraś caturlakṣajapto māṣabhojanena | trilokavartinyo raṇḍā vaśībhavanti ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:264"/>% scil. 37
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:265"/>culuke ṣaṭkaṃ japtvā
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:266"/>yakṣaṃ yakṣīṃ (em., yakṣī) samakṣam īkṣante |
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:267"/>grāmottaravaṭasamidhā (em., °samidhānāṃ)
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:268"/>homāt trimadhurāktānām ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:269"/>pratyuṣasi udakamadhye ādityabimbopari culukaṣaṭkaṃ dadyāt | grāmottaravaṭādhastād vaṭasamidbhir eva trimadhurāktābhir (em., °āktābhi) homayataḥ | yakṣaṃ yakṣīṃ (em., yakṣī) samakṣam īkṣate mantraḥ sa eva pūrvoktaḥ | oṃ bhage bhuge svāhā | siddhe satīyaṃ yasmai yādṛśaṃ rocate tasmai tādṛśaṃ varaṃ dadāti 38 ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:270"/>vanasarasi girivare vā
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:271"/>pakṣaṃ sā + + + + + + + + [11\recto]taḥ |
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:272"/>% śākopahāraparivasataḥ most likely
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:273"/>vīravijayaṃ vidhatte
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:274"/>gagane varacakravartitvam ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:275"/>āḥ khaṃ vīra | pakṣam ekaṃ sākopahāreṇa parivasato ayaṃ mantrarājo vijayakaro + + + + + + nagāmināṃ madhye vidyādharacakravartirājyaṃ dadāti 39 ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:276"/>oṃ rudriṇi svāhety
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:277"/>umāhṛdayaṃ ṣaḍakṣaraṃ japtam | % metre?
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:278"/>paripūrayati manoratham
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:279"/>abhinavaphalinī prasūtānām ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:280"/>phalinī priyaṅguḥ (em., prayaṅguḥ) | tasyāḥ kusumahomān mahāpuṣṭiṃ karoti 40 ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:281"/>gaṇajayagaṇapatihṛdayaṃ
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:282"/>praṇavasakhaṃ namo dīpakopetaṃ | % metre?
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:283"/>akṣaralakṣaṃ japtaṃ
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:284"/>nityaṃ mantrī puro homāt ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:285"/>sarvatra gaṇamadhye jayaṃ karoti || gaṇajayaḥ ko &#x27;sau gaṇapatihṛdayaṃ kathaṃ jayakṛt puro guggulus tasya homataḥ | oṃ gaṇa namaḥ gaṇajaya svāhā 41 || [fleuron] ||
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:286"/>kalyāṇakāmadhenuvivaraṇaṃ samāptam || [fleuron || ]
+<lb n="SA_T01_Nāgārjuna_Kalyāṇakāmadhenu-and-°vivaraṇa:287"/>adds: [+ + + and some numbers deleted] samvat ā tha pta vaisākhe śukle pustam idaṃ likhitam iti ||
+    </body>
+  </text>
+</TEI>

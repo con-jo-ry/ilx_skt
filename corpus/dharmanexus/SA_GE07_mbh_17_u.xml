@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mahābhārata: Mahāprasthānikaparvan</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Collection / category: Epic / GE07 (GE07 Mahābhārata)
+Source: GRETIL (Göttingen Register of Electronic Texts in Indian Languages)
+Link: https://gretil.sub.uni-goettingen.de/gretil/1sanskr/2epic/mbh/mbh17u.htm
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (not determined): not determined</note>
+          <idno type="dharmanexus">SA_GE07_mbh_17_u</idno>
+          <ref target="https://dharmamitra.org/nexus/db/sa/SA_GE07_mbh_17_u/text">https://dharmamitra.org/nexus/db/sa/SA_GE07_mbh_17_u/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-13">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_GE07_mbh_17_u:0"/>17,000.000*0001_01 nārāyaṇaṃ namaskṛtya naraṃ caiva narottamam
+<lb n="SA_GE07_mbh_17_u:1"/>17,000.000*0001_02 devīṃ sarasvatīṃ caiva tato jayam udīrayet
+<lb n="SA_GE07_mbh_17_u:2"/>17,000.000*0002_01 * * * * * * * satyavatīhṛdayanandano vyāsaḥ
+<lb n="SA_GE07_mbh_17_u:3"/>17,000.000*0002_02 yasyāsyakamalagalitaṃ vāṅmadhupuṇyaṃ jagat pibati
+<lb n="SA_GE07_mbh_17_u:4"/>17,001.001 janamejaya uvāca
+<lb n="SA_GE07_mbh_17_u:5"/>17,001.001a evaṃ vṛṣṇyandhakakule śrutvā mausalam āhavam
+<lb n="SA_GE07_mbh_17_u:6"/>17,001.001c pāṇḍavāḥ kim akurvanta tathā kṛṣṇe divaṃ gate
+<lb n="SA_GE07_mbh_17_u:7"/>17,001.002 vaiśaṃpāyana uvāca
+<lb n="SA_GE07_mbh_17_u:8"/>17,001.002a śrutvaiva kauravo rājā vṛṣṇīnāṃ kadanaṃ mahat
+<lb n="SA_GE07_mbh_17_u:9"/>17,001.002c prasthāne matim ādhāya vākyam arjunam abravīt
+<lb n="SA_GE07_mbh_17_u:10"/>17,001.003a kālaḥ pacati bhūtāni sarvāṇy eva mahāmate
+<lb n="SA_GE07_mbh_17_u:11"/>17,001.003c karmanyāsam ahaṃ manye tvam api draṣṭum arhasi
+<lb n="SA_GE07_mbh_17_u:12"/>17,001.004a ity uktaḥ sa tu kaunteyaḥ kālaḥ kāla iti bruvan
+<lb n="SA_GE07_mbh_17_u:13"/>17,001.004c anvapadyata tad vākyaṃ bhrātur jyeṣṭhasya vīryavān
+<lb n="SA_GE07_mbh_17_u:14"/>17,001.005a arjunasya mataṃ jñātvā bhīmaseno yamau tathā
+<lb n="SA_GE07_mbh_17_u:15"/>17,001.005c anvapadyanta tad vākyaṃ yad uktaṃ savyasācinā
+<lb n="SA_GE07_mbh_17_u:16"/>17,001.006a tato yuyutsum ānāyya pravrajan dharmakāmyayā
+<lb n="SA_GE07_mbh_17_u:17"/>17,001.006c rājyaṃ paridadau sarvaṃ vaiśyāputre yudhiṣṭhiraḥ
+<lb n="SA_GE07_mbh_17_u:18"/>17,001.007a abhiṣicya svarājye tu taṃ rājānaṃ parikṣitam
+<lb n="SA_GE07_mbh_17_u:19"/>17,001.007c duḥkhārtaś cābravīd rājā subhadrāṃ pāṇḍavāgrajaḥ
+<lb n="SA_GE07_mbh_17_u:20"/>17,001.008a eṣa putrasya te putraḥ kururājo bhaviṣyati
+<lb n="SA_GE07_mbh_17_u:21"/>17,001.008c yadūnāṃ pariśeṣaś ca vajro rājā kṛtaś ca ha
+<lb n="SA_GE07_mbh_17_u:22"/>17,001.009a parikṣid dhāstinapure śakraprasthe tu yādavaḥ
+<lb n="SA_GE07_mbh_17_u:23"/>17,001.009c vajro rājā tvayā rakṣyo mā cādharme manaḥ kṛthāḥ
+<lb n="SA_GE07_mbh_17_u:24"/>17,001.010a ity uktvā dharmarājaḥ sa vāsudevasya dhīmataḥ
+<lb n="SA_GE07_mbh_17_u:25"/>17,001.010c mātulasya ca vṛddhasya rāmādīnāṃ tathaiva ca
+<lb n="SA_GE07_mbh_17_u:26"/>17,001.011a mātṛbhiḥ saha dharmātmā kṛtvodakam atandritaḥ
+<lb n="SA_GE07_mbh_17_u:27"/>17,001.011c śrāddhāny uddiśya sarveṣāṃ cakāra vidhivat tadā
+<lb n="SA_GE07_mbh_17_u:28"/>17,001.011d*0003_01 dvaipāyanaṃ nāradaṃ ca mārkaṇḍeyaṃ tapodhanam
+<lb n="SA_GE07_mbh_17_u:29"/>17,001.011d*0003_02 bhāradvājaṃ yājñavalkyaṃ harim uddiśya yatnavān
+<lb n="SA_GE07_mbh_17_u:30"/>17,001.011d*0003_03 abhojayat svādu bhojyaṃ kīrtayitvā ca śārṅgiṇam
+<lb n="SA_GE07_mbh_17_u:31"/>17,001.012a dadau ratnāni vāsāṃsi grāmān aśvān rathān api
+<lb n="SA_GE07_mbh_17_u:32"/>17,001.012c striyaś ca dvijamukhyebhyo gavāṃ śatasahasraśaḥ
+<lb n="SA_GE07_mbh_17_u:33"/>17,001.013a kṛpam abhyarcya ca gurum arthamānapuraskṛtam
+<lb n="SA_GE07_mbh_17_u:34"/>17,001.013b*0004_01 āhūya bharataśreṣṭha saṃniveśyāsane tadā
+<lb n="SA_GE07_mbh_17_u:35"/>17,001.013c śiṣyaṃ parikṣitaṃ tasmai dadau bharatasattamaḥ
+<lb n="SA_GE07_mbh_17_u:36"/>17,001.014a tatas tu prakṛtīḥ sarvāḥ samānāyya yudhiṣṭhiraḥ
+<lb n="SA_GE07_mbh_17_u:37"/>17,001.014c sarvam ācaṣṭa rājarṣiś cikīrṣitam athātmanaḥ
+<lb n="SA_GE07_mbh_17_u:38"/>17,001.015a te śrutvaiva vacas tasya paurajānapadā janāḥ
+<lb n="SA_GE07_mbh_17_u:39"/>17,001.015c bhṛśam udvignamanaso nābhyanandanta tad vacaḥ
+<lb n="SA_GE07_mbh_17_u:40"/>17,001.016a naivaṃ kartavyam iti te tadocus te narādhipam
+<lb n="SA_GE07_mbh_17_u:41"/>17,001.016c na ca rājā tathākārṣīt kālaparyāyadharmavit
+<lb n="SA_GE07_mbh_17_u:42"/>17,001.017a tato &#x27;numānya dharmātmā paurajānapadaṃ janam
+<lb n="SA_GE07_mbh_17_u:43"/>17,001.017c gamanāya matiṃ cakre bhrātaraś cāsya te tadā
+<lb n="SA_GE07_mbh_17_u:44"/>17,001.017d*0005_01 vartamāne vivāde tu vāstuvikrayaṇaṃ prati
+<lb n="SA_GE07_mbh_17_u:45"/>17,001.017d*0005_02 dhanecchā yugapat prāptā kṣetrataḥ svāmibhūbhṛtām
+<lb n="SA_GE07_mbh_17_u:46"/>17,001.017d*0005_03 prāptaṃ kaliyugaṃ jñātvā sahadevo hasann iva
+<lb n="SA_GE07_mbh_17_u:47"/>17,001.017d*0005_04 rājñas tu kathayām āsa dharmo naṣṭas tu bhārata
+<lb n="SA_GE07_mbh_17_u:48"/>17,001.017d*0005_05 rājā ca durmanā rājan paryāptaṃ jīvitaṃ mama
+<lb n="SA_GE07_mbh_17_u:49"/>17,001.017d*0006_01 iti cintya gate rājan govinde dharmadhāraṇe
+<lb n="SA_GE07_mbh_17_u:50"/>17,001.018a tataḥ sa rājā kauravyo dharmaputro yudhiṣṭhiraḥ
+<lb n="SA_GE07_mbh_17_u:51"/>17,001.018c utsṛjyābharaṇāny aṅgāj jagṛhe valkalāny uta
+<lb n="SA_GE07_mbh_17_u:52"/>17,001.019a bhīmārjunau yamau caiva draupadī ca yaśasvinī
+<lb n="SA_GE07_mbh_17_u:53"/>17,001.019c tathaiva sarve jagṛhur valkalāni janādhipa
+<lb n="SA_GE07_mbh_17_u:54"/>17,001.020a vidhivat kārayitveṣṭiṃ naiṣṭhikīṃ bharatarṣabha
+<lb n="SA_GE07_mbh_17_u:55"/>17,001.020c samutsṛjyāpsu sarve &#x27;gnīn pratasthur narapuṃgavāḥ
+<lb n="SA_GE07_mbh_17_u:56"/>17,001.021a tataḥ praruruduḥ sarvāḥ striyo dṛṣṭvā nararṣabhān
+<lb n="SA_GE07_mbh_17_u:57"/>17,001.021c prasthitān draupadīṣaṣṭhān purā dyūtajitān yathā
+<lb n="SA_GE07_mbh_17_u:58"/>17,001.022a harṣo &#x27;bhavac ca sarveṣāṃ bhrātṝṇāṃ gamanaṃ prati
+<lb n="SA_GE07_mbh_17_u:59"/>17,001.022c yudhiṣṭhiramataṃ jñātvā vṛṣṇikṣayam avekṣya ca
+<lb n="SA_GE07_mbh_17_u:60"/>17,001.023a bhrātaraḥ pañca kṛṣṇā ca ṣaṣṭhī śvā caiva saptamaḥ
+<lb n="SA_GE07_mbh_17_u:61"/>17,001.023c ātmanā saptamo rājā niryayau gajasāhvayāt
+<lb n="SA_GE07_mbh_17_u:62"/>17,001.023e paurair anugato dūraṃ sarvair antaḥpurais tathā
+<lb n="SA_GE07_mbh_17_u:63"/>17,001.024a na cainam aśakat kaś cin nivartasveti bhāṣitum
+<lb n="SA_GE07_mbh_17_u:64"/>17,001.024c nyavartanta tataḥ sarve narā nagaravāsinaḥ
+<lb n="SA_GE07_mbh_17_u:65"/>17,001.025a kṛpaprabhṛtayaś caiva yuyutsuṃ paryavārayan
+<lb n="SA_GE07_mbh_17_u:66"/>17,001.025c viveśa gaṅgāṃ kauravya ulūpī bhujagātmajā
+<lb n="SA_GE07_mbh_17_u:67"/>17,001.026a citrāṅgadā yayau cāpi maṇipūrapuraṃ prati
+<lb n="SA_GE07_mbh_17_u:68"/>17,001.026c śiṣṭāḥ parikṣitaṃ tv anyā mātaraḥ paryavārayan
+<lb n="SA_GE07_mbh_17_u:69"/>17,001.027a pāṇḍavāś ca mahātmāno draupadī ca yaśasvinī
+<lb n="SA_GE07_mbh_17_u:70"/>17,001.027c kṛtopavāsāḥ kauravya prayayuḥ prāṅmukhās tataḥ
+<lb n="SA_GE07_mbh_17_u:71"/>17,001.028a yogayuktā mahātmānas tyāgadharmam upeyuṣaḥ
+<lb n="SA_GE07_mbh_17_u:72"/>17,001.028c abhijagmur bahūn deśān saritaḥ parvatāṃs tathā
+<lb n="SA_GE07_mbh_17_u:73"/>17,001.029a yudhiṣṭhiro yayāv agre bhīmas tu tadanantaram
+<lb n="SA_GE07_mbh_17_u:74"/>17,001.029c arjunas tasya cānv eva yamau caiva yathākramam
+<lb n="SA_GE07_mbh_17_u:75"/>17,001.030a pṛṣṭhatas tu varārohā śyāmā padmadalekṣaṇā
+<lb n="SA_GE07_mbh_17_u:76"/>17,001.030c draupadī yoṣitāṃ śreṣṭhā yayau bharatasattama
+<lb n="SA_GE07_mbh_17_u:77"/>17,001.031a śvā caivānuyayāv ekaḥ pāṇḍavān prasthitān vane
+<lb n="SA_GE07_mbh_17_u:78"/>17,001.031c krameṇa te yayur vīrā lauhityaṃ salilārṇavam
+<lb n="SA_GE07_mbh_17_u:79"/>17,001.032a gāṇḍīvaṃ ca dhanur divyaṃ na mumoca dhanaṃjayaḥ
+<lb n="SA_GE07_mbh_17_u:80"/>17,001.032c ratnalobhān mahārāja tau cākṣayyau maheṣudhī
+<lb n="SA_GE07_mbh_17_u:81"/>17,001.033a agniṃ te dadṛśus tatra sthitaṃ śailam ivāgrataḥ
+<lb n="SA_GE07_mbh_17_u:82"/>17,001.033c mārgam āvṛtya tiṣṭhantaṃ sākṣāt puruṣavigraham
+<lb n="SA_GE07_mbh_17_u:83"/>17,001.034a tato devaḥ sa saptārciḥ pāṇḍavān idam abravīt
+<lb n="SA_GE07_mbh_17_u:84"/>17,001.034c bho bho pāṇḍusutā vīrāḥ pāvakaṃ māṃ vibodhata
+<lb n="SA_GE07_mbh_17_u:85"/>17,001.035a yudhiṣṭhira mahābāho bhīmasena paraṃtapa
+<lb n="SA_GE07_mbh_17_u:86"/>17,001.035c arjunāśvisutau vīrau nibodhata vaco mama
+<lb n="SA_GE07_mbh_17_u:87"/>17,001.036a aham agniḥ kuruśreṣṭhā mayā dagdhaṃ ca khāṇḍavam
+<lb n="SA_GE07_mbh_17_u:88"/>17,001.036c arjunasya prabhāveṇa tathā nārāyaṇasya ca
+<lb n="SA_GE07_mbh_17_u:89"/>17,001.037a ayaṃ vaḥ phalguno bhrātā gāṇḍīvaṃ paramāyudham
+<lb n="SA_GE07_mbh_17_u:90"/>17,001.037c parityajya vanaṃ yātu nānenārtho &#x27;sti kaś cana
+<lb n="SA_GE07_mbh_17_u:91"/>17,001.038a cakraratnaṃ tu yat kṛṣṇe sthitam āsīn mahātmani
+<lb n="SA_GE07_mbh_17_u:92"/>17,001.038c gataṃ tac ca punar haste kālenaiṣyati tasya ha
+<lb n="SA_GE07_mbh_17_u:93"/>17,001.039a varuṇād āhṛtaṃ pūrvaṃ mayaitat pārthakāraṇāt
+<lb n="SA_GE07_mbh_17_u:94"/>17,001.039c gāṇḍīvaṃ kārmukaśreṣṭhaṃ varuṇāyaiva dīyatām
+<lb n="SA_GE07_mbh_17_u:95"/>17,001.040a tatas te bhrātaraḥ sarve dhanaṃjayam acodayan
+<lb n="SA_GE07_mbh_17_u:96"/>17,001.040c sa jale prākṣipat tat tu tathākṣayyau maheṣudhī
+<lb n="SA_GE07_mbh_17_u:97"/>17,001.040d*0007_01 yathā ghanasya gagane śabdo bhavati bhārata
+<lb n="SA_GE07_mbh_17_u:98"/>17,001.040d*0007_02 salile kṣipyamāṇasya gāṇḍīvasya tathā hy abhūt
+<lb n="SA_GE07_mbh_17_u:99"/>17,001.041a tato &#x27;gnir bharataśreṣṭha tatraivāntaradhīyata
+<lb n="SA_GE07_mbh_17_u:100"/>17,001.041c yayuś ca pāṇḍavā vīrās tatas te dakṣiṇāmukhāḥ
+<lb n="SA_GE07_mbh_17_u:101"/>17,001.042a tatas te tūttareṇaiva tīreṇa lavaṇāmbhasaḥ
+<lb n="SA_GE07_mbh_17_u:102"/>17,001.042c jagmur bharataśārdūla diśaṃ dakṣiṇapaścimam
+<lb n="SA_GE07_mbh_17_u:103"/>17,001.042d*0008_01 jagmur bharataśārdūla tīreṇa lavaṇāmbhasaḥ
+<lb n="SA_GE07_mbh_17_u:104"/>17,001.042d*0008_02 tataḥ punaḥ samāvṛttā jagmur dakṣiṇapaścimām
+<lb n="SA_GE07_mbh_17_u:105"/>17,001.043a tataḥ punaḥ samāvṛttāḥ paścimāṃ diśam eva te
+<lb n="SA_GE07_mbh_17_u:106"/>17,001.043c dadṛśur dvārakāṃ cāpi sāgareṇa pariplutām
+<lb n="SA_GE07_mbh_17_u:107"/>17,001.043d*0009_01 haripādāṅkavinyāsatīrthīkṛtamahābhuvam
+<lb n="SA_GE07_mbh_17_u:108"/>17,001.043d*0009_02 manobhiḥ pūjayantaś ca janārdanam aninditāḥ
+<lb n="SA_GE07_mbh_17_u:109"/>17,001.044a udīcīṃ punar āvṛttya yayur bharatasattamāḥ
+<lb n="SA_GE07_mbh_17_u:110"/>17,001.044c prādakṣiṇyaṃ cikīrṣantaḥ pṛthivyā yogadharmiṇaḥ
+<lb n="SA_GE07_mbh_17_u:111"/>17,002.001 vaiśaṃpāyana uvāca
+<lb n="SA_GE07_mbh_17_u:112"/>17,002.001a tatas te niyatātmāna udīcīṃ diśam āsthitāḥ
+<lb n="SA_GE07_mbh_17_u:113"/>17,002.001b*0010_01 tatas te brāhmaṇīṃ snātvā dṛṣṭvā devaṃ jale sthitam
+<lb n="SA_GE07_mbh_17_u:114"/>17,002.001b*0010_02 madhyamāṃśaṃ śivaṃ gatvā dṛṣṭvā rudraṃ mahābalam
+<lb n="SA_GE07_mbh_17_u:115"/>17,002.001b*0010_03 prayāgapañcake snātvā gatvā himagiriṃ śubham
+<lb n="SA_GE07_mbh_17_u:116"/>17,002.001b*0010_04 īśānaṃ tu namaskṛtya snātvā haṃsodake śubhe
+<lb n="SA_GE07_mbh_17_u:117"/>17,002.001b*0010_05 devadevaṃ tu kedāraṃ dṛṣṭvā spṛṣṭvā prayatnataḥ
+<lb n="SA_GE07_mbh_17_u:118"/>17,002.001b*0010_06 piṇḍaṃ dattvā vidhānena pitṝn devāṃś ca tarpya vai
+<lb n="SA_GE07_mbh_17_u:119"/>17,002.001b*0010_07 udakaṃ vidhivat pītvā tato nandāṃ jagāma vai
+<lb n="SA_GE07_mbh_17_u:120"/>17,002.001b*0010_08 mahāpanthānam āvṛtya himavantaṃ jagāma ha
+<lb n="SA_GE07_mbh_17_u:121"/>17,002.001c dadṛśur yogayuktāś ca himavantaṃ mahāgirim
+<lb n="SA_GE07_mbh_17_u:122"/>17,002.002a taṃ cāpy atikramantas te dadṛśur vālukārṇavam
+<lb n="SA_GE07_mbh_17_u:123"/>17,002.002c avaikṣanta mahāśailaṃ meruṃ śikhariṇāṃ varam
+<lb n="SA_GE07_mbh_17_u:124"/>17,002.003a teṣāṃ tu gacchatāṃ śīghraṃ sarveṣāṃ yogadharmiṇām
+<lb n="SA_GE07_mbh_17_u:125"/>17,002.003c yājñasenī bhraṣṭayogā nipapāta mahītale
+<lb n="SA_GE07_mbh_17_u:126"/>17,002.004a tāṃ tu prapatitāṃ dṛṣṭvā bhīmaseno mahābalaḥ
+<lb n="SA_GE07_mbh_17_u:127"/>17,002.004c uvāca dharmarājānaṃ yājñasenīm avekṣya ha
+<lb n="SA_GE07_mbh_17_u:128"/>17,002.005a nādharmaś caritaḥ kaś cid rājaputryā paraṃtapa
+<lb n="SA_GE07_mbh_17_u:129"/>17,002.005c kāraṇaṃ kiṃ nu tad rājan yat kṛṣṇā patitā bhuvi
+<lb n="SA_GE07_mbh_17_u:130"/>17,002.006 yudhiṣṭhira uvāca
+<lb n="SA_GE07_mbh_17_u:131"/>17,002.006a pakṣapāto mahān asyā viśeṣeṇa dhanaṃjaye
+<lb n="SA_GE07_mbh_17_u:132"/>17,002.006c tasyaitat phalam adyaiṣā bhuṅkte puruṣasattama
+<lb n="SA_GE07_mbh_17_u:133"/>17,002.007 vaiśaṃpāyana uvāca
+<lb n="SA_GE07_mbh_17_u:134"/>17,002.007a evam uktvānavekṣyaināṃ yayau dharmasuto nṛpaḥ
+<lb n="SA_GE07_mbh_17_u:135"/>17,002.007c samādhāya mano dhīmān dharmātmā puruṣarṣabhaḥ
+<lb n="SA_GE07_mbh_17_u:136"/>17,002.008a sahadevas tato dhīmān nipapāta mahītale
+<lb n="SA_GE07_mbh_17_u:137"/>17,002.008c taṃ cāpi patitaṃ dṛṣṭvā bhīmo rājānam abravīt
+<lb n="SA_GE07_mbh_17_u:138"/>17,002.009a yo &#x27;yam asmāsu sarveṣu śuśrūṣur anahaṃkṛtaḥ
+<lb n="SA_GE07_mbh_17_u:139"/>17,002.009c so &#x27;yaṃ mādravatīputraḥ kasmān nipatito bhuvi
+<lb n="SA_GE07_mbh_17_u:140"/>17,002.010 yudhiṣṭhira uvāca
+<lb n="SA_GE07_mbh_17_u:141"/>17,002.010*0011_01 sahadevo &#x27;pi dharmātmā sarvabuddhimatāṃ varaḥ
+<lb n="SA_GE07_mbh_17_u:142"/>17,002.010a ātmanaḥ sadṛśaṃ prājñaṃ naiṣo &#x27;manyata kaṃ cana
+<lb n="SA_GE07_mbh_17_u:143"/>17,002.010b*0012_01 kālatrayavidaś cāpi na me guhyaṃ prakāśitam
+<lb n="SA_GE07_mbh_17_u:144"/>17,002.010b*0012_02 saṃpratijñāgataś cāhaṃ nākariṣyaṃ janakṣayam
+<lb n="SA_GE07_mbh_17_u:145"/>17,002.010c tena doṣeṇa patitas tasmād eṣa nṛpātmajaḥ
+<lb n="SA_GE07_mbh_17_u:146"/>17,002.011 vaiśaṃpāyana uvāca
+<lb n="SA_GE07_mbh_17_u:147"/>17,002.011a ity uktvā tu samutsṛjya sahadevaṃ yayau tadā
+<lb n="SA_GE07_mbh_17_u:148"/>17,002.011c bhrātṛbhiḥ saha kaunteyaḥ śunā caiva yudhiṣṭhiraḥ
+<lb n="SA_GE07_mbh_17_u:149"/>17,002.012a kṛṣṇāṃ nipatitāṃ dṛṣṭvā sahadevaṃ ca pāṇḍavam
+<lb n="SA_GE07_mbh_17_u:150"/>17,002.012c ārto bandhupriyaḥ śūro nakulo nipapāta ha
+<lb n="SA_GE07_mbh_17_u:151"/>17,002.013a tasmin nipatite vīre nakule cārudarśane
+<lb n="SA_GE07_mbh_17_u:152"/>17,002.013c punar eva tadā bhīmo rājānam idam abravīt
+<lb n="SA_GE07_mbh_17_u:153"/>17,002.014a yo &#x27;yam akṣatadharmātmā bhrātā vacanakārakaḥ
+<lb n="SA_GE07_mbh_17_u:154"/>17,002.014c rūpeṇāpratimo loke nakulaḥ patito bhuvi
+<lb n="SA_GE07_mbh_17_u:155"/>17,002.015a ity ukto bhīmasenena pratyuvāca yudhiṣṭhiraḥ
+<lb n="SA_GE07_mbh_17_u:156"/>17,002.015c nakulaṃ prati dharmātmā sarvabuddhimatāṃ varaḥ
+<lb n="SA_GE07_mbh_17_u:157"/>17,002.016a rūpeṇa matsamo nāsti kaś cid ity asya darśanam
+<lb n="SA_GE07_mbh_17_u:158"/>17,002.016c adhikaś cāham evaika ity asya manasi sthitam
+<lb n="SA_GE07_mbh_17_u:159"/>17,002.017a nakulaḥ patitas tasmād āgaccha tvaṃ vṛkodara
+<lb n="SA_GE07_mbh_17_u:160"/>17,002.017c yasya yad vihitaṃ vīra so &#x27;vaśyaṃ tad upāśnute
+<lb n="SA_GE07_mbh_17_u:161"/>17,002.018a tāṃs tu prapatitān dṛṣṭvā pāṇḍavaḥ śvetavāhanaḥ
+<lb n="SA_GE07_mbh_17_u:162"/>17,002.018c papāta śokasaṃtaptas tato &#x27;nu paravīrahā
+<lb n="SA_GE07_mbh_17_u:163"/>17,002.019a tasmiṃs tu puruṣavyāghre patite śakratejasi
+<lb n="SA_GE07_mbh_17_u:164"/>17,002.019c mriyamāṇe durādharṣe bhīmo rājānam abravīt
+<lb n="SA_GE07_mbh_17_u:165"/>17,002.020a anṛtaṃ na smarāmy asya svaireṣv api mahātmanaḥ
+<lb n="SA_GE07_mbh_17_u:166"/>17,002.020c atha kasya vikāro &#x27;yaṃ yenāyaṃ patito bhuvi
+<lb n="SA_GE07_mbh_17_u:167"/>17,002.021 yudhiṣṭhira uvāca
+<lb n="SA_GE07_mbh_17_u:168"/>17,002.021a ekāhnā nirdaheyaṃ vai śatrūn ity arjuno &#x27;bravīt
+<lb n="SA_GE07_mbh_17_u:169"/>17,002.021c na ca tat kṛtavān eṣa śūramānī tato &#x27;patat
+<lb n="SA_GE07_mbh_17_u:170"/>17,002.022a avamene dhanur grāhān eṣa sarvāṃś ca phalgunaḥ
+<lb n="SA_GE07_mbh_17_u:171"/>17,002.022c yathā coktaṃ tathā caiva kartavyaṃ bhūtim icchatā
+<lb n="SA_GE07_mbh_17_u:172"/>17,002.023 vaiśaṃpāyana uvāca
+<lb n="SA_GE07_mbh_17_u:173"/>17,002.023a ity uktvā prasthito rājā bhīmo &#x27;tha nipapāta ha
+<lb n="SA_GE07_mbh_17_u:174"/>17,002.023c patitaś cābravīd bhīmo dharmarājaṃ yudhiṣṭhiram
+<lb n="SA_GE07_mbh_17_u:175"/>17,002.024a bho bho rājann avekṣasva patito &#x27;haṃ priyas tava
+<lb n="SA_GE07_mbh_17_u:176"/>17,002.024c kiṃnimittaṃ ca patanaṃ brūhi me yadi vettha ha
+<lb n="SA_GE07_mbh_17_u:177"/>17,002.025 yudhiṣṭhira uvāca
+<lb n="SA_GE07_mbh_17_u:178"/>17,002.025a atibhuktaṃ ca bhavatā prāṇena ca vikatthase
+<lb n="SA_GE07_mbh_17_u:179"/>17,002.025c anavekṣya paraṃ pārtha tenāsi patitaḥ kṣitau
+<lb n="SA_GE07_mbh_17_u:180"/>17,002.026 vaiśaṃpāyana uvāca
+<lb n="SA_GE07_mbh_17_u:181"/>17,002.026a ity uktvā taṃ mahābāhur jagāmānavalokayan
+<lb n="SA_GE07_mbh_17_u:182"/>17,002.026c śvā tv eko &#x27;nuyayau yas te bahuśaḥ kīrtito mayā
+<lb n="SA_GE07_mbh_17_u:183"/>17,003.001 vaiśaṃpāyana uvāca
+<lb n="SA_GE07_mbh_17_u:184"/>17,003.001a tataḥ saṃnādayañ śakro divaṃ bhūmiṃ ca sarvaśaḥ
+<lb n="SA_GE07_mbh_17_u:185"/>17,003.001c rathenopayayau pārtham ārohety abravīc ca tam
+<lb n="SA_GE07_mbh_17_u:186"/>17,003.002a sa bhrātṝn patitān dṛṣṭvā dharmarājo yudhiṣṭhiraḥ
+<lb n="SA_GE07_mbh_17_u:187"/>17,003.002c abravīc chokasaṃtaptaḥ sahasrākṣam idaṃ vacaḥ
+<lb n="SA_GE07_mbh_17_u:188"/>17,003.003a bhrātaraḥ patitā me &#x27;tra āgaccheyur mayā saha
+<lb n="SA_GE07_mbh_17_u:189"/>17,003.003c na vinā bhrātṛbhiḥ svargam icche gantuṃ sureśvara
+<lb n="SA_GE07_mbh_17_u:190"/>17,003.004a sukumārī sukhārhā ca rājaputrī puraṃdara
+<lb n="SA_GE07_mbh_17_u:191"/>17,003.004c sāsmābhiḥ saha gaccheta tad bhavān anumanyatām
+<lb n="SA_GE07_mbh_17_u:192"/>17,003.005 indra uvāca
+<lb n="SA_GE07_mbh_17_u:193"/>17,003.005a bhrātṝn drakṣyasi putrāṃs tvam agratas tridivaṃ gatān
+<lb n="SA_GE07_mbh_17_u:194"/>17,003.005c kṛṣṇayā sahitān sarvān mā śuco bharatarṣabha
+<lb n="SA_GE07_mbh_17_u:195"/>17,003.006a nikṣipya mānuṣaṃ dehaṃ gatās te bharatarṣabha
+<lb n="SA_GE07_mbh_17_u:196"/>17,003.006c anena tvaṃ śarīreṇa svargaṃ gantā na saṃśayaḥ
+<lb n="SA_GE07_mbh_17_u:197"/>17,003.007 yudhiṣṭhira uvāca
+<lb n="SA_GE07_mbh_17_u:198"/>17,003.007a ayaṃ śvā bhūtabhavyeśa bhakto māṃ nityam eva ha
+<lb n="SA_GE07_mbh_17_u:199"/>17,003.007c sa gaccheta mayā sārdham ānṛśaṃsyā hi me matiḥ
+<lb n="SA_GE07_mbh_17_u:200"/>17,003.008 indra uvāca
+<lb n="SA_GE07_mbh_17_u:201"/>17,003.008a amartyatvaṃ matsamatvaṃ ca rājañ;
+<lb n="SA_GE07_mbh_17_u:202"/>śriyaṃ kṛtsnāṃ mahatīṃ caiva kīrtim
+<lb n="SA_GE07_mbh_17_u:203"/>17,003.008c saṃprāpto &#x27;dya svargasukhāni ca tvaṃ;
+<lb n="SA_GE07_mbh_17_u:204"/>tyaja śvānaṃ nātra nṛśaṃsam asti
+<lb n="SA_GE07_mbh_17_u:205"/>17,003.009 yudhiṣṭhira uvāca
+<lb n="SA_GE07_mbh_17_u:206"/>17,003.009a anāryam āryeṇa sahasranetra;
+<lb n="SA_GE07_mbh_17_u:207"/>śakyaṃ kartuṃ duṣkaram etad ārya
+<lb n="SA_GE07_mbh_17_u:208"/>17,003.009c mā me śriyā saṃgamanaṃ tayāstu;
+<lb n="SA_GE07_mbh_17_u:209"/>yasyāḥ kṛte bhaktajanaṃ tyajeyam
+<lb n="SA_GE07_mbh_17_u:210"/>17,003.010 indra uvāca
+<lb n="SA_GE07_mbh_17_u:211"/>17,003.010a svarge loke śvavatāṃ nāsti dhiṣṇyam;
+<lb n="SA_GE07_mbh_17_u:212"/>iṣṭāpūrtaṃ krodhavaśā haranti
+<lb n="SA_GE07_mbh_17_u:213"/>17,003.010c tato vicārya kriyatāṃ dharmarāja;
+<lb n="SA_GE07_mbh_17_u:214"/>tyaja śvānaṃ nātra nṛśaṃsam asti
+<lb n="SA_GE07_mbh_17_u:215"/>17,003.011 yudhiṣṭhira uvāca
+<lb n="SA_GE07_mbh_17_u:216"/>17,003.011a bhaktatyāgaṃ prāhur atyantapāpaṃ;
+<lb n="SA_GE07_mbh_17_u:217"/>tulyaṃ loke brahmavadhyākṛtena
+<lb n="SA_GE07_mbh_17_u:218"/>17,003.011c tasmān nāhaṃ jātu kathaṃ canādya;
+<lb n="SA_GE07_mbh_17_u:219"/>tyakṣyāmy enaṃ svasukhārthī mahendra
+<lb n="SA_GE07_mbh_17_u:220"/>17,003.011d*0013_01 bhītaṃ bhaktaṃ nānyad astīti cārtaṃ
+<lb n="SA_GE07_mbh_17_u:221"/>17,003.011d*0013_02 prāptaṃ kṣīṇaṃ rakṣaṇe prāṇalipsum
+<lb n="SA_GE07_mbh_17_u:222"/>17,003.011d*0013_03 prāṇatyāgād apy ahaṃ nota moktuṃ
+<lb n="SA_GE07_mbh_17_u:223"/>17,003.011d*0013_04 yateyaṃ vai nityam etad vrataṃ me
+<lb n="SA_GE07_mbh_17_u:224"/>17,003.012 indra uvāca
+<lb n="SA_GE07_mbh_17_u:225"/>17,003.012a śunā dṛṣṭaṃ krodhavaśā haranti;
+<lb n="SA_GE07_mbh_17_u:226"/>yad dattam iṣṭaṃ vivṛtam atho hutaṃ ca
+<lb n="SA_GE07_mbh_17_u:227"/>17,003.012c tasmāc chunas tyāgam imaṃ kuruṣva;
+<lb n="SA_GE07_mbh_17_u:228"/>śunas tyāgāt prāpsyase devalokam
+<lb n="SA_GE07_mbh_17_u:229"/>17,003.013a tyaktvā bhrātṝn dayitāṃ cāpi kṛṣṇāṃ;
+<lb n="SA_GE07_mbh_17_u:230"/>prāpto lokaḥ karmaṇā svena vīra
+<lb n="SA_GE07_mbh_17_u:231"/>17,003.013c śvānaṃ cainaṃ na tyajase kathaṃ nu;
+<lb n="SA_GE07_mbh_17_u:232"/>tyāgaṃ kṛtsnaṃ cāsthito muhyase &#x27;dya
+<lb n="SA_GE07_mbh_17_u:233"/>17,003.014 yudhiṣṭhira uvāca
+<lb n="SA_GE07_mbh_17_u:234"/>17,003.014a na vidyate saṃdhir athāpi vigraho;
+<lb n="SA_GE07_mbh_17_u:235"/>mṛtair martyair iti lokeṣu niṣṭhā
+<lb n="SA_GE07_mbh_17_u:236"/>17,003.014c na te mayā jīvayituṃ hi śakyā;
+<lb n="SA_GE07_mbh_17_u:237"/>tasmāt tyāgas teṣu kṛto na jīvatām
+<lb n="SA_GE07_mbh_17_u:238"/>17,003.015a pratipradānaṃ śaraṇāgatasya;
+<lb n="SA_GE07_mbh_17_u:239"/>striyā vadho brāhmaṇasvāpahāraḥ
+<lb n="SA_GE07_mbh_17_u:240"/>17,003.015c mitradrohas tāni catvāri śakra;
+<lb n="SA_GE07_mbh_17_u:241"/>bhaktatyāgaś caiva samo mato me
+<lb n="SA_GE07_mbh_17_u:242"/>17,003.016 vaiśaṃpāyana uvāca
+<lb n="SA_GE07_mbh_17_u:243"/>17,003.016a tad dharmarājasya vaco niśamya;
+<lb n="SA_GE07_mbh_17_u:244"/>dharmasvarūpī bhagavān uvāca
+<lb n="SA_GE07_mbh_17_u:245"/>17,003.016c yudhiṣṭhiraṃ prītiyukto narendraṃ;
+<lb n="SA_GE07_mbh_17_u:246"/>ślakṣṇair vākyaiḥ saṃstavasaṃprayuktaiḥ
+<lb n="SA_GE07_mbh_17_u:247"/>17,003.017a abhijāto &#x27;si rājendra pitur vṛttena medhayā
+<lb n="SA_GE07_mbh_17_u:248"/>17,003.017c anukrośena cānena sarvabhūteṣu bhārata
+<lb n="SA_GE07_mbh_17_u:249"/>17,003.018a purā dvaitavane cāsi mayā putra parīkṣitaḥ
+<lb n="SA_GE07_mbh_17_u:250"/>17,003.018c pānīyārthe parākrāntā yatra te bhrātaro hatāḥ
+<lb n="SA_GE07_mbh_17_u:251"/>17,003.019a bhīmārjunau parityajya yatra tvaṃ bhrātarāv ubhau
+<lb n="SA_GE07_mbh_17_u:252"/>17,003.019c mātroḥ sāmyam abhīpsan vai nakulaṃ jīvam icchasi
+<lb n="SA_GE07_mbh_17_u:253"/>17,003.020a ayaṃ śvā bhakta ity eva tyakto devarathas tvayā
+<lb n="SA_GE07_mbh_17_u:254"/>17,003.020c tasmāt svarge na te tulyaḥ kaś cid asti narādhipa
+<lb n="SA_GE07_mbh_17_u:255"/>17,003.021a atas tavākṣayā lokāḥ svaśarīreṇa bhārata
+<lb n="SA_GE07_mbh_17_u:256"/>17,003.021c prāpto &#x27;si bharataśreṣṭha divyāṃ gatim anuttamām
+<lb n="SA_GE07_mbh_17_u:257"/>17,003.022a tato dharmaś ca śakraś ca marutaś cāśvināv api
+<lb n="SA_GE07_mbh_17_u:258"/>17,003.022c devā devarṣayaś caiva ratham āropya pāṇḍavam
+<lb n="SA_GE07_mbh_17_u:259"/>17,003.023a prayayuḥ svair vimānais te siddhāḥ kāmavihāriṇaḥ
+<lb n="SA_GE07_mbh_17_u:260"/>17,003.023c sarve virajasaḥ puṇyāḥ puṇyavāgbuddhikarmiṇaḥ
+<lb n="SA_GE07_mbh_17_u:261"/>17,003.024a sa taṃ rathaṃ samāsthāya rājā kurukulodvahaḥ
+<lb n="SA_GE07_mbh_17_u:262"/>17,003.024c ūrdhvam ācakrame śīghraṃ tejasāvṛtya rodasī
+<lb n="SA_GE07_mbh_17_u:263"/>17,003.025a tato devanikāyastho nāradaḥ sarvalokavit
+<lb n="SA_GE07_mbh_17_u:264"/>17,003.025c uvācoccais tadā vākyaṃ bṛhadvādī bṛhattapāḥ
+<lb n="SA_GE07_mbh_17_u:265"/>17,003.026a ye &#x27;pi rājarṣayaḥ sarve te cāpi samupasthitāḥ
+<lb n="SA_GE07_mbh_17_u:266"/>17,003.026c kīrtiṃ pracchādya teṣāṃ vai kururājo &#x27;dhitiṣṭhati
+<lb n="SA_GE07_mbh_17_u:267"/>17,003.027a lokān āvṛtya yaśasā tejasā vṛttasaṃpadā
+<lb n="SA_GE07_mbh_17_u:268"/>17,003.027c svaśarīreṇa saṃprāptaṃ nānyaṃ śuśruma pāṇḍavāt
+<lb n="SA_GE07_mbh_17_u:269"/>17,003.027d*0014_01 tejāṃsi yāni dṛṣṭāni bhūmiṣṭhena tvayā vibho
+<lb n="SA_GE07_mbh_17_u:270"/>17,003.027d*0014_02 veśmāni karmadevānāṃ paśyāmūni sahasraśaḥ
+<lb n="SA_GE07_mbh_17_u:271"/>17,003.028a nāradasya vacaḥ śrutvā rājā vacanam abravīt
+<lb n="SA_GE07_mbh_17_u:272"/>17,003.028c devān āmantrya dharmātmā svapakṣāṃś caiva pārthivān
+<lb n="SA_GE07_mbh_17_u:273"/>17,003.029a śubhaṃ vā yadi vā pāpaṃ bhrātṝṇāṃ sthānam adya me
+<lb n="SA_GE07_mbh_17_u:274"/>17,003.029c tad eva prāptum icchāmi lokān anyān na kāmaye
+<lb n="SA_GE07_mbh_17_u:275"/>17,003.030a rājñas tu vacanaṃ śrutvā devarājaḥ puraṃdaraḥ
+<lb n="SA_GE07_mbh_17_u:276"/>17,003.030c ānṛśaṃsyasamāyuktaṃ pratyuvāca yudhiṣṭhiram
+<lb n="SA_GE07_mbh_17_u:277"/>17,003.031a sthāne &#x27;smin vasa rājendra karmabhir nirjite śubhaiḥ
+<lb n="SA_GE07_mbh_17_u:278"/>17,003.031c kiṃ tvaṃ mānuṣyakaṃ sneham adyāpi parikarṣasi
+<lb n="SA_GE07_mbh_17_u:279"/>17,003.032a siddhiṃ prāpto &#x27;si paramāṃ yathā nānyaḥ pumān kva cit
+<lb n="SA_GE07_mbh_17_u:280"/>17,003.032c naiva te bhrātaraḥ sthānaṃ saṃprāptāḥ kurunandana
+<lb n="SA_GE07_mbh_17_u:281"/>17,003.033a adyāpi mānuṣo bhāvaḥ spṛśate tvāṃ narādhipa
+<lb n="SA_GE07_mbh_17_u:282"/>17,003.033c svargo &#x27;yaṃ paśya devarṣīn siddhāṃś ca tridivālayān
+<lb n="SA_GE07_mbh_17_u:283"/>17,003.034a yudhiṣṭhiras tu devendram evaṃvādinam īśvaram
+<lb n="SA_GE07_mbh_17_u:284"/>17,003.034c punar evābravīd dhīmān idaṃ vacanam arthavat
+<lb n="SA_GE07_mbh_17_u:285"/>17,003.035a tair vinā notsahe vastum iha daityanibarhaṇa
+<lb n="SA_GE07_mbh_17_u:286"/>17,003.035c gantum icchāmi tatrāhaṃ yatra me bhrātaro gatāḥ
+<lb n="SA_GE07_mbh_17_u:287"/>17,003.036a yatra sā bṛhatī śyāmā buddhisattvaguṇānvitā
+<lb n="SA_GE07_mbh_17_u:288"/>17,003.036c draupadī yoṣitāṃ śreṣṭhā yatra caiva priyā mama
+    </body>
+  </text>
+</TEI>

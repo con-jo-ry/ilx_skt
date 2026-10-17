@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Padminī (chapter 24)</title>
+        <author>Ratnarakṣita</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Author: Ratnarakṣita
+Collection / category: BuddhistNon-Scriptures / T02
+Source: OCR / Dharmamitra
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Manuscript Nagoya Takaoka CA 17: 39v4–10; input Dharmamitra, 9.iii.2025 Kolozsvár.</note>
+          <idno type="dharmanexus">SA_T02_Ratnarakṣita_Padminī-Ch24_CA17</idno>
+          <ref target="https://dharmamitra.org/nexus/db/sa/SA_T02_Ratnarakṣita_Padminī-Ch24_CA17/text">https://dharmamitra.org/nexus/db/sa/SA_T02_Ratnarakṣita_Padminī-Ch24_CA17/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-13">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch24_CA17:0"/>Padminī Ratnarakṣita
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch24_CA17:1"/>Ch.24
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch24_CA17:2"/>% Nagoya Takaoka CA 17: 39v4–10; input PDSz, 9.iii.2025 Kolozsvár
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch24_CA17:3"/>atha \textbf{siddhimantra kathaṃ bhaved} iti praśnavisarjanāyāha |
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch24_CA17:4"/>grub pa&#x27;i sngags ni ji ltar &#x27;gyur || zhes zhus pa&#x27;i lan gdab pa&#x27;i phyir gsungs pa |
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch24_CA17:5"/>\textbf{athe}tyādi | \textbf{nānāsiddhipadā} iti | nānāsiddhisamāśrayāḥ | nānākarmarūpasya phalodayo yebhyas te tathā | \textbf{sevāyutam} iti | sveṣṭadevatāyogena | \textbf{liṅgaṃ gṛhītve}ti | mahādevaliṅgam | svaliṅgam iti kaścit | \textbf{oṃ cāmuṇḍe}tyādimantreṣu pūrvasevā tathaiva | \textbf{oṃ vajre}tyādimantre &#x27;pi tathā |
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch24_CA17:6"/>sarvatra mantre viśeṣānuktau pūrvasevā tathaiva pūrvasevākramaḥ |
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch24_CA17:7"/>de nas zhes pa la sogs {81a4} pa&#x27;o; | dngos grub sna tshogs go &#x27;phang zhes pa dngos grub sna tshogs yang dag par gnas te | sna tshogs las kyi rang bzhin gyi &#x27;bras bu gang rnams la &#x27;byung ba de bzhin du de&#x27;o || bsnyen pa khri yis zhes pa rang gi &#x27;dod pa&#x27;i lha&#x27;i rnal &#x27;byor gyis so ||
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch24_CA17:8"/>ling ga bzung nas zhes pa lha {81a5} chen po&#x27;i ling ga ste rang gi ling ga zhes pa kha cig go || aoM tsa muNDe zhes pa la sogs pa&#x27;i sngags rnams la sngon du bsnyen pa de kho na ltar ro ||
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch24_CA17:9"/>aoM badzra zhes pa la sogs pa&#x27;i sngags la&#x27;ang de bzhin de thams cad du sngon du bsnyen pa&#x27;i khyad par ma gsungs pa&#x27;i sngags la sngon du {81a6} bsnyen pa&#x27;i rim pa de kho na ltar ro ||
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch24_CA17:10"/>\textbf{āloḍye}ti | likhitveti śeṣaḥ | \textbf{nāgapuṣpam} iti | nāgakesaraṃ puṣpam | \textbf{yakārābhyām} iti | vāyumaṇḍalābhyām | \textbf{udbhrāntapatram} iti | vātamaṇḍalotkṣiptam | ayam arthaḥ |
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch24_CA17:11"/>udbhrāntapatram ādāya tatra viṣādibhiḥ kākapakṣalekhanyā yakārodare hūṃ 3 amukam uccāṭaya phaṭ 3 iti patradvayaṃ likhitvā sampuṭīkṛtya vātataṇḍalyāṃ (?) nadyāṃ vā pravāhya nadyāṃ vā pravāhayet (!) | rātrāv ekaliṅge mantraṃ japann uccāṭayati ripum |
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch24_CA17:12"/>bsres pa zhes pa lhag ma&#x27;o || klu&#x27;i me tog ces pa klu shing gi me tog go || yaM yig dag gis zhes pa rlung gi dkyil &#x27;khor dag gis so || rlung gis bskyod pa&#x27;i lo &#x27;dab ces pa tshub ma&#x27;i rlung gis khyer ba&#x27;o zhes so || don &#x27;di yin te rlung gis {81a7} khyer ba&#x27;i lo &#x27;dab blangs te |
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch24_CA17:13"/>de la dug la sogs pa rnams kyis bya rog gi sgro&#x27;i bris smyug gis ya yig gi nad du h&#x27;uM h&#x27;uM h&#x27;uM che ge mo autstshaTa ya phaT phaT phaT zhes pa lo &#x27;dab gnyis la bris nas kha sbyar du bya ste | mtshan mo ling ga gcig par sngags bzlas la rlung tshub {81b1} ba ma &#x27;bab chu drag po la bskur bar bya ste dgra bskrad par &#x27;gyur ro ||
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch24_CA17:14"/>\textbf{apatitagomayene}tyādayaḥ | prayoge &#x27;syaiva mantrasya | \textbf{vāyavya} ity ārabhya prayogā bhagavaddhṛdayopahṛdayamantrayor iti kaścit | \textbf{devagṛha} iti | ekaliṅge | \textbf{sarveṣām} iti | sarvāṇi gurubhaktyā karmāṇi sidhyantīti śeṣaḥ | gurūpadeśamantreṇa [=gurūpadeśam antareṇa] karmasiddhir nāstīti bhāvaḥ |
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch24_CA17:15"/>ba&#x27;i lci ba sa la ma lhung bas zhes pa la sogs pa&#x27;i sbyor ba la yang sngags &#x27;di nyid kyi&#x27;o || rlung gi zur du zhes pa nas brtsams pa&#x27;i sbyor ba ni bcom ldan &#x27;das kyi snying po dang nye ba&#x27;i snying po&#x27;i sngags dag {81b2} go zhes kha cig go || lha khang zhes pa ling ga gcig par ro ||
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch24_CA17:16"/>thams cad kyi zhes pa thams cad las ti bla ma la gus pa las &#x27;grub par &#x27;gyur ro zhes pa lhag ma ste | bla ma&#x27;i gdams ngag dang bral ba las &#x27;grub pa med do zhes dgongs pa&#x27;o ||
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch24_CA17:17"/>\textbf{dve} iti śvetarakte | dvābhyāṃ caikaṃ gaṇanīiyam | evaṃ trikaṭukaṃ triphalā ca | \textbf{puṣpadāruharidrayor} iti | puṣpadāru haridrā ca | \textbf{ādityene}ti | ātapena | \textbf{upavāse}ti | poṣadhena |
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch24_CA17:18"/>gnyis zhes pa dkar po {81b3} dang dmar po ste | gnyis ka yang gcig tu bgrang bar bya&#x27;o || de ltar tsha ba gsum dang &#x27;bras bu gsum yang ngo || me tog shing dang yung ba dag | ces pa me tog shing dang shing yung ba yang ngo || nyi ma yis zhes pa nyi ma la &#x27;gro ba la&#x27;o || bsnyen gnas zhes pa gso spyod {81b4} gis so ||
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch24_CA17:19"/>iti caturviṃśatitamapaṭalavyākhyā || [curl] ||
+<lb n="SA_T02_Ratnarakṣita_Padminī-Ch24_CA17:20"/>le&#x27;u nyi shu rtsa bzhi pa&#x27;i rnam par bshad pa&#x27;o || ||
+    </body>
+  </text>
+</TEI>

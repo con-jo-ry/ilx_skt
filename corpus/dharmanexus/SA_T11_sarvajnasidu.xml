@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sarvajñasiddhi</title>
+        <author>Jitāri</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Author: Jitāri
+Collection / category: BuddhistNon-Scriptures / T11 (Pramāṇa)
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Gudrun Bühnemann, Sarvajñasiddhi, Wien: Arbeitskreis für tibetische und buddhisitsche Studien Universität Wien, 1982 (Wiener Studien zur Tibetologie und Buddhismskunde 8).</note>
+          <idno type="dharmanexus">SA_T11_sarvajnasidu</idno>
+          <ref target="https://dharmamitra.org/nexus/db/sa/SA_T11_sarvajnasidu/text">https://dharmamitra.org/nexus/db/sa/SA_T11_sarvajnasidu/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-13">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_T11_sarvajnasidu:0"/>Sarvajñasiddhi
+<lb n="SA_T11_sarvajnasidu:1"/>sarvajñacaraṇāmbhojapraṇipātapuraḥsaram
+<lb n="SA_T11_sarvajnasidu:2"/>sarvajñasiddhaye &#x27;smābhiḥ...
+<lb n="SA_T11_sarvajnasidu:3"/>Dem MS fehlt ein Folio; Fehler beim Fotografieren des Manuskripts.
+<lb n="SA_T11_sarvajnasidu:4"/>yat pramāṇasaṃvādi niścitārthavacanaṃ tat sākṣāt paramparayā vā tadarthasākṣātkārijñānapūrvakam
+<lb n="SA_T11_sarvajnasidu:5"/>yathā dahano dāhaka iti vacanam
+<lb n="SA_T11_sarvajnasidu:6"/>pramāṇaniścitārthavacanaṃ cedam
+<lb n="SA_T11_sarvajnasidu:7"/>kṣaṇikāḥ sarvasaṃskārā ity arthataḥ kāryahetuḥ
+<lb n="SA_T11_sarvajnasidu:8"/>nāsyāsiddhiḥ sarvabhāvakṣaṇabhaṅgaprasādhanād asya vacanasya satyārthatvāt
+<lb n="SA_T11_sarvajnasidu:9"/>nāpi virodhaḥ sapakṣe bhāvāt
+<lb n="SA_T11_sarvajnasidu:10"/>na cānaikāntikaḥ vacanamātrasya saṃśayaviparyāsapūrvakatve &#x27;pi pramāṇaniścitārthavacanasya sākṣāt pāramparyeṇa vā tadarthasākṣātkārijñānapūrvakatvāt
+<lb n="SA_T11_sarvajnasidu:11"/>anyathā niyamena pramāṇasaṃvādā yogāt
+<lb n="SA_T11_sarvajnasidu:12"/>na tv asmadādīnāṃ kṣaṇabhaṅgasādhanam anumānam utpadyate
+<lb n="SA_T11_sarvajnasidu:13"/>na ca tadviṣayam adhyakṣaṃ vidyate
+<lb n="SA_T11_sarvajnasidu:14"/>tad api pratyakṣadarśipuruṣopadeśadvāreṇotpadyata iti paramparayā pratyakṣapūrvakam eva
+<lb n="SA_T11_sarvajnasidu:15"/>Dieser Beweis ist nach R 31.13-21 ergänzt.
+<lb n="SA_T11_sarvajnasidu:16"/>Das MS beginnt nach der Lücke mit yogāt, was auch das letzte von Ratnakīrti zitierte Wort ist.
+<lb n="SA_T11_sarvajnasidu:17"/>Da der MS-Text inhaltlich diesen Beweis voraussetzt und logisch fortfährt, liegt die Annahme nahe, daß das fehlende Folio den obigen bei Ratnakīrti zitierten Beweis enthalten hat.
+<lb n="SA_T11_sarvajnasidu:18"/>°dvareṇait° MS
+<lb n="SA_T11_sarvajnasidu:19"/>bādhakapramāṇasiddhavyāptikasya sādhanādhīnajanmano &#x27;sya kathaṃ paropadeśapūrvakatvam iti cet
+<lb n="SA_T11_sarvajnasidu:20"/>Lies °ṇābhāvasi°!
+<lb n="SA_T11_sarvajnasidu:21"/>yadi paropadeśo na syād kiṃ siddhaṃ kṣaṇabhaṅgi āhosvid akṣaṇikam iti saṃśaya eva na syāt
+<lb n="SA_T11_sarvajnasidu:22"/>asati cāsmin na sādhanaṃ pravarteta
+<lb n="SA_T11_sarvajnasidu:23"/>nanu paropadeśam antareṇāpi saṃśayo bhavan kena vāryeta viparyayanimittena
+<lb n="SA_T11_sarvajnasidu:24"/>°nimitena MS
+<lb n="SA_T11_sarvajnasidu:25"/>anumānotthāne saty api hi sadṛśāparāparokṣād vipralabdhasya mandabuddheḥ sa evāyam iti pūrvāparikatvādhyavasāyo naiva vivartate
+<lb n="SA_T11_sarvajnasidu:26"/>tadatattvasaṃśayaḥ paropadeśaṃ vinā kathaṃ bhavitum utpadyate
+<lb n="SA_T11_sarvajnasidu:27"/>neva MS
+<lb n="SA_T11_sarvajnasidu:28"/>upapadyate wäre vorzuziehen.
+<lb n="SA_T11_sarvajnasidu:29"/>bhavatu parasyopadeśāt saṃśayaḥ
+<lb n="SA_T11_sarvajnasidu:30"/>pratyakṣadarśina eveti tu kutaḥ
+<lb n="SA_T11_sarvajnasidu:31"/>anumātur apy upadeśād asau bhavann upapanna eva
+<lb n="SA_T11_sarvajnasidu:32"/>nanu tasyāpy anumātur anumānodayahetuḥ saṃśayaḥ kuta iti vaktavyam
+<lb n="SA_T11_sarvajnasidu:33"/>anumātrantaropadeśād iti cet
+<lb n="SA_T11_sarvajnasidu:34"/>na
+<lb n="SA_T11_sarvajnasidu:35"/>tatrāpy asya paryanuyogasya samānatvāt
+<lb n="SA_T11_sarvajnasidu:36"/>anādipūrvapakṣānumātrupadeśapūrvakatvād uttarottarānumātṛsaṃśayān na doṣa iti cet
+<lb n="SA_T11_sarvajnasidu:37"/>na
+<lb n="SA_T11_sarvajnasidu:38"/>sarveṣām evāvidyānubandhasya sadṛśāparāparokṣād asya ca vimatakāraṇasya sādhāraṇatvenānumānahetoḥ saṃśayasya svaviruddhaviparyāsāviruddhe manasi niravakāśatvād anumātṛtvāyogāt
+<lb n="SA_T11_sarvajnasidu:39"/>yadi hi sākṣāddraṣṭā kaścid upadeṣṭā bhavet bhavet tadupadeśoktena saṃśayaḥ
+<lb n="SA_T11_sarvajnasidu:40"/>pare &#x27;pi puruṣā bhaveyur anumātāraḥ
+<lb n="SA_T11_sarvajnasidu:41"/>sākṣāddraṣṭari punar asati puruṣe jñātur aviparyāsavāsanānām udbhedābhāvena samayābhāvād ajāyamāne anumāne katham anumātṛtvaṃ nama
+<lb n="SA_T11_sarvajnasidu:42"/>tasmāt sākṣāddraṣṭopadeṣṭā kaścid eṣṭavyaḥ
+<lb n="SA_T11_sarvajnasidu:43"/>yaś ca sarvadharmakṣaṇikatvādisākṣātkāry upadeṣṭā sa bhagavān surāsuraśiromaṇiḥ sarvajña iti
+<lb n="SA_T11_sarvajnasidu:44"/>vitama° MS
+<lb n="SA_T11_sarvajnasidu:45"/>°nanumāna° MS
+<lb n="SA_T11_sarvajnasidu:46"/>bhavat MS
+<lb n="SA_T11_sarvajnasidu:47"/>°kta° MS
+<lb n="SA_T11_sarvajnasidu:48"/>°ra MS
+<lb n="SA_T11_sarvajnasidu:49"/>kṛtvā sarvavidaḥ siddhiṃ puṇyam āsāditaṃ mayā
+<lb n="SA_T11_sarvajnasidu:50"/>etena sakalo lokaḥ sārvajñaṃ padam āpnuyāt
+<lb n="SA_T11_sarvajnasidu:51"/>paṇḍitajitāreḥ sarvajñasiddhiḥ
+    </body>
+  </text>
+</TEI>

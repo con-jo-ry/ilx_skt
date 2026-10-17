@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sumukhadhāraṇī (fragments)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Collection / category: BuddhistScriptures / K12 (Tantra / dhāraṇī)
+Source: OCR / Dharmamitra
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Composite electronic transcription and standardization of five Sanskrit fragments of the Sumukhadhāraṇī (Budapest, 2026, working e-text based on Bongard-Levin et al. and Emmerick).</note>
+          <idno type="dharmanexus">SA_K12_Āgama_Sumukhā</idno>
+          <ref target="https://dharmamitra.org/nexus/db/sa/SA_K12_Āgama_Sumukhā/text">https://dharmamitra.org/nexus/db/sa/SA_K12_Āgama_Sumukhā/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-13">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_K12_Āgama_Sumukhā:0"/>Title: Sumukhā dhāraṇī
+<lb n="SA_K12_Āgama_Sumukhā:1"/>Sources: 5 Skt. fragments (Bongard-Levin et al.; Emmerick)
+<lb n="SA_K12_Āgama_Sumukhā:2"/>Tibetan: D 614/915
+<lb n="SA_K12_Āgama_Sumukhā:3"/>Input: Péter-Dániel Szántó 4.ii.2026 Budapest (corrected/standardised)
+<lb n="SA_K12_Āgama_Sumukhā:4"/>(1) Bongard-Levin, G.M., M.I. Vorobyeva-Desyatovskaya, and E.N. Tyomkin. ‘A Fragment of the Sanskrit Sumukhadhāraṇī’. Indo-Iranian Journal 10, no. 2/3 (1967): 150–53, 155–59.
+<lb n="SA_K12_Āgama_Sumukhā:5"/>husavati pusavati hili hili yathābhaya yathāgni yathāparaṃ yathābhayaṃ yathāvajre yathāhṛdayam | iyaṃ vajrapāṇi sumukhaṃ nāma dhāraṇī tathāgatena bhāṣitā sarvasattvānām arthāya kāruṇyatayā aham api bhāṣiṣyāmi yathā taiḥ pūrvakaiḥ samyaksaṃbuddhair bhāṣitādhiṣṭhitā ca satyapratijñena vyavasthāpitā | atha khalu bhagavatornakośān  mahāpuruṣalakṣaṇād raśmiḥ pramuktā sarvabuddhakṣetreṣu raśmyāvabhāsaḥ prādurbhūt tayā ca raśmyā saṃcoditā buddhā bhagavataḥ svakasvake buddhakṣetre saṃprasthitā sahe buddhakṣetre ||
+<lb n="SA_K12_Āgama_Sumukhā:6"/>(2) Bongard-Levin, G.M. ‘A New Fragment of the Sanskrit «Sumukhadhāraṇī» and Its Saka Version’. Indologica Taurinensia 8–9, no. 1 (1980): 45–49.
+<lb n="SA_K12_Āgama_Sumukhā:7"/>pi bhadanta bhagavaṃs tasya [add: kulaputrasya] kuladuhitur vā rakṣāṃ kariṣyāmi yāva | tadyathā hihi vajra hihi vajra hihi vajra yāva kiri kiri vajra svāhā | tadyathā aṇḍare paṇḍare śvete paṇḍavāsini [anne: pāṇḍaravāsini] kinnare karāḍe keyūre iha buddha buddhe tatra buddhe bhūje jaṃgame bhūjapani bhayaṃ bhaye bhayāgre bhayāgrapate vinī vinī śīramapathe ādityapathe teje tejapathe akārapathe ākārapathe phu svāhā | atha khalu vajrabhūtir [anne: vajradūtir] mahārākṣasī yena bhagavāṃs tenāñjaliṃ praṇamya bhagavantam etad avocat | aham api bhadanta bhagavaṃs tasya kulaputrasya rakṣāṃ kariṣyāmi yāvat | tadyathā kuṭse kuṭse kuṭsa vikuṭsare svāhā | nīle nīlakeśe svāhā | nīle nīle keśe svāhā | pītakeśe svāhā | lohite lohi-
+<lb n="SA_K12_Āgama_Sumukhā:8"/>(3) Bongard-Levin, G.M. ‘A New Fragment of the Sanskrit Sumukhadhāraṇī’. In Tibetan and Buddhist Studies: Commemorating the 200th Anniversary of the Birth of Alexander Csoma de Kőrös, vol. 1, edited by Louis Ligeti. Bibliotheca Orientalis Hungarica, XXIX/1. Budapest: Akadémiai Kiadó, 1984, pp. 125–129.
+<lb n="SA_K12_Āgama_Sumukhā:9"/>-je kaṭe kaṭu kaṃmale [anne: kambale] brahme brahmasvare brahmasiddhe siddhamanorathe phu svāhā || vajraśaṃkalā [anne: vajraśṛṅkhalā] mahādevī bhagavantam etad avocat | aham api bhagavaṃs tasya kulaputrasya vā kuladuhitur vā rakṣāparipālanārthāya dhāraṇīpadāni bhāṣiṣye ya imaṃ sumukhaṃ dharmaparyāyaṃ dhārayiṣyati kālyam utthāya vācayiṣyati | tadyathā vajre vajre vajre mahāvajre vajremate buddhavajre buddhādhiṣṭhitavajre ubuddhe nibuddhe saṃbuddhe bahubuddhe viśiṣṭabuddhe buddhe buddhe buddhe buddhe buddhe diśaṃgame jaṃgame aleme tilome tile tile tilele mārge mārgantagāmini svāhā || atha vajraseno bodhisattvo bhagavantam etad avocat | aham api bhagavaṃs tasya kulaputrasya kuladuhitur vā rakṣāṃ kariṣyāmi ya imaṃ sumukhaṃ dharmaparyāyam āyuṣpālanīṃ vidyāṃ dhārayiṣyati kālyam utthāya vācayiṣyati | tadyathā hihi vajre
+<lb n="SA_K12_Āgama_Sumukhā:10"/>(4) Bongard-Levin, G.M., and M.I. Vorobyeva-Desyatovskaya. ‘“Novyi Tekst Fragmenta Sanskritskoi “Sumukkha-Dkharani” [A New Text from the Fragment of the Sanskrit Sumukha-Dhāraṇī].’ Peredneaziatskii Sbornik [Western Asian Almanac] (Moscow) 4 (1986): 156–59.
+<lb n="SA_K12_Āgama_Sumukhā:11"/>yathāhṛdayam | iyaṃ sā vajrapāṇe sumukhā nāma dhāraṇī sarvatathāgatair bhāṣitā sattvānām arthāya kāruṇyatayā aham api bhāṣiṣye yathā taiḥ paurvakais tathāgatair arhadbhiḥ samyaksaṃbuddhair bhāṣitā cādhiṣṭhitā ca satyapratijñatayā vyavasthāpitā | atha khalu bhagavatorṇākoṣān mahāpuruṣalakṣaṇād raśmiḥ pramuktā tayā sarvabuddhakṣetreṣv avabhāsaḥ prādurbhūtaḥ tayaiva ca
+<lb n="SA_K12_Āgama_Sumukhā:12"/>(5) Emmerick, Ronald E[ric]. ‘Another Fragment of the Sanskrit Sumukhadhāraṇī’. In Deyadharma: Studies in Memory of Dr. D. C. Sircar, edited by Gouriswar Bhattacharya. Sri Satguru Publications, 1986.
+<lb n="SA_K12_Āgama_Sumukhā:13"/>ita ayeta uri jaṃbhani e [...] husavati pusavati [...] vajri thāgni yathā paraṃ ca yatha [...] sā vajrapāṇeḥ sumukhaṃ [...] satvānām arthāya [...] bhāṣiṣyāmi yathā [...] satyapratijñena vyavasthāpitā [...] mahāpuruṣalakṣaṇād raśmi pramuktā [...] raśmyavabhāsa prādurbhūta | tayā ca raśmyā [...] buddhakṣetrai saṃprasthitāḥ sahe
+<lb n="SA_K12_Āgama_Sumukhā:14"/>(6) Bailey, H[arold]. W[alter]. Khotanese Buddhist Texts. Cambridge Oriental Series 3. London: Taylor’s Foreign Press, 1951, pp. 135 ff. [dhāraṇīs only]
+<lb n="SA_K12_Āgama_Sumukhā:15"/>(i) tadyathā vajradadi uku muku ukumapiṇi baddhani balacamara bāhuli bāhuli na hu hu huli vartaya svāhā ||
+<lb n="SA_K12_Āgama_Sumukhā:16"/>(ii) tadyathā vajri va vajre vajradhari vajravati  vajradadi vajra vajre vajredhare paridhiri bhiri bhiri mure cire huhuri bhaga bhiri bhi siririśi cucura u uci bhiri viri cale curi muri care maṇḍa nimaṇḍani sarvapāpavināśārthāya sarvarogapraśamani akālamṛtyupratiṣedhane yāvad duḥsvaptapratiṣedhani svāhā ||
+<lb n="SA_K12_Āgama_Sumukhā:17"/>(iii) tadyathā maṇḍani gagaraṇi mūḍhane saṃpramūḍhani nāśani saṃpranāśani sarvavyādhipraśamani yāvad duḥsvaptākālamṛtyupratiṣedhani ||
+<lb n="SA_K12_Āgama_Sumukhā:18"/>(iv, cont&#x27;d from iii) tadyathā nāśani nāśani baddhani baddhani bhindani chindani care mire sare hane vare vāre bare bare bhidi niribhidi bhiri bhiri rūṣpare śaraṇe vara varuṇe vara kāraṇḍaye brahmacāriṇe indravati dhidhirāyaṇi namo maheśvaralayani ṛṣibhājane pajahene [anne: pāpajahani] kālavādini [anne: °pātani] bhūtavādani [anne ditto] satyakathe somavate somaprabhe svāhā ||
+<lb n="SA_K12_Āgama_Sumukhā:19"/>(v) tadyathā hara hara haraṇīye svāhā ||
+<lb n="SA_K12_Āgama_Sumukhā:20"/>(vi) tadyathā gaḍita paḍita ayena ayajambahne bakakardane atraḍhahani mārgābhirohaṇe hūsavate hūsavate phusavate pusavati hili heli yathāvajri yathāgni yathāparaṃ ca yathābhayaṃ yathāparaṃ ca yathāvajraṃ yathāhṛdayam ||
+<lb n="SA_K12_Āgama_Sumukhā:21"/>(vii) tadyathā śikhi śikhi śikhaśe cici cici bhabha bhabha ruru ruru jiji jiji gragra gragra hrīhrī hrīhrī haha haha mama mama hana hana me sarvapratyarthikān daha daha me sarvaśatrūn paca paca me sarvāhiteṣiṇaḥ svāhā ||
+<lb n="SA_K12_Āgama_Sumukhā:22"/>(viii) tadyathā hili hili meli cili svāhā brahmapure svāhā brahmasvare svāhā brahmābhe agarbhe puṣpe puṣpasaṃstare svāhā ||
+<lb n="SA_K12_Āgama_Sumukhā:23"/>(ix) tadyathā vini caarṇe buddha mārtaṇḍe hanivi kha kha kha kha gorigāddhāri saramahāna vajraṃbharuṇi jvālamulini vajra vākeśadire śumare paramalate hana madyatāraṇi śāmbari svāhā ||
+<lb n="SA_K12_Āgama_Sumukhā:24"/>(x) tadyathā supuṣpe supuṣpe dhumaparihāre āryapraśaste śānte nirmukte maṅgalye hiraṇyagarbhe stūte stavite svāhā ||
+<lb n="SA_K12_Āgama_Sumukhā:25"/>(xi) tadyathā seli sespema seli sisseli pili mahāpippili simi lise gurūṇe gurūṇe mahāgurūṇe phu svāhā ||
+<lb n="SA_K12_Āgama_Sumukhā:26"/>(xii) tadyathā aṭe phu vaṭe phu naṭe phu kunaṭe phu manaṭe phu muṇḍa hate phu śire phu bhaṅge phu macale phu svāhā ||
+<lb n="SA_K12_Āgama_Sumukhā:27"/>(xiii) tadyathā vajre vajre hrī vajre hrī vajre hī hī hī hī visi vise visi mahāvasi phu svāhā ||
+<lb n="SA_K12_Āgama_Sumukhā:28"/>(xiv) tadyathā hulu hulu hulu lulu lulu lu lu lu sarvabhūtapratiṣedhanaṃ karomi svāhā ||
+<lb n="SA_K12_Āgama_Sumukhā:29"/>(xv) tadyathā hili heli hili hilo halele lili hili hili sarvabhūtapratiṣedhanaṃ karomi svāhā ||
+<lb n="SA_K12_Āgama_Sumukhā:30"/>(xvi) tadyathā abge vaṅge caṅge hini didi didi cici phu svāhā sarvabhūtapratiṣedhanaṃ karomi svāhā ||
+<lb n="SA_K12_Āgama_Sumukhā:31"/>(xvii) tadyathā hate vihate nihate suhate sarvapratyarthikā pratyamitrā śuddhe mukte vimale nirmale prabhāsvare prabhāskare phu prabhākare phu svāhā ||
+<lb n="SA_K12_Āgama_Sumukhā:32"/>(xviii) tadyathā jvale jvale mahājvale jvale jvalini mahājvalini uke muke śame praśame mahāpraśame śame samādhe mahāsamādhe samāpte mahāsamāpte jvale mahājvale jvala bame phu svāhā ||
+<lb n="SA_K12_Āgama_Sumukhā:33"/>(xix) tadyathā udumbare udumbare pradumbare vyāvarte anaye samādhe mahāsamādhe samāpte mahāsamāpte nīle nīle nīlakule siddhe siddhamanorathe aṭe vaṭe naṭe kunaṭe samate bala kuce dāte dātte nīle nīle nīlakeśe kule mahākule nīlakānte jāṅgule huśe muhuśe vala jāṅgule phala kuce phala muce phu svāhā ||
+<lb n="SA_K12_Āgama_Sumukhā:34"/>(xx) tadyathā amale vimale nirmale maṅgalye hiraṇyagarbhe sarvārthasādhane mākaściniyukte viraje kaṭe keṭu keṭu kambale brahme brahmapure brahmasvare brahmasiddhe siddhamanorathe  phu svāhā ||
+<lb n="SA_K12_Āgama_Sumukhā:35"/>(xxi) tadyathā vajre vajre mahāvajre vajrapati buddhavajre buddhādhiṣṭhitavajre u buddhe nibuddhe saṃbuddhe bahubuddhe viśiṣṭe buddhe [anne: viśiṣṭabuddhe] buddhe buddhe buddhe deśaṃgāmenika jaṅgame amale tamale tili tile tilele mārge mārgātagāmane phu svāhā ||
+<lb n="SA_K12_Āgama_Sumukhā:36"/>(xxii) tadyathā hihi vajre hihi vajre hehe vajre yāva kiri kiri vajra svāhā | tadyathā aṇḍare paṇḍare śvete pāṇḍaravāsini kinnare karāḍe keyūre iha buddhe tatra buddhe bhūje bhūje bhūje bhūjaṃgapate bhaye bhaye bhayāgri bhayāgrapate vini vini śiri śiripati śīmapati ādityapati teje tejapati ākārapate phu svāhā ||
+<lb n="SA_K12_Āgama_Sumukhā:37"/>(xxiii) tadyathā kuṭe kuṭe kuṭa kuṭa kuṭani kuṭa kuṭare svāhā | nīle nīle nīlakeśe svāhā pīte pīte pītakeśe svāhā lohite lohite lohitakeśe svāhā avadāte avadāte avadātakeśe svāhā mañjiṣṭhe mañjiṣṭhe mañjiṣṭhakeśe svāhā cakre cakre cakrā cakre vajracakre svāhā ||
+    </body>
+  </text>
+</TEI>

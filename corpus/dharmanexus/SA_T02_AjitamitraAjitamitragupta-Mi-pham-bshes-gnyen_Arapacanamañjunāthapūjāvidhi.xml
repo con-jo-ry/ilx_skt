@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Arapacanamañjunāthapūjāvidhi</title>
+        <author>Ajitamitra</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Author: Ajitamitra
+Collection / category: BuddhistNon-Scriptures / T02
+Source: OCR / Dharmamitra
+Sources: ms. (pl., ca. 15th c.?) from TAR, published in Dawa Choezom: A Sanskrit Manuscript of the Arapacanamañjunāthapūjāvidhi from Xizang (SI 1: 67ff.)
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Dawa Choezom: A Sanskrit Manuscript of the Arapacanamañjunāthapūjāvidhi from Xizang (SI 1: 67ff.), supplemented by unedited verses on f. 5r.</note>
+          <idno type="dharmanexus">SA_T02_AjitamitraAjitamitragupta-Mi-pham-bshes-gnyen_Arapacanamañjunāthapūjāvidhi</idno>
+          <ref target="https://dharmamitra.org/nexus/db/sa/SA_T02_AjitamitraAjitamitragupta-Mi-pham-bshes-gnyen_Arapacanamañjunāthapūjāvidhi/text">https://dharmamitra.org/nexus/db/sa/SA_T02_AjitamitraAjitamitragupta-Mi-pham-bshes-gnyen_Arapacanamañjunāthapūjāvidhi/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-13">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_T02_AjitamitraAjitamitragupta-Mi-pham-bshes-gnyen_Arapacanamañjunāthapūjāvidhi:0"/>[siddham] namo mañjunāthāya |
+<lb n="SA_T02_AjitamitraAjitamitragupta-Mi-pham-bshes-gnyen_Arapacanamañjunāthapūjāvidhi:1"/>devatāsādhane jñeyāḥ ṣaḍ ity aṅgā jinoditāḥ |
+<lb n="SA_T02_AjitamitraAjitamitragupta-Mi-pham-bshes-gnyen_Arapacanamañjunāthapūjāvidhi:2"/>samādhir bhāvanā jāpyaṃ stotraṃ pūjā namaskṛtiḥ ||
+<lb n="SA_T02_AjitamitraAjitamitragupta-Mi-pham-bshes-gnyen_Arapacanamañjunāthapūjāvidhi:3"/>atha sādhanānukūle sthāne paramaśucir bhūtvā mantrī anuccāsanāsīnaḥ samyakphāṇitadivyodakam anena mantreṇa tridhā śodhayet | oṃ āḥ vajrodake amṛtībhava hūṃ svāhā ||
+<lb n="SA_T02_AjitamitraAjitamitragupta-Mi-pham-bshes-gnyen_Arapacanamañjunāthapūjāvidhi:4"/>tad ādāya
+<lb n="SA_T02_AjitamitraAjitamitragupta-Mi-pham-bshes-gnyen_Arapacanamañjunāthapūjāvidhi:5"/>yathā hi jātamātreṇa snāpitāḥ sarvatathāgatāḥ |
+<lb n="SA_T02_AjitamitraAjitamitragupta-Mi-pham-bshes-gnyen_Arapacanamañjunāthapūjāvidhi:6"/>tathāhaṃ snāpayiṣyāmi śuddhaṃ divyena vāriṇā ||
+<lb n="SA_T02_AjitamitraAjitamitragupta-Mi-pham-bshes-gnyen_Arapacanamañjunāthapūjāvidhi:7"/>oṃ āḥ sarvatathāgatābhiṣekasamayaśriye hūṃ || snānamantraḥ ||
+<lb n="SA_T02_AjitamitraAjitamitragupta-Mi-pham-bshes-gnyen_Arapacanamañjunāthapūjāvidhi:8"/>tato hrīṃ trāṃ oṃ hūṃ khaṃ vaṃ iti ṣaṭtathāgataviśuddhaye ṣaḍindriyeṣu nyāsaṃ kuryāt | mukhaghrāṇacakṣuḥśrotrakāyahṛtsu yathākramaṃ ṣaḍbījoccāraṇapūrvakaṃ pañcāṅgulyagreṇa spṛṣṭvā prāṇāyāmaṃ kuryāt ||
+<lb n="SA_T02_AjitamitraAjitamitragupta-Mi-pham-bshes-gnyen_Arapacanamañjunāthapūjāvidhi:9"/>oṃ vaḥ svāhā ity anena hastapādaprokṣaṇaṃ |
+<lb n="SA_T02_AjitamitraAjitamitragupta-Mi-pham-bshes-gnyen_Arapacanamañjunāthapūjāvidhi:10"/>oṃ hrīḥ svāhā ity anenācamanaṃ | oṃ namo bhagavate puṣpaketuprabharājāya tathāgatāyārhate samyaksambuddhāya tadyathā oṃ 2 puṣpe puṣpe mahāpuṣpe supuṣpe puṣpodbhave puṣpasambhave puṣpāvakīrṇe svāhā || ity anena saptadhā puṣpaśodhanam ||
+<lb n="SA_T02_AjitamitraAjitamitragupta-Mi-pham-bshes-gnyen_Arapacanamañjunāthapūjāvidhi:11"/>tato vāmāṅguṣṭhānāmikābhyāṃ puṣpam ekam ādāya oṃ āḥ hūṃ kāyavākcittādhiṣṭhānaṃ kuryāt ||
+<lb n="SA_T02_AjitamitraAjitamitragupta-Mi-pham-bshes-gnyen_Arapacanamañjunāthapūjāvidhi:12"/>tathaiva puṣpam ekam ādāya oṃ maṇidhari vajriṇi mahāpratisare rakṣa rakṣa māṃ sarvasattvāṃś ca hūṃ hūṃ phaṭ phaṭ svāhā || anena śirasy ātmarakṣāṃ kuryāt ||
+<lb n="SA_T02_AjitamitraAjitamitragupta-Mi-pham-bshes-gnyen_Arapacanamañjunāthapūjāvidhi:13"/>oṃ subhūme vajrībhava hūṃ anena kartavyamaṇḍalabhūmiṃ prokṣya viśodhayet ||
+<lb n="SA_T02_AjitamitraAjitamitragupta-Mi-pham-bshes-gnyen_Arapacanamañjunāthapūjāvidhi:14"/>tato oṃ vajrasattva sarvavighnān utsāraya utsāraya hūṃ phaṭ iti vāmāvartena vighnotsāraṇam |
+<lb n="SA_T02_AjitamitraAjitamitragupta-Mi-pham-bshes-gnyen_Arapacanamañjunāthapūjāvidhi:15"/>tato niḥprāṇigomayena sodakena sugandhacandanādinā vā dakṣiṇakareṇa vartulamaṇḍalam upalepayan dakṣiṇāvarteṇa gāthādvayaṃ paṭhet ||
+<lb n="SA_T02_AjitamitraAjitamitragupta-Mi-pham-bshes-gnyen_Arapacanamañjunāthapūjāvidhi:16"/>dānaṃ gomayam ambunā ca sahitaṃ śīlaṃ ca sammārjanaṃ
+<lb n="SA_T02_AjitamitraAjitamitragupta-Mi-pham-bshes-gnyen_Arapacanamañjunāthapūjāvidhi:17"/>kṣāntiḥ kṣudrapipīlikāpanayanaṃ vīryaṃ kriyotthāpanam |
+<lb n="SA_T02_AjitamitraAjitamitragupta-Mi-pham-bshes-gnyen_Arapacanamañjunāthapūjāvidhi:18"/>dhyānaṃ tatkṣaṇam ekacittakaraṇaṃ prajñā surekhojjvalā
+<lb n="SA_T02_AjitamitraAjitamitragupta-Mi-pham-bshes-gnyen_Arapacanamañjunāthapūjāvidhi:19"/>etāḥ pāramitāḥ ṣaḍ eva labhate kṛtvā muner maṇḍalam ||
+<lb n="SA_T02_AjitamitraAjitamitragupta-Mi-pham-bshes-gnyen_Arapacanamañjunāthapūjāvidhi:20"/>bhavati kanakavarṇaḥ sarvarogair vimuktaḥ
+<lb n="SA_T02_AjitamitraAjitamitragupta-Mi-pham-bshes-gnyen_Arapacanamañjunāthapūjāvidhi:21"/>suramanujaviśiṣṭaś candravaddīptakāntiḥ |
+<lb n="SA_T02_AjitamitraAjitamitragupta-Mi-pham-bshes-gnyen_Arapacanamañjunāthapūjāvidhi:22"/>dhanakanakasamṛddhe jāyate rājavaṃśe |
+<lb n="SA_T02_AjitamitraAjitamitragupta-Mi-pham-bshes-gnyen_Arapacanamañjunāthapūjāvidhi:23"/>sugatavaragṛhe &#x27;smin kāyakarmāṇi kṛtvā ||
+<lb n="SA_T02_AjitamitraAjitamitragupta-Mi-pham-bshes-gnyen_Arapacanamañjunāthapūjāvidhi:24"/>tato liptamaṇḍalamadhye dakṣiṇāṅguṣṭhaṃ dattvā tarjanyā pūrṇacandramaṇḍalavat ||
+<lb n="SA_T02_AjitamitraAjitamitragupta-Mi-pham-bshes-gnyen_Arapacanamañjunāthapūjāvidhi:25"/>oṃ vajrarekhe surekhe hūṃ phaṭ svāhā | dakṣiṇāvarteṇa rekhayet ||
+<lb n="SA_T02_AjitamitraAjitamitragupta-Mi-pham-bshes-gnyen_Arapacanamañjunāthapūjāvidhi:26"/>vāmahastena puṣpam ekam ādāya dakṣiṇahastapṛṣṭhe tatpuṣpaṃ dattvā
+<lb n="SA_T02_AjitamitraAjitamitragupta-Mi-pham-bshes-gnyen_Arapacanamañjunāthapūjāvidhi:27"/>oṃ surekhe sarvatathāgatā adhitiṣṭhantu svāhā || iti hastaṃ prāvṛtya tatpuṣpaṃ maṇḍalamadhye dadyāt ||
+<lb n="SA_T02_AjitamitraAjitamitragupta-Mi-pham-bshes-gnyen_Arapacanamañjunāthapūjāvidhi:28"/>tato hastaprakṣālanaṃ kṛtvā vāmadakṣiṇahastābhyāṃ puṣpam ādāya oṃ candrārkavimale svāhā || iti maṇḍalaṃ nirmañcayet ||
+<lb n="SA_T02_AjitamitraAjitamitragupta-Mi-pham-bshes-gnyen_Arapacanamañjunāthapūjāvidhi:29"/>tanmaṇḍalaṃ candrārkarūpeṇādhimucya svahṛdi akārapariṇatacandramaṇḍale dhīḥkāraṃ vibhāvya tadraśmijālenākāśe bhagavantam avabhāsyāvāhayet ||
+<lb n="SA_T02_AjitamitraAjitamitragupta-Mi-pham-bshes-gnyen_Arapacanamañjunāthapūjāvidhi:30"/>anena mantreṇa oṃ śaradamalamadhyāhnagaganopama dharmadhātusvabhāva bhagavan mañjughoṣa ihāgaccha ihāgaccha maṇḍale &#x27;dhiṣṭhānaṃ kuru jaḥ hūṃ vaṃ hoḥ iti maṇḍale āhuyādhiṣṭhāpya subaddhaṃ suparituṣṭaṃ kṛtvā oṃ pravarasatkāra śrīmañjughoṣa arghapādyāsanācamanaprokṣaṇaṃ pratīccha svāhā || tato &#x27;nanyacittaḥ san prasādātiśayena pūjayet ||
+<lb n="SA_T02_AjitamitraAjitamitragupta-Mi-pham-bshes-gnyen_Arapacanamañjunāthapūjāvidhi:31"/>madhye oṃ arapacanāya vajrapuṣpe dhīḥ svāhā |
+<lb n="SA_T02_AjitamitraAjitamitragupta-Mi-pham-bshes-gnyen_Arapacanamañjunāthapūjāvidhi:32"/>agre oṃ jālinīprabhāya svāhā |
+<lb n="SA_T02_AjitamitraAjitamitragupta-Mi-pham-bshes-gnyen_Arapacanamañjunāthapūjāvidhi:33"/>pṛṣṭhe oṃ candraprabhāyai vajrapuṣpe paṃ svāhā |
+<lb n="SA_T02_AjitamitraAjitamitragupta-Mi-pham-bshes-gnyen_Arapacanamañjunāthapūjāvidhi:34"/>dakṣiṇe | oṃ keśinyai vajrapuṣpe caṃ svāhā |
+<lb n="SA_T02_AjitamitraAjitamitragupta-Mi-pham-bshes-gnyen_Arapacanamañjunāthapūjāvidhi:35"/>vāme oṃ upakeśinyai vajrapuṣpe naṃ svāhā |
+<lb n="SA_T02_AjitamitraAjitamitragupta-Mi-pham-bshes-gnyen_Arapacanamañjunāthapūjāvidhi:36"/>anena svasvamantreṇa puṣpadhūpadīpagandhanaivedyādibhiḥ saṃpūjya balimantreṇa baliṃ dattvā ||
+<lb n="SA_T02_AjitamitraAjitamitragupta-Mi-pham-bshes-gnyen_Arapacanamañjunāthapūjāvidhi:37"/>oṃ akāro mukhaṃ sarvadharmāṇām ādyanutpannatvāt | oṃ āḥ hūṃ hoḥ | anena baliṃ śodhayet |
+<lb n="SA_T02_AjitamitraAjitamitragupta-Mi-pham-bshes-gnyen_Arapacanamañjunāthapūjāvidhi:38"/>tataḥ oṃ arapacanāya kumatidahanadakṣāya candrakāntimaṇiprabhāya khaḍgapustakavyagrāgrahastāya mañjuvāṇīvarapradāya imaṃ baliṃ gandhaṃ puṣpaṃ dhūpaṃ dīpaṃ madhuśarkarādisahitaṃ gṛhṇa gṛhṇa kha kha khāhi khāhi mama śāntiṃ puṣṭiṃ rakṣāvaraṇaguptiṃ kuru oṃ āḥ dhīḥ hūṃ svāhā | balimantraḥ ||
+<lb n="SA_T02_AjitamitraAjitamitragupta-Mi-pham-bshes-gnyen_Arapacanamañjunāthapūjāvidhi:39"/>tataḥ stotraṃ paṭhet |
+<lb n="SA_T02_AjitamitraAjitamitragupta-Mi-pham-bshes-gnyen_Arapacanamañjunāthapūjāvidhi:40"/>yat kṛtaṃ duṣkṛtaṃ kiṃcin mayā mūḍhadhiyā punaḥ |
+<lb n="SA_T02_AjitamitraAjitamitragupta-Mi-pham-bshes-gnyen_Arapacanamañjunāthapūjāvidhi:41"/>kṣantavyaṃ tat tvayā nātha yatas trātāsi dehināṃ ||
+<lb n="SA_T02_AjitamitraAjitamitragupta-Mi-pham-bshes-gnyen_Arapacanamañjunāthapūjāvidhi:42"/>tato &#x27;nayā gāthayā praṇidhānaṃ kuryāt ||
+<lb n="SA_T02_AjitamitraAjitamitragupta-Mi-pham-bshes-gnyen_Arapacanamañjunāthapūjāvidhi:43"/>anena kuśalenāhaṃ buddhatvam adhigamya ca |
+<lb n="SA_T02_AjitamitraAjitamitragupta-Mi-pham-bshes-gnyen_Arapacanamañjunāthapūjāvidhi:44"/>tārayeyaṃ jagat sarvam agādhād bhavasāgarāt ||
+<lb n="SA_T02_AjitamitraAjitamitragupta-Mi-pham-bshes-gnyen_Arapacanamañjunāthapūjāvidhi:45"/>tato visarjanaṃ kuryāt || anayā gāthayā ||
+<lb n="SA_T02_AjitamitraAjitamitragupta-Mi-pham-bshes-gnyen_Arapacanamañjunāthapūjāvidhi:46"/>kṛto vaḥ sarvasattvārthaḥ siddhir dattā yathānugā |
+<lb n="SA_T02_AjitamitraAjitamitragupta-Mi-pham-bshes-gnyen_Arapacanamañjunāthapūjāvidhi:47"/>gacchadhvaṃ buddhaviṣayaṃ punarāgamanāya vaḥ (?) ||
+<lb n="SA_T02_AjitamitraAjitamitragupta-Mi-pham-bshes-gnyen_Arapacanamañjunāthapūjāvidhi:48"/>śīlacandanaliptāṅgā dhyānaprāvaraṇāvṛtāḥ |
+<lb n="SA_T02_AjitamitraAjitamitragupta-Mi-pham-bshes-gnyen_Arapacanamañjunāthapūjāvidhi:49"/>bodhyaṅgakusumākīrṇā viharadhvaṃ yathāsukham ||
+<lb n="SA_T02_AjitamitraAjitamitragupta-Mi-pham-bshes-gnyen_Arapacanamañjunāthapūjāvidhi:50"/>tato śatākṣaraṃ mantrarājaṃ paṭhet ||
+<lb n="SA_T02_AjitamitraAjitamitragupta-Mi-pham-bshes-gnyen_Arapacanamañjunāthapūjāvidhi:51"/>oṃ vajrasattva samayam anupālaya vajrasattvatvenopatiṣṭha dṛdho me bhava sutoṣyo me bhava supoṣyo me bhava anurakto me bhava sarvasiddhiṃ me prayaccha sarvakarmasu [ca] me cittaṃ śreyaḥkuru hūṃ ha ha ha ha hoḥ bhagavan sarvatathāgatavajra mā me muñca vajrībhava mahāsamayasattva āḥ ||   ||
+<lb n="SA_T02_AjitamitraAjitamitragupta-Mi-pham-bshes-gnyen_Arapacanamañjunāthapūjāvidhi:52"/>iti śrīmadarapacanamañjunāthapūjāvidhiḥ samāptaḥ || ||
+<lb n="SA_T02_AjitamitraAjitamitragupta-Mi-pham-bshes-gnyen_Arapacanamañjunāthapūjāvidhi:53"/>’jam dbyangs dkar po a ra pa ca na mchod pa’i cho ga zhes bya ba slob dpon mi pham bshes gnyen gyis mdzad pa rdzogs so || paṇḍita chen po shr’i ba na ratna’i spyan sngar | chos ’khor lo ts’a bas bsgyur ba las dge slong rgya mtshos bcos pa’o ‖
+<lb n="SA_T02_AjitamitraAjitamitragupta-Mi-pham-bshes-gnyen_Arapacanamañjunāthapūjāvidhi:54"/>% these verses on 5r not published; NB cf. Dhīḥ 19 very corrupt version
+<lb n="SA_T02_AjitamitraAjitamitragupta-Mi-pham-bshes-gnyen_Arapacanamañjunāthapūjāvidhi:55"/>namo mañjunāthāya ||
+<lb n="SA_T02_AjitamitraAjitamitragupta-Mi-pham-bshes-gnyen_Arapacanamañjunāthapūjāvidhi:56"/>navakuṅkumakesarakāntiva(?)prasṛtinirbhararāgavilāsam idaṃ |
+<lb n="SA_T02_AjitamitraAjitamitragupta-Mi-pham-bshes-gnyen_Arapacanamañjunāthapūjāvidhi:57"/>anurāgavineyam avekṣya jagat karuṇāparatantratayā vahasi || 1
+<lb n="SA_T02_AjitamitraAjitamitragupta-Mi-pham-bshes-gnyen_Arapacanamañjunāthapūjāvidhi:58"/>navameghaśaśāṅkasadṛvadanadvitayāntaravarti virājati te |
+<lb n="SA_T02_AjitamitraAjitamitragupta-Mi-pham-bshes-gnyen_Arapacanamañjunāthapūjāvidhi:59"/>udayaku(?)raṇidyutiliptapasattapanīyasaroruhakāntimukham || 2
+<lb n="SA_T02_AjitamitraAjitamitragupta-Mi-pham-bshes-gnyen_Arapacanamañjunāthapūjāvidhi:60"/>mlanimā(?)bharaṇāmalaratnagataprasaraddyutimañjunibhāvayavam |
+<lb n="SA_T02_AjitamitraAjitamitragupta-Mi-pham-bshes-gnyen_Arapacanamañjunāthapūjāvidhi:61"/>adhimauli dadhāsi taḍidvalayojjvalabālabalāhakavarṇarucam || 3 ||
+<lb n="SA_T02_AjitamitraAjitamitragupta-Mi-pham-bshes-gnyen_Arapacanamañjunāthapūjāvidhi:62"/>śubhalakṣaṇabhuṣaṇabhāja uṣaḥkiraṇāñcitakokaṇadadyutayaḥ |
+<lb n="SA_T02_AjitamitraAjitamitragupta-Mi-pham-bshes-gnyen_Arapacanamañjunāthapūjāvidhi:63"/>karavālakadambavi-[rest is not available; ought to be 8 verses]
+    </body>
+  </text>
+</TEI>

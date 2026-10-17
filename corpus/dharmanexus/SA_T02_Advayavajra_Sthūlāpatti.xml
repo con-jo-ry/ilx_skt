@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sthūlāpatti</title>
+        <author>Advayavajra</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Author: Advayavajra
+Collection / category: BuddhistNon-Scriptures / T02
+Source: OCR / Dharmamitra
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Critical collation based on Haraprasad Shastri (ed.), Advayavajrasaṃgraha, Gaekwad&#x27;s Oriental Series 40, Baroda: Oriental Institute, 1927, p. 13; Mikkyō-seiten-kenkyūkai (ed.), Taishō Daigaku Sōgō Bukkyō Kenkyūjo Nenpō 10, 1988, p. (44)/191; and manuscripts ms T (Tokyo colour ms.) and ms N (NGMPP B 22/24).</note>
+          <idno type="dharmanexus">SA_T02_Advayavajra_Sthūlāpatti</idno>
+          <ref target="https://dharmamitra.org/nexus/db/sa/SA_T02_Advayavajra_Sthūlāpatti/text">https://dharmamitra.org/nexus/db/sa/SA_T02_Advayavajra_Sthūlāpatti/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-13">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_T02_Advayavajra_Sthūlāpatti:0"/>Advayavajra&#x27;s works
+<lb n="SA_T02_Advayavajra_Sthūlāpatti:1"/>4. Sthūlāpatti
+<lb n="SA_T02_Advayavajra_Sthūlāpatti:2"/>edited by MM Hara Prasad Shastri {\S}
+<lb n="SA_T02_Advayavajra_Sthūlāpatti:3"/>in Advayavajrasaṃgraha GOS 1927 Baroda
+<lb n="SA_T02_Advayavajra_Sthūlāpatti:4"/>edited by Mikkyou-seiten-kenkyūkai {\M} 1.
+<lb n="SA_T02_Advayavajra_Sthūlāpatti:5"/>in Taisho Daigaku Sougou Bukkyou Kenkyūjo Nenpou 10
+<lb n="SA_T02_Advayavajra_Sthūlāpatti:6"/>Annual of The Institute for Comprehensive Studies of Buddhism
+<lb n="SA_T02_Advayavajra_Sthūlāpatti:7"/>Taisho University 10, 1988, pp.(44/191)
+<lb n="SA_T02_Advayavajra_Sthūlāpatti:8"/>^\S p.13.
+<lb n="SA_T02_Advayavajra_Sthūlāpatti:9"/>% \msT (Tōkyō colour ms.) 12\verso4
+<lb n="SA_T02_Advayavajra_Sthūlāpatti:10"/>% \msN (NGMPP B 22/24) [8\verso2&#x27;]
+<lb n="SA_T02_Advayavajra_Sthūlāpatti:11"/>vidyāyāḥ sevane prītyā samayānām ayogataḥ |
+<lb n="SA_T02_Advayavajra_Sthūlāpatti:12"/>% vidyāpāśevane ... śamayānām \msT, vidyāyā ... śamayānām \msN
+<lb n="SA_T02_Advayavajra_Sthūlāpatti:13"/>% surely &#x27;prītyā !
+<lb n="SA_T02_Advayavajra_Sthūlāpatti:14"/>gaṇacakre vivādaṃ ca guhyadharmaprakāśanāt || 1 ||
+<lb n="SA_T02_Advayavajra_Sthūlāpatti:15"/>% IEB 323 ``Seeking to take a consort who is without sacramental preparation.&#x27;&#x27; (\&amp; ibid. 324: ``Likewise, the first gross transgression may simply depict the unseemly circumstance of yogins searching for sexual conquests of any variety --- \textit{yakṣīs} [!], \textit{rākṣasīs}, animals, or whatever.&#x27;&#x27;) ``Relying on unauthorized sacraments.&#x27;&#x27;
+<lb n="SA_T02_Advayavajra_Sthūlāpatti:16"/>``Showing the secret Dharma.&#x27;&#x27;
+<lb n="SA_T02_Advayavajra_Sthūlāpatti:17"/>śrāddhasattveṣu saddharmadeśanā anyathā bhramāt |
+<lb n="SA_T02_Advayavajra_Sthūlāpatti:18"/>% śrārddha˚ \msT
+<lb n="SA_T02_Advayavajra_Sthūlāpatti:19"/>saptāhaṃ vasan madhye śrāvakānāṃ mahatkṛte || 2 ||
+<lb n="SA_T02_Advayavajra_Sthūlāpatti:20"/>% casan ? \msT, vasat \msN
+<lb n="SA_T02_Advayavajra_Sthūlāpatti:21"/>% mahatkṛte\M] mahakṛte \S, ahaṅkṛte \msT, ahakṛte \msN
+<lb n="SA_T02_Advayavajra_Sthūlāpatti:22"/>% IEB 323: ``Teaching another Dharma to those of faith, causing confusion.&#x27;&#x27; ``Staying with Śrāvakas for seven days.&#x27;&#x27; –&gt; ``Claiming the status of a \textit{mantrin} without sufficient realization.&#x27;&#x27;
+<lb n="SA_T02_Advayavajra_Sthūlāpatti:23"/>yogābhyaniścite yogy abhājane guhyadeśanāt |
+<lb n="SA_T02_Advayavajra_Sthūlāpatti:24"/>sthūlāpattir bhavet tena yoginaḥ saṃvarakṣatiḥ || 3 ||
+<lb n="SA_T02_Advayavajra_Sthūlāpatti:25"/>% yogābhyaniścite \M] yogāt pati[ta]ś cet \S, perhaps yogātyaniścite \msT\msN
+<lb n="SA_T02_Advayavajra_Sthūlāpatti:26"/>% &#x27;yogyabhājane \msT, yogi &#x27;bhājane \msN
+<lb n="SA_T02_Advayavajra_Sthūlāpatti:27"/>% sthūlāpatyo \msT\msN
+<lb n="SA_T02_Advayavajra_Sthūlāpatti:28"/>% kṣatiḥ \M] kṛtiḥ \S
+<lb n="SA_T02_Advayavajra_Sthūlāpatti:29"/>pūjayitvā mahācāryaṃ yathāśaktyupacārataḥ |
+<lb n="SA_T02_Advayavajra_Sthūlāpatti:30"/>% yathāśa   pacārataḥ | [\msT13\recto] \msT (!)
+<lb n="SA_T02_Advayavajra_Sthūlāpatti:31"/>apraticchannacittena deśayet tatkṛtau vratī || 4 ||
+<lb n="SA_T02_Advayavajra_Sthūlāpatti:32"/>% tat \M] tu \S, deśayet takṛtau \msN
+<lb n="SA_T02_Advayavajra_Sthūlāpatti:33"/>sthūlāpattayaḥ samāptāḥ ||      ||
+<lb n="SA_T02_Advayavajra_Sthūlāpatti:34"/>% samāptaḥ \msN [\msN 8\verso4&#x27;]
+    </body>
+  </text>
+</TEI>

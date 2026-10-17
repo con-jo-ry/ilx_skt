@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Buddhastotra (fragment)</title>
+        <author>Vasudhārā</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Author: Vasudhārā
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Manuscript transcription, based on Cambridge University Library MS Or.143.</note>
+          <idno type="dharmanexus">SA_T01_Vasudhārā_Buddhastotra</idno>
+          <ref target="https://dharmamitra.org/nexus/db/sa/SA_T01_Vasudhārā_Buddhastotra/text">https://dharmamitra.org/nexus/db/sa/SA_T01_Vasudhārā_Buddhastotra/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-13">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_T01_Vasudhārā_Buddhastotra:0"/>Title: *Buddhastotra
+<lb n="SA_T01_Vasudhārā_Buddhastotra:1"/>Author: *Vasudhārā
+<lb n="SA_T01_Vasudhārā_Buddhastotra:2"/>Source: Cambridge University Library Or.143
+<lb n="SA_T01_Vasudhārā_Buddhastotra:3"/>Tibetan: 1114
+<lb n="SA_T01_Vasudhārā_Buddhastotra:4"/>Input: Péter-Dániel Szántó, 26/01/2025 Budapest
+<lb n="SA_T01_Vasudhārā_Buddhastotra:5"/>Notes: Fragment of about two an a half verses from an eight-verse praise of the Buddha, possibly by a female poet. Penned in a later hand to fill scribal horror vacui after the end of an extract of verses from the Bodhicaryāvatāra and the ye dharmā formula, inscribed in a bold, 11th-century hand. The manuscript otherwise contains elements of the Grahamātṛkādhāraṇī, the Mañjuśrīnāmāṣṭaśataka, and the beginning of an unidentified dhāraṇī.
+<lb n="SA_T01_Vasudhārā_Buddhastotra:6"/>[curl] namo buddhāya ||
+<lb n="SA_T01_Vasudhārā_Buddhastotra:7"/>dattaṃ yena śiraḥpradānam asakṛn meroḥ pramāṇādhikaṃ
+<lb n="SA_T01_Vasudhārā_Buddhastotra:8"/>tārābhyaś ca bahūni yena + + + [da]ttāni netrāṇy api |
+<lb n="SA_T01_Vasudhārā_Buddhastotra:9"/>bhūmer yac ca mahattaraṃ svapiśitaṃ cāmbhonidheḥ śoṇitaṃ
+<lb n="SA_T01_Vasudhārā_Buddhastotra:10"/>tasmai duṣkarakāriṇe bhagavate buddhāya nityaṃ [namaḥ ||]
+<lb n="SA_T01_Vasudhārā_Buddhastotra:11"/>[ye]nodbhrāntataḍittaraṅgacapalaṃ cittaṃ vaśe sthāpitaṃ
+<lb n="SA_T01_Vasudhārā_Buddhastotra:12"/>yenājñānamahāsam[udra] + + + + + + + ttāritaḥ |
+<lb n="SA_T01_Vasudhārā_Buddhastotra:13"/>tṛṣṇā yena hatā + + + + karī mārāś ca vidhvaṃsitās
+<lb n="SA_T01_Vasudhārā_Buddhastotra:14"/>tasmai duṣkarakāriṇe bhagavate [buddhāya nityaṃ namaḥ ||]
+<lb n="SA_T01_Vasudhārā_Buddhastotra:15"/>+ + + + + + + + + + + + + + + dvaho
+<lb n="SA_T01_Vasudhārā_Buddhastotra:16"/>yo lebhe praṇayipriyāya padavīṃ devair agamyām varāṃ |
+<lb n="SA_T01_Vasudhārā_Buddhastotra:17"/>yo dehaṃ pra + + + + + + + + + + + + + + + + + + + +
+<lb n="SA_T01_Vasudhārā_Buddhastotra:18"/>% [the rest is lost]
+    </body>
+  </text>
+</TEI>

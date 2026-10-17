@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Aṣṭamahācaityavandanā</title>
+        <author>Harṣa</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Author: Harṣa
+Collection / category: BuddhistNon-Scriptures / T01 (Stotra / hymns of praise)
+Source: OCR / Dharmamitra
+Reconstruction: Sanskrit restored from a Chinese phonetic transcription by Sylvain Lévi.
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (not determined): Lévi 1894 (Sanskrit restored from the Chinese transcription by Fatian), also cf. Bauddhastotrasaṃgraha no. 22.</note>
+          <idno type="dharmanexus">SA_T01_Harṣa_Aṣṭamahācaityavandanā</idno>
+          <ref target="https://dharmamitra.org/nexus/db/sa/SA_T01_Harṣa_Aṣṭamahācaityavandanā/text">https://dharmamitra.org/nexus/db/sa/SA_T01_Harṣa_Aṣṭamahācaityavandanā/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-13">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_T01_Harṣa_Aṣṭamahācaityavandanā:0"/>Title: Aṣṭamahācaityavandanā
+<lb n="SA_T01_Harṣa_Aṣṭamahācaityavandanā:1"/>Author: (king) Harṣa
+<lb n="SA_T01_Harṣa_Aṣṭamahācaityavandanā:2"/>Source: Lévi 1894 (Sanskrit restored from the Chinese transcription by Fatian), also cf. Bauddhastotrasaṃgraha no. 22.
+<lb n="SA_T01_Harṣa_Aṣṭamahācaityavandanā:3"/>Tibetan: D 1168
+<lb n="SA_T01_Harṣa_Aṣṭamahācaityavandanā:4"/>Input: Péter-Dániel Szántó (silent corrections)
+<lb n="SA_T01_Harṣa_Aṣṭamahācaityavandanā:5"/>[1] jātiṃ bodhiṃ pravaram atulaṃ dharmacakraṃ ca ramyaṃ
+<lb n="SA_T01_Harṣa_Aṣṭamahācaityavandanā:6"/>caityaṃ cādyaṃ tribhuvanamahitaṃ śrīmahāprātihāryam |
+<lb n="SA_T01_Harṣa_Aṣṭamahācaityavandanā:7"/>sthānaṃ cedaṃ himagirinilayaṃ devadevāvatāraṃ
+<lb n="SA_T01_Harṣa_Aṣṭamahācaityavandanā:8"/>vande &#x27;haṃ praṇamitaśirasā nirvṛtā yatra buddhāḥ ||
+<lb n="SA_T01_Harṣa_Aṣṭamahācaityavandanā:9"/>% anne vande bhaktyā
+<lb n="SA_T01_Harṣa_Aṣṭamahācaityavandanā:10"/>[2] vaiśālyāṃ dharmacakre śiṣumagiritaṭe bhīṣmakāyoditīre
+<lb n="SA_T01_Harṣa_Aṣṭamahācaityavandanā:11"/>śrāvastyāṃ bodhimūle kuśinagaravare lumbinīkāpilālye |
+<lb n="SA_T01_Harṣa_Aṣṭamahācaityavandanā:12"/>% anne °kāpilākhye
+<lb n="SA_T01_Harṣa_Aṣṭamahācaityavandanā:13"/>kauśāmbyāṃ smerakoṣṭhe mathuravarapure nandagopasya rāṣṭre
+<lb n="SA_T01_Harṣa_Aṣṭamahācaityavandanā:14"/>ye cānye śāstu caityā daśabalabalinas tān namasyāmi mūrdhnā ||
+<lb n="SA_T01_Harṣa_Aṣṭamahācaityavandanā:15"/>% anne śāstṛcaityā vel dhātucaityā
+<lb n="SA_T01_Harṣa_Aṣṭamahācaityavandanā:16"/>[3] kaśmīre cīnadeśe khaṣataṭayamune marvare siṃhale vā
+<lb n="SA_T01_Harṣa_Aṣṭamahācaityavandanā:17"/>lāṭoḍre sindhupauṇḍre samataṭamagadhe mekhale kosale vā |
+<lb n="SA_T01_Harṣa_Aṣṭamahācaityavandanā:18"/>% anne khasataṭa°
+<lb n="SA_T01_Harṣa_Aṣṭamahācaityavandanā:19"/>% anne barbare
+<lb n="SA_T01_Harṣa_Aṣṭamahācaityavandanā:20"/>nepāle kāmarūpe kalaśavarapure kāñcisaurāṣṭrarāṣṭre
+<lb n="SA_T01_Harṣa_Aṣṭamahācaityavandanā:21"/>ye cānye dhātugarbhā daśabalabalinas tān namasyāmi mūrdhnā ||
+<lb n="SA_T01_Harṣa_Aṣṭamahācaityavandanā:22"/>% anne dhātucaityā
+<lb n="SA_T01_Harṣa_Aṣṭamahācaityavandanā:23"/>[4] kailāse hemakūṭe himagirinilaye mandare meruśṛṅge
+<lb n="SA_T01_Harṣa_Aṣṭamahācaityavandanā:24"/>pātāle vaijayante dhanapatinilaye siddhagandharvaloke |
+<lb n="SA_T01_Harṣa_Aṣṭamahācaityavandanā:25"/>brahmāṇḍe viṣṇubhūmau paśupatibhavane candrasūryādiloke
+<lb n="SA_T01_Harṣa_Aṣṭamahācaityavandanā:26"/>ye cānye dhātugarbhā daśabalabalinas tān namasyāmi mūrdhnā ||
+<lb n="SA_T01_Harṣa_Aṣṭamahācaityavandanā:27"/>% anne dhātucaityā
+<lb n="SA_T01_Harṣa_Aṣṭamahācaityavandanā:28"/>[5] ye cāṣṭau dhātugarbhā daśabalabalinaḥ kumbhasaṃjñāś ca caityā
+<lb n="SA_T01_Harṣa_Aṣṭamahācaityavandanā:29"/>aṅgārākhyās tathānye himarajatanibhāḥ stūparatnaprakāśāḥ |
+<lb n="SA_T01_Harṣa_Aṣṭamahācaityavandanā:30"/>pātāle ye ca bhūmyāṃ giriśikharagatāḥ sarvato dhātugarbhā
+<lb n="SA_T01_Harṣa_Aṣṭamahācaityavandanā:31"/>buddhānāṃ yāni bimbāḥ pratidinam asakṛt tāni namasyāmi mūrdhnā ||
+<lb n="SA_T01_Harṣa_Aṣṭamahācaityavandanā:32"/>% yāni ... tāni? anne ye ca/tu/hi ... tān
+<lb n="SA_T01_Harṣa_Aṣṭamahācaityavandanā:33"/>aṣṭamahāsthānacaityavandanā samāptā.
+    </body>
+  </text>
+</TEI>

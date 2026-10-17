@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Nīlakaṇṭhadhāraṇī (fragment)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Collection / category: BuddhistScriptures / K12 (Tantra/dhāraṇī)
+Source: OCR / Dharmamitra
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Louis de La Vallée Poussin and Robert Gauthiot, &#x27;XIX. Fragment final de la Nilakanthadharani en brahmi et en transcription sogdienne&#x27;, Journal of the Royal Asiatic Society 44/3 (1912), pp. 629–645.</note>
+          <idno type="dharmanexus">SA_K12_Āgama_Nīlakaṇṭhadhāraṇī</idno>
+          <ref target="https://dharmamitra.org/nexus/db/sa/SA_K12_Āgama_Nīlakaṇṭhadhāraṇī/text">https://dharmamitra.org/nexus/db/sa/SA_K12_Āgama_Nīlakaṇṭhadhāraṇī/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-13">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_K12_Āgama_Nīlakaṇṭhadhāraṇī:0"/>Title: Nīlakaṇṭhadhāraṇī a.k.a.
+<lb n="SA_K12_Āgama_Nīlakaṇṭhadhāraṇī:1"/>Source: La Vallée Poussin, Louis and Robert Gauthiot. “XIX. Fragment final de la Nilakanthadharani en brahmi et en transcription sogdienne.” Journal of the Royal Asiatic Society 44/3 (1912): 629–645 (plus 1 plate). [minor stt.]
+<lb n="SA_K12_Āgama_Nīlakaṇṭhadhāraṇī:2"/>Tibetan: D 697/905
+<lb n="SA_K12_Āgama_Nīlakaṇṭhadhāraṇī:3"/>[frag. incipit] siddhayogīśvara dhuru 2 viyaṃnti mahāviyaṃnti [=vīryaṃ te mahāvīryaṃ te?] dharendreśvara cala [=cal cala?] vimalāmalamūrte āryāvalokiteśvarājījikṛṣṇajaṭe makuṭāvalamba vā pralambaṃ [?] mahāsiddhavidyādhara bala 2 mahābala mala 2 mahāmala cala 2 mahācala kṛṣṇavarṇa kṛṣṇapakṣanirghātana he padmahasta cara 2 niśācareśvara kṛṣṇasarpakṛtayajñopavīta ehy ehi mahāvarāhamukha mahātripuradahaneśvara nārāyaṇarūpabalavegadhāri he nīlakaṇṭha he mahāhālāhalaviṣanirjita lokasya rāgaviṣavināśana dveṣaviṣavināśana mohaviṣavināśana hulu 2 mālā huru hara 2 mahāpadmanābha sara 2 siri 2 suru 2 buddhya 2 bodhaya 2 bodhayāmi te nīlakaṇṭha ehy ehi vāmasthitasiṃhamukha hasa 2 muñca 2 mahāṭāṭṭahāsa ehy ehi mahāsiddhayogīśvara haṇa 2 [=bhaṇa 2] vācaṃ sādhaya 2 vidyāṃ smara 2 bhagavantaṃ lokitavilokitaṃ tathāgataṃ dadāhi me darśanaṃ kāmasya darśanaṃ prahlādaya me naṃ [manaḥ?] svāhā siddhāya svāhā mahāsiddhāya svāhā siddhayogīśvarāya svāhā nīlakaṇṭhāya svāhā varāhamukhāya svāhā mahāsiṃhamukhāya svāhā siddhavidyādharāya svāhā padmahastāya svāhā mahākṛṣṇasarpayajñopavītāya svāhā mahālakuṭadharāya [=mahālaguḍadharāya?] svāhā cakrāyudhāya svāhā śaṅkhaśabdanibodhanāya svāhā vāmaskandhaveṣasthitakṛṣṇājināya svāhā vyāghracarmanivāsanāya svāhā lokiteśvarāya svāhā sarvasiddheśvarāya svāhā namo bhagavate āryāvalokiteśvarāya bodhisattvāya mahāsattvāya mahākāruṇikāya sidhyantu mantrapadāḥ svāhā
+<lb n="SA_K12_Āgama_Nīlakaṇṭhadhāraṇī:4"/>nīlakaṇṭhanāmadhāraṇī samāptā || o ||
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Maṇḍalopāyikā (chapter 1)</title>
+        <author>Padmaśrīmitra</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Author: Padmaśrīmitra
+Collection / category: BuddhistNon-Scriptures / T02
+Source: OCR / Dharmamitra
+Edition / witness: Tanemura, 2016
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (not determined): Tanemura, 2016</note>
+          <idno type="dharmanexus">SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura</idno>
+          <ref target="https://dharmamitra.org/nexus/db/sa/SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura/text">https://dharmamitra.org/nexus/db/sa/SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-13">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:0"/>outline
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:1"/>1. Saṃvaragrahaṇādividhiḥ (1r1–1v2)
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:2"/>2. Kalaśādhivāsanavidhiḥ (1v2-3r7)
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:3"/>3. Vihārārāmapaṭapustakasādhāraṇārghavidhiḥ (3r8-4r7)
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:4"/>4. Pratiṣṭhāvidhiḥ (4r7-9v8)
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:5"/>• Bhūmiśodhanavidhiḥ (4r7-5r4)
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:6"/>• Adhivāsanavidhiḥ (5r4-5r10)
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:7"/>• Bhūmiparigrahavidhiḥ (5r10-5v3)
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:8"/>• [Balividhiḥ] (5v3-6v8)
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:9"/>• Sūtrapātaḥ (6v8-?)
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:10"/>– Ṭippasūtralopakramaḥ (6v8-7r9)
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:11"/>– Jñānasūtrakramaḥ (7r9-7v7)
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:12"/>– ? (7v7-) [8 deest]
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:13"/>• Devatādhivāsanavidhiḥ (?-9r8)
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:14"/>• No title (9r8-9v8)
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:15"/>5. Abhiṣekaḥ (9v8-12v2)
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:16"/>• Śiṣyādhivāsanavidhiḥ (9v8-10v1)
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:17"/>• Puṣpapātanavidhiḥ (10v1-11r2)
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:18"/>• Maṇḍalapraveśavidhiḥ (11r2-11r4)
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:19"/>• Udakābhiṣekaḥ (11r4-11r6)
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:20"/>• Mukuṭābhiṣekaḥ (11r6-11r7)
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:21"/>• Vajrābhiṣekaḥ (11r7-11r8)
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:22"/>[• Ghaṇṭābhiṣekaḥ?]
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:23"/>• Nāmābhiṣekaḥ (11r8-11r10)
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:24"/>• Anujñādānam (11r10-11v3)
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:25"/>• Vajravratadānam (11v3-11v4)
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:26"/>• Vyākaraṇam (11v4-11v5)
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:27"/>• Guhyābhiṣekaḥ (11v5-11v11)
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:28"/>• Prajñājñānābhiṣekaḥ (11v11-12v2)
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:29"/>6. Homavidhiḥ (12v2-14r8)
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:30"/>• Nirdeśaḥ (12v2-12v9)
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:31"/>• Samidhadiśonirdeśaḥ (12v9-13r5)
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:32"/>• Pātrīśruvānirdeśaḥ (13r5-13r8)
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:33"/>• Vajralakṣaṇavinyāsaḥ (13r8-13r13)
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:34"/>• Ghaṇṭoddeśaḥ (13r13-13v4)
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:35"/>• Agnyuddeśaḥ (13v4-13v5)
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:36"/>• Kuśanyāsaḥ (13v5-13v8)
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:37"/>• Vahnilakṣaṇanirdeśaḥ (13v8-14r4)
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:38"/>• No title (14r4-14r8)
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:39"/>7. Jalahomaḥ (14r8-14v6)
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:40"/>8. Snānavidhiḥ (14v6-14v12)
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:41"/>9. Rajovisarjanavidhiḥ (14v12-15r8)
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:42"/>10. Antasthitikarmoddeśaḥ (15r8-15v11)
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:43"/>%
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:44"/>[1. Saṃvaragrahaṇādividhiḥ]
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:45"/>[1.1 Maṅgala]
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:46"/>praṇamya sarvabhāvena vajrācāryaṃ mahāgurum |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:47"/>maṇḍalopāyikāṃ vakṣye śrīsamājānusārataḥ || 1.1 ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:48"/>[1.2 Pūrvasevā]
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:49"/>pūrvasevāvidhānajño labdhājño gurutaḥ kṛtī |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:50"/>japtavidyas tv animittaḥ kṛtarakṣaḥ samantataḥ || 1.2 ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:51"/>śiṣyārthaṃ puṇyahetoś ca karmaprasarakarmaṇi |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:52"/>śiṣyair abhyarthito yatnān maṇḍalālekhyakarmaṇi || 1.3 ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:53"/>ādyaṃ taduditaṃ kuryād vajrācāryanayaṃ param |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:54"/>saptāṣṭau ca divasāṃs tu triśuklabhojyam ādiśet || 1.4 ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:55"/>bhaktaṃ kṣīraṃ ghṛtaṃ tridhā tv atha sāmānyabhojanam |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:56"/>% ghṛataṃ typo
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:57"/>pūrṇaṃ yāvad ahorātraṃ tithau pratipadya bhojanam || 1.5 ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:58"/>dhīrair eṣa vidhiḥ kāryaḥ puṇyahetoḥ kṛtādaraiḥ |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:59"/>†yasyā† dharmāmṛtāhāraṃ lapsyante te na saṃśayaḥ || 1.6 ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:60"/>% anne yasmād?
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:61"/>[1.3 Merits of drawing a maṇḍala]
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:62"/>vajrācāryo mahābhogo yasmin maṇḍalam ālikhet |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:63"/>% ālikhyet \ed
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:64"/>bodhicittaṃ samutpādyaṃ tatra tryadhvānugaṃ tathā || 1.7 ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:65"/>kṛtvā ratnatraye śraddhām asaṃśītiḥ kṛpātmakaḥ |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:66"/>[1.4 Saṃvaragrahaṇa]
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:67"/>[1.4.1 Saṃvaratraya]
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:68"/>aṣṭamyāṃ ca caturdaśyāṃ sādhyo gṛhasthitair ayam || 1.8 ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:69"/>pravrajitair atha pūrṇāyāṃ vidhānajñaiḥ vidhiḥ paraḥ |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:70"/>anupūrvaṃ pravakṣyāmi yathāyogaṃ yathārhataḥ || 1.9 ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:71"/>bodhicittaparo bhūtvā nānyadevaspṛhāparaḥ |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:72"/>% nānyā° \ed
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:73"/>triratnaśraddadhāno hi tannimnapravaṇas tathā || 1.10 ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:74"/>% °śraddhadhāno \ed
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:75"/>vadhyaṃ cādattamaithunyaṃ mṛṣāmadyaṃ vivarjayet |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:76"/>% anne cādattaṃ ... mṛṣāṃ?
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:77"/>gṛhayogaṃ samāsthāya sādhayet trisamādhikam || 1.11 ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:78"/>trisamvaraṃ samāsthāya sādhayet pravrajitaḥ punaḥ |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:79"/>samādhitrayam anyatra prasiddhaṃ cādhimokṣataḥ || 1.12 ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:80"/>[1.4.2 Vajrasaṃvara]
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:81"/>anyatantrāntaroktatvāt saṃvaratrayam eva hi |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:82"/>asmābhir bhaṇitam atra kathyate vajrasaṃvaraḥ || 1.13 ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:83"/>[Praṇāmacatuṣṭaya]
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:84"/>oṃ sarvatathāgatapūjopasthānāyātmānaṃ niryātayāmi, sarvatathāgata vajrasattvādhitiṣṭha mām |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:85"/>oṃ sarvatathāgatābhiṣekāyātmānaṃ niryātayāmi, sarvatathāgata vajraratnābhiṣiñca mām |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:86"/>oṃ sarvatathāgatapūjāpravartamānāyātmānaṃ niryātayāmi, sarvatathāgata vajradharma pravartaya mām |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:87"/>oṃ sarvatathāgatapūjākarmaṇe ātmānaṃ niryātayāmi, sarvatathāgata vajrakarma kuruṣva mām ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:88"/>% kurusva \ed
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:89"/>vajrāñjaliṃ tataḥ kṛtvā śirasā praṇamed budhaḥ |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:90"/>niryātayej jinebhyas tu m-añjaliṃ puṣpapūritam || 1.14 ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:91"/>tathaiva hṛdi kṛtvā ca lalāṭe nāmayed budhaḥ |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:92"/>% lalāṭena \ed
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:93"/>avatārya śiraḥ kuryād vacasā praṇamet tataḥ || 1.15 ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:94"/>[Bodhicittotpāda]
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:95"/>praṇamāntaram, samanvāharantu māṃ
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:96"/>śāśvatākṣobhyaratnāgryalokeśāmoghasiddhayaḥ [|]
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:97"/>daśadiganantāparyantalokadhātuvyavasthitāḥ [||]
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:98"/>tathāgatāś ca devyaś ca bodhisattvā jinaurasāḥ |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:99"/>% NB not recognised as verse in \ed
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:100"/>aham amukanāmā,
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:101"/>imāṃ velām upādāya yāvad ā bodhimaṇḍataḥ ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:102"/>utpādayāmi paramaṃ bodhicittam anuttaram |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:103"/>yathā traiyadhvikā nāthāḥ saṃbodhau kṛtaniścayāḥ || 1.16 ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:104"/>trividhāṃ śīlaśikṣāṃ ca kuśaladharmasaṃgraham |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:105"/>sattvārthakriyāśīlaṃ ca pratigṛhṇāmy ahaṃ dṛḍham || 1.17 ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:106"/>% NB: sattvārthaṃ kriyāśīlaṃ \ms; without ca is also attested in good sources!
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:107"/>[Buddhakula]
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:108"/>buddhaṃ dharmaṃ ca saṃghaṃ ca triratnāgram anuttaram |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:109"/>adyāgreṇa dhārayiṣyāmi saṃvaraṃ guhyayogajam || 1.18 ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:110"/>[Vajrakula]
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:111"/>vajraṃ ghaṇṭāṃ ca mudrāṃ ca pratigṛhṇāmi tattvataḥ |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:112"/>ācāryaṃ ca grahīṣyāmi mahāvajrakuloccaye || 1.19 ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:113"/>[Ratnakula]
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:114"/>caturdānaṃ pradāsyāmi ṣaṭkṛtvā tu dine dine |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:115"/>mahāratnakule yoge samaye ca manorame || 1.20 ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:116"/>[Padmakula]
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:117"/>saddharmaṃ pratigṛhṇāmi bāhyaṃ guhyaṃ triyānikam |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:118"/>mahāpadmakule śuddhe mahābodhisamudbhave || 1.21 ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:119"/>[Karmakula]
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:120"/>saṃvaraṃ sarvasaṃyuktaṃ pratigṛhṇāmi tattvataḥ |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:121"/>pūjākarma yathāśaktyā mahākarmakuloccaye || 1.22 ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:122"/>[Salvation of sentient beings]
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:123"/>utpādayitvā paramaṃ bodhicittam anuttaram |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:124"/>gṛhītaṃ samvaraṃ kṛtsnaṃ sarvasattvārthakāraṇāt || 1.23 ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:125"/>atīrṇāṃs tārayiṣyāmi amuktān mocayāmy aham |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:126"/>anāśvastān āśvāsayiṣyāmi sattvān sthāpayiṣyāmi nirvṛtau || 1.24 ||
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:127"/>% anne aśvastān?
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:128"/>[1.5 Closing verse]
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:129"/>etenāpattiśūnyaḥ syāt saha śiṣyagaṇair guruḥ |
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:130"/>alpamātreṣv avagraheṣu kuryād āpad dalitām || [26]
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:131"/>% huh?
+<lb n="SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura:132"/>saṃvaragrahaṇādividhiḥ.
+    </body>
+  </text>
+</TEI>

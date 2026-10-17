@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Jñānamālā</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Collection / category: BuddhistNon-Scriptures / T02
+Source: OCR / Dharmamitra
+Edition / witness: NAK 4-1171 = NGMPP A 59/20 Śītajñānamālā&#x27;&#x27; —&gt; Jñānamālā (colophon was misread); acc. to DA&#x27;s estimate, ca. late 13th c.
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Diplomatic transcription of National Archives Kathmandu MS 4-1171 (NGMPP reel A 59/20, palm-leaf, ca. late 13th c.) (unpublished, Dharmamitra).</note>
+          <idno type="dharmanexus">SA_T02_various-siddhas_Jñānamālā</idno>
+          <ref target="https://dharmamitra.org/nexus/db/sa/SA_T02_various-siddhas_Jñānamālā/text">https://dharmamitra.org/nexus/db/sa/SA_T02_various-siddhas_Jñānamālā/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-13">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_T02_various-siddhas_Jñānamālā:0"/>@ namo mīnanāthāya ||
+<lb n="SA_T02_various-siddhas_Jñānamālā:1"/>khamadhyataḥ khamadhyai taṃ kuru cātmānam ātmani madhye khaṃ kuru |
+<lb n="SA_T02_various-siddhas_Jñānamālā:2"/>% cātmānaṃḥm \ms
+<lb n="SA_T02_various-siddhas_Jñānamālā:3"/>bahirvyoma sthiraproktā nāsāgrasphuṭa nigrata |
+<lb n="SA_T02_various-siddhas_Jñānamālā:4"/>% barhi \ms • -puṭa-?
+<lb n="SA_T02_various-siddhas_Jñānamālā:5"/>lūyīpābhāṣitaṃ tattvaṃ yathāvad anusaṃkhara ||
+<lb n="SA_T02_various-siddhas_Jñānamālā:6"/>% bhāsitaṃ \ms
+<lb n="SA_T02_various-siddhas_Jñānamālā:7"/>% tatva \ms
+<lb n="SA_T02_various-siddhas_Jñānamālā:8"/>ūrdhva śūnyam adhaḥ śūnyaṃ madhye śūnyaṃ nirāmayam |
+<lb n="SA_T02_various-siddhas_Jñānamālā:9"/>% adha \ms • sūnyam ... sūnya ... sūnyaṃ \ms
+<lb n="SA_T02_various-siddhas_Jñānamālā:10"/>līlāpā vocate tattvaṃ svayaṃ buddhena bhāṣitam ||
+<lb n="SA_T02_various-siddhas_Jñānamālā:11"/>% tatvaṃ \ms • budhena \ms • bhāsitaṃ \ms
+<lb n="SA_T02_various-siddhas_Jñānamālā:12"/>nāsāgranirīkṣaṇena brahmagranthi vilīyate |
+<lb n="SA_T02_various-siddhas_Jñānamālā:13"/>% -nirīkṣeṇa \ms
+<lb n="SA_T02_various-siddhas_Jñānamālā:14"/>śvāśānirodhamānena garbhe sarvavi śūnyatā |
+<lb n="SA_T02_various-siddhas_Jñānamālā:15"/>% sūnyatā \ms
+<lb n="SA_T02_various-siddhas_Jñānamālā:16"/>saroruhaś ca bhāsetaḥ macchendrasya prasādanu ||
+<lb n="SA_T02_various-siddhas_Jñānamālā:17"/>oṃkāradhvaninināde vāyu saṃharate mana |
+<lb n="SA_T02_various-siddhas_Jñānamālā:18"/>nyase devatā aṅge viruvā lūyibhāsita ||
+<lb n="SA_T02_various-siddhas_Jñānamālā:19"/>% lū[1v]yi-
+<lb n="SA_T02_various-siddhas_Jñānamālā:20"/>navacchidrātmaka dehaṃ śravanti ghaṭacchidravat |
+<lb n="SA_T02_various-siddhas_Jñānamālā:21"/>% -cchidā- \ms
+<lb n="SA_T02_various-siddhas_Jñānamālā:22"/>tasmād brahmapadaṃ jñātvā navamārganirodhanāt ||
+<lb n="SA_T02_various-siddhas_Jñānamālā:23"/>% tasmāt] \ms • -māgra-] \ms
+<lb n="SA_T02_various-siddhas_Jñānamālā:24"/>nirmala deha dehīs ca ubhayaś ca nirañjaṇa |
+<lb n="SA_T02_various-siddhas_Jñānamālā:25"/>viruvāpāprasādena abhavabhūti nibodhate ||
+<lb n="SA_T02_various-siddhas_Jñānamālā:26"/>śūnyatābhāvasaṃsvaddhaṃ mārgadvayamadhyaga |
+<lb n="SA_T02_various-siddhas_Jñānamālā:27"/>% sūnyatā- \ms • mārgga- \ms
+<lb n="SA_T02_various-siddhas_Jñānamālā:28"/>brahmā viṣṇu līyante tasthāne sarva līyate ||
+<lb n="SA_T02_various-siddhas_Jñānamālā:29"/>sarahasya kramam ete lūyīpākramayogata ||
+<lb n="SA_T02_various-siddhas_Jñānamālā:30"/>% lūyīkrama- \ms
+<lb n="SA_T02_various-siddhas_Jñānamālā:31"/>pāpapuṇyavinirmukta ūrdhvodhavāyuvarjita |
+<lb n="SA_T02_various-siddhas_Jñānamālā:32"/>% -vinimurkta \ms • ūddhvorddhavāyuvarjjita \ms
+<lb n="SA_T02_various-siddhas_Jñānamālā:33"/>āciṃtaciṃtitātmānaṃ mana vāyus ca niścala |
+<lb n="SA_T02_various-siddhas_Jñānamālā:34"/>% niśvala | [2r]
+<lb n="SA_T02_various-siddhas_Jñānamālā:35"/>ḍheṃkī lūyiprasādena m-etat tattva prakāśate ||
+<lb n="SA_T02_various-siddhas_Jñānamālā:36"/>% tatva \ms • prakāsate \ms
+<lb n="SA_T02_various-siddhas_Jñānamālā:37"/>ākāśam iva suḥ śarīraṃ ātma dṛśyate sadā |
+<lb n="SA_T02_various-siddhas_Jñānamālā:38"/>% ākāsam \ms • sārīraṃ \ms • dṛsyate \ms
+<lb n="SA_T02_various-siddhas_Jñānamālā:39"/>bāhyābhyantaraśūnyas tu jālanīprabhu saroruha ||
+<lb n="SA_T02_various-siddhas_Jñānamālā:40"/>% -sūnyas \ms
+<lb n="SA_T02_various-siddhas_Jñānamālā:41"/>sarvavikalpavihīno śuddho bodho &#x27;jarā&#x27;maraṃ |
+<lb n="SA_T02_various-siddhas_Jñānamālā:42"/>% suddho \ms
+<lb n="SA_T02_various-siddhas_Jñānamālā:43"/>sāṃtaṃ-r-acalaṃ sakṛtaḥ vibhāti cetanāḥ ātma khavat vyāpī |
+<lb n="SA_T02_various-siddhas_Jñānamālā:44"/>lūyīprasādena m-ucyate bhusuku ||
+<lb n="SA_T02_various-siddhas_Jñānamālā:45"/>hitvāvasthātrayaṃ yogīḥ kṣaturīyaś ca tata padaṃ |
+<lb n="SA_T02_various-siddhas_Jñānamālā:46"/>% padaṃ | [2v]
+<lb n="SA_T02_various-siddhas_Jñānamālā:47"/>viśvaś caiti jagat prāpte taṃtī ca jālanīkrama ||
+<lb n="SA_T02_various-siddhas_Jñānamālā:48"/>% visvaś \ms
+<lb n="SA_T02_various-siddhas_Jñānamālā:49"/>hṛtpadma maraṇīkṛtya pratyāhāro &#x27;ntarāyanī |
+<lb n="SA_T02_various-siddhas_Jñānamālā:50"/>% nta&lt;rā&gt;yanī \ms
+<lb n="SA_T02_various-siddhas_Jñānamālā:51"/>dhyānaṃ nimathanā samyak vahnivat lakṣayet ciyaṃ |
+<lb n="SA_T02_various-siddhas_Jñānamālā:52"/>% saṃmyak \ms
+<lb n="SA_T02_various-siddhas_Jñānamālā:53"/>telīś ca lūyipākrama ||
+<lb n="SA_T02_various-siddhas_Jñānamālā:54"/>ṣaḍ indriyā nibhajanti khaṇḍakhaṇḍaṃ pi śūnyatā |
+<lb n="SA_T02_various-siddhas_Jñānamālā:55"/>% ṣaḍendrayā \ms • sūnyatā \ms
+<lb n="SA_T02_various-siddhas_Jñānamālā:56"/>samūhaṃ līyate kūpeḥ jālanīśiśya casārikā ||
+<lb n="SA_T02_various-siddhas_Jñānamālā:57"/>śvāsanirodhamānena pūrakañ ca ṣaḍindriyaṃ |
+<lb n="SA_T02_various-siddhas_Jñānamālā:58"/>% svāsa- \ms • ṣaḍendriyaṃ \ms
+<lb n="SA_T02_various-siddhas_Jñānamālā:59"/>navacchidranirodhena līlāśiśus tu sogata ||
+<lb n="SA_T02_various-siddhas_Jñānamālā:60"/>% -cchida- \ms
+<lb n="SA_T02_various-siddhas_Jñānamālā:61"/>% līlāśi[3r]śus
+<lb n="SA_T02_various-siddhas_Jñānamālā:62"/>patyaṃgātmā paraṃ śuddho ajo &#x27;vyakta sanātana |
+<lb n="SA_T02_various-siddhas_Jñānamālā:63"/>% suddho \ms • vyakta \ms
+<lb n="SA_T02_various-siddhas_Jñānamālā:64"/>eko nirañjana vyāpī kukurī lūyipāśiśa ||
+<lb n="SA_T02_various-siddhas_Jñānamālā:65"/>brahmadvārāntare vyome vāyu saṃlīyate mana |
+<lb n="SA_T02_various-siddhas_Jñānamālā:66"/>% -dvārāṃntare \ms
+<lb n="SA_T02_various-siddhas_Jñānamālā:67"/>tasmāt sarva khavat vyāpī kahṇudevaḥ macchendrabhāṣita ||
+<lb n="SA_T02_various-siddhas_Jñānamālā:68"/>% -bhāsita \ms
+<lb n="SA_T02_various-siddhas_Jñānamālā:69"/>śukraśvāsamanabandha tasthāne sarva līyate |
+<lb n="SA_T02_various-siddhas_Jñānamālā:70"/>% -svāsa- \ms • -baṃdha- \ms
+<lb n="SA_T02_various-siddhas_Jñānamālā:71"/>candabandhas caḥ ḍheṃkī kramayogata |[|]
+<lb n="SA_T02_various-siddhas_Jñānamālā:72"/>nāsāgrasphuṭamadhyastha yadā vāyu pravāhati |
+<lb n="SA_T02_various-siddhas_Jñānamālā:73"/>% -puṭa-?
+<lb n="SA_T02_various-siddhas_Jñānamālā:74"/>līyate tatsutaṃ cittaṃ dhva[?] kahṇī sarahapākrama ||
+<lb n="SA_T02_various-siddhas_Jñānamālā:75"/>% tatsu[3v]taṃ • citaṃ \ms
+<lb n="SA_T02_various-siddhas_Jñānamālā:76"/>etā dvaitavikalpaṃ bhramarūpo vimohanī māyā |
+<lb n="SA_T02_various-siddhas_Jñānamālā:77"/>utsṛjya sakalaniṣkalam advaitaṃ bhāvaye brahmā |
+<lb n="SA_T02_various-siddhas_Jñānamālā:78"/>% -niskalam \ms
+<lb n="SA_T02_various-siddhas_Jñānamālā:79"/>evaṃ vibhāsate ṇīli yathāvad anusogata ||
+<lb n="SA_T02_various-siddhas_Jñānamālā:80"/>rasapīṇitaguḍasakkarādyā vikṛtayo tathaivekṣu tadvat paramārtha |
+<lb n="SA_T02_various-siddhas_Jñānamālā:81"/>bhāsaṃti caṇḍavīro līlāpāyapasāyena ||
+<lb n="SA_T02_various-siddhas_Jñānamālā:82"/>yadvad dinakara eko vibhāti salilāsayesu sarvesu |
+<lb n="SA_T02_various-siddhas_Jñānamālā:83"/>tadvat sa kadārikaś caiti bhāśanti lūyīpāyaś ca ya krama |
+<lb n="SA_T02_various-siddhas_Jñānamālā:84"/>% sa ka[4r]dārikaś
+<lb n="SA_T02_various-siddhas_Jñānamālā:85"/>vācate tṛtīyadevaḥ yāveḥ tattvaṃ na vidhati ||
+<lb n="SA_T02_various-siddhas_Jñānamālā:86"/>% vācate underlined and glossed `indrabhūta&#x27; !?
+<lb n="SA_T02_various-siddhas_Jñānamālā:87"/>% tatvaṃ \ms
+<lb n="SA_T02_various-siddhas_Jñānamālā:88"/>vedite ca pare tattva eka evātra ya sthita |
+<lb n="SA_T02_various-siddhas_Jñānamālā:89"/>% tatvaṃ \ms
+<lb n="SA_T02_various-siddhas_Jñānamālā:90"/>sarvārūś ca nirālamba kamalāmbarabhāṣita ||
+<lb n="SA_T02_various-siddhas_Jñānamālā:91"/>% -bhāsita \ms
+<lb n="SA_T02_various-siddhas_Jñānamālā:92"/>vijñānāntayām iva prāṇavirātme sajātipiṇḍāntā |
+<lb n="SA_T02_various-siddhas_Jñānamālā:93"/>vyavahārasthāsyātmānaḥ ete &#x27;vasthā visesā syu ||
+<lb n="SA_T02_various-siddhas_Jñānamālā:94"/>% vasthā \ms
+<lb n="SA_T02_various-siddhas_Jñānamālā:95"/>māhilavīrasya tattvaṃ yathāvad anu kahṇunā |
+<lb n="SA_T02_various-siddhas_Jñānamālā:96"/>% tatvaṃ \ms • kahṇanā \ms
+<lb n="SA_T02_various-siddhas_Jñānamālā:97"/>bhūtaṃ saṃharati śaśī ratanyā jātisukhaduḥkhai ||
+<lb n="SA_T02_various-siddhas_Jñānamālā:98"/>% duḥ[4v]khai
+<lb n="SA_T02_various-siddhas_Jñānamālā:99"/>raparāmṛṣṭo vyāpī cidrūpo &#x27;haṃ vimalaṃ |
+<lb n="SA_T02_various-siddhas_Jñānamālā:100"/>bhāśanti candayonī capahṇipāyaṃ prasādena |[|]
+<lb n="SA_T02_various-siddhas_Jñānamālā:101"/>ātmajñātarahitamaṃ tasmād vidvān bibheti na kutaścet |
+<lb n="SA_T02_various-siddhas_Jñānamālā:102"/>nirūpaḥ paramārthamana[?]bhya sa prāpya yogam api nāma ||
+<lb n="SA_T02_various-siddhas_Jñānamālā:103"/>bhāsanti kṛṣṇavīro sarvabhakṣasya prasādena |
+<lb n="SA_T02_various-siddhas_Jñānamālā:104"/>% kṛṣṇavīro [gloss: kavaṭa or kevaṭa]
+<lb n="SA_T02_various-siddhas_Jñānamālā:105"/>tribhir ekaṇṭhakūpe ṣaḍa[?] līna śaśisūryāntaresu ca |
+<lb n="SA_T02_various-siddhas_Jñānamālā:106"/>% e[5r]kaṇṭhakūpe
+<lb n="SA_T02_various-siddhas_Jñānamālā:107"/>vīraghaṭhamahāyogī viruvānā pracodita ||
+<lb n="SA_T02_various-siddhas_Jñānamālā:108"/>ūrdhvodhaśvāsamadhyasthaṃ atītavyomasaṃsthitaṃ |
+<lb n="SA_T02_various-siddhas_Jñānamālā:109"/>% ūrddhorddhasvāsa- \ms
+<lb n="SA_T02_various-siddhas_Jñānamālā:110"/>sūryakoṭipratīkāsa nirākāram anupamā |
+<lb n="SA_T02_various-siddhas_Jñānamālā:111"/>tesu cinta vihārāni jālanīdāsakahṇunā ||
+<lb n="SA_T02_various-siddhas_Jñānamālā:112"/>gandho raso &#x27;tha rūpaṃ sparśa śabda tathā mana |
+<lb n="SA_T02_various-siddhas_Jñānamālā:113"/>% tha \ms
+<lb n="SA_T02_various-siddhas_Jñānamālā:114"/>yatra sthāna gataṃ tatraḥ nānivarttakayaṃ kuru |
+<lb n="SA_T02_various-siddhas_Jñānamālā:115"/>svāsekamātranirbaddhaṃ [5v] visuddho jālanīśiśa ||
+<lb n="SA_T02_various-siddhas_Jñānamālā:116"/>% [5v] visuddho
+<lb n="SA_T02_various-siddhas_Jñānamālā:117"/>ṣoḍaśāṅgula ūrdhve tu śaśisūryavyavasthitaḥ [|]
+<lb n="SA_T02_various-siddhas_Jñānamālā:118"/>% soḍaśāṃgula ūrddhe \ms
+<lb n="SA_T02_various-siddhas_Jñānamālā:119"/>tat tu samarasī bhūtvā vyomākārasthitaṃ sadā [|]
+<lb n="SA_T02_various-siddhas_Jñānamālā:120"/>% ta&lt;|ṃ|&gt;ntu \ms • bhūtvā | \ms
+<lb n="SA_T02_various-siddhas_Jñānamālā:121"/>tasthāne mana vilīyante śvāsena saha buddhimān |{|}
+<lb n="SA_T02_various-siddhas_Jñānamālā:122"/>% svāsena \ms
+<lb n="SA_T02_various-siddhas_Jñānamālā:123"/>bhāṭṭasya kramaṃ etad viruvāpā ca bhāśita ||
+<lb n="SA_T02_various-siddhas_Jñānamālā:124"/>bhiṃṇḍujñānaḥ granthe chinneḥ saṃsayaganai śubhāśubhai kṣīne |
+<lb n="SA_T02_various-siddhas_Jñānamālā:125"/>dagdheva jarmmabīje param ātmānaṃ sthāna rvajīta |{|}
+<lb n="SA_T02_various-siddhas_Jñānamālā:126"/>bhāsanti dhāmavīro kahṇupasāyena jānapījuto ||
+<lb n="SA_T02_various-siddhas_Jñānamālā:127"/>% jānapī[6r]juto
+<lb n="SA_T02_various-siddhas_Jñānamālā:128"/>cintāsopasakhāpa pañcavisayaṃ kṛtvā nirālambanaṃ |
+<lb n="SA_T02_various-siddhas_Jñānamālā:129"/>kṛtvā mānasa līna binduyugale ānandatatvocate |
+<lb n="SA_T02_various-siddhas_Jñānamālā:130"/>kahṇudāsa bhananti dhūma viditapāraṃparāyāgatā ||
+<lb n="SA_T02_various-siddhas_Jñānamālā:131"/>ghaṭasthāne manaśakti yānti niścalatā dhruvaṃ |
+<lb n="SA_T02_various-siddhas_Jñānamālā:132"/>ghaṇṭhaśaktir iti khyātā rudresapadagāminī [|]
+<lb n="SA_T02_various-siddhas_Jñānamālā:133"/>% -gāminī [6v]
+<lb n="SA_T02_various-siddhas_Jñānamālā:134"/>tanmadhye ghaṃṭhanādañ ca sṛṇoty eva yadā svayaṃ |
+<lb n="SA_T02_various-siddhas_Jñānamālā:135"/>vayacata bhāsate tatvaṃ coraṃgīkramayogata ||
+<lb n="SA_T02_various-siddhas_Jñānamālā:136"/>śabdasāstravivarjītaḥ joṣṇāmaṇḍalavarjita |
+<lb n="SA_T02_various-siddhas_Jñānamālā:137"/>brahmagranthisthitajñāna saharendrapataṃ mana |{|}
+<lb n="SA_T02_various-siddhas_Jñānamālā:138"/>duducandariti proktā saroruhaś ca bhāśitā |[|]
+<lb n="SA_T02_various-siddhas_Jñānamālā:139"/>paramo viramaś caiva ūrdhvodhaśvāsanigrata |{|}
+<lb n="SA_T02_various-siddhas_Jñānamālā:140"/>% ūddhorddhasvāsa- \ms
+<lb n="SA_T02_various-siddhas_Jñānamālā:141"/>śaśisūryālikāliś ca bījo maraṇahīnan tu manasvāsa tathaiva ca |
+<lb n="SA_T02_various-siddhas_Jñānamālā:142"/>% śaśisūryā[7r]likāliś
+<lb n="SA_T02_various-siddhas_Jñānamālā:143"/>dokhaṇḍīm etat sāra abhavabhūtiś ca taṃ krama ||
+<lb n="SA_T02_various-siddhas_Jñānamālā:144"/>svabhāva niścalaṃ ciṃnta madhyucchinaṃ pravarttate |
+<lb n="SA_T02_various-siddhas_Jñānamālā:145"/>jotisthāne susaṃlīya prasāṃntaṃ yata maṃnyate ||
+<lb n="SA_T02_various-siddhas_Jñānamālā:146"/>bhavate tagunaṃ jñāna kaṃkkana kahṇupāśiśa |[|]
+<lb n="SA_T02_various-siddhas_Jñānamālā:147"/>mano visaṃti vijñeyā buddhikāmo nivedita |{|}
+<lb n="SA_T02_various-siddhas_Jñānamālā:148"/>% buddhikāmo [7v] nivedita
+<lb n="SA_T02_various-siddhas_Jñānamālā:149"/>jñānam eva śivaproktāḥ trayam evaika rūpaka |
+<lb n="SA_T02_various-siddhas_Jñānamālā:150"/>kodālī lūyipāśiśa ||
+<lb n="SA_T02_various-siddhas_Jñānamālā:151"/>kāyavākkarmamano meyāni ṣaṭaḥ ṣaṇṭhālaṃ sodhayet yogī |
+<lb n="SA_T02_various-siddhas_Jñānamālā:152"/>saṃsuddhaṃ nirmmalātmakaḥ capahṇi sarahapākrama ||
+<lb n="SA_T02_various-siddhas_Jñānamālā:153"/>nityajarāmaranamuktamanādirūpaṃ |
+<lb n="SA_T02_various-siddhas_Jñānamālā:154"/>dehasthitaṃ tu tam atiprakaṭan hi loke |{|}
+<lb n="SA_T02_various-siddhas_Jñānamālā:155"/>jñānaṃ manāsamarasaṃ sahajaprasaṃṇṇā |
+<lb n="SA_T02_various-siddhas_Jñānamālā:156"/>jñānaṃ sadā prakurute nijapiṇḍamadhye |
+<lb n="SA_T02_various-siddhas_Jñānamālā:157"/>% nijapiṇḍa[8r]madhyeḥ \ms
+<lb n="SA_T02_various-siddhas_Jñānamālā:158"/>evaṃ vadanti davahṇī viruvāprasādaṃ ||
+<lb n="SA_T02_various-siddhas_Jñānamālā:159"/>jite bhavati visayā jite manasi sarvadā |
+<lb n="SA_T02_various-siddhas_Jñānamālā:160"/>tālusthāne vivnirjityaṃ jihvāsaṃkocanā kuru |{|}
+<lb n="SA_T02_various-siddhas_Jñānamālā:161"/>tasmāt prayatnena mana niścalatāṃ kuru |
+<lb n="SA_T02_various-siddhas_Jñānamālā:162"/>gavāru tatvaṃ bhāśanti gorakhasya prasādanu ||
+<lb n="SA_T02_various-siddhas_Jñānamālā:163"/>% gavāru glossed as kamalāmbara
+<lb n="SA_T02_various-siddhas_Jñānamālā:164"/>ghaṭo līyanti cākāsaḥ ākāse līyate mana |
+<lb n="SA_T02_various-siddhas_Jñānamālā:165"/>% līya&lt;te&gt; \ms • mana | [8v]
+<lb n="SA_T02_various-siddhas_Jñānamālā:166"/>tatra svāsas tu karttavyaṃ koṃkila coraṃgipāśiśa ||
+<lb n="SA_T02_various-siddhas_Jñānamālā:167"/>ākāsasuṇṇu sārīram ātmanaṃ dṛsyate sadā |
+<lb n="SA_T02_various-siddhas_Jñānamālā:168"/>niścalanirmalaṃ deha sarvavyāpī nirañjana |
+<lb n="SA_T02_various-siddhas_Jñānamālā:169"/>sulāpā bhāsate tattvaṃ yathā taṃtīpracodita ||
+<lb n="SA_T02_various-siddhas_Jñānamālā:170"/>% gloss - to sulāpā?: unmana]
+<lb n="SA_T02_various-siddhas_Jñānamālā:171"/>% tatvaṃ \ms
+<lb n="SA_T02_various-siddhas_Jñānamālā:172"/>ākāsasvakāsaṃ caivaḥ asesavyāpakataṇu |
+<lb n="SA_T02_various-siddhas_Jñānamālā:173"/>śabdagunaṃ ca ākāśaḥ śabdaṃ brahma ucate |{|}
+<lb n="SA_T02_various-siddhas_Jñānamālā:174"/>% ucate |{|} [9r]
+<lb n="SA_T02_various-siddhas_Jñānamālā:175"/>lopādhivasthito paramātmāḥ mahidharadevaṃ ca lūyipāśiśa ||
+<lb n="SA_T02_various-siddhas_Jñānamālā:176"/>brahmoti yathā vihataṃ sarvān vidhūtanānātvaṃ |
+<lb n="SA_T02_various-siddhas_Jñānamālā:177"/>nirūpama paramānanda yo veti sa tanmayo bhavati |
+<lb n="SA_T02_various-siddhas_Jñānamālā:178"/>% tatmayo \ms
+<lb n="SA_T02_various-siddhas_Jñānamālā:179"/>bhāsanti sūkṣmadevo yathā viruvāpāyaṃ pasādena ||
+<lb n="SA_T02_various-siddhas_Jñānamālā:180"/>kham iva ghaṭesuntar bahir avasthita sthiti brahma piṇḍeṣu |
+<lb n="SA_T02_various-siddhas_Jñānamālā:181"/>% ghaṭeṣv antar? • vvahir&lt;|¯|&gt;ava- \ms
+<lb n="SA_T02_various-siddhas_Jñānamālā:182"/>dehe &#x27;haṃ minātmani buddhi saṃsārabandhāya |
+<lb n="SA_T02_various-siddhas_Jñānamālā:183"/>% -baṃdhāya \ms
+<lb n="SA_T02_various-siddhas_Jñānamālā:184"/>gorakha bhanato macchendrasya prasādanu ||
+<lb n="SA_T02_various-siddhas_Jñānamālā:185"/>% &lt;bha&gt;na[9v]to
+<lb n="SA_T02_various-siddhas_Jñānamālā:186"/>gaṃdharspasorasorūpaśabda mano pi parama |
+<lb n="SA_T02_various-siddhas_Jñānamālā:187"/>ṣaḍbhiḥ samarasaṃ jñānaṃ mahāmṛtarasāyanaṃ cākāsasthānesu līyante
+<lb n="SA_T02_various-siddhas_Jñānamālā:188"/>coraṅgī lūyipāśiśa ||
+<lb n="SA_T02_various-siddhas_Jñānamālā:189"/>bhāvābhāva parityaja svabhāvasamarasasthita |
+<lb n="SA_T02_various-siddhas_Jñānamālā:190"/>pakṣatrayavinirmuktaṃ vyāpakaparamapadaṃ |
+<lb n="SA_T02_various-siddhas_Jñānamālā:191"/>lūyīpāyapasādena sarvabhakṣa ritocate ||
+<lb n="SA_T02_various-siddhas_Jñānamālā:192"/>ākāsopamanilakṣa dharaṇīvata niśvalaṃ | [10r]
+<lb n="SA_T02_various-siddhas_Jñānamālā:193"/>vavisvatejāsaṃ prājñārādisvadhyanidhanākhye ||
+<lb n="SA_T02_various-siddhas_Jñānamālā:194"/>jāgratasu suḥptau bhramabhūte sthāditantuya |
+<lb n="SA_T02_various-siddhas_Jñānamālā:195"/>bhadepāya bhaṇanti tatva vidhi suḥ kahṇusya dāsa ahaṃ ||
+<lb n="SA_T02_various-siddhas_Jñānamālā:196"/>evaṃ prakṛtipurusaṃ vijñāya nirantakalpanājālaṃ |
+<lb n="SA_T02_various-siddhas_Jñānamālā:197"/>ātmārāsatamaṃ svaḥ paragata kevalī bhavati ||
+<lb n="SA_T02_various-siddhas_Jñānamālā:198"/>jo pi sakhapilam etataḥ bhusukūpāyaṃ prasādena |
+<lb n="SA_T02_various-siddhas_Jñānamālā:199"/>% glossed as kuṃbhāra
+<lb n="SA_T02_various-siddhas_Jñānamālā:200"/>[10v] sarvagati nirupama maprema dvaitavacasā magamyaṃ |
+<lb n="SA_T02_various-siddhas_Jñānamālā:201"/>yad buddhigata brahmā mupalabhya ātmā svajātakhaḥvata vyāpī ||
+<lb n="SA_T02_various-siddhas_Jñānamālā:202"/>ratnamatibudha bhāsita indriyasaṃharaṇasāhasi savara |
+<lb n="SA_T02_various-siddhas_Jñānamālā:203"/>ghaṇṭhasthāne tu saṃlīnā vātā varttasaṃmaṃgatā ||
+<lb n="SA_T02_various-siddhas_Jñānamālā:204"/>svabhāvato nijadeham arūpapadavī gata |
+<lb n="SA_T02_various-siddhas_Jñānamālā:205"/>sāṃtipā procate tatvaḥ macchendrasya prasādanu ||
+<lb n="SA_T02_various-siddhas_Jñānamālā:206"/>[11r] jñānatrayavinirmuktaṃ taṃ jñānaṃ jñānam eva ca |
+<lb n="SA_T02_various-siddhas_Jñānamālā:207"/>tad evātmaparijñānāt svayaṃ jñeyapadaṃ bhavet ||
+<lb n="SA_T02_various-siddhas_Jñānamālā:208"/>caṭena bhāsite bhāve sarahasa prasādata |
+<lb n="SA_T02_various-siddhas_Jñānamālā:209"/>prasaṃnakalpanātīta nityākāsavivasthita ||
+<lb n="SA_T02_various-siddhas_Jñānamālā:210"/>sarvabhāvavinirmuktaṃ bhūmīva niscalaṃ sthitaṃ |
+<lb n="SA_T02_various-siddhas_Jñānamālā:211"/>nāgārjunamate metat svayaṃ ḍākinibhāsita ||
+<lb n="SA_T02_various-siddhas_Jñānamālā:212"/>nirāmayaṃ nirābhāsaṃ nirākāraṃ nirākulaṃ |
+<lb n="SA_T02_various-siddhas_Jñānamālā:213"/>sarvasaṅgavinirmuktaṃḥ sahajasaṃ[11v]vedakapadaḥ
+<lb n="SA_T02_various-siddhas_Jñānamālā:214"/>santasāhāva bhāsante savarena mudīrita ||
+<lb n="SA_T02_various-siddhas_Jñānamālā:215"/>% glossed as sāgara
+<lb n="SA_T02_various-siddhas_Jñānamālā:216"/>mano yaṃmya mana manam ādāya svayam eva vilīyante |
+<lb n="SA_T02_various-siddhas_Jñānamālā:217"/>ātmaparavinirmukta jñāna eva nirātmaka ||
+<lb n="SA_T02_various-siddhas_Jñānamālā:218"/>puṇaga bhāsate sāra bhadrepāyaprasādanu |
+<lb n="SA_T02_various-siddhas_Jñānamālā:219"/>% glossed as dhova?
+<lb n="SA_T02_various-siddhas_Jñānamālā:220"/>vyomavyāpi nabhaḥciṃtya svasarīrāni madhyata |
+<lb n="SA_T02_various-siddhas_Jñānamālā:221"/>adehaṃ deha dhāryanti sāciṃtaṃ paramāṃ gati ||
+<lb n="SA_T02_various-siddhas_Jñānamālā:222"/>bhāsite ta imāṃ bhāvaḥ kaṃdhahṇi saroruhiṃ nyabhāsita |
+<lb n="SA_T02_various-siddhas_Jñānamālā:223"/>[12r] kha bodhuṃ antare sthitvaṃ nirābhāsaṃ manupamaṃ |
+<lb n="SA_T02_various-siddhas_Jñānamālā:224"/>kuṭilā ṛjurekhā ca cāntare līyanā kuru ||
+<lb n="SA_T02_various-siddhas_Jñānamālā:225"/>vīrakhaṃbhamatam etat svayaṃ viruvāś ca bhāsita |
+<lb n="SA_T02_various-siddhas_Jñānamālā:226"/>svāsamātram upalabhya nāsāgrena vinigrata ||
+<lb n="SA_T02_various-siddhas_Jñānamālā:227"/>pañcendriya taṃ līnaṃ nirāleś ca sthita mana |
+<lb n="SA_T02_various-siddhas_Jñānamālā:228"/>mehila buddhisaṃpaṃnaṃ kamalāmbarabhāśita ||
+<lb n="SA_T02_various-siddhas_Jñānamālā:229"/>mārgadvayanirodhena antare sthiti vicintiyet |
+<lb n="SA_T02_various-siddhas_Jñānamālā:230"/>tac cāntare mano deya nakabudha bhāṭṭabhāśita ||
+<lb n="SA_T02_various-siddhas_Jñānamālā:231"/>[12v] nākāse ca maṇa līnaṃ na sūkṣme na ca vistare |
+<lb n="SA_T02_various-siddhas_Jñānamālā:232"/>na bhāve na ca bhāve ca svāsa vāre pi na mana ||
+<lb n="SA_T02_various-siddhas_Jñānamālā:233"/>na pi tatva mayā jñātuṃ na hi yo vāsayekṣituṃ |
+<lb n="SA_T02_various-siddhas_Jñānamālā:234"/>taṃtīpāyaprasādena markkaṭiṃ markkaṭi vaṃdhami ||
+<lb n="SA_T02_various-siddhas_Jñānamālā:235"/>mana saṃsāram ekatoṃ mana candra vasāḥ tathā |
+<lb n="SA_T02_various-siddhas_Jñānamālā:236"/>tasmāt pūrṇṇam i &#x27;māvāsi svānte eso vidhīyate ||
+<lb n="SA_T02_various-siddhas_Jñānamālā:237"/>sogaḍasya prasādena goṇḍa sūnyasaṃyutaṃ |
+<lb n="SA_T02_various-siddhas_Jñānamālā:238"/>candrāgnikalā dūrdhe bhānu vaśyakalo &#x27;dhataḥ |
+<lb n="SA_T02_various-siddhas_Jñānamālā:239"/>[13r] vyomotpatitasthāne abhyase svajitendayaḥ |
+<lb n="SA_T02_various-siddhas_Jñānamālā:240"/>gorakhasya prasādena pebhākarena bhāsita ||
+<lb n="SA_T02_various-siddhas_Jñānamālā:241"/>svayasaṃvedanā tatva udesā gurunā vaca |
+<lb n="SA_T02_various-siddhas_Jñānamālā:242"/>navakūpanibaṃdhena vyomāmāna manaṃ kuru ||
+<lb n="SA_T02_various-siddhas_Jñānamālā:243"/>telo ātmavisuddhāya māhilasya prasādanu |
+<lb n="SA_T02_various-siddhas_Jñānamālā:244"/>manakāyagatajñāna vāyuvyomagata tathā ||
+<lb n="SA_T02_various-siddhas_Jñānamālā:245"/>cartubhi samarasī bhūtvā dehānte vinivesayet |
+<lb n="SA_T02_various-siddhas_Jñānamālā:246"/>nāro cittagatam etat telopāyena bhāsita ||
+<lb n="SA_T02_various-siddhas_Jñānamālā:247"/>dhārāmṛtekasevanti svāsaṃ vāpi na muṃcati |
+<lb n="SA_T02_various-siddhas_Jñānamālā:248"/>oḍiyānā nibadhanti mana sūnye nyaset budha ||
+<lb n="SA_T02_various-siddhas_Jñānamālā:249"/>gorakhasya prasādena oḍiyāna rito[13v]cate |
+<lb n="SA_T02_various-siddhas_Jñānamālā:250"/>visayarahitaṃ cittaṃ saṃsthitaṃ visayamadhyata ||
+<lb n="SA_T02_various-siddhas_Jñānamālā:251"/>piṇḍa diṣur iti proktā niścalācalasaṃsthita |
+<lb n="SA_T02_various-siddhas_Jñānamālā:252"/>bhaṇanti tatvasadbhāvaṃ nāgala gopālabhāśita ||
+<lb n="SA_T02_various-siddhas_Jñānamālā:253"/>prāk jñānotpattim idaṃ yata karmma jñāna sikhi sikhālīḍhaṃ |
+<lb n="SA_T02_various-siddhas_Jñānamālā:254"/>bījavo vadahaṇasthaṃ jarmasamalana tad bhavati ||
+<lb n="SA_T02_various-siddhas_Jñānamālā:255"/>niraṃsuguna bhāsanti kaṅkanasya vaco yathā |
+<lb n="SA_T02_various-siddhas_Jñānamālā:256"/>candakalopari vahni tatordhve sūrya saṃsthita ||
+<lb n="SA_T02_various-siddhas_Jñānamālā:257"/>ragnisū[14r]rya tanmadhye ratīta vyomanāmata |
+<lb n="SA_T02_various-siddhas_Jñānamālā:258"/>tat vyome citta viśrāmyaṃ vīracittamata gopālabhāsita ||
+<lb n="SA_T02_various-siddhas_Jñānamālā:259"/>[...]
+<lb n="SA_T02_various-siddhas_Jñānamālā:260"/>kāmo krodhaś ca lobhaś ca moho īrṣāvivarjita |
+<lb n="SA_T02_various-siddhas_Jñānamālā:261"/>mānohaṅkāramedhyā ca etesu vivarjiyet |
+<lb n="SA_T02_various-siddhas_Jñānamālā:262"/>tulo dāsī suhṛdacchatrutulo duḥkhasuṣaisu ca |
+<lb n="SA_T02_various-siddhas_Jñānamālā:263"/>ekākī nipriho śāntam alolupa jitendriya |
+<lb n="SA_T02_various-siddhas_Jñānamālā:264"/>śīta-uṣṇopasahasa mṛṅkāñcanopala |
+<lb n="SA_T02_various-siddhas_Jñānamālā:265"/>evaṃvidhī nimācāra abhyajñānamuttamaṃ || ❁ || (fol. 18r3–v2)
+<lb n="SA_T02_various-siddhas_Jñānamālā:266"/>iti anādiśrīlūyīpādādyādicorāsīsiddhona tatvasadbhāvabhāsitajñānamālā samāptaḥ ||
+<lb n="SA_T02_various-siddhas_Jñānamālā:267"/>satvajñānena yuktarthahetunā iyaṃ śāstra likhitam iti || sarvasatvakalyānahetunā ||
+<lb n="SA_T02_various-siddhas_Jñānamālā:268"/>% % %
+<lb n="SA_T02_various-siddhas_Jñānamālā:269"/>Lūyīpā/Lūyi/Lūyī/Lūyipā/Lūyīpāya,
+<lb n="SA_T02_various-siddhas_Jñānamālā:270"/>Līlāpā/Līlā/Līlāpāya,
+<lb n="SA_T02_various-siddhas_Jñānamālā:271"/>Viruvā/Viruvāpā/Viruvāpāya/Nyāsavīra,
+<lb n="SA_T02_various-siddhas_Jñānamālā:272"/>Doṃbī,
+<lb n="SA_T02_various-siddhas_Jñānamālā:273"/>Savara,
+<lb n="SA_T02_various-siddhas_Jñānamālā:274"/>Saraha/Sarahapā,
+<lb n="SA_T02_various-siddhas_Jñānamālā:275"/>7.
+<lb n="SA_T02_various-siddhas_Jñānamālā:276"/>Mīnanātha/Macchendra,
+<lb n="SA_T02_various-siddhas_Jñānamālā:277"/>Gorakha/Gopāla,
+<lb n="SA_T02_various-siddhas_Jñānamālā:278"/>Coraṃgī/Coraṃgipā,
+<lb n="SA_T02_various-siddhas_Jñānamālā:279"/>Vīnāvīra,
+<lb n="SA_T02_various-siddhas_Jñānamālā:280"/>Sāṃtipā,
+<lb n="SA_T02_various-siddhas_Jñānamālā:281"/>Taṃtī/Taṃtīpāya,
+<lb n="SA_T02_various-siddhas_Jñānamālā:282"/>14.
+<lb n="SA_T02_various-siddhas_Jñānamālā:283"/>15.
+<lb n="SA_T02_various-siddhas_Jñānamālā:284"/>Nāgārjuna,
+<lb n="SA_T02_various-siddhas_Jñānamālā:285"/>Kahṇudeva/Kahṇī/Kahṇu/Kahṇupā,
+<lb n="SA_T02_various-siddhas_Jñānamālā:286"/>Ārjjadeva [sic!],
+<lb n="SA_T02_various-siddhas_Jñānamālā:287"/>19.
+<lb n="SA_T02_various-siddhas_Jñānamālā:288"/>Nāro,
+<lb n="SA_T02_various-siddhas_Jñānamālā:289"/>21.
+<lb n="SA_T02_various-siddhas_Jñānamālā:290"/>Telo/Telopāya/Tailīguru/Telī,
+<lb n="SA_T02_various-siddhas_Jñānamālā:291"/>Bhadepāya/Bhadrepāya,
+<lb n="SA_T02_various-siddhas_Jñānamālā:292"/>25-26-27-28
+<lb n="SA_T02_various-siddhas_Jñānamālā:293"/>Kaṃkkana/Kaṅkana,
+<lb n="SA_T02_various-siddhas_Jñānamālā:294"/>Gavāru/Kamalāmbara,
+<lb n="SA_T02_various-siddhas_Jñānamālā:295"/>Ḍheṃkī,
+<lb n="SA_T02_various-siddhas_Jñānamālā:296"/>32-33
+<lb n="SA_T02_various-siddhas_Jñānamālā:297"/>Kukurī,
+<lb n="SA_T02_various-siddhas_Jñānamālā:298"/>35-36-37-38-39-40
+<lb n="SA_T02_various-siddhas_Jñānamālā:299"/>Bhusuku/Bhusukūpāya,
+<lb n="SA_T02_various-siddhas_Jñānamālā:300"/>Indrabhūta [sic!],
+<lb n="SA_T02_various-siddhas_Jñānamālā:301"/>43
+<lb n="SA_T02_various-siddhas_Jñānamālā:302"/>Kodālī,
+<lb n="SA_T02_various-siddhas_Jñānamālā:303"/>45
+<lb n="SA_T02_various-siddhas_Jñānamālā:304"/>Jālanī,
+<lb n="SA_T02_various-siddhas_Jñānamālā:305"/>47---65
+<lb n="SA_T02_various-siddhas_Jñānamālā:306"/>Mekhalā,
+<lb n="SA_T02_various-siddhas_Jñānamālā:307"/>Kanakalā,
+<lb n="SA_T02_various-siddhas_Jñānamālā:308"/>68---73
+<lb n="SA_T02_various-siddhas_Jñānamālā:309"/>Saroruha,
+<lb n="SA_T02_various-siddhas_Jñānamālā:310"/>Sarvabhakṣa,
+<lb n="SA_T02_various-siddhas_Jñānamālā:311"/>76-77-78-79
+<lb n="SA_T02_various-siddhas_Jñānamālā:312"/>Koṃkila,
+<lb n="SA_T02_various-siddhas_Jñānamālā:313"/>Anaṅgavajra,
+<lb n="SA_T02_various-siddhas_Jñānamālā:314"/>82.
+<lb n="SA_T02_various-siddhas_Jñānamālā:315"/>Sāgara,
+<lb n="SA_T02_various-siddhas_Jñānamālā:316"/>Vālī,
+<lb n="SA_T02_various-siddhas_Jñānamālā:317"/>Abhavabhūti, Sārikā, Sogaḍa/Sogata, Ṇīli, Caṇḍavīra, Kadārika, Māhilavīra/Māhila*, Capahṇi, Kṛṣṇavīra/Kevaṭa, Vīraghaṭha, Bhāṭṭa, Dhāmavīra, Dhūma, Davahṇī, Sulāpā/Unmana, Mahidhara, Sūkṣmadeva, Ratnamati, Caṭa, Puṇaga, Kaṃdhahṇi, Vīrakhaṃbha, Mehila, Markkaṭi, Goṇḍa, Pebhākara, Oḍiyāna, Nāgala, Niraṃsuguna [sic!], Vīracitta, Manohara, Kukarālī,
+<lb n="SA_T02_various-siddhas_Jñānamālā:318"/>Lajoguṇa, Candradhārī/Sunāla, Yamādhībhāva, Kusarālī, Kumara [sic!], Ḍheṃḍhana, Karapala, Dhāma,
+<lb n="SA_T02_various-siddhas_Jñānamālā:319"/>*note that his? eulogy can be found in Tōh. 2434 by Dhauri (unusual piece!)
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kriyāsamuccaya (Kalaśanyāsa section)</title>
+        <author>Jagaddarpaṇa</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Author: Jagaddarpaṇa
+Collection / category: BuddhistNon-Scriptures / T14
+Source: OCR / Dharmamitra
+Edition / witness: Kaiser Library no. 110 is lacunose, supplied from N: NAK 4-123 = NGMPP B 31/5 and the Vajrāvalī
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Transcription, based on Kaiser Library no. 110, supplemented from NAK 4-123 (NGMPP B 31/5) and the Vajrāvalī, alongside the Tibetan translation from the Derge Tengyur (D 3305).</note>
+          <idno type="dharmanexus">SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Kalaśanyāsa</idno>
+          <ref target="https://dharmamitra.org/nexus/db/sa/SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Kalaśanyāsa/text">https://dharmamitra.org/nexus/db/sa/SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Kalaśanyāsa/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-13">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Kalaśanyāsa:0"/>tadanu prāgadhivāsitakalaśān dakṣiṇāvartena nyaset | tatra ca[\N103\verso]kreśasya vijayakalaśaṃ maṇḍalacakrasya pradakṣiṇaṃ kārayitvā vajraprākārātmakacakravāḍajvālāvalībhūmer bahiḥ pūrvasya maṇḍaladvārasya saṃmukhe sthāne kiṃcid dakṣiṇe sthāpayet | vāme pārśve yathākramaṃ pradakṣiṇaṃ vairocanalocanāsārvakarmikakalaśān |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Kalaśanyāsa:1"/>sav[y]e rūpavajrādharmadhātuvajrāyamārīnāṃ | dakṣiṇasya vāme ratnasaṃbhavamāmakyoḥ | savye śabdavajrāprajñāntakayoḥ | paścimasya vāme &#x27;mitābhapāṇḍarayoḥ | savye gandhavajrāpadmāntakayoḥ | uttarasya vāme &#x27;moghasiddhitārayoḥ | savye rasavajrāsparśavajrāvighnārīṇāṃ | yamāryādikrodhānāṃ agnyādikoṇeṣv iti kaścit |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Kalaśanyāsa:2"/>tathāgatānantaraṃ krodhānāṃ kulamātṝnāṃ tu dvārasavyeṣv ity anyaḥ | etadanusārā[t] pakṣāntareṣu nyāsa un[n]eyaḥ | matāntara[\N104\recto]m apy asti kiṃ tena | evam ayaṃ mañjuvajramaṇḍale kalaśa{ṃ}nyāsaḥ ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Kalaśanyāsa:3"/>% de&#x27;i rjes su sngar lhag par gnas pa byas pa&#x27;i bum pa rnams g-yas skor du dgod par bya&#x27;o || de la &#x27;khor lo&#x27;i dbang po&#x27;i rnam par rgyal ba&#x27;i bum pa ni dkyil &#x27;khor gyi &#x27;khor lo&#x27;i g-yas phyogs nas bskor te rdo rjer ba&#x27;i bdag nyid kyi khor yug dang &#x27;bar ba&#x27;i phreng {112b7} ba&#x27;i sa gzhi&#x27;i phyi rol du dkyil &#x27;khor gyi shar sgo&#x27;i thad ka&#x27;i gnas las cung
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Kalaśanyāsa:4"/>zad g-yas su gzhag par bya&#x27;o || g-yon logs su ni go rims ji lta ba bzhin du g-yas skor gyis rnam par snang mdzad dang spyan ma dang las thams cad pa&#x27;i bum pa ste g-yas su gzugs rdo rje dang chos {113a1} || dbyings rdo rje ma dang gshin rje mthar byed rnams kyi&#x27;o ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Kalaśanyāsa:5"/>lho&#x27;i g-yon du rin chen &#x27;byung ldan dang m&#x27;a ma k&#x27;i dang g-yas su sgra rdo rje ma dang shes rab mthar byed dag gi&#x27;o || nub kyi g-yon du snang ba mtha&#x27; yas dang gos dkar mo dag dang g-yas su dri rdo rje ma dang | padma mthar byed dag {113a2} gi&#x27;o || byang gi g-yon du don yod grub pa dang | sgrol ma dag dang | g-yas su rdo rje ma dang |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Kalaśanyāsa:6"/>reg bya rdo rje ma dang | bgegs mthar byed dag gi&#x27;o || gshin rje mthar byed la sogs pa khro bo rnams kyi ni me la sogs pa&#x27;i mtshams rnams su&#x27;o zhes pa kha cig gis te {113a3} de bzhin gshegs pa thams cad kyi de ma thag tu khro bo rnams kyi dang rigs kyi yum rnams kyi ni sgo&#x27;i g-yas rnams su&#x27;o zhes pa gzhan dag gis so ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Kalaśanyāsa:7"/>&#x27;di&#x27;i rjes su &#x27;brangs nas phyogs gzhan rnams su yang dgod par shes par bya&#x27;o || &#x27;dod pa gzhan yang yod mod des ci zhig {113a4} bya | de ltar &#x27;di ni &#x27;jam pa&#x27;i rdo rje&#x27;i dkyil &#x27;khor la bum pa dgod pa&#x27;o ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Kalaśanyāsa:8"/>piṇḍīkramamaṇḍale vāme kulamātranantaraṃ savye ca prathamam aṣṭabodhisattvānāṃ koṇakrodhānāṃ koṇeṣu yamāryanantaram uṣṇīṣacakriṇaḥ | padmāntakānantaraṃ sumbhasyeti viśeṣaḥ || etadanusārāt maṇḍalāntareṣu ghaṭanyāsaḥ sugama iti neha prapañcitaḥ ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Kalaśanyāsa:9"/>% bsdus pa&#x27;i rim pa&#x27;i dkyil &#x27;khor la g-yon du rigs kyi yum gyi de ma thag tu yang g-yas su dang por byang chub sems dpa&#x27; brgyad po rnams kyi&#x27;o || zur gyi khro bo rnams kyi zur rnam su dang {113a5} gshin rje mthar byed kyi rjes la gtsug tor &#x27;khor los sgyur ba&#x27;i dang | padma mthar byed kyi rjes la gnod mdzes kyi ste khyad par ro ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Kalaśanyāsa:10"/>&#x27;di dag gi rjes su &#x27;brangs te dkyil &#x27;khor gzhan rnams la bum pa dgod pa ni rtogs sla bas &#x27;dir ma bkod do ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Kalaśanyāsa:11"/>catuḥkoṇakalaśeṣu catvāraḥ kāṇḍāḥ sapakṣāḥ | oṃ vajrayakṣa hūṃ iti mantreṇa sthāpyā iti |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Kalaśanyāsa:12"/>% zur bzhi&#x27;i bum pa rnams {113a6} la ni sgro dang bcas pa&#x27;i mda&#x27; bzhi ste | aoM badzra yakSHa h&#x27;uM zhes pa&#x27;i sngags kyis dgod par bya&#x27;o ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Kalaśanyāsa:13"/>kālacakrarajomaṇḍalasya punar bāhye pūrvādidikṣu catvāraḥ kalaśāḥ | pūrvasyāṃ jayakalaśo &#x27;pi pañcamaḥ | tadupari vijayakalaśaḥ śaṅkhaḥ ṣaṣṭha iti pañcaghaṭapakṣe | daśakumbhapakṣe tv aṣṭadikṣv aṣṭau kalaśāḥ | paścimakumbhād bahir dvyaṅgulāsparśena vijayakalaśa[\N104\verso]ḥ |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Kalaśanyāsa:14"/>pūrvaghaṭād bahir dvyaṅgulāsparśena jayakalaśas tasyopari mahāvijayakalaśaḥ śaṅkha ekādaśaḥ | evaṃ śatasahasrakalaśeṣv api mahāvijayaśaṅkhaḥ | śāntau puṣtau sarvakarmaṇi ca |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Kalaśanyāsa:15"/>% dus kyi &#x27;khor lo la ni rdul tshon gyi dkyil &#x27;khor las phyi rol du shar la sogs pa&#x27;i phyogs rnams su bum pa brgyad dang | nub kyi bum pa las phyi rol du sor gnyis spangs {113a7} par rnam par rgyal ba&#x27;i bum pa dang | shar gyi bum pa las phyi rol du sor gnyis spangs par rgyal ba&#x27;i bum pa ste |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Kalaśanyāsa:16"/>de&#x27;i steng du rnam par rgyal ba chen po&#x27;i bum pa dung chos ni bcu gcig pa&#x27;o || shar du rgyal ba&#x27;i bum pa yang ste lnga pa&#x27;o || de&#x27;i steng du rnam par rgyal ba&#x27;i {113b1} bum pa ni dung chos te drag pa&#x27;o zhes pa bum pa lnga pa&#x27;i phyogs la&#x27;o || bum pa bcu&#x27;i phyogs la ni phyogs brgyad du bum pa brgyad dang |
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Kalaśanyāsa:17"/>nub kyi bum pa las phyi rol du sor gnyis spangs par rnam par rgyal ba&#x27;i bum pa dang | shar gyi bum pa las phyi rol du sor gnyis spangs {113b2} par rgyal ba&#x27;i bum pa ste de&#x27;i steng du rnam par rgyal ba chen po&#x27;i dung chos ni bcu gcig pa&#x27;o ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Kalaśanyāsa:18"/>de bzhin du brgya phrag stong gi bum pa rnams la yang rnam par rgyal ba chen po ni dung chos te zhi ba dang rgyas pa dang la thams cad pa la yang ngo
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Kalaśanyāsa:19"/>iti kalaśanyāsavidhiḥ ||
+<lb n="SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Kalaśanyāsa:20"/>% zhes pa bum pa dgod pa&#x27;i cho ga&#x27;o || ||
+    </body>
+  </text>
+</TEI>

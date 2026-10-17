@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kramasadbhāva (manuscript header only, no text)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Collection / category: Muktabodha / MB (Muktabodha)
+Source: Muktabodha Indological Research Institute
+Link: muktabodha.org (https://www.muktabodha.org) (Digital Library, search by title)
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Header of Mark S. G. Dyczkowski&#x27;s unpublished e-text/edition of the Kramasadbhāva based on National Archives Kathmandu MS 1-76 (Śaivatantra 144), NGMPP reel A 209/23; only the header survives in this file.</note>
+          <idno type="dharmanexus">SA_MB_kramasadbhava_images</idno>
+          <ref target="https://dharmamitra.org/nexus/db/sa/SA_MB_kramasadbhava_images/text">https://dharmamitra.org/nexus/db/sa/SA_MB_kramasadbhava_images/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-13">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_MB_kramasadbhava_images:0"/>* Kramasadbhaava edited by Mark S. G. Dyczkowski
+<lb n="SA_MB_kramasadbhava_images:1"/>* Copyright (c) Mark S.G. Dyczkowski
+<lb n="SA_MB_kramasadbhava_images:2"/>Manuscriptnumber: 1-76 &quot;Saivatantra 144
+<lb n="SA_MB_kramasadbhava_images:3"/>* Reel number: A 209/23
+<lb n="SA_MB_kramasadbhava_images:4"/>* Number of leaves:15
+<lb n="SA_MB_kramasadbhava_images:5"/>* Size in cms: 30 x 10
+<lb n="SA_MB_kramasadbhava_images:6"/>Script Nw
+<lb n="SA_MB_kramasadbhava_images:7"/>* Paper
+    </body>
+  </text>
+</TEI>

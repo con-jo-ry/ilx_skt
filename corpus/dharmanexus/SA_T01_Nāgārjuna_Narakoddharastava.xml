@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Narakoddharastava</title>
+        <author>Nāgārjuna</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Author: Nāgārjuna
+Collection / category: BuddhistNon-Scriptures / T01 (Stotra / hymns of praise)
+Source: OCR / Dharmamitra
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Christian Lindtner, &#x27;Narakoddharastava&#x27; (Acta Orientalia 40, 1979), collated with Tokyo University Library MS 205 (and comparing CUL MS Or.716.2).</note>
+          <idno type="dharmanexus">SA_T01_Nāgārjuna_Narakoddharastava</idno>
+          <ref target="https://dharmamitra.org/nexus/db/sa/SA_T01_Nāgārjuna_Narakoddharastava/text">https://dharmamitra.org/nexus/db/sa/SA_T01_Nāgārjuna_Narakoddharastava/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-13">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_T01_Nāgārjuna_Narakoddharastava:0"/>Title: Narakoddharastava
+<lb n="SA_T01_Nāgārjuna_Narakoddharastava:1"/>Author: Nāgārjuna
+<lb n="SA_T01_Nāgārjuna_Narakoddharastava:2"/>Source: Lindtner 1979 collated with Tokyo University Library 205 [\A]; also cf. CUL MS Or.716.2
+<lb n="SA_T01_Nāgārjuna_Narakoddharastava:3"/>Tibetan: D 1137
+<lb n="SA_T01_Nāgārjuna_Narakoddharastava:4"/>Input: Péter-Dániel Szántó, 18/07/2025
+<lb n="SA_T01_Nāgārjuna_Narakoddharastava:5"/>[\ms1v] oṃ namo lokanāthāya ||
+<lb n="SA_T01_Nāgārjuna_Narakoddharastava:6"/>% p. 148
+<lb n="SA_T01_Nāgārjuna_Narakoddharastava:7"/>dāridrapaṅkasaṃmagnaṃ saṃsārasya mahodadhau |
+<lb n="SA_T01_Nāgārjuna_Narakoddharastava:8"/>%  dāridrapaṅkalagnasya \A
+<lb n="SA_T01_Nāgārjuna_Narakoddharastava:9"/>parijñānaṃ samutpādya trāhi māṃ he tathāgata || 1
+<lb n="SA_T01_Nāgārjuna_Narakoddharastava:10"/>% pratijñānaṃ \A
+<lb n="SA_T01_Nāgārjuna_Narakoddharastava:11"/>timirāgārapraviṣṭaṃ anāthaduḥkhavedanam |
+<lb n="SA_T01_Nāgārjuna_Narakoddharastava:12"/>% timirāgārapraviṣṭo &#x27;haṃ \A
+<lb n="SA_T01_Nāgārjuna_Narakoddharastava:13"/>% anāthaduḥkhavedanā \A
+<lb n="SA_T01_Nāgārjuna_Narakoddharastava:14"/>bandhuvargaiḥ parityaktaṃ trāhi māṃ he tathāgata || 2
+<lb n="SA_T01_Nāgārjuna_Narakoddharastava:15"/>% bandhuvargeṇa tyajito &#x27;haṃ \A
+<lb n="SA_T01_Nāgārjuna_Narakoddharastava:16"/>mātā pitā bhaginy api putradārāsuhṛjjanāḥ |
+<lb n="SA_T01_Nāgārjuna_Narakoddharastava:17"/>% mātāpitṛbhagnīś caiva \A
+<lb n="SA_T01_Nāgārjuna_Narakoddharastava:18"/>% putradārasuhṛjjanāḥ \A
+<lb n="SA_T01_Nāgārjuna_Narakoddharastava:19"/>indrajālā mayā dṛṣṭās trāhi māṃ he tathāgata || 3
+<lb n="SA_T01_Nāgārjuna_Narakoddharastava:20"/>% indrajālamayā dṛṣṭaṃ \A
+<lb n="SA_T01_Nāgārjuna_Narakoddharastava:21"/>% p. 150
+<lb n="SA_T01_Nāgārjuna_Narakoddharastava:22"/>yan mayā parijanārthaṃ sukṛtaṃ karma duṣkṛtam |
+<lb n="SA_T01_Nāgārjuna_Narakoddharastava:23"/>% parijanasyārthe \A
+<lb n="SA_T01_Nāgārjuna_Narakoddharastava:24"/>ekākī tena yāsyāmi trāhi māṃ he tathāgata || 4
+<lb n="SA_T01_Nāgārjuna_Narakoddharastava:25"/>% pacyāmi \A
+<lb n="SA_T01_Nāgārjuna_Narakoddharastava:26"/>jīrṇakūpe mahāghore &#x27;navagāhanasāgare |
+<lb n="SA_T01_Nāgārjuna_Narakoddharastava:27"/>% &#x27;navagāhe sāgareṣu ca \A
+<lb n="SA_T01_Nāgārjuna_Narakoddharastava:28"/>andhabhūto &#x27;smy ahaṃ nātha trāhi māṃ he tathāgata || 5
+<lb n="SA_T01_Nāgārjuna_Narakoddharastava:29"/>% vayaṃ \A
+<lb n="SA_T01_Nāgārjuna_Narakoddharastava:30"/>jīrṇā naukā samārūḍhā mahāsāgaralaṅghane |
+<lb n="SA_T01_Nāgārjuna_Narakoddharastava:31"/>% jīrṇanaukāsamārūḍho \A
+<lb n="SA_T01_Nāgārjuna_Narakoddharastava:32"/>durlaṅghyaṃ ca mayā dṛṣṭaṃ trāhi māṃ he tathāgata || 6
+<lb n="SA_T01_Nāgārjuna_Narakoddharastava:33"/>dharmādharmaṃ na vijñātaṃ gamyāgamyaṃ na veditam |
+<lb n="SA_T01_Nāgārjuna_Narakoddharastava:34"/>% dharmādharma \A
+<lb n="SA_T01_Nāgārjuna_Narakoddharastava:35"/>% gamyāgamya \A
+<lb n="SA_T01_Nāgārjuna_Narakoddharastava:36"/>acetanam idaṃ kāṣṭhaṃ trāhi māṃ he tathāgata || 7
+<lb n="SA_T01_Nāgārjuna_Narakoddharastava:37"/>% hi \A
+<lb n="SA_T01_Nāgārjuna_Narakoddharastava:38"/>% p. 152
+<lb n="SA_T01_Nāgārjuna_Narakoddharastava:39"/>mātṛghātaṃ pitṛghātaṃ pañcānantaryaṃ me kṛtam |
+<lb n="SA_T01_Nāgārjuna_Narakoddharastava:40"/>% mātṛghā[\A2r]taṃ
+<lb n="SA_T01_Nāgārjuna_Narakoddharastava:41"/>pacyāmi timiraṃ ghoraṃ trāhi māṃ he tathāgata || 8
+<lb n="SA_T01_Nāgārjuna_Narakoddharastava:42"/>kṛto mayā stūpabhedaḥ sāṃghikārtho vināśitaḥ |
+<lb n="SA_T01_Nāgārjuna_Narakoddharastava:43"/>% kṛtaṃ ... °bhedaṃ \A
+<lb n="SA_T01_Nāgārjuna_Narakoddharastava:44"/>% sāṃghikātha vināśitaḥ \A
+<lb n="SA_T01_Nāgārjuna_Narakoddharastava:45"/>kṛtā mayā sattvahiṃsā trāhi māṃ he tathāgata || 9
+<lb n="SA_T01_Nāgārjuna_Narakoddharastava:46"/>iha loke sukhaṃ nāsti paraloke na veditam |
+<lb n="SA_T01_Nāgārjuna_Narakoddharastava:47"/>% anne ihaloke
+<lb n="SA_T01_Nāgārjuna_Narakoddharastava:48"/>% sukhenāpi \A
+<lb n="SA_T01_Nāgārjuna_Narakoddharastava:49"/>% paralokaṃ na jānitam \A
+<lb n="SA_T01_Nāgārjuna_Narakoddharastava:50"/>veṣṭitaṃ karmasūtreṇa trāhi māṃ he tathāgata || 10
+<lb n="SA_T01_Nāgārjuna_Narakoddharastava:51"/>kāśipuṣpaṃ yathākāśe bhramate vāyunāhatam |
+<lb n="SA_T01_Nāgārjuna_Narakoddharastava:52"/>% kāśīpuṣpaṃ \A
+<lb n="SA_T01_Nāgārjuna_Narakoddharastava:53"/>īdṛśyaṃ jīvitaṃ hy idaṃ (!?) trāhi māṃ he tathāgata || 11
+<lb n="SA_T01_Nāgārjuna_Narakoddharastava:54"/>% īdṛśaṃ \A
+<lb n="SA_T01_Nāgārjuna_Narakoddharastava:55"/>% tasya \A
+<lb n="SA_T01_Nāgārjuna_Narakoddharastava:56"/>% ha \A
+<lb n="SA_T01_Nāgārjuna_Narakoddharastava:57"/>aṭavī kaṇṭakācchannā bahuvṛkṣanirāśrayam |
+<lb n="SA_T01_Nāgārjuna_Narakoddharastava:58"/>% kaṇṭakaś caiva \A
+<lb n="SA_T01_Nāgārjuna_Narakoddharastava:59"/>panthānaṃ nātra paśyāmi trāhi māṃ he tathāgata || 12
+<lb n="SA_T01_Nāgārjuna_Narakoddharastava:60"/>% panthā tatra na \A
+<lb n="SA_T01_Nāgārjuna_Narakoddharastava:61"/>% p. 154
+<lb n="SA_T01_Nāgārjuna_Narakoddharastava:62"/>anaparādhaṃ paśuś ca hatāḥ kāṇḍair mṛgā mayā |
+<lb n="SA_T01_Nāgārjuna_Narakoddharastava:63"/>% anaparādhe vasuś \A
+<lb n="SA_T01_Nāgārjuna_Narakoddharastava:64"/>% hatā kāṇṭair bahavo mṛgāḥ \A
+<lb n="SA_T01_Nāgārjuna_Narakoddharastava:65"/>rājāhaṃ mā tadāmanye (!) trāhi māṃ he tathāgata || 13
+<lb n="SA_T01_Nāgārjuna_Narakoddharastava:66"/>% rājāhaṃ ta&lt;|thā|&gt;dā manye \A
+<lb n="SA_T01_Nāgārjuna_Narakoddharastava:67"/>narake pacyamānasya kaścit trātā bhaviṣyati |
+<lb n="SA_T01_Nāgārjuna_Narakoddharastava:68"/>% pacyamānas tu \A
+<lb n="SA_T01_Nāgārjuna_Narakoddharastava:69"/>% kaści trāṇaṃ na vidyate \A
+<lb n="SA_T01_Nāgārjuna_Narakoddharastava:70"/>gacchāmi kasya śaraṇaṃ ko me trātā bhaviṣyati || 14
+<lb n="SA_T01_Nāgārjuna_Narakoddharastava:71"/>vaidyānāṃ vaidyarājāṃs tvaṃ (!) sarvavyādhicikitsakaḥ |
+<lb n="SA_T01_Nāgārjuna_Narakoddharastava:72"/>% vaidyarājas tu \A
+<lb n="SA_T01_Nāgārjuna_Narakoddharastava:73"/>% sarvavyādhici[\A2\verso] + + + +
+<lb n="SA_T01_Nāgārjuna_Narakoddharastava:74"/>lokanātha bhava trātā trailokye sacarācare || 15
+<lb n="SA_T01_Nāgārjuna_Narakoddharastava:75"/>% lokanātho bhave \A
+<lb n="SA_T01_Nāgārjuna_Narakoddharastava:76"/>\A adds:
+<lb n="SA_T01_Nāgārjuna_Narakoddharastava:77"/>narakoddharaṇastava samāptaḥ ||   ||
+<lb n="SA_T01_Nāgārjuna_Narakoddharastava:78"/>ye dharmā etc.
+<lb n="SA_T01_Nāgārjuna_Narakoddharastava:79"/>deyadharmo yaṃ pravaramahāyānayāyinyāḥ paramopāsikāmāṇḍalikaśrīśrīramālavadhūsūhavanāmadheyāyā
+<lb n="SA_T01_Nāgārjuna_Narakoddharastava:80"/>yad atra etc.
+    </body>
+  </text>
+</TEI>

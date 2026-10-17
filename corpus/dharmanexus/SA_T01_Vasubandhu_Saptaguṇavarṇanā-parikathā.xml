@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Saptaguṇavarṇanāparikathā</title>
+        <author>Vasubandhu</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Dharmamitra project / DharmaNexus</publisher>
+        <availability>
+          <licence>E-text provided by the Dharmamitra project (DharmaNexus). Rights in the underlying printed editions remain with their holders.</licence>
+          <p>
+            The TEI markup and metadata are provided by the Intellexus project under a CC BY 4.0 license.
+            The catalog notes (edition, source) come from DharmaNexus; the edition identifications were
+            LLM-assisted and should be double-checked before citing.
+          </p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="legacy_header">
+Author: Vasubandhu
+Collection / category: BuddhistNon-Scriptures / T01
+Source: OCR / Dharmamitra
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <note type="edition">Based on edition (determined): Hu (2024);.</note>
+          <idno type="dharmanexus">SA_T01_Vasubandhu_Saptaguṇavarṇanā-parikathā</idno>
+          <ref target="https://dharmamitra.org/nexus/db/sa/SA_T01_Vasubandhu_Saptaguṇavarṇanā-parikathā/text">https://dharmamitra.org/nexus/db/sa/SA_T01_Vasubandhu_Saptaguṇavarṇanā-parikathā/text</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2026-10-13">Imported from DharmaNexus (dharmanexus-sanskrit) with basic TEI encoding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lb n="SA_T01_Vasubandhu_Saptaguṇavarṇanā-parikathā:0"/>Source Hu 2024
+<lb n="SA_T01_Vasubandhu_Saptaguṇavarṇanā-parikathā:1"/>Tibetan: 4163 and 4507
+<lb n="SA_T01_Vasubandhu_Saptaguṇavarṇanā-parikathā:2"/>Input: PDSz
+<lb n="SA_T01_Vasubandhu_Saptaguṇavarṇanā-parikathā:3"/>% @168a #| |rgya gar skad du| |sapta gu na pa ri ba da n&#x27;a ka th&#x27;a| bod skad du| |yon tan bdun yongs su brjod pa&#x27;i gtam| &#x27;jam dpal gzhon nur gyur pa la phyag &#x27;tshal lo|
+<lb n="SA_T01_Vasubandhu_Saptaguṇavarṇanā-parikathā:4"/>vicitraguṇalubdhena citrakarmavyapāśraye |
+<lb n="SA_T01_Vasubandhu_Saptaguṇavarṇanā-parikathā:5"/>yatnaḥ kāryo vinā bījaṃ nāṅkurasyāsti saṃbhavaḥ || [1]
+<lb n="SA_T01_Vasubandhu_Saptaguṇavarṇanā-parikathā:6"/>%|las ni du ma la brten pa&#x27;i| |sna tshogs yon tan &#x27;dod pa yis|
+<lb n="SA_T01_Vasubandhu_Saptaguṇavarṇanā-parikathā:7"/>%|&#x27;bang byas sa bon med par ni| |myu gu skye ba yod ma yin|
+<lb n="SA_T01_Vasubandhu_Saptaguṇavarṇanā-parikathā:8"/>vicitre sati kartavyo nirdoṣaguṇasaṃgrahaḥ |
+<lb n="SA_T01_Vasubandhu_Saptaguṇavarṇanā-parikathā:9"/>prabhur ekaḥ prabhūtān hi doṣo dūṣayituṃ guṇān || [2]
+<lb n="SA_T01_Vasubandhu_Saptaguṇavarṇanā-parikathā:10"/>%|nyes med yon tan bsdu ba ni| |sna tshogs pa dag rnam bya ste|
+<lb n="SA_T01_Vasubandhu_Saptaguṇavarṇanā-parikathā:11"/>%|nyes pa dag ni gcig pu yis| |yon tan mang po &#x27;joms par byed|
+<lb n="SA_T01_Vasubandhu_Saptaguṇavarṇanā-parikathā:12"/>dīrgham āyur tathārogyaṃ rūpaṃ subhagatā kulam |
+<lb n="SA_T01_Vasubandhu_Saptaguṇavarṇanā-parikathā:13"/>arthaḥ prajñā ca saptaite śubhasūtroditā guṇāḥ || [3]
+<lb n="SA_T01_Vasubandhu_Saptaguṇavarṇanā-parikathā:14"/>%|tshe ring de bzhin nad med dang| |gzugs dang skal ba bzang dang rigs|
+<lb n="SA_T01_Vasubandhu_Saptaguṇavarṇanā-parikathā:15"/>%|nor dang shes rab dag dang bdun| |yon tan mdo sde dag las gsungs|
+<lb n="SA_T01_Vasubandhu_Saptaguṇavarṇanā-parikathā:16"/>doṣās tadviparītās te teṣām eko yathā guṇān |
+<lb n="SA_T01_Vasubandhu_Saptaguṇavarṇanā-parikathā:17"/>sarvān saṃdūṣayaty eva tathedaṃ vakṣyate &#x27;dhunā || [4]
+<lb n="SA_T01_Vasubandhu_Saptaguṇavarṇanā-parikathā:18"/>%|de las bzlog pa nyes pa yin| |de dag re res ji ltar na;
+<lb n="SA_T01_Vasubandhu_Saptaguṇavarṇanā-parikathā:19"/>%|yon tan thams cad &#x27;byung &#x27;gyur ba| |de ltar da ni bshad par bya|
+<lb n="SA_T01_Vasubandhu_Saptaguṇavarṇanā-parikathā:20"/>ārogyarūpasaubhāgyakulārthajñānasaṃpadaḥ |
+<lb n="SA_T01_Vasubandhu_Saptaguṇavarṇanā-parikathā:21"/>asaty āyuṣi vistīrṇe vadhyālaṃkārasaṃnibhāḥ || [5]
+<lb n="SA_T01_Vasubandhu_Saptaguṇavarṇanā-parikathā:22"/>%|nad med gzugs dang skal ba bzang| |rigs nor shes rab phun sum tshogs|
+<lb n="SA_T01_Vasubandhu_Saptaguṇavarṇanā-parikathā:23"/>%|tshe ring ba ni med gyur na| |gsad par phyin pa&#x27;i rgyan dang &#x27;dra|
+<lb n="SA_T01_Vasubandhu_Saptaguṇavarṇanā-parikathā:24"/>ārogyavikalasyaite &#x27;py āyūrūpādayo guṇāḥ |
+<lb n="SA_T01_Vasubandhu_Saptaguṇavarṇanā-parikathā:25"/>jīryanty anupayuktārthāḥ klībasyeva varastriyaḥ || [6]
+<lb n="SA_T01_Vasubandhu_Saptaguṇavarṇanā-parikathā:26"/>%|tshe dang gzugs sogs yon tan ni| |&#x27;di dag nad med mi ldan na| |
+<lb n="SA_T01_Vasubandhu_Saptaguṇavarṇanā-parikathā:27"/>%@168b don med par ni nyams &#x27;gyur te| |ma ning bung med mchog yod mtshungs|
+<lb n="SA_T01_Vasubandhu_Saptaguṇavarṇanā-parikathā:28"/>udvejanam arūpasya sadguṇasyāpi darśanam |
+<lb n="SA_T01_Vasubandhu_Saptaguṇavarṇanā-parikathā:29"/>yadvad guṇasamṛddhasya vyāsasya nṛpayoṣitām || [7]
+<lb n="SA_T01_Vasubandhu_Saptaguṇavarṇanā-parikathā:30"/>%|yon tan ldan ba mthong na yang| |gzugs ngan skyo ba skye &#x27;gyur te|
+<lb n="SA_T01_Vasubandhu_Saptaguṇavarṇanā-parikathā:31"/>%|yon tan phun tshogs rgyas par ni| |rgyal po&#x27;i btsun mo mthong dang mtshungs|
+<lb n="SA_T01_Vasubandhu_Saptaguṇavarṇanā-parikathā:32"/>pūrvoktaguṇasaṃpattir asaubhāgyahatadyuteḥ |
+<lb n="SA_T01_Vasubandhu_Saptaguṇavarṇanā-parikathā:33"/>vidveṣāspadabhūtatvād ṛṣidāsīsamā matā || [8]
+<lb n="SA_T01_Vasubandhu_Saptaguṇavarṇanā-parikathā:34"/>%|sngar bshad yon tan phun sum tshogs| |skal pa dan pas mdongs &#x27;brog pa|
+<lb n="SA_T01_Vasubandhu_Saptaguṇavarṇanā-parikathā:35"/>%|sdang ba&#x27;i gnas su gyur pa&#x27;i phyir| |drang srong bran dang mtshungs par &#x27;dod|
+<lb n="SA_T01_Vasubandhu_Saptaguṇavarṇanā-parikathā:36"/>duṣkulīnāśritā śocyā guṇaśrīś candranirmalā |
+<lb n="SA_T01_Vasubandhu_Saptaguṇavarṇanā-parikathā:37"/>caṇḍālahastasaṃstheva viprayoṣid guṇānvitā || [9]
+<lb n="SA_T01_Vasubandhu_Saptaguṇavarṇanā-parikathā:38"/>%|yon tan dpal ldan dri ma med| |rigs ngan la brten mya ngan gzhi|
+<lb n="SA_T01_Vasubandhu_Saptaguṇavarṇanā-parikathā:39"/>%|bram ze&#x27;i chud ma yon tan can| |rigs ngan lag na gnas dang mtshungs|
+<lb n="SA_T01_Vasubandhu_Saptaguṇavarṇanā-parikathā:40"/>āyurārogyarūpādisametāḥ pūrvakā guṇāḥ |
+<lb n="SA_T01_Vasubandhu_Saptaguṇavarṇanā-parikathā:41"/>na pūjyante daridrasthāḥ śmaśānasthā ivāgnayaḥ || [10]
+<lb n="SA_T01_Vasubandhu_Saptaguṇavarṇanā-parikathā:42"/>%|tshe dang nad med la sogs pa| |sngar bshad yon tan &#x27;di dag ni|
+<lb n="SA_T01_Vasubandhu_Saptaguṇavarṇanā-parikathā:43"/>%|dbul bo la gnas bkur &#x27;os min| |dur khrod gnas kyi mi dang mtshungs|
+<lb n="SA_T01_Vasubandhu_Saptaguṇavarṇanā-parikathā:44"/>mūrkhasyātmavināśāya yathoktā guṇasaṃpadaḥ |
+<lb n="SA_T01_Vasubandhu_Saptaguṇavarṇanā-parikathā:45"/>kadalīnalaveṇūnāṃ yadvat phalasamṛddhayaḥ || [11]
+<lb n="SA_T01_Vasubandhu_Saptaguṇavarṇanā-parikathā:46"/>%|yon tan ji skad bshad phun tshogs| |glen pa bdag nyid brlag don &#x27;gyur|
+<lb n="SA_T01_Vasubandhu_Saptaguṇavarṇanā-parikathā:47"/>%|&#x27;od ma smyug ma&#x27;i chu shing gi |&#x27;bras bu phun chogs lta bu yin|
+<lb n="SA_T01_Vasubandhu_Saptaguṇavarṇanā-parikathā:48"/>ity ekaikāṅgavikalā guṇasaṃpad yathoditā |
+<lb n="SA_T01_Vasubandhu_Saptaguṇavarṇanā-parikathā:49"/>ekākṣaraparibhraṣṭā vidyevāphalatāṃ vrajet || [12]
+<lb n="SA_T01_Vasubandhu_Saptaguṇavarṇanā-parikathā:50"/>%|de ltar ji skad bshad yon tan| |yan lag re re ma tshang nyams|
+<lb n="SA_T01_Vasubandhu_Saptaguṇavarṇanā-parikathā:51"/>%|yi ge gcig ni ma tshang ba&#x27;i| |rig pa &#x27;bras bu med &#x27;gyur mtshungs|
+<lb n="SA_T01_Vasubandhu_Saptaguṇavarṇanā-parikathā:52"/>saṃpūrṇaguṇaśobhā tu vidyevāvikalākṣarā |
+<lb n="SA_T01_Vasubandhu_Saptaguṇavarṇanā-parikathā:53"/>siddhayogāt phalaprāptim anyūnām upapādayet || [13]
+<lb n="SA_T01_Vasubandhu_Saptaguṇavarṇanā-parikathā:54"/>%|yon tan longs rdzogs mdzes pa ni| |yi ge tshang ba&#x27;i rig pa &#x27;dra|
+<lb n="SA_T01_Vasubandhu_Saptaguṇavarṇanā-parikathā:55"/>%|sbyor ba grub las &#x27;bras bu &#x27;thob| |ma tshang med pa &#x27;byung bar &#x27;gyur|
+<lb n="SA_T01_Vasubandhu_Saptaguṇavarṇanā-parikathā:56"/>tasmāt saṃpūrṇaśobheṣu kuru yatnaṃ guṇeṣu ca |
+<lb n="SA_T01_Vasubandhu_Saptaguṇavarṇanā-parikathā:57"/>yaiś ca hetubhir āpyante sūtroktais tān nibodhaya || [14]
+<lb n="SA_T01_Vasubandhu_Saptaguṇavarṇanā-parikathā:58"/>%|de bas legs mdzes rdzogs pa yi| |yon tan la ni &#x27;bad par gyis|
+<lb n="SA_T01_Vasubandhu_Saptaguṇavarṇanā-parikathā:59"/>%|&#x27;di dag rgyu ni gang yin pa| |mdo bshad nga las rtogs par gyis|
+<lb n="SA_T01_Vasubandhu_Saptaguṇavarṇanā-parikathā:60"/>vadhyārpitavinimokṣāj jīvitānugrahais tathā |
+<lb n="SA_T01_Vasubandhu_Saptaguṇavarṇanā-parikathā:61"/>prāṇihiṃsānivṛtteś ca dīrgham āyur avāpyate || [15]
+<lb n="SA_T01_Vasubandhu_Saptaguṇavarṇanā-parikathā:62"/>%|gsod par chung pa legs btang dang| |de bzhin srog gis phan btags shing|
+<lb n="SA_T01_Vasubandhu_Saptaguṇavarṇanā-parikathā:63"/>%|srog chags &#x27;tshe ba las ldog pas| |tshe ring pa ni thob par &#x27;gyur|
+<lb n="SA_T01_Vasubandhu_Saptaguṇavarṇanā-parikathā:64"/>glānaśuśrūṣayā vaidyabhaiṣajyapratipādanāt |
+<lb n="SA_T01_Vasubandhu_Saptaguṇavarṇanā-parikathā:65"/>prāṇināṃ loṣṭadaṇḍādihiṃsābhāvād arogatā || [16]
+<lb n="SA_T01_Vasubandhu_Saptaguṇavarṇanā-parikathā:66"/>%|nad pa&#x27;i bsnyen bkur byas sman pa| |sman ni rab tu byin pa dang|
+<lb n="SA_T01_Vasubandhu_Saptaguṇavarṇanā-parikathā:67"/>%|srog chags bod pa dbyig sogs kyis| |&#x27;tshe ba med las nad med yin|
+<lb n="SA_T01_Vasubandhu_Saptaguṇavarṇanā-parikathā:68"/>surūpatvam alaṃkāradānād akrodhasevanāt |
+<lb n="SA_T01_Vasubandhu_Saptaguṇavarṇanā-parikathā:69"/>anīrṣyāphalam apy atra saubhāgyaṃ parikīrtitam || [17]
+<lb n="SA_T01_Vasubandhu_Saptaguṇavarṇanā-parikathā:70"/>%|khro bo med la brten pa dang| |brgya byin pas ni gzugs bzang nyid| % rgyan byin pas!
+<lb n="SA_T01_Vasubandhu_Saptaguṇavarṇanā-parikathā:71"/>%|phrag dog med pa&#x27;i &#x27;bras bu nyid| |skal pa bzang por yongs su bshad|
+<lb n="SA_T01_Vasubandhu_Saptaguṇavarṇanā-parikathā:72"/>satkulaṃ mānam utsṛjya satāṃ satkārapūjanaiḥ |
+<lb n="SA_T01_Vasubandhu_Saptaguṇavarṇanā-parikathā:73"/>prāpyate bhogasaṃpattir dānāc cauryanivṛttitaḥ || [18]
+<lb n="SA_T01_Vasubandhu_Saptaguṇavarṇanā-parikathā:74"/>%|dam pa mchod cing bsnyen bkur byas| |nga rgyal spangs pas rigs mthor &#x27;gyur|
+<lb n="SA_T01_Vasubandhu_Saptaguṇavarṇanā-parikathā:75"/>%|spyin byed rku ba las ldog pas| |longs spyod phun sum tshogs thob &#x27;gyur|
+<lb n="SA_T01_Vasubandhu_Saptaguṇavarṇanā-parikathā:76"/>kiṃ nu pāpaṃ śubhaṃ veti samyakpraśnapariśramaiḥ |
+<lb n="SA_T01_Vasubandhu_Saptaguṇavarṇanā-parikathā:77"/>dharmaśāstrapradānāc ca vistīrṇamatir āpyate || [19]
+<lb n="SA_T01_Vasubandhu_Saptaguṇavarṇanā-parikathā:78"/>%|dge dang sdig pa gang yin zhes| |yang dag dri la btson pa dang|
+<lb n="SA_T01_Vasubandhu_Saptaguṇavarṇanā-parikathā:79"/>%|chos kyi bstan bcos byin pa yis| |blo gros rgya chen thob par &#x27;gyur|
+<lb n="SA_T01_Vasubandhu_Saptaguṇavarṇanā-parikathā:80"/>saptaguṇavarṇanā parikathā samāptā ||
+<lb n="SA_T01_Vasubandhu_Saptaguṇavarṇanā-parikathā:81"/>|yon tan bdun yongs su @169a *| |brjod pa&#x27;i gtam| slob dpon dbyig gnyen gyis mdzad pa rdzogs so|| ||rgya gar gyi mkhan po pandi ta gangg&#x27;a ta ra dang| zhu chen gyi lo ts&#x27;a ba dge slong rin chen bzang pos bsgyur cing zhus te gtan la phab pa&#x27;o||
+    </body>
+  </text>
+</TEI>
